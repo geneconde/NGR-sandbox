@@ -1,0 +1,1094 @@
+msgid ""
+msgstr ""
+"aaaaaProject-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"Project-Id-Version: natural resources\n"
+
+# 1
+msgid "Welcome to the Natural Resources review"
+msgstr "歡迎來到「自然資源」單元，"
+
+msgid "Let's begin"
+msgstr "開始囉！"
+
+msgid "Start"
+msgstr "開始"
+
+# 2
+msgid "Natural Resources"
+msgstr "自然資源"
+
+msgid "Thinking about... natural resources"
+msgstr "想一想... 關於「自然資源」"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+msgid ""
+"Have you ever thought about everything that it takes to meet your needs and "
+"make your life comfortable? And where it all comes from? What does it take "
+"to make the heat and air conditioning work? Energy! Where does that energy "
+"come from? How about when you get thirsty or hungry? Water and food - where "
+"do they come from? Nature – that's where. All of the things we take for "
+"granted to help us survive and make our lives enjoyable are either materials "
+"or energy found in nature. We call these materials and energy natural "
+"resources. Just think about what your everyday life would be like if natural "
+"resources didn't exist."
+msgstr ""
+"你有沒有想過，那一切滿足你的需求並使生活舒適的事物呢？這一切從何而來？怎樣才"
+"能使暖氣和冷氣動起來呢？答案是：「能源！」，但能源從何而來？還有，當你渴了或"
+"餓了，怎麼辦？水和食物，是哪裡來的？答案是：「大自然！」。大自然中的材料或能"
+"源，提供我們所有生存、舒適的需要。我們稱這些材料和能源為「自然資源」。想想，"
+"如果沒有了天然資源，你的生活會是怎樣呢？"
+
+# 3
+msgid "Checking what you know... about natural resources"
+msgstr "看看你了解多少... 關於「自然資源」"
+
+msgid ""
+"Which of the following natural resources does it take to make a hamburger? "
+"Click <span class='blink'>all</span> items that represents your answer."
+msgstr ""
+"做漢堡需要用到下列哪些「自然資源」？請點擊<span class='blink'>所有正確的選項"
+"</span>。(複選)"
+
+msgid "Sunlight"
+msgstr "陽光"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Grass"
+msgstr "草"
+
+msgid "Electricity"
+msgstr "電力"
+
+msgid "Soil"
+msgstr "土壤"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid ""
+"Did you select all of them? All of them are true except electricity. We do "
+"use electricity to make our burgers but electricity is not a natural "
+"resource. Electricity is a form of energy that is generated from many kinds "
+"of natural resources such as coal, wind, solar, nuclear fuel, or oil, but "
+"it's not a natural resource by itself."
+msgstr ""
+"您是否選擇了所有的項目？除了電力以外，所有的選項都是正確的。雖然我們使用的"
+"「電力」來製作漢堡，而且電力是從多種自然資源，如煤炭、風能、太陽能、核能燃料"
+"或石油產生的能量的，不過，它本身並不是一種「自然資源」。"
+
+msgid ""
+"What does grass have to do with your hamburger? Well the cow had to eat "
+"something to grow and become delicious beef. What about soil, water and air? "
+"Read on to see what natural resources are and what your role is in "
+"conserving them."
+msgstr ""
+"那麼，「草呢？」，草跟漢堡有什麼關係？那是因為，美味的牛肉是因為牛吃了草才能"
+"長成。那土壤、水和空氣呢？請繼續仔細閱讀這一單元，看看「自然資源」是什麼還有"
+"在「保護自然資源」方面，你可以扮演什麼樣的角色！"
+
+msgid "Eating hamburger..."
+msgstr "吃漢堡..."
+
+# 4
+msgid "Reviewing core ideas... about natural resources"
+msgstr "複習核心觀念... 關於「自然資源」"
+
+msgid ""
+"Natural resources are important to the survival of living things. Some are "
+"so important that living things die without them. Living things need air to "
+"breathe, water to drink, food to eat, and shelter for protection. These "
+"natural resources are essential for survival."
+msgstr ""
+"自然資源對生物的生存很重要。有些重要到生物沒有它們就會死亡。生物都需要有空氣"
+"來呼吸、有水來喝、有食物吃、有地方住。這些自然資源是生存所必需的。"
+
+msgid ""
+"Animals need food for their energy source. They are different based on what "
+"they eat. Herbivores mainly eat plants; carnivores mainly eat other animals, "
+"while omnivores eat both plants and animals."
+msgstr ""
+"動物需要食物作為能量來源。動物可以根據吃什麼而有不同分類。草食性動物主要吃植"
+"物、肉食性動物主要吃其它動物、而雜食動物則植物和動物兩者都吃。"
+
+msgid ""
+"Most living things directly obtain from nature what they need for survival. "
+"A deer eats grass in a field, drinks water from a stream, and sleeps under a "
+"tree."
+msgstr ""
+"大多數生物從自然直接獲取它們生存所需。鹿在草地上吃草、從溪水中飲水、並在樹下"
+"睡覺。"
+
+msgid ""
+"But humans go beyond simply taking resources from nature to satisfy their "
+"needs. They use resources to make all kinds of things that they don't need "
+"for survival. Humans also use natural resources to create things that make "
+"life easy, comfortable and happy – like cars, and cell phones, and fancy "
+"clothes, basketballs and all the other stuff for everything they do. And all "
+"of this stuff is made from natural resources provided by the earth."
+msgstr ""
+"但人類，從自然界中耗費的資源，比它們基本生活所需多太多了！人類使用資源來製造"
+"生存不一定必須的各種事物，他們創造各種物品讓生活更方便、舒適和快樂──例如汽"
+"車、手機、時髦的衣服、籃球等等...。而這些所有東西，都是從地球所提供的「自然資"
+"源」所製成的。"
+
+msgid ""
+"<span class='key'>Natural resources</span> are anything found in nature that "
+"was not created by man."
+msgstr ""
+"<span class='key'>自然資源</span>是大自然中一切，不是由人類所創造的事物。"
+
+msgid "Enumerating natural resources..."
+msgstr "列舉自然資源..."
+
+# 5
+msgid "Question A. Natural resource is anything that humans..."
+msgstr "問題A. 下列有關「自然資源」的敘述，何者較為適當。"
+
+msgid "Invent or build"
+msgstr "是人類發明或建造的"
+
+msgid "Design or create"
+msgstr "是人類設計或創造的"
+
+msgid "Have not created"
+msgstr "並不是人類所創造的"
+
+msgid "Use to meet their needs"
+msgstr "就是用來滿足人類需求的"
+
+msgid ""
+"Question B. Trees are natural resources. Click on the <span "
+"class='blink'>correct</span> reason for this."
+msgstr ""
+"問題B. 為什麼我們認為樹木是「自然資源」？請選出下列選項中，<span "
+"class='blink'>較合適的理由</span>。"
+
+msgid "Trees are a source for firewood."
+msgstr "樹是柴火的來源。"
+
+msgid "Trees have the ability to regrow once they are cut down."
+msgstr "樹一旦被砍伐有重新生長的能力。"
+
+msgid ""
+"Trees grow in nature and provide people with lumber, fuel, and other "
+"products."
+msgstr "樹木在自然中生長，為人們提供木材、燃料與其它產品。"
+
+msgid "Trees provide shade necessary for certain animals."
+msgstr "樹木對某些動物提供遮蔽的陰影。"
+
+msgid ""
+"No, a natural resource is anything from nature. These are things in the "
+"environment humans did not invent or build. They have built great things "
+"over time, but these things are not natural resources."
+msgstr ""
+"不對喔！「自然資源」是從大自然來的，它們不是人類發明或建造的。人類曾經發明並"
+"建造過偉大的事物，但這些東西都不屬於自然資源。"
+
+msgid ""
+"No, a natural resource is anything found in the environment not designed or "
+"created by humans. They use their creativity to solve problems by making new "
+"things, but these are not natural resources."
+msgstr ""
+"不對喔！「自然資源」是從大自然來的，它們不是人類發明或建造的。人類利用自己的"
+"創造力，製作新的東西來解決問題，但這些都不是自然資源。"
+
+msgid ""
+"Yes, a natural resource is anything from the environment humans did not "
+"create. Natural resources are simply found in nature."
+msgstr ""
+"答對了！「自然資源」是環境中不是由人類創造的所有事物。自然資源都是可以從自然"
+"界中找到的。"
+
+msgid ""
+"No, a natural resource is anything in the environment humans did not create. "
+"Humans make a lot of things to meet their needs, which are great resources, "
+"but are just not natural resources."
+msgstr ""
+"不對喔！自然資源」是環境中不是由人類創造的所有事物。人類製造很多東西來滿足他"
+"們的需求，這些東西也是很有用的資源，但不是自然資源。"
+
+msgid ""
+"Yes, trees are natural resources because they grow in nature and humans use "
+"many products from trees."
+msgstr ""
+"答對了！樹木是自然資源，因為它們生長在自然界而且人類使用的許多物品都是從樹來"
+"的。"
+
+msgid ""
+"No, trees are natural resources because humans use many products from trees."
+msgstr ""
+"不對喔！樹木是自然資源，因為它們生長在自然界而且人類使用的許多物品都是從樹來"
+"的。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉 ..."
+
+# 6
+msgid "More core ideas... about natural resources"
+msgstr "更多核心觀念...關於「自然資源」"
+
+msgid ""
+"Animals adapt to their climate and living conditions. When cold, some birds "
+"migrate to warmer areas. Other animals have thick fur to keep them warm. In "
+"warm areas, some animals stay out of the heat by hunting for food at night "
+"and resting during the day. Humans adapt differently however. They simply "
+"turn the air conditioner on when hot and increase the heat when cold. These "
+"make them need <span class='key'>fuel</span> for <span class='key'>energy</"
+"span>, in order for their appliances and machines (e.g. light bulbs, heater, "
+"cars) to work."
+msgstr ""
+"動物能適應氣候和生活條件。冷的時候，一些鳥類遷移到較溫暖的地方，一些其它動物"
+"也有厚厚的皮毛禦寒；在炎熱地區，一些動物在夜間獵取食物而在白天休息。人類也有"
+"不同的適應方式，他們在炎熱時打開空調，冷的時候打開暖氣；這使他們需要<span "
+"class='key'>燃料</span>作為<span class='key'>能源</span>，以便使他們的設備和"
+"機器（例如燈泡、暖器、汽車）運作。"
+
+msgid ""
+"And where does the energy come from? You're right! Natural resources are "
+"derived from the earth - petroleum from underground to make gasoline, "
+"sunlight as solar energy to produce electricity, wind for turbine, river "
+"water as hydroelectricity for generators, and coal for power plants. These "
+"natural resources provide the energy needed to produce and run everything in "
+"our modern human world."
+msgstr ""
+"但，能量從何而來？你說得對：「...自然資源是來自大自然的。例如地底的石油變成汽"
+"油、太陽的能量用來發電、風力推動渦輪、河水用作水力發電、煤炭則可用於火力發"
+"電」。這些自然資源提供必要能量，以供現代人類世界的一切生產運作的需要。"
+
+msgid ""
+"It is important to know that using the earth's natural resources for our "
+"needs has an impact on the environment. This impact is often harmful to both "
+"nature and humans. When coal or gasoline is burned to make electricity or "
+"run our cars, the burning process pollutes the air making climate change "
+"possible. This climate change may cause severe weather conditions such as "
+"droughts, floods, wildfires, hurricanes as well as sea level changes in "
+"different parts of the world. So we need to be careful how we use natural "
+"resources so we don't cause any negative effect on the environment."
+msgstr ""
+"我們必須知道，因為人類基於需要而使用自然資源時，都會對環境造成衝擊，這種衝擊"
+"往往是同時是對自然和人類都有害處的。當燃燒煤或汽油以供電或使車輛行使，燃燒過"
+"程中會污染空氣並可能造成氣候變遷，進而可能會導致惡劣的天氣條件，如乾旱、洪"
+"水、野火、颶風以及海平面高度的變化。因此我們需要審慎使用自然資源，才不會對環"
+"境造成負面影響。"
+
+msgid "Burning gasoline..."
+msgstr "燃燒汽油... "
+
+# 7
+msgid ""
+"Question A. Which of the following energy resources is <span "
+"class='blink'>not</span> an alternative to fossil fuels?"
+msgstr ""
+"問題A. 下列哪一項，<span class='blink'>並不是</span>化石燃料的替代能源？"
+
+msgid "Nuclear energy"
+msgstr "核能"
+
+msgid "Energy from natural gas"
+msgstr "天然氣能源"
+
+msgid "Solar Energy"
+msgstr "太陽能"
+
+msgid "Energy from wind"
+msgstr "風能"
+
+msgid ""
+"Question B. There is a larger demand for energy resources now than in the "
+"past because now the world:"
+msgstr "問題B. 現在比過去對能源需求更大的原因，是因為現在的世界："
+
+msgid "Has a larger resource base."
+msgstr "有較多的天然資源。"
+
+msgid "Uses fewer industry products now."
+msgstr "使用的工業產品比以前少。"
+
+msgid "Has more people than before."
+msgstr "有比以前更多的人。"
+
+msgid "Does not need as much energy."
+msgstr "並不需要那麼多的能源。"
+
+msgid "Storing energy..."
+msgstr "存儲能源..."
+
+msgid ""
+"No, the resources are decreasing because people are using them up. Also, "
+"human population is larger now."
+msgstr "不對喔！資源正在減少，因為人們正用盡它們。此外，人類人口現在變多了。"
+
+msgid ""
+"No, people use a lot of industry products today, but natural resources are "
+"needed to make these products. There is now a large population with limited "
+"resources."
+msgstr ""
+"不是，人們今天了更多的工業產品，而且製造這些產品都需要自然資源。此外，現在有"
+"更多人口，但資源有限。"
+
+msgid ""
+"Yes, there is a larger population today. With advances in medicine and "
+"technology, people do not die as quickly as they did before. Meanwhile, all "
+"the people use up more and more resources."
+msgstr ""
+"答對了！現在比以前，有更多的人口，且隨著醫學和科技的進步，人們壽命變長；同"
+"時，人類使用越來越多的資源。"
+
+msgid ""
+"No, there are more people in the world today and they do use up a lot of "
+"energy. So the population is growing with very limited resources to use."
+msgstr ""
+"不對喔！現在比起前，有更多的人口；人類確實使用了大量的能源。可以說，人口漸漸"
+"增長但資源有限。"
+
+msgid ""
+"No. Nuclear energy is a clean, safe alternative that does not burn fuel like "
+"coal. There are no pollutants released into the air."
+msgstr ""
+"不對喔！核能並沒有用到化石燃料，所以它確實可以算是一種化石燃料的替代品。"
+
+msgid ""
+"Yes. Coal, natural gas, and petroleum are fossil fuels. Other energy sources "
+"are energy source alternatives."
+msgstr "是的。煤、天然氣和石油是化石燃料。其它能源是能源的替代品。"
+
+msgid ""
+"No. Solar energy is the radiation from the sun that hits the earth and is "
+"converted into heat and electricity. It does not cause pollution when it is "
+"produced or used."
+msgstr ""
+"不對喔！太陽能是從照射到地球的太陽能量轉換成熱能和電能，所以它確實可以算是一"
+"種化石燃料的替代品。"
+
+msgid ""
+"No. Converting energy from wind (e.g. heat, electricity) does not burn "
+"fossil fuel. It can be noisy but it is a clean alternative."
+msgstr ""
+"不對喔！從風轉換成能源不需燃燒化石燃料。所以它確實可以算是一種化石燃料的替代"
+"品。"
+
+# 8
+msgid ""
+"Natural resources can be classified into two groups: renewable and non-"
+"renewable. <span class='key'>Renewable resources</span> are those "
+"automatically replenished by nature. Examples are:"
+msgstr ""
+"自然資源可分為兩類：「再生資源」和「不可再生資源」。 <span class='key'>再生資"
+"源</span>是指，大自然可以自己再生成補充的那些資源。例如："
+
+msgid "It usually rains to add more water back to the environment."
+msgstr "通常下雨就會將水分補充回環境中。"
+
+msgid "Trees and other plants"
+msgstr "樹木和其它植物"
+
+msgid "They grow back and reproduce."
+msgstr "它們會重新生長和繁殖。"
+
+msgid "Fish and other animals"
+msgstr "魚和其它動物"
+
+msgid "They also reproduce"
+msgstr "它們也會進行繁殖"
+
+msgid ""
+"Humans play a very important role in replenishing (filling up again) "
+"renewable resources. Without humans affecting natural cycles, natural "
+"resources would replenish themselves. But when humans use and deplete these "
+"natural resources, they also need to be responsible in making sure there "
+"will be more of these resources for the future. Humans can take positive "
+"action to preserve renewable natural resources like planting more trees "
+"before cutting old ones down and making sure there are enough animals for "
+"reproduction."
+msgstr ""
+"人類如果能夠不影響自然界的循環，大自然有自我補充自然資源的能力。但是，當人類"
+"利用並消耗時，就對自然造成衝擊了。因此，人類在是否能讓「再生資源」得到足夠的"
+"填補，扮演著重要角色；我們有責任確保在未來還能有更多這些資源可用。人類應該採"
+"取積極的行動來保護可再生的自然資源：例如，在砍倒老樹前種植更多樹木，確保動物"
+"可以在這環境中繼續繁殖。"
+
+msgid ""
+"The other classification of resources is <span class='key'>non-renewable "
+"resources</span>. These are resources not automatically replenished by "
+"nature. Examples are coal, minerals, metals, and petroleum. Once humans mine "
+"all of the coal or pump out all the oil from the ground, there will not be "
+"anything left because it takes millions of years for nature to replenish "
+"these types of natural resources."
+msgstr ""
+"另一種類別的資源是，<span class='key'>不可再生資源</span>，這是指：大自然無法"
+"在短時間內自己生成並補充的資源：例如煤炭、礦產、金屬和石油。一旦人類從地底挖"
+"走所有煤礦或石油，這些就會完全消失，因為大自然需要數百萬年的時間才能再次產生"
+"並補充這類自然資源。"
+
+msgid ""
+"One kind of non-renewable resources is called fossil fuels. They are the "
+"result of fossilized plants that grew on earth millions of years ago, and "
+"have turned into coal or petroleum inside the earth over a long period of "
+"time. Humans need to <span class='key'>conserve</span> these resources and "
+"use them wisely so they do not run out. Through research and experiment, "
+"humans need to find alternative energy sources so they do not always have to "
+"rely on non-renewable resources for energy."
+msgstr ""
+"在「不可再生資源」中，「化石燃料」是其中的一類。它們是在地球上數百萬年前生長"
+"的動、植物化石，經過很長一段時間後，在地球內部變成了煤或石油。人類一定要"
+"<span class='key'>節約資源</span>並明智地使用它們，使它們不會被用盡。另一方"
+"面，人類還需要藉由研究和實驗，尋找替代能源；如此，才能不必永遠依賴著「不可再"
+"生資源」。"
+
+msgid "Collecting fossil fuels..."
+msgstr "收集化石燃料..."
+
+# 9
+msgid "Question A. What does it mean to conserve natural resources?"
+msgstr "問題A. 節約自然資源的意思是？"
+
+msgid "Stop the use of energy resources."
+msgstr "停止使用能源資源。"
+
+msgid "Use natural resources wisely."
+msgstr "明智地使用自然資源。"
+
+msgid "Stockpile the resources to use them in the future."
+msgstr "囤積資源以便在未來使用。"
+
+msgid "Increase deposits of natural resources."
+msgstr "增加自然資源的存量。"
+
+msgid ""
+"Question B. What is the main difference between renewable and non-renewable "
+"resources?"
+msgstr "問題B. 「可再生」和「不可再生」資源之間的主要區別，是...？"
+
+msgid ""
+"All non-renewable resources pollute the environment, renewable resources do "
+"not."
+msgstr "所有「不可再生資源」都會污染環境，「再生資源」不會。"
+
+msgid ""
+"All non-renewable resources need to be conserved, renewable resources do not."
+msgstr "所有「不可再生資源」都需要節約，「再生資源」不需要。"
+
+msgid ""
+"There is a limited amount of renewable resources, and not of non-renewable "
+"resources."
+msgstr "「再生資源」數量有限，而「不可再生資源」沒有限制的。"
+
+msgid ""
+"There is a limited amount of non-renewable resources, but renewable "
+"resources can be replenished."
+msgstr "「不可再生資源」數量有限，但「再生資源」可以被補充。"
+
+msgid "No, to conserve natural resources means to use them wisely."
+msgstr "不對，節約自然資源是指明智地使用它們。"
+
+msgid "Yes, to conserve natural resources means to use them wisely."
+msgstr "答對了！節約自然資源，就是指明智地使用它們。"
+
+msgid ""
+"No, there is a limited amount of non-renewable resources, and an unlimited "
+"amount of renewable resources."
+msgstr ""
+"不對，它們的主要區別是：「不可再生資源」數量是有限的，而「再生資源」數量是無"
+"限的。"
+
+msgid ""
+"Yes, there is a limited amount of non-renewable resources, and renewable "
+"resources can be replenished if managed wisely."
+msgstr ""
+"答對了！它們的主要區別是：「不可再生資源」數量是有限的，而「再生資源」如果明"
+"智地管理則可以被適當地補充。"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後的小練習了嗎？"
+
+# 10
+msgid "Using what you know... about natural resources... to solve a problem"
+msgstr "運用你所知道的... 關於「自然資源」... 來解決問題"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid ""
+"Suppose you were given the assignment of building a brand new beautiful city "
+"wherein people could live in harmony with nature and never run out of what "
+"they need to live comfortably."
+msgstr ""
+"假設你被賦予建設一個全新的美麗的城市的任務，讓人們能生活在其中並與自然和諧相"
+"處，且永遠不會用盡他們生活舒適所需要的資源。"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid ""
+"Describe and explain some features you would design into your new city to "
+"use natural resources wisely."
+msgstr "請問，你設計的新城市中，節約自然資源的特色有哪些？請描述並解釋。"
+
+msgid "Building a new city..."
+msgstr "建設一個新的城市..."
+
+# 11
+msgid "Summarizing core ideas... about natural resources"
+msgstr "總結核心觀念... 關於「自然資源」"
+
+msgid ""
+"All living things need the earth's natural resources to survive. Human "
+"beings use more of these resources than most animals not only to survive but "
+"also to be comfortable. People use <span class='key'>natural resources</"
+"span> for almost everything on a daily basis. Some of these resources are "
+"used to produce things - like wood from trees to make houses. Others natural "
+"resources are used for <span class='key'>energy</span> needed to make "
+"appliances and machines work - like oil and coal to power cars and heat our "
+"homes. Some of the natural resources humans need are renewable – which means "
+"they may form naturally again after being used. Examples of <span "
+"class='key'>renewable resources</span> are trees and water. <span "
+"class='key'>Non-renewable resources</span> on the other hand, are those that "
+"are gone forever after they are used up. Examples of these are minerals and "
+"metals, coal, natural gas, and petroleum. People need to <span "
+"class='key'>conserve</span> these resources so they do not run out. "
+"Conservation means using resources wisely and carefully so we don't run out "
+"of them."
+msgstr ""
+"所有的生物都需要地球上的「自然資源」才能生存。人類比大多數的動物耗費更多這些"
+"資源，因為人類不僅只求生存，而且還求過的更舒適。人們的生活中，幾乎所有事物都"
+"使用著<span class='key'>自然資源</span>。這些資源有的被用於生產東西，像從樹木"
+"取木材蓋房子；有些則被用作<span class='key'>能量</span>，來使器具及機器運作："
+"如，石油和煤炭讓汽車有動力和提供家庭供暖。一些人類需要的自然資源是屬於<span "
+"class='key'>再生資源</span>──也就是，它們被使用之後可以再次自然生成，例如，樹"
+"木和水；另一方面，有一些稱作<span class='key'>不可再生資源</span>，指的是，那"
+"些用過後就不會再有的：例如，礦物、金屬、煤、天然氣和石油。人們需要<span "
+"class='key'>節約</span>這些資源，所謂「節約」──是指明智和謹慎的利用資源，使它"
+"們不會被耗盡。"
+
+msgid "Putting it all together..."
+msgstr "總結一下哦..."
+
+# 12
+msgid "Reviewing key vocabulary related to... natural resources"
+msgstr "複習主要名詞...關於「自然資源」"
+
+msgid ""
+"Natural resources are anything found in nature which are not created by "
+"humans. Trees, coal, and water are examples of natural resources."
+msgstr ""
+"「自然資源」是指，大自然中一切不是由人類所創造的事物。樹木、煤和水是自然資源"
+"的例子。"
+
+msgid "Natural resources"
+msgstr "自然資源"
+
+msgid "Renewable resources"
+msgstr "再生資源"
+
+msgid ""
+"Renewable resources are plentiful and are quickly replenished in nature, "
+"such that they do not run out when used by humans. Examples of renewable "
+"resources are wind, water, and trees."
+msgstr ""
+"「再生資源」是指，大自然可以迅速補充回復的那些資源；當人類利用它們時，它們不"
+"會被用盡。例如：風、水、和樹木。"
+
+msgid "Non-renewable resources"
+msgstr "不可再生資源"
+
+msgid ""
+"Some natural resources, called fossil fuels, are replenished slowly or not "
+"at all, making them non-renewable. Non-renewable resources cannot be quickly "
+"or easily replaced once they are used up."
+msgstr ""
+"「不可再生資源」，是指：大自然無法在短時間內自己生成並補充的資源。例如，化石"
+"燃料就是一種「不可再生資源」，當一旦被用完，無法迅速補充。"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid ""
+"Energy is the ability to do work. All living things require energy to "
+"survive. Energy is obtained by producers, such as plants - through "
+"photosynthesis, by using the sun's light energy. Energy is obtained by "
+"consumers, such as people, through consuming producers or other consumers."
+msgstr ""
+"「能量」是工作的能力。所有的生物都需要能量才能生存。食物網中的「生產者(植"
+"物)」， 透過光合作用，吸收陽光獲得能量；「消費者(例如人類)」，以生產者或其它"
+"較低等級的「消費者」作為食物，來獲取能量。"
+
+msgid "Fuel"
+msgstr "燃料"
+
+msgid ""
+"Fuel is a material, such as gas, that is used for energy. Fuel is needed for "
+"appliances and machines to work; thus, fuel is very important!"
+msgstr ""
+"「燃料」是一種物質，例如天然氣，就是用來作為一種能源。設備和機器的運轉需要燃"
+"料;因此，燃料是非常重要的！"
+
+msgid "Conserve"
+msgstr "節約"
+
+msgid ""
+"To conserve resources means to use them wisely so they do not run out. An "
+"example of energy conservation is the use of renewable energy, such as wind "
+"energy."
+msgstr ""
+"「節約資源」，指的是明智地使用資源，使它們不會被用盡。節約能源的一個方式是，"
+"儘量使用可再生能源，例如風能。"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+# 13
+msgid "Checking what you now know... about natural resources"
+msgstr "看看你現在了解了多少... 關於「自然資源」"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# 14
+msgid ""
+"In order to conserve oil that is used to make gasoline people could do all "
+"of the following <span class='blink'>except</span>:"
+msgstr ""
+"為了節約被用來製造汽油的石油，下列哪一件事情<span class='blink'>是最不恰當的"
+"</span>："
+
+msgid "Use public transportation like buses more."
+msgstr "多使用大眾交通工具，例如公車等。"
+
+msgid "Ride their bikes instead of driving cars."
+msgstr "騎腳踏車取代開車。"
+
+msgid "Buy fuel efficient vehicles."
+msgstr "購買低油耗汽車。"
+
+msgid "Get a motorhome to go on vacation."
+msgstr "買一台像大貨櫃車那麼大的渡假車做渡假用。"
+
+msgid ""
+"No. Using public transportation would be a great way to conserve oil because "
+"it would help save gasoline by driving cars less."
+msgstr ""
+"不對喔！搭乘大眾交通工具是一種節省油的好方法，因為它比開車能節省更多汽油。"
+
+msgid ""
+"Sorry. This would be a great way to conserve oil since riding a bike uses no "
+"gasoline."
+msgstr "不對喔！這是個節省油的好方法，因為騎腳踏車不會用到汽油。"
+
+msgid ""
+"Nope. Buying fuel-efficient vehicles would use less gasoline so it would "
+"help conserve oil."
+msgstr "不。購買節能型汽車將使用更少的汽油，因此將有助於節省油。"
+
+msgid ""
+"Yes! Even though going on vacation is a great experience and lots of fun, "
+"those big motor homes don't get very good gas mileage so they use a lot of "
+"gas and the oil gas is made from petroleum which is a non-renewable natural "
+"resource."
+msgstr ""
+"沒錯！隨然說，去渡假是個好體驗也很歡樂，但那些大型車很耗油，它們會使用大量的"
+"汽油，而汽油是從石油提煉的一種「不可再生資源」。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+# 15
+msgid ""
+"Choose the correct statement about natural resources. Rotate or flip the 3D "
+"box below either up or down to set your answer."
+msgstr ""
+"下列何者是關於「自然資源」的正確敘述？請向上或向下翻轉下方的3D方塊，作答。"
+
+msgid "Wind and solar energy are the most important energy developed so far."
+msgstr "風能和太陽能，是人類所開發的所有能源中最重要的。"
+
+msgid "Everybody should drive electric cars with rechargeable batteries."
+msgstr "每個人都應該開電動車並用充電電池。"
+
+msgid "In the future we will run out of fossils fuels."
+msgstr "在未來，我們將耗盡化石燃料。"
+
+msgid "Fossil fuels are the only natural resource that do not cause pollution."
+msgstr "化石燃料是唯一不引起污染的自然資源。"
+
+msgid "Click, hold and drag up or down"
+msgstr "點選、按住並同時滑動滑鼠"
+
+msgid "Conserving resources..."
+msgstr "節約資源..."
+
+msgid ""
+"Not Quite. While wind and solar energy are important because they are clean "
+"and non-polluting energy sources – petroleum and coal-based energy is more "
+"important because it is so widely used for automobiles, heating and "
+"electricity generation."
+msgstr ""
+"不完全是。雖然風能和太陽能是乾淨、無污染的能源，相當重要；但是，對現在的生活"
+"來說，石油和煤為主的能源更為重要，因為它們廣泛用於汽車、供暖和發電。"
+
+msgid ""
+"Not quite! It would be good if more people would drive electric cars but it "
+"is not currently practical. And electric battery powered cars still use coal "
+"and petroleum to generate the electricity necessary to recharge them."
+msgstr ""
+"不對喔！雖然，更多人駕駛電動車將是一件好事；但目前電動車還不實用，而且它的電"
+"池仍使用煤炭和石油來產生充電所需的電力。"
+
+msgid ""
+"Yes! Fossil fuels like coal and petroleum are non-renewable natural "
+"resources so they will eventually all get used up and we will run out of our "
+"supply of them."
+msgstr ""
+"沒錯！「化石燃料」，如煤和石油，是「不可再生」的自然資源，它們最終將會被耗"
+"盡，到時候我們將會沒有化石燃料可用。"
+
+msgid ""
+"No. The use of fossil fuels for gas in automobiles and coal in power plants "
+"cause a great deal of pollution."
+msgstr ""
+"不對喔！「化石燃料」，不管是作為汽車的汽油和發電廠的煤炭，燃燒時都造成極大汙"
+"染。"
+
+# 16
+msgid ""
+"Recycling is a way to conserve natural resources. Which is the best example "
+"of how recycling contributes to the wise and effective use of natural "
+"resources?"
+msgstr ""
+"「回收再利用」是一種節約自然資源的方法。下列那一項，是它能幫助節約自然資源的"
+"最好理由？"
+
+msgid "Recycling prevents garbage from being burned."
+msgstr "「回收再利用」，就不必再焚燒掉垃圾了。"
+
+msgid "It saves fuel used for garbage trucks."
+msgstr "「回收再利用」，節省了用於垃圾車的燃料。"
+
+msgid ""
+"By reusing natural resource materials instead of using new sources of "
+"natural resources."
+msgstr "藉由「回收再利用」自然資源，可避免新自然資源的耗損。"
+
+msgid "By reducing the amount of money spent on making plastic bags."
+msgstr "減少花在製造塑膠袋的錢。"
+
+msgid "Installing solar panel..."
+msgstr "安裝太陽能板..."
+
+msgid ""
+"Not quite! Recycling does prevent some garbage from being burned but that "
+"doesn't conserve natural resources."
+msgstr "不對喔！回收利用確實防止一些垃圾被焚燒，但這並沒有節約自然資源。"
+
+msgid ""
+"Nope! Recycling does save a little bit of gas used in garbage trucks but "
+"many areas have a separate truck that picks up the recycling or your family "
+"has to drive to the recycling center to drop it off."
+msgstr ""
+"不對喔！回收確實節省了一點垃圾車的燃料，但處理這些回收物也是需要其它車輛的燃"
+"料。"
+
+msgid ""
+"Yes! By reusing natural resource materials like glass, or cans, or "
+"newspapers, new sources of natural resources like cutting trees or mining "
+"metals or sand don't have to be done."
+msgstr ""
+"沒錯！重複使用自然資源材料：如玻璃、或鐵罐、或報紙；那麼浪費新的資源：像是砍"
+"樹或採金屬或砂礦，就比較不會發生了。"
+
+msgid ""
+"Not Really. Saving money on reusing plastic bags doesn't conserve many "
+"natural resources but it's a good thing to do anyway since those bags take "
+"thousands of years to rot away in the garbage dump and often blow all over "
+"the place."
+msgstr "不對喔！減少製造塑膠袋的金錢未必是在可慮節約資源。"
+
+# 17
+msgid ""
+"Aluminum is a natural resource used for building cars and buildings. Using "
+"natural resources usually produces waste products. How should aluminum be "
+"disposed of in a way that is best for the environment?"
+msgstr ""
+"人類使用自然資源製成物品，一段時間後就會產生廢棄品。鋁是一種用於製造汽車和建"
+"築物的自然資源。壞掉的鋁製品應該如何處理，才是最合適的？"
+
+msgid "Bury it in landfills"
+msgstr "把它埋在垃圾掩埋場"
+
+msgid "Burn it"
+msgstr "燒掉它"
+
+msgid "Recycle it"
+msgstr "回收利用"
+
+msgid "Crush it, then throw it away"
+msgstr "粉碎它，然後把它扔掉"
+
+msgid "Operating gasoline pump..."
+msgstr "汽油水泵的運作..."
+
+msgid ""
+"No, burying it in landfills can lead to disturbing animals' habitat and "
+"needlessly taking up space in the landfill."
+msgstr ""
+"不對，把它埋在垃圾掩埋場可能會導致干擾動物的棲息地，而且不必要地佔用垃圾掩埋"
+"場的空間。"
+
+msgid ""
+"Not really, aluminum is incombustible – it will not burn. However, it can be "
+"melted at a very high temperature to be recycled/reused."
+msgstr ""
+"不對，鋁是不可燃的 - 它不會燃燒。但是，它可以在非常高的溫度下熔化回收/再利"
+"用。"
+
+msgid ""
+"Correct! By recycling, you will have the least impact on the environment."
+msgstr "正確！通過回收，您將對環境的影響最小。"
+
+msgid ""
+"Not quite. Crushing it will help reduce the space it takes up, but throwing "
+"it away means wasting a resource that can be recycled."
+msgstr ""
+"不完全是。粉碎它將有助於減少它佔用的空間，但把它扔了代表浪費了可回收的資源。"
+
+msgid ""
+"What is the best way to describe how humans and animals need and use natural "
+"resources?"
+msgstr "下列有關，人類和其它動物使用自然資源的敘述，何者較為恰當？"
+
+msgid ""
+"Humans and animals both use natural resources to make themselves comfortable "
+"and happy."
+msgstr "人類和其它動物使用自然資源上，兩者在追求自己舒適快樂的程度是一樣的。"
+
+msgid ""
+"Humans and animals both take only the natural resources they need to survive."
+msgstr "人類和其它動物一樣，都只取用他們賴以生存的自然資源。"
+
+msgid ""
+"Animals use just the natural resources they need to survive but humans take "
+"more natural resources than are needed just to survive."
+msgstr ""
+"其它動物只使用它們需要生存的自然資源，但人類取用比需要生存更多的自然資源。"
+
+msgid ""
+"Humans and animals both take more natural resources than are needed just for "
+"survival."
+msgstr "人類和其它動物都取用超過生存所需的自然資源。"
+
+msgid "Gathering coal..."
+msgstr "收集煤..."
+
+msgid ""
+"Not quite. Humans use natural resources to make themselves comfortable and "
+"happy but animals just use what they need to survive."
+msgstr ""
+"不完全是。人類利用自然資源，使自己舒適和快樂；但其它動物一般只取用它們賴以生"
+"存的部分。"
+
+msgid ""
+"No. Animals just use what they need to survive but humans use natural "
+"resources to make themselves comfortable and happy."
+msgstr ""
+"不對喔！其它動物只取用它們賴以為生的部分；但人類利用自然資源，除了生存外，一"
+"大部分還在使自己舒適和快樂。"
+
+msgid ""
+"Yes - Animals use just the natural resources they need to just survive but "
+"humans take more natural resources than are needed just to survive."
+msgstr ""
+"是的。其它動物只取用它們賴以為生的自然資源；但人類取用比賴以維生更多的自然資"
+"源。"
+
+msgid ""
+"Not quite - Animals use just the natural resources they need to just survive "
+"but humans take more natural resources than are needed just to survive."
+msgstr ""
+"不太對喔！其它動物只取用它們賴以為生的自然資源；但人類取用比賴以維生所需更多"
+"的自然資源。"
+
+msgid ""
+"Use the pie charts about natural resources and how they are divided by "
+"regions to answer the question below. Click on <span class='blink'>all</"
+"span> the correct answers."
+msgstr ""
+"使用下列兩個「不同區域自然資源的圓餅圖」來回答下列問題。並點選<span "
+"class='blink'>所有正確的敘述</span>。(複選)"
+
+msgid "World Reserves by Region"
+msgstr "各區域世界儲量"
+
+msgid "North America"
+msgstr "北美洲"
+
+msgid "South/Central America"
+msgstr "中、南美洲"
+
+msgid "Europe"
+msgstr "歐洲"
+
+msgid "Russia"
+msgstr "俄國"
+
+msgid "Africa"
+msgstr "非洲"
+
+msgid "Middle East"
+msgstr "中東"
+
+msgid "Asia Pacific"
+msgstr "亞太地區"
+
+msgid "Coal"
+msgstr "煤"
+
+msgid "Oil"
+msgstr "油"
+
+msgid "North America has more of the earth's coal than oil."
+msgstr "北美洲擁有煤的比率多於石油。"
+
+msgid "The Middle East has the largest percentage of oil on earth."
+msgstr "中東的石油占地球上最大的百分比。"
+
+msgid "Russia is the third richest area in coal."
+msgstr "俄羅斯是第三大富含煤炭的地區。"
+
+msgid "The same areas which have a lot of oil also have a lot of coal."
+msgstr "擁有較多油的地區同樣也擁有較多煤。"
+
+msgid ""
+"Great job! Based on these pie charts, it seems that the areas with the most "
+"coal (Asia Pacific and North America) do not have as much oil resources. The "
+"Middle East is rich in oil, but not in coal."
+msgstr ""
+"做的好！根據這些圓餅圖，可以看出：北美洲擁有煤的比率多於石油；中東的石油占地"
+"球上最大的百分比；俄羅斯是第四大富含煤炭的地區；此外，看來似乎擁有最多煤的地"
+"區（亞太和北美）沒有很多石油資源，而中東地區有豐富的石油，但沒有煤炭。"
+
+msgid ""
+"Not quite. Based on these pie charts, it seems that the areas with the most "
+"coal (Asia Pacific and North America) do not have as much oil resources. The "
+"Middle East is rich in oil, but not in coal."
+msgstr ""
+"不完全對。根據這些圓餅圖，可以看出：北美洲擁有煤的比率多於石油；中東的石油占"
+"地球上最大的百分比；俄羅斯是第四大富含煤炭的地區；此外，看來似乎擁有最多煤的"
+"地區（亞太和北美）沒有很多石油資源，而中東地區有豐富的石油，但沒有煤炭。"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗嗎？"
+
+# 20
+msgid "Congratulations"
+msgstr "恭喜你囉"
+
+msgid "You've completed the Natural Resources review."
+msgstr "你已經完成了「自然資源」的單元。"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在'小練習'和'小測驗'的表現..."
+
+msgid "How Did I Do?"
+msgstr "我做得如何呢？"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "ا繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."

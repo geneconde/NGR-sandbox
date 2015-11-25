@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: earth-materials-and-systems\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Earth Materials and Systems"
+msgstr "地球的物質與系統"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我答的如何呢?"
+
+msgid "You answered..."
+msgstr "你的答案是..."
+
+msgid "select"
+msgstr "請選擇"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr "請旋轉或翻轉下面的方框，以選擇你的答案。點擊、按住並上下移動滑鼠。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並上下滑動鼠標來旋轉的框框，然後選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "情境"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6小題，可以了解哪些是你已經知道的，而哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵!"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Congratulations, "
+msgstr "恭喜你,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "請點擊下面的按鍵，查看你在「小測驗」和「小練習」中的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎，"
+
+msgid "Preparing your first quick check!"
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好要做最後的一個小測驗了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好要做最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "整理一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Welcome to the Earth Materials and Systems review"
+msgstr "歡迎來到「地球的物質與系統」單元"
+
+# 2
+msgid "Thinking about... earth materials and systems"
+msgstr "想一想...關於「地球的物質與系統」"
+
+msgid ""
+"Pretend you're an astronaut looking at the earth from outer space. What is "
+"the first thing you notice about the earth? It looks like a beautiful marble "
+"in space, and it's mostly blue. That's why some scientists call Earth the "
+"\"Blue Planet\", but you can also see three other colors that make up the "
+"earth too. What colors are they? And what earth materials do you think make "
+"up those colors?"
+msgstr ""
+"假設你是在外太空欣賞著我們地球的太空人，你注意到地球的第一件事將會是什麼？它"
+"看起來像一顆在宇宙間的美麗大理石，上面大部分是藍色。這就是為什麼有些科學家稱"
+"地球為〝藍色星球〞。此外，你也可以看到其它三種構成的地球的顏色。那些是什麼顏"
+"色呢？另外，你認為是什麼地球的「物質」造成了這些顏色?"
+
+msgid ""
+"The earth is one huge system that is made up of four subsystems that all "
+"interact to make our planet the beautiful, livable place we call home."
+msgstr ""
+"地球是由四個「次系統」交互作用組成的龐大「系統」。讓這個我們稱之為「家」的美"
+"麗星球，成為適合居住的地方。"
+
+# 3
+msgid "Checking what you know... about earth materials and systems"
+msgstr "看看你了解多少…關於「地球的物質與系統」"
+
+msgid ""
+"Which of the following do you think are earth materials? Click on <span "
+"class='blink'>all</span> of the pictures you think are earth materials."
+msgstr ""
+"你認為下列何者是組成地球的物質？點擊<span class='blink'>所有正確的</span>地球"
+"物質的圖片。"
+
+msgid "Rocks"
+msgstr "岩石"
+
+msgid "Soil/Dirt"
+msgstr "土壤/泥土"
+
+msgid "Sunlight"
+msgstr "陽光"
+
+msgid "Liquid water"
+msgstr "水"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid ""
+"Earth is made up of different kinds of material. Scientists have put all the "
+"different stuff on earth into categories called earth systems. Rock and soil "
+"are in one system, and water and snow are in another. Read on to find out "
+"more."
+msgstr ""
+"地球是由不同種類的「物質」組成，地球本身可以被看成是一個大的「系統」。科學家"
+"們再把地球上各種物質歸類，然後稱它們為地球「次系統」。例如，岩石和土壤可以被"
+"歸成同一個「次系統」中，水和雪則又可被看成是另一個「次系統」。請繼續閱讀以了"
+"解更多相關內容。"
+
+msgid "Studying earth systems..."
+msgstr "研究地球系統..."
+
+# 4
+msgid "Reviewing core ideas... about earth materials and systems"
+msgstr "回顧核心觀念...關於「地球的物質與系統」"
+
+msgid ""
+"When you looked at the picture of the earth earlier, you probably noticed "
+"that there are basically four main colors that make up the earth as we see "
+"it from space. Those colors are blue, white, green, and brown, and they "
+"represent the four major systems that make up the earth because of the "
+"different earth materials each system is made of. <span class='key'>Earth "
+"materials</span> are the matter or \"stuff\" that make up the earth."
+msgstr ""
+"當你看著之前地球的圖片，你可能已經注意到從外太空看地球，基本上可以看到四種主"
+"要構成的顏色：藍、白、綠、棕。這四種顏色代表著4個主要「次系統」，而顏色就是由"
+"每個次系統中不同的地球物質所顯現出來的。所謂 <span class='key'>地球物質</"
+"span>指的是組成地球的物質。"
+
+msgid ""
+"The <span class='key'>atmosphere</span>, which is composed of the gaseous "
+"<span class='key'>earth materials</span> that make up the earth's surface, "
+"is invisible. The white color you can see is the clouds in the atmosphere - "
+"which are made from tiny water droplets – so they are really part of the "
+"hydrosphere floating in the atmosphere. The rest of the atmosphere is mostly "
+"invisible and is made from mostly nitrogen, oxygen, carbon dioxide, water "
+"vapor, and a lot of other gasses in very small quantities. It's also known "
+"as the air you breathe."
+msgstr ""
+"<span class='key'>大氣層</span>是由肉眼看不見的氣態<span class='key'>地球物質"
+"</span>所構成地球表面的一個「次系統」。雖然，我們也會在大氣層中看見一些白色部"
+"分，但那是雲 - 雲是微小的水滴組成的 - 所以雲雖然漂浮在「大氣層」中，但它是屬"
+"於「水圈」的。大氣層是透明的，主要由氮、氧、二氧化碳、水蒸汽、以及少量其它氣"
+"體組成。這些就是我們所知、日常呼吸的空氣。"
+
+msgid ""
+"The blue color you see looking at the earth from space is mostly the ocean "
+"water or the <span class='key'>hydrosphere</span>. But the hydrosphere is "
+"also composed of all the fresh water in lakes, rivers and streams; the "
+"groundwater under the ground; the ice and snow in glaciers and polar ice "
+"caps; and the water in clouds. The hydrosphere is the earth's system "
+"composed of all the water on earth."
+msgstr ""
+"從太空中看到的地球上的藍色，大多是海水。海水和淡水湖、河流和溪流、地下水、冰"
+"川和極地冰帽上的冰雪、雲裡的水滴等一起聚集而稱為<span class='key'>水圈</"
+"span>。「水圈」就是地球上所有型態的水所組成的另一個地球「次系統」。"
+
+msgid ""
+"The <span class='key'>biosphere</span> is all of the living things on earth. "
+"From space, the biosphere looks mostly green because of all the trees and "
+"plants. But the biosphere includes all living things from bacteria to "
+"elephants to giant sequoia trees and US! Some scientists call the part of "
+"the environment that includes humans and their impact the <span "
+"class='key'>anthrosphere</span>."
+msgstr ""
+"<span class='key'>生物圈</span>是指所有地球上的生物的「次系統」。因為地表有許"
+"多樹木和植物，從太空中望去，生物圈看起來多半是綠色的。但生物圈還包括所有其它"
+"生物，從細菌到大象，甚至是美國巨大的加州紅木都是！有一些科學家還把包含人類和"
+"人類影響到的部分環境<span class='key'>稱之為「 人類生命圈」</span>"
+
+msgid ""
+"The <span class='key'>geosphere</span> (also called the <span "
+"class='key'>lithosphere</span>) is all of the solid earth materials like "
+"rocks and soil that make up the land we live on. Much of the lithosphere "
+"looks brown when the earth is viewed from above."
+msgstr ""
+"<span class='key'>地圈</span>（也稱為<span class='key'>岩石圈</span>）是指所"
+"有固態的地球物質組成的地球「次系統」，例如組成我們生活的陸地中的那些岩石和土"
+"壤。地球上方望去，大部分的岩石圈看起來是都是棕色的。"
+
+msgid "Lithosphere"
+msgstr "地圈"
+
+msgid "Blue, white, green, and brown..."
+msgstr "藍色、白色、綠色、棕色..."
+
+# 5
+msgid ""
+"Question A. The biosphere, which is the earth's living system, includes all "
+"of the following <span class='blink'>except</span>:"
+msgstr ""
+"問題A. 「生物圈」是地球生命組成的次系統，下列各項中<span class='blink'>僅有一"
+"項不屬於生物圈</span>，請選出...："
+
+msgid "Tigers"
+msgstr "老虎"
+
+msgid "Bacteria"
+msgstr "細菌"
+
+msgid "Humans"
+msgstr "人類"
+
+msgid "Trees"
+msgstr "樹"
+
+msgid ""
+"Question B. When we see the earth from space, the blue color we see that "
+"gives earth the name the \"Blue Planet\" is from the:"
+msgstr ""
+"問題B. 當我們從太空看地球，我們看見藍色，所以給了地球〝藍色星球〞這個名稱。請"
+"問這藍色這是從哪裡來的："
+
+msgid "Sky"
+msgstr "天空"
+
+msgid "Blue flowers"
+msgstr "藍色的花朵"
+
+msgid "Blue Flowers"
+msgstr "藍色的花朵"
+
+msgid "Ocean"
+msgstr "海洋"
+
+msgid "Question C. The hydrosphere includes which of the following?"
+msgstr "問題C. 下列何者是有關「水圈」的最恰當選項？"
+
+msgid "The salt water in the oceans"
+msgstr "在海洋中的鹹水"
+
+msgid "The fresh water in the rivers and lakes"
+msgstr "在河川和湖泊中的淡水"
+
+msgid "The water in snow and ice glaciers"
+msgstr "在冰雪和冰河中的水"
+
+msgid "All of the above"
+msgstr "以上皆是"
+
+msgid "No, animals are part of the biosphere."
+msgstr "不對喔！動物是生物圈的一部分。"
+
+msgid "Correct. Air is part of the atmosphere."
+msgstr "正確。空氣是大氣層的一部分。"
+
+msgid "No, bacteria are living organisms that are part of the biosphere."
+msgstr "不對喔！細菌是活的生物體，它們是生物圈中的一部分。"
+
+msgid ""
+"No, humans are part of the biosphere. Some scientists also call the part of "
+"the environment that includes humans and their impact the anthrosphere."
+msgstr ""
+"不對喔！人類是生物圈中的一部分。一些科學家也把包含人類和人們影響的部分環境稱"
+"之為「人類生命圈」"
+
+msgid "No, trees are part of the biosphere."
+msgstr "不對喔！樹是生物圈的一部分。"
+
+msgid ""
+"No. The sky might look blue looking up from earth but looking down from "
+"space, the sky is colorless except for the clouds, which appear as white."
+msgstr ""
+"不對喔！從地球表面往上看，天空看起來是藍色的。但從太空往下看，天空中除了白色"
+"的雲之外，其它部分是無色的。"
+
+msgid ""
+"No, blue flowers on earth are too small to be seen when looking at earth "
+"from space."
+msgstr "不對喔！從太空看地球時，地表上藍色的花太小了，所以沒辦法看到。"
+
+msgid ""
+"No. Looking at earth from space, the oceans give earth the name the \"Blue "
+"Planet\"."
+msgstr ""
+"不對喔！在從太空看地球，是海洋給了地球藍色，所以地球又有了〝藍色星球〞的名"
+"稱。"
+
+msgid ""
+"Correct! Looking at earth from space, the oceans give earth the name the "
+"\"Blue Planet\"."
+msgstr ""
+"正確！在從太空看地球，是海洋給了地球藍色，所以地球又有了〝藍色星球〞的名稱。"
+
+msgid ""
+"Not quite, the oceans are part of the hydrosphere, but so are the fresh "
+"water in the rivers and lakes and the water in snow and ice glaciers."
+msgstr ""
+"不完全是，海洋是水圈的一部分，但其它還有河川和湖泊中的淡水，以及冰河上的冰"
+"雪。"
+
+msgid ""
+"Not quite, the rivers and lakes are part of the hydrosphere, but so are the "
+"salt water in the oceans and the water in snow and ice glaciers."
+msgstr ""
+"不完全是，河川和湖泊是水圈的一部分，但還有海洋中的鹹水，以及冰河上的冰雪。"
+
+msgid ""
+"Not quite, the water in snow and ice glaciers are part of the hydrosphere, "
+"but so are the salt water in the oceans and the freshwater in the rivers and "
+"lakes."
+msgstr ""
+"不完全是，冰河上冰雪中的水是水圈的一部分，但還有海洋中的鹹水，以及河川和湖泊"
+"中的淡水。"
+
+msgid ""
+"Correct. The different forms of water in the oceans, rivers and lakes, and "
+"ice glaciers all make up the hydrosphere."
+msgstr "正確。在海洋，河流和湖泊，冰川冰的不同形式的水都構成了水圈。"
+
+# 6
+msgid "More core ideas... about earth materials and systems"
+msgstr "更多核心觀念... 有關「地球的物質與系統」"
+
+msgid ""
+"The different earth <span class='key'>systems</span> – hydrosphere, "
+"atmosphere, biosphere, and geosphere are different components (parts) of the "
+"earth that are made out of different materials with different properties (a "
+"trait – like if something is hard or soft). But these systems are not "
+"isolated or independent of each other. Each system interacts with every "
+"other system to make the whole earth look and behave the way it does. These "
+"<span class='key'>interactions</span> are the <span class='key'>processes</"
+"span> that go on to shape the landscape and make the earth the way it is."
+msgstr ""
+"不同的地球<span class='key'>次系統</span> - 例如，水圈、大氣層、生物圈、和岩"
+"石圈，都是由是地球上具有不同的性質(例如軟或硬等)的物質分別組成。但是，這些系"
+"統並不是彼此分離獨立的，每個系統都與其它所有系統進行交互，這才使整個地球顯現"
+"這樣的外觀和行為。這些<span class='key'>交互作用</span>也就是塑造地球的地景並"
+"使地球呈現今日風貌的<span class='key'>過程</span>。"
+
+msgid ""
+"Actually, you can think of the Earth as one big system and each of the "
+"systems discussed above is a part (subsystem) of the big Earth system. Each "
+"subsystem interacts with every other subsystem. For instance, the water from "
+"the hydrosphere rains on the soil of the geosphere to provide moisture for "
+"plants from the biosphere to grow and take carbon dioxide gas from the "
+"atmosphere to make food for humans in the anthrosphere."
+msgstr ""
+"其實，你可以把地球視為一個大系統，每個上面所討論的「次系統」都是地球大系統的"
+"一部分。每個「次系統」彼此之間進行交互作用，例如，來自「水圈」中的雨落到「地"
+"圈」，提供水分給土壤讓「生物圈」中的植物成長，植物再從「大氣層」中吸收二氧化"
+"碳，最後為「人類生命圈」中的人們生產食物。"
+
+msgid ""
+"Volcanoes have many effects on the geosphere, hydrosphere, atmosphere, and "
+"biosphere. Here is an example of how this event in the geosphere changes "
+"plant growth in the biosphere: Rainfall often increases after a volcanic "
+"eruption, causing plant growth. Very small matter in the air falls out, "
+"first smothering plants, but eventually it enriches the soil, and causes "
+"more plant growth down the road."
+msgstr ""
+"再看一個例子，地圈中的火山。火山對地圈、水圈、大氣層和生物圈造成許多影響。下"
+"面是在地圈發生的事件如何改變生物圈中植物生長的例子：火山噴發後降雨通常會增"
+"加，使得植物生長。空氣中會有微小的物質飄落，一開始會使植物窒息，但最終土壤會"
+"變肥沃，並能讓更多的植物長出來。[※：請點選並播放衛星影片，以觀察這火山大爆發"
+"後一片焦紅到20年後恢復綠色生機的變化]"
+
+msgid "Forest Recovering From Mt St Helens Eruption"
+msgstr "聖海倫斯火山爆發後，森林恢復生機。"
+
+msgid "Video: NASA/Goddard Space Flight Center"
+msgstr "影片：美國國家航空暨太空總署/高達德太空飛行中心"
+
+msgid "Enumerating hydrospheres..."
+msgstr "列舉水圈的例子..."
+
+# 7
+msgid ""
+"Question A. Click on <span class='blink'>all</span> the <span "
+"class='blink'>correct</span> statements below."
+msgstr "問題A. 點選在下列中的<span class='blink'>所有正確</span>敘述。"
+
+msgid ""
+"The hydrosphere, atmosphere, biosphere, and geosphere are Earth's major "
+"components."
+msgstr "水圈、大氣層、生物圈、地圈是組成地球的主要部分。"
+
+msgid ""
+"There are only interactions between the hydrosphere and atmosphere, and "
+"biosphere and geosphere."
+msgstr "只有水圈、大氣層，還有生物圈、地圈之間會有交互作用。"
+
+msgid "Each subsystem of the Earth interacts with every other subsystem."
+msgstr "地球的每個次系統之間彼此都會進行交互作用。"
+
+msgid ""
+"The interactions between the earth's systems are the processes that go on to "
+"shape the landscape and make the earth the way it is."
+msgstr ""
+"地球系統之間的交互作用是會持續塑造地貌的過程，並且讓地球成為現在的樣貌。"
+
+msgid ""
+"Question B. The following are examples of how earth systems interact. Click "
+"on 'select' for each statement then click on the <span "
+"class='blink'>correct</span> system (sphere) from the pop up menu for each "
+"of the statements. The first one is done for you."
+msgstr ""
+"問題B. 以下是地球系統如何進行交互作用的敘述，請在下列<請選擇>處，點選出<span "
+"class='blink'>正確的</span>系統。第一個空格已經幫你完成了。"
+
+msgid ""
+"Volcanoes <span class='key'>(geosphere)</span> change plant growth in the "
+"biosphere. Rainfall"
+msgstr "火山<span class='key'>（地圈）</span>會改變植物在生物圈的生長。降雨"
+
+msgid "geosphere"
+msgstr "地圈"
+
+msgid "biosphere"
+msgstr "生物圈"
+
+msgid "hydrosphere"
+msgstr "水圈"
+
+msgid "atmosphere"
+msgstr "大氣層"
+
+msgid "often increases after a volcanic eruption, causing plant growth"
+msgstr "經常在火山噴發後有所增加，使得植物生長"
+
+msgid "Very small matter in the air"
+msgstr "。空氣中會有微小的物質"
+
+msgid "falls out, first smothering plants, but eventually it enriches the soil"
+msgstr "落下，這一開始會使植物窒息，但最終土壤會變肥沃"
+
+msgid "and causes more plant growth down the road."
+msgstr "，並能讓更多的植物繼續生長出來。"
+
+msgid ""
+"Volcanoes <span class='key'>(geosphere)</span> changes plant growth in the "
+"biosphere. Rainfall often increases after a volcanic eruption, causing plant "
+"growth out, first smothering plants, but eventually it enriches the soil, "
+"and causes more plant growth down the road."
+msgstr ""
+"火山<span class='key'>（地圈）</span>會改變植物在生物圈的生長。火山噴發後降雨"
+"通常會增加，使得植物生長。空氣中會有微小的物質飄落，一開始會使植物窒息，但最"
+"終土壤會變肥沃，並能讓更多的植物繼續生長出來。"
+
+msgid "Earth systems interaction..."
+msgstr "地球系統的交互作用..."
+
+msgid ""
+"That's correct! Hydrosphere, atmosphere, biosphere and geosphere are Earth's "
+"systems; They are interdependent and each subsystem interacts with every "
+"other subsystem which means that the events that happen in one sphere affect "
+"the other systems of the earth and cause the earth to be the way it is."
+msgstr ""
+"這是正確的！水圈、大氣層、生物圈和地圈都是地球的次系統； 它們是相互依存的，每"
+"一個次系統和其它系統都交互作用。這表示發生在某一系統中的事件會影響地球上的其"
+"它系統，並讓地球成為現在的樣貌。"
+
+msgid ""
+"Not quite! Hydrosphere, atmosphere, biosphere and geosphere are Earth's "
+"systems; They are interdependent and each subsystem (the spheres) interacts "
+"with every other subsystem which means that the events that happen in one "
+"sphere affect the other systems of the earth and cause the earth to be the "
+"way it is."
+msgstr ""
+"不完全是！水圈、大氣層、生物圈和地圈都是地球的次系統； 它們是相互依存的，每一"
+"個次系統和其它系統都交互作用。這表示發生在某一系統中的事件會影響地球上的其它"
+"系統，並讓地球成為現在的樣貌。"
+
+msgid ""
+"Great job! Volcanoes and soil are part of the geosphere, rainfall is part of "
+"the hydrosphere, plants are part of the biosphere, and air is part of the "
+"atmosphere."
+msgstr ""
+"答得好！火山和土壤是岩石圈的一部分、雨是水圈的一部分、植物是生物圈的一部分、"
+"空氣是大氣層的一部分。"
+
+msgid ""
+"Not quite. Volcanoes and soil are part of the geosphere, rainfall is part of "
+"the hydrosphere, plants are part of the biosphere, and air is part of the "
+"atmosphere."
+msgstr ""
+"不完全對喔！火山和土壤是岩石圈的一部分、雨是水圈的一部分、植物是生物圈的一部"
+"分、空氣是大氣層的一部分。"
+
+# 8
+msgid ""
+"The land around where you live and all over the earth is constantly "
+"changing. Wind and water can play an important role in making changes to the "
+"landscape. Sometimes the change happens fast, like from a flood or a "
+"hurricane. But other times it happens so slowly that you can't even tell it "
+"is happening."
+msgstr ""
+"你所居住的周遭和遍布全世界的土地都是不斷變化的。風和水可以在地貌的改變上發揮"
+"重要作用。有時這發生得很快，就像洪水或颶風(颱風)帶來的改變；但其它時候發生得"
+"很緩慢，你甚至不知道改變正在發生。"
+
+msgid ""
+"Think about what would happen if you mistakenly let your garden hose run "
+"water over the concrete sidewalk in front of your house overnight. When you "
+"come out in the morning and turn the hose off and look at the sidewalk, it "
+"looks like the running water had no effect on the sidewalk other than "
+"getting it wet. But if you let that hose run for a month, or a year, or ten "
+"years, or a thousand years, what do you think would happen? You're right – "
+"eventually, over time, it will wear away some of the concrete and leave a "
+"hole or a groove in the sidewalk."
+msgstr ""
+"想想這會發生什麼: 如果不小心把屋前的花園水管開著整夜，水會在水泥鋪的人行道上"
+"漏得到處都是。當你第二天早晨出門把水管關掉，那些水看上去似乎只是弄濕了人行"
+"道，除此之外沒有別的影響。但是，如果你讓水漏了一個月，或一年，或十年，或一千"
+"年，你覺得會發生什麼事？你是對的 - 最終，隨著時間的推移，它會侵蝕一部分的水"
+"泥，在人行道上留下坑洞或凹陷。"
+
+msgid ""
+"Now imagine what would happen if, instead of a water hose, there was a river "
+"running over the sidewalk or even over solid rock. The same thing would "
+"happen. Day by day, you might not see a change, but over a very long period "
+"of time that river can erode down through solid rock. This would completely "
+"change the <span class='key'>landscape</span> – the features of the land - "
+"to a make a deep canyon from a flat surface. That's how the Grand Canyon was "
+"formed; it took millions of years. This process is called <span "
+"class='key'>erosion</span>. Wind, running water, waves, or glaciers can pick "
+"up stuff and things like dirt and rocks from the surface and move them "
+"around. Erosion happens different ways; it is the gradual wearing away and "
+"breaking down of rocks. Erosion can even wear down a mountain range from "
+"high peaks to create a flat plain."
+msgstr ""
+"現在想像一下，如果這不是水管，而是一條河川流過人行道甚至堅硬的岩石，同樣的事"
+"情會發生。你可能看不到每天的變化，但在很長一段時間後，河流就能侵蝕堅硬的岩"
+"石。這將徹底改變<span class='key'>地貌</span> - 地表的型態 - 讓平整的地表變成"
+"深谷。這就是大峽谷如何形成的過程； 它花了數百萬年的時間。這個過程被稱為<span "
+"class='key'>侵蝕作用</span>。風、流水、波浪、或冰川可以從地表帶走和移動像是泥"
+"土或石塊這樣的物體。侵蝕作用有不同的發生方式，它會逐漸磨損並碎裂岩石，甚至可"
+"以讓山脈從山峰崩解而成為一個平坦的平原。"
+
+msgid ""
+"The same idea applies to the power of wind to erode the land. On the "
+"prairies, the wind can carry the topsoil from a farming field and make hills "
+"from it, or blow it into the rivers where the water carries it away. Along "
+"the coasts the wind blows every day, changing the sand dunes. And during "
+"hurricanes, the combination of wind and water can be so strong it can change "
+"the shape of the coast dramatically in a very short time. This can be seen "
+"very clearly in the change of the coast in New York from Hurricane Sandy in "
+"2012."
+msgstr ""
+"風力侵蝕土地是同樣的概念。在大草原上，風可以帶走農田的表土並形成山丘，或把表"
+"土吹入河中被水沖走。海岸邊的風天天吹，改變了沙丘的形狀。而在颶風(或颱風)來襲"
+"的期間，風和水在一起的作用非常強烈，可以使海岸的形狀在極短的時間內起劇烈變"
+"化。2012年颶風桑迪後，就可清楚看見紐約海岸的變化。[※：圖左是風災前；圖右是後]"
+
+msgid "Credit: U.S. Geological Survey"
+msgstr "來源：美國地質調查局"
+
+msgid "Department of the Interior/USGS"
+msgstr "內政部/美國地質調查局"
+
+msgid "U.S. Geological Survey"
+msgstr "美國地質調查局"
+
+msgid "Changing landscapes..."
+msgstr "變化的地貌..."
+
+# 9
+msgid "Question A. Look at the picture at the right. This is an example of:"
+msgstr "問題A. 看看右圖。請問這個例子是什麼所造成的："
+
+msgid "Slow erosion by wind"
+msgstr "風的緩慢侵蝕所造成"
+
+msgid "Rapid erosion by water"
+msgstr "水的快速侵蝕所造成"
+
+msgid "Slow erosion by water"
+msgstr "水的緩慢侵蝕所造成"
+
+msgid "Rapid erosion by wind"
+msgstr "風的快速侵蝕所造成"
+
+msgid "Question B. Look at the picture at the right. This is an example of:"
+msgstr "問題B. 看看右圖。這個例子是什麼所造成的："
+
+msgid "Collecting data about erosion..."
+msgstr "收集和侵蝕相關的數據..."
+
+msgid "No. The Grand Canyon was formed mainly by slow water erosion."
+msgstr "不對喔！大峽谷的形成主要是因為流水緩慢的侵蝕。"
+
+msgid "Correct. The Grand Canyon was formed mainly by slow water erosion."
+msgstr "正確。大峽谷的形成主要是因為流水緩慢的侵蝕。"
+
+msgid "No. The picture shows a rapid erosion by wind."
+msgstr "不對喔！圖片上顯示的是風造成的快速侵蝕。"
+
+msgid "Correct. The picture shows a rapid erosion by wind."
+msgstr "正確。圖片上顯示的是風造成的快速侵蝕。"
+
+# 10
+msgid ""
+"Different areas of the world get different amounts of rain. The amount of "
+"rain a region gets is dependent on its geography – for instance, if it is "
+"close to the ocean or whether it has mountains or not and how high the "
+"mountains are."
+msgstr ""
+"世界不同地區會有的不同雨量。一個地區會得到多少雨量是依據它的地理位置 - 例如，"
+"這地區是否靠近海洋或者是否有高山，還有這地區中的山有多高。"
+
+msgid ""
+"In the diagram to the right you can see moisture from the ocean (in the form "
+"of clouds) can't get over the high mountains."
+msgstr ""
+"在右邊的圖表中，你可以看到來自海洋的水分（以雲的形式出現）無法越過高山。"
+
+msgid ""
+"So the rain falls on the west side of the mountains, making that side very "
+"wet with lots of vegetation. But the rain clouds can't get to the east side "
+"of the mountains, so that side is very dry and sometimes even forms a "
+"desert. This affects what kinds of plants and animals can live in each "
+"environment because of the amount of water and types of food and homes for "
+"the animals that are available."
+msgstr ""
+"因此，雨水落在山的西側(圖的左邊)，這會讓這一側非常潮濕而有很多植物；但雨雲無"
+"法到達山的東側(圖的右邊)，所以山的東側會很乾燥有時甚至會形成沙漠。這因素決定"
+"了水的多寡、食物種類和棲息地的型態，這就使得兩種不同環境中具有著不同種類的動"
+"植物。"
+
+msgid ""
+"This is a great example of how our earth is connected. All the systems "
+"(geosphere, atmosphere, hydrosphere, and biosphere) are all interconnected "
+"and affect each other. The solid earth rock material from the geosphere "
+"forms mountains that block the rain clouds in the atmosphere from raining on "
+"the west side of the mountains. This causes the hydrosphere on the east side "
+"to be very dry and the west side to be very wet. This, in turn, affects the "
+"biosphere on each side of the mountain to be very different. Think about the "
+"different trees and animals that live on each side of the mountain."
+msgstr ""
+"這也是我們地球的各個次系統是如何連結的一個極佳的例子。你可以看到，所有的次系"
+"統（地圈、大氣層、水圈和生物圈）都相互連結和影響。在「地圈」中堅硬的岩石形成"
+"山脈，阻擋了來自「大氣層」中的雨雲，使山的東側不會下雨。這將導致在東測的「水"
+"圈」非常乾燥，西側非常潮濕。這一點，又使得山的兩側的「生物圈」非常不同。請你"
+"想想那些生活在山兩側的動植物會有甚麼不同。"
+
+msgid "Climbing a mountain..."
+msgstr "登山..."
+
+# 11
+msgid ""
+"Question A. In the diagram at the right, which of the following plants and "
+"animals would you expect to find on the <span class='blink'>west</span> side "
+"of the mountains. Select <span class='blink'>all</span> the correct answers."
+msgstr ""
+"問題A. 在圖中，你會預期在<span class='blink'>山的西側地區(山的左邊)</span>找"
+"到下列哪些植物和動物? 選擇<span class='blink'>所有正確的</span>答案。[複選]"
+
+msgid "Frogs"
+msgstr "青蛙"
+
+msgid "Ferns"
+msgstr "蕨類植物"
+
+msgid "Pine trees"
+msgstr "松樹"
+
+msgid "Tortoise"
+msgstr "陸龜"
+
+msgid ""
+"Question B. In the diagram at the upper right, which of the following plants "
+"and animals would you expect to find on the <span class='blink'>east</span> "
+"side of the mountains? Select <span class='blink'>all</span> the correct "
+"answers."
+msgstr ""
+"問題B. 在圖中，你會預期在<span class='blink'>山的東地區</span>找到下列哪些植"
+"物和動物? 選擇<span class='blink'>所有正確的</span>答案。[複選]"
+
+msgid "Rattle snake"
+msgstr "響尾蛇"
+
+msgid "Cactus"
+msgstr "仙人掌"
+
+msgid "Trout"
+msgstr "鱒魚"
+
+msgid "Deer"
+msgstr "鹿"
+
+msgid ""
+"Question C. If you were going to go hiking or backpacking across the "
+"mountains in the diagram above and you had to carry all of your food and "
+"water for the whole trip, would it make more sense to go:"
+msgstr ""
+"問題C. 如果你們打算以遠足或做背包旅行方式橫跨山峰，並且在整個行程中你必須隨身"
+"背帶自己的所有笨重的食物和飲水。請問哪一種攀越方式較為合理："
+
+msgid "East to west"
+msgstr "從東到西"
+
+msgid "North to south"
+msgstr "從北到南"
+
+msgid "West to east"
+msgstr "從西到東"
+
+msgid "South to north"
+msgstr "從南到北"
+
+msgid ""
+"Correct! In this moist green area, you would expect to find frogs and ferns."
+msgstr "正確！在這種潮濕的綠色區域，你預期會找到青蛙和蕨類植物。"
+
+msgid ""
+"Not Quite. In moist green environments, you would definitely expect to find "
+"frogs and ferns and rarely pine trees but definitely not tortoises. - "
+"because tortoises are desert animals."
+msgstr ""
+"不完全是。在潮濕的綠色環境中，你一定能找到預期中的青蛙和蕨類植物，松樹較少，"
+"但絕對找不到陸龜。 - 因為陸龜是沙漠動物。"
+
+msgid ""
+"Correct! In this dry desert area, you would expect to find rattle snakes and "
+"cacti."
+msgstr "正確！在這個乾燥的沙漠地區，你預期會找到響尾蛇和仙人掌。"
+
+msgid ""
+"Not quite! In this dry desert environment, you would definitely expect to "
+"find snakes and cacti and rarely some deer but definitely not trout."
+msgstr ""
+"不完全是！在這個乾燥的沙漠環境，你一定能找到預期中的蛇和仙人掌，鹿比較少，但"
+"絕對找不到鱒魚。"
+
+msgid ""
+"Correct. Going from east to west to travel through the desert first is the "
+"best way because you have a full water supply that you can drink and you "
+"don’t have to carry the weight of the water through the forest on the wet "
+"west slope. You can just drink from the streams."
+msgstr ""
+"正確。先從東到西穿越沙漠是最好的方式，因為剛開始在東側時你會有可飲用的水；到"
+"了西側你就不必帶著很重的來水穿越在潮濕西側坡地的森林，那裏有河流，你比較可以"
+"找到水源。"
+
+msgid ""
+"No. Travelling east to west you will have a complete water supply with you "
+"in the desert area."
+msgstr ""
+"不對喔！先從東到西穿越沙漠是最好的方式，因為剛開始在東側時你會有可飲用的水；"
+"到了西側你就不必帶著很重的來水穿越在潮濕西側坡地的森林，那裏有河流，你比較可"
+"以找到水源。"
+
+# 12
+msgid ""
+"Using what you know... about earth materials and systems... to solve a "
+"problem"
+msgstr "活用所學......關於「地球的物質與系統」......來解決問題"
+
+msgid ""
+"An area recently hit by a sandstorm is attempting to restore the landscape. "
+"They want to preserve the landscape and minimize any further damage. You are "
+"hired as a consultant to come up with a solution to slow or prevent wind and "
+"water from changing the shape of the land. The people of the area are open "
+"to suggestions about building or growing anything needed to protect the land "
+"from wind and water erosion."
+msgstr ""
+"一個最近被沙塵暴襲擊的區域正試圖保有原本的地貌。居民希望盡量減少進一步的損"
+"害，他們對於增建或種植任何能保護土地免遭風和水侵蝕的所有建議，也都抱持著開放"
+"的態度。您被請來當顧問，而需要提出解決方案來延緩並防止風和水持續對土地貌造成"
+"改變。"
+
+msgid ""
+"What would you suggest? Enter your answer in the text box below and compare "
+"your solution to those suggested by your classmates and discuss which one "
+"might be more effective."
+msgstr ""
+"請問你會提出什麼建議呢？請在下面的文字框中輸入你的答案，和同學比較你的解決方"
+"案，討論哪一個方式可能會更有效。"
+
+msgid "Surveying the area..."
+msgstr "實地考察..."
+
+# 13
+msgid "Summarizing core ideas... about earth materials and systems"
+msgstr "總結核心觀念......有關「地球的組成物質與系統」"
+
+msgid ""
+"There are four major systems that make up the earth: the <span "
+"class='key'>geosphere/lithosphere</span>, the <span class='key'>hydrosphere</"
+"span>, the <span class='key'>atmosphere</span>, and the <span "
+"class='key'>biosphere</span>. These four <span class='key'>systems</span> "
+"interact with each other to control the kinds of <span "
+"class='key'>landscapes</span> and environments that make up the earth. One "
+"example of an <span class='key'>interaction</span> of the earth systems is "
+"to affect the amount of rain an area of the earth gets, which then affects "
+"what kinds of plants and animals can live there. Different environments are "
+"suitable for different living things. Rain and wind can also shape and "
+"reshape the landforms in the environment, like how the beaches on the coast "
+"change after a hurricane."
+msgstr ""
+"地球，本身就是一個大的「系統」，它主要是由四個「次系統」組成：<span "
+"class='key'>地圈/岩石圈</span>，<span class='key'>水圈</span>，<span=“key'>大"
+"氣層</span>，和<span class='key'>生物圈</span>。這四個<span class='key'>系統"
+"</span>彼此交互作用，以控制各種構成地球的<span class='key'>地貌</span>和環"
+"境。舉例來說，地球的這幾個系統之間的<span class='key'>交互作用</span>影響一個"
+"地區的降雨量，進而影響是什麼種類的動植物可以在那裡生活。不同的環境，適合不同"
+"的生物生活。風和雨一樣也可以塑造或改變地貌環境，像颶風(或颱風)過後的海岸也會"
+"產生改變。"
+
+# 14
+msgid "Reviewing key vocabulary related to... earth materials and systems"
+msgstr "複習重要字彙... 關於「地球的組成物質與系統」"
+
+msgid "Geosphere/Lithosphere"
+msgstr "地圈/岩石圈"
+
+msgid ""
+"The geosphere, or lithosphere, is all of the solid earth materials like "
+"rocks and soil that make up the land we live on."
+msgstr ""
+"「地圈」或者「岩石圈」，是指所有固態的地球物質，例如組成我們生活的陸地中的那"
+"些岩石和土壤。"
+
+msgid "Atmosphere"
+msgstr "大氣層"
+
+msgid ""
+"The atmosphere is composed of the gaseous earth materials that make up the "
+"earth's surface. The white color you can see is the clouds in the "
+"atmosphere, which are made from water, but the rest of the atmosphere is "
+"mostly invisible and is made from mostly nitrogen, oxygen, carbon dioxide, "
+"water vapor, and a lot of other gasses in very small quantities. It's also "
+"known as the air you breathe."
+msgstr ""
+"「大氣圈」是由氣態地球物質組成的地球表面。大氣層的組成部分是肉眼看不到的，主"
+"要由氮、氧、二氧化碳、水蒸汽、和其它少量氣體所組成的；這些氣體就是我們所知、"
+"平常呼吸的空氣。大氣層中所常看見的白色部分其實是雲 ，雲是微小的水滴組成的，因"
+"為它是微小的水滴(液體)，所以雲是屬於「水圈」的物質，只不過它漂浮在「大氣層」"
+"中。"
+
+msgid "Biosphere"
+msgstr "生物圈"
+
+msgid ""
+"The biosphere is all of the living things on earth. From space, the "
+"biosphere looks mostly green because of all the trees and plants. But the "
+"biosphere includes all living things from bacteria to elephants to giant "
+"sequoia trees and us!"
+msgstr ""
+"「生物圈」是指所有地球上的生物。從太空中望去，生物圈看起來多半是綠色的。但生"
+"物圈還包括其它生物，從細菌到大象，甚至是美國巨大的加州紅木，還有我們！"
+
+msgid "Hydrosphere"
+msgstr "水圈"
+
+msgid ""
+"The hydrosphere is the liquid water and solid ice (some of the white on the "
+"earth that can be viewed from space) that make up the oceans, rivers, lakes, "
+"and glaciers on the earth."
+msgstr ""
+"「水圈」是液態水和固態冰（有些在地球上的白色部分可以從太空中看見）組成的海"
+"洋、河流、湖泊和冰川。"
+
+msgid "Anthrosphere"
+msgstr "人類生命圈"
+
+msgid ""
+"Some scientists call the part of the environment that includes humans and "
+"their impact the anthrosphere."
+msgstr "一些科學家把包含人類和人們影響的部分環境稱之為「 人類生命圈」。"
+
+msgid "Earth materials"
+msgstr "組成地球的物質"
+
+msgid "Earth materials are the matter or \"stuff\" that make up the earth."
+msgstr ""
+"「物質」，一定具有質量並佔有空間；「地球物質」是指構成地球的所有物質，。"
+
+msgid "Erosion"
+msgstr "侵蝕作用"
+
+msgid ""
+"The process of the gradual wearing away and breaking down of rocks is called "
+"erosion. Erosion can even wear down a mountain range from high peaks to "
+"create a flat plain."
+msgstr ""
+"逐漸腐蝕並碎裂岩石的過程稱為「侵蝕作用」，它甚至可以讓山脈從山峰崩解而成為一"
+"個平坦的平原。"
+
+msgid "System"
+msgstr "系統"
+
+msgid ""
+"A system is something with interrelated components that work together. You "
+"can think of the earth as one big system with many subsystems, such as the "
+"hydrosphere, atmosphere, biosphere, and geosphere. Each subsystem interacts "
+"with every other subsystem."
+msgstr ""
+"「系統」指的是一些相關聯的組成彼此相互作用並一起運作。你可以把地球看做是一個"
+"大的「系統」，裡面有許多的「次系統」，如水圈、大氣層、生物圈、和地圈，每個次"
+"系統彼此間都進行著交互作用並一起運作。有時候我們也會把「次系統」簡稱為「系"
+"統」。"
+
+msgid "Landscape"
+msgstr "地貌"
+
+msgid ""
+"The landscape is the features of the land of a certain area. The Earth's "
+"surface is filled with many diverse and unique landscapes."
+msgstr "「地貌」是某些特定區域的地表型態；地球表面充滿了各式各樣獨特的地貌。"
+
+msgid "Property"
+msgstr "性質"
+
+msgid ""
+"A property is a certain trait or quality that is shared by all the members "
+"of a set or group of things. The properties of different things can be used "
+"to tell things apart and arrange them into groups."
+msgstr ""
+"「性質」是指特定的特徵或特質，一類物質中常會有共同的一些性質。所以，我們可以"
+"用不同的性質來分辨物質或進行歸類。"
+
+msgid ""
+"For example, rocks are often grouped based on their properties. One group "
+"might include rocks that are smooth, shiny, and difficult to break apart. "
+"Another group might include rocks that are bumpy, dull, and easy to break "
+"apart. Each of the ways that you can compare the rocks is an example of "
+"a property."
+msgstr ""
+"例如以岩石來說，岩石通常可以用它們的性質來分類。某一類的岩石可能包括光滑、有"
+"光澤、且不易破碎；而另一類的岩石可能較凹凸不平、顏色黯淡的、且容易破碎的。以"
+"上每一項可以拿來比較岩石特徵或特質，都是岩石的「性質」。"
+
+msgid "Interaction"
+msgstr "交互作用"
+
+msgid ""
+"An interaction is the relationship or exchange between different living "
+"things or systems. For example, the interaction between people and dogs is "
+"usually very friendly, as dogs serve as wonderful pets for many people. The "
+"interaction between dogs and cats, however, is often not as friendly!"
+msgstr ""
+"「交互作用」，是不同的生物或系統之間的關係或交換。例如狗，作為許多人心目中的"
+"完美寵物，與人類之間常有十分友善的交互作用。但狗和貓之間的交互作用，往往不是"
+"這麼的友善！"
+
+msgid ""
+"Another example is the interaction with the biosphere and the atmosphere. It "
+"can be natural with the animals and trees exchanging oxygen and carbon "
+"dioxide with the atmosphere in a normal healthy way or the interaction can "
+"be destructive when humans pollute the atmosphere with too much carbon "
+"dioxide causing unnatural global warming."
+msgstr ""
+"另一個例子是與生物圈和大氣層的「交互作用」。它可以是自然的，就像動物和樹木以"
+"正常健康的方式，和大氣層交換氧氣和二氧化碳；但它也可能是破壞性的，例如人類以"
+"過量二氧化碳污染大氣，造成非自然的全球暖化。"
+
+msgid "Process"
+msgstr "過程"
+
+msgid ""
+"A process is a series of steps that lead to a specific result or product. In "
+"nature, there are many processes at work. For example, when you eat, you "
+"turn food into energy for your body through a process called digestion. You "
+"breathe air in and out of your lungs through a process called respiration."
+msgstr ""
+"「過程」是一系列步驟導致特定的結果或產物。在自然界中，有許多過程在進行。例"
+"如，吃東西的時候，你把食物轉化為能量的「過程」稱為消化；經由肺來吸氣吐氣的"
+"「過程」稱為呼吸。"
+
+msgid ""
+"Here is an image of a tree that uses the energy of the sun to take in carbon "
+"dioxide from the atmosphere and produce oxygen and food through the process "
+"of photosynthesis."
+msgstr ""
+"請你看一下這張植物的圖片。植物獲得太陽的能量並從大氣中吸收二氧化碳，通過光合"
+"作用的「過程」產生氧氣和食物。[※英文小幫手：Sunlight：陽光。Carbon Dioxide："
+"二氧化碳。Oxyeng：氧氣。Glucose：葡萄糖(食物)]"
+
+# 15
+msgid "Checking what you now know... about earth materials and systems"
+msgstr "看看你現在了解多少…關於「地球的物質與系統」"
+
+# 16
+msgid ""
+"Read the statements about how wind and water changes the size of mountains "
+"over long periods of time. Click on the statement that is <span "
+"class='blink'>correct</span>."
+msgstr ""
+"請閱讀下面有關，風和水如何在一段時間後改變山大小的敘述。請問何者<span "
+"class='blink'>正確</span>。"
+
+msgid ""
+"Wind and water continuously moves and changes the size of mountains over "
+"millions of years."
+msgstr "經過數百萬年的時間，風和水不斷流動並改變山的大小。"
+
+msgid ""
+"The size of mountains does not change over millions of years, not even with "
+"wind and water movement."
+msgstr "山的大小在數百萬年間沒有任何變化，甚至與風和水的流動有不會有關聯。"
+
+msgid ""
+"Wind and water continuously moves and changes the size of only a certain "
+"type of mountains over millions of years."
+msgstr "數百萬年來風和水不停流動，但只改變了某些類型的山的大小。"
+
+msgid ""
+"Mountains change in size over millions of years, but it is not because of "
+"wind and water moving continuously."
+msgstr "經過數百萬年山的大小已經有了變化，但那不是因為風和水的流動。"
+
+msgid "Correct. Wind and running water slowly changes the size of mountains."
+msgstr "正確。風和水會慢慢改變山的大小。"
+
+msgid ""
+"No. It may seem that nothing can change a mountain, but gradually wind and "
+"water do."
+msgstr ""
+"不對喔！也許看起來似乎沒有什麼可以改變一座山，但風和水的確能逐漸做到這點。"
+
+msgid "Not quite. Wind and water movement can change any type of mountain."
+msgstr "不完全是喔！風和水的流動可以改變任何類型的山。"
+
+msgid ""
+"No. The changes in mountains are due to the continuous movement of wind and "
+"water."
+msgstr "不對喔！山的變化常是風和水的不停流動造成的。"
+
+# 17
+msgid ""
+"The best place to build a house so it won't get destroyed by the hydrosphere "
+"is..."
+msgstr ""
+"下列是幾個房子建築地點。請問那一個是<span class='blink'>最不會</span>受到「水"
+"圈」毀損的..."
+
+msgid "Right on an ocean beach"
+msgstr "緊鄰海邊的沙灘上"
+
+msgid "In a forest meadow"
+msgstr "在森林的草原"
+
+msgid "On a cliff overlooking the ocean"
+msgstr "在俯瞰大海的懸崖上"
+
+msgid "On the bank of a river"
+msgstr "在大河岸邊"
+
+msgid "Building a house..."
+msgstr "蓋房子..."
+
+msgid "No. There is a lot of possible water damage on the beach."
+msgstr "不對喔！在沙灘上會有許多海水造成的損害。"
+
+msgid ""
+"Correct. In a forest meadow there is the least amount of possible wind and "
+"water damage."
+msgstr "正確。在森林的草原上的風災和水害最低。"
+
+msgid "No. There is a lot of possible wind and water damage on a cliff."
+msgstr "不對喔！懸崖上有很多可能的風災和水害。"
+
+msgid "No. There is a lot of possible water damage on the bank of a river."
+msgstr "不對喔！在河岸邊會有許多河水造成的可能毀損。"
+
+# 18
+msgid ""
+"In the diagram below, what would be an interaction between the anthrosphere "
+"and the atmosphere?"
+msgstr ""
+"請問下列選項中，哪一項是屬於人類生命圈和大氣層之間的交互作用？[※：圖中表示幾"
+"個地球的次系統間可能會有交互作用]"
+
+msgid "Pollution of lakes, streams, and oceans"
+msgstr "湖泊、河流和海洋的污染"
+
+msgid "Logging mountain forests"
+msgstr "砍伐山林"
+
+msgid "Mining coal and minerals from the ground"
+msgstr "從地下開採煤炭和礦產"
+
+msgid "Pollution the air with CO<sub>2</sub>"
+msgstr "產生二氧化碳污染了空氣 <sub>2</sub>"
+
+msgid "Identifying anthrosphere and atmosphere..."
+msgstr "分辨人類生命圈和大氣層..."
+
+msgid ""
+"No, that would be a good example of interaction between the anthrosphere and "
+"the biosphere."
+msgstr "不對喔！這是人類生命圈與生物圈之間相互作用的一個很好例子。"
+
+msgid ""
+"No, that would be a good example of interaction between the anthrosphere and "
+"the geosphere."
+msgstr "不對喔！這是人類生命圈與生物圈之間相互作用的一個很好例子。"
+
+msgid ""
+"No, that would be a good example of interaction between the anthrosphere and "
+"the hydrosphere."
+msgstr "不對喔！這是人類生命圈與水圈之間相互作用的一個很好例子。"
+
+msgid ""
+"Correct. This is a great example of interaction between the anthrosphere and "
+"the atmosphere."
+msgstr "正確。這是人類生命圈與大氣層之間相互作用的一個很好例子。"
+
+# 19
+msgid ""
+"In the same diagram, the formation of clouds from water vapor that creates "
+"rain storms is an example of the interaction of the atmosphere and the:"
+msgstr ""
+"地球上的水蒸汽會形成雲，甚至再發展成暴雨。請問這是大氣層和下列的哪一個次系統"
+"的交互作用？[※：圖中表示幾個地球的次系統間可能會有交互作用]"
+
+msgid "Watching rain in the rainbow..."
+msgstr "看著雨中的彩虹..."
+
+msgid ""
+"Nope. The lithosphere is part of the solid earth materials such as rock and "
+"soil. Water vapor from the atmosphere doesn't turn into the lithosphere."
+msgstr ""
+"不對喔! 岩石圈是指固態的地球物質，例如岩石和土壤。大氣中水汽不會變成岩石圈。"
+
+msgid ""
+"Correct! Water vapor molecules in the atmosphere turn into little water "
+"droplets in the clouds and then turn into rain then become part of the "
+"hydrosphere."
+msgstr ""
+"正確！大氣中水蒸氣分子變成在雲中的小水滴，然後再變成雨，成為水圈的一部分。"
+
+msgid ""
+"No. The biosphere is the living systems on earth such as plants and animals. "
+"Water vapor from the atmosphere doesn't turn into the biosphere."
+msgstr ""
+"不對喔！生物圈是地球上的生命系統，如植物和動物。大氣中的水汽不會變成生物圈的"
+"一部分。"
+
+msgid ""
+"Not quite. The anthrosphere is the human systems on earth. Water vapor from "
+"the atmosphere doesn't turn into the anthrosphere."
+msgstr ""
+"不完全是。人類生命圈是地球上有人類的一個系統。大氣中的水汽不會成為人類生命圈"
+"的一部分。"
+
+# 20
+msgid ""
+"The damage to towns from hurricane Sandy was the result of interactions "
+"between the:"
+msgstr ""
+"颶風(或颱風)侵襲並造成城鎮的毀損。請問對這城市的損害是那幾項地球「次系統」所"
+"造成的："
+
+msgid "Anthrosphere, biosphere, and hydrosphere"
+msgstr "人類生命圈、生物圈、和水圈"
+
+msgid "Atmosphere, hydrosphere, and anthrosphere"
+msgstr "大氣層、水圈、和人類生命圈"
+
+msgid "Anthrosphere and hydrosphere, lithosphere, and atmosphere"
+msgstr "人類生命圈、水圈、岩石圈、和大氣層"
+
+msgid "Lithosphere, atmosphere, hydrosphere"
+msgstr "岩石圈、大氣層、和水圈"
+
+msgid "Fixing the house..."
+msgstr "修建房屋..."
+
+msgid ""
+"Correct. The hurricane was a result of interactions between the land "
+"(lithosphere), water (hydrosphere), and wind (atmosphere)."
+msgstr ""
+"正確。颶風或颱風，是土地（岩石圈）、水（水圈）、和風（大氣）之間的交互作用的"
+"結果。"
+
+msgid ""
+"No. The hurricane was a result of interactions between the land "
+"(lithosphere), water (hydrosphere), and wind (atmosphere)."
+msgstr ""
+"不對喔！颶風或颱風，是土地（岩石圈）、水（水圈）、和風（大氣）之間的交互作用"
+"的結果。"
+
+msgid ""
+"Not quite. The hurricane was a result of interactions between the land "
+"(lithosphere), water (hydrosphere), and wind (atmosphere)."
+msgstr ""
+"不完全是。颶風或颱風，是土地（岩石圈）、水（水圈）、和風（大氣）之間的交互作"
+"用的結果。"
+
+msgid ""
+"No. People were involved in the hurricane, but the interactions of the "
+"anthrosphere did not cause damage to towns. The hurricane was a result of "
+"interactions between the land (lithosphere), water (hydrosphere), and wind "
+"(atmosphere)."
+msgstr ""
+"不對喔！人雖然也受到了颶風(或颱風)的災難，但人類生命圈並沒有造成城鎮毀損。颶"
+"風或颱風，是土地（岩石圈）、水（水圈）、和風（大氣）之間的交互作用的結果。"
+
+# 21
+msgid ""
+"Weather systems that cause rain and snow generally move from west to east in "
+"the United States, so it is most likely that deserts and other dry "
+"landscapes will form on which side of mountain ranges?"
+msgstr ""
+"美國大陸，西海岸沿岸有高山，而且製造雨和雪的天氣系統通常由西向東吹。請問這情"
+"況下最有可能讓西部海岸山脈的哪一邊形成沙漠和其它乾燥的地形？"
+
+msgid "North"
+msgstr "北邊"
+
+msgid "South"
+msgstr "南邊"
+
+msgid "East"
+msgstr "東邊"
+
+msgid "West"
+msgstr "西邊"
+
+msgid ""
+"Correct. Because of high mountain ranges, precipitation might not reach the "
+"east side causing it to be dry."
+msgstr "正確。因為山脈很高，降雨量可能達不到東邊，而使山脈的東部變為乾燥。"
+
+msgid ""
+"No, because of high mountain ranges, precipitation might not reach the east "
+"side causing it to be dry."
+msgstr "不對喔！因為山脈很高，降雨量可能達不到東邊，而使山脈的東部變為乾燥。"
+
+# 22
+msgid "You've completed the Earth Materials and Systems review."
+msgstr "你已經完成了「地球的物質與系統」的單元。"
+
+# additional
+msgid "Mantle"
+msgstr "地函"
+
+msgid "Crust"
+msgstr "地殼"

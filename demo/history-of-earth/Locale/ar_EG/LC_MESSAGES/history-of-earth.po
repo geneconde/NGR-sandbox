@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: History of Earth\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة "
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار سريع رقم 4"
+
+msgid "Quick Check #5"
+msgstr "إختبار سريع رقم 5"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid "Your Task"
+msgstr "مهمتك هي "
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "الواجب المطلوب منك:"
+
+msgid "Please type your answer here..."
+msgstr "يرجى طباعة إجابتك هنا ..."
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك."
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك ... "
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا."
+
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيفية إجابتك على الإختبار السريع وعلى الأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل. "
+
+# Preloader Global
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "استعد للتحقق من اجابتك لأول تقويم سريع..."
+
+msgid "Ready for your first quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك لأول تقويم سريع؟"
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك لأخر تقويم سريع؟"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو ..."
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الاول هو..."
+
+msgid "Take the last quiz question!"
+msgstr "أجب على السؤال الأخير في الإختبار"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال في الاختبار؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "History of Earth"
+msgstr "تاريخ الأرض"
+
+msgid "Welcome to the History of Earth review,"
+msgstr "مرحبا بكم في مراجعة تاريخ الأرض "
+
+# 2
+msgid "Thinking about... history of the earth"
+msgstr "التفكير ...بتاريخ الأرض"
+
+msgid ""
+"Everybody likes dinosaurs. They're very interesting and sometimes scary. If "
+"you've ever seen the movie Jurassic Park you know what I mean. Geologists "
+"are scientists that study the earth. Paleontologists are a kind of "
+"geologists that study fossils - like dinosaurs. Geologists and "
+"paleontologists love to go on great outdoor adventures to study the earth "
+"and its rocks and fossils. Kids and geologists go to the Dinosaur National "
+"Monument in Colorado to have fun and learn about dinosaurs too. Don't worry, "
+"dinosaurs aren't alive anymore - they're all fossils. That means, all that's "
+"left of them are their preserved \"fossilized\" bones and tracks."
+msgstr ""
+"الجميع يحب الديناصورات. انها كائنات مثيرة جدا للاهتمام ومخيفة في بعض "
+"الأحيان.  إذا كنت قد رأيت  فيلم (جوراسيك بارك)  ستعرف ما أعنيه. الجيولوجيين "
+"هم علماء يدرسون الأرض.  علماء الإحاثة هم الجيولوجيون الذين يدرسون الأحافير - "
+"مثل الديناصورات.  الجيولوجيون وعلماء الأحافير يحبون الذهاب في مغامرات كبيرة "
+"في الهواء الطلق لدراسة الأرض والصخور والأحافير.  الاطفال والجيولوجون يذهبون "
+"الى النصب التذكاري الوطني للديناصورات في ولاية كولورادو للمتعة والتعلم عن "
+"الديناصورات أيضا.  لا تقلق، الديناصورات ليست على قيد الحياة بعد الآن - انها "
+"جميعا أحافير، وهذا يعني أن كل ما تبقى منها محفوظ (أحافير)العظام والآثار."
+
+# 3
+msgid "Checking what you know... about the history of earth"
+msgstr "التأكد من مدى معرفتك... حول تاريخ الأرض."
+
+msgid ""
+"In the picture below you can see the fossil dinosaur bones. Which of these "
+"statements <span class='blink'>best</span> describe it?"
+msgstr ""
+"في الصورة أدناه يمكنك ان ترى عظام الديناصور الأحفورية. أي من هذه البيانات "
+"تصفها <span class='blink'>أفضل</span>؟"
+
+msgid ""
+"The actual original bones of the dinosaur that got buried in sediments that "
+"became rocks."
+msgstr "العظام الأصلية  للديناصور التي دفنت في الرواسب و التي أصبحت صخوراً."
+
+msgid ""
+"The imprints of dinosaur bones in the rocks like a handprint you might make "
+"in wet sand or mud."
+msgstr ""
+"البصمات من عظام الديناصور في الصخور هي مثل البصمة التي تصنعها في الرمل الرطب "
+"أو الطين."
+
+msgid "The remains of the bones after they've been changed into rock."
+msgstr "بقايا العظام بعد أن تم تغييرها داخل الصخر."
+
+msgid ""
+"These bones and teeth are the remains of the original dinosaur bones after "
+"they've been replaced by rock material. They are not the original bones and "
+"teeth themselves. And, they are not an imprint of the original bones and "
+"teeth."
+msgstr ""
+"هذه العظام والأسنان هي بقايا عظام الديناصور الأصلية بعد أن تم استبدالها عن "
+"طريق المواد الصخرية.  فهي ليست نفسها العظام والأسنان الأصلية .  وهي ليست "
+"البصمة الأصلية للعظام والأسنان."
+
+msgid "Excavating dinosaur bones..."
+msgstr "التنقيب عن عظام ديناصور ..."
+
+# 4
+msgid "Reviewing core ideas... about the history of earth"
+msgstr "مراجعة الأفكار الأساسية ... حول تاريخ الأرض."
+
+msgid ""
+"The earth is very old and it is always changing. Lots of changes have "
+"happened to the <span class='key'>environment</span> – everything "
+"surrounding living organisms – over time: oceans have formed, continents "
+"have moved, mountains have risen, animals have changed and even gone "
+"extinct. Some of these changes happen quickly, and other changes – like the "
+"changes in sea level that affect the whole country – happen so slowly that "
+"we humans hardly notice the changes in our lifetimes. Many forces, such as "
+"earthquakes and volcanoes, change the earth's shape and its features. Over "
+"millions and millions of years of geological time, events and forces have "
+"changed the kind of environments and the kind of life forms that exist in "
+"those environments as well as the earth itself."
+msgstr ""
+"الأرض قديمة جدا، وتتغير دائما.  وقد حدث الكثير من التغييرات على <span "
+"class='key'>البيئة</span> - كل ما يحيط بالكائنات الحية - مع مرور الوقت: "
+"تشكلت المحيطات، انتقلت القارات، وارتفعت الجبال، وتغيرت الحيوانات وحتى أنها "
+"انقرضت.  بعض هذه التغيرات تحدث بسرعة، والتغييرات الأخرى - مثل التغيرات في "
+"مستوى سطح البحر التي تؤثر على البلاد بأسرها - تحدث ببطء بحيث نحن البشر "
+"بالكاد نلاحظ التغييرات في حياتنا. العديد من القوى، مثل الزلازل والبراكين، "
+"تغير شكل الأرض ومعالمها.  على مدى ملايين وملايين السنين من الزمن الجيولوجي، "
+"والأحداث والقوى غيرت نوع البيئات و أشكال الحياة الذي توجد فيها وكذلك الأرض "
+"نفسها."
+
+msgid "Drying of Lake Urmia, Iran (1984-2012)"
+msgstr "جفاف بحيرة أورميا ،إيران (1984-2012)"
+
+msgid ""
+"There are no eye-witnesses to what went on 65 million years ago, so how do "
+"scientists know about the earth and its creatures in the past? Rocks and "
+"fossils and the patterns they form give scientists clues about the "
+"conditions of the earth millions of years ago."
+msgstr ""
+"لا يوجد شهود عيان على ما جرى قبل 65 مليون سنة، فكيف يعرف العلماء عن الأرض "
+"والمخلوقات التي عاشت بها في الماضي؟ الصخور والأحافير والنقوش والأشكال تعطي "
+"العلماء أدلة حول أوضاع الأرض منذ ملايين السنين."
+
+msgid "Western Interior Seaway"
+msgstr "الطريق البحري الداخلي الغربي"
+
+msgid ""
+"If you look at the map above, where the blue color is water and the green "
+"color is land, you can see that the United States looked much different in "
+"the age of the dinosaurs – about 100 million years ago - than it does now. A "
+"lot of what is now land was once covered with water. The top black dot on "
+"the map is approximately the location of Dinosaur National Monument, right "
+"on the border of Utah and Colorado. What do you think the environment looked "
+"like at this location back when the dinosaurs were roaming around? Can you "
+"find approximately where you live on the map? Was your state on land or "
+"under the water?"
+msgstr ""
+"إذا نظرتم إلى الخريطة أعلاه، حيث أن اللون الأزرق هو الماء واللون الأخضر هو "
+"الأرض، ويمكنك أن ترى أن الولايات المتحدة تبدو مختلفة كثيرا في عصر "
+"الديناصورات - قبل حوالي 100 مليون سنة -عما هي عليه الآن.  والآن هي عبارة عن "
+"يابسة كانت مغطاة بالماء من قبل.  النقطة السوداء أعلى الخريطة هي موقع  النصب "
+"التذكاري الوطني للديناصورات، على الحدود بين يوتا وكولورادو.  ماذا تظن كان "
+"شكل البيئة في مثل هذا الموقع عندما كانت الديناصورات تتجول ؟ هل يمكنك أن تعرف "
+"بشكل تقريبي المكان الذي تعيش فيه على الخريطة ؟ هل كانت دولتك على الأرض أم "
+"تحت الماء؟"
+
+msgid "Changing environment..."
+msgstr "تغيير البيئة..."
+
+# 5
+msgid ""
+"Question A. Look at the map of what the United States looked like a long "
+"time ago (in the Cretaceous geological period as shown on the map below). "
+"How is it different from what it is today?"
+msgstr ""
+"السؤال أ. أنظرعلى الخريطة وما تبدو عليه الولايات المتحدة  منذ فترة طويلة (في "
+"الفترة الجيولوجية الطباشيرية كما هو موضح على الخريطة أدناه).  كيف تختلف عما "
+"هي عليه اليوم؟"
+
+msgid "Florida was a mountain range."
+msgstr "فلوريدا  كانت  سلسلة جبلية."
+
+msgid "Most of the middle part of the country was underwater."
+msgstr " معظم الجزء الأوسط من البلاد كان تحت الماء."
+
+msgid "The northeast US (New England) was underwater."
+msgstr "شمال شرق الولايات المتحدة (نيو إنجلاند) كان تحت الماء."
+
+msgid "It was pretty much the same as it is now."
+msgstr "كانت الى حد كبير كما هي عليه الآن"
+
+msgid "Western"
+msgstr "غربي"
+
+msgid "Interior"
+msgstr "داخلي"
+
+msgid "Seaway"
+msgstr "طريق بحري"
+
+msgid "Click the image to enlarge."
+msgstr "انقر على الصورة للتكبير"
+
+msgid ""
+"Question B. There are differences between the geography of the US during the "
+"Cretaceous period as shown on the map above and the current geography of the "
+"United States. How fast do you think the changes from sea to land have "
+"occurred?"
+msgstr ""
+"السؤال ب. هناك فروق بين جغرافية الولايات المتحدة خلال العصر الطباشيري كما هو "
+"موضحاً في الخريطة في الأعلى و جغرافية الولايات المتحدة الحالية.  كم السرعة "
+"التي تعتقد أن التغيرات من البحر لليابسة قد حدثت؟"
+
+msgid "Very quickly like from a flood."
+msgstr "سريعة جدا بسبب الفيضانات"
+
+msgid "Very slowly from changes in sea level."
+msgstr "بطيئة جدا بسبب التغيرات في مستوى سطح البحر."
+
+msgid "Very slowly from lots of rain every day."
+msgstr "بطيئة جدا بسبب هطول كمية الأمطار الكثيرة يوميا"
+
+msgid "Very quickly from big rain storms."
+msgstr "سريعة جدا بسبب العاصفة الماطرة"
+
+msgid ""
+"No, Florida was not a mountain range. Most of the middle part of the country "
+"was underwater."
+msgstr ""
+"لا، لم تكن فلوريدا سلسلة جبال.  معظم الجزء الأوسط من البلاد كان تحت الماء."
+
+msgid "Correct, Most of the middle part of the country was underwater."
+msgstr "صحيح، معظم الجزء الأوسط من البلاد كان تحت الماء."
+
+msgid ""
+"No, the northeast was a mountain range. Most of the middle part of the "
+"country was underwater."
+msgstr ""
+"لا، لقد كان الشمال الشرقي سلسلة جبلية.  وكان معظم الجزء الأوسط من البلاد تحت "
+"الماء."
+
+msgid ""
+"No, there are many differences. For instance, most of the middle part of the "
+"country was underwater."
+msgstr ""
+"لا، هناك العديد من الاختلافات. على سبيل المثال، معظم الجزء الأوسط من البلاد "
+"كان تحت الماء."
+
+msgid ""
+"No, these changes took place slowly over a very long time, from changes in "
+"sea level."
+msgstr ""
+"لا، جرت هذه التغيرات ببطء على مدى فترة زمنية طويلة جدا، من التغيرات في مستوى "
+"سطح البحر."
+
+msgid "Correct, these changes occurred slowly from changes in sea level."
+msgstr "صحيح، حدثت هذه التغيرات ببطء من التغيرات في مستوى سطح البحر."
+
+msgid ""
+"No, rain every day wouldn't be enough water to cover the entire central US "
+"with a sea – even if it rained every day for a year. Also, the sea covering "
+"the Midwest was salt water, so it came from rising sea levels, not rain or "
+"flooding."
+msgstr ""
+"لا،المطر كل يوم لا يكفي لتغطية وسط الولايات المتحدة كاملة بالبحر - حتى لو "
+"أمطرت كل يوم لمدة عام.  كذلك، كان البحر يغطي الغرب الأوسط بالمياه المالحة، "
+"لذلك جاء هذا من ارتفاع منسوب مياه البحر، وليس المطر أو الفيضانات."
+
+msgid ""
+"No, these changes took place slowly over time, from changes in sea level."
+msgstr ""
+"لا، جرت هذه التغيرات ببطء على مدى فترة زمنية طويلة جدا من التغيرات في مستوى "
+"سطح البحر."
+
+# 6
+msgid "More core ideas... about history of earth"
+msgstr "المزيد من الأفكار الأساسية ... حول تاريخ الأرض"
+
+msgid ""
+"Have you ever seen a rock or fossil collection? Some people collect them as "
+"a hobby, and others study them to learn about the earth's geological past. "
+"Scientists who study rocks and what they mean are called <span "
+"class='key'>geologists</span>. Certain geologists who mostly just study "
+"fossils are called <span class='key'>paleontologists</span>."
+msgstr ""
+"هل سبق لك أن رأيت مجموعة صخور أو أحافوير؟ بعض الناس يجمعها كهواية، وغيرهم "
+"يدرسونها لمعرفة المزيد عن الماضي الجيولوجي للأرض.  ويطلق على العلماء الذين "
+"يدرسون الصخور وما تعنيه   <span class='key'>الجيولوجيين </span>.   ويطلق على "
+"بعض الجيولوجيين الذين يدرسون في الغالب الأحافير <span class='key'> علماء "
+"الحفريات</span> . "
+
+msgid ""
+"So what is a fossil anyway? <span class='key'>Fossils</span> are the remains "
+"of living organisms – either animals or plants - that have been preserved in "
+"rock. Animal's soft parts, like the skin or eyeballs for instance, usually "
+"get eaten or rot away over time so they don't get preserved. Most animal "
+"fossils are copies of just the hard parts – like the shells of clams or "
+"bones of dinosaurs. But even the hard parts of animals that become "
+"fossilized are usually not the original bones or shells. The fossils we find "
+"in rock are actually replacement copies. The original hard parts were "
+"replaced very slowly over a long period of time. The original shell or bone "
+"material is changed to rock. This process amazingly produces almost an exact "
+"replica or copy of the original animal's hard parts. And for plants, "
+"sometimes the leaves and stems leave an imprint in the rock or the tree "
+"trunks are replaced by minerals to leave a \"petrified\" fossil forest."
+msgstr ""
+"فما هو الأحفوري على أية حال؟ <span class='key'> أحافير </span>  هي بقايا "
+"الكائنات الحية - سواء الحيوانات أو النباتات - التي تم الحفاظ عليها في "
+"الصخور. الأجزاء اللينة من الحيوان، مثل الجلد أو مقل العيون على سبيل المثال، "
+"عادة ما تؤكل أو تتعفن مع مرور الزمن بحيث لا يتم الحفاظ عليها. معظم الأحافير "
+"الحيوانية هي مجرد نسخ من الأجزاء الصلبة - مثل أصداف المحار أو عظام "
+"الديناصورات. ولكن حتى الأجزاء الصلبة من الحيوانات التي تصبح متحجرة هي عادة "
+"ليست العظام الأصلية أو الصدفات الأصلية.  الأحافير التي نجدها في الصخور هي في "
+"الواقع نسخ بديلة، يتم فيها استبدال الأجزاء الصلبة الأصلية ببطء شديد على مدى "
+"فترة طويلة من الزمن. حيث يتم استبدال الصدف أو العظم الأصلي بمواد صخرية .  "
+"هذه العملية تنتج وبشكل مثير للدهشة تقريبا نسخة طبق الأصل أو نسخة من الأجزاء "
+"الصلبة للحيوان الأصلي.  وبالنسبة للنباتات، تترك الأوراق والسيقان أحيانا بصمة "
+"في الصخر أو أنها تستبدل بالمعادن لترك غابة أحفورية \"متحجرة\"."
+
+msgid ""
+"Geologists study rock layers in addition to the fossils contained inside "
+"them. A very important principle of geology is that a sedimentary rock layer "
+"is probably older than the layers above, and younger than the layers below "
+"it. So by studying the different layers, scientists can get a good idea "
+"about how animals evolved and how the rock structure of an area has changed "
+"over time. In this way, the rocks help determine how old the fossils are."
+msgstr ""
+"يدرس الجيولوجيون الطبقات الصخرية بالإضافة إلى الأحافيرالتي بداخلها.  وهناك "
+"مبدأ مهم جدا في الجيولوجيا وهو أن طبقة الصخور الرسوبية ربما تكون أقدم من "
+"الطبقات أعلاها، وأحدث من الطبقات التي تحتها.  اذا من خلال دراسة طبقات "
+"مختلفة، يمكن للعلماء الحصول على فكرة جيدة عن كيفية تطور الحيوانات وكيف تغيرت "
+"بنية الصخور من منطقة اختلفت بمرور الوقت. بهذه الطريقة، الصخور تساعد على "
+"تحديد عمر تلك الأحافير."
+
+msgid ""
+"Rocks and fossils are evidence that help geologists figure out how old one "
+"layer of rock was compared to another, and how the environment where the "
+"rock was found changed over time. Not all the rocks and fossils scientists "
+"find are in perfect shape, so they compare rock layers from different areas "
+"of the earth to get a more complete picture of the conditions on our planet."
+msgstr ""
+"الصخور والأحافير هي أدلة  تساعد الجيولوجيين معرفة كيف تتم مقارنة طبقة واحدة "
+"من الصخور القديمة بأخرى، وكيف يمكن للبيئة حيث توجد الصخور أن تتغير مع مرور "
+"الوقت.  ليست كل الصخور والأحافيرالتي يجدها العلماء  هي ذات شكل مثالي، لذا "
+"فهم يقارنون الطبقات الصخرية وبين المناطق المختلفة من الأرض للحصول على صورة "
+"أوفى عن كوكبنا."
+
+msgid "Collecting different rocks..."
+msgstr "جمع الصخور المختلفة"
+
+# 7
+msgid "Question A. Which of the following is an example of a fossil?"
+msgstr "السؤال أ. أي من التالي هو مثال على الأحفورة؟"
+
+msgid "A seashell found on the beach"
+msgstr "وجدت صدفة البحر على الشاطئ"
+
+msgid "An old shoe found in the county landfill"
+msgstr " العثور على حذاء قديم في مكب النفايات في المقاطعة"
+
+msgid "A dead tree stuck in the dirt in your neighborhood"
+msgstr "شجرة ميتة عالقة في التراب في منطقتكم"
+
+msgid "A seashell found inside a piece of rock"
+msgstr "وجود صدفة داخل قطعة من الصخور"
+
+msgid ""
+"Question B. Based on what you learned about sedimentary rock layers, if you "
+"were to drill down from the surface of the earth, which rock layers would be "
+"<span class='blink'>most likely</span> the oldest?"
+msgstr ""
+"السؤال ب.  بناء على ما تعلمته عن طبقات الصخور الرسوبية، إذا كنت تحفر أسفل "
+"سطح الأرض، أي الطبقات الصخرية <span class='blink'>من المرجح</span> أن تكون "
+"أقدم. "
+
+msgid "The rock layers farthest from the surface are usually the oldest."
+msgstr " طبقات الصخور البعيدة عن السطح عادة ما تكون أطول عمرا."
+
+msgid "The thinnest rock layer"
+msgstr "طبقة الصخور الأقل سمكا "
+
+msgid "The ones closest to the surface"
+msgstr "تلك الأقرب إلى السطح"
+
+msgid "The thickest ones"
+msgstr "تلك الأسمك"
+
+msgid "The ones deepest from the surface"
+msgstr "تلك الأعمق من السطح"
+
+msgid "Drilling down earth's surface..."
+msgstr "الحفر أسفل سطح الأرض ..."
+
+msgid "No, but a seashell from long ago inside a rock would be a fossil."
+msgstr "لا، ولكن الصدف الموجود داخل الصخرة  لمدة طويلة سيكون أحفورة."
+
+msgid ""
+"No, not everything that is old is a fossil. Fossils are the remains of "
+"living organisms that have been preserved in rock."
+msgstr ""
+"لا، ليس كل ما هو قديم أحفوري.  الأحافير هي بقايا الكائنات الحية التي تم "
+"الحفاظ عليها في الصخور ."
+
+msgid ""
+"No, but a dead tree from millions of years ago might have left an impression "
+"on a rock and be deep underground in your yard."
+msgstr ""
+"لا، ولكن شجرة ميتة من ملايين السنين قد تكون تركت بصمة على صخرة أو تكون في "
+"أعماق الأرض في الساحة الخاصة بمنزلك."
+
+msgid ""
+"Correct! Fossils are the remains of living organisms that have been "
+"preserved in rock."
+msgstr "صحيح! الأحافير هي بقايا الكائنات الحية التي حفظت في الصخور ."
+
+msgid ""
+"No, what is important in rock layers is which one is on top of the other, "
+"not their thickness. The rock layers farthest from the surface are usually "
+"the oldest."
+msgstr ""
+"لا، ما هو مهم في طبقات الصخور هي أنها  تأتي فوق بعضها البعض، وليس لها سُمك.  "
+"تعد الطبقات البعيدة عن السطح  أكبر عمرا."
+
+msgid ""
+"No, a rock layer is probably older than the layers above, and younger than "
+"the layers below."
+msgstr ""
+"لا، طبقة الصخور من المرجح أن تكون  أقدم من الطبقات أعلاها، وهي اقل عمرا من "
+"الطبقات أدناها."
+
+msgid ""
+"Correct, the rock layers deepest from the surface would most  likely be the "
+"oldest."
+msgstr "صحيح، من المرجح أن تكون طبقات الصخور الأعمق من السطح هي الأقدم."
+
+# 8
+msgid ""
+"The life forms that fossils represent changed over geological time. So "
+"different kinds of fossils found in rocks can help geologists tell about how "
+"old the rock might be. That's right! It works both ways. Scientists get "
+"clues from rock layers to figure out how old fossils are, and they get clues "
+"from how evolved the plant or animal is in the fossil to figure out how old "
+"the rock might be."
+msgstr ""
+"أشكال الحياة التي تمثلها الأحافير تغيرت على مر الزمن الجيولوجي.  أنواع "
+"مختلفة جدا من الأحافير وجدت في الصخور يمكن أن تساعد الجيولوجيين أن يحددوا "
+"عمر الصخور.   هذا صحيح! ويصلح في كلا الإتجاهين.  العلماء يحصلون على الأدلة "
+"من طبقات الصخور لمعرفة عمر هذه الأحافير، ويحصلون على أدلة من تطور النبات أو "
+"الحيوان في الأحفورة لمعرفة كم قد يكون عمر الصخرة."
+
+msgid ""
+"Fossils of simple life forms, like brachiopods and trilobites, are usually "
+"found early in the history of life on earth - like in the Cambrian "
+"geological time period around 500 million years ago. Fish are mostly found "
+"starting in the Devonian geological time period about 400 million years ago. "
+"Dinosaurs came later, starting at around 230 million years ago, then "
+"mammals, then humans and all the other animals in between."
+msgstr ""
+"أحافير من أشكال الحياة البسيطة، مثل ذوات القوائم الذراعية وثلاثية الفصوص، "
+"عادة ما تكون موجودة في وقت مبكر من تاريخ الحياة على الأرض - كما هو الحال في "
+"الفترة الزمنية الجيولوجية (الكمبري) قبل نحو 500 مليون سنة.  تم العثور على "
+"الأسماك غالبا في فترة زمنية جيولوجيةتبدأ في العصر الديفوني قبل حوالي 400 "
+"مليون سنة.  وجاءت الديناصورات في وقت لاحق، بدأت حوالي قبل  230 مليون سنة، ثم "
+"الثدييات، ثم البشر وجميع الحيوانات الأخرى ."
+
+msgid ""
+"So if a geologist finds a rock with a dinosaur fossil in it, she knows that "
+"it can't be 400 or 500 million years old because dinosaurs didn't exist back "
+"then. Other clues like which specific dinosaur fossil they find – is it a T."
+"Rex? or is it a triceratops? – help geologists be sure about a specific time "
+"range for the rock. If a rock has a dinosaur fossil bone in it, that tells "
+"geologists the rock can't be older than 230 million years old or younger "
+"than 65 million years old."
+msgstr ""
+" إذا وجدت عالمة جيولوجية صخرة أحفورية لديناصور، فهي تعلم أنها لا يمكن أن "
+"يكون عمرها 400 أو 500 مليون سنة لأن الديناصورات لم تكن موجودة في ذلك الوقت.  "
+"أدلة أخرى على أحافير الديناصورات التي وجدت - هي من نوع (تراينوصورز)؟ أم أنها "
+"ترايسيراتوبس؟ - ساعد الجيولوجيين للتأكد من عمر الصخور.  إذا كان في الصخور "
+"أحفورة لعظام ديناصور ، هذا يبين للجيولوجيون أن الصخور لا يمكن أن تكون أقدم "
+"من 230 مليون سنة أو أقل من 65 مليون سنة."
+
+msgid "Tyrannosaurus Rex fossil"
+msgstr "أحفورة تيرانوسورس ركس."
+
+msgid "Triceratops fossil"
+msgstr "أحفورة ترايسيراتوبس"
+
+msgid "Geologist working on research..."
+msgstr "جيولوجي يعمل في مجال البحوث ..."
+
+# 9
+msgid ""
+"Question A. Fossils can help geologists tell about how old a rock is "
+"because..."
+msgstr ""
+" السؤال أ.  يمكن للأحافير أن تساعد الجيولوجيين تحديد عمر الصخرة لأن ..."
+
+msgid ""
+"Certain fossils are related to certain time periods in the geological "
+"history of earth."
+msgstr "ترتبط بعض الحفريات لفترات زمنية معينة بالتاريخ الجيولوجي للأرض."
+
+msgid "Life on earth has always been the same throughout geological time."
+msgstr "لقد كانت الحياة على الأرض هي نفسها طول فترة  الزمن الجيولوجي."
+
+msgid "Fossils are radioactive so they can be dated by radioactivity."
+msgstr "الأحافير مشعة لذا فهي تؤرخ عن طريق النشاط الإشعاعي."
+
+msgid "Paleontologists just know when each fossil was formed."
+msgstr "علماء الأحافير يعرفون متى تم تشكل  الأحافير."
+
+msgid ""
+"Question B. If a geologist finds a rock with a Tyrannosaurus Rex bone in it, "
+"a good estimate of when the rock was formed would be..."
+msgstr ""
+"السؤال ب.  إذا وجد عالم جيولوجي صخرة مع عظم تيرانوسوراس ركس فيها، التقدير "
+"الجيد لوقت تشكل الصخرة سيكون ..."
+
+msgid "Within the last 10 thousand years"
+msgstr "في غضون ال 10 آلاف سنة الأخيرة"
+
+msgid "Within the last 10 million years"
+msgstr "في غضون ال 10 ملايين سنة الأخيرة"
+
+msgid "Within the last 50 million years"
+msgstr "في غضون ال 50 مليون سنة الأخيرة"
+
+msgid "Older than 65 million years"
+msgstr "مضى عليها أكثر من 65 مليون سنة"
+
+msgid ""
+"Correct. Because the earth and all that's in it changes, fossils can be "
+"identified with a specific time period to figure out how old it is."
+msgstr ""
+"صحيح.  لأن الأرض وكل ما هو عليها يتغير، ويمكن تحديد الأحافير في فترة زمنية "
+"محددة لمعرفة عمرها."
+
+msgid ""
+"Quite the opposite, life on earth has always been changing throughout "
+"geological time."
+msgstr "على العكس تماما، الحياة على الأرض دائما في تغير خلال الزمن الجيولوجي."
+
+msgid ""
+"No, fossils are not radioactive but they are usually collected along with "
+"rock from the same layer and sometimes, the rock can be dated based on "
+"radioactivity."
+msgstr ""
+"لا، الأحافير ليست مشعة ولكن عادة ما يتم جمعها مع صخرة من نفس الطبقة وأحيانا، "
+"يمكن ان تكون الصخور مؤرخة على أساس النشاط الإشعاعي."
+
+msgid ""
+"No, In Science, everything is proven even if paleontologists have a "
+"hypothesis. Certain fossils are indicative of certain time periods in the "
+"geological history of the earth."
+msgstr ""
+"لا، في العلوم، كل شيء مثبت حتى لو كان لدى علماء الإحاثة فرضية .  بعض "
+"الأحافير تدل على فترات زمنية معينة في التاريخ الجيولوجي للأرض."
+
+msgid ""
+"No, because no dinosaurs lived on earth within the last 10 thousand years. "
+"Dinosaurs lived between 65 and 230 million years ago."
+msgstr ""
+"لا، لأنه لا يوجد ديناصورات قد عاشت على الأرض خلال ال 10 مليون سنة الماضية.  "
+"الديناصورات عاشت ما بين 65 و 230 مليون سنة\"."
+
+msgid ""
+"No, because no dinosaurs lived on earth within the last 10 million years. "
+"Dinosaurs lived between 65 and 230 million years ago."
+msgstr ""
+"لا، لأنه لا يوجد ديناصورات قد عاشت على الأرض خلال ال 10 مليون سنة الماضية.  "
+"الديناصورات عاشت ما بين 65 و 230 مليون سنة"
+
+msgid ""
+"No, dinosaurs are a little bit older than that. Dinosaur fossils are dated "
+"to be between 65 and 230 million years old."
+msgstr ""
+"لا، الديناصورات  أكبر عمرا.  ارِخَت أحافير الديناصورات لتكون ما بين 65 و 230 "
+"مليون سنة."
+
+msgid ""
+"Correct, dinosaur fossils are dated to be between 65 and 230 million years "
+"old. Dinosaurs became extinct 65 million years ago so there are no dinosaur "
+"fossils younger than 65 million years."
+msgstr ""
+"صحيح، أرخت احافير الديناصور ما بين 65 و 230 مليون سنة.  أصبحت الديناصورات "
+"منقرضة قبل 65 مليون سنة حتى لا يكون هناك احافير الديناصور ممن تقل أعمارهم عن "
+"65 مليون سنة."
+
+# 10
+msgid "Using what you know... about the history of earth... to solve a problem"
+msgstr "استخدام ما تعرفه ... عن تاريخ الأرض... من أجل حل مشكلة"
+
+msgid ""
+"You are a geologist searching for a big oil deposit. You are in charge of "
+"drilling a hole down into the earth to find the oil. Other geologists in the "
+"area have found that oil is found in a certain layer of rocks that is about "
+"400 million years old."
+msgstr ""
+"أنت جيولوجي وتبحث عن حقل نفط كبير.  و أنت مسؤول عن حفر حفرة أسفل الأرض "
+"للعثور على النفط. وقد وجد علماء الجيولوجيا الأخرين في المنطقة أن النفط يوجد "
+"في طبقة معينة من الصخور وعمرها نحو 400 مليون سنة."
+
+msgid ""
+"Using what you now know of fossils and the history of the earth, how would "
+"you figure out which layer is about 400 million years old? Provided you "
+"could dig three times before you had to tell your team how deep to drill the "
+"hole, what would you do to determine which layer is the layer with oil?"
+msgstr ""
+"باستخدام ما تعرفه الآن عن الأحافير وتاريخ الأرض، كيف يمكنك معرفة أي طبقة "
+"عمرها حوالي 400 مليون سنة؟ شريطة أنه يمكنك الحفر ثلاث مرات  قبل أن تخبر "
+"فريقك مدى عمق الحفرة، ماذا كنت ستفعل لتحدد أي طبقة هي التي تحتوي على النفط؟"
+
+msgid "Preparing drilling rig..."
+msgstr "إعداد حفر الآبار ..."
+
+# 11
+msgid "Summarizing core ideas... about history of earth"
+msgstr "مراجعة الأفكار الأساسية حول  ...تاريخ الأرض"
+
+msgid ""
+"The earth has a very, very – almost unimaginably – long history that "
+"stretches back 4.5 billion years. During that time, the <span "
+"class='key'>environments</span> of the earth have continually changed and "
+"left a record of that change in the rocks. Life forms also changed "
+"dramatically over geological time - from very simple life forms early in the "
+"earth's history to more complex life forms today. <span "
+"class='key'>Geologists</span> and <span class='key'>paleontologists</span> "
+"study the earth's rocks, and the <span class='key'>fossils</span> in those "
+"rocks, to tell how old the rocks are and in what environments each rock was "
+"formed. By doing this, earth scientists can figure out the story of the "
+"history of the earth."
+msgstr ""
+"للأرض تاريخ طويل جدا جدا لا يمكن تخيله يعود الى 4.5 بليون سنة.  خلال ذلك "
+"الوقت، <span class='key'>بيئات</span> الأرض  تغيرت باستمرار وتركت هذا التغير "
+"في الصخور.  تغيرت أشكال الحياة أيضا بشكل كبير على مر الزمن الجيولوجي - من "
+"أشكال الحياة البسيطة جدا في تاريخ الأرض الى أشكال الحياة المعقدة الآن . "
+"<span class='key'>الجيولوجيون</span> و <span class='key'>علماء الإحاثة</"
+"span> يدرسون الصخور على الأرض، و <span class='key'>الأحافير</span> في تلك "
+"الصخور ، يمكن معرفة عمر الصخور وفي أي بيئات تشكلت.  من خلال ذلك، يمكن لعلماء "
+"الأرض معرفة كل ذلك من تاريخ الأرض."
+
+msgid "Putting it all together..."
+msgstr "وضع كل ذلك معا..."
+
+# 12
+msgid "Reviewing key vocabulary related to... history of earth"
+msgstr "مراجعة المفردات المفتاحية المرتبطة ب...تاريخ الأرض"
+
+msgid "Geologist"
+msgstr "الجيولوجي "
+
+msgid ""
+"A scientist who studies rocks and minerals. Geologists study the change of "
+"environments on the Earth over large time scales."
+msgstr ""
+" العالم هو الذي يدرس الصخور والمعادن.  الجيولوجيون يدرسون تغير البيئات على "
+"الأرض في فترات زمنية كبيرة."
+
+msgid "Fossil"
+msgstr "أحفورة"
+
+msgid ""
+"The preserved remains or traces of organisms that lived in the past. "
+"Fossilized remains were covered and preserved in sediment. Fossilized "
+"material has had its original materials replaced with minerals gradually "
+"over time."
+msgstr ""
+"بقايا أو آثار الكائنات الحية المحفوظة التي عاشت في الماضي.  بقيت الأحافير "
+"مغطاة ومحفوظة في الرواسب.  استبدلت مواد الأحافير الأصلية بالمعادن تدريجيا مع "
+"مرور الوقت."
+
+msgid "Paleontologist"
+msgstr "عالم الأحافير"
+
+msgid ""
+"A scientist who studies ancient organisms. Paleontologists use aspects of "
+"biology and geology to investigate long extinct plants and animals. They use "
+"fossils to help construct their hypothesis about how life existed in the "
+"distant past."
+msgstr ""
+"العالم هو من  يدرس الكائنات الحية القديمة.  علماء الإحاثة يستخدمون  جوانب "
+"علم الأحياء والجيولوجيا للتحقيق في النباتات والحيوانات التي انقرضت منذ زمن "
+"طويل.  فهم يستخدمون الأحافير للمساعدة في بناء فرضيتهم حول كيفية وجود حياة في "
+"الماضي البعيد."
+
+msgid "Environment"
+msgstr "البيئة"
+
+msgid ""
+"The immediate area in which an organism or group of organisms live. All of "
+"the physical, chemical, and biological materials surrounding an organism "
+"make up its environment."
+msgstr ""
+"المنطقة الحالية والتي يعيش فيها الكائن الحي أو مجموعة من الكائنات الحية.  "
+"جميع المواد الفيزيائية والكيميائية والبيولوجية المحيطة بالكائن الحي تشكل "
+"بيئتها."
+
+# 13
+msgid "Checking what you now know... about history of earth"
+msgstr "تأكد مما تعرف ... حول تاريخ الأرض."
+
+# 14
+msgid "What is a fossil?"
+msgstr "ما هي الأحفورة؟"
+
+msgid "The original bones and shells from the animal."
+msgstr "العظام والأصداف الأصلية من الحيوان."
+
+msgid "Copies of the original animal that paleontologists make from plastic."
+msgstr "نسخ من الحيوان الأصلي صنعها علماء الأحافير من البلاستيك."
+
+msgid "Copies of the original animal that paleontologists make from cement."
+msgstr "نسخ من الحيوان الأصلي صنعها علماء الأحافير من الاسمنت."
+
+msgid ""
+"Copies of the original animal that geologic processes formed by replacing "
+"bone or shell with rock."
+msgstr ""
+"نسخ من الحيوان الأصلي شكلتها العمليات الجيولوجية باستبدال العظام أو الصدف "
+"بالصخور."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة لأعلى ولأسفل لتدوير المربع وحدد إجابتك."
+
+msgid ""
+"Correct, fossils are copies of the original organism in rock. They are not "
+"made by paleontologists."
+msgstr ""
+"صحيح، الأحافير هي نسخة من الكائن الأصلي في الصخر.  ليست مصنوعة بواسطة علماء "
+"الحفريات."
+
+msgid ""
+"No, the original bones and shells rot away and are replaced by rock over "
+"time."
+msgstr "لا، العظام الأصلية والأصداف تتعفن وتحل محلها الصخور على مر الزمن."
+
+msgid ""
+"No, fossils are not made by paleontologists. They are copies of the original "
+"organism in rock made by nature. The bone or shell is replaced with rock."
+msgstr ""
+"لا، الأحافير ليست مصنوعة بواسطة علماءالإحاثة.  فهي نسخ من الكائن الأصلي في "
+"الصخور تشكلت في الطبيعة.  تستبدل العظام أو الأصداف بالصخور."
+
+# 15
+msgid ""
+"Earth scientists believe that, thousands or millions of years ago, the "
+"environments in some places on the earth were very different from today "
+"because..."
+msgstr ""
+"ويعتقد علماء الأرض أنه منذ  آلاف أو ملايين السنين، كانت البيئات في بعض "
+"الأماكن على الأرض مختلفة جدا عن اليوم بسبب ..."
+
+msgid "They use fossils to provide evidence to support this claim."
+msgstr " هم  يستخدمون الأحافير لتقديم أدلة لدعم هذا الادعاء."
+
+msgid "They use rock layers to provide evidence to support this claim."
+msgstr "هم يستخدمون طبقات الصخور لتقديم أدلة لدعم هذا الإدعاء."
+
+msgid "They use rock radioactivity to provide evidence to support this claim."
+msgstr "هم يستخدمون الصخور ذات النشاط الإشعاعي لتقديم أدلة لدعم هذا الادعاء."
+
+msgid "All of the above"
+msgstr "كل ما ذكر أعلاه."
+
+msgid "Counting years of changes..."
+msgstr "تعداد سنين من التغيرات"
+
+msgid ""
+"Not quite. Information from rock layers and fossils help scientists prove "
+"the earth has changed a lot over millions of years."
+msgstr ""
+"ليس تماما.  المعلومات التي تؤخذ من الأحافير وطبقات الصخور تساعد العلماء في "
+"إثبات أن الأرض قد تغيرت كثيرا على مدى ملايين السنين."
+
+msgid ""
+"Not quite. Information from fossils and rock layers help scientists prove "
+"the earth has changed a lot over millions of years."
+msgstr ""
+"ليس تماما.  المعلومات التي تؤخذ من الأحافير وطبقات الصخور تساعد العلماء في "
+"إثبات أن الأرض قد تغيرت كثيرا على مدى ملايين السنين."
+
+msgid ""
+"Not quite. Scientists use information from fossils and rock layers to prove "
+"this. Scientists also use radioactivity dating to collect more information "
+"from rock layers."
+msgstr ""
+"ليس تماما.  يستخدم  العلماء المعلومات من الأحافير  وطبقات الصخور لاثبات "
+"ذلك.  يستخدم العلماء النشاط الإشعاعي المؤرخ لجمع مزيد من المعلومات من طبقات "
+"الصخور."
+
+msgid ""
+"Correct. The earth has changed over time and still is changing. Scientists "
+"use evidence from rocks and fossils to support this claim. Radioactive "
+"dating of rocks also provides evidence for how old the rocks and fossils are."
+msgstr ""
+"صحيح.  تغيرت الأرض على مر الزمن و لا تزال آخذة في التغير.  العلماء يستخدمون "
+"أدلة من الصخور والأحافير لدعم هذا الادعاء.  تاريخ الصخور المشعة يوفر دليلا "
+"لقدم الصخور والأحافير."
+
+# 16
+msgid ""
+"Geologists studying the history of the earth believe that the environments "
+"on the earth's surface have..."
+msgstr ""
+" يعتقد الجيولوجيون الذين يدرسون تاريخ الأرض أن البيئات على سطح الأرض..."
+
+msgid "Remained the same over geological time."
+msgstr "بقيت على حالها على مر الزمن الجيولوجي."
+
+msgid "Changed in the distant past but are not changing now."
+msgstr "تغيرت في الماضي البعيد ولكن لم تتغير الآن."
+
+msgid "Not changed in the past but are changing now."
+msgstr "لم تتغير في الماضي ولكنها تتغير الآن."
+
+msgid "Have changed in the past and are still changing today."
+msgstr "تغيرت في الماضي ومازالت تتغيرحتى اليوم."
+
+msgid "Reading history of earth..."
+msgstr "قراءة تاريخ الأرض\"..."
+
+msgid ""
+"No, environments on the earth's surface have changed in the past and are "
+"still changing today."
+msgstr "لا، لقد تغيرت البيئات على سطح الأرض في الماضي ومازالت تتغير حتى اليوم."
+
+msgid ""
+"Not quite, environments on the earth's surface are changing now as well."
+msgstr "ليس تماما،البيئات على سطح الأرض تتغير الآن كذلك."
+
+msgid ""
+"Not quite, the environments on the earth's surface have changed in the past "
+"as well."
+msgstr "ليس تماما، تغيرت كذلك البيئات على سطح الأرض في الماضي."
+
+msgid ""
+"Correct, environments on the earth's surface have been continuously changing "
+"over geological time and are still changing."
+msgstr ""
+"صحيح، البيئات على سطح الأرض تم تغييرها بشكل مستمر على مدى الزمن الجيولوجي "
+"وما زالت تتغير."
+
+# 17
+msgid ""
+"Geologists can use fossils to get a good idea of about how old rocks are "
+"because..."
+msgstr ""
+"يمكن  أن يستخدم الجيولوجيون الأحافير للحصول على فكرة جيدة عن عمر الصخور "
+"القديمة لأن ..."
+
+msgid "The kinds of fossils contained in rocks change over time."
+msgstr "أنواع الأحافير التي تحتويها الصخور تتغير بمرور الوقت."
+
+msgid "Fossils can be dated by radioactivity."
+msgstr "الأحافير ربما تعود لما قبل النشاط الإشعاعي."
+
+msgid ""
+"The same kinds of fossils in rocks occur throughout all of geologic time."
+msgstr "نفس أنواع الأحافيرفي الصخور توجد على مر الزمن الجيولوجي."
+
+msgid "Fossil soft parts are preserved in rock."
+msgstr "يتم الاحتفاظ بالأجزاء الأحفورية اللينة في الصخر."
+
+msgid "Using fossils as reference..."
+msgstr "باستخدام الأحافير كمرجع ..."
+
+msgid ""
+"Correct! The kind of plants and animals and the fossils that form from them "
+"change over time. This helps paleontologists identify the fossils, and the "
+"rocks they are found in, with a specific geological time periods."
+msgstr ""
+"صحيح! هذا النوع من النباتات والحيوانات والأحافير التي تتشكل منها تتغير بمرور "
+"الوقت.  وهذا يساعد علماء الإحاثة في التعرف عليها، والصخورالتي وجدت فيها، "
+"خلال فترة  محددة من الزمن الجيولوجي."
+
+msgid ""
+"No. Fossil soft parts rot away and get destroyed. Organisms (and fossils) "
+"change and this helps paleontologists identify the fossil (then rock) with a "
+"specific geological time period."
+msgstr ""
+"الأجزاء الأحفورية اللينة تتعفن وتبلى.  والكائنات الحية (والأحفوريات) تتغير "
+"وهذا يساعد علماء الإحاثة تحديد الأحفورة (ثم الصخور) في فترة زمنية جيولوجية "
+"محددة."
+
+msgid ""
+"No. The kind of fossils (the organisms which make them) changes over time. "
+"This helps paleontologists identify the fossil (then rock) with a specific "
+"geological time period."
+msgstr ""
+"لا هذا النوع من الأحافير (الكائنات الحية التي تتكون منها) تتغير مع مرور "
+"الوقت.  وهذا يساعد علماء الإحاثة تحديد الأحفورة (ثم الصخور) مع فترة زمنية "
+"جيولوجية محددة."
+
+msgid ""
+"Not quite. Rocks can be dated using radioactivity. This is done without the "
+"help of fossils."
+msgstr ""
+"ليس تماما.  الصخور يمكن أن تؤرخ باستخدام الإشعاع.  يتم ذلك من دون مساعدة من "
+"الأحافير."
+
+# 18
+msgid ""
+"Drag each of the fossils to where it would most likely be found in the rock "
+"layer diagram."
+msgstr ""
+"اسحب كل من الأحافير إلى حيث من المرجح أن تكون موجودة في الرسم البياني لطبقة "
+"الصخور."
+
+msgid "200 million years"
+msgstr "مئتا مليون سنة"
+
+msgid "270 million years"
+msgstr "مئتان وسبعون مليون سنة"
+
+msgid "110 million years"
+msgstr "مئة وعشر مليون سنة"
+
+msgid "Reset"
+msgstr "اعادة تشغيل"
+
+msgid "Different layers of rocks"
+msgstr "طبقات مختلفة من الصخور"
+
+msgid ""
+"Great job! You used an important geologic principle about rock layers to "
+"show where these fossils might be found underground. The oldest fossil will "
+"probably be found in the rock layer farthest from the surface. The youngest "
+"fossil will probably be found in the layer closest to the surface."
+msgstr ""
+"عمل عظيم! لقد استخدمت مبدأ جيولوجي مهم حول طبقات الصخور لإظهار مكان وجود هذه "
+"الأحافير تحت الأرض.  يمكن العثور على الأحافير القديمة في طبقة الصخر البعيدة "
+"عن سطح الأرض.  ويمكن العثور على الأحفورة الأحدث في الطبقة الأقرب إلى السطح."
+
+msgid ""
+"Not quite. The oldest fossil will probably be found in the rock layer "
+"farthest from the surface. The youngest fossil will probably be found in the "
+"layer closest to the surface."
+msgstr ""
+"ليس تماما.  من المرجح أن يتم العثور على أقدم الأحافير في أبعد طبقة للصخور من "
+"سطح الأرض.  وربما يمكن العثور على أصغر الأحافير في الطبقة الأقرب إلى السطح."
+
+# 19
+msgid ""
+"Read the statements below and click on the one that is <span "
+"class='blink'>not</span> correct."
+msgstr ""
+"إقرأ العبارات في الأسفل وانقر على العبارة <span class='key'>غير</span>  "
+"الصحيحة. "
+
+msgid ""
+"Certain geologists that mostly just study fossils are called paleontologists."
+msgstr "ويطلق على علماء الجيولوجيا والذين يدرسون  الأحافير بعلماء الإحاثة."
+
+msgid ""
+"Fossils are the remains of living organisms that have been preserved in rock."
+msgstr "الأحافير هي بقايا الكائنات الحية التي حفظت في الصخور ."
+
+msgid ""
+"Most fossils found in rock are the original bones and shells of animals long "
+"ago."
+msgstr ""
+"معظم الأحافير التي وجدت في الصخور هي عظام وأصداف أصلية  من الحيوانات منذ "
+"فترة طويلة."
+
+msgid ""
+"Geologists study rock layers in addition to the fossils contained inside "
+"them."
+msgstr "يدرس الجيولوجيون الطبقات الصخرية بالإضافة إلى الأحافير التي بداخلها."
+
+msgid ""
+"No, this statement is correct. Scientists that study rocks and what they "
+"mean are called geologists. Certain geologists that mostly just study "
+"fossils are called paleontologists."
+msgstr ""
+"لا، هذه العبارة صحيحة. ويطلق على العلماء الذين يدرسون الصخور وما تعنيه "
+"بالجيولوجيين.  ويطلق على علماء الجيولوجيا الذين يدرس الأحافير بعلماء الإحاثة."
+
+msgid ""
+"No, this statement is correct. Fossils are the remains of living organisms "
+"that have been preserved in rock. This process produces almost an exact copy "
+"of the animal's hard parts."
+msgstr ""
+"لا، هذه العبارة صحيحة.  الأحافير هي بقايا الكائنات الحية التي حفظت في "
+"الصخور .  تنتج هذه العملية تقريبا صورة طبق الأصل من الأجزاء الصلبة للحيوان."
+
+msgid ""
+"Correct! This statement is false.  The fossils we find in rock are actually "
+"replacement copies. Most fossils are copies of the hard parts of animals, "
+"they are not really the original bones or shells."
+msgstr ""
+"صحيح! هذه العبارة غير صحيحة.  الأحافير التي نجدها  في الصخور هي في الواقع "
+"نسخ مستبدلة.  معظم الأحافير هي نسخ من الأجزاء الصلبة من الحيوانات، فهي ليست "
+"حقا العظام أو الأصداف الأصلية ."
+
+msgid ""
+"No, this statement is correct. By studying different layers, scientists can "
+"get a good idea about how animals evolved and determine how old the fossils "
+"are."
+msgstr ""
+"لا، هذه العبارة صحيحة.  من خلال دراسة الطبقات المختلفة، يمكن للعلماء الحصول "
+"على فكرة جيدة عن كيفية تطور الحيوانات وتحديد عمر الأحافير."
+
+# 20
+msgid "You've completed the History of Earth review."
+msgstr "لقد أكملت مراجعة ... تاريخ الأرض ."

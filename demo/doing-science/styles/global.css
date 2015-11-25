@@ -1,0 +1,256 @@
+html { background-color: #FFFFFF; }
+body { display: none; overflow: hidden; }
+html,body { height:100%; padding:0; margin:0; font: 24px/1.4 'PlaytimeRegular', 'Comic Sans MS', sans-serif; min-height: 450px;  } /* Change font-family to module font */
+.wrap { margin: 0 auto; max-width:900px; height:100%; border-left: 1px dashed #c4a1f8; border-right: 1px dashed #c4a1f8; padding: 0 2px; }
+.bg > div { width: 95%; margin: 0 auto; }
+img { -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px; margin:0;}
+h1 {  font-size: 35px; text-align:left; margin: 0; padding: 5px 0; } /* TITLE */
+h2 { font-size: 24px; color: #03668d; font-weight:normal;} /* QUESTION */
+p { margin: 0; padding: 5px 0; text-align: left; }
+.key { color:  orange; }
+.red { color: red; }
+.green { color: green; }
+.hidden { display: none; }
+.centered { text-align: center; margin: 0 auto; }
+.clear { clear: both; }
+.fl { float: left; }
+.fr { float: right; }
+.buttons { position: absolute; bottom: 2%; right: 2%; }
+.buttons-back { position: absolute; bottom: 2%; left: 2%; }
+
+#screen1 { margin: 0 auto; }
+#screen2 { margin:0 auto; display: none; text-align: center;  max-width: 95%;  margin-top: 0%;}
+#screen3 { margin:0 auto; display: none; text-align: center;  max-width: 95%;  margin-top: 0%;}
+#screen4 { margin:0 auto; display: none; text-align: center;  max-width: 95%;  margin-top: 0%;}
+#answer { margin:0 auto; display: none; text-align: center;  max-width: 95%;  margin-top: 0%;}
+#answer p {text-align:center;}
+
+html[dir="rtl"] ul.lang-menu { right:10px; left: auto; }
+html[dir="rtl"] p { text-align: right; padding-right: 10px; }
+html[dir="rtl"] h1 { text-align: right; padding-right: 10px; }
+html[dir="rtl"] h2 { text-align: right; padding-right: 10px; }
+
+#buttons {
+	position: absolute;
+	z-index: 4;
+	bottom: 2%;
+	width: 100%;
+	height: 80px;
+}
+
+#buttons a {
+	position: absolute;
+	display: block;
+	text-indent: -9999px;
+	width: 100px;
+	height: 80px;
+}
+
+#buttons a.back { 
+	background: url(../images/buttons/back.png) no-repeat;
+	left: 2%;
+
+	-webkit-animation: wiggle-right .5s linear 0 infinite alternate;
+	-moz-animation: wiggle-right .5s linear 0 infinite alternate;
+	animation: wiggle-right .5s linear 0 infinite alternate;
+
+    animation-name: wiggle-right;
+	animation-duration: .5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+#buttons a.next, #buttons a.checkanswer, #buttons a.readmore {
+	right: 2%;
+
+	-webkit-animation: wiggle .5s linear 0 infinite alternate;
+	-moz-animation: wiggle .5s linear 0 infinite alternate;
+	animation: wiggle .5s linear 0 infinite alternate;
+
+    animation-name: wiggle;
+	animation-duration: .5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+#buttons a.next { background: url(../images/buttons/next.png) no-repeat; }
+#buttons a.checkanswer { background: url(../images/buttons/checkanswer.png) no-repeat; }
+#buttons a.readmore { background: url(../images/buttons/more.png) no-repeat; } 
+
+@media only screen and (max-width: 1250px) {
+
+	body, h2 { font-size: 20px; }
+
+	.caption { font-size: 18px; }
+
+	h1 { padding-top: 40px; font-size: 30px; }
+
+    #answer,
+	#screen2,
+	#screen3,
+	#screen4 { 
+		padding-top: 45px;
+	}
+
+	#answer h1 { padding-top: 0; }
+
+	.container_12 { padding-bottom: 40px; }
+
+	#buttons {
+		bottom: 0;
+		width: 100%;
+		min-width: 420px;
+		height: 34px;
+		background-color: pink;
+		z-index: 10;
+	}
+
+	#buttons a {
+		color: maroon;
+		background: none !important;
+		width: auto;
+		height: auto;
+		line-height: 34px;
+		text-indent: 0;
+		font-size: 18px;
+	}
+
+	
+}
+
+@media only screen and (max-width: 960px) {
+
+	body, h2 { font-size: 20px; }
+
+	.caption { font-size: 18px; }
+
+	h1 { padding-top: 40px; font-size: 30px; }
+
+    #answer,
+	#screen2,
+	#screen3,
+	#screen4 { 
+		padding-top: 45px;
+	}
+
+	#answer h1 { padding-top: 0; }
+
+	.container_12 { padding-bottom: 40px; }
+	
+	.wrap { 
+		max-width: 100%;
+		max-height: 100%;
+		padding: 0;
+		border: none;
+	}
+
+	#buttons {
+		bottom: 0;
+		width: 100%;
+		min-width: 420px;
+		height: 34px;
+		background-color: pink;
+		z-index: 10;
+	}
+
+	#buttons a {
+		color: maroon;
+		background: none !important;
+		width: auto;
+		height: auto;
+		line-height: 34px;
+		text-indent: 0;
+		font-size: 16px;
+	}
+
+	
+}
+
+@media only screen and (min-device-width: 768px)  and (max-device-width: 1024px) {
+
+	body, h2 { font-size: 24px; }
+
+	.caption { font-size: 20px; }
+
+	h1 { padding-top: 40px; font-size: 35px; }
+
+    #answer,
+	#screen2,
+	#screen3,
+	#screen4 { 
+		padding-top: 45px;
+	}
+	
+	#answer h1 { padding-top: 0; }
+
+	.container_12 { padding-bottom: 40px; }
+
+	.wrap { 
+		max-width: 100%;
+		max-height: 100%;
+		padding: 0;
+		border: none;
+	}
+
+	.bg { 
+		overflow: auto;
+	}		
+
+	#buttons {
+		bottom: 0;
+		width: 100%;
+		height: 34px;
+		background-color: pink;
+	}
+
+	#buttons a {
+		color: maroon;
+		background: none !important;
+		width: auto;
+		height: auto;
+		line-height: 34px;
+		text-indent: 0;
+		font-size: 18px;
+	}
+
+	
+}
+
+
+
+@-moz-keyframes wiggle-right {
+	from { left: 2%; }
+	to { left: 1%; }
+}
+
+@-webkit-keyframes wiggle-right {
+	from { left: 2%; }
+	to { left: 1%; }
+}
+
+@keyframes wiggle-right {
+	from { left: 2%; }
+	to { left: 1%; }
+}
+
+@-moz-keyframes wiggle {
+	from { right: 2%; }
+	to { right: 1%; }
+}
+
+@-webkit-keyframes wiggle {
+	from { right: 2%; }
+	to { right: 1%; }
+}
+
+@keyframes wiggle {
+	from { right: 2%; }
+	to { right: 1%; }
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+	h1, #screen2, #screen3, #screen4 { padding-top: 35px; }
+}

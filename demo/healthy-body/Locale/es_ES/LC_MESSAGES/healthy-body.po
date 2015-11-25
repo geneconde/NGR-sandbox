@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthy Body\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Healthy Body"
+msgstr "Cuerpo Sano"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Comprobar respuesta"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "You answered..."
+msgstr "Contestaste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Comprobación rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Comprobación rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Comprobación rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Comprobación rápida #4"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta del Test #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta del Test #2"
+
+msgid "Quiz Question #3"
+msgstr "Preguntas de Test #3"
+
+msgid "Quiz Question #4"
+msgstr "Preguntas de Test #4"
+
+msgid "Quiz Question #5"
+msgstr "Preguntas de Test #5"
+
+msgid "Quiz Question #6"
+msgstr "Preguntas de Test #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Navega por las diapositivas siguientes haciendo clic en las flechas "
+"izquierda y derecha"
+
+msgid "Go to dashboard"
+msgstr "Ir al panel de control"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Empecemos!"
+
+msgid "Are you ready,"
+msgstr "¿Estás listo/a?"
+
+msgid "Finding facts..."
+msgstr "Encontrar a los hechos ..."
+
+msgid "Studying cells..."
+msgstr "Estudiando las células…"
+
+msgid "Preparing your first quick check..."
+msgstr "La preparación de su primera comprobación rápida ..."
+
+msgid "Cells working together"
+msgstr "Las células trabajan juntas"
+
+msgid "Interconnecting body systems..."
+msgstr "Interconectando sistemas corporales…"
+
+msgid "Passing on the messages..."
+msgstr "Pasando mensajes…"
+
+msgid "Recording information..."
+msgstr "Registrando información…"
+
+msgid "Presenting healthier lifestyle..."
+msgstr "Presentado un estilo de vida más sano…"
+
+msgid "Putting it all together"
+msgstr "Juntándolo todo"
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Comprobemos lo que sabes ahora"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta es..."
+
+msgid "Recognizing similarities..."
+msgstr "Reconociendo las similitudes…"
+
+msgid "Brain interpreting information..."
+msgstr "El cerebro interpretando la información…"
+
+msgid "Working nervous system..."
+msgstr "El sistema nervioso trabajando…"
+
+msgid "Identifying parts of the body..."
+msgstr "Identificando partes del cuerpo…"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Estás preparado/a para la última pregunta del test?"
+
+msgid "You're done!"
+msgstr "¡Has terminado!"
+
+# 1
+msgid "Start"
+msgstr "Empezar"
+
+msgid "Welcome to the Healthy Body review,"
+msgstr "Bienvenido/a a la revisión de Un Cuerpo Sano,"
+
+# 2
+msgid "Thinking about... a healthy body"
+msgstr "Pensando en… un cuerpo sano"
+
+msgid ""
+"A healthy body... think about it. Eating right, exercising everyday, "
+"brushing your teeth, getting your shots, taking care of your skin, getting "
+"enough sleep, keeping your bowels moving, drinking enough water, staying "
+"away from harmful substances... there is a lot that we can and should do to "
+"keep our body healthy. How much time do you spend each day keeping your body "
+"healthy?"
+msgstr ""
+"Un cuerpo sano … piénsalo. Comer bien, hacer ejercicio todos los días, "
+"lavarte los dientes, vacunarte, cuidarte la piel, dormir lo suficiente, "
+"mantener el movimiento intestinal, beber suficiente agua, mantenerte alejado/"
+"a de las sustancias nocivas … hay mucho que podemos y debemos hacer para "
+"mantener nuestro cuerpo sano. ¿Cuánto tiempo dedicas cada día a mantener tu "
+"cuerpo sano?"
+
+# 3
+msgid "Checking what you know... about a healthy body"
+msgstr "Comprobando lo que sabes… sobre un cuerpo sano"
+
+msgid ""
+"Choose <span class='blink'>true</span> or <span class='blink'>false</span> "
+"for each of the following statements and decide whether these ideas about "
+"the human body are fact or myth."
+msgstr ""
+"Escoge <span class='blink'>verdadero</span> o <span class='blink'>falso</"
+"span> para cualquiera de las siguientes afirmaciones y decide si estas ideas "
+"sobre el cuerpo humano son un hecho o son un mito."
+
+msgid "It is safe to follow the 5-second rule for dropped food."
+msgstr ""
+"Es seguro seguir la regla de los 5 segundos cuando la comida se cae al suelo."
+
+msgid "True"
+msgstr "Verdadero"
+
+msgid "False"
+msgstr "Falso"
+
+msgid "Eating after dark causes weight gain."
+msgstr "Comer después del anochecer engorda más."
+
+msgid "Cracking your knuckles can cause arthritis."
+msgstr "Petarte los nudillos puede causar artritis."
+
+msgid "Soda is bad for your kidneys."
+msgstr "Las bebidas bicarbonatadas son malas para tus riñones."
+
+msgid ""
+"The acid in soda is hard on your kidneys. It is what you eat (and how many "
+"calories it contains) not when you eat it. Cracking your knuckles is a bad "
+"habit that causes hand swelling and less grip strength. It is not safe to "
+"eat anything off the floor."
+msgstr ""
+"El ácido de los refrescos es malo para tus riñones. Es lo que comes (y la "
+"cantidad de calorías que contiene), no cuándo lo comes. Petarte los nudillos "
+"es un mal hábito que causa hinchazón en la mano y menos fuerza de agarre. No "
+"es seguro comer cualquier cosa que haya caído al suelo."
+
+msgid ""
+"If you got these correct, you are on the right track to knowing how to keep "
+"your body healthy. You will see how all of what your body does is connected. "
+"Any part that stops working affects your whole system."
+msgstr ""
+"Si has acertado en éstas, estás en el buen camino para saber cómo mantener "
+"tu cuerpo sano. Verás cómo todo lo que hace tu cuerpo está conectado. "
+"Cualquier parte que deja de trabajar afecta a todo el sistema."
+
+# 4
+msgid "Reviewing core ideas... about a healthy body"
+msgstr "Revisando las ideas clave… sobre un cuerpo sano"
+
+msgid ""
+"The human body is made up of trillions of independent <span "
+"class='key'>cells</span>. Each cell is alive; it requires resources, and "
+"produces waste. We have hundreds of different types of cell, each "
+"specialized for its own functions. When many copies of the same cell type "
+"are gathered together, they are known as <span class='key'>tissue</span>. "
+"The body also contains many types of tissue. Some examples of cell and "
+"tissue types include muscle, bone, nervous, and skin."
+msgstr ""
+"El cuerpo humano está formado por trillones de <span class='key'>células</"
+"span> independientes. Cada célula está viva; requiere recursos y produce "
+"residuos. Tenemos cientos de diferentes tipos de células, cada una "
+"especializada en sus propias funciones. Cuando muchas células de un tipo se "
+"juntan, son conocidas como <span class='key'>tejido</span>. El cuerpo "
+"también contiene muchos tipos de tejido. Algunos ejemplos de los tipos de "
+"células y tejidos incluyen a los músculos, los huesos, los nervios y la piel."
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together."
+msgstr ""
+"<span class='key'>Los órganos</span> son grupos de tejidos que combinados "
+"realizan las funciones principales del cuerpo. Cuando hablamos de sistemas "
+"como el sistema circulatorio o el digestivo, en realidad estamos hablando de "
+"grupos de órganos que trabajan juntos."
+
+msgid ""
+"Organs work together to make up a <span class='key'>body system</span>. Our "
+"skeleton supports us. Our muscles move us. Our skin and hair protect us. Our "
+"digestive system takes nutrients from our food. Our nervous system transmits "
+"information around our bodies. Our respiratory system brings in the oxygen "
+"we need to survive. Our circulatory system pumps blood. Our immune system "
+"fights disease. And our reproductive system produces the babies that keep "
+"our families going from generation to generation."
+msgstr ""
+"Los órganos que trabajan juntos forman un <span class='key'>sistema del "
+"cuerpo</span>. Nuestro esqueleto nos apoya. Nuestros músculos nos mueven. "
+"Nuestra piel y el cabello nos protegen. Nuestro sistema digestivo toma los "
+"nutrientes de los alimentos. Nuestro sistema nervioso transmite información "
+"por nuestra cuerpo. Nuestro sistema respiratorio aporta el oxígeno que "
+"necesitamos para sobrevivir. Nuestro sistema circulatorio bombea sangre. "
+"Nuestro sistema inmunológico combate las enfermedades. Y nuestro sistema "
+"reproductivo produce los bebés que hacen que nuestras familias pasen de "
+"generación en generación."
+
+# 5
+msgid "Question A. Choose the <span class='blink'>correct</span> statement."
+msgstr "Pregunta A. Escoge la afirmación <span class='blink'>correcta</span>."
+
+msgid "Cells are made up of tissues."
+msgstr "Las células están hechas de tejidos."
+
+msgid "Tissues are made up of cells."
+msgstr "Los tejidos están hechos de células."
+
+msgid "Cells are made up of organs."
+msgstr "Las células están hechas de órganos."
+
+msgid "All living things are made up of two or more cells."
+msgstr "Todos los seres vivos están formados por dos o más células."
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"Rota o gira la caja a continuación hacia arriba o hacia abajo para marcar tu "
+"respuesta. Haz clic, aprieta y desplaza el ratón hacia arriba o hacia abajo."
+
+msgid "No, tissues are made up of cells."
+msgstr "No, los tejidos están hechos de células."
+
+msgid "Correct, tissues are made up of cells."
+msgstr "Correcto, los tejidos están hechos de células."
+
+msgid "No, organs are made up of tissues (which are made up of cells)."
+msgstr ""
+"No, los órganos están hechos tejidos (y éstos están hechos de células)."
+
+msgid "No, there are single cell organisms."
+msgstr "No, hay organismos unicelulares. "
+
+# 6
+msgid "More core ideas... about a healthy body"
+msgstr "Más ideas clave… sobre un cuerpo sano."
+
+msgid ""
+"Human beings are living things, made of cells. They use energy to move, "
+"grow, and respond to stimuli. They must be able to breathe, circulate blood, "
+"and reproduce. That's a lot for one body to do. It all works because the "
+"body's cells all work together. Each cell type has special jobs and chores. "
+"Similar cells are organized into tissues. Cells with the same function "
+"combine to form organs. If one of them stops working, the body can't run "
+"smoothly. Let's take a closer look at a few organs."
+msgstr ""
+"Los seres humanos son seres vivos, hechos de células. Usan energía para "
+"moverse, crecer y responder a los estímulos. Deben ser capaces de respirar, "
+"hacer circular la sangre y reproducirse. Esto es mucho que hacer para un "
+"cuerpo. Todo funciona porque todas las células del cuerpo trabajan juntas. "
+"Cada tipo de célula tiene puestos de trabajo y tareas especiales. Células "
+"similares se organizan en los tejidos. Las células con la misma función se "
+"combinan para formar órganos. Si uno de ellos deja de funcionar, el cuerpo "
+"no puede funcionar sin problemas. Echemos un vistazo más de cerca a algunos "
+"órganos."
+
+msgid "Move"
+msgstr "Moverse"
+
+msgid "Respire (Exchange of gases)"
+msgstr "Respirar (intercambio de gases)"
+
+msgid "Sense and respond to change"
+msgstr "Sensibilidad y respuesta al cambio"
+
+msgid "Nutrition for energy"
+msgstr "Nutrición para la energía"
+
+msgid "Excrete waste"
+msgstr "Excretar los deshechos"
+
+msgid "Reproduce"
+msgstr "Reproducirse"
+
+msgid "Grow and develop"
+msgstr "Crecer y desarrollarse"
+
+msgid ""
+"Your heart, lungs, kidneys, and intestines are all important organs. But "
+"they are not the only organs that help keep our body healthy. Skin is the "
+"human body's largest organ. It protects the bones and organs inside our "
+"bodies, as well as protecting our bodies from outside diseases. Skin allows "
+"you to feel and react to heat and cold and regulates your body heat. Your "
+"nose is an organ that helps you breathe. Even the hairs in your nose have "
+"important functions. They add moisture, adjust air temperature, and filter "
+"out germs, dust, and even insects. The nervous system receives information "
+"from other body systems. That information is processed in the brain, which "
+"sometimes sends action signals back to other organ systems."
+msgstr ""
+"Tu corazón, tus pulmones, tus riñones y tus intestinos son todos ellos "
+"órganos importantes. Pero no son los únicos órganos que ayudan a mantener "
+"nuestro cuerpo sano. La piel es el órgano más grande del cuerpo humano. "
+"Protege los huesos y los órganos dentro de nuestros cuerpos, y además "
+"protege nuestro cuerpo de las enfermedades del exterior. La piel te permite "
+"sentir y reaccionar ante el calor y el frío y regula el calor del cuerpo. Tu "
+"nariz es un órgano que te ayuda a respirar. Hasta los pelos de la nariz "
+"tienen funciones importantes. Añaden humedad, ajustan la temperatura del "
+"aire y filtran los gérmenes, el polvo e incluso los insectos. El sistema "
+"nervioso recibe información de otros sistemas del cuerpo. Esa información se "
+"procesa en el cerebro, que a veces envía señales de acción de nuevo a otros "
+"sistemas de órganos."
+
+# 7
+msgid ""
+"Question A. Click on the statement that is <span class='blink'>not correct</"
+"span>."
+msgstr ""
+"Pregunta A. Da clic en la declaración <span class='blink'>incorrecta</span>."
+
+msgid "The human body is made up of complicated, interrelated systems."
+msgstr "El cuerpo humano está hecho de complicados sistemas interrelacionados."
+
+msgid "For every job the body has, there is a structure that will do the job."
+msgstr ""
+"Para cada tarea que tiene el cuerpo, hay una estructura que hará esa tarea."
+
+msgid ""
+"If one body system stops working, the body just keeps going and working fine."
+msgstr ""
+"Si un sistema del cuerpo deja de funcionar, el cuerpo puede continuar "
+"funcionando con normalidad."
+
+msgid "Organs are made up of tissues."
+msgstr "Los órganos están formados por tejidos."
+
+msgid ""
+"Question B. The systems in the human body are interrelated and "
+"interconnected. Which of the following statements are <span "
+"class='blink'>true</span>?"
+msgstr ""
+"Pregunta B. Los sistemas del cuerpo humano están interrelacionados e "
+"interconectados. ¿Cuál de las siguientes afirmaciones es <span "
+"class='blink'>verdadera</span>?"
+
+msgid "The systems work separately from one another."
+msgstr "Los sistemas trabajan separadamente los unos de los otros."
+
+msgid "The systems depend on one another."
+msgstr "Los sistemas dependen entre sí."
+
+msgid "The systems are connected, but too complex to understand."
+msgstr ""
+"Los sistemas están conectados, pero son demasiado complicados de entender."
+
+msgid "When one system works, the other does not."
+msgstr "Cuando un sistema funciona, el otro no lo hace."
+
+msgid ""
+"No. This statement is correct. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"No. Esta afirmación es correcta. Si un sistema deja de funcionar, el cuerpo "
+"no puede funcionar sin problemas."
+
+msgid ""
+"Yes. This statement is false. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"Sí. Esta afirmación es falsa. Si un sistema deja de funcionar, el cuerpo no "
+"puede funcionar sin problemas."
+
+msgid "Sorry, that statement is true. Organs are made of tissues."
+msgstr ""
+"Lo siento, esta afirmación es verdadera. Los órganos están hechos de tejidos."
+
+msgid ""
+"No, the body systems are connected in many ways and depend on one another."
+msgstr ""
+"No, los sistemas corporales están conectados de diversas maneras y dependen "
+"los unos de los otros."
+
+msgid ""
+"Yes, the body systems are connected in many ways and depend on one another."
+msgstr ""
+"Sí, los sistemas corporales están conectados de diversas maneras y dependen "
+"los unos de los otros."
+
+# 8
+msgid ""
+"Your brain is in charge of most everything that you do. It doesn't work "
+"alone though. The brain is part of a system, the <span class='key'>nervous "
+"system</span>, one that works with the spinal cord and lots of nerves. "
+"Different kinds of nerves have different functions. <span "
+"class='key'>Sensory nerves</span> help us gather information about the world "
+"around us. When we see, hear, taste, touch, or smell, our sensory nerves "
+"carry that information to the brain. After the brain processes the "
+"information, <span class='key'>motor nerves</span> have the responsibility "
+"of passing on the messages the brain sends to the muscles all over the body."
+msgstr ""
+"Tu cerebro se encarga de casi todo lo que haces. Sin embargo, no funciona "
+"por si solo. El cerebro es parte de un sistema, el <span class='key'>sistema "
+"nervioso</span>, que funciona gracias a la médula espinal y un montón de "
+"nervios. Los diferentes tipos de nervios tienen diferentes funciones. Los "
+"<span class='key'>nervios sensoriales</span> nos ayudan a reunir información "
+"sobre el mundo que nos rodea. Cuando vemos, oímos, deglutimos, tocamos u "
+"olemos, nuestros nervios sensoriales llevan esa información al cerebro. "
+"Después de que el cerebro procese la información, los <span "
+"class='key'>nervios motores</span> tienen la responsabilidad de transmitir "
+"los mensajes que el cerebro envía a los músculos de todo el cuerpo."
+
+msgid ""
+"That might have been a lot of information for your brain to process. Let's "
+"say it in another way. We receive different types of information through our "
+"senses, then process them in our brain, and then our bodies respond to the "
+"information in different ways. For example, while we are walking and we see "
+"something in front of us, we move over so we do not bump into it. Let's look "
+"at that in slow motion. First, our eyes receive the information that an "
+"object may be in our way. Our brain processes this information and tells the "
+"body how to react and what to do about this possible danger. In this case it "
+"orders our legs to continue moving, but on a different path."
+msgstr ""
+"Esto podría haber sido una gran cantidad de información para que tu cerebro "
+"pudiera procesarla. Vamos a decirlo de otra manera. Recibimos diferentes "
+"tipos de información a través de nuestros sentidos, luego la procesamos en "
+"nuestro cerebro, y nuestros cuerpos reaccionan a dicha información de "
+"diferentes maneras. Por ejemplo, mientras estamos caminando y vemos algo "
+"delante de nosotros, nos movemos para no chocarnos con ello. Veámoslo a "
+"cámara lenta. En primer lugar, nuestros ojos reciben la información de que "
+"un objeto puede estar en nuestro camino. Nuestro cerebro procesa esta "
+"información y le dice al cuerpo cómo reaccionar y qué hacer con este posible "
+"peligro. En este caso ordena a nuestras piernas que sigan avanzando, pero en "
+"un camino diferente."
+
+# 9
+msgid ""
+"Question A. Click on the <span class='red blink'>BEST</span> statement about "
+"the nervous system."
+msgstr ""
+"Pregunta A. Haz clic en la <span class='blink red'>MEJOR</span> afirmación "
+"sobre el sistema nervioso."
+
+msgid "The nervous system consists of the brain and the spinal cord."
+msgstr "El sistema nervioso consta del cerebro y la médula espinal."
+
+msgid "Sensory nerves along with the brain make up the nervous system."
+msgstr "Los nervios sensoriales junto el cerebro forman el sistema nervioso."
+
+msgid ""
+"The nervous system consists of the brain, spinal cord, and a complex network "
+"of nerves."
+msgstr ""
+"El sistema nervioso está formado por el cerebro, la médula espinal, y una "
+"compleja red de nervios."
+
+msgid ""
+"Question B. Put the following steps of how our nervous system basically "
+"works in the correct order by dragging the items  up or down."
+msgstr ""
+"Pregunta B. Coloca los siguientes pasos del funcionamiento de nuestro "
+"sistema nervioso en el orden correcto arrastrando los elementos hacia arriba "
+"o hacia abajo."
+
+msgid ""
+"Sensory nerve cells take information from the eyes, ears, nose, tongue, and "
+"skin to the brain."
+msgstr ""
+"Las células de los nervios sensoriales toman la información de los ojos, las "
+"orejas, la nariz, la lengua y la piel y la transmiten al cerebro."
+
+msgid ""
+"Motor nerve cells carry messages away from the brain and back to the rest of "
+"the body."
+msgstr ""
+"Más células nerviosas llevan el mensaje desde el cerebro a otras partes del "
+"cuerpo."
+
+msgid ""
+"In the brain, the nerve cells relay information to each other through a "
+"complex process."
+msgstr ""
+"En el cerebro, las células nerviosas se transmiten información entre si a "
+"través de un complejo proceso."
+
+msgid ""
+"Not quite, the complex network of nerves is also part of the nervous system."
+msgstr ""
+"No exactamente, el complejo sistema de nervios también es parte del sistema "
+"nervioso."
+
+msgid "Not quite, the spinal cord is also part of the nervous system."
+msgstr ""
+"No exactamente, la médula espinal también es parte del sistema nervioso."
+
+msgid ""
+"Correct! The brain, spinal cord, and complex network of nerves make up the "
+"nervous system."
+msgstr ""
+"¡Correcto! El cerebro, la médula espinal y el complejo sistema de nervios "
+"forman parte de nuestro sistema nervioso."
+
+msgid ""
+"Good job! Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"¡Buen trabajo! Nuestras células nerviosas llevan la información al cerebro, "
+"donde éste da una orden y esta orden es llevada hacia el cuerpo."
+
+msgid ""
+"Not quite. Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"No exactamente. Nuestras células nerviosas llevan la información al cerebro, "
+"donde éste da una orden y esta orden es llevada hacia el cuerpo."
+
+# 10
+msgid "Using what you know... about a healthy body... to solve a problem"
+msgstr "Usando lo que sabes… sobre un cuerpo sano… para solucionar un problema"
+
+msgid "The Problem"
+msgstr "El problema"
+
+msgid ""
+"You are a physician giving a lecture to a sixth grade class that just "
+"finished a unit on health in their science class. The teacher has invited "
+"you to speak for these students."
+msgstr ""
+"Eres un médico que da una conferencia a una clase de sexto grado que acaba "
+"de terminar una unidad sobre la salud en su clase de ciencias. El profesor "
+"te ha invitado a hablar para estos estudiantes."
+
+msgid "The Task"
+msgstr "La tarea"
+
+msgid ""
+"Discuss three health issues students face at school. Offer solutions to a "
+"healthier lifestyle. Even though your presentation at school will be half an "
+"hour, outline the health problems and solutions you plan to present to the "
+"students in the text box provided below."
+msgstr ""
+"Debate tres problemas de salud que los estudiantes pueden encontrase en la "
+"escuela. Ofrece soluciones para llevar un estilo de vida más sano. A pesar "
+"de que tu presentación en la escuela será de media hora, esboza los "
+"problemas de salud y las soluciones que planeas presentar a los estudiantes "
+"en el cuadro de texto a continuación."
+
+msgid "Please type your answer here..."
+msgstr "Por favor, introduce aquí tu respuesta…"
+
+# 11
+msgid "Summarizing core ideas... about a healthy body"
+msgstr "Resumiendo ideas clave… para tener un cuerpo sano"
+
+msgid ""
+"<span class='key'>Cells</span> are organized into <span class='key'>tissues</"
+"span> which perform special tasks. The tissues, then, are organized into "
+"<span class='key'>organs</span> which each take care of one or more "
+"functions. The organs and systems all work to perform the body's functions: "
+"use energy to move and grow, respond to stimuli, reproduce, and breathe. "
+"Every major function required of living things has an organ system to "
+"perform it. The <span class='key'>nervous system</span> makes decisions and "
+"controls the other systems. To do this, we receive different types of "
+"information through our senses, then process them in our brain (part of the "
+"<span class='key'>nervous system</span>), and then our bodies respond to the "
+"information in different ways."
+msgstr ""
+"Las <span class='key'>células</span> se organizan en <span "
+"class='key'>tejidos</span> que realizan tares específicas. Los tejidos, a su "
+"vez, están organizados en <span class='key'>órganos</span> que se ocupan de "
+"una o más funciones. Los órganos y los sistemas trabajan juntos para llevar "
+"a cabo las funciones del cuerpo: utilizan la energía para moverse y crecer, "
+"responder a estímulos, reproducirse y respirar. Cada función importante "
+"requerida por los seres vivos tiene un sistema de órganos que la lleva a "
+"cabo. El <span class='key'>sistema nervioso</span> toma decisiones y "
+"controla los otros sistemas. Para hacker esto, recibimos diferentes tipos de "
+"información a través de nuestros sentidos, que luego procesamos en nuestro "
+"cerebro (parte del <span class='key'>sistema nervioso</span>) y "
+"posteriormente nuestro cuerpo responde a dicha información de diversas "
+"maneras."
+
+# 12
+msgid "Reviewing key vocabulary related to... a healthy body"
+msgstr "Revisando vocabulario clave relacionado con… un cuerpo sano"
+
+msgid "Tissue"
+msgstr "Tejido"
+
+msgid ""
+"When many copies of the same cell type are gathered together, they are known "
+"as tissue. The body also contains many types of tissue. Some examples of "
+"cell and tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"Cuando muchas copias del mismo tipo de células se reúnen, son conocidas como "
+"tejido. El cuerpo también contiene muchos tipos de tejido. Algunos ejemplos "
+"de tipos de células y tejidos incluyen los músculos, los nervios, los huesos "
+"y la piel."
+
+msgid "Organ"
+msgstr "Órgano"
+
+msgid ""
+"Organs are groups of tissues combined together to perform the body's major "
+"functions. When we talk about such systems as the circulatory or digestive "
+"system, we are actually talking about groups of organs working together."
+msgstr ""
+"Los órganos son grupos de tejidos combinados que conjuntamente llevan a cabo "
+"las principales funciones del cuerpo. Cuando hablamos de sistemas, como el "
+"sistema circulatorio o el digestivo, en realidad estamos hablando de grupos "
+"de órganos que trabajan juntos."
+
+msgid "Body system"
+msgstr "Sistema del cuerpo"
+
+msgid ""
+"Organs work together to make up a body system. Our skeleton supports us. Our "
+"muscles move us. Our skin and hair protect us. Our digestive system takes "
+"nutrients from our food. Our nervous system transmits information around our "
+"bodies. Our respiratory system brings in the oxygen we need to survive. Our "
+"circulatory system pumps blood. Our immune system fights disease. And our "
+"reproductive system produces the babies that keep our families going from "
+"generation to generation. All these are body systems."
+msgstr ""
+"Los órganos que trabajan juntos forman un sistema del cuerpo. Nuestro "
+"esqueleto nos apoya. Nuestros músculos nos mueven. Nuestra piel y el cabello "
+"nos protegen. Nuestro sistema digestivo toma los nutrientes de los "
+"alimentos. Nuestro sistema nervioso transmite información en torno a nuestro "
+"cuerpo. Nuestro sistema respiratorio aporta el oxígeno que necesitamos para "
+"sobrevivir. Nuestro sistema circulatorio bombea sangre. Nuestro sistema "
+"inmunológico combate las enfermedades. Y nuestro sistema reproductivo "
+"produce los bebés que hacen que nuestras familias pasen de generación en "
+"generación. Todo esto son sistemas corporales."
+
+msgid "Nervous system"
+msgstr "Sistema nervioso"
+
+msgid ""
+"Our nervous system transmits information around our bodies. The brain and "
+"spinal cords are the two primary parts of the nervous system, working with "
+"lots of nerves."
+msgstr ""
+"Nuestro sistema nervioso transmite la información por nuestro cuerpo. El "
+"cerebro y la médula espinal son las dos partes principales del sistema "
+"nervioso y trabajan conjuntamente con muchos nervios."
+
+msgid "Sensory nerves"
+msgstr "Nervios sensoriales"
+
+msgid ""
+"Sensory nerves help us gather information about the world around us. When we "
+"use our senses to see, hear, taste, touch, and smell; our sensory nerves "
+"have the job to take that information to the brain."
+msgstr ""
+"Los nervios sensoriales nos ayudan a recopilar información sobre el mundo "
+"que nos rodea. Cuando usamos nuestros sentidos para ver, oír, degustar, "
+"tocar y oler; nuestros nervios sensoriales tienen la función de llevar esa "
+"información al cerebro."
+
+msgid "Motor nerves"
+msgstr "Nervios motores"
+
+msgid ""
+"After the brain processes information received through sensory nerves, motor "
+"nerves have the responsibility of passing on the messages the brain sends to "
+"the muscles all over the body."
+msgstr ""
+"Después de que el cerebro procese la información recibida a través de los "
+"nervios sensoriales, los nervios motores tienen la responsabilidad de "
+"transmitir los mensajes que el cerebro envía a los músculos de todo el "
+"cuerpo."
+
+# 13
+msgid "Checking what you now know... about a healthy body"
+msgstr "Comprobando lo que sabes ahora… sobre un cuerpo sano"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestar a las siguientes seis (6) preguntas te dará una idea de lo sabes "
+"ahora y de lo que todavía tienes que estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón SIGUIENTE cuando estés listo."
+
+# 14
+msgid "Click on the correct description of the body systems below."
+msgstr "Haz clic en la descripción correcta de los sistemas corporales."
+
+msgid "Our respiratory system brings in the oxygen."
+msgstr "Nuestro sistema respiratorio nos proporciona oxigeno."
+
+msgid "Our reproductive system pumps blood."
+msgstr "Nuestro sistema reproductor bombea sangre."
+
+msgid "Our digestive system fights disease."
+msgstr "Nuestro sistema digestivo lucha contra las enfermedades."
+
+msgid "Our circulatory system produces offspring."
+msgstr "Nuestro sistema circulatorio produce descendientes."
+
+msgid "Yes, our respiratory system brings in the oxygen."
+msgstr "Sí, nuestro sistema respiratorio nos proporciona oxigeno."
+
+msgid "No. Our reproductive system produces offspring."
+msgstr "No. Nuestro sistema reproductor produce descendencia."
+
+msgid "No. Our digestive system takes nutrients from our food."
+msgstr "No. Nuestro sistema digestivo toma los nutrientes de lo que comemos."
+
+msgid "Not quite. Our circulatory system pumps blood."
+msgstr "No exactamente. Nuestro sistema circulatorio bombea la sangre."
+
+# 15
+msgid ""
+"Take a look at the two pictures below and determine what they have in common."
+msgstr ""
+"Echa un vistazo a los dos dibujos a continuación y determina qué tienen en "
+"común."
+
+msgid "They are both cells."
+msgstr "Ambos muestran células."
+
+msgid "They are both tissues."
+msgstr "Ambos muestran tejidos."
+
+msgid "They are both organs."
+msgstr "Ambos muestran órganos."
+
+msgid "They are both body systems."
+msgstr "Ambos son sistemas corporales."
+
+msgid "Yes, the eye and liver are both organs."
+msgstr "Sí, tanto el ojo como el hígado son órganos."
+
+msgid "No, the eye and liver are both organs."
+msgstr "No, tanto el ojo como el hígado son órganos."
+
+# 16
+msgid "Choose the correct statement about the brain."
+msgstr "Escoge la afirmación correcta sobre el cerebro."
+
+msgid "The brain controls everything the body does."
+msgstr "El cerebro controla todo lo que hace el cuerpo."
+
+msgid ""
+"Some activities, like breathing and heart rate, are not controlled by the "
+"brain."
+msgstr ""
+"Algunas actividades, como la respiración y el ritmo cardíaco, no están "
+"controladas por el cerebro."
+
+msgid "The nervous system controls all body functions."
+msgstr "El sistema nervioso controla todas las funciones corporales."
+
+msgid ""
+"Some actions, like pulling your hand away from hot water, are not controlled "
+"by the brain."
+msgstr ""
+"Algunas acciones, como apartar la mano de agua caliente, no son controlados "
+"por el cerebro."
+
+msgid ""
+"Not quite, our brain controls almost everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"No exactamente, el cerebro controla casi todo lo que hacemos. Pero no "
+"controla los reflejos que hacen que estemos a salvo y fuera de peligro."
+
+msgid "No, the brain controls our breathing and heartbeat."
+msgstr ""
+"No, el cerebro controla nuestra respiración y el latido de nuestro corazón."
+
+msgid ""
+"Not quite, our brain controls “almost” everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"No exactamente, el cerebro controla \"casi\" todo lo que hacemos. Pero no "
+"controla los reflejos que hacen que estemos a salvo y fuera de peligro."
+
+msgid ""
+"Correct! The reflex actions are taken care of by the spinal cord. The "
+"nervous system controls these reflexes, but not the brain."
+msgstr ""
+"¡Correcto! Los reflejos son controlados desde la médula espinal. El sistema "
+"nervioso controla estos reflejos, pero no el cerebro."
+
+# 17
+msgid "The nervous system does not depend upon which of the following?"
+msgstr "¿De cuál de los siguientes no depende el sistema nervioso?"
+
+msgid "The circulatory system"
+msgstr "El sistema circulatorio"
+
+msgid "The skeletal system"
+msgstr "El sistema esquelético"
+
+msgid "The respiratory system"
+msgstr "El sistema respiratorio"
+
+msgid "It does depend on all of the systems above."
+msgstr "Depende de todos los sistemas anteriores."
+
+msgid "Sorry... the brain needs oxygen from blood."
+msgstr "Lo siento... el cerebro necesita oxígeno de la sangre."
+
+msgid "Nope. The brain is protected by the skull."
+msgstr "No. El cerebro está protegido por el cráneo."
+
+msgid "Don't think so... the brain needs the oxygen gathered by the lungs."
+msgstr ""
+"No creas... el cerebro necesita el oxígeno que se recoge en los pulmones."
+
+msgid ""
+"You go it! That was a trick question... the nervous system needs all of "
+"these."
+msgstr ""
+"¡Exacto! Esta era una pregunta trampa... el sistema nervioso necesita todo "
+"esto."
+
+# 18
+msgid ""
+"Look at the table below and fill in the blanks by dragging the terms under "
+"the illustrations."
+msgstr ""
+"Mira la tabla más a continuación y rellena los espacios en blanco "
+"arrastrando los términos bajo las ilustraciones."
+
+msgid "Cell"
+msgstr "Célula"
+
+msgid "Body System"
+msgstr "Sistema del cuerpo"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid ""
+"Good job! Cells make up tissue, tissue makes up organs, organs make up body "
+"systems.  Altogether they make the body run."
+msgstr ""
+"¡Buen trabajo! Las células forman tejidos, los tejidos forman órganos, los "
+"órganos forman sistemas corporales. Todos ellos hacen que el cuerpo pueda "
+"funcionar."
+
+msgid ""
+"Not quite... Cells make up tissue, tissue makes up organs, organs make up "
+"body systems.  Altogether they make the body run."
+msgstr ""
+"No exactamente… Las células forman tejidos, los tejidos forman órganos, los "
+"órganos forman sistemas corporales. Todos ellos hacen que el cuerpo pueda "
+"funcionar."
+
+# 19
+msgid "Choose the correct statement."
+msgstr "Escoge la afirmación correcta."
+
+msgid "Organs may be made of a variety of different tissues."
+msgstr "Los órganos pueden estar formados por más de un tipo de tejido."
+
+msgid "Each organ is made of a unique tissue type."
+msgstr "Cada órgano está hecho de un único tipo de tejido."
+
+msgid "Organ systems consist of only a single type of tissue."
+msgstr "Los sistemas de órganos están formados por un único tipo de tejidos."
+
+msgid "Cells are made of many different tissue types."
+msgstr "Las células están formadas por diferentes tipos de tejidos."
+
+msgid "That's right! organs may be made of many tissues."
+msgstr "¡Exacto! Los órganos pueden estar formados por muchos tejidos."
+
+msgid "Read carefully... organs may be made of more than one tissue."
+msgstr ""
+"Lee atentamente… los órganos pueden estar formados por más de un tejido."
+
+msgid "No... systems are made of organs; organs may be made of many tissues."
+msgstr ""
+"No… los sistemas están formados por órganos; los órganos pueden estar "
+"formados por muchos tejidos."
+
+msgid "The exact opposite... tissues are made of cells..."
+msgstr "Exactamente lo contrario… los tejidos están formados por células…"
+
+# 20
+msgid "Congratulations, "
+msgstr "Enhorabuena,"
+
+msgid "You've completed the Healthy Body review."
+msgstr "Has completado la revisión de Un Cuerpo Sano."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes comprobar cómo lo hiciste en el 'Test Rápido' y en las 'Preguntas del "
+"Test' de esta revisión haciendo clic en el botón a continuación."

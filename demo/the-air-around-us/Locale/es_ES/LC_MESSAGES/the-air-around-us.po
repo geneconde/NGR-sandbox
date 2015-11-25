@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja de abajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "¡Felicidades, "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "¿Estás listo/a,"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Welcome to the Air Around Us module"
+msgstr "Bienvenido/a al módulo del Aire que nos Rodea"
+
+# 2
+msgid "Thinking about... the air around us"
+msgstr "Pensando acerca del... aire que nos rodea"
+
+msgid "Have you ever woken up in the morning, stretched your arms and taken a deep breath? Did you ever wonder what was in that deep breath? Sure – you probably thought you were taking in “air”. But what is that air stuff anyway? You can’t see it. You can’t taste it or smell it or feel it. So is it nothing or is it something? And how do you know?<br>And what if you live in a city where there’s “air pollution”? What does that mean? What is it that “pollutes” the air? And, if there’s enough air pollution, maybe you actually can see the air, or taste it or smell it after all."
+msgstr ""
+"¿Alguna vez te has despertado por la mañana, estirado tus brazos y respirado profundamente? ¿Alguna vez te preguntaste qué contenía esa respiración? Claro - probablemente pensaste que estabas tomando \"aire\". ¿Pero qué es eso? No puedes verlo. No puedes sentir su sabor u olor, ni tocarlo. Así que ¿es algo o nada? ¿Y cómo saberlo?<br>¿Y qué sucede si vives en una ciudad donde hay \"contaminación del aire\"? ¿Qué significa eso? ¿Qué es lo que \"contamina\" el aire? Y, si hay suficiente contaminación del aire, quizá en realidad puedas ver el aire, o sentir su sabor u olor "
+"después de todo."
+
+# 3
+msgid "Checking what you know about... air around us"
+msgstr "Revisando lo que sabes acerca del... aire que nos rodea"
+
+msgid "What is the air composed of?"
+msgstr "¿De qué está compuesto el aire?"
+
+msgid "Pure oxygen"
+msgstr "Oxígeno puro"
+
+msgid "Mostly oxygen with some nitrogen"
+msgstr "Principalmente oxígeno con algo de nitrógeno"
+
+msgid "Mostly nitrogen with some oxygen"
+msgstr "Principalmente nitrógeno con algo de oxígeno"
+
+msgid "Mostly nitrogen with some oxygen and other minor gases"
+msgstr "Principalmente nitrógeno con algo de oxígeno y otros gases menores"
+
+msgid "Air is made up of mostly Nitrogen (about 78%) and Oxygen (about 21%) and other gases that combine to make up the remaining 1% of air. Sometimes some other nasty gases and tiny little particles from exhaust from trucks and buses get into the air too and pollute the air. That can make the air bad for us to breathe."
+msgstr "El aire está compuesto principalmente de Nitrógeno (alrededor del 78%) y Oxígeno (alrededor del 21%) y otros gases que se combinan para formar el 1% restante del aire. Algunas veces, algunos otros gases desagradables y pequeñas partículas de los gases de escape de camiones y autobuses entran al aire también y lo contaminan. Eso puede hacer que sea malo respirar ese aire para nosotros."
+
+msgid "Breathing air..."
+msgstr "Respirando aire..."
+
+# 4
+msgid "Reviewing big ideas about... the air around us"
+msgstr "Revisando ideas importantes acerca del... aire que nos rodea"
+
+msgid "Because the mixture of gases in the air around us is invisible, some people think that there's nothing there. In fact, air is a substance that has mass and takes up space. You may recall the three common phases of matter include solid, liquid and gas. The air in earth's <span class='key'>atmosphere</span> contains a mixture of gases including mostly nitrogen, oxygen, argon and carbon dioxide."
+msgstr "Ya que la mezcla de gases en el aire que nos rodea es invisible, algunas personas piensan que no hay nada allí. De hecho, el aire es una sustancia que tiene masa y ocupa espacio. Puede ser que recuerdes que las tres fases comunes de la materia incluyen sólido, líquido y gaseoso. El aire en la <span class='key'>atmósfera</span> de la Tierra contiene una mezcla de gases que incluye principalmente nitrógeno, oxígeno, argón y dióxido de carbono."
+
+msgid "In addition, water (in its gaseous phase which is frequently referred to as <span class='key'>water vapor</span>) is found in Earth's atmosphere. And, despite the amount of rain, snow and sleet that you have watched fall from above, the concentration of water vapor is relatively low. There are a number of other gases such as neon, hydrogen, helium, and methane but these are found at very low levels of concentration."
+msgstr "Adicionalmente, el agua (en su fase gaseosa a la cual nos referimos frecuentemente como <span class='key'>vapor de agua</span>) se encuentra en la atmósfera terrestre. Y, a pesar de la cantidad de lluvia, nieve y granizo que hayas visto caer, la concentración de vapor de agua es relativamente baja. Hay una cantidad de otros gases como neón, hidrógeno, helio y metano pero estos se encuentran en niveles muy bajos de concentración."
+
+msgid "Although the air around us is largely invisible, air does have mass. For example, consider a balance beam that has one rubber balloon on each side. If one balloon is inflated by blowing it up using your lungs and the other balloon is left empty, then the side with the inflated balloon will be heavier than the other. That's because the mixture of oxygen, nitrogen and carbon dioxide expelled by your lungs has mass."
+msgstr "Aunque el aire que nos rodea es invisible en gran parte, el aire sí tiene masa. Por ejemplo, considera una barra de equilibrio que tiene un globo de goma en cada extremo. Si un globo se infla utilizando tus pulmones y el otro globo se queda vacío, entonces el lado con el globo inflado será más pesado que el otro. Esto es porque la mezcla de oxígeno, nitrógeno y dióxido de carbono expulsado por tus pulmones tiene masa."
+
+msgid "Weighing a balloon..."
+msgstr "Pesando un globo..."
+
+msgid "Relative composition of air"
+msgstr "Composición relativa del aire"
+
+msgid "Nitrogen"
+msgstr "Nitrógeno"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+msgid "Other gases"
+msgstr "Otros gases"
+
+# 5 Quick Check 1
+msgid "The concentrations of Nitrogen, Oxygen, Water Vapor and Argon were measured at various places around the world. Use the data of the chemical components of air at four different locations around the world in the table below to answer the following question."
+msgstr "La concentración del Nitrógeno, Oxígeno, Vapor de Agua y Argón se midió en varios lugares alrededor del mundo. Utiliza los datos de la tabla debajo sobre los componentes químicos del aire en cuatro ubicaciones distintas alrededor del mundo para responder la siguiente pregunta."
+
+msgid "% of Gas in the Atmosphere at Different Locations"
+msgstr "% de Gas en la Atmósfera en Distintas Ubicaciones"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Símbolo"
+
+msgid "Location 1"
+msgstr "Ubicación 1"
+
+msgid "Location 2"
+msgstr "Ubicación 2"
+
+msgid "Location 3"
+msgstr "Ubicación 3"
+
+msgid "Location 4"
+msgstr "Ubicación 4"
+
+msgid "Location 5"
+msgstr "Ubicación 5"
+
+msgid "Water Vapor"
+msgstr "Vapor de Agua"
+
+msgid "Argon"
+msgstr "Argón"
+
+msgid "As the amount of water in the atmosphere <span class='blink'>increases</span> from location to location, which of the following statements are true?"
+msgstr "Conforme la cantidad de agua en la atmósfera <span class='blink'>incrementa</span> de ubicación a ubicación, ¿cuáles de las siguientes declaraciones son verdaderas?"
+
+msgid "Only the amount of nitrogen in the atmosphere decreases."
+msgstr "Sólo la cantidad de nitrógeno en la atmósfera disminuye."
+
+msgid "The amount of nitrogen in the atmosphere increases."
+msgstr "La cantidad de nitrógeno en la atmósfera incrementa."
+
+msgid "Only the amount of oxygen in the atmosphere increases."
+msgstr "Sólo la cantidad de oxígeno en la atmósfera incrementa."
+
+msgid "The amounts of Nitrogen, Oxygen and Argon in the atmosphere decreases."
+msgstr "Las cantidades de nitrógeno, oxígeno y argón en la atmósfera disminuyen."
+
+msgid "Correct! As the amount of water in the atmosphere increases, the % of all other gases decreases."
+msgstr "¡Correcto! Conforme la cantidad de agua en la atmósfera incrementa, el % de todos los otros gases disminuye."
+
+msgid "Not quite! Look at the table more closely.  As the amount of water in the atmosphere increases, the % of all other gases decreases."
+msgstr "¡No exactamente! Mira la tabla con más cuidado. Conforme la cantidad de agua en la atmósfera incrementa, el % de todos los otros gases disminuye."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+# 6
+msgid "More big ideas about... the air around us"
+msgstr "Más ideas importantes acerca del... aire que nos rodea"
+
+msgid "The Air Around Us"
+msgstr "Aire que nos rodea"
+
+msgid "Many of the complex phenomena that take place in Earth's atmosphere can be explained through an understanding of density and what happens when the density of an air mass changes as a result of changes in temperature and pressure."
+msgstr "Muchos de los fenómenos complejos que tienen lugar en la atmósfera terrestre pueden explicarse a través de un entendimiento de la densidad y lo que sucede cuando la densidad de una masa de aire cambia como resultado de los cambios en temperatura y presión."
+
+msgid "Pressure"
+msgstr "Presión"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "Density"
+msgstr "Densidad"
+
+msgid ""
+"<span class='key'>Density</span> is the ratio between the amount of matter found in a given quantity of an object and the amount of space that quantity takes up (its volume). How many molecules of air packed into a certain space is what we refer to as the density of air. The density of fluids such as liquids and gases can change in response to changes in temperature and pressure. Even slight decreases in temperature can lead to significant changes in air density. For example, a helium-filled balloon brought from a warm, inside room to the cold outdoors, will quickly look "
+"deflated (less filled). This is because the density of helium inside the balloon increases as the gas is cooled by the cold outside air. Consequently, the helium takes up less space inside the balloon so the volume of the balloon is less and the balloon shrinks. This makes the balloon appear more deflated than when it was in a warm room."
+msgstr ""
+"<span class='key'>Densidad</span> es la proporción entre la cantidad de materia encontrada en una cierta cantidad de un objeto y la cantidad de espacio que dicha cantidad ocupa (su volumen). Cuántas moléculas de aire están contenidas en un cierto espacio es lo que conocemos como densidad del aire. La densidad de fluidos como líquidos y gases puede cambiar en respuesta a los cambios en temperatura y presión. Incluso pequeñas disminuciones en la temperatura pueden llevar a cambios significativos en la densidad del aire. Por ejemplo, un globo lleno de helio que se lleva de "
+"una habitación interior tibia a un exterior frío, rápidamente lucirá desinflado (menos lleno). Esto es porque la densidad del helio dentro del globo incrementa conforme el gas se enfría por el aire frío del exterior. Por lo tanto, el helio ocupa menos espacio dentro del globo así que el volumen del globo es menor y el globo se encoge. Esto hace que el globo parezca más desinflado que cuando estaba en una habitación cálida."
+
+msgid "Let's look at another example to better explain this. Have you ever opened a freezer door and watched the fog apparently roll out – especially on a warm humid day?"
+msgstr "Veamos otro ejemplo para explicar mejor esto. ¿Alguna vez has abierto la puerta del congelador y visto la neblina que aparentemente escapa - especialmente en un día cálido y húmedo?"
+
+msgid "You might have thought that fog inside the freezer simply flowed out when the door was opened. But this isn't what happens at all. What is actually happening is, when you open the freezer door and cold air from the freezer mixes with and cools the warmer air outside the freezer, the water molecules in the warmer air condense from cooling. That means they come together to form tiny droplets that look like fog. Though we can't see cold air flowing, we can observe its movement outward and downward as the process of condensation expands over a larger volume of air."
+msgstr ""
+"Quizá hayas pensado que la neblina dentro del congelador simplemente fluyó hacia afuera cuando la puerta se abrió. Pero eso no es lo que sucede en absoluto. Lo que en realidad está sucediendo es que, cuando abres la puerta del congelador y el aire frío del congelador se mezcla con y enfría el aire cálido que está afuera del congelador, las moléculas de agua en el aire más cálido se condensan debido al enfriamiento. Esto significa que se unen para formar pequeñas gotitas que lucen como neblina. Aunque no podemos ver el aire frío que fluye, podemos observar su movimiento "
+"hacia afuera y hacia abajo conforme el proceso de condensación se expande sobre un volumen más grande de aire."
+
+msgid "This is one of the amazing phenomena that result from the complex interaction between the gasses in the air and the physical conditions (such as temperature and pressure) that take place throughout the air around us."
+msgstr "Éste es uno de los increíbles fenómenos que resultan de las interacciones complejas entre los gases en el aire y las condiciones físicas (como la temperatura y la presión) que tienen lugar en el aire que nos rodea."
+
+msgid "Opening the refrigerator..."
+msgstr "Abriendo el refrigerador..."
+
+# 7 Quick Check 2
+msgid "Higher temperatures in gas cause lower density. Put the following sentences in order by dragging them up and down to explain how higher temperatures in gas cause lower density."
+msgstr "Temperaturas más altas en el gas provocan una densidad menor. Ordena los siguientes segmentos de oraciones arrastrándolos hacia arriba y hacia abajo para formar una oración que explique cómo las temperaturas más altas en el gas provocan una menor densidad."
+
+msgid "Gas particles move more quickly"
+msgstr "Las partículas de gas se mueven más rápidamente"
+
+msgid "So the same mass takes up more space"
+msgstr "Así que la misma masa ocupa más espacio"
+
+msgid "Causing more space between molecules"
+msgstr "Provocando que haya más espacio entre las moléculas"
+
+msgid "Causing the gas to have lower density"
+msgstr "Provocando que el gas tenga una menor densidad"
+
+msgid "As gas temperature increases"
+msgstr "Conforme la temperatura del gas incrementa"
+
+msgid "Studying air molecules..."
+msgstr "Estudiando moléculas de aire..."
+
+msgid "That’s right! As gas temperature increases, gas particles move more quickly causing more space between molecules. That way, the same mass takes up more space causing the gas to have lower density."
+msgstr "¡Así es! Conforme la temperatura del gas incrementa, las partículas de gas se mueven más rápido, provocando que haya más espacio entre las moléculas. De esa forma, la misma masa ocupa más espacio, provocando que el gas tenga una menor densidad."
+
+msgid "Nope! As gas temperature increases, gas particles move more quickly causing more space between molecules. That way, the same mass takes up more space causing the gas to have lower density."
+msgstr "¡Nop! Conforme la temperatura del gas incrementa, las partículas de gas se mueven más rápido, provocando que haya más espacio entre las moléculas. De esa forma, la misma masa ocupa más espacio, provocando que el gas tenga una menor densidad."
+
+# 8
+msgid ""
+"The force of gravity pulls all objects that have mass toward Earth's center. Air molecules have mass so they too are pulled down toward Earth's surface. And, just as with all objects, there is a relationship between the mass of the object and the force exerted by gravity – the greater the mass, the greater the gravitational force. The result of this gravitational pull is a phenomenon called <span class='key'>Air Pressure</span>. Imagine for a moment standing in the middle of a column of air that extends from your feet (on Earth's surface) to the outer extent of the "
+"atmosphere.  The mass of all that air directly above you exerts a force on you called air pressure.  This is a consequence of the gravitational pull of the Earth on the air mass above you and it affects you and everything on the Earth’s surface. It follows that if there are less molecules of air in that column, then the pressure would be less on Earth's surface. Conversely, if the number and mass of molecules increases, one would experience increased pressure at Earth's surface. So the higher you go, like climbing up a mountain or flying up in an airplane, the less air "
+"mass is above you which means there is less force from the weight of that air pushing down; less air pressure! Because the density of air decreases as altitude increases, air pressure generally decreases with altitude. Similarly, as the density of the air increases, so does the air pressure."
+msgstr ""
+"La fuerza de gravedad tira de todos los objetos que tienen masa hacia el centro de la Tierra. Las moléculas de aire tienen masa, así que también son atraídas hacia la superficie terrestre. Y, justo como el resto de los objetos, existe una relación entre la masa del objeto y la fuerza ejercida por la gravedad - entre mayor es la masa, mayor es la fuerza gravitacional. El resultado de esta atracción gravitacional es un fenómeno llamado <span class='key'>Presión del Aire</span>. Imagina por un momento estar de pie en medio de una columna de aire que se extiende desde tus "
+"pies (sobre la superficie terrestre) hasta el exterior de la atmósfera. La masa de todo ese aire directamente sobre ti, ejercerá una fuerza sobre ti llamada presión del aire. Esto es una consecuencia de la atracción gravitacional de la Tierra sobre la masa de aire sobre ti y te afecta a ti y a todo lo que está sobre la superficie terrestre. Por lo tanto, si hay menos moléculas de aire en esa columna, entonces la presión sería menor sobre la superficie terrestre. A la inversa, si el número y masa de moléculas incrementa, se experimentaría una presión mayor sobre la "
+"superficie terrestre. Así que entre más te eleves, como cuando escalas una montaña o vuelas en avión, habrá una menor masa de aire sobre ti, lo que significa que hay menos fuerza por el peso de dicho aire presionando sobre ti; o sea, ¡menos presión del aire! Ya que la densidad del aire disminuye conforme la altitud aumenta, la presión del aire generalmente disminuye con la altitud. De la misma forma, conforme la densidad del aire incrementa, también lo hace la presión del aire."
+
+msgid "Look at how few atoms are pressing down on me at the top of the mountain!"
+msgstr "¡Mira cuán pocos átomos están provocando presión sobre mí en la cima de la montaña!"
+
+msgid "Look at all the atoms pressing down on me at the bottom of the mountain!"
+msgstr "¡Mira cuántos átomos están provocando presión sobre mí en la base de la montaña!"
+
+msgid "Click here!"
+msgstr "¡Da clic aquí!"
+
+msgid "Lower pressure"
+msgstr "Presión más baja"
+
+msgid "Higher pressure"
+msgstr "Presión más alta"
+
+msgid "Pulling objects..."
+msgstr "Tirando de objetos..."
+
+# 9 Quick Check 3
+msgid "Question A. Look at the graph to the right showing the relationship between temperature and the density of air. Which of the following statements about the relationship is true?"
+msgstr "Pregunta A. Mira la gráfica de la derecha que muestra la relación entre la temperatura y la densidad del aire. ¿Cuál de las siguientes declaraciones acerca de dicha relación es verdad?"
+
+msgid "Cold air generally has less density than warm air."
+msgstr "El aire frío generalmente tiene menor densidad que el aire cálido."
+
+msgid "Warm air generally has less density than cold air."
+msgstr "El aire cálido generalmente tiene menor densidad que el aire frío."
+
+msgid "Warm air exerts greater pressure on Earth’s surface than cold air."
+msgstr "El aire cálido ejerce una mayor presión sobre la superficie terrestre que el aire frío."
+
+msgid "Cold air exerts less pressure on Earth’s surface than warm air."
+msgstr "El aire frío ejerce una menor presión sobre la superficie terrestre que el aire cálido."
+
+msgid "Question B. Examine the picture in the box to the right. It contains a cross section of Earth's atmosphere from the ground up to several thousand feet. The box, alongside the picture, represents varying concentrations of molecules of air in a given space. Molecules that are closer together represent atmospheric gas that is more dense than molecules that are further apart. Think about how density of Earth’s atmosphere changes as elevation increases or decreases. Use what you know to order the boxes from lowest density to highest density alongside the picture."
+msgstr ""
+"Pregunta B. Examina la imagen del cuadro de la derecha. Contiene un corte transversal de la atmósfera terrestre desde el suelo hasta varios miles de pies de altura. El cuadro junto a la imagen representa varias concentraciones de moléculas de aire en un espacio dado. Las moléculas que están más cerca unas de otras representan gas atmosférico que es más denso que cuando las moléculas que están más separadas. Piensa acerca de cómo la densidad de la atmósfera terrestre cambia conforme la elevación aumenta o disminuye. Utiliza lo que sabes para ordenar los cuadros de la "
+"menor densidad a la mayor densidad junto a la imagen."
+
+msgid "Question A. Look at the graph below showing the relationship between temperature and the density of air. Which of the following statements about the relationship is true?"
+msgstr "Pregunta A. Mira la gráfica debajo que muestra la relación entre la temperatura y la densidad del aire. ¿Cuál de las siguientes declaraciones acerca de dicha relación es verdad?"
+
+msgid "Reading barometer..."
+msgstr "Leyendo el barómetro..."
+
+msgid "Nope! Cold air is generally more dense than warm air."
+msgstr "¡Nop! El aire frío es generalmente más denso que el aire cálido."
+
+msgid "Correct. Warm air generally has less density than cold air."
+msgstr "Correcto. El aire cálido generalmente tiene menor densidad que el aire frío."
+
+msgid "No! Warm air is less dense than cold air. Therefore it exerts less pressure on Earth’s surface than cold air."
+msgstr "¡No! El aire cálido es menos denso que el aire frío. Por lo tanto, ejerce menor presión sobre la superficie terrestre que el aire frío."
+
+msgid "Cold air is more dense than warm air. Therefore it exerts more pressure on Earth’s surface than warm air."
+msgstr "El aire frío es más denso que el aire cálido. Por lo tanto, ejerce mayor presión sobre la superficie terrestre que el aire cálido."
+
+msgid "Correct. The density of Earth's atmosphere decreases as elevation increases."
+msgstr "Correcto. La densidad de la atmósfera terrestre disminuye conforme la elevación aumenta."
+
+msgid "Not quite! The closer the molecules are in the box, the higher the density is. The density of the gases in Earth’s atmosphere decreases as elevation increases."
+msgstr "¡No exactamente! Entre más cerca están las moléculas en el cuadro, mayor es la densidad. La densidad de los gases de la atmósfera terrestre disminuye conforme la elevación aumenta."
+
+# 10
+msgid ""
+"You should now know that the air close to Earth’s surface contains gases such as nitrogen, oxygen, carbon dioxide and argon as well as water vapor.  The amount of water that the atmosphere holds is influenced by its temperature. Warmer air, for example, can hold more water than cooler air. On warm days when there is a lot of moisture in the air, the air can feel very humid. As the air cools down as it rises to a higher altitude near mountains, or following a dramatic drop in temperature as the sun begins to set, the air can no longer hold as much water. Under such "
+"conditions, the water in the air condenses and it begins to precipitate as rain, snow, or sleet."
+msgstr ""
+"Ahora deberías saber que el aire que está más cerca de la superficie terrestre contiene gases como nitrógeno, oxígeno, dióxido de carbono y argón así como vapor de agua. La cantidad de agua que la atmósfera sostiene es influenciada por su temperatura. El aire más cálido, por ejemplo, puede sostener más agua que el aire más frío. En días cálidos cuando hay mucha agua en el aire, el aire puede sentirse muy húmedo. Conforme el aire se enfría mientras se eleva a una altitud mayor cerca de las montañas, o tras una disminución dramática en la temperatura cuando el sol comienza "
+"a ponerse, el aire ya no puede sostener tanta agua. Bajo dichas condiciones, el agua en el aire se condensa y comienza a precipitarse como lluvia, nieve o granizo."
+
+msgid ""
+"In addition to holding water, the atmosphere also absorbs <span class='key'>pollutants</span> - gases and small particles emitted by natural hazards such as volcanic eruptions and natural forest fires or human activity such as burning debris or industrial activities associated with generating electricity or manufacturing goods. Pollutants in the air can have a negative impact on human health as well as the environment. For example, asthma is a chronic and very often debilitating disease of the lungs caused by air pollution from cars, power plants and industrial "
+"manufacturing."
+msgstr ""
+"Además de sostener agua, la atmósfera también absorbe <span class='key'>contaminantes</span> - gases y pequeñas partículas emitidas por riesgos naturales como erupciones volcánicas e incendios forestales naturales o por actividad humana como desperdicios de quemazón o actividades industriales asociadas con la generación de electricidad o la manufactura de bienes. Los contaminantes en el aire pueden tener un efecto negativo sobre la salud humana así como sobre el ambiente. Por ejemplo, el asma es una enfermedad de los pulmones, crónica y con frecuencia muy debilitante que "
+"es provocada por la contaminación de autos, plantas de energía y la manufactura industrial."
+
+msgid "People suffering from asthma have trouble breathing and engaging in even simple activities such as walking. Another example is found in lead. Lead is a metal that can enter the atmosphere as a result of burning fossil fuels. Once in the atmosphere, lead can be transported by wind and rain to places far away from the source of pollution. When humans ingest (eat) plants and animals that have been contaminated by lead pollution they can suffer from diseases that affect the brain and nervous system."
+msgstr ""
+"La gente que sufre de asma tiene problemas para respirar e incluso para realizar actividades simples como caminar. Otro ejemplo es el plomo. El plomo es un metal que puede entrar a la atmósfera como resultado de la quema de combustibles fósiles. Una vez que está en la atmósfera, el plomo puede ser transportado por el viento y la lluvia a lugares muy lejanos de la fuente de contaminación. Cuando los humanos ingieren (comen) plantas y animales que han sido afectados por contaminación por plomo pueden sufrir de enfermedades que afectan al cerebro y al sistema nervioso."
+
+msgid "Sometimes, the air above urban areas can be filled with a dense mixture of smoke, atmospheric pollutants and water vapor. The thick, cloud-like formation that hangs over a city is known as <span class='key'>smog</span>."
+msgstr "Algunas veces, el aire encima de áreas urbanas puede llenarse de una mezcla densa de humo, contaminantes atmosféricos y vapor de agua. La formación gruesa, parecida a una nube que flota sobre una ciudad, se conoce como <span class='key'>smog</span>."
+
+msgid "According to the Environmental Protection Agency (EPA), examples of common pollutants found in Earth’s atmosphere includes:"
+msgstr "De acuerdo a la Agencia de Protección Ambiental (EPA), ejemplos de contaminantes comunes encontrados en la atmósfera terrestre incluyen:"
+
+msgid "Carbon Monoxide"
+msgstr "Monóxido de Carbono"
+
+msgid "Lead"
+msgstr "Plomo"
+
+msgid "Nitrogen Oxide"
+msgstr "Óxido de Nitrógeno"
+
+msgid "Particulate Matter"
+msgstr "Material Particulado"
+
+msgid "Sulfur Dioxide"
+msgstr "Dióxido de Azufre"
+
+msgid "Ozone"
+msgstr "Ozono"
+
+msgid "Cleaning air..."
+msgstr "Limpiando el aire..."
+
+# 11 Quick Check 4
+msgid "The data in the table below show some climatic variables (precipitation, minimum temperatures, high temperatures and average temperatures) for a location in Hawaii, United States. Use table and what you know about Earth's atmosphere, check off <span class='blink'>ALL</span> of the true statements about the relationship between temperature and precipitation."
+msgstr "Los datos en la tabla debajo muestran algunas variables climáticas (precipitación, temperaturas mínimas, temperaturas altas y temperaturas promedio) para una ubicación en Hawaii, Estados Unidos. Utiliza la tabla y lo que sabes acerca de la atmósfera terrestre y marca <span class='blink'>TODAS</span> las declaraciones verdaderas acerca de la relación entre temperatura y precipitación."
+
+msgid "As the air temperature increases, the amount of precipitation decreases."
+msgstr "Conforme incrementa la temperatura del aire, la cantidad de precipitación disminuye."
+
+msgid "As the air temperature decreases, the amount of precipitation decreases."
+msgstr "Conforme disminuye la temperatura del aire, la cantidad de precipitación disminuye."
+
+msgid "The wettest months are also the coolest months in this area."
+msgstr "Los meses más húmedos también son los meses más fríos en esta área."
+
+msgid "The warmest months are also the driest months in this area."
+msgstr "Los meses más cálidos también son los meses más secos en esta área."
+
+msgid "Correct! You've selected all the appropriate responses."
+msgstr "¡Correcto! Seleccionaste todas las respuestas apropiadas."
+
+msgid "Nope! 2<sup>nd</sup> choice is not a true statement."
+msgstr "¡Nop! La segunda opción no es una declaración verdadera."
+
+msgid "Not quite. Some other statements are also true."
+msgstr "No exactamente. Otras declaraciones también son verdaderas."
+
+msgid "JAN"
+msgstr "ENE"
+
+msgid "FEB"
+msgstr "FEB"
+
+msgid "MAR"
+msgstr "MAR"
+
+msgid "APR"
+msgstr "ABR"
+
+msgid "MAY"
+msgstr "MAY"
+
+msgid "JUN"
+msgstr "JUN"
+
+msgid "JUL"
+msgstr "JUL"
+
+msgid "AUG"
+msgstr "AGO"
+
+msgid "SEP"
+msgstr "SEP"
+
+msgid "OCT"
+msgstr "OCT"
+
+msgid "NOV"
+msgstr "NOV"
+
+msgid "DEC"
+msgstr "DIC"
+
+# 12
+msgid "Using what you now know about... the air around us... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca del... aire que nos rodea... para resolver un problema"
+
+msgid "You are part of a team investigating possible contributors to air pollution from where you live. You are brainstorming ideas to reduce air pollution."
+msgstr "Eres parte de un equipo que investiga posibles contribuyentes a la contaminación del aire en donde vives. Están intercambiando ideas para reducir la contaminación del aire."
+
+msgid "Identify what you think may be one of the main air polluters where you live and what you think could be done to reduce that amount of pollution produced by its source."
+msgstr "Identifica lo que crees que puede ser uno de los principales contaminantes del aire en donde vives y lo que piensas que podría hacerse para reducir la cantidad de contaminación producida por su fuente."
+
+msgid "Reducing air pollution..."
+msgstr "Reduciendo la contaminación del aire..."
+
+# 13
+msgid "Summarizing big ideas about... the air around us"
+msgstr "Resumiendo ideas importantes acerca del... aire que nos rodea"
+
+msgid ""
+"Because air is invisible, people may think that one large layer of air blankets Earth's surface. But scientists who study weather see things differently. In fact, it is more useful to think of Earth's surface as being covered by many large air masses that vary in temperature and <span class='key'>pressure</span>. In addition, the air blanketing Earth's surface is composed of many gases including nitrogen, oxygen, carbon dioxide, argon and <span class='key'>water vapor</span> plus many, many other gases in very small amounts. Sometimes, gases and small particles of "
+"materials suspended in Earth's <span class='key'>atmosphere</span> as a result of volcanic eruptions or human activity (such as industrial manufacturing) cause harm to the environment and human health. Ultimately, humans rely on Earth's atmosphere for survival."
+msgstr ""
+"Porque es invisible, la gente puede creer que una gran capa de aire cubre como una manta la superficie terrestre. Pero los científicos que estudian el clima ven las cosas de una manera distinta. De hecho, es más útil pensar en la superficie terrestre como cubierta por muchas masas grandes de aire que varían en temperatura y <span class='key'>presión</span>. Adicionalmente, el aire que envuelve la superficie terrestre está compuesto por muchos gases incluyendo nitrógeno, oxígeno, dióxido de carbono, argón y <span class='key'>vapor de agua</span> además de muchos, muchos "
+"otros gases en cantidades muy pequeñas. A veces, gases y pequeñas partículas de materiales suspendidas en la <span class='key'>atmósfera</span> terrestre como resultado de erupciones volcánicas o actividad humana (como la manufactura industrial) causan daño al ambiente y a la salud humana. A fin de cuentas, los humanos dependen de la atmósfera terrestre para sobrevivir."
+
+# 14
+msgid "Reviewing key vocabulary related to... air around us"
+msgstr "Revisando vocabulario clave relacionado con... el aire que nos rodea"
+
+msgid "The amount of matter, or material in a space. Usually measured in a unit of mass per unit of volume. A denser material will have more mass in the same volume than a less dense material."
+msgstr "La cantidad de materia o material en un espacio. Usualmente se mide en una unidad de masa por unidad de volumen. Un material más denso tendrá más masa en el mismo volumen que un material menos denso."
+
+msgid "Air Pressure"
+msgstr "Presión del Aire"
+
+msgid "The force that gas molecules exert on their container. If there are more molecules in a given space, they will exert more force. We label that force pressure."
+msgstr "La fuerza que las moléculas de gas ejercen sobre su contenedor. Si hay más moléculas en un espacio dado, ejercerán más fuerza. Llamamos presión a dicha fuerza."
+
+msgid "atmosphere"
+msgstr "atmósfera"
+
+msgid "The collection of gas molecules in a space. Earth's atmosphere contains many types of molecules such as Nitrogen, Oxygen, Carbon Dioxide and Water."
+msgstr "La colección de moléculas de gas en un espacio. La atmósfera de la Tierra contiene muchos tipos de moléculas como Nitrógeno, Oxígeno, Dióxido de Carbono y Agua."
+
+msgid "Smog"
+msgstr "Smog"
+
+msgid "A term used to generalize air pollution. Usually when people use the term they are referring to air that appears thick, dark and cloudy."
+msgstr "Un término utilizado para generalizar la contaminación del aire. Usualmente cuando las personas utilizan el término se refieren a aire que parece denso, oscuro y nuboso."
+
+msgid "Pollutant"
+msgstr "Contaminante"
+
+msgid "A substance, often man-made, which has been introduced in an environment and is not naturally present in it. Usually pollutants have a negative impact on some or all of the organisms living in the area."
+msgstr "Una sustancia, con frecuencia creada por el hombre, que ha sido introducida en un ambiente y que no está presente naturalmente en él. Usualmente los contaminantes tienen un impacto negativo sobre algunos o todos los organismos que viven en el área."
+
+msgid "Water in its gaseous form, also called steam. Earth's atmosphere contains lots of water vapor, along with other molecules."
+msgstr "El agua en su forma gaseosa, también llamada simplemente vapor. La atmósfera terrestre contiene mucho vapor de agua, junto con otras moléculas."
+
+# 15
+msgid "Checking what you now know about... the air around us"
+msgstr "Revisando lo que sabes ahora acerca del... aire que nos rodea"
+
+# 16 QQ1
+msgid "Look at the two illustrations below (Figure A and Figure B).  Which of the following can you reasonably infer as true based on your observations?"
+msgstr "Mira las dos ilustraciones debajo (Figura A y Figura B). ¿Cuál de las siguientes podrías inferir razonablemente como verdadera basándote en tus observaciones?"
+
+msgid "Figure A"
+msgstr "Figura A"
+
+msgid "Figure B"
+msgstr "Figura B"
+
+msgid "The air outside the freezer door of Figure A contains more molecules of nitrogen and oxygen than the air outside the freezer door in Figure B."
+msgstr "El aire afuera de la puerta del congelador de la Figura A contiene más moléculas de nitrógeno y oxígeno que el aire afuera de la puerta del congelador en la Figura B."
+
+msgid "The air outside the freezer door of Figure A contains less molecules of water vapor than the air outside the freezer door in Figure B."
+msgstr "El aire afuera de la puerta del congelador de la Figura A contiene menos moléculas de vapor de agua que el aire afuera de la puerta del congelador en la Figura B."
+
+msgid "The air outside the freezer door of Figure B contains molecules of water that have condensed to form tiny droplets of water to create a “fog”."
+msgstr "El aire afuera de la puerta del congelador de la Figura B contiene moléculas de agua que se han condensado para formar pequeñas gotitas de agua para crear una \"neblina\"."
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Correct."
+msgstr "Correcto."
+
+msgid "Nope! The denser fog outside freezer door A is a result of a greater quantity of water vapor in the air outside freezer door A than freezer door B being condensed by the cold air flowing out of the freezer."
+msgstr "¡Nop! La neblina más densa afuera de la puerta del congelador A es resultado de una mayor cantidad de vapor de agua en el aire afuera de la puerta del congelador A que de la puerta del congelador B, siendo condensada por el aire frío que fluye desde el congelador. "
+
+msgid "No! The abundance of molecules of nitrogen and oxygen cannot be inferred from the illustrations."
+msgstr "¡No! La abundancia de moléculas de nitrógeno y oxígeno no puede ser inferida por las ilustraciones."
+
+msgid "Nope! The abundance of molecules of nitrogen and oxygen cannot be inferred from the illustrations."
+msgstr "¡Nop! La abundancia de moléculas de nitrógeno y oxígeno no puede ser inferida por las ilustraciones."
+
+# 17 QQ2
+msgid "The thin layer of gases that covers most of Earth's surface is called the..."
+msgstr "La delgada capa de gases que cubre la mayor parte de la superficie terrestre se conoce como..."
+
+msgid "hemisphere"
+msgstr "hemisferio"
+
+msgid "lithosphere"
+msgstr "litósfera"
+
+msgid "hydrosphere"
+msgstr "hidrósfera"
+
+msgid "Flipping box..."
+msgstr "Girando la caja..."
+
+msgid "Nope. Lithosphere is the thick layer of rock layers (continental and oceanic crust)"
+msgstr "Nop. La litósfera es la capa gruesa de capas de roca (corteza continental y oceánica)"
+
+msgid "A hemisphere? A hemisphere is one half of a spherical shape."
+msgstr "¿Un hemisferio? Un hemisferio es la mitad de una forma esférica."
+
+msgid "Not quite. This is the thin layer of water covering Earth's surface."
+msgstr "No exactamente. Ésta es la capa delgada de agua que cubre la superficie terrestre."
+
+# 18 QQ3
+msgid "Which of the following gases is most abundant in Earth's atmosphere?"
+msgstr "¿Cuál de los siguientes gases es más abundante en la atmósfera terrestre?"
+
+msgid "Carbon Dioxide"
+msgstr "Dióxido de Carbono"
+
+msgid "Helium"
+msgstr "Helio"
+
+msgid "Looking at the map..."
+msgstr "Mirando el mapa..."
+
+msgid "Correct. Roughly 78% of air is composed of nitrogen."
+msgstr "Correcto. Aproximadamente el 78% del aire está compuesto de nitrógeno."
+
+msgid "No! Oxygen makes up only about 20% of the gases found in air."
+msgstr "¡No! El oxígeno sólo constituye aproximadamente el 20% de los gases que hay en el aire."
+
+msgid "Nope! Only a very small fraction of air is comprised of carbon dioxide."
+msgstr "¡Nop! Sólo una muy pequeña fracción del aire está constituido por dióxido de carbono."
+
+msgid "No! Only a very small fraction of air is comprised of helium."
+msgstr "¡No! Sólo una muy pequeña fracción del aire está constituido por helio."
+
+# 19 QQ4
+msgid "Click on the <span class='blink'>correct</span> statement about the relationship between temperature, pressure and density of gases."
+msgstr "Da clic en la declaración <span class='blink'>correcta</span> acerca de la relación entre temperatura, presión y densidad de los gases."
+
+msgid "Higher temperatures in gas cause higher density."
+msgstr "Temperaturas más altas en los gases causan una densidad mayor."
+
+msgid "Higher pressures in gas cause lower density."
+msgstr "Presiones más altas en los gases causan una densidad menor."
+
+msgid "Higher temperatures in gas cause lower density."
+msgstr "Temperaturas más altas en los gases causan una densidad menor."
+
+msgid "Lower pressures in gas cause higher density."
+msgstr "Presiones más bajas en los gases causan una densidad mayor."
+
+msgid "Finding the correct answer..."
+msgstr "Encontrando la respuesta correcta..."
+
+msgid "No. An increase in temperature results in a decrease in density."
+msgstr "No. Un incremento en la temperatura resulta en una disminución de la densidad."
+
+msgid "Way to go!"
+msgstr "¡Bien hecho!"
+
+msgid "No. An increase in pressure results in an increase in density."
+msgstr "No. Un incremento en la presión resulta en un incremento en la densidad."
+
+msgid "No. A decrease in pressure on a gas results in a decrease in density."
+msgstr "No. Una disminución en la presión de un gas resulta en una disminución de la densidad."
+
+# 20 QQ5
+msgid "Air pollution can result from which of the following activities:"
+msgstr "Contaminación del aire puede ser resultado de cuáles de las siguientes actividades:"
+
+msgid "Natural disasters such as volcanic eruptions or natural forest fires."
+msgstr "Desastres naturales como erupciones volcánicas o incendios forestales naturales"
+
+msgid "Manufacturing such as electrical power plants."
+msgstr "La manufactura como las plantas eléctricas"
+
+msgid "Emissions from cars and buses."
+msgstr "Emisiones de autos y autobuses"
+
+msgid "All of the above."
+msgstr "Todas las anteriores."
+
+msgid "Researching air pollutants..."
+msgstr "Investigando contaminantes del aire..."
+
+msgid "That’s right! Air pollution can result from all three activities including natural disasters, manufacturing and emissions from cars and buses."
+msgstr "¡Así es! La contaminación del aire puede resultar de las tres actividades incluyendo desastres naturales, manufactura y emisiones de autos y autobuses."
+
+msgid "Yes, but not exactly! Air pollution can result from all three activities including natural disasters, manufacturing and emissions from cars and buses."
+msgstr "¡Sí, pero no exactamente! La contaminación del aire puede resultar de las tres actividades incluyendo desastres naturales, manufactura y emisiones de autos y autobuses."
+
+# 21 QQ6
+msgid "The dense, cloud-like formation filled with air pollutants found over cities is known as..."
+msgstr "La formación densa, similar a las nubes llena de contaminantes del aire que se encuentra sobre las ciudades se conoce como..."
+
+msgid "Fog"
+msgstr "Neblina"
+
+msgid "Water Vapor Formations"
+msgstr "Formaciones de Vapor de Agua"
+
+msgid "No. The atmosphere is the gaseous blanket that covers Earth's surface."
+msgstr "No. La atmósfera es el manto gaseoso que cubre la superficie de la Tierra."
+
+msgid "No. Fog, generally harmless to the human body, is a cloud-like formation composed mostly fine water droplets suspended in cool air."
+msgstr "No. La niebla en general no hace daño al cuerpo humano, es una formación similar a las nubes compuesta principalmente por gotas finas de agua suspendidas en aire frío."
+
+msgid "Correct!"
+msgstr "¡Correcto!"
+
+msgid "No. Although smog may contain water vapor, it also contains a mixture of gases considered harmful to human health."
+msgstr "No. Aunque el smog puede contener vapor de agua, también contiene una mezcla de gases considerados dañinos para la salud humana."
+
+# 22
+msgid "Congratulations"
+msgstr "¡Felicitaciones, "
+
+msgid "You've completed the Air Around Us module."
+msgstr "Has completado el módulo del Aire que nos Rodea."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."

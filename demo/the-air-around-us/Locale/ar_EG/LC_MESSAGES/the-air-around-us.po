@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "إختبار قصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار قصير رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر فوق، وعقد وحرك الماوس صعودا وهبوطا لتدوير مربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "في العمل"
+
+msgid "The Problem"
+msgstr "مشكلة"
+
+msgid "Your Assignment"
+msgstr "تعيين الخاص"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وبالأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "استعداد للمشاركة الشيك سريعة؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "استعداد للمسابقة مشاركة سؤالك؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# Test Items
+# From the Review
+# 1
+msgid "Which of the following are considered air pollutants?"
+msgstr ""
+
+msgid "Lead"
+msgstr ""
+
+msgid "Ozone"
+msgstr ""
+
+msgid "Nitrogen Oxides"
+msgstr ""
+
+msgid "All of the above"
+msgstr ""
+
+# 2
+msgid "The layer of gases that covers most of Earth’s surface is called the..."
+msgstr ""
+
+msgid "atmosphere"
+msgstr ""
+
+msgid "hemisphere"
+msgstr ""
+
+msgid "lithosphere"
+msgstr ""
+
+msgid "hydrosphere"
+msgstr ""
+
+# 3
+msgid "Click on the correct statement about the relationship between temperature, pressure and density of gases."
+msgstr ""
+
+msgid "Higher temperatures in gas cause higher density."
+msgstr ""
+
+msgid "Higher pressures in gas cause lower density."
+msgstr ""
+
+msgid "Higher temperatures in gas cause lower density."
+msgstr ""
+
+msgid "Lower pressures in gas cause higher density."
+msgstr ""
+
+# 4
+msgid "The brown or gray haze filled with air pollutants found most over cities is known as"
+msgstr ""
+
+msgid "Atmosphere"
+msgstr ""
+
+msgid "Smog"
+msgstr ""
+
+msgid "Fog"
+msgstr ""
+
+msgid "Water Vapor Formations."
+msgstr ""
+
+# 5
+msgid "Air pollution can result from which of the following activities:"
+msgstr ""
+
+msgid "Natural disasters such as volcanic eruptions or natural forest fires"
+msgstr ""
+
+msgid "Manufacturing such as electrical power plants"
+msgstr ""
+
+msgid "Emissions from cars and buses"
+msgstr ""
+
+# 6
+msgid "Read the statement below carefully and decide if it is true or false.Cold, dry air weighs more than warm, dry air."
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+# New Questions
+# 7
+msgid "The amount of water vapor that can be held by the air is dependent upon"
+msgstr ""
+
+msgid "The temperature of the air"
+msgstr ""
+
+msgid "The chemical composition of the air"
+msgstr ""
+
+msgid "The evaporation rate of water"
+msgstr ""
+
+msgid "The movement of air such as wind"
+msgstr ""
+
+# 8
+msgid "Heavy rains usually occur when"
+msgstr ""
+
+msgid "One cold front collides with another cold front"
+msgstr ""
+
+msgid "A warm front collides with another warm front"
+msgstr ""
+
+msgid "A cold front collides with a warm front"
+msgstr ""
+
+msgid "A cold front rises above a warm front"
+msgstr ""
+
+# 9
+msgid "Which of the following is true?"
+msgstr ""
+
+msgid "Earth’s atmosphere can be considered a homogenous blanket of air surrounding the earth."
+msgstr ""
+
+msgid "Earth’s surface is covered by many large air masses that vary in temperature and pressure."
+msgstr ""
+
+msgid "Earth’s atmosphere is composed mostly of oxygen and carbon dioxide."
+msgstr ""
+
+msgid "Earth’s surface is protected from radiation from the sun by the atmosphere."
+msgstr ""
+
+# 10
+msgid "Under which of the following conditions would you expect to see fog?"
+msgstr ""
+
+msgid "After cool air is warmed by the sun in the afternoon."
+msgstr ""
+
+msgid "When warm moist air is cooled as the Sun sets or during the night."
+msgstr ""
+
+msgid "When atmospheric temperature pressures increase."
+msgstr ""
+
+msgid "When it rains and the ground no longer absorbs water."
+msgstr ""
+
+# 11
+msgid "Mankind is always responsible for air pollution."
+msgstr ""
+
+msgid "Air is composed of a fixed composition of gases."
+msgstr ""
+
+msgid "Some parts of the world cannot be affected by air pollution."
+msgstr ""
+
+msgid "Air is composed of gases and therefore has mass."
+msgstr ""
+
+# 12
+msgid "Air density decreases as the temperature and the altitude of the air increases.Consider the chart above.  Under which conditions would you expect to find the greatest air pressure?"
+msgstr ""
+
+msgid "A"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+# 13
+msgid "Which TWO elements are most abundant in the air around us?"
+msgstr ""
+
+msgid "N and O"
+msgstr ""
+
+msgid "Ne and Ar"
+msgstr ""
+
+msgid "He and C"
+msgstr ""
+
+msgid "None of the Above"
+msgstr ""
+
+# 14
+msgid "The density of the air affects how easily an airplane can take off. The denser the air, the more lift the plane gets under its wings as it speeds down the runway for take-off. Which conditions at an airport would be the WORST for an airplane to take off in? An airport that is at:"
+msgstr ""
+
+msgid "low altitude on a hot day."
+msgstr ""
+
+msgid "low altitude on a cold day."
+msgstr ""
+
+msgid "high altitude on a cold day."
+msgstr ""
+
+msgid "high altitude on a hot day."
+msgstr ""
+
+# 15
+msgid "Once in the atmosphere, pollutants such as smog"
+msgstr ""
+
+msgid "will remain forever suspended in the air."
+msgstr ""
+
+msgid "can be moved great distances by the wind."
+msgstr ""
+
+msgid "dissolved into harmless components."
+msgstr ""
+
+msgid "evaporate into outer space."
+msgstr ""

@@ -1,0 +1,84 @@
+
+#animation{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#bell {
+	position: absolute;
+	width: 2.5%;	
+	height: 4%;
+	top: 46%;
+	left: 18.8%;
+	-webkit-transform-origin: center top;
+	-webkit-animation: bell 1.5s ease-in-out infinite alternate ;
+	
+	-moz-transform-origin: center top;
+	-moz-animation: bell 1.5s ease-in-out infinite alternate ;
+}
+
+#sound {
+	position: absolute;
+	width: 2.5%;	
+	height: 4%;
+	top: 48%;
+	left: 21.8%;
+	-webkit-transform-origin: left center;
+	-webkit-transform: rotate(8deg) scale(1);
+	-webkit-animation: sound 1.5s linear 0s infinite;
+
+
+	-moz-transform-origin: left center;
+	-moz-transform: rotate(8deg) scale(1);
+	-moz-animation: sound 1.5s linear 0s infinite;
+}
+
+@-webkit-keyframes bell {
+	from { -webkit-transform: rotate(20deg); }
+	to { -webkit-transform: rotate(-30deg); }
+}
+
+@-moz-keyframes bell {
+	from { -moz-transform: rotate(20deg); }
+	to { -moz-transform: rotate(-30deg); }
+}
+
+
+
+
+@-webkit-keyframes sound{
+	0%		{ 	opacity: 1;
+				top: 48%;
+				left: 21.8%;
+				-webkit-transform: rotate(8deg) scale(1); 
+			}
+	10%		{	opacity: 1;}
+	40%		{	opacity: 0;}
+	70%		{	opacity: 0;}
+	90%		{	opacity: 1;}
+	100%	{ 	opacity: 0;
+				top: 62%;
+				left: 45.8%;
+				-webkit-transform: rotate(8deg) scale(10); 
+			}
+}
+
+@-moz-keyframes sound{
+	0%		{ 	opacity: 1;
+				top: 48%;
+				left: 21.8%;
+				-moz-transform: rotate(8deg) scale(1); 
+			}
+	10%		{	opacity: 1;}
+	40%		{	opacity: 0;}
+	70%		{	opacity: 0;}
+	90%		{	opacity: 1;}
+	100%	{ 	opacity: 0;
+				top: 62%;
+				left: 45.8%;
+				-moz-transform: rotate(8deg) scale(10); 
+			}
+}
+
+

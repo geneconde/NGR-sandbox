@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plate tectonics\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja de abajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations"
+msgstr "Felicitaciones"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "Estás listo/a"
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando su primero comprobación rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Plate Tectonics"
+msgstr "Tectónica de Placas"
+
+# 1
+msgid "Welcome to the Plate Tectonics module"
+msgstr "Bienvenido/a a la revisión de Tectónica de Placas"
+
+# 2
+msgid "Thinking about... plate tectonics"
+msgstr "Pensando acerca de... tectónica de placas"
+
+msgid "Maps are fun to look at. They can help you find out where you are, where you're going, and what you're going to find when you get there. See if you can find your state on the map below."
+msgstr "Los mapas son divertidos. Te pueden ayudar a encontrar dónde estás, a dónde vas y lo que encontrarás cuando llegues allí. Mira si puedes encontrar tu estado en el mapa debajo."
+
+msgid ""
+"Lots of people plan their summer vacations using maps. Some people like to go to the mountains and go backpacking or mountain biking. Other people like to go to the beach and go surfing or play beach volleyball. Where would you like to go for a vacation this coming summer? And what would you like to do? Can you find on the map the beach or mountain closest to your state? Did you know that the reason there are mountains and beaches is because plate tectonics have slowly but surely ripped continents apart and crashed them back together to create some of the best places in the world to go on summer vacations? Thank you, plate tectonics!!"
+msgstr ""
+"Mucha personas planean sus vacaciones de verano utilizando mapas. Algunas personas disfrutan ir a las montañas a acampar o montar en bicicleta. A otras personas les gusta ir a la playa y surfear o jugar volleyball. ¿A dónde te gustaría ir de vacaciones este verano próximo? ¿Y qué te gustaría hacer? ¿Puedes encontrar en el mapa la playa o montaña más cercana a tu estado? ¿Sabías que la razón por la cual hay montañas y playas es porque las placas tectónicas han lentamente separado y unido de nuevo a los continentes para crear algunos de los mejores lugares del mundo para visitar durante las vacaciones de verano? ¡¡Gracias, tectónica de "
+"placas!!"
+
+# 3
+msgid "Checking what you know about... plate tectonics"
+msgstr "Revisando lo que sabes acerca de... tectónica de placas"
+
+msgid "In the United States, major earthquakes and volcanoes occur:"
+msgstr "En los Estados Unidos, los principales terremotos y volcanes ocurren:"
+
+msgid "Equally spaced all over the country."
+msgstr "De igual manera en todo el país."
+
+msgid "Mostly in the southern earthquake zone near Texas and Florida."
+msgstr "Principalmente en la zona de terremotos en el sur, cerca de Texas y Florida."
+
+msgid "In the mid-west near Chicago and Minneapolis."
+msgstr "En el medio oeste, cerca de Chicago y Minneapolis."
+
+msgid "In a zone that runs along the West Coast."
+msgstr "En una zona que pasa por la Costa Oeste."
+
+msgid "Earthquakes and volcanoes aren't spread out equally across the United States. Sometimes, but not very often, states in the middle of the country, like Kansas or Nebraska or Illinois might get minor earthquakes that hardly do any damage. But the majority of earthquakes and volcanoes, especially the big ones, occur near the west coast in California, Washington, and Oregon."
+msgstr "Los terremotos y volcanes no están distribuidos de la misma manera por todo Estados Unidos. Algunas veces, pero no muy frecuentemente, los estados en el centro del país, como Kansas o Nebraska o Illinois pueden tener ligeros terremotos que casi no causan daños. Pero la mayoría de los terremotos y volcanes, especialmente los más grandes, ocurren cerca de la costa oeste en California, Washington y Oregon."
+
+msgid "Duck, cover and hold"
+msgstr "Agacharse, cubrirse y sostenerse"
+
+# 4a
+msgid "Reviewing big ideas about... plate tectonics"
+msgstr "Revisando ideas clave acerca de... tectónica de placas"
+
+msgid "There are all kinds of maps that show all kinds of things about the land. Maps can provide important and useful information about the geography of an area. Many of the maps we commonly use show streets and highways, cities and towns. A good example is the map below that shows the major cities and highways in the state of Colorado. If you wanted to take a trip from Denver to Durango, which route would you choose? There's more than one way to get there, isn't there? Which route do you think is best?"
+msgstr "Hay toda clase de mapas que muestran toda clase de cosas acerca del terreno. Los mapas pueden proveer información útil e importante acerca de la geografía de un área. Muchos de los mapas que comúnmente utilizamos muestran calles y carreteras, ciudades y pueblos. Un buen ejemplo es el mapa debajo que muestra las ciudades y carreteras principales del estado de Colorado. Si quisieras tomar un viaje de Denver a Durango, ¿qué ruta elegirías? Hay más de una manera de llegar allí, ¿no es así? ¿Cuál ruta crees que sea la mejor?"
+
+# 4b
+msgid "There are other kinds of maps that are used for other purposes too. Hover on the images to know more."
+msgstr "Hay otras clases de mapas que se utilizan para otros propósitos también. Pasa tu mouse por encima de las imágenes para saber más."
+
+msgid "Some maps in the newspaper show what the weather is every day."
+msgstr "Algunos mapas en el periódico muestran el clima diariamente."
+
+msgid "Some show where different kinds of landform features occur - like lakes, rivers, coasts, mountains, and plains."
+msgstr "Algunos muestran dónde ocurren distintos tipos de paisaje - como lagos, ríos, costas, montañas y planicies."
+
+msgid "Other maps show climate zones."
+msgstr "Otros mapas muestran zonas climáticas."
+
+msgid "The middle map above is a geography map that shows the major mountains, rivers, coasts, and plains in the United States. Can you find where you live on the map? What is the closest mountain or the closest ocean to where you live?"
+msgstr "El mapa central anterior es un mapa geográfico que muestra las principales montañas, ríos, costas y planicies en los Estados Unidos. ¿Puedes encontrar dónde vives en el mapa? ¿Cuál es la montaña u océano más cercano a donde vives?"
+
+msgid "Reading a compass..."
+msgstr "Leyendo una brújula..."
+
+# 5a
+msgid "Question A. On the map below, most of the biggest river systems occur in the:"
+msgstr "Pregunta A. En el mapa debajo, la mayoría de los sistemas de ríos más grandes ocurren en:"
+
+msgid "Rocky Mountains"
+msgstr "Montañas Rocosas"
+
+msgid "Great Plains"
+msgstr "Grandes Planicies"
+
+msgid "Appalachian Mountains"
+msgstr "Montes Apalaches"
+
+msgid "Coastal Plain"
+msgstr "Planicie Costera"
+
+msgid "Click to enlarge image"
+msgstr "Da clic para agrandar la imagen"
+
+msgid "Question B. Maps can show all of the following except:"
+msgstr "Pregunta B. Los mapas pueden mostrar todos los siguientes excepto:"
+
+msgid "How everybody feels today."
+msgstr "Cómo se siente la gente hoy."
+
+msgid "Where there are rivers and lakes."
+msgstr "Dónde hay ríos y lagos."
+
+msgid "Streets in your town or city."
+msgstr "Las calles en tu pueblo o ciudad."
+
+msgid "How long the coastline is."
+msgstr "Cuán larga es la costa."
+
+msgid "Question C. Maps can be best used to help you:"
+msgstr "Pregunta C. El mejor uso para los mapas es ayudarte a:"
+
+msgid "Plan a route to travel."
+msgstr "Planear una ruta para viajar."
+
+msgid "Decide where the nicest people live."
+msgstr "Decidir dónde vive la gente más agradable."
+
+msgid "Plan what to do when you grow up."
+msgstr "Planear qué hacer cuando crezcas."
+
+msgid "All of the above."
+msgstr "Todas las anteriores."
+
+# 5b
+msgid "No - It's difficult to find any major rivers on the map in the Rocky Mountains."
+msgstr "No - Es difícil encontrar ríos importantes en el mapa en las Montañas Rocosas."
+
+msgid "Yes - You can see that the Great Plains area of the Midwest has several major river systems including the Mississippi, Missouri, and Ohio River systems."
+msgstr "Sí - Puedes ver que el área de las Grandes Planicies en el Medio Oeste tiene varios sistemas de ríos importantes incluyendo los sistemas de ríos Mississippi, Missouri y Ohio."
+
+msgid "No - It's difficult to find any major rivers on the map in the Appalachian Mountains."
+msgstr "No - Es difícil encontrar ríos importantes en el mapa en los Montes Apalaches."
+
+msgid "No - There are some major rivers in the Coastal Plain area but they are actually the rivers from the Great Plains emptying into the sea."
+msgstr "No - Hay algunos ríos importantes en el área de la Planicie Costera pero en realidad son los ríos de las Grandes Planicies que llegan al mar."
+
+msgid "Yes - Maps don't show how people feel."
+msgstr "Sí - Los mapas no muestran cómo se siente la gente."
+
+msgid "No - Maps can show where there are rivers and lakes."
+msgstr "No - Los mapas pueden mostrar dónde hay ríos y lagos."
+
+msgid "No - Maps can show where there are streets and rivers in your town."
+msgstr "No - Los mapas pueden mostrar dónde hay calles en tu pueblo o ciudad."
+
+msgid "No - Maps can show how long the coastline is."
+msgstr "No - Los mapas pueden mostrar cuán larga es la costa."
+
+msgid "Yes - You can look at a map to see roads and towns that help you plan a route to get where you want to go."
+msgstr "Sí - Puedes mirar un mapa para ver caminos y pueblos que te ayudarán a planear una ruta para llegar a donde desees ir."
+
+msgid "Not quite - Nice people live everywhere, so there are no maps to decide where to find them."
+msgstr "No exactamente - Hay gente agradable en todas partes, así que no hay mapas que puedan decidir dónde encontrarlas."
+
+msgid "No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with that."
+msgstr "No - Planear qué hacer cuando crezcas depende de las cosas que te interesen y de tus habilidades. Los mapas no te pueden ayudar con eso."
+
+msgid "No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with that. And, nice people live everywhere so there are no maps to decide where to find them."
+msgstr "No - Planear qué hacer cuando crezcas depende de las cosas que te interesen y de tus habilidades. Los mapas no te pueden ayudar con eso. Y hay gente agradable en todas partes, así que no hay mapas que puedan decidir dónde encontrarlas."
+
+# 6a
+msgid "More big ideas about... plate tectonics"
+msgstr "Más ideas importantes acerca de... tectónica de placas"
+
+msgid "The earth's major landform features, such as volcanoes, mountains, rivers, and coasts can be shown on <span class='key'>maps</span> so we can try and make sense out of the <span class='key'>patterns</span> they form."
+msgstr "Las principales accidentes geográficos de la tierra, como los volcanes, montañas, ríos y costas pueden mostrarse en los <span class='key'>mapas</span> para que podamos intentar comprender los <span class='key'>patrones</span> que forman."
+
+msgid "This map shows the locations of most of the major volcanoes (red dots) in the United States. When these locations are shown on a map like this, it is easy to see a pattern of where the <span class='key'>volcanoes</span> are in the United States. First of all, they are all located in the western US and they are all located in a general north-south trend that roughly runs along the west coast."
+msgstr "Este mapa muestra la ubicación de la mayoría de los volcanes principales (puntos rojos) en los Estados Unidos. Cuando estas ubicaciones se muestran en un mapa así, es fácil ver un patrón de dónde se encuentran los <span class='key'>volcanes</span> en los Estados Unidos. Para empezar, todos se localizan en el oeste de los Estados Unidos y todos están ubicados en una tendencia general de norte a sur que recorre aproximadamente la costa oeste."
+
+msgid "This map shows occurrences of major <span class='key'>earthquakes</span> (black dots) in the United States. How does the pattern of earthquakes shown on this map compare to the locations of volcanoes on the previous map? You're right. Most of the volcanoes and many of the earthquakes generally run north and south band and which is roughly parallel to the Pacific coast in the western part of the North American continent. But unlike volcanoes, a number of earthquakes are found in the central and eastern parts of the United States."
+msgstr "Este mapa muestra la ubicación de la mayoría de los principales <span class='key'>terremotos</span> (puntos negros) en los Estados Unidos. ¿Cómo se compara el patrón de terremotos en este mapa a la ubicación de los volcanes en el mapa anterior? Tienes razón. La mayoría de los volcanes y muchos de los terremotos ocurren generalmente de norte a sur y de manera aproximadamente paralela a la costa del Pacífico en la parte oeste del continente Norteamericano. Pero al contrario de los volcanes, unos cuantos terremotos pueden encontrarse en el centro y este de los Estados Unidos."
+
+msgid "Analyzing seismic waves..."
+msgstr "Analizando ondas sísmicas..."
+
+# 7a
+msgid "Question A. On the map below, most of the volcanoes in Western United States occur:"
+msgstr "Pregunta A. En el mapa debajo, la mayoría de los volcanes en el Oeste de los Estados Unidos ocurren:"
+
+msgid "Along the Pacific Coast"
+msgstr "A lo largo de la Costa del Pacífico"
+
+msgid "In the Rocky Mountains"
+msgstr "En las Montañas Rocosas"
+
+msgid "Clumped in just one small area in California"
+msgstr "Acumulados en una única área pequeña en California"
+
+msgid "Parallel to the Pacific Coast but a little inland"
+msgstr "Paralelos a la Costa del Pacífico pero algo tierra adentro"
+
+msgid "Question B. The pattern of earthquakes (black dots) shown on the map below:"
+msgstr "Pregunta B. El patrón de los terremotos (puntos negros) mostrados en el mapa debajo:"
+
+msgid "Is exactly like the pattern of volcanoes on the map in question A above."
+msgstr "Es exactamente igual al patrón de volcanes en el mapa de la pregunta A."
+
+msgid "Is similar to the pattern of volcanoes on the map in question A above but has earthquakes over a greater area."
+msgstr "Es similar al patrón de volcanes en el mapa de la pregunta A, pero aparecen en un área más grande."
+
+msgid "Shows earthquakes occur only in the western United States."
+msgstr "Muestra que los terremotos sólo suceden en el oeste de los Estados Unidos."
+
+msgid "Monitoring volcanic earthquakes..."
+msgstr "Monitoreando terremotos volcánicos..."
+
+msgid "Shows earthquakes occurring in Florida."
+msgstr "Muestra terremotos que ocurren en Florida."
+
+# 7b
+msgid "Not quite - The red dots that represent volcanoes occur parallel to the pacific coast but not right on the coast."
+msgstr "No exactamente - Los puntos rojos que representan volcanes aparecen de manera paralela a la costa del Pacífico pero no están justo en la costa."
+
+msgid "Not quite - The red dots that represent volcanoes occur near the pacific coast."
+msgstr "No exactamente - Los puntos rojos que representan volcanes aparecen cerca de la costa del Pacífico."
+
+msgid "Not quite - The red dots that represent volcanoes occur all along the pacific coast - not just in California."
+msgstr "No exactamente - Los puntos rojos que representan volcanes aparecen a todo lo largo de la costa del Pacífico - no sólo en California."
+
+msgid "Yes! You can see on the map that the red dots representing volcanoes occur all along the pacific coast - not right on the coast - but rather a little bit inland away from the coast."
+msgstr "¡Sí! Puedes ver en el mapa que los puntos rojos que representan volcanes aparecen a todo lo largo de la costa del Pacífico - no justo sobre la costa - sino un poco más tierra adentro."
+
+msgid "Not exactly - The pattern of earthquakes shown on question A map is similar to the pattern near the pacific coast but the black dots representing earthquakes occur all over Western United States as well."
+msgstr "No exactamente - El patrón de terremotos mostrados en el mapa de la pregunta A es similar al patrón cercano de la costa del Pacífico pero los puntos negros que representan terremotos también aparecen en todo el Oeste de los Estados Unidos."
+
+msgid "Yes - The red dots that represent volcanoes occur near the pacific coast and the black dots representing earthquakes occur mostly near the pacific coast too - but also all over most of the rest of the United States."
+msgstr "Sí - Los puntos rojos que representan volcanes aparecen cerca de la costa del Pacífico y los puntos negros que representan terremotos también aparecen principalmente cerca de la costa del Pacífico - pero también sobre la mayoría del resto de los Estados Unidos."
+
+msgid "Not quite - Most of the earthquakes occur in Western United States but you can see on the map that some earthquakes (represented by the black dots) occur in Eastern United States as well."
+msgstr "No exactamente - La mayoría de los terremotos suceden en el Oeste de los Estados Unidos pero puedes ver en el mapa que algunos terremotos (representados por los puntos negros) suceden en el este de los Estados Unidos también."
+
+msgid "No - There are no black dots on the map in Florida, which means there are no earthquakes in Florida."
+msgstr "No - No hay puntos negros en el mapa en Florida, lo que significa que no hay terremotos en Florida."
+
+# 8a
+msgid "Scientists explain these patterns of mountains, volcanoes, and earthquakes by an idea called <span class='key'>plate tectonics</span>. The diagram below shows how the whole surface of the earth, including the continents and oceans, are all sitting on what geologists call <span class='key'>tectonic plates</span>."
+msgstr "Los científicos explican estos patrones de montañas, volcanes y terremotos con una idea llamada <span class='key'>tectónica de placas</span>. El diagrama debajo muestra cómo toda la superficie de la tierra, incluyendo los continentes y océanos, están encima de lo que los geólogos llaman <span class='key'>placas tectónicas</span>."
+
+msgid "These plates are like huge pieces of a jigsaw puzzle with the continents and oceans sitting on top of them. And they move around the earth very, very slowly, pulling away from each other and bumping into each other. This causes some very interesting and important things to happen on the earth - like mountains, volcanoes, and earthquakes."
+msgstr "Estas placas son como enormes piezas de un rompecabezas con los continentes y océanos reposando encima de ellas. Y se mueven por la tierra muy, muy lentamente, alejándose unas de otras y chocando entre sí. Esto provoca cosas muy interesantes e importantes en la Tierra - como montañas, volcanes y terremotos."
+
+msgid "Eurasian Plate"
+msgstr "Placa Euroasiática"
+
+msgid "North American Plate"
+msgstr "Placa Norteamericana"
+
+msgid "Pacific Plate"
+msgstr "Placa del Pacífico"
+
+msgid "Philippine Plate"
+msgstr "Placa Filipina"
+
+msgid "Indo-Australian Plate"
+msgstr "Placa Indoaustraliana"
+
+msgid "Fiji Plate"
+msgstr "Placa de Fiji"
+
+msgid "Coco's Plate"
+msgstr "Placa de Cocos"
+
+msgid "Antartic Plate"
+msgstr "Placa Antártica"
+
+msgid "Carribbean Plate"
+msgstr "Placa del Caribe"
+
+msgid "South American Plate"
+msgstr "Placa Sudamericana"
+
+msgid "Arabian Plate"
+msgstr "Placa Arábiga"
+
+msgid "African Plate"
+msgstr "Placa Africana"
+
+msgid "Scotia Plate"
+msgstr "Placa de Scotia"
+
+msgid "Nazca Plate"
+msgstr "Placa de Nazca"
+
+# 8b
+msgid "Volcanoes"
+msgstr "Volcanes"
+
+msgid "Continental Crust"
+msgstr "Corteza Continental"
+
+msgid "Magma"
+msgstr "Magma"
+
+msgid "Lithosphere"
+msgstr "Litósfera"
+
+msgid "Asthenosphere"
+msgstr "Astenósfera"
+
+msgid "Trench"
+msgstr "Foso"
+
+msgid "Oceanic Crust"
+msgstr "Corteza Oceánica"
+
+msgid ""
+"Sometimes when one plate bumps into another it causes one of the plates to get pushed under the other plate. Like if a small car crashes into the back of a big semi-truck, the small car might get pushed under the truck. This is called <span class='key'>subduction</span> when tectonic plates do it. A <span class='key'>subduction zone</span>, where the Pacific tectonic plate was pushed and dragged under the North American tectonic plate in California millions of years ago, caused the volcanoes in California. And in Washington and Oregon this process is still going on right now! That's why there are active volcanoes in Washington and "
+"Oregon but the volcanoes in California are dormant."
+msgstr ""
+"A veces, cuando una placa choca contra otra, eso causa que una de las placas sea empujada bajo la otra. De la misma forma en que si un coche pequeño se estrella en la parte posterior de un gran camión, el pequeño coche puede que sea empujado debajo del camión. Esto se llama <span class='key'>subducción</span> cuando sucede con las placas tectónicas. Una <span class='key'>zona de subducción</span>, en la que la placa tectónica del Pacífico fue empujada y arrastrada bajo la placa tectónica Norteamericana en California millones de de años atrás, ocasionó los volcanes en California. ¡Y en Washington y Oregon este proceso sigue en marcha "
+"ahora mismo! Es por eso que hay volcanes activos en Washington y Oregon, pero los volcanes en California están latentes."
+
+msgid "The <span class='key'>subduction</span> process causes the <span class='key'>ocean plate</span> to rub against the <span class='key'>continental plate</span> and the friction between them causes the rocks to heat up and melt until finally - boom!! - a volcano erupts. Try rubbing your hands together quickly and see how they heat up. That's friction! The same thing happens to heat the plates when they rub together - but it just happens very slowly."
+msgstr "El proceso de <span class='key'>subducción</span> provoca que la <span class='key'>placa oceánica</span> se deslice contra la <span class='key'>placa continental</span> y la fricción entre ellas hace que las rocas se calienten y derritan hasta que finalmente - ¡¡zas!! - Un volcán entra en erupción. Intenta frotar tus manos una con otra rápidamente y ve cómo se calientan. ¡Eso es fricción! Lo mismo ocurre para calentar las placas cuando se frotan entre sí - sólo que sucede muy lentamente."
+
+msgid "Moving very slowly..."
+msgstr "Moviéndose muy lentamente..."
+
+# 9a
+msgid "Question A. The whole earth is divided into tectonic plates. These plates are:"
+msgstr "Pregunta A. Toda la tierra está dividida en placas tectónicas. Estas placas tienen:"
+
+msgid "continents and oceans on them and the plates can move on the earth's surface."
+msgstr "a continentes y océanos sobre de ellas, y las placas pueden moverse sobre la superficie de la tierra."
+
+msgid "just continents on them and the plates are solid and never move."
+msgstr "sólo continentes sobre de ellas y las placas son sólidas y nunca se mueven."
+
+msgid "oceans on them and the plates move back and forth with the tide."
+msgstr "océanos sobre de ellas y las placas se mueven de un lado a otro con la marea."
+
+msgid "oceans on them and the plates never move at all."
+msgstr "océanos sobre de ellas y las placas nunca se mueven en absoluto."
+
+msgid "Question B. Heat generated from the tectonic plates rubbing up against each other during subduction causes..."
+msgstr "Pregunta B. El calor generado por la fricción entre unas placas tectónicas y otras durante la subducción causa..."
+
+msgid "California to be warmer than other states."
+msgstr "Que California sea más cálido que otros estados."
+
+msgid "Rocks to melt and form volcanoes."
+msgstr "Que rocas se derritan y formen volcanes."
+
+msgid "Global warming."
+msgstr "Calentamiento global."
+
+msgid "Big waves to surf on."
+msgstr "Enormes olas para surfear."
+
+# 9b
+msgid "Very good - tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the earth's surface."
+msgstr "Muy bien - las placas tectónicas están formadas tanto de placas continentales como oceánicas que se deslizan y desplazan por toda la superficie de la tierra."
+
+msgid "Not quite - The tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the earth's surface."
+msgstr "No exactamente - Las placas tectónicas están formadas tanto de placas continentales como oceánicas que se deslizan y desplazan por toda la superficie de la tierra."
+
+msgid "Not really - The tectonic plates are made up of both continental and oceanic plates and the forces that move them are from deep within the earth that have nothing to do with the tides."
+msgstr "No exactamente - Las placas tectónicas están formadas tanto de placas continentales como oceánicas y las fuerzas que las mueven vienen de la profundidad de la tierra y no tienen nada que ver con la marea."
+
+msgid "Not really - Plate tectonics and subduction cause heating effects inside the earth not on the surface."
+msgstr "No exactamente - La tectónica de placas y la subducción causan calor dentro de la tierra, no en la superficie."
+
+msgid "Yes - Plate tectonics and subduction cause heating effects inside the earth that can melt rocks under the earth's surface and cause volcanoes."
+msgstr "Sí - La tectónica de placas y la subducción causan calor dentro de la tierra que puede derretir rocas bajo la superficie terrestre y crear volcanes."
+
+# 10a
+msgid "Using what you now know about... plate tectonics... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... tectónica de placas... para resolver un problema."
+
+msgid "Pretend you were a multimillionaire and you were going to build the biggest, most beautiful and expensive house you could possibly imagine. And you could build it anywhere in the United States that you wanted."
+msgstr "Finge que eres un/a multimillonario/a y que vas a construir la casa más grande, más bella y más costosa que puedas imaginar. Y que puedes construirla en cualquier parte de los Estados Unidos que tú quieras."
+
+# 10b
+msgid "Use your knowledge about plate tectonics to describe where in the United States you would build the house - and why - to minimize the chance it could be destroyed by natural disasters like earthquakes and volcanoes. What maps would you use to decide where to build?"
+msgstr "Utiliza tu conocimiento acerca de la tectónica de placas para describir dónde en los Estados Unidos construirías la casa - y por qué - para minimizar la probabilidad de que se destruyera por desastres naturales como terremotos o volcanes. ¿Cuáles mapas utilizarías para decidir dónde construir?"
+
+msgid "Looking at the map..."
+msgstr "Mirando el mapa..."
+
+# 11
+msgid "Summarizing big ideas about... plate tectonics"
+msgstr "Resumiendo ideas clave acerca de... tectónica de placas"
+
+msgid ""
+"<span class='key'>Maps</span> are really important. They can show valuable information like weather or where volcanoes are located. They can cover geographic areas as big as the United States or the world, or as local as your neighborhood. The information on maps can be extremely helpful in planning what to wear to school today or where to live when you grow up. One kind of information that can be found on maps is the location of <span class='key'>earthquakes</span> and <span class='key'>volcanoes</span> in the United States. The <span class='key'>pattern</span> of the locations of these natural phenomena show that they are mostly "
+"found along the western boundary of the country in a line roughly parallel to the West Coast. This information might be useful in planning projects that require protection from natural disasters."
+msgstr ""
+"Los <span class='key'>mapas</span> son muy importantes. Pueden mostrar información valiosa como el clima o dónde se encuentran los volcanes. Pueden cubrir áreas geográficas tan grandes como los Estados Unidos o todo el mundo, o tan locales como tu vecindario. La información en los mapas puede ser extremadamente útil para planificar qué ponerte hoy para ir a la escuela o dónde vivir cuando seas grande. Un tipo de información que se puede encontrar en los mapas es la ubicación de <span class='key'>terremotos</span> y <span class='key'>volcanes</span> en los Estados Unidos. El <span class='key'>patrón</span> de las ubicaciones de estos "
+"fenómenos naturales muestran que se encuentran principalmente a lo largo de la frontera occidental del país, en una línea más o menos paralela a la Costa Oeste. Esta información podría ser útil para la planificación de proyectos que requieren protección contra los desastres naturales."
+
+msgid ""
+"One of the most important ideas ever to come out of geology and maps is the theory of <span class='key'>plate tectonics</span>. Scientists came up with this idea based on geological and geographical data they plotted on maps. These data show patterns of earthquakes, mountains and volcanoes, which led them to believe that the crust under the oceans and continents of the earth are divided up into many pieces like a huge jigsaw puzzle. They called these pieces <span class='key'>tectonic plates</span>. And, incredibly, these plates could move around on the surface of the earth and pull apart from each other or crash into each other. "
+"These movements cause earthquakes to happen, volcanoes to erupt, and mountains to be formed."
+msgstr ""
+"Una de las ideas más importantes de la historia surgidas de la geología y los mapas es la teoría de la <span class='key'>tectónica de placas</span>. Los científicos desarrollaron esta idea sobre la base de datos geológicos y geográficos que trazaron en mapas. Estos datos muestran patrones de terremotos, montañas y volcanes, que les llevaron a creer que la corteza bajo los océanos y los continentes de la Tierra se divide en muchos pedazos, como un enorme rompecabezas. Llamaron a estas piezas <span class='key'>placas tectónicas</span>. Y, aunque parezca increíble, estas placas pueden moverse sobre la superficie de la tierra y alejarse "
+"las unas de las otras o chocar entre sí. Estos movimientos provocan que sucedan terremotos, que volcanes hagan erupción, y que las montañas se formen."
+
+# 12
+msgid "Reviewing key vocabulary related to... plate tectonics"
+msgstr "Revisando vocabulario clave relacionado con... tectónica de placas"
+
+msgid "When two tectonic plates meet and if one plate is more dense than the other, it may be pulled down into the mantle. The process is called subduction. This can push the other plate up, as well as melt the material of the plate that is being subducted."
+msgstr "Cuando dos placas tectónicas chocan, si una placa es más densa que la otra, puede ser arrastrada por el manto. Dicho proceso se conoce como subducción.  Esto puede empujar la otra placa hacia arriba, así como derretir el material de la placa que ha sido subducida."
+
+msgid "An image showing the physical characteristics of a location. Maps are generally two-dimensional, but the images may be displayed in a way that shows a third dimension as well, such as in a topographical map."
+msgstr "Una imagen mostrando las características físicas de una ubicación. Los mapas en general tienen dos dimensiones, pero las imágenes pueden ser representadas de forma que muestren una tercera dimensión también, como en un mapa topográfico."
+
+msgid "Any system that repeats in a predictable way. A pattern can be as simple as counting numbers, or as complex as weather, so long as there are repeating, predictable phenomena present."
+msgstr "Cualquier sistema que se repita de manera predecible. Un patrón puede ser tan simple como contar números, o tan complejo como el clima, siempre que estén presentes fenómenos repetidos y predecibles."
+
+msgid "A solid piece of the earth's crust floating on top of the mantle. The earth is covered in these plates, and they fit together like pieces of a puzzle. Geologic activity such as volcanism and earthquakes are common where the plates meet."
+msgstr "Una pieza sólida de la corteza terrestre que flota encima del manto. La tierra está cubierta por estas placas, y encajan juntas como las piezas de un rompecabezas. Las actividades geológicas como los volcanes y terremotos son comunes en los lugares donde chocan las placas."
+
+msgid "A tear or hole in the earth's crust that allows lava, ash, and gases to escape from a magma chamber located below the surface. Volcanoes are common at tectonic plate boundaries, such as Mount St. Helens in Washington, U.S.A. but can also occur in the middle of plates, such as the islands of Hawai'i in the Pacific Ocean."
+msgstr "Un desgarre o agujero en la corteza terrestre que permite que lava, cenizas y gases escapen de una cámara magmática situada debajo de la superficie. Los volcanes son comunes en los límites de las placas tectónicas, como el Monte St. Helens en Washington, EE.UU., pero también pueden ocurrir en medio de placas, como las islas de Hawaii en el Océano Pacífico."
+
+msgid "The release of tensional strain caused by two tectonic plates meeting. This release of energy causes the ground to shake and move around the area of the release."
+msgstr "La liberación de presión tensional provocada por el choque de dos placas tectónicas. Esta liberación de energía provoca que el suelo se sacuda y deslice en el área de la liberación."
+
+msgid "The theory that the earth is covered with fragmented pieces of crust floating on top of a plastic mantle. (Note that the mantle isn't the same kind of plastic like a plastic toy - but rather, hot rock that very slowly flows like \"plastic\") These fragments can move slowly over time, explaining the change in the position of Earth's continents over the span of its history."
+msgstr "La teoría de que la Tierra está cubierta de piezas fragmentadas de corteza flotando encima de un manto plástico. (Toma en cuenta que el manto no es el mismo tipo de plástico que un juguete de plástico - sino más bien, roca caliente que fluye muy lentamente como \"plástico\") Estos fragmentos pueden moverse lentamente con el tiempo, lo que explica el cambio en la posición de los continentes de la Tierra a lo largo de su historia."
+
+msgid "The part of a tectonic plate made out of  \"oceanic crust\". Oceanic crust is generally much thinner and more dense than continental crust, allowing for oceans to form on top of it."
+msgstr "La parte de una placa tectónica formada de \"corteza oceánica\". La corteza oceánica es generalmente mucho más delgada y más densa que la corteza continental, lo que permite que se formen océanos encima de ella."
+
+msgid "The part of a tectonic plate made out of  \"continental crust\". Continental crust is generally much thicker and less dense than oceanic crust."
+msgstr "La parte de una placa tectónica formada de \"corteza continental\". La corteza continental es generalmente mucho más gruesa y menos densa que la corteza oceánica."
+
+msgid "Subduction"
+msgstr "Subducción"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Pattern"
+msgstr "Patrón"
+
+msgid "Tectonic Plate"
+msgstr "Placa Tectónica"
+
+msgid "Volcano"
+msgstr "Volcán"
+
+msgid "Earthquake"
+msgstr "Terremoto"
+
+msgid "Oceanic Crust Plate"
+msgstr "Placa de la Corteza Oceánica"
+
+msgid "Continental Crust Plate"
+msgstr "Placa de la Corteza Continental"
+
+# 13
+msgid "Checking what you now know about... plate tectonics"
+msgstr "Revisando lo que sabes ahora acerca de... tectónica de placas"
+
+# 14a
+msgid "The main purpose of maps is to be:"
+msgstr "El principal propósito de los mapas es ser:"
+
+msgid "Beautiful to hang on the wall"
+msgstr "Bonitos para decorar los muros"
+
+msgid "Useful in showing important information"
+msgstr "Útiles para mostrar información importante"
+
+msgid "Interesting to look at"
+msgstr "Interesantes para mirarlos"
+
+msgid "Colorful"
+msgstr "Coloridos"
+
+# 14b
+msgid "Not really - Maps can be beautiful and look great up on the wall but that's not their main purpose."
+msgstr "No exactamente - Los mapas pueden ser bellos y lucir muy bien sobre los muros pero ese no es su principal propósito."
+
+msgid "Yes - The main purpose of maps is to show useful information to help us make decisions and figure things out."
+msgstr "Sí - El principal propósito de los mapas es el mostrar información útil para ayudarnos a tomar decisiones y averiguar cosas."
+
+msgid "Not really - Maps can be interesting and fun to look at but that's not their main purpose."
+msgstr "En realidad no - Mirar mapas puede ser interesante y divertido pero ése no es su propósito principal."
+
+msgid "Not really - Maps can be colorful and beautiful to look at but that's not their main purpose."
+msgstr "En realidad no - Los mapas pueden ser coloridos y hermosos pero ése no es su propósito principal."
+
+# 15a
+msgid "Which of the following maps would be <span class='blink'>best</span> for planning a cross-country road trip route?"
+msgstr "¿Cuál de los siguientes mapas sería el <span class='blink'>mejor</span> para planear una ruta de viaje por carretera a través del país?"
+
+msgid "Daily weather map"
+msgstr "Mapa del clima diario"
+
+msgid "City map of Manhattan, Kansas"
+msgstr "Mapa de la ciudad de Manhattan, Kansas"
+
+msgid "Hardiness zones for planting flowers map"
+msgstr "Mapa de rusticidad de zonas para plantar flores"
+
+msgid "National Highway map"
+msgstr "Mapa de Carreteras Nacionales"
+
+# 15b
+msgid "Packing for road-trip..."
+msgstr "Empacando para un viaje por carretera..."
+
+msgid "Not quite - A weather map can be helpful in planning a cross-country road trip to help you avoid bad weather, but is there an even better map to help you plan your trip?"
+msgstr "No exactamente - Un mapa del clima puede ser de ayuda al planear un viaje por carretera a través del país para evitar el mal clima, pero ¿habrá un mapa que te ayude aún más a planear tu viaje?"
+
+msgid "Not really - A city Map of Manhattan Kansas might help a little if you happen to be going through Kansas as part of your trip but wouldn't help in planning the whole cross country trip."
+msgstr "No realmente - Un mapa de la ciudad de Manhattan, Kansas podría ayudarte un poco si estás pasando por Kansas como parte de tu viaje, pero no serviría para planear todo el viaje a través del país."
+
+msgid "Not really - A hardiness map for planting flowers would be of no help in planning a cross-country road trip."
+msgstr "No realmente - Un mapa de rusticidad para plantar flores no sería de ayuda para planear un viaje por carretera a través del país."
+
+msgid "Yes - A highway map of the United States would definitely be the best map to help in planning a cross-country road trip."
+msgstr "Sí - Un mapa de carreteras de los Estados Unidos definitivamente sería el mejor mapa para ayudarte a planear un viaje por carretera a través del país. "
+
+# 16a
+msgid "From this map of the plates that make up the Earth's crust, which of the following statements is <span class='blink'>not</span> true?"
+msgstr "A partir de este mapa de las Placas que forman la corteza terrestre, ¿cuál de las siguientes declaraciones <span class='blink'>no</span> es verdad?"
+
+msgid "The Pacific Plate is almost all ocean."
+msgstr "La Placa del Pacífico es casi completamente océano."
+
+msgid "The North American plate is part land and part ocean."
+msgstr "La Placa Norteamericana es parte tierra y parte océano."
+
+msgid "The African Plate is all land."
+msgstr "La Placa Africana es únicamente tierra."
+
+msgid "The Caribbean Islands are part of their own little plate."
+msgstr "Las Islas del Caribe forman parte de su propia pequeña placa."
+
+# 16b
+msgid "Playing with jigsaw puzzles..."
+msgstr "Jugando con rompecabezas..."
+
+msgid "Yes - This is NOT a TRUE statement. The African plate is a combination of the continent of Africa and part of the Atlantic Ocean."
+msgstr "Sí - Esta NO es una declaración VERDADERA. La Placa Africana es una combinación del continente de África y parte del Océano Atlántico."
+
+msgid "Not really - This is a TRUE statement. The Pacific plate is almost all ocean, with the exception of some small islands in the middle."
+msgstr "No realmente - Esta es una declaración VERDADERA. La Placa del Pacífico es casi completamente océano, con la excepción de unas pequeñas islas en el centro."
+
+msgid "Not really - This is a TRUE statement. The North American Plate is part land - the continent of North America - and part ocean - the eastern half of the Atlantic Ocean."
+msgstr "No realmente - Esta es una declaración VERDADERA. La Placa Norteamericana es en parte tierra - el continente de Norteamérica - y parte océano - la mitad este del Océano Atlántico."
+
+msgid "Not really - This is a TRUE statement. The Caribbean Islands are on their own little plate."
+msgstr "No realmente - Esta es una declaración VERDADERA. Las Islas del Caribe están sobre su propia pequeña placa."
+
+# 17a
+msgid "The map below shows the major plates that make up the earth's surface, and the arrows show the relative directions of each of the plates as they move relative to each other. From this map the following can be said to be true."
+msgstr "El mapa debajo muestra las principales placas que forman la superficie terrestre, y las flechas muestran las direcciones relativas de cada placa conforme a su movimiento relativo entre sí. A partir de este mapa ¿cuál de las siguientes declaraciones se puede decir es verdad?"
+
+msgid "The Caribbean Plate is moving towards Africa."
+msgstr "La Placa del Caribe se está acercando a África."
+
+msgid "The Australian Plate is moving away from the Philippine plate."
+msgstr "La Placa Australiana se está alejando de la Placa Filipina."
+
+msgid "The Arabian plate is moving towards the Indian plate."
+msgstr "La Placa Arábiga se está acercando a la Placa India."
+
+msgid "The African Plate is moving away from the South American plate."
+msgstr "La Placa Africana se está alejando de la Placa Sudamericana."
+
+# 17b
+msgid "Yes - the South American and African plates are moving away from each other."
+msgstr "Sí - Las Placas Sudamericana y Africana se están alejando una de la otra."
+
+msgid "Not really - The Caribbean plate is moving away from Africa."
+msgstr "En realidad no - La Placa del Caribe se está alejando de África."
+
+msgid "Not really - The Arabian plate and the Indian plate are both moving in the same direction."
+msgstr "No realmente - La Placa Arábiga y la Placa India se están moviendo ambas en la misma dirección."
+
+msgid "Not really - The Australian plate is moving towards the Philippine plate."
+msgstr "En realidad no - La Placa Australiana se está moviendo hacia la Placa Filipina"
+
+msgid "Clicking to see the image..."
+msgstr "Clic para ver la imagen..."
+
+# 18a
+msgid "The diagram below illustrates an oceanic plate crashing into and going under a continental plate, forming a subduction zone that causes volcanoes. From the map below, which of the following plate boundaries would most likely form a subduction zone like this?"
+msgstr "El diagrama debajo ilustra una placa oceánica chocando contra y yendo debajo de una placa continental, formando una zona de subducción que provoca volcanes. A partir del mapa debajo, ¿cuál de los siguientes límites entre placas es más probable que forme una zona de subducción así?"
+
+msgid "South American and African"
+msgstr "Sudamericana y Africana"
+
+msgid "Pacific and North American"
+msgstr "Pacífico y Norteamericana"
+
+msgid "Nazca and South American"
+msgstr "Nazca y Sudamericana"
+
+msgid "North American and Eurasian"
+msgstr "Norteamericana y Eurasiática"
+
+# 18b
+msgid "Going under a continental plate..."
+msgstr "Yendo bajo una placa continental..."
+
+msgid "Not really - the South American and African plates are moving away from each other, which couldn't form a subduction zone."
+msgstr "En realidad no - Las placas Sudamericana y Africana se están distanciando una de la otra, lo que no podría formar una zona de subducción."
+
+msgid "No - The Pacific and North American plates are sliding sideways past each other."
+msgstr "No - Las placas del Pacífico y Norteamericana se están deslizando lateralmente una contra otra."
+
+msgid "Yes - the South American and Nazca plates are moving towards each other, which could form a subduction zone."
+msgstr "Sí - Las placas Sudamericana y Nazca se están acercando entre sí, lo que podría formar una zona de subducción."
+
+msgid "Not really - The North American and Eurasian plates are moving away from each other."
+msgstr "En realidad no - Las placas Norteamericana y Eurasiática se están alejando una de la otra."
+
+# 19a
+msgid "The diagram below shows a series of maps that represent how the continental plates have moved during the past 200 million years. Which of the following statements is <span class='blink'>not</span> true based on what you can see on the maps?"
+msgstr "El diagrama debajo nos muestra una serie de mapas que representan cómo las placas continentales se han movido durante los últimos 200 millones de años. ¿Cuál de las siguientes declaraciones <span class='blink'>no</span> es verdad basándote en lo que puedes ver en los mapas?"
+
+msgid "200 million years ago, the continents were all bunched up in one large continent called Pangea."
+msgstr "Hace 200 millones de años, los continentes estaban todos unidos en un solo continente grande llamado Pangea."
+
+msgid "The continents have drifted apart for the past 200 million years."
+msgstr "Los continentes se han alejado entre sí por los últimos 200 millones de años."
+
+msgid "The continents will all start to move back together again soon."
+msgstr "Los continentes pronto comenzarán a acercarse entre sí de nuevo."
+
+msgid "South America and Africa were once joined together."
+msgstr "Sudamérica y África estuvieron unidos una vez."
+
+# 19b
+msgid "No - The map shows that this is a true statement."
+msgstr "No - El mapa muestra que esta declaración es verdad."
+
+msgid "Yes - This statement is NOT true. This map doesn't tell us anything about if or when the continents might all move back towards each other again."
+msgstr "Sí - Esta declaración NO es verdad. Este mapa no nos dice nada acerca de si alguna vez o cuándo los continentes podrían acercarse de nuevo."
+
+# 20
+msgid "You've completed the Plate Tectonics module."
+msgstr "Has completado la revisión de Tectónica de Placas."
+
+msgid "Click on the image to enlarge it."
+msgstr "Da clic en la imagen para agrandarla."

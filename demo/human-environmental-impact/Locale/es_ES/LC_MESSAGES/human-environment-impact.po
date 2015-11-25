@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: human environmental impact\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: ask@jigzen.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.8.3\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja debajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Go Back to Dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "Estás listo/a,"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "You've completed the Human Environmental Impact module."
+msgstr "Has completado el repaso de Impacto Ambiental de los Humanos."
+
+# Human Environmental Impact PO File
+# 1
+msgid "Human Environmental Impact"
+msgstr "Impacto Ambiental de los Humanos"
+
+msgid "Welcome to the Human Environmental Impact module"
+msgstr "Bienvenido/a al módulo del Impacto Ambiental de los Humanos"
+
+msgid "Checking what you know about... human environmental impact"
+msgstr "Revisando lo que ya sabes acerca del... impacto ambiental de los humanos"
+
+msgid "When people do things that change the environment, like destroying a field to build a new mall, what do you think happens to the animals that live in the field?"
+msgstr "Cuando las personas hacen cosas que cambian el medio ambiente, como destruir un campo para construir un nuevo centro comercial, ¿qué crees que sucede con los animales que viven en dicho campo?"
+
+msgid "If there's no other field in the area, they just move to the woods close by."
+msgstr "Si no hay ningún otro campo en el área, simplemente se mudan a los bosques cercanos."
+
+msgid "They change their eating and housing habits and live wherever they can."
+msgstr "Cambian sus hábitos alimenticios y de vivienda y viven donde pueden."
+
+msgid "They live at the mall."
+msgstr "Viven en el centro comercial."
+
+msgid "If there isn't a similar habitat near the mall, the plants and animals may die."
+msgstr "Si no hay un hábitat similar cerca del centro comercial, las plantas y los animales pueden morir."
+
+msgid "When people change the environment by building a mall, a school, or a housing development, they affect all of the living things that used to live in the natural environment - plants and animals - in many ways. Some big strong animals, like a deer or coyote, might move to a new home if they can find one nearby. But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall but that's because they get trapped in there and can't find their way out."
+msgstr "Cuando las personas cambian el medio ambiente construyendo un centro comercial, una escuela o un desarrollo de viviendas, afectan a todos los seres vivos que solían vivir en dicho ambiente natural - las plantas y animales - de muchas maneras. Algunos animales grandes y fuertes, como venados y coyotes, pueden mudarse a un nuevo hogar si pueden encontrar uno cerca. Pero otros animales, como peces o ranas, simplemente pueden morir porque no pueden mudarse. Algunas veces, puedes ver algunas aves dentro del centro comercial, pero eso sucede porque se quedan atrapadas allí y no encuentran la salida."
+
+msgid "But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall, but that's because they get trapped in there and can't find their way out."
+msgstr "Pero otros animales, como peces o ranas, simplemente pueden morir porque no pueden mudarse. Algunas veces, puedes ver algunas aves dentro del centro comercial, pero eso sucede porque se quedan atrapadas allí y no encuentran la salida."
+
+msgid "Migrating animals..."
+msgstr "Animales migrando..."
+
+msgid "Reviewing big core ideas about... human environmental impact"
+msgstr "Revisando ideas importantes acerca del...  impacto ambiental de los humanos"
+
+msgid "Changing for the better..."
+msgstr "Cambiando para mejorar..."
+
+msgid "Question A. Which of the following activities you do every day has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "Pregunta A. ¿Cuál de las siguientes actividades que haces todos los días <span class='blink'>no</span> tiene efectos negativos sobre el medio ambiente?"
+
+msgid "Eating breakfast"
+msgstr "Desayunar"
+
+msgid "Going to school"
+msgstr "Ir a la escuela"
+
+msgid "Watching TV"
+msgstr "Mirar la TV"
+
+msgid "None of the above"
+msgstr "Ninguna de los anteriores"
+
+msgid "Question B. For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "Pregunta B. Para cada ejemplo de impacto humano sobre el medio ambiente mostrado en la fila superior, arrastra el punto de esa imagen al punto sobre la imagen en la parte inferior que coincidirá con el entorno natural que fue impactado."
+
+msgid "Shipping Port"
+msgstr "Puerto de Embarques"
+
+msgid "Hydroelectric Dam Generator"
+msgstr "Generador de una Presa Hidroeléctrica"
+
+msgid "Clear-Cut Logging"
+msgstr "Tala Indiscriminada"
+
+msgid "Farm"
+msgstr "Granja"
+
+msgid "Forest"
+msgstr "Bosque"
+
+msgid "Coastline"
+msgstr "Línea costera"
+
+msgid "Meadow or Field"
+msgstr "Prado o campo"
+
+msgid "River"
+msgstr "Río"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Question A. Which of the following activities you do everyday has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "Pregunta A. ¿Cuál de las siguientes actividades que haces todos los días <span class='blink'>no</span> tiene efectos negativos sobre el medio ambiente?"
+
+msgid "Question B. For each example of a natural environment in the top row, drag from the dot on the image to a dot on an image in the bottom row that shows what the impact on that natural environment might be to meet human needs."
+msgstr "Pregunta B. Para cada ejemplo de impacto humano sobre el medio ambiente mostrado en la fila superior, arrastra el punto de esa imagen al punto sobre la imagen en la parte inferior que muestra cuál será el posible impacto sobre ese ambiente natural para satisfacer las necesidades humanas."
+
+msgid "Preparing your first quick check…"
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Wrong - Eating breakfast requires farms to make your food – cereal, eggs, and bacon, whatever you eat. And these farms had to change whatever habitat existed before it became a farm, so farms have a great environmental impact to make food for us."
+msgstr "Incorrecto - Desayunar requiere que granjas hagan tu comida – cereales, huevos y tocino, todo lo que comes. Y estas granjas tuvieron que cambiar cualquier hábitat que existía antes de que se convirtieran en dicha granja, así que las granjas tienen un gran impacto ambiental para hacer comida para nosotros."
+
+msgid "Wrong - Going to school is a big one. It requires transportation such as a car or a bus – which requires fuel like gasoline and oil. And the school was built from lots of materials from the environment – like your house – but even more. Then the environment, where the school is located, had to be destroyed to make room for the school."
+msgstr "Incorrecto - Ir a la escuela es una grande. Requiere de transporte como un auto o un autobús – que requieren de combustibles como gasolina y aceite. Y la escuela fue construida a partir de muchos materiales que vienen del ambiente – como tu casa – pero aun más. Además, el medio ambiente donde se encuentra la escuela tuvo que ser destruido para hacer espacio para la escuela."
+
+msgid "Wrong - Watching TV requires electricity that usually comes from burning fossil fuel or damming rivers. An exception might be if your house uses solar powered electricity. But even then, you're probably watching TV in your house which required wood and other materials to build it that were taken from the environment."
+msgstr "Incorrecto - Mirar la TV requiere de electricidad que normalmente proviene de la quema de combustible fósil o de presas sobre los ríos. Una excepción sería si tu casa utiliza electricidad de paneles solares. Pero incluso entonces, probablemente el aparato en tu casa requirió de madera y otros materiales para construirse y que se tomaron del medio ambiente."
+
+msgid "Right!! Actually - all of a student's daily activities have some negative effect on the environment."
+msgstr "¡¡Correcto!! En realidad - todas las actividades diarias de los estudiantes tienen algún efecto negativo sobre el medio ambiente."
+
+msgid "You got it! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "¡Acertaste! Los puertos de embarque requieren de una línea costera junto al mar o un lago grande. Una presa hidroeléctrica requiere de un río al cuál poner una presa para crear una reserva para almacenar el agua que caerá a través de los generadores de la presa para producir electricidad. La tala indiscriminada sucede en el ambiente natural del bosque. Las granjas usualmente son el resultado del arado y reemplazo de los ambientes naturales de campos y prados."
+
+msgid "Not quite! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "¡No exactamente! Los puertos de embarque requieren de una línea costera junto al mar o un lago grande. Una presa hidroeléctrica requiere de un río al cuál poner una presa para crear una reserva para almacenar el agua que caerá a través de los generadores de la presa para producir electricidad. La tala indiscriminada sucede en el ambiente natural del bosque. Las granjas usualmente son el resultado del arado y reemplazo de los ambientes naturales de campos y prados."
+
+msgid "Reviewing big core ideas... human environmental impact"
+msgstr "Revisando ideas importantes acerca del...  impacto ambiental de los humanos"
+
+msgid "Humans are part of the environment too. We're animals like the deer, the birds, and the fish. But we're different from most animals. Animals in the wild only take what they need from the environment to survive, but humans take more than what they need just to survive. They often take as much as they can get, not only to survive, but also to exploit the environment to be comfortable and make money. Whatever resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment – which then can have negative impacts on us as well – because we're part of the environment.  "
+msgstr "Los humanos somos parte del medio ambiente también. Somos animales, como los ciervos aves, y peces. Pero somos distintos de la mayoría de los animales. Los animales en su hábitat natural, sólo toma lo que necesitan del ambiente para sobrevivir, pero los humanos toman mucho más de lo que necesitan sólo para sobrevivir. A menudo toman tanto como pueden, no sólo para sobrevivir, sino para explotar el ambiente para hacerlo cómodo y ganar dinero. Cuales sean los recursos que utilizamos del ambiente para obtener comodidad y mejorar nuestras vidas, también puede tener impactos negativos sobre el ambiente - lo que entonces  puede tener un impacto negativo sobre nosotros - porque somos parte del ambiente."
+
+msgid ""
+"Water is just one example of how humans impact the environment. Almost all living things need water to survive. But most animals in the wild just take small sips of water from streams and lakes every day to meet their needs. But what are some things humans do beyond their simple daily requirements of satisfying their thirst? First of all, we put big dams across rivers to generate electricity. We also put dams up to create reservoirs to supply water for big cities and to make lakes for boating, swimming, and fishing. People also use water for more than just drinking. We use it to take showers, wash our clothes, and water our lawns. And, many big farms and ranches that produce all the food we eat use lots and lots of water to irrigate (water) their crops and livestock (animals). All of these human activities greatly impact the environment. The dams turn the rivers into lakes, which affects the survival of plants and animals in the river. And the clothes washing, lawn watering, "
+"and farm irrigation use extra water and sometimes pollute local water sources with detergents and fertilizers, changing the quantity and quality of the available water."
+msgstr ""
+"El agua es sólo un ejemplo de cómo los seres humanos impactan al medio ambiente. Casi todos los seres vivos necesitan del agua para sobrevivir. Pero la mayoría de los animales en la naturaleza sólo toman pequeños sorbos de agua de los arroyos y lagos cada día para satisfacer sus necesidades. Pero ¿cuáles son algunas cosas que los humanos hacen más allá de sus simples necesidades diarias de satisfacer su sed? En primer lugar, ponemos grandes presas en los ríos para generar electricidad. También ponemos presas para crear reservas para abastecer de agua grandes ciudades y para crear lagos para el canotaje, la natación y la pesca. Las personas también usan el agua para otras cosas además de beber. La usamos para tomar duchas, lavar la ropa y regar el césped. Y, muchas granjas y ranchos grandes que producen toda la comida que comemos, utilizan montones y montones de agua para la irrigación (regar con agua) de sus cultivos y para su ganado (animales). Todas estas actividades humanas "
+"tienen un gran impacto sobre el medio ambiente. Las presas convierten a los ríos en lagos, lo que afecta a la supervivencia de plantas y animales en el río. Y el lavado de la ropa, riego del césped y la irrigación agrícola utilizan agua adicional y, a veces, contaminan las fuentes de agua locales con detergentes y fertilizantes, cambiando de la cantidad y calidad del agua disponible."
+
+msgid "But here's the good news. Humans are intelligent. We can make choices on how we live and what we do to the environment to minimize our impact on it."
+msgstr "Pero hay buenas noticias. Los seres humanos somos inteligentes. Podemos tomar decisiones sobre cómo vivimos y lo que hacemos con el medio ambiente para minimizar nuestro impacto sobre él."
+
+msgid "Identifying impacts on environments..."
+msgstr "Identificando impactos en el ambiente..."
+
+msgid "Question A. What is the <span class='blink'>best</span> statement about the relationships between humans, wild animals, and the environment?"
+msgstr "Pregunta A. ¿Cuál es la <span class='blink'>mejor</span> declaración sobre las relaciones entre los humanos, animales salvajes y el medio ambiente?"
+
+msgid "Wild animals and humans are all part of the global environment and impact the natural environment equally."
+msgstr "Tanto los animales salvajes como los humanos son parte del medio ambiente global e impactan el medio ambiente natural de la misma manera."
+
+msgid "Humans are more important than wild animals, and the environment is there to make us comfortable."
+msgstr "Los seres humanos son más importantes que los animales salvajes, y el medio ambiente está ahí para que nosotros estemos cómodos."
+
+msgid "Humans are smarter than wild animals so they impact the environment less."
+msgstr "Los seres humanos son más inteligentes que los animales salvajes, por lo que impactan menos al medio ambiente."
+
+msgid "Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "Los animales salvajes sólo toman lo que necesitan del ambiente para sobrevivir, pero los seres humanos toman más de lo que necesitan para sobrevivir así que impactan al medio ambiente más que los animales salvajes."
+
+msgid "Question B. The <span class='blink'>most</span> important purpose for bodies of water to fulfill the most basic human needs is for:"
+msgstr "Pregunta B. El propósito <span class='blink'>más</span> importante de los cuerpos de agua para satisfacer las necesidades humanas más básicas es que:"
+
+msgid "Rivers to generate electricity."
+msgstr "Los ríos generen electricidad."
+
+msgid "Places to go fishing and swimming."
+msgstr "Haya lugares para ir a pescar y nadar."
+
+msgid "Sources of drinking water."
+msgstr "Existan fuentes de agua potable."
+
+msgid "Sources for baths, showers, and doing laundry."
+msgstr "Nos sirvan para bañarnos, ducharnos y lavar la ropa."
+
+msgid "Clicking to answer..."
+msgstr "Da clic para responder..."
+
+msgid "No - Wild animals and humans don't impact the environment equally."
+msgstr "No - los animales salvajes y los seres humanos no afectan el medio ambiente de la misma manera."
+
+msgid "No - The environment is not there just to make humans comfortable. It's there to support the survival of all living things equally."
+msgstr "No - el medio ambiente no existe sólo para que los seres humanos estén cómodos. Está allí para sostener la supervivencia de todos los seres vivos de la misma forma."
+
+msgid "No - Humans are smarter than animals in some ways but they still impact the environment more than all other animals."
+msgstr "No - los seres humanos son más inteligentes que los animales en algunos aspectos, pero aun así, afectan el medio ambiente más que todos los demás animales."
+
+msgid "Yes - Humans do take more from the environment than they need just to survive."
+msgstr "Sí - los seres humanos toman más del ambiente de lo que necesitan para sobrevivir."
+
+msgid "No - Electricity is important but it's not the most important because humans could survive without it."
+msgstr "No - la electricidad es importante, pero no es la más importante porque los seres humanos podrían sobrevivir sin ella."
+
+msgid "No - Fishing and swimming are fun but not critical to our needs."
+msgstr "No - la pesca y la natación son divertidas pero no son críticas para nuestras necesidades."
+
+msgid "Yes - We can't live without drinking water."
+msgstr "Sí - no podemos vivir sin beber agua potable."
+
+msgid "No - We can live without baths and laundry."
+msgstr "No - podemos vivir sin bañarnos y lavar la ropa."
+
+msgid "Reviewing more big ideas... human environmental impact"
+msgstr "Revisando más ideas importantes acerca del...  impacto ambiental de los humanos"
+
+msgid ""
+"The burning of fossil fuels is another example of how the resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment - which then can have negative impacts on us as well. For instance, we burn coal to make electricity and we burn gasoline to run our cars. Coal and gasoline are examples of \"<span class='key'>fossil fuels</span>\" because they're formed in the ground from the remains of dead plants from millions of years ago. Electricity and cars are hugely important in making our lives more comfortable. Can you imagine living in the dark and walking everywhere you had to go? But burning these fossil fuels can also have a very negative impact on the environment - and on you! Most scientists that study climates have strong evidence to believe that one of the by-products of burning fossil fuels is a powerful pollutant - <span class='key'>carbon dioxide</span> (CO<sub>2</sub>) - which is causing the "
+"earth to heat up, producing heat waves of record high temperatures, wildfires, and more powerful storms."
+msgstr ""
+"La quema de combustibles fósiles es otro ejemplo de cómo los recursos que utilizamos tomados del ambiente para estar más cómodos y mejorar nuestras vidas, también pueden tener un impacto negativo sobre el medio ambiente - que entonces puede tener un impacto negativo sobre nosotros. Por ejemplo, quemamos carbón para producir electricidad y quemamos gasolina para hacer funcionar nuestros autos. El carbón y la gasolina son ejemplos de \"<span class='key'>combustibles fósiles</span>\" porque se forman en el suelo a partir de los restos de plantas muertas de hace millones de años. La electricidad y los automóviles son de enorme importancia para que nuestra vida sea más cómoda. ¿Te imaginas vivir en la oscuridad y caminar a todas las partes que necesitas ir? Pero la quema de estos combustibles fósiles también puede tener un impacto muy negativo sobre el medio ambiente ¡y sobre ti! La mayoría de los científicos que estudian el clima tienen una fuerte evidencia para creer que uno de "
+"los subproductos de la quema de combustibles fósiles es un poderoso contaminante - <span class='key'>dióxido de carbono</span> (CO<sub>2</sub>)  - que está provocando que la Tierra se caliente, produciendo olas de calor de temperaturas récord, incendios forestales y tormentas más poderosas."
+
+msgid "<span class='key'>Pollutants</span> are any new substances, or extra abnormal amounts of naturally occurring substances, that are introduced by human activities into the air, water, or earth. So even though there are benefits for you from burning fossil fuels for electricity and transportation, there may also be some very harmful impacts to the environment from the carbon dioxide (CO<sub>2</sub>) gas pollutants produced from this human activity."
+msgstr "Los <span class='key'>contaminantes</span> son aquellas sustancias nuevas, o cantidades adicionales anormales de sustancias que ocurren en la naturaleza, que son introducidas por las actividades humanas en el aire, agua o tierra. Así que aunque hay beneficios para ti a partir de la quema de combustibles fósiles para la electricidad y el transporte, también pueden haber algunos efectos muy perjudiciales para el medio ambiente a raíz del dióxido de carbono (CO<sub>2</sub>) contaminantes gaseosos producidos a partir de dicha actividad humana."
+
+msgid "But humans are smart! Both individually and as a society, there are things we can do to minimize the harmful impact we have on the environment by changing our behavior. It's a matter of being knowledgeable about the impact of humans on the environment and then making informed decisions on how to deal with the impact."
+msgstr "¡Pero los seres humanos somos inteligentes! Individualmente y como sociedad, hay cosas que podemos hacer para minimizar el impacto nocivo que tenemos sobre el medio ambiente, mediante el cambio de nuestro comportamiento. Se trata de estar bien informados sobre el impacto de los seres humanos sobre el medio ambiente y luego tomar decisiones informadas sobre cómo lidiar con el impacto."
+
+msgid "Producing heat waves..."
+msgstr "Produciendo olas de calor..."
+
+msgid "Which of the following substances introduced into the environment would generally be considered pollutants? Check yes or no for all of the examples."
+msgstr "¿Cuál de las siguientes sustancias introducidas en el medio ambiente podrían en general ser consideradas contaminantes? Elige sí o no para todos los ejemplos."
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Carbon dioxide (CO<sub>2</sub>) that humans exhale into the air as a normal part of breathing."
+msgstr "Dióxido de carbono (CO<sub>2</sub>) que los seres humanos exhalan en el aire como una parte normal de la respiración."
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "Éste no es un contaminante porque los seres humanos son parte del medio ambiente y su respiración es parte de lo que ocurre naturalmente. Pero ¿qué sucede si es una ciudad enorme, llena de seres humanos como Nueva York o Tokio?. Mira el siguiente artículo más abajo."
+
+msgid "Methane gas (CH<sub>4</sub>) that farm cows fart after eating grass."
+msgstr "Gas metano (CH<sub>4</sub>) que las vacas de la granja expulsan después de comer hierba."
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "Sí, porque las vacas en una granja, especialmente una granja grande con miles de vacas, añaden mucho más metano al medio ambiente de lo que sería normal en un campo o bosque natural, con apenas unos cuantos animales."
+
+msgid "Warm water discharged into a cold river from the cooling of a power plant."
+msgstr "Agua caliente expulsada en un río frío a partir del enfriamiento de una planta de energía."
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "Sí. Si la temperatura del agua del río es normalmente fría y se agrega agua caliente o incluso tibia, entonces es un contaminante. Se llama contaminación térmica."
+
+msgid "Carbon dioxide (CO<sub>2</sub>) from burning coal in an electric power plant."
+msgstr "Dióxido de carbono (CO<sub>2</sub>) de la quema de carbón en una planta de energía eléctrica."
+
+msgid "This was discussed in the review."
+msgstr "Esto fue mencionado en la revisión."
+
+msgid "Fertilizers that farmers put on a field to grow better crops."
+msgstr "Fertilizantes que los agricultores aplican en un campo para cultivar mejor."
+
+msgid "Yes because farmers put nitrate and phosphate fertilizers on their fields to help make the crops grow faster and bigger. Some of it sometimes gets into the water around the farm and raises the nitrates and phosphates above normal, so it’s a pollutant."
+msgstr "Sí porque los agricultores ponen fertilizantes de nitratos y fosfatos en sus campos para ayudar a que los cultivos crezcan más rápido y más grandes. Algunas veces un poco de ellos llega al agua cercana a la granja y eleva los nitratos y fosfatos por encima de lo normal, así que es un contaminante."
+
+msgid "Oil that gets spilled into the ocean from an oil tanker cargo ship."
+msgstr "Petróleo que se derrama en el océano de un buque petrolero."
+
+msgid "Yes!"
+msgstr "¡Sí!"
+
+msgid "Detergent from your dishwasher or clothes washer that gets into rivers."
+msgstr "Detergente de tu lavavajillas o lavadora de ropa que llega a los ríos."
+
+msgid "Detergent or soap from your family’s laundry sometimes gets into the water around your house, so it’s a pollutant."
+msgstr "Detergente o jabón del lavado de tu familia a veces llega al agua cercana a tu casa, así que es un contaminante."
+
+msgid "Methane gas (CH<sub>4</sub>) that deer fart after eating grass."
+msgstr "Gas metano (CH<sub>4</sub>) que los ciervos expulsan después de comer hierba."
+
+msgid "Deer farts in the woods are a normal and natural part of nature."
+msgstr "Los gases de los ciervos en el bosque son una parte normal y natural de la naturaleza."
+
+msgid "Fertilizers from your lawn that run off into a local stream, river, or lake."
+msgstr "Fertilizantes de tu jardín que escurren a un arroyo, río o lago local."
+
+msgid "Yes, this is a pollutant. Just because it’s your lawn doesn’t mean it doesn’t have the same effect as a farm."
+msgstr "Sí, esto es un contaminante. Sólo porque es tu jardín, no significa que no tenga el mismo efecto que una granja."
+
+msgid "Studying harmful chemicals..."
+msgstr "Estudiando químicos dañinos..."
+
+msgid "More big ideas... human environmental impact "
+msgstr "Más ideas importantes acerca de... humano impacto ambiental"
+
+msgid ""
+"So let's get back to how you can become an EcoKid Super Ranger hero. It's pretty easy to understand but challenging to do. First, you have to understand one big idea, and that is humans can change the way they do things - their behavior - to minimize their impact on the environment. If you know what the impact on the environment is for the things you do, then you can change what you do to lessen the impact. For instance, if you know that driving a car causes air pollution, including the \"greenhouse gas\" CO<sub>2</sub> that may be causing <span class='key'>global climate change</span>, then - and here's the challenging part - you can change your behavior to use a car less to get you where you need to go. You could walk, ride your bike, ask your parents to start a carpool with your friends, or ride a bus to wherever you're going if it's safe. All of these things cut down on the number of miles each car is driven so it cuts down on the amount of pollutants the car gives off. "
+"PLUS!! Your parents save money on gas. And if you really want to save gas, you could talk to your parents about getting a <span class='key'>hybrid</span> electric car. These are things that you personally can do with your parents and your friends. But if you want to be a real EcoKid Super Ranger, the greatest positive impact you can have is by getting your whole community involved and thinking about all the possible things your school or community can do to help the environment. Then you really would be a superhero!!!"
+msgstr ""
+"Volvamos a ver cómo puedes convertirte en un héroe Eco-Kid Super Ranger. Es bastante fácil de entender, pero es un reto hacerlo. Primero, necesitas entender una idea importante, y eso es que los humanos pueden cambiar cómo hacen las cosas - su comportamiento - para minimizar su impacto sobre el ambiente. Si sabes cuál es el impacto sobre el ambiente de las cosas que haces, entonces puedes cambiar lo que haces para disminuir el impacto. Por ejemplo, si sabes que conducir un auto provoca contaminación aérea, incluyendo a los \"gases invernadero\" CO<sub>2</sub> que puede estar causando el <span class='key'>cambio climático global</span>, entonces - y aquí está la parte difícil - puedes cambiar tu comportamiento para utilizar el auto menos para llegar a los lugares que necesitas ir. Podrías caminar, ir en bicicleta, pedirles a tus padres que comiencen a compartir el auto con tus amigos, o ir en autobús a donde sea que quieres ir si es seguro hacerlo. Todas estas cosas disminuyen "
+"la cantidad de kilómetros que cada auto es conducido, así que disminuye la cantidad de contaminantes que el auto despide. ¡ADEMÁS! Tus padres ahorrarán dinero en gasolina. Y si realmente quieres ahorrar en gasolina, podrías hablar con tus padres, acerca de comprar un auto <span class='key'>híbrido</span>  eléctrico. Estas son cosas que tú personalmente puedes hacer con tus padres y tus amigos. Pero si quieres ser un Eco-Kid Super Ranger de verdad, el impacto positivo más grande que puedes tener es logrando que toda tu comunidad se involucre, y pensando acerca de todas las cosas que tu escuela o comunidad podrían hacer para ayudar al medio ambiente. ¡¡¡Entonces de verdad serías un superhéroe!!!"
+
+msgid "Driving a car..."
+msgstr "Conduciendo un auto..."
+
+msgid "Question A. Which of the following <span class='blink'>would not</span> be a good thing to do to help cut down on the use of gasoline that causes CO<sub>2</sub> pollution into the atmosphere?"
+msgstr "Pregunta A. ¿Cuál de las siguientes <span class='blink'>no</span> es algo bueno que hacer para ayudar a reducir el uso de gasolina que provoca contaminación por CO<sub>2</sub> a la atmósfera?"
+
+msgid "Walk or ride your bike to school instead of having your parents drive you."
+msgstr "Caminar o ir en bicicleta a la escuela en lugar de que tus padres te lleven en auto."
+
+msgid "Take a bus to the mall instead of having your parents drive you."
+msgstr "Tomar un autobús al centro comercial en vez de que tus padres te lleven en auto."
+
+msgid "Ask your parents to set up a neighborhood carpool to take other kids in your neighborhood to school instead of everyone driving separately."
+msgstr "Pedirles a tus padres para se organicen para compartir el auto y llevar a otros niños del vecindario a la escuela en lugar de que todos conduzcan por separado."
+
+msgid "Ask your parents to get a big 4-wheel drive SUV so you look cool getting dropped off at school."
+msgstr "Pedirles a tus padres que compren una enorme camioneta 4 x 4 para verte bien cuando te lleven en la escuela."
+
+msgid "Question B. To have the <span class='blink'>greatest</span> positive impact on your environment, you could:"
+msgstr "Pregunta B. Para tener el <span class='blink'>mayor</span> impacto positivo en tu entorno. Podrías:"
+
+msgid "Make personal choices to change your daily behavior to minimize your impact on the environment."
+msgstr "Tomar decisiones personales para cambiar tu comportamiento diario para minimizar tu impacto sobre el medio ambiente."
+
+msgid "Work with your classmates at your school to organize projects to change how your school uses natural resources that impact the environment."
+msgstr "Trabajar con tus compañeros de clase en la escuela para organizar proyectos para cambiar cómo tu escuela utiliza los recursos naturales que afectan al medio ambiente."
+
+msgid "Help to organize a neighborhood drive to recycle plastic soda bottles."
+msgstr "Ayudar a organizar una campaña en tu vecindario para reciclar botellas plásticas de gaseosa."
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood and school to change how your community impacts the environment."
+msgstr "Aprender tanto como puedas acerca de cómo los seres humanos impactan el medio ambiente a nivel global, pero actuar localmente en tu comunidad, vecindario y escuela para cambiar cómo tu comunidad afecta al medio ambiente."
+
+msgid "Question A. Which of the following things could you do that <span class='blink'>would not</span> cut down on pollution of CO<sub>2</sub> into the atmosphere? You could:"
+msgstr "Pregunta A. ¿Cuál de las siguientes cosas podrías hacer que <span class='blink'>no</span> reduciría la contaminación de CO<sub>2</sub> en la atmósfera? Podrías:"
+
+msgid "Not Really - That would be a great thing to walk or ride a bike because you would cut down on CO<sub>2</sub> gas given off from burning gasoline that's needed for driving a car to school."
+msgstr "No realmente - sería algo muy bueno caminar o andar en bicicleta porque reduciría el CO<sub>2</sub> liberado a partir de la quema de gasolina que se necesita para llegar a la escuela en auto."
+
+msgid "Not quite – the bus still needs gasoline or diesel fuel but it carries a lot of people instead of just a few like a car does so for each person traveling less fuel is needed per person."
+msgstr "No exactamente – el autobús sigue necesitando gasolina o diesel, pero lleva mucha gente en lugar de sólo unos pocos como lo hace un auto, así que para cada viajero utiliza menos combustible por persona."
+
+msgid "Not quite – carpooling is like riding a bus – but on a smaller scale. The car still uses fuel but it carries more people so less fuel is needed for each person."
+msgstr "No exactamente – compartir tu auto es como usar el autobús – pero en menor escala. El auto sigue utilizando combustible, pero lleva más gente, así que menos combustible es necesario por cada persona."
+
+msgid "Correct – this is NOT a good thing to do to help the environment. Big 4-wheel drive SUVs are cool but they usually use a lot of gasoline that gives off CO<sub>2</sub>."
+msgstr "Correcto – esto NO es algo bueno para ayudar al medio ambiente. Las camionetas grandes 4 x 4 lucen bien, pero generalmente utilizan mucha gasolina que despide CO<sub>2</sub>."
+
+msgid "Yes, making personal choices to change your impact is an important first step but there is an even better way to have the greatest impact."
+msgstr "Sí, tomar decisiones personales para cambiar tu impacto es un primer paso importante, pero hay una forma aún mejor de tener el mayor impacto."
+
+msgid "Yes, organizing projects at your school is a great place to have a bigger positive impact on the environment, but you can think even bigger than that."
+msgstr "Sí, organizar proyectos en la escuela es un gran lugar para tener un mayor impacto positivo sobre el medio ambiente, pero puedes pensar en algo más grande que eso."
+
+msgid "Yes, organizing a recycling drive in your neighborhood is a great thing to do for the environment but what about all the other neighborhoods in your community?"
+msgstr "Sí, organizar una campaña de reciclaje en tu vecindario es algo excelente que puedes hacer por el medio ambiente, ¿pero qué hay sobre los otros vecindarios en tu comunidad?"
+
+msgid "YES!!! Understanding all the ways humans affect the global environment and then using that knowledge to impact your whole community is a very powerful way to have the greatest impact on your environment!!"
+msgstr "¡¡¡¡¡¡SÍ!!!!!! ¡Comprender todas las formas en que los seres humanos afectan al medio ambiente global y luego utilizar ese conocimiento para impactar tu comunidad entera es una forma muy poderosa de tener el mayor impacto en tu ambiente!"
+
+msgid "Using what you now know about... human environmental impact... to solve a problem"
+msgstr "Utilizando lo que sabes ahora sobre... el impacto ambiental de los humanos... para resolver un problema"
+
+msgid "There is a really bad smell in your neighborhood from a river close by that is affecting you, your friends and your family. What could it be? How do you find out what it is? What is causing it?"
+msgstr "Hay un muy mal olor en tu vecindario, que viene de un río cercano y que te está afectando a ti, tus amigos y tu familia. ¿Qué podría ser? ¿Cómo descubrir qué es? ¿Qué lo está causando?"
+
+msgid "Write a short paragraph telling what specific action you could take to help solve and/or lessen the impact of this problem. What would you personally change about your habits and behavior? What could your school or community do? How could you personally help your community to take action?"
+msgstr "Escribe un párrafo corto explicando qué acción en específico podrías tomar para ayudar a resolver o disminuir el impacto de este problema. ¿Qué cambiarías personalmente acerca de tus hábitos y comportamiento? ¿Qué podría hacer tu escuela o comunidad? ¿Cómo podrías ayudar personalmente a tu comunidad para que tomara acción?"
+
+msgid "Changing bad habits..."
+msgstr "Cambiando malos hábitos..."
+
+msgid "Summarizing big ideas about... human environmental impact"
+msgstr "Resumiendo ideas importantes acerca del...  impacto ambiental de los humanos"
+
+msgid "The earth's <span class='key'>environment</span> is very important because it can provide healthy air, water, food and land for all the living things on earth to survive. But because there are so many people on earth, and because all of these people use the environment to survive and try to live comfortably, humans can have a great impact on the environment that might be harmful. This <span class='key'>impact</span> can destroy parts of the environment so that many people don't have the healthy air, water, food and land they need to survive."
+msgstr "El <span class='key'>ambiente</span> de la Tierra es muy importante porque puede proporcionarnos aire saludable, agua, alimentos y espacio para que todos los seres vivos de la Tierra puedan sobrevivir. Pero debido a que hay muchas personas en la Tierra, y porque todas estas personas utilizan al medio ambiente para sobrevivir y tratar de vivir cómodamente, los seres humanos pueden tener un gran impacto sobre el medio ambiente que podrían ser perjudicial. Este <span class='key'>impacto</span> puede destruir partes del medio ambiente por lo que muchas personas no tendrán aire saludable, agua, alimentos y el espacio que necesitan para sobrevivir."
+
+msgid "Clearing land for farms and housing developments can destroy fields and woods and add <span class='key'>pollutants</span> to the water; driving cars and generating electricity adds pollutants to the air; factories that make the things we use every day can add pollutants to the water. But the good news is that humans are smart and can understand how they negatively impact the environment and how that negatively impacts them in return."
+msgstr "El despejar terrenos para hacer granjas y el desarrollo de viviendas puede destruir campos y bosques y añadir <span class='key'>contaminantes</span> al agua; conducir autos y generar electricidad, añade contaminantes al aire; las fábricas que hacen las cosas que utilizamos todos los días pueden añadir contaminantes al agua. Pero la buena noticia es que los seres humanos somos inteligentes y podemos entender cómo afectamos negativamente al medio ambiente y cómo eso afecta nos afecta negativamente a nosotros."
+
+msgid "There are lots of scientists that investigate the environment to understand what people are doing to hurt it and what we can do to help. These understandings can cause humans to change their behavior so they lessen their negative impact on the environment. If we didn't understand our impact and how to change it, it's possible that we might totally ruin some, or all, of the earth's environment so we couldn't survive."
+msgstr "Hay muchos científicos que investigan el medio ambiente para entender qué están haciendo las personas para dañarlo y qué podemos hacer para ayudarlo. Estos entendimientos pueden causar que los seres humanos cambiemos nuestro comportamiento para disminuir nuestro impacto negativo sobre el medio ambiente. Si no entendiéramos nuestro impacto y cómo cambiarlo, es posible que arruináramos del todo algunos, o todos, los ambientes de la Tierra, así que no podríamos sobrevivir."
+
+msgid "Checking what you now know about... human environmental impact"
+msgstr "Revisando lo que sabes ahora acerca del... impacto ambiental de los humanos"
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the image to the bottom row that shows the human impact necessary to provide the resources for the product. Some items have multiple answers."
+msgstr "Para cada elemento en la fila superior que utilizas en tu vida diaria, conéctalo a la imagen en la fila inferior que muestra el impacto humano necesario para proporcionar los recursos para dicho producto. Algunos elementos tienen varias respuestas."
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the dot on that image to the dot on the image in the bottom row that shows the human impact necessary to provide the resources for the product."
+msgstr "Para cada elemento en la fila superior que utilizas en tu vida diaria, conecta el punto de esa imagen, con el punto en la imagen de la fila inferior que muestra el impacto humano necesario para proporcionar los recursos para dicho producto."
+
+msgid "House"
+msgstr "Casa"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Food"
+msgstr "Comida"
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Bicycle"
+msgstr "Bicicleta"
+
+msgid "Mine"
+msgstr "Mina"
+
+msgid "Oil Well Field"
+msgstr "Campo Petrolero"
+
+msgid "Clear-cut Logging"
+msgstr "Tala Indiscriminada"
+
+msgid "Your first quiz question is…"
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid ""
+"That’s correct! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come from mines that dig these metals "
+"out of the ground."
+msgstr ""
+"¡Eso es correcto! En general, una casa requiere de que madera sea talada de un entorno natural de bosques y el impacto humano es un bosque talado. <br/>La TV requiere de electricidad que generalmente proviene de la hidroelectricidad o alguna otra fuente de generación eléctrica. Los entornos naturales impactados son los ríos para proporcionar energía para los generadores hidroeléctricos. Ejemplos del impacto humano resultante son enormes presas a través de los ríos.<br/>La comida requiere de ingredientes como cereales para hacer panqueques, o vegetales o carne. Estos ingredientes se producen generalmente en las granjas. El impacto humano es que las granjas sustituyen campos y bosques naturales.<br/>Los autos requieren de gasolina, que proviene del petróleo, para funcionar. El petróleo se encuentra bajo tierra, debajo de casi cualquier ambiente natural. El impacto humano sobre estos ambientes naturales es el desarrollo de un campo de extracción de petróleo sobre la superficie de "
+"la Tierra. <br/>La mayoría de las bicicletas están hechas de diferentes tipos de metales como el hierro, cromo y otros. Estos metales provienen de minas que cavan para extraer estos metales de la tierra."
+
+msgid ""
+"Nope! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come from mines that dig these metals out of the "
+"ground."
+msgstr ""
+"¡Nop! En general, una casa requiere de que madera sea talada de un entorno natural de bosques y el impacto humano es un bosque talado. <br/>La TV requiere de electricidad que generalmente proviene de la hidroelectricidad o alguna otra fuente de generación eléctrica. Los entornos naturales impactados son los ríos para proporcionar energía para los generadores hidroeléctricos. Ejemplos del impacto humano resultante son enormes presas a través de los ríos.<br/>La comida requiere de ingredientes como cereales para hacer panqueques, o vegetales o carne. Estos ingredientes se producen generalmente en las granjas. El impacto humano es que las granjas sustituyen campos y bosques naturales.<br/>Los autos requieren de gasolina, que proviene del petróleo, para funcionar. El petróleo se encuentra bajo tierra, debajo de casi cualquier ambiente natural. El impacto humano sobre estos ambientes naturales es el desarrollo de un campo de extracción de petróleo sobre la superficie de la Tierra. "
+"<br/>La mayoría de las bicicletas están hechas de diferentes tipos de metales como el hierro, cromo y otros. Estos metales provienen de minas que cavan para extraer estos metales de la tierra."
+
+msgid "Thinking about... human environmental impact"
+msgstr "Pensando acerca del...  impacto ambiental de los humanos"
+
+msgid "Everybody loves superheroes who save the world. There's Superman, Wonder Woman, Batman, Robin, Wolverine, and lots of other superheroes everybody reads about in comic books and sees in the movies. Do you want to be a superhero and save the world? YOU CAN!! You can become an Eco-Kid Super Ranger!! What are Eco-Kid Super Rangers you ask? Well, they're superheroes that disguise themselves as ordinary kids just like you. But they're not ordinary! They're really smart kids who know that what everybody does every day is affecting the earth and in some places destroying the environment. But Eco-Kid Super Rangers know what those things are and what we can all do to help lessen the impact of everyday living in modern society on the environment."
+msgstr "Todo el mundo ama a los superhéroes que salvan al mundo. Están Superman, Wonder Woman, Batman, Robin, Wolverine, y un montón de otros superhéroes sobre los que todo el mundo lee en los libros de historietas y ve en las películas. ¿Quieres ser un superhéroe y salvar al mundo? ¡PUEDES SERLO! ¡¡Puedes convertirse en un Eco-Kid Super Ranger!! ¿Y qué es un Eco-Kid Super Ranger? Bueno, son superhéroes que se disfrazan como niños ordinarios como tú. ¡Pero no son ordinarios! Son niños muy inteligentes que saben que lo que hace todo el mundo cada día está afectando a la Tierra y en algunos lugares, está destruyendo al medio ambiente. Pero los Eco-Kid Super Rangers saben cuáles son esas cosas y lo que todos podemos hacer para ayudar a disminuir el impacto de la vida cotidiana en la sociedad moderna sobre el medio ambiente."
+
+msgid "Do YOU want to be an Eco-Kid Super Ranger hero? If you do, then think about all the things you do or use in your life every day - like driving in a car, eating your food, living in your house. And think about where all the stuff comes from that helps you live the comfortable lifestyle you live. Now think about what effect getting all that stuff has on the earth's environment. Then, and here's the important part, think about how you can change your lifestyle, and that of your friends and family, to lessen your impact on the earth – and then do it! See, you really can be a superhero who saves the world."
+msgstr "¿Quieres ser TÚ un héroe Eco-Kid Super Ranger? Si así lo quieres, entonces piensa en todas las cosas que haces o utilizas en tu vida diaria - como conducir un auto, comer tu comida, vivir en tu casa. Y piensa acerca de dónde vienen todas las cosas que te ayudan a vivir el estilo de vida cómodo que tienes. Ahora, piensa en el efecto que conseguir todo eso tiene sobre el medio ambiente de la Tierra. Entonces, y aquí está la parte importante, piensa en cómo tú puedes cambiar tu estilo de vida y la de tus amigos y familiares, para disminuir el impacto sobre la Tierra - ¡y hazlo! ¿Ves? Realmente puedes ser un superhéroe que salva al mundo."
+
+msgid "Are you ready"
+msgstr "Estás listo/a,"
+
+msgid "For each example of human impact on the environment shown in the bootom row, connect the image to the top row onto the picture of the original natural environment that was impacted. Some items have multiple answers."
+msgstr "Para cada ejemplo de impacto humano sobre el medio ambiente que se muestra en la fila inferior, conéctalo con la imagen de la fila superior en que la imagen muestra el ambiente natural original que fue impactado. Algunos elementos tienen varias respuestas."
+
+msgid "For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "Para cada ejemplo de impacto humano sobre el medio ambiente que se muestra en la fila superior, arrastra el punto de dicha imagen al punto sobre la imagen en la fila inferior que muestra el ambiente natural que fue impactado."
+
+msgid "Effects of human impact"
+msgstr "Efectos del impacto humano"
+
+msgid "Not quite! Can you make additional connections? Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "¡No exactamente! ¿Puedes hacer conexiones adicionales? Los puertos de embarque requieren de una línea costera junto al mar o un lago grande. Una presa hidroeléctrica requiere de un río al cuál poner una presa para crear una reserva para almacenar el agua que caerá a través de los generadores de la presa para producir electricidad. La tala indiscriminada sucede en el ambiente natural del bosque. Las granjas usualmente son el resultado del arado y reemplazo de los ambientes naturales de campos y prados."
+
+msgid "Which of the following statements about humans and the environment is <span class='blink'>NOT true</span>?"
+msgstr "¿Cuál de las siguientes afirmaciones sobre los seres humanos y el medio ambiente <span class='blink'>NO es verdad</span>?"
+
+msgid "Human activities can have both a positive and a negative impact on the environment."
+msgstr "Las actividades humanas pueden tener tanto un impacto positivo como un impacto negativo sobre el medio ambiente."
+
+msgid "Not everything humans put into the environment is a pollutant."
+msgstr "No todo lo que los seres humanos depositan en el ambiente es un contaminante."
+
+msgid "The purpose of the environment is to provide resources to make people's lives more comfortable and productive."
+msgstr "El propósito del medio ambiente es proporcionar recursos para hacer las vidas de las personas más cómodas y productivas."
+
+msgid "Humans are part of the environment so anything we do to impact the environment impacts us too."
+msgstr "Los seres humanos son parte del medio ambiente, así que cualquier cosa que hagamos para impactar al medio ambiente, también nos impacta a nosotros."
+
+msgid "Interacting with environment..."
+msgstr "Interactuando con el medio ambiente..."
+
+msgid "Not really - This is a TRUE statement. Human activities can have a negative impact on the environment when pollution occurs but humans can also have a positive impact on the environment when they clean up pollution or change their activities so that they don't pollute."
+msgstr "No realmente - esta declaración es VERDAD. Las actividades humanas pueden tener un impacto negativo sobre el medio ambiente cuando se produce la contaminación, pero los seres humanos también pueden tener un impacto positivo sobre el medio ambiente cuando eliminan la contaminación o cambian sus actividades para que no contaminen."
+
+msgid "Not really - This is a TRUE statement. Not everything humans put into the environment is a pollutant. For instance, when we compost our waste food to create organic fertilizer, it actually helps the plants in the environment rather than hurting them."
+msgstr "No realmente - esta declaración es VERDAD. No todo los que los seres humanos ponen en el medio ambiente es un contaminante. Por ejemplo, cuando creamos compostas con los desperdicios de comida para crear un fertilizante orgánico, en realidad ayudamos a las plantas en el medio ambiente en lugar de dañarlas."
+
+msgid "Correct. This is NOT a TRUE statement. The environment is part of nature. It is neither there to help or hurt humans. Its purpose is not to make our lives more comfortable. We are part of nature and the environment and we should live in harmony with it to best ensure our long-term survival."
+msgstr "Correcto. Esta declaración NO es verdad. El medio ambiente es parte de la naturaleza. No está allí para ayudar ni para dañar a los seres humanos. Su propósito no es hacer nuestra vida más cómoda. Nosotros somos parte de la naturaleza y el medio ambiente y debemos vivir en armonía con él para asegurar nuestra supervivencia a largo plazo."
+
+msgid "Not really - This is a TRUE statement. Humans are part of the environment like all of the other animals on earth. But human activities impact the environment much greater than all the other animals so we have to be very careful about what we do because anything we do to the environment can come back to affect us too. For instance, if we have millions of people in a city flushing their toilets into a lake, like in the old days, people using the lake for drinking water and fishing would get sick."
+msgstr "No realmente - esta declaración es VERDAD. Los humanos son parte del ambiente al igual que todos los demás animales de la Tierra. Pero las actividades humanas impactan al ambiente de una forma mucho mayor que todos los otros animales, así que debemos tener mucho cuidado con lo que hacemos porque todo lo que hacemos al medio ambiente puede afectarnos también. Por ejemplo, si tenemos a millones de personas en una ciudad que descargan el agua de sus baños en un lago, como en los viejos tiempos, las personas que utilizan el lago para obtener agua para beber y para pescar, se enfermarían."
+
+msgid "Which of the following activities you do every day has the <span class='blink'>least</span> negative effect on the environment?"
+msgstr "¿Cuál de las siguientes actividades que haces todos los días tiene el <span class='blink'>menor</span> efecto negativo sobre el medio ambiente?"
+
+msgid "Sleeping"
+msgstr "Dormir"
+
+msgid "Eliminating pollution..."
+msgstr "Eliminando la contaminación..."
+
+msgid "Correct - Sleeping has very little effect on the environment - except if you're sleeping in a comfortable heated or air conditioned house because it impacts the environment to build, heat and air-condition the house. So even sleep has some impact."
+msgstr "Correcto - dormir tiene muy poco efecto sobre el medio ambiente - excepto si estás durmiendo en una casa cómoda con calefacción o aire acondicionado, pues ello impacta al medio ambiente para ser construida, y para obtener la calefacción y aire acondicionado. Así que incluso dormir tiene cierto impacto."
+
+msgid "Not really - Going to school impacts the environment because the school is a big building that is built using resources from the environment and is heated and cooled as well. And, if you drive or take a bus to school, that takes resources from the environment - resources to build and power the car or bus."
+msgstr "No realmente - Ir a la escuela impacta al medio ambiente porque la escuela es un gran edificio que es construido utilizando recursos del medio ambiente y es calentado y enfriado de la misma forma. Y, si vas en auto o en autobús a la escuela, eso utiliza recursos del medio ambiente - para construir y hacer que funcione el auto o el autobús."
+
+msgid "Not really - Eating breakfast means that a farm probably was necessary to provide your food, and farms impact the environment as well."
+msgstr "No realmente - desayunar significa que una granja probablemente fue necesaria para proporcionar tus alimentos, y las granjas impactan al medio ambiente también."
+
+msgid "Not really - Watching TV impacts the environment because it requires electricity that comes from coal, nuclear or hydroelectric power plants."
+msgstr "No realmente - Ver TV afecta al medio ambiente porque requiere de electricidad que proviene del carbón, de centrales nucleares o hidroeléctricas."
+
+msgid "What is the best statement about the relationships between humans, wild animals, and the environment?"
+msgstr "¿Cuál es la mejor declaración sobre las relaciones entre los seres humanos, animales y el medio ambiente?"
+
+msgid "Not really - As far as nature and the environment are concerned, humans and other animals are all equal parts of the environment."
+msgstr "No realmente - en cuanto se refiere a la naturaleza y el medio ambiente, los seres humanos y otros animales son todos partes iguales del medio ambiente."
+
+msgid "Correct - Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "Correcto - Los animales salvajes sólo toman lo que necesitan del ambiente para sobrevivir, pero los seres humanos toman más de lo que necesitan para sobrevivir así que impactan al medio ambiente más que los animales salvajes."
+
+msgid "Not really - Actually, it's almost the opposite. Humans are smarter than other animals and they use that intelligence to use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "No realmente - en realidad, es casi lo contrario. Los seres humanos son más inteligentes que otros animales y usan esa inteligencia para utilizar el ambiente para estar más cómodos, lo que impacta el medio ambiente más que otros animales."
+
+msgid "Not really - Humans use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "No realmente - los seres humanos utilizan el ambiente para estar más cómodos, lo que impacta el medio ambiente más que otros animales."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "To have the greatest positive impact on your environment. You could:"
+msgstr "Para tener el mayor impacto positivo en tu ambiente. Podrías:"
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "Aprender tanto como puedas acerca de cómo los seres humanos impactan el medio ambiente a nivel global, pero actuar localmente en tu comunidad, vecindario y escuela y utilizar ese conocimiento para minimizar cómo tú y tu comunidad afectan al medio ambiente."
+
+msgid "Creating impact..."
+msgstr "Creando impacto..."
+
+msgid "Not quite - Making personal choices to change your daily behavior to minimize your impact on the environment is an excellent thing to do to help the environment - but there may be even more you can do."
+msgstr "No exactamente - Tomar decisiones personales para cambiar tu comportamiento diario y minimizar tu impacto sobre el medio ambiente son algo excelente para ayudar al medio ambiente - pero puede haber aun más que puedas hacer."
+
+msgid "Learn as much as you can about how humans impact the environment globally but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "Aprender tanto como puedas acerca de cómo los seres humanos impactan el medio ambiente a nivel global, pero actuar localmente en tu comunidad, vecindario y escuela y utilizar ese conocimiento para minimizar cómo tú y tu comunidad afectan al medio ambiente."
+
+msgid "Correct - Knowledge is power. The more you know about the global environment the better you can act locally to minimize how you and your community impact the environment."
+msgstr "Correcto - el conocimiento es poder. Cuanto más sabes sobre el medio ambiente global, mejor puedes actuar localmente para minimizar cómo tú y tu comunidad afectan al medio ambiente."
+
+msgid "Not Quite - Working with your classmates to do school projects to help the environment is an excellent thing to do - but there may be even more you can do."
+msgstr "No exactamente - trabajar con tus compañeros de escuela en proyectos para ayudar al medio ambiente es algo excelente para ayudar al medio ambiente - pero puede haber aun más que puedas hacer."
+
+msgid "Not Quite - Organizing a neighborhood drive to recycle plastic soda bottles is an excellent thing to do - but there may be even more you can do."
+msgstr "No exactamente - organizar una campaña en tu vecindario para reciclar botellas plásticas de gaseosa es algo excelente para ayudar al medio ambiente - pero puede haber aun más que puedas hacer."
+
+msgid "People in modern society like to live comfortably. We like to eat well; have a car to drive to where ever we need to go; have a comfortable house or apartment that's warm and dry; have a nice clothes to wear that keeps us cool in the summer and warm in the winter. And we like electricity that allows us to power our lights and our TV's. But where does all of that stuff come from to keep us comfortable?"
+msgstr "La gente en la sociedad moderna, disfruta de vivir con comodidad. Nos gusta comer bien; tener un auto para llegar a donde necesitemos ir; tener una casa cómoda o un departamento que esté libre de humedad o frío; y tener ropa para vestir que nos mantenga frescos en verano y cálidos en el invierno. Y nos gusta la electricidad, que nos permite encender nuestras luces y televisores. Pero ¿de dónde vienen todas esas cosas que nos mantienen cómodos? Vienen del ambiente de la Tierra."
+
+msgid "It comes from from the earth's environment - that's where. The food we eat comes from farms and ranches that used to be natural fields and woods. The electricity comes from burning coal or from damming rivers. The gasoline that powers our cars comes from oil wells we drill deep down into the earth. And most of our houses are made from wood that comes from cutting trees in the forest. All of these things that make us comfortable comes from human activity impacts the natural environment. The <span class='key'>environment</span> is just another name for earth's systems all working together - the air, water, and all the living things. When we change or take something from the environment, we have an environmental <span class='key'>impact</span> - which means we change something in one or all of the earth's systems. Usually this change is bad. And sometimes the impact human activity has on the environment is not good for the environment or for us."
+msgstr "La comida que comemos viene de granjas y ranchos que solían ser campos naturales y bosques. La electricidad viene de quemar carbón o de poner presas en los ríos. La gasolina que alimenta nuestros autos viene de pozos petroleros que cavamos en la profundidad de la Tierra. y la mayoría de nuestras casas están hechas de madera que viene de cortar árboles en el bosque. Todas estas cosas que sirven para que estemos cómodos, vienen de actividad humana que impacta el ambiente natural. El <span class='key'>ambiente</span> es simplemente otro nombre para los sistemas terrestres que trabajan juntos - el aire, agua, tierra, y todos los seres vivos. Cuando cambiamos o tomamos algo del medio ambiente, sucede un <span class='key'>impacto</span> ambiental - lo que significa que cambiamos algo en uno o todos los sistemas terrestres. Usualmente, este cambio es malo.  Y algunas veces, el impacto que la actividad humana tiene sobre el ambiente no es bueno para el ambiente ni para nosotros."

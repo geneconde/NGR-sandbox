@@ -1,0 +1,900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inherited traits\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Reproducir"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Mute"
+msgstr "Silencio"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Restaurar pantalla"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Repeat off"
+msgstr "No repetir"
+
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Para reproducir los contenidos multimedia, necesitas actualizar tu navegador a una versión más reciente o actualizar tu"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close Me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "¡Felicidades, "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "¿Estás listo/a, "
+
+msgid "Preparing your first quick check…"
+msgstr "¡Preparando tu primera revisión rápida..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Welcome to the Inherited Traits module"
+msgstr "Bienvenido/a al módulo de Rasgos Heredados"
+
+msgid "Thinking about... inherited traits"
+msgstr "Pensando acerca de... rasgos heredados"
+
+msgid "Ever get called by the wrong name?  It's pretty common. Sometimes a teacher will use your older sister's or brother's name to call on you.  Sometimes your grandparent will call you by your uncle, aunt or parent's name. Seems weird, but it happens all the time. Why? Because you're related!"
+msgstr "¿Alguna vez te han llamado con el nombre equivocado? Es bastante común. A veces, un maestro utilizará el nombre de tu hermana o hermano mayor para llamarte. A veces tus abuelos te llamarán con el nombre de tus tíos, tías o padres. Parece extraño, pero sucede todo el tiempo. ¿Por qué? ¡Porque son parientes!"
+
+msgid "Have a look at these two pictures:"
+msgstr "Mira estas dos fotografías:"
+
+msgid "These two men aren't the same person - they're father and son. It's true; they do look remarkably similar, and there's a reason for it. They share a great deal: the same chromosomes; the same genes."
+msgstr "Estos dos hombres no son la misma persona - son padre e hijo. Es verdad, lucen notablemente similares, y hay una razón para ello. Comparten algo muy importante: los mismos cromosomas; los mismos genes."
+
+msgid "You have similar relationships with your own parents and siblings.  You even share characteristics with your grandparents and cousins. It’s because you have inherited your characteristics from your mother and father."
+msgstr "Tienes una relación similar con tus padres y hermanos. Tú incluso compartes características con tus abuelos y primos. Es porque has heredado tus características de tu padre y madre."
+
+msgid "For thousands of years, people have understood a few basic rules about inheritance in plants and animals.  In the past hundred years, we have learned how to use this knowledge to make more accurate predictions about all living things."
+msgstr "Por miles de años, las personas han comprendido unas cuantas reglas básicas acerca de la herencia en plantas y animales. En los pasados cien años, hemos aprendido cómo utilizar este conocimiento para realizar predicciones más precisas acerca de todos los seres vivos."
+
+msgid "Checking what you now know about... inherited traits"
+msgstr "Revisando lo que sabes ahora acerca de... rasgos heredados"
+
+msgid "Select which phrases <span class='blink key1'>BEST</span> describe the observation on the left"
+msgstr "Selecciona cuáles frases son las <span class='blink key1'>MEJORES</span> para describir la observación de la izquierda"
+
+msgid "Dominant genes"
+msgstr "Genes dominantes"
+
+msgid "Recessive genes"
+msgstr "Genes recesivos"
+
+msgid "Chromosomes"
+msgstr "Cromosomas"
+
+msgid "Some traits are able to skip generations."
+msgstr "Algunos rasgos se pueden saltar generaciones."
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "Éste no es un contaminante porque los seres humanos son parte del medio ambiente y su respiración es parte de lo que ocurre naturalmente. Pero ¿qué sucede si es una ciudad enorme, llena de seres humanos como Nueva York o Tokio? Mira el siguiente artículo más abajo."
+
+msgid "Genetic information is carried on these."
+msgstr "La información genética se lleva en ellos."
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "Sí, porque las vacas en una granja, especialmente una granja grande con miles de vacas, añaden mucho más metano al medio ambiente de lo que sería normal en un campo o bosque natural, con apenas unos cuantos animales."
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "Sí. Si la temperatura del agua del río es normalmente fría y se agrega agua caliente o incluso tibia, entonces es un contaminante. Se llama contaminación térmica."
+
+msgid "Some traits never skip generations."
+msgstr "Algunos rasgos nunca se saltan generaciones."
+
+msgid ""
+"The rules of inheritance apply to all types of plants and animals that reproduce sexually. <span class='key'>Traits</span> are the characteristics we see in all living things. <span class = 'key'>Traits</span> that sometimes skip generations are said to be <span class='key'>recessive</span>. Traits that never skip generations are <span class='key'>dominant</span>. The information that causes a trait to appear is known as a <span class='key'>gene</span>. Genes are actually chemical messages "
+"carried in structures called <span class='key'>chromosomes</span>, which are found in the nuclei of cells. Every individual carries two sets of chromosomes in every cell, one set inherited from each parent. For this reason, each parent contributes half of the information needed to make an individual."
+msgstr ""
+"Las reglas de la herencia se aplican a todos los tipos de plantas y animales que se reproducen sexualmente. <span class='key'>Rasgos</span> son las características que vemos en todos los seres vivos. Los <span class='key'>rasgos</span> que en ocasión se saltan generaciones, se conocen como <span class='key'>recesivos</span>. Los rasgos que nunca se saltan generaciones son <span class='key'>dominantes</span>. La información que provoca que un rasgo aparezca se conoce como <span "
+"class='key'>gen</span>. Los genes en realidad son mensajes químicos que se llevan en estructuras llamadas <span class='key'>cromosomas</span>, que se encuentran en los núcleos de las células. Cada individuo lleva dos grupos de cromosomas en cada célula, un grupo heredado de cada padre. Por esta razón, cada padre contribuye la mitad de la información necesaria para formar un individuo."
+
+msgid "Carrying chromosomes...​"
+msgstr "Llevando cromosomas..."
+
+msgid "Reviewing big ideas about... inherited traits"
+msgstr "Revisando ideas importantes acerca de... rasgos heredados"
+
+msgid "Ever wonder why you have two parents? We all do, you know. It's one of the few things that's true for all people. Even though some families may have only one parent in the home, or other families have two same-sex parents, every living person has both a female biological parent and a male biological parent. Parents of opposite sexes are the reason our form of reproduction is called <span class='key'>sexual reproduction</span>."
+msgstr "¿Alguna vez te has preguntado por qué tienes dos padres? Es una de las pocas cosas que son verdad para todas las personas. Incluso cuando algunas familias pueden tener un solo padre en el hogar u otras familias tienen dos padres del mismo sexo, cada persona viva tiene un progenitor biológico femenino y un progenitor biológico masculino. Los padres de sexos opuestos son la razón por la cuál nuestra manera de reproducirnos se conoce como <span class='key'>reproducción sexual</span>."
+
+msgid "The simplest form of reproduction in nature is called <span class='key'>asexual reproduction</span>. This occurs when new organisms break away in some fashion from a parent organism. Asexual reproduction is common in single-cell organisms, plants and a few animals. It produces clones or exact copies of the parent. While this process is very efficient, the sameness of the individuals it produces is a disadvantage in many types of living things."
+msgstr "La forma más simple de reproducción en la naturaleza se conoce como <span class='key'>reproducción asexual</span>. Esto sucede cuando nuevos organismos se desprenden de alguna manera de un organismo padre. La reproducción asexual es común en los organismos de una sola célula, plantas y algunos animales. Produce clones o copias exactas del padre. Mientras que este proceso es muy eficiente, la igualdad entre los individuos que produce es una desventaja en muchos tipos de seres vivos."
+
+msgid "When the environment changes in some way, it’s important that all members of a living population not be the same. Diversity helps to ensure that new combinations of inherited traits make the survival of at least some members of a population possible when conditions become difficult."
+msgstr "Cuando el ambiente cambia en cierta forma, es importante que todos los miembros de una población viva no sean iguales. La diversidad ayuda a asegurar que nuevas combinaciones de rasgos heredados hagan que la supervivencia de al menos unos cuantos miembros de la población sea posible cuando las condiciones se vuelvan difíciles."
+
+msgid ""
+"Sexual reproduction works because every individual has two copies of each chromosome, the cell structures that carry information. Each plant or animal receives one copy of each chromosome from each parent. They then are able to pass only one of each chromosome on to their own offspring. Since it is equally likely that either of each chromosome may be passed on to any offspring, all combinations of chromosomes are possible.  This allows for new combinations of chromosomes and the traits they "
+"carry every generation."
+msgstr ""
+"La reproducción sexual funciona porque cada individuo tiene dos copias de cada cromosoma, las estructuras celulares que llevan información. Cada planta o animal recibe una copia de cada cromosoma de cada padre. Ellos entonces son capaces de transmitir sólo uno de cada cromosoma a su descendencia. Ya que es igualmente probable que cualquiera de dichos cromosomas sea transmitido a cualquier descendiente, todas las combinaciones de cromosomas son posibles. Esto permite que haya nuevas "
+"combinaciones de cromosomas y los rasgos que llevan en cada generación."
+
+msgid "Preparing your first quick check’¦"
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Question A. Sexual reproduction is most closely associated with..."
+msgstr "Pregunta A. La reproducción sexual está asociada de manera más cercana con..."
+
+msgid "Question B. An advantage of asexual reproduction would be:"
+msgstr "Pregunta B. Una ventaja de la reproducción asexual sería:"
+
+msgid "increased diversity."
+msgstr "aumento en la diversidad."
+
+msgid "decreased diversity."
+msgstr "disminución en la diversidad."
+
+msgid "single celled-animals."
+msgstr "animales de una sola célula."
+
+msgid "bacteria."
+msgstr "bacterias."
+
+msgid "the production of seedless grapes."
+msgstr "la producción de uvas sin semilla."
+
+msgid "increased diversity within a species."
+msgstr "aumento en la diversidad dentro de una especie."
+
+msgid "improved survival during times of environmental stress."
+msgstr "supervivencia mejorada durante tiempos de estrés ambiental."
+
+msgid "short-term extinction of the species."
+msgstr "extinción a corto plazo de la especie."
+
+msgid "That's right! Sexual reproduction promotes diversity."
+msgstr "¡Así es! La reproducción sexual promueve la diversidad."
+
+msgid "Sorry. It’s the other way around."
+msgstr "Lo siento. Es al contrario."
+
+msgid "Ummm... No. Single celled organisms reproduce asexually."
+msgstr "Mmm... No. Los organismos de una sola célula se reproducen asexualmente."
+
+msgid "Nope. Bacteria reproduce asexually."
+msgstr "Nop. Las bacterias se reproducen asexualmente."
+
+msgid "Yeah! Seedless fruit is only possible when no seeds are required."
+msgstr "¡Sí! La fruta sin semilla sólo es posible cuando no se requieren semillas."
+
+msgid "Nope. Diversity would actually decrease."
+msgstr "Nop. La diversidad en realidad disminuiría."
+
+msgid "Sorry. Less diversity means fewer chances of survival."
+msgstr "Lo siento. Menor diversidad significa que hay menores oportunidades de sobrevivir."
+
+msgid "No. Extinction may happen, but it’s not an advantage."
+msgstr "No. La extinción puede suceder, pero no es una ventaja."
+
+msgid "A chart like this is called a <span class='key'>pedigree</span>. Males are shown as squares and females are shown as circles. Family  members with the dominant trait are colored red. Recessives are colored blue. The lines show the relationships within the family. Parents are linked together, and lines extend to their offspring."
+msgstr "Un diagrama como éste se conoce como <span class='key'>pedigrí</span>. Los individuos masculinos se muestran como cuadrados y los femeninos como círculos. Los miembros de una familia con la característica dominante son de color rojo. Los recesivos son de color azul. Las líneas muestran las relaciones dentro de la familia. Los padres se unen entre sí, y se extienden líneas a su descendencia."
+
+msgid "Take a close look. The red trait shows up in every generation. In all cases, at least one parent of a red individual also showed the red trait."
+msgstr "Mira de cerca. El rasgo rojo se presenta en cada generación. En todos los casos, al menos un padre de un individuo rojo también mostró el rasgo rojo."
+
+msgid "This pedigree looks a bit different. Once again, red is dominant. Individuals having both red and blue carry one copy of each gene, but show the red trait.  Even though they appear to be dominant, it’s possible for red parents to have blue offspring.  Blue parents never have red offspring."
+msgstr "Este pedigrí luce un poco diferente. Una vez más, el rojo es dominante. Los individuos que tienen tanto rojo como azul llevan una copia de cada gen, pero muestran la característica roja. Incluso si parecen ser dominantes, es posible que padres rojos tengan descendientes azules. Los padres azules nunca tienen descendientes rojos."
+
+msgid "The inheritance of nearly all traits follows only a few simple rules. The first big rule is that everyone has two genes for every characteristic, inheriting one from each parent. Individuals may pass only one gene for each characteristic on to any offspring. The second big rule is that genes don’t usually influence each other, that is to say that the gene inherited for nose shape doesn’t determine the gene inherited for short big toes."
+msgstr ""
+"La herencia de casi todos los rasgos sigue tan sólo unas pocas reglas simples. La primera regla importante es que todos los individuos tienen dos genes para cada característica, heredando uno de cada padre. Los individuos pueden transmitir sólo un gen para cada característica a cualquier descendencia. La segunda regla importante es que los genes no influyen usualmente los unos sobre los otros, lo que quiere decir que el gen heredado para la forma de la nariz, no determina el gen heredado para "
+"pulgares cortos."
+
+msgid "Then, there's something called <span class='key'>dominance</span>. Genes are not all created equal. Some genes cause their traits to be displayed every generation.  They are called dominant genes. Others can seem to skip generations, only to appear again in descendants of later generations. They are called <span class='key'>recessive</span>."
+msgstr "Luego, hay algo que se conoce como <span class='key'>dominancia</span>. Los genes no son todos iguales. Algunos genes hacen que sus rasgos se exhiban en cada generación. Estos se conocen como genes dominantes. Otros puede parecer que se saltan generaciones, sólo para aparecer de nuevo en descendientes de generaciones posteriores. Se conocen como <span class='key'>recesivos</span>."
+
+msgid "Here's an example of a family with a dominant characteristic."
+msgstr "Aquí hay un ejemplo de una familia con una característica dominante."
+
+msgid "Click the images to see the details."
+msgstr "Da clic en las imágenes para ver los detalles."
+
+msgid "Skipping generations..."
+msgstr "Saltándose generaciones..."
+
+msgid "Inherited Traits"
+msgstr "Rasgos Heredados"
+
+msgid "Inheriting dominant traits..."
+msgstr "Heredando rasgos dominantes..."
+
+msgid "Sorry. Recessive traits do skip generations."
+msgstr "Lo siento. Los rasgos recesivos sí se saltan generaciones."
+
+msgid "Nope. Traits are not referred to as flexible."
+msgstr "Nop. Los rasgos no pueden calificarse como flexibles."
+
+msgid "Correct. Dominant traits never skip generations."
+msgstr "Correcto. Los rasgos dominantes nunca se saltan generaciones."
+
+msgid "No. Traits aren’t referred to as denatured."
+msgstr "No. Los rasgos no pueden calificarse como desnaturalizados."
+
+msgid "Sorry. A parent’s size isn’t related to what traits they can pass on."
+msgstr "Lo siento. El tamaño de un progenitor no está relacionado con los rasgos que puede heredar."
+
+msgid "Nope. Time spent with children is long after traits are passed."
+msgstr "Nop. El tiempo que se pasa con los hijos viene mucho después de que se heredan los rasgos."
+
+msgid "No. Dominant traits are passed along as often as recessive."
+msgstr "No. Los rasgos dominantes se transmiten tan frecuentemente como los recesivos."
+
+msgid "That's right! Either parent can pass along either gene for any trait."
+msgstr "¡Así es! Cada padre puede transmitir cualquier gen para cualquier rasgo."
+
+msgid "Pedigrees are a good way to summarize the complex histories of families. Sometimes, though, we just need to predict the future offspring of a particular set of parents. Have a look at the following problem."
+msgstr "Los pedigríes son una buena manera de resumir las historias complejas de las familias. A veces, sin embargo, sólo necesitamos predecir la futura descendencia de un conjunto particular de padres. Echa un vistazo al siguiente problema."
+
+msgid "A white male guinea pig had many generations of all-white ancestors. A black female guinea pig also had many generations of all-black ancestors. When the guinea pigs were allowed to mate, all of their offspring were black. When two of the resulting black guinea pigs mated, three-fourths of their offspring were also black, but one-fourth were white."
+msgstr "Un conejillo de indias macho color blanco tuvo muchas generaciones de ancestros totalmente blancos. Un conejillo de indias hembra de color negro, también tuvo muchas generaciones de ancestros totalmente negros. Cuando dichos conejillos de indias se aparearon, todos sus descendientes fueron negros. Cuando dos de los conejillos de indias negros resultantes se aparearon, tres cuartos de sus descendientes también fueron negros, pero un cuarto fueron blancos."
+
+msgid "Well, the recessive color was white, because white fur was hidden in the first set of offspring. That means black is the dominant color.  We often use letters to represent dominant and recessive genes. Since any individual always has two genes for every characteristic, the original parents in the problem would have these combinations:"
+msgstr "Bien, el color recesivo era blanco, porque el pelaje blanco permaneció oculto en el primer grupo de descendientes. Eso significa que el negro es el color dominante. Con frecuencia utilizamos letras para representar a los genes dominantes y recesivos. Ya que cualquier individuo siempre tiene dos genes para cada característica, los padres originales en el problema tendrían estas combinaciones:"
+
+msgid "Original Black parent:"
+msgstr "Padre Negro original:"
+
+msgid "Original White parent:"
+msgstr "Padre Blanco original:"
+
+msgid "This genetic shorthand tells us the <span class='key'>genotype</span> of an individual.  Genotype is the actual combination of genes an individual has, even those we can’t easily detect. The appearance the genotype causes is called an individual's <span class='key'>phenotype</span>. Phenotypes are usually described by adjectives like black, white, tall and short. Genotypes are indicated by letters or symbols."
+msgstr "Esta clave genética nos dice el <span class='key'>genotipo</span> de un individuo. El genotipo es la combinación real de genes que tiene un individuo, incluso aquellos que no podemos detectar fácilmente. La apariencia que el genotipo causa se conoce como el <span class='key'>fenotipo</span> de un individuo. Los fenotipos usualmente se describen por medio de adjetivos como negro, blanco, alto y bajo. Los genotipos se indican con letras o símbolos."
+
+msgid "The first set of offspring in the problem must have a gene from each parent. The white parent has only the f gene. The black parent has only F. The genotype of all of their offspring must be Ff. Their phenotype is black, but they all carry a recessive white gene."
+msgstr "El primer grupo de descendientes en el problema debe tener un gen de cada padre. El padre blanco sólo tiene el gen f. El padre negro sólo tiene F. El genotipo de todos sus descendientes debe ser Ff. Su fenotipo es negro, pero todos llevan un gen blanco recesivo."
+
+msgid "Browsing slides..."
+msgstr "Navegando diapositivas..."
+
+msgid "Question A. Genotypes are most often described by which of the following?"
+msgstr "Pregunta A. Los genotipos se describen más frecuentemente por medio de ¿cuál de los siguientes?"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents’ genotypes must be:"
+msgstr "Pregunta B. Un par de plantas altas de guisantes produjo descendientes que eran tanto altos como bajos. Los genotipos de los padres deben ser:"
+
+msgid "Letters or symbols"
+msgstr "Letras o símbolos"
+
+msgid "Descriptive words like quickly or slowly"
+msgstr "Palabras descriptivas como rápidamente o lentamente"
+
+msgid "Descriptive words like blue or orange"
+msgstr "Palabras descriptivas como azul o anaranjado"
+
+msgid "Measurements like meters or kilograms"
+msgstr "Medidas como metros o kilogramos"
+
+msgid "Correct. Genotypes use letters or other symbols."
+msgstr "Correcto. Los genotipos utilizan letras u otros símbolos."
+
+msgid "No. These words describe how something happens."
+msgstr "No. Estas palabras describen cómo sucede algo."
+
+msgid "No. Words like these may be used as phenotypes."
+msgstr "No. Palabras como éstas pueden utilizarse como fenotipos."
+
+msgid "Sorry. Measurements don’t refer to genotypes."
+msgstr "Lo siento. Las medidas no se refieren a genotipos."
+
+msgid "Nope. These parents can only produce tall offspring."
+msgstr "Nop. Estos padres sólo pueden producir descendientes altos."
+
+msgid "Sorry. These parents can only produce short offspring."
+msgstr "Nop. Estos padres sólo pueden producir descendientes bajos."
+
+msgid "Yes! Some of these parents offspring will be tall and some short."
+msgstr "¡Sí! Algunos de los descendientes de estos padres serán altos y otros bajos."
+
+msgid "No.  These parents can only produce tall offspring."
+msgstr "No. Estos padres sólo pueden producir descendientes altos."
+
+msgid "More big ideas about... inherited traits"
+msgstr "Más ideas importantes acerca de... rasgos heredados"
+
+msgid "It's even possible to make predictions about how likely it is for given sets of parents to produce particular offspring. What’s more, we can even determine the genotypes of parents if we know the phenotypes of their offspring."
+msgstr "Incluso es posible realizar predicciones acerca de cuán probable es que un grupo determinado de padres produzca una descendencia en particular. Aun más, incluso podemos determinar el genotipo de los padres si conocemos el fenotipo de su descendencia."
+
+msgid "Here’s another problem"
+msgstr "Aquí hay otro problema"
+
+msgid "A brown mouse mated with a black mouse. Their offspring were all brown. Two of the offspring were then allowed to mate. What colors of offspring could they have? If the litter was eight baby mice, how many would likely be black?"
+msgstr "Un ratón marrón se apareó con un ratón negro. Sus descendientes fueron todos marrón. Dos de sus descendientes entonces se aparearon. ¿De qué color podría ser su descendencia? Si la camada fue de ocho ratones bebés, ¿cuántos de ellos probablemente serían negros?"
+
+msgid "This one is tricky. Using the same rules of dominance we saw above, we would predict that the offspring were both Bb.  Two Bb parents should be able to have both brown and black offspring. The problem comes up when we’re asked to predict how many of either color are likely."
+msgstr "Éste es más complicado. Utilizando las mismas reglas de dominancia que vimos arriba, predeciríamos que ambos descendientes fueron Bb. Dos padres Bb deberían ser capaces de tener descendientes tanto negros como marrón. El problema viene cuando nos piden predecir probablemente cuántos habrá de cada color."
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation. Here's how it works:"
+msgstr "Entonces es cuando una herramienta útil es conveniente. Los <span class='key'>cuadros de Punnett</span> nos permiten realizar dichas predicciones, al mostrarnos cuáles combinaciones de genotipo son posibles en la siguiente generación. Aquí está cómo funciona:"
+
+msgid "Original Parents"
+msgstr "Padres Originales"
+
+msgid "First set of Parents"
+msgstr "Primer grupo de Padres"
+
+msgid "The original parents were the brown and black mice. Since all of their offspring mice were brown, brown had to be dominant.  The black parent, then, was bb. The brown parent could have been either genotype, but any brown offspring had to be Bb since they received b from the other parent."
+msgstr "Los padres originales fueron los ratones marrón y negro. Ya que todos sus descendientes fueron marrón, el marrón debía ser dominante. El padre negro, entonces, era bb. El padre marrón pudo haber tenido cualquier genotipo, pero cualquier descendencia marrón debía ser Bb ya que recibieron b del otro padre."
+
+msgid "A Punnett square is a way of organizing which genes may be transmitted into a new generation.  Since each parent passes along only half of its gene combination, the Punnett square is organized like this:"
+msgstr "Un cuadro de Punnett es una manera de organizar cuáles genes podrían ser transmitidos a una nueva generación. Ya que cada padre transmite sólo la mitad de sus combinaciones de genes, el cuadro de Punnett está organizado así:"
+
+msgid ""
+"The single letters in the top row and left column show that each parent passes along half of its genes.  The combinations in the table are the only possible gene combinations possible in the next generation. Three of the genotypes have B, resulting in brown mice. Only one has bb, leading to black mice. So, each individual has a 3/4  chance of being brown, and 1/4 chance of being black. Another way to say this is that in any litter, 3/4 are expected to be brown and 1/4 are expected to be black."
+msgstr ""
+"Las letras individuales en la fila superior y columna izquierda muestran que cada padre transmite solo la mitad de sus genes. Las combinaciones en la tabla son las únicas combinaciones genéticas posibles en la siguiente generación. Tres de los genotipos tienen B, lo que resulta en ratones marrón. Sólo una tiene bb, lo que resulta en ratones negros. Así que, cada individuo tiene 3/4 de probabilidad de ser marrón, y 1/4 de probabilidad de ser negro. Otra manera de decir esto en cualquier "
+"camada, 3/4 se espera que sean marrón y 1/4 se espera que sean negros."
+
+msgid "So... If there are eight baby mice in the litter, we expect 1/4, or 2, to be black."
+msgstr "Así que... Si hay ocho ratones bebés en la camada, esperamos que 1/4, o 2, sean negros."
+
+msgid "Predicting colors..."
+msgstr "Prediciendo colores..."
+
+msgid "Question A. Two brown-eyed parents had one brown-eyed child and one blue-eyed child. Choose the Punnett square that best represents this situation."
+msgstr "Pregunta A. Dos padres de ojos color marrón tuvieron un hijo con ojos color marrón y un hijo con ojos color azul. Elige el cuadro de Punnett que representa mejor esta situación."
+
+msgid "Question B. House cats born without tails are called manx. The manx characteristic is controlled by a dominant gene. The Punnett square for a mating between two manx cats is shown below. If the litter resulted in eight kittens, which of the choices is most likely to occur?"
+msgstr "Pregunta B. Los gatos domésticos que nacen sin cola se conocen como manx. La característica manx es controlada por un gen dominante. El cuadro de Punnett para un apareamiento entre dos gatos manx se muestra debajo. Si la camada resultó en ocho gatitos, ¿cuál de las opciones es más probable que ocurra?"
+
+msgid "Incorrect. None of the offspring would be blue-eyed (bb)."
+msgstr "Incorrecto. Ninguno de sus descendientes tendría ojos azules (bb)."
+
+msgid "That's right! These parents can produce both brown and blue-eyed offspring."
+msgstr "¡Así es! Estos padres pueden producir descendientes con color de ojos tanto marrón como azul."
+
+msgid "Nope. Neither parent is brown-eyed."
+msgstr "Nop. Ninguno de los padres tiene ojos color marrón."
+
+msgid "Sorry. Only one parent has brown eyes."
+msgstr "Lo siento. Sólo uno de los padres tiene ojos color marrón."
+
+msgid "Probably not. It’s very unlikely that all offspring would be manx."
+msgstr "Probablemente no. Es muy poco probable que toda la descendencia fuera manx."
+
+msgid "Not likely. Kittens with tails should be rare from these parents."
+msgstr "No es probable. Los gatitos sin cola serían escasos para estos padres."
+
+msgid "Possible, but the table predicts about 3/4 of the kittens should be manx."
+msgstr "Es posible, pero la tabla predice que aproximadamente 3/4 de los gatitos deberían ser manx."
+
+msgid "Correct! The table predicts about 3/4 of the kittens should be manx."
+msgstr "¡Correcto! La tabla predice que aproximadamente 3/4 de los gatitos deberían ser manx."
+
+msgid "Using what you know about... inherited traits... to solve a problem"
+msgstr "Utilizando lo que sabes acerca de... rasgos heredados... para resolver un problema"
+
+msgid "In dogs, deafness is caused by a recessive gene, “d”. A dog breeder wants to use a particular normal dog for breeding purposes, if he can be sure the dog is DD, or free of the recessive deafness gene."
+msgstr "En los perros, la sordera es causada por un gen recesivo, 'd'. Un criador de perros quiere utilizar un perro en particular con el propósito de reproducción, si puede estar seguro de que el perro es DD, o sea, está libre del gen recesivo de la sordera."
+
+msgid "Use the space below to explain how he might perform a series of breeding experiments to determine whether this dog would be useful in his breeding plans."
+msgstr "Utiliza el espacio debajo para explicar cómo podría realizar una serie de experimentos de crianza para determinar si este perro sería útil para sus planes de crianza."
+
+msgid "Experimenting..."
+msgstr "Experimentando..."
+
+msgid "Summarizing big ideas about... inherited traits"
+msgstr "Resumiendo ideas importantes acerca de... rasgos heredados"
+
+msgid "Nearly all plants and animals reproduce sexually, that is, they have female and male parents. Every new individual receives half of its inherited information from its mother, and half from its father. The half from the mother is a random set of the information inherited from her own parents. The same is true for information inherited from the father."
+msgstr "Casi todas las plantas y animales se reproducen sexualmente, es decir, tienen progenitores femeninos y masculinos. Cada nuevo individuo recibe la mitad de su información heredada de su madre, y la mitad de su padre. La mitad de la madre es un conjunto aleatorio de la información que ella heredó de sus propios padres. Lo mismo es cierto para la información heredada del padre."
+
+msgid "Some characteristics are sometimes absent in a generation, only to reappear in later generations. These are said to be <span class = 'key'>recessive traits</span>. These <span class = 'key'>traits</span> only appear when an individual inherits the same gene from each parent. <span class = 'key'>Dominant traits</span> never skip generations. They appear even when their gene is inherited from only one parent."
+msgstr "Algunas características a veces están ausentes en una generación, sólo para reaparecer en generaciones posteriores. Estos se conocen como <span class = 'key'>rasgos recesivos</span>. Estos <span class = 'key'>rasgos</span> sólo aparecen cuando un individuo hereda el mismo gen de cada padre. Los <span class = 'key'>rasgos dominantes</span> nunca se saltan generaciones. Aparecen incluso cuando su gen es heredado por uno solo de los padres."
+
+msgid "The random rearrangement of <span class = 'key'>genes</span> in each generation allows every species to have new combinations of genes all the time. These unique gene combinations are sometimes important to species survival."
+msgstr "La reorganización aleatoria de <span class = 'key'>genes</span> en cada generación permite a cada especie tener nuevas combinaciones de genes todo el tiempo. Estas combinaciones únicas de genes a veces son importantes para la supervivencia de la especie."
+
+msgid "It is possible to use the rules of probability to make predictions about past or future generations if we have information about other members of the same family. These predictions may be made about <span class = 'key'>genotype </span> (the actual genetic information) or <span class = 'key'> phenotype </span> (the visible traits coded for by genes)."
+msgstr "Es posible utilizar las reglas de la probabilidad para realizar predicciones acerca de generaciones pasadas o futuras si tenemos información acerca de otros miembros de la misma familia. Estas predicciones pueden hacerse acerca del <span class = 'key'>genotipo</span> (la información genética real) o del <span class = 'key'>fenotipo</span> (los rasgos visibles codificados por genes)."
+
+msgid "Reviewing key vocabulary related to... inherited traits"
+msgstr "Revisando vocabulario clave relacionado con... rasgos heredados"
+
+msgid "Chromosome"
+msgstr "Cromosoma"
+
+msgid "A threadlike structure found in cells that contains their DNA.  Each is made of tightly bound strands of DNA coiled together."
+msgstr "Una estructura en forma de hilo que se encuentra en las células que contiene su ADN. Cada una está hecha de hebras de ADN fuertemente unidas en espiral."
+
+msgid "Dominant"
+msgstr "Dominante"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype.  For example, if brown hair is dominant over red hair, a person with the gene for brown hair will have brown hair, even if they also have the gene for red hair."
+msgstr "Un alelo, o rasgo, que cuando está presente en el ADN de un organismo aparecerá en el fenotipo del organismo. Por ejemplo, si el cabello castaño es dominante sobre el cabello rojo, una persona con el gen de cabello castaño tendrá cabello castaño, aunque también tenga el gen de cabello rojo."
+
+msgid "A portion of a strand of DNA that codes for a specific protein.  There are often multiple versions of the same gene.  Genes can be dominant or recessive, depending on which variant is present in an organism.  An organism will possess two versions of each gene, which may be the same or different."
+msgstr "Una porción de un hilo de ADN que codifica una proteína específica. Con frecuencia hay múltiples versiones del mismo gen. Los genes pueden ser dominantes o recesivos, dependiendo de cuál variante está presente en un organismo. Un organismo poseerá dos versiones de cada gen, que pueden ser iguales o diferentes."
+
+msgid "Genotype"
+msgstr "Genotipo"
+
+msgid "The combination of genes present in an organism.  When both versions of a gene are the same and they are the dominant version, the genotype is said to be “homozygous dominant.”  When both versions of a gene are the same and they are the recessive version, the genotype is said to be “homozygous recessive.”  When an organism possesses one dominant gene and one recessive gene, it is said to be “heterozygous\"."
+msgstr "La combinación de genes presentes en un organismo. Cuando ambas versiones de un gen son la misma y son las versiones dominantes, se dice que el genotipo es 'homocigótico dominante.' Cuando ambas versiones de un gen son la misma y son la versión recesiva, se dice que el genotipo es 'homocigótico recesivo.' Cuando un organismo posee un gen dominante y uno recesivo, se dice que es 'heterocigótico'"
+
+msgid "Pedigree"
+msgstr "Pedigrí"
+
+msgid "An organism’s parents, grandparents, etc.  A family tree."
+msgstr "Los padres, abuelos, etc. de un organismo. Un árbol genealógico."
+
+msgid "The trait an organism displays as result of its genotype.  If an organism possesses at least one dominant gene, it will present the dominant trait.  If an organism only possesses recessive genes, it will present the recessive trait."
+msgstr "El rasgo que un organismo exhibe como resultado de su genotipo. Si un organismo posee al menos un gen dominante, presentará el rasgo dominante. Si un organismo sólo posee genes recesivos, presentará el rasgo recesivo."
+
+msgid "Punnett square"
+msgstr "Cuadro de Punnett"
+
+msgid "Phenotype"
+msgstr "Fenotipo"
+
+msgid "A graphical representation of an organism’s parent’s genotypes that shows the potential genotypes the organism itself could possess.  The square also shows the probability of each genotype the organism could possess."
+msgstr "Una representación gráfica de los genotipos de los padres de un organismo que muestra los genotipos potenciales que el organismo mismo podría poseer. El cuadro también muestra la probabilidad de cada genotipo que el organismo podría poseer."
+
+msgid "Recessive"
+msgstr "Recesivo"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype so long as the organism does not also possess a dominant version of the gene.  For example, if red hair is recessive to brown hair, a person with the gene for red hair will have red hair as long as they do not also have the gene for brown hair."
+msgstr "Un alelo, o rasgo, que cuando está presente en el ADN de un organismo aparecerá en el fenotipo del organismo siempre y cuando el organismo no posea también una versión dominante del gen. Por ejemplo, si el cabello rojo es recesivo con respecto al cabello castaño, una persona con el gen de cabello rojo tendrá cabello rojo, siempre y cuando no tenga también el gen para el cabello castaño."
+
+msgid "A physical characteristic of an organism.  Generally there are different varieties of traits possible for an organism.  Examples would be things like eye and hair color."
+msgstr "Una característica física de un organismo. En general, hay distintas variedades de rasgos posibles para un organismo. Ejemplos serían cosas como el color de cabello y ojos."
+
+msgid "Trait"
+msgstr "Rasgo"
+
+msgid "Choose the <span class='blink'>correct</span> statement from the following."
+msgstr "Elige la afirmación <span class='blink'>correcta</span> de entre las siguientes."
+
+msgid "Males inherit most of their genes from their fathers."
+msgstr "Los individuos masculinos heredan la mayoría de sus genes de sus progenitores masculinos."
+
+msgid "Females inherit most of their genes from their mothers."
+msgstr "Los individuos femeninos heredan la mayoría de sus genes de sus progenitores femeninos."
+
+msgid "All offspring inherit most of their genes from their fathers."
+msgstr "Todos los descendientes heredan la mayoría de sus genes de sus progenitores masculinos."
+
+msgid "All offspring inherit genes equally from both parents."
+msgstr "Todos los descendientes heredan genes igualmente de ambos padres."
+
+msgid "Your first quiz question is…"
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Sorry. Genes are inherited equally from both sexes."
+msgstr "Lo siento. Los genes se heredan por igual de ambos sexos."
+
+msgid "No. Genes are inherited equally from both sexes."
+msgstr "No. Los genes se heredan por igual de ambos sexos."
+
+msgid "Not this one. Genes are inherited equally from both sexes."
+msgstr "Ésta no es. Los genes se heredan por igual de ambos sexos."
+
+msgid "Yes! Both parents contribute equally."
+msgstr "¡Sí! Ambos padres contribuyen igualmente."
+
+msgid "The ability to taste a certain substance called PTC is dominant in humans. Is it possible for a pair of PTC-tasting parents to have a child who is unable to taste PTC?"
+msgstr "La capacidad de percibir el sabor de una sustancia llamada PTC es dominante en los humanos. ¿Es posible que un par de padres que pueden percibir el sabor del PTC tengan un hijo que sea incapaz de percibir su sabor?"
+
+msgid "It is possible if both parents also carry the recessive gene."
+msgstr "Es posible si ambos padres también llevan el gen recesivo."
+
+msgid "It is possible if either parent carries the recessive gene."
+msgstr "Es posible si cualquiera de los padres lleva el gen recesivo."
+
+msgid "It is not possible because PTC-tasting is dominant."
+msgstr "No es posible porque el percibir el sabor del PTC es dominante."
+
+msgid "It is not possible because PTC-tasting is recessive."
+msgstr "No es posible porque el percibir el sabor del PTC es recesivo."
+
+msgid "Passing genes..."
+msgstr "Transmitiendo genes..."
+
+msgid "That’s right! Both parents must carry the recessive gene."
+msgstr "¡Así es! Ambos padres deben llevar el gen recesivo."
+
+msgid "Not quite. Both parents must carry the recessive gene."
+msgstr "No exactamente. Ambos padres deben llevar el gen recesivo."
+
+msgid "Sorry. It is possible because PTC is dominant."
+msgstr "Lo siento. Es posible porque el PTC es dominante."
+
+msgid "No. PTC-tasting is dominant."
+msgstr "No. Percibir el sabor del PTC es dominante."
+
+msgid "A brown mouse mated with a white mouse and produced all brown offspring. Which statement most likely summarizes this mating?"
+msgstr "Un ratón marrón se apareó con un ratón blanco y produjo descendencia marrón en su totalidad. ¿Cuál de estas declaraciones más probablemente resume este apareamiento?"
+
+msgid "Flipping the box..."
+msgstr "Volteando la caja..."
+
+msgid "Use the Punnett square below to answer the question. This mating is between mice. Brown is dominant. White is recessive."
+msgstr "Utiliza el cuadro de Punnett debajo para responder la pregunta. Este apareamiento es entre ratones. El marrón es dominante. El blanco es recesivo."
+
+msgid "Which offspring display the brown phenotype?"
+msgstr "¿Cuál descendencia exhibirá el fenotipo marrón?"
+
+msgid "Looking at Punnett square..."
+msgstr "Mirando el cuadro de Punnett..."
+
+msgid "Sorry. bb is white"
+msgstr "Lo siento. bb es blanco."
+
+msgid "Nope. bb is white."
+msgstr "Nop. bb es blanco."
+
+msgid "No. BB is brown, but so is Bb."
+msgstr "No. BB es marrón, pero también lo es Bb."
+
+msgid "Consider the following pedigree of a human family. The color red indicates the dominant gene for curly hair. Blue indicates the recessive straight hair gene."
+msgstr "Considera el siguiente pedigrí de una familia humana. El color rojo indica el gen dominante para el cabello rizado. El azul indica el gen recesivo del cabello lacio."
+
+msgid "Which of the following statements is true?"
+msgstr "¿Cuál de las siguientes afirmaciones es verdadera?"
+
+msgid "The B parents could have a curly-haired child."
+msgstr "Los padres B podrían tener un hijo con cabello rizado."
+
+msgid "The A parents could have a curly-haired child."
+msgstr "Los padres A podrían tener un hijo con cabello rizado."
+
+msgid "The C parents could not have a curly-haired child."
+msgstr "Los padres C no podrían tener un hijo con cabello rizado."
+
+msgid "The A parents could not have a straight-haired child."
+msgstr "Los padres A no podrían tener un hijo con cabello rizado."
+
+msgid "No. Curly is dominant. If the gene were present in the parents, they would be curly."
+msgstr "No. El cabello rizado es dominante. Si el gen está presente en los padres, tendrían el cabello rizado."
+
+msgid "Yes! In fact, the A parents do have a curly-haired child."
+msgstr "¡Sí! De hecho, los padres A tienen un hijo con cabello rizado."
+
+msgid "Sorry. The C parents do have curly-haired children."
+msgstr "Lo siento. Los padres C sí tienen hijos de cabello rizado."
+
+msgid "Nope. The A parents do have a straight-haired child."
+msgstr "Nop. Los padres A sí tienen un hijo de cabello rizado."
+
+msgid "Congratulations"
+msgstr "¡Felicitaciones, "
+
+msgid "You've completed the Inherited Traits module."
+msgstr "Has completado el módulo de Rasgos Heredados."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en las 'Revisiones Rápidas' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Ensuring new combinations​...​​"
+msgstr "Asegurando nuevas combinaciones..."
+
+msgid "Question A. Genetic traits that never skip generations are said to be:"
+msgstr "Pregunta A. Los rasgos genéticos que nunca se saltan generaciones se dice que son:"
+
+msgid "Question B. Dominant traits are more likely to be inherited from..."
+msgstr "Pregunta B. Los rasgos dominantes es más probable que sean heredados de..."
+
+msgid "male parents, because males are usually bigger than females."
+msgstr "progenitores masculinos, porque usualmente los individuos masculinos son más grandes que los femeninos."
+
+msgid "female parents, because mothers often spend more time with their children."
+msgstr "progenitores femeninos, porque usualmente las madres pasan más tiempo con sus hijos."
+
+msgid "either parent, because dominant traits are never inherited."
+msgstr "cualquiera de los padres, porque los rasgos dominantes nunca son heredados."
+
+msgid "either parent, because both are equally likely to pass on traits."
+msgstr "cualquiera de los padres, porque ambos tienen la misma probabilidad de heredar rasgos."
+
+msgid "Flexible"
+msgstr "Flexible"
+
+msgid "Denatured"
+msgstr "Desnaturalizado"
+
+msgid "Studying genotype..."
+msgstr "Estudiando al genotipo..."
+
+msgid "TT and tt"
+msgstr "TT y tt"
+
+msgid "tt and tt"
+msgstr "tt y tt"
+
+msgid "Tt and Tt"
+msgstr "Tt y Tt"
+
+msgid "TT and Tt"
+msgstr "TT y Tt"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents' genotypes must be:"
+msgstr "Pregunta B. Un par de plantas altas de guisantes produjo descendientes que eran tanto altos como bajos. Los genotipos de los padres deben ser:"
+
+msgid "No. These parents can only produce tall offspring."
+msgstr "No. Estos padres sólo pueden producir descendientes altos."
+
+msgid "BB"
+msgstr "BB"
+
+msgid "or"
+msgstr "o"
+
+msgid "X"
+msgstr "X"
+
+msgid "bb"
+msgstr "bb"
+
+msgid "[10b] diagram details not included in PO file: BB or Bb bb"
+msgstr "[10b] detalles de diagrama que non se incluyen en archivo PO: BB o Bb bb"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Question A."
+msgstr "Pregunta A."
+
+msgid "Question B."
+msgstr "Pregunta B."
+
+msgid "Question C."
+msgstr "Pregunta C."
+
+msgid "Question D."
+msgstr "Pregunta D."
+
+msgid "8 manx kittens"
+msgstr "8 gatitos manx"
+
+msgid "8 kittens with tails"
+msgstr "8 gatitos con cola"
+
+msgid "6 kittens with tails; 2 manx"
+msgstr "6 gatitos con cola; 2 gatitos manx"
+
+msgid "6 manx; 2 kittens with tails"
+msgstr "6 gatitos manx; 2 gatitos con cola"
+
+msgid "Gene"
+msgstr "Gen"
+
+msgid "bb x bb"
+msgstr "bb x bb"
+
+msgid "BB x bb"
+msgstr "BB x bb"
+
+msgid "Bb x Bb"
+msgstr "Bb x Bb"
+
+msgid "BB x BB"
+msgstr "BB x BB"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "No. This mating produces only white mice."
+msgstr "No. Este apareamiento sólo producirá ratones blancos."
+
+msgid "Right! This mating produces only brown mice."
+msgstr "¡Correcto! Este apareamiento sólo producirá ratones marrones."
+
+msgid "Nope. This mating should produce both brown and white offspring."
+msgstr "Nop. Este apareamiento debería producir descendientes tanto marrones como blancos."
+
+msgid "Sorry. Both of these parents are brown. One of the given parents is white."
+msgstr "Lo siento. Estos dos padres son marrones. Uno de los padres debe ser blanco."
+
+msgid "Yes! Both Bb and BB are white."
+msgstr "¡Sí! Tanto Bb como BB son blancos."
+
+msgid "What are the genotypes of the parents in this mating?"
+msgstr "¿Cuáles son los genotipos de los padres en este apareamiento?"
+
+msgid "b"
+msgstr "b"
+
+msgid "No. These parents can have only brown offspring."
+msgstr "No. Estos padres sólo pueden tener descendientes marrones."
+
+msgid "Sorry. These parents can have only white offspring."
+msgstr "Lo siento. Estos padres sólo pueden tener descendientes blancos."
+
+msgid "Not likely. These parents should have about equal numbers of brown and white offspring."
+msgstr "No es probable. Estos padres deberían tener más o menos la misma cantidad de descendientes marrones y blancos."
+
+msgid "That's it. These parents expect to have 3/4 brown and 4/4 white offspring."
+msgstr "Así es. Estos padres esperan tener descendientes marrones y blancos."
+
+msgid "Here's how it works:"
+msgstr "Así es como funciona:"
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation."
+msgstr "Entonces es cuando una herramienta útil es conveniente. Los <span class='key'>cuadros de Punnett</span> nos permiten realizar dichas predicciones, al mostrarnos cuáles combinaciones de genotipo son posibles en la siguiente generación."
+
+msgid "Bb"
+msgstr "Bb"
+
+msgid "BB and bb"
+msgstr "BB y bb"
+
+msgid "BB and Bb"
+msgstr "BB y Bb"
+
+msgid "Bb and bb"
+msgstr "Bb y bb"
+
+msgid "BB only"
+msgstr "BB únicamente"

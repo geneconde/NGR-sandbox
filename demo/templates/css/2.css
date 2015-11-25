@@ -1,0 +1,135 @@
+#animation {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+#pig-leg-left-back {
+	width: 7%; /* 63 / 900 */
+	position: absolute;
+	left: 28.888888888888886%; /* 260 / 900 */ 
+	top: 55.22388059701493%; /* 370 / 670 */
+}
+
+#pig-leg-left-front {
+	width: 7%; /* 63 / 900 */
+	position: absolute;
+	left: 55.55555555555556%; /* 500 / 900 */
+	top: 55.22388059701493%; /* 370 / 670 */
+}
+
+#pig-body {
+	width: 56.88888888888889%; /* 512 / 900 */
+	position: absolute;
+	left: 22.22222222222222%; /* 200 / 900 */
+	top: 41.044776119402987%; /* 275 / 670 */
+	animation: pig-body 0.25s linear 0s infinite alternate;
+	-webkit-animation: pig-body 0.25s linear 0s infinite alternate;
+	-moz-animation: pig-body 0.25s linear 0s infinite alternate;
+}
+
+#pig-tail {
+	width: 7.777777777777778%; /* 70 / 900 */
+	position: absolute;
+	left: 21.11111111111111%; /* 190 / 900 */
+	top: 38.80597014925373%; /* 260 / 670 */
+}
+
+#pig-ear {
+	width: 17.333333333333334%; /* 156 / 900 */
+	position: absolute;
+	left: 53.33333333333333%; /* 480 / 900 */
+	top: 35.82089552238806%; /* 240 / 670 */
+}
+
+#pig-leg-right-back {
+	width: 7%; /* 63 / 900 */
+	position: absolute;
+	left: 26.666666666666666%; /* 240 / 900 */
+	top: 56.71641791044776%; /* 380 / 670 */
+}
+
+#pig-leg-right-front {
+	width: 7%; /* 63 / 900 */
+	position: absolute;
+	left: 53.33333333333333%; /* 480 / 900 */
+	top: 56.71641791044776%; /* 380 / 670 */
+}
+
+@keyframes legs1 {
+	from { transform: rotate(-10deg); }
+	to { transform: rotate(10deg); }
+}
+
+@-webkit-keyframes legs1 {
+	from { -webkit-transform: rotate(-10deg); }
+	to { -webkit-transform: rotate(10deg); }
+}
+
+@-moz-keyframes legs1 {
+	from { -moz-transform: rotate(-10deg); }
+	to { -moz-transform: rotate(10deg); }
+}
+
+@keyframes legs2 {
+	from { transform: rotate(10deg); }
+	to { transform: rotate(-10deg); }
+}
+
+@-webkit-keyframes legs2 {
+	from { -webkit-transform: rotate(10deg); }
+	to { -webkit-transform: rotate(-10deg); }
+}
+
+@-moz-keyframes legs2 {
+	from { -moz-transform: rotate(10deg); }
+	to { -moz-transform: rotate(-10deg); }
+}
+
+@keyframes pig-body {
+	from { transform: translateY(0px); }
+	to { transform: translateY(10px); }
+}
+
+@-webkit-keyframes pig-body {
+	from { -webkit-transform: translateY(0px); }
+	to { -webkit-transform: translateY(10px); }
+}
+
+@-moz-keyframes pig-body {
+	from { -moz-transform: translateY(0px); }
+	to { -moz-transform: translateY(10px); }
+}
+
+@keyframes ear-tail {
+	from { transform: translateY(0px) rotate(-5deg); }
+	to { transform: translateY(10px) rotate(5deg);  }
+}
+
+@-webkit-keyframes ear-tail {
+	from { -webkit-transform: translateY(0px) rotate(-5deg); }
+	to { -webkit-transform: translateY(10px) rotate(5deg);  }
+}
+
+@-moz-keyframes ear-tail {
+	from { -moz-transform: translateY(0px) rotate(-5deg); }
+	to { -moz-transform: translateY(10px) rotate(5deg);  }
+}
+
+#pig-leg-right-front, #pig-leg-left-back {
+	animation: legs1 0.5s linear 0s infinite alternate;
+	-webkit-animation: legs1 0.5s linear 0s infinite alternate;
+	-moz-animation: legs1 0.5s linear 0s infinite alternate;
+}
+
+#pig-leg-left-front, #pig-leg-right-back {
+	animation: legs2 0.5s linear 0s infinite alternate;
+	-webkit-animation: legs2 0.5s linear 0s infinite alternate;
+	-moz-animation: legs2 0.5s linear 0s infinite alternate;
+}
+
+#pig-tail, #pig-ear {
+	animation: ear-tail 0.25s linear 0s infinite alternate;
+	-webkit-animation: ear-tail 0.25s linear 0s infinite alternate;
+	-moz-animation: ear-tail 0.25s linear 0s infinite alternate;
+}

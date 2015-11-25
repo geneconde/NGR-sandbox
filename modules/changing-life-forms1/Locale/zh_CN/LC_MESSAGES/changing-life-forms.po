@@ -1,0 +1,1230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Changing Life Forms\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Changing Life Forms"
+msgstr "生物 形態變化"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的答案是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+# Preloader
+msgid "Let's begin,"
+msgstr "準備開始囉,"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Cuddling bears..."
+msgstr "擁抱著熊..."
+
+msgid "Adapting to environment..."
+msgstr "適應環境..."
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個小練習囉..."
+
+msgid "Woodpeckers burrowing for food..."
+msgstr "啄木鳥鑽掘食物..."
+
+msgid "Passing on to next generation..."
+msgstr "傳遞給下一代..."
+
+msgid "Changing environment..."
+msgstr "變化的環境..."
+
+msgid "Identifying species..."
+msgstr "鑑定物種..."
+
+msgid "Flying dark moth..."
+msgstr "在飛行中的灰蛾..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個小練習嗎？"
+
+msgid "Writing a fiction novel..."
+msgstr "寫科幻小說..."
+
+msgid "Putting it all together..."
+msgstr "總結一下哦..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是......"
+
+msgid "Studying natural selection..."
+msgstr "研究物競天擇..."
+
+msgid "Remembering Darwin's idea..."
+msgstr "記得達爾文的理論..."
+
+msgid "Determining the evolutionary change..."
+msgstr "決定「進化」改變..."
+
+msgid "Changing to survive..."
+msgstr "改變生存..."
+
+msgid "Ready for your last quiz question?"
+msgstr "準備你最後一題的小測驗！"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Changing Life Forms review,"
+msgstr "歡迎來 到 「生物形態變化」單元"
+
+# 2
+msgid "Thinking about... changing life forms"
+msgstr "想一想......關於 「生物 形態變化」"
+
+msgid ""
+"Look at the flowers below. Don't they look similar to each other? They are "
+"all actually Mediterranean bee orchids. But they each belong to a separate "
+"species. Each flower is pollinated by a different kind of insect. They are "
+"so similar, yet they are not the same species of flower; they cannot "
+"interbreed."
+msgstr ""
+"看看下面的花。它們看起來很相似吧？它們都是真正的地中海蜂蘭花。但它們卻都屬於"
+"不同的品種。每朵花由不同種類的昆蟲授粉。它們是如此的相似，但它們卻不是同一品"
+"種的花；它們不能雜交繁殖。"
+
+msgid ""
+"There are many examples of living things similar to each other, but they "
+"have certain differences that set them apart. All the variety along with "
+"similar features led scientists to come up with different explanations about "
+"how living things change over time."
+msgstr ""
+"生物彼此相似的例子很多，但它們有一定的差異性使它們有所區別。科學家們就利用具"
+"有類似特徵但卻不同品種的各種生物，找出生物如何隨時間改變的可能解釋。"
+
+# 3
+msgid "Checking what you know... about changing life forms"
+msgstr "看看你 知道 了那些......關於 「生物 形態變化」"
+
+msgid ""
+"Which of the following statements <span class='blink'>best</span> describes "
+"an adaptation?"
+msgstr "以下哪項敘述是，「適應」的<span class='blink'>最好敘述</span>？"
+
+msgid ""
+"Adaptations are learned behaviors that help animals survive and reproduce."
+msgstr "「適應」，是學習而來的行為，以幫助動物生存和繁殖。"
+
+msgid ""
+"Adaptations are inherited characteristics that make organisms more likely to "
+"survive and reproduce."
+msgstr ""
+"「適應」，是一種藉由遺傳，從親代傳到子代的生物特徵，可使生物體更容易生存和繁"
+"殖。"
+
+msgid ""
+"Adaptations result from animal mutations that occur in response to rapidly "
+"changing environments."
+msgstr "「適應」，導致了動物基因突變，以因應快速變化的環境。"
+
+msgid ""
+"Adaptations are rare and only occur in animals found in tropical rain "
+"forests."
+msgstr "「適應」，是罕見的，只發生在熱帶雨林中發現的動物。"
+
+msgid ""
+"Adaptations are inherited characteristics that help all organisms survive "
+"and reproduce. They are the result of random mutations to DNA. A mutation "
+"may cause no change; or be harmful, neutral, or beneficial. If it ever "
+"becomes important for survival, the change is called an adaptation."
+msgstr ""
+"生物學上的「適應」，除了像是常說的：「你要適應新環境喔！」中，你要在很短時間"
+"內學習調整自己去配合外界的環境；更重要的，所謂「適應」，還代表著生物所具有的"
+"可以遺傳下去並有助於生物生存和繁殖的特性(也就是「性狀」)，「適應」是DNA隨機突"
+"變的一種結果。 DNA的「突變」經常發生，它對生物體會也許有害、有益，或根本沒有"
+"造成什麼改變；如果它是幫助生物生存的，這種改變就叫做「適應」。"
+
+# 4
+msgid "Reviewing core ideas... about changing life forms"
+msgstr "複習核 心觀 念......關於 「生物 形態變化」"
+
+msgid ""
+"There are many different kinds of living things in any area, and they exist "
+"in different places on land and in water. Look at the variety of plants and "
+"animals in the picture. Each habitat has certain conditions that life forms "
+"in it have to get used to and survive. So if it is really cold or hot, "
+"plants and animals still have to find a way to get nourished and reproduce. "
+"The variety of adaptations is as diverse as all the differences we see in "
+"nature. An <span class='key'>adaptation</span> is an inherited "
+"characteristic that gives the adapting organisms an improved chance for "
+"survival and reproduction."
+msgstr ""
+"各種不同的生物生長在不同的區域，它們存在於地面或水中不同地方。看看圖片中的各"
+"種動植物。每個棲息地具有一定條件讓在此處的生命必須習慣與生存。所以，如果非常"
+"寒冷或炎熱，動植物必須找到方法來獲得營養和繁殖。各種不同的適應方式變成了我們"
+"在自然界中看到的各種差異。<span class='key'>適應</span>是一種遺傳特性，使進行"
+"「適應」的生物體能有改善的機會以繼續存活並繁殖。"
+
+msgid ""
+"Hover your mouse on the images below to see the different kinds of animal "
+"adaptations."
+msgstr "將滑鼠停在下面圖像可看到不同種類動物的適應方式。"
+
+msgid "Color patterns can protect animals from predators."
+msgstr "變色可以保護動物免受天敵威脅。"
+
+msgid "Downy feathers can help birds survive cold weather"
+msgstr "毛茸茸的羽毛可以幫助鳥類生存在寒冷天氣中。"
+
+msgid "Nostrils on the tops of heads allow whales to breathe efficiently."
+msgstr "氣孔長在頭頂讓鯨魚有效地呼吸。"
+
+msgid "Single-toed hooves let horses run faster."
+msgstr "單趾蹄讓馬跑得更快。"
+
+msgid ""
+"Adaptation leads to all the different plants and animals across the world. "
+"Each of the many unique and diverse places on earth has its own kinds of "
+"plants and animals."
+msgstr ""
+"「適應」使得世界各地有著不同的動植物。地球上各個獨特和多樣化的地方都有著那邊"
+"特有的動植物。"
+
+msgid ""
+"Around 200 years ago, a scientist named Charles Darwin explored one of those "
+"places called the Galapagos Islands. He observed and collected the different "
+"plants and animals that lived in that habitat. The Galapagos Islands are a "
+"series of volcanic islands, rising from the Pacific Ocean more than 600 "
+"miles west of South America.  Each island has a diverse set of ecosystems. "
+"An <span class='key'>ecosystem</span> is the unique set of living and non-"
+"living factors that combine to determine the types of plants and animals "
+"that can live in a certain location. Galapagos ecosystems range from desert "
+"to grassland to rainforest."
+msgstr ""
+"大約200年前，一位名叫「查爾斯·達爾文」的科學家研究了許多地方，其中之一叫做"
+"「加拉帕戈斯群島」。他觀察並收集棲息在那裏的許多不同種類的動植物。加拉帕戈斯"
+"群島是許多火山形成的島嶼所組成，突起在太平洋南美洲西部600英里處。每個島嶼都有"
+"多樣化的生態系統──所謂<span class='key'>生態系統</span>就是在一個特定地區中，"
+"所有生物和非生物因素共同影響下，所形成的動植物的獨特集合。加拉帕戈斯群島的生"
+"態系統相當多元，涵蓋著從沙漠到草原雨林的不同生態。"
+
+msgid "Small Ground-Finch"
+msgstr "小地雀"
+
+msgid "Medium Ground-Finch"
+msgstr "中型地雀"
+
+msgid "Large Ground-Finch"
+msgstr "大型地雀"
+
+msgid ""
+"He noticed that on each island, a unique species of finch existed. They were "
+"all finches and very similar to one another, but their beaks were very "
+"different in shape and size. The beaks seemed to be related to the available "
+"resources on the island. Where there was fruit, the finches had beaks that "
+"were useful for eating fruit. On islands with insects, the finches had "
+"narrow beaks that could pick up insects one at a time. So Darwin thought the "
+"finches might have changed to become more specialized to suit their "
+"environment."
+msgstr ""
+"達爾文，他注意到，每個不同的島，有著不同而獨特的雀鳥存在。牠們都屬於雀類，彼"
+"此也非常的相似，但牠們的「喙(鳥類的嘴)」在形狀和大小上卻是非常不同。他發現，"
+"喙似乎與島上的資源有關，只要是充滿水果的島嶼，雀鳥就長著適合用來吃水果的喙；"
+"而充滿昆蟲的島嶼上，雀鳥就有著狹窄的喙，以便將昆蟲一隻一隻的啄起來。因此，達"
+"爾文認為這些雀鳥可能已經改變，變得更加獨特，以用來適應牠們的環境。"
+
+msgid ""
+"Living things adapt to different living conditions when they move into new "
+"locations.  They must also change when <span class='key'>environmental "
+"changes</span> occur in places they already live. Over the years, climate "
+"changes, rivers change their courses, fires rage, and predators prowl.  Life "
+"has the ability to adapt to whatever changes occur."
+msgstr ""
+"當生物遷移到新地方時，牠們會去適應當地不同的生活條件。當<span class='key'>環"
+"境變遷</span>發生在生物原來的棲息地，例如，氣候變化、河流改變河道、火災肆虐或"
+"食肉動物四處掠食時，生物也必須改變。生命具有適應各種變化的能力。"
+
+# 5
+msgid ""
+"Question A. Click on <span class='blink'>all</span> the biological "
+"adaptations from the following:"
+msgstr ""
+"問題A. 請問下列何者，表現出「生物適應性」的<spanclass='blink'>例子(複選)</"
+"span>？"
+
+msgid "Falcons have a streamlined shape to fly faster."
+msgstr "獵鷹有著流線型的外型，以飛得更快。"
+
+msgid "Sports cars have a streamlined shape to drive faster."
+msgstr "跑車有著流線型的造型，以跑得更快。"
+
+msgid "Snow leopards' spots make them difficult to see in rocky habitats."
+msgstr "雪豹的斑點使牠們在岩石地區不易被發現。"
+
+msgid "Most people wear heavy coats on cold winter days."
+msgstr "大多數人在寒冷的冬天裡穿上厚重的外衣。"
+
+msgid ""
+"Question B. Which environmental change would most likely cause changes in "
+"nearby living things?"
+msgstr "問題B. 下列哪一個環境的變遷最有可能造成附近生物的改變？"
+
+msgid "A volcanic eruption more than a thousand kilometers away."
+msgstr "一千多公里外的火山爆發。"
+
+msgid "A rapidly deepening canyon, more than 50 kilometers long."
+msgstr "急遽變深的峽谷，深達50公里長。"
+
+msgid "A rapidly warming climate resulting in sea levels rising."
+msgstr "氣候急速變暖導致海平面上升。"
+
+msgid "A very long period without rain causing widespread drought."
+msgstr "很長一段時間不下雨造成大面積的乾旱。"
+
+msgid ""
+"Right! Faster flying makes catching prey more likely. Prey animals don't see "
+"the cats coming until it is too late."
+msgstr "答對了!飛得更快使得捕捉獵物更容易。"
+
+msgid ""
+"Not quite. Sports cars aren't alive. People only adjust for the weather. "
+"It's not an inherited trait. But faster flying makes catching prey more "
+"likely, and prey animals don't see the cats coming until it is too late."
+msgstr ""
+"不對喔。跑車沒有生命。人類穿上大衣並沒有讓人類本身進行「調適」，這不是個遺傳"
+"性狀(可遺傳的生物特徵)。但飛得更快使得捕捉獵物更容易則是「調適」。"
+
+msgid ""
+"Probably not. A far away eruption would probably have widespread impacts."
+msgstr "不對喔！應該不會。一個那麼遙遠的火山爆發對環境可能是廣大面積的影響。"
+
+msgid ""
+"Good choice! As the canyon becomes more of an obstacle, it isolates animals "
+"on both sides."
+msgstr "不錯的選擇！如果峽谷成為一個阻隔，就會隔絕兩側的動物。"
+
+msgid ""
+"Unlikely. A warming climate impacts living things over a very wide area, "
+"impacting nearby living things equally."
+msgstr "不太可能。氣候變暖影響的生物的範圍很廣，影響附近生物的情況會是一樣。"
+
+msgid ""
+"Not the best choice. Widespread drought means it happens over a wide area, "
+"impacting nearby living things equally."
+msgstr ""
+"不是最好的選擇。大面積乾旱意味著它發生在很大的範圍，影響附近生物的情況會是一"
+"樣。"
+
+# 6
+msgid "More core ideas... about changing life forms"
+msgstr "更 多核心觀念......關於「生物形態變化」"
+
+msgid ""
+"All living things in an environment are trying to survive. They will try "
+"their best to find food and shelter, and reproduce to create more offspring. "
+"But not every environment is cut out for every living thing. Think of a "
+"cactus on an iceberg- how long do you think it would survive? Think of a "
+"penguin in a desert- do you think it would be able to reproduce? So in a "
+"particular habitat, some organisms can survive better than others. Some may "
+"not survive at all."
+msgstr ""
+"環境中的所有生物都試圖生存。它們會盡力去尋找食物和住所並繁殖來創造更多的後"
+"代。但環境並不是為了生物而安排好的，請想想冰山上面的仙人掌，你認為它能生存多"
+"久？請再想想一隻沙漠中的企鵝，你覺得它能進行繁殖嗎？因此，在一個特定的棲息"
+"地，有一些生物可以生存比其它的較好；有些則根本無法生存。"
+
+msgid ""
+"Looking at beaks again, you can see how important beak size and shape is to "
+"these woodpeckers when it comes to finding food. The bird on the right has a "
+"long, thin beak that can easily access worms inside a tree. Whereas the bird "
+"on the left is similar to the other bird in many ways, but it does not have "
+"the long beak."
+msgstr ""
+"請再看一下鳥喙的例子(右圖)，你可以看到鳥喙的大小和形狀對這些啄木鳥的尋找食物"
+"是多麼重要。右邊的鳥有著長而薄的鳥喙，可以很容易地吃到樹幹裡的蟲子；而在左側"
+"的鳥雖然長得和右邊的啄木鳥相似，只是它不具有長而薄的鳥喙。"
+
+msgid ""
+"Animals born with advantageous traits are more likely to live long enough to "
+"reach that goal."
+msgstr ""
+"這例子 中， 圖右的啄木鳥具有長喙可補得蟲子，它比左邊的啄木鳥具有優勢性狀，這"
+"樣的動物就可能活得較久，達成牠們生存繁殖的目標。"
+
+msgid ""
+"Sometimes the differences in characteristics between individuals of the same "
+"species provide advantages in finding food and surviving. The species that "
+"survives well can reproduce and produce more of its kind that will continue "
+"to survive well."
+msgstr ""
+"有時同一物種特徵上的差異也會造成尋找食物和存活的優勢。生存能力較好的物種就有"
+"機會繁殖出與它一樣具有優勢特徵的後代，使得物種的生存繁殖能不斷延續。"
+
+msgid ""
+"Sometimes characteristic differences help certain species stay alive. "
+"Consider a type of fish that is usually green. Because of a random DNA "
+"change, called <span class='key'>genetic mutation</span>, the color of two "
+"fish changes in one generation; one to a bright color, and one to a dark "
+"color. When a larger predator swims by, hungry for food, which is more "
+"likely to be seen and eaten? The brighter fish is more easily seen, and less "
+"likely to survive the encounter.  The darker fish is more likely to live "
+"long enough to mate and reproduce. Darwin called this <span "
+"class='key'>natural selection</span>."
+msgstr ""
+"我 們來看看，不同的特徵對某些物種生存影響的例子。請試想，如果一種原本是綠色的"
+"小魚，因為DNA(生物體內控制遺傳的物質)產 生了隨機變化──這稱為<span "
+"class='key'>基 因突變</span>，使得魚的顏色在一代之間有了改變；成為，一種是有"
+"明亮的顏色，一種是暗黑的顏色。請問，當 有一 隻飢餓的大魚游來尋找食物時，你認"
+"為哪一種魚容易被發現而被吃掉呢？是的，明亮的魚比深色的魚容易被吃掉；而深色的"
+"魚就更有機會 能存活下來並進行繁殖。達爾文稱這種現象為<span class='key'>物 競"
+"天擇</span>，也就是大自然的選擇；那些，能在環境中改變產生適應的性狀的生物，就"
+"能夠存活下來。"
+
+# 7
+msgid ""
+"Question A. Click on the phrase that best describes a favorable mutation for "
+"a fox."
+msgstr "問題A. 下列哪一個選項是對狐狸「生存」比較有利的突變呢。"
+
+msgid "A mutation that changes the fur of a fox to bright yellow."
+msgstr "使狐狸的皮毛變成亮黃色的突變。"
+
+msgid "A mutation that makes a fox run faster."
+msgstr "使狐狸跑得更快的突變。"
+
+msgid "A mutation that changes the eye color of a fox."
+msgstr "使狐狸的眼睛顏色改變的突變。"
+
+msgid "A mutation that gives a fox a third ear."
+msgstr "讓狐狸有第三隻耳朵的突變。"
+
+msgid ""
+"Question B. When will a change most likely be passed on to the next "
+"generation?"
+msgstr "問題B. 在甚麼狀況時，動物最可能將變化傳給下一代呢？"
+
+msgid "When it changes the physical characteristics of the living thing."
+msgstr "當環境使生物改變其物理特徵時。"
+
+msgid "When it prevents the living thing from finding a mate."
+msgstr "當環境使得生物無法找到伴侶。"
+
+msgid "When it is completely random, without a specific purpose."
+msgstr "當這些改變是完全隨機出現，沒有一個具體的目的時。"
+
+msgid "When it becomes an advantage to the survival of the living thing."
+msgstr "當這改變是生物生存的優勢時。"
+
+msgid ""
+"Not good. Bright yellow foxes would have a hard time sneaking up on prey."
+msgstr "不對喔！明亮的黃色狐狸會難以隱匿靠近獵物。"
+
+msgid "Yes! For a predator, faster is better."
+msgstr "沒錯！對於捕食者，越快越好。"
+
+msgid "Eye color? Probably not a big deal to a fox."
+msgstr "眼睛的顏色？對狐狸來說，這也許不是什麼大不了的事。"
+
+msgid ""
+"No. A mutation big enough to cause a third ear will most likely cause other "
+"deformities."
+msgstr "不對喔！有了第三隻耳朵的突變，如果沒有特別突出的功能，那也是沒有用的。"
+
+msgid "Sorry. It depends upon how a characteristic changes."
+msgstr ""
+"不對喔！這還要看這個特徵的改變是什麼樣子的。是有利生存的，才能夠有助它自己的"
+"生存，然後存活並繁殖。"
+
+msgid "No. Mating is necessary to pass traits along."
+msgstr "不對喔！交配是遺傳特徵給下一代所必需。"
+
+msgid ""
+"Nope. This is tricky. Changes are random, without purpose, but sometimes "
+"they work out to be advantages."
+msgstr ""
+"不對喔！變化是隨機的，無目的性的。只有在這突變是對生存有利的情況下，才會比較"
+"容易遺傳給後代。"
+
+msgid ""
+"There you go. Survival is the key. In order to reproduce, an organism must "
+"first survive."
+msgstr "你答對了。生存是關鍵。為了繁殖，生物體首先必須生存。"
+
+# 8
+msgid ""
+"The environment and resources change all the time. Some changes affect "
+"plants and animals and cause them to change over time as well. Let's look at "
+"the woodpecker example again. What if something happened to the trees, and "
+"there were no more worms for the long beaked birds to eat? The resources in "
+"the environment changed, and the characteristic that was once an advantage "
+"is no longer useful. Now the woodpecker on the left has the advantage "
+"because its beak can crack open nuts to survive. It will reproduce and "
+"create more of the species with that beak to survive the new conditions."
+msgstr ""
+"環境和資源隨時在改變，這些變化會影響動植物並導致它們也隨著時間而改變。讓我們"
+"來看看啄木鳥的例子。假設因為某些原因，樹木不再有蟲子可以給長喙的鳥吃？這時，"
+"因為環境中的資源改變了，曾經的優勢特點不再有用。現在，左邊的啄木鳥反而變成具"
+"有優勢，因為它的短喙可以破開堅果而生存，這些短喙鳥反而將較能繁殖並創造更多有"
+"短喙鳥的後代以在新的條件下生存。"
+
+msgid ""
+"So, not everything in the environment stays the same. The variety that "
+"animals and plants have help them to survive changing conditions. The "
+"environment changes in different ways: the temperature may change, there may "
+"be less resources, there may be pollution caused by humans. Every living "
+"thing reacts differently to these changes. Some may survive and reproduce, "
+"others may not do so well and die. Some living things may move to new "
+"locations, and others might move into this new transformed environment."
+msgstr ""
+"也就是因為環境並非永遠不變的，所以各種動植物的差異性可以幫助它們在變化的狀況"
+"中生存。當環境有了各種變化，例如，氣溫改變、資源變少、或人類的污染，每個生物"
+"體就可以有不同的反應，其中有些會生存下來並繁殖，也有些可能無法適應而死亡；也"
+"有些會遷離到別的棲息地，有的則會遷入這個新環境。"
+
+msgid ""
+"Sometimes, a species may not have enough variation to allow any of its "
+"members to survive environmental changes. A species is said to be <span "
+"class='key'>extinct</span> when its last members die. Most of the species "
+"that have existed in earth's history are now extinct."
+msgstr ""
+"有時候，一個物種的「多樣性」不足，它的個體在變化的環境狀況下就無法順利存活下"
+"來，當它最後一個成員死亡時，這物種就<span class='key'>「滅絕」</span>了。其"
+"實，地球歷史上曾經存在過的物種，現今大多數都已經滅絕。"
+
+msgid ""
+"The game is changing, but the rule of the game is still survival. Based on a "
+"few observations and a bit of logic, Darwin proposed the idea of <span "
+"class='key'>natural selection</span>."
+msgstr ""
+"生物的競賽不斷改變，但「求生存」就是最根本的遊戲規則。根據一些觀察和一點邏"
+"輯，達爾文，他提出了<span class='key'>物競天擇</span>的理論。(請將游標停在下"
+"列圖片上，觀看說明)"
+
+msgid "Species produce large numbers of offspring."
+msgstr "物種產生大量後代。"
+
+msgid "Resources available to organisms are limited."
+msgstr "給生物的資源是有限的。"
+
+msgid "Limited resources create a competition for survival and reproduction."
+msgstr "有限的資源創造生存和繁殖的競爭。"
+
+msgid "All species have inherited variations for nearly every characteristic."
+msgstr "所有物種遺傳的每一個特徵幾乎都有些微的差異。"
+
+msgid ""
+"The members of a population who survive and reproduce send their genetic "
+"information into future generations."
+msgstr "具有生存和繁殖能力的個體會將牠們的基因訊息傳給後代。"
+
+msgid ""
+"That's about it. Change happens because some traits get passed along and "
+"some don't. When changes add up to the point where some populations can no "
+"longer interbreed with others, new species result. When living things are "
+"from different species, they cannot breed with one another."
+msgstr ""
+"整體來說，「生物形態的變化」是因為突變而產生新的性狀，如果這些性狀有利於生"
+"存，存活的個體就會將這性狀遺傳給後代，後代也將有所改變。有些性狀的遺傳，也可"
+"能只遺傳給一部分個體，但有些就沒有遺傳到；當物種的性狀改變大到某些群體已經無"
+"法再與它的「遠親」交配繁殖時，那麼就是出現了「新的品種」了。對於生物來說，來"
+"自不同品種的生物，彼此是無法交配繁殖的。"
+
+# 9
+msgid ""
+"Question A. The variations involved in evolution must be inherited because:"
+msgstr "問題A. 對「進化」有幫助的變異性，最好都能遺傳下去，因為："
+
+msgid "They must be passed into later generations to be important."
+msgstr "這變異性被遺傳給後代是很重要的，因為可能幫助物種的生存。"
+
+msgid "They must not be passed into later generations to be important."
+msgstr "這變異性不能被遺傳到後代是很重要，因為可能不利於物種的生存。"
+
+msgid "They must be unique to one individual only."
+msgstr "這變異性對唯一的個體具有獨特性，所以重要。"
+
+msgid "They must have occurred in both parents to matter."
+msgstr "這變異性一定是和父母雙方有關，所以重要。"
+
+msgid ""
+"Question B. Which factor determines whether two living things are members of "
+"the same species?"
+msgstr "問題B. 哪一個因素，可以用來決定兩個生物是否是同一物種呢？"
+
+msgid "The physical characteristics of the two living things."
+msgstr "兩個生物體身體的特性。"
+
+msgid "The environment in which the two living things live."
+msgstr "在這兩個生物生存的環境。"
+
+msgid "Their ability to breed with one another."
+msgstr "它們彼此間的繁殖能力。"
+
+msgid "All of the above."
+msgstr "以上皆是。"
+
+msgid "Correct! It only changes a population if a trait is passed along."
+msgstr "正確！只有將性狀遺傳下去才會改變群體以有助生存和繁殖。"
+
+msgid "Sorry... If a trait isn't passed along, the population doesn't change."
+msgstr "不對喔......如果性狀沒有遺傳下去，群體不會改變。"
+
+msgid "No... It doesn't matter how many individuals have an important trait."
+msgstr ""
+"不對喔！唯一的個體具有獨特性，並不是最重要的；重要的是，要能將變異性在群體中"
+"展現並在將有利性狀遺傳下去，促進進化。"
+
+msgid "Nope. Inheritance can come from either or both parents."
+msgstr ""
+"不對喔！這變異性一定是和父母雙方有關，並不是最重要的。重要的是，將性狀遺傳下"
+"去以改變群體並有助生存和繁殖。"
+
+msgid "Important? Yes. Critical? No.  Appearances can be deceiving."
+msgstr ""
+"這因素重要嗎？是的。但是是關鍵決定因素嗎？不對喔！外表是會騙人的，不能只用外"
+"表判斷！"
+
+msgid "Not really. Some species inhabit many different environments."
+msgstr "不盡然。有些相同的物種棲息在不同的環境。"
+
+msgid "Yes!!! The ability to mate and produce successful offspring is the key."
+msgstr "是的！彼此能否交配繁殖，是判斷是否同一品種的關鍵。"
+
+msgid "No. Go back and reread each of the choices."
+msgstr "不對喔！請再看看每個選項。"
+
+# 10
+msgid ""
+"Change happens. Things change all the time. As time passes, changes "
+"accumulate. When living things change, it's called evolution. Over the "
+"course of more than 4 billion years of earth history, living things have "
+"changed enough to account for all of the diversity of the life we see on our "
+"planet now."
+msgstr ""
+"改變不斷發生，而事物也隨時間變化；時間流逝，但變化卻累積。當生物發生變化，我"
+"們就稱為「演化」或「進化」。在過去四十億年的地球歷史長河中，生物變化實在是非"
+"常多，這才構成現在我們星球上看到的多樣化生命體。"
+
+msgid ""
+"A well-known example of natural selection involves insects called peppered "
+"moths. As forests in central England became polluted with soot from "
+"factories, a type of common moth changed colors from gray to black. "
+"Pollution had changed the environment: the light trees covered by lichens "
+"turned dark and bare. This had an impact on the moths because the light "
+"moths' camouflage no longer worked in the dark forest. Meanwhile, the DNA of "
+"a single moth changed and the moth's color was dark. This moth reproduced "
+"and created more dark moths with better camouflage and a better chance of "
+"survival in the dark forest."
+msgstr ""
+"「物競天擇」的一個廣為人知的例子是所謂的「樺(ㄏㄨㄚˋ)尺蛾」。在英格蘭中部的森"
+"林，有一段時間被工廠的煤煙嚴重污染，這一種常見的飛蛾改變它的顏色從原本淡灰色"
+"變成黑色。污染改變了環境：覆蓋了青苔的淺色樹木變成深色和光禿。這對飛蛾產生影"
+"響，因為淺色飛蛾的偽裝在黑色的森林中不再有用。同時，個別飛蛾的DNA也產生改變，"
+"蛾的顏色越變越深，這種飛蛾可以進行繁殖並生下了更多的黑蛾，以便能有較佳的偽裝"
+"並在黑暗森林中有更多的生存機會。污染的環境變化下，「物競天擇」造成飛蛾群體往"
+"深色改變。"
+
+msgid ""
+"Natural selection caused the population of moths to have a darker color due "
+"to the changes in pollution. All living things have small differences "
+"between the individuals in the species. Not all finches look alike, nor do "
+"all St. Bernard dogs look alike. If one of those differences allows the "
+"individuals to live longer, they will have more offspring. As that trait is "
+"passed on, the entire species changes."
+msgstr ""
+"所有生物的個體都和它的同物種個體存在一些差異，例如，不是每一隻鳥雀都長得一"
+"樣，也不是所有的聖伯納犬都長的一樣。如果某一個差異能使得一些個體活得更久、擁"
+"有更多的後代，那麼這個特徵會被遺傳下去，整個物種也會產生不同。"
+
+msgid ""
+"In the last fifty years, much effort has been put in to decrease the amount "
+"of pollution. With less pollution, the forests are becoming cleaner. Yes, "
+"the environment is changing again, and the number of dark moths are dropping."
+msgstr ""
+"在過去的五十年，英國為了減少污染已投入不少努力。污染減少後，森林變得更清潔。"
+"是的，環境再次發生變化，空氣變乾淨了，樹不再蒙上一層黑灰，淺色飛蛾又有了淺色"
+"的樹幹可以偽裝而數量慢慢又增加，反之，深色飛蛾的數量就又開始下降。"
+
+# 11
+msgid ""
+"Question A. Which of the following ideas is <span class='blink'>not</span> "
+"an essential part of natural selection?"
+msgstr ""
+"問題A. 下面哪一個概念<span class='blink'>不屬於</span>「物競天擇」的一個部"
+"分？"
+
+msgid "Populations display inherited variations for nearly every trait."
+msgstr "幾乎每一種性狀在群體中都會具有差異性。"
+
+msgid "Species produce very large numbers of offspring."
+msgstr "物種會產生非常大量的後代。"
+
+msgid "There is a competition for survival in nature."
+msgstr "大自然中存在著生存的競爭。"
+
+msgid "Every few million years, a comet strikes the earth."
+msgstr "每幾百萬年就會有一顆彗星撞擊到地球。"
+
+msgid ""
+"Question B. The example of the peppered moths living near English industrial "
+"cities demonstrates that:"
+msgstr "問題B. 樺尺蛾住在靠近英國工業城市的例子顯示："
+
+msgid ""
+"A change in an environment can result in the evolution of species living "
+"there."
+msgstr "環境的變化可能會導致生活在那裡的物種「進化」。"
+
+msgid ""
+"The environment near these cities has always favored dark colored moths."
+msgstr "這些城市的附近環境一向對深色飛蛾有利。"
+
+msgid ""
+"Evolution occurs so slowly that it is not possible to determine that it has "
+"happened in less than a million years."
+msgstr "「進化(演化)」發生的非常緩慢，所以它是不可能在一百萬年內被確定的。"
+
+msgid "None of the above."
+msgstr "以上都不是"
+
+msgid "Nope. It's true, but this is an important part of natural selection."
+msgstr "不是這個選項喔！這敘述是對的。這是「物競天擇」的一個重要部分。"
+
+msgid "Sorry. Natural selection depends upon this one."
+msgstr "不是這個選項喔！這敘述是對的。這是「物競天擇」的基礎。"
+
+msgid "Not this one. This is a key point in natural selection."
+msgstr "不是這個選項喔！這敘述是對的。這是「物競天擇」的關鍵。"
+
+msgid ""
+"Bingo! While this is true, and does affect evolution, it's not part of the "
+"natural selection idea."
+msgstr ""
+"你選對了！這敘述是錯的。雖然這也影響到「進化」，但它不是「物競天擇」觀念的一"
+"部分。"
+
+msgid ""
+"Correct. The traits nature selects for or against can change as the "
+"environment changes."
+msgstr "正確。當環境變化時，「物競天擇」選擇或淘汰的性狀也會改變。"
+
+msgid ""
+"Not quite. When air pollution was reduced during the last few decades, tree "
+"bark became lighter in color. As a result, lighter colored moths were "
+"favored."
+msgstr ""
+"不完全是。當空氣被污染在過去的幾十年裡減少後，樹皮的顏色變淺。因此，對淺色飛"
+"蛾有利。"
+
+msgid ""
+"No. In species with short generational times, such as moths and other "
+"insects, evolution can often be seen in just a few decades or less."
+msgstr ""
+"不對喔！在生命較短的物種中，例如飛蛾及其他昆蟲，「進化(演化)」經常可以在數十"
+"年或更短時間被發現。"
+
+msgid ""
+"No. The traits nature selects for or against can change as the environment "
+"changes. The environment near cities does not favor dark colored moths, and "
+"evolution in species with short generational times can often be seen in just "
+"a few decades or less."
+msgstr ""
+"不對喔！物競天擇選擇或淘汰的性狀也會隨著環境變化而改變。城市附近的環境不利於"
+"深色飛蛾。並且生命較短的物種的進化(演化)，經常可以在短短的幾十年或更短的時間"
+"就被看到。"
+
+# 12
+msgid "Using what you know... about changing life forms... to solve a problem"
+msgstr "利用你 知道 的...「關於 生物 形態變化」...來解決 問題"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid ""
+"You are a science fiction novelist developing ideas for a new book. Your "
+"book is about the 21st century and all the technological changes. Cars can "
+"fly and people have machines that do almost everything for them. So what "
+"would this mean to people in such an advanced world of technology?"
+msgstr ""
+"你是一個科幻小說家，正在構思一本新書。你的書是關於21世紀所有的技術變革。汽車"
+"能飛，機器也幾乎可以代替人類做所有的事情。那麼在技術如此先進的未來世界對人類"
+"會有什麼影響呢？"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"Based on what you now know about natural selection and how the environment "
+"changes affect living things over time, decide which human traits to change "
+"in your novel. Explain what skills people would need to survive in your new, "
+"high-tech world, and how people would have to be different to stay alive and "
+"prosper. Which traits would people no longer have to have in your new world?"
+msgstr ""
+"根據你現在知道，有關「物競天擇」和「環境變化如何隨著時間影響生物」，請你試著"
+"描繪未來的人類和未來的生活。你可以參考或自行選擇以下 各點來敘述：1. 在你的小"
+"說中未來人類的性狀(可以遺傳的生物特徵)會變得如何；2. 請你也解釋人類將需要什麼"
+"技能才能在未來高科技的世界中生存，3. 人類為了繼續生存及繁榮需如何改變，以及"
+"4. 哪些人類的性狀在你的新世界將不再存在？"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案…"
+
+# 13
+msgid "Summarizing core ideas... about changing life forms"
+msgstr "總結核 心觀 念......關於 「生物 形態變化」"
+
+msgid ""
+"There are many different kinds of living things in any area, and they exist "
+"in different places on land and in water. Changes in an organism's habitat "
+"are sometimes beneficial to it and sometimes harmful. For any particular "
+"environment, some kinds of organisms survive well, some survive less well, "
+"and some cannot survive at all. <span class='key'>Adaptation</span> by <span "
+"class='key'>natural selection</span> acting over generations is one "
+"important process by which species change over time in response to changes "
+"in environmental conditions. The environment is dynamic in nature; its "
+"characteristics can vary over time. Disruptions to any part of the "
+"environment can lead to shifts in all its populations. Traits that support "
+"successful survival and reproduction in the new environment become more "
+"common; those that do not become less common. Thus, the distribution of "
+"traits in a population changes."
+msgstr ""
+"各種生物生活在各種地區，它們在陸地上或水中的不同地方生存。生物的的棲息地改"
+"變，有時對它有利，有時是有害的。在特定的環境中，有些種類的生物生存良好，一些"
+"生存較差，有的則無法生存。環境是隨時間動態變化的，<span class='key'>「適應」"
+"</span>與<span class='key'>「物競天擇」</span>，是物種因應環境條件變化而隨著"
+"時間而改變的一個重要過程。環境中任何部分的崩潰都可能導致所有群體的改變。成功"
+"在新環境生存和繁殖下來的性狀會變得越來越普遍；那些沒辦法生存和繁殖下來的性狀"
+"則會慢慢消失。因此，群體中性狀的分佈情形也會改變。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+# 14
+msgid "Reviewing key vocabulary related to... changing life forms"
+msgstr "總結核 心觀 念......關於 「生物 形態變化」"
+
+msgid "Adaptation"
+msgstr "適應"
+
+msgid "Natural selection"
+msgstr "物競天擇"
+
+msgid "Environmental change"
+msgstr "環境變遷"
+
+msgid "Genetic mutation"
+msgstr "基因突變"
+
+msgid "Extinction"
+msgstr "物種滅絕"
+
+msgid "Ecosystem"
+msgstr "生態系統"
+
+msgid ""
+"An inherited characteristic that may give a life form a better chance of "
+"survival. Animals that are better adapted are more likely to reproduce and "
+"pass on their adaptations."
+msgstr ""
+"遺傳的「特徵」，可能會給一個生命形式更有利的生存機會。適應較佳的動物更容易繁"
+"殖和遺傳它們的「適應」特徵給後代。"
+
+msgid ""
+"An example would be the giraffe. Giraffes' long necks allow them to obtain "
+"food that other animals cannot reach."
+msgstr ""
+"一個「適應」的例子是長頸鹿。長頸鹿的長脖子讓牠們獲得其它動物無法獲得的食物。"
+
+msgid ""
+"Animals that are best adapted to survive will be the ones most likely to "
+"reproduce and pass on their genes. This results in a decrease in the total "
+"diversity of a population over time."
+msgstr ""
+"最能進行「適應」而生存的動物，最有可能複製和遺傳牠們的基因。不過，這會導致一"
+"個群體的多樣性隨時間而變小。"
+
+msgid ""
+"An example would be the shift in the peppered moth populations. Lighter "
+"colored moths survive more frequently around light colored trees, while dark "
+"colored moths survive more frequently around dark colored trees."
+msgstr ""
+"另一個例子是此消彼長的蠖尺蛾群體大小的變化。淺色飛蛾在周圍充滿淺色樹木時存活"
+"率較高；而深色飛蛾在周圍都是深色樹木時存活率較高。"
+
+msgid ""
+"A change in the surroundings that affects the organisms living there. "
+"Environmental change may favor a species or members of a species and drive "
+"natural selection."
+msgstr ""
+"「環境變遷」會影響到生活在那裡的生物。環境變遷可能有利於一個物種的全部或一部"
+"分，這變遷會促使「物競天擇」的發生。"
+
+msgid ""
+"Examples may include natural disasters, the introduction of an invasive "
+"species, climate change, or human interference."
+msgstr "環境變遷的例子有可能是，自然災害、一個物種的入侵、氣候變化或人為干擾。"
+
+msgid ""
+"DNA that is incorrectly copied can result in differences in an organism. "
+"These differences may be beneficial, resulting in the organism being better "
+"adapted. They may also be harmful, resulting in the organism being less well "
+"adapted. Many mutations, however, cause changes that have no significant "
+"effect on the organism as a whole."
+msgstr ""
+"「DNA」是生物體中攜帶所有遺傳訊息的化合物。當體內的DNA複製錯誤，將導致生物體"
+"產生差異。這些差異可能是有利的，從而使生物體適應更良好；它也可能是有害的，從"
+"而使生物體適應不良；然而，許多突變並不會造成生物的明顯改變。"
+
+msgid ""
+"If no members of a species are able to reproduce, the species will cease to "
+"exist and become extinct. The vast majority of species that have existed in "
+"earth's history are now extinct."
+msgstr ""
+"如果一個物種的任何個體都無法繁殖，那該物種將不復存在，也就是「物種滅絕」。絕"
+"大多數曾經存在於地球歷史上的物種現今都已滅絕。"
+
+msgid ""
+"An ecosystem is living and non-living components of an area that co-exist in "
+"a balance. If the balance is disrupted by something such as an environmental "
+"change, some or all species may experience natural selection, or possibly go "
+"extinct."
+msgstr ""
+"生態系統是生物與非生物之間以一個平衡狀態共存。如果平衡被一些諸如環境變化的事"
+"物打亂，部分或全部物種就會面臨「物競天擇」，適者生存，不適者可能走向滅絕。"
+
+# 15
+msgid "Checking what you now know... about changing life forms"
+msgstr "看看你 現在 了解了多少...關於 「生物 形態變化」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# 16
+msgid "Choose the <span class='blink'>best</span> example of an adaptation."
+msgstr "選擇一個適應的<span class='blink'>最好的</span>例子。"
+
+msgid "Parrots learn to say phrases by copying people."
+msgstr "鸚鵡學會複製人類說短語。"
+
+msgid "Polar bears' hollow fur keeps them warm and makes swimming easier."
+msgstr "北極熊的獸毛是空心的結構，既保溫又可使游泳更容易。"
+
+msgid "A tropical rainforest is cleared by fire."
+msgstr "利用人為控制的火來清除熱帶雨林中的雜蕪乾樹。"
+
+msgid "Rice fields are harvested at the end of a growing season."
+msgstr "稻田在生長季節的尾聲收割。"
+
+msgid "Not an adaptation. Learning isn't inherited."
+msgstr "這不是適應。鸚鵡說話是學習而來的，不是遺傳的，所以不是「適應」。"
+
+msgid "Right. The fur is an important adaptation."
+msgstr "答對了。這特殊的獸毛，是一個重要的適應。"
+
+msgid "Sorry. The rainforest clearing is only temporary."
+msgstr "不對喔！人類清理雨林，這裡並沒有提到任何生物進行適應。"
+
+msgid "Nope. The harvest happens every year."
+msgstr "不對喔！人類收割，這裡並沒有提到任何生物進行適應。"
+
+# 17
+msgid "Natural selection does <span class='blink'>not</span> involve..."
+msgstr "「物競天擇」並<span class='blink'>不</span>涉及..."
+
+msgid "Some types of variation are inherited."
+msgstr "某些類型的變異被遺傳給後代。"
+
+msgid "People have carefully chosen horses to breed for special traits."
+msgstr "人們精心挑選具有特殊性狀的馬匹來繁殖。"
+
+msgid "There is a competition for survival."
+msgstr "生存的競爭。"
+
+msgid "Some traits make an organism especially able to survive in its habitat."
+msgstr "有些特質使生物特別能夠在牠的棲息地生存。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並上下移動滑鼠旋轉方塊，然後選擇你的答案。"
+
+msgid "Nope. Inherited variation is a key part of natural selection."
+msgstr ""
+"不是這個選項喔！這敘述是對的。遺傳時的變異性是「物競天擇」的一個關鍵部分。"
+
+msgid "Right! Choosing which animals breed takes nature out of the selection."
+msgstr ""
+"沒錯，這一個是錯誤的敘述！人類選擇哪些品種的動物來繁殖，就不算是大自然的「天"
+"擇」了。"
+
+msgid "Nope. Competition is very important in natural selection."
+msgstr "不是這個選項喔！這敘述是對的。競爭是「物競天擇」非常重要的部分。"
+
+msgid "Sorry. Survival and reproduction are key in natural selection."
+msgstr "不是這個選項喔！這敘述是對的。生存和繁衍都是「物競天擇」的關鍵。"
+
+# 18
+msgid ""
+"Which of the following environmental changes is least likely to lead to "
+"evolutionary change?"
+msgstr "下列哪項環境的變化是<最不可能>導致「進化(演化)」？"
+
+msgid "Eruption of a supervolcano on an island."
+msgstr "一個小島上超大火山的爆發。"
+
+msgid "A large meteorite impact."
+msgstr "一個大隕石撞擊。"
+
+msgid "A small group of people walking across a prairie."
+msgstr "一小群人走在一個大草原。"
+
+msgid "The climate warming over a short period of time."
+msgstr "很短的期間造成了全球氣候暖化。"
+
+msgid "No. This actually could lead to some major changes."
+msgstr ""
+"不對喔！這實際上可能導致一些嚴重的變化，部分生物可能滅絕，但部分生物可能進"
+"化。"
+
+msgid "Sorry. Large meteorite impacts have had profound impacts in the past."
+msgstr ""
+"不對喔！大隕石的撞擊在過去已經產生過深遠的影響，曾造成生物的滅絕和進化。"
+
+msgid "Correct. Simply walking through an area is likely to be harmless."
+msgstr "答對了。單單走過一個地區危害相對較小。"
+
+msgid "Nope. Climate change has been shown to cause significant changes."
+msgstr "不對喔！氣候暖化已經顯示出會導致顯著的變化，可能造成生物的進化。"
+
+# 19
+msgid ""
+"Which of the following statements is consistent with Darwin's idea of "
+"natural selection?"
+msgstr "以下哪一項敘述與達爾文「物競天擇」的學說一致？"
+
+msgid "Larger individuals tend to have more offspring."
+msgstr "較大的個體往往有更多的後代。"
+
+msgid ""
+"Individuals better adapted to the environment tend to leave more offspring."
+msgstr "個體如果對環境適應的更好，往往較可以留下更多的後代。"
+
+msgid "Individuals with variations tend to survive longer."
+msgstr "具有更多變異性的個體，能活的較久。"
+
+msgid ""
+"Survival of individuals is more important in natural selection than in "
+"reproduction."
+msgstr "個體的「存活」比個體的「繁殖」，對「物競天擇」的影響更大。"
+
+msgid "Nope. Size has little to do with numbers of offspring."
+msgstr "不對喔！大小跟後代的數目關係不大。"
+
+msgid ""
+"Correct! Having more offspring means that individuals are better adapted."
+msgstr "正確！有更多的後代意味著個體適應更良好。"
+
+msgid "Sorry. All individuals display variations in many different traits."
+msgstr ""
+"不對喔！所有的個體在不同的性狀上都有差異，個體本身性狀具有的差異性，也和活的"
+"長短，沒直接的關係。"
+
+msgid "Nope. Reproduction is key to natural selection."
+msgstr "不對喔！和生存相比，繁殖更是「物競天擇」的關鍵。"
+
+# 20
+msgid ""
+"A certain bird species preys upon insects that live on tree trunks. Over a "
+"period of time, the insects burrow deeper and deeper into the bark to avoid "
+"being eaten. Which of the following changes is likely to occur in the bird "
+"population?"
+msgstr ""
+"某一種鳥類捕食住在樹幹上的昆蟲。過了一段時間，蟲子鑽入更深的樹皮，以避免被吃"
+"掉。下列哪一項變化是鳥群可能發生的變化？"
+
+msgid "The birds would lay eggs earlier each spring."
+msgstr "鳥在春天下蛋的時間會變更早。"
+
+msgid "The birds would migrate later each fall."
+msgstr "鳥在每年秋季的遷移會延後。"
+
+msgid "Beaks would become longer and thinner over time."
+msgstr "鳥喙會隨著時間經過變得更長、更薄。"
+
+msgid "Spot patterns on eggs would change to darker colors."
+msgstr "鳥的蛋外殼斑點，將會變成較深的顏色。"
+
+msgid ""
+"Not likely. We can't predict a relationship between insect depth and mating "
+"time."
+msgstr "不太可能。我們無法看出昆蟲的深度和鳥類交配時間兩者間的關係。"
+
+msgid "Nope. We have no reason to predict any change in migration."
+msgstr "不對喔！我們沒有理由根據昆蟲的深度來預測遷移的任何變化。"
+
+msgid "Correct! Selection will favor longer, thinner beaks to catch food."
+msgstr "正確！物競天擇將使得鳥會有更長、更薄的喙以捕捉食物。"
+
+msgid "Sorry. There's no reason to link food location to spot patterns."
+msgstr "不對喔！我們沒有理由能將昆蟲的深度鳥蛋的斑點圖案連結在一起。"
+
+# 21
+msgid ""
+"The chart shows the survival rate of peppered moth over time (2002-2007). "
+"The blue dashed line shows the fraction of light colored moth that survived. "
+"The red solid line shows the fraction of dark colored moth that survived. "
+"Use this chart to click on the statement that is <span class='blink'>not "
+"correct</span> regarding this data and what you know about environment "
+"changes."
+msgstr ""
+"下圖，顯示樺尺蛾在一段時間內（2001-2007年）的存活率。藍色虛線顯示的是淺色蛾的"
+"存活率。紅色實線表示的是深色蛾的存活率。請依據此圖，點選關於這些數據以及你所"
+"知道環境變化的<span class='blink'>錯誤</span>敘述。"
+
+# special note (** This question is waiting for reconfirmation, then re-translatting!)
+msgid ""
+"The population of light and dark colored moths is changing from 2001-2007."
+msgstr "淺色和深色兩種飛蛾的存活率在2001-2007年間有所變動。"
+
+msgid ""
+"In 2004, light colored moths were more likely to survive than dark moths."
+msgstr "2004年，淺色蛾比深色蛾的存活比率要高。"
+
+# end of special note
+msgid ""
+"The survival rates of light and dark moth populations are changing from "
+"2002-2007."
+msgstr "淺色和深色兩種飛蛾的存活率在2002-2007年間有所變動。"
+
+msgid ""
+"From 2005 to 2006 something must have caused the survival rate of dark "
+"colored moths to increase."
+msgstr "2005年附近必定有一些事情發生，而造成深色蛾的存活率提高。"
+
+msgid ""
+"In 2003, the fraction of light colored moths that survived show that "
+"pollution must be low."
+msgstr "2002年淺色蛾的存活率顯示，當年的污染必定是相當輕微的。"
+
+msgid ""
+"No. The population rate changes are illustrated by the peaks and valleys of "
+"the chart."
+msgstr ""
+"不對喔，這是正確的敘述！蛾的群體的存活率的確在這張圖上顯示出變動的情形。"
+
+msgid ""
+"No. The point indicated by the blue line is higher than the one indicated by "
+"the red line."
+msgstr "不對喔，這是正確的敘述！此處藍線的數值大於紅色的。"
+
+msgid ""
+"No. The red line increases from 2005-2006. Some factors did cause the "
+"survival rate to increase."
+msgstr ""
+"不對喔，這是正確的敘述！紅線在2005-2006年開始上升。這應該是有某些原因造成深色"
+"蛾的存活率提高（污染應該就是一大可能的因素）。"
+
+msgid ""
+"Correct, this statement is false. In 2003, the light colored moths were at "
+"their lowest survival rate, which shows that population might have been "
+"high, the trees dark, and the light colored moths could not survive as well. "
+"Pollution is one factor that affects the population of these moths."
+msgstr ""
+"你選對了，這個敘述是錯誤的！ 2002年，淺色蛾的存活率降到最低點，這表示的應是當"
+"時的樹木變黑使得淺色蛾無法偽裝而存活。污染，是影響到飛蛾存活率是一個因素。"
+
+# 22
+msgid "Congratulations"
+msgstr "恭喜您"
+
+msgid "You've completed the Changing Life Forms review."
+msgstr "你已經 完成 了「生物形態變化」單元。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現..."

@@ -1,0 +1,88 @@
+[09-Dec-2013 02:43:05] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Dec-2013 01:26:55] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Dec-2013 01:49:34] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Dec-2013 23:42:11] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-Dec-2013 04:14:16] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[18-Dec-2013 03:14:53] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[18-Dec-2013 23:26:34] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Jan-2014 01:41:59] PHP Parse error:  syntax error, unexpected '<' in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/19.php on line 118
+[23-Jan-2014 01:42:07] PHP Parse error:  syntax error, unexpected '<' in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/19.php on line 118
+[24-Jan-2014 02:12:12] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 01:49:32] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 03:28:26] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 03:28:38] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 04:16:46] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 05:02:03] PHP Parse error:  syntax error, unexpected $end in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/4.php on line 171
+[28-Jan-2014 05:22:13] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Jan-2014 21:08:52] PHP Parse error:  syntax error, unexpected T_STRING in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/8.php on line 94
+[28-Jan-2014 21:08:54] PHP Parse error:  syntax error, unexpected T_STRING in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/8.php on line 94
+[28-Jan-2014 21:09:00] PHP Parse error:  syntax error, unexpected T_STRING in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/8.php on line 94
+[28-Jan-2014 21:09:04] PHP Parse error:  syntax error, unexpected T_STRING in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/8.php on line 94
+[29-Jan-2014 00:47:56] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Feb-2014 20:05:55] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Feb-2014 21:04:46] PHP Parse error:  syntax error, unexpected $end in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/9.php on line 243
+[02-Feb-2014 21:05:55] PHP Parse error:  syntax error, unexpected $end in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/9.php on line 244
+[03-Feb-2014 23:18:47] PHP Fatal error:  Call to undefined method UserFactory::getFirstName() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:18:50] PHP Fatal error:  Call to undefined method UserFactory::getFirstName() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:19:01] PHP Fatal error:  Call to undefined method UserFactory::getFirstName() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:19:06] PHP Fatal error:  Call to undefined method UserFactory::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:19:08] PHP Fatal error:  Call to undefined method UserFactory::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:19:16] PHP Fatal error:  Call to undefined method UserFactory::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:20:10] PHP Fatal error:  Call to undefined method User::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:20:12] PHP Fatal error:  Call to undefined method User::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:21:00] PHP Fatal error:  Call to undefined method User::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:21:02] PHP Fatal error:  Call to undefined method User::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:21:03] PHP Fatal error:  Call to undefined method User::getFirst_Name() in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/1.php on line 44
+[03-Feb-2014 23:37:56] PHP Parse error:  syntax error, unexpected $end in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/doing-science/6.php on line 75
+[25-Mar-2014 00:57:14 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/8.php on line 5
+[27-Mar-2014 20:51:35 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/11.php on line 5
+[27-Mar-2014 20:52:35 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/11.php on line 5
+[16-Apr-2014 03:18:42 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[16-Apr-2014 03:18:54 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 6
+[07-May-2014 06:15:01 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/7.php on line 6
+[07-May-2014 06:19:34 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/7.php on line 6
+[07-May-2014 06:23:06 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/9.php on line 6
+[07-May-2014 06:24:20 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/9.php on line 6
+[30-May-2014 01:17:30 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/8.php on line 5
+[30-May-2014 01:38:40 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/8.php on line 5
+[04-Jun-2014 01:02:33 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:02:43 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:02:49 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:02:57 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:09 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:43 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:53 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:54 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:55 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:03:57 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:04:05 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:04:09 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:04:43 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 01:05:21 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 177
+[04-Jun-2014 03:22:30 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[07-Jul-2014 03:06:33 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 183
+[07-Jul-2014 03:06:34 America/Denver] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/17.php on line 183
+[23-Jul-2014 02:07:17 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/20.php on line 8
+[23-Jul-2014 02:07:26 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/6.php on line 7
+[23-Jul-2014 02:10:10 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/7.php on line 8
+[23-Jul-2014 02:10:30 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/8.php on line 7
+[23-Jul-2014 02:10:57 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/12.php on line 7
+[23-Jul-2014 02:12:44 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/13.php on line 7
+[23-Jul-2014 02:12:50 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/14.php on line 8
+[23-Jul-2014 02:13:28 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/16.php on line 8
+[23-Jul-2014 02:28:11 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/6.php on line 7
+[23-Jul-2014 02:28:21 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/7.php on line 8
+[23-Jul-2014 02:31:33 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/8.php on line 7
+[23-Jul-2014 02:45:39 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/9.php on line 8
+[23-Jul-2014 02:49:50 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 8
+[23-Jul-2014 02:49:50 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[23-Jul-2014 02:49:50 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 10
+[23-Jul-2014 02:52:03 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 8
+[23-Jul-2014 02:52:03 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[23-Jul-2014 02:52:03 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 10
+[23-Jul-2014 02:55:40 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 8
+[23-Jul-2014 02:55:40 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[23-Jul-2014 02:55:40 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/10.php on line 10
+[23-Jul-2014 02:55:58 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/12.php on line 7
+[23-Jul-2014 02:56:54 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/13.php on line 7
+[23-Jul-2014 02:57:20 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/doing-science/20.php on line 8

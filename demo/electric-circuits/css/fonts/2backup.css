@@ -1,0 +1,67 @@
+#animation {
+	overflow: hidden;
+    width: 100px;
+    height: 100px;
+}
+#skateGirl{
+	 position :relative;
+    -webkit-animation: mymove 10s infinite; 
+    animation: mymove 10s infinite;
+    -webkit-animation-duration: 10s; 
+ 	
+}
+
+@-webkit-keyframes mymove {
+    0% {transform: rotateY(180deg) ;left: -300px;}
+    25% { left: 800px;}
+    75% {left: 900px;}
+    100% { transform: rotateY(360deg); left: -300px;} 
+}
+
+
+
+/* if you want to spin your head.. haha.. testing lang
+#skateGirls{
+	 position :relative;
+    -webkit-animation: mymoveRight 6s infinite; 
+    animation: mymoveRight 6s infinite;
+
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(1turn);
+  }
+    }
+@-webkit-keyframes spin {
+  to {
+    -webkit-transform: rotate(1turn);
+  }
+}
+
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 1000ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  animation: spin 1s linear infinite;
+  animation-play-state: paused;
+
+
+ */
+
+
+@keyframes mymove {
+    0% {transform: rotateY(180deg);left: -300px;}
+    25% { left:900px ;}
+  	75%  {left:900px;}
+    100% {transform: rotateY(360deg); left: -300px;} 
+}
+
+@-webkit-keyframes myflip {
+	rotation:;
+}
+
+@keyframes mymovesTest {
+    from {left: 0px;}
+    to {left: 1200px;}
+}

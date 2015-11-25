@@ -1,0 +1,1420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chinese\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Check answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Close me!"
+msgstr "關閉!"
+
+msgid "Close!"
+msgstr "关闭！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小練習 #2"
+
+msgid "Quiz Question #3"
+msgstr "小練習 #3"
+
+msgid "Quiz Question #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #5"
+msgstr "小練習 #5"
+
+msgid "Quiz Question #6"
+msgstr "小練習 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+# Preloader
+msgid "Let's begin."
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "您準備好了,"
+
+msgid "What are natural resources?"
+msgstr "什麼是自然資源？"
+
+msgid "Panning gold in the river..."
+msgstr "在河裡淘金..."
+
+msgid "Preparing your first quick check..."
+msgstr "準備第一個小練習！"
+
+msgid "Changing of matter activities..."
+msgstr "改變物質的活動..."
+
+msgid "Studying matter..."
+msgstr "研究物質..."
+
+msgid "Adding solution to mixtures..."
+msgstr "在混合物裡增加溶液..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你最後一個小練習？"
+
+msgid "Looking at the old pictures..."
+msgstr "看著老照片..."
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+msgid "Words and explanations"
+msgstr "名詞和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在知道的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是......"
+
+msgid "Molecules around us..."
+msgstr "我們周圍的分子..."
+
+msgid "Identifying elements..."
+msgstr "識別元素..."
+
+msgid "Popping water balloon..."
+msgstr "刺破水球..."
+
+msgid "Blending metals..."
+msgstr "混合金屬..."
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Composition of Matter"
+msgstr "物質的組成"
+
+msgid "Welcome to the Composition of Matter review,"
+msgstr "歡迎來到「物質的組成」單元"
+
+# 2
+msgid "Thinking about... the composition of matter"
+msgstr "想一想......關於「物質的組成」"
+
+msgid ""
+"The physical world all around us is made up of many things. We know that "
+"objects have similarities and differences, but have you ever thought about "
+"what makes them similar or different? Scientists and engineers spend a lot "
+"of time studying the similarities and differences in the properties of "
+"materials and use that knowledge to identify and make things and to even "
+"make new materials."
+msgstr ""
+"我們身邊的物理世界是由很多東西所構成的。我們知道，物體之間有異同，但你有沒有"
+"想過是什麼使它們相似或不同的？科學家和工程師們花了很多時間去研究物質性質的異"
+"同並利用這些知識來辨識或製造物品，甚至於去製造新的材料。"
+
+# 3
+msgid "Checking what you know... about the composition of matter"
+msgstr "看看你所知道的...關於「物質的組成」"
+
+msgid ""
+"Look at the list of things below. Choose <span class=\"blink\">all</span> "
+"that are naturally occurring materials—can be found in nature."
+msgstr ""
+"請看以下的物品，它們都是由它們的材料所構成。請問下列哪些物品的材料是天然存"
+"在，也就是說是在自然界中可以找到的。請點選<span class='blink'>所有正確的</"
+"span>選項(複選)。"
+
+msgid "Brass"
+msgstr "黃銅"
+
+msgid "Iron"
+msgstr "鐵"
+
+msgid "Steel"
+msgstr "鋼"
+
+msgid "Gold"
+msgstr "金"
+
+msgid "Plywood"
+msgstr "合板"
+
+msgid "Plastics"
+msgstr "塑料"
+
+msgid "Rubber"
+msgstr "橡膠"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Orange juice"
+msgstr "柳橙汁"
+
+msgid "Peanut butter"
+msgstr "花生醬"
+
+msgid ""
+"Materials such as water, iron and gold are naturally occurring materials. "
+"They can be used just as they are found in nature. But naturally occurring "
+"materials can be made into other things that we use and even eat. For "
+"example, peanuts can be eaten as found or processed into peanut butter. "
+"Using naturally occurring materials and changing them into other things "
+"requires that we know about their composition—what they are made of. "
+"Continue with this review to learn more about the composition of matter."
+msgstr ""
+"這些物質中，例如，水、鐵和金等材料都是天然存在。它們在自然界存在的狀態就可以"
+"直接被拿來使用。但是天然存在的材料，也可以拿來製造成為我們使用的物品或吃的食"
+"物。例如，花生可以直接吃也可以加工成花生醬。如果我們要將天然材料轉變為其它的"
+"物品，那就需要了解它們的組成──也就是它們是什麼做的。請您繼續學習，以了解更多"
+"關於物質的組成的知識。"
+
+# 4
+msgid "Reviewing core ideas... about the composition of matter"
+msgstr "複習核心觀念......關於「物質的組成」"
+
+msgid ""
+"Anything that has mass and takes up space is called <span class=\"key"
+"\">matter</span>. All matter is made up of particles that are too small to "
+"see, called <span class=\"key\">atoms</span>. An atom is the smallest unit "
+"of matter that retains its special properties. Atoms can be measured by "
+"weighing them, or by measuring their effects upon other objects. Different "
+"substances have different <span class=\"key\">compositions</span> or make-up "
+"of atoms. <span class=\"key\">Substances</span> that are composed of one "
+"kind of atom are called <span class=\"key\">elements</span>. For example, a "
+"bar of pure gold is composed of only many, many gold atoms. Silver, iron, "
+"oxygen, and helium are some other examples of elements. There are 94 such "
+"elements found in nature."
+msgstr ""
+"什麼是<span class='key'>物質</span>呢？只要是具有質量且佔有體積，就稱為「物"
+"質」。所有物質都是由小到看不見的粒子所組成，它們被叫做<span class='key'>原子"
+"</span>，原子是保有物質原本性質的最小單位。原子可以藉由重量來測定，也可以藉由"
+"它對於其它物質的作用來分辨。不同的物質具有不同的<span class='key'>組成成分</"
+"span>，或者不同的原子組成。 當一個<span class='key'>物質</span>僅由一種原子組"
+"成，這物質就被稱為是<span class='key'>元素</span>。例如，純金塊就是由很多很多"
+"的單一種金原子組成；銀、鐵、氧和氦也都是元素的例子。在自然界中可以找到94種天"
+"然元素。[下圖是「元素週期表」]"
+
+msgid "Click the image to enlarge the graph."
+msgstr "請點擊「元素週期表」的圖片，放大。"
+
+msgid ""
+"Not all matter is composed of single atoms of the 94 elements. Two or more "
+"atoms of the same element or of different elements can join together to form "
+"what is called a <span class=\"key\">molecule</span>.  For example, the "
+"oxygen that green plants produce and that you breathe consists of two atoms "
+"of oxygen joined together. Water on the other hand is composed of two atoms "
+"of hydrogen and one atom of oxygen."
+msgstr ""
+"不過，並不是所有的物質都是由這94個元素其中一種元素的單原子來組成。 兩個以上相"
+"同或不同的原子還可以結合成<span class='key'>分子</span>：例如，綠色植物製造的"
+"氧氣分子就是由兩個氧原子組成；還有，水分子則是由兩個氫原子和一個氧原子組成。"
+
+msgid ""
+"The 94 naturally occurring atoms make up the matter that we see and use "
+"everyday. Substances that are composed of the atoms of at least two "
+"different elements are called <span class=\"key\">compounds</span>. Table "
+"salt is a compound of atoms of sodium and chlorine. Table sugar is composed "
+"of atoms of carbon, hydrogen and oxygen. Water is not usually thought of as "
+"a compound, but it really is. Can you see why?  Water, salt and sugar are "
+"just three of a seemingly endless list of compounds that are either found in "
+"nature or made by humans."
+msgstr ""
+"這94種天然元素的原子組成了許多我們看到和使用的物質。由兩種或以上不同元素的原"
+"子組成的物質，我們稱它為<span class='key'>化合物</span>。鹽，是鈉和氯原子的化"
+"合物；蔗糖，是碳、氫、氧原子構成的化合物；有的人不知道水也是一種化合物，但它"
+"確實是，你知道為什麼水是化合物嗎？化合物有的是天然的、有的是人造的，種類非常"
+"非常多，水、鹽和糖只不過是其中的三個例子。"
+
+msgid "Water is a compound"
+msgstr "水是一種化合物"
+
+msgid "Table salt is a compound of atoms of sodium and chlorine"
+msgstr "食鹽是鈉原子和氯原子結合的化合物"
+
+msgid "Natural"
+msgstr "天然的"
+
+msgid "Man-made"
+msgstr "人造的"
+
+msgid ""
+"Water, salt and sugar are just a few of the many, many compounds found in "
+"nature. But people make many other compounds by combining two or more "
+"elements or changing the composition of substances. For example, the donuts "
+"or muffins you find in a bakery or grocery store are really "
+"compounds containing substance like flour, yeast and various ingredients "
+"that are changed into the donut or muffin when they are baked. Gasoline is "
+"made by changing the composition of naturally occurring oil."
+msgstr ""
+"水、鹽和糖是存在自然界許多許多化合物中的少數。人們還透過將兩個或多個元素組合"
+"或將物質的組成加以改變的方式製造出許多的化合物。例如，麵包店的甜甜圈或鬆餅中"
+"就是由許多化合物組成，它們是由麵粉、酵母和各種成分在烘培過程所產生的。汽油也"
+"是很多化合物的組成，它也是經過改變天然原油的組合所得到。"
+
+# 5
+msgid ""
+"Question A. Click on the best statement that explains the difference between "
+"an element and a compound."
+msgstr "問題A. 下列何者是說明元素和化合物差別的最好敘述。"
+
+msgid ""
+"Compounds can be solid, liquid, or gas; elements are always in the solid "
+"state."
+msgstr "化合物可以是固體、液體或氣體；元素則是固體。"
+
+msgid ""
+"Elements have more than one type of atom; compounds consist of just one type "
+"of atom."
+msgstr "元素含有多種原子；化合物只有一種原子。"
+
+msgid ""
+"Compounds have more than one type of atom; elements consist of just one type "
+"of atom."
+msgstr "化合物具有一種以上的原子；元素只包含一種原子。"
+
+msgid ""
+"Question B. Mark <span class=\"blink\">all</span> of the following "
+"statements that are <span class=\"blink\">true</span>."
+msgstr ""
+"問題B. 在以下敘述中選取<span class'blink'>所有</span><span class='blink'>正確"
+"</span>的敘述。"
+
+msgid "An element contains only one kind of atom."
+msgstr "元素僅包含一種原子。"
+
+msgid "A compound contains more than one element."
+msgstr "化合物包含多種元素。"
+
+msgid "A compound contains more than one kind of atom."
+msgstr "化合物含有一種以上的原子。"
+
+msgid "There are more unique elements than unique compounds."
+msgstr "元素的種類比化合物種類多。"
+
+msgid ""
+"Nope! Both compounds and elements may exist in solid, liquid, or gaseous "
+"state."
+msgstr "不對喔！化合物和元素都會有固態、液態或氣態狀態。"
+
+msgid ""
+"Nope! Elements consist of only one type of atom; compounds are made of more "
+"than one type of atom."
+msgstr "不對喔！元素只包含一種原子；化合物則是由一種以上的原子組成。"
+
+msgid ""
+"Correct! Elements consist of only one type of atom; compounds are made of "
+"more than one type of atom."
+msgstr "正確！元素只包含一種原子；化合物則是由一種以上的原子組成。"
+
+msgid ""
+"Correct! An element contains only one kind of atom, a compound contains more "
+"than one kind of atom, and there are many more compounds than elements."
+msgstr ""
+"正確！元素只包含一種原子；化合物是由一種以上的原子組成。化合物種類比元素的"
+"多。"
+
+msgid ""
+"Not quite! An element contains only one kind of atom, a compound contains "
+"more than one kind of atom, and there are many more compounds than elements."
+msgstr ""
+"不大對喔！元素只包含一種原子；化合物是由一種以上的原子組成。化合物種類比元素"
+"的多。"
+
+# 6
+msgid "More core ideas... about the composition of matter"
+msgstr "更多核心觀念...關於「物質的組成」"
+
+msgid ""
+"Matter usually exists as a <span class=\"key\">solid</span>, <span class="
+"\"key\">liquid</span>, or <span class=\"key\">gas</span> form. These forms "
+"of matter are referred to as the <span class=\"key\">states of matter</"
+"span>. The elements or compounds in the solid state are bound tightly "
+"together in a fixed, rigid arrangement. So solids have a definite shape and "
+"volume. The elements or compounds in the liquid state are not fixed as in a "
+"solid. The elements and compounds of a liquid can slide around. So liquids "
+"do have a fixed volume but do not maintain a fixed shape. In the gas state "
+"of matter, the elements and compounds are free to move around without even "
+"touching. So a gas has no fixed shape or volume."
+msgstr ""
+"物質能以<span class=\"key\">固態(體)</span>、<span class=\"key\">液態(體)</"
+"span>或<span class=\"key\">氣態(體)</span>的狀態存在，這些形式也被稱為是 "
+"<span class=\"key\">物質的三態</span>。在「固態」中，元素或化合物內的原子或分"
+"子(粒子)緊密結合在一起，形成一個固定剛性粒子無法移動也無法被壓縮的結構；因"
+"此，固體具有一定的形狀和體積。在「液態」中，粒子間也是緊密相鄰無法壓縮，但它"
+"粒子間具可滑動的性質，所以液體具有固定的體積，但它們沒有固定的形狀。在「氣"
+"態」中，元素和化合物的粒子間具有相當大的距離，彼此可以自由快速移動，所以氣體"
+"沒有固定的形狀或體積。"
+
+msgid "solid (ice)"
+msgstr "固態（冰）"
+
+msgid "liquid (liquid water)"
+msgstr "液態（水）"
+
+msgid "gas (water vapor)"
+msgstr "氣態（水蒸氣）"
+
+msgid ""
+"The three main states of matter, are shown for water: solid (ice), liquid "
+"(liquid water), and gas (water vapor). A fourth, called plasma does not "
+"exist in natural conditions, so let's focus on just solid, liquid and gas."
+msgstr ""
+"上圖是物質的三種主要的狀態，以水為例，固態（冰）、液態（水）和氣態（水蒸"
+"氣）。此外，還有第四種稱為「電漿」，但因它在一般條件下並不存在，所以我們只聚"
+"焦於固態、液態和氣態。"
+
+msgid ""
+"Solids, liquids, and gases have properties that can be identified through "
+"observation and measurement. Each substance has a unique mass that can be "
+"measured, and many have unique properties such as color and texture."
+msgstr ""
+"每一個物質都能藉由質量的測量、顏色和質地觀察來描述；物質是固態、液態或氣態，"
+"也能夠藉由觀察和測量來確定。"
+
+msgid "Freezing point"
+msgstr "凝固點"
+
+msgid "Melting point"
+msgstr "熔點"
+
+msgid "Boiling point"
+msgstr "沸點"
+
+msgid "Condensation point"
+msgstr "凝固點"
+
+msgid ""
+"A substance's <span class=\"key\">melting point</span> is the temperature at "
+"which the substance changes from a solid to a liquid. A substance's <span "
+"class=\"key\">boiling point</span> is the temperature at which a substance "
+"changes from a liquid to a gas. A substance's <span class=\"key\">freezing "
+"point</span> is the temperature at which a liquid changes from a liquid to a "
+"solid and is the same temperature as its melting point. Similarly, a "
+"substance's <span class=\"key\">condensation point</span> is the temperature "
+"at which a gas changes to a liquid and is the same temperature as its "
+"boiling point. Substances can often be identified by the temperatures at "
+"which they change between the solid, liquid and gas states. For example, the "
+"normal melting and freezing point of water is 32°F (0°C) and its normal "
+"boiling and condensation point is 212°F (100°C)."
+msgstr ""
+"物質的<span class='key'>熔點</span>是固體變為液體時的溫度；類似的，<span "
+"class='key'>沸點</span>是液體變為氣體、<span class='key'>冷凝點</span>是氣體"
+"變液體、<span class='key'>凝固點</span>是液體變固體時，各當時的溫度。一個物質"
+"的「熔點」和「凝固點」的溫度相同；「沸點」和「冷凝點」的相同。物質通常可以藉"
+"由在固體、液體和氣體狀態間變化時的溫度來進行辨別。例如，水的正常熔點和凝固點"
+"是0℃（32°F）、沸點和冷凝點為100℃（212°F）；如果同樣狀況時，某物質的這些溫度數"
+"據不同，那這物質就不可能是水了。"
+
+msgid ""
+"When certain elements are joined together during a <span class=\"key"
+"\">chemical reaction</span> into compounds, their states of matter and "
+"properties can change radically. For example, water is a liquid that is made "
+"from two gases, oxygen and hydrogen.  Table salt is a solid that is composed "
+"of sodium, a solid, with chlorine, a gas. Ordinary table sugar is composed "
+"of hydrogen, oxygen and carbon--two gases and a solid."
+msgstr ""
+"當某些元素發生<span class='key'>化學反應</span>而結合在一起時，物質狀態和特性"
+"會發生根本上的改變。例如，水是液體，它是由兩種氣體：氧氣和氫氣，反應生成的；"
+"食鹽是固體，是由氣體的氯和固體的鈉所組成；糖是固體，是由碳、氫、氧，也就是1種"
+"固體和2種氣體所反應組成。"
+
+msgid ""
+"In the video clip you can see a chemical reaction between a super absorbent "
+"polymer called sodium polyacrylate and water. The substance absorbs the "
+"water and turns into a gel-like matter some magicians like to call snow."
+msgstr ""
+"在上面的短片中可以看到一種超吸水性的聚合物──聚丙烯酸鈉，它和水之間的化學反"
+"應。這化合物會吸收水變成凝膠狀物質，因為看起來有些像雪花，所以有些魔術師喜歡"
+"稱之為「雪」。"
+
+# 7
+msgid ""
+"Question A. Draw a line between the states of matter on the left to their "
+"descriptions on the right. To do this, click on the button next to the terms "
+"on the left and drag it to the button next to the descriptions on the right. "
+"Click the \"Start Over\" button to remove the lines and connect again."
+msgstr ""
+"問題A. 請將左邊物質狀態與右邊的描述連線。[連線時，請先點擊左框旁邊的按鈕，並"
+"拖動到右邊描述按鈕上。點擊\"重新開始\"按鈕，可刪除連線。]"
+
+msgid "Start Over"
+msgstr "重新開始"
+
+msgid "Gas"
+msgstr "氣體"
+
+msgid "Solid"
+msgstr "固體"
+
+msgid "Liquid"
+msgstr "液體"
+
+msgid "Fixed shape, fixed volume"
+msgstr "固定形狀，固定容量"
+
+msgid "No fixed shape, fixed volume"
+msgstr "沒有固定的形狀，固定容積"
+
+msgid "No fixed shape, no fixed volume"
+msgstr "沒有固定的形狀，沒有固定的體積"
+
+msgid ""
+"Question B. Which of the following is <span class=\"blink\">NOT</span> a way "
+"to uniquely identify an element?"
+msgstr "問題B. 以下哪個<span class=\"blink\">不是</span>辨識元素的方法？"
+
+msgid "Combined mass and volume"
+msgstr "利用它的質量和體積"
+
+msgid "State of matter"
+msgstr "物質三態"
+
+msgid "Not quite! Melting point is a way to uniquely identify an element."
+msgstr "不大對喔！熔點是一種能夠辨識元素的方法。"
+
+msgid "Not quite! Boiling point is a way to uniquely identify an element."
+msgstr "不大對喔！沸點是一種能夠辨識元素的方法。"
+
+msgid ""
+"Not quite! Combined mass and volume is a way to uniquely identify an element."
+msgstr "不大對喔！質量和體積一起，可以是一種能夠辨識元素的方法。"
+
+msgid ""
+"Correct! One cannot uniquely identify an element solely based on its state "
+"of matter."
+msgstr "正確！不能僅根據物質的狀態來辨識元素。"
+
+msgid ""
+"You got it! You've matched them all correctly. Gas has no fixed shape or "
+"fixed volume. Solids have a fixed shape and a fixed volume. Liquids do not "
+"have a fixed shape, but have a fixed volume."
+msgstr ""
+"答對了！你已經完全配對正確。固體有固定的形狀和固定的體積；液體不具有固定的形"
+"狀，但是有一個固定的體積；氣體沒有固定的形狀或固定的體積。"
+
+msgid ""
+"Not quite! Gas has no fixed shape or fixed volume. Solids have a fixed shape "
+"and a fixed volume. Liquids do not have a fixed shape, but have a fixed "
+"volume."
+msgstr ""
+"不大對喔！固體有固定的形狀和固定的體積；液體不具有固定的形狀，但是有一個固定"
+"的體積；氣體沒有固定的形狀或固定的體積。"
+
+# 8
+msgid ""
+"Another category of matter is called a <span class=\"key\">mixture</span>. A "
+"mixture is two or more substances that appear together, but are not "
+"chemically bonded together. Some examples of mixtures are gravel (shown "
+"above), trail mix, salt water, and pond water. The individual substances of "
+"these mixtures can be separated from each other by physical means such as a "
+"filter or sieve."
+msgstr ""
+"在元素、化合物這種「純物質」之外，還有另一類的物質是<span class=\"key\">混合"
+"物</span>。混合物是兩個或兩個以上的純物質混合，但彼此之間並沒有化學鍵將彼此連"
+"結在一起。混合物的例子包括：礫石（如上圖所示，不同石頭混合）、混合乾果(各種乾"
+"果混合的食品)、鹽水(鹽和水)和池塘水(各種雜質和水)等。這些混合物中的各個組成物"
+"質可以透過物理方法，如過濾器或篩子等等，來進行分離。"
+
+msgid ""
+"Mixtures are further classified according to the nature of their "
+"composition. Mixtures with substances that you can tell apart easily without "
+"being completely blended together, are called <span class=\"key"
+"\">heterogeneous mixtures</span>. Gravel, trail mix, and pond water are "
+"examples of heterogeneous mixtures."
+msgstr ""
+"混合物還可以根據它組成的情況進一步分類。沒有混合完全而可以被輕易看到各組成物"
+"質的混合物，稱為<span class=\"key\">不均勻混合物</span>。例子包括：碎石、混合"
+"乾果和池塘水等。"
+
+msgid ""
+"<span class=\"key\">Homogeneous mixtures</span>, on the other hand, are "
+"mixtures with substances that are blended together well. By simply looking "
+"at them, you can't tell them apart, they are not visibly distinguishable "
+"from each other. Examples of homogeneous mixtures are brass (a mixture of "
+"copper and zinc), blood plasma (a mixture of water and various proteins "
+"contained in the blood), and air (a mixture of oxygen, nitrogen, and other "
+"gases)."
+msgstr ""
+"<span class=\"key\">均勻混合物</span>(或叫做「均質混合物」)，則是另外一類混合"
+"物，這種均勻混合物，即便你仔細看著它們，你也無法看到它們各個組成成分。這類例"
+"子有：黃銅（銅和鋅的混合物）、血漿（水和血液中所含的各種蛋白質的混合物）和空"
+"氣（氧、氮和其它氣體的混合物）等。"
+
+msgid ""
+"Brass is a homogeneous mixture. The elements copper and zinc substances are "
+"being casted as a liquid into a mold, where it will cool and turn to a solid "
+"state."
+msgstr ""
+"舉例來說，黃銅的製造，就是將銅和鋅兩種不同的元素加熱溶化後，注入模具中混合，"
+"冷卻後變回固態所形成的。"
+
+msgid ""
+"A <span class=\"key\">solution</span> is a homogeneous mixture with "
+"substances that have very small particles that are blended together "
+"extremely well. Solutions remain uniformly mixed and their components cannot "
+"be distinguished from one another even under a microscope. Examples of "
+"solutions are lemonade, tea, vinegar and salt water. Substances that are in "
+"solution cannot be separated by filters or sieves."
+msgstr ""
+"生活上常會說到「溶液」，一般都指兩種物質混合形成的「液體混合物」；但在科學上"
+"所謂的<span class=\"key\">溶液</span>，指的是只要由兩種或以上的物質混合就可叫"
+"「溶液」，它可以是固、液、或氣態。溶液又可分為「真溶液」和「假溶液」。要能被"
+"稱作是「真溶液」，一定要彼此混合時是以非常小的物質顆粒充分混合形成的「均勻混"
+"合物」，因為它們混合的非常均勻，所以即使用顯微鏡也無法辨識個別的成分。真溶液"
+"的例子包括：檸檬水、茶、醋和鹽水，真溶液中的物質不能透過濾器或篩網進行分離。"
+"經常，「真溶液」被簡稱做「溶液」。"
+
+msgid ""
+"Now that we have looked at homogenous mixtures, heterogeneous mixtures, and "
+"solutions... we are going to review <span class=\"key\">colloids</span> and "
+"<span class=\"key\">suspensions</span>. A colloid is a type of mixture in "
+"which the particles making up the colloid are larger than those of a "
+"solution, but small enough to not settle or separate. Fog and smoke are "
+"examples of colloids."
+msgstr ""
+"我們已經看過「均勻混合物」、「不均勻混合物」。「均勻混合物」屬於「真溶液」，"
+"而「不均勻混合物」則屬於「假溶液」。<span class=\"key\">假溶液</span>，還包含"
+"<span class=\"key\">膠體溶液</span>和<span class=\"key\">懸浮溶液</span>。所"
+"謂「膠體溶液」，它組成物質的粒子比真溶液中顆粒的粒子來得大，但卻不會大到會沉"
+"澱或分離；所以能以稍大顆粒的形式長時間的懸浮在膠體之中。牛奶、巧克力糖、霧和"
+"煙霾都是膠體溶液的例子。那麼「懸浮液」又是甚麼呢？[請點選圖片右邊的箭頭。]"
+
+msgid ""
+"A colloid is different from a <span class=\"key\">suspension</span>. A "
+"suspension is a heterogeneous mixture containing particles that are large "
+"enough to settle out and separate from each other. For example, sand in "
+"water is a suspension. Though sand may be placed in water and stirred, "
+"eventually the sand will settle on the bottom of the water. Oil and water is "
+"another example of a suspension. When you mix oil and water in a jar and "
+"then shake it, a cloudy suspension is formed. If you let the mixture rest, "
+"the oil and water will separate."
+msgstr ""
+"<span class=\"key\">懸浮溶液</span>和膠體溶液，雖然都是「假溶液」，但它們還是"
+"有所不同。「懸浮物」中的顆粒比「膠體」的要大，所以這些較大的顆粒一小段時間就"
+"會沉澱出來或彼此分離開。例如，沙和水混合物是一種「懸浮溶液」，因為，雖然沙在"
+"水中可攪拌而短暫混合，但沙子會很快地沉澱在水的底部。再舉一例，油和水混合物，"
+"當你在一個罐子裡裝入油和水，搖晃它時會形成混濁的懸浮液，但如果停下來，油和水"
+"很快就會分離開的，所以它也是「懸浮溶液」。"
+
+msgid ""
+"The parrots in the picture you see show animals living in a new ecosystem "
+"without adapting. Parrots were brought to the Hawaiian Islands as pets and "
+"were either released or escaped. Hawaii turns out to be excellent habitat "
+"for parrots and they have reproduced in the wild. Unfortunately, many native "
+"Hawaiian birds have difficulty competing with parrots for food and are "
+"nearing extinction. Plants or animals living in wild spaces outside their "
+"native ranges, such as these parrots now found in Hawaii, are known as <span "
+"class=\"key\">invasive species</span>. Invasive species create problems for "
+"native species either by preying upon the natives for food, or by out-"
+"competing them for food and other resources."
+msgstr ""
+"在圖片中的鸚鵡顯示不適應在新的生態系的動物生活。鸚鵡被帶到了夏威夷群島作為寵"
+"物，被放生或逃脫。夏威夷成為鸚鵡很好的棲息地，並在野外繁殖。不幸的是，許多本"
+"土的夏威夷鳥無法與鸚鵡爭食，已接近滅絕。植物或動物生活在自己的本土範圍外，如"
+"這些鸚鵡現在在夏威夷發現，被稱為<span class=\"key\">外來物種</span>。外來物種"
+"入侵對本地物種製造問題，無論是捕食當地物種或與它們競逐食物和其它資源。"
+
+# 9
+msgid ""
+"Question A. Click on the term matching a homogeneous mixture that has very "
+"small particles that are blended together extremely well."
+msgstr ""
+"問題A. 下列何者是「由非常微小顆粒充分混合形成的均勻混合液」，請點選正確選項。"
+
+msgid "Colloid"
+msgstr "膠體"
+
+msgid "Suspension"
+msgstr "懸浮溶液"
+
+msgid "Element"
+msgstr "元素"
+
+msgid "Solution"
+msgstr "溶液"
+
+msgid ""
+"Question B. Click on the term matching a heterogeneous mixture containing "
+"particles that are large enough to settle out and separate from each other."
+msgstr ""
+"問題B. 下列何者是「由較大的物質顆粒混合成的非均勻溶液，且這些較大顆粒會沉澱或"
+"彼此分離」，請點選正確選項。"
+
+msgid ""
+"Question C. Look at the plain vanilla ice cream and strawberry ice cream "
+"shown. Click on the term that best describes each one."
+msgstr "問題C. 下圖分別是純香草冰淇淋和草莓冰淇淋。請點選最能代表它們的名詞。"
+
+msgid "Homogeneous"
+msgstr "均勻混合物"
+
+msgid "Heterogenous"
+msgstr "不均勻混合物"
+
+msgid "Heterogeneous"
+msgstr "不均勻混合物"
+
+msgid ""
+"Nope! A colloid is a type of mixture in which the particles making up the "
+"colloid are larger than those of a solution, but small enough to not settle "
+"or separate."
+msgstr ""
+"不對喔！膠體是一類混合物，其中構成該膠體的粒子比溶液的大，但小到不會沉降或分"
+"離。"
+
+msgid ""
+"Nope! A suspension is a heterogeneous mixture containing particles that are "
+"large enough to settle out and separate from each other."
+msgstr ""
+"不對喔！懸浮物是一種含有顆粒大到足以沉澱出來或造成彼此分離的異質混合物。"
+
+msgid ""
+"Nope! An element is a type of substance composed of just one type of atom."
+msgstr "不對喔！元素僅由一種原子所組成，它是純物質。"
+
+msgid ""
+"Correct! A solution is a homogeneous mixture that has very small particles "
+"that are blended together extremely well."
+msgstr ""
+"正確！一種由非常微小顆粒充分混合形成的均勻混合液，是真溶液，或者可簡稱叫溶"
+"液。"
+
+msgid ""
+"Correct! A suspension is a heterogeneous mixture containing particles that "
+"are large enough to settle out and separate from each other."
+msgstr "正確！懸浮物是一種含有顆粒大到足以沉澱出來並彼此分離的異質混合物。"
+
+msgid ""
+"Nope! A solution is a homogeneous mixture that has very small particles that "
+"are blended together extremely well."
+msgstr "不對喔！溶液是均勻的混合物，其中非常小的顆粒物質，混合的非常均勻。"
+
+msgid ""
+"Correct! The ice cream on the left is considered to be homogeneous because "
+"its particles are not visibly separated. The ice cream on the right is "
+"considered to be heterogeneous because the strawberries are visibly "
+"distinguishable from the ice cream."
+msgstr ""
+"對！左側的冰淇淋混合在一起看不到顆粒的分離，這或可算是均勻混合物。右側的冰淇"
+"淋是不均勻混合物的因為我們可以清楚地看到草莓和冰是分離的。"
+
+msgid ""
+"No! The ice cream on the left is considered to be homogeneous because its "
+"particles are not visibly separated. The ice cream on the right is "
+"considered to be heterogeneous because the strawberries are visibly "
+"distinguishable from the ice cream."
+msgstr ""
+"不對喔！左側的冰淇淋混合在一起看不到顆粒的分離，這或可算是均勻混合物。右側的"
+"冰淇淋是不均勻混合物的因為我們可以清楚地看到草莓和冰是分離的。"
+
+msgid ""
+"Not quite! The ice cream on the left is considered to be homogeneous because "
+"its particles are not visibly separated. The ice cream on the right is "
+"considered to be heterogeneous because the strawberries are visibly "
+"distinguishable from the ice cream."
+msgstr ""
+"不完全對喔！左側的冰淇淋混合在一起看不到顆粒的分離，這或可算是均勻混合物。右"
+"側的冰淇淋是不均勻混合物的因為我們可以清楚地看到草莓和冰是分離的。"
+
+# 10
+msgid ""
+"Using what you know... about the composition of matter... to solve a problem"
+msgstr "運用你所知道......關於「物質的組成」......解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"The fountain in the town's park that has always been clean and clear, has "
+"become murky (dark and not clear). Some people think the murkiness is just a "
+"temporary condition caused by particles being washed into the pond by recent "
+"heavy rains. Others are worried that something has gotten into the water "
+"that will not allow the water to clear up on its own."
+msgstr ""
+"在鎮上的公園的水池以往是乾淨和清澈的，但現在已經變得混濁。有些人認為混濁僅僅"
+"是最近的暴雨將髒東西顆粒沖入池塘的短暫現象，它們認為只要過一段時間，流水自然"
+"就會把髒東西帶走；不過也有其他人擔心，這是水池自己產生髒東西所造成，無法靠著"
+"自然的方式變得澄清。"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"You have been hired as a consultant to help the townsfolk figure out what "
+"has happened to the pond water. Using what you know about the composition "
+"and characteristics of different kinds of mixtures, prepare a report "
+"describing what kind of tests can be done to determine if the murky water "
+"condition will clean up by itself or if it is a more serious condition that "
+"will take some specific action. Type your report in the text box provided."
+msgstr ""
+"你被聘為顧問，幫助居民弄清楚池塘水到底怎麼了！請運用你對不同種類混合物的組成"
+"和特點的了解，準備一份報告來描述可以進行什麼測試，以確定混濁的水能否自己變回"
+"清澈或者這是一個比較嚴重的情況而需要居民開始進行一些清除行動。請在空白處輸"
+"入，你建議怎樣進行測試。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+# 11
+msgid "Summarizing core ideas... about the composition of matter"
+msgstr "總結核心觀念......關於「物質的組成」"
+
+msgid ""
+"<span class=\"key\">Matter</span> is made of <span class=\"key\">atoms</"
+"span>, and categorized according to its composition. Matter that is composed "
+"of only one kind of atom is known as an <span class=\"key\">element</span>. "
+"Those <span class=\"key\">substances</span> with two or more kinds of atoms "
+"are called <span class=\"key\">compounds</span>. Matter usually exists in "
+"one of three states: <span class=\"key\">solid</span>, <span class=\"key"
+"\">liquid</span>, or <span class=\"key\">gas</span>. Each state of matter "
+"has general properties of shape and volume that may be used to uniquely "
+"identify the state. Properties such as <span class=\"key\">melting-freezing</"
+"span> and <span class=\"key\">boiling-condensation</span> points can be "
+"further used to identify specific substances. The properties of substances "
+"change greatly when substances interact chemically. A <span class=\"key"
+"\">mixture</span> on the other hand is a type of matter in which the "
+"substances composing it do not interact chemically. Mixtures are classified "
+"as <span class=\"key\">heterogeneous</span>, in which their substances are "
+"easily distinguishable, and <span class=\"key\">homogeneous</span>, in which "
+"the composing substances are well blended and not easily distinguishable. An "
+"alloy is a homogeneous mixture of metals and a <span class=\"key\">solution</"
+"span> is a homogeneous mixture of extremely small particles, "
+"indistinguishable even using a microscope. Finally, <span class=\"key"
+"\">colloids</span> are solutions with larger particles that are small enough "
+"not to settle out and separate from each other, while <span class=\"key"
+"\">suspensions</span> are mixtures of particles that are large enough to "
+"settle out and separate from each other."
+msgstr ""
+"<span class=\"key\">物質</span>由<span class=\"key\">原子</span>所組成。僅由"
+"一種原子組成的物質被稱為<span class=\"key\">元素</span> ；由兩種以上的原子組"
+"成的物質被稱為<span class=\"key\">化合物</span> 。元素和化合物都屬於<span "
+"class=\"key\">純物質</span>中。物質通常以三種狀態之一存在： <span class=\"key"
+"\">固態</span> ， <span class=\"key\">液態</span> 或<span=\"key\">氣態</"
+"span> 。物質都有形狀和體積，這些是物質的屬性；<span class='key'>熔點</span>、"
+"<span class='key'>凝固點</span>和<span class='key'>沸點</span>、<span "
+"class='key'>冷凝點</span>也是物質的屬性，它們可以用來辨識特定的物質。物質發生"
+"化學作用時，物質的性質發生很大變化；但物質混合成<span class=\"key\">混合物</"
+"span>時 ，並不是進行化學變化。混合物中有一種是「真溶液」，也就是<span class="
+"\"key\">均勻混合物</span> ，它的組成物質粒子充分混合，所以不容易分辨看出各個"
+"組成；合金屬於均勻混合物，它也是一種<span class=\"key\">溶液</span>，不同金屬"
+"原子間以非常小的顆粒充分混合，用顯微鏡也無法區分組成的均勻混合物。另一種則是"
+"「假溶液」，包括：<span class=\"key\">非均勻混合物</span> ，它的組成物質粒子"
+"很容易在混合物中被看得到；此外，還有 <span class=\"key\">膠體溶液</span>，具"
+"有稍大的物質顆粒但這些顆粒還不至於沉降並相互分離；<span class=\"key\">懸浮溶"
+"液</span>，它物質顆粒很大，很快就會沉降並彼此分離。"
+
+# 12
+msgid "Reviewing key vocabulary related to... the composition of matter"
+msgstr "複習重要名詞......關於「物質的組成」"
+
+msgid "Composition"
+msgstr "組成"
+
+msgid "Matter"
+msgstr "物質(物體)"
+
+msgid ""
+"Anything that has mass and takes up space is called matter. All matter is "
+"made up of particles that are too small to see, called atoms."
+msgstr ""
+"凡是有質量並佔用空間的，稱為「物質」。物體都是由物質構成，而物質都是由小到無"
+"法看見的粒子──原子，所組成，"
+
+msgid "Atom"
+msgstr "原子"
+
+msgid ""
+"All things—both living and nonliving—are made up of atoms. An atom is the "
+"smallest possible part of a type of material. For example, you could have an "
+"atom of copper or an atom of oxygen."
+msgstr ""
+"所有的物質，無論生物或非生物，都是由「原子」組成的。元素是由單一種的「原子」"
+"所構成，所以將元素不斷分割，一直到還具有原來性質的最小粒子，就是「原子」。銅"
+"有銅原子、氧有氧原子，各種元素都有它們各自的「原子」。"
+
+msgid ""
+"Different things are made of different atoms. Things that are big enough to "
+"see are made from a very large number of atoms. You would need a special "
+"microscope, called an electron microscope, to see one atom."
+msgstr ""
+"不同的物質是由不同原子構成的。我們看的見的物質都是由大量的原子組成。現在，科"
+"學家已經可以用一種特殊的顯微鏡──電子顯微鏡，看見原子。"
+
+msgid "Substance"
+msgstr "物質"
+
+msgid ""
+"A substance is a basic form of matter that has mass and certain "
+"characteristics. For example, water is one type of substance and salt is "
+"another type."
+msgstr "「物質」具有質量、體積和其它一些特徵。水是一種物質，鹽也是。"
+
+msgid ""
+"A substance can be a solid, liquid, or a gas. A substance can also change "
+"its form. For example, water is a substance that can change into ice or "
+"steam."
+msgstr ""
+"物質可能是固態、液態或氣態。物質的「三態」可以改變。例如，水是一種物質，能轉"
+"變成冰或水蒸汽。"
+
+msgid ""
+"In science, the word composition means something very different than it does "
+"in writing class. In science, a composition is what you get when you put "
+"things together to make something new or different."
+msgstr ""
+"「組成」，指的是一種物質的各種成分。在英文裡「組成」叫做composition，也是「作"
+"文」的意思。"
+
+msgid ""
+"There are different ways to make new compositions or new things. For "
+"example, a milk shake is a composition of milk and ice cream. Music is a "
+"composition of sounds. A composition always has two or more pieces or parts."
+msgstr ""
+"人們用不同的方法做出具有新組成的東西。例如，奶昔是牛奶和冰淇淋的新組成；音樂"
+"是很多聲音的組成。組合物總是有兩個以上的成分。"
+
+msgid ""
+"An element is a pure substance. This means that it cannot be separated into "
+"other substances. As of 2008, scientists know of a total of 117 elements. Of "
+"these 117 elements, 94 of them occur naturally on Earth. Some elements that "
+"you might be familiar with are: gold, oxygen, and aluminum."
+msgstr ""
+"「元素」是「純物質」裡的一種，這代表元素已經無法被分離成其它物質。截至2008"
+"年，科學家知道一共有117個元素，這些元素中94個是天然的，其餘都是人造的。你可能"
+"熟悉一些元素，例如：金、氧和鋁等等。"
+
+msgid ""
+"Many of the substances found on Earth are made up of more than one element. "
+"For example, water is made up of two elements—hydrogen and oxygen."
+msgstr ""
+"「元素」和「元素」可以相互結合排列成新的物質，許多地球上發現的物質是由一個以"
+"上的元素組成。例如，水是由兩個元素──氫和氧，組成。"
+
+msgid "Compound"
+msgstr "化合物"
+
+msgid ""
+"A compound is made up of two or more different materials called elements. "
+"Most of the things you eat, use, and see everyday are compounds."
+msgstr ""
+"「化合物」，是由兩種或以上不同的元素組成。大部分吃的、用的、日常所見的東西都"
+"是化合物。"
+
+msgid ""
+"The food you eat is made from different compounds. The compounds in food "
+"contain things that help keep your body healthy and strong."
+msgstr ""
+"你吃的食物是由不同的化合物製成。食物中的化合物含有一些對身體有益並能讓你保持"
+"健康和強壯。"
+
+msgid "Molecules"
+msgstr "分子"
+
+msgid ""
+"Molecules are the smallest parts of living and nonliving things that can be "
+"recognized. Many molecules make up a tiny drop of water."
+msgstr ""
+"有些物質是由原子所構成，但有些是由「分子」構成，例如水就是由水分子所構成，"
+"「分子」也是組成生物和非生物的重要粒子。由分子組成的物質，在不斷切割後可以被"
+"識別的最小的部分，就是「分子」。一小滴水中就含有許多、許多分子。"
+
+msgid ""
+"Things that are solid, such as ice, have molecules that are close together "
+"and not moving. Things that are liquid, such as water, have molecules that "
+"move freely. Tiny molecules of gases also float around in the air. Molecules "
+"make up everything."
+msgstr ""
+"「固體」，例如冰塊，分子緊緊相靠彼此無法移動；液體，例如水，具有彼此距離相近"
+"但可以自由移動的水分子；氣體，例如水蒸氣，水分子間距離遙遠且在空間中可任意快"
+"速的移動。"
+
+msgid ""
+"A solid is one of the three states of matter. The elements or compounds in "
+"the solid state are bound tightly together in a fixed, rigid arrangement. So "
+"solids have a definite shape and volume."
+msgstr ""
+"「固態」是物質三態之一。在固態中的元素或化合物的粒子彼此互相緊密束縛形成一個"
+"固定剛性的結構。因此，固體具有一定的形狀和體積。"
+
+msgid ""
+"A liquid is one of the three states of matter. The elements or compounds in "
+"the liquid state are not fixed as in a solid. The elements and compounds of "
+"a liquid can slide around each other. So liquids have a fixed volume but do "
+"not maintain a fixed shape."
+msgstr ""
+"液態也是物質三態中的一種。粒子間也是緊密相鄰，但不像固態般彼此束縛固定，液態"
+"的粒子間具有可滑動的性質，所以液體具有固定的體積，但它們沒有固定的形狀。"
+
+msgid ""
+"A gas is one of the three states of matter. There are three different forms "
+"that matter can take: solid, liquid, and gas. Unlike solids and liquids, "
+"gases float in the air and are difficult or impossible to see."
+msgstr ""
+"「氣態」是物質三態之一。在氣態狀態下的元素或化合物，粒子間距離非常遙遠且不緊"
+"密束縛，快速在空間移動。所以，氣體沒有固定的體積也沒有固定的形狀。"
+
+msgid ""
+"Oxygen is a kind of gas. So is water vapor. So is a kind of fuel called "
+"natural gas, which many people use to heat their homes and cook their food."
+msgstr "氧、水蒸氣、天然氣都是氣體。"
+
+msgid "States of matter"
+msgstr "物質的狀態"
+
+msgid ""
+"When we talk about the states of matter, we are talking about the different "
+"forms that matter can take. There are three states of matter: solid, liquid, "
+"and gas."
+msgstr "當我們談論物質的狀態，我們常指的是物質「三態」：固態、液態和氣態。"
+
+msgid ""
+"Everything around us takes one of these three states. For example, a chair "
+"is a solid. Milk is a liquid. And air is a gas."
+msgstr "我們周遭都是這三態中的一種。例如，椅子是固體、牛奶是液體、空氣是氣體。"
+
+msgid ""
+"The melting point is the temperature at which a solid turns to a liquid. "
+"Different substances have different melting points."
+msgstr ""
+"「熔點」是指一個物質從固體變成液體的溫度。兩種物質的熔點如果不同，它們就是不"
+"同的物質。"
+
+msgid ""
+"For example, the melting point of an ice cube is 32°F (0°C). But a material "
+"called tungsten, which is used in light bulbs, has a melting point of 6170°F "
+"(3410°C). The high melting point of tungsten makes it possible to use in a "
+"light bulb without melting when the light is turned on."
+msgstr ""
+"例如，冰塊的熔點為0℃（32°F）；但有些電燈泡的鎢，具有3410℃（6170°F）的熔點。熔"
+"點不同，物質一定不同。"
+
+msgid ""
+"The boiling point is the temperature at which a liquid begins to turn into a "
+"gas. When a liquid starts bubbling, it has reached its boiling point."
+msgstr ""
+"「沸點」是指一個物質從液態變成氣態時的溫度。我們常看到液體開始沸騰的現象，這"
+"時它就是已經達到其沸點。"
+
+msgid ""
+"Different liquids have different boiling points. For example, the boiling "
+"point of water is 212°F (100°C). But the boiling point of olive oil is 572°F "
+"(300°C). Also, changes in air pressure can affect the boiling point of "
+"liquids. If you are up in the mountains where there is less air pressure, "
+"liquids will boil at lower temperatures than if you were at sea level."
+msgstr ""
+"不同的液體常具有不同的沸點。例如，水的沸點為100℃（212°F）；但是橄欖油的沸點為"
+"300℃（572°F）。另外，空氣壓力的變化會影響液體的沸點，如果你在空氣稀薄的山上，"
+"液體的沸點就會變得比在海平面時低。"
+
+msgid "Chemical reaction"
+msgstr "化學反應"
+
+msgid ""
+"When certain elements are joined together during a chemical reaction into "
+"compounds, their states of matter and properties can change radically. For "
+"example, the gases oxygen and hydrogen, when they join chemically in a "
+"chemical reaction, form liquid water."
+msgstr ""
+"當某些元素貨物質進行「化學反應」形成化合物，它物質的狀態和特性會產生根本的變"
+"化。例如，氧氣和氫氣進行化學反應形成化學鍵結，就形成了水。"
+
+msgid "Mixture"
+msgstr "混合物"
+
+msgid ""
+"You make a mixture by combining two or more things. For example, to make "
+"cookies, you must make a mixture of flour, sugar, butter, and eggs. If you "
+"leave an ingredient out, the mixture will be wrong, and the cookies may not "
+"taste the way they are supposed to."
+msgstr ""
+"當我們將兩個或以上的物質混合就會形成「混合物」。例如，做餅乾，你必須先將麵"
+"粉、糖、奶油和雞蛋混合成混合物。如果少了其中一種成分，那餅乾可能就沒有它應有"
+"的味道了。"
+
+msgid "Heterogeneous mixtures"
+msgstr "不均勻混合物"
+
+msgid ""
+"Mixtures whose substances are easily distinguishable, not being completely "
+"blended together, are called heterogeneous mixtures. Gravel, trail mix, and "
+"pond water are examples of heterogeneous mixtures."
+msgstr ""
+"「不均勻混合物」是指一些混合物它們的組成沒有辦法均勻混合，所以很容易能分辨"
+"(看)出裡面的不同物質。碎石堆、乾果(混合的乾果)，和池塘水都是不均勻混合物的例"
+"子。"
+
+msgid "Homogeneous mixtures"
+msgstr "均勻混合物"
+
+msgid ""
+"Homogeneous mixtures, on the other hand, are mixtures whose substances are "
+"blended together well, such that they are not visibly distinguishable from "
+"each other. Examples of homogeneous mixtures are brass (a mixture of copper "
+"and zinc), blood plasma (a mixture of water and various proteins contained "
+"in the blood), and air (a mixture of oxygen, nitrogen, and other gases)."
+msgstr ""
+"「均勻混合物」，是物質均勻混合的混合物，所以個別物質的組成無法目視辨認。「均"
+"勻混合物」的例子有黃銅（銅和鋅的混合物）、血漿（水和血液中所含的各種蛋白質的"
+"混合物）和空氣（氧、氮和其它氣體的混合物）。"
+
+msgid ""
+"A solution is a mixture of two or more things in which one of the things "
+"seems to disappear in the other."
+msgstr "「溶液」是兩個或以上的物質形成的混合物。"
+
+msgid ""
+"To make hot chocolate, you make a solution of chocolate powder and hot "
+"water. When you stir the powder and water together, the powder separates "
+"into tiny particles and spreads out in the water. If you stir it well "
+"enough, every part of the mixture will have the same amount of chocolate in "
+"it. This mixture is called a solution."
+msgstr ""
+"我們沖泡熱巧克力飲料時，也就是將巧克力粉和熱水混合形成「溶液」。當你把粉末和"
+"水攪拌在一起，粉末形成微小顆粒並溶在水中。"
+
+msgid ""
+"A colloid is a type of mixture in which the particles making up the colloid "
+"are larger than those of a solution, but small enough to not settle or "
+"separate."
+msgstr ""
+"膠體溶液也是一種混合物，其中構成該膠體的粒子較大，但還不至於沉降或分離。"
+
+msgid "Milk, fog, and smoke are examples of colloids."
+msgstr "牛奶、霧和煙霾是膠體的例子。"
+
+msgid ""
+"A suspension is a heterogeneous mixture containing particles that are large "
+"enough to settle out and separate from each other. For example, sand in "
+"water is a suspension."
+msgstr ""
+"「懸浮溶液」是一種顆粒大到足以沉澱出來並彼此分離的非均勻混合物。例如，有沙的"
+"水，是一種懸浮溶液。"
+
+msgid "Freezing Point"
+msgstr "凝固點"
+
+msgid ""
+"The temperature and pressure at which a particular liquid undergoes a phase "
+"change into a solid. This temperature and pressure also corresponds with a "
+"compound's melting point. An example would be that under one atmosphere of "
+"pressure, liquid water freezes into ice at 0°C or 32°F."
+msgstr ""
+"一個物質在固定的的溫度和壓力下，從液體變成固體時的溫度就叫做「凝固點」。凝固"
+"點的溫度和熔點的溫度是一樣的。舉一個例子，水在一個大氣壓力下，從液態水凍結成"
+"冰塊時的溫度是0℃(32°F)，反過來，冰塊也在同樣的溫度融化成水。所以，水的凝固點"
+"和熔點是一樣的，其它物質的凝固點和熔點也都相同。"
+
+msgid "Condensing Point"
+msgstr "冷凝點"
+
+msgid ""
+"The temperature and pressure at which a particular gas undergoes a phase "
+"change into a liquid. This temperature and pressure also corresponds with a "
+"compound's boiling point. An example would be that under one atmosphere of "
+"pressure, water vapor condenses into liquid water at 100°C or 212°F."
+msgstr ""
+"一個物質在固定的的溫度和壓力下，從氣體變成液體時的溫度就叫做「冷凝點」。冷凝"
+"點的溫度和沸點的溫度是一樣的。舉一個例子，水在一個大氣壓力下，從氣體的水沸騰"
+"成水蒸氣時的溫度是100℃(212°F)，反過來，水蒸氣也在同樣的溫度冷凝成水。"
+
+# 13
+msgid "Checking what you now know... about the composition of matter"
+msgstr "檢查你現在知道......關於「物質的組成」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了後，請繼續。"
+
+# 14
+msgid "Choose from the items to select your answer."
+msgstr "從選項中選擇你的答案。"
+
+msgid "Molecules that contain the same type of atoms are molecules of"
+msgstr "有一種物質，它的分子是由相同種類的原子所組成，這種分子屬於："
+
+msgid "an element"
+msgstr "元素"
+
+msgid "a compound"
+msgstr "化合物"
+
+msgid "An example is"
+msgstr "這樣的一個例子是："
+
+msgid "chlorine gas"
+msgstr "氯氣"
+
+msgid "water"
+msgstr "水"
+
+msgid "oxygen gas"
+msgstr "氧氣"
+
+msgid "carbon dioxide"
+msgstr "二氧化碳"
+
+msgid ""
+"That's correct! Oxygen is an element and it is composed of only Oxygen atoms."
+msgstr "這 是正確的！氧是一種元素，僅由氧原子組成。"
+
+msgid ""
+"That's correct! Chlorine is an element and it is composed of only Chlorine "
+"atoms."
+msgstr "這 是正確的！氯是一種元素，僅由氯原子組成。"
+
+msgid "Great job! carbon dioxide is compound, made of different elements."
+msgstr "答 的好！二氧化碳是化合物，由不同的元素組成。"
+
+msgid "Great job! Water is a compound, made of different elements."
+msgstr "答 的好！水是化合物，由不同的元素組成。"
+
+msgid ""
+"Not quite! An element is made up of the same type of atom while a compound "
+"is made up of two or more elements. Chlorine and Oxygen are elements but "
+"Water and Carbon dioxide are compounds."
+msgstr ""
+"不 大對喔！元素是由相同種類的原子組成，而化合物是由兩種或以上的元素組成。氯和"
+"氧是元素，但水和二氧化碳是化合物。"
+
+# 15
+msgid "Which of these substances is an element?"
+msgstr "下列哪些物品，它們的材料是一種的元素？"
+
+msgid "Copper"
+msgstr "銅"
+
+msgid "Plastic"
+msgstr "塑膠"
+
+msgid "Sugar"
+msgstr "糖"
+
+msgid ""
+"Nope! Steel is a special mixture called an \"alloy\". Steel is made mostly "
+"of iron with a small amount of carbon added."
+msgstr ""
+"不對喔！鋼，是一種合金，合金是一種特殊的混合物。鋼的主要成分是鐵，添加上少量"
+"的碳。"
+
+msgid ""
+"Correct! An element is made up of the same type of atom. Copper is an "
+"element."
+msgstr "正確！元素是由一種的原子組成。銅是一種元素。"
+
+msgid ""
+"Nope! Plastic is a compound blend of many elements including chains of "
+"carbon."
+msgstr "不對喔！塑料是許多元素組成，它是包括碳和其它元素的化合物。"
+
+msgid "Nope! Sugar is a compound made up of carbon, hydrogen, and oxygen."
+msgstr "不對喔！糖是碳、氫和氧的化合物。"
+
+# 16
+msgid "What term best describes water?"
+msgstr "下列何者是有關「水」的最好敘述？"
+
+msgid "Heterogeneous mixture"
+msgstr "非均勻混合物"
+
+msgid "Homogeneous mixture"
+msgstr "均勻混合物"
+
+msgid "Molecule"
+msgstr "分子"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr "[向上或向下翻轉方盒子選擇你的答案。點選、按住並同時滑動滑鼠。]"
+
+msgid ""
+"Not quite! Water by itself is not a mixture unless it is mixed with "
+"something else."
+msgstr "不大對喔！水本身並不是一個混合物，除非它與別的東西混合。"
+
+msgid ""
+"Not quite! Water is a compound, including two elements hydrogen and oxygen."
+msgstr "不大對喔！水是一種化合物，包含氫和氧。"
+
+msgid "Correct! Water is a compound, a particle of water is a molecule."
+msgstr "正確！水是一種化合物，水的粒子是一種分子。"
+
+# 17
+msgid ""
+"Below is a composition chart of brass. What term describes this blending of "
+"metals?"
+msgstr "下面何者是有關「黃銅」的最恰當的描述？"
+
+msgid "None of the above"
+msgstr "以上都不是"
+
+msgid ""
+"Nope! A suspension is a mixture containing large particles that eventually "
+"settle."
+msgstr "不對喔！懸浮溶液是含有大顆粒的混合物，它的顆粒短時間內就會沉降或分離。"
+
+msgid ""
+"Nope! A heterogeneous mixture is one that has easily distinguishable "
+"particles."
+msgstr "不對喔！不均勻混合物可以非常容易分辨組成內的粒子。"
+
+msgid "Nope! A molecule is the particle of a compound of two or more atoms."
+msgstr "不對喔！分子是兩種或以上的原子組成的粒子。"
+
+msgid ""
+"Correct! Brass is a mixture of copper and tin. It is an \"alloy\", not a "
+"compound."
+msgstr "答得好！黃銅，是一種合金，合金是一種特殊的混合物，它不是化合物。"
+
+# 18
+msgid ""
+"Select the <span class=\"blink\">true</span> statement regarding elements."
+msgstr "請點選關於<span class='blink'>元素</span>的正確敘述。"
+
+msgid "Periodic Table of Elements"
+msgstr "元 素週期表"
+
+msgid "All 117 elements are man-made."
+msgstr "所有的117個元素都是人造。"
+
+msgid "All 117 elements are naturally found."
+msgstr "所有的117個元素都是自然存在。"
+
+msgid "The majority of elements are man-made."
+msgstr "大多數元素都是人造的。"
+
+msgid "The majority of elements are naturally found."
+msgstr "大多數元素都是自然存在。"
+
+msgid "Click the image to enlarge."
+msgstr "點擊圖片放大。"
+
+msgid "Not quite! There are 117 elements, but only 23 of them are man-made."
+msgstr "不大對喔！有117種元素，但其中只有23種是人造的。"
+
+msgid "Nope! There are 117 elements, but only 94 of them are found in nature."
+msgstr "不對喔！有117種元素，但其中只有94種是天然的。"
+
+msgid ""
+"Not quite! The majority of the elements (94 out of 117) are found in nature, "
+"only 23 are man-made."
+msgstr "不大對喔！大部分元素（117中有94個）是天然的，只有23個是人造的。"
+
+msgid ""
+"Correct! The majority of the elements (94 out of 117) are found in nature."
+msgstr "正確！多數元素（117中有94個）是天然的。"
+
+# 19
+msgid ""
+"Below you will find a chart comparing the properties of a suspension, a "
+"colloid, and a solution. There are eight sections that need to be filled. "
+"For a-e click on the correct answer in each box. For f-h, drag the images "
+"below the chart and drop them into the correct box."
+msgstr ""
+"下面是懸浮溶液、膠體溶液、以及溶液特性的比較圖表。有8個位置需要填空。請點擊A-"
+"E中每個框內的正確答案；另在F-H中，請拖動圖表下面的圖片放到正確的框格中。"
+
+msgid "Property"
+msgstr "性質"
+
+msgid "Type of mixture"
+msgstr "混合物類別"
+
+msgid "Select"
+msgstr "請點選"
+
+msgid "Particle settling"
+msgstr "顆粒沉降"
+
+msgid "Settle"
+msgstr "沉澱"
+
+msgid "Do not settle"
+msgstr "不沉澱"
+
+msgid "Particles"
+msgstr "顆粒"
+
+msgid "Particle size"
+msgstr "顆粒大小"
+
+# 20
+msgid "You've completed the Composition of Matter review."
+msgstr "你已經完成了「物質的組成」的單元。"
+
+msgid "Congratulations, "
+msgstr "恭喜您，"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中“小練習”和“小測驗”的表現。"

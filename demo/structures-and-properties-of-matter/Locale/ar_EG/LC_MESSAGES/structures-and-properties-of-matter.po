@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "التقويم السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التقويم السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدوير المربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "السؤال القصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "السؤال القصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "السؤال القصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "السؤال القصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "السؤال القصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "السؤال القصير رقم 6"
+
+msgid "Congratulation"
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للتقويم السريع وبالأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير أول تقويم سريع!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد لاخر تقويم سريع؟ "
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت مستعد للتحقق من سؤال الاختبار الاخير؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Welcome to the Structure and Properties of Matter module"
+msgstr "مرحبا بكم في وحدة  بنيةالمادة وخصائصها"
+
+# 2
+msgid "Thinking about... the structure and properties of matter"
+msgstr "يمكنك التأكد من كيف عملت بالتقويم السريع وفي الأسئلة السريعة لهذه المراجعة بالنقر على الزر في الأسفل."
+
+msgid "You know what's really fun? Slime – that's what!! Slime is some cool stuff you can make so you can play tricks on your friends and gross out your family."
+msgstr "هل تعرف ما هو ممتع حقا؟ الوحل -هذا هو حقا !! صنع  الوحل شيء رائع  يمكنك من اللعب و إعداد الحيل على أصدقائك ويجعل عائلتك تشعر بالتقزز."
+
+msgid "Slime is easy to make out of easy to find ingredients you can get at the supermarket. There are a bunch of different recipes for how to make slime. Search on Google for \"slime images\" and \"slime on youtube\" and you'll get all kinds of great ideas on how to make slime and play pranks on your friends."
+msgstr "من السهل صنع الوحل من المكونات السهلة  التي يمكنك الحصول عليها في السوبر ماركت.  هناك مجموعة من الوصفات المختلفة حول كيفية صنع الوحل.  ابحث في جوجل عن صور الوحل و الوحل على يوتيوب وستحصل على جميع أنواع الأفكار الرائعة حول كيفية صنع الوحل وإعداد المقالب على أصدقائك."
+
+msgid "The reason why slime is so much fun to play tricks with is because it's stuff with certain properties.  It's runny, icky, gooey and green, and of course, slimy. But it's also safe and easily washable – just the kind of properties that make it fun to \"slime\" your friends without hurting them or ruining their clothes. \"Stuff\" is called matter by scientists. So let's look at more kinds of matter and their properties."
+msgstr "السبب في أن الوحل ممتع كثيرا لعمل المقالب هو لأنه يحتوي على خصائص معينة. انه سائل، دبق، لزج، أخضر، وبطبيعة الحال غروي. لكنه أيضا آمن وقابل للغسل بسهولة - تماما كالخصائص التي تجعلك تلعب بالوحل مع أصدقائك دون الاضرار بهم أو تخريب ملابسهم. تسمى الاشياء بالمواد من قبل العلماء. لذلك دعونا نلقي نظرة على المزيد من أنواع المادة وخصائصها."
+
+# 3
+msgid "Checking what you know about... the structure and properties of matter"
+msgstr "التحقق مما تعرفه عن ... بنية المادة وخصائصها "
+
+msgid "Which of the following do you think is <span class=\"blink\">not</span> matter – the \"stuff\" that makes up the universe?"
+msgstr "أي مما يلي برأيك <span class=\"blink\">ليست</span> من المواد التي تُكَوِّن الكون؟"
+
+msgid "Rocks"
+msgstr "الصخور"
+
+msgid "Sunlight"
+msgstr "أشعة الشمس"
+
+msgid "Water"
+msgstr "ماء"
+
+msgid "Air"
+msgstr "هواء"
+
+msgid "Snow"
+msgstr "ثلج"
+
+msgid "Matter is anything that has mass and takes up space. Most people know that rocks, dirt, snow and water are matter because they can see and feel them. Sometimes people think that air isn't matter because they can't see it – it's invisible - and they can't feel its weight because they're so used to it pressing down on them every day. But air is matter because it takes up space and has mass – you can feel it when the wind blows and it pushes upon airplane wings to keep them in the air. The only one of these choices that isn't matter is sunlight – because sunlight is energy - which doesn't have mass or take up space."
+msgstr "المادة هي  أي شيء له كتلة ويشغل حيزاً.  معظم الناس يعرفون أن الصخور والتراب والثلج والماء هي مواد لأنه بالإمكان رؤيتها ولمسها.  يعتقد الناس أحيانا بأن الهواء ليس مادة لأنهم لا يمكن أن يروه- انه غير مرئي - ولا يمكنهم الشعور بوزنه لأنهم معتادين على دفع الهواء لهم باستمرار كل يوم.  ولكن الهواء مادة لأنه يأخذ مساحة وله كتلة - يمكنك أن تشعر به عندما تهب الرياح ويدفع أجنحة الطائرات ليحفاظ عليها في الهواء.  واحد فقط من هذه الخيارات التي لا تعتبر مادة هي أشعةالشمس - لأن أشعة الشمس هي طاقة - وليس لها كتلة ولا تأخذ حيزاً."
+
+msgid "Identifying properties of matter..."
+msgstr "تحديد خصائص المادة ..."
+
+# 4
+msgid "Reviewing big ideas about... the structure and properties of matter"
+msgstr "مراجعة الأفكار الكبيرة حول ... بنية المادة وخصائصها "
+
+msgid "All the \"stuff\" that you see or feel or use in your daily life is <span class='key'>matter</span>. The wood that makes up your house is matter. The food and water you eat and drink is matter. The metal that makes up your car is matter. But there's also a lot of matter you don't feel or see or smell or use. The air that you breathe is matter even if you can't see it! Matter is all the \"stuff\" that makes up the earth and the entire universe. The way scientists define matter is that matter is anything that has mass and takes up space."
+msgstr "جميع الاشياء التي تراها أو تشعر بها أو تستخدمها في الحياة اليومية هي <span class='key'>مواد</span> .  الخشب الذي يشكل بيتك هو مادة.  الغذاء الذي تأكله والماء الذي تشربه هي مواد. المعدن الذي يشكل سيارتك مادة. ولكن هناك أيضا الكثير من المواد التي لا تشعر بها أو تراها أو تشمها او تستخدمها.  الهواء الذي تتنفسه هو مادة حتى لو لم تكن تراه! المادة هي جميع الأشياء التي تشكل الأرض والكون كله. طريقة العلماء بتعريف المادة هو أن المادة  أي شيء له كتلة ويشغل حيزاً."
+
+msgid "There are different kinds of matter based on their properties. <span class='key'>Properties</span> are something about matter that you can observe to describe the matter and identify it. And it's these properties that make different kinds of matter useful to us for different purposes. For instance, most matter that we call metal has the property of being hard and strong and is useful to make structures like tall buildings and bridges and cars and trucks. Wood is a kind of matter that has the property of being hard and strong but soft enough to hammer a nail through. So, because of these properties, it is useful to build houses. Other matter, such as water, has the property of being either a solid, liquid, or gas at different temperatures. That's an important property of matter that scientists call a \"state\" of matter. There are many kinds of matter with many different properties and many different uses."
+msgstr "هناك أنواع مختلفة من المواد تعتمد على خصائصها.  <span class='key'>الخصائص</span> هي شيء يخص المادة  يمكنك مراقبته لوصف هذه المادة، وتحديدها.  وهذه الخصائص هي التي تجعل أنواع مختلفة من المواد مفيدة إلينا لأغراض مختلفة.  على سبيل المثال، معظم ما نسميه معادن له خاصية متمثلة بالقوة والصلابة وهي مفيدة لصنع هياكل مثل البنايات الشاهقة والجسور والسيارات والشاحنات.  الخشب هو نوع من المواد التي لديها خصائص مثل الصلابة والقوة ولكن لين بما يكفي لتدق مسمار خلاله.  لذلك، بسبب هذه الخصائص، هو مفيد لبناء المنازل.  مواد أخرى، مثل الماء، له خصائص تجعله إما صلبا أو سائلا أو غازيا عند درجات حرارة مختلفة.  هذه الخاصية الهامة للمادة والتي يطلق عليها  العلماء استدعاء حالة المادة.  هناك أنواع كثيرة من المواد لها العديد من الخصائص والاستخدامات المختلفة."
+
+msgid "Drinking water..."
+msgstr "ماء الشرب "
+
+# 5
+msgid "Question A. Which of the following substances is <span class='blink'>not</span> matter?"
+msgstr "السؤال أ. أي من المواد التالية <span class='blink'>لا</span> تعد موادا؟"
+
+msgid "Light"
+msgstr "الضوء"
+
+msgid "Wood"
+msgstr "الخشب"
+
+msgid "Steel"
+msgstr "الفولاذ"
+
+msgid "Food"
+msgstr "الغذاء"
+
+msgid "Question B. Which of the following statements about matter are <span class='blink'>true</span>?"
+msgstr "السؤال ب. أي من العبارات التالية حول المادة <span class='blink'>صحيحة</span>؟"
+
+msgid "You can see all matter."
+msgstr "يمكنك ان ترى كل المواد."
+
+msgid "You can smell all matter."
+msgstr "يمكنك شم جميع المواد."
+
+msgid "All matter has properties."
+msgstr "جميع المواد لها خصائص."
+
+msgid "All matter is helpful to people."
+msgstr "كل المواد مفيدة للناس."
+
+msgid "Preparing your first quick check…"
+msgstr "تحضير أول تقويم سريع ..."
+
+msgid "Nope! Wood is matter because it has mass and takes up space."
+msgstr "كلا! الخشب هو مادة لأن له كتلة ويأخذ خيزاً."
+
+msgid "No! Steel is matter because it has mass and takes up space."
+msgstr "لا! الفولاذ مادة لأن له كتلة ويأخذ حيزاً."
+
+msgid "Thats wrong! Food is matter because it has mass and takes up space."
+msgstr "هذا خطأ! الغذاء مادة لأن له كتلة ويأخذ حيزاً."
+
+msgid "Correct! Light is NOT matter because it has no mass and doesn't take up space."
+msgstr "صحيح! الضوء ليس مادة لأنه لا يوجد له كتلة و لا يأخذ حيزاً."
+
+msgid "False! You can't see ALL matter – like you can't see air."
+msgstr "خطأ! لا يمكنك أن ترى كل المواد - كما لا يمكنك أن ترى الهواء."
+
+msgid "False! You can't smell ALL matter – like you can't smell glass and water. But maybe your dog can or cat can smell some things you can't."
+msgstr "خطأ! لا يمكنك شم كل المواد - كما لا تستطيع ان تشم الزجاج والماء. ولكن ربما يستطيع كلبك أو قطتك شم بعض الأشياء التي لا تستطيع انت شمها."
+
+msgid "True! All matter does have properties. Sometimes their properties are different from each other, but all matter has some kind of properties."
+msgstr "صحيح! جميع المواد  لها خصائص. أحيانا تختلف خصائصها عن بعضها البعض، ولكن لجميع هذه المواد نوعا ما من الخصائص."
+
+msgid "False! Virtually all matter has some kind of use – but some of the uses are bad for people – like poison - so they are not helpful."
+msgstr "خطأ! كل المواد لها نوع من الاستخدام- لكن بعض الاستخدامات سيئة للناس - مثل السم - فبالتالي هي ليست مفيدة."
+
+# 6
+msgid "Reviewing more big ideas about... the structure and properties of matter"
+msgstr "استعراض المزيد من الأفكار الكبيرة حول ... بنية المادة وخصائصها "
+
+msgid "More big ideas about... the structure and properties of matter"
+msgstr "المزيد من الأفكار الكبيرة حول... بنية المادة وخصائصها"
+
+msgid "\"Matter can neither be created nor destroyed but can change forms\" is one of the most important things about nature that scientists have ever figured out. What this means is that matter can never just disappear into nothingness even if it seems like it does. One way matter changes forms is that it can change states from <span class='key'>solid</span> to <span class='key'>liquid</span> or from liquid to <span class='key'>gas</span>. These are called <span class='key'>states of matter</span>."
+msgstr " واحدة من أهم الأمور حول الطبيعة والتي قد اكتشفها العلماء هي أن المادة لا يمكن أن تستحدث او تفنى ولكن من الممكن أن يتغير شكلها.  ما يعنيه هذا هو أن المادة لا يمكن أبدا أن تختفي تماما حتى لو كان ذلك ظاهرا. طريقة واحدة يتغير فيها شكل المادة وهي أنه يمكن أن تتغير من الحالة <span class='key'>الصلبة</span> إلى الحالة <span class='key'>السائلة</span> أو من السائلة إلى <span class='key'>الغازية</span>.  وتسمى هذه <span class='key'>حالات المادة</span> ."
+
+msgid "For instance, if you leave a puddle of water on the bathroom floor after you take a shower - even though your mother told you to make sure you clean it up - the next day, when she checks your bathroom, the puddle of water is gone!! Did it magically disappear? Did some bathroom wizard come in and destroy the water to save you from your mom being mad at you? It seems like it, doesn't it? But the water didn't get<br> destroyed – it just evaporated all by itself. This means it changed from the liquid state of water on the floor to the gaseous state of water in the air."
+msgstr "على سبيل المثال، إذا تركت بقعة من المياه على أرضية الحمام بعد الاستحمام - على الرغم من أن أمك أخبرتك أن تتأكد من تنظيفها - في اليوم التالي، عندما تتحقق من حمامك، وتختفي بقعة المياه !! هل اختفت بشكل سحري ؟ هل قام ساحر الحمام وجعل البقعة تختفي كي لا يجعل امك تغضب منك؟ يبدو كذلك، أليس كذلك؟ لكن المياه لم تختفي بل انها تبخرت تماما من تلقاء نفسها. هذا يعني أنه حدث تغير من الحالة السائلة في الماء على الأرض إلى الحالة الغازية من الماء في الهواء."
+
+msgid "It changed from having the property of you being able to see it and feel it as a liquid to the property of being invisible as gaseous water. And - this is important! - if you had weighed the water in the puddle and it weighed 1 ounce, after it <span class='key'>evaporated</span>, the air in your bathroom weighs 1 ounce more. The 1 ounce of water still weighs 1 ounce! It's just 1 ounce of gaseous water in your bathroom air instead of 1 ounce of liquid water in a puddle on the floor. The mass of liquid water didn't change even though you couldn't see it anymore! You could tell that's true if you could figure out a way to weigh your bathroom air – something to think about!"
+msgstr "لقد تغيرت من كونها خاصية قادرة على الرؤية واللمس الى كونها خاصية غير مرئية مثل المياه الغازية.  وهذا هو المهم! - إذا كنت قد وزنت الماء في البقعة وكان وزنها أونصة، بعد أن <span class='key'>تبخرت</span>، يزن الهواء في حمامك أونصة أكثر.  وقية  من المياه لا تزال تزن أونصة واحدة! لكنها أصبحت أونصة من  الماء الغازي في الهواء في حمامك بدلا من أونصة من الماء السائل في البقعة على الأرض. لم تتغير كتلة الماء السائل حتى ولو لم يكن بالامكان رؤيتها بعد الآن! يمكنك معرفة  اذا كان هذا صحيحا إذا تمكنت من إيجاد طريقة لوزن الهواء في حمامك - شيء للتفكير!"
+
+msgid "4 ounces"
+msgstr "4 أونصات"
+
+msgid "A little bit more than 4 ounces"
+msgstr " أكثر بقليل من 4 أونصات"
+
+msgid "5 ounces"
+msgstr "5 أونصات"
+
+msgid "A little bit less than 5 ounces"
+msgstr "أقل بقليل من 5 أونصات"
+
+msgid "6 ounces"
+msgstr "6 أونصات"
+
+msgid "Looking for traces..."
+msgstr "البحث عن آثار ..."
+
+# 7
+msgid "Question A. Which of the following is <span class='blink'>not</span> a state of matter:"
+msgstr "السؤال أ. أي من المواد التالية <span class='key'>ليست</span> مواداً؟"
+
+msgid "Solid"
+msgstr "الصلبة"
+
+msgid "Shiny"
+msgstr "اللامعة"
+
+msgid "Liquid"
+msgstr "السائلة"
+
+msgid "Gas"
+msgstr "الغازية"
+
+msgid "Question B. When a substance like water evaporates:"
+msgstr "السؤال ب. عندما تتبخر مادة مثل الماء:"
+
+msgid "It disappears and doesn't exist anymore."
+msgstr "تختفي ولا تعد موجودة."
+
+msgid "It changes to a gas and loses enough weight so it can float with the air."
+msgstr "تتحول إلى غاز وتفقد وزنا كافيا لذلك يمكن أن تطفو مع الهواء."
+
+msgid "It doesn't change weight at all, it just becomes part of the air."
+msgstr "لا يتغير الوزن على الإطلاق، بل يصبح مجرد جزء من الهواء."
+
+msgid "No! When water evaporates, it seems to disappear because you can't see it anymore, but it still exists and is mixed in with the atmosphere."
+msgstr "لا! عندما يتبخر الماء، فهو يبدو أنه اختفي لأنك لا تستطيع أن تراه بعد الآن، لكنه لا يزال موجودا، ويختلط مع الغلاف الجوي."
+
+msgid "Nope! It does change into a gas – water vapor – but it still has the same mass and weight as it did before."
+msgstr "كلا! هو يتحول الى غاز - بخار الماء - لكن لا يزال لديه نفس الكتلة والوزن كما  كان من قبل."
+
+msgid "Wrong answer! – It does change into a gas – water vapor – but it doesn't lose any weight - it still has the same mass and weight as it did before."
+msgstr "اجابة خاطئة! - يتحول إلى غاز - بخار الماء - ولكن لا يفقد أي وزن -و لا يزال لديه نفس الكتلة والوزن كما كان من قبل."
+
+msgid "Correct! The water doesn't lose any weight – evaporation means that the liquid water breaks down into individual water molecules and each one is light enough to disperse into the air."
+msgstr "صحيح! لا يفقد الماء أي وزن - التبخر يعني أن الماء السائل يتكسر في جزيئات الماء الفردية وكل جزيء يكون خفيف بما يكفي لتنتثر في الهواء."
+
+msgid "Nope! Solid  is a state of matter."
+msgstr "كلا! الصلابة هي حالة المادة"
+
+msgid "Correct! Shiny  is not  one of the three states of matter."
+msgstr "صحيح! اللمعان ليس واحدا من حالات المادة الثلاث."
+
+msgid "Wrong answer! Liquid  is a state of matter."
+msgstr "اجابة خاطئة! السائل هو حالة المادة"
+
+msgid "No! Gas  is a state of matter."
+msgstr "لا! الغاز هو حالة من المادة"
+
+msgid "Evaporating water..."
+msgstr "تبخر المياه ..."
+
+# 8
+msgid "All matter is made up of millions of little particles that are too small to see with the naked eye... even too small to see with ordinary microscopes. These particles are called <span class='key'>atoms</span>. You can think of them as the building blocks of matter – kind of like Legos. Each Lego block is like an individual atom. And just like Legos, there are many, many different sizes and kinds of atoms that can be combined to build many different kinds of matter with different properties. If you build an object with just one kind of Lego block, that's like nature building matter with just one kind of atom – so you get a kind of matter called an  <span class='key'>element</span> - like oxygen, or carbon, or iron. But if you start combining different kinds of Lego blocks - different sizes or shaped blocks - that's like nature combining different kinds of atoms together to form <span class='key'>compounds</span> - which are matter made of two or more different kinds of atoms."
+msgstr "تتكون المواد من الملايين من الجسيمات الصغيرة جدا ليتم رؤيتها بالعين المجردة ... حتى أنها صغيرة جدا لتتم رؤيتها بالمجاهر العادية. وتسمى هذه الجسيمات <span class='key'>ذرات</span>.   ويمكنك اعتبارها كاللبنات الأساسية للمادة - نوع من أحجار الليغو. كل حجر ليغو هو مثل ذرة مفردة. وكما أحجار الليغو، هناك العديد والعديد من أحجام وأنواع الذرات التي يمكن دمجها لبناء العديد من أنواع مختلفة من المواد ذات خصائص مختلفة. إذا بنيت جسم من نوع واحد من أحجار الليغو، يكون هذا مثل بناء طبيعة للمواد مع نوع واحد فقط من الذرات - حتى تحصل على نوع من المواد تسمى <span class='key'>العنصر</span>، مثل الأكسجين أو الكربون، أو الحديد. ولكن إذا كنت بدأت الجمع بين أنواع مختلفة من أحجار الليغو - أحجام مختلفة أو لبنات ذات شكل معين- وهذا مثل طبيعة الجمع بين أنواع مختلفة من الذرات معا لتشكيل <span class='key'>المركبات</span> والتي تعد موادا من اثنين أو أكثر أنواع مختلفة من الذرات."
+
+msgid "Hover your mouse on the images to see the details."
+msgstr "حرك الفأرة على الصور لترى التفاصيل."
+
+msgid "There are different kinds of Lego building blocks just like there are many different kinds of atoms - the building blocks of matter."
+msgstr "هناك أنواع مختلفة من احجار الليغو كما يوجد العديد من الأنواع المختلفة من الذرات - اللبنات الأساسية للمادة."
+
+msgid "Building matter from just one kind of atom makes an element."
+msgstr "بناء المادة من نوع واحد فقط من الذرات يكون عنصرا."
+
+msgid "Building matter from two or more different kinds of atom makes a compound."
+msgstr "بناء المادة من اثنين أو أكثر من أنواع مختلفة من الذرات يكون مركبا."
+
+msgid "Most of the matter we see or touch or even eat is made of compounds. Some examples of compounds are water - H<sub>2</sub>O - which means it has two atoms of the element hydrogen for every atom of oxygen; or salt – NaCl – which has one atom of sodium for every one atom of chlorine; or sugar - C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> – which is made of the elements carbon, hydrogen, and oxygen. It's important to know that when you look at one grain of sugar or one drop of water, they are made up of millions of invisible building blocks called atoms."
+msgstr "تتكون معظم المواد التي نراها نلمسها أو حتى نأكلها من المركبات. بعض الأمثلة على المركبات هي المياه، وهذا يعني أنه مكون من ذرتين من عنصر الهيدروجين لكل ذرة من الأكسجين. أو الملح - كلوريد الصوديوم - الذي يحتوي ذرة واحدة من الصوديوم لكل ذرة واحدة من الكلور. أو السكر  وهو مصنوع من عناصر الكربون والهيدروجين والأكسجين. من المهم أن نعرف أنه عند النظر إلى ذرة واحدة من السكر أو قطرة واحدة من الماء،فهي مكونة من الملايين من الأحجار غير المرئية تسمى الذرات."
+
+msgid "Building blocks..."
+msgstr "لبنات البناء ..."
+
+# 9
+msgid "Question A. Which of the following is <span class='blink'>not</span> a compound?"
+msgstr "السؤال أ. أي من المواد التالية <span class='blink'>ليست</span> مركباً؟"
+
+msgid "Question B. Which of the following is <span class='blink'>not</span> an element?"
+msgstr "السؤال ب. أي من المواد التالية <span class='blink'>ليست</span> عنصراً؟"
+
+msgid "Iron"
+msgstr "حديد"
+
+msgid "Oxygen"
+msgstr "اكسجين"
+
+msgid "Salt"
+msgstr "ملح"
+
+msgid "Sugar"
+msgstr "السكر"
+
+msgid "No! Sugar is a compound molecule C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> consisting of several atoms of the elements Carbon, Hydrogen and Oxygen."
+msgstr "لا! السكر هو مركب جزيء C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>يتكون من عدة ذرات من عناصر الكربون والهيدروجين والأكسجين."
+
+msgid "Nope! Water is a compound H2O of the elements Hydrogen and Oxygen."
+msgstr "كلا! الماء هو  مركب H2O الهيدروجين العناصر والأكسجين."
+
+msgid "Wrong answer! Salt is a compound NaCl of the two elements Sodium (Na) and Chlorine (Cl)."
+msgstr "اجابة خاطئة! الملح هو مركب NaCl كلوريد الصوديوم المكون من عنصري الصوديوم (NA) والكلور (الكلور)."
+
+msgid "Correct – Sugar is a compound molecule consisting of several atoms of the elements Carbon, Hydrogen and Oxygen."
+msgstr "صحيح - السكر هو جزيء مركب يتألف من عدة ذرات من عناصر الكربون والهيدروجين والأكسجين."
+
+msgid "No! Iron is an element."
+msgstr "لا! الحديد هو عنصر."
+
+msgid "Nope! Hydrogen is an element."
+msgstr "كلا! الهيدروجين هو عنصر."
+
+msgid "Wrong answer! Oxygen is an element."
+msgstr "اجابة خاطئة! الأكسجين هو عنصر."
+
+msgid "Correct! Oxygen is an element."
+msgstr "صحيح! الأكسجين هو عنصر."
+
+# 10
+msgid "Using what you now know about... the structure and properties of matter... to solve a problem"
+msgstr "استخدام ما تعرفه الآن حول ... بينة المادة وخصائصها ... لحل المشكلة"
+
+msgid "Your friend didn't understand the difference between atoms and molecules and how they make up elements and compounds."
+msgstr "لم  يفهم صديقك الفرق بين الذرات والجزيئات، وكيف أنها تشكل العناصر والمركبات."
+
+msgid "How would you use Legos to demonstrate the idea?"
+msgstr "كيف يمكنك استخدام أحجار الليغو لشرح  الفكرة؟"
+
+msgid "Playing lego..."
+msgstr "اللعب باحجار الليغو ... "
+
+# 11
+msgid "Summarizing big ideas about... the structure and properties of matter"
+msgstr "تلخيص الأفكار الكبيرة حول ... بنية المادة وخصائصها"
+
+msgid "Everything that makes up the earth and the universe is made up of <span class='key'>matter</span> - whether you can see it or not. There are lots of different kinds of matter with lots of different <span class='key'>properties</span>. Some of those properties make the matter useful for us. All matter is made up of tiny invisible particles called <span class='key'>atoms</span> and molecules. If the matter is made up of just one kind of atom, it's called an <span class='key'>element</span>. If the matter is made up of two or more different kinds of atoms, the matter is called a <span class='key'>compound</span>. Even the tiniest bit of matter you can see – like a grain of sand or sugar, or even a speck of dust – is still made up of millions of atoms or molecules."
+msgstr "كل ما يشكل الأرض والكون يتكون من <span class='key'>مواد</span>- ما إذا كان يمكنك رؤية ذلك أم لا. هناك الكثير من الأنواع المختلفة من المواد بمختلف <span class='key'>الخصائص</span>. بعض من هذه الخصائص تجعل المادة مفيدة بالنسبة لنا. كل المواد تتكون من جسيمات غير مرئية صغيرة تسمى الذرات والجزيئات. إذا تكونت المادة من نوع واحد فقط من الذرات، يسمى عندها <span class='key'>العنصر</span>. إذا تكونت المادة من اثنين أو أكثر من أنواع مختلفة من الذرات،تسمى المادة هنا <span class='key'>مركب</span>.  حتى أصغر المواد مثل حبوب القمح والرمل والسكر لا تزال تتكون من ملايين الذرات أو الجزيئات ."
+
+msgid "Na +"
+msgstr "Na+"
+
+msgid "Cl -"
+msgstr "Cl-"
+
+msgid "NaCl"
+msgstr "NaCl"
+
+msgid "Water Molecule"
+msgstr "جزيء الماء"
+
+msgid "H"
+msgstr "H"
+
+msgid "O"
+msgstr "O"
+
+# 12
+msgid "Reviewing key vocabulary related to... the structure and properties of matter"
+msgstr "مراجعة المفردات الأساسية ذات الصلة ... ببنية المادة وخصائصها"
+
+msgid "Atom"
+msgstr "ذرة"
+
+msgid "The basic unit of matter. An atom consists of a central nucleus surrounded by electrons."
+msgstr "الوحدة الأساسية للمادة. تتكون الذرة من نواة مركزية تحيط بها إلكترونات."
+
+msgid "Matter"
+msgstr "مادة"
+
+msgid "Anything that has mass and takes up space. Atoms combine to comprise matter.  That is, matter is everything that is made up of atoms. Examples would include people, planets, air, water and stars."
+msgstr "أي شيء له كتلة ويشغل حيزاً. تتجمع الذرات لتشكيل المادة. وهذا يعني أن المادة هي كل شيء تتكون منه الذرات. وتشمل الأمثلة الناس والكواكب والهواء والماء والنجوم."
+
+msgid "Compound"
+msgstr "مركب"
+
+msgid "A substance made up of two or more different kinds of atoms. Compounds can be formed or broken up in chemical reactions. Examples include water, carbon dioxide and salt."
+msgstr " تتكون المادة من اثنين أو أكثر من أنواع مختلفة من الذرات. مركبات يمكن تشكيلها أو كسرها حتى في التفاعلات الكيميائية. ومن الأمثلة على ذلك الماء وثاني أكسيد الكربون والملح."
+
+msgid "Element"
+msgstr "عنصر"
+
+msgid "An element is a pure sample of one type of atom. Examples could include gases like hydrogen, oxygen, and helium, or a solid piece of iron or copper."
+msgstr "العنصر هو عينة نقية من نوع واحد من الذرات. ويمكن أن تشمل الأمثلة الغازات مثل الهيدروجين، والأكسجين، والهليوم، أو قطعة صلبة من الحديد أو النحاس."
+
+msgid "Properties of Matter"
+msgstr "خصائص المادة"
+
+msgid "Descriptors about a piece of matter that describe it. For example, an iron wrench is hard, heavy and gray."
+msgstr "واصفات حول جزء من المادة التي تصفها. على سبيل المثال، مفتاح الربط الحديد الرمادي الثقيل الصلب."
+
+msgid "Evaporate"
+msgstr "تبخر"
+
+msgid "When matter goes from the liquid phase to the gaseous phase. Evaporation is commonly observed with water."
+msgstr "عندما تتحول المادة من الحالة السائلة إلى الحالة الغازية.  يُلاحَظ التبخر عادة مع الماء."
+
+msgid "State of Matter"
+msgstr "حالة المادة"
+
+msgid "Whether something is currently a solid, a liquid, or a gas. This can change as heat and or pressure are applied to the matter."
+msgstr "ما إذا كان شيء في الحالة الصلبة، السائلة، أو الغازية. هذا يمكن أن يتغير عند تعرض المادة للحرارة والضغط "
+
+msgid "One of the states of matter that keep their shape unless pushed or pulled by an outside force. Solids have molecules closely packed together with little room for motion. Examples include ice and metals."
+msgstr "واحدة من حالات المادة التي تحافظ على شكلها إلا إذا دفعت أو سحبت من قبل قوة خارجية. المواد الصلبة لها جزيئات مجتمعة معا بشكل وثيق مع مجالا كبيرا للحركة. ومن الأمثلة عليها الجليد والمعادن."
+
+msgid "One of the states of matter that take the shape of the container that holds them. Liquids have molecules that are somewhat less closely packed, allowing them some room to move and interact. Examples include water and mercury."
+msgstr "واحدة من حالات المواد التي تأخذ شكل الوعاء الذي يحملهم.  تحتوي السوائل على جزيئات والتي لا تكون قريبة على بعضها البعض بشكل وثيق، ما يسمح  لهم مجالا للتحرك والتفاعل. ومن الأمثلة على ذلك الماء والزئبق."
+
+msgid "One of the states of matter that will expand into the atmosphere unless constrained by a closed container. Gas phase molecules are very spread apart and can essentially move freely. Examples include water vapor (steam), carbon dioxide and helium."
+msgstr "واحدة من حالات المادة التي من شأنها أن تتوسع في الغلاف الجوي إلا إذا مقيدة بعبوة مغلقة. جزيئات المرحلة الغازية تننتشر بعيدا ويمكن ان تتحرك أساسا بحرية. ومن الأمثلة على ذلك بخار الماء (بخار)، وثاني أكسيد الكربون والهيليوم."
+
+# 13
+msgid "Checking what you now know about... the structure and properties of matter"
+msgstr "فحص ما تعرفه الآن حول ... بنية المادة وخصائصها"
+
+# 14
+msgid "Here is a diagram that represents one particle (one molecule) of water, H<sub>2</sub>O. Which of the following statements about water is correct?"
+msgstr "هنا هو الرسم البياني الذي يمثل جسيم واحد (جزيء واحد) من الماءH<sub>2</sub>O، أي من العبارات التالية حول الماء صحيحة؟"
+
+msgid "Hydrogen"
+msgstr "هيدروجين"
+
+msgid "One of these particles makes up each drop of water."
+msgstr "واحدة من هذه الجسيمات تشكل كل قطرة ماء."
+
+msgid "These particles are very small but big enough to see with a microscope."
+msgstr "هذه الجسيمات صغيرة جدا ولكنها كبيرة بما يكفي لترى من المجهر."
+
+msgid "The hydrogen atoms are too small to see but you can see the oxygen atoms."
+msgstr "ذرات الهيدروجين صغيرة جدا لتراها لكن يمكنك أن ترى ذرات الأكسجين."
+
+msgid "The whole water particle (molecule) is too small to see and it takes millions of them to make one water drop."
+msgstr "جسيمات الماء كلها(الجزيء) صغيرة جدا لتُرى وتحتاج للملايين منها لتكوين قطرة ماء واحدة."
+
+msgid "Wrong answer! A water droplet is made of millions of water molecules."
+msgstr "اجابة خاطئة! يتم تكون قطرة ماء من الملايين من جزيئات الماء."
+
+msgid "Nope! These molecules (individual particles) of water are very small and too small to see with the naked eye, or even with a microscope."
+msgstr "كلا! هذه الجسيمات(الجزيئات الفردية) من المياه صغيرة جدا وصغيرة جدا أن ترى بالعين المجردة، أو حتى مع وجود المجهر."
+
+msgid "No! Both the hydrogen and oxygen atoms are too small to see. Even the whole water molecule is too small to see with the naked eye, or even with a microscope."
+msgstr "لا! كل من ذرات الهيدروجين والأكسجين صغيرة جدا لتُرى. حتى جزيء الماء كله  أصغر من أن يرى بالعين المجردة، أو حتى مع وجود المجهر."
+
+msgid "Correct! The whole water particle (molecule) is too small to see and it takes millions of them to make one water drop."
+msgstr "صحيح! جسيم الماء كله (الجزيء) صغير جدا ليرى ويحتاج  الملايين منه لتكوين قطرة ماء واحدة."
+
+msgid "Your first quiz question is…"
+msgstr "السؤال الأول في الإختبار هو:"
+
+# 15
+msgid "Think about riding your bike. Match the properties of matter from the first column to the matter you use in the second column when you ride your bike."
+msgstr "فكر في ركوب الدراجة الخاصة بك.أوصل خصائص المادة في العمود الأول إلى المادة التي تستخدمها في العمود الثاني عند ركوب الدراجة الخاصة بك."
+
+msgid "Hard and strong"
+msgstr "صلبيٌ وقوي"
+
+msgid "Soft, tough, flexible"
+msgstr "ناعمة، متينة ومرنة"
+
+msgid "Waterproof and soft"
+msgstr "مقاومة للماء وناعمة"
+
+msgid "Soft and warm"
+msgstr "ناعمة ودافئة"
+
+msgid "Flexible and tough"
+msgstr "مرنة ومتينة"
+
+msgid "Parts of Bike and Rider"
+msgstr "أجزاء من الدراجة والراكب"
+
+msgid "Bike tire"
+msgstr "إطار الدراجة"
+
+msgid "Shirt"
+msgstr "قميص"
+
+msgid "Bike frame"
+msgstr "إطار الدراجة"
+
+msgid "Bike seat"
+msgstr "مقعد الدراجة"
+
+msgid "Girl's skin"
+msgstr "جلد الفتاة"
+
+msgid "Riding a bike..."
+msgstr "ركوب الدراجة ..."
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgid "Correct! The bike frame needs to be heard and strong to support the rider; the girl’s skin needs to be soft to touch, flexible to move and tough so it doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry and soft to be comfortable; the shirt needs to be soft and warm to be comfortable and keep you warm; and the bike tire needs to be flexible and tough."
+msgstr "صحيح! يحتاج إطار الدراجة أن يكون متينا وقويا لدعم المتسابق.  يجب أن يكون جلد الفتاة لينا للمس ومرنا للتحرك ومتينا حتى لا ينجرح بسهولة. يحتاج مقعد الدراجة أن يكون مقاوما للماء للحفاظ عليه جافا وناعما ليكون مريحا.  يجب أن يكون القميص لينا ودافئا ليكون مريحا وليجعلك تشعر بالدفء. وإطارات الدراجة يجب أن تكون مرنة ومتينة."
+
+msgid "Wrong! The bike frame needs to be heard and strong to support the rider; the girl’s skin needs to be soft to touch, flexible to move and tough so it doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry and soft to be comfortable; the shirt needs to be soft and warm to be comfortable and keep you warm; and the bike tire needs to be flexible and tough."
+msgstr "خطأ! يحتاج إطار الدراجة في أن يكون متينا وقويا لدعم المتسابق.  يجب أن يكون جلد الفتاة لينا للمس ومرنا للتحرك ومتينا حتى لا ينجرح بسهولة. يحتاج مقعد الدراجة أن يكون مقاوما للماء للحفاظ عليه جافا وناعما ليكون مريحا.  يجب أن يكون القميص لينا ودافئا ليكون مريحا وليجعلك تشعر بالدفء. وإطارات الدراجة يجب أن تكون مرنة ومتينة."
+
+# 16
+msgid "Here are five common objects that you see every day. What is the property of the matter that makes up these objects that is common to all of them?"
+msgstr "ها هنا خمسة أشياء عادية تراها كل يوم. ما هي خصائص المادة التي تشكل هذه الأشياء الشائعة بين كل منهم؟"
+
+msgid "Soft"
+msgstr "ناعم"
+
+msgid "Smell"
+msgstr "رائحة"
+
+msgid "Yellow"
+msgstr "أصفر"
+
+msgid "Nope! The penny, glass and pencil aren’t soft."
+msgstr "كلا! الفلس، الزجاج، وقلم الرصاص ليست لينة."
+
+msgid "Correct! all of these objects have the property of being solid – not liquid or gas."
+msgstr "صحيح! كل من هذه الأشياء لديها خصائص صلبة - ليست سائلة أو غازية."
+
+msgid "No. Only the hotdog, and maybe, the shirt if you haven’t washed it recently, have smell as a property."
+msgstr "لا .  النقانق فقط، وربما، القميص إذا لم تكن قد غسلته في الآونة الأخيرة،يكون له رائحة كالخاصية."
+
+msgid "No! Only the penny and glass are shiny."
+msgstr "لا! الفلس فقط  والزجاج لامعان."
+
+msgid "Not right. Only the pencil is yellow…and the mustard on the hotdog."
+msgstr "ليس صحيحا. فقط قلم رصاص أصفر ... والخردل على النقانق."
+
+# 17
+msgid "What is the property of the matter that makes up the window that makes it <span class='blink'>different</span> from all of the other objects?"
+msgstr "ما هي خاصية المادة التي تُكون النافذة والتي تجعلها <span class='blink'>مختلفة</span> عن كل الأشياء الأخرى."
+
+msgid "Transparent"
+msgstr "شفافة"
+
+msgid "Colored"
+msgstr "ملونة"
+
+# 18
+msgid "If you were to take 1 ounce of sugar and add it to 4 ounces of Kool-Aid and stir it really well so you couldn’t see the sugar at all anymore, the final weight of the Kool-Aid would be..."
+msgstr "لو أخذت أونصه من السكر وقمت بإضافته إلى 4 أونصات من العصير وحركته جيدا عندها لن تتمكن منة رؤية السكر بعد الآن، فإن وزن العصير سيكون ..."
+
+msgid "Making a cold juice..."
+msgstr "صنع عصير بارد ..."
+
+msgid "No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the weight of the sugar (1 ounce) = 5 ounces."
+msgstr "لا! يشمل الوزن النهائي كل من وزن عصير البودرة 4 أونصات ووزن السكر أونصة = 5 أنصات."
+
+msgid "Nope! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "كلا! يشمل الوزن النهائي كل من وزن عصير البودرة 4 أونصات ووزن السكر أونصة = 5 أنصات."
+
+msgid "Correct! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "صحيح! يشمل الوزن النهائي كل من وزن عصير البودرة 4 أونصات ووزن السكر أونصة = 5 أونصات."
+
+msgid "Wrong answer! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "إجابة خاطئة! يشمل الوزن النهائي كل من وزن عصير البودرة 4 أونصات ووزن السكر أونصة = 5 أونصات."
+
+msgid "No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "لا! يشمل الوزن النهائي كل من وزن عصير البودرة 4 أونصة ووزن السكر أونصة = 5 أونصات."
+
+# 19
+msgid "Which of the following statements is <span class='blink'>NOT</span> true about the similarities of how atoms build molecules and Lego blocks build objects."
+msgstr "أي من العبارات التالية <span class='blink'>غير</span> صحيحا حول أوجه التشابه في كيفية بناء ذرات للجزيئات وبناء أحجار الليغو الأشياء."
+
+msgid "Both come in different sizes."
+msgstr "كلاهما يأتي في أحجام مختلفة."
+
+msgid "Both can attach to each other."
+msgstr "يمكن أن يرتبط  كلاهما ببعضها البعض."
+
+msgid "Both can combine to make different shapes."
+msgstr " يمكن دمج كلاهما لتكوين الأشكال المختلفة."
+
+msgid "Both are too small to see."
+msgstr "كلاهما صغير جدا ليتم رؤيته."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms come in different sizes."
+msgstr "ليس تماما. هذه العبارة صحيحة. كل من أحجار الليغو والذرات تأتي بأحجام مختلفة."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms can attach to each other."
+msgstr "ليس تماما. هذه العبارة صحيحة. ويمكن لكل من أحجار الليغو والذرات الارتباط ببعضها البعض."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms can combine to make different shapes."
+msgstr "ليس تماما. هذه العبارة صحيحة. يمكن لكل من أحجار الليغو والذرات أن تجتمع لتكوين الأشكال المختلفة."
+
+msgid "Correct! This is not a true statement. Atoms are too small to see but you can definitely see Lego blocks."
+msgstr "صحيح! هذه ليست عبارة صحيحة. الذرات صغيرة جدا لتتم رؤيتها و لكن يمكنك أن ترى بالتأكيد أحجار الليغو."
+
+# 20
+msgid "You've completed the Structure and Properties of Matter module."
+msgstr " لقد أكملت وحدة بنية وخصائص المادة."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك على التقويمات السريعة وعلى أسئلة الإختبارات لهذه الوحدة  بالنقر على الزر في الأسفل. "

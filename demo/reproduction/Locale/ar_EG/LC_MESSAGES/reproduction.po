@@ -1,0 +1,1390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reproduction\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please type your answer."
+msgstr "يرجى كتابة جوابك."
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار سريع رقم 4"
+
+msgid "Quick Check #5"
+msgstr "اختبار سريع رقم 5"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready, "
+msgstr "هل أنت مستعد،"
+
+msgid "Reproducing microorganism..."
+msgstr "تكاثر الكائنات الحية الدقيقة"
+
+msgid "Taking care of offspring..."
+msgstr "رعاية الابناء"
+
+msgid "Preparing your first quick check..."
+msgstr "استعد للتحقق من اجابتك في الاختبار السريع..."
+
+# enumerating
+msgid "Enumerating hereditary characteristics..."
+msgstr "تعداد الخصائص الوراثية"
+
+msgid "Plants reproduction"
+msgstr "تكاثر النباتات"
+
+msgid "Survival instincts of organisms..."
+msgstr "غريزة البقاء للكائنات"
+
+msgid "Studying the life cycle..."
+msgstr "دراسة دورة الحياة"
+
+msgid "Bees carrying pollen"
+msgstr "النحل يحمل حبوب اللقاح"
+
+msgid "Flowers are blooming"
+msgstr "الازهار تتفتح"
+
+msgid "Courting peacocks"
+msgstr "تودد الطاووس للتزاوج."
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك في آخر إختبار سريع ؟."
+
+msgid "Flying birds"
+msgstr "الطيور المحلقة"
+
+msgid "Putting it all together..."
+msgstr "جمع كل شيء مع بعضه البعض"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الاول هو..."
+
+msgid "Stallions competing for dominance"
+msgstr "الفحول تتنافس للسيطرة"
+
+msgid "Flipping the box..."
+msgstr "قلب الصندوق..."
+
+msgid "A pack of wolves is running."
+msgstr "مجموعة من الذئاب تركض"
+
+msgid "Flying bats"
+msgstr "خفافيش طائرة"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لآخر سؤال في الامتحان؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Reproduction review"
+msgstr "أهلاً بكم في مراجعة التكاثر،"
+
+# 2
+msgid "Thinking about... reproduction"
+msgstr "التفكير ب ... التكاثر"
+
+msgid ""
+"You have a family, what about plants and animals? Do they have families too? "
+"Think about plants and animals having parents and then having children of "
+"their own. The ability to reproduce ensures that families continue into the "
+"future. This is true for all of nature. The varieties of ways in which "
+"reproduction occurs is nothing short of amazing."
+msgstr ""
+"لديك عائلة، ماذا عن النباتات والحيوانات؟ هل لديهم عائلات أيضا؟ فكر في "
+"النباتات والحيوانات و وجود والديها  ومن ثم إنجاب أطفال خاصة بهم.    القدرة "
+"على الإنجاب تضمن أن تستمر العائلات في المستقبل.  هذا صحيح بالنسبة للطبيعة.  "
+"من المدهش كم هي طرق الاستنساخ والتكاثر كثيرة ومتنوعة."
+
+# 3
+msgid "Checking what you know... about reproduction"
+msgstr "تأكد مما تعرف ... عن التكاثر"
+
+msgid ""
+"Click on <span class='red blink'>all</span> the <span class='blink'>correct</"
+"span> statements below."
+msgstr ""
+"انقر على <span class='red blink'>جميع</span>  العبارات <span "
+"class='blink'>الصحيحة</span> في الأسفل "
+
+msgid "All living organisms reproduce."
+msgstr "جميع الكائنات الحية تتكاثر."
+
+msgid "All non-living organisms reproduce."
+msgstr "جميع الكائنات غير الحية تتكاثر."
+
+msgid "All organisms that reproduce need a male and a female to do so."
+msgstr "كل الكائنات التي تتكاثر تحتاج الى ذكر و انثى لتفعل ذلك"
+
+msgid "Living things have different ways to reproduce."
+msgstr "الاشياء الحية المختلفة لها طرق مختلفة للتكاثر"
+
+msgid "Reproduction is a natural tendency to keep life going."
+msgstr "التكاثر هو غاية طبيعية لابقاء سير الحياة."
+
+msgid "Plants and animals have the same structures for reproduction."
+msgstr "النباتات والحيوانات لديها نفس البنى للتكاثر."
+
+msgid ""
+"You may or may not have checked all the right ones—a few are a bit tricky. "
+"Reproduction is a natural tendency to continue life by creating offspring. "
+"There are different ways to reproduce, not always involving a female and a "
+"male. All living things--plants, animals, and microorganisms reproduce. "
+"There are non-living things like viruses that also reproduce and make more "
+"viruses. Living organisms have different structures to help them reproduce.  "
+"You will learn more about reproduction in this review."
+msgstr ""
+"قد تكون أو قد لا تكون فحصت جميع العناصر الصحيحة --قليل منها صعبة بعض الشيء.  "
+"التكاثر هو الميل الطبيعي لمواصلة الحياة من خلال تكوين ذرية. و هناك طرق "
+"مختلفة للتكاثر، لا تنطوي دائما على الإناث والذكور.  جميع الكائنات الحية - "
+"النباتات والحيوانات والكائنات الحية الدقيقة تتكاثر.  هناك أشياء غير حية مثل "
+"الفيروسات التي تتكاثر أيضا وتكون المزيد من الفيروسات.  الكائنات الحية لديها "
+"هياكل مختلفة لمساعدتها على التكاثر. سوف تتعلم المزيد عن الاستنساخ في هذه "
+"المراجعة."
+
+# 4
+msgid "Reviewing core ideas... about reproduction"
+msgstr "مراجعة الأفكار الأساسية ... عن التكاثر"
+
+msgid ""
+"Life begins... somehow. Plants sprout. Eggs hatch. Microbes divide. Mammals "
+"are born. All living things go through a life cycle, a pattern of "
+"development that includes growth, adult development, <span class=\"key"
+"\">reproduction</span>, aging, and death."
+msgstr ""
+"الحياة تبدأ ... بطريقة أو بأخرى.  النباتات تزهر. البيض يفقس.  الميكروبات "
+"تنقسم. الثدييات تلد . جميع الكائنات الحية تمر بدورة الحياة، ونمط التطور يشمل "
+"النمو ,البلوغ،  <span class=\"key\">التكاثر </span> ، الشيخوخة والموت."
+
+msgid ""
+"All living things start out small, usually too small to survive in a hostile "
+"world. Plants grow and mature. They develop <span class=\"key\">flowers</"
+"span> which turn into fruits, and contain the seeds for the next generation."
+msgstr ""
+"جميع الكائنات الحية تبدأ صغيرة، عادة ما تكون صغيرة جدا من أجل البقاء في عالم "
+"معادٍ.  النباتات تنمو وتنضج.  <span class=\"key\">الزهور</span> تتحول إلى "
+"ثمار، وتحتوي على بذور للجيل القادم."
+
+msgid ""
+"Animals have life cycles as well. Once animals are born, some are taken care "
+"of by their parents, and some never even know their parents, and live on "
+"their own immediately. They become able to reproduce when they reach their "
+"full size. Animals reproduce in different ways. In species having parents of "
+"different sexes, the mating process may be as simple as spreading eggs and "
+"sperm in a trench at the bottom of a stream to a life-long partnership, "
+"lasting many years."
+msgstr ""
+"للحيوانات دورات حياة ايضا.  عندما تولد الحيوانات يرعاها والديها وبعضها لم "
+"تتعرف الى والديها ابدا وتعيش لوحدها على الفور.  فتصبح قادرة على التكاثر "
+"عندما تصل إلى حجمها الكامل.  الحيوانات تتكاثر بطرق مختلفة.  فهناك انواع تولد "
+"من وجود والدين من جنسين مختلفين، قد تكون عملية التزاوج بسيطة مثل نشر البيض "
+"والحيوانات المنوية وبقائها متدفقة إلى شراكة مدى الحياة، لتستمر سنوات عديدة."
+
+msgid ""
+"After an animal's reproductive and parenting years are completed, most begin "
+"a process of decline. Illnesses are more frequent and last longer. Wounds "
+"take longer to heal. Finding food and resources becomes more difficult. "
+"Eventually all animals die, completing their cycle of life."
+msgstr ""
+"بعد الانتهاء من سنوات الإنجاب وتربية اطفال الحيوانات،  تبدأ عملية التراجع.  "
+"فالأمراض تصبح أكثر تواترا وتستمر لفترة أطول.  الجروح تستغرق وقتا أطول "
+"للشفاء.  والعثور على الغذاء والموارد يصبح أكثر صعوبة.  في نهاية المطاف جميع "
+"الحيوانات تموت، مستكملة دورة حياتها."
+
+# 5
+msgid ""
+"Question A. Which of the following stages is <span class=\"blink\">not</"
+"span> a part of all animal life cycles?"
+msgstr ""
+"السؤال أ: اي من المراحل التالية <span class=\"blink\">ليست </span> جزءاً من "
+"دورة الحياة للحيوانات؟"
+
+msgid "Birth or hatching"
+msgstr "ولادة أم تفقيس "
+
+msgid "Reproducing"
+msgstr "التكاثر"
+
+msgid "Caring for young"
+msgstr "الاعتناء بالصغار"
+
+msgid "Death"
+msgstr "الموت"
+
+msgid ""
+"Question B. Which living things have this life cycle: birth, growth, "
+"reproduction, and death?"
+msgstr ""
+"السؤال ب: أي من هذه الكائنات الحية لديها دورة الحياة هذه؟ الولادة، النمو، "
+"التكاثر  والموت؟"
+
+msgid "Plants and animals"
+msgstr "النباتات والحيوانات"
+
+msgid "Animals and humans"
+msgstr "الحيوانات و الانسان."
+
+msgid "Nearly all living organisms"
+msgstr "كل الكائنات الحية تقريبا"
+
+msgid "All living organisms"
+msgstr "جميع الكائنات الحية"
+
+msgid "Plants, animals, and humans"
+msgstr "النباتات، الحيوانات، والانسان."
+
+msgid "No... All animals hatch or are born."
+msgstr "كلا ... كل الحيوانات اما تبيض او تلد."
+
+msgid "No... All types of animals reproduce."
+msgstr "كلا ... كل انواع الحيوانات تتكاثر."
+
+msgid ""
+"That's correct. Some types of animals live on their own their entire lives."
+msgstr "هذا صحيح، بعض الحيوانات تعيش لوحدها كل حياتها."
+
+msgid "No... All animals eventually die."
+msgstr "كلا... كل الحيوانات سوف تموت بالنهاية."
+
+msgid ""
+"Not quite. Plants and animals do have life cycles like that, but so do "
+"humans and all other living organisms."
+msgstr ""
+"ليس تماما. النباتات والحيوانات لديها دورات حياة من هذا القبيل، كذلك البشر "
+"وجميع الكائنات الحية الأخرى."
+
+msgid ""
+"Not quite. Humans and animals do have life cycles like that, but so do "
+"plants and all other living organisms."
+msgstr ""
+"ليس تماما.  لدى الانسان والحيوان  دورة حياة من هذا القبيل، كذلك النباتات "
+"وجميع الكائنات الحية الأخرى."
+
+msgid ""
+"Correct! Plants, animals, humans, and other living organisms have the life "
+"cycle of birth, growth, reproduction, and death."
+msgstr ""
+"صحيح! النباتات والحيوانات والبشر، والكائنات الحية الأخرى لديها دورة الحياة "
+"نفسها: الولادة،النمو، التكاثر، الموت."
+
+msgid ""
+"Almost. There are tiny organisms you left out that also have this type of "
+"life cycle."
+msgstr "تقريبا. هناك كائنات صغيرة نسيتها  لديها هذا النوع من دورة الحياة."
+
+# 6
+msgid "More core ideas... about reproduction"
+msgstr "أفكار أساسية إضافية ... عن التكاثر"
+
+msgid ""
+"Some types of living things are able to reproduce one individual at a time, "
+"by dividing or having small parts break off from the parent. This is common "
+"in microbes and in many types of plants. This type of reproduction is called "
+"<span class=\"key\">asexual</span>, and results in <span class=\"key"
+"\">offspring</span> that are exact copies of their parents."
+msgstr ""
+"بعض أنواع الكائنات الحية قادرة ان تنتج فرد في وقت واحد، عن طريق انقسامها أو "
+"وجود أجزاء صغيرة تقطع من الأصل.  وهذا أمر شائع في الميكروبات وأنواع عديدة من "
+"النباتات.  ويسمى هذا النوع من التكاثر ب <span class=\"key\">التكاثر "
+"اللاجنسي</span>  ونتيجة ذلك هي <span class=\"key\">ذرية</span> نسخة طبق "
+"الأصل عن الوالدين."
+
+msgid ""
+"Other organisms require two parents for reproduction to occur. Each parent "
+"contributes equally to each offspring, so that offspring always have "
+"characteristics of both parents. This type of reproduction is called <span "
+"class=\"key\">sexual reproduction</span>, and involves males (who contribute "
+"sperm) and females (who contribute eggs). This type of reproduction often "
+"involves complex mating behaviors that help determine which individuals will "
+"choose each other as partners. This is common in animals."
+msgstr ""
+"تتطلب الكائنات الحية الأخرى والدان للتكاثر .  يساهم كل من الوالدين بالتساوي  "
+"بحيث تكون خصائص كلا الوالدين موجودة في الابناء .  ويسمى هذا النوع من "
+"التكاثر<span class=\"key\">التكاثر الجنسي</span> ، ويشمل الذكور (الذين "
+"يساهمون بالحيوانات المنوية) والإناث (الذين يساهمون بالبويضات).  هذا النوع من "
+"التكاثر غالبا ما ينطوي على سلوكيات التزاوج المعقدة التي تساعد على تحديد "
+"الأفراد التي ستختار بعضها البعض كشركاء.  وهذا أمر شائع في الحيوانات."
+
+msgid ""
+"Depending on the type of reproductions, similarities between parents and "
+"offspring may differ. Asexual reproduction results in offspring exactly like "
+"the parent; and sexual reproduction leads to offspring who resemble their "
+"parents, but are not copies. Each generation produces unique combinations of "
+"characteristics that enable the species to be capable of surviving any "
+"number of problems which may occur in nature. Much of the beauty of nature "
+"is related to the amazing variety of plant and animal reproductive anatomy "
+"and behavior."
+msgstr ""
+"تبعا لنوع التكاثر، التشابه بين الابناء والاباء قد يختلف ، نتائج التكاثر "
+"اللاجنسي في النسل يكون تماما مثل الوالدين؛ والتكاثر الجنسي ينتج  ابناء "
+"يشبهون اباءهم ولكن ليست طبق الاصل، كل جيل ينتج تركيبات فريدة من الخصائص تمكن "
+"الأنواع لتكون قادرة على البقاء على قيد الحياة والتغلب على  المشاكل التي قد "
+"تحدث في الطبيعة.  ويرتبط الكثير من جمال الطبيعة بمجموعة متنوعة مذهلة من "
+"السلوكيات والتركيب التشريحي لتكاثر النباتات والحيوانات."
+
+# 7
+msgid ""
+"Question A. How are the products of asexual reproduction similar to their "
+"parents?"
+msgstr "السؤال أ.  كيف تظهر نتاجات التشابه للتكاثر اللاجنسي المشابه للوالدين؟"
+
+msgid ""
+"Rotate or flip the 3D box at the left either up or down to set your answer."
+msgstr ""
+"أدر او اقلب الصندوق المبين على اليسار اما لاعلى او لاسفل لتحديد اجابتك."
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "انقر على الفأرة ومررها لاعلى او لاسفل."
+
+msgid "They can only reproduce once per lifetime."
+msgstr "يمكنهم التكاثر مرة واحدة في العمر فقط."
+
+msgid "They have half of their parent's genes."
+msgstr "لديهم نصف جينات ابائهم."
+
+msgid "They are exactly like their parent."
+msgstr "هم بالضبط مثل ابائهم."
+
+msgid "They have double of their parent's genes."
+msgstr "لديهم ضعف ما لآبائهم من جينات."
+
+msgid ""
+"Question B. What is the easiest way to get a plant to reproduce asexually?"
+msgstr "السؤال ب. ما هي أسهل طريقة لجعل النبات يتكاثر لاجنسيا؟"
+
+msgid "By splitting it down the middle."
+msgstr "من خلال انقسامها إلى نصفين."
+
+msgid "By giving it artificial hormones."
+msgstr "عن طريق اعطائها هرمونات اصطناعية."
+
+msgid "By taking a cutting of a flower and replanting it."
+msgstr "بأخذ قصاصة عود من زهرة وإعادة إنباته."
+
+msgid "By spreading its roots through the ground."
+msgstr "عن طريق انتشار جذوره في الارض"
+
+msgid ""
+"Correct. The child has the exact same genes the parent does, like a clone."
+msgstr "صحيح،الطفل لديه نفس جينات والديه، كالاستنساخ."
+
+msgid "No. The product of asexual reproduction is exactly like the parent."
+msgstr "لا. نتاج التكاثر اللاجنسي هو تماما مثل الوالدين."
+
+msgid ""
+"No, in asexual reproduction the product has the exact same genes the parent "
+"does."
+msgstr "لا، في التكاثر اللاجنسي للناتج نفس عدد جينات الأهل."
+
+msgid ""
+"No, in asexual reproduction the child has the exact same genes the parent "
+"does."
+msgstr "لا، في التكاثر اللاجنسي الطفل لديه نفس الجينات بالضبط الوالد لا."
+
+msgid "That works! Using roots to copy plants is a good choice."
+msgstr "هذا ممكن! استخدام جذور النباتات للتكاثر هو خيار جيد."
+
+msgid ""
+"No, splitting it down the middle will not make another plant, it will just "
+"kill it."
+msgstr "لا، تقسيمها إلى نصفين لن ينتج نبتة اخرى بل سوف يقتلها."
+
+msgid ""
+"No, artificial hormones might make it grow, but not reproduce asexually."
+msgstr "لا، الهرمونات الاصطناعية قد تجعلها تنمو، ولكن لا تتكاثر لاجنسيا."
+
+msgid "No, that is incorrect."
+msgstr "لا , هذا ليس صحيحا."
+
+# 8
+msgid ""
+"Living things grow, breathe, eat (take in the substances they need to grow), "
+"get rid of waste, and reproduce in different ways. They all move and respond "
+"to their environment somehow. When a dog pants and a human sweats, they are "
+"both trying to cool down. Thorns on a rose bush are very similar to the "
+"stink of a skunk in that they both are trying to protect themselves. A plant "
+"grows toward light and animals move to find water and food."
+msgstr ""
+"الكائنات الحية تنمو، و تتنفس، و تتناول الطعام (تأخذ المواد التي تحتاجها "
+"لتنمو)، و تتخلص من النفايات، و تتكاثر بطرق مختلفة.  جميعها تتحرك وتتأقلم مع "
+"بيئتها بطريقة أو بأخرى.  عندمايلهث الكلب ويتعرق الإنسان ، كلاهما يحاول أن "
+"يبرد نفسه.  الشوك على شجيرة الورد هي مشابهة جدا لرائحة الظربان  النتنة ، "
+"كلاهما يحاول حماية نفسه وينمو النبات نحو الضوء، والحيوانات تتحرك لإيجاد "
+"الماء والغذاء."
+
+msgid ""
+"What do a monkey and a microbe have in common? A lot actually. All organisms "
+"grow, reproduce, get old and die. They each carry out different parts of "
+"their life cycle in different ways. To do this, plants and animals have "
+"different structures, or parts."
+msgstr ""
+"ماالصفة المشتركة بين القرد والميكروب؟ هناك الكثير في الواقع.  جميع الكائنات "
+"الحية تنمو وتتكاثر، تكبر وتموت.  كل منهمايقضي أجزاء مختلفة من دورة حياته "
+"بطرق مختلفة.  وللقيام بذلك، لدى النباتات والحيوانات بنى وأجزاء مختلفة."
+
+msgid ""
+"Plants and animals have both internal and external structures that help them "
+"live based on their needs. Dogs have lungs and fish have gills. Both of "
+"these structures help the animals breathe. Colored petals on a flower and "
+"colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"النباتات والحيوانات على حد سواء لها بنى داخلية وخارجية  تساعدها على العيش "
+"بناء على احتياجاتها.  الكلاب لديها الرئتين والأسماك لديها الخياشيم.  كل من "
+"هذه الهياكل تساعد الحيوانات على التنفس.  البتلات الملونة على الزهرة والريش "
+"الملون على الطيور كلها بنى تساعد على حدوث التكاثر."
+
+msgid ""
+"There are similarities and differences among all the species that reproduce "
+"sexually. In all species, females produce eggs and males produce sperm. But "
+"they do so with very different physical structures. Plant reproductive "
+"structures are found in flowers. In animals, individuals are either male or "
+"female, each having very different reproductive systems."
+msgstr ""
+"هناك أوجه تشابه وأوجه اختلاف بين جميع الكائنات التي تتكاثر جنسيا.  في جميع "
+"الحالات، التكاثر يكون بانتاج الإناث للبويضات و إنتاج الحيوانات المنوية "
+"للذكور.  ولكنها تفعل ذلك عن طريق بنى جسدية معينة.  والبنى الجسدية للتكاثر في "
+"النبات تكمن في الزهور.  اما بالنسبة للحيوانات فتحتاج ذكرا او انثى، وكل كائن "
+"يحتاج لجهاز تناسلي معين للتكاثر."
+
+msgid ""
+"Many plants have both male and female parts in the same flower. Hover your "
+"mouse over each image to know more information."
+msgstr ""
+"الكثير من النباتات لها أجزاء ذكرية و انثوية من نفس الزهرة. ركز الفأرة على كل "
+"صورة لمعرفة المزيد من المعلومات."
+
+msgid ""
+"The male part is called a stamen. Sperm are packaged into particles called "
+"<span class=\"key\">pollen</span> grains."
+msgstr ""
+"الجزء الذكري يسمى السداة. تعبأ الحيوانات المنوية الى جسيمات تسمى <span class="
+"\"key\">حبوب اللقاح</span>."
+
+msgid ""
+"The female part of the flower is called the pistil. When the pollen grain "
+"breaks open, a tube grows into the pistil and penetrates the ovary. A sperm "
+"cell then travels down the pollen tube to fertilize an egg cell."
+msgstr ""
+"ويسمى الجزء الأنثوي من الزهرة المدق.  عندما تنفتح حبوب اللقاح، ينمو انبوب  "
+"في المدق ويخترق المبيض. ثم تنتقل خلية الحيوانات المنوية  إلى أسفل انبوب "
+"اللقاح لتخصيب البويضة."
+
+msgid ""
+"Egg cells are located inside the ovary. After the sperm and egg cells unite, "
+"a seed begins to develop inside the ovary."
+msgstr ""
+"تقع خلايا البويضة داخل المبيض.  بعد ان تتحد الحيوانات المنوية والبويضة ، "
+"تبدأ البذرة بالتطور داخل المبيض."
+
+msgid "The rest of the ovary develops into a fruit."
+msgstr "ما تبقى من البويضة يصبح ثمرة."
+
+# 9
+msgid ""
+"Question A. Fill in the blanks to complete the paragraph below. Click on the "
+"select button to choose the <span class=\"blink\">correct</span> answer."
+msgstr ""
+"السؤال أ.  إملأ الفراغات لاستكمال الفقرة أدناه.  انقر على زر الاختيار "
+"لاختيار الجواب <span class=\"blink\"> الصحيح </span> ."
+
+msgid "In all species, females produce"
+msgstr "كل الاناث في الكائنات الحية تُنتِج ."
+
+msgid "flowers"
+msgstr "الزهور"
+
+msgid "productive"
+msgstr "منتج"
+
+msgid "pollen"
+msgstr "لقاح"
+
+msgid "eggs"
+msgstr "بويضات"
+
+msgid "reproductive"
+msgstr "متكاثر "
+
+msgid "and males produce"
+msgstr "كل الذكور تُنتِج"
+
+msgid ""
+". But they do so with very different physical structures. Plant reproductive "
+"structures are found in "
+msgstr ""
+" ولكنها تفعل ذلك عن طريق بنى مادية مختلفة جدا. البنى الانجابية للنبات توجد "
+"في ...."
+
+msgid ""
+". In animals, individuals are either male or female, each having very "
+"different "
+msgstr " الحيوانات والانسان  سواء كانوا ذكورا ام اناثاً، كل واحد مختلف جداً"
+
+msgid "systems."
+msgstr "أنظمة"
+
+msgid ""
+"Question B. Click on <span class=\"blink\">all</span> the following "
+"processes that all living things do."
+msgstr ""
+"السؤال ب. انقر على <span class=\"blink\">جميع</span>  العمليات التالية والتي "
+"تقوم بها الكائنات الحية."
+
+msgid "Movement"
+msgstr "حركة"
+
+msgid "Respiration"
+msgstr "تنفس"
+
+msgid "Growing"
+msgstr "تطور"
+
+msgid "Shrinking"
+msgstr "تقلص"
+
+msgid "Reproduction"
+msgstr "تكاثر"
+
+msgid "Asexual reproduction"
+msgstr "تكاثر لاجنسي"
+
+msgid "Asexual Reproduction"
+msgstr "تكاثر لاجنسي"
+
+msgid "Responding to the environment"
+msgstr "استجابة للبيئة"
+
+msgid ""
+"Great job! Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but "
+"animals have two separate female and male animals."
+msgstr ""
+"عمل عظيم! النباتات والحيوانات تحتوي على أجزاء مختلفة من أجل التكاثر .  "
+"أحيانا النباتات لها  بنى انثوية وذكرية على نبتة واحد، ولكن الحيوانات تنفصل "
+"الى ذكور و اناث."
+
+msgid ""
+"Great job! Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"عمل رائع!  للنباتات وللحيوانات أجزاء مختلفة للتكاثر.  أحياناً للنباتات هياكل "
+"ذكرية وأنثوية جميعها في نفس النبتة، لكن لدى معظم الحيوانات أباء ذكور وأمهات "
+"إناث."
+
+msgid ""
+"Not quite. Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"ليس تماما. النباتات والحيوانات لها أجزاء مختلفة للتكاثر.  أحيانا النباتات "
+"لها هياكل تشبه الإناث والذكور وجميعها في نبتة واحدة، ولكن معظم الحيوانات لها "
+"اثنين من أولياء الأمور الإناث والذكور المنفصلتين عن بعضهما  ."
+
+msgid ""
+"Great job! All living things move, breathe somehow, grow, reproduce, and "
+"respond to their environment."
+msgstr ""
+"عمل عظيم! جميع الكائنات الحية تتحرك، تتنفس بطريقة أو بأخرى، تنمو وتتكاثر، "
+"وتتأقلم مع بيئتها."
+
+msgid ""
+"Great job! All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"عمل رائع!  جميع الكائنات الحية تتنفس وتنمو وتتكاثر وتستجيب لبيئاتها بطريقة "
+"معينة."
+
+msgid ""
+"Not quite. All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"ليس تماما! جميع الكائنات الحية تتنفس بطريقة أو بأخرى، و تنمو وتتكاثر  ، "
+"وتستجيب لبيئتها."
+
+# 10
+msgid ""
+"When you first look at flowers, the process of getting <span "
+"class='key'>pollen</span> to egg cells seems simple. The pollen probably "
+"just falls from the anther to the stigma, and everything takes care of "
+"itself. The real process is better. Future generations are healthier when "
+"characteristics from different parents are mixed in offspring. This is why "
+"most flowers don't have their male and female parts ready to reproduce at "
+"the same time. The pollen that is made by a particular plant won't be used "
+"to pollinate that plant, but will send its message to another plant."
+msgstr ""
+"عندما تنظر الى الزهور للمرة الاولى ترى عملية الحصول على <span "
+"class='key'>حبوب اللقاح</span>  في خلايا البويضة بسيطة . حبوب اللقاح ربما "
+"تقع  فقط من العضو الذكري إلى الميسم، وكل شيء يقوم  بعمله  بنفسه.  العملية "
+"الحقيقية هي  افضل .  أجيال المستقبل أكثر صحة عندما تكون الخصائص من الآباء "
+"والأمهات مختلفة وتختلط في الابناء وهذا هو السبب في أن معظم الزهور لا تحتوي "
+"على أجزاء من الذكور والإناث التي تكون  على استعداد لإعادة الإنتاج بنفس "
+"الوقت.  لن يتم استخدام حبوب اللقاح التي يتم انتاجها لتلقيح هذا النبات، ولكن "
+"سوف ترسله إلى نبات آخر."
+
+msgid ""
+"The problem is getting the pollen from one location to another. Sometimes "
+"pollen that is shed from a flower is carried by the wind to another flower. "
+"In more interesting cases, the pollen has a carrier - an animal. Birds, "
+"bees, and bats can be carriers of pollen."
+msgstr ""
+"المشكلة هي الحصول على حبوب اللقاح من مكان إلى آخر.  في بعض الأحيان تتناثر "
+"حبوب اللقاح  من زهرة  إلى زهرة أخرى من الريح..  وفي حالات أكثر إثارة "
+"للاهتمام، وحبوب اللقاح لديها ناقل (حيوان).  الطيور، والنحل، والخفافيش يمكن "
+"أن تكون حاملة لحبوب اللقاح."
+
+msgid ""
+"Bees pollinate more than 100 types of agricultural crops in the United "
+"States, including apples, oranges, lemons, watermelons, and cantaloupe. Bees "
+"are attracted to flowers because they can smell sweet, sugary nectar, "
+"usually located near the base of the flower, inside the petals. As a bee "
+"climbs into a flower, its hairy body rubs past anthers, thick with pollen. "
+"Much of that pollen is stuck to the bee hairs. At the next flower, the bee "
+"climbs in again, searching for nectar. As it climbs in, it brushes past the "
+"sticky stigma, losing a few of the pollen grains. This pollen then "
+"fertilizes the flower and fruit development begins."
+msgstr ""
+"النحل يلقح أكثر من 100 نوع من المحاصيل الزراعية في الولايات المتحدة، بما في "
+"ذلك التفاح والبرتقال والليمون والبطيخ والشمام.  تنجذب النحلات الى الزهور "
+"لانها تستطيع شم رحيقها الحلو المذاق وعادة ما تكون بالقرب من قاعدة الزهرة،"
+"داخل البتلات.  عندما تتسلق النحلة الزهرة تدعك شعيراتها العضو الذكري بكثافة "
+"بحبوب اللقاح.  الكثير من حبوب اللقاح هذه تعلق بشعيرات النحلة.  تتسلق النحلة "
+"الى الزهرة الثانية باحثة عن الرحيق .  وهي تتسلق تدعك الميسم الدبق وتخسر "
+"القليل من حبوب اللقاح .  هذا اللقاح خصب ثم تبدأ الزهور والفاكهة بالنمو."
+
+# 11
+msgid "Question A. Which of the following is most likely a pollinator?"
+msgstr "السؤال أ. اي من التالية يعتبر ملقح؟"
+
+msgid "A beetle crawls into and out of a flower."
+msgstr "الخنفساء تزحف داخل وخارج الزهرة."
+
+msgid "A bird builds a nest in a tree."
+msgstr "الطائر يبني عشا على الشجرة"
+
+msgid "Termites construct a colony inside a tree."
+msgstr "النمل الابيض يبني مستعمرة داخل الشجرة."
+
+msgid "Deer chew the leaves of plants in a meadow."
+msgstr "الغزلان تمضغ اوراق الشجر في المروج"
+
+msgid ""
+"Question B. Which part of the plant holds the pollen before pollination "
+"happens?"
+msgstr "السؤال ب. أي جزء من النبات يحمل حبوب اللقاح قبل أن يحدث التلقيح؟"
+
+msgid "Correct. An animal must enter and leave flowers to be a pollinator."
+msgstr "صحيح.  يجب أن يدخل الحيوان ويخرج من الزهور لتكون ملقح."
+
+msgid "Not this one. It doesn't say anything about the bird and flowers."
+msgstr "ليس هذا.  فهذا لا يذكر شيئا عن الطيور والزهور."
+
+msgid "Nope. Eating a tree doesn't help its reproduction."
+msgstr "كلا. أكل شجرة لا يساعد على تكاثرها."
+
+msgid "Sorry. Leaf-eating doesn't do anything for pollination."
+msgstr "اسف. فأكل اوراق الشجرة لا يساعد عملية التلقيح."
+
+msgid "Correct. Pollen is on the top part of the stamen."
+msgstr "صحيح. حبوب اللقاح تكون على الجزء العلوي من السداة."
+
+msgid "No, pollen is not on the stigma."
+msgstr "لا.  حبوب اللقاح لا تكون على الميسم."
+
+msgid "No, pollen is not on the petal."
+msgstr "لا، حبوب اللقاح لا تكون على البتلة."
+
+msgid "No, pollen is not on the stem."
+msgstr "لا، حبوب اللقاح لا تكون على الجذع."
+
+# 12
+msgid ""
+"In animals, individuals are either male or female; each having very "
+"different reproductive systems. In sexual reproduction, sperm from the male "
+"is united with an egg from the female creating a fertilized egg. Once its "
+"place is secure, it develops into a fetus and then into an infant, ready for "
+"birth. While different species take different amounts of time for "
+"development, the process is similar in all species."
+msgstr ""
+"الحيوانات والانسان هما اما ذكر او انثى.  كلاهما لديهما نوع تكاثر مختلف .  في "
+"التكاثر الجنسي يؤخذ الحيوان المنوي من الذكر والبويضة من الانثى.  ويتم تكوين "
+"بويضة مخصبة، عندما تستقر البويضة بأمان تتطور الى جنين  ومن ثم الى رضيع يستعد "
+"لأن يولد .  بينما يأخذ كل نوع من الكائنات وقت معين للولادة، الا ان العمليه "
+"تتشابه في كل الانواع."
+
+msgid ""
+"In reality, for this to happen in animals, females usually choose their "
+"reproductive partners. Animal females in nature have one key interest: "
+"survival of their own offspring. Sometimes that means choosing a strong male "
+"to mate with. Sometimes other male characteristics matter more."
+msgstr ""
+"في الواقع، يحدث ان الاناث من الحيوانات  عادة تختار شركائها للتزاوج .  اناث "
+"الحيوانات لديها اهتمام كبير بابقاء نسلها على قيد الحياة.  وهذا يتطلب احيانا "
+"اختيارها للذكور القوية للتزاوج معها .  أحيانا خصائص الذكور الآخرين تهم اكثر. "
+
+msgid ""
+"Many mammal, bird, fish, and reptile males make displays to attract females. "
+"These displays are examples of <span class=\"key\">courtship</span> "
+"behavior. Some examples you may have seen include peacocks showing off their "
+"tail feathers; stallions or bulls pawing at the ground; or cuttlefish "
+"changing colors almost instantly. The purpose of courtship behavior is to "
+"allow for the selection of healthy mates. This system, while not foolproof, "
+"works well enough that it is common throughout the animal kingdom."
+msgstr ""
+"العديد من ذكور الثدييات والطيور والأسماك والزواحف والذكور  تعرض نفسها  لتجذب "
+"الإناث.  هذا النوع من العروض هو بمثابة <span class='key'>تودد</span>.  بعض "
+"الامثلة على ذلك : تحريك الطاووس لذيله؛ الفحول او الثيران وهي تخدش في الارض ؛ "
+"تغير لون الحبار بسرعة.  الغرض من سلوك التودد هو اختيار الشريك الاكثر صحة.  "
+"بينما هذا النوع من التودد غير مضمون الا انه الاسلوب الاكثر شيوعا في المملكة "
+"الحيوانية."
+
+# 13
+msgid ""
+"Question A. Which of the follow pictures shows an animal making a courtship "
+"display?"
+msgstr "السؤال أ.  اي من الصور التالية تبين تودد  حيوان لآخر؟"
+
+msgid ""
+"Question B. Select the <span class='blink'>correct</span> words and complete "
+"the paragraph below."
+msgstr ""
+"السؤال ب. اختر الكلمات <span class='key'>الصحيحة</span>  وأكمل الفقرة أدناه."
+
+msgid "male"
+msgstr "ذكر"
+
+msgid "egg"
+msgstr "بويضة"
+
+msgid "asexual"
+msgstr "تكاثر لا جنسي"
+
+msgid "female"
+msgstr "انثى"
+
+msgid "sexual"
+msgstr "جنسي"
+
+msgid "sperm"
+msgstr "حيوان منوي"
+
+msgid "In"
+msgstr "داخل"
+
+msgid "reproduction, "
+msgstr "تكاثر"
+
+msgid "from the "
+msgstr "من ال"
+
+msgid "is united with an/a"
+msgstr "متحد مع ."
+
+msgid "creating a fertilized egg."
+msgstr "انتاج بيضة مخصبة"
+
+msgid "Correct! This bird is making a display."
+msgstr "صحيح، هذا الطائر يعمل عرضا."
+
+msgid "Not this one... it's just a bird."
+msgstr "ليس هذا ، انه مجرد طائر."
+
+msgid "Nah... this is just a bird."
+msgstr "كلا... هذا مجرد طائر."
+
+msgid "Not this one... these are just parrots."
+msgstr "ليس هذا. انهم مجرد ببغاوات."
+
+msgid ""
+"Great job! Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"عمل عظيم! الحيوانات تخلق الذرية بواسطة التكاثر الجنسي وفيها تتحد الحيوانات "
+"المنوية من الذكور والبويضات من الاناث."
+
+msgid ""
+"Not quite. Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"ليس تماما.  الحيوانات تنتج الذرية بواسطة التكاثر الجنسي وفيها تتحد الحيوانات "
+"المنوية من الذكور والبويضات من الاناث."
+
+# 14
+msgid "Using what you know... about reproduction... to solve a problem"
+msgstr "استخدم ما تعرف ... عن التكاثر ... لحل مشكلة."
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid ""
+"A certain bird, called a manakin shows his display to attract the female to "
+"mate. The male is brightly colored. The female is about the same size, but "
+"has colors that will allow her to remain unnoticed when she cares for her "
+"eggs in her nest. There is a lot of competition and only the alpha male will "
+"have the opportunity to mate."
+msgstr ""
+"عصفور معين، يسمى ماناكن يعرض ما لديه ليجذب الانثى للتزاوج .  الذكر الوانه "
+"زاهية والانثى بنفس حجم الذكر تقريبا.  ولكن الوانها الزاهية تبقيها غير ملاحظة "
+"عندما تهتم ببيوضها في العش.  هنالك الكثير من المنافسة ووحده طائر الالفا لديه "
+"الفرصة للتزاوج. "
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"You are a zoologist in the <span class='key'>ornithology</span> department "
+"(a branch of zoology that concerns the study of birds). You are preparing an "
+"enclosed habitat for this manakin species to live at your zoo."
+msgstr ""
+"انت عالم حيوان في <span class='key'>قسم الطيور</span> وتستعد لايجاد موطن "
+"مغلق لهذه الانواع في حديقة الحيوان الخاصة بك."
+
+msgid ""
+"Based on what you now know about the animal and reproduction, what ideas do "
+"you have for the bird's area you are building? What behavior in the birds "
+"might cause problems related to mating? What could you do to solve such a "
+"problem with manakins in breeding season in your zoo?"
+msgstr ""
+"استنادا لمعرفتك بالحيوانات والتكاثر و الافكار التي لديك حول المكان التي "
+"تبنيه لها وتعيش فيه؟ ما هو السلوك الذي تتبعه الطيور والذي يؤثر في تزاوجها؟ "
+"ماذا يمكن ان تفعل لحل مشكلة طيور المانكن في موسم التكاثر في حديقة الحيوان؟"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة اجابتك"
+
+# 15
+msgid "Summarizing core ideas... about reproduction"
+msgstr "لخص الأفكار الأساسية ...عن التكاثر"
+
+msgid ""
+"All living things are capable of <span class='key'>reproduction</span>. Each "
+"new generation of <span class='key'>offspring</span> is the result of either "
+"asexual or sexual reproduction. Organisms that reproduce asexually do so by "
+"dividing or budding off new individuals. <span class='key'>Asexual</span> "
+"organisms are all alike. <span class='key'>Sexual reproduction</span> "
+"involves differences between males and females. This allows recombination of "
+"genetic material, and variation among different organisms of the same type. "
+"All plants and animals progress through life cycles. In the early stages of "
+"development, an organism grows from an embryo through various stages until "
+"it is mature enough for reproduction. In the reproductive phase, females "
+"produce egg cells and males produce sperm. Sperm is carried in pollen. <span "
+"class='key'>Pollination</span> is when pollen is carried from one flower to "
+"another, sometimes by the wind, but often by insects or other animals. "
+"Animals often have special behaviors to help them attract mates. These <span "
+"class='key'>courtship</span> behaviors send messages to opposite sex members "
+"of the same species that individuals are ready for reproduction."
+msgstr ""
+"جميع الكائنات الحية قادرة على <span class='key'>التكاثر</span>.  كل جيل جديد "
+"من  <span class='key'>الذرية</span>  هو نتيجة إما للتكاثر الاجنسي أو تكاثر "
+"جنسي. الكائنات الحية التي تتكاثر <span class='key'>لاجنسيا</span> تقوم بذلك "
+"عن طريق انقسامها او انتاجها كائنات اخرى.  الكائنات المتكاثرة لاجنسيا كلها "
+"مثل بعضها.  ينطوي <span class='key'>التكاثر الجنسي</span> على الفروق بين "
+"الذكور والإناث.  وهذا يسمح بإعادة تركيب المادة الوراثية، والاختلاف بين "
+"الكائنات الحية المختلفة من نفس النوع.   جميع النباتات والحيوانات تتقدم من "
+"خلال دورات الحياة.   في المراحل الأولى من التطور ينمو  فيها الكائن الحي من "
+"جنين خلال مراحل مختلفة حتى ينضج كفاية ليتكاثر. في المرحلة الإنجابية، الإناث "
+"تنتج خلايا البيض والذكور تنتج الحيوانات المنوية.  ينقل  الحيوان المنوي عن "
+"طريق <span class='key'>اللقاح</span>.  التلقيح هو انتقال حبوب اللقاح من زهرة "
+"الى زهرة.  ولكن في كثير من الأحيان في الحشرات أو الحيوانات تكون السلوكيات "
+"الخاصة لمساعدتهم على جذب الاصحاب هي <span class='key'>التودد</span>.  هذه "
+"السلوكيات ترسل رسائل للجنس الآخر من نفس النوع بأنها  مستعدة للتزاوج."
+
+# 16
+msgid "Reviewing key vocabulary... related to... reproduction"
+msgstr "مراجعة المصطلحات الأساسية ... المرتبطة مع ... التكاثر"
+
+msgid "Offspring"
+msgstr "النسل أو الذرية."
+
+msgid "Sexual Reproduction"
+msgstr "التكاثر الجنسي"
+
+msgid "Flower"
+msgstr "زهرة "
+
+msgid "Pollination/ Pollen"
+msgstr "التلقيح/لقاح"
+
+msgid "Courtship Display"
+msgstr " التودد والعرض للتزاوج "
+
+msgid "Ornithology"
+msgstr "علم الطيور "
+
+msgid ""
+"Reproduction is the act of making the same thing again. Living things must "
+"reproduce themselves to continue as a form of life. All plants and animals "
+"have a system of reproduction. Some plants do it by dropping seeds. Some "
+"animals lay eggs. Other animals have babies. Insects reproduce many, many "
+"times more offspring than larger animals do."
+msgstr ""
+"التكاثر هو عملية تصنع نفس الشيء مرة اخرى.  يجب على الكائنات الحية ان تتكاثر "
+"للاستمرار في الحياة.  جميع النباتات والحيوانات لها اساليب عدة للتكاثر.  بعض "
+"النباتات تفعل ذلك من خلال إسقاط البذور.   بعض الحيوانات تضع بيضها.  "
+"الحيوانات الأخرى لديها أطفال.  الحشرات تتكاثر مرات عديدة جدا أكثر من "
+"الحيوانات الكبيرة الاخرى."
+
+msgid ""
+"Offspring are new living things that come from one or more parents. When a "
+"female dog has a litter of puppies, she has given birth to offspring."
+msgstr ""
+"الذرية هي الكائنات الحية الجديدة التي تأتي من واحد أو أكثر من الآباء "
+"والأمهات.  عندما يكون للكلاب عدد كبير من الجراء فنقول انها ولدت ذرية ."
+
+msgid ""
+"It is very important that living things make offspring. If they did not, "
+"over time they would eventually no longer exist on Earth. Every type of "
+"living thing makes offspring. Even plants have offspring. Many types of "
+"flowers, plants, and trees drop seeds from which their offspring will grow."
+msgstr ""
+"من المهم جدا على  الكائنات الحية ان تتكاثر وتنجب.  ان لم تفعل ذلك فسوف  "
+"تنقرض عن الارض.  كل نوع من الكائنات الحية يتكاثر وينجب . حتى النباتات لديها "
+"ذرية . الكثير من الزهور والاشجار تسقط بذورها التي سينمو منها نسل اخر."
+
+msgid ""
+"Asexual reproduction is a way of producing offspring that involves only one "
+"parent. There is no combining of a female sex cell with a male sex cell."
+msgstr ""
+"التكاثر اللاجنسي هو وسيلة لإنتاج نسل  ينطوي على أحد الوالدين فقط.. ليس هناك "
+"ما يجمع بين خلية الإناث مع خلية الذكور."
+
+msgid ""
+"Asexual reproduction is the primary means of reproduction for many single-"
+"celled living things such as bacteria. Many plants and fungi also reproduce "
+"asexually, but asexual reproduction is not common among multicellular living "
+"things."
+msgstr ""
+"التكاثر اللاجنسي هو الوسيلة الأساسية للتكاثر للعديد من الكائنات الحية وحيدة "
+"الخلية مثل البكتيريا.  العديد من النباتات والفطريات أيضا تتكاثر لاجنسيا، "
+"ولكن التكاثر اللاجنسي ليست شائع بين الكائنات الحية متعددة الخلايا."
+
+msgid ""
+"In sexual reproduction, sperm from the male is united with an egg from the "
+"female creating a fertilized egg. Once its place is secure, it develops into "
+"a fetus and then into an infant, ready for birth."
+msgstr ""
+"في التكاثر الجنسي، تتحد الحيوانات المنوية من الذكور مع البويضة من الإناث "
+"لخلق البويضة المخصبة.  عندما يستقر مكانها وتكون أمنة، تطور الى الجنين ومن ثم "
+"إلى الرضيع، ثم الاستعداد للولادة."
+
+msgid ""
+"Like animals, plants also reproduce sexually—the egg and sperm are produced "
+"in the flowers of flowering plants."
+msgstr ""
+"مثل الحيوانات، النباتات تتكاثر جنسيا أيضا -البويضة والحيوانات المنوية يتم "
+"إنتاجها في الزهور من النباتات المزهرة."
+
+msgid ""
+"Plant reproductive structures are found in flowers. Colored petals on a "
+"flower and colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"تم العثور على بنى انجابية تصنع في الزهور.  بتلات ملونة على زهرة والريش "
+"الملون على الطيور كلاهما بنى للمساعدة في الإنجاب ."
+
+msgid ""
+"Many plants have both male and female parts in the same flower. The male "
+"part is called a stamen. Sperm are packaged into particles called pollen "
+"grains. The female part of the flower is called the pistil."
+msgstr ""
+"العديد من النباتات  سواء الذكور أو الإناث لها نفس أجزاء الزهرة.  ويسمى الجزء "
+"الذكري السداة.  تعبأ الحيوانات المنوية إلى جسيمات تسمى حبوب اللقاح.  ويسمى "
+"الجزء الأنثوي من الزهرة المدق."
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants, through the process of pollination."
+msgstr ""
+"حبوب اللقاح عبارة عن مسحوق أصفر يوجد داخل النباتات المزهرة.  حبوب اللقاح "
+"تساعد النبات على انتاج المزيد من النباتات، من خلال عملية التلقيح."
+
+msgid ""
+"Insects such as bees and butterflies go to flowers to eat. While they eat, "
+"some of the flower's pollen sticks to them. When one insect goes to another "
+"flower, it takes the pollen with it. Some of the first flower's pollen rubs "
+"off onto the second flower. That helps the second flower grow seeds."
+msgstr ""
+"الحشرات مثل النحل والفراشات تذهب الى الزهور لتناول الطعام.  بينما يأكلون "
+"تعلق حبوب اللقاح بها. وحين تطير الحشرة من زهرة لأخرى تحمل معها حبوب اللقاح.  "
+"البعض من حبوب اللقاح يعلق من الزهرة الاولى للثانية.  هذا يساعد الزهرة على "
+"نمو البذور فيها."
+
+msgid "Look at the bee in this photograph. Can you see the pollen?"
+msgstr "إلق نظرة على النحل في هذه الصورة.  هل تستطيع أن ترى  حبوب اللقاح؟"
+
+msgid ""
+"Many mammal, bird, fish, and reptile males engage in courtship display "
+"behaviors to attract females."
+msgstr ""
+"العديد من  ذكور الثدييات والطيور والأسماك والزواحف تتبع سلوك التودد لجذب "
+"الإناث."
+
+msgid ""
+"Some examples of courtship behavior are peacocks showing off their tail "
+"feathers; stallions or bulls pawing at the ground; or cuttlefish changing "
+"colors almost instantly."
+msgstr ""
+"بعض الأمثلة على سلوك التودد  هو الطاووس من خلال هز ريش ذيله؛ الفحول أو "
+"الثيران تخدش في الأرض؛ والحبار يتغير لونه على الفور .."
+
+msgid "Ornithology is the study of birds."
+msgstr "اورنيثولوجي هو (علم دراسة الطيور)"
+
+msgid ""
+"An ornithologist may work for a zoo to prepare a proper habitat for a bird "
+"to live in."
+msgstr ""
+"قد يعمل عالم الطيور في حديقة الحيوان لإعداد موطن مناسب للطائر ليعيش فيه."
+
+# 17
+msgid "Checking what you now know... about reproduction"
+msgstr "تأكد مما تعرف ... عن التكاثر"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+# 18
+msgid "Reproduction involving male and female parents is known as:"
+msgstr "التكاثر هو إشراك الوالدين من  الذكور والإناث كما هو معروف في :"
+
+msgid "Asexual"
+msgstr "تكاثر لاجنسي"
+
+msgid "Nonsexual"
+msgstr "غير جنسي."
+
+msgid "Sexual"
+msgstr "جنسي."
+
+msgid "Monoclonal"
+msgstr "وحيدة النسيلة"
+
+msgid "Correct. Sexual reproduction requires male and female parents."
+msgstr "صحيح.  يتطلب التكاثر الجنسي كلا الوالدين من الذكور والإناث."
+
+msgid "Sorry. Asexual reproduction involves only one parent."
+msgstr "آسف.  التكاثر اللاجنسي يحتوي  أحد الوالدين فقط.."
+
+msgid "No... Reproduction using two parents is sexual."
+msgstr "لا.  التكاثر الذي يحتوي على والدين اثنين هو تكاثر جنسي."
+
+msgid "Nah... Monoclonal is a type of asexual reproduction."
+msgstr "لا... وحيدة النسيلة هي نوع من التكاثر اللاجنسي."
+
+# 19
+msgid ""
+"Click <span class='blink'>all</span> the changes on the right column you "
+"think the events on the left column are causing."
+msgstr ""
+"انقر على <span class='key'>جميع</span> التغيرات في العمود الاول والتي تعتقد "
+"ان الاحداث في العمود الايسر مسببة لها."
+
+msgid "Rapid accumulation of identical organisms"
+msgstr "التراكم السريع للكائنات الحية المتطابقة."
+
+msgid "Great variety in human appearance"
+msgstr "تنوع هائل في مظهر الانسان"
+
+msgid "New varieties of apple"
+msgstr "أصناف جديدة من التفاح"
+
+msgid "Some traits are passed onto offspring more often than others."
+msgstr "تنتقل بعض الصفات إلى الابناء اكثر من غيرها في كثير من الأحيان ."
+
+msgid "Some traits may be lost to populations of organisms."
+msgstr " قد تفقد الكثير من الكائنات الحية بعض الصفات."
+
+msgid "All individuals have equal chances of reproducing."
+msgstr "كل الكائنات الحية لها فرص متساوية للتكاثر."
+
+msgid "Correct. The bacteria dividing leads to producing identical organisms."
+msgstr "صحيح.  تقسيم البكتيريا يؤدي إلى إنتاج كائنات متماثلة."
+
+msgid ""
+"You're right about identical organisms, but can they be identical and have "
+"variety at the same time? Check again."
+msgstr ""
+"أنت محق بشأن الكائنات المتطابقة، ولكن هل  يمكن أن تكون متطابقة  ومتنوعة في "
+"نفس الوقت؟ تحقق مرة أخرى."
+
+msgid "No. Asexual reproduction does not cause any type of variety."
+msgstr "لا ..التكاثر اللاجنسي لا يتسبب في اي نمط  من التنوع."
+
+msgid "Correct. Not all traits are passed down to one's offspring."
+msgstr "صحيح. لا تنتقل جميع الصفات الى ابن واحد فقط.."
+
+msgid "Partly correct... Not all traits are passed down to one's offspring."
+msgstr "صحيح جزئيا .  لا تنتقل جميع الصفات الى ابن واحد فقط.."
+
+msgid "No, for example in some animal groups only the dominant males mate."
+msgstr ""
+"لا، على سبيل المثال في بعض المجموعات الحيوانية الذكور المهيمنة فقط تتزاوج."
+
+# 20
+msgid "Which of the following is true of animal cycles?"
+msgstr "أي من التالي صحيح بالنسبة لدورة الحيوان؟"
+
+msgid "Some animals reproduce."
+msgstr "بعض الكائنات تتكاثر."
+
+msgid "Animals only reproduce by laying eggs."
+msgstr "تتكاثر الحيوانات فقط عن طريق وضع البيض."
+
+msgid "All animals reproduce."
+msgstr "كل الكائنات تتكاثر"
+
+msgid "A and B"
+msgstr "الف و باء"
+
+msgid "Correct. In their life cycle, all animals reproduce."
+msgstr "صحيح، في دورة حياتها, كل الكائنات الحية تتكاثر."
+
+msgid "No, all animals reproduce. Otherwise they would be extinct."
+msgstr "لا، كل الحيوانات تتكاثر.  وإلا فإنها ستنقرض."
+
+msgid "No, not all animals lay eggs. For example most mammals do not lay eggs."
+msgstr "لا، ليست كل الحيوانات تبيض.  على سبيل المثال معظم الثدييات لا تبيض."
+
+msgid "No, all animals reproduce, but they don't all lay eggs."
+msgstr "لا، كل الحيوانات تتكاثر، لكنها لا تبيض جميعها."
+
+# 21
+msgid ""
+"What is an advantage of having only the dominant male and female wolves in a "
+"pack produce offspring?"
+msgstr "ما هي الفائدة من وجود الذئاب المهيمنة فقط من  ذكر وانثى لانتاج النسل."
+
+msgid ""
+"Later generations will likely be more similar to the stronger wolves than to "
+"the weaker wolves."
+msgstr ""
+"من المرجح أن تكون الأجيال القادمة من الذئاب أكثر مماثلة للذئاب القوية من "
+"الذئاب الضعيفة."
+
+msgid ""
+"Later generations will likely be more similar to the weaker wolves than to "
+"the stronger wolves."
+msgstr ""
+"من المرجح أن تكون الأجيال القادمة من الذئاب أكثر مماثلة للذئاب الضعيفة من  "
+"الذئاب القوية."
+
+msgid ""
+"Later generations will probably have more difficulty finding food than "
+"previous generations."
+msgstr ""
+" من المحتمل ان  تلاقي الاجيال القادمة  صعوبة أكثر في الحصول على الطعام  من "
+"الاجيال السابقة."
+
+msgid ""
+"Later generations will have more difficulty finding shelter than previous "
+"generations."
+msgstr ""
+"من المحتمل ان تلاقي الاجيال القادمة صعوبة اكثر في الحصول على مأوى من الأجيال "
+"السابقة."
+
+msgid ""
+"Very good! Whatever characteristics the dominant parents have will transfer "
+"to their offspring."
+msgstr ""
+"جيد جدا!  مهما كانت الخصائص التي يتصف بها الاباء المهيمنون فهي سوف تنتقل "
+"لأبنائهم."
+
+msgid ""
+"Not likely... There's no connection between the non-dominant wolves and the "
+"next generation."
+msgstr "ليس مرجحا، لا توجد أي صلة بين الذئاب غير المهيمنة والجيل القادم."
+
+msgid ""
+"No. Chances of finding food in the future probably don't decrease with "
+"stronger characteristics."
+msgstr ""
+"لا, من المحتمل ان  فرصة ايجاد الطعام في المستقبل لا تقل مع وجود الخصائص "
+"القوية."
+
+msgid ""
+"Sorry... Chances of finding shelter aren't really affected by reproductive "
+"choices."
+msgstr "اسف, فرص ايجاد مأوى لا تتأثر بالخيارات الانجابية."
+
+# 22
+msgid "What can you infer about flowers that are pollinated by bats?"
+msgstr "ماذا يمكن ان تستدل حول الزهور الملقحة بواسطة الخفافيش."
+
+msgid "They are probably located in caves."
+msgstr "من المرجح انهم يعيشون في الكهوف."
+
+msgid "They probably contain no pollen."
+msgstr "من المرجح انها لا تحتوي اية لقاح."
+
+msgid "They probably bloom at night."
+msgstr "من المرجح انها تزهر بالليل."
+
+msgid "They are probably very brightly colored."
+msgstr "من المرجح أن ألوانها زاهية ."
+
+msgid ""
+"No, flowers are unlikely to be found in caves, since plants need light to "
+"grow."
+msgstr "لا, ليس من المرجح ان توجد الزهور في الكهوف, بما أنها تحتاج الى الضوء."
+
+msgid "No. Flowers without pollen cannot be part of the pollination process."
+msgstr "لا.  الزهور من دون حبوب اللقاح لا يمكن أن تكون جزءا من عملية التلقيح."
+
+msgid "Correct! The flowers might be open at night when bats come out."
+msgstr "صحيح! قد تكون الزهور مفتوحة في الليل عندما تخرج الخفافيش."
+
+msgid ""
+"Bats are color blind, so bright colored flowers would not affect their "
+"ability to find them."
+msgstr ""
+"الخفافيش مصابة بعمى الألوان،حتى الزهور الملونة الزاهية  لا تؤثر على قدرتها "
+"للعثور عليها."
+
+# 23
+msgid ""
+"In the life cycle of a plant, the first step is seed germination. The second "
+"step is plant growth. What occurs next in the third step?"
+msgstr ""
+"في دورة حياة النبات، الخطوة الأولى هي إنبات البذور.  والخطوة الثانية هي نمو "
+"النبات. فما سيحدث في الخطوة المقبلة الثالثة؟"
+
+msgid "The fruit releases seeds."
+msgstr "الفاكهة تطلق البذور."
+
+msgid "The plant flowers."
+msgstr "النبات يزهر."
+
+msgid "The plant dies."
+msgstr "النبات يموت."
+
+msgid "None of the above"
+msgstr "لا شيء مما ذكر."
+
+msgid "No, the plant produces fruit after it flowers."
+msgstr "لا, النباتات تنتج الثمر بعد أن تزهر."
+
+msgid "Yes, the third step is when the plant flowers."
+msgstr "نعم, الخطوة الثالثة هي عندما تزهر النباتات."
+
+msgid "No, the plant still has a few steps to do before dying."
+msgstr " لا، ما زال على النبات بضع  خطوات يقوم بها قبل أن يموت."
+
+msgid "No, the plant flowers in the third step."
+msgstr "لا, النبات يزهر في الخطوة الثالثة."
+
+# 24
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكن التحقق مما قدمته في الاختبار السريع وفي الاسئلة القصيرة لهذه المراجعة "
+"من خلال النقر على الزر أدناه."
+
+msgid "You've completed the Reproduction review."
+msgstr "أنهيت مراجعة التكاثر."
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"أدر او اقلب الصندوق المبين على اليسار اما لاعلى او لاسفل لتحديد اجابتك."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدير الصندوق وحدد إجابتك"

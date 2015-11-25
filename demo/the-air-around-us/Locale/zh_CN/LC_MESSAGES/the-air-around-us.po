@@ -1,0 +1,755 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回（上一個）"
+
+msgid "Read More"
+msgstr "閱讀更多（延伸閱讀）"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案（複選）。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速測驗#1"
+
+msgid "Quick Check #2"
+msgstr "快速測驗#2"
+
+msgid "Quick Check #3"
+msgstr "快速測驗#3"
+
+msgid "Quick Check #4"
+msgstr "快速測驗#4"
+
+msgid "Please check your answers."
+msgstr "請確認你的答案。"
+
+msgid "How did I do?"
+msgstr "我應該怎麼做？"
+
+msgid "You answered..."
+msgstr "你回答了……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請上下旋轉或翻動下方的方塊來設置你的答案。點擊，按住並上下移動滑鼠。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住滑鼠並上下移動來轉動方塊和選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "點選左、右鍵頭來瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡以開始輸入你的答案……"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當你準備好了，請點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "考驗問題#1"
+
+msgid "Quiz Question #2"
+msgstr "考驗問題#2"
+
+msgid "Quiz Question #3"
+msgstr "考驗問題#3"
+
+msgid "Quiz Question #4"
+msgstr "考驗問題#4"
+
+msgid "Quiz Question #5"
+msgstr "考驗問題#5"
+
+msgid "Quiz Question #6"
+msgstr "考驗問題#6"
+
+msgid "Congratulations, "
+msgstr "恭喜！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "你可以點擊下方的按鈕來確認在這次的複習中“快速測驗”與“考驗問題”表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "到儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎"
+
+msgid "Preparing your first quick check!"
+msgstr "準備好你的第一次快速測驗……"
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的最後一次快速測驗？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備開始你的最後一次考驗問題？"
+
+msgid "Words and explanations"
+msgstr "單字與解釋"
+
+msgid "And the first quiz question is..."
+msgstr "接著第一個考驗問題是……"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "Welcome to the Air Around Us module"
+msgstr "歡迎來到我們周遭的空氣模組"
+
+# 2
+msgid "Thinking about... the air around us"
+msgstr "想想看有關……我們周遭的空氣"
+
+msgid "Have you ever woken up in the morning, stretched your arms and taken a deep breath? Did you ever wonder what was in that deep breath? Sure – you probably thought you were taking in “air”. But what is that air stuff anyway? You can’t see it. You can’t taste it or smell it or feel it. So is it nothing or is it something? And how do you know?<br>And what if you live in a city where there’s “air pollution”? What does that mean? What is it that “pollutes” the air? And, if there’s enough air pollution, maybe you actually can see the air, or taste it or smell it after all."
+msgstr "你曾有過在早上起床，伸直你的手臂並深呼一口氣嗎？你曾想過在那口深呼吸中存在了什麼嗎？那當然－你大概會想到是吸進空氣。但是那空氣到底在哪裡？你看不到它。你無法品嚐到它、聞到它或是感覺到它。所以它到底是存在還是不存在？你要如何知道？還有如果你生活在一個被空氣污染的城市會怎麼樣？那是什麼意思呢？什麼是“污染”空氣。還有，如果污染夠嚴重，或許你就可以在那之後實際地看到空氣、或是品嚐、或是聞到它。"
+
+# 3
+msgid "Checking what you know about... the air around us"
+msgstr "檢測看看你所了解有關……我們周遭的空氣"
+
+msgid "What is the air composed of?"
+msgstr "空氣的組成有哪些？"
+
+msgid "Pure oxygen"
+msgstr "純氧氣"
+
+msgid "Mostly oxygen with some nitrogen"
+msgstr "多數是氧氣還有一些氮氣"
+
+msgid "Mostly nitrogen with some oxygen"
+msgstr "多數是氮氣還有一些氧氣"
+
+msgid "Mostly nitrogen with some oxygen and other minor gases"
+msgstr "多數是氮氣還有一些氧氣以及一些微量的氣體"
+
+msgid "Air is made up of mostly Nitrogen (about 78%) and Oxygen (about 21%) and other gases that combine to make up the remaining 1% of air. Sometimes some other nasty gases and tiny little particles from exhaust from trucks and buses get into the air too and pollute the air. That can make the air bad for us to breathe."
+msgstr "空氣大多數是由氮氣（大約78%）與氧氣（大約21%）和不到1%其他的氣體所組合而成。有時候一些其他不好的空氣與微小的顆粒從貨車與公車被排出而造成空氣污染。這會對我們呼吸的空氣造成不好的影響。"
+
+msgid "Breathing air..."
+msgstr "呼吸空氣……"
+
+# 4
+msgid "Reviewing big ideas about... the air around us"
+msgstr "複習主要概念有關於……我們周遭的空氣"
+
+msgid "Because the mixture of gases in the air around us is invisible, some people think that there's nothing there. In fact, air is a substance that has mass and takes up space. You may recall the three common phases of matter include solid, liquid and gas. The air in earth's <span class='key'>atmosphere</span> contains a mixture of gases including mostly nitrogen, oxygen, argon and carbon dioxide."
+msgstr "因為在我們週遭混合的氣體是看不見的，有些人可能會覺得它們並不存在。事實上，空氣是一種實體，它具有質量且佔有空間。你可以回想物質共通的三相，包含固態、液態、氣態。在地球上的氣體的混合包含了大多數的氮氣、氧氣、氬氣與二氧化碳。"
+
+msgid "In addition, water (in its gaseous phase which is frequently referred to as <span class='key'>water vapor</span>) is found in Earth's atmosphere. And, despite the amount of rain, snow and sleet that you have watched fall from above, the concentration of water vapor is relatively low. There are a number of other gases such as neon, hydrogen, helium, and methane but these are found at very low levels of concentration."
+msgstr "此外，水（在它的氣態經常被稱作是水蒸氣）存在於地球的大氣中。還有，除了雨、雪和冰雹你都看過之外，對於水蒸氣的濃度應該是相對較低的。還有數種其它的氣體像是氖、氫、氦和甲烷，但是它們的濃度都是非常低的。"
+
+msgid "Although the air around us is largely invisible, air does have mass. For example, consider a balance beam that has one rubber balloon on each side. If one balloon is inflated by blowing it up using your lungs and the other balloon is left empty, then the side with the inflated balloon will be heavier than the other. That's because the mixture of oxygen, nitrogen and carbon dioxide expelled by your lungs has mass."
+msgstr "雖然在我們週遭的空氣大多數是看不到的，但是空氣確實有質量。舉例來說，想想看要在一個秤樑的兩端各放一個氣球來平衡。如果其中一個氣球用你的肺部吹滿了空氣而另一個氣球依舊是空的，接著會發現吹氣的氣球那一側會比另一端重。那是因為從你肺部所吹出來混合了氧氣、氮氣與二氧化碳的空氣是具有質量的。"
+
+msgid "Weighing a balloon..."
+msgstr "秤一個氣球……"
+
+msgid "Relative composition of air"
+msgstr "空氣相關的組成"
+
+msgid "Nitrogen"
+msgstr "氮氣"
+
+msgid "Oxygen"
+msgstr "氧氣"
+
+msgid "Other gases"
+msgstr "其他氣體"
+
+# 5 Quick Check 1
+msgid "The concentrations of Nitrogen, Oxygen, Water Vapor and Argon were measured at various places around the world. Use the data of the chemical components of air at four different locations around the world in the table below to answer the following question."
+msgstr "氮氣、氧氣、水蒸氣與氬氣的濃度在世界各地都被測量。運用下表中四個不同地點的空氣化學組成的資訊來回答接下來的問題。"
+
+msgid "% of Gas in the Atmosphere at Different Locations"
+msgstr "在不同地點的大氣中氣體的%"
+
+msgid "Gas"
+msgstr "氣體"
+
+msgid "Symbol"
+msgstr "標註"
+
+msgid "Location"
+msgstr "地點"
+
+msgid "Argon"
+msgstr "氬氣"
+
+msgid "As the amount of water in the atmosphere <span class='blink'>increases</span> from location to location, which of the following statements are true?"
+msgstr "當大氣中水的含量從一處到另一處是增加的，請問下列哪一個敘述是正確的？"
+
+msgid "Only the amount of nitrogen in the atmosphere decreases."
+msgstr "只有氮氣在大氣中的量是減少的。"
+
+msgid "The amount of nitrogen in the atmosphere increases."
+msgstr "氮氣在大氣中的含量增加。"
+
+msgid "Only the amount of oxygen in the atmosphere increases."
+msgstr "只有氧氣在大氣中的含量增加。"
+
+msgid "The amounts of Nitrogen, Oxygen and Argon in the atmosphere decreases."
+msgstr "氮氣、氧氣、氬氣在大氣中的量都減少了。"
+
+msgid "Correct! As the amount of water in the atmosphere increases, the % of all other gases decreases."
+msgstr "答對了！當大氣中的水氣增加時，其他所有氣體的百分比會減少。"
+
+msgid "Not quite! Look at the table more closely.  As the amount of water in the atmosphere increases, the % of all other gases decreases."
+msgstr "不完全！再看一看表格。當大氣中的水氣增加時，其他所有氣體的百分比會減少。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備好你的第一個快速測驗……"
+
+# 6
+msgid "More big ideas about... the air around us"
+msgstr "更多主要概念有關……我們周遭的空氣"
+
+msgid "Many of the complex phenomena that take place in Earth's atmosphere can be explained through an understanding of density and what happens when the density of an air mass changes as a result of changes in temperature and pressure."
+msgstr "許多發生在地球大氣層的複雜現象，可以用當空氣質量密度改變會造成溫度與壓力改變的知識來解釋。"
+
+msgid "Pressure"
+msgstr "壓力"
+
+msgid "Temperature"
+msgstr "溫度"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "<span class='key'>Density</span> is the ratio between the amount of matter found in a given quantity of an object and the amount of space that quantity takes up (its volume). How many molecules of air packed into a certain space is what we refer to as the density of air. The density of fluids such as liquids and gases can change in response to changes in temperature and pressure. Even slight decreases in temperature can lead to significant changes in air density. For example, a helium-filled balloon brought from a warm, inside room to the cold outdoors, will quickly look deflated (less filled). This is because the density of helium inside the balloon increases as the gas is cooled by the cold outside air. Consequently, the helium takes up less space inside the balloon so the volume of the balloon is less and the balloon shrinks. This makes the balloon appear more deflated than when it was in a warm room."
+msgstr "密度是指物質的量和空間的量（它的體積）之間的比例。在一個特定空間內有多少空氣分子是我們所指的空氣密度。流體例如液體與氣體的密度會隨著溫度與壓力的改變而變化。就算溫度只有微小的降低也可以造成空氣密度明顯的變化。舉例來說，一個在溫暖處充滿氦氣的氣球，從室內到寒冷的室外時會快速的消氣（比較不飽滿）。這是因為氣球裡的氦氣密度受到室外冷空氣降溫時密度增加了。所以，氦氣減少了在氣球中所佔據的空間，所以氣球的體積變小而氣球就縮小了。這會讓氣球比在溫暖的房間時顯得更小。"
+
+msgid "Let's look at another example to better explain this. Have you ever opened a freezer door and watched the fog apparently roll out – especially on a warm humid day?"
+msgstr "讓我來看其他可以解釋這個現象更好的例子。你曾打開一個冰櫃的門然後看到明顯的霧氣滾出來－特別是在溫暖且潮濕的天氣？"
+
+msgid "You might have thought that fog inside the freezer simply flowed out when the door was opened. But this isn't what happens at all. What is actually happening is, when you open the freezer door and cold air from the freezer mixes with and cools the warmer air outside the freezer, the water molecules in the warmer air condense from cooling. That means they come together to form tiny droplets that look like fog. Though we can't see cold air flowing, we can observe its movement outward and downward as the process of condensation expands over a larger volume of air."
+msgstr "你可能會認為霧氣是在冰櫃中在你打開門時流洩出來。但事實上並不是這樣發生的。事實上是這樣的，當你打開冰櫃的門然後冰櫃中的冷空氣會與冰櫃外暖空氣混合並將其降溫，在暖空氣的水分子就會因為降溫而凝結。這表示它們聚集在一起形成為看起來像霧的微小水滴。所以我們看不到冷空氣的流動，我們可以觀察到它的移動向外、向下，這就是一個較大量空氣凝結擴散的過程。"
+
+msgid "This is one of the amazing phenomena that result from the complex interaction between the gasses in the air and the physical conditions (such as temperature and pressure) that take place throughout the air around us."
+msgstr "這樣一個令人驚奇的現象，發生在我們周遭的空氣，是因空氣中的氣體與物理條件（例如溫度及壓力）複雜交互作用的結果。"
+
+msgid "Opening the refrigerator..."
+msgstr "打開冰箱……"
+
+# 7 Quick Check 2
+msgid "Higher temperatures in gas cause lower density. Put the following sentences in order by dragging them up and down to explain how higher temperatures in gas cause lower density."
+msgstr "氣體溫度越高造成密度越低。將下列的句子片段向上、向下拖曳，以創造出句子來解釋氣體溫度越高是如何造成較低的密度。"
+
+msgid "Gas particles move more quickly"
+msgstr "氣體粒子更快地移動"
+
+msgid "So the same mass takes up more space"
+msgstr "所以相同的質量佔據更多空間"
+
+msgid "Causing more space between molecules"
+msgstr "在分子之間造成更多的空間"
+
+msgid "Causing the gas to have lower density"
+msgstr "造成氣體有較低的密度"
+
+msgid "As gas temperature increases"
+msgstr "像是氣體溫度上升"
+
+msgid "Studying air molecules..."
+msgstr "研究氣體分子……"
+
+msgid "That’s right! As gas temperature increases, gas particles move more quickly causing more space between molecules. That way, the same mass takes up more space causing the gas to have lower density."
+msgstr "沒錯！當氣體溫度上升時，氣體粒子更快地移動造成分子之間有更多空間。這樣的話，相同的質量會佔據更多的空間因為氣體有較低的密度。"
+
+msgid "Nope! As gas temperature increases, gas particles move more quickly causing more space between molecules. That way, the same mass takes up more space causing the gas to have lower density."
+msgstr "不完全！當氣體溫度上升時，氣體粒子更快地移動造成分子之間出現更多空間。這樣的話，相同的質量會佔據更多的空間因為氣體有較低的密度。"
+
+# 8
+msgid "The force of gravity pulls all objects that have mass toward Earth's center. Air molecules have mass so they too are pulled down toward Earth's surface. And, just as with all objects, there is a relationship between the mass of the object and the force exerted by gravity – the greater the mass, the greater the gravitational force. The result of this gravitational pull is a phenomenon called <span class='key'>Air Pressure</span>. Imagine for a moment standing in the middle of a column of air that extends from your feet (on Earth's surface) to the outer extent of the atmosphere.  The mass of all that air directly above you exerts a force on you called air pressure.  This is a consequence of the gravitational pull of the Earth on the air mass above you and it affects you and everything on the Earth’s surface. It follows that if there are less molecules of air in that column, then the pressure would be less on Earth's surface. Conversely, if the number and mass of molecules increases, one would experience increased pressure at Earth's surface. So the higher you go, like climbing up a mountain or flying up in an airplane, the less air mass is above you which means there is less force from the weight of that air pushing down; less air pressure! Because the density of air decreases as altitude increases, air pressure generally decreases with altitude. Similarly, as the density of the air increases, so does the air pressure."
+msgstr "重力會讓所有具有質量的物體移向地球的中心。空氣分子有質量所以它們也會被拉向地球的表面。還有，就像其他所有物體一樣，物體質量與重力所產生的力之間是有關係的－越大的質量，會有越大的重力。這種引力所造成的現象稱為大氣壓力。想像著在一瞬間當你站立著，從腳（地球表面）延伸出來到大氣層之外的空氣柱間。這些所有在你之上的空氣質量對你產生的力被稱為空氣壓力。這是地球對在你身體以上的空氣質量的引力所造成的結果，它也影響著地表上的所有東西。如果在這個空氣柱中的空氣分子越少，就會使地表上所受到的空氣壓力較小。相反的，如果分子的數量與質量增加的話，在地表上所感受到的壓力也會增加。所以你到越高的地方，像是登山或是搭上飛機升空，你上方的空氣質量減少了也代表有較少的空氣重力向下；有較小的空氣壓力！因為海拔上升時空氣密度下降，一般空氣壓力隨著海拔上升而減少。同理，當空氣密度下降，空氣壓力也會下降。"
+
+msgid "Look at how few atoms are pressing down on me at the top of the mountain!"
+msgstr "看看這些原子是如何對在山頂的我施加壓力的。"
+
+msgid "Look at all the atoms pressing down on me at the bottom of the mountain!"
+msgstr "看看所有的原子對在山底的我施加壓力。"
+
+msgid "Click here!"
+msgstr "點擊這裡！"
+
+msgid "Lower pressure"
+msgstr "較低的壓力"
+
+msgid "Higher pressure"
+msgstr "較高的壓力"
+
+msgid "Pulling objects..."
+msgstr "拉物體……"
+
+# 9 Quick Check 3
+msgid "Question A. Look at the graph to the right showing the relationship between temperature and the density of air. Which of the following statements about the relationship is true?"
+msgstr "問題A. 請看右邊的圖呈現出空氣溫度與密度的關係。下列哪項敘述中的關係是正確的？"
+
+msgid "Cold air generally has less density than warm air."
+msgstr "一般來說冷空氣會比暖空氣的密度來得小。"
+
+msgid "Warm air generally has less density than cold air."
+msgstr "一般來說暖空氣會比冷空氣的密度來得小。"
+
+msgid "Warm air exerts greater pressure on Earth’s surface than cold air."
+msgstr "暖空氣會比冷空氣對地表產生較大的壓力。"
+
+msgid "Cold air exerts less pressure on Earth’s surface than warm air."
+msgstr "冷空氣會比暖空氣對地表產生較少的壓力。"
+
+msgid "Question A. Look at the graph below showing the relationship between temperature and the density of air. Which of the following statements about the relationship is true?"
+msgstr "問題A. 看看下方的圖片呈現出溫度與空氣密度之間的關係。下列對於關係的敘述哪一項是正確的？"
+
+msgid "Question B. Examine the picture in the box to the right. It contains a cross section of Earth's atmosphere from the ground up to several thousand feet. The box, alongside the picture, represents varying concentrations of molecules of air in a given space. Molecules that are closer together represent atmospheric gas that is more dense than molecules that are further apart. Think about how density of Earth’s atmosphere changes as elevation increases or decreases. Use what you know to order the boxes from lowest density to highest density alongside the picture."
+msgstr "問題B. 檢驗右側的方框裡的圖片。它包含了地球大氣層從地表到千呎高的不同切面圖。圖片旁的方框呈現了該區域中不同空氣分子的濃度。分子越聚集在一起代表大氣氣體越密集，且分子之間會較遠。想想看地球大氣層的密度是如何隨著海拔增加或減少而改變。運用你所知道的將圖片旁的方框從最低密度到最高密度來排序。"
+
+msgid "Reading barometer..."
+msgstr "閱讀氣壓表……"
+
+msgid "Nope! Cold air is generally more dense than warm air."
+msgstr "不完全！冷空氣一般會比暖空氣的密度高。"
+
+msgid "Correct. Warm air generally has less density than cold air."
+msgstr "正確。暖空氣一般會比冷空氣密度低。"
+
+msgid "No! Warm air is less dense than cold air. Therefore it exerts less pressure on Earth’s surface than cold air."
+msgstr "不！暖空氣的密度比冷空氣低。因此它比冷空氣對地表產生較小的壓力。"
+
+msgid "Cold air is more dense than warm air. Therefore it exerts more pressure on Earth’s surface than warm air."
+msgstr "冷空氣比暖空氣密度高。因此它比暖空氣對地表產生較大的壓力。"
+
+msgid "Correct. The density of Earth's atmosphere decreases as elevation increases."
+msgstr "對了。當海拔升高時，地球大氣層的密度就會下降。"
+
+msgid "Not quite! The closer the molecules are in the box, the higher the density is. The density of the gases in Earth’s atmosphere decreases as elevation increases."
+msgstr "不完全！在盒子中的分子越接近，密度就會越大。當海拔增加時地球大氣層中的氣體密度會下降。"
+
+# 10
+msgid "You should now know that the air close to Earth’s surface contains gases such as nitrogen, oxygen, carbon dioxide and argon as well as water vapor.  The amount of water that the atmosphere holds is influenced by its temperature. Warmer air, for example, can hold more water than cooler air. On warm days when there is a lot of moisture in the air, the air can feel very humid. As the air cools down as it rises to a higher altitude near mountains, or following a dramatic drop in temperature as the sun begins to set, the air can no longer hold as much water. Under such conditions, the water in the air condenses and it begins to precipitate as rain, snow, or sleet."
+msgstr "你現在應該知道在地球表面附近的氣體包含有氮氣、氧氣、二氧化碳、氬氣以及其它例如水氣。大氣層中水氣所含有的量受到溫度的影響。在較溫暖的空氣中，舉例來說，水氣的含量會比冷空氣還多。在一個溫暖的日子當空氣中有很多濕氣時，就可以感覺到空氣很潮濕。在靠近山的地方，空氣溫度會隨著海拔上升而下降，或是隨著太陽將要下山時溫度急遽的下降，那空氣中就無法繼續保有這麼多的空氣。在這樣的狀況下，空氣中的水氣會凝結且會開始降水像是雨、雪或是冰雹。"
+
+msgid "In addition to holding water, the atmosphere also absorbs <span class='key'>pollutants</span> - gases and small particles emitted by natural hazards such as volcanic eruptions and natural forest fires or human activity such as burning debris or industrial activities associated with generating electricity or manufacturing goods. Pollutants in the air can have a negative impact on human health as well as the environment. For example, asthma is a chronic and very often debilitating disease of the lungs caused by air pollution from cars, power plants and industrial manufacturing."
+msgstr "除了要保留水份，大氣層也會吸收污染物－氣體與微小的粒子由天然災害所產生，像是火山爆發和天然森林火災；或是人為活動，像是燃燒垃圾；或是工業行為，像是與發電或是製造業相關的活動。空氣中的污染物會對人類健康與環境造成負面的衝擊。舉例來說，氣喘是一種慢性的且會使人變得非常衰弱的肺部疾病，是由汽車、發電廠與製造工業的污染所造成。"
+
+msgid "People suffering from asthma have trouble breathing and engaging in even simple activities such as walking. Another example is found in lead. Lead is a metal that can enter the atmosphere as a result of burning fossil fuels. Once in the atmosphere, lead can be transported by wind and rain to places far away from the source of pollution. When humans ingest (eat) plants and animals that have been contaminated by lead pollution they can suffer from diseases that affect the brain and nervous system."
+msgstr "受到氣喘折磨的人們在呼吸和從事例如走路這樣簡單的活動時，都會有困難。另一個案例是鉛。鉛是一種金屬，它來自於石化燃料的燃燒後進到大氣之中。只要一出現在大氣中，鉛就可以隨著風和雨來傳遞到距離污染源很遠的地方。當人類攝取（吃）被鉛污染過的植物與動物，他們就可能會受到影響大腦與神經系統的疾病所折磨。"
+
+msgid "Sometimes, the air above urban areas can be filled with a dense mixture of smoke, atmospheric pollutants and water vapor. The thick, cloud-like formation that hangs over a city is known as <span class='key'>smog</span>."
+msgstr "有時候，在市區上空的空氣可能充滿了很濃的混合煙霧，大氣污染物與水蒸氣。這個濃稠、像是雲的構造分布在城市上空，被稱作煙霧（霾）。"
+
+msgid "According to the Environmental Protection Agency (EPA), examples of common pollutants found in Earth’s atmosphere includes:"
+msgstr "根據環境保護署（EPA），在地球大氣中常見的污染物包括："
+
+msgid "Carbon Monoxide"
+msgstr "一氧化碳"
+
+msgid "Lead"
+msgstr "鉛"
+
+msgid "Nitrogen Oxide"
+msgstr "氮氧化物"
+
+msgid "Particulate Matter"
+msgstr "物質顆粒"
+
+msgid "Sulfur Dioxide"
+msgstr "二氧化硫"
+
+msgid "Ozone"
+msgstr "臭氧"
+
+msgid "Cleaning air..."
+msgstr "清潔空氣……"
+
+# 11 Quick Check 4
+msgid "The data in the table below show some climatic variables (precipitation, minimum temperatures, high temperatures and average temperatures) for a location in Hawaii, United States. Use table and what you know about Earth's atmosphere, check off <span class='blink'>ALL</span> of the true statements about the relationship between temperature and precipitation."
+msgstr "下方表中的資料呈現了一些在美國夏威夷的氣候變項（降雨量、最低溫度、最高溫度與平均溫度）。運用表格與你知道有關於地球大氣的知識，檢查所有有關溫度與降雨量關係的描述。"
+
+msgid "As the air temperature increases, the amount of precipitation decreases."
+msgstr "當空氣溫度上升時，降雨量會減少。"
+
+msgid "As the air temperature decreases, the amount of precipitation decreases."
+msgstr "當空氣溫度下降時，降雨量會減少。"
+
+msgid "The wettest months are also the coolest months in this area."
+msgstr "最潮濕的月份也是這個區域最寒冷的月份。"
+
+msgid "The warmest months are also the driest months in this area."
+msgstr "最溫暖的月份也是這個區域最乾燥的月份。"
+
+msgid "Correct! You've selected all the appropriate responses."
+msgstr "答對了！你選到了所有適當的回應。"
+
+msgid "Nope! 2<sup>nd</sup> choice is not a true statement."
+msgstr "不完全！有兩個選擇是不正確的敘述。"
+
+msgid "Not quite. Some other statements are also true."
+msgstr "不完全。有些其他的敘述也是正確的。"
+
+msgid "JAN"
+msgstr "一月"
+
+msgid "FEB"
+msgstr "二月"
+
+msgid "MAR"
+msgstr "三月"
+
+msgid "APR"
+msgstr "四月"
+
+msgid "MAY"
+msgstr "五月"
+
+msgid "JUN"
+msgstr "六月"
+
+msgid "JUL"
+msgstr "七月"
+
+msgid "AUG"
+msgstr "八月"
+
+msgid "SEP"
+msgstr "九月"
+
+msgid "OCT"
+msgstr "十月"
+
+msgid "NOV"
+msgstr "十一月"
+
+msgid "DEC"
+msgstr "十二月"
+
+# 12
+msgid "Using what you now know about... the air around us... to solve a problem"
+msgstr "運用你已知有關……我們周遭的空氣……來解決問題"
+
+msgid "You are part of a team investigating possible contributors to air pollution from where you live. You are brainstorming ideas to reduce air pollution."
+msgstr "你是小組中的成員要調查你居住地空氣物染可能的來源。你正在腦力激盪出想法來減少空氣污染。"
+
+msgid "Identify what you think may be one of the main air polluters where you live and what you think could be done to reduce that amount of pollution produced by its source."
+msgstr "辨識你想到可能是其中一個在你居住地的主要污染源，你想到可以做什麼來減少污染源所製造出來的污染量。"
+
+msgid "Reducing air pollution..."
+msgstr "減少空氣污染……"
+
+# 13
+msgid "Summarizing big ideas about... the air around us"
+msgstr "歸納主要的概念有關……我們周遭的空氣"
+
+msgid "Because air is invisible, people may think that one large layer of air blankets Earth's surface. But scientists who study weather see things differently. In fact, it is more useful to think of Earth's surface as being covered by many large air masses that vary in temperature and <span class='key'>pressure</span>. In addition, the air blanketing Earth's surface is composed of many gases including nitrogen, oxygen, carbon dioxide, argon and <span class='key'>water vapor</span> plus many, many other gases in very small amounts. Sometimes, gases and small particles of materials suspended in Earth's <span class='key'>atmosphere</span> as a result of volcanic eruptions or human activity (such as industrial manufacturing) cause harm to the environment and human health. Ultimately, humans rely on Earth's atmosphere for survival."
+msgstr "因為空氣是看不見的，人們可能會認為有一個巨大的空氣毯子在地球表層。但是研究氣候的科學家則有不同的看法。事實上，將地球表面想成是被很多不同溫度與壓力的大量空氣物質覆蓋會更加的實際。此外，地球表面的空氣毯子由很多氣體組成包含氮氣、氧氣、二氧化碳、氬氣與水蒸氣再加上少量但很多種類的氣體。有時候，火山爆發與人類活動（像是製造工業）所造成的氣體或是懸浮在地球的大氣中物質小粒子會對環境與人類健康造成傷害。"
+
+msgid "Putting it all together..."
+msgstr "把它們拉在一起……"
+
+# 14
+msgid "Reviewing key vocabulary related to... air around us"
+msgstr "複習相關的關鍵字……我們周遭的空氣"
+
+msgid "The amount of matter, or material in a space. Usually measured in a unit of mass per unit of volume. A denser material will have more mass in the same volume than a less dense material."
+msgstr "物質的量或是在空間中的物質。通常是以每單位體積中的單位質量來測量。密度大的物質在相同的體積中會比密度小的物質有較大的質量。"
+
+msgid "Air Pressure"
+msgstr "空氣壓力"
+
+msgid "The force that gas molecules exert on their container. If there are more molecules in a given space, they will exert more force. We label that force pressure."
+msgstr "空氣分子對它們的容器所產生的力。如果在給定的空間中有較多的分子，它們會產生更多的力。我們將這種力稱作為壓力。"
+
+msgid "Atmosphere"
+msgstr "大氣層"
+
+msgid "atmosphere"
+msgstr "大氣層"
+
+msgid "The collection of gas molecules in a space. Earth's atmosphere contains many types of molecules such as Nitrogen, Oxygen, Carbon Dioxide and Water."
+msgstr "將氣體粒子收集到一個空間中。地球大氣包含了很多不同種類的分子像是氮氣、氧氣、二氧化碳與水。"
+
+msgid "Smog"
+msgstr "煙霧（霾）"
+
+msgid "A term used to generalize air pollution. Usually when people use the term they are referring to air that appears thick, dark and cloudy."
+msgstr "一個用來通稱空氣污染的詞彙。一般人們會用這個詞來表示空氣變得厚重、昏暗與布滿烏雲。"
+
+msgid "Pollutant"
+msgstr "污染物"
+
+msgid "A substance, often man-made, which has been introduced in an environment and is not naturally present in it. Usually pollutants have a negative impact on some or all of the organisms living in the area."
+msgstr "一種物質，大多是人造的，不是環境中自然產生的，而是被引進的。一般污染物對區域中部分或是全部的有機體生物有負面的衝擊。"
+
+msgid "Water Vapor"
+msgstr "水蒸氣"
+
+msgid "Water in its gaseous form, also called steam. Earth's atmosphere contains lots of water vapor, along with other molecules."
+msgstr "水的氣態，也被稱為蒸汽。地球大氣包含很多水蒸氣及其他分子。"
+
+# 15
+msgid "Checking what you now know about... the air around us"
+msgstr "檢查你知道有關……我們周遭的空氣"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答下方的六個考驗問題可以讓你知道你已經知道了什麼還有什麼是你需要繼續學習的。"
+
+msgid "Let's check what you now know"
+msgstr "讓我們檢測你現在知道了什麼"
+
+# 16 QQ1
+msgid "Look at the two illustrations below (Figure A and Figure B).  Which of the following can you reasonably infer as true based on your observations?"
+msgstr "看看下方兩個圖（圖A與圖B）。下列哪一個可以基於你的觀察推斷出是正確的？"
+
+msgid "Figure A"
+msgstr "圖A"
+
+msgid "Figure B"
+msgstr "圖B"
+
+msgid "The air outside the freezer door of Figure A contains more molecules of nitrogen and oxygen than the air outside the freezer door in Figure B."
+msgstr ""
+
+msgid "The air outside the freezer door of Figure A contains less molecules of water vapor than the air outside the freezer door in Figure B."
+msgstr "在圖A中冰櫃門外的空氣比圖B冰櫃門外的空氣含有較少的水蒸氣分子。"
+
+msgid "The air outside the freezer door of Figure A contains less molecules of nitrogen and oxygen than the air outside the freezer door in Figure B."
+msgstr "在圖A中冰櫃門外的空氣比圖B冰櫃門外的空氣含有較多的氮氣與氧氣分子。"
+
+msgid "The air outside the freezer door of Figure B contains molecules of water that have condensed to form tiny droplets of water to create a “fog”."
+msgstr "圖B中冰櫃門外的空氣含有水分子，它們會凝結而形成小水滴稱為“霧”。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個測驗問題是……"
+
+msgid "Correct."
+msgstr "正確。"
+
+msgid "Correct"
+msgstr "正確"
+
+msgid "Nope! The denser fog outside freezer door A is a result of a greater quantity of water vapor in the air outside freezer door A than freezer door B being condensed by the cold air flowing out of the freezer."
+msgstr "不完全！在A冰櫃門外密度大的霧氣是因為在Ａ冰櫃門外的水蒸氣比Ｂ冰櫃門外的空氣的量更大，遇到冰櫃流出的冷空氣而凝結。"
+
+msgid "No! The abundance of molecules of nitrogen and oxygen cannot be inferred from the illustrations."
+msgstr "不！豐富的氮氣與氧氣分子無法從圖片中推論而得。"
+
+msgid "Nope! The abundance of molecules of nitrogen and oxygen cannot be inferred from the illustrations."
+msgstr "不完全！豐富的氮氣與氧氣分子無法從圖片中推論而得。"
+
+# 17 QQ2
+msgid "The thin layer of gases that covers most of Earth's surface is called the..."
+msgstr "覆蓋大多數地球表面的一層薄薄的氣體被稱為……"
+
+msgid "hemisphere"
+msgstr "半球"
+
+msgid "lithosphere"
+msgstr "岩石圈"
+
+msgid "hydrosphere"
+msgstr "水圈"
+
+msgid "Flipping box..."
+msgstr "翻轉方塊……"
+
+msgid "Nope. Lithosphere is the thick layer of rock layers (continental and oceanic crust)"
+msgstr "不完全。岩石圈是較厚的石頭層（大陸地殼與海洋地殼）。"
+
+msgid "A hemisphere? A hemisphere is one half of a spherical shape."
+msgstr "一個半球？半球是二分之一的球形。"
+
+msgid "Not quite. This is the thin layer of water covering Earth's surface."
+msgstr "不完全。這是地球表面覆蓋的很薄一層水。"
+
+# 18 QQ3
+msgid "Which of the following gases is most abundant in Earth's atmosphere?"
+msgstr "下列的氣體中哪一項是地球大氣中含量最豐富的？"
+
+msgid "Carbon Dioxide"
+msgstr "二氧化碳"
+
+msgid "Helium"
+msgstr "氦氣"
+
+msgid "Looking at the map..."
+msgstr "看看地圖……"
+
+msgid "Correct. Roughly 78% of air is composed of nitrogen."
+msgstr "對了！大略的來說，空氣由78%的氮氣組成。"
+
+msgid "No! Oxygen makes up only about 20% of the gases found in air."
+msgstr "不！在空氣中氧氣大約只佔20%。"
+
+msgid "Nope! Only a very small fraction of air is comprised of carbon dioxide."
+msgstr "不完全！只有很小一部分的空氣由二氧化碳組成。"
+
+msgid "No! Only a very small fraction of air is comprised of helium."
+msgstr "不！只有非常小部分的空氣由氦氣組成。"
+
+# 19 QQ4
+msgid "Click on the <span class='blink'>correct</span> statement about the relationship between temperature, pressure and density of gases."
+msgstr "點擊正確的敘述有關空氣溫度、壓力與密度之間的關係。"
+
+msgid "Higher temperatures in gas cause higher density."
+msgstr "溫度越高會造成空氣密度越大。"
+
+msgid "Higher pressures in gas cause lower density."
+msgstr "壓力越大會造成空氣密度越小。"
+
+msgid "Higher temperatures in gas cause lower density."
+msgstr "溫度越高會造成空氣密度越小。"
+
+msgid "Lower pressures in gas cause higher density."
+msgstr "壓力越低會造成空氣密度越大。"
+
+msgid "Finding the correct answer..."
+msgstr "尋找正確的答案……"
+
+msgid "No. An increase in temperature results in a decrease in density."
+msgstr "不。溫度上升會造成密度下降。"
+
+msgid "Way to go!"
+msgstr "是個方法！"
+
+msgid "No. An increase in pressure results in an increase in density."
+msgstr "不。壓力上升會造成密度上升。"
+
+msgid "No. A decrease in pressure on a gas results in a decrease in density."
+msgstr "不。空氣壓力減少會使密度變小。"
+
+# 20 QQ5
+msgid "Air pollution can result from which of the following activities:"
+msgstr "下列哪些活動會造成空氣污染："
+
+msgid "Natural disasters such as volcanic eruptions or natural forest fires."
+msgstr "天然的災害像是火山爆發或是天然森林火災。"
+
+msgid "Manufacturing such as electrical power plants."
+msgstr "製造業像是發電廠。"
+
+msgid "Emissions from cars and buses."
+msgstr "汽車與公車排放（的氣體）。"
+
+msgid "All of the above."
+msgstr "以上皆是"
+
+msgid "Researching air pollutants..."
+msgstr "尋找空氣污染源……"
+
+msgid "That’s right! Air pollution can result from all three activities including natural disasters, manufacturing and emissions from cars and buses."
+msgstr "沒錯！這三種活動都會造成空氣污染也包含了天然災害、製造業與汽車、公車排放的氣體。"
+
+msgid "Yes, but not exactly! Air pollution can result from all three activities including natural disasters, manufacturing and emissions from cars and buses."
+msgstr "對，但不是絕對！這三種活動都會造成空氣污染也包含了天然災害、製造業與汽車、公車排放的氣體。"
+
+# 21 QQ6
+msgid "The dense, cloud-like formation filled with air pollutants found over cities is known as..."
+msgstr "這個出現在城市上空濃稠、像是雲朵型態且充滿了空氣污染物的被稱做是……"
+
+msgid "Fog"
+msgstr "霧"
+
+msgid "Water Vapor Formations"
+msgstr "水蒸氣型態"
+
+msgid "No. The atmosphere is the gaseous blanket that covers Earth's surface."
+msgstr "不。大氣是一個氣態的像毯子覆蓋在地球的表面。"
+
+msgid "No. Fog, generally harmless to the human body, is a cloud-like formation composed mostly fine water droplets suspended in cool air."
+msgstr "不。霧氣，一般對於人體是無害的，它像是雲一般的型態，大多在冷空氣中由微小的水滴組成。"
+
+msgid "Correct!"
+msgstr "正確！"
+
+msgid "No. Although smog may contain water vapor, it also contains a mixture of gases considered harmful to human health."
+msgstr "不。雖然霾可能會包含水蒸氣，它也包含了被認為對人體健康有害氣體的混合。"
+
+# 22
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid "You've completed the Air Around Us module."
+msgstr "你完成了我們周遭的空氣模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以過點擊下方的按鈕來查看你在這個模組中的快速測驗與問題考驗表現得如何。"
+
+msgid "Air Around Us"
+msgstr ""
+
+# no translation
+msgid "Month"
+msgstr ""
+
+msgid "Precip (in)"
+msgstr ""
+
+msgid "Min Temp (°F)"
+msgstr ""
+
+msgid "AVG TMP (°F)"
+msgstr ""
+
+msgid "MAX TMP (°F)"
+msgstr ""
+
+msgid "MOLOKAI KAUNAKAKAI MOLOKAI AIRPORT, HI US"
+msgstr ""
+
+msgid "The Air Around Us"
+msgstr "我們周遭的空氣"

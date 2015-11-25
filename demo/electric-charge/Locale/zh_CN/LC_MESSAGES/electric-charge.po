@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一篇"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "靜音"
+
+msgid "Unmute"
+msgstr "取消靜音"
+
+msgid "Max volume"
+msgstr "最大音量"
+
+msgid "Full screen"
+msgstr "全螢幕"
+
+msgid "Restore screen"
+msgstr "取消全螢幕"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Repeat off"
+msgstr "結束重複"
+
+msgid "Update Required"
+msgstr "更新"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "為了播放此媒體，您需要更新您的瀏覽器至最新版本或是更新你的Flash播放器"
+
+msgid "Flash plugin"
+msgstr "插入Flash播放器"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點左邊及右邊的箭頭以瀏覽下方的頁面？"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations"
+msgstr "恭喜你"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“快速檢測”與“測驗題”中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入控制面板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把它們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "和第一個測驗題為……"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Electric Charge"
+msgstr "電荷"
+
+msgid "Welcome to the Electric Charge module"
+msgstr "歡迎來到「電荷」模組"
+
+msgid "Let's begin"
+msgstr "讓我們開始吧"
+
+# 2
+msgid "Thinking about... electric charge"
+msgstr "想想有關「電荷」"
+
+msgid "For more than one reason, going down the slide at the playground can be a hair-raising experience. From bolts of lightning to static cling, many things that we see and experience in everyday life are controlled by electric charge. That's because all the objects that you interact with are made up of charged particles. We don't normally notice all of that electric charge because most objects have equal amounts of positive and negative charge. When the charge of an object gets altered, even just a little bit, the effect can be very noticeable."
+msgstr "在遊樂園的溜滑梯， 可以是一個驚心動魄的體驗的原因不只一個。從閃電光束到靜電的吸附，在日常生活中，我們看到和體驗到的，皆由電荷所控制。這就是因為所有與你互動的物體都帶有電子。我們通常不會注意到「電荷」，因為大多數物體帶有相等的正電荷與負電荷。當一個物體的電荷改變，那怕是一點點，效果會是非常明顯的。"
+
+msgid "Are you ready, "
+msgstr "準備好了嗎"
+
+# 3
+msgid "Checking what you already know about...  electric charge"
+msgstr "檢視有關於你所知道的…「電荷」"
+
+msgid "Which of the following objects contain electric charge? Check <span class='blink'>ALL</span> that apply."
+msgstr "以下哪個物體帶有電荷？查看所有項目。"
+
+msgid "A beach ball"
+msgstr "一個海灘球"
+
+msgid "A tea kettle"
+msgstr "一只茶壺"
+
+msgid "A baby"
+msgstr "一個嬰兒"
+
+msgid "A dog"
+msgstr "一隻狗"
+
+msgid "All objects made of matter contain a mix of charged particles. If you selected all of the items, you're headed in the right direction."
+msgstr "所有物體組成的物質包含混雜的帶電粒子。如果你選擇了所有的項目，你正朝著正確方向。"
+
+msgid "Looking at the particles..."
+msgstr "從微粒的角度看……"
+
+# 4
+msgid "Reviewing big ideas about... electric charge"
+msgstr "回顧有關「電荷」的大概念"
+
+msgid "Click the image to view."
+msgstr "點擊圖片查看。"
+
+msgid "All of the objects that we encounter in everyday life are made up of matter. Matter consists of really small particles called atoms, and those atoms are made up of even smaller particles called <span class='key'>protons</span>, <span class='key'>neutrons</span> and <span class='key'>electrons</span>. Protons carry a positive charge, and electrons carry a negative charge while neutrons carry no charge. There are more protons in the fingernail on your pinky than there are people on the Earth. However high that number may be, there are most likely the exact same number of electrons in that fingernail. Most objects have an equal number of protons and electrons. In other words, most objects are <span class='key'>electrically neutral</span>. Scientists have been studying electricity for far longer than they have known about the atomic particles. That's why they first came up with the terms positive charge and negative charge to describe what we now know as protons and electrons. If an object contains more electrons than protons, the object is said to be negatively charged. If an object contains more protons than electrons, it is said to be positively charged."
+msgstr "所有我們日常生活當中會遇見的物體皆是由物質所構成。物質是由非常小的粒子「原子」所組成，而這些原子是由更小的粒子「質子、中子和電子」組成。質子帶正電，電子帶負電，而中子不帶電荷。在你的小拇指指甲上的質子相對比於地球表面上的人來的多。然而這個數字多到極有可能和在指甲上擁有的電子數一般。大多數的物體具有相同數量的質子和電子。換言之，大多數的物體為中性。科學家們一直都在研究「電」持續很長一段時間了，遠超過對原子微粒的所知。這就是為什麼他們先是想出了正電荷和負電荷來形容我們所知道的質子和電子。如果一個物體的電子比質子還多，這物體被認為帶負電。如果一個物體的質子比電子還多，這物體被認為帶正電。"
+
+msgid "It turns out that it is relatively easy to change the number of electrons in an object, but extremely difficult to change the number of protons. For this reason, objects typically become charged because they've either gained electrons from some other object, or they've lost electrons to some other object. Scientists refer to a gain of electrons as becoming <span class='key'>negatively charged</span>, and a loss of electrons as becoming <span class='key'>positively charged</span>.  Gaining or losing protons is a much more involved process, and would mean that the material had actually changed to a different element, like turning Oxygen into Carbon."
+msgstr "事實證明改變物體中電子的數量是比較容易的，但很難改變質子的數量。出於這個原因，物體帶電是因為他們從其他物體上獲得電子，或者是失去電子給其他物體。科學家指出得到電子則帶負電，失去電子則帶正電。得到或失去質子是一個更加複雜的過程，並且意味著物質實際上變成另一個不同的元素，例如把氧氣導入碳中。"
+
+msgid "Carrying positive charge..."
+msgstr "攜帶正電荷……"
+
+# 5
+msgid "Scientists can use a device called an electroscope to test the charge on an object.  If scientists determine that a plastic rod has a positive charge, the most likely explanation is that..."
+msgstr "科學家們採用了一種名為驗電器裝置來測量物體上的電荷。如果科學家們確定一支塑膠棒帶正電，最有可能的解釋是……"
+
+msgid "the plastic rod gained some electrons from another object."
+msgstr "塑膠棒從另一個物體得到一些電子。"
+
+msgid "the plastic rod lost some electrons to another object."
+msgstr "塑膠棒失去一些電子跑到另一個物體上。"
+
+msgid "the plastic rod gained some protons from another object."
+msgstr "塑膠棒從另一個物體得到一些質子"
+
+msgid "the plastic rod lost some protons to another object."
+msgstr "塑膠棒失去一些質子跑到另一個物體上…"
+
+msgid "Preparing your first quick check…"
+msgstr "準備你的第一個快速檢測……"
+
+msgid "Nope. If the rod had gained some electrons from another object, it would be negatively charged. Since the rod is positively charged, it must have lost electrons to another object."
+msgstr "不。如果塑膠棒已從另一個物體得到電子，那麼它將會帶負電。由於塑膠棒帶正電，它勢必是失去電子到另外一個物體上。"
+
+msgid "Nicely done! The rod is positively charged because some of its electrons have gone to another object."
+msgstr "做得好！塑膠棒帶正電是因為它的電子跑到其他物體上了。"
+
+msgid "Nope. It would take a great deal of energy to gain protons from another object, and that would also fundamentally change the material the rod is made out of. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "不。從另一個物體上得到質子需要相當大的能量，且將會改變製成塑膠棒的基本材料。"
+
+msgid "Nope. Losing protons to another object would result in the rod becoming negatively charged. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "不。失去質子到另一個物體上會導致塑膠棒帶負電。在這種情況下，塑膠棒會失去電子給其他物體而帶正電。"
+
+# 6
+msgid "More big ideas about... electric charge"
+msgstr "更多有關「電荷」的大概念"
+
+msgid "Neutral objects can gain or lose electrons in a variety of ways. One of the most common is through contact with other materials. Depending on the material an object is made out of, it may either take electrons from other objects, or it might tend to give electrons to other objects. For example, when a balloon is rubbed on human hair, the balloon tends to take electrons from the hair. This leaves the balloon with a negative charge and the hair with a positive charge. This is similar to the way in which you can charge up by shuffling your feet across a carpeted floor, or charge a comb by rubbing it with a silk cloth."
+msgstr "中性的物體可以藉著各種方式得到電子或失去電子。最常見的是透過接觸其他材質。一個物體可能會從其他物體得到電子或是失去電子給其他物體是取決於物體的材質。例如，單一個氣球在頭髮上摩擦，氣球會從頭髮獲得電子。這使氣球帶負電和頭髮將帶正電荷。這類似於雙腳在地毯上磨擦滑行產生電（靜電）或是用絲巾摩擦梳子使梳子帶電。"
+
+msgid "The type of charge an object will take can be determined by consulting a chart called the <span class = 'key'>triboelectric series</span>.  This chart identifies materials by their tendency to either lose electrons or gain electrons, in comparison to other materials.  An object listed near the top of the chart at right tends to lose electrons and become positively charged.  A material listed near the bottom of the chart is more likely to gain electrons and become negatively charged.  For example, if you rubbed a nylon rod with a polyester cloth, the nylon would lose electrons to the polyester resulting in a positive charge for the nylon rod and a negative charge for the polyester.  However, if a neutral piece of polyester was rubbed on a vinyl rod, the polyester would become positively charged, and the vinyl would be negatively charged.  This is because vinyl is located closer to the negative end of the chart and polyester is relatively closer to the positive end."
+msgstr "物體所帶電荷的類型可查閱摩擦電序表。此圖表標示了這材質相較於其他材質失去和獲得電子的傾向。列在右方靠近圖表頂端的物體傾向於失去電子且帶正電荷。列在靠近圖表底部的材質是較易獲得電子而帶負電荷。例如，如果用不織布摩擦尼龍棒，尼龍棒會失去電子跑到不織布上而帶正電荷，且不織布會帶負電荷。但如果一塊中性的聚酯纖維（塑膠）摩擦聚氯乙烯棒，塑膠塊會帶正電荷，聚氯乙烯棒會帶負電荷。這是因為，聚氯乙烯更靠近圖表的負端，聚酯纖維（塑膠）比較接近正端。"
+
+msgid "+ POSITIVE CHARGE"
+msgstr "+正電荷"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "Human body"
+msgstr "人體"
+
+msgid "Glass"
+msgstr "玻璃"
+
+msgid "Human hair"
+msgstr "人的頭髮"
+
+msgid "Nylon"
+msgstr "尼龍"
+
+msgid "Wool"
+msgstr "羊毛"
+
+msgid "Aluminum"
+msgstr "鋁"
+
+msgid "Paper"
+msgstr "紙"
+
+msgid "Cotton"
+msgstr "棉花"
+
+msgid "Iron"
+msgstr "鐵"
+
+msgid "Wood"
+msgstr "木頭"
+
+msgid "Hard rubber"
+msgstr "硬橡膠"
+
+msgid "Nickel copper"
+msgstr "銅鎳合金"
+
+msgid "Brass silver"
+msgstr "銀銅合金"
+
+msgid "Gold platinum"
+msgstr "金鉑"
+
+msgid "Artificial silk"
+msgstr "人造絲"
+
+msgid "Polystyrene"
+msgstr "聚苯乙烯"
+
+msgid "Polyester"
+msgstr "聚酯纖維（塑膠）"
+
+msgid "Polyurethane"
+msgstr "聚酯纖維（塑膠）"
+
+msgid "Polyethylene"
+msgstr "聚乙烯"
+
+msgid "Polypropylene"
+msgstr "聚丙烯"
+
+msgid "PVC(vinyl)"
+msgstr "聚氯乙烯（乙烯基）"
+
+msgid "Silicon"
+msgstr "矽"
+
+msgid "- NEGATIVE CHARGE"
+msgstr "- 負電荷"
+
+msgid "Neutral objects can also gain or lose electrons by coming into contact with a charged object. A Van de Graaff generator can be used for this type of charging. Upon turning on the Van de Graaff generator, electrons tend to flow off of the large metal dome, leaving it positively charged. By touching other objects to the metal dome, they too can become positively charged. You may have seen images like the one below of a person's hair standing on end. By touching a Van de Graaff generator, the person, and every hair on their head, becomes positively charged, too! This type of charging by coming into contact with a charged object is called <span class='key'>conduction</span>."
+msgstr "中性物體也可以藉由與帶電物體接觸而獲得或失去電子。范德格拉夫起电機可用於此類型的帶電。當打開范德格拉夫起電機，電子會流出大型的金屬圓頂離開而帶正電。透過使其他物體接觸金屬圓頂，它們就會帶正電荷。你可能見過一種像是一個人汗毛直豎的景象。通過接觸范德格拉夫起電機，人和其頭上的每一根毛髮都會變成帶正電荷。這類通過與帶電物體接觸而帶電稱作為「導電」"
+
+msgid "Checking Van de Graaff generator..."
+msgstr "檢查范德格拉夫起電機……"
+
+# 7
+msgid "Try to determine the charge for an object based on its location on the triboelectric series. Drag the material to the correct column."
+msgstr "試圖在摩擦電序上校對該物體的正確電荷。將物質拖曳到正確的欄位。"
+
+msgid "Object"
+msgstr "物體"
+
+msgid "Positive Charge"
+msgstr "正電荷"
+
+msgid "Negative Charge"
+msgstr "負電荷"
+
+msgid "Rubbed Against"
+msgstr "摩擦"
+
+msgid "Studying triboelectric series..."
+msgstr "研究摩擦電序……"
+
+msgid "Wool Mittens"
+msgstr "羊毛手套"
+
+msgid "Glass Tube"
+msgstr "玻璃管"
+
+msgid "PVC Pipe"
+msgstr "聚氯乙烯（乙烯基）導管"
+
+msgid "Cotton Shirt"
+msgstr "棉質襯衫"
+
+msgid "You've got it! The glass is located towards the top of the triboelectric series, so it would lose electrons to the wool, resulting in a negative charge for the mittens."
+msgstr "你已經了解了！玻璃位於摩擦電序的頂部，所以它會失去電子給羊毛而產生一個帶負電荷的手套。"
+
+msgid "Not quite. Glass is closer to the top of the list, and wool is closer to the bottom. This means the glass would become positively charged, and the wool would become negatively charged."
+msgstr "不正確。玻璃接近於所述列表的頂部，而羊毛接近於底部。這表示玻璃將帶正電荷，而羊毛將會帶負電荷。"
+
+msgid "Yes! The cotton is closer to the top of the list, and the vinyl is down towards the bottom end of the list. The relative positions of the items on the list determine the charge they will take."
+msgstr "是的！棉花較接近列表的頂部，聚氯乙烯（乙烯基）是朝向列表的底端。列表上物件的相對位置決定它們所將帶的電荷。"
+
+msgid "Not quite! Vinyl is down towards the bottom, or negative end of the list. Cotton is much closer to the top. This means the cotton would take on a positive charge, and the vinyl would be negatively charged."
+msgstr "不！聚氯乙烯（乙烯基）是位於列表的下方或負端。棉花則更接近頂端。表示棉花將帶正電荷，而聚氯乙烯（乙烯基）將帶負電荷。"
+
+# 8
+msgid "Charged objects exert forces on each other. The amount of force depends upon the amount of charge, as well as how close the objects are to each other. The direction of the force depends upon the types of charge involved. When a positively charged object is held near a negatively charged object, the two objects will experience an attractive force that attempts to bring the objects closer together. However, if a positively charged object is held near another positively charged object, both objects will experience a repulsive force that attempts to push the objects farther away from each other. You'll get the same outcome if you attempt to hold two negatively charged objects near each other. This principle is often stated as \"opposites attract, likes repel\". Take a look at the picture of the person touching the Van de Graaff generator. The person, and all of the hairs on her head have become positively charged. Since all of the hairs have the same charge, they are repelling each other, causing them to stand on end."
+msgstr "但是如果帶正電的物體靠近另一個帶正電的物體，兩個物體會產生一個排斥的力，試圖將彼此推離。如果試圖將兩個帶負電的物體靠近彼此也將會得到同樣的結果。這就是我們經常說的「同性相斥，異性相吸」的原則。帶電物體會對彼此施力。而力的大小取決於電荷的量以及物體彼此接近的程度。力的方向取決於所帶電荷的種類。當帶正電的物體靠近帶負電荷的物體，兩個物體會有一個吸引的力，試圖將彼此拉得更靠近。來看看一個人觸摸范德格拉夫起電機的照片。這個人和她所有的頭髮都會變成帶正電荷。因為所有的毛髮都帶有相同的電荷，它們會相互排斥導致豎立。"
+
+msgid "The force due to electric charge is responsible for holding together all of the objects around you. Charge-based interactions are responsible for the bonds that hold together solid objects like the tables and chairs in your classroom. Without this force, you would simply pass right through your chair and end up on the floor. An easy way to see this force at work is to slowly fill a glass with water. The interactions between the water molecules allow you to actually overfill the glass slightly. The surface tension will hold the molecules together and prevent them from flowing down the sides of the glass."
+msgstr "力乃是由於電荷而負責來維繫你身邊的所有物體吸引在一起。電荷本身的交互作用是負責連結固態物體的鍵結，就像教室中的書桌與椅子一樣。如果沒有這個力，你會直接穿過你的椅子，最後直接坐到地板上。一種簡單可以看到這股力量作用的方法是慢慢填充玻璃杯中的水。水分子之間的相互作用讓你使玻璃杯中的水略滿出來。表面張力會使水分子抓在一起，防止它們從玻璃杯的側面流下。"
+
+msgid "Opposites attract"
+msgstr "異性相吸"
+
+# 9
+msgid "You rub a balloon on your sweater, and the balloon becomes negatively charged. Another object is rubbed on your sweater, and then held near the balloon."
+msgstr "你在你的毛衣上摩擦一個氣球，氣球會變成帶負電荷。另一個物體在你的毛衣上摩擦然後靠近氣球。"
+
+msgid "Question A. If the balloon appears to be attracted to the new object, that means that the new object is likely:"
+msgstr "問題A.如果氣球被吸附到新的物體上，這表示新物體很可能是："
+
+msgid "Neutral"
+msgstr "中性"
+
+msgid "Question B. If the balloon appears to be pushed away by the new object, that means that the new object is likely:"
+msgstr "問題B.如果氣球被新的物體推開了，這表示新物體很可能是："
+
+msgid "Inflating a balloon..."
+msgstr "填充滿一個氣球……"
+
+msgid "Yes! The object is attracted to the negatively charged balloon, so has a positive charge."
+msgstr "是的！物體被吸向帶負電荷的氣球，所以帶正電荷。"
+
+msgid "Nope. If the new object was negatively charged, it would repel the balloon. Remember \"likes repel\"."
+msgstr "不。如果新的物體帶負電荷，它會排斥氣球。記住「同性相斥」。"
+
+msgid "Nope. If the object is attracted to the negatively charged balloon, it is likely positively charged."
+msgstr "不。如果物體被吸向帶負電荷的氣球，它很可能是帶正電荷。"
+
+msgid "You've got it! Since the new object pushes away from the negatively charged balloon, it must be negatively charged, just like the balloon."
+msgstr "你已經知道了！由於新的物體推離帶負電荷氣球，它就像氣球一樣必須帶著負電荷。"
+
+msgid "Not quite. If the object is repelled by the negatively charged balloon, then it must have the same negative charge as the balloon."
+msgstr "不對。如果物體被帶負電荷的氣球排斥，那麼它必須和氣球一樣帶負電荷。"
+
+msgid "Nope. If the object is pushed away, or repelled, then it is probably charged \"like\" the negatively charged balloon."
+msgstr "不。如果物體被推離或排斥，那麼它可能和氣球“一樣”帶負電荷。"
+
+# 10
+msgid ""
+"Lightning storms are one of nature’s most dramatic spectacles.  These storms can be both fascinating displays of natural beauty, as well as frightening and dangerous.  A lightning strike can cause severe damage to large objects like forests or homes, and can cause severe injury or death for animals.  Scientists disagree as to the exact method by which the clouds become charged, but it seems that it is likely related to the vertical movement of water droplets within the clouds.  This tends to leave the bottom of the cloud negatively charged, and the upper part of the cloud positively charged.  When the electric charge becomes great enough, a cloud can get rid of the excess charge by sending a stream of electrons to another cloud, or to the ground.  This stream of particles causes the air to give off light, and causes the air to heat up so rapidly that it produces a shockwave that we hear as thunder.  Lightning is a very common occurrence.  At any given moment, there are on average just under 50 lightning strikes per second occurring on Earth.  There’s an old yarn that lightning never strikes the same spot twice, but according to records, the Empire State building was once struck eight times in less than half an hour.  Lightning strikes are so dangerous because they contain a large amount of energy.  Even a small lightning carries enough energy "
+"to light up a 100-Watt light bulb for three days."
+msgstr "風暴閃電是自然界最戲劇性奇觀之一。這些風暴既可以是令人著迷的自然美景，亦可以是可怕的和危險的。雷擊會導致大型物體嚴重破壞，像是森林或家園，並可能導致動物嚴重的重傷害或是死亡。科學家不同意雲層帶電的這個確切說法，但它似乎可能是和水在雲層內垂直運動有關。這傾向於雲的底部帶負電荷，雲的上部帶正電荷。當電荷變得夠大，雲可以通過發送電子流擺脫過量電荷至另外一朵雲或者是地面。這種粒子流使空氣發出亮光，並使空氣快速升溫產生一種衝擊波，即是我們所聽到的雷聲。在任何時刻，地球上平均將近每秒出現50個雷擊。有一個古老的傳說，閃電從來不會擊中同一地點兩次，但據記載，帝國大廈曾一度在半小時內被雷擊八次。雷擊是非常危險的，因為它們含有很大的能量。即使是很小的閃電也攜帶足夠的能量，能點亮一個100瓦的燈泡三天。"
+
+msgid "Another awe-inspiring light show can come, courtesy of the Aurora Borealis (Northern Lights) and the Aurora Australis (Southern Lights). These beautiful displays of color in the night sky are most easily seen in regions near the North or South Pole. The colors are the result of charged particles interacting with the gases in the upper atmosphere. The particles come from the Sun, and as they approach the Earth, they get trapped by the Earth's magnetic field. The magnetic field causes them to circle the Earth in several regions known as the Van Allen Belts. The Earth's magnetic field bends towards the poles, and the particles can spiral down into the upper atmosphere, energizing the atmospheric gases, and producing the brilliant light show."
+msgstr "另一個令人讚嘆的光則是北極光與南極光。這些在夜晚空中出現的美麗景象最容易在北極或是南極見到。這些顏色是帶電粒子與大氣層中氣體的交互作用所產生。這些粒子來自太陽，當他們接近地球時被地球的磁場困住。磁場使它們圍繞在地球一些地區，被稱為范艾倫輻射帶。地球的磁場彎曲朝向兩極，粒子可向下螺旋進入上層大氣中，帶能量給大氣氣體並產生絢麗的燈光秀。"
+
+msgid "Observing lightning..."
+msgstr "觀測閃電……"
+
+# 11
+msgid "Question A. Check <span class='blink'>ALL</span> that apply. The brilliant Northern Lights are the result of gases in the Earth's upper atmosphere interacting with..."
+msgstr "問題A. 查看所有項目。絢麗北極光是氣體在地球的上層大氣中與______相互作用的結果。"
+
+msgid "Protons"
+msgstr "質子"
+
+msgid "Electrons"
+msgstr "電子"
+
+msgid "Neutrons"
+msgstr "中子"
+
+msgid "Question B. Check <span class='blink'>ALL</span> that apply. The Auroras are most easily seen near..."
+msgstr "問題B. 查看所有項目。極光容易在＿＿＿容易看見。"
+
+msgid "North Pole"
+msgstr "北極"
+
+msgid "South Pole"
+msgstr "南極"
+
+msgid "Equator"
+msgstr "赤道"
+
+msgid "Yes!  Eruptions on the Sun send streams of charged particles in all directions.  Protons and Electrons interact with the Earth’s magnetic field, and produce the Aurora displays."
+msgstr "是的！太陽爆發出來的電子流流向各個方向。質子和電子與地球磁場相互作用產生極光。"
+
+msgid "Nope. Neutrons do not carry electric charge, so they don't interact with the Earth's magnetic field."
+msgstr "不。中子不帶電荷，因此不會與地球磁場相互作用。"
+
+msgid "Almost! Both electrons and protons are trapped by the Earth's magnetic field. Both charges play a part in the brilliant Auroras."
+msgstr "差不多！電子和質子被地球磁場困住，這兩種電荷為產生極光的一部份。"
+
+msgid "Nope.  Neutrons do not carry electric charge, so they don’t interact with the Earth’s magnetic field."
+msgstr "不。中子不帶電荷，因此不會與地球磁場相互作用。"
+
+msgid "Way to go! The Earth's magnetic field bends towards the surface at the Poles. This results in charged particles spiraling down towards the upper atmosphere and producing the Auroras."
+msgstr "做得好！地球的磁場彎曲朝向兩極的表面。這是帶電粒子盤旋下來在上層大氣的結果而產生極光。"
+
+msgid "Nope. The magnetic field lines near the equator run parallel to the Earth's surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "不。赤道附近的磁場平行於地球表面，該地區的帶電粒子不會到達大氣上層。"
+
+msgid "Not quite. The Aurora are visible in both polar regions. In the northern hemisphere, they're called the Aurora Borealis, and in the southern hemisphere they're called the Aurora Australis."
+msgstr "不。極光在兩極地區可見。在北半球稱為北極光，在南半球稱為南極光。"
+
+msgid "Nope.  The magnetic field lines near the equator run parallel to the Earth’s surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "不。赤道附近的磁場平行於地球表面，該地區的帶電粒子不會到達大氣上層。"
+
+# 12
+msgid "Using what you now know about... electric charge... to solve a problem"
+msgstr "運用你知道關於「電荷」的知識來解決問題。"
+
+msgid "The local children's museum is planning on conducting a \"hands on\" science show, where school children will be able to conduct their own science investigations to learn about nature. As part of this program, the students will use common materials to investigate electric charge."
+msgstr "當地的兒童博物館正在計畫進行「動手做」的科學節目，學校的學生可以親自進行科學調查並學習有關大自然的一切。這個計畫中，學生將可以使用隨手可得的材料研究電荷。"
+
+msgid "Human Hair"
+msgstr "人的頭髮"
+
+msgid "Gold"
+msgstr "黃金"
+
+msgid "The program director has asked you to use your understanding of the triboelectric series to create a list of combinations of materials that can be used to produce positive charged objects and to produce negatively charged objects."
+msgstr "該節目導演要求你使用你所知道的摩擦電序，創造一個可以產生帶正電的物體和可以帶負電荷的物體的物質組合。"
+
+msgid "Writing a report..."
+msgstr "撰寫報告……"
+
+# 13
+msgid "Summarizing big ideas about... electric charge"
+msgstr "總結有關「電荷」的大概念"
+
+msgid "All of the objects that you see around you are made up of <span class=key>electrons</span>, <span class=key>neutrons</span> and <span class=key>protons</span>. Electrons and protons are the particles that carry electric charge. In most objects, the number of protons and the number of electrons is exactly the same, so those objects are said to be <span class=key>electrically neutral </span>.  Charge can be separated by touching different materials, like silk and vinyl, together and peeling them apart.  Only electrons are exchanged in this way, exchanging protons requires a much greater amount of energy.  Charged particles exert forces on one another with like charge particles pushing away from each other with a repulsive force, and opposite charges attracting.  These forces due to electric charge are responsible for holding together all of the objects that make up the world around you. Several of the most dramatic light shows in nature are based on charged particles. Lightning strikes occur when a large buildup of electrons at the base of a cloud jump to another cloud or to the Earth's surface. The Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) are the result of charged particles interacting with the Earth's magnetic field and energizing gases in the atmosphere, causing beautiful displays of color in the night sky."
+msgstr "圍繞在你身邊的所有物體都是以電子、質子和中子所構成。電子和質子是帶有電荷的粒子。大部分的物體，電子數和質子數是完全相同的，因此這些物體被認為是為電中性。電荷可透過接觸不同材質被分配在一起或是分開，像是絲綢與聚氯乙烯。只有電子交換是以這種方式，質子交換需要更大的能量。帶電粒子彼此施加壓力，如粒子彼此推開的排斥力與相反電荷的吸引力。這些因電荷所產生的力負責維繫你周圍的所有物體。在自然界中幾種最戲劇性的燈光秀根據帶電粒子所產生的。閃電發生於當雲的基部累積大量的電子跳到另一個雲朵或地球表面。北極光與南極光是由帶電粒子、地球磁場與大氣中的激發氣體相互作用結果，在夜空中產生美麗的顏色。"
+
+# 14
+msgid "Reviewing key vocabulary related to... electric charge"
+msgstr "回顧有關「電荷」的關鍵詞彙"
+
+msgid "Electron"
+msgstr "電子"
+
+msgid "One of the components that make up atoms. Tiny, negatively charged particles that orbit the atom's nucleus."
+msgstr "構成原子的一部分。微小的、帶負電荷的粒子，在原子核軌道上運行。"
+
+msgid "Proton"
+msgstr "質子"
+
+msgid "One of the components that make up atoms. Very small, but much larger than an electron. Protons exist inside the nucleus of atoms and possess a positive charge."
+msgstr "構成原子的一部分。非常小，但是比電子大。原子存在於原子核內部，帶正電荷。"
+
+msgid "Neutron"
+msgstr "中子"
+
+msgid "One of the components that make up atoms. Neutrons are similar in size to protons and also exist inside the nucleus of atoms, but they possess no charge."
+msgstr "構成原子的一部分。中子的大小和質子相似，也存在於原子核內部，但不帶電。"
+
+msgid "One of two possible charges. Things that are positively charged are attracted to things that are negatively charged and repel other positively charged things. Protons have a positive charge."
+msgstr "帶電荷有兩種可能性。帶正電荷的東西被帶負電的吸引，被帶正電荷的東西排斥。質子帶有正電荷。"
+
+msgid "One of two possible charges. Things that are negatively charged are attracted to things that are positively charged and repel other negatively charged things. Electrons have a negative charge."
+msgstr "帶電荷有兩種可能性。帶負電荷的東西被帶正電的吸引，被帶負電的排斥。電子帶有負電荷。"
+
+msgid "Conduction"
+msgstr "導電"
+
+msgid "The movement of electric charge through a material. The ease with which electricity moves through a material is called its conductivity."
+msgstr "電荷通過物質移動。電在物質中輕鬆移動的能力稱為導電性。"
+
+msgid "Triboelectric Series"
+msgstr "摩擦電序"
+
+msgid "A ranking of various materials based upon the charge they acquire when touched by another material on the series."
+msgstr "序列中不同物質的排序是根據接觸其他物質時得到的電荷。"
+
+# 15
+msgid "Checking what you now know about... electric charge"
+msgstr "檢視有關於你所知道的…「電荷」"
+
+# 16
+msgid "A ping pong ball is tied to a string and then gains some electrons through charging by contact. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces due to the charged spheres will cause ping pong ball to move."
+msgstr "一個乒乓球被綁在一條繩子，然後透過接觸得到電子而帶電。它然後垂吊在兩個金屬球之間：一個帶正電荷，而另一個帶負電荷。選擇造成乒乓球移動之帶電球體產生的力所代表的箭頭方向。"
+
+msgid "Positively Charged"
+msgstr "帶正電"
+
+msgid "Negatively Charged"
+msgstr "帶負電"
+
+msgid "Your first quiz question is…"
+msgstr "您的第一次測驗的問題是……"
+
+msgid "Nope.  The ping pong ball has extra electrons, meaning that it carries a negative charge.  It would be repelled by the negatively charged sphere, and attracted to the positively charged sphere."
+msgstr "不。乒乓球有多餘電子，這意味著它攜帶負電荷。它會被帶負電荷的球體排斥且吸引帶正電荷的球體。"
+
+msgid "You’ve got it!  The ping pong ball with extra electrons would be repelled or pushed away by the negatively charge sphere, and would be attracted to the positively charge sphere.  This would cause the ping pong ball to move to the left."
+msgstr "你已經了解了！乒乓球有多餘電子會排斥帶負電的球體或是被帶負電的球體推開，且會吸引帶正電荷的球體。這會導致乒乓球移動到左側。"
+
+# 17
+msgid "Another ping pong ball is tied to a string and then loses some electrons through charging by contact, leaving it with more protons than electrons. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces on the ping pong ball will cause it to move."
+msgstr "另一個乒乓球被綁在一條繩子上，然後透過接觸而失去一些電子，使質子多於電子。使之垂吊在兩顆金屬球之間：一個金屬球帶正電荷，另一個帶負電荷。選擇一個箭頭代表作用於乒乓球上使其移動之力的方向。"
+
+msgid "Bouncing a ping pong ball..."
+msgstr "彈跳一顆乒乓球……"
+
+msgid "Not quite.  The ping pong ball would have a positive charge due to the extra protons, so it would move to the right due to the repulsion from the positively charged sphere and the attraction to the negatively charged sphere."
+msgstr "不。因多餘的質子，乒乓球帶正電荷，由於帶正電荷球體的排斥力與帶負電荷球體的吸引力，所以乒乓球會移動至右側。"
+
+msgid "Correct!  The extra protons on the ping pong ball give it a positive charge.  It would be repelled by the positively charged sphere and attracted to the negatively charged sphere."
+msgstr "正確！額外的質子使乒乓球帶正電荷。它被帶正電荷的球體排斥，被帶負電荷的球體吸引。"
+
+# 18
+msgid "Your friend makes the statement that the reason a vinyl coat hanger became negatively charged was that charge was created by rubbing the hanger with a wool sock.  Which of the following statements would be more accurate?"
+msgstr "你朋友陳述之所以聚氯乙烯的衣架帶負電，是因為掛在上面的羊毛襪子所造成的。下列哪項陳述比較正確？"
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled protons off the hanger."
+msgstr "聚氯乙烯的衣架會帶負電荷，是因為羊毛襪帶走衣架的質子。"
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock added electrons to the hanger."
+msgstr "聚氯乙烯的衣架會帶負電荷，是因為羊毛襪的電子跑到衣架上了。"
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled electrons from the hanger"
+msgstr "聚氯乙烯的衣架會帶負電荷，是因為羊毛襪帶走衣架上的電子。"
+
+msgid "There is nothing wrong with your friend's statement."
+msgstr "你朋友的說法都沒有錯。"
+
+msgid "Hanging clothes..."
+msgstr "掛衣服……"
+
+msgid "Nope.  It takes a much greater amount of effort to remove protons than it does to add electrons."
+msgstr "不。要花比添加電子更大的力氣才能移除質子。"
+
+msgid "Yes!  The hanger became negatively charged because it gained electrons from the wool sock."
+msgstr "是的！衣架因從羊毛襪獲得電子而帶負電荷。"
+
+msgid "Not quite.  If the sock had pulled electrons from the hanger, the hanger would have been left with a positive charge."
+msgstr "不。如果襪子從衣架拉走電子，衣架會帶正電荷。"
+
+msgid "No.  The charge was already present on the sock and hanger before they were rubbed together.  No charge was created by rubbing, the charged particles were simply exchanged by the objects when they were rubbed together."
+msgstr "不。在衣架與襪子摩擦以前，襪子已經帶電了。摩擦沒有產生任何電荷，帶電粒子在彼此摩擦時被交換。"
+
+# 19
+msgid "While experimenting with different materials, you notice that after rubbing a square of fabric on a rod made out of material A and a rod made out of material B, that the two rods repel each other, indicating that they have ‘like’ electric charges. "
+msgstr "採用不同的材料進行試驗，使一塊布料和A材質製成的棒子與B材質製成的棒子摩擦，你會發現這兩個棒子會互相排斥，表示它們具有＂相同＂電荷。"
+
+msgid "Drag the fabric, material A and material B up or down into their possible positions within the triboelectric series that would explain this outcome."
+msgstr "將此塊布料、材質A和B拖曳至摩擦電序中可能的位置以解釋這種結果。"
+
+msgid "Silk"
+msgstr "絲綢"
+
+msgid "The Square of Fabric"
+msgstr "一塊布料"
+
+msgid "The Rod of Material A"
+msgstr "材質A的棒子"
+
+msgid "The Rod of Material B"
+msgstr "材質B的棒子"
+
+msgid "Rubbing a fabric..."
+msgstr "摩擦一塊布料……"
+
+msgid "Correct!  Materials A and B both gained like charges because they both are located closer to the same end of the triboelectric series."
+msgstr "正確！材質A和B都獲得相同的電荷，因為它們都靠近於摩擦電序相同的一端。"
+
+msgid "Not quite.  Materials A and B are repelling each other because they both have the same charge.  That means they both must be closer to the same end of the chart, and the fabric square is closer to the other end of the chart."
+msgstr "不。材料A和B相互排斥，因為它們都具有相同的電荷。也就是說它們都一定是靠近圖表的同一端。"
+
+# 20
+msgid "The different parts of the atom are shown in different colors.   Based on what you are able to see in this image, what would be a true statement about the charge on the material made of atoms like this."
+msgstr "不同顏色代表不同區域的原子。根據你在這個圖片所看到的，哪一項有關原子構成之物質帶電荷的陳述是對的。"
+
+msgid "The material would be positively charged due to the protons in the nucleus."
+msgstr "物質會帶正電荷是因為原子核中的質子。"
+
+msgid "The material would be negatively charged due to the electrons surrounding the atom."
+msgstr "物質會帶負電荷是因為原子周圍圍繞的電子。"
+
+msgid "The material would be negatively charged because the neutrons cancel out the protons."
+msgstr "物質會帶負電荷是因為中子和質子相互抵銷。"
+
+msgid "The material would be positively charged due to the difference between the number of protons in the nucleus and the number of electrons surrounding the atom."
+msgstr "物質會帶正電荷是由於原子核中的質子數目與原子周圍的電子數目不同。"
+
+msgid "Nucleus"
+msgstr "原子核"
+
+msgid "Identifying atom..."
+msgstr "辨認原子…"
+
+msgid "Incorrect.  All atoms contain protons, so that alone would not cause the material to be positively charged."
+msgstr "不正確。所有原子皆含有質子，以至物質不會僅僅只帶正電荷。"
+
+msgid "Not quite.  All atoms contain electrons, so the fact that this atom is surrounded by electrons is not enough to cause the material to be negatively charged."
+msgstr "不。所有原子含有電子，因此事實上原子被電子環繞是不足以造成物質帶負電荷。"
+
+msgid "No.  All atoms contain neutrons, but it is the electrons, not the neutrons, that are responsible for balancing out the charge of the protons."
+msgstr "不。所有原子含有中子，但它是電子，而不是中子，它們是負責平衡質子的電荷。"
+
+msgid "You’ve got it!  The key to the charge on a material is the difference between the number of positively charged protons and negatively charged electrons.  In the image, the atom has only three electrons, and at least four protons, so would make up a positively charged material."
+msgstr "你已經了解了！物質電荷的關鍵在於帶正電荷的質子數和負電荷的電子數之間的差異。"
+
+# 21
+msgid "Which of these natural wonders relate to electric charge?"
+msgstr "以下哪些自然奇觀與電荷有關？"
+
+msgid "I. The beautiful colors of the Northern Lights"
+msgstr "一.北極光的靚麗色彩"
+
+msgid "II. The ability of a compass needle to point North"
+msgstr "二.指南針指向北方的能力"
+
+msgid "III. The intense flash of a Lightning strike"
+msgstr "三.雷擊的強烈閃光"
+
+msgid "I"
+msgstr "一"
+
+msgid "III"
+msgstr "三"
+
+msgid "I and III"
+msgstr "一和三"
+
+msgid "I. The beautiful colors of the Northern Lights and III. The intense flash of a Lightning strike"
+msgstr "一.北極光的靚麗色彩 與 三.雷擊的強烈閃光"
+
+msgid "I, II, and III"
+msgstr "一、二和三"
+
+msgid "I. The beautiful colors of the Northern Lights, II. The ability of a compass needle to point North and III. The intense flash of a Lightning strike"
+msgstr "一.北極光的靚麗色彩、二.指南針指向北方的能力 與 三.雷擊的強烈閃光"
+
+msgid "Not quite.  The Northern Lights are caused by charged particles energizing gases in the Earth’s atmosphere, but lightning strikes are also due to charged particles."
+msgstr "不。極光是由帶電的粒子激發氣體造成的發光現象，但雷擊也是因為帶電粒子而造成的。"
+
+msgid "Not quite.  The bright flash from lightning is caused by a electrons flowing between the sky and the ground, but the Northern Lights are also due to charged particles."
+msgstr "不。閃電明亮的閃光是因電子在天空和地面之間流動造成的，而北極光也因帶電粒子而造成的。"
+
+# 22
+msgid "You’ve got it.  Both of these natural wonders are due to the properties of charged particles."
+msgstr "你已經了解了。這兩種大自然奇觀都是由於帶電粒子的特性而形成的。"
+
+msgid "Both lightning and the Northern Lights are caused by charged particles, but the action of a compass needles is due to magnetic fields."
+msgstr "無論閃電和北極光都是由帶電粒子引起的，而羅盤指針的作用是因磁場而造成的。"
+
+msgid "You've completed the Electric Charge module."
+msgstr "你已經完成「電荷」模組"
+
+msgid "Go Back to Dashboard"
+msgstr "回到控制面板"

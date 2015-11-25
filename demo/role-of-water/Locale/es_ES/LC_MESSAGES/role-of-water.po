@@ -1,0 +1,1229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: role of water\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzman <eguzmanfdez@gmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 1
+msgid "Role of Water"
+msgstr "Papel del Agua"
+
+msgid "Welcome to the Role of Water review"
+msgstr "Bienvenido/a a la Revisión del Papel del Agua"
+
+# 2
+msgid "Thinking about... the role of water"
+msgstr "Pensando acerca de... el papel del agua"
+
+msgid ""
+"There's a famous old poem called The Rime of the Ancient Mariner, with a "
+"couple of lines that say: \"Water, water, everywhere, But not a drop to drink"
+"\"."
+msgstr ""
+"Hay un viejo poema famoso llamado La Balada del Antiguo Marinero, con un par "
+"de líneas que dicen: \"Agua, agua, en todas partes, Pero ni una sola gota "
+"para beber\"."
+
+msgid ""
+"But how can that be? How can you have water everywhere but none to drink? "
+"You're right. The key to the puzzle is in the name of the poem... The Rime "
+"of the Ancient Mariner. A mariner is another name for a sailor on the ocean. "
+"'Mariner' is a word related to the word 'marine' – like if you wanted to be "
+"a marine scientist you'd be studying the ocean. So if you were a sailor on a "
+"ship on the ocean and ran out of water on the ship, you would be surrounded "
+"by water but there would be none to drink!! And that's because the ocean is "
+"composed of <span class='key'>salt water</span> and we only drink <span "
+"class='key'>fresh water</span> – water with no salt in it!! As a matter of "
+"fact, drinking salt water can be harmful if you drink too much and don't "
+"drink any fresh water. If you ever swam in salt water and swallowed a "
+"mouthful, you would know how bad it tastes. But don't worry – a mouthful "
+"won't hurt you. But fresh water is absolutely critical to your survival."
+msgstr ""
+"¿Pero cómo puede ser eso? ¿Cómo puedes tener agua en todos lados pero no "
+"tener nada para beber? ¡Tienes razón! La clave del acertijo está en el "
+"nombre del poema... La Balada del Antiguo Marinero. Un marinero es alguien "
+"que navega en el océano. 'Marinero' es una palabra que se relaciona a la "
+"palabra 'marino' – por ejemplo, si quisieras ser un científico marino, "
+"estudiarías el océano. Así que si fueras un marinero en un barco en el "
+"océano y se te acabara el agua del barco, estarías rodeado de agua ¡¡pero no "
+"tendrías nada para beber!! Y eso es porque el océano está compuesto de <span "
+"class='key'>agua salada</span> y sólo bebemos <span class='key'>agua dulce</"
+"span> – ¡¡agua sin sal en ella!! De hecho, beber agua salada puede ser "
+"dañino si bebes demasiada y no bebes agua dulce. Si alguna vez has nadado en "
+"agua salada y has tragado algo de agua, sabes cuán mal sabe. Pero no te "
+"preocupes – un trago no te lastimará. Sin embargo, el agua dulce es "
+"absolutamente crítica para tu supervivencia."
+
+# 3
+msgid "Checking what you know... about the role of water"
+msgstr "Revisando lo que sabes... acerca del papel del agua"
+
+msgid "Most of the fresh water on earth can be found in..."
+msgstr "La mayoría del agua dulce en la Tierra se puede encontrar en..."
+
+msgid "Lakes"
+msgstr "Lagos"
+
+msgid "Rivers"
+msgstr "Ríos"
+
+msgid "Glaciers and Ice Caps"
+msgstr "Glaciares y Casquetes Polares"
+
+msgid "Underground rocks"
+msgstr "Rocas subterráneas"
+
+msgid ""
+"If you answered glaciers and ice caps, you're correct! Over 68 percent of "
+"the fresh water on Earth is found in icecaps and glaciers, and just over 30 "
+"percent is found in groundwater – that’s the water that people pump up from "
+"underground and is found in rock and sand formations."
+msgstr ""
+"Si respondiste que los glaciares y casquetes polares, ¡estás en lo correcto! "
+"Más del 68 por ciento del agua dulce en la Tierra se encuentra en los "
+"casquetes polares y los glaciares, y poco más del 30 por ciento se encuentra "
+"en las aguas subterráneas – esa es el agua que las personas extraen del "
+"subsuelo y que se encuentra en formaciones de roca y arena."
+
+msgid "Swimming in freshwater..."
+msgstr "Nadando en agua dulce..."
+
+# 4
+msgid "Reviewing core ideas... about the role of water"
+msgstr "Revisando ideas clave... acerca del papel del agua"
+
+msgid ""
+"Did you know that your body is made up of about 70% water? That means you "
+"are almost three quarters water! But nearly all the water on earth – 97.5% – "
+"is salt water in the ocean. Only 2.5% of the water on earth is the fresh "
+"water that we need to survive. That's why protecting our freshwater "
+"resources is so important for human survival, especially because what little "
+"we have is being threatened by pollution and overuse!"
+msgstr ""
+"¿Sabías que tu cuerpo está hecho de alrededor de un 70% de agua? ¡Eso "
+"significa que eres casi tres cuartos agua! Pero casi toda el agua en la "
+"tierra – 97.5% – es agua salada en el océano. Sólo el 2.5% del agua en la "
+"Tierra es el agua dulce que necesitamos para sobrevivir. Es por eso que "
+"proteger nuestras fuentes de agua dulce es tan importante para la "
+"supervivencia humana, especialmente porque lo poco que tenemos ¡se ve "
+"amenazado por la contaminación y el exceso de uso!"
+
+msgid "Salt water"
+msgstr "Agua salada"
+
+msgid "Salt Water"
+msgstr "Agua Salada"
+
+msgid "Fresh water"
+msgstr "Agua dulce"
+
+msgid "Freshwater"
+msgstr "Agua Dulce"
+
+msgid "Fresh Water"
+msgstr "Agua Dulce"
+
+msgid ""
+"So where is all this fresh water anyway? You probably thought first of lakes "
+"and rivers – that makes sense because that's the fresh water you usually "
+"see. But it turns out that only a tiny part of all the Earth's fresh water "
+"is in lakes and rivers. Most of the earth's fresh water is tied up in the "
+"polar ice caps and the huge glaciers in Greenland. That water isn't easy to "
+"get to for you to drink, is it? And a lot more water is underground where "
+"you can't see it. This underground water is called <span "
+"class='key'>groundwater</span>. It's not in underground rivers or lakes or "
+"pools of water. It's millions and billions, and trillions of little water "
+"droplets in between sand grains in the rocks that are under the earth's "
+"surface. But this turns out to be an important water supply because it is "
+"underneath almost all the land on earth and we can drill down and pump it "
+"out to use it."
+msgstr ""
+"Así que, ¿dónde está toda esta agua dulce? Probablemente pensaste primero en "
+"lagos y ríos – eso tiene sentido porque esa es el agua dulce que ves "
+"usualmente. Pero en realidad, sólo una pequeñísima parte de toda el agua "
+"dulce de la Tierra está en lagos y ríos. La mayoría del agua dulce de la "
+"Tierra está atrapada en los casquetes polares y los enormes glaciares de "
+"Groenlandia. No es fácil conseguir esa agua para beberla, ¿o sí? Y aún más "
+"agua está bajo tierra, donde no la puedes ver. Esta agua bajo tierra se "
+"llama <span class='key'>agua subterránea</span>. No son ríos o lagos o "
+"estanques subterráneos. Son millones, billones y trillones de pequeñas gotas "
+"de agua entre los granos de arena de las rocas que están bajo la superficie "
+"terrestre. Pero ésta es una fuente importante de agua porque está debajo de "
+"casi todos los terrenos en la Tierra y podemos excavar y bombearla para "
+"extraerla y utilizarla."
+
+msgid "Blue glacier in Greenland"
+msgstr "Glaciar azul en Groenlandia"
+
+msgid "Digging for groundwater..."
+msgstr "Excavando en busca de agua subterránea..."
+
+# 5
+msgid "A little less than the amount of salt water in the ocean."
+msgstr "Un poco menos que la cantidad de agua salada en el océano."
+
+msgid "About the same as the amount of salt water in the ocean."
+msgstr "Más o menos la misma cantidad que agua salada en el océano."
+
+msgid "Almost all gone."
+msgstr "Casi agotada."
+
+msgid ""
+"Correct! About 97.5% of the water on earth is salt water and only 2.5% is "
+"fresh water."
+msgstr ""
+"¡Correcto! Aproximadamente el 97.5% del agua en la tierra es agua salada y "
+"sólo el 2.5% es agua dulce."
+
+msgid ""
+"Correct! The amount of fresh water in rivers and lakes that is easily "
+"available to populated areas on earth is often polluted and not drinkable. "
+"So for much of the earth's population the amount of clean drinkable water is "
+"threatened by pollution and overuse."
+msgstr ""
+"¡Correcto! La cantidad de agua dulce en ríos y lagos que está disponible "
+"fácilmente a áreas pobladas de la Tierra está, con frecuencia, contaminada y "
+"no es potable. Así que para una gran parte de la población de la Tierra, la "
+"cantidad de agua limpia y potable se ve amenazada por la contaminación y el "
+"exceso de uso."
+
+msgid "More than the amount of salt water in the ocean."
+msgstr "Más que la cantidad de agua salada en el océano."
+
+msgid "Much less than the amount of salt water in the ocean."
+msgstr "Mucha menos que la cantidad de agua salada en el océano."
+
+msgid ""
+"Nope! About 97.5% of the water on earth is salt water and only 2.5% is fresh "
+"water."
+msgstr ""
+"¡Nop! Alrededor del 97.5% del agua en la tierra es agua salada y sólo el "
+"2.5% es agua dulce."
+
+msgid ""
+"Nope! There's a lot of water on earth but most of it is salt water, which we "
+"can't drink. Most of the fresh water is tied up in glaciers. The amount of "
+"fresh water left in rivers and lakes that we can easily drink is polluted "
+"and not drinkable. So for most of the earth's population, there isn't enough "
+"clean fresh water to drink."
+msgstr ""
+"¡Nop! Hay mucha agua en la tierra, pero la mayor parte de ella es agua "
+"salada, que no podemos beber. La mayoría del agua dulce está atrapada en los "
+"glaciares. La cantidad de agua dulce que queda en ríos y lagos que podemos "
+"beber fácilmente está contaminada y no es potable. Así que para la mayor "
+"parte de la población de la Tierra, no hay suficiente agua dulce limpia para "
+"beber."
+
+msgid "Plenty for all of the population on the earth."
+msgstr "Disponible abundantemente para toda la población de la Tierra."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Question A. The amount of fresh water on the earth is..."
+msgstr "Pregunta A. La cantidad de agua dulce de la Tierra es..."
+
+msgid "Question B. The amount of clean fresh water on the earth is..."
+msgstr "Pregunta B. La candidad de agua dulce potable en la Tierra está..."
+
+msgid "Running out quickly."
+msgstr "Acabándose rápidamente."
+
+msgid ""
+"Sorry. There is still plenty of fresh water on earth in glaciers and "
+"icecaps. It's just not easily available for people to drink."
+msgstr ""
+"Lo siento. Aún hay una gran cantidad de agua dulce en la Tierra en los "
+"glaciares y casquetes polares. Sólo que no está disponible para que las "
+"personas la beban."
+
+msgid "Threatened by pollution and overuse."
+msgstr "Amenazada por la contaminación y exceso de uso."
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+# 6
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Liquid"
+msgstr "Líquido"
+
+msgid ""
+"Of all the substances that make up the earth, water has properties that make "
+"it very unusual in many ways. One of the most important properties that make "
+"water different than almost any other substance on earth is that water can "
+"be a solid, or a liquid, or a gas at normal temperatures that humans "
+"commonly experience. For instance, when it's really cold outside, below 32 "
+"degrees Fahrenheit (that's the freezing point of water), water can be found "
+"in its solid form as snow or ice. If it stays cold all year long for a very "
+"long time, like at the north or south poles, the frozen water gradually "
+"builds up into huge mounds of snow and ice like <span class='key'>glaciers</"
+"span> in Antarctica at the South Pole or the frozen sea <span "
+"class='key'>ice cap</span> at the North Pole."
+msgstr ""
+"De todas las sustancias que forman la Tierra, el agua tiene propiedades que "
+"la hacen muy inusual en muchas formas. Una de las propiedades más "
+"importantes que diferencian al agua de casi cualquier otra sustancia en la "
+"Tierra es que el agua puede ser sólida, o líquida, o gaseosa en temperaturas "
+"normales que los humanos experimentan comúnmente. Por ejemplo, cuando hace "
+"mucho frío afuera, debajo de 0 grados centígrados (o 32° F, que es el punto "
+"de congelación del agua), el agua puede encontrarse en su estado sólido como "
+"nieve o hielo. Si el frío se mantiene todo el año por mucho tiempo, como en "
+"los polos norte o sur, el agua congelada gradualmente se acumula en enormes "
+"montañas de nieve y hielo como <span class='key'>glaciares</span> en la "
+"Antártida en el Polo Sur o en el <span class='key'>casquete</span> de mar "
+"congelado en el Polo Norte."
+
+msgid "Researching different state of water..."
+msgstr "Investigando los distintos estados del agua..."
+
+msgid "Solid"
+msgstr "Sólido"
+
+msgid ""
+"Water can also be a gas at normal temperatures that humans typically "
+"experience. When water is a gas you can't see it because it's mixed in with "
+"the air. You can feel it though – it's called <span class='key'>humidity</"
+"span>! Sometimes on a hot summer day, no matter what you do - you sweat. "
+"That's because the air is <span class='key'>humid</span> – which means "
+"there's a lot of water in the air. And usually, the hotter it is, the more "
+"humid it is - especially if you live in certain parts of the country like "
+"Florida, or Louisiana, or even Chicago. But if you live near a desert, "
+"there's very little humidity because the air is very dry."
+msgstr ""
+"El agua también puede ser un gas a temperaturas normales que los humanos "
+"experimentan típicamente. Cuando el agua es un gas no la puedes ver porque "
+"está mezclada con el aire. Pero la puedes sentir – ¡se llama <span "
+"class='key'>humedad</span>! Algunas veces en un día cálido de verano, sin "
+"importar lo que hagas – sudas. Ésto sucede porque el aire está <span "
+"class='key'>húmedo</span> – lo que significa que hay mucha agua en el aire. "
+"Y usualmente, entre más calor hace, más humedad hay – especialmente si vives "
+"en ciertas partes del país como Florida, Louisiana, o incluso Chicago. Pero "
+"si vives cerca de un desierto, hay muy poca humedad porque el aire es muy "
+"seco."
+
+# 7
+msgid "As glaciers on the north pole."
+msgstr "Como glaciares en el Polo Norte."
+
+msgid "As snow and ice on both the north and south polar regions."
+msgstr "Como nieve y hielo tanto en las regiones polares del norte y del sur."
+
+msgid "As snow in the winter in the northern part of the earth."
+msgstr "Como nieve en el invierno en la parte norte de la Tierra."
+
+msgid "As snow on mountaintops."
+msgstr "Como nieve en las cimas de las montañas."
+
+msgid "Can be both ice and snow."
+msgstr "Puede ser tanto hielo como nieve."
+
+msgid "Can be solid, liquid, or gas at normal human temperatures."
+msgstr "Puede ser sólida, líquida o gaseosa a temperaturas humanas normales."
+
+msgid "Can feel it but you can't see it."
+msgstr "Puedes sentirla pero no la puedes ver."
+
+msgid "Can see it."
+msgstr "Puedes verla."
+
+msgid "Can taste it."
+msgstr "Puedes sentir su sabor."
+
+msgid "Can't see it but you can smell it."
+msgstr "No la puedes ver pero puedes olerla."
+
+msgid "Can feel it but you can’t see it."
+msgstr "Puedes sentirla pero no la puedes ver."
+
+msgid ""
+"Correct! Gaseous water in the atmosphere (also called the air) is called "
+"humidity. You can \"feel\" water vapor or gas in the air because the "
+"humidity makes your sweat stick to you, making you feel hot."
+msgstr ""
+"¡Correcto! El agua gaseosa en la atmósfera (también conocida como aire) se "
+"llama humedad. Puedes \"sentir\" vapor o gas de agua en el aire porque la "
+"humedad hace que tu sudor se pegue a tu cuerpo, haciéndote sentir calor."
+
+msgid ""
+"Correct! Most of the frozen (solid) water on earth, also known as ice or "
+"snow is found on the Earth's polar ice caps on both the North Pole and the "
+"South Pole (which is the continent called Antarctica)."
+msgstr ""
+"¡Correcto! La mayor parte del agua congelada (sólida) en la Tierra, también "
+"conocida como hielo o nieve, se encuentra en los casquetes polares de la "
+"Tierra tanto en el Polo Norte como el Polo Sur (que es el continente "
+"conocido como Antártida)."
+
+msgid "Glaciers melting glaciers..."
+msgstr "Glaciares derritiendo glaciares..."
+
+msgid "Is clear."
+msgstr "Es transparente."
+
+msgid "Is wet."
+msgstr "Es húmeda."
+
+msgid "Nope... there are many different clear liquids on earth."
+msgstr "Nop... hay muchos líquidos transparentes diferentes en la Tierra."
+
+msgid ""
+"Nope... there may seem to be a lot of snow in winter in the north but it's "
+"not nearly as much as the ice caps on the north and south poles."
+msgstr ""
+"Nop... puede parecer que hay mucha nieve en el invierno en el norte, pero no "
+"es remotamente tanta como los casquetes de los polos en el norte y sur."
+
+msgid ""
+"Nope... you can't see gaseous water in the atmosphere. But when it just "
+"starts to turn into liquid water - called condensation - even before it "
+"rains you can sometimes see it as a haze."
+msgstr ""
+"Nop... no puedes ver el agua gaseosa en la atmósfera. Pero justo cuando "
+"empieza a transformarse en agua líquida - lo que se llama condensación - "
+"incluso antes de que llueva puedes verla algunas veces como neblina."
+
+msgid ""
+"Not quite! There are no glaciers on the North Pole. Just an ice cap of "
+"frozen sea water."
+msgstr ""
+"¡No exactamente! No hay glaciares en el Polo Norte. Sólo un casquete de agua "
+"de mar congelada."
+
+msgid ""
+"Not quite... water can be ice and snow but those are both just names for "
+"solid water."
+msgstr ""
+"No exactamente... el agua puede ser hielo y nieve pero esos son sólo nombres "
+"para el agua sólida."
+
+msgid ""
+"Question A. One of the properties that makes water unlike almost all other "
+"substances on earth is that it..."
+msgstr ""
+"Pregunta A. Una de las muchas propiedades que diferencian al agua de casi "
+"todas las otras sustancias de la Tierra es que..."
+
+msgid "Question B. When water is in its gaseous form in the atmosphere you..."
+msgstr ""
+"Pregunta B. Cuando el agua está en su estado gaseoso en la atmósfera tú..."
+
+msgid "Question C. Solid water is found on earth mainly..."
+msgstr "Pregunta C. El agua sólida se encuentra en la Tierra principalmente..."
+
+msgid ""
+"Sorry... there may seem to be a lot of snow in the mountains of the earth – "
+"like on Mt. Everest - but it's not nearly as much as the ice caps on the "
+"North and South poles."
+msgstr ""
+"Lo siento... puede parecer que hay mucha nieve en las montañas de la Tierra "
+"– como en el Monte Everest – pero no es remotamente tanta como en los "
+"casquetes del Polo Norte y Sur."
+
+msgid ""
+"Sorry... wet just means liquid and there are lots of different liquids on "
+"earth."
+msgstr ""
+"Lo siento... el ser húmeda sólo significa que es líquida y hay muchos "
+"distintos líquidos en la Tierra."
+
+msgid "Think again! Water gas or vapor in the air is tasteless."
+msgstr "¡Piensa de nuevo! El vapor o gas de agua en el aire no tiene sabor."
+
+msgid "Try again! People can't smell water in the atmosphere - it is odorless."
+msgstr ""
+"¡Inténtalo de nuevo! Las personas no pueden oler el agua en la atmósfera – "
+"no tiene olor."
+
+msgid ""
+"You got it! Water is unique in that it can be found in all three states of "
+"matter - solid, liquid, and gas - at temperatures that humans commonly "
+"experience."
+msgstr ""
+"¡Ahí lo tienes! El agua es única ya que puede encontrarse en los tres "
+"estados de la materia – sólido, líquido y gaseoso – en temperaturas que los "
+"humanos experimentan comúnmente."
+
+# 8
+msgid ""
+"<span class='key'>Groundwater</span> is the best source for drinking water "
+"in most areas of the earth – even though there's only about half as much "
+"groundwater as there is water in polar ice caps. Groundwater is found "
+"underground when rain seeps into the ground and fills the little spaces "
+"between rock particles and the cracks and fractures in the rock – probably "
+"right under your house! As the rainwater seeps through the ground and into "
+"the rock, it is naturally filtered so in many places groundwater is pretty "
+"clean, although it can be polluted in some places as well. The main way we "
+"get groundwater out of the ground is to drill or dig a hole in the ground – "
+"called <span class='key'>water well</span> - and pump the water up. "
+"Sometimes the water is just a few feet down underground but sometimes the "
+"best clean water is hundreds of feet down and takes a very big drill to "
+"extract it."
+msgstr ""
+"<span class='key'>El agua subterránea</span> es la mejor fuente de agua "
+"potable en la mayoría de las áreas de la Tierra – a pesar de que sólo hay "
+"aproximadamente la mitad de agua bajo tierra de la que hay en los casquetes "
+"polares. El agua subterránea se encuentra bajo tierra cuando la lluvia se "
+"filtra en el suelo y llena los pequeños espacios entre las partículas de "
+"roca y las grietas y fracturas en la roca – ¡probablemente justo debajo de "
+"tu casa! A medida que el agua de lluvia se filtra a través del suelo y en la "
+"roca, se filtra de forma natural, por lo que en muchos lugares el agua "
+"subterránea está bastante limpia, aunque también puede estar contaminada en "
+"algunos lugares. La principal forma en que sacamos aguas subterráneas de la "
+"tierra, consiste en perforar o excavar un agujero en el suelo – llamado "
+"<span class='key'>pozo de agua</span> – y bombear el agua hacia arriba. A "
+"veces el agua se encuentra a pocos metros de profundidad bajo tierra, pero a "
+"veces la mejor agua potable está a cientos de metros de profundidad y se "
+"necesita un taladro muy grande para extraerla."
+
+msgid "Collecting water samples..."
+msgstr "Recolectando muestras de agua..."
+
+msgid "Modern rotary drill rigs bore water well"
+msgstr "Taladro de perforación moderno excava un pozo de agua"
+
+msgid "More core ideas... about the role of water"
+msgstr "Más ideas clave... acerca del papel del agua"
+
+msgid ""
+"While a lot of fresh water can be found in the frozen sea ice cap of the "
+"North Pole and the glaciers of the South Pole, that water is pretty far away "
+"from most people so it's not a good source for drinking water. Lakes and "
+"rivers are closer to most populated areas, and they are often used to get "
+"water for cities and towns, but they hold a very small amount of fresh water "
+"compared to other sources and they are sometimes pretty <span "
+"class='key'>polluted</span> – which means there's bad stuff in the water "
+"that can harm you. So where is the best source for fresh water for most "
+"populated areas? What is a source that holds a lot of water and isn't very "
+"polluted?"
+msgstr ""
+"Mientras que una gran cantidad de agua dulce se encuentra en el casquete "
+"congelado de agua de mar del Polo Norte y los glaciares del Polo Sur, esa "
+"agua está bastante lejos de la mayoría de las personas, así que no es una "
+"buena fuente de agua potable. Los lagos y ríos están más cerca de las zonas "
+"más pobladas, y se utilizan a menudo para conseguir agua para las ciudades y "
+"pueblos, pero tienen una muy pequeña cantidad de agua dulce en comparación "
+"con otras fuentes y algunas veces están bastante <span "
+"class='key'>contaminados</span> – lo que significa que hay cosas malas en el "
+"agua que pueden hacerte daño. Entonces, ¿dónde está la mejor fuente de agua "
+"dulce para las zonas más pobladas? ¿Cuál es una fuente que tiene una gran "
+"cantidad de agua y no está muy contaminada?"
+
+# 9
+msgid "Atlantic and Pacific Oceans"
+msgstr "Océanos Atlántico y Pacífico"
+
+msgid ""
+"Correct! Billions and billions and billions of tiny cracks and spaces in "
+"underground rocks and sediments is where most of all the groundwater on "
+"earth is found."
+msgstr ""
+"¡Correcto! Billones y billones y billones de pequeñas fracturas y espacios "
+"en las rocas y sedimentos subterráneos es en donde se encuentra la mayor "
+"parte del agua subterránea de la Tierra."
+
+msgid "Cracks and spaces in underground rocks"
+msgstr "Fracturas y espacios en rocas subterráneas"
+
+msgid "Groundwater"
+msgstr "Agua subterránea"
+
+msgid "Nope! The Atlantic and Pacific oceans are salt water not fresh water."
+msgstr ""
+"¡Nop! Los océanos Atlántico y Pacífico son de agua salada, no agua dulce"
+
+msgid ""
+"Nope! Underground rivers are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr ""
+"¡Nop! Los ríos subterráneos son extremadamente escasos en la naturaleza y no "
+"son proveedores importantes de agua subterránea."
+
+msgid ""
+"Not quite... underground rivers and lakes are extremely rare in nature and "
+"are not a major supplier of groundwater."
+msgstr ""
+"No exactamente... los ríos y lagos subterráneos son extremadamente escasos "
+"en la naturaleza y no son proveedores importantes de agua subterránea."
+
+msgid ""
+"Not quite... the Great Lakes in the United States and ALL of the other lakes "
+"and rivers in the world account for only a very small percentage of the "
+"fresh water on earth."
+msgstr ""
+"No exactamente... los Grandes Lagos en los Estados Unidos y TODOS los otros "
+"lagos y ríos del mundo sólo son un muy pequeño porcentaje del agua dulce de "
+"la Tierra."
+
+msgid "Question A. Groundwater is found in..."
+msgstr "Pregunta A. El agua subterránea se encuentra en..."
+
+msgid "Question B. The largest source of fresh water on earth is..."
+msgstr "Pregunta B. La fuente más grande de agua dulce en la Tierra es..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid ""
+"Sorry. Underground lakes are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr ""
+"Lo siento. Los lagos subterráneos son extremadamente escasos en la "
+"naturaleza y no son proveedores importantes de agua subterránea."
+
+msgid ""
+"Sorry... there is a lot of groundwater on earth but it accounts for only "
+"about 1/3 of all the fresh water on earth."
+msgstr ""
+"Lo siento... hay mucha agua subterránea en la Tierra, pero sólo es "
+"aproximadamente un tercio de toda el agua dulce de la Tierra."
+
+msgid "The Great Lakes"
+msgstr "Los Grandes Lagos"
+
+msgid "The Polar ice caps"
+msgstr "Los casquetes polares"
+
+msgid "Underground lakes"
+msgstr "Los lagos subterráneos"
+
+msgid "Underground rivers"
+msgstr "Los ríos subterráneos"
+
+msgid "Underground rivers and lakes"
+msgstr "Los ríos y lagos subterráneos"
+
+msgid ""
+"You got it! The glaciers and polar ice caps account for about 2/3 of all the "
+"fresh water on earth."
+msgstr ""
+"¡Ahí lo tienes! Los glaciares y casquetes polares son aproximadamente 2/3 de "
+"toda el agua dulce de la Tierra."
+
+# 10
+msgid "Using what you know... about the role of water... to solve a problem"
+msgstr ""
+"Utilizando lo que sabes... acerca del papel del agua... para resolver un "
+"problema"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid ""
+"Saudi Arabia is a big country in the Mideast part of the world that is known "
+"for being very rich because it has lots of oil. Because it's so rich the "
+"government wants to build lots of buildings for lots of people. But it's a "
+"desert country, which means it doesn't have any rivers or lakes to get "
+"drinking water from. The Saudi government has just hired you as a consultant "
+"to help them figure out how to get fresh drinking water for their people."
+msgstr ""
+"Arabia Saudita es un país grande en el Medio Oriente, que se caracteriza por "
+"ser muy rico, ya que tiene una gran cantidad de petróleo. Ya que es tan "
+"rico, el gobierno quiere construir muchos edificios para mucha gente. Pero "
+"es un país desértico, lo que significa que no tiene ríos o lagos dónde "
+"obtener agua potable. El gobierno saudí te acaba de contratar como consultor/"
+"a para ayudarles a encontrar la manera de obtener agua potable para sus "
+"gente."
+
+msgid "The Assignment"
+msgstr "La Tarea"
+
+msgid "Based on what you know about water sources, how would you help them?"
+msgstr ""
+"Basándote en lo que sabes acerca de las fuentes de agua, ¿cómo los ayudarías?"
+
+msgid "Please type your answer here..."
+msgstr "Por favor escribe tu respuesta aquí..."
+
+msgid "Roaming the dry lands..."
+msgstr "Recorriendo las tierras secas..."
+
+# 11
+msgid "Summarizing core ideas... about the role of water"
+msgstr "Resumiendo ideas clave... acerca del papel del agua"
+
+msgid ""
+"Nearly all the water on earth - 97.5% - is salt water in the ocean. Only "
+"2.5% of the water on earth is fresh water. And most of that fresh water is "
+"found in <span class='key'>glaciers</span>, <span class='key'>polar ice "
+"caps</span> and <span class='key'>groundwater</span>. Only a tiny percentage "
+"of fresh water can be found in the Earth's lakes and rivers. Water has the "
+"unusual property of being able to be found in all three <span "
+"class='key'>states of matter</span> - solid, liquid, and gas - at normal "
+"temperatures that humans experience. Large amounts of solid water, called "
+"ice (or snow), are found in nature: in glaciers and polar ice caps. Liquid "
+"water is the regular water you drink. And water in the gaseous state is "
+"invisible in the air but you can feel it as humidity when the air has a lot "
+"of water vapor mixed in with it."
+msgstr ""
+"Casi toda el agua en la Tierra - el 97.5% - es agua salada en el océano. "
+"Sólo el 2.5% del agua en la Tierra es agua dulce. Y la mayoría de esa agua "
+"dulce se encuentra en los <span class='key'>glaciares</span>, <span "
+"class='key'>casquetes polares</span> y <span class='key'>aguas subterráneas</"
+"span>. Sólo un pequeño porcentaje de agua dulce se encuentra en los lagos y "
+"ríos de la Tierra. El agua tiene la propiedad inusual de poderse encontrar "
+"en los tres <span class='key'>estados de la materia</span> - sólido, líquido "
+"y gaseoso - a temperaturas normales que los humanos experimentan. Grandes "
+"cantidades de agua sólida, llamada hielo (o nieve), se encuentran en la "
+"naturaleza: en los glaciares y los casquetes de hielo polares. El agua "
+"líquida es el agua regular que tú puedes beber. Y el agua en estado gaseoso "
+"es invisible en el aire, pero se puede sentir como humedad cuando el aire "
+"tiene una gran cantidad de vapor de agua mezclado con él."
+
+# 12
+msgid ""
+"A body of dense snow and ice that does not completely melt all year round. "
+"Glaciers are constantly moving under their own weight. They form when "
+"accumulation of snow exceeds the loss due to melting and sublimation."
+msgstr ""
+"Un cuerpo de nieve y hielo denso que no se derrite por completo en todo el "
+"año. Los glaciares se mueven constantemente bajo su propio peso. Se forman "
+"cuando la acumulación de nieve excede la pérdida debido a la sublimación y "
+"el deshielo."
+
+msgid ""
+"An area of ice at the extreme northern and southern parts of the globe which "
+"is present year round.  The amount of ice fluctuates during the year, but "
+"some ice is always present in an ice cap."
+msgstr ""
+"Un área de hielo en el extremo norte y sur del planeta que está presente "
+"todo el año. La cantidad de hielo fluctúa durante el año, pero siempre hay "
+"algo de hielo presente en los casquetes."
+
+msgid "Glacier"
+msgstr "Glaciar"
+
+msgid ""
+"Often called saline, it is water with salts dissolved into it (most commonly "
+"NaCl).  This type of water constitutes the various oceans and seas of the "
+"Earth.  Salt water is not drinkable by humans."
+msgstr ""
+"Frecuentemente llamada salina, es agua con sales disueltas en ella (más "
+"comúnmente NaCl).  Este tipo de agua constituye los varios océanos y mares "
+"de la Tierra. Los humanos no pueden beber el agua salada."
+
+msgid "Polar Ice Cap"
+msgstr "Casquete Polar de Hielo"
+
+msgid "Polluted"
+msgstr "Contaminado/a"
+
+msgid "Reviewing key vocabulary related to... the role of water"
+msgstr "Revisando vocabulario clave relacionado con... el papel del agua"
+
+msgid ""
+"Solid, liquid, and gas states - the common forms of matter on earth.  For "
+"water, the solid state is ice.  The liquid state is liquid water.  And the "
+"gas state is water vapor or steam."
+msgstr ""
+"Sólido, líquido y gaseoso - son los estados comunes de la materia en la "
+"Tierra. Para el agua, el estado sólido es hielo. El estado líquido es agua "
+"líquida. Y el estado gaseoso es vapor de agua."
+
+msgid ""
+"Something is deemed to be polluted when a foreign contaminant (often man "
+"made) has been introduced.  Water is one of the most commonly polluted "
+"substances.  Once an area has been polluted, it may no longer be able to "
+"support life, or if it can, the pollution may have adverse effects on the "
+"things living in or around it."
+msgstr ""
+"Algo se considera contaminado cuando se le ha introducido un contaminante "
+"externo (con frecuencia creado por el hombre). El agua es una de las "
+"sustancias más comúnmente contaminadas. Una vez que un área ha sido "
+"contaminada, puede no ser capaz de sustentar vida, o si puede, la "
+"contaminación puede tener efectos adversos en los seres vivos que habiten "
+"allí o en sus cercanías."
+
+msgid "States of matter"
+msgstr "Estados de la materia"
+
+msgid ""
+"Water located below ground level.  This water is stored in the pore spaces "
+"of soil or in cracks between rocks.  The depth at which the pore spaces are "
+"completely filled with water is called the water table."
+msgstr ""
+"Agua que se localiza debajo del suelo. Esta agua está almacenada en los "
+"espacios porosos del suelo o en las fracturas entre las rocas. La "
+"profundidad a la que los espacios porosos están totalmente llenos de agua se "
+"conoce como manto freático."
+
+msgid ""
+"Water not containing significant amounts of salt dissolved into it.  This "
+"type of water constitutes most of the various lakes, rivers, and streams of "
+"the Earth.  Fresh water is drinkable by humans."
+msgstr ""
+"Agua que no contiene cantidades significativas de sal disuelta en ella. Este "
+"tipo de agua constituye la mayor parte de los diversos lagos, ríos, y "
+"arroyos de la Tierra. Los humanos pueden beber el agua dulce."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+# 13
+msgid "Checking what you now know... about the role of water"
+msgstr "Revisando lo que sabes ahora... acerca del papel del agua"
+
+# 14
+msgid "All of the lakes and rivers combined"
+msgstr "Todos los lagos y ríos combinados"
+
+msgid "Almost all of the water on the earth is found in..."
+msgstr "Casi toda el agua de la Tierra se encuentra en..."
+
+msgid ""
+"Nope! A lot (1/3) of the fresh water on earth is in rocks underground "
+"(groundwater)  this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"¡Nop! Mucha (1/3) del agua dulce de la Tierra se encuentra en las rocas bajo "
+"tierra (agua subterránea) pero es sólo una pequeña fracción del total del "
+"agua en la Tierra."
+
+msgid ""
+"Not quite... a lot (2/3) of the fresh water on earth is in polar ice caps "
+"and glaciers but this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"No exactamente... mucha (2/3) del agua dulce de la Tierra está en los "
+"glaciares y casquetes polares pero es sólo una pequeña fracción del total "
+"del agua en la Tierra."
+
+msgid "Polar ice caps"
+msgstr "Casquetes Polares de Hielo "
+
+msgid "Rocks underground"
+msgstr "Rocas subterráneas"
+
+msgid ""
+"Sorry... all the rivers and lakes combined – even the Great Lakes – account "
+"for only a tiny, tiny amount of the total water on earth."
+msgstr ""
+"Lo siento... todos los ríos y lagos combinados – incluyendo a los Grandes "
+"Lagos – son sólo una fracción pequeñísima del total del agua en la Tierra."
+
+msgid "The oceans"
+msgstr "Los océanos"
+
+msgid ""
+"You got it! About 97% of the total amount of water on earth is in the oceans."
+msgstr ""
+"¡Ahí lo tienes! Aproximadamente 97% del agua total en la Tierra está en los "
+"océanos."
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+# 15
+msgid "Africa"
+msgstr "África"
+
+msgid ""
+"Correct! The north and south poles are made from ice - which is frozen solid "
+"fresh water."
+msgstr ""
+"¡Correcto! Los polos norte y sur están hechos de hielo – que es agua dulce "
+"sólida congelada."
+
+msgid "Looking for freshwater?"
+msgstr "¿Buscando agua dulce?"
+
+msgid ""
+"Nope! Africa has some big lakes but they don't compare with the polar ice "
+"caps of the north and south poles."
+msgstr ""
+"¡Nop! África tiene algunos lagos grandes, pero no se comparan con los "
+"casquetes polares de hielo en el Polo Sur y Norte."
+
+msgid "Not quite... the Pacific ocean is salt water not fresh water."
+msgstr "No exactamente... el Océano Pacífico tiene agua salada, no dulce."
+
+msgid "Sorry. The Atlantic ocean is salt water not fresh water."
+msgstr "Lo siento. El Océano Atlántico tiene agua salada, no dulce."
+
+msgid "The Atlantic Ocean"
+msgstr "El Océano Atlántico"
+
+msgid "The North and South Poles"
+msgstr "El Polo Norte y Sur"
+
+msgid "The Pacific Ocean"
+msgstr "El Océano Pacífico"
+
+msgid ""
+"Where on a world map would you go to find the greatest supply of fresh water?"
+msgstr ""
+"En un mapa del mundo, ¿a dónde te dirigirías para encontrar el mayor "
+"suministro de agua dulce?"
+
+# 16
+msgid ""
+"Correct! Rocks with lots of tiny spaces and fractures in them are common and "
+"are a good place to find water. The water occupies those tiny spaces and is "
+"a common source of groundwater."
+msgstr ""
+"¡Correcto! Las rocas con muchos pequeños espacios y fracturas en ellas son "
+"comunes y un buen lugar para encontrar agua. El agua ocupa esos pequeños "
+"espacios y es una fuente común de agua subterránea."
+
+msgid "Liquid rock"
+msgstr "Rocas líquidas"
+
+msgid "Nope! there is no such thing as liquid rock."
+msgstr "¡Nop! No existen las rocas líquidas."
+
+msgid "Not quite... solid rock has no spaces for water to occupy."
+msgstr ""
+"No exactamente... la roca sólida no tiene espacios que pueda ocupar el agua."
+
+msgid "Rock with lots of spaces and fractures in it"
+msgstr "Rocas con muchos espacios y fracturas en ellas"
+
+msgid "Solid granite rock"
+msgstr "Roca sólida de granito"
+
+msgid "Switching water filters on..."
+msgstr "Encendiendo los filtros del agua..."
+
+msgid ""
+"The <span class='blink'>best</span> kind of rock to find groundwater in "
+"would be..."
+msgstr ""
+"El <span class='blink'>mejor</span> tipo de roca en el cuál encontrar agua "
+"subterránea sería..."
+
+msgid ""
+"Try again... rocks with giant caves and passageways are very rare in nature "
+"so it would be hard to find a good source of groundwater in them."
+msgstr ""
+"Inténtalo de nuevo... las rocas con cuevas y pasadizos gigantes son muy "
+"escasas en la naturaleza, así que sería difícil encontrar una buena fuente "
+"de agua subterránea en ellas."
+
+# 17
+msgid "Bottled water"
+msgstr "Agua embotellada"
+
+msgid ""
+"Correct! Human life - and most other forms of life on planet earth - "
+"requires fresh water to survive."
+msgstr ""
+"¡Correcto! La vida humana - y la mayoría de las otras formas de vida en el "
+"planeta Tierra - requieren agua dulce para sobrevivir."
+
+msgid "Different kind of water..."
+msgstr "Distintos tipos de agua..."
+
+msgid ""
+"Not quite! Bottled water is a kind of fresh water but it doesn't necessarily "
+"have to be bottled water for humans to survive."
+msgstr ""
+"¡No exactamente! El agua embotellada es un tipo de agua dulce pero el agua "
+"no necesita ser embotellada para que los humanos sobrevivan."
+
+msgid ""
+"Not quite! Spring water is a kind of fresh water but it doesn't necessarily "
+"have to be spring water for humans to survive."
+msgstr ""
+"¡No exactamente! El agua embotellada es un tipo de agua dulce pero no es "
+"necesario que el agua sea embotellada para que los humanos sobrevivan."
+
+msgid "Sorry... people can't drink salt water and survive."
+msgstr "Lo siento... las personas no pueden beber agua salada y sobrevivir."
+
+msgid "Spring water"
+msgstr "Agua de manantial"
+
+msgid "The kind of water that is essential for human life is..."
+msgstr "El tipo de agua que es esencial para la vida humana es..."
+
+# 18
+msgid "Bath"
+msgstr "Bañera"
+
+msgid "Clothes Washer"
+msgstr "Lavadora de Ropa"
+
+msgid "Dishwasher"
+msgstr "Lavatrastos"
+
+msgid "Enumerating the uses of water..."
+msgstr "Enumerando los usos del agua..."
+
+msgid "Faucet"
+msgstr "Grifo"
+
+msgid "Leaks"
+msgstr "Fugas"
+
+msgid "Oceans"
+msgstr "Océanos"
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Fresh surface water"
+msgstr "Agua dulce superficial"
+
+msgid "Icecaps and glaciers"
+msgstr "Casquetes polares y glaciares"
+
+msgid "Earth's water"
+msgstr "El agua de la Tierra"
+
+msgid "Leaks, clothes washing, and shower."
+msgstr "Fugas, lavar la ropa y ducharse"
+
+msgid ""
+"Nope! Leaks (13.7%); clothes washing (21.7%); and showers (16.8%) only make "
+"up about 52.2% of typical household water usage."
+msgstr ""
+"¡Nop! Fugas (13.7%); lavar la ropa (21.7%); y ducharse (16.8%) sólo suman "
+"aproximadamente 52.2% del uso típico de agua en el hogar."
+
+msgid "Other Domestic"
+msgstr "Otros Domésticos"
+
+msgid "Shower"
+msgstr "Ducha"
+
+msgid "Shower, faucet, and clothes washing."
+msgstr "Ducharse, grifos, y lavado de ropa."
+
+msgid ""
+"The graph below shows the typical use for water in your house other than for "
+"drinking and cooking. Which are the top three uses?"
+msgstr ""
+"La gráfica debajo muestra el uso típico de agua en tu hogar sin incluir el "
+"agua para beber y cocinar. ¿Cuáles son los tres usos principales?"
+
+msgid ""
+"Think again... toilet (26.7); showers (16.8%); and faucet (15.7%); only make "
+"up about 59.2% of typical household water usage."
+msgstr ""
+"Piensa de nuevo... baño/escusado (26.7); ducharse (16.8%); y grifo (15.7%); "
+"sólo suman aproximadamente 59.2% del uso típico de agua en el hogar."
+
+msgid "Toilet"
+msgstr "Baño (Escusado)"
+
+msgid "Uses"
+msgstr "Usos"
+
+msgid "Percentage"
+msgstr "Porcentaje"
+
+msgid "Toilet, shower, and clothes washing."
+msgstr "Baño (escusado), ducharse y lavar la ropa."
+
+msgid "Toilet, shower, and faucet."
+msgstr "Baño (escusado), ducharse y grifos."
+
+msgid ""
+"Try again! showers (16.8%); faucet (15.7%); and clothes washing (21.7%); "
+"only make up about 54.2% of typical household water usage."
+msgstr ""
+"¡Inténtalo de nuevo! ducharse (16.8%); grifos (15.7%); y lavar la ropa "
+"(21.7%); sólo suman aproximadamente 54.2% del uso típico de agua en el hogar."
+
+msgid "Typical Household Water Use"
+msgstr "Uso Típico de Agua en el Hogar"
+
+msgid ""
+"You got it! Toilet (26.7); showers (16.8%); and clothes washing (21.7%); "
+"make up about 65.2% of typical household water usage."
+msgstr ""
+"¡Ahí lo tienes! Baño/escusado (26.7); ducharse (16.8%); y lavar la ropa "
+"(21.7%); suman aproximadamente 65.2% del uso típico de agua en el hogar."
+
+# 19
+msgid "Blood"
+msgstr "Sangre"
+
+msgid "Body"
+msgstr "Cuerpo"
+
+msgid "Brain"
+msgstr "Cerebro"
+
+msgid "Cells"
+msgstr "Células"
+
+msgid "Swamps"
+msgstr "Pantanos"
+
+msgid "Water Distribution"
+msgstr "Distribución del Agua"
+
+msgid ""
+"Correct! This graph shows that the most important parts of your body are "
+"composed mostly of water so it's important to always drink lots of water so "
+"these body parts keep working properly."
+msgstr ""
+"¡Correcto! Esta gráfica muestra que las partes más importantes de tu cuerpo "
+"están compuestas principalmente de agua, así que es importante siempre beber "
+"mucha agua para que estas partes sigan funcionando correctamente."
+
+msgid "Ground water"
+msgstr "Agua subterránea"
+
+msgid ""
+"Hover your mouse over each of the graphs to see what each part of the graph "
+"means. Which of the graphs would be <span class='blink'>best</span> to help "
+"you understand why hydration (drinking water) while participating in "
+"athletic events is so important?"
+msgstr ""
+"Pasa tu mouse sobre cada una de las gráficas para ver qué significa cada "
+"parte de la gráfica. ¿Cuál de las gráficas sería la <span "
+"class='blink'>mejor</span> para ayudarte a entender por qué la hidratación "
+"(beber agua) mientras participas en eventos atléticos es tan importante?"
+
+msgid "Muscles"
+msgstr "Músculos"
+
+msgid ""
+"Not quite! This graph shows how much water (what percentage of water) is "
+"found in different parts of the earth."
+msgstr ""
+"¡No exactamente! Esta gráfica muestra cuánta agua (qué porcentaje de agua) "
+"se encuentra en las distintas partes de la Tierra."
+
+msgid ""
+"Not quite! This graph shows how much water is used for different household "
+"activities."
+msgstr ""
+"¡No exactamente! Esta gráfica muestra cuánta agua se utiliza para las "
+"distintas actividades del hogar."
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Sorry... this graph shows how much water was used in different years."
+msgstr ""
+"Lo siento... esta gráfica muestra cuánta agua se utilizó en distintos años."
+
+msgid "Surface water"
+msgstr "Agua superficial"
+
+# 20
+msgid "You've completed the Role of Water review."
+msgstr "Has completado la revisión del Papel del Agua."
+
+# Global
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Check answer"
+msgstr "verifique la respuesta"
+
+msgid "Read more"
+msgstr "Lea más"
+
+msgid "Please select your answer."
+msgstr "Por favor, seleccione sus respuestas."
+
+msgid "Please select your answers."
+msgstr "Por favor, seleccione sus respuestas."
+
+msgid "Close me!"
+msgstr "¡cierreme!"
+
+msgid "Quick Check #1"
+msgstr "Verificación rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Verificación rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Verificación rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Verificación rápida #4"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de cuestionario #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de cuestionario #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de cuestionario #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de cuestionario #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de cuestionario #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de cuestionario #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo me fue?"
+
+msgid "How Did I Do?"
+msgstr "¿Cómo me fue?"
+
+msgid "select"
+msgstr ""
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Navegar por las diapositivas abajo haciendo clic en las flechas izquierdas y "
+"derecha"
+
+msgid "Go to dashboard"
+msgstr "Vaya al panel de control"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Empecemos!"
+
+msgid "Are you ready"
+msgstr "¿Está listo?"
+
+msgid "Let's check what you now know"
+msgstr "Vamos a ver lo que sabe ahora"
+
+msgid "You're done!"
+msgstr "¡Ud. ha terminado!"
+
+# 1
+msgid "Start"
+msgstr "comience"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestando los siguientes seis (6) preguntas de la prueba le dará una idea "
+"de lo ahora sabe y lo que todavía tiene que estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haga clic en el botón SIGUIENTE cuando esté listo."
+
+msgid "Congratulations"
+msgstr "Enhorabuena,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puede comprobar cómo lo has hecho en la \"Comprobación rápida\" y "
+"\"Preguntas del cuestionario\" para este examen haciendo clic en el botón de "
+"abajo."
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."

@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "选择"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請上下翻轉骰子來選擇你的答案。你可以點擊、按住，然後將滑鼠移動向上或向下。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "现状"
+
+msgid "The Scenario"
+msgstr "该方案"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任务"
+
+msgid "The Problem"
+msgstr "问题"
+
+msgid "Your Assignment"
+msgstr "你的任务"
+
+msgid "Close me!"
+msgstr "密我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations, "
+msgstr "恭喜！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Preparing your first quick check!"
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Ready for your last quiz question?"
+msgstr "准备好你的最后测验的问题吗？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "Energy and Chemical Changes"
+msgstr ""
+
+msgid "Welcome to the Energy and Chemical Changes module"
+msgstr ""
+
+# 2
+msgid "Thinking about... energy and chemical changes"
+msgstr ""
+
+msgid "Have you ever heard people say: \"Wow, she really has a lot of energy. I wonder where she gets it from?\" Usually people are talking about their friends or relatives that are always \"on-the-go.\" They go to work or go to school, they do athletics or work out, join clubs, they do volunteer work and they never seem to get tired. Where DO they get all that energy? Think about all the things YOU do everyday. Where does your energy come from?"
+msgstr ""
+
+msgid "And then think about all of the other things that you see happening and changing all around you – like cars moving, the lights going on in your house, flowers blooming in the garden, rain falling from the sky. What makes all of those things happen?"
+msgstr ""
+
+# 3
+msgid "Checking what you know about... energy and chemical changes"
+msgstr ""
+
+msgid "What do you think is the original source for all that energy in the food you eat?"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Water"
+msgstr ""
+
+msgid "Cows"
+msgstr ""
+
+msgid "Plants"
+msgstr ""
+
+msgid "Power plants"
+msgstr ""
+
+msgid "All of the energy that is stored in the chemical compounds that make up the food we eat ultimately comes from the Sun. Plants have the ability to take the sun's energy and store as chemicals that are food for the plant – and for us. Cows and people eat the plants to get our energy to live – and sometimes we eat the cows or drink their milk. We all need water to help the biological processes of living take place, but water doesn't actually provide us with energy. And power plants provide the energy to package and refrigerate the food.  But the ultimate source of the energy that's in the food we eat originally comes from the Sun."
+msgstr ""
+
+msgid "Getting energy from the sun..."
+msgstr ""
+
+# 4
+msgid "Reviewing big ideas about... energy and chemical changes"
+msgstr ""
+
+msgid "Look all around you. Energy is everywhere. You might not be able to see it directly because it's not a thing. But you can see what it does. Wherever you look, something is happening: your friends are moving around, playing ball, riding a bike, or just talking; cars are driving by; a pencil just rolled across your desk and fell on the floor. Even in things you can't see, something is happening: the air in your room is moving to make sounds; the invisible molecules of oxygen and nitrogen that make air are even bouncing around to create the temperature you feel in the air; and you – you are breathing and your heart is beating and even if you can't see it, the cells that make up your body are growing and making more cells to make you bigger and stronger every day. And all of this activity – everything that's happening – all the activity in the universe happens because of energy."
+msgstr ""
+
+msgid "Scientists define <span class='key'>energy</span> as \"the ability to do <span class='key'>work</span>\". That's one of the most important ideas in all of science! And when they say \"work\", they don't just mean it like doing your school-\"work\" or your home-\"work\", or when someone goes to \"work\" to make money and earn a living. What scientists mean by \"work\" is anything that causes matter to change or move. So everything that happens to matter in the universe, any movement or change to matter, is considered work and requires energy."
+msgstr ""
+
+msgid "Looking around..."
+msgstr ""
+
+# 5
+msgid "Question A. The <span class='blink'>best</span> scientific definition for energy is:"
+msgstr ""
+
+msgid "What it takes to get you moving when you're tired."
+msgstr ""
+
+msgid "What it takes to make a car go down the road."
+msgstr ""
+
+msgid "What it takes to run a mile really fast."
+msgstr ""
+
+msgid "The work it takes to make any kind of change to anything."
+msgstr ""
+
+msgid "Question B. What is the <span class='blink'>BEST</span> example of how a <span class='blink'>scientist</span> would describe work?"
+msgstr ""
+
+msgid "Digging a deep hole in the ground."
+msgstr ""
+
+msgid "Pushing a wheelbarrow full of cement."
+msgstr ""
+
+msgid "Making a change to anything in the universe."
+msgstr ""
+
+msgid "Running a large tractor to harvest corn."
+msgstr ""
+
+msgid "Preparing your first quick check..."
+msgstr ""
+
+msgid "Not quite – It does take energy and work to get you moving when you're tired but scientists think of it in a much more general way."
+msgstr ""
+
+msgid "Not quite – It does take energy and work to power a car but scientists think of it in a much more general way."
+msgstr ""
+
+msgid "Not quite – It does take energy and work to run a mile really fast but scientists think of it in a much more general way."
+msgstr ""
+
+msgid "Yes- Scientists think that energy is the work that it takes to make changes to almost anything. Any kind of change to anything in the universe requires energy."
+msgstr ""
+
+msgid "Not quite – Digging a hole is work but scientists think of work in a much more general way."
+msgstr ""
+
+msgid "Not quite – Pushing a wheelbarrow is work but scientists think of work in a much more general way."
+msgstr ""
+
+msgid "Not quite – Running a tractor is work but scientists think of work in a much more general way."
+msgstr ""
+
+# 6
+msgid "More big ideas about... energy and chemical changes"
+msgstr ""
+
+msgid "Energy is everywhere and it's necessary when any kind of changes occur in the universe. What kind of changes? Here are some examples. When an object speeds up, slows down, starts or stops, these are changes in motion that require energy. When something heats up or cools down, energy is involved. When it's dark and you turn on the light, it requires energy. When you're sitting and you get up and walk, energy is needed. Anything that happens requires energy!!"
+msgstr ""
+
+msgid "And here's another very important idea from science about energy: \"Energy cannot be created or destroyed - it just changes forms\". This is called the \"<span class = 'key upper'>Law of Conservation of Energy</span>\". It just means that whenever any of those changes we were talking about happens, energy is never gained or lost in the universe - it just changes forms. That's why energy is never actually \"produced\" by a batter, or a windmill, or any other device. These devices just take one form of energy that already exists and changes it into a different form."
+msgstr ""
+
+msgid "So what are these different forms or kinds of energy? Here the names scientists use for just a few kinds of energy you might encounter everyday."
+msgstr ""
+
+msgid "Hover on the different kinds of energy to see the details."
+msgstr ""
+
+msgid "Biological energy is the energy used by your body to do all the things that make us alive."
+msgstr ""
+
+msgid "Heat energy is what keeps everything warm."
+msgstr ""
+
+msgid "Light energy is what helps us to see."
+msgstr ""
+
+msgid "Sound energy is the vibration of air or other molecules that helps us to hear."
+msgstr ""
+
+msgid "Electrical energy is the energy of electrons going through wires to make so many things work."
+msgstr ""
+
+msgid "Chemical energy is stored energy in chemical compounds such as found in food."
+msgstr ""
+
+msgid "Kinetic energy is the energy of motion."
+msgstr ""
+
+msgid "Changes in motion..."
+msgstr ""
+
+# 7
+msgid "Drag the statements up or down that best describes the kind of energy the picture represents. How do we stay healthy?"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Biological"
+msgstr ""
+
+msgid "Chemical"
+msgstr ""
+
+msgid "Kinetic"
+msgstr ""
+
+msgid "Heat"
+msgstr ""
+
+msgid "Electrical"
+msgstr ""
+
+msgid "Energy used by your body to do all the things that make us alive."
+msgstr ""
+
+msgid "Energy that keeps everything warm."
+msgstr ""
+
+msgid "Energy that makes objects visible to us."
+msgstr ""
+
+msgid "Energy that uses vibration of air or other molecules."
+msgstr ""
+
+msgid "Energy of electrons going through wires."
+msgstr ""
+
+msgid "Energy that is usually stored in food."
+msgstr ""
+
+msgid "Energy of motion."
+msgstr ""
+
+msgid "Describing kinds of energy..."
+msgstr ""
+
+# 8
+msgid "Stored chemical energy in plants"
+msgstr ""
+
+msgid "Stored chemical energy in food"
+msgstr ""
+
+msgid "Mechanical energy of heart beating"
+msgstr ""
+
+msgid "Heat energy from exercise"
+msgstr ""
+
+msgid "Biological energy of thinking"
+msgstr ""
+
+msgid "Kinetic energy of motion"
+msgstr ""
+
+msgid "Heat and Light Energy"
+msgstr ""
+
+msgid "The Law of Conservation of Energy says that: \"energy is neither created nor destroyed\" but just changes forms - which means it is <span class='key'>converted</span> from one form of energy to another. The example shown in the diagram below shows how that happens when energy from the sun gets converted to energy that your body uses in your everyday life for you to be alive."
+msgstr ""
+
+msgid "1. <span class='key'>Solar energy</span> from the sun - light and heat - is converted, or changed, into energy for plants to live and grow. And the plant can store some of that energy as <span class='key'>chemical potential energy</span> in the food the plant makes. This happens in the plant's green leaves by a series of <span class='key'>chemical reactions</span> called <span class='key'>photosynthesis</span>."
+msgstr ""
+
+msgid "2. When farmers harvest the food plants make, like corn or wheat, and make it into food for people, the stored <span class='key'>chemical energy</span> from the plants stays as stored chemical potential energy in the food you eat so you can get the energy to live."
+msgstr ""
+
+msgid "3. Then <span class='key'>Chemical reactions</span> in your body convert the stored <span class='key'>chemical potential energy</span> from the food you eat into other forms of energy like:"
+msgstr ""
+
+msgid "<span class='key'>Biological energy</span> to help you think and do all of the other things your body does automatically without you thinking about it."
+msgstr ""
+
+msgid "<span class='key'>Mechanical energy</span> - like the beating of your heart and moving your arms and legs."
+msgstr ""
+
+msgid "<span class='key'>Kinetic energy</span> in the motion of anything you push or pull or lift."
+msgstr ""
+
+msgid "<span class='key'>Heat energy</span> you give off from exercising."
+msgstr ""
+
+msgid "Click the image to enlarge the diagram."
+msgstr ""
+
+msgid "Creating or destroying?"
+msgstr ""
+
+# 9
+msgid "Question A. The chemical energy stored in plants comes from:"
+msgstr ""
+
+msgid "Heat energy from the soil"
+msgstr ""
+
+msgid "Solar energy from the sun"
+msgstr ""
+
+msgid "Kinetic energy from growing"
+msgstr ""
+
+msgid "Water energy in the roots"
+msgstr ""
+
+msgid "Question B. When you eat, the energy you get from the food comes from:"
+msgstr ""
+
+msgid "The solar energy in the food"
+msgstr ""
+
+msgid "The biological energy in the food"
+msgstr ""
+
+msgid "The kinetic energy in the food"
+msgstr ""
+
+msgid "The stored chemical energy in the food"
+msgstr ""
+
+msgid "Not quite - heat energy from the soil helps the plant seeds grow but that's not where the stored chemical energy in the plant comes from."
+msgstr ""
+
+msgid "Yes - Solar energy from the sun is converted into stored chemical energy in the plant by the chemical reactions of photosynthesis."
+msgstr ""
+
+msgid "Not really - The kinetic energy of the plant growing actually comes from the chemical energy in the plant - not the other way around."
+msgstr ""
+
+msgid "Not really - there is no such thing as water energy in the roots."
+msgstr ""
+
+msgid "Not quite - solar energy helped make the energy in the food but has been converted into a different kind of energy in the food."
+msgstr ""
+
+msgid "Not quite - the energy in the food is converted to biological energy in your body."
+msgstr ""
+
+msgid "Not quite - the energy in the food is converted to kinetic energy in the activities your body does."
+msgstr ""
+
+msgid "Yes! When you eat, the energy you get from the food comes from the stored chemical energy in the food."
+msgstr ""
+
+# 10
+msgid "Using what you now know about... energy and chemical changes... to solve a problem"
+msgstr ""
+
+msgid "Let's say you want to get back to nature and live in a beautiful little cabin up in the mountains far away from town where there is no electricity."
+msgstr ""
+
+msgid "How would you use your knowledge of chemical energy, and how it is converted to and from different forms of energy, to design a system to light your cabin and power your cool electronic gear."
+msgstr ""
+
+msgid "Write a short paragraph to describe your design."
+msgstr ""
+
+msgid "Converting energy..."
+msgstr ""
+
+# 11
+msgid "Summarizing big ideas about... energy and chemical changes"
+msgstr ""
+
+msgid "Energy is everywhere around you. Energy makes things happen! Anything that moves or changes requires energy. But it's not as simple as just one kind of energy. There are many forms of energy and they keep changing forms as they cause things to happen. For instance, <span class='key'>light energy</span> from the sun is one form of energy."
+msgstr ""
+
+msgid "It travels through space until it hits the earth and then some of it is <span class='key'>converted</span> into <span class='key'>heat energy</span> that changes the temperature of the earth making it warmer. Also, some of the light from the sun is absorbed by the leaves of green plant, and by special chemical reactions called <span class='key'>photosynthesis</span>, the <span class='key'>light energy</span> is converted into <span class='key'>chemical energy</span> stored in the plant as food."
+msgstr ""
+
+msgid "We eat some of the foods plants produce and it becomes our source of energy. When energy is stored, like food in plants, we call it <span class='key'>potential energy</span> because it isn't doing anything right now but it has the \"potential\" to make something happen when it's released. When something is in motion, like a ball rolling down a hill it contains energy of motion that scientists call <span class='key'>kinetic energy</span>."
+msgstr ""
+
+msgid "Energy can take many forms such as; sound energy, electrical energy, light energy, heat energy, chemical energy, kinetic energy, potential energy, nuclear energy and biological energy. But it's important to know that the universe doesn't create any new energy or destroy any existing energy. It just constantly keeps converting one kind of energy to another to keep the universe working. The universe is a very good at recycling energy. Scientists call that the <span class='key'>Law of Conservation of Energy</span>."
+msgstr ""
+
+# 12
+msgid "Reviewing key vocabulary related to... energy and chemical changes"
+msgstr ""
+
+msgid "Chemical energy"
+msgstr ""
+
+msgid "The potential energy stored in chemical compounds. It can be converted by chemical reactions to other forms of energy, such as light energy or heat energy."
+msgstr ""
+
+msgid "Potential energy"
+msgstr ""
+
+msgid "Any kind of stored energy that can be converted to other kinds of energy."
+msgstr ""
+
+msgid "Kinetic energy"
+msgstr ""
+
+msgid "The energy of an object in motion. It is the opposite of potential energy. Examples would include releasing a coiled spring or dropping a ball."
+msgstr ""
+
+msgid "Photosynthesis"
+msgstr ""
+
+msgid "The process by which plants convert carbon dioxide, water, and light energy into glucose and molecular oxygen. The plant can then use the glucose later for energy."
+msgstr ""
+
+msgid "Conservation of energy"
+msgstr ""
+
+msgid "The concept that energy can be neither created nor destroyed, it can only change form. The total amount of energy at the start of any process must be equal the amount of energy at the end of the process."
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "The application of a force over a distance. Pushing a weight down the road is doing work."
+msgstr ""
+
+msgid "Energy"
+msgstr ""
+
+msgid "The property of objects that can be transferred or changed in form, but not created nor destroy. Energy is the ability of objects to do things."
+msgstr ""
+
+msgid "Converting energy"
+msgstr ""
+
+# 13
+msgid "Checking what you now know about... energy and chemical changes"
+msgstr ""
+
+# 14
+msgid "Photosynthesis is a process involving chemical reactions in the leaves of green plants that converts:"
+msgstr ""
+
+msgid "heat energy from the Sun into kinetic energy to make the plant move towards the Sun."
+msgstr ""
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for the plant."
+msgstr ""
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr ""
+
+msgid "heat energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr ""
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant to move towards the Sun. The energy from the food the plant makes during photosynthesis does."
+msgstr ""
+
+msgid "Yes - light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr ""
+
+msgid "Not quite - light energy from the Sun is converted into chemical energy in the food the plant makes for itself - not for food for the animals that might eat it."
+msgstr ""
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant make food for animals. But the light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr ""
+
+# 15
+msgid "Which of the following is the most important form of energy that is found in the food you eat that provides energy for your body’s biological activity."
+msgstr ""
+
+msgid "Not quite - heat energy in hot food can help keep your body warm - like drinking hot chocolate on a cold day - but that isn't the most important form of energy in food."
+msgstr ""
+
+msgid "Not really - there really isn't any light energy in food."
+msgstr ""
+
+msgid "Not really - there really isn't any electrical energy in food."
+msgstr ""
+
+msgid "Yes! Chemical energy in the food you eat – like in sugars, proteins, and fats - provide almost all of the energy your body needs to function."
+msgstr ""
+
+msgid "Riding a bike..."
+msgstr ""
+
+# 16
+msgid "Which of the following is an example of kinetic energy? The energy in a:"
+msgstr ""
+
+msgid "Rock sitting on a cliff"
+msgstr ""
+
+msgid "Glass of lemonade"
+msgstr ""
+
+msgid "Battery"
+msgstr ""
+
+msgid "Child sliding down a slide"
+msgstr ""
+
+msgid "Finding kinetic energy..."
+msgstr ""
+
+msgid "Not really. Kinetic energy is the energy of motion but rock sitting on a cliff isn't moving, it's just sitting there."
+msgstr ""
+
+msgid "Not quite - a battery has stored potential chemical energy inside that can be converted to electrical energy. But that's not kinetic energy."
+msgstr ""
+
+msgid "Not quite! A glass of lemonade may have stored potential chemical energy inside in the form of sugar, but that's not kinetic energy."
+msgstr ""
+
+msgid "Yes! A child sliding down a slide is moving so it has kinetic energy. What happens if he runs into another child sitting at the bottom of the slide?!"
+msgstr ""
+
+# 17
+msgid "Which of the following is an example of potential energy? The energy in a:"
+msgstr ""
+
+msgid "Falling rock"
+msgstr ""
+
+msgid "Flowing river"
+msgstr ""
+
+msgid "Gust of wind"
+msgstr ""
+
+msgid "Studying potential energy..."
+msgstr ""
+
+msgid "Yes! A battery has stored potential chemical energy inside that can be converted to electrical energy once you hook it up to something like a fan. Then when the fan is in motion, the potential energy becomes kinetic energy."
+msgstr ""
+
+msgid "Not quite. A flowing river has energy of motion - which is kinetic energy, not potential energy."
+msgstr ""
+
+msgid "Not quite. A falling rock has energy of motion - which is kinetic energy, not potential energy."
+msgstr ""
+
+msgid "Not quite! A gust of wind has energy of motion - which is kinetic energy, not potential energy."
+msgstr ""
+
+# 18
+msgid "Which of the following things you do everyday does not require energy?"
+msgstr ""
+
+msgid "Sleeping"
+msgstr ""
+
+msgid "Thinking"
+msgstr ""
+
+msgid "Sitting perfectly still"
+msgstr ""
+
+msgid "None of the above"
+msgstr ""
+
+msgid "Looking for energy..."
+msgstr ""
+
+msgid "Not quite - Even when you are sleeping, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr ""
+
+msgid "Not quite - Even when you are just thinking, your heart is beating, you are breathing, and you are growing - all of these things need energy. Even the process of thinking requires your brain to use energy. That's why it's a good idea to eat good food for energy to think when you're in school."
+msgstr ""
+
+msgid "Not quite - Even when you are sitting perfectly still, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr ""
+
+msgid "Yes - All of the above require choices require energy so “None of the above” are examples that DO NOT require energy."
+msgstr ""
+
+# 19
+msgid "Any time anything is happening in the universe, or any changes occur to anything in the universe, those events require:"
+msgstr ""
+
+msgid "Force"
+msgstr ""
+
+msgid "Human"
+msgstr ""
+
+msgid "The Sun"
+msgstr ""
+
+msgid "Yes - Energy is required for all changes to occur in the universe."
+msgstr ""
+
+msgid "Not quite - Force is a push or a pull. Some changes that happen, like thinking, require energy but not a force."
+msgstr ""
+
+msgid "Not really - lots of things happen in the universe that humans aren't involved in."
+msgstr ""
+
+msgid "Not quite - the Sun provides energy for many changes that happen in our solar system but not everything. And outside our solar system, in the big universe, our sun doesn't provide any energy impact at all."
+msgstr ""
+
+msgid "You've completed the Energy and Chemical Changes module."
+msgstr ""

@@ -1,0 +1,1009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "选择"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"請上下翻轉骰子來選擇你的答案。你可以點擊、按住，然後將滑鼠移動向上或向下。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "现状"
+
+msgid "The Scenario"
+msgstr "该方案"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任务"
+
+msgid "The Problem"
+msgstr "问题"
+
+msgid "Your Assignment"
+msgstr "你的任务"
+
+msgid "Close me!"
+msgstr "密我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉..."
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Ready for your last quiz question?"
+msgstr "准备好你的最后测验的问题吗？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+msgid "Plate Tectonics"
+msgstr "aaaaaaaaa"
+
+# 1
+msgid "Welcome to the Plate Tectonics review"
+msgstr "aaaaaaaaa"
+
+# 2
+msgid "Thinking about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Maps are fun to look at. They can help you find out where you are, where "
+"you're going, and what you're going to find when you get there. See if you "
+"can find your state on the map below."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Lots of people plan their summer vacations using maps. Some people like to "
+"go to the mountains and go backpacking or mountain biking. Other people like "
+"to go to the beach and go surfing or play beach volleyball. Where would you "
+"like to go for a vacation this coming summer? And what would you like to do? "
+"Can you find on the map the beach or mountain closest to your state? Did you "
+"know that the reason there are mountains and beaches is because plate "
+"tectonics have slowly but surely ripped continents apart and crashed them "
+"back together to create some of the best places in the world to go on summer "
+"vacations? Thank you, plate tectonics!!"
+msgstr "aaaaaaaaa"
+
+# 3
+msgid "Checking what you know about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid "In the United States, major earthquakes and volcanoes occur:"
+msgstr "aaaaaaaaa"
+
+msgid "Equally spaced all over the country."
+msgstr "aaaaaaaaa"
+
+msgid "Mostly in the southern earthquake zone near Texas and Florida."
+msgstr "aaaaaaaaa"
+
+msgid "In the mid-west near Chicago and Minneapolis."
+msgstr "aaaaaaaaa"
+
+msgid "In a zone that runs along the West Coast."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Earthquakes and volcanoes aren't spread out equally across the United "
+"States. Sometimes, but not very often, states in the middle of the country, "
+"like Kansas or Nebraska or Illinois might get minor earthquakes that hardly "
+"do any damage. But the majority of earthquakes and volcanoes, especially the "
+"big ones, occur near the west coast in California, Washington, and Oregon."
+msgstr "aaaaaaaaa"
+
+msgid "Duck, cover and hold"
+msgstr "aaaaaaaaa"
+
+# 4a
+msgid "Reviewing core ideas about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"There are all kinds of maps that show all kinds of things about the land. "
+"Maps can provide important and useful information about the geography of an "
+"area. Many of the maps we commonly use show streets and highways, cities and "
+"towns. A good example is the map below that shows the major cities and "
+"highways in the state of Colorado. If you wanted to take a trip from Denver "
+"to Durango, which route would you choose? There's more than one way to get "
+"there, isn't there? Which route do you think is best?"
+msgstr "aaaaaaaaa"
+
+# 4b
+msgid ""
+"There are other kinds of maps that are used for other purposes too. Hover on "
+"the images to know more."
+msgstr "aaaaaaaaa"
+
+msgid "Some maps in the newspaper show what the weather is every day."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Some show where different kinds of landform features occur - like lakes, "
+"rivers, coasts, mountains, and plains."
+msgstr "aaaaaaaaa"
+
+msgid "Other maps show climate zones."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The middle map above is a geography map that shows the major mountains, "
+"rivers, coasts, and plains in the United States. Can you find where you live "
+"on the map? What is the closest mountain or the closest ocean to where you "
+"live?"
+msgstr "aaaaaaaaa"
+
+msgid "Reading a compass..."
+msgstr "aaaaaaaaa"
+
+# 5a
+msgid ""
+"Question A. On the map below, most of the biggest river systems occur in the:"
+msgstr "aaaaaaaaa"
+
+msgid "Rocky Mountains"
+msgstr "aaaaaaaaa"
+
+msgid "Great Plains"
+msgstr "aaaaaaaaa"
+
+msgid "Appalachian Mountains"
+msgstr "aaaaaaaaa"
+
+msgid "Coastal Plain"
+msgstr "aaaaaaaaa"
+
+msgid "Click to enlarge image"
+msgstr "aaaaaaaaa"
+
+msgid "Question B. Maps can show all of the following except:"
+msgstr "aaaaaaaaa"
+
+msgid "How everybody feels today."
+msgstr "aaaaaaaaa"
+
+msgid "Where there are rivers and lakes."
+msgstr "aaaaaaaaa"
+
+msgid "Streets in your town or city."
+msgstr "aaaaaaaaa"
+
+msgid "How long the coastline is."
+msgstr "aaaaaaaaa"
+
+msgid "Question C. Maps can be best used to help you:"
+msgstr "aaaaaaaaa"
+
+msgid "Plan a route to travel."
+msgstr "aaaaaaaaa"
+
+msgid "Decide where the nicest people live."
+msgstr "aaaaaaaaa"
+
+msgid "Plan what to do when you grow up."
+msgstr "aaaaaaaaa"
+
+msgid "All of the above."
+msgstr "aaaaaaaaa"
+
+# 5b
+msgid ""
+"No - It's difficult to find any major rivers on the map in the Rocky "
+"Mountains."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - You can see that the Great Plains area of the Midwest has several "
+"major river systems including the Mississippi, Missouri, and Ohio River "
+"systems."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - It's difficult to find any major rivers on the map in the Appalachian "
+"Mountains."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - There are some major rivers in the Coastal Plain area but they are "
+"actually the rivers from the Great Plains emptying into the sea."
+msgstr "aaaaaaaaa"
+
+msgid "Yes - Maps don't show how people feel."
+msgstr "aaaaaaaaa"
+
+msgid "No - Maps can show where there are rivers and lakes."
+msgstr "aaaaaaaaa"
+
+msgid "No - Maps can show where there are streets and rivers in your town."
+msgstr "aaaaaaaaa"
+
+msgid "No - Maps can show how long the coastline is."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - You can look at a map to see roads and towns that help you plan a "
+"route to get where you want to go."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - Nice people live everywhere, so there are no maps to decide "
+"where to find them."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested "
+"in and what you're good at. Maps can't help you with that."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested "
+"in and what you're good at. Maps can't help you with that. And, nice people "
+"live everywhere so there are no maps to decide where to find them."
+msgstr "aaaaaaaaa"
+
+# 6a
+msgid "Reviewing more core ideas about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The earth's major landform features, such as volcanoes, mountains, rivers, "
+"and coasts can be shown on <span class='key'>maps</span> so we can try and "
+"make sense out of the <span class='key'>patterns</span> they form."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"This map shows the locations of most of the major volcanoes (red dots) in "
+"the United States. When these locations are shown on a map like this, it is "
+"easy to see a pattern of where the <span class='key'>volcanoes</span> are in "
+"the United States. First of all, they are all located in the western US and "
+"they are all located in a general north-south trend that roughly runs along "
+"the west coast."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"This map shows occurrences of major <span class='key'>earthquakes</span> "
+"(black dots) in the United States. How does the pattern of earthquakes shown "
+"on this map compare to the locations of volcanoes on the previous map? "
+"You're right. Most of the volcanoes and many of the earthquakes generally "
+"run north and south band and which is roughly parallel to the Pacific coast "
+"in the western part of the North American continent. But unlike volcanoes, a "
+"number of earthquakes are found in the central and eastern parts of the "
+"United States."
+msgstr "aaaaaaaaa"
+
+msgid "Analyzing seismic waves..."
+msgstr "aaaaaaaaa"
+
+# 7a
+msgid ""
+"Question A. On the map below, most of the volcanoes in Western United States "
+"occur:"
+msgstr "aaaaaaaaa"
+
+msgid "Along the Pacific Coast"
+msgstr "aaaaaaaaa"
+
+msgid "In the Rocky Mountains"
+msgstr "aaaaaaaaa"
+
+msgid "Clumped in just one small area in California"
+msgstr "aaaaaaaaa"
+
+msgid "Parallel to the Pacific Coast but a little inland"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Question B. The pattern of earthquakes (black dots) shown on the map below:"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Is exactly like the pattern of volcanoes on the map in question A above."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Is similar to the pattern of volcanoes on the map in question A above but "
+"has earthquakes over a greater area."
+msgstr "aaaaaaaaa"
+
+msgid "Shows earthquakes occur only in the western United States."
+msgstr "aaaaaaaaa"
+
+msgid "Monitoring volcanic earthquakes..."
+msgstr "aaaaaaaaa"
+
+msgid "Shows earthquakes occurring in Florida."
+msgstr "aaaaaaaaa"
+
+# 7b
+msgid ""
+"Not quite - The red dots that represent volcanoes occur parallel to the "
+"pacific coast but not right on the coast."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - The red dots that represent volcanoes occur near the pacific "
+"coast."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - The red dots that represent volcanoes occur all along the "
+"pacific coast - not just in California."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes! You can see on the map that the red dots representing volcanoes occur "
+"all along the pacific coast - not right on the coast - but rather a little "
+"bit inland away from the coast."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not exactly - The pattern of earthquakes shown on question A map is similar "
+"to the pattern near the pacific coast but the black dots representing "
+"earthquakes occur all over Western United States as well."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - The red dots that represent volcanoes occur near the pacific coast and "
+"the black dots representing earthquakes occur mostly near the pacific coast "
+"too - but also all over most of the rest of the United States."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - Most of the earthquakes occur in Western United States but you "
+"can see on the map that some earthquakes (represented by the black dots) "
+"occur in Eastern United States as well."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - There are no black dots on the map in Florida, which means there are no "
+"earthquakes in Florida."
+msgstr "aaaaaaaaa"
+
+# 8a
+msgid ""
+"Scientists explain these patterns of mountains, volcanoes, and earthquakes "
+"by an idea called <span class='key'>plate tectonics</span>. The diagram "
+"below shows how the whole surface of the earth, including the continents and "
+"oceans, are all sitting on what geologists call <span class='key'>tectonic "
+"plates</span>."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"These plates are like huge pieces of a jigsaw puzzle with the continents and "
+"oceans sitting on top of them. And they move around the earth very, very "
+"slowly, pulling away from each other and bumping into each other. This "
+"causes some very interesting and important things to happen on the earth - "
+"like mountains, volcanoes, and earthquakes."
+msgstr "aaaaaaaaa"
+
+# 8b
+msgid "Volcanoes"
+msgstr "aaaaaaaaa"
+
+msgid "Continental Crust"
+msgstr "aaaaaaaaa"
+
+msgid "Magma"
+msgstr "aaaaaaaaa"
+
+msgid "Lithosphere"
+msgstr "aaaaaaaaa"
+
+msgid "Asthenosphere"
+msgstr "aaaaaaaaa"
+
+msgid "Trench"
+msgstr "aaaaaaaaa"
+
+msgid "Oceanic Crust"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Sometimes when one plate bumps into another it causes one of the plates to "
+"get pushed under the other plate. Like if a small car crashes into the back "
+"of a big semi-truck, the small car might get pushed under the truck. This is "
+"called <span class='key'>subduction</span> when tectonic plates do it. A "
+"<span class='key'>subduction zone</span>, where the Pacific tectonic plate "
+"was pushed and dragged under the North American tectonic plate in California "
+"millions of years ago, caused the volcanoes in California. And in Washington "
+"and Oregon this process is still going on right now! That's why there are "
+"active volcanoes in Washington and Oregon but the volcanoes in California "
+"are dormant."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The <span class='key'>subduction</span> process causes the <span "
+"class='key'>ocean plate</span> to rub against the <span "
+"class='key'>continental plate</span> and the friction between them causes "
+"the rocks to heat up and melt until finally - boom!! - a volcano erupts. Try "
+"rubbing your hands together quickly and see how they heat up. That's "
+"friction! The same thing happens to heat the plates when they rub together - "
+"but it just happens very slowly."
+msgstr "aaaaaaaaa"
+
+msgid "Moving very slowly..."
+msgstr "aaaaaaaaa"
+
+# 9a
+msgid ""
+"Question A. The whole earth is divided into tectonic plates. These plates "
+"are:"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"continents and oceans on them and the plates can move on the earth's surface."
+msgstr "aaaaaaaaa"
+
+msgid "just continents on them and the plates are solid and never move."
+msgstr "aaaaaaaaa"
+
+msgid "oceans on them and the plates move back and forth with the tide."
+msgstr "aaaaaaaaa"
+
+msgid "oceans on them and the plates never move at all."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Question B. Heat generated from the tectonic plates rubbing up against each "
+"other during subduction causes..."
+msgstr "aaaaaaaaa"
+
+msgid "California to be warmer than other states."
+msgstr "aaaaaaaaa"
+
+msgid "Rocks to melt and form volcanoes."
+msgstr "aaaaaaaaa"
+
+msgid "Global warming."
+msgstr "aaaaaaaaa"
+
+msgid "Big waves to surf on."
+msgstr "aaaaaaaaa"
+
+# 9b
+msgid ""
+"Very good - tectonic plates are made up of both continental and oceanic "
+"plates that all slide and move around all over the earth's surface."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - The tectonic plates are made up of both continental and oceanic "
+"plates that all slide and move around all over the earth's surface."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - The tectonic plates are made up of both continental and oceanic "
+"plates and the forces that move them are from deep within the earth that "
+"have nothing to do with the tides."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - Plate tectonics and subduction cause heating effects inside the "
+"earth not on the surface."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - Plate tectonics and subduction cause heating effects inside the earth "
+"that can melt rocks under the earth's surface and cause volcanoes."
+msgstr "aaaaaaaaa"
+
+# 10a
+msgid "Using what you now know about... plate tectonics... to solve a problem"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Pretend you were a multimillionaire and you were going to build the biggest, "
+"most beautiful and expensive house you could possibly imagine. And you could "
+"build it anywhere in the United States that you wanted."
+msgstr "aaaaaaaaa"
+
+# 10b
+msgid ""
+"Use your knowledge about plate tectonics to describe where in the United "
+"States you would build the house - and why - to minimize the chance it could "
+"be destroyed by natural disasters like earthquakes and volcanoes. What maps "
+"would you use to decide where to build?"
+msgstr "aaaaaaaaa"
+
+msgid "Looking at the map..."
+msgstr "aaaaaaaaa"
+
+# 11
+msgid "Summarizing core ideas about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"<span class='key'>Maps</span> are really important. They can show valuable "
+"information like weather or where volcanoes are located. They can cover "
+"geographic areas as big as the United States or the world, or as local as "
+"your neighborhood. The information on maps can be extremely helpful in "
+"planning what to wear to school today or where to live when you grow up. One "
+"kind of information that can be found on maps is the location of <span "
+"class='key'>earthquakes</span> and <span class='key'>volcanoes</span> in the "
+"United States. The <span class='key'>pattern</span> of the locations of "
+"these natural phenomena show that they are mostly found along the western "
+"boundary of the country in a line roughly parallel to the West Coast. This "
+"information might be useful in planning projects that require protection "
+"from natural disasters."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"One of the most important ideas ever to come out of geology and maps is the "
+"theory of <span class='key'>plate tectonics</span>. Scientists came up with "
+"this idea based on geological and geographical data they plotted on maps. "
+"These data show patterns of earthquakes, mountains and volcanoes, which led "
+"them to believe that the crust under the oceans and continents of the earth "
+"are divided up into many pieces like a huge jigsaw puzzle. They called these "
+"pieces <span class='key'>tectonic plates</span>. And, incredibly, these "
+"plates could move around on the surface of the earth and pull apart from "
+"each other or crash into each other. These movements cause earthquakes to "
+"happen, volcanoes to erupt, and mountains to be formed."
+msgstr "aaaaaaaaa"
+
+# 12
+msgid "Reviewing key vocabulary related to... plate tectonics"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"When two tectonic plates meet and if one plate is more dense than the other, "
+"it may be pulled down into the mantle. The process is called subduction. "
+"This can push the other plate up, as well as melt the material of the plate "
+"that is being subducted."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"An image showing the physical characteristics of a location. Maps are "
+"generally two-dimensional, but the images may be displayed in a way that "
+"shows a third dimension as well, such as in a topographical map."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Any system that repeats in a predictable way. A pattern can be as simple as "
+"counting numbers, or as complex as weather, so long as there are repeating, "
+"predictable phenomena present."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"A solid piece of the earth's crust floating on top of the mantle. The earth "
+"is covered in these plates, and they fit together like pieces of a puzzle. "
+"Geologic activity such as volcanism and earthquakes are common where the "
+"plates meet."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"A tear or hole in the earth's crust that allows lava, ash, and gases to "
+"escape from a magma chamber located below the surface. Volcanoes are common "
+"at tectonic plate boundaries, such as Mount St. Helens in Washington, U.S.A. "
+"but can also occur in the middle of plates, such as the islands of Hawai'i "
+"in the Pacific Ocean."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The release of tensional strain caused by two tectonic plates meeting. This "
+"release of energy causes the ground to shake and move around the area of the "
+"release."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The theory that the earth is covered with fragmented pieces of crust "
+"floating on top of a plastic mantle. (Note that the mantle isn't the same "
+"kind of plastic like a plastic toy - but rather, hot rock that very slowly "
+"flows like \"plastic\") These fragments can move slowly over time, "
+"explaining the change in the position of Earth's continents over the span of "
+"its history."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The part of a tectonic plate made out of  \"oceanic crust\". Oceanic crust "
+"is generally much thinner and more dense than continental crust, allowing "
+"for oceans to form on top of it."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"The part of a tectonic plate made out of  \"continental crust\". Continental "
+"crust is generally much thicker and less dense than oceanic crust."
+msgstr "aaaaaaaaa"
+
+msgid "Subduction"
+msgstr "aaaaaaaaa"
+
+msgid "Map"
+msgstr "aaaaaaaaa"
+
+msgid "Pattern"
+msgstr "aaaaaaaaa"
+
+msgid "Tectonic Plate"
+msgstr "aaaaaaaaa"
+
+msgid "Volcano"
+msgstr "aaaaaaaaa"
+
+msgid "Earthquake"
+msgstr "aaaaaaaaa"
+
+msgid "Oceanic Crust Plate"
+msgstr "aaaaaaaaa"
+
+msgid "Continental Crust Plate"
+msgstr "aaaaaaaaa"
+
+# 13
+msgid "Checking what you now know about... plate tectonics"
+msgstr "aaaaaaaaa"
+
+# 14a
+msgid "The main purpose of maps is to be:"
+msgstr "aaaaaaaaa"
+
+msgid "Beautiful to hang on the wall"
+msgstr "aaaaaaaaa"
+
+msgid "Useful in showing important information"
+msgstr "aaaaaaaaa"
+
+msgid "Interesting to look at"
+msgstr "aaaaaaaaa"
+
+msgid "Colorful"
+msgstr "aaaaaaaaa"
+
+# 14b
+msgid ""
+"Not really - Maps can be beautiful and look great up on the wall but that's "
+"not their main purpose."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - The main purpose of maps is to show useful information to help us make "
+"decisions and figure things out."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - Maps can be interesting and fun to look at but that's not their "
+"main purpose."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - Maps can be colorful and beautiful to look at but that's not "
+"their main purpose."
+msgstr "aaaaaaaaa"
+
+# 15a
+msgid ""
+"Which of the following maps would be <span class='blink'>best</span> for "
+"planning a cross-country road trip route?"
+msgstr "aaaaaaaaa"
+
+msgid "Daily weather map"
+msgstr "aaaaaaaaa"
+
+msgid "City map of Manhattan, Kansas"
+msgstr "aaaaaaaaa"
+
+msgid "Hardiness zones for planting flowers map"
+msgstr "aaaaaaaaa"
+
+msgid "National Highway map"
+msgstr "aaaaaaaaa"
+
+# 15b
+msgid "Packing for road-trip..."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not quite - A weather map can be helpful in planning a cross-country road "
+"trip to help you avoid bad weather, but is there an even better map to help "
+"you plan your trip?"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - A city Map of Manhattan Kansas might help a little if you "
+"happen to be going through Kansas as part of your trip but wouldn't help in "
+"planning the whole cross country trip."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - A hardiness map for planting flowers would be of no help in "
+"planning a cross-country road trip."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - A highway map of the United States would definitely be the best map to "
+"help in planning a cross-country road trip."
+msgstr "aaaaaaaaa"
+
+# 16a
+msgid ""
+"From this map of the plates that make up the Earth's crust, which of the "
+"following statements is <span class='blink'>not</span> true:"
+msgstr "aaaaaaaaa"
+
+msgid "The Pacific Plate is almost all ocean."
+msgstr "aaaaaaaaa"
+
+msgid "The North American plate is part land and part ocean."
+msgstr "aaaaaaaaa"
+
+msgid "The African Plate is all land."
+msgstr "aaaaaaaaa"
+
+msgid "The Caribbean Islands are part of their own little plate."
+msgstr "aaaaaaaaa"
+
+# 16b
+msgid "Playing with jigsaw puzzles..."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - This is NOT a TRUE statement. The African plate is a combination of "
+"the continent of Africa and part of the Atlantic Ocean."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - This is a TRUE statement. The Pacific plate is almost all "
+"ocean, with the exception of some small islands in the middle."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - This is a TRUE statement. The North American Plate is part land "
+"- the continent of North America - and part ocean - the eastern half of the "
+"Atlantic Ocean."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - This is a TRUE statement. The Caribbean Islands are on their "
+"own little plate."
+msgstr "aaaaaaaaa"
+
+# 17a
+msgid ""
+"The map below shows the major plates that make up the earth's surface, and "
+"the arrows show the relative directions of each of the plates as they move "
+"relative to each other. From this map the following can be said to be true."
+msgstr "aaaaaaaaa"
+
+msgid "The Caribbean Plate is moving towards Africa."
+msgstr "aaaaaaaaa"
+
+msgid "The Australian Plate is moving away from the Philippine plate."
+msgstr "aaaaaaaaa"
+
+msgid "The Arabian plate is moving towards the Indian plate."
+msgstr "aaaaaaaaa"
+
+msgid "The African Plate is moving away from the South American plate."
+msgstr "aaaaaaaaa"
+
+# 17b
+msgid ""
+"Yes - the South American and African plates are moving away from each other."
+msgstr "aaaaaaaaa"
+
+msgid "Not really - The Caribbean plate is moving away from Africa."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - The Arabian plate and the Indian plate are both moving in the "
+"same direction."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - The Australian plate is moving towards the Philippine plate."
+msgstr "aaaaaaaaa"
+
+msgid "Clicking to see the image..."
+msgstr "aaaaaaaaa"
+
+# 18a
+msgid ""
+"The diagram below illustrates an oceanic plate crashing into and going under "
+"a continental plate, forming a subduction zone that causes volcanoes. From "
+"the map below, which of the following plate boundaries would most likely "
+"form a subduction zone like this?"
+msgstr "aaaaaaaaa"
+
+msgid "South American and African"
+msgstr "aaaaaaaaa"
+
+msgid "Pacific and North American"
+msgstr "aaaaaaaaa"
+
+msgid "Nazca and South American"
+msgstr "aaaaaaaaa"
+
+msgid "North American and Eurasian"
+msgstr "aaaaaaaaa"
+
+# 18b
+msgid "Going under a continental plate..."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - the South American and African plates are moving away from each "
+"other, which couldn't form a subduction zone."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"No - The Pacific and North American plates are sliding sideways past each "
+"other."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - the South American and Nazca plates are moving towards each other, "
+"which could form a subduction zone."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Not really - The North American and Eurasian plates are moving away from "
+"each other."
+msgstr "aaaaaaaaa"
+
+# 19a
+msgid ""
+"The diagram below shows a series of maps that represent how the continental "
+"plates have moved during the past 200 million years. Which of the following "
+"statements is <span class='blink'>not</span> true based on what you can see "
+"on the maps?"
+msgstr "aaaaaaaaa"
+
+msgid ""
+"200 million years ago, the continents were all bunched up in one large "
+"continent called Pangea."
+msgstr "aaaaaaaaa"
+
+msgid "The continents have drifted apart for the past 200 million years."
+msgstr "aaaaaaaaa"
+
+msgid "The continents will all start to move back together again soon."
+msgstr "aaaaaaaaa"
+
+msgid "South America and Africa were once joined together."
+msgstr "aaaaaaaaa"
+
+# 19b
+msgid "No - The map shows that this is a true statement."
+msgstr "aaaaaaaaa"
+
+msgid ""
+"Yes - This statement is NOT true. This map doesn't tell us anything about if "
+"or when the continents might all move back towards each other again."
+msgstr "aaaaaaaaa"
+
+# 20
+msgid "You've completed the Plate Tectonics review."
+msgstr "aaaaaaaaa"
+
+msgid "Click on the image to enlarge it."
+msgstr "aaaaaaaaa"

@@ -1,0 +1,27 @@
+#animation {
+	overflow: hidden;
+    width: 100px;
+    height: 100px;
+}
+#skateGirl{
+	 position :relative;
+    -webkit-animation: mymove 5s linear 0s infinite; 
+    animation: mymove 5s linear 0s infinite;
+ 	-moz-animation: mymove 5s linear 0s infinite ;
+}
+
+@-webkit-keyframes mymove {
+    0% {-webkit-transform: scaleX(-1) ;left: -500px;}
+    49% {-webkit-transform: scaleX(-1); left: 1000px;}
+    50% { -webkit-transform: scaleX(1); left: 1000px; }
+    100% {-webkit-transform: scaleX(1); left: -300px;} 
+}
+
+
+
+@-moz-keyframes mymove {
+     0% {-moz-transform: scaleX(-1) ;left: -500px;}
+    49% {-moz-transform: scaleX(-1); left: 1000px;}
+    50% { -moz-transform: scaleX(1); left: 1000px; }
+    100% {-moz-transform: scaleX(1); left: -300px;} 
+}

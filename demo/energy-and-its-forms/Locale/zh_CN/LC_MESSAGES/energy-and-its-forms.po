@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Energy and Its Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-14 11:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+#. Global
+msgid "Energy and Its Forms"
+msgstr "能量和它的形式"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Read more"
+msgstr "閱讀全文"
+
+msgid "Check answer"
+msgstr "查看答案"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "energy"
+msgstr "能量"
+
+msgid "Heat Energy"
+msgstr "熱能"
+
+msgid "Radiant Energy"
+msgstr "輻射能量"
+
+msgid "nonrenewable"
+msgstr "不可再生"
+
+msgid "You answered..."
+msgstr "你的回答..."
+
+msgid "More core ideas... about energy and its forms"
+msgstr "更多核心觀念......關於「能量和它的形式」"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+#. 1
+msgid "Welcome to the Energy and its Forms review"
+msgstr "歡迎來到「能量和它的形式」單元"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+#. 2
+msgid "Thinking about... energy and its forms"
+msgstr "想一想...「能量和它的形式」"
+
+msgid ""
+"Have you ever heard someone say, \"I'm getting tired, I'm running out of "
+"energy\"? Does that mean they just need a rest? Maybe. But it probably means "
+"that they need something to eat and drink too. When your mom or dad&#39;s "
+"car runs low on fuel, the car does not need a rest, but it does need a kind "
+"of drink&#8211;called fuel. Both the food you eat and the fuel a car uses "
+"are forms of energy. There are many different forms of energy. And they are "
+"all related in some way."
+msgstr ""
+"你有聽過：「我累了，我沒力了！」吧？難道這只是表示需要休息一下嗎？也許吧；但"
+"這也可能意味著他們需要吃或喝東西了。當爸媽車沒油了，車並不需要休息；但真正需"
+"要的是一種叫\"燃油\"的飲料。你吃的「食物」和汽車的「燃油」都是不同「形式」的"
+"能量；能量的形式有很多種，但其實他們彼此都是相關聯的。"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎，"
+
+#. 3
+msgid "Checking what you know... about energy and its forms"
+msgstr "看看你知道了哪些......關於「能量和它的形式」"
+
+msgid ""
+"Check <span class='blink'>all</span> the ways that the food you eat and the "
+"gasoline a car uses are alike."
+msgstr ""
+"請問你吃的食物和汽車的汽油，兩者相似處為何？請點選<span class='blink'>所有正"
+"確</span>的答案。"
+
+msgid ""
+"Without food, a person couldn't live and without fuel, a car couldn't run."
+msgstr "沒有食物，人不能生存；沒有燃料，汽車無法運行。"
+
+msgid ""
+"Both people and cars produce heat when food is eaten or gasoline is burned."
+msgstr "人吃食物和汽車加油都會產生熱量。"
+
+msgid "After food is eaten or gasoline is burned there is no energy remaining."
+msgstr "食物被吃入體內後或汽油燃燒以後，能量都會被消耗。"
+
+msgid ""
+"The energy in food and gasoline can be traced to the energy from the sun."
+msgstr "食物和汽油的能量，都能追溯到是來自太陽。"
+
+msgid ""
+"Food and gasoline fuel people and transportation vehicles. Without them, "
+"people or cars could not run. Food provides the energy that you need to live "
+"and gasoline one form of energy that a car needs to move. Both can be traced "
+"back to the energy from the sun."
+msgstr ""
+"食物和汽油提供能量給人類與交通車輛。沒有它們，人或車輛都無法運作。食物提供你"
+"生活需要的能量；汽油則是另外一種能量的形式，它可提供汽車運行需要的能量。這兩"
+"種能量的源頭，都能追溯到是來自太陽。"
+
+msgid "Food and gasoline"
+msgstr "食物和汽油"
+
+#. 4
+msgid "Reviewing core ideas... about energy and its forms"
+msgstr "複習關鍵概念... 關於「能量和它的形式」"
+
+msgid ""
+"What is energy? Scientists define <span class='key'>energy</span> as the "
+"ability to do <span class='key'>work</span>. Doing work means moving or "
+"changing something in some way. Lifting a book from a table, running around "
+"a playground, and blowing up a balloon all involved doing work —all require "
+"energy. The effort needed to move or change something determines how much "
+"energy is needed. The bigger something is, the more energy it takes to move "
+"it. The farther something has to be moved, the more energy it takes to move "
+"it. The more something has to be changed, the more energy it takes to change "
+"it. They all require work!"
+msgstr ""
+"什麼是能量？科學家定義<span class='key'>「能量」</span>為<span class='key'>做"
+"功</span>的能力。「做功」是指以某種形式移動或改變東西。例如，將書本從桌上拿"
+"起、在操場跑步、吹氣球都是做功──這都需要能量。而移動或改變某些東西需要的多少"
+"的「功」，就需要多少能量。一般來說，東西越大，所需的能量越多；要把東西搬得越"
+"遠，所需的能量越多；要改變的東西越多，所需的能量越多。這些都需要做功。"
+
+msgid "Pendulum"
+msgstr "鐘擺"
+
+msgid "Baby"
+msgstr "寶寶"
+
+msgid ""
+"There are two basic kinds of energy that are defined by an object's motion "
+"or location. <span class='key'>Kinetic energy</span> is the energy of a "
+"moving object. The amount of kinetic energy of a moving object has depends "
+"on how big the object is and how fast it is moving. The faster something is "
+"moving or the bigger a moving object is, the more energy it has and the more "
+"work it can do."
+msgstr ""
+"從物體「運動」或「位置」，可以定義出兩種的基本的能量形式。第一種叫做 <span "
+"class='key'>動能</span>，它就是移動中物體所具有的能量。動能的大小是由物體的"
+"「大小」和移動的「速度」所共同決定。東西越重、運動的越快，就具有越多的能量，"
+"也就是它可以做更多的「功」。"
+
+msgid ""
+"Objects that are not moving can have stored energy called <span "
+"class='key'>potential energy</span>. For example, when you are sitting at "
+"the top of a slide in the playground, your body has potential energy that "
+"will allow you to ride down the slide when it is your turn to go. The "
+"potential energy you have sitting at the top of the slide has the potential "
+"to do work. That potential energy is changed into kinetic energy as you go "
+"down the slide."
+msgstr ""
+"第二種能量形式叫做<span class='key'>位能</span>，那是和物體所在的位置有關的能"
+"量，縱使物體在靜止時也會有位能。例如，當你坐在遊樂場溜滑梯頂端時，你的身體就"
+"具有位能，它讓你可以從坡道上滑下來。你在坡道頂端時有的位能，就讓你有做「功」"
+"的潛能。當你從坡道往下滑時，位能則逐漸「轉換」成動能了。"
+
+msgid "Roller Coaster"
+msgstr "雲霄飛車"
+
+msgid ""
+"When a roller coaster ascends (goes up), it builds up potential energy. As "
+"it descends (comes down), it releases kinetic energy."
+msgstr ""
+"當雲霄飛車上升（往上爬）時，它繼續累積位能；當它下降（往下滑）時，原有的位能"
+"就逐漸變為動能。"
+
+msgid ""
+"Potential energy can be stored in different ways. The food we eat, the fuel "
+"we burn in our cars, fireplace or furnaces and the batteries in our "
+"flashlights and cell phones all have potential energy. They can all do some "
+"kind of work."
+msgstr ""
+"「位能」可以儲存為許多不同的形式。我們吃的食物或汽車、壁爐、火爐用的燃油，以"
+"及手電筒與手機裡的電池，都有位能。它們都能做功。"
+
+msgid "Blowing balloons..."
+msgstr "吹氣球..."
+
+#. 5
+msgid "Quick Check #1"
+msgstr "小練習＃1"
+
+msgid ""
+"Question A. Which of the following would involve doing more work-require "
+"more energy to do?"
+msgstr "問題A. 如果距離一樣，請問以下何者需要作最多的功(需要用更多能量)？"
+
+msgid "Pull your baby brother or baby sister across the street in a wagon."
+msgstr "用小推車將你的一個小弟弟或小妹妹推過平坦的馬路。"
+
+msgid ""
+"Pull your big brother or equally big sister across the street in a wagon."
+msgstr "用小推車將你比較重的大哥哥或大姐姐推過平坦的馬路。"
+
+msgid "Pull your baby brother or baby sister across the lawn in a wagon."
+msgstr "用小推車將你的一個小弟弟或小妹妹推過草地。"
+
+msgid "Pull your big brother or equally big sister across the lawn in a wagon."
+msgstr "用小推車將你比較重的大哥哥或大姐姐推過草地。"
+
+msgid ""
+"Question B. A fifth grade student has a container for making frozen juice "
+"bars. He pours juice into the container and then puts the container into the "
+"freezer for 12 hours. What happens to the juice molecules in the container "
+"during these 12 hours?"
+msgstr ""
+"問題B. 一個五年級的學生有一個作水果冰棒的容器。他把果汁倒入容器中，然後把容器"
+"放入冰箱冷凍12小時。請問，在這12小時中容器裡的果汁分子，會發生甚麼事呢？"
+
+msgid "They lose kinetic energy."
+msgstr "流失動能。"
+
+msgid "They lose chemical energy."
+msgstr "流失化學能。"
+
+msgid "They gain electrical energy."
+msgstr "獲得電能。"
+
+msgid "They gain gravitational energy."
+msgstr "獲得分子間吸引力的能量。"
+
+msgid "Quick Check #1 - How did I do?"
+msgstr "小練習＃1 - 我答的如何？"
+
+msgid "Probably not because of the weight and distances involved."
+msgstr "也許並不是因為重量與距離的關係。"
+
+msgid ""
+"A better choice than (a), but not as good as (d) because it would take more "
+"energy to move across rough grass than across a smooth street."
+msgstr ""
+"比（a）更好的選擇，但不如（d），因為推過草地需要的能量比推過較平坦的馬路要來"
+"的多。"
+
+msgid ""
+"A possibility, but not as good as (d) because your baby brother or baby "
+"sister would not weigh as much as your big brother."
+msgstr "有可能，但不如選擇（d），因為你弟弟妹妹不會像大哥哥或大姐姐那麼重。"
+
+msgid ""
+"The best choice because the brother weighs the most and it is harder to push "
+"something across the rough grass than across the smoother street."
+msgstr ""
+"這是最好的選擇──因為大哥哥大姐姐比較重，而且把東西推過草地比推過馬路要困難。."
+
+msgid ""
+"Correct! The frozen molecules have less movement, losing kinetic energy."
+msgstr "正確！冰凍的分子運動較慢──這也就是流失了動能。"
+
+msgid ""
+"No, the lack of movement does not change the chemical energy of the "
+"molecules, it changes their kinetic energy."
+msgstr "不對喔！分子運動較慢不會改變化學能，而是改變了動能。"
+
+msgid ""
+"No, the lack of movement does not change the electrical energy of the "
+"molecules, it changes their kinetic energy."
+msgstr "不對喔！分子運動較慢不會改變電能，而是改變了動能。"
+
+msgid ""
+"No, the lack of movement does not change the gravitational energy of the "
+"molecules, it changes their kinetic energy."
+msgstr "不對喔！分子運動較慢並不會改變分子間的引力，而是改變了動能。"
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習！"
+
+#. 6
+msgid ""
+"There are different forms of <span class='key'>energy</span>. All of them "
+"can move or change things, or basically do work!"
+msgstr ""
+"<span class='key'>能量</span>有不同的形式。這些形式都可以用來移動或改變物質──"
+"也就是「作功」！"
+
+msgid "Click on the red arrows to learn about some forms of energy."
+msgstr "點擊紅色箭頭，了解各種能量的形式。"
+
+msgid ""
+"<span class='key'>Mechanical energy</span> is needed to push or pull "
+"objects. Hammering a nail, lifting a book, throwing a ball, and riding a "
+"bicycle or skateboard all involve mechanical energy."
+msgstr ""
+"<span class='key'>機械能</span>是用來推拉物體的能量。錘打釘子、搬書、扔球、騎"
+"自行車或滑滑板，都涉及機械能。"
+
+msgid ""
+"<span class='key'>Thermal energy</span> is the energy of all the movement "
+"(kinetic energy) in the atoms and molecules that make up matter. <span "
+"class='key'>Heat</span> is the energy that you feel when you touch a hot pan "
+"or sit near a campfire."
+msgstr ""
+"<span class='key'>熱能</span>是一個物質內所有<span class='key'>原子</span>和"
+"<span class='key'>分子</span>內部運動能量的總和(也就是這些原子和分子在物質內"
+"部運動的總動能)。而所謂的 <span class='key'>熱</span>，也是屬於這一種能量形"
+"式，當你觸摸熱鍋或坐在營火附近時，就會感受到這種能量。"
+
+msgid ""
+"<span class='key'>Electrical energy</span> also involves things moving, but "
+"this time it's electrons moving from place to place, not atoms and "
+"molecules. Electrical energy is needed to make our radios, televisions, "
+"cellphones and computers work."
+msgstr ""
+"<span class='key'>電能</span>也涉及物體運動，但是這裡的運動，是物體的<span "
+"class='key'>電子</span>從一個地方移動到另一個地方──這不一定需要原子和分子的移"
+"動。收音機、電視機、手機和電腦運作，都需要電能。"
+
+msgid ""
+"<span class='key'>Chemical energy</span> is the energy change when "
+"substance(s) undergoes a chemical reaction and turn into different chemical "
+"substance(s). The heat and light from a campfire come from the chemical "
+"energy of the wood. The energy releases when the molecules that make up the "
+"wood break apart and recombine with molecules of other substance(s) as it "
+"burns."
+msgstr ""
+"<span class='key'>化學能</span>，指的是當物質發生化學反應並生成不同化學物質時"
+"所產生的能量。營火的熱和光就是來自木材的化學能；這些化學能是由構成木材的分子"
+"在燃燒過程中，受到破懷並和其他物質的分子重新組合，所產生的能量。"
+
+msgid ""
+"<span class='key'>Sound energy</span> is the energy of vibrating matter - "
+"such as air or metal. The vibrating matter carries the sound energy from one "
+"molecule to the next. Without matter to vibrate, there can be no sound "
+"energy."
+msgstr ""
+"<span class='key'>聲能</span>是物體振動的能量，這些振動的物體可以是空氣或金"
+"屬。振動物體能將聲能從一個分子帶到下一個分子，所以沒有物體的振動，就不可能有"
+"聲能。"
+
+msgid ""
+"<span class='key'>Nuclear energy</span> is yet another form of energy. It "
+"involves splitting apart or atoms combining together to become a new "
+"element. Nuclear energy, like other energies, is used to make electricity to "
+"heat and light our homes and businesses."
+msgstr ""
+"<span class='key'>核能是</span>能量的另一種形式。核能的產生是由於原子的分裂或"
+"者原子的結合，而形成新的元素。核能，像其他的能量一樣，常用來產生熱能並發電，"
+"以溫暖或照亮我們的家或商店。"
+
+msgid ""
+"<span class='key'>Radiant energy</span>, also called <span class='key'>light "
+"energy</span> is a type of wave energy that includes visible colors of the "
+"rainbow and other wave energies such as X-rays and radio waves that we can't "
+"see. The Sun is our main source of radiant energy. <span class='key'>Solar "
+"energy</span> is the term used to describe the radiant energy that comes "
+"from the Sun."
+msgstr ""
+"<span class='key'>輻射能</span>，也被稱為<span class='key'>光能</span>，它是"
+"一種能量波。它包括可見顏色的彩虹和我們看不到的其它波能──如X光與無線電波。太陽"
+"是主要的輻射能量的來源， <span class='key'>太陽能</span>指的就是來自太陽的輻"
+"射能量。"
+
+msgid ""
+"An important thing to remember is that energy can change forms. For example, "
+"when you lift a book the energy in the food you ate gives your muscles "
+"mechanical energy to lift the book. As you lift the book, the book has "
+"kinetic energy. When you place the book on the table, the book now has "
+"potential energy."
+msgstr ""
+"一件要記住的重要事情就是──能量的形式可以改變。例如，當你把書本拿起，那是你吃"
+"下去的食物讓肌肉有機械能，所以才可以將書本拿起；當書本被往上提的過程，那時書"
+"本由靜到動，就是具有了「動能」；當你把書抬高並放在桌上時，書本就具有了比較多"
+"的「位能」。"
+
+msgid "Sound, nuclear, chemical..."
+msgstr "聲能、核子能、化學能..."
+
+#. 7
+msgid "Quick Check #2"
+msgstr "小練習＃2"
+
+msgid ""
+"Question A. Match the energy sources on the left to their examples on the "
+"right by dragging the items at the left up or down."
+msgstr "問題A. 請上下移動左邊的「能量來源」以和右邊的「例子」正確配對。"
+
+msgid "Energy Sources"
+msgstr "能量來源"
+
+msgid "radiant"
+msgstr "輻射能"
+
+msgid "nuclear"
+msgstr "核能"
+
+msgid "mechanical"
+msgstr "機械能"
+
+msgid "heat"
+msgstr "熱能"
+
+msgid "sound"
+msgstr "聲能"
+
+msgid "chemical"
+msgstr "化學能"
+
+msgid "Examples"
+msgstr "例子"
+
+msgid "flashlight battery"
+msgstr "手電筒電池"
+
+msgid "atomic energy"
+msgstr "原子能"
+
+msgid "warmth surrounding a car's engine"
+msgstr "汽車引擎附近的熱度"
+
+msgid "music heard from headphones"
+msgstr "從耳機聽到的音樂"
+
+msgid "sunlight"
+msgstr "陽光"
+
+msgid "movement of a car's wheels"
+msgstr "汽車車輪的運動"
+
+msgid "Question B. Which of the following explains nuclear energy?"
+msgstr "問題B. 請問以下何者較為適當的說明核能？"
+
+msgid "Energy is released when two atoms combine."
+msgstr "當兩個原子結合時釋放能量。"
+
+msgid "Energy is released when two atoms split apart."
+msgstr "兩個原子裂開時能量釋放。"
+
+msgid "Energy is released when two atoms travel at the speed of light."
+msgstr "當兩個原子以光速傳播時釋放能量。"
+
+msgid "A and B are both correct."
+msgstr "A和B都是正確的。"
+
+msgid "Quick Check #2 - How did I do?"
+msgstr "小練習＃2 - 我答的如何？"
+
+msgid ""
+"Not quite, when two atoms split apart or joined together nuclear energy is "
+"also released."
+msgstr "這是對的，但還有其他更好的選項喔！"
+
+msgid "Not quite, when two atoms combine nuclear energy is also released."
+msgstr "這是對的，但還有其他更好的選項喔！"
+
+msgid ""
+"No, nuclear energy is released when atoms are split apart or joined together "
+"or fused."
+msgstr "不對喔！核能是當原子被破碎或被融合時，才會釋放的。"
+
+msgid ""
+"Correct, nuclear energy is released when atoms are split apart or joined "
+"together or fused."
+msgstr "正確，當原子被破碎或融合時，核能才會被釋放；而且，它也會被用來發電。"
+
+msgid ""
+"Good job! An example of chemical energy is a flashlight battery. This energy "
+"is due to the kind and  arrangement of small particles. An example of "
+"nuclear energy is atomic energy. This energy is due to the structure of the "
+"atom's nucleus. An example of heat energy is the warmth surrounding a car's "
+"engine. This energy is due to the random motion of small particles. An "
+"example of sound energy is the sound from a headphone. This energy is due to "
+"the ordered periodic motion of small particles. An example of radiant energy "
+"is sunlight. This energy is due to bundles of photons. An example of "
+"mechanical energy is the movement of a car's wheels. This energy is due to "
+"the motion of large pieces of matter."
+msgstr ""
+"答的好！化學能的一個例子是手電筒的電池，這種能量來自於物質中微小粒子，不同的"
+"種類和不同的排列會具有不同的化學能。核能的例子是原子能，這個能量來自於原子核"
+"結構的改變。熱能的例子是汽車引擎發熱，這個能量是來自於物質內微小粒子的隨機運"
+"動。聲能的例子是從耳機聽到的聲音，這個能量來自於微小粒子有規律的週期性運動。"
+"輻射能的一個例子是太陽光，這種能量是來自於一束束的光子。機械能的一個例子是汽"
+"車車輪的運動，這種能量是來自於大的物體的運動。"
+
+msgid ""
+"Not quite. An example of chemical energy is a flashlight battery. This "
+"energy is due to the kind and arrangement of small particles. An example of "
+"nuclear energy is atomic energy. This energy is due to the structure of the "
+"atom's nucleus. An example of heat energy is the warmth surrounding a car's "
+"engine. This energy is due to the random motion of small particles. An "
+"example of sound energy is the sound from a headphone. This energy is due to "
+"the ordered periodic motion of small particles. An example of radiant energy "
+"is sunlight. This energy is due to bundles of photons. An example of "
+"mechanical energy is the movement of a car's wheels. This energy is due to "
+"the motion of large pieces of matter."
+msgstr ""
+"不完全是喔！化學能的一個例子是手電筒的電池，這種能量來自於物質中微小粒子，不"
+"同的種類和不同的排列會具有不同的化學能。核能的例子是原子能，這個能量來自於原"
+"子核結構的改變。熱能的例子是汽車引擎發熱，這個能量是來自於物質內微小粒子的隨"
+"機運動。聲能的例子是從耳機聽到的聲音，這個能量來自於微小粒子有規律的週期性運"
+"動。輻射能的一個例子是太陽光，這種能量是來自於一束束的光子。機械能的一個例子"
+"是汽車車輪的運動，這種能量是來自於大的物體的運動。"
+
+msgid "Looking for energy sources..."
+msgstr "尋找能源..."
+
+msgid ""
+"Correct, nuclear energy involves atoms splitting apart or combining together "
+"to become a new element. It has also been used as one of the energies to "
+"make electricity."
+msgstr ""
+"正確！當原子被破碎或融合形成新元素時，核能才會被釋放；而且，它也會被用來發"
+"電。"
+
+msgid ""
+"No, nuclear energy involves atoms splitting apart or combining together to "
+"become a new element. It has also been used as one of the energies to make "
+"electricity."
+msgstr ""
+"不對喔！當原子被破碎或融合形成新元素時，核能才會被釋放；而且，它也會被用來發"
+"電。"
+
+#. 8
+msgid ""
+"We use some forms of energy more than others in our daily lives. But all "
+"sources of energy are important because we can change one form to another. "
+"For example, electrical energy is one energy form that is very important in "
+"our daily lives. But the electricity we use has to be made from other kinds "
+"of energy. Most of our electricity is made from burning fossil fuels. Oil, "
+"coal and natural gas are <span class='key'>fossil fuels</span>. But fossil "
+"fuels come from plants and animals that died and decayed a long, long time "
+"ago. That means that they are <span class='key'>nonrenewable</span> because "
+"it would take thousands and thousands of years to make more fossil fuels. So "
+"we will eventually burn all the fossil fuels that we have."
+msgstr ""
+"我們在日常生活中用到某幾種能源比較多、某幾種能源比較少；但是，所有能源都是重"
+"要的，因為我們可以改變能源的形式。例如，電能雖然在日常生活中是很重要的一種能"
+"量形式，但是，電力卻常需要由其他能源而來，其中最主要的來源是<span "
+"class='key'>化石燃料</span>，例如：石油，煤炭和天然氣。這些化石燃料是由很久以"
+"前死亡腐爛的植物和動物經過數千年的時間才變成的，這也就是說化石燃料是<span "
+"class='key'>不可再生的能源</span>；因此，有一天這些石化燃料終將會被人類用光"
+"的。"
+
+msgid "Solar panels take solar energy from the sun to generate power."
+msgstr "太陽能板將太陽能轉換成電能。"
+
+msgid ""
+"Renewable sources of energy are the ones that will not run out. Solar energy "
+"is a <span class='key'>renewable energy</span>. Solar energy is the main "
+"source of energy for everything on earth. Solar energy heats the ground and "
+"water, produces weather that generates wind, and is stored as energy in the "
+"plants we eat and the wood that we burn. Solar energy is also a clean energy "
+"because it doesn't <span class='key'>pollute</span> or dirty the air like "
+"burning fossil fuels does."
+msgstr ""
+"「可再生能源」是不會用盡的。太陽能是一種<span class='key'>可再生能源</span>，"
+"它是地球上一切能量的主要來源。太陽能可以使地面和海洋變熱，形成可以產生風的氣"
+"候，太陽能也可以將能量轉換儲存在可食的植物與可燃燒的木材裡。太陽能是一種乾淨"
+"能源，它不會像燃燒化石燃料般的<span class='key'>污染</span>空氣。"
+
+msgid ""
+"A final thing to remember about energy is that no matter how many times or "
+"ways energy changes forms, the total amount of energy always stays the same. "
+"That means energy cannot be created or destroyed. Scientists call this idea "
+"the <span class='key'>law of conservation of energy</span>."
+msgstr ""
+"最後要記住的是無論能量轉變多少次或如何轉變，能量的總量都是維持不變。這代表能"
+"量是無法被創造或被摧毀的，科學家稱此為</span>能量守恆定律<span class='key'>。"
+
+msgid "Turning on electricity..."
+msgstr "打開電..."
+
+#. 9
+msgid "Quick Check #3"
+msgstr "小練習＃3"
+
+msgid ""
+"Question A. Click on <span class='blink'>all</span> the energy sources that "
+"are renewable."
+msgstr "問題A. 請點選下列中<span class='blink'>全部的</span>可再生的能源。"
+
+msgid "Coal"
+msgstr "煤"
+
+msgid "Natural Gas"
+msgstr "天然氣"
+
+msgid "Sun"
+msgstr "太陽"
+
+msgid "Petroleum"
+msgstr "石油"
+
+msgid ""
+"Question B. Click <span class='blink'>all</span> the statements that "
+"correctly explain what the expression \"produce energy\" means."
+msgstr ""
+"問題B. 一般我們會說，\"產生了能量\"。下列兩者中，請點選<span class='blink'>所"
+"有</span>此敘述的正確的涵義。"
+
+msgid "It means to create energy that was not there before."
+msgstr "這表示創造出以前沒有的能量。"
+
+msgid "It means to transform energy into the form you need."
+msgstr "這表示將能量轉換成你需要的形式。"
+
+msgid "Quick Check #3 - How did I do?"
+msgstr "小練習＃3 - 我答的如何？"
+
+msgid ""
+"Correct! Solar energy is a renewable source. Coal, natural gas, and "
+"petroleum are non-renewable energy sources as they will finish eventually."
+msgstr ""
+"正確！太陽能是一種「可再生的能源」。煤炭，天然氣和石油是「不可再生的能源」，"
+"因為他們最終將會用完。"
+
+msgid ""
+"Not quite. Solar energy is a renewable source. Coal, natural gas, and "
+"petroleum are non-renewable energy sources as they will finish eventually."
+msgstr ""
+"不完全對喔！太陽能是一種「可再生的能源」。煤炭，天然氣和石油是「不可再生的能"
+"源」，因為他們最終將會用完。"
+
+msgid ""
+"Correct! Based on the law of conservation of energy, energy is only "
+"transformed into different forms - no energy is actually created."
+msgstr ""
+"正確！根據能量守恆定律，能量只能轉化成不同的形式──沒有能量是可以被創造的。"
+
+msgid ""
+"No, based on the law of conservation of energy, energy is only transformed "
+"into different forms - no energy is actually created."
+msgstr ""
+"不對喔！根據能量守恆定律，能量只能轉化成不同的形式──沒有能量是可以被創造的。"
+
+msgid "Transforming and renewing"
+msgstr "轉換與再生"
+
+#. 10
+msgid "Using what you know... about energy and its forms... to solve a problem"
+msgstr "用你知道的......關於「能源和它的形式」......解決問題"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid ""
+"You are an engineering consultant hired by a company considering a wind farm "
+"project. They want to install 40 windmills to produce electricity for a "
+"nearby cardboard factory."
+msgstr ""
+"你是一家公司聘請來評估興建風電場計畫的工程顧問。這家公司想安裝40個風車來為附"
+"近紙板工廠供電。"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid ""
+"The company executives need to identify the risks associated with this "
+"project to see if it is worth their investment. Using what you now know "
+"about transforming energy into different forms, what possible factors and "
+"issues would you outline to help them make a decision? Key in your analysis "
+"in the text box provided."
+msgstr ""
+"公司高層需要分析這一個計畫的相關風險，以決定是否值得投資。以你現在知道有關"
+"「能量是透過轉換而成為不同形式能量」的知識，你能提出哪些要考慮的的因素和可能"
+"的問題，以幫助公司來作出決定？請在下欄中輸入你的分析。"
+
+msgid "Click here to start typing your answer..."
+msgstr "點選此處，輸入你的回答..."
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+msgid "Spinning windmills..."
+msgstr "旋轉風車..."
+
+#. 11
+msgid "Summarizing core ideas... about energy and its forms"
+msgstr "總結核心觀念...關於「能量和它的形式」"
+
+msgid ""
+"<span class='key'>Energy</span> is the ability to do work. There are two "
+"basic forms of energy, <span class='key'>kinetic energy</span> and <span "
+"class='key'>potential energy</span>. Kinetic energy involves a mass moving "
+"at some velocity. Potential energy is stored energy. Food, fuels and plants "
+"are all examples of things with potential energy. There are different forms "
+"of energy that can be converted or changed from one form to another. But the "
+"amount of energy always stays the same - it cannot be created or destroyed "
+"(<span class='key'>law of conservation of energy</span>). <span "
+"class='key'>Fossil fuels</span> are made from decaying dead plants and "
+"animals. Fossil fuels are a <span class='key'>nonrenewable</span> source of "
+"energy, whereas solar energy is a <span class='key'>renewable</span> energy. "
+"Here's an interesting way to recall the seven forms of energy: just remember "
+"the name MRS CHEN"
+msgstr ""
+"<span class='key'>能量</span>是做功的能力。能量的有兩種基本形式，<span "
+"class='key'>動能</span>和<span class='key'>位能</span>。動能指的是具有質量的"
+"物體在某一個速度移動時所表現的能量；位能指的則是一種儲存的內在 能量，食物、燃"
+"料和植物都是具有位能的例子。能量不能被創造或毀滅，但是不同形式的能量可以被轉"
+"換或改變成另一種形式，不過不管如何改變，能 量的總量始終保持不變(<span "
+"class='key'>能量守恆定律</span>)。 <span class='key'>化石燃料</span>從腐爛死"
+"亡的動植物製成，它是屬於<span class='key'>不可再生能源</span>；而太陽能是"
+"<span class='key'>可再生能源</span>。你可以想一個幫助記住這七種能量的口訣，例"
+"如：雞符生，畫熱電盒」分別來代表機械 能、輻射能、聲能、化學能、熱能、電能、和"
+"核能，看一下下面，有幫助你記下來嗎？你也可以想一個對你有幫助的口訣喔！"
+
+msgid ""
+"<span class='letter'>M</span> <span class='key'>Mechanical energy</span>"
+msgstr "<span class='letter'> 雞</span><span class='key'>機械能</span>"
+
+msgid "<span class='letter'>R</span> <span class='key'>Radiant energy</span>"
+msgstr "<span class='letter'>符</span><span class='key'>輻射能</span>"
+
+msgid "<span class='letter'>S</span> <span class='key'>Sound energy</span>"
+msgstr "<span class='letter'>生</span><span class='key'>聲能</span>"
+
+msgid "<span class='letter'>C</span> <span class='key'>Chemical energy</span>"
+msgstr "<span class='letter'>畫</span><span class='key'>化學能</span>"
+
+msgid "<span class='letter'>H</span> <span class='key'>Heat energy</span>"
+msgstr "<span class='letter'>熱</span><span class='key'>熱能</span>"
+
+msgid ""
+"<span class='letter'>E</span> <span class='key'>Electrical energy</span>"
+msgstr "<span class='letter'>墊</span><span class='key'>電能</span>"
+
+msgid "<span class='letter'>N</span> <span class='key'>Nuclear energy</span>"
+msgstr "<span class='letter'>盒</span><span class='key'>核能</span>"
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+#. 12
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Reviewing key vocabulary... related to energy and its forms"
+msgstr "複習關鍵詞彙...有關「能量和它的形式」"
+
+msgid ""
+"Energy is the ability to do work. Energy is required to make anything stop "
+"or move. There are many different forms of energy. Two forms of energy are "
+"heat and light. All living things depend on energy."
+msgstr ""
+"能量，也是「做功」的能力，要讓東西停止或移動常需要能量。能量有許多不同形式，"
+"熱和光是其中的兩種。所有生物的生存都需要能量。"
+
+msgid ""
+"People get their energy from the food they eat. Most plants get their energy "
+"from the sun. Cars get their energy from the fuel they burn or the "
+"electricity they keep in their batteries. Some energy that is used to run "
+"big machines comes from nuclear power plants such as the one shown above."
+msgstr ""
+"人們從他們所吃的食物中獲取能量、大多數植物從太陽獲得能量、汽車從燃燒燃料或電"
+"池獲得能量、一些大型機器有時從核電廠獲得能量。上面就是核電廠的圖。"
+
+msgid "Work"
+msgstr "功"
+
+msgid ""
+"When most people talk about work, they mean something that they do to make "
+"money or to get a good grade. But scientists have a different definition of "
+"work."
+msgstr ""
+"當大多數人談到工作，他們常指賺錢或得到好成績的努力。但科學家們對於「功」則有"
+"不同的定義。"
+
+msgid ""
+"In science, work means to use force over a distance. The greater the force "
+"or the further the distance, the more work is being done. So, taking out the "
+"trash or mowing the lawn is a lot of work. But writing a report does not "
+"take very much work. That's because it does not take much force to push a "
+"pen or to press keys on a computer."
+msgstr ""
+"在科學中，「功」表示對一個物體施力一段距離。一般而言，施力越大或距離越大，需"
+"要的功越多。因此，清垃圾或除草需要作很多「功」，但寫報告不需要太多「功」，那"
+"是因為用筆或打電腦一般不需要太多力氣。"
+
+msgid "Kinetic Energy"
+msgstr "動能"
+
+msgid ""
+"Kinetic energy is the energy of a moving object. An object's kinetic energy "
+"depends on its mass and how fast it is moving."
+msgstr ""
+"動能，是運動中物體所具有的能量，一個物體的動能由它的「質量」和移動「速度」所"
+"決定。"
+
+msgid ""
+"If two objects are moving at the same speed, but one object has twice the "
+"amount of mass as the other, the object with more mass will have more "
+"kinetic energy. And if two objects have the same mass, but one is moving "
+"faster than the other one, the one that is moving faster will have more "
+"kinetic energy."
+msgstr ""
+"如果兩個物體以相同速度移動，但一個物體的質量比另一個大兩倍，質量較大的物體會"
+"具有更多動能。若兩個物體有相同質量，但另一個移動速度較快，移動較快的物體有較"
+"多的動能。"
+
+msgid "Potential Energy"
+msgstr "位能"
+
+msgid ""
+"Potential energy is energy that is stored by an object based on its "
+"position. For example, if you have a bow and arrow and you pull the string "
+"on the bow, you are creating potential energy. The further back you pull the "
+"bowstring, the more potential energy is being stored. When you let go of the "
+"bowstring, this energy is released. Even a book sitting on a shelf has "
+"potential energy because gravity is pulling down on it."
+msgstr ""
+"位能，是物體儲存的能量。例如，如果你有一把弓箭，你拉弓，就是在創造位能。你把"
+"弓拉得越遠，儲存越多位能；當你把弓放掉時，能量就被釋放。就連書架上的書都有位"
+"能，因為地心引力把書往下拉。"
+
+msgid ""
+"Look around your house and you will see many things with potential energy. A "
+"slinky has potential energy before it is released down the stairs. A yo-yo "
+"has potential energy before it is dropped. The greater the force it takes to "
+"keep an object in a place or position, the greater its potential energy will "
+"be."
+msgstr ""
+"環顧你的房子四周，你會看到很多具有位能的東西。有一種軟的彈簧桶玩具它可以沿著"
+"階梯自己一格一格慢慢往下走，在還沒往下走的時候，它就具有比較多的位能；溜溜球"
+"被往下丟前也是一樣具有較多的位能。讓物體保持在某一個位置上，若需要比較大的力"
+"量，那麼在那個位置的位能就越大。"
+
+msgid "Law Of Conservation Of Energy"
+msgstr "能量守恆定律"
+
+msgid ""
+"The law of conservation of energy states that the total amount of energy in "
+"an isolated system remains constant, or the same over time, regardless of "
+"how many changes in form the energy undergoes. For example, potential energy "
+"can be converted into kinetic energy and still remain constant."
+msgstr ""
+"能量守恆定律，指的是，在一個獨立系統中，不管能量轉換了多少形式，它的各種能量"
+"的總和是固定的。例如，位能可以轉換成動能，但總能量一定維持不變。"
+
+msgid ""
+"Another way of looking at the law of conservation of energy is that energy "
+"is not created or destroyed but only transferred into a different form."
+msgstr ""
+"另一種認識「能量守恆定律」的方式是能量無法被創造或摧毀，它只在不同形式間轉"
+"換。"
+
+msgid "Mechanical Energy"
+msgstr "機械能"
+
+msgid ""
+"Mechanical energy is the energy resulting from the position and motion of an "
+"object; it is the sum of potential and kinetic energy."
+msgstr "機械能，是由物體的位置和運動而產生的能量，它是位能和動能的總和。"
+
+msgid ""
+"Mechanical energy is needed to push or pull objects. Hammering a nail, "
+"lifting a book, throwing a ball, and riding a bicycle or skateboard all "
+"involve mechanical energy."
+msgstr ""
+"機械能是推拉物體需要的能量。錘打釘子、搬書、扔球、騎自行車或滑板都涉及機械"
+"能。"
+
+msgid "Thermal (Heat) Energy"
+msgstr "熱能"
+
+msgid ""
+"Thermal energy is the energy of all the movement (kinetic energy) in the "
+"atoms and molecules that make up matter. It is the same as heat."
+msgstr "熱能，是構成物質中的原子和分子的運動（動能）的能量。"
+
+msgid "To heat something up is to increase its thermal energy."
+msgstr "加熱東西就是把它的熱能提高。"
+
+msgid "Electrical Energy"
+msgstr "電能"
+
+msgid ""
+"Electrical energy also involves things moving, but this time its electrons "
+"moving from place to place, not atoms and molecules."
+msgstr ""
+"電能，也涉及物體移動，它是將電子(不是原子或分子)，從一個地方移動到其它的地"
+"方。"
+
+msgid ""
+"Electrical energy is needed to make our radios, televisions, cell phones and "
+"computers work."
+msgstr "收音機、電視機、手機和電腦運作，都需要電能。"
+
+msgid "Chemical Energy"
+msgstr "化學能"
+
+msgid ""
+"Chemical energy is the energy that holds atoms and molecules together to "
+"form materials.  When atoms or molecules are broken apart in a material, "
+"this energy is released."
+msgstr ""
+"化學能，是將形成物質的原子和分子結合在一起的能量。當物質中的原子或分子結構被"
+"破壞時，這種能量會被釋放。"
+
+msgid ""
+"The heat and light from a campfire come from the chemical energy released "
+"when the molecules that make up the wood break apart as it burns."
+msgstr "營火的光和熱來自燃燒木頭時分子分裂或重新組合所釋放的化學能。"
+
+msgid "Radiant (Light) Energy"
+msgstr "輻射（光）能"
+
+msgid ""
+"Radiant energy, also called light energy, is a type of wave energy that "
+"includes visible colors of the rainbow and other wave energies such as X-"
+"rays and radio waves that we can't see. The Sun is our main source of "
+"radiant energy."
+msgstr ""
+"輻射能，也稱為光能，是一種能量波，其中包括看得到顏色的彩虹和其他看不到顏色的"
+"波能，如X射線和無線電。太陽是主要的輻射能源。"
+
+msgid "Solar Energy"
+msgstr "太陽能"
+
+msgid ""
+"Solar energy is the term used to describe the radiant energy that comes from "
+"the Sun."
+msgstr "太陽能是太陽輻射能的術語。"
+
+msgid "Solar energy may be collected using solar panels."
+msgstr "太陽能可以利用太陽能板收集。"
+
+msgid "Sound Energy"
+msgstr "聲能"
+
+msgid ""
+"Sound energy is the energy of vibrating matter, usually air. The vibrating "
+"matter carries energy from one molecule to the next."
+msgstr ""
+"聲能是物體(通常是空氣)的振動能量。振動物體將能量從一個分子傳到另一個分子。"
+
+msgid "Sound energy results when a guitar player plucks a guitar string."
+msgstr "吉他手撥弦時會產生聲能。"
+
+msgid "Nuclear Energy"
+msgstr "核能"
+
+msgid ""
+"Nuclear energy is the energy that holds particles in the nucleus, or core, "
+"of an atom together. Energy from the nucleus is released when the nucleus of "
+"an atom splits apart into particles or when nuclei of two atoms are forced "
+"together."
+msgstr ""
+"核能是將原子核中的超微小粒子維繫在一起的能量。原子核分裂或結合時會釋放核能。"
+
+msgid ""
+"Nuclear energy is most often used to make electricity. About 20% of the "
+"electricity used in the United States is produced from nuclear energy. "
+"Nuclear energy is also the source of energy for nuclear weapons. Because "
+"nuclear energy is so powerful, these weapons are capable of great "
+"destruction."
+msgstr ""
+"核能的應用一般是用來發電。約20％在美國使用的電力來自核能。核能也是核子武器的"
+"來源。因為核能很強大，這些武器的摧毀力很強大。"
+
+msgid "Renewable Energy"
+msgstr "可再生能源"
+
+msgid "Renewable energy is a source of energy that will not run out."
+msgstr "可再生能源是不會耗盡的能源。"
+
+msgid "Solar energy is a renewable energy, as is geothermal energy."
+msgstr "太陽能是一種可再生能源，地熱能源也是。"
+
+msgid "Nonrenewable Energy"
+msgstr "不可再生能源"
+
+msgid ""
+"Nonrenewable energy is a source of energy that will run out before being "
+"replenished. Thus, the supply of nonrenewable energy is limited."
+msgstr "「不可再生能源」是會耗盡的能源。因此，不可再生能源的供應是有限的。"
+
+msgid "Coal is an example of a nonrenewable energy."
+msgstr "煤是一種不可再生能源。"
+
+msgid "Pollute (Pollution)"
+msgstr "污染"
+
+msgid ""
+"Pollution refers to anything that people dump into water, onto the land, or "
+"into the air that can harm or poison the water, land, or air."
+msgstr "污染，是指人類排放可能傷害水源、土地或空氣的物質進入水中、土地或空氣。"
+
+msgid ""
+"Things that are found in nature are not pollution because nature can recycle "
+"its own materials."
+msgstr "一般而言，自然界中自然存在的物質較不會造成汙染，因為自然會自行回收。"
+
+msgid "Words and definitions"
+msgstr "名詞和定義"
+
+#. 13
+msgid "Checking what you now know... about energy and its forms"
+msgstr "看看你現在知道了什麼......關於「能量和形式」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6題小測驗，你會知道你已經知道什麼，還需要學習什麼。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好時，請點選下一步。"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在知道的"
+
+#. 14
+msgid "Quiz Question #1"
+msgstr "小測驗＃1"
+
+msgid ""
+"What kind of energy does the bob have as the person is holding it (as shown "
+"in the drawing)?"
+msgstr "人手中所拿的這個位置，擺錘主要具有什麼樣的能量(如圖所示)？"
+
+msgid "Kinetic"
+msgstr "動能"
+
+msgid "Radiant"
+msgstr "輻射能"
+
+msgid "Electrical"
+msgstr "電能"
+
+msgid "Potential"
+msgstr "位能"
+
+msgid "Quiz Question #1 - How did I do?"
+msgstr "小測驗＃1 - 我答的如何？"
+
+msgid ""
+"No, kinetic energy is the energy of a moving object. Potential energy is "
+"stored energy of objects not moving."
+msgstr "不，動能是運動物體的能量。位能可以儲存在靜止的物體上。"
+
+msgid "No, radiant energy is another name for light energy."
+msgstr "不，輻射能是光能的另一種說法。"
+
+msgid ""
+"Not the best answer. The position of the ball on the string gives the ball "
+"potential energy."
+msgstr "不是最佳答案喔！線上的擺錘具有位能。"
+
+msgid ""
+"Correct! Objects that are not moving can have stored energy called potential "
+"energy."
+msgstr "正確！物體不動時，也可以儲存有位能。"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗是..."
+
+#. 15
+msgid "Quiz Question #2"
+msgstr "小測驗＃2"
+
+msgid ""
+"What kind of energy does the bob have as it moves past the bottom (as shown "
+"in the drawing)?"
+msgstr "請問當擺錘通過底部時，比較明顯具有的是哪一種形式的能量（如圖所示）？"
+
+msgid "Heat"
+msgstr "熱能"
+
+msgid "Quiz Question #2 - How did I do?"
+msgstr "小測驗＃2 - 我答的如何？"
+
+msgid "Correct! Kinetic energy is the energy of a moving object."
+msgstr "正確！動能是運動物體表現出的能量。"
+
+msgid "No, kinetic energy is the energy of a moving object."
+msgstr "不對喔！動能是運動物體具有的能量。"
+
+msgid "No, objects that are not moving have potential energy."
+msgstr "不對喔！靜止的物體具有的是位能，通過底部時，會有速度，所以具有動能。"
+
+msgid ""
+"Not quite, the bob would heat the air around the bob, but the best choice is "
+"kinetic energy."
+msgstr ""
+"不完全對喔！雖然也會因為摩擦力的關係稍微使周圍發熱，但最好的答案應該選擇動"
+"能。"
+
+msgid "Swinging bobs"
+msgstr "震盪的擺錘"
+
+#. 16
+msgid "Quiz Question #3"
+msgstr "小測驗＃3"
+
+msgid ""
+"Complete the following examples of changing forms of energy by selecting the "
+"correct term from the dropdown menu."
+msgstr "從下拉選單中選擇正確能量形式，完成以下各題。"
+
+msgid "An automobile engine changes"
+msgstr "汽車引擎會將燃燒碳燃料的"
+
+msgid "energy of carbon fuels to"
+msgstr "能轉變為"
+
+msgid "electrical"
+msgstr "電"
+
+msgid "and"
+msgstr "和"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "energy."
+msgstr "能。"
+
+msgid "A tree changes"
+msgstr "樹目會將"
+
+msgid "energy to"
+msgstr "能轉變為"
+
+msgid "Hammering a nail changes"
+msgstr "錘打釘子會將"
+
+msgid "A thermonuclear reaction changes"
+msgstr "一個熱核反應會將"
+
+msgid "energy initially into"
+msgstr "能量先轉變為"
+
+msgid "An electric mixer changes"
+msgstr "電動攪拌器會將"
+
+msgid "A lamp changes"
+msgstr "一盞電燈泡會將"
+
+msgid "Quiz Question #3 - How did I do?"
+msgstr "小測驗＃3 - 我答的如何？"
+
+msgid ""
+"Good job! Energy can be changed from one form to another. These changes are "
+"happening all the time. Most machines convert one form of energy to a "
+"different one somehow. Even without machines, energy changes form. A person "
+"opening a door uses chemical energy stored in muscle tissues. When you go "
+"down a slide, your potential energy is changed into kinetic energy."
+msgstr ""
+"作的好！能量可以從一種形式轉變成另外一種形式，這些轉變隨時在發生。大多數機器"
+"能將能量轉換成另一種形式；即使不用到機器，能量也是會改變形式。人打開門的時候"
+"使用儲存在肌肉組織中的化學能；當你下坡時，你的位能轉換成動能。"
+
+msgid ""
+"Not quite. Energy can be changed from one form to another. These changes are "
+"happening all the time. Most machines convert one form of energy to a "
+"different one somehow. Even without machines, energy changes form. A person "
+"opening a door uses chemical energy stored in muscle tissues. When you go "
+"down a slide, your potential energy is changed into kinetic energy."
+msgstr ""
+"不完全對喔！能量可以從一種形式轉變成另外一種形式，這些轉變隨時在發生。大多數"
+"機器能將能量轉換成另一種形式；即使不用到機器，能量也是會改變形式。人打開門的"
+"時候使用儲存在肌肉組織中的化學能；當你下坡時，你的位能轉換成動能。"
+
+msgid "Fill in the blanks..."
+msgstr "填空..."
+
+#. 17
+msgid "Quiz Question #4"
+msgstr "小測驗＃4"
+
+msgid ""
+"Which exchange of energy best describes what happens when you eat your "
+"school lunch and then play tag at recess after lunch?"
+msgstr ""
+"請問以下四個選項中哪一個能量交換最能說明：你在學校吃完午餐，然後在下課時間跑"
+"步追逐的情形？"
+
+msgid "Food"
+msgstr "食物"
+
+msgid "Body"
+msgstr "身體"
+
+msgid "Tag"
+msgstr "跑步追逐"
+
+msgid "Light Energy"
+msgstr "光能"
+
+msgid "Quiz Question #4 - How did I do?"
+msgstr "小測驗＃4 -我答的如何？"
+
+msgid ""
+"No, the chemical energy of the food is released when we digest it and is "
+"transformed into heat energy in our bodies. Now we need energy to move "
+"around and mechanical energy (not light energy) is all the energy we have "
+"because of our motion and position."
+msgstr ""
+"不對喔！我們消化時，食物會釋放化學能並在我們體內轉換成熱能。我們需要能量活動"
+"跑步時，機械能(不是光能)就是使我們移動的能量。"
+
+msgid ""
+"No, the chemical (not kinetic) energy of the food is released when we digest "
+"it and is transformed into heat (not sound) energy in our bodies. Now we "
+"need energy to move around and mechanical energy is all the energy we have "
+"because of our motion and position."
+msgstr ""
+"不對喔！我們消化時，食物會釋放化學能(不是動能)並在我們體內轉換成熱能(不是聲"
+"能)。我們需要能量活動跑步時，機械能就是使我們移動的能量。"
+
+msgid ""
+"Correct! the chemical energy of the food is released when we digest it and "
+"is transformed into heat energy in our bodies. Now we need energy to move "
+"around and mechanical energy is all the energy we have because of our motion "
+"and position."
+msgstr ""
+"正確！我們消化時，食物會釋放化學能並在我們體內轉換成熱能。我們需要能量活動跑"
+"步時，機械能就是使我們移動的能量。"
+
+msgid ""
+"No, the chemical energy of the food is released when we digest it and is "
+"transformed into heat (not light) energy in our bodies. Now we need energy "
+"to move around and mechanical energy (not sound) is all the energy we have "
+"because of our motion and position."
+msgstr ""
+"不對喔！我們消化時，食物會釋放化學能並在我們體內轉換成熱能(不是光能)。我們需"
+"要能量活動跑步時，機械能(不是聲能)就是使我們移動的能量。"
+
+msgid "Recess time!"
+msgstr "下課了！"
+
+#. 18
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid ""
+"Click on <span class='blink'>all</span> the images that are <span "
+"class='blink'>true</span>:"
+msgstr "點擊<span class='blink'>所有</span>正確的圖片與說明："
+
+msgid "Windmill"
+msgstr "風車"
+
+msgid ""
+"All sources of energy are important because we can change one form to "
+"another."
+msgstr "所有能源都是重要的，因為我們可以改變能源的形式。"
+
+msgid "Woods"
+msgstr "木材"
+
+msgid ""
+"Fossil fuels get their energy from plants and animals that died a long time "
+"ago."
+msgstr "化石燃料是由很久以前死亡腐爛的植物和動物中得到能量的。"
+
+msgid "Solar Panels"
+msgstr "太陽能板"
+
+msgid ""
+"The law of conservation of energy states that no energy can be created or "
+"destroyed."
+msgstr "能量守恆定律指出，沒有能量可以被創造或毀滅。"
+
+msgid "Vultures"
+msgstr "禿鷹"
+
+msgid ""
+"Fossil fuels are considered renewable because plants and animals continue to "
+"die."
+msgstr "化石燃料被認為是「可再生能源」，因為植物和動物繼續死亡。"
+
+msgid "Quiz Question #5 - How did I do?"
+msgstr "小測驗＃5 -我答的如何？"
+
+msgid ""
+"Good job! We can transfer energy into different forms based on what we need. "
+"Fossil fuels are from decayed remains, which we transform into electrical "
+"energy. Energy is only transferred from one form to another, not created or "
+"destroyed. Fossil fuels are not considered renewable because even though "
+"plants and animals continue to die, it would take millions of years for the "
+"fuel to be formed."
+msgstr ""
+"答的好！我們可以將能源轉換成我們需要的形式。化石燃料來自腐爛的遺體，我們可以"
+"將化石燃料的能量轉變成電能。能量只從一種形式轉換成另一種形式，無法被創造或毀"
+"滅。化石燃料不被視為可再生能源，因為即使植物和動物繼續死亡，也需要數百萬年形"
+"成燃料。"
+
+msgid ""
+"Not quite. Fossil fuels are not considered renewable because even though "
+"plants and animals continue to die, it would take millions of years for the "
+"fuel to be formed. We can transfer energy into different forms based on what "
+"we need. Fossil fuels are from decayed remains, which we transform into "
+"electrical energy. Energy is only transferred from one form to another, not "
+"created or destroyed."
+msgstr ""
+"不完全對喔！化石燃料不被視為可再生能源，因為即使植物和動物繼續死亡，也需要數"
+"百萬年才能再形成燃料。我們可以將能源轉換成我們需要的形式。化石燃料來自腐爛的"
+"遺體，我們可以將化石燃料的能量轉變成電能。能量只從一種形式轉換成另一種形式，"
+"無法被創造或毀滅。"
+
+msgid "Energy sources"
+msgstr "能源"
+
+#. 19
+msgid "Quiz Question #6"
+msgstr "小測驗＃6"
+
+msgid ""
+"Which of the following best describes the energy transformations involved in "
+"walking to the cafeteria for lunch, eating lunch, and walking back to class?"
+msgstr "下列何者最能描述：走去餐廳、吃午餐、再走回教室的能量轉換？"
+
+msgid "Quiz Question #6 - How did I do?"
+msgstr "小測驗＃6 - 我答的如何？"
+
+msgid "Nope! What is the source of energy of the mechanical energy?"
+msgstr "不對喔！請你想一下，機械能的能量來源為何？"
+
+msgid ""
+"Not quite. Food provides the chemical energy to enable you to walk to the "
+"cafeteria and the energy to walk back to class, but what energy is produced "
+"in all energy changes?"
+msgstr ""
+"不完全對喔！食物提供化學能，讓你有能量走路去餐廳和走回來上課。但，請你再想一"
+"想，能源轉換中還會產生何種能源呢？"
+
+msgid ""
+"Correct! Food provides the chemical energy to enable you to walk to the "
+"cafeteria and the energy to walk back to class and with every change of "
+"energy heat is also produced."
+msgstr ""
+"正確！食物提供化學能，讓你有能量走路去餐廳和走回來上課，每次能量轉換都產生熱"
+"能。"
+
+msgid "Riding the school bus..."
+msgstr "乘坐校車..."
+
+#. 20
+msgid "Congratulations"
+msgstr "恭喜您"
+
+msgid "You've completed the Energy and its Forms review."
+msgstr "你已經完成了「能源和它的形式」單元。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點選下面的按鈕看你在\"小練習\"和\"小測驗\"的表現。"
+
+msgid "How Did I Do?"
+msgstr "我的表現如何呢？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid ""
+"Food and gasoline fuel people and transportation vehicles. Without them, "
+"people or cars could not run. Food provides the energy that you need to live "
+"and gasoline is one form of energy that a car needs to move. Both can be "
+"traced back to the energy from the sun."
+msgstr ""
+"食物和汽油提供能量給人類與交通車輛。沒有它們，人或車輛都無法運作。 食物提供你"
+"生活需要的能量；汽油則是另外一種能量的形式，可提供汽車運行需要的能量。這兩種"
+"能量的源頭，都能追溯到是來自太陽。"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid ""
+"It involves atoms splitting apart or atoms combining together to become a "
+"new element."
+msgstr "它涉及原子的分裂或者原子的結合，會形成新的元素。"
+
+msgid ""
+"Nuclear energy has been used as one of the energies to make electricity."
+msgstr "核能，也是一種被用來發電的能量。"
+
+msgid ""
+"Chemical energy is the energy change when substance(s) undergoes a chemical "
+"reaction and turn into different chemical substance(s). The heat and light "
+"from a campfire come from the chemical energy of the wood. The energy "
+"releases when the molecules that make up the wood break apart and recombine "
+"with molecules of other substance(s) as it burns."
+msgstr ""
+"化學能，指的是當物質發生化學反應並生成不同化學物質時所產生的能量。營火的熱和"
+"光就是來自木材的化學能；這些化學能是由構成木材的分子在燃燒過程中，受到破懷並"
+"和其他物質的分子重新組合，所產生的能量。"
+
+msgid ""
+"Nuclear energy is yet another form of energy. It involves splitting apart or "
+"atoms combining together to become a new element. Nuclear energy, like other "
+"energies, is used to make electricity to heat and light our homes and "
+"businesses"
+msgstr ""
+"核能是能量的另一種形式。核能的產生是由於原子的分裂或者原子的結合，而形成新的"
+"元素。核能，像其他的能量一樣，常用來產生熱能並發電，以溫暖或照亮我們的家或商"
+"店"
+
+msgid ""
+"Correct! The chemical energy of the food is released when we digest it and "
+"is transformed into energy to heat and move our bodies. Now we need energy "
+"to move around and mechanical energy is all the energy we have because of "
+"our motion and position."
+msgstr ""
+"正確！我們消化時，食物會釋放化學能並在我們體內轉換成熱能。我們需要能量活動跑"
+"步時，機械能就是使我們移動的能量。"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"

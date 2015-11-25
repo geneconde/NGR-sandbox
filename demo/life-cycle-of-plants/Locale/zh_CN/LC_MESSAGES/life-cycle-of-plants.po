@@ -1,0 +1,1229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Life Cycle of Plants\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-31 16:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+msgid "Please type your answer below"
+msgstr "請在下方輸入你答案"
+
+#. 1
+msgid "Life Cycle of Plants"
+msgstr "植物的生命週期"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "開始囉！"
+
+msgid "Welcome to the Life Cycle of Plants review, "
+msgstr "歡迎您來到「植物的生命週期」單元！"
+
+#. 2
+msgid "Are you ready, "
+msgstr "我們準備開始囉..."
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "wait for it... wait for it..."
+msgstr "請稍候... 一下下..."
+
+msgid "Next part coming up!"
+msgstr "接下來的部分來了！"
+
+msgid "Thinking about... the life cycle of plants"
+msgstr "想一想，關於... 植物的生命週期"
+
+msgid ""
+"Plants are amazing! In California, there are giant redwood trees. These "
+"trees can grow over 300 feet tall. But interestingly, the seeds from these "
+"humongous trees are quite small. Do you ever wonder how a tree that large "
+"can develop from such a small seed? Let’s review some ideas about the life "
+"plants have!"
+msgstr ""
+"植物真是太神奇了！在加州，有巨大的紅杉樹。這些樹可以長超過300英呎高。但有趣的"
+"是，這些巨大樹木的種子非常小。你有想過這麼巨大的樹木怎麼從這麼小的種子成長"
+"嗎？讓我們回顧一下植物的生活！"
+
+#. 3
+msgid "Checking what you know... about the life cycle of plants"
+msgstr "看看你了解了多少…關於「植物的生命週期」"
+
+msgid ""
+"What do you already know about plants? Match the parts of the plant by "
+"dragging the correct term up or down."
+msgstr ""
+"對於植物，你已經知道哪些呢？請上下拖動這些名詞，以配對到植物的各個部分。"
+
+msgid "Leaves"
+msgstr "葉子"
+
+msgid "Roots"
+msgstr "根"
+
+msgid "Seed"
+msgstr "種子"
+
+msgid "Fruit"
+msgstr "果實"
+
+msgid ""
+"The first part of the plant shown here is the Leaf, Fruit, Flower, Stem, and "
+"last are the Roots. These are the main parts of a plant with seeds."
+msgstr ""
+"這裡顯示植物的第一部分是葉，果實，花，莖，種子，最後是根。這些是種子植物的主"
+"要部分。"
+
+#. 4
+msgid "Reviewing core ideas... about the life cycle of plants"
+msgstr "回顧核心觀念... 植物的生命週期"
+
+msgid "Click on the checkboxes to view more information on each item."
+msgstr "你可點擊橢圓形白鈕，以查看每個項目的更多的信息。"
+
+msgid "All plants go through a life cycle"
+msgstr "所有的植物都會經過一個生命週期"
+
+msgid "Many plants start out as a small <span class='key'>seed</span>."
+msgstr "許多植物開始是一粒小<span class='key'>種子</span>。"
+
+msgid "When the seed is planted in the ground"
+msgstr "當種子被種在土裡"
+
+msgid ""
+"it <span class='key'>sprouts</span> into a young <span class='key'>seedling</"
+"span> through the process of <span class='key'>germination</span>."
+msgstr ""
+"它<span class='key'>發芽</span>成<span class='key'>小苗</span>。這過程叫"
+"<span class='key'>發芽</span>。"
+
+msgid "Seedlings"
+msgstr "苗"
+
+msgid ""
+"have a small <span class='key'>root</span> that is used to suck up water "
+"from the ground."
+msgstr "有細小的<span class='key'>根</span>以吸收土壤中的水。"
+
+msgid "<span class='key'>Stem</span>"
+msgstr "<span class='key'>莖</span>"
+
+msgid "Stem"
+msgstr "莖"
+
+msgid "stem"
+msgstr "莖"
+
+msgid "is the body of the plant."
+msgstr "是植物的身體。"
+
+msgid "Seedlings also have small <span class='key'>leaves</span>"
+msgstr "幼苗也有<span class='key'>小葉子</span>"
+
+msgid ""
+"that are used to get energy from the sun. The seedling continues to grow "
+"until it becomes a mature plant."
+msgstr "用來吸收太陽的能量。幼苗繼續生長，直到它成為一個成熟的植物。"
+
+msgid ""
+"Seedlings also have small leaves that are used to get energy from the sun. "
+"The seedling continues to grow until it becomes a mature plant."
+msgstr ""
+"苗也有小葉子，用來吸收太陽的能量。幼苗繼續生長，直到它成為一個成熟植物。"
+
+msgid "Some fully grown plants make flowers."
+msgstr "有些充分生長的植物會開花。"
+
+msgid ""
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr "花是植物用來產生更多的種子繼續生命週期。"
+
+#. 5
+msgid ""
+"Question A. What is <span class='red blink'>NOT</span> required for a seed "
+"to begin to grow?"
+msgstr ""
+"問題A.下列何者是種子生長過程中，<span class='red blink'>並不需要的</span>？"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow?"
+msgstr "問題A. 下列何者是種子生長過程中<span class='red'>並不需要的</span>？"
+
+msgid "Stored Water"
+msgstr "水份"
+
+msgid "Stored water"
+msgstr "水份"
+
+msgid "Sunlight"
+msgstr "陽光"
+
+msgid "sunlight"
+msgstr "陽光"
+
+msgid "Stored food"
+msgstr "儲存的養分"
+
+msgid "Appropriate temperature"
+msgstr "適宜的溫度"
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they won’t grow, too much and they will rot."
+msgstr ""
+"不對喔！種子需要一定的水分和濕度才能生長。太少的水分，它們將不會成長；不過太"
+"多，它們也可能會腐爛。"
+
+msgid ""
+"Question B. Which part does a seedling <span class='red'>NOT</span> have?"
+msgstr "問題B 請問幼苗<span class='red'>沒有</span>哪些部分呢？(單選)"
+
+msgid ""
+"Question B. Which part does a seedling <span class='red blink'>NOT</span> "
+"have?"
+msgstr "問題B. 請問幼苗<span class='red blink'>沒有</span>下列的哪一個部分呢？"
+
+msgid "roots"
+msgstr "根"
+
+msgid "flowers"
+msgstr "花"
+
+msgid "Flowers"
+msgstr "花"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow"
+msgstr "問題A.種子<span class='red'>不需要</span>什麼開始生長？"
+
+msgid "You answered"
+msgstr "你回答"
+
+msgid ""
+"Correct! Not all seeds need sunlight to grow. When the seedling gets to the "
+"surface, it can begin to make its own food through photosynthesis."
+msgstr ""
+"正確！不是所有種子都需要陽光生長。當幼苗露出地面時，它才開始透過光合作用製造"
+"養分。"
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they wonÃÂ¢ÃÂÃÂt grow, too much and they will rot."
+msgstr ""
+"不，種子需要一定的水分和濕度生長。太少的水分它們不會生長，太多水，它們會腐"
+"爛。"
+
+msgid ""
+"No, seeds need stored food to power the seedling to grow through inches of "
+"soil."
+msgstr "不，種子需儲存能量讓幼苗木能長出數英吋的土壤。"
+
+msgid ""
+"No, seeds need the correct soil temperature to grow. For example, a tropical "
+"seed might not grow in cool temperatures."
+msgstr "不，種子需要有正確的土壤溫度成長。例如，熱帶種子可能不能在低溫生長。"
+
+msgid ""
+"Correct! A seedling does not have a flower. The flower is the part of a "
+"flowering plant that makes seeds."
+msgstr "正確！幼苗還沒有花。花是開花植物製造種子的一部分。"
+
+msgid "No, a seedling does have roots."
+msgstr "不，幼苗確實有根。"
+
+msgid "No, a seedling does have a stem."
+msgstr "不，幼苗確實有莖。"
+
+msgid "No, a seedling does have leaves."
+msgstr "不，幼苗確實有葉子。"
+
+#. 6
+msgid "More core ideas... about the life cycle of plants"
+msgstr "更多的核心觀念... 關於「植物的生命週期」！"
+
+msgid "Flowers have many parts needed to make more seeds."
+msgstr "花由許多構造組成，以製造種子。"
+
+msgid ""
+"The outer parts of a flower are the petals. We notice the <span "
+"class='key'>petals</span> because they are usually colorful."
+msgstr ""
+"花的外部是花瓣。我們很容易注意到<span class='key'>花瓣</span> 因為它們通常顏"
+"色鮮豔。"
+
+msgid "Inside the petal are"
+msgstr "花瓣裡面有"
+
+msgid ""
+"several things that look like little sticks with a yellow top. These are "
+"called <span class='key'>stamen</span> and they contain pollen.<span "
+"class='key'> Pollen</span> is used to make more seeds."
+msgstr ""
+"看起來像有黃色頂部的小棒子。這些被稱為<span class='key'>雄蕊</span>，它們含有"
+"花粉。<span class='key'>花粉</span>可用來產生更多種子。"
+
+msgid "In the center of the flower"
+msgstr "在花的中心"
+
+msgid "is the <span class='key'>pistil</span>."
+msgstr "是<span class='key'>雌蕊</span>。"
+
+msgid "The top part of the stamen"
+msgstr "雄蕊的頂部"
+
+msgid "is the anther. It makes<span class='key'> pollen</span>."
+msgstr "是花藥。它製造<span class='key'>花粉</span>。"
+
+msgid "guess what's next!"
+msgstr "猜猜接下來是什麼！"
+
+msgid "more core ideas about plants!"
+msgstr "更多的核心觀念... 關於「植物」！"
+
+msgid "Select here"
+msgstr "請在此選擇"
+
+msgid "To make a seed"
+msgstr "要製造種子"
+
+msgid ""
+"<span class='key'> pollen</span> has to find its way to a pistil and travel "
+"down to reach the egg. This is called <span class='key'>pollination</span>."
+msgstr ""
+"<span class='key'>花粉</span>必須找到方法傳送到雌蕊的柱頭並繼續往下進入接觸到"
+"卵子。這就是所謂的<span class='key'>授粉</span>。"
+
+#. 7
+msgid ""
+"Correct. The anther is part of the stamen, which makes pollen. Pollen has to "
+"find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"正確。雄蕊上方是「花藥」，下方以「花絲」支撐。花藥就是雄蕊頂端製造花粉的部"
+"分。花粉必須找到方法傳播到雌蕊上的柱頭並往下進入接觸卵子，這就是所謂的授粉。"
+
+msgid ""
+"Not quite. The anther is part of the stamen, which makes pollen. Pollen has "
+"to find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"不完全是。花藥是位於雄蕊頂端製造花粉的部分。花粉必須找到方法傳播到雌蕊上的柱"
+"頭並往下進入接觸卵子，這就是所謂的授粉。"
+
+msgid ""
+"No, a seed grows and sprouts into a seedling through the process of "
+"germination. Pollination is when pollen is transferred to the egg to "
+"eventually form a seed."
+msgstr "不，種子經過發芽的過程長長幼苗。授粉是花粉被轉移到卵子最終形成種子。"
+
+msgid ""
+"Correct. Pollination is when pollen is transferred to the egg to eventually "
+"form a seed."
+msgstr "正確。「授粉」是花粉被轉移到卵子，最終形成種子。"
+
+msgid ""
+"No. Pollination is when pollen is transferred to the egg to eventually form "
+"a seed."
+msgstr "不。授粉是花粉被轉移到卵子最終形成種子。"
+
+msgid "Question A. Select the best answer from the drop down list."
+msgstr "問題A. 從下拉列表中，選擇最佳答案。"
+
+msgid "The <span class='key'>anther</span> is part of the"
+msgstr "<span class='key'>花藥</span>是什麼的一部分"
+
+msgid "stamen"
+msgstr "雄蕊"
+
+msgid "petal"
+msgstr "花瓣"
+
+msgid "pollination"
+msgstr "授粉"
+
+msgid "The anther's function is to produce"
+msgstr "花藥的功能是產生"
+
+msgid "The anther is part of the"
+msgstr "花藥是什麼的一部分"
+
+msgid ""
+"Question B. To make a seed, pollen has to find its way to a pistil and "
+"travel down to reach the egg. What is this process called?"
+msgstr ""
+"問題B. 為了要製造種子，花粉必須找到方法傳播到雌蕊上的柱頭並往下進入並接觸卵"
+"子。請問這個過程叫什麼？"
+
+msgid "Germination"
+msgstr "發芽"
+
+msgid "germination"
+msgstr "發芽"
+
+msgid "Pollination"
+msgstr "授粉"
+
+msgid "Both of the above"
+msgstr "以上皆是"
+
+msgid "Neither of the above"
+msgstr "以上皆非"
+
+#. 8
+msgid ""
+"Plants have different ways to attract their pollinators. For example, many "
+"flowers have brightly-colored petals and give off attractive aromas, while "
+"others produce <span class='key'>nectar</span>, a food for some insects."
+msgstr ""
+"植物有不同的方式來吸引他們的授粉者。例如，許多花有鮮豔的花瓣，散發出吸引人的"
+"香味，而有些花能產生花蜜，是某些昆蟲的食物。"
+
+msgid ""
+"<span class='key'>Pollinators</span> love to drink the sweet nectar at the "
+"base of the pistil and go from flower to flower to get more. This way, the "
+"insect gets something to eat and the plant is able to make seeds."
+msgstr ""
+"授粉者喜歡在雌蕊底部喝甘甜的花蜜，並在花叢間穿梭吸取更多花蜜。這樣一來，昆蟲"
+"可以吃到東西而植物能夠夠製造種子。"
+
+msgid ""
+"Some plants use the wind to spread their pollen. Think of a dandelion being "
+"blown by the wind."
+msgstr "有些植物利用風來傳播他們的花粉。想一想... 一個被風吹的蒲公英。"
+
+msgid ""
+"Plants differ on how they produce their offspring. Having seeds is one of "
+"the five ways plants reproduce."
+msgstr "植物有不同產生後代的方法。製造種子是五種植物繁殖方法之一。"
+
+msgid ""
+"Some plants have fruit with tiny little hooks that catch on passing animals. "
+"The fruit with seeds inside it gets carried to a distant place the animal "
+"goes."
+msgstr ""
+"有些植物的果實上有小勾子能附著在經過的動物身上。有籽的果實就可以隨著動物散播"
+"到遙遠的地方。"
+
+msgid ""
+"However the seeds get dispersed (spread over different places), they will "
+"begin to grow and continue the cycle of life."
+msgstr "不論種子如何散播（分佈在不同的地方），它們將開始生長並繼續生命的週期。"
+
+msgid "Click on each item below to view examples of flowering plants."
+msgstr "點擊下面的每個項目，來檢視開花植物的例子。"
+
+msgid "Pine and Spruce Trees"
+msgstr "松樹和雲杉樹"
+
+msgid ""
+"The pine and spruce trees are examples of flowering plants that reproduce "
+"using seeds. The cones harbor the tree's seeds."
+msgstr "松樹和雲杉樹是開花植物中，用種子繁殖的例子。毬果裡有樹的種子。"
+
+msgid "Coconuts"
+msgstr "椰子"
+
+msgid ""
+"The large seeds of palm trees are perhaps the ultimate example of a durable "
+"seed, as they can reach locations miles away by floating in water, even "
+"through the ocean."
+msgstr ""
+"椰子是棕櫚樹的大種子，它也許是耐久種子的終極例子，因為它們可以漂流到達數英哩"
+"遠的地點，甚至還能飄洋過海。"
+
+msgid "Acorns and Walnuts"
+msgstr "橡樹子和核桃"
+
+msgid ""
+"Acorns and walnuts are large seeds that are able to endure harsh conditions "
+"and be planted far away from their parent tree."
+msgstr "橡樹子和核桃是大種子，能夠忍受惡劣的條件並種植在離母株遙遠的地方。"
+
+msgid "Pollen"
+msgstr "花粉"
+
+msgid ""
+"Pollen is also considered a seed, which is transferred by a pollinator to "
+"the same (<span class='key'>self-pollination</span>) or a different plant "
+"(<span class='key'>cross-pollination</span>) in order to reproduce."
+msgstr "花粉由授粉者傳播到相同（自花授粉）或不同的花上（異花授粉），進行繁殖。"
+
+#. 9
+msgid ""
+"No, not all plants have seeds. There are four other ways for plants to "
+"reproduce."
+msgstr "不，不是所有的植物都有種子。植物還有其他四種方法進行繁殖。"
+
+msgid "All plants have seeds and reproduce this way."
+msgstr "所有的植物都有種子並用這個方法繁殖。"
+
+msgid ""
+"Correct. Acorns, walnuts, and coconuts are large seeds that are able to "
+"endure adverse conditions and be planted far away from their parent tree."
+msgstr ""
+"正確。橡子，核桃，和椰子的大種子能夠忍受不利條件並在離母株遙遠的地方生長。"
+
+msgid "Acorns, walnuts and coconuts are all large seeds."
+msgstr "橡子，核桃和椰子都是大種子。"
+
+msgid ""
+"No, cross-pollination is when a pollinator moves pollen to a different plant."
+msgstr "不，異花授粉是授粉者將花粉傳遞到不同的植物。"
+
+msgid "Cross-pollination is when a pollinator moves pollen to the same plant."
+msgstr "異花授粉是當授粉者將花粉傳遞到同一種植物。"
+
+msgid ""
+"No, not all seeds need to be planted nearby the parent plant. Coconuts (the "
+"large seeds of palm trees) can reach and be planted miles away."
+msgstr ""
+"不，不是所有種子都要種植在母株附近。椰子（棕櫚樹的大粒種子）可以到達並種植在"
+"數英哩遠的地方。"
+
+msgid "Seeds need to be planted nearby the parent plant."
+msgstr "種子需要種植在母株附近。"
+
+msgid ""
+"No, some seeds may fall to the ground near the plant, but this is not the "
+"primary way for the seeds to spread."
+msgstr "不，有些種子可能落到靠近植物的地面，但這不是種子傳播的主要方式。"
+
+msgid "By the plant falling and dying."
+msgstr "藉由植物的落下和死亡。"
+
+msgid ""
+"No, some seeds may be knocked to the ground when it rains, but this is not "
+"the primary way for the seeds to spread."
+msgstr "不，有些種子可能因下雨而被吹落到地上，但這不是種子傳播的主要方式。"
+
+msgid "By water when it rains."
+msgstr "藉由下雨時雨水的流動傳播。"
+
+msgid ""
+"Correct, most of the dandelion seeds are spread by a wind or breeze, or "
+"sometimes by people who blow on the dandelion."
+msgstr ""
+"正確，大部分蒲公英的種子由風或微風散播。我們有時候會向蒲公英吹氣，這也是在幫"
+"忙它散播種子。"
+
+msgid "By wind when it blows."
+msgstr "藉由風吹來傳播。"
+
+msgid ""
+"No, an animal may occasionally eat a dandelion and spread its seeds, but "
+"very few dandelion seeds are spread this way."
+msgstr ""
+"不，動物可能會偶爾吃蒲公英，傳播它的種子，但很少有蒲公英的種子透過這種方式傳"
+"播。"
+
+msgid "By animals when they eat the flower."
+msgstr "藉由動物吃花，來傳播。"
+
+msgid "Question A. Which of these statements is true"
+msgstr "問題A. 下列哪一個敘述為真？"
+
+msgid "Question B. How are dandelion seeds primarily dispersed"
+msgstr "問題B. 蒲公英的種子主要如何散播呢？"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "翻轉右方的方盒子，以選擇你的答案。"
+
+msgid "Click the box, then hold, and slide mouse up or down"
+msgstr "單擊此框，然後按住並上下滑動游標"
+
+#. 10
+msgid ""
+"Using what you know... about the life cycle of plants... to solve a problem"
+msgstr "活用所學…關於「植物的生命週期」... 解答問題"
+
+msgid "The Problem"
+msgstr "我們面臨的問題"
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"pollinate the flowers for us to get almost a third of our food. The problem "
+"is that the honeybees are decreasing in population. No one is exactly sure "
+"why, but the honeybee colonies are in trouble and recently almost 25% of "
+"them have been lost. You have been called in to advise the department of "
+"agriculture on the problem."
+msgstr ""
+"在北美洲的種植季節，農民依靠蜜蜂授粉所獲得的食物，約近三分之一。我們面臨的問"
+"題是蜜蜂數量在減少當中。沒有人確切知道為什麼，但蜂群確實碰到了麻煩，最近，幾"
+"乎失去25％的蜜蜂。農業主管部門請你針對這個問題，提供一些你的看法。"
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"pollinate the flowers for us to get almost a third of our food."
+msgstr "在北美洲的種植季節，農民依靠蜜蜂授粉所獲得的食物，約近三分之一。"
+
+msgid ""
+"The problem is that the honeybees are decreasing in population. No one is "
+"exactly sure why, but the honeybee colonies are in trouble and recently "
+"almost 25% of them have been lost. You have been called in to advise the "
+"department of agriculture on the problem."
+msgstr ""
+"我們面臨的問題是蜜蜂數量在減少當中。沒有人確切知道為什麼，但蜂群確實碰到了麻"
+"煩，最近，幾乎失去25％的蜜蜂。農業主管部門請你針對這個問題，提供一些你的看"
+"法。"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Please type your answer below."
+msgstr "請輸入您的答案。"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid ""
+"Using what you know about plants and what you can research about honeybees, "
+"what are some things you would advise the department to consider to ensure "
+"that the plants get pollinated? Key in your possible solutions in the "
+"textbox below."
+msgstr ""
+"用你所知道關於植物以及可以找到和蜜蜂有關的資料，你會如何建議農業部去思考哪些"
+"事情，以確保植物得到授粉？請在以下欄位輸入你的答案。"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案…"
+
+#. 11
+msgid "Summarizing core ideas... about the life cycle of plants"
+msgstr "總結核心觀念... 關於植物的生命週期"
+
+msgid ""
+"The <span class='key'>life cycle</span> of a plant goes through several "
+"stages. The plant starts off as a <span class='key'>seed</span>. When the "
+"seed sprouts into a <span class='key'>seedling</span> through <span "
+"class='key'>germination</span>, it grows into a fully grown plant that is "
+"capable of producing seeds. The next stage of the life cycle is to produce "
+"seeds. Flowering plants have special parts to make <span class='key'>pollen</"
+"span>, attract <span class='key'>pollinators</span> and to grow the seeds. "
+"The newly created seed, given the right conditions, will germinate and turn "
+"into a plant, starting the plant life cycle over again."
+msgstr ""
+"植物的生命週期經歷幾個階段。很多植物一開始是一粒<span class='key'>種子</"
+"span>。當種子透過<span class='key'>發芽</span>成為<span class='key'>幼苗</"
+"span>，它逐漸長成一個完全成熟的植物，而具有產生種子的能力。生命週期的下一階段"
+"是開始產生種子，這步驟中，開花植物有特殊的部位製造<span class='key'>花粉</"
+"span>，吸引<span class='key'>授粉者</span>並長成種子。新生的種子，有合適的環"
+"境，會發芽變成植物，重新開始植物的生命週期。"
+
+#. 12
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Reviewing key vocabulary related to... the life cycle of plants"
+msgstr "複習重要詞彙... 植物的生命週期"
+
+msgid "life cycle"
+msgstr "生命週期"
+
+msgid ""
+"The life cycle of an organism is all of the changes it undergoes from birth "
+"to reproduction to death. This life cycle is repeated generation after "
+"generation."
+msgstr "一個生物體的生命週期是從出生到繁殖到死亡的變化。這個生命週期世代重複。"
+
+msgid "seed"
+msgstr "種子"
+
+msgid ""
+"Many plants start out as a small seed. When the seed is planted in the "
+"ground, it sprouts into a young seedling through the process of germination. "
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr ""
+"許多植物一開始是一粒小種子。當種子種在土裡，發芽成幼苗。植物利用花來產生更多"
+"的種子繼續生命週期。"
+
+msgid "sprout"
+msgstr "發芽"
+
+msgid ""
+"A sprout is when the seed changes into a seedling through germination. "
+"Through sprouting, the seedling then grows into a fully grown plant that is "
+"capable of producing seeds."
+msgstr ""
+"發芽是種子發芽成幼苗的過程。透過發芽，幼苗再長成一個完全長成的植物，能夠產生"
+"種子。"
+
+msgid "seedling"
+msgstr "幼苗"
+
+msgid ""
+"Seedlings are seeds that have sprouted. Seedlings have a small root that is "
+"used to suck up water from the ground and a stem that is the body of the "
+"plant. Seedlings also have small leaves that are used to get energy from the "
+"sun. The seedling continues to grow until it becomes a mature plant."
+msgstr ""
+"幼苗是已經發芽的種子。幼苗具有小的根，用來從土壤中吸取水分，而莖是植物的主"
+"體。幼苗也有小葉，用來吸收太陽能量。幼苗繼續生長，直到它成為一個成熟的植物。"
+
+msgid ""
+"When the seed is planted in the ground, it sprouts into a young seedling "
+"through the process of germination."
+msgstr "當種子被種在地上，它透過發芽的過程長成幼苗。"
+
+msgid "root"
+msgstr "根"
+
+msgid ""
+"A root is the part of a plant that helps it get water and food from the "
+"ground. Roots have no leaves or flowers on them. Roots are usually "
+"underground, but not always. You can see in the photograph that this "
+"mangrove tree's roots are visible above ground. Roots that are underground "
+"help hold a plant in the ground. Your teeth also have roots. They hold your "
+"teeth in your gums."
+msgstr ""
+"根是植物的一部分，幫助它從土壤獲得水分和養分。根沒有葉子或花。根通常在地底，"
+"但並非總是如此。您可以從圖上看到這紅樹林的根長在地上的。地底的根幫助植物抓住"
+"地面。你的牙齒也有根，抓住牙齦。"
+
+msgid ""
+"Seedlings have a small root that is used to suck up water from the ground "
+"and a stem that is the body of the plant. The main parts of the stem are the "
+"nodes, internodes, the petioles, and the leaves."
+msgstr ""
+"幼苗具有小的根，用來從地面吸取水分，而莖是植物的主體。莖的主要部分是節點，節"
+"間，葉柄，葉。"
+
+msgid "leaves"
+msgstr "葉子"
+
+msgid ""
+"Leaves are the part of the plant that absorb sunlight as the fuel for the "
+"process of photosynthesis. Seedlings also have small leaves that are used to "
+"get energy from the sun."
+msgstr ""
+"葉子是植物用來吸收太陽光進行光合作用的一部分。幼苗也有小葉，用來吸收太陽能"
+"量。"
+
+msgid ""
+"Flowers have many parts needed to make more seeds. The outer parts of a "
+"flower are the petals. We notice the petals because they are usually "
+"colorful. Inside the petal are several things that look like little sticks "
+"with a yellow top, which are the stamen, containing pollen."
+msgstr ""
+"花由許多部分產生種子的構造所構成。花的外部是花瓣。我們很容易注意到花瓣，因為"
+"它們通常顏色鮮豔。花瓣裡面有看起來像有黃色頂部的小棒子。這些被稱為雄蕊，含有"
+"花粉。"
+
+msgid ""
+"Inside the petal of a flower are several things that look like little sticks "
+"with a yellow top. These are called stamen and they contain pollen. The "
+"stamen is the male part of a flower."
+msgstr ""
+"花瓣裡面有看起來像有黃色頂部的小棒子。這些被稱為雄蕊，含有花粉。雄蕊是花的雄"
+"性部分。"
+
+msgid "pollen"
+msgstr "花粉"
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants. Insects such as bees and butterflies go to "
+"flowers to eat. While they eat, some of the flower's pollen sticks to them. "
+"When one insect goes to another flower, it takes the pollen with it. Some of "
+"the first flower's pollen rubs off onto the second flower. That helps the "
+"second flower grow seeds. Look at the bee in this photograph. Can you see "
+"the pollen?"
+msgstr ""
+"花粉是開花植物裡的黃色粉末。花粉幫助植物製造更多的植物。蜜蜂和蝴蝶等昆蟲瑞去"
+"吃花，它們吃花時，有些花粉會落在牠們身上。當昆蟲進入另一朵花時，一些第一朵花"
+"的花粉就落到第二朵花內。這有助於第二多花製造種子。看這張圖裡的蜜蜂。你可以看"
+"到花粉嗎？"
+
+msgid "pistil"
+msgstr "雌蕊"
+
+msgid ""
+"A pistil is the female part of a flower. It is located inside the flower and "
+"helps produce seeds. The pistil is very important because it helps plants to "
+"make more plants. Butterflies and bees can help plants by bringing pollen "
+"from one flower to another. If the pollen gets on the pistil of a flower, it "
+"can make seeds or even turn into a fruit. Some flowers have just one pistil, "
+"while others have many. Above is a photograph of a hibiscus pistil."
+msgstr ""
+"雌蕊是花的雌性部分。它位於在花裡面，並有助於產生種子。雌蕊由上到下一般包括，"
+"「柱頭」、「花柱」、「子房」；其中子房中還有「卵」。雌蕊是非常重要的，因為它"
+"幫助製造更多植物。蝴蝶和蜜蜂可以透過在花叢間穿梭幫助植物。當花粉沾到雌蕊上的"
+"柱頭就會經過花柱進入子房並和卵接觸，形成種子，甚至變成果實。有些花只有一個雌"
+"蕊；有些有很多雌蕊。以上是扶桑花雌蕊的照片。"
+
+msgid "pollinate"
+msgstr "授粉"
+
+msgid ""
+"To pollinate is to transfer pollen between flowers in plant reproduction. "
+"Birds and bees pollinate many different plants."
+msgstr "「授粉」是在花叢間傳遞花粉繁殖植物。鳥兒和蜜蜂能為許多不同植物授粉。"
+
+msgid "pollinator"
+msgstr "授粉者"
+
+msgid ""
+"A pollinator is a living thing that moves pollen from one plant to another "
+"plant. Pollen is needed by some plants to make seeds and fruits. Bees, "
+"butterflies, and bats can act as pollinators. They fly from one plant to "
+"another and transfer pollen as they do. Many pollinators are animals that "
+"transfer pollen on their hair or fur. If there were no pollinators, there "
+"would be a lot less seeds and fruit in the world."
+msgstr ""
+"「授粉者」是將花粉從一棵植物帶到另一棵植物的生物。有些植物需要花粉來製造種子"
+"和果實。蜜蜂，蝴蝶和蝙蝠都是授粉者。它們在植物間穿梭飛行授粉。許多傳粉者是動"
+"物，透過毛髮或皮毛傳遞花粉。如果沒有授粉，世界就少了很多種子和果實。"
+
+msgid "nectar"
+msgstr "花蜜"
+
+msgid ""
+"Many flowers produce nectar, a food for some insects. Pollinators love to "
+"drink the sweet nectar at the base of the pistil and go from flower to "
+"flower to get more."
+msgstr ""
+"許多花產生花蜜，那是某些昆蟲的食物。授粉者喜歡喝位在雌蕊底部的甘甜花蜜，並在"
+"花叢間穿梭吸取更多花蜜。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "self-pollination"
+msgstr "自花授粉"
+
+msgid ""
+"When pollen is transferred by a pollinator to the same plant in order to "
+"reproduce, this is called self-pollination. Hylocereus undatus is a "
+"hermaphrodite plant with both carpels and stamens for performing self-"
+"pollination."
+msgstr ""
+"當花粉在同一株植物間傳遞繁殖，就是所謂的自花授粉。火龍果有雌蕊群和雄蕊執行自"
+"花授粉的雌雄同體植物。"
+
+msgid "cross-pollination"
+msgstr "異花受粉"
+
+msgid ""
+"When pollen is transferred by a pollinator to a different plant in order to "
+"reproduce, this is called cross-pollination."
+msgstr "當花粉在不同植物間傳遞授粉繁殖，就是所謂的異花授粉。"
+
+#. 13
+msgid "Checking what you now know... about the life cycle of plants"
+msgstr "看看你現在了解了多少…關於「植物的生命週期」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的..."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵！"
+
+msgid "guess what's next?"
+msgstr "猜猜接下來是什麼！"
+
+#. 14
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "preparing your first quiz question!"
+msgstr "準備你的第一次小測驗！"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Which part of the plant makes seeds?"
+msgstr "植物的哪一個部位製造種子？"
+
+msgid "Root"
+msgstr "根"
+
+msgid "Flower"
+msgstr "花"
+
+msgid "Leaf"
+msgstr "葉"
+
+msgid ""
+"No, the roots absorb the water and nutrients from the soil into the plant."
+msgstr "不，根部吸收土壤水分和養分。"
+
+msgid ""
+"No, the stem gives the plant support. It is also in charge of distributing "
+"water and sap throughout the plant."
+msgstr "不，莖支持植物。它也負責將水分和汁液傳送到植物各部分。"
+
+msgid ""
+"Correct. The flower is the part that has the stamen and pistil to make seeds."
+msgstr "正確。花具有雄蕊和雌蕊，是製造種子的一部分。"
+
+msgid ""
+"No, plant leaves have the important job of producing food through "
+"photosynthesis."
+msgstr "不，植物葉片的重要任務是透過光合作用產生養分。"
+
+msgid "You didn't select any answer."
+msgstr "你沒有選擇任何答案。"
+
+#. 15
+msgid ""
+"A strong storm has blown through your neighborhood. After the storm, you "
+"noticed the flowers on the plants outside have been damaged. How would this "
+"affect the life cycle of the plant?"
+msgstr ""
+"你家附近地區有暴風雨經過，你發現到外面的植物上的花都已經被摧毀。請問，這會如"
+"何影響這些植物的生命週期？"
+
+msgid "It would not affect the plant's life cycle at all."
+msgstr "它不會影響植物的生命週期。"
+
+msgid "Without its flowers and seeds, the plant would be unable to reproduce."
+msgstr "沒有花和種子，植物將無法繁殖。"
+
+msgid ""
+"A pollinator can still make the plant reproduce, even without the flower and "
+"seeds."
+msgstr "即使沒有花和種子，授粉者仍然可以讓植物繁殖。"
+
+msgid "The plant would remain in its current state until it is removed."
+msgstr "植物會保持目前的狀態，直到被遷移。"
+
+msgid ""
+"No, it would affect the plant’s life cycle. Without its flowers and seeds, "
+"the plant would be unable to reproduce."
+msgstr "不，這會影響植物的生命週期。沒有花和種子，植物將無法繁殖。"
+
+msgid ""
+"Most flowering plants need seeds to reproduce. If the flowers are too "
+"damaged to create seeds, the plant would produce new flowers to allow "
+"reproduction to continue."
+msgstr ""
+"大多數開花植物需要種子繁殖。如果花受傷太嚴重而無法製造種子，植物會產生新的花"
+"朵繼續繁殖。"
+
+msgid ""
+"No, a pollinator does not make the plant reproduce. It simply assists in "
+"pollination and helps set the stage for reproduction in the flower."
+msgstr "不，授粉者不會讓植物繁殖。它只是協助授粉，並幫助在花裡進行繁殖。"
+
+msgid ""
+"No, even the organisms that have the ability to fix themselves do not go "
+"backwards in their life cycle. Without its flowers and seeds, the plant "
+"would be unable to reproduce."
+msgstr ""
+"不，即使是有自我修復能力的生物，其生命週期也不會倒退。沒有花和種子，植物將無"
+"法繁殖。"
+
+#. 16
+msgid "Plants can be pollinated by?"
+msgstr "植物可以透過以下哪一個方式授粉？"
+
+msgid "Soil"
+msgstr "土壤"
+
+msgid "Bees"
+msgstr "蜜蜂"
+
+msgid "Bee"
+msgstr "蜜蜂"
+
+msgid "Watering them"
+msgstr "澆水"
+
+msgid "Seeds"
+msgstr "種子"
+
+msgid ""
+"No, soil does not pollinate plants. Soil provides water and nutrients to "
+"plants."
+msgstr "不，土壤不會幫助植物授粉。土壤提供植物水分和養分。"
+
+msgid ""
+"Correct, bees can pollinate plants. When a bee lands on a flower, its feet "
+"get full of pollen. The bee flies away looking for nectar and lands on "
+"another flower. The pollen is now on a different flower."
+msgstr ""
+"正確，蜜蜂可以為植物授粉。當蜜蜂停在一朵花上時，牠的腳會沾滿花粉。蜜蜂飛走並"
+"在另一朵花上吸取花蜜時，花粉也就傳播到不同的花上了。"
+
+msgid ""
+"No, watering the plants helps them grow, but not pollinate. Bees can "
+"pollinate plants."
+msgstr "不，給植物澆水幫助它們成長，但不能為植物授粉。蜜蜂可以為植物授粉。"
+
+msgid ""
+"No, seeds are formed after pollination takes place. Bees can pollinate "
+"plants."
+msgstr "不，種子在授粉發生後產生。蜜蜂才可以為植物授粉。"
+
+#. 17
+msgid "Which statement best summarizes the life cycle of plants in general?"
+msgstr "下列哪一項敘述最能總結一般植物的生命週期？"
+
+msgid "Select one of the choices below."
+msgstr "請選擇下面的一個正確選項。"
+
+msgid ""
+"Seed sprouts into a seedling, which grows into an adult plant, which "
+"produces more seeds."
+msgstr "種子發芽成幼苗，生長成為成熟的植物，然後產生更多的種子。"
+
+msgid ""
+"Seedling sprouts into a seed, which produces more seeds, and then grows into "
+"an adult plant."
+msgstr "幼苗長成種子，產生更多的種子，然後生長成為成熟的植物。"
+
+msgid "Adult plant deteriorates into a seedling, which produces more seeds."
+msgstr "成株落下成幼苗，然後產生更多的種子。"
+
+msgid ""
+"Seed grows first into an adult and then a seedling, which produces more "
+"seeds."
+msgstr "種子先成熟然後長成幼苗，產生更多的種子。"
+
+msgid ""
+"Correct. A seed sprouts into a seedling through germination, which grows "
+"into an adult plant, which produces more seeds."
+msgstr "正確。種子透過發芽長成幼苗，生長成植株，產生更多的種子。"
+
+msgid ""
+"No, a seed sprouts into a seedling (not the other way around). Once it is an "
+"adult plant it can produce more seeds."
+msgstr "不，種子發芽成幼苗（而非反過來）。一旦成株它可以產生更多的種子。"
+
+msgid ""
+"No, a seedling grows into an adult plant (not the other way around). Once it "
+"is an adult plant it can produce more seeds."
+msgstr "不，幼苗長成幼苗（而非反過來）。一旦成株它可以產生更多的種子。"
+
+msgid ""
+"No, a seed grows first into a seedling, then an adult plant. Once it is an "
+"adult plant it can produce more seeds."
+msgstr "不，種子先長成幼苗，然後成株。一旦成株它可以產生更多的種子。"
+
+#. 18
+msgid ""
+"Correct. from day 1 to day 6, the plant’s growth was relatively steady, "
+"until it experienced a very noticeable change when its height went from 2.7 "
+"to 1.1 cm."
+msgstr ""
+"正確。從第1天至第6天，植物的生長是相對穩定的，但隨後發生了一個非常明顯的變"
+"化，它的高度從2.7變成1.1公分。"
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change"
+msgstr ""
+"不對喔！第6天之後，植物的生長並不是變慢；它高度從2.7變成1.1公分，這是一個明顯"
+"的變化。"
+
+msgid "The plant grew very quickly, and then slowed down its growth."
+msgstr "植物生長速度非常快，然後減慢。"
+
+msgid ""
+"No, from day 1 to day 6, the plant's growth was relatively steady, until it "
+"experienced a very noticeable change."
+msgstr ""
+"不，從第1天至第6天，植物的生長是相對穩定的，但隨後發生了一個非常明顯的變化。"
+
+msgid "The plant grew very slowly, and then sped up its growth."
+msgstr "植物生長非常緩慢，然後加快其生長。"
+
+msgid ""
+"No, most of the growth was steady, but after day 6 its height went from 2.7 "
+"to 1.1 cm."
+msgstr "不，大部分的生長是穩定的，但第6天之後的高度就從2.7變成1.1公分。"
+
+msgid "The plant grew in a steady manner throughout the time of observation."
+msgstr "植物一直以穩定的方式成長。"
+
+msgid "Which statement best describes the life of this plant?"
+msgstr "哪種說法最能說明植物的生命？"
+
+msgid ""
+"The plant showed steady growth until it experienced a very noticeable change."
+msgstr "植物呈現穩定生長，直到經歷了一個非常明顯的變化。"
+
+msgid "Day after germination"
+msgstr "發芽後的天數"
+
+msgid "Plant height in cm"
+msgstr "植物高度(公分)"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "點擊、按住並向上或向下移動滑鼠。"
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change."
+msgstr ""
+"不，第6天之後，植物的生長並沒有放慢，它的高度就從2.7長到1.1公分，這是一個明顯"
+"的變化。"
+
+#. 19
+msgid ""
+"When insects and wind assist and pollen from the same flower is brought to "
+"the stigma of that flower. This description is related to which of the "
+"following terms?"
+msgstr ""
+"雌蕊頂部有一個叫做「柱頭」的構造。請問如有昆蟲或風力的協助，雄蕊上的花粉被帶"
+"到同一朵花的柱頭上時，這符合以下哪一項描述？"
+
+msgid "Cross-pollination"
+msgstr "異花受粉"
+
+msgid "Self-pollination"
+msgstr "自花授粉"
+
+msgid "Seed dispersal"
+msgstr "種子傳播"
+
+msgid ""
+"No, cross-pollination is when pollen from a different flower is brought to "
+"the stigma of a flower."
+msgstr "不，異花授粉是花粉傳到別朵花雌蕊的柱頭上。"
+
+msgid ""
+"Correct. Pollinators can help, as long as the pollen and stigma are from the "
+"same flower, it is considered self-pollination."
+msgstr ""
+"正確。授粉昆蟲可以幫助，只要傳到雌蕊柱頭的花粉是來自同一朵花，就是自花授粉。"
+
+msgid "No, germination is the sprouting and growth of a seed to a seedling."
+msgstr "不，發芽是種子發芽長成種子的過程。"
+
+msgid ""
+"No, pollinators such as insects and wind disperse seeds for pollination. "
+"Self-pollination is when pollen from the same flower is brought to the "
+"stigma of that flower."
+msgstr "不，昆蟲和風力傳播種子授粉。自花授粉是把花粉帶到同朵花的雌蕊上的柱頭。"
+
+#. 20
+msgid "End of Review"
+msgstr "單元結束！"
+
+msgid "Congratulations, "
+msgstr "恭喜, "
+
+msgid "You've completed the Life Cycle of Plants review."
+msgstr "您已經完成「植物的生命週期」單元的學習了！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "透過點擊下方的按鈕，你可以看到你在「小練習」和「小測驗」的表現。"
+
+#. preloaders
+msgid "The parts of the plant"
+msgstr "植物的構造..."
+
+msgid "Planting seeds..."
+msgstr "你播過種子嗎..."
+
+msgid "Flowers are blooming"
+msgstr "百花爭艷中..."
+
+msgid "Attracting pollinators..."
+msgstr "如何吸引授粉的昆蟲..."
+
+msgid "Preparing your first quick check!"
+msgstr "準備第一個小練習！"
+
+msgid "Do you like flowers?"
+msgstr "你喜歡花嗎？"
+
+msgid "Another quick check on the way!"
+msgstr "另一個小練習來囉！"
+
+msgid "The colony collapse"
+msgstr "蜂群衰竭..."
+
+msgid "Putting it all together..."
+msgstr "全部放在一起..."
+
+msgid "Words and definitions"
+msgstr "名詞和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在知道什麼"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗，題目是..."
+
+msgid "Plants and storms"
+msgstr "植物和風暴"
+
+msgid "Who can pollinate?"
+msgstr "誰可以來傳播花粉？"
+
+msgid "The plant life cycle is..."
+msgstr "植物的生命週期是..."
+
+msgid "Last two!"
+msgstr "還剩兩題而已囉！"
+
+msgid "Pollinator assistants"
+msgstr "授粉助理..."
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "All living organisms"
+msgstr "所有生物"

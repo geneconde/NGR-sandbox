@@ -1,0 +1,1438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Life Cycle of Plants\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Go to dashboard"
+msgstr "Ir al panel de control"
+
+msgid "Quick Check #1"
+msgstr "Comprobación Rápido #1"
+
+msgid "Quick Check #2"
+msgstr "Comprobación Rápido #2"
+
+msgid "Quick Check #3"
+msgstr "Comprobación Rápido #3"
+
+msgid "Quick Check #4"
+msgstr "Comprobación Rápido #4"
+
+msgid "Quiz Question #1"
+msgstr "Prueba Pregunta #1"
+
+msgid "Quiz Question #2"
+msgstr "Prueba Pregunta #2"
+
+msgid "Quiz Question #3"
+msgstr "Prueba Pregunta #3"
+
+msgid "Quiz Question #4"
+msgstr "Prueba Pregunta #4"
+
+msgid "Quiz Question #5"
+msgstr "Prueba Pregunta #5"
+
+msgid "Quiz Question #6"
+msgstr "Prueba Pregunta #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "The anther is part of the"
+msgstr "La antera es parte de la"
+
+msgid "Please type your answer below"
+msgstr "Por favor escriba su respuesta más abajo"
+
+# 1
+msgid "Life Cycle of Plants"
+msgstr "El Ciclo de La vida de Las Plantas"
+
+msgid "Start"
+msgstr "Comience"
+
+msgid "Let's begin!"
+msgstr "¡Vamos a empezar!"
+
+msgid "Welcome to the Life Cycle of Plants review, "
+msgstr "Bienvenido/a la revisión del ciclo de vida de las plantas,"
+
+# 2
+msgid "Are you ready, "
+msgstr "¿Estás listo,"
+
+msgid "Next"
+msgstr "Proximo"
+
+msgid "Back"
+msgstr "Atras"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "wait for it... wait for it..."
+msgstr "espérelo... espérelo…"
+
+msgid "Next part coming up!"
+msgstr "¡Siguiente parte viene!"
+
+msgid "Thinking about... the life cycle of plants"
+msgstr "Pensando en... el ciclo de vida de las plantas"
+
+msgid ""
+"Plants are amazing! In California, there are giant redwood trees. These "
+"trees can grow over 300 feet tall. But interestingly, the seeds from these "
+"humongous trees are quite small. Do you ever wonder how a tree that large "
+"can develop from such a small seed? Let’s review some ideas about the life "
+"plants have!"
+msgstr ""
+"Las plantas son increíbles! En California, hay árboles de secuoya gigante. "
+"Estos árboles pueden crecer más de 300 metros. Pero curiosamente, las "
+"semillas de estos enormes árboles son muy pequeñas. ¿Te has preguntado cómo "
+"puede desarrollarse un árbol tan grande de una pequeña semilla? Vamos a "
+"revisar algunas ideas sobre la vida de las plantas tienen!"
+
+# 3
+msgid "Checking what you know... about the life cycle of plants"
+msgstr "Comprobar lo que sabe ...sobre el ciclo de vida de las plantas"
+
+msgid ""
+"What do you already know about plants? Match the parts of the plant by "
+"dragging the correct term up or down."
+msgstr ""
+"¿Qué sabes acerca de las plantas ya? Coincidir con las partes de la planta "
+"arrastrando el término correcto hacia arriba o hacia abajo."
+
+msgid "Leaves"
+msgstr "Hojas"
+
+msgid "Roots"
+msgstr "Raíces"
+
+msgid "Seed"
+msgstr "Semillas"
+
+msgid "Fruit"
+msgstr "Fruta"
+
+msgid ""
+"The first part of the plant shown here is the Leaf, Fruit, Flower, Stem, and "
+"last are the Roots. These are the main parts of a plant with seeds."
+msgstr ""
+"La primera parte de la planta se muestra aquí es la hoja, fruta, flor, tallo "
+"y último son las raíces. Estas son las partes principales de una planta con "
+"semillas."
+
+# 4
+msgid "Reviewing core ideas... about the life cycle of plants"
+msgstr "El repaso de ideas principales... sobre el ciclo de la vida de plantas"
+
+msgid "Click on the checkboxes to view more information on each item."
+msgstr ""
+"Haga clic en las casillas de verificación para ver más información sobre "
+"cada elemento."
+
+msgid "All plants go through a life cycle"
+msgstr "Todas las plantas pasan por un ciclo de vida"
+
+msgid "Many plants start out as a small <span class='key'>seed</span>."
+msgstr ""
+"Muchas plantas comienzan como una pequeña <span class='key'>semilla</span>."
+
+msgid "When the seed is planted in the ground"
+msgstr "Cuando la semilla está plantada en el suelo"
+
+msgid ""
+"it <span class='key'>sprouts</span> into a young <span class='key'>seedling</"
+"span> through the process of <span class='key'>germination</span>."
+msgstr ""
+"<span class='key'>Brota</span> en una joven <span class='key'>planta de "
+"semillero</span> a través del proceso de <span class='key'>germinación</"
+"span>."
+
+msgid "Seedlings"
+msgstr "Planta de semillero"
+
+msgid ""
+"have a small <span class='key'>root</span> that is used to suck up water "
+"from the ground."
+msgstr ""
+"tienen una pequeña <span class='key'>raíz </span>que se utiliza para "
+"absorber el agua de la tierra."
+
+msgid "<span class='key'>Stem</span>"
+msgstr "<span class='key'>Tallo</span>"
+
+msgid "Stem"
+msgstr "Tallo"
+
+msgid "stem"
+msgstr "tallo"
+
+msgid "is the body of the plant."
+msgstr "es el cuerpo de la planta."
+
+msgid "Seedlings also have small <span class='key'>leaves</span>"
+msgstr ""
+"Las plantas de semillero también tienen pequeñas <span class='key'>hojas</"
+"span>"
+
+msgid ""
+"that are used to get energy from the sun. The seedling continues to grow "
+"until it becomes a mature plant."
+msgstr ""
+"esto es usado para conseguir la energía del sol. La planta de semillero "
+"sigue creciendo hasta que se haga una planta madura."
+
+msgid ""
+"Seedlings also have small leaves that are used to get energy from the sun. "
+"The seedling continues to grow until it becomes a mature <span "
+"class='key'>plant. </span>"
+msgstr ""
+"Las plantas de semillero también tienen pequeñas hojas que son usadas para "
+"conseguir la energía del sol. La planta de semillero sigue creciendo hasta "
+"que se haga una <span class='key'>planta </span>madura."
+
+msgid "Some fully grown plants make flowers."
+msgstr "Algunas plantas totalmente crecidos hacen flores."
+
+msgid ""
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr ""
+"Las flores son utilizadas por las plantas para producir más semillas  para "
+"continuar el ciclo de vida."
+
+# 5
+msgid ""
+"Question A. What is <span class='red blink'>NOT</span> required for a seed "
+"to begin to grow?"
+msgstr ""
+"Pregunta A. ¿Lo que <span class='red blink'>NO </span> es necesaria para que "
+"empezar a crecer una semilla?"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow?"
+msgstr ""
+"Pregunta A. ¿Lo que <span class='red'>NO </span> es necesaria para que "
+"empezar a crecer una semilla?"
+
+msgid "Stored Water"
+msgstr "Agua almacenada"
+
+msgid "Stored water"
+msgstr "Agua almacenada"
+
+msgid "Sunlight"
+msgstr "Luz del sol"
+
+msgid "sunlight"
+msgstr "luz del sol"
+
+msgid "Stored food"
+msgstr "Alimentos almacenados"
+
+msgid "Appropriate temperature"
+msgstr "Temperatura adecuada"
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they won’t grow, too much and they will rot."
+msgstr ""
+"No, las semillas necesitan una cierta cantidad de humedad para crecer. Muy "
+"poca humedad y no crecen demasiado y pudre."
+
+msgid ""
+"Question B. Which part does a seedling <span class='red'>NOT</span> have?"
+msgstr ""
+"Pregunta B. ¿Qué parte <span class='red'>NO</span> tiene una planta de "
+"semillero?"
+
+msgid ""
+"Question B. Which part does a seedling <span class='red blink'>NOT</span> "
+"have?"
+msgstr ""
+"Pregunta B. ¿Qué parte <span class='red blink'>NO </span>tiene una planta de "
+"semillero?"
+
+msgid "roots"
+msgstr "raices"
+
+msgid "flowers"
+msgstr "flores"
+
+msgid "Flowers"
+msgstr "Flores"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow"
+msgstr ""
+"Pregunta A. Lo que no es necesaria para que empezar a crecer una semilla"
+
+msgid "You answered"
+msgstr "Contestó"
+
+msgid ""
+"Correct! Not all seeds need sunlight to grow. When the seedling gets to the "
+"surface, it can begin to make its own food through photosynthesis."
+msgstr ""
+"¡ Correcto! No todas las semillas necesitan luz solar para crecer. Cuando la "
+"planta llega a la superficie, puede comenzar a hacer su propio alimento "
+"mediante la fotosíntesis."
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they wonÃÂ¢ÃÂÃÂt grow, too much and they will rot."
+msgstr ""
+"No, las semillas necesitan una cierta cantidad de humedad y para crecer. Muy "
+"poca humedad y no crecen demasiado y pudre."
+
+msgid ""
+"No, seeds need stored food to power the seedling to grow through inches of "
+"soil."
+msgstr ""
+"No, las semillas necesitan alimento almacenado para alimentar la planta a "
+"crecer a través de centímetros del suelo."
+
+msgid ""
+"No, seeds need the correct soil temperature to grow. For example, a tropical "
+"seed might not grow in cool temperatures."
+msgstr ""
+"No, las semillas necesitan la temperatura correcta del suelo para crecer. "
+"Por ejemplo, una semilla tropical no podría crecer en temperaturas frías."
+
+msgid ""
+"Correct! A seedling does not have a flower. The flower is the part of a "
+"flowering plant that makes seeds."
+msgstr ""
+"¡Correcto! Una planta de semillero no tiene una flor. La flor es la parte de "
+"una planta floreciente que hace semillas."
+
+msgid "No, a seedling does have roots."
+msgstr "No, la planta de semillero realmente tiene raíces."
+
+msgid "No, a seedling does have a stem."
+msgstr "No, la planta de semillero realmente tiene un tallo."
+
+msgid "No, a seedling does have leaves."
+msgstr "No, la planta de semillero realmente tiene hojas."
+
+# 6
+msgid "More core ideas... about the life cycle of plants"
+msgstr "Más ideas... sobre el ciclo de vida de las plantas de la base"
+
+msgid "Flowers have many parts needed to make more seeds."
+msgstr "Las flores tienen muchas partes necesarias para hacer más semillas."
+
+msgid ""
+"The outer parts of a flower are the petals. We notice the <span "
+"class='key'>petals</span> because they are usually colorful."
+msgstr ""
+"Las partes exteriores de una flor son los pétalos. Notamos los <span "
+"class='key'>pétalos</span> porque son generalmente coloridos."
+
+msgid "Inside the petal are"
+msgstr "Adentro del petal hay"
+
+msgid ""
+"several things that look like little sticks with a yellow top. These are "
+"called <span class='key'>stamen</span> and they contain pollen.<span "
+"class='key'> Pollen</span> is used to make more seeds."
+msgstr ""
+"varias cosas que se ven como palitos con una camiseta amarilla. Éstos se "
+"denominan <span class='key'>estambre</span> y contienen polen. El <span "
+"class='key'>polen</span> es utilizado para hacer más semillas."
+
+msgid "In the center of the flower"
+msgstr "En el centro de la flor"
+
+msgid "is the <span class='key'>pistil</span>."
+msgstr "es el <span class='key'>pistilo</span>."
+
+msgid "The top part of the stamen"
+msgstr "La parte superior del estambre"
+
+msgid "is the anther. It makes<span class='key'> pollen</span>."
+msgstr "es la antera. Hace <span class='key'>polen</span>."
+
+msgid "guess what's next!"
+msgstr "¿Sabes qué es el siguiente?"
+
+msgid "more core ideas about plants!"
+msgstr "más ideas básicas sobre las plantas!"
+
+msgid "Select here"
+msgstr "Seleccione aquí"
+
+msgid "To make a seed"
+msgstr "Para hacer una semilla"
+
+msgid ""
+"<span class='key'> pollen</span> has to find its way to a pistil and travel "
+"down to reach the egg. This is called <span class='key'>pollination</span>."
+msgstr ""
+"<span class='key'>El polen</span> tiene que encontrar su camino a un pistilo "
+"y llegar hasta llegar al óvulo. Esto se denomina <span "
+"class='key'>polinización</span>."
+
+# 7
+msgid ""
+"Correct. The anther is part of the stamen, which makes pollen. Pollen has to "
+"find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"Correcto. La antera es la parte del estambre, que hace el polen. El polen "
+"tiene que encontrar su camino hacia un pistilo y alcanzar el huevo, que se "
+"llama la polinización."
+
+msgid ""
+"Not quite. The anther is part of the stamen, which makes pollen. Pollen has "
+"to find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"No del todo. La antera es parte de los estambres, que hace que el polen. El "
+"polen tiene que encontrar su camino a un pistilo y alcanzar el óvulo, que se "
+"llama polinización."
+
+msgid ""
+"No, a seed grows and sprouts into a seedling through the process of "
+"germination. Pollination is when pollen is transferred to the egg to "
+"eventually form a seed."
+msgstr ""
+"No, una semilla crece y brota en una planta de semillero a través del "
+"proceso de germinación. La polinización es cuando el polen se transfiere al "
+"huevo para formar finalmente una semilla."
+
+msgid ""
+"Correct. Pollination is when pollen is transferred to the egg to eventually "
+"form a seed."
+msgstr ""
+"Correcto. La polinización es cuando el polen se transfiere al huevo para "
+"formar finalmente una semilla."
+
+msgid ""
+"No. Pollination is when pollen is transferred to the egg to eventually form "
+"a seed."
+msgstr ""
+"No. La polinización es cuando el polen se transfiere al huevo para formar "
+"finalmente una semilla."
+
+msgid "Question A. Select the best answer from the drop down list."
+msgstr "Pregunta A. Seleccione la mejor respuesta de la lista desplegable."
+
+msgid "The <span class='key'>anther</span> is part of the"
+msgstr "La <span class='key'>antera </span> es parte de la"
+
+msgid "stamen"
+msgstr "el estambre"
+
+msgid "petal"
+msgstr "el pétalo"
+
+msgid "pollination"
+msgstr "polinización "
+
+msgid "The anther's function is to produce"
+msgstr "La función de la antera es producir"
+
+msgid ""
+"Question B. To make a seed, pollen has to find its way to a pistil and "
+"travel down to reach the egg. What is this process called?"
+msgstr ""
+"Pregunta B. Para hacer una semilla, polen tiene que encontrar su camino a un "
+"viaje y pistilo por alcanzar el ovulo. ¿Cómo se llama este proceso?"
+
+msgid "Germination"
+msgstr "Germinación"
+
+msgid "germination"
+msgstr "germinación"
+
+msgid "Pollination"
+msgstr "Polinización "
+
+msgid "Both of the above"
+msgstr "Los dos de los anteriores"
+
+msgid "Neither of the above"
+msgstr "Ninguno de los anteriores"
+
+# 8
+msgid ""
+"Plants have different ways to attract their pollinators. For example, many "
+"flowers have brightly-colored petals and give off attractive aromas, while "
+"others produce <span class='key'>nectar</span>, a food for some insects."
+msgstr ""
+"Las plantas tienen diferentes formas de atraer a sus polinizadores. Por "
+"ejemplo, muchas flores tienen pétalos de colores brillantes y despiden "
+"aromas atractivos, mientras que otros producen néctar, un alimento para "
+"algunos insectos."
+
+msgid ""
+"<span class='key'>Pollinators</span> love to drink the sweet nectar at the "
+"base of the pistil and go from flower to flower to get more. This way, the "
+"insect gets something to eat and the plant is able to make seeds."
+msgstr ""
+"Polinizadores quiero beber el dulce néctar en la base del pistilo e ir de "
+"flor a flor para conseguir más. Así, el insecto consigue algo de comer y la "
+"planta es capaz de hacer las semillas."
+
+msgid ""
+"Some plants use the wind to spread their pollen. Think of a dandelion being "
+"blown by the wind."
+msgstr ""
+"Algunas plantas utilizan el viento para difundir su polen. Piensa en un "
+"diente de León soplada por el viento."
+
+msgid ""
+"Plants differ on how they produce their offspring. Having seeds is one of "
+"the five ways plants reproduce."
+msgstr ""
+"Las plantas difieren en cómo producen sus crías. Tener las semillas es una "
+"de las cinco formas de plantas se reproducen."
+
+msgid ""
+"Some plants have fruit with tiny little hooks that catch on passing animals. "
+"The fruit with seeds inside it gets carried to a distant place the animal "
+"goes."
+msgstr ""
+"Algunas plantas tienen fruta con pequeños ganchos pequeños que capturan al "
+"pasar los animales. Los frutos con semillas en su interior se obtiene llevó "
+"a un lugar distante, que el animal va."
+
+msgid ""
+"However the seeds get dispersed (spread over different places), they will "
+"begin to grow and continue the cycle of life."
+msgstr ""
+"Sin embargo las semillas dispersa (que se extiende sobre diferentes "
+"lugares), comenzarán a crecer y continuar el ciclo de vida."
+
+msgid "Click on each item below to view examples of flowering plants."
+msgstr "Haga clic abajo para ver ejemplos de plantas con flores en cada uno."
+
+msgid "Pine and Spruce Trees"
+msgstr "Los árboles de pino y abeto"
+
+msgid ""
+"The pine and spruce trees are examples of flowering plants that reproduce "
+"using seeds. The cones harbor the tree's seeds."
+msgstr ""
+"Los árboles de pino y abeto son ejemplo de plantas con flores que se "
+"reproducen mediante semillas. Los conos albergan las semillas del árbol."
+
+msgid "Coconuts"
+msgstr "Los cocos"
+
+msgid ""
+"The large seeds of palm trees are perhaps the ultimate example of a durable "
+"seed, as they can reach locations miles away by floating in water, even "
+"through the ocean."
+msgstr ""
+"Las semillas grandes de las palmeras, son quizás el mejor ejemplo de una "
+"semilla durable, como pueden alcanzar lugares kilómetros flotando en el "
+"agua, incluso a través del océano."
+
+msgid "Acorns and Walnuts"
+msgstr "Bellotas y nueces "
+
+msgid ""
+"Acorns and walnuts are large seeds that are able to endure harsh conditions "
+"and be planted far away from their parent tree."
+msgstr ""
+"Bellotas y nueces son semillas grandes que son capaces de soportar las duras "
+"condiciones y plantar lejos de su árbol primario."
+
+msgid "Pollen"
+msgstr "Polen"
+
+msgid ""
+"Pollen is also considered a seed, which is transferred by a pollinator to "
+"the same (<span class='key'>self-pollination</span>) or a different plant "
+"(<span class='key'>cross-pollination</span>) in order to reproduce."
+msgstr ""
+"Polen también se considera una semilla, que es transferida por un "
+"polinizador a la misma (autopolinización) o una planta diferente "
+"(polinización cruzada) con el fin de reproducirse."
+
+# 9
+msgid ""
+"No, not all plants have seeds. There are four other ways for plants to "
+"reproduce."
+msgstr ""
+"No, no todas las plantas tienen semillas. Hay cuatro otras maneras para que "
+"las plantas se reproducen."
+
+msgid "All plants have seeds and reproduce this way."
+msgstr "Todas las plantas tienen semillas y reproducen de esta manera."
+
+msgid ""
+"Correct. Acorns, walnuts, and coconuts are large seeds that are able to "
+"endure adverse conditions and be planted far away from their parent tree."
+msgstr ""
+"Correcto. Las bellotas, las nueces y los cocos son semillas grandes que son "
+"capaces de soportar condiciones adversas y ser plantados lejos de su árbol "
+"primario."
+
+msgid "Acorns, walnuts and coconuts are all large seeds."
+msgstr "Las bellotas, las nueces y los cocos son semillas grandes."
+
+msgid ""
+"No, cross-pollination is when a pollinator moves pollen to a different plant."
+msgstr ""
+"No, la polinización cruzada es cuando un polinizador traslada polen a una "
+"planta diferente."
+
+msgid "Cross-pollination is when a pollinator moves pollen to the same plant."
+msgstr ""
+"Polinización cruzada es cuando un polinizador traslada polen a la misma "
+"planta."
+
+msgid ""
+"No, not all seeds need to be planted nearby the parent plant. Coconuts (the "
+"large seeds of palm trees) can reach and be planted miles away."
+msgstr ""
+"No, no todas las semillas necesitan ser plantado cerca de la planta "
+"progenitora. Los cocos (las semillas grandes de las palmeras) pueden llegar "
+"y ser plantados desde millas de distancia."
+
+msgid "Seeds need to be planted nearby the parent plant."
+msgstr "Las semillas necesitan ser plantado cerca de la planta del padre."
+
+msgid ""
+"No, some seeds may fall to the ground near the plant, but this is not the "
+"primary way for the seeds to spread."
+msgstr ""
+"No, algunas semillas pueden caer al suelo cerca de la planta, pero esto no "
+"es la forma principal para las semillas difundir."
+
+msgid "By the plant falling and dying."
+msgstr "Por la planta cayendo y luego morir."
+
+msgid ""
+"No, some seeds may be knocked to the ground when it rains, but this is not "
+"the primary way for the seeds to spread."
+msgstr ""
+"No, algunas semillas pueden ser tiradas al suelo cuando llueve, pero esto no "
+"es la forma principal para las semillas difundir."
+
+msgid "By water when it rains."
+msgstr "Por el agua cuando llueve."
+
+msgid ""
+"Correct, most of the dandelion seeds are spread by a wind or breeze, or "
+"sometimes by people who blow on the dandelion."
+msgstr ""
+"Correcto, la mayoría de las semillas del diente de León se extiende por un "
+"viento o brisa o a veces por personas que sople en el diente de León."
+
+msgid "By wind when it blows."
+msgstr "Por el viento cuando sopla."
+
+msgid ""
+"No, an animal may occasionally eat a dandelion and spread its seeds, but "
+"very few dandelion seeds are spread this way."
+msgstr ""
+"No, un animal de vez en cuando puede comer un diente de León y propagar sus "
+"semillas, pero muy pocas semillas del diente de León se reparten de esta "
+"manera."
+
+msgid "By animals when they eat the flower."
+msgstr "Por parte de los animales cuando se comen las flores."
+
+msgid "Question A. Which of these statements is true"
+msgstr "Pregunta A. ¿Cuál de estas afirmaciones es verdadera?"
+
+msgid "Question B. How are dandelion seeds primarily dispersed"
+msgstr ""
+"Pregunta B. ¿Cómo se dispersan principalmente las semillas del diente de "
+"León?"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"Girar o voltear el cuadro 3D abajo o arriba o abajo sistema tu respuesta."
+
+msgid "Click the box, then hold, and slide mouse up or down"
+msgstr ""
+"Haga clic en la caja y, a continuación, espera y deslice el ratón hacia "
+"arriba o hacia abajo"
+
+# 10
+msgid ""
+"Using what you know... about the life cycle of plants... to solve a problem"
+msgstr ""
+"Utilizando lo que sabes... sobre el ciclo de vida de las plantas... para "
+"resolver un problema"
+
+msgid "The Problem"
+msgstr "El problema"
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"pollinate the flowers for us to get almost a third of our food. The problem "
+"is that the honeybees are decreasing in population. No one is exactly sure "
+"why, but the honeybee colonies are in trouble and recently almost 25% of "
+"them have been lost. You have been called in to advise the department of "
+"agriculture on the problem."
+msgstr ""
+"Durante la temporada de siembra en Norteamérica, los granjeros dependen de "
+"que las abejas polinicen las flores para que podamos obtener casi un tercio "
+"de nuestros alimentos. El problema es que las abejas están disminuyendo en "
+"la población. Nadie está seguro exactamente por qué, pero la abeja colonias "
+"están en problemas y recientemente casi el 25% de ellos han perdido. Tú has "
+"sido llamado para asesorar al Departamento de Agricultura sobre el problema."
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"exactly sure why, but the honeybee colonies are in trouble and recently "
+"almost 25% of them have been lost. You have been called in to advise the "
+"pollinate the flowers for us to get almost a third of our food."
+msgstr ""
+"Durante la temporada de siembra en Norteamérica, los granjeros dependen de "
+"que las abejas polinicen las flores para que podamos obtener casi un tercio "
+"de nuestros alimentos."
+
+msgid ""
+"The problem is that the honeybees are decreasing in population. No one is "
+"exactly sure why, but the honeybee colonies are in trouble and recently "
+"almost 25% of them have been lost. You have been called in to advise the "
+"department of agriculture on the problem."
+msgstr ""
+"El problema es que las abejas están disminuyendo en la población. Nadie está "
+"seguro exactamente por qué, pero la abeja colonias están en problemas y "
+"recientemente casi el 25% de ellos han perdido. Tú has sido llamado para "
+"asesorar al Departamento de Agricultura sobre el problema."
+
+msgid "More"
+msgstr "Más"
+
+msgid "Please type your answer below."
+msgstr "Por favor escriba su respuesta más abajo."
+
+msgid "Your Task"
+msgstr "Su tarea"
+
+msgid ""
+"Using what you know about plants and what you can research about honeybees, "
+"what are some things you would advise the department to consider to ensure "
+"that the plants get pollinated? Key in your possible solutions in the "
+"textbox below."
+msgstr ""
+"Usando lo que sabes sobre las plantas y lo que usted puede investigar acerca "
+"de las abejas, ¿cuáles son algunas cosas que aconsejaría al departamento que "
+"considere para asegurar que las plantas obtener polinizadas? Poner en sus "
+"posibles soluciones en el recuadro más abajo."
+
+msgid "Click here to start typing your answer..."
+msgstr "Haga clic aquí para empezar a escribir su respuesta..."
+
+# 11
+msgid "Summarizing core ideas... about the life cycle of plants"
+msgstr "Resumen de ideas básicas sobre... el ciclo de vida de las plantas"
+
+msgid ""
+"The <span class='key'>life cycle</span> of a plant goes through several "
+"stages. The plant starts off as a <span class='key'>seed</span>. When the "
+"seed sprouts into a <span class='key'>seedling</span> through <span "
+"class='key'>germination</span>, it grows into a fully grown plant that is "
+"capable of producing seeds. The next stage of the life cycle is to produce "
+"seeds. Flowering plants have special parts to make <span class='key'>pollen</"
+"span>, attract <span class='key'>pollinators</span> and to grow the seeds. "
+"The newly created seed, given the right conditions, will germinate and turn "
+"into a plant, starting the plant life cycle over again."
+msgstr ""
+"El ciclo de vida de planta pasa por varias etapas. La planta comienza como "
+"<span class='key'>una semilla</span>. Cuando la semilla brota en una <span "
+"class='key'>planta de semillero</span> a través de <span "
+"class='key'>germinación</span>, crece en una planta totalmente crecida que "
+"es capaz de producir semillas. La siguiente etapa del ciclo de vida es "
+"producir semillas. Las plantas con flores tienen piezas especiales para "
+"hacer <span class='key'>polen</span>, atraen a los <span "
+"class='key'>polinizadores</span> y hacer crecer las semillas. La semilla "
+"recién creada, dada las condiciones correctas, germinará y convertirse en "
+"una planta, a partir del ciclo de vida de la planta otra vez."
+
+# 12
+msgid "Words and definition?"
+msgstr "¿Palabras y definiciones?"
+
+msgid "Words and explanations"
+msgstr "Las palabras y las explicaciones"
+
+msgid "Reviewing key vocabulary related to... the life cycle of plants"
+msgstr ""
+"El repaso de vocabulario clave relacionado con... el ciclo vital de plantas"
+
+msgid "life cycle"
+msgstr "ciclo de vida"
+
+msgid ""
+"The life cycle of an organism is all of the changes it undergoes from birth "
+"to reproduction to death. This life cycle is repeated generation after "
+"generation."
+msgstr ""
+"El ciclo de vida de un organismo es todos los cambios que sufre desde el "
+"nacimiento a la reproducción a la muerte. Este ciclo de vida es repetida "
+"generación tras generación."
+
+msgid "seed"
+msgstr "semilla"
+
+msgid ""
+"Many plants start out as a small seed. When the seed is planted in the "
+"ground, it sprouts into a young seedling through the process of germination. "
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr ""
+"Muchas plantas comienzan como una pequeña semilla. Cuando la semilla está "
+"plantada en el suelo, brota en una planta de semillero jóvenes a través del "
+"proceso de germinación. Las flores son utilizadas por las plantas para "
+"producir semillas más para continuar el ciclo de vida."
+
+msgid "sprout"
+msgstr "brote"
+
+msgid ""
+"A sprout is when the seed changes into a seedling through germination. "
+"Through sprouting, the seedling then grows into a fully grown plant that is "
+"capable of producing seeds."
+msgstr ""
+"Un brote es cuando la semilla se transforma en una planta de semillero a "
+"través de germinación. A través de brotación, la plántula luego crece en una "
+"planta totalmente crecida que es capaz de producir semillas."
+
+msgid "seedling"
+msgstr "plantas de semillero"
+
+msgid ""
+"Seedlings are seeds that have sprouted. Seedlings have a small root that is "
+"used to suck up water from the ground and a stem that is the body of the "
+"plant. Seedlings also have small leaves that are used to get energy from the "
+"sun. The seedling continues to grow until it becomes a mature plant."
+msgstr ""
+"Las plantas de semillero son semillas que han brotado. Las plantas de "
+"semillero tienen una pequeña raíz que es usada para sorber el agua de la "
+"tierra(razón) y un tallo que es el cuerpo de la planta. Las plantas de "
+"semillero también tienen pequeñas hojas(permisos) que son usadas para "
+"conseguir la energía del sol. La planta de semillero sigue creciendo hasta "
+"que se haga una planta madura."
+
+msgid ""
+"When the seed is planted in the ground, it sprouts into a young seedling "
+"through the process of germination."
+msgstr ""
+"Cuando la semilla está plantada en el suelo, brota en una planta de "
+"semillero jóvenes a través del proceso de germinación."
+
+msgid "root"
+msgstr "raíz"
+
+msgid ""
+"A root is the part of a plant that helps it get water and food from the "
+"ground. Roots have no leaves or flowers on them. Roots are usually "
+"underground, but not always. You can see in the photograph that this "
+"mangrove tree's roots are visible above ground. Roots that are underground "
+"help hold a plant in the ground. Your teeth also have roots. They hold your "
+"teeth in your gums."
+msgstr ""
+"Una raíz es la parte de una planta que ayuda a conseguir agua y comida de la "
+"tierra. Las raíces no tienen hojas o flores en ellos. Las raíces son "
+"generalmente bajo tierra, pero no siempre. Puedes ver en la fotografía que "
+"las raíces de este árbol mangle son visibles por encima del suelo. Las "
+"raíces son subterránea ayuda mantener una planta en el suelo. Los dientes "
+"tienen también raíces. Sostienen los dientes en sus encías."
+
+msgid ""
+"Seedlings have a small root that is used to suck up water from the ground "
+"and a stem that is the body of the plant. The main parts of the stem are the "
+"nodes, internodes, the petioles, and the leaves."
+msgstr ""
+"Las plántulas tienen una raíz pequeña que se utiliza para absorber agua del "
+"suelo y un tallo que es el cuerpo de la planta. Las partes principales del "
+"tallo son los nodos, entrenudos, los pecíolos y las hojas."
+
+msgid "leaves"
+msgstr "hojas"
+
+msgid ""
+"Leaves are the part of the plant that absorb sunlight as the fuel for the "
+"process of photosynthesis. Seedlings also have small leaves that are used to "
+"get energy from the sun."
+msgstr ""
+"Las hojas son la parte de la planta que absorben la luz del sol como el "
+"combustible para el proceso de fotosíntesis.  Las plantas de semillero "
+"también tienen hojas pequeñas que se utilizan para obtener energía del sol."
+
+msgid ""
+"Flowers have many parts needed to make more seeds. The outer parts of a "
+"flower are the petals. We notice the petals because they are usually "
+"colorful. Inside the petal are several things that look like little sticks "
+"with a yellow top, which are the stamen, containing pollen."
+msgstr ""
+"Las flores tienen muchas partes necesarias para hacer más semillas. Las "
+"partes exteriores de una flor son los pétalos. Notamos los pétalos porque "
+"son generalmente coloridos. Dentro del pétalo son varias cosas que se ven "
+"como palitos con una camiseta amarilla, que son los estambres, que contienen "
+"polen."
+
+msgid ""
+"Inside the petal of a flower are several things that look like little sticks "
+"with a yellow top. These are called stamen and they contain pollen. The "
+"stamen is the male part of a flower."
+msgstr ""
+"Dentro de los pétalos de una flor son varias cosas que se ven como palitos "
+"con una camiseta amarilla. Éstos se denominan estambre y contienen polen. El "
+"estambre es la parte masculina de una flor."
+
+msgid "pollen"
+msgstr " polen"
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants. Insects such as bees and butterflies go to "
+"flowers to eat. While they eat, some of the flower's pollen sticks to them. "
+"When one insect goes to another flower, it takes the pollen with it. Some of "
+"the first flower's pollen rubs off onto the second flower. That helps the "
+"second flower grow seeds. Look at the bee in this photograph. Can you see "
+"the pollen?"
+msgstr ""
+"El polen es un polvo amarillento que se encuentra dentro de una planta con "
+"flor. Polen ayuda a la planta para hacer más plantas. Insectos como las "
+"abejas y mariposas ir a flores para comer. Mientras comen, algunos del polen "
+"de la flor se pega a ellos. Cuando un insecto llega a otra flor, toma el "
+"polen con él. Algunos de polen de la flor primero se frota sobre la segunda "
+"flor. Eso ayuda a la segunda flor crecer las semillas. Mira la abeja en esta "
+"fotografía. ¿Puede ver el polen?"
+
+msgid "pistil"
+msgstr "pistilo"
+
+msgid ""
+"A pistil is the female part of a flower. It is located inside the flower and "
+"helps produce seeds. The pistil is very important because it helps plants to "
+"make more plants. Butterflies and bees can help plants by bringing pollen "
+"from one flower to another. If the pollen gets on the pistil of a flower, it "
+"can make seeds or even turn into a fruit. Some flowers have just one pistil, "
+"while others have many. Above is a photograph of a hibiscus pistil."
+msgstr ""
+"Un pistilo es la parte femenina de una flor. Se encuentra dentro de la flor "
+"y ayuda a produce semillas. El pistilo es muy importante porque ayuda a las "
+"plantas para hacer más plantas. Mariposas y abejas pueden ayudar las plantas "
+"llevando el polen de una flor a otra. Si el polen entra en el pistilo de una "
+"flor, puede hacer semillas o incluso convertirse en una fruta. Algunas "
+"flores tienen un pistilo. Otras tienen muchos. Arriba es una fotografía de "
+"un pistilo de hibisco."
+
+msgid "pollinate"
+msgstr "Polinizar"
+
+msgid ""
+"To pollinate is to transfer pollen between flowers in plant reproduction. "
+"Birds and bees pollinate many different plants."
+msgstr ""
+"Para polinizar es la transferencia de polen entre flores en la reproducción "
+"de la planta. Las aves y las abejas polinizan muchas plantas diferentes."
+
+msgid "pollinator"
+msgstr "polinizador"
+
+msgid ""
+"A pollinator is a living thing that moves pollen from one plant to another "
+"plant. Pollen is needed by some plants to make seeds and fruits. Bees, "
+"butterflies, and bats can act as pollinators. They fly from one plant to "
+"another and transfer pollen as they do. Many pollinators are animals that "
+"transfer pollen on their hair or fur. If there were no pollinators, there "
+"would be a lot less seeds and fruit in the world."
+msgstr ""
+"Un polinizador es un ser viviente que se mueve el polen de una planta a otra "
+"planta. Polen es necesario por algunas plantas y semillas y frutos. Las "
+"abejas, mariposas y murciélagos pueden actuar como polinizadores. Vuelan de "
+"una planta a otra y transferencia de polen como lo hacen. Muchos de los "
+"polinizadores son animales que la transferencia de polen en su pelo o piel. "
+"Si no hubiera ninguna polinizadores, habría mucho menos semillas y frutos en "
+"el mundo."
+
+msgid "nectar"
+msgstr "néctar"
+
+msgid ""
+"Many flowers produce nectar, a food for some insects. Pollinators love to "
+"drink the sweet nectar at the base of the pistil and go from flower to "
+"flower to get more."
+msgstr ""
+"Muchas flores producen néctar, un alimento para algunos insectos. "
+"Polinizadores amar beber el dulce néctar en la base del pistilo e ir de flor "
+"a flor para conseguir más."
+
+msgid "Close me!"
+msgstr "¡Ciérreme!"
+
+msgid "self-pollination"
+msgstr "autopolinización"
+
+msgid ""
+"When pollen is transferred by a pollinator to the same plant in order to "
+"reproduce, this is called self-pollination. Hylocereus undatus is a "
+"hermaphrodite plant with both carpels and stamens for performing self-"
+"pollination."
+msgstr ""
+"Cuando el polen es transferido por un polinizador a la misma planta para "
+"reproducir, esto se denomina autopolinización. Hylocereus undatus es una "
+"planta hermafrodita con carpelos y estambres para realizar la "
+"autopolinización."
+
+msgid "cross-pollination"
+msgstr "polinización cruzada."
+
+msgid ""
+"When pollen is transferred by a pollinator to a different plant in order to "
+"reproduce, this is called cross-pollination."
+msgstr ""
+"Cuando el polen es transferido por un polinizador a una planta diferente "
+"para reproducir, esto se llama polinización cruzada."
+
+# 13
+msgid "Checking what you now know... about the life cycle of plants"
+msgstr "Comprobando lo que ya sabes... sobre el ciclo de vida de las plantas"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know."
+msgstr ""
+"Contestar las siguientes preguntas del 6 seis cuestionario le dará una idea "
+"de lo que ya sabes."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Cuando esté listo, haga clic en el botón siguiente."
+
+msgid "guess what's next?"
+msgstr "¿Sabes qué es el siguiente?"
+
+# 14
+msgid "You answered..."
+msgstr "Ha contestado..."
+
+msgid "preparing your first quiz question!"
+msgstr "¡Preparando la primera pregunta del cuestionario!"
+
+msgid "Please select your answer."
+msgstr "Por favor seleccione su respuesta."
+
+msgid "Which part of the plant makes seeds?"
+msgstr "¿Qué parte de la planta hace las semillas?"
+
+msgid "Root"
+msgstr "Raíz"
+
+msgid "Flower"
+msgstr "La flor"
+
+msgid "Leaf"
+msgstr "Hoja"
+
+msgid ""
+"No, the roots absorb the water and nutrients from the soil into the plant."
+msgstr ""
+"No, las raíces absorben el agua y los nutrientes del suelo a la planta."
+
+msgid ""
+"No, the stem gives the plant support. It is also in charge of distributing "
+"water and sap throughout the plant."
+msgstr ""
+"No, el tallo da el soporte de la planta. También es responsable de "
+"distribuir agua y sap en toda la planta."
+
+msgid ""
+"Correct. The flower is the part that has the stamen and pistil to make seeds."
+msgstr ""
+"Correcto. La flor es la parte que tiene los estambres y el pistilo para "
+"hacer que las semillas."
+
+msgid ""
+"No, plant leaves have the important job of producing food through "
+"photosynthesis."
+msgstr ""
+"No, hojas de las plantas tienen la tarea importante de producción de "
+"alimentos mediante la fotosíntesis."
+
+msgid "You didn't select any answer."
+msgstr "No ha seleccionado ninguna respuesta."
+
+# 15
+msgid ""
+"A strong storm has blown through your neighborhood. After the storm, you "
+"noticed the flowers on the plants outside have been damaged. How would this "
+"affect the life cycle of the plant?"
+msgstr ""
+"Una fuerte tormenta ha soplado a través de su vecindario. Después de la "
+"tormenta, viste a que las flores de las plantas fuera han sido dañadas. "
+"¿Cómo afectaría esto el ciclo de vida de la planta?"
+
+msgid "It would not affect the plant's life cycle at all."
+msgstr "No afectaría ciclo de vida de la planta en absoluto."
+
+msgid "Without its flowers and seeds, the plant would be unable to reproduce."
+msgstr "Sin sus flores y semillas, la planta sería incapaz de reproducirse."
+
+msgid ""
+"A pollinator can still make the plant reproduce, even without the flower and "
+"seeds."
+msgstr ""
+"Un polinizador puede todavía hacer la planta reproducir, incluso sin la flor "
+"y las semillas."
+
+msgid "The plant would remain in its current state until it is removed."
+msgstr "La planta permanecerá en su estado actual hasta que es eliminado."
+
+msgid ""
+"No, it would affect the plant’s life cycle. Without its flowers and seeds, "
+"the plant would be unable to reproduce."
+msgstr ""
+"No, afectaría a ciclo de vida de la planta. Sin sus flores y semillas, la "
+"planta sería incapaz de reproducirse."
+
+msgid ""
+"Most flowering plants need seeds to reproduce. If the flowers are too "
+"damaged to create seeds, the plant would produce new flowers to allow "
+"reproduction to continue."
+msgstr ""
+"La mayoría de las plantas florecientes necesitan semillas para reproducirse. "
+"Si las flores son demasiado dañadas para crear semillas, la planta "
+"produciría nuevas flores para permitir la reproducción para continuar."
+
+msgid ""
+"No, a pollinator does not make the plant reproduce. It simply assists in "
+"pollination and helps set the stage for reproduction in the flower."
+msgstr ""
+"No, un polinizador no hace la planta reproducirse. Simplemente asiste en la "
+"polinización y ayuda a preparar el escenario para la reproducción en la flor."
+
+msgid ""
+"No, even the organisms that have the ability to fix themselves do not go "
+"backwards in their life cycle. Without its flowers and seeds, the plant "
+"would be unable to reproduce."
+msgstr ""
+"No, ni siquiera los organismos que tienen la capacidad de fijar ellos "
+"mismos, no retroceder en su ciclo de vida. Sin sus flores y semillas, la "
+"planta sería incapaz de reproducirse."
+
+# 16
+msgid "Plants can be pollinated by?"
+msgstr "Las plantas pueden ser polinizadas por"
+
+msgid "Soil"
+msgstr "El suelo"
+
+msgid "Bees"
+msgstr "Las abejas"
+
+msgid "Bee"
+msgstr "Abeja"
+
+msgid "Watering them"
+msgstr "Regarlas"
+
+msgid "Seeds"
+msgstr "Semillas"
+
+msgid ""
+"No, soil does not pollinate plants. Soil provides water and nutrients to "
+"plants."
+msgstr ""
+"No, el suelo no polinizan las plantas. Suelo proporciona agua y nutrientes a "
+"las plantas."
+
+msgid ""
+"No, watering the plants helps them grow, but not pollinate. Bees can "
+"pollinate plants."
+msgstr ""
+"No, el suelo no polinizan las plantas. Suelo proporciona agua y nutrientes a "
+"las plantas."
+
+msgid ""
+"Correct, bees can pollinate plants. When a bee lands on a flower, its feet "
+"get full of pollen. The bee flies away looking for nectar and lands on "
+"another flower. The pollen is now on a different flower."
+msgstr ""
+"Correcto, las abejas pueden polinizar las plantas. Cuando una abeja tierras "
+"de una flor, sus pies se lleno de polen. La abeja vuela buscando néctar y "
+"tierras de otra flor. El polen se encuentra ahora en una flor."
+
+msgid ""
+"No, watering the plants help them grow, but not pollinate. Bees can "
+"pollinate plants."
+msgstr ""
+"No, regando la plantas ayuda ellos crecen, pero no polinizan. Las abejas "
+"pueden polinizar las plantas."
+
+msgid ""
+"No, seeds are formed after pollination takes place. Bees can pollinate "
+"plants."
+msgstr ""
+"No, las semillas se forman después de la polinización. Las abejas pueden "
+"polinizar las plantas."
+
+# 17
+msgid "Which statement best summarizes the life cycle of plants in general?"
+msgstr ""
+"¿Qué afirmación resume mejor el ciclo de vida de las plantas en general?"
+
+msgid "Select one of the choices below."
+msgstr "Seleccione una de las opciones más abajo."
+
+msgid ""
+"Seed sprouts into a seedling, which grows into an adult plant, which "
+"produces more seeds."
+msgstr ""
+"La semilla brota en una planta de semillero, que se convierte en una planta "
+"adulta, que produce más semillas."
+
+msgid ""
+"Seedling sprouts into a seed, which produces more seeds, and then grows into "
+"an adult plant."
+msgstr ""
+"La planta de semillero brota en una semilla, que produce más semillas, y "
+"luego se convierte en una planta adulta."
+
+msgid "Adult plant deteriorates into a seedling, which produces more seeds."
+msgstr ""
+"Planta adulta se deteriora en una planta de semillero, que produce más "
+"semillas."
+
+msgid ""
+"Seed grows first into an adult and then a seedling, which produces more "
+"seeds."
+msgstr ""
+"La semilla se pone primera en un adulto y luego una planta de semillero, que "
+"produce más semillas."
+
+msgid ""
+"Correct. A seed sprouts into a seedling through germination, which grows "
+"into an adult plant, which produces more seeds."
+msgstr ""
+"Correcto. Una semilla brota en una planta de semillero a través de la "
+"germinación, que se convierte en una planta adulta, que produce más semillas."
+
+msgid ""
+"No, a seed sprouts into a seedling (not the other way around). Once it is an "
+"adult plant it can produce more seeds."
+msgstr ""
+"No, una semilla brota en una planta de semillero (no al revés). Una vez que "
+"es una planta adulta puede producir más semillas."
+
+msgid ""
+"No, a seedling grows into an adult plant (not the other way around). Once it "
+"is an adult plant it can produce more seeds."
+msgstr ""
+"No, una planta de semillero se convierte en una planta adulta (no al revés). "
+"Una vez que es una planta adulta puede producir más semillas."
+
+msgid ""
+"No, a seed grows first into a seedling, then an adult plant. Once it is an "
+"adult plant it can produce more seeds."
+msgstr ""
+"No, una semilla crece primera en una planta de semillero, entonces una "
+"planta adulta. Una vez que es una planta adulta puede producir más semillas."
+
+# 18
+msgid ""
+"Correct. from day 1 to day 6, the plant’s growth was relatively steady, "
+"until it experienced a very noticeable change when its height went from 2.7 "
+"to 1.1 cm."
+msgstr ""
+"Correcto. Del día 1 al día 6, el crecimiento de la planta fue relativamente "
+"estable, hasta que se ha experimentado un cambio muy notable cuando su "
+"altura pasó de 2.7 a 1.1 centímetros."
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change"
+msgstr ""
+"No, después día 6 crecimiento de la planta no más despacio; su altura fue de "
+"2,7 a 1,1 cm. Este es un cambio notable"
+
+msgid "The plant grew very quickly, and then slowed down its growth."
+msgstr ""
+"La planta creció muy rápidamente, y luego hizo más lenta su crecimiento."
+
+msgid ""
+"No, from day 1 to day 6, the plant's growth was relatively steady, until it "
+"experienced a very noticeable change."
+msgstr ""
+"No, desde el día 1 a día 6, crecimiento de la planta fue relativamente "
+"constante, hasta que experimentó un cambio muy notable."
+
+msgid "The plant grew very slowly, and then sped up its growth."
+msgstr "La planta creció muy lentamente y luego aceleró su crecimiento."
+
+msgid ""
+"No, most of the growth was steady, but after day 6 its height went from 2.7 "
+"to 1.1 cm."
+msgstr ""
+"No, la mayoría del crecimiento fue constante, pero después el día 6 su "
+"altura fue de 2,7 a 1,1 cm."
+
+msgid "The plant grew in a steady manner throughout the time of observation."
+msgstr ""
+"La planta creció de manera constante a lo largo del tiempo de observación."
+
+msgid "Which statement best describes the life of this plant?"
+msgstr "¿Qué afirmación mejor describe la vida de esta planta?"
+
+msgid ""
+"The plant showed steady growth until it experienced a very noticeable change."
+msgstr ""
+"La planta mostró un crecimiento sostenido hasta que experimentó un cambio "
+"muy notable."
+
+msgid "Day after germination"
+msgstr "Día después de la germinación"
+
+msgid "Plant height in cm"
+msgstr "Altura de planta en cm"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "Haga clic, mantenga y deslice el ratón hacia arriba o hacia abajo."
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change."
+msgstr ""
+"No, después día 6 crecimiento de la planta no más despacio; su altura fue de "
+"2,7 a 1,1 cm. Este es un cambio notable."
+
+# 19
+msgid ""
+"When insects and wind assist and pollen from the same flower is brought to "
+"the stigma of that flower. This description is related to which of the "
+"following terms?"
+msgstr ""
+"Cuando los insectos y el viento asisten y el polen de la misma flor se trae "
+"al estigma de esa flor. ¿Esta descripción se relaciona con cuál de los "
+"términos siguientes?"
+
+msgid "Cross-pollination"
+msgstr "Polinización cruzada"
+
+msgid "Self-pollination"
+msgstr "Autopolinización"
+
+msgid "Seed dispersal"
+msgstr "Dispersión de semillas"
+
+msgid ""
+"No, cross-pollination is when pollen from a different flower is brought to "
+"the stigma of a flower."
+msgstr ""
+"No, la polinización cruzada es cuando el polen de una flor diferente se trae "
+"al estigma de una flor."
+
+msgid ""
+"Correct. Pollinators can help, as long as the pollen and stigma are from the "
+"same flower, it is considered self-pollination."
+msgstr ""
+"Correcto.  Los polinizadores pueden ayudar, mientras el polen y el estigma "
+"son de la misma flor, se considera la autopolinización."
+
+msgid "No, germination is the sprouting and growth of a seed to a seedling."
+msgstr ""
+"No, la germinación es brotar y el crecimiento de una semilla a una planta de "
+"semillero."
+
+msgid ""
+"No, pollinators such as insects and wind disperse seeds for pollination. "
+"Self-pollination is when pollen from the same flower is brought to the "
+"stigma of that flower."
+msgstr ""
+"No, los polinizadores tales como insectos y el viento dispersan semillas "
+"para la polinización.  La autopolinización es cuando el polen de la misma "
+"flor se trae al estigma de esa flor."
+
+# 20
+msgid "End of Review"
+msgstr "Final de la revisión"
+
+msgid "Congratulations, "
+msgstr "Buen trabajo,"
+
+msgid "Congratulations!"
+msgstr "¡Buen trabajo!"
+
+msgid "You've completed the Life Cycle of Plants review."
+msgstr "Ha completado la revisión del Ciclo de Vida de las Plantas."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puede comprobar cómo lo has hecho en la 'Comprobación Rápido' y 'Preguntas "
+"Cuestionario' Cuestionario' para este examen haciendo clic en el botón de "
+"abajo."
+
+# preloaders
+msgid "The parts of the plant"
+msgstr "Las partes de la planta"
+
+msgid "Planting seeds..."
+msgstr "Plantando semillas..."
+
+msgid "Flowers are blooming"
+msgstr "Las flores están floreciendo"
+
+msgid "Attracting pollinators..."
+msgstr "Atraer a los polinizadores…"
+
+msgid "Preparing your first quick check!"
+msgstr "Preparando su primer comprobación rápido!"
+
+msgid "Do you like flowers?"
+msgstr "¿Te gustan las flores?"
+
+msgid "Another quick check on the way!"
+msgstr "¡Otra comprobación rápida muy pronto!"
+
+msgid "The colony collapse"
+msgstr "El colapso de la colonia"
+
+msgid "Putting it all together..."
+msgstr "Juntándolo todo..."
+
+msgid "Words and definitions"
+msgstr "Palabras y definiciones"
+
+msgid "Let's check what you now know"
+msgstr "Vamos a comprobar lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta del cuestionario es..."
+
+msgid "Plants and storms"
+msgstr "Las plantas y las tormentas"
+
+msgid "Who can pollinate?"
+msgstr "¿Quién puede polinizar?"
+
+msgid "The plant life cycle is..."
+msgstr "El ciclo de vida de la planta es..."
+
+msgid "Last two!"
+msgstr "¡Los últimos dos!"
+
+msgid "Pollinator assistants"
+msgstr "Asistentes de polinizadores"
+
+msgid "You're done!"
+msgstr "¡Se termina! "
+
+msgid "All living organisms"
+msgstr "Todos los organismos vivos"

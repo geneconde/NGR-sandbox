@@ -1,0 +1,866 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: healthy eating\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ask@jigzen.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.8.3\n"
+
+# 1
+msgid "Healthy Eating"
+msgstr "الغذاء الصحي"
+
+msgid "Welcome to the Healthy Eating module"
+msgstr "مرحبا بكم وحدة الغذاء الصحي"
+
+# 2
+msgid "Thinking about... healthy eating"
+msgstr "التفكير ... بالغذاء الصحي"
+
+msgid "Reviewing big ideas about... healthy eating"
+msgstr "بنية المادة وخصائصها... بالغذاء الصحي"
+
+msgid "What is food to you? Something you eat during a movie or something to keep you busy when you hang out with friends? Or is food like fuel to give you energy and keep you going? How you think about food will affect what and how much you eat. Think about healthy eating and the decisions you make every day that change your body and your health."
+msgstr "ما هو الغذاء بالنسبة لك؟ شيء تأكله خلال فيلم أو شيء لإبقائك مشغولا عندما تخرج مع الأصدقاء؟ أو هل الغذاء مثل الوقود يعطيك الطاقة للاستمرار ؟ كيف تفكر حول تاثير الطعام عليك وما هي كمية الطعام التي تأكلها، فكرفي الأكل الصحي والقرارات التي تقوم به كل يوم التي من الممكن أن تغيير جسمك وصحتك."
+
+msgid "You are what you eat. Why not eat the best? Is the best food the same for everyone? Is food that is cheap or ready to eat always the best food for our bodies?"
+msgstr "أنت تمثل ما تأكله. لماذا لا تأكل بشكل أفضل؟ هل  الغذاء الأفضل هو نفسه الأفضل للجميع؟ هل الغذاء الرخيص والسريع هو الغذاء الأفضل  لأجسامنا؟"
+
+# 3
+msgid "Checking what you already know about... healthy eating"
+msgstr "التأكد من مدى معرفتك ... بالغذاء الصحي"
+
+msgid "Drag the food you see on the left into the correct food group on the right it belongs in."
+msgstr "اسحب الطعام الذي تراه في اليسار والذي ينتمي إلى المجموعة الغذائية الصحيحة في اليمين ."
+
+msgid "Items"
+msgstr "أصناف"
+
+msgid "Grain"
+msgstr "حبوب"
+
+msgid "Vegetable"
+msgstr "خضار"
+
+msgid "Fruit"
+msgstr "فواكه"
+
+msgid "Milk"
+msgstr "حليب"
+
+msgid "Meat"
+msgstr "لحوم"
+
+msgid "You dragged food into each of the five food groups. Continue to read on about each of these food groups and other elements of a healthy lifestyle such as getting enough vitamins and exercise."
+msgstr "لقد قمت بسحب الغذاء في كل من المجموعات الغذائية الخمس. استمر في القراءة عن  كل من المجموعات الغذائية وغيرها من العناصر لاتباع اسلوب حياة صحي مثل الحصول على ما يكفي من الفيتامينات وممارسة الرياضة."
+
+msgid "Sorting foods..."
+msgstr "تصنيف الأطعمة  ..."
+
+# 4
+msgid "Five Food Group"
+msgstr "مجموعة الأغذية الخمسة"
+
+msgid "Grain Group"
+msgstr "مجموعة الحبوب"
+
+msgid "Vegetables Group"
+msgstr "مجموعة الخضروات"
+
+msgid "Fruit Group"
+msgstr "مجموعة الفواكه"
+
+msgid "Oil Group"
+msgstr "مجموعة الزيوت"
+
+msgid "Milk Group"
+msgstr "مجموعة الألبان"
+
+msgid "Meat and Beans"
+msgstr "مجموعة اللحوم والبقوليات"
+
+msgid "More big ideas about... healthy eating"
+msgstr "المزيد من الأفكار الأساسية حول ... الغذاء الصحي"
+
+msgid "The things you eat every day make up your <span class='key'>diet</span>. A healthy diet contains different kinds of foods. Scientists who study <span class='key'>healthy eating</span> habits came up with the <span class='key'>Food Guidance System</span> that tells you what food and how much of it you should eat to stay healthy. You can see this in MyPyramid, a <span class='key'>food pyramid</span> of the five food groups. This diagram shows you how to find a balance between your food intake and physical activity."
+msgstr "الأشياء التي تأكلها كل يوم هي من يحدد <span class='key'>حميتك الغذائية</span>. اتباع نظام غذائي صحي يحتوي على أنواع مختلفة من الأطعمة. العلماء الذين يدرسون <span class='key'>الغذاء الصحي</span> جاؤوا بفكرة <span class='key'>نظام إرشادي للطعام</span> والذي  يخبرك ما هو الغذاء ومقدار ما يجب أن تأكل للبقاء في صحة جيدة. يمكنك ان ترى هذا في <span class='key'>الهرم الغذائي</span> عن العناصر الغذائية الخمسة.هذا الرسم البياني يوضح لك كيفية إيجاد توازن بين الاستهلاك الغذائي والنشاط البدني الخاص بك ."
+
+msgid "Click to enlarge"
+msgstr "أنقر لتكبير الصورة"
+
+msgid "Let's take a closer look at the pyramid. Each of the five food groups (Grain, Vegetable, Fruit, Milk, and Meat & Beans) is identified by a unique color. The person running up the stairs reminds you to be physically active every day. All the colors show you to eat foods from every food group every day. Some of the stripes are larger because you should eat more foods from the food groups with the wider stripes. The colored stripes are wider at the bottom of the pyramid, showing you that every food group has foods we should eat more than others. You should also choose healthier foods from each food group."
+msgstr "دعونا نلقي نظرة أقرب على الهرم الغذائي. يتم تعريف كل من المجموعات الغذائية الخمس (الحبوب، والخضار، والفاكهة، والحليب، واللحوم والبقوليات) عن طريق لون معين يميزها.  الشخص الذي يصعد الدرج راكضا يذكرك بأن تكون نشيطاً بدنيا كل يوم.  تبين لك كل الألوان أن تأكل أطعمة من كل مجموعة غذائية في كل يوم. بعض الخطوط في الهرم  أكبر لأنك يجب تناول المزيد من الأطعمة من المجموعات الغذائية ذات الخطوط الأوسع. الخطوط الملونة هي أوسع في الجزء السفلي من الهرم، وتبين لك أن كل مجموعة غذائية لديها الأطعمة التي ينبغي لنا أن نأكلها  أكثر من غيرها. يجب عليك أيضا اختيار الأطعمة الصحية من كل مجموعة غذائية."
+
+msgid "Grains are divided into 2 subgroups: <span class='key'>whole grains</span> and refined grains. Whole grains contain the entire grain kernel - the bran, germ, and endosperm. Examples include whole-wheat flour, oatmeal, whole cornmeal, and brown rice. <span class='key'>Refined grains</span> have been milled, a process that removes the bran and germ. This is done to give grains a finer texture and improve their shelf life, but it also removes dietary fiber, iron, and many B vitamins. Some examples of refined grain products are white flour, white bread, and white rice."
+msgstr "وتنقسم الحبوب إلى فرعين: <span class='key'>الحبوب الكاملة</span>   والحبوب المكررة. الحبوب الكاملة تحتوي على نواة الحبوب كلها - نخالة وجنين، والإندوسبيرم.  وتشمل الأمثلة  دقيق القمح الكامل ودقيق الشوفان، ودقيق الذرة الكاملة، والأرز البني.  <span class='key'>والحبوب المكررة</span>  يتم طحنها، وهي العملية التي تزيل النخالة والجنين.  ويتم ذلك لإعطاء الحبوب نسيج أدق وتحسين مدة فترة تخزينها، ولكنه أيضا يزيل الألياف الغذائية والحديد، والعديد من فيتامينات ب.  بعض الأمثلة من منتجات الحبوب المكررة هي الطحين الأبيض، والخبز الأبيض، والأرز الأبيض."
+
+msgid "Food in the meat and bean group offers the body protein. All foods made from meat, poultry, fish, dry beans or peas, eggs, nuts, and seeds are considered part of this group. Dry beans and peas are part of this group as well as the vegetable group. Most meat and poultry choices should be lean or low fat. Fish, nuts, and seeds contain healthy oils, so choose these foods frequently instead of meat or poultry."
+msgstr "الطعام في مجموعة اللحوم والبقوليات يوفر البروتين للجسم.  وتعتبر جميع الأطعمة المصنوعة من اللحوم والدواجن والأسماك والفاصوليا أو البازلاء والبيض، والمكسرات، والبذور جزءا من هذه المجموعة.  الفاصوليا الجافة والبازيلاء هي جزء من هذه المجموعة، فضلا عن مجموعة الخضروات. وينبغي أن تكون معظم خيارات اللحوم والدواجن خالية من الدهون أو منخفضة الدهون.  وتحتوي الأسماك والمكسرات، والبذور تحتوي على زيوت صحية، لذلك عليك اختيار هذه الأطعمة بشكل متكرر  بدلا من اللحوم أو الدواجن."
+
+msgid "Grain Group: Make half your grains whole"
+msgstr "مجموعة الحبوب : اجعل نصف ما تأكل من الحبوب كاملة."
+
+msgid "Eat at least 3 oz. of whole-grain cereals, bread, crackers, rice, or pasta every day."
+msgstr "تناول على الأقل 3 أونصات من الحبوب الكاملة أو الخبز أو البسكويت أو الأرز أو المعكرونة كل يوم."
+
+msgid "Vegetable Group: Vary your veggies"
+msgstr "مجموعة الخضروات: نوَع في خضرواتك"
+
+msgid "Eat more dark green veggies like broccoli, spinach and other dark leafy greens."
+msgstr "تناول المزيد من الخضار الخضراء الداكنة مثل البروكلي والسبانخ والنباتات الورقية الخضراء الداكنة الأخرى."
+
+msgid "Eat more orange vegetables like carrots and sweet potatoes."
+msgstr "تناول المزيد من الخضروات البرتقالية مثل الجزر والبطاطا الحلوة."
+
+msgid "Eat more dry beans and peas like pinto beans, kidney beans and lentils."
+msgstr "تناول المزيد من الفاصوليا الجافة والبازلاء والعدس."
+
+msgid "Fruit Group: Focus on fruits"
+msgstr "مجموعة الفواكه: التركيز على الفواكه"
+
+msgid "Eat a variety of fruits."
+msgstr "تناول مجموعة متنوعة من الفواكه."
+
+msgid "Choose fresh, frozen, canned or dried fruit."
+msgstr "اختر الفواكه الطازجة والمجمدة والمعلبة أو المجففة."
+
+msgid "Go easy on fruit juices."
+msgstr "لا تكثر من عصائر الفواكه"
+
+msgid "Milk Group: Get your calcium-rich food"
+msgstr "مجموعة الحليب: احصل على المواد الغذائية  الخاص بك والغنية بالكالسيوم"
+
+msgid "Go low fat or fat-free when you choose milk, yogurt, and other milk products."
+msgstr "عند اختيار الحليب واللبن اختر ما هو منخفض الدهون أو خال من الدهون ، ومنتجات الألبان الأخرى."
+
+msgid "If you don't or can't consume milk, choose lactose-free products or other calcium sources such as fortified foods and beverages."
+msgstr "إذا لم أو لا يمكنك أن تستهلك الحليب، اختر المنتجات الخالية من اللاكتوز أو مصادر الكالسيوم الأخرى مثل الأغذية المقوية والمشروبات."
+
+msgid "Meat & Beans Group: Go lean with protein"
+msgstr "مجموعة اللحوم والبفوليات : التقليل من تناول البروتين"
+
+msgid "Choose low fat or lean meat and poultry."
+msgstr "اختر  اللحوم والدواجن قليلة الدسم أو الخالية من الدهون ."
+
+msgid "Bake it, broil it or grill it."
+msgstr "اخبزها أو حمَصها أو اشويها."
+
+msgid "Vary your protein routine - choose more fish, beans, peas, nuts and seeds."
+msgstr "غيَر من روتين بروتينك - اختر المزيد من الأسماك والفاصوليا والبازلاء والمكسرات والبذور."
+
+msgid "Oils come from many different plants and from fish. Some common oils are canola oil, corn oil, cottonseed oil, olive oil, and sunflower oil. A number of foods are naturally high in oils, like nuts, olives, some fish, and avocados."
+msgstr "الزيوت تأتي من العديد من النباتات المختلفة ومن الأسماك. بعض الزيوت الشائعة هي زيت الكانولا، زيت الذرة، وزيت بذرة القطن وزيت الزيتون، وزيت عباد الشمس.  وهناك عدد من الأطعمة تحتوي على نسبة عالية من الزيوت بشكل طبيعي، مثل المكسرات والزيتون وبعض الأسماك، والأفوكادو."
+
+msgid "Looking at the Pyramid..."
+msgstr "من خلال النظر إلى الهرم ..."
+
+# 5a
+msgid "Question A. Which food is a whole grain product?"
+msgstr "السؤال أ: أي طعام هو منتج من الحبوب الكاملة؟"
+
+msgid "Mushroom"
+msgstr "الفطر"
+
+msgid "Oatmeal"
+msgstr "دقيق الشوفان"
+
+msgid "White Bread"
+msgstr "الخبز الأبيض"
+
+msgid "White Rice"
+msgstr "الارز الأبيض"
+
+msgid "Question B. Which food group is our body's best source of energy?"
+msgstr "السؤال ب: ما هي المجموعة الغذائية التي تمثل أفضل مصدر للطاقة لدينا في الجسم ؟"
+
+msgid "Meat and Beans group"
+msgstr " مجموعة اللحوم والبقوليات"
+
+msgid "Milk group"
+msgstr "مجموعة الألبان"
+
+msgid "Grain group"
+msgstr "مجموعة الحبوب"
+
+msgid "Vegetable group"
+msgstr "مجموعة الخضروات"
+
+# 5b
+msgid "No, mushrooms are not part of the grain food group. Oatmeal is a whole grain product."
+msgstr "لا، الفطر ليس جزءا من مجموعة الحبوب الغذائية.  دقيق الشوفان هو منتج من الحبوب الكاملة."
+
+msgid "Correct, oatmeal is a whole grain product."
+msgstr "صحيح، دقيق الشوفان هو منتج من الحبوب الكاملة."
+
+msgid "Not quite, white bread is part of the grain food group, but it is not whole grain."
+msgstr "ليس تماما، الخبز الأبيض هو جزء من مجموعة الحبوب الغذائية، ولكن ليس من الحبوب الكاملة."
+
+msgid "Not quite, white rice is part of the grain food group, but it is not whole grain."
+msgstr "ليس تماما، الأرز الأبيض هو جزء من مجموعة الحبوب الغذائية، ولكن ليس من الحبوب الكاملة."
+
+msgid "No, meat and beans are an important source for your body to build protein."
+msgstr "لا، اللحوم والبقوليات مصدرا مهما لجسمك لبناء البروتين."
+
+msgid "Milk is a good source of vitamins and minerals, and helps the body build protein."
+msgstr "الحليب هو مصدر جيد من الفيتامينات والمعادن، ويساعد الجسم كي يبني البروتين ."
+
+msgid "Correct. We get the most energy from grains."
+msgstr "صحيح. نحصل على أكبر قدر من الطاقة من الحبوب."
+
+msgid "Vegetables offer the body different kinds of vitamins and minerals, but we get the most energy from grains."
+msgstr "الخضروات توفر للجسم أنواع مختلفة من الفيتامينات والمعادن، ولكن نحصل على أكبر قدر من الطاقة من الحبوب."
+
+# 6a
+msgid "MyPyramid suggests that we make half our grains whole, vary our veggies, focus on fruits, get our calcium-rich foods, and go lean with protein.  This is easy to follow, but every person needs their own plan (or diet) for what to eat every day."
+msgstr "الشكل الهرمي يوحي بأن نجعل نصف ما نتناول من الحبوب هي الحبوب الكاملة، والتنويع في الخضار ، والتركيز على الفواكه والحصول على الأطعمة الغنية بالكالسيوم لدينا، والتقليل من تناول  البروتين. هذا من السهل متابعتة، ولكن كل شخص يحتاج إلى خطة خاصة به (أو نظام غذائي) لما يتناول من الطعام كل يوم."
+
+msgid "One way to analyze your diet is in terms of the <span class='key'>calories</span> or energy contained in each food. Different foods contain different amounts of calories, or potential energy. Each of the items to the right contains about 100 calories. Cheese has a lot of fat compared to cherry tomatoes; a small piece of cheese has the same amount of calories as a bowl of tomatoes. The type of food (fat, protein, or carbohydrate) is what determines the number of calories, and the amount we eat determines how fattening it can be."
+msgstr "طريقة واحدة لتحليل النظام الغذائي الخاص بك هو ما يتعلق <span class='key'>بالسعرات الحرارية</span>  أو الطاقة الموجودة في كل المواد الغذائية. الأطعمة المختلفة تحتوي على كميات مختلفة من السعرات الحرارية أو الطاقة المحتملة.  كل من العناصر إلى اليمين تحتوي حوالي 100 سعرة حرارية.  الجبن يحتوي على الكثير من الدهون مقارنة بالبندورة.  قطعة صغيرة من الجبن لها نفس كمية السعرات الحرارية الموجودة في وعاء من البندورة.  نوع المواد الغذائية (الدهون والبروتين والكربوهيدرات ) هو ما يحدد عدد السعرات الحرارية والمقدار الذي نأكله يحدد مدى تسمينه لنا."
+
+msgid "50 Cherry tomatoes"
+msgstr "50  حبة كرز صغيرة"
+
+msgid "1 Chocolate shortbread cookie"
+msgstr "1 بسكويت بالشوكولاته "
+
+msgid "1 Glass of juice orange"
+msgstr "كأس من عصير البرتقال"
+
+msgid "About 4 squares of chocolate"
+msgstr "حوالي 4 مربعات من الشوكولاته"
+
+msgid "1 Cube of cheese, 3/4 inch across"
+msgstr " مكعب واحد من الجبن عرضه أقل من إنش."
+
+msgid "1 Large chicken egg"
+msgstr "بيضة دجاج كبيرة"
+
+# 6b
+msgid "Exactly how many calories every person needs a day depends on the height, weight, age, gender, and activity level of that person. Usually, children need less than 2000 calories a day and should be physically active for an hour a day."
+msgstr "يعتمد احتياج عدد السعرات الحرارية لكل شخص بالضبط  يوميا على الطول والوزن والعمر ومستوى الجنسين، ونشاط ذلك الشخص.  عادة، يحتاج الأطفال إلى أقل من 2000 سعرة حرارية في اليوم، ويجب أن يكونوا نشطين بدنيا لمدة ساعة يوميا."
+
+msgid "Being physically active is a key element in living a longer, healthier, happier life and goes hand in hand with healthy eating. It can help relieve stress and can provide an overall feeling of well-being. Physical activity can also help you achieve and maintain a healthy weight. The body maintains a balance between the food you eat (calories in) and the exercise you do (calories out). The calories you do not burn are stored in the body in the form of fat."
+msgstr "النشاط الجسدي هو العنصر الأساسي في العيش لمدة أطول وأكثر صحة، وحياة أسعد جنبا إلى جنب مع الغذاء الصحي.  ويمكن أن تساعد في تخفيف التوتر ويمكن أن توفر الشعور العام بالعافية.  النشاط البدني يمكن أن يساعدك في الحفاظ والحصول على وزن صحي. يحافظ الجسم على التوازن بين الطعام الذي تتناوله (السعرات الحرارية داخل الجسم) وممارسة الرياضة (السعرات الحرارية الخارجة من الجسم). و يتم تخزين السعرات الحرارية التي لا تحرق في الجسم على شكل دهون."
+
+msgid "Reading nutrition facts..."
+msgstr "قراءة حقائق التغذية ..."
+
+# 7a
+msgid "Question A. Choose the <span class='blink'>best</span> answer to the following question. How do we stay healthy?"
+msgstr "السؤال أ:  اختر  الإجابة  <span class='blink'>الأفضل</span> على السؤال التالي. كيف يمكننا البقاء في صحة جيدة؟"
+
+msgid "Exercising every day for half an hour is being healthy."
+msgstr "ممارسة التمارين الرياضية كل يوم لمدة نصف ساعة يعني أنك صحي."
+
+msgid "Eating food from all the food groups is all you need to be healthy."
+msgstr "تناول الطعام من مختلف المجموعات الغذائية هو كل ما تحتاجه لتكون بصحة جيدة."
+
+msgid "Not eating a lot of sugar or salt is healthy eating."
+msgstr "عدم تناولك الكثير من السكر أو الملح يعني تناولك غذاء صحي."
+
+msgid "Eating from all food groups and exercising is healthy living."
+msgstr "الأكل من جميع المجموعات الغذائية وممارسة الرياضة يعتبر حياة صحية فعلياً."
+
+msgid "Question B. It's an hour before your big game and you're feeling hungry. What's the <span class='blink'>best</span> thing to eat?"
+msgstr "السؤال ب: بقي على المباراة الكبيرة ساعة  وكنت تشعر بالجوع. ما هو <span class='blink'>أفضل</span> شيء للأكل؟"
+
+msgid "An ice cream float"
+msgstr "كاسة من البوظة بالرغوة. "
+
+msgid "An apple and a muffin"
+msgstr "تفاحة وفطيرة"
+
+msgid "Spaghetti and Meatballs"
+msgstr "المعكرونة وكرات اللحم"
+
+msgid "A cheeseburger and fries"
+msgstr " برجر بالجبنة والبطاطا"
+
+# 7b
+msgid "Not quite, while exercising is necessary, eating a variety of foods is also needed to stay healthy."
+msgstr "في حين أن ممارسة الرياضة مهمة جدا،يحتاج الجسم تناول الأطعمة المتنوعة للبقاء بصحة جيدة."
+
+msgid "Not quite, while eating a variety of foods is necessary, exercising is also needed to stay healthy."
+msgstr "ليس تماماً، في حين أن الجسم يحتاج تناول الأطعمة المتنوعة للبقاء صحيا. ممارسة الرياضة مهمة جدا أيضا."
+
+msgid "Not quite, not having a lot of sugar or salt is a good eating habit, but regular exercise and eating a variety of foods is also needed for a healthy lifestyle."
+msgstr "ليس تماما،عدم تناول الكثير من السكر أو الملح في الأكل هو عادة جيدة، لكن هناك حاجة أيضا لممارسة التمارين الرياضية بانتظام وتناول مجموعة متنوعة من الأطعمة لنمط حياة صحي."
+
+msgid "Correct, daily exercise and healthy food choices will lead to healthy living."
+msgstr "صحيح، ممارسة التمارين اليومية واختيار الغذاء الصحي سوف يؤدي إلى حياة صحية."
+
+msgid "No, processed sugars will release energy very quickly and will not give you energy throughout the game."
+msgstr "لا، السكريات المصنعة سوف تطلق الطاقة بسرعة كبيرة ولن تعطي لك الطاقة طوال المباراة."
+
+msgid "Correct. An apple and muffin will give you the energy that you need over time."
+msgstr "صحيح.  التفاحة والكعك سوف يعطيانك الطاقة التي تحتاجها مع مرور الوقت."
+
+msgid "No, spaghetti and meatballs is a good combination of grains and protein, but a snack would be better before a game - such as an apple and a muffin."
+msgstr "لا، المعكرونة وكرات اللحم هو مزيج جيد من الحبوب والبروتين، ولكن تناول وجبة خفيفة قبل اللعبة سيكون أفضل مثل التفاح والكعك."
+
+msgid "No, cheeseburger and fries has a lot of oil and is not nearly as healthy as an apple and muffin."
+msgstr "لا،  برجر الجبنة والبطاطا يحتوي الكثير من الزيوت ولا تكاد تكون صحية مثل التفاحة والكعك."
+
+msgid "Eating healthy foods..."
+msgstr "تناول الأغذية الصحية ..."
+
+# 8a
+msgid "The food we eat has changed in the past century. We are eating more processed foods instead of meals made from fresh ingredients. Factories use farm-grown foods to make processed foods. For example, tomatoes are used to make spaghetti sauce, and potatoes are used to make french fries. When foods are processed, certain ingredients are added to them for taste and to make them last longer. Not all of these ingredients are healthy. Also, processed foods don't have as many vitamins and minerals as fresh foods do."
+msgstr "الطعام الذي نأكله قد تغير في القرن الماضي. نحن تناول الأطعمة المعالجة أكثر من وجبات الطعام المصنوعة من المكونات الطازجة. المصانع تستخدم الأغذية المزروعة في المزارع لصنع الأطعمة المصنعة. على سبيل المثال، تستخدم البندورة لصنع صلصة المعكرونة، وتستخدم  البطاطا لصنع البطاطا المقلية.  عندما تتم معالجة الأطعمة، يتم إضافة بعض المكونات لها للطعم تجعلها تدوم فترة أطول. علماً بأنه هذه المكونات ليست كلها صحية.  والأطعمة المصنعة لا تحتوي العديد من الفيتامينات والمعادن كما في الأطعمة الطازجة."
+
+msgid "Vitamins are important to stay healthy. We need vitamins A, C, D, E, K, and eight types of vitamin B. Each vitamin has a special job to do in our body. For the most part, we get vitamins from our food, but taking multivitamins is good for people who might not be eating a variety of food."
+msgstr "الفيتامينات مهمة للبقاء بصحة جيدة.  ونحن بحاجة إلى فيتامينات أ، ج، د، ه، ك، وثمانية أنواع من فيتامين ب.  كل فيتامين له مهمة خاصة يقوم بها في جسمنا.  الجزء الأكبر، نحصل على الفيتامينات من الغذاء، ولكن أخذ الفيتامينات المتعددة جيدة للأشخاص الذين قد لا يأكلون مجموعة متنوعة من الأغذية."
+
+# 8b
+msgid "Vitamin A helps with our vision. It is found in salmon and egg yolks. Our body can also make this vitamin when we eat orange and green vegetables like carrots and kale. Vitamin B helps make energy and set it free when your body needs it. The body also needs them to make red blood cells to carry oxygen throughout our body. Whole grain breads and fish and meat are full of vitamin B."
+msgstr "فيتامين (أ) يساعد نظرنا.  ويوجد في سمك السلمون وصفار البيض.  ويمكن لجسمنا أيضا أن ينتج هذا الفيتامين عندما نأكل الخضار البرتقالية والخضراء مثل الجزر واللفت.  فيتامين (ب) يساعد على تكوين الطاقة وإخراجها عندمايحتاج إليها جسمك  ويحتاج الجسم أيضا له لجعل خلايا الدم الحمراء تحمل الأكسجين في جميع أنحاء الجسم. الخبز والحبوب الكاملة والأسماك واللحوم مليئة بفيتامين B."
+
+msgid "Vitamin C helps heal wounds and burns. It also helps keep gums and muscles in good shape. This vitamin that is found in citrus fruit also helps your body resist infection so you can put off getting sick a little longer. Vitamin D is needed for your bones and teeth. There are two kinds of this vitamin: one that the body makes when we are in the sun, and one that we can get from fortified milk and cereal, and oily fish. We can get vitamin E from vegetable oil and nuts, and vitamin K from vegetables like spinach and broccoli."
+msgstr "فيتامين ج يساعد على التئام الجروح والحروق. كما أنه يساعد على إبقاء اللثة والعضلات في حالة جيدة. هذا الفيتامين موجود في الحمضيات ويساعد الجسم أيضا  على مقاومة العدوى حتى تتمكن من تأجيل الإصابة بالمرض لفترة أطول قليلا. هناك حاجة إلى فيتامين د للعظام والأسنان. و هناك نوعان من هذا الفيتامين: واحد يقوم الجسم بصنعه عندما نكون في الشمس، وآخر يمكننا الحصول عليه من الحليب المدعم والحبوب والأسماك الزيتية. و يمكننا الحصول على فيتامين هاء من الزيوت النباتية والمكسرات، وفيتامين ك من الخضروات مثل السبانخ والقرنبيط."
+
+msgid "Taking vitamins..."
+msgstr "تناول الفيتامينات ..."
+
+# 9a
+msgid "Question A. Which vitamin might be hard to get if you are on a vegetarian or vegan diet?"
+msgstr "السؤال أ:   أي فيتامين قد يكون من الصعب الحصول عليه إذا كنت تتبع نظام غذائي نباتي أو كنت نباتي؟"
+
+msgid "Vitamin C"
+msgstr "فيتامين ج"
+
+msgid "Vitamin B"
+msgstr "فيتامين ب"
+
+msgid "Vitamin E"
+msgstr "فيتامين هاء"
+
+msgid "Vitamin A"
+msgstr "فيتامين أ"
+
+msgid "Question B. Common food sources of Vitamin A are:"
+msgstr "السؤال ب. مصادر الغذاء الشائعة في فيتامين (أ) هي:"
+
+msgid "Milk, eggs, butter, cheese, cream, and liver"
+msgstr "الحليب ،والبيض ،والزبدة ،والجبن ،والقشدة، والكبد."
+
+msgid "White sugar, honey, and sugar cane"
+msgstr "السكر الأبيض ،والعسل، وقصب السكر"
+
+msgid "Broccoli, apricots, cantaloupes, carrots, and spinach"
+msgstr "القرنبيط والمشمش والشمام، والجزر، والسبانخ"
+
+msgid "Both A and C"
+msgstr "كل من أ و ج"
+
+# 9b
+msgid "No, vitamin C is in many fruits and vegetables that vegetarians can eat."
+msgstr "لا، يوجد فيتامين ج في كثير من الفواكه والخضروات والتي يمكن أن يتناولها النباتيون."
+
+msgid "Correct. Vitamin B12 is not available from plant products and it is necessary for blood cell production and cellular metabolism."
+msgstr "صحيح.  فيتامين ب 12  غير متوفر في المنتجات النباتية، وهو ضروري لإنتاج خلايا الدم والأيض الخلوي."
+
+msgid "No, vitamin E is found in vegetable oil and nuts as well as other vegetables such as avocados and asparagus."
+msgstr "لا، يوجد فيتامين هاء في الزيوت النباتية والمكسرات فضلا عن غيرها من الخضروات مثل الأفوكادو والهليون."
+
+msgid "No, vegetarians can get vitamin A from vegetables; they do not need to eat meat to get this vitamin."
+msgstr "لا، يمكن للنباتيين الحصول على فيتامين (أ) من الخضروات. انهم لا يحتاجون إلى أكل اللحوم للحصول على هذا الفيتامين."
+
+msgid "Not quite, other sources are broccoli, apricots, cantaloupes, carrots, and spinach."
+msgstr "ليس تماما، هناك مصادر كالقرنبيط والمشمش والشمام، والجزر، والسبانخ."
+
+msgid "No, sugar is not a source of vitamin A. Broccoli, carrots, milk, cheese, and liver are good sources for this vitamin."
+msgstr "لا، السكر ليس مصدرا لفيتامين أ القرنبيط والجزر والحليب والجبن والكبد هي مصادر جيدة لهذا الفيتامين."
+
+msgid "Not quite, other sources are milk, eggs, butter, cheese, cream, and liver."
+msgstr "ليس تماما ، هناك مصادر أخرى هي الحليب والبيض والزبدة والجبن والقشدة، والكبد."
+
+msgid "Correct. There is a wide variety of sources for vitamin A."
+msgstr "صحيح. هناك مجموعة واسعة من المصادر لفيتامين أ."
+
+# 10a
+msgid "Pretzels"
+msgstr "البريتزيل"
+
+msgid "Potato Chips"
+msgstr "رقائق البطاطا"
+
+msgid "Nutrition Facts"
+msgstr "حقائق غذائية"
+
+msgid "Serving Size: 60g"
+msgstr "مقدار الحصة المقدمة: 60 غرام"
+
+msgid "Amount per serving"
+msgstr "كمية كل حصة مقدمة"
+
+msgid "Calories"
+msgstr "سعرات حرارية"
+
+msgid "Calories from Fat 18"
+msgstr "السعرات الحرارية من الدهون 18"
+
+msgid "% Daily Values"
+msgstr "٪ القيم اليومية"
+
+msgid "Total Fat"
+msgstr "إجمالي الدهون"
+
+msgid "Saturated Fat"
+msgstr "الدهون المشبعة"
+
+msgid "Trans Fat"
+msgstr "الدهون المتحولة "
+
+msgid "Cholesterol"
+msgstr "الكولسترول"
+
+msgid "Sodium"
+msgstr "الصوديوم "
+
+msgid "Total Carbohydrate"
+msgstr "الكربوهيدرات"
+
+msgid "Dietary Fiber"
+msgstr "الألياف الغذائية"
+
+msgid "Sugars"
+msgstr "السكريات"
+
+msgid "*Percent Daily Values are based on a 2,000 calorie diet. Your daily Values may be higher or lower depending on your calories needs."
+msgstr "وتعتمد الألياف الغذائية * النسبة المئوية للقيم اليومية على نظام غذائي 2000 من السعرات الحرارية.  قد تكون القيم اليومية أعلى أو أقل اعتمادا على احتياجاتك من السعرات الحرارية."
+
+msgid "Serving Size: 227g"
+msgstr "مقدار الحصة المقدمة:227 غرام"
+
+msgid "Calories from Fat 691"
+msgstr "السعرات الحرارية من الدهون 691"
+
+msgid "Using what you know about... healthy eating... to solve a problem"
+msgstr "عن طريق ما تعرفه عن ... الغذاء الصحي ... لحل مشكلة"
+
+msgid "You are a <span class='key'>nutritionist</span> (a person who advises people on matters of healthy eating). You have a client who does not want to lose weight. He simply wants to learn to eat healthy foods that fit his lifestyle. So you go over calories and a basic meal plan with him on the first session."
+msgstr "انت <span class='key'>خبير تغذية</span> (الشخص الذي ينصح الناس  بأمور الغذاء الصحي).  لديك زبون لا يريد أن يخسر الوزن. انه ببساطة يريد أن يتعلم تناول الأطعمة الصحية التي تناسب أسلوب حياته. فتقوم أنت بمراجعة السعرات الحرارية ووضع خطة لوجبة أساسية معه في الدورة الأولى."
+
+msgid "Using what your client now knows about healthy eating, which snack would you suggest he has: pretzels or potato chips? Below are the nutrition labels, discuss the nutritional values of both snacks and compare them. Which snack would you advise he should eat based on calories? Remember to take the fat, salt, and sugar content of each food into consideration. You can also add in any suggestions you have for a healthier snack."
+msgstr "باستخدام ما يعرفه زبونك الآن عن الأكل الصحي،أي وجبة خفيفة يجب تناولها حسب اقتراحك: المعجنات أو رقائق البطاطا؟ وفيما يلي تسميات غذائية، ناقش القيم الغذائية لكل من الوجبات الخفيفة وقارنها. أي وجبة خفيفة تنصحه بأن يأكل استنادا الى السعرات الحرارية؟ تذكر أن تأخذ الدهون والملح والسكر ومحتوى كل المواد الغذائيةبعين الاعتبار.  يمكنك أيضا إضافة أي اقتراحات لديك لتناول وجبة خفيفة صحية."
+
+msgid "Planning for diet..."
+msgstr "التخطيط لنظام غذائي ..."
+
+# 11
+msgid "Summarizing big ideas about... healthy eating"
+msgstr "تلخيص الأفكار الأساسية ... حول الغذاء الصحي"
+
+msgid "A healthy <span class='key'>diet</span> contains different kinds of foods. <span class='key'>MyPyramid</span>, a <span class='key'>food pyramid</span> of the five food groups, shows the need to find a balance between our food intake and physical activity.  There are five food groups: Grains, Vegetables, Fruits, Milk, and Meat & Beans. Grains are divided into two subgroups: whole grains and refined grains. Food in the meat and beans group offers the body protein. While following the basic guidelines of MyPyramid, every person needs their own plan for what to eat every day. We can look at the energy in food using its unit (<span class='key'>calorie</span>) to see how much of which foods we should eat. We also need vitamins, minerals, and oils as part of our balanced diet. Being physically active is a key element in living a longer, healthier, happier life and goes hand in hand with <span class='key'>healthy eating</span>."
+msgstr "تحتوي <span class='key'>الحمية</span> الصحية على أنواع مختلفة من الأطعمة. <span class='key'>الهرم الغذائي</span> الذي يحتوي على المجموعات الغذائية الخمس، وتظهر الحاجة إلى إيجاد توازن بين تناول الطعام والنشاط البدني لدينا. هناك خمس مجموعات من الطعام : الحبوب، والخضار، والفواكه، والحليب، واللحوم والبقوليات.  وتنقسم الحبوب إلى مجموعتين فرعيتين : الحبوب الكاملة والحبوب المكررة. الطعام في مجموعة اللحوم والبقوليات تزود الجسم بالبروتين . مع اتباع المبادئ التوجيهية الأساسية للهرم الغذائي، كل شخص يحتاج خطة خاصة به لتناول الطعام كل يوم. يمكننا أن نرى الطاقة في الطعام باستخدام <span class='key'>السعرات الحرارية</span> لمعرفة كمية الأطعمة التي ينبغي أن نأكلها. نحن بحاجة أيضا الى الفيتامينات والمعادن والزيوت كجزء من نظام غذائي متوازن. فممارسة النشاط البدني هو العنصر الأساسي للعيش أطول وأكثر صحة، حياة أكثر سعادة جنبا إلى جنب مع <span class='key'>الغذاء الصحي</span>."
+
+# 12
+msgid "Reviewing key vocabulary related to... healthy eating"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ... بالغذاء الصحي"
+
+msgid "The food one eats. Some people try to restrict their diet in order to be healthier."
+msgstr "الغذاء الذي يؤكل. بعض الناس يحاولون تقييد وجباتهم من أجل أن يكونوا أكثر صحة."
+
+msgid "Diet"
+msgstr "حمية غذائية"
+
+msgid "Food Guidance System"
+msgstr "نظام الإرشاد الغذائي"
+
+msgid "The Food Guidance System (MyPyramid) is an educational tool to help individuals implement the Dietary Guidelines for Americans published jointly by the Department of Health and Human Services and the U.S. Department of Agriculture."
+msgstr "نظام الإرشاد الغذائي (الهرم) هو أداة تعليمية لمساعدة الأفراد في تطبيق المبادئ التوجيهية الغذائية للأميركيين نشرت بشكل مشترك من قبل وزارة الصحة والخدمات الإنسانية ووزارة الزراعة الأمريكية."
+
+msgid "Food Pyramid (MyPyramid)"
+msgstr "الهرم الغذائي "
+
+msgid "The recommended servings of various food groups one should eat daily according to the Department of Health and Human Services and the USDA."
+msgstr " ينبغي للمرء أن يأكل الوجبات الموصى بها من المجموعات الغذائية المختلفة يوميا وفقا لوزارة الصحة والخدمات الإنسانية ووزارة الزراعة الأميركية."
+
+msgid "Whole grains"
+msgstr "الحبوب الكاملة"
+
+msgid "A cereal grain that has not been processed or refined.  That is, it contains the germ, endosperm, and bran.  An example would be whole wheat bread."
+msgstr "بذور الحبوب التي لم يتم معالجتها أو تكريرها. يعني، أنها تحتوي على المورثات، والاندوبلازم ، والنخالة.  ومن الأمثلة على ذلك خبز القمح الكامل."
+
+msgid "Refined grains"
+msgstr "الحبوب المكررة"
+
+msgid "A cereal grain that has been processed so that it only contains the endosperm.  An example would be white bread."
+msgstr "بذور الحبوب التي تمت معالجتها بحيث تحتوي فقط الإندوبلازم. ومن الأمثلة على ذلك الخبز الأبيض."
+
+msgid "Calorie"
+msgstr "سعرات حرارية"
+
+msgid "A unit of measurement for energy.  Food calories, also called kilocalories, are expressed as kcal or with a capital letter C."
+msgstr "وحدة قياس للطاقة. يتم التعبير عن السعرات الحرارية للأغذية، بحرف كبير (سعر). وتسمى أيضا كيلو سعر حراري."
+
+msgid "Nutritionist"
+msgstr "اختصاصي تغذية"
+
+msgid "Someone who is an expert in human nutrition and studies the effects of food on the body."
+msgstr "شخص خبير في التغذية البشرية ويدرس آثار الطعام على الجسم."
+
+msgid "Healthy eating"
+msgstr "الغذاء الصحي"
+
+msgid "Consuming a balance of different types of food so that one gets the various vitamins, nutrients, and calorie sources needed. There is some dispute as to what diet is healthiest."
+msgstr "استهلاك نظام التوازن بين أنواع مختلفة من الطعام بحيث يمكن للمرء أن يحصل على الفيتامينات والمغذيات، ومصادر السعرات الحرارية اللازمة.  وهناك بعض الخلافات حول ما هو النظام الغذائي الأكثر صحةً."
+
+# 13
+msgid "Checking what you now know about... healthy eating"
+msgstr "التحقق مما تعرفه الآن عن ... الغذاء الصحي"
+
+# 14
+msgid "Which word completes this basic rule of healthy eating?"
+msgstr "أي كلمة  تكمل هذه القاعدة الأساسية للغذاء الصحي؟"
+
+msgid "Eat a"
+msgstr "أكل كمية "
+
+msgid "of Food!"
+msgstr "من الغذاء"
+
+msgid "lot"
+msgstr "الكثير"
+
+msgid "variety"
+msgstr "التنوع"
+
+msgid "calorie"
+msgstr "سعرات حرارية"
+
+msgid "mouthful"
+msgstr "ملء الفم "
+
+msgid "No, the amount of food you eat should be based on how much your body needs."
+msgstr "لا، ينبغي أن تستند كمية الطعام الذي تتناوله على مقدار احتياجات جسمك."
+
+msgid "Correct. Your body needs a variety of food to stay healthy."
+msgstr "صحيح. جسمك بحاجة لمجموعة متنوعة من المواد الغذائية للبقاء بصحة جيدة."
+
+msgid "No, calories are just a way of measuring the energy each food gives off. There should be a balance between the amount of calories you take in and the amount of exercise you do each day."
+msgstr "لا، السعرات الحرارية ليست سوى وسيلة لقياس الطاقة لكل المواد الغذائية التي تُعطى، يجب أن يكون هناك توازن بين كمية السعرات الحرارية التي تستهلكها ومقدار التمارين التي تقوم بها كل يوم."
+
+msgid "No, your body needs a variety of food to stay healthy."
+msgstr "لا، جسمك بحاجة لمجموعة متنوعة من المواد الغذائية للبقاء بصحة جيدة."
+
+# 15
+msgid "Why should we try to make half of the grains we eat daily whole grain food?"
+msgstr "لماذا يتوجب علينا محاولة جعل نصف الحبوب الغذائية التي نتناولها يوميا من الحبوب الكاملة؟"
+
+msgid "Because whole grain food has fiber, iron, and B vitamins."
+msgstr "لأن الغذاء والحبوب الكاملة تحتوي الألياف والحديد وفيتامينات ب."
+
+msgid "Because white bread and white rice have more calories."
+msgstr "لأن الخبز الأبيض والأرز الأبيض يحتويان المزيد من السعرات الحرارية."
+
+msgid "Because whole grain food has health benefits for our teeth."
+msgstr "لأن الغذاء والحبوب الكاملة لها فوائد صحية لأسناننا"
+
+msgid "Because white bread and white rice are too expensive."
+msgstr "لأن الخبز الأبيض والأرز الأبيض مكلفان للغاية."
+
+msgid "Looking for whole grains..."
+msgstr "البحث عن الحبوب الكاملة ..."
+
+msgid "Correct. Whole grain food has fiber, iron, and B vitamins in it. Whereas white bread and white rice have those taken out when processed."
+msgstr "صحيح. المواد الغذائية والحبوب الكاملة تحتوي الألياف والحديد، وفيتامين (ب) في ذلك. في حين أن الخبز الأبيض والأرز الأبيض تحتوي على الألياف التي خرجت أثناء المعالجة."
+
+msgid "No, whole grains are more nutritious, they have fiber, iron, and B vitamins."
+msgstr "لا، الحبوب الكاملة هي أكثر تغذية، لديها فيتامينات ب والألياف والحديد."
+
+msgid "Not quite, whole grain food has benefits, but not necessarily for our teeth. It has fiber, iron, and B vitamins."
+msgstr "ليس تماما، الغذاء والحبوب الكاملة لها فوائد، ولكن ليس بالضرورة لأسناننا. انها تحتوي الألياف والحديد وفيتامينات ب."
+
+msgid "No, the cost of whole grain food is not considered, its benefits are. It has fiber, iron, and B vitamins."
+msgstr "لا، لا تؤخذ بالاعتبار تكلفة المواد الغذائية والحبوب الكاملة،ولكن فوائدها. انها تحتوي الألياف والحديد وفيتامينات ب."
+
+# 16
+msgid "The word calorie is best related to which word?"
+msgstr "أي كلمة هي الأكثر ارتباطا بكلمة \"سعر حراري\"؟"
+
+msgid "Fat"
+msgstr "دهون"
+
+msgid "Energy"
+msgstr "طاقة"
+
+msgid "Protein"
+msgstr "بروتين"
+
+msgid "Serving"
+msgstr "وجبة طعام"
+
+msgid "No, fat is high in calories, but calorie is a unit of energy."
+msgstr "لا، الدهون عالية في السعرات الحرارية، ولكن السعرات الحرارية هي وحدة طاقة."
+
+msgid "Correct. Energy is related to calories because calorie is a unit of energy."
+msgstr "صحيح. ترتبط الطاقة  بالسعرات الحرارية لأن السعرات الحرارية هي وحدة لطاقة."
+
+msgid "No. Energy is related to calories because calorie is a unit of energy."
+msgstr "لا، ترتبط الطاقة بالسعرات الحرارية لأن السعرات الحرارية هي وحدة طاقة."
+
+msgid "Not quite. Serving is related to calorie because the nutritional information given on products are usually based on one serving size. But it is related even more to energy because calorie is a unit of energy."
+msgstr "ليس تماما. وجبة الطعام لها علاقة باالسعرات الحرارية لأن المعلومات الغذائية عن المنتجات تعطى وعادة ما تكون على أساس  حجم الحصة الواحدة.  ولكنها ترتبط أكثر بالطاقة لأن السعرات الحرارية هي وحدة من الطاقة."
+
+msgid "Checking daily calories..."
+msgstr "فحص السعرات الحرارية اليومية ..."
+
+# 17
+msgid "What does your body do with calories you eat but do not use?"
+msgstr "ماذا يفعل جسمك بالسعرات الحرارية التي تتناولها ولكن لا تستخدمها؟"
+
+msgid "Your body gets rid of them."
+msgstr "يتخلص جسمك منها."
+
+msgid "Your body always uses all the calories you eat."
+msgstr "يستخدم جسمك دائما كل السعرات الحرارية التي تتناولها."
+
+msgid "Your body stores unused calories as fat."
+msgstr "جسمك يخزن السعرات الحرارية غير المستخدمة على شكل دهون."
+
+msgid "All of the above"
+msgstr "كل ما سبق"
+
+msgid "Flipping the box..."
+msgstr "تقليب الصندوق"
+
+msgid "No, your body will get rid of calories if they are used up, for instance when you exercise. Unused calories are stored as fat."
+msgstr "لا، سوف يتخلص  جسمك من السعرات الحرارية إذا تم استخدامها، على سبيل المثال، عند ممارسة الرياضة.  ويتم تخزين السعرات الحرارية غير المستخدمة على شكل دهون."
+
+msgid "No, your body uses the calories that you need and stores the rest as fat."
+msgstr "لا،  يستخدم الجسم السعرات الحرارية التي يحتاجها ويخزن الباقي على شكل دهون."
+
+msgid "Correct. Unused calories are stored as fat, you can burn unused calories by exercising."
+msgstr "صحيح. يتم تخزين السعرات الحرارية غير المستخدمة على شكل دهون، يمكنك حرق السعرات الحرارية غير المستخدمة من خلال ممارسة التمارين الرياضية."
+
+msgid "No. Your body stores unused calories as fat. Your body does not always use all the calories you eat. It does not automatically get rid of the unused calories."
+msgstr "لا. يخزن جسمك السعرات الحرارية غير المستخدمة على شكل دهون. لا يستخدم جسمك دائما جميع السعرات الحرارية التي تتناولها. ولا يتم التخلص تلقائيا من السعرات الحرارية غير المستخدمة."
+
+# 18
+msgid "Sorting ingredients..."
+msgstr "تصنيف مكونات الغذاء  ..."
+
+msgid "Match the foods on the top with what they contain on the bottom."
+msgstr "طابق الأطعمة في الأعلى مع ما تحتويه في الجزء السفلي."
+
+msgid "Whole Cornmeal"
+msgstr "دقيق الذرة الكامل"
+
+msgid "Avocados"
+msgstr "الأفوكادو"
+
+msgid "Chicken"
+msgstr "الدجاج"
+
+msgid "Grape Fruit"
+msgstr "جريب فروت"
+
+msgid "Iron"
+msgstr "حديد"
+
+msgid "Natural Oils"
+msgstr "الزيوت الطبيعية"
+
+msgid "Calcium"
+msgstr "الكالسيوم"
+
+msgid "Reset"
+msgstr "إعادة الضبط"
+
+msgid "Correct! Milk has calcium, whole cornmeal has iron, avocados have natural oils, chicken has protein, and grapefruit has vitamin C. All these foods have even more in them than what is listed."
+msgstr "صحيح!  يحتوي الحليب على الكالسيوم، ودقيق الذرة الكامل على الحديد والأفوكادو يحتوي على الزيوت الطبيعية والدجاج يحتوي على البروتين، والجريب فروت يحتوي على فيتامين ج.  كل هذه الأطعمة تحتوي حتى أكثر مما هو في القائمة."
+
+msgid "Not quite. Milk has calcium, whole cornmeal has iron, avocados have natural oils, chicken has protein, and grapefruit has vitamin C. All these foods have even more in them than what is listed."
+msgstr "ليس تماما!  يحتوي الحليب على الكالسيوم، ودقيق الذرة الكامل على الحديد والأفوكادو يحتوي الزيوت الطبيعية، والدجاج يحتوي البروتين، والجريب فروت يحتوي فيتامين ج. كل هذه الأطعمة تحتوي حتى أكثر مما هو موجود في القائمة."
+
+# 19
+msgid "The nutritional label and ingredients of a food are shown below. Based on this information, how many calories does 1.5 cups of this cereal have?"
+msgstr "يُظهر الملصق الغذائي ومكونات الطعام أدناه. بناء على هذه المعلومات، كم عدد السعرات الحرارية تحتوي 1.5 كوباً من هذه الحبوب ؟"
+
+msgid "Serving Size 0.75 cup (28g)"
+msgstr "مقدار حصة طعام 0.75 كوب (28 غرام)."
+
+msgid "Serving Per Container 12"
+msgstr "حصة في الوعاء 12"
+
+msgid "Calories from Fat 15"
+msgstr "السعرات الحرارية للوعاء من الدهون 15"
+
+msgid "None of the above"
+msgstr "لا شيء مما ذكر"
+
+msgid "Potassium"
+msgstr "البوتاسيوم"
+
+msgid "No, one serving size has 110 calories. The question asks for 1 and a half cups (two servings), so you should double the amount of calories, 220."
+msgstr "لا،حجم الحصة الواحدة يحتوي 110 سعر حرارية.  والسؤال الذي يطرح عن  واحد ونصف كوب (وجبتين)، لذا يجب عليك مضاعفة كمية السعرات الحرارية، 220."
+
+msgid "Correct. Two serving sizes has double the amount of calories in the table: 2 X 110 = 220 calories for one and a half cups."
+msgstr "صحيح. حجم حصتين يحتوي ضعف كمية السعرات الحرارية في الجدول: X110=220 2 من السعرات الحرارية لكوب ونصف."
+
+msgid "No, two serving sizes has double the amount of calories in the table: 2 X 110 = 220 calories for one and a half cups."
+msgstr "لا، حجم حصتين يحتوي ضعف كمية السعرات الحرارية في الجدول: X110=220 2 من السعرات الحرارية لكوب ونصف."
+
+msgid "No, the correct answer is 220. Two serving sizes has double the amount of calories listed in the table."
+msgstr "لا، والجواب الصحيح هو 220. حجم حصتين يحتاج ضعف كمية السعرات الحرارية المدرجة في الجدول."
+
+# 20
+msgid "You've completed the Healthy Eating module."
+msgstr "لقد أكملت مراجعة الغذاء الصحي."
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التحقق السريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التحقق السريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "التحقق السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التحقق السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك.  انقر، وثبت، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر وثبت وحرك الفأرة صعودا وهبوطا لتدوير المربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الوضع"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "وظيفتك المنزلية هي "
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة ستعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبرووووووووووك"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع والأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Go Back to Dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "هل انت مستعد للتحقق السريع الأول "
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد للتحقق  السريع الأخير"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت مستعد للتحقق من سؤال الاختبار الاخير؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الأول هو..."

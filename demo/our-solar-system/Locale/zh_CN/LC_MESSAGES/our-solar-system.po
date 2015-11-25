@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Quick Check #5"
+msgstr "快速檢測#5"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "將下方的方框向上或向下旋轉以設置您的答案。擊點、按住或是上下移動您的游標。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點左邊及右邊的箭頭以瀏覽下方的頁面？"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations"
+msgstr "恭喜你！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“快速檢測”與“測驗題”中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入儀錶板"
+
+msgid "Go Back to Dashboard"
+msgstr "進入儀錶板"
+
+msgid "Language:"
+msgstr "语言:"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把它們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "和第一個測驗題為……"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Our Solar System"
+msgstr "我們的太陽系"
+
+msgid "Welcome to Our Solar System module"
+msgstr "歡迎來到「我們的太陽系」模組"
+
+msgid "Thinking about... our solar system"
+msgstr "思考關於「我們的太陽系」"
+
+msgid "For thousands of years, people have looked at the sun, moon, stars and planets. Tales were told and myths were created to explain the movement of those objects across the nighttime and daytime sky. And the patterns they found were used to create calendars and make predictions of all sorts. Today, much has been learned about the structure of the solar system and how it works. We also know that the movement of the Sun, Earth and Moon can explain phenomena on Earth such as changing tides and seasons as well as solar and lunar eclipses."
+msgstr "幾千年來，人們望著太陽、月亮、星星和行星。民間傳說與神話，說明黑夜至白天星體們的移動。他們找尋其中的規律，創造曆法，並且預測種種事物。如今，已了解太陽系的結構與運作模式。我們亦知道，太陽、地球與月亮的運動可解釋地球上的各種現象，如潮汐變化、季節及日蝕和月蝕。"
+
+msgid "Our solar system consists of a single star, which we call the Sun and eight planets including Mercury, Venus, Earth (the one we live on), Mars, Jupiter, Saturn, Uranus and Neptune. Of all the objects in our solar system, mankind has only been able to directly explore two (except for those objects such as meteorites that have fallen to Earth). The first is our planet, Earth. The second is Earth's moon. However, scientists have developed a number of tools and technologies that help them understand many details about the composition and structure of the planets that cannot yet be visited by humans. These tools and technologies include robots (sent to Mars) and unmanned spacecraft (probes) that can take pictures and atmospheric samplings and send them back to Earth."
+msgstr "我們的太陽系是由我們所稱恆星之太陽與八大行星組成，包括水星、金星、地球（我們生活的地方）、火星、木星、土星、天王星和海王星。在太陽系中的星體，人類也只不過探索了兩個（除了那些降落至地球的隕石之外）。首先是我們的星球，地球。第二個是月球。然而，科學家們開發了許多工具和技術，幫助他們了解人類尚無法實地走訪之星球的組成與結構細節。這些工具和技術包括機器人（發送到火星）與無人太空船（探頭），可以拍照與大氣採樣，並將它們送回至地球。"
+
+msgid "You've completed the Our Solar System module."
+msgstr "你已經完成「太陽系」模組"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "您可以通過擊點以下按鈕檢查此模組的＂快速檢測＂與＂測驗題＂。"
+
+msgid "Checking what you already know about... our solar system"
+msgstr "檢視有關於你所知道的…「太陽系」"
+
+msgid "Rearrange the descriptions on the right by dragging them next to the pictures on the left they best describe."
+msgstr "拖曳右側的描述至左側適當圖片旁。"
+
+msgid "Star"
+msgstr "恆星"
+
+msgid "Moon"
+msgstr "月球"
+
+msgid "Asteroid"
+msgstr "小行星"
+
+msgid "A celestial body that orbits a planet."
+msgstr "一個小天體繞著一顆行星運行。"
+
+msgid "A small rocky celestial body that may become a meteorite when it enters the earth’s atmosphere."
+msgstr "當一顆小岩石天體進入地球大氣層時，可能成為一顆隕石。"
+
+msgid "A celestial body made up mostly of dust and ice."
+msgstr "一個小天體大多由塵埃與冰組成。"
+
+msgid "A small, planet-like celestial object with a gravitational field too weak to clear out neighboring objects."
+msgstr "一顆小的類行星天體的重力場太弱，以致無法清空周邊的物體。"
+
+msgid "A huge ball of gas that produces tremendous heat and light energy."
+msgstr "一個巨大的氣團產生巨大的熱能與光能。"
+
+msgid "A large celestial body that orbits a star."
+msgstr "一個大型天體繞著一顆恆星運行。"
+
+msgid "The universe is made up of many natural celestial bodies such as stars; planets that orbit the stars; moons that orbit the planets; and comets and asteroids that may also orbit stars. Man has also made some artificial celestial bodies such as communication satellites that orbit the earth."
+msgstr "宇宙是由許多自然的天體組成，如恆星；行星繞著恆星運行；衛星繞著行星繞著；彗星和小行星也可繞著恆星運行。人類也製造了一些人造天體，例如繞著地球運行的通信衛星。"
+
+msgid "Counting planets..."
+msgstr "數算行星…"
+
+msgid "Reviewing big ideas about... our solar system"
+msgstr "回顧有關「太陽系」之大概念。"
+
+msgid "We can see many objects in the nighttime (and daytime) sky. Some of those objects are part of our solar system while others are not (such as distant stars). And yet others are only occasionally found in our <span class='key'>solar system</span>. Objects that are permanent residents of our solar system include the <span class='key'>Sun</span>, <span class='key'>planets</span>, <span class='key'>moons</span>, <span class='key'>asteroids</span> and <span class='key'>dwarf planets</span>. Pluto is a well-known example of a dwarf planet. All the objects in our solar system are bound together by the strong gravitational pull of the sun. Even the furthest planets in our solar system are held in their orbital paths by the sun's gravity."
+msgstr "我們可以在夜空（和白天）看到許多星體。其中一些星體為我們太陽系的一部分，而有些則否（如遙遠的恆星）。還有一些則是偶爾在我們的太陽系中發現。在我們太陽系中永久的星體，包括太陽、行星、衛星、小行星和矮行星。冥王星是一顆矮行星著名的例子。所有在我們的太陽系中的星體是被太陽強大的引力聚在一起。即使是太陽系最遙遠的行星，也因太陽的引力而保持在自己的軌道上運行。"
+
+msgid "Most of the objects we see with our naked eyes in the nighttime sky that are outside our solar system are stars. <span class='key'>Comets</span> are frozen bodies of ice and dust that spend most of their time outside our solar system. However, some comets follow orbits around our Sun. The Sun's <span class='key'>gravity</span> is the force that pulls them inside our solar system. As comets approach the Sun, a bright tail forms making them visible in the nighttime sky. Sometimes, the comets are so big and bright that they can be seen during the daytime. Scientists argue comets of all sizes (large and small) that have crashed into Earth are the source of water found on our planet. Collectively, most of the objects we see in the day and nighttime sky are all found in the Orion Arm of the Milky Way Galaxy. There is some variation in the way scientists define <span class='key'>galaxy</span>, but most agree that it is a massive collection of stars (many billions) held together by the force of gravity."
+msgstr "我們夜晚大多數能以肉眼看到的星體為太陽系以外的恆星。彗星為冰和塵埃的冷凍體，大部分時間存在於太陽系之外。然而，一些彗星遵循軌道，環繞著太陽運行。太陽的地心引力在我們的太陽系中是一股往內拉的力量。當彗星靠近太陽，在夜晚的天空可以看到會彗星會出現一個明亮的尾巴。有時，彗星大到能在白天見到。科學家認為各種大小不同的彗星撞擊地球，是地球上水的起源。總體來說，所有我們在白天及夜晚天空中看到的星體都是位於銀河系的獵戶臂。科學家對銀河系或許有些不同，但大多數都同意銀河是由恆星大量匯集而成（數十億）。"
+
+msgid "Studying solar systems..."
+msgstr "研究太陽系..."
+
+msgid "Distance from Sun"
+msgstr "與太陽的距離"
+
+msgid "Age of Formation"
+msgstr "形成的年齡"
+
+msgid "Rotational Speed"
+msgstr "轉速"
+
+msgid "Number of Moons"
+msgstr "衛星數量"
+
+msgid "What factor do you think is associated most closely with whether a planet is likely to be placed in the Rocky or Gaseous category?"
+msgstr "你認為一顆行星被分類至岩石或氣體是和何因素最密切相關？"
+
+msgid "Correct! The planets closest to the Sun are all rocky planets."
+msgstr "正確！離太陽最近的行星皆為岩石行星。"
+
+msgid "Try again. It's thought that the ages of the planets are approximately the same."
+msgstr "再試一次。行星的年齡大致相同。"
+
+msgid "Not quite. The factor most closely associated with the type of planet is distance from the Sun."
+msgstr "不對。最密切相關的因素是行星和太陽之間的距離。"
+
+msgid "Try again. Both types of planets can have one or more moons."
+msgstr "再試一次。這兩種類型的行星可以有一個或多個衛星。"
+
+msgid "Photosynthesis"
+msgstr "光合作用"
+
+msgid "Spectroscopy"
+msgstr "光譜儀"
+
+msgid "Luminescence"
+msgstr "螢光"
+
+msgid "Photo Analysis"
+msgstr "照片分析"
+
+msgid "Average Distance from the Sun"
+msgstr "與太陽的平均距離"
+
+msgid "Number of Earth Days required to Orbit the Sun (rounded to nearest whole number)"
+msgstr "繞行太陽所需的天數（四捨五入到最接近的整數）"
+
+msgid "Number of Earth Years required to Orbit the Sun (rounded to nearest whole number)"
+msgstr "繞著太陽所需的年數（四捨五入到最接近的整數）"
+
+msgid "57 million km"
+msgstr "5700萬公里"
+
+msgid "108 million km"
+msgstr "1.08億公里"
+
+msgid "150 million km"
+msgstr "1.5億公里"
+
+msgid "228 million km"
+msgstr "2.28億公里"
+
+msgid "779 million km"
+msgstr "7.79億公里"
+
+msgid "14,300 million km"
+msgstr "143億公里"
+
+msgid "28,800 million km"
+msgstr "288億公里"
+
+msgid "45,000 million km"
+msgstr "450億公里"
+
+msgid "Mercury"
+msgstr "水星"
+
+msgid "Venus"
+msgstr "金星"
+
+msgid "Mars"
+msgstr "火星"
+
+msgid "Jupiter"
+msgstr "木星"
+
+msgid "Saturn"
+msgstr "土星"
+
+msgid "Neptune"
+msgstr "海王星"
+
+msgid "Uranus"
+msgstr "天王星"
+
+msgid "More big ideas about... our solar system"
+msgstr "更多有關我們太陽系的大概念"
+
+msgid "The Sun exerts a very strong gravitational pull on the planets in our solar system. With the Sun at the center of our solar system, a balance of gravitational forces keeps the planets orbiting the Sun. The time it takes the planets to journey around the Sun (orbit) varies widely. Generally, the planets closer to the Sun such as Mercury, Venus, Earth and Mars complete one <span class='key'>revolution</span> around the Sun much more quickly than those planets such as Jupiter, Saturn, Uranus and Neptune that are much further away. Click on the table below to see if you can see this pattern."
+msgstr "太陽在我們的太陽系之中發揮強大的引力。太陽作為我們星系的中心，引力的平衡讓其他行星保持繞著太陽運行。每個星球繞著太陽的時間（軌道）差異是非常大的。一般來說，行星越接近太陽，如水星、金星、地球和火星，比遠一些的木星、土星、天王星和海王星，能更快地繞太陽公轉一周。點擊下面的表格，看看你是否能看到此種模式。"
+
+msgid "Click on the table below to see if you can see this pattern."
+msgstr "點擊下面的表格，看看你是否能看到此種模式。"
+
+msgid "Advancements in technologies made by scientists and engineers have led to great discoveries about the detailed structure and composition of our solar system. Manned space crafts and unmanned probes have been used to gather information about the surface of the moon while space probes and robots have recorded details about the surface structure and composition of Mars. Here on Earth, advances in spectroscopy (the study of the absorption and radiation of light by matter) and computers have provided much information about the chemical composition of the solar system and the universe."
+msgstr "科學家和工程師做出技術的進步，使我們對於太陽系的細部結構與組成有偉大發現。載人太空船與無人探測器已經收集月球表面的資訊，而太空探測器和機器人記錄了火星的表面結構和組成的細節。地球上，光譜儀（物質光的吸收和輻射的研究）和計算機的進步提供了有關太陽系和宇宙的化學成分的信息。"
+
+msgid "Astronomers use an instrument called a \"<span class='key'>spectrometer</span>.\" This instrument analyzes emission of light rays by spreading them out through a prism. The composition of the objects being viewed can then be determined by the patterns created by the spectrometer. Figure 1 below shows the spectrum emitted by white light. Figure 2 shows the spectrum emitted by energized hydrogen atoms. In this way, scientists are able to conclude that the Sun is composed largely of hydrogen (and helium)."
+msgstr "天文學家使用一種稱為光譜儀的儀器。該儀器通過棱鏡色散分析了光線的發射。星體的組成可以通過光譜儀產生的模式來確立。圖1顯示白光的發射光譜。圖2顯示激發之氫原子的發射光譜。通過這種方式，科學家們能夠得知太陽大部分是由氫（與氦）組成。"
+
+msgid "Figure 1. Full spectrum of white light."
+msgstr "圖1.白光的全光譜。"
+
+msgid "Figure 2. Spectrum of energized hydrogen atoms."
+msgstr "圖2.激發之氫原子的光譜。"
+
+msgid "Using spectrometer..."
+msgstr "使用光譜儀..."
+
+msgid "You have been stranded on Mars after a crash landing. Although the crashed rocket cannot get you back into space, it does provide enough food, water, shelter and oxygen until the rescue mission arrives. The radio also works. NASA just informed you that a rescue ship cannot pick you up until Mars comes back around to the exact same orbital position it was in when the ship crashed. In other words, you will be stranded on the planet for exactly 1 Mars year. According to the table below, how many Earth days must your friends wait before they see you rescued?"
+msgstr "你迫降後受困於火星上。雖然火箭墜毀無法回到太空，它提供足夠的食物、水、住所和氧氣，直到救援團隊抵達。無線電也同樣運作。美國國家航空暨太空總署只告訴你，直到火星繞回當初墜毀時完全相同的軌道上才能有辦法接你。換句話說，你會受困在這個星球上整整1年的時間。根據下表，你的朋友在地球上必須等多久才能見到你獲救？"
+
+msgid "Click the image below to view the table."
+msgstr "點擊下面的圖片查看下表。"
+
+msgid "Counting the days..."
+msgstr "數算著日子..."
+
+msgid "Not quite. It takes many more earth days than that for Mars to complete one orbit around the Sun."
+msgstr "不對。地球繞太陽軌道運行一圈的日子比火星還要多。"
+
+msgid "That’s Right! It will take 730 earth days before you can be rescued."
+msgstr "這就對了！被救出前，需要等地球過了730天的時間。"
+
+msgid "The Sun is a massive ball of super hot gas (mostly hydrogen) that produces tremendous amounts of heat and light through nuclear reactions. Heat and light from the Sun radiates out in all directions through space. About 30% of the Sun’s energy reaching the Earth is reflected back out into our solar system. The rest (about 70%) is absorbed by Earth’s atmosphere, oceans and solid surfaces. When the Sun’s energy hits the Earth, it warms the atmosphere, land and oceans. The radiant energy (heat energy) absorbed by land and water can be stored and released back into the atmosphere. In this way, winds and ocean currents are created. The light reaching plant life on earth is used, through a process called photosynthesis, to help them create food for growth and development. Hence, even in complex food webs, the original source of energy for most living things on Earth can be traced back to sunlight. "
+msgstr "太陽是一個巨大的超熱氣體（主要是氫氣），通過核反應產生出大量的熱和光。太陽的光和熱輻射至太空中任何方向。太陽到達地球的能量中，約有30％反射回到我們的太陽系裡。其餘的（約70％）是被地球的大氣、海洋和固體表面吸收。當太陽的能量到達地球，使大氣、陸地和海洋升溫。土地和水吸收的輻射能量（熱能）可以被儲存和釋放至大氣中。如此一來，生成風和洋流。光到達地球被植物使用，這個過程稱為光合作用，幫助植物製造食物和成長與發育。因此，甚至在複雜的食物網中，地球上大部分生物能量的原始來源可以追溯自陽光。"
+
+msgid "Producing heat..."
+msgstr "產生熱量.."
+
+msgid "Question A. Click on the area in Figure A where the days are longer than other parts of the world."
+msgstr "問題A. 點擊圖A中，白天較其他地區還長的區域。"
+
+msgid "Summer in the Southern Hemisphere"
+msgstr "在南半球的夏天"
+
+msgid "Question B. Click on the area in Figure B where the days are shorter than other parts of the world."
+msgstr "問題B. 點擊圖B中，白天較其他地區還短的區塊。"
+
+msgid "Figure B"
+msgstr "圖B"
+
+msgid "Figure A"
+msgstr "圖A"
+
+msgid "Winter in the Southern Hemisphere"
+msgstr "在南半球的冬天"
+
+msgid "The figures below represent the amount of radiation received on Earth’s surface from the Sun during the summer and winter in the southern hemisphere. Red represents the most, then green and yellow, and blue is the least."
+msgstr "下圖表示南半球夏季與冬季之地球表面接收太陽輻射的量。紅色代表最多，然後是綠色及黃色，以及藍色是最少的。"
+
+msgid "Correct! The area shaded red has a longer period of daylight than other areas on Earth."
+msgstr "正確！紅色區塊比其他地區擁有較長的白天。"
+
+msgid "Not quite! The area shaded red has a longer period of daylight than other areas on Earth."
+msgstr "不對！紅色區塊比其他地區擁有較長的白天。"
+
+msgid "Correct! The area shaded blue and light blue has a shorter period of daylight than other areas on Earth."
+msgstr "正確！藍色與淡藍色區塊比其他地區擁有較短的白天。"
+
+msgid "Not quite! The area shaded blue and light blue has a shorter period of daylight than other areas on Earth."
+msgstr "不正確！藍色與淡藍色區塊比其他地區擁有較短的白天。"
+
+msgid "Polaris"
+msgstr "北極星"
+
+msgid "N Axis"
+msgstr "N軸"
+
+msgid "Earth Orbit"
+msgstr "地球軌道"
+
+msgid "S Axis"
+msgstr "S軸"
+
+msgid "Sigma Octantis"
+msgstr "南極星"
+
+msgid "The Earth constantly orbits the Sun. But at the same time, the Earth is constantly spinning around its center (also called the <span class='key'>axis</span>). The ends of the axis around which the Earth spins are called the North and South Poles. Unlike a twirling ballerina spinning straight up and down on her toes, the Earth spins on an axis (<span class='key'>rotation</span>) that is tilted about 23 degrees off the perpendicular to the orbital plane of the Earth. If an imaginary line could be drawn to extend the North Pole far out into space, it would lead very close to a star named Polaris (the North Star). As the Earth spins on its axis, the axis constantly points to the North Star (therefore the North Star, or Polaris, remains at the center of the nighttime sky). All the other stars appear to move in a great circles or arcs. No matter where the Earth is located along its orbit around the Sun, the North Pole points constantly at Polaris (which is approximately 430 million light years away from Earth.)"
+msgstr "地球一直在繞著太陽的軌道上運行。但同時，地球也不斷地繞著自己的中心（也稱為軸）旋轉。地球旋轉軸的兩端稱為北極與南極。不同於芭蕾舞者腳趾上下筆直這般，地球旋轉軸（自轉軸）傾斜，且與垂直於地球軌道面夾角大約23度。如果假想線可以延伸北極至太空，非常靠近一個名為北極星的星星。因地球自轉時，軸線一直指向北極星（因此北極星停留在夜空的中心）。所有其他的星星的移動軌跡形成一個巨大的圓或圓弧。無論地球位於環繞太陽軌道上的哪一處，北極一直指向北極星（大約距離地球4.3億光年）。"
+
+msgid "The constant tilt of the Earth throughout the journey around the Sun results in the phenomena on Earth known as the change in seasons.  During summer in the northern hemisphere, the northern pole is tilted toward the Sun. As a consequence, the sun's light rays hit Earth's surface with more intensity than during the winter when the northern pole is tilting away from the Sun."
+msgstr "地球傾斜繞著太陽轉而導致地表四季的變化。當北半球為夏季時，北極傾斜朝向太陽。因此，太陽的光線射到地球表面之強度較北極傾斜遠離太陽時來的強。"
+
+msgid "Spinning around..."
+msgstr "自轉..."
+
+msgid "In Figure A, it is summer time in the northern hemisphere."
+msgstr "圖A中,為夏季時的北半球。"
+
+msgid "In Figure A, the Earth is closer to the Sun."
+msgstr "圖A中,地球更接近太陽。"
+
+msgid "In Figure B, it is summer time in the northern hemisphere."
+msgstr "圖B中, 為夏季時的北半球。"
+
+msgid "In Figure B, the Earth is closer to the Sun."
+msgstr "圖B中, 地球更接近太陽。"
+
+msgid "Question A. Which of the following is <span class='blink'>true</span>? Check <span class='blink'>all</span> that apply"
+msgstr "問題A. 以下哪一項是正確的？請勾選適當選項。."
+
+msgid "Changing seasons..."
+msgstr "季節變化..."
+
+msgid "That’s right! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "沒錯！當北軸傾斜朝向太陽時，北半球為夏季，但實際上地球最接近太陽的時，北半球為冬季。"
+
+msgid "Not quite. It is wintertime in the northern hemisphere when the North axis tilts away from the Sun."
+msgstr "不正確。當北軸傾斜遠離太陽時，北半球為冬季。"
+
+msgid "Not quite. The Earth is actually farther from the Sun when the North axis tilts toward the Sun."
+msgstr "不正確。事實上，當地球遠離太陽的時候，北軸傾斜指向太陽。"
+
+msgid "Not quite! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "不確定！當北極傾斜朝向太陽時，北半球為夏季；且實際上，當北半球為冬季時，地球最接近太陽。"
+
+msgid "Nope! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "不正確！當北極傾斜朝向太陽時，北半球為夏季；且實際上，當北半球為冬季時，地球最接近太陽。"
+
+msgid "Just as Earth orbits around the Sun, the Moon Orbits around Earth. While it takes 365 days for the Earth to orbit the Sun, it takes 27.5 days for the moon to orbit the Earth. And, just like Earth, one side (one half) of the Moon's surface is constantly lighted by the Sun's light. But over the course of roughly one month, the angle between the Sun, Earth and Moon changes. Consequently, the amount of the lighted side of the moon we can see changes. This varying amount explains why we see the phenomena known as the Phases of the Moon. When we can see the entire side of the moon that is being lit, we call that phase a Full Moon. When we see only a partial side of the lighted side of the moon, we call that phase crescent moon. When the moon is on the same side of earth as the Sun, we call that phase the new moon. Some people think that there is a straight line between the Earth, Moon and Sun. But this is not correct. Because of the differences in the planes of orbit (Moon around Earth and Earth around the Sun), only occasionally do all three line up. When that happens, we have either a solar eclipse (when the Moon's shadow crosses the Earth) or a lunar eclipse (when the Earth's Shadow crosses the moon)."
+msgstr "正如地球繞太陽，月亮繞著地球。地球繞太陽一周需要365天，月亮繞地球一周需要27.5天。而且就像地球，月球表面的一側（一半）被太陽照射。大約一個月之中，太陽、地球和月球之間角度會不停改變。因此，我們可以看到月球表面亮面的變化量。這樣的變化可以解釋我們所看的月亮盈虧現象。我們可見月亮受光的全面稱為滿月。當我們看見月亮只有局部的亮面，我們稱之為眉月。當月亮與地球在同一側時，我們所看到的月亮稱為新月。有人認為地球、月亮與太陽為一直線。但這是不正確的。因不同軌道平面的差異（月亮繞的地球與地球繞著月亮），只是偶爾能三條線在一起。出現這種情況時，我們可以看到日食（月球運行至太陽與地球之間，看見月亮的陰影）與月食（月球運行進入地球的陰影）。"
+
+msgid "Tracking the phases of the Moon..."
+msgstr "追踪月相…"
+
+msgid "Waxing"
+msgstr "漸亮"
+
+msgid " bigger)"
+msgstr "較大"
+
+msgid "Phases of the Moon"
+msgstr "月相"
+
+msgid "Sun"
+msgstr "太陽"
+
+msgid "Waiting"
+msgstr "衰微"
+
+msgid "(getting"
+msgstr "越來"
+
+msgid "smaller)"
+msgstr "越小"
+
+msgid "Earth"
+msgstr "地球"
+
+msgid "Moon Phase"
+msgstr "月相"
+
+msgid "Full Moon"
+msgstr "滿月"
+
+msgid "1st Quarter"
+msgstr "第一季"
+
+msgid "3rd Quarter"
+msgstr "第三季"
+
+msgid "New Moon"
+msgstr "新月"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Look at the image below and match the labels to the correct phase in the table below by dragging the letters on the right column up or down."
+msgstr "請看下面的圖片，上下拖動右側欄位的字母，配對於下表中正確的標籤。"
+
+msgid "Correct! You've correctly matched each Moon phase with its relative position in the Earth/Moon/Sun system."
+msgstr "正確！你已經正確配對地球/月亮/太陽相對位置之月相。"
+
+msgid "All phases of the Moon need to be matched to its correct relative position in the Earth/Moon/Sun system. The correct order is C, B, D and A."
+msgstr "所有月相需配對至正確的地球/月亮/太陽之相對位置。正確的順序是C、B、D和A。"
+
+msgid "Using what you now know about... our solar system... to solve a problem"
+msgstr "利用你了解「太陽系」知識以解決問題。"
+
+msgid "You are a scientist working on a project that will send a probe to Mars. Your team plans the timing of the launch of the probe from Earth so that it has to travel the least distance before landing on Mars' surface."
+msgstr "你是一個致力於發射火星探測器的科學家。你的團隊計畫掌握從地球發射探測器的時機，以使登陸到火星表面之前行駛的整個距離最短。"
+
+msgid "Problem: Write a brief recommendation on what factors your team will need to consider and what information you will need to successfully launch a probe craft from Earth and have it land safely on Mars. Remember that..."
+msgstr "問題：請你寫下，要成功從地球發射一枚探測器至火星安全著陸，你的團隊需要考慮那些因素和需要什麼訊息。記住..."
+
+msgid "1. Earth's speed in its orbit around the sun is approximately 108,000 km/hr; and"
+msgstr "1.地球繞著太陽轉的速度約為108000公里/小時;和"
+
+msgid "Setting the time..."
+msgstr "設定時間..."
+
+msgid "Our Solar System was created approximately 4.6 billion years ago as swirling masses of gas and dust were pulled together through gravitational forces. The Solar Systems consists of the <span class='key'>Sun</span>, 8 <span class='key'>planets</span>, many moons and many smaller objects including meteors and <span class='key'>asteroids</span>. Being by far the largest object in the system, the Sun exerts a tremendous gravitational force on all the objects. Through a balance of gravitational forces, the planets and all other objects are pulled into orbit around the Sun. The composition of the objects in the Solar System has been discovered using space probes (including satellites), robots and a few manned space visits (only to the <span class='key'>Moon</span>). On Earth, scientists use telescopes and <span class='key'>spectrometers</span> to understand the composition of planets. The movement of celestial bodies produces cyclic patterns of many phenomena including phases of the moons, tides, seasons, eclipses of the Sun and Moon, and apparent arrangement of stars in the nighttime sky."
+msgstr "太陽系的起源大約在46億年前，由於氣體與塵埃因引力作用而收縮聚集。太陽系包括了8個行星、許多衛星和許多更小的星體，小星體包括流星與小行星。直至目前為止，太陽是太陽系中最大的天體，對於所有物體具有強大的引力。透過引力的平衡，行星和其他星體被拉入環繞太陽的軌道之中。藉著宇宙探測器（包括衛星）、機器人和少數載人太空船（僅到月球）發現了太陽系中星體的組成。在地球上，科學家們利用望遠鏡和光譜了解行星的組成。天體的移動產生許多循環現象，包括衛星、潮汐、季節、太陽和月亮，還有夜晚星空的排列。"
+
+msgid "Which of the following is the study of the absorption and radiation of light by matter."
+msgstr "下列哪一項是物質的光吸收與輻射的研究？"
+
+msgid "No. Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "不。光譜學是物質的光吸收和輻射的研究。"
+
+msgid "Correct! Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "正確！光譜學是物質的光吸收和輻射的研究。"
+
+msgid "Not quite. Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "不對！光譜學是物質的光吸收和輻射的研究。"
+
+msgid "Reviewing key vocabulary related to... our solar system"
+msgstr "回顧太陽系的相關詞彙。"
+
+msgid "When an object orbits around another object. If the revolving is a result of gravity, generally the less massive object will revolve around the more massive one. Examples include Earth's moon revolving around the Earth, and the Earth revolving around the Sun."
+msgstr "當一個星體繞著另一個星體運行。如果公轉是因重力造成，通常質量較小的星體圍繞質量大的星體旋轉。舉例來說，月球繞著地球公轉，地球圍繞著太陽公轉。"
+
+msgid "Revolution"
+msgstr "公轉"
+
+msgid "Gravity"
+msgstr "重力（萬有引力）"
+
+msgid "The attractive force all things with mass enact upon one another. This force is proportional to the masses being attracted, as well as their distance apart."
+msgstr "吸引力來自於物體質量之間的相互作用。引力強度和物體質量成正比，也與兩物體之距離成正比。"
+
+msgid "Dwarf Planet"
+msgstr "矮行星"
+
+msgid "An object the size of a planet that has not cleared its orbit of other objects. Pluto was recently reclassified from a planet to a dwarf planet."
+msgstr "一個具有行星大小，但未能清除它和鄰近小天體的軌道。冥王星最近從行星轉而被歸類為矮行星。"
+
+msgid "Planet"
+msgstr "行星"
+
+msgid "A celestial body orbiting a star that is large enough to be rounded by its own gravity, but not so large that its gravity can cause nuclear fusion. Planets must have also cleared their orbit of other objects by means of their gravity. Planets can be solid, like Earth and Mars, or gaseous, like Jupiter and Saturn."
+msgstr "行星是環繞太陽（恆星）運行的天體，它們有足夠大的質量使自身因為重力而成為圓球體。行星也必須能使用自身重力清除鄰近的小天體。行星可以是固體，如地球和火星，也可以是氣體，如木星和土星。"
+
+msgid "The star at the center of our solar system. It gives off light and heat as a result of constant nuclear fusion and fission inside of it. All of the other objects in the solar system revolve around the Sun."
+msgstr "這顆恆星在太陽系的中心。由於太陽不斷地核融合與核分裂而散發出光和熱。所有在太陽系的其他星體圍繞太陽公轉。"
+
+msgid "An object that orbits around a planet, also called a natural satellite. A planet can have any number of moons, or none at all. Earth has one moon, while Jupiter has at least 67."
+msgstr "一個繞著行星公轉的星體，我們稱衛星。一顆行星可以有數顆衛星，或者沒有任何衛星環繞。地球有一個月亮，而木星至少有67個衛星。"
+
+msgid "Earth's Axis"
+msgstr "地軸"
+
+msgid "The imaginary line around which the Earth rotates. This line runs from the North Pole through the center of the planet to the South Pole. Earth's axis is tilted in relation to its orbit around the sun, causing us to have seasons."
+msgstr "地軸是地球自轉的假想軸。這條線從北極穿過地心通向南極。地球以傾斜的姿勢繞太陽公轉，因此有四季變化。"
+
+msgid "Galaxy"
+msgstr "銀河系"
+
+msgid "A large collection of stars, gas, dust, stellar remnants and dark matter all gravitationally bound together. All of the objects contained within a galaxy orbit around a supermassive black hole at the center. The Earth and its solar system are in the Milky Way Galaxy."
+msgstr "銀河系是由一大群恆星、氣體、塵埃、恆星殘骸和黑暗物質因引力凝聚而組成。所有的星體都圍繞著銀河系中超大質量的黑洞旋轉。地球與地球所在的太陽系，皆在銀河系之中。"
+
+msgid "Spectrometer"
+msgstr "光譜儀"
+
+msgid "A device used to measure part of the electromagnetic spectrum or light spectrum. A spectrometer can be used to measure visible light that humans can see, but can also measure wavelengths that are invisible to people, such as ultraviolet and infrared."
+msgstr "用於測量部分電磁頻譜與光譜的儀器。光譜儀可用於測量人類可看見的可見光，還可以測量不可見的長波長的光，如紫外線與紅外線。"
+
+msgid "A body orbiting the Sun that is neither a major planet, nor a comet. There are millions of asteroids in our solar system. A large band of asteroids exists between Mars and Jupiter, appropriately named, \"The Asteroid Belt.\""
+msgstr "一顆繞著太陽公轉的星體，既不是一顆大行星，也不是一顆彗星。這裡有成千上萬的小行星在我們的太陽系。火星和木星之間存在一條很大的星雲帶，之中有許多小行星，適當命名為“小行星帶\"。"
+
+msgid "Comet"
+msgstr "慧星"
+
+msgid "An icy, small solar system body. When a comet passes near the Sun, it heats up and begins to outgas. This process gives it an atmosphere, sometimes called a tail."
+msgstr "一個冰冷的太陽系小天體。當彗星經過太陽附近時，升溫並開始釋放氣體。"
+
+msgid "The largest body in our solar system is..."
+msgstr "太陽系中最大的星體是…"
+
+msgid "Earth."
+msgstr "地球"
+
+msgid "the Sun."
+msgstr "太陽"
+
+msgid "Jupiter."
+msgstr "木星"
+
+msgid "the Moon."
+msgstr "月球"
+
+msgid "Incorrect. There are many other objects bigger than Earth in the solar system."
+msgstr "不正確。在太陽系還有許多其他大於地球的星體。"
+
+msgid "Correct! The Sun is the largest celestial body in our solar system."
+msgstr "正確！太陽是太陽系中最大的星體。"
+
+msgid "Not quite. Though very, very big, there is another object in our solar system that's bigger than Jupiter."
+msgstr "不正確。雖然木星非常非常大，但在太陽系中，還有另一個星體比木星還大。"
+
+msgid "Nope. Even Earth is larger than the Moon."
+msgstr "不是。甚至地球都比月亮還大。"
+
+msgid "A star composed of hydrogen and helium."
+msgstr "一顆恆星是由氫和氦組成。"
+
+msgid "A medium planet with an atmosphere."
+msgstr "一個具有大氣的中等行星。"
+
+msgid "Not quite! All the objects in our solar system revolve around the Sun."
+msgstr "不正確！所有在太陽系的星體皆繞太陽旋轉。"
+
+msgid "A star composed of carbon and nitrogen."
+msgstr "一顆恆星是由碳和氮組成。"
+
+msgid "Not quite. A star is found at the center of our solar system but it is not composed of carbon and nitrogen."
+msgstr "不正確。一顆被發現於太陽系中心的恆星，不是由碳和氮組成。"
+
+msgid "A black hole that was once a star."
+msgstr "黑洞曾經是一顆恆星。"
+
+msgid "Incorrect. A black hole's gravitational pull would consume the solar system."
+msgstr "不正確。黑洞的引力會吞噬整個太陽系。"
+
+msgid "Correct! A star composed of hydrogen and helium is found at the center of our solar system. We call that star the Sun."
+msgstr "正確！太陽系中心由氫氣和氦氣組成的恆星。我們稱之為太陽。"
+
+msgid "Although the planets in our solar system have unique features, they also have similarities. Which of the following characteristics is most similar among the planets in our solar system?"
+msgstr "雖然太陽系中的行星都具有獨特的特徵，但也有相似之處。下列哪項特徵是太陽系中行星最相似之處？"
+
+msgid "Mass"
+msgstr "質量"
+
+msgid "Shape of orbit"
+msgstr "軌道的形狀"
+
+msgid "Number of satellites"
+msgstr "衛星數量"
+
+msgid "Chemical composition"
+msgstr "化學組分"
+
+msgid "Identifying similarities..."
+msgstr "辨別相似之處..."
+
+msgid "Incorrect. There are great differences in the chemical composition among the planets."
+msgstr "不正確。太陽系中行星的質量彼此間有巨大的差異。"
+
+msgid "Correct! The shape (elliptical) of the orbits of the planets is relatively similar to each other."
+msgstr "正確！行星運行的軌道形狀（橢圓形）彼此相對較相似。"
+
+msgid "Not quite. Some planets do not have any satellites (also known as moons)."
+msgstr "不正確。有些行星不具有任何衛星（也稱為月亮）。"
+
+msgid "Incorrect. The are great differences in the chemical composition among the planets."
+msgstr "不正確。行星的化學組成彼此間有很大的差異。"
+
+msgid "If another planet were discovered in our system and that planet was found to be approximately 200 million kilometers from the Sun, how many Earth Days would you expect it would take that planet to make one complete revolution around the sun?"
+msgstr "如果在太陽系中，距離太陽大約2億公里處發現一個星球，該星球繞太陽一週相當於地球上的幾天？"
+
+msgid "Revolving around the sun..."
+msgstr "繞著太陽公轉…"
+
+msgid "Not quite. You've under-estimated the number of Earth days required for that planet to orbit the Sun. At a distance of 200 million kilometers, a planet would take approximately 500 to 600 Earth days to orbit the Sun."
+msgstr "不正確。你低估了該行星繞太陽一週的天數。2億公里的距離，該行星繞太陽一週，大約經過地球的500至600天。"
+
+msgid "Correct! At a distance of 200 million kilometers, a planet would take approximately 500 to 600 Earth days to orbit the Sun."
+msgstr "正確。2億公里的距離，該行星繞太陽一週，大約經過地球上的500至600天。"
+
+msgid "Distance from the Sun"
+msgstr "與太陽之間的距離"
+
+msgid "Number of Earth Days"
+msgstr "地球上的天數"
+
+msgid "Relationship between distance from the Sun and number of Earth days to orbit around the Sun"
+msgstr "繞著太陽公轉的距離與所需天數之間的關係"
+
+msgid "X-axis = Distance (Millions of Kilometers) from the Sun"
+msgstr "X軸=與太陽的距離（百萬公里）"
+
+msgid "Y-axis = Number of Earth Days to complete orbit around Sun"
+msgstr "Y軸=繞太陽一週所需的天數（地球上的天數）"
+
+msgid "Which of the following planets are classified as \"gaseous planets\"? Check <span class='blink'>all</span> that apply."
+msgstr "以下哪個行星被列為“氣態行星”？查看所有選項。"
+
+msgid "Gaseous planets..."
+msgstr "氣態行星..."
+
+msgid "Yes! The planets, Neptune and Saturn, are large gaseous planets farther from the Sun."
+msgstr "是的！海王星和土星是距離太陽最遠的大型氣態行星。"
+
+msgid "Not quite! The planets, Neptune and Saturn are large gaseous planets farther from the Sun. Venus and Mars are closer to the Sun and are made of mostly rock."
+msgstr "不正確。海王星和土星是距離太陽最遠的大型氣態行星。金星和火星大部分由岩石組成，且較接近太陽。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個快速檢測..."
+
+msgid "Waxing (getting bigger)"
+msgstr "漸亮（愈來愈大）"
+
+msgid "Waning (getting smaller)"
+msgstr "衰落（越來越小）"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "Waning"
+msgstr "衰落"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Mars' speed in its orbit around the sun is nearly 87,000 km/h"
+msgstr "火星繞太陽公轉的速度約為87000公里/小時"
+
+msgid "2. Mars' speed in its orbit around the sun is nearly 87,000 km/hr"
+msgstr "2. 火星繞太陽公轉的速度約為87000公里/小時"
+
+msgid "When an object spins around an axis, or imaginary line that goes through the object. Many objects in space rotate, such as the Earth and Earth's Moon."
+msgstr "當星體繞著一條軸或星體之假想線旋轉。許多星體在太空中自轉，如地球和月亮。"
+
+msgid "Checking what you now know about... our solar system"
+msgstr "檢驗你所知道的「我們的太陽系」"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個測驗問題是..."
+
+msgid "Flipping the box..."
+msgstr "反轉視窗…"
+
+msgid "What is at the center of our solar system?"
+msgstr "什麼在我們太陽系的中心？"
+
+msgid "label"
+msgstr "標籤"
+
+msgid "Summarizing big ideas about... our solar system"
+msgstr "總結「我們的太陽系」的大概念"
+
+msgid "Summer or winter?"
+msgstr "夏季或冬季?"
+
+msgid "That’s right! It is summer time in the northern hemisphere when the Nort"
+msgstr "這是正確的！當北極傾斜朝向太陽時，北半球為夏季；且實際上，當北半球為冬季時，地球最接近太陽。"

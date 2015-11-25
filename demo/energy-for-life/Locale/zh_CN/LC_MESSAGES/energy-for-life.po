@@ -1,0 +1,1171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Energy for life\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Energy for Life"
+msgstr "生命的能源"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是......"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案…"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"請上下翻轉骰子來選擇你的答案。你可以點擊、按住，然後將滑鼠移動向上或向下。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Bathing under the sun..."
+msgstr "沉浸在陽光裡......"
+
+msgid "Releasing energy..."
+msgstr "釋放能量......"
+
+msgid "Preparing your first quick check..."
+msgstr "準備第一個小練習！"
+
+msgid "Searching for food..."
+msgstr "尋找食物......"
+
+msgid "Roles and relationships"
+msgstr "角色和關係"
+
+msgid "Burning fossil fuels..."
+msgstr "燃燒化石燃料......"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "Analyzing the events..."
+msgstr "分析事件......"
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "看看您知道多少......"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是......"
+
+msgid "Digging coal..."
+msgstr "挖煤礦......"
+
+msgid "Network of food relationship..."
+msgstr "食物關係的網絡......"
+
+msgid "Pumping fuel for ignition..."
+msgstr "灌注燃料、點火......"
+
+msgid "Studying photosynthesis..."
+msgstr "研究光合作用......"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備你最後一題的小測驗！"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Energy for Life review"
+msgstr "歡迎來到「生命的能量」單元"
+
+# 2
+msgid "Thinking about... energy for life"
+msgstr "想一想......關於「生命的能量」"
+
+msgid ""
+"Our cars need energy. Our homes need energy. We need energy for our phones "
+"and computers. When we run out of energy ourselves, we eat to get more "
+"energy. It takes energy to power the atmosphere and cause weather. Even "
+"plants need energy."
+msgstr ""
+"我們的汽車需要能量、家園需要能量，我們也需要能量以供手機和電腦等使用。當人們"
+"體力耗盡時，我們需要進食以獲得更多的能量。大自然也需要能量來驅動大氣層以形成"
+"天氣的變化。即便是植物，也需要能量。"
+
+msgid ""
+"Where to get some? The answer is above us every day, even when we can't see "
+"it because of clouds. It's the sun. Think about how everything somehow gets "
+"energy from the sun. It's all linked together."
+msgstr ""
+"哪裡可以得到能量呢？答案，每天都會在我們的頭頂上經過──即使有時候會因為有雲，"
+"我們會看不到它。這答案就是──「太陽」。請你想一想，萬物是如何從太陽獲得能量的"
+"呢？這一切都是相互關聯的。"
+
+# 3
+msgid "Checking what you know... about energy for life"
+msgstr "看看你了解了多少......關於「生命的能量」"
+
+msgid "Click on the statement that is <span class='blink'>correct</span>."
+msgstr "請點選中下列<span class='red blink'>不正確</span>的敘述。"
+
+msgid "The earth gets heat from the sun."
+msgstr "地球從太陽得到熱。"
+
+msgid "Light from the sun is absorbed by objects on earth."
+msgstr "來自太陽的光全部被地球上的物體吸收。"
+
+msgid "Absorbed light usually increases the energy in an object."
+msgstr "吸收光通常會增加物體的能量。"
+
+msgid "All of the above."
+msgstr "以上皆是。"
+
+msgid ""
+"The light from the sun is reflected or absorbed by objects on earth. If an "
+"object absorbs sunlight, its energy increases. Continue with the lesson and "
+"review how the sun supplies plants with energy and how all living things "
+"depend on that for energy."
+msgstr ""
+"來自太陽的光會被地球上的物體反射或者吸收。如果物體吸收太陽光時，它的能量會增"
+"加。請你繼續這單元，看看陽光如何提供能量給植物，以及所有的生物是如何地依賴著"
+"太陽的能源。"
+
+# 4
+msgid "Reviewing core ideas... about energy for life"
+msgstr "複習核心觀念......關於「生命的能量」"
+
+msgid ""
+"We get the energy we need for everything we do in life from the sun. Much of "
+"that energy is reflected into space, but some is trapped in the leaves of "
+"green plants.  In those leaves, a process called <span class=\"key"
+"\">photosynthesis</span> converts the active, kinetic energy of light into "
+"the stored potential energy of chemical bonds."
+msgstr ""
+"我們從太陽獲得所有生活中所需的能量。太陽照射到地球的能量，大部分都被反射回太"
+"空中，但有一小部分會被綠色的植物的葉子所吸收。在這些葉子中，<span class=\"key"
+"\">光合作用</span>將太陽光的光能轉換為化學鍵中儲存的位能。"
+
+msgid ""
+"Photosynthesis converts air and water into sugar and oxygen in the part of a "
+"plant cell that is actually green. The green structure is called a <span "
+"class=\"key\">chloroplast</span>, and is found mostly in leaves and stems.  "
+"It contains a green chemical called <span class=\"key\">chlorophyll</span> "
+"which is able to absorb energy from the sun.  Oxygen is also made as a waste "
+"product of photosynthesis."
+msgstr ""
+"也就是說，光合作用會將空氣中的二氧化碳和水轉化為葡萄糖和氧氣［請參考右圖］。"
+"這兩種產物中，葡萄糖裏面儲存的能量，可供植物未來成長使用；氧氣則可供生物呼"
+"吸。光合作用都是發生在植物細胞的綠色部分──這裏有一種構造，稱為<span class="
+"\"key\">葉綠體</span>，它們大部分在葉和莖的部位可以被看到。葉綠體內含有一種綠"
+"色的化學物質稱為<span class=\"key\">葉綠素</span>，它能夠吸收來自太陽的能量。"
+
+msgid "Sunlight Light Energy"
+msgstr "太陽光的光能"
+
+msgid "Oxygen"
+msgstr "氧氣"
+
+msgid "Glucose"
+msgstr "葡萄糖"
+
+msgid "Carbon Dioxide"
+msgstr "二氧化碳"
+
+msgid "Root"
+msgstr "根"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Minerals"
+msgstr "礦物質"
+
+msgid ""
+"The key thing to remember is that energy from the sun is used to combine "
+"atoms into a sugar molecule. That energy is stored in the chemical bonds "
+"holding the atoms together.  As long as the sugar molecules are together in "
+"some form, the energy will remain stored.  The oxygen released as well is a "
+"waste product of photosynthesis, but is vital for other life processes in "
+"all plants and animals."
+msgstr ""
+"我們要記住的一個關鍵是，來自太陽光的能量可以使得一些原子結合成一個葡萄糖的分"
+"子，太陽的能量就是被儲存在這些將原子束縛在一起的化學鍵中，只要葡萄糖分子存"
+"在，這些能量就被保存在這些分子中。氧氣也是光合作用的產物，這排放出來的氣體對"
+"所有的植物和動物的生命過程都是至關重要的。"
+
+msgid ""
+"What about living things who can't capture the sun's energy through "
+"photosynthesis, like people? Other living things eat. Most of our energy "
+"comes from the sugars and starches in our diets. <span class='key'>Starches</"
+"span> are actually long chains of simple sugar molecules, bonded together.  "
+"When they are broken down into simple sugars, they can enter cells, where "
+"the chemical bonds holding their atoms together, are broken apart. The "
+"energy that was once holding atoms to one another is then released and used "
+"to power the cell's life processes."
+msgstr ""
+"植物可以藉由光合作用得到養分；但對於那些無法直接藉由光合作用獲得養分和能量的"
+"生物──例如人類，那這麼辦呢？這些生物就只好靠進食了。人類的能量來源大部分來自"
+"我們飲食中的糖份和澱粉。 植物進行光合作用得到的葡萄糖是一種結構簡單的醣類(一"
+"種「單醣」)；當很多「葡萄糖」分子結合成長鏈後可以形成<span class=\"key\">澱粉"
+"</span>來儲存。當生物體需要能量時，澱粉可以被分解成單醣進入細胞中，隨後，葡萄"
+"糖會被代謝成二氧化碳──這過程中，原來儲存在葡萄糖原子間的能量就會被釋放出來，"
+"以提供細胞生命過程的需要而使用。"
+
+msgid "Starchy foods: bread, potatoes, pasta, rice"
+msgstr "澱粉類食物：麵包、馬鈴薯、麵食、米飯"
+
+msgid ""
+"So when we run out of energy, we feel hungry and eat.  After we eat, we feel "
+"better - thanks to the energy we've taken in. This is because our food is "
+"broken apart and digested, and absorbed by our digestive systems."
+msgstr ""
+"在人體中，當我們耗盡體能時，會覺得餓並想吃東西。我們吃了之後，會覺得舒坦許多"
+"──這是由於我們已經補充了能量。我們的「消化系統」先對吃進來的食物進行分解、消"
+"化並成為一些比較小的分子方便吸收。"
+
+msgid ""
+"The small building blocks of our food molecules are then transported to "
+"cells all over our bodies by the circulatory system. This process of energy "
+"release is called <span class=\"key\">cellular respiration</span>, and "
+"requires oxygen to occur. Like photosynthesis, cellular respiration is a "
+"complex, many-stepped process which can be summarized fairly simply.  Sugar "
+"is broken down, using oxygen, to release energy and form carbon dioxide and "
+"water."
+msgstr ""
+"這些已經被分解吸收的小分子，接著由「循環系統」運送到遍布身體的細胞中。當細胞"
+"需要能量時，這些小分子就會進行<span class=\"key\">細胞呼吸</span>以代謝掉這些"
+"小分子而產生能量，這個過程是需要氧氣的。「細胞呼吸」和「光合作用」都是複雜、"
+"多步驟的過程；但「細胞呼吸」，可以簡單敘述為──在生物細胞中，氧氣的參與下將葡"
+"萄糖分解，形成二氧化碳和水，並釋放能量以供細胞使用的過程。"
+
+msgid ""
+"The first stage of respiration happens as soon as sugar enters the cell. It "
+"only releases a little energy, but it provides the raw materials for the two "
+"other stages. They both occur in a cellular structure called a "
+"mitochondrion. Both animals and plants have mitochondria in all of their "
+"cells. Through another complex set of reactions, the bonds holding the "
+"carbon, hydrogen, and oxygen atoms of sugar are broken and rearranged to "
+"produce carbon dioxide and water. The energy that remains is used by the "
+"cell."
+msgstr ""
+"「呼吸作用」的第一階段，在醣類進入細胞時立 刻發 生。它僅放出小量的能量，但這"
+"過程產生了後二個階段所需的物質。隨後的二個階段，都在一個叫做「粒線體」的細胞"
+"結構中發 生。動物和植物細胞中都有著粒線體。通過另一系列複雜反應，原本將碳、"
+"氫、氧原子組合成糖的化學鍵被斷裂並重排，產 生二 氧化碳和水。整個呼吸作用過程"
+"中，所餘下來的能量就能提供給細胞所使用了。"
+
+msgid ""
+"While the process is simple on the surface, many factors combine to "
+"determine just how our body processes work together to give us the energy we "
+"need when we need it."
+msgstr ""
+"雖然表面上看起來這過程很簡單，不過其實有很 多很 多因素共同決定了我們的身體機"
+"能是如何協同運作，以在我們需要的時候適時給予我們適當的能量。"
+
+msgid "Mitochondria"
+msgstr "粒線體"
+
+# 5
+msgid ""
+"Question A. Which of the following statements is <span class=\"blink\">true</"
+"span> regarding photosynthesis?"
+msgstr ""
+"問題A. 下列哪一個是關於光合作用的<span class=\"blink\">正確</span>敘述？"
+
+msgid "Photosynthesis occurs only in animal cells."
+msgstr "光合作用只發生在動物細胞中。"
+
+msgid "Energy is stored in the chemical bonds of sugars."
+msgstr "能量儲存在醣類的化學鍵中。"
+
+msgid "Carbon dioxide is released into the air."
+msgstr "二氧化碳被釋放到空氣中。"
+
+msgid "Sugars are consumed for energy release."
+msgstr "醣類在能量產生的過程中會被消耗。"
+
+msgid ""
+"Question B. Which of the following is the name of the process in which "
+"energy is released from sugar?"
+msgstr "問題B. 下列哪一項是醣類釋放出能量的過程？"
+
+msgid "Cellular respiration"
+msgstr "細胞呼吸"
+
+msgid "Photosynthesis"
+msgstr "光合作用"
+
+msgid "Metabolism"
+msgstr "代謝作用"
+
+msgid "Light reactions"
+msgstr "光反應"
+
+msgid "Sorry. Animal cells can't do photosynthesis."
+msgstr "不對喔！動物細胞不能進行光合作用。"
+
+msgid ""
+"Yes! Energy is stored in the bonds holding carbon, hydrogen, and oxygen "
+"atoms in sugar molecules."
+msgstr "正確！能量儲存在葡萄糖分子內維繫著碳、氫和氧原子的化學鍵中。"
+
+msgid "It's the other way. Carbon dioxide is taken from the air."
+msgstr "不對喔！正好相反，光合作用需要消耗空氣中的二氧化碳。"
+
+msgid "Nope. This is where energy is stored in sugar."
+msgstr "不對喔！能量儲存在生成的葡萄糖中。"
+
+msgid "That's right! Respiration releases the stored power of the sun."
+msgstr "這是正確的！細胞的呼吸作用會將醣類的能量(來自太陽)釋放出來。"
+
+msgid "Umm... No.  It's the other one...."
+msgstr "嗯......不對喔！這是另外一種...."
+
+msgid "Not unrelated. But not the best answer."
+msgstr "不對喔！雖然也有一點關係，但這不是最好的答案。"
+
+msgid "Don't think this term showed up in this review..."
+msgstr "不對喔！這個單元中並不會提到這個名詞..."
+
+# 6
+msgid "More core ideas... about energy for life"
+msgstr "更多核心觀念......關於「生命的能量」"
+
+msgid ""
+"All living things need food and all living things are food. The "
+"relationships between producers and consumers in a complex plant/animal "
+"community are extremely complicated and not at all obvious. Hover your mouse "
+"over each image to view more information."
+msgstr ""
+"所有的生物都需要食物；但它們也都是別人的食物。在一個複雜的植物與動物群落中，"
+"生產者和消費者之間的關係是非常複雜且不是顯而易見的。請你移動鼠標並懸停在每個"
+"圖像上，以查看更多信息。"
+
+msgid ""
+"We think of green plants as <span class=\"key\">producers</span>. They use "
+"some of the sugar produced during photosynthesis to power their own cells, "
+"and the rest is stored in the form of carbohydrates, proteins, and fat."
+msgstr ""
+"綠色植物是一種<span class=\"key\">生產者</span>。它們使用由光合作用過程中產生"
+"的醣類來驅動它們自己的細胞，一些剩餘的醣類就被轉變儲存成碳水化合物、蛋白質和"
+"脂肪的形式。"
+
+msgid ""
+"<span class=\"key\">Consumers</span> eat producers, digesting the plant "
+"compounds and using them for energy and for building their own "
+"carbohydrates, proteins, and fats."
+msgstr ""
+"<span class=\"key\">消費者</span>需吃「生產者」。消費者會消化植物中的各種化合"
+"物並利用它們來產生能量，同時也能形成消費者自己的碳水化合物、蛋白質和脂肪。"
+
+msgid ""
+"First-order consumers, also called <span class=\"key\">herbivores</span>, "
+"eat only plant material.  Second-order consumers eat other consumers."
+msgstr ""
+"一級消費者，也叫<span class=\"key\">草食性動物</span>，它只吃植物。二級消費者"
+"則會吃一級消費者、三級則會吃二級的...，也就是級數高的吃級數低的。由於它們之間"
+"會維持食物供需的平衡，所以，級數高的動物往往族群的數量較少；反之則會較多。例"
+"如一個草原中，獅子會比較少，斑馬會比較多。"
+
+msgid ""
+"Animals that eat only other animals are called <span class=\"key"
+"\">carnivores</span>."
+msgstr ""
+"有些動物只以其他動物為主食，它們就被稱為<span class=\"key\">肉食性動物</"
+"span>。"
+
+msgid ""
+"Animals that eat both plants and animals are called <span class=\"key"
+"\">omnivores</span>."
+msgstr ""
+"另外，有些動物既以植物、又以動物為主食的動物，被稱為<span class=\"key\">雜食"
+"性動物</span>。"
+
+msgid ""
+"A direct sequence of producer being eaten by first order consumer which is "
+"then eaten by a second-order consumer is called a <span class=\"key\">food "
+"chain</span>."
+msgstr ""
+"「二級消費者」吃「一級消費者」，而「一級消費者」吃「生產者」，這種直接的順序"
+"關係就形成了所謂的<span class=\"key\">食物鏈</span>。"
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by bacteria and fungi. This diverse group of organisms, called <span "
+"class=\"key\">decomposers</span>, also go to work on the waste matter "
+"dropped by animals.  They use the nonliving material for food, releasing "
+"some carbon dioxide back into the air and breaking it down into its simplest "
+"parts.  This process turns the dead plant or animal back into soil which can "
+"then be used for new plant growth.  The released carbon dioxide is also "
+"reused for photosynthesis."
+msgstr ""
+"當一個生物死亡但卻未被其它動物吃掉，它們最後還是會被細菌和真菌消耗掉。這些多"
+"樣化的菌類生物群，被稱為<span class=\"key\">分解者</span>，它們也會對動物的排"
+"泄物等物質，進行分解。它們以無生命的物質為食，然後釋放出二氧化碳到大氣中，以"
+"重新被光合作用使用；同時，它們也會將死亡生物或排泄物質等分解成最簡單的物質形"
+"式，使已死去的植物或動物回歸到土壤，以被新的植物生長來使用。"
+
+msgid ""
+"Over a span of years, the same atoms and molecules may cycle back and forth "
+"between different types of plants and animals over and over.  Every time "
+"they are combined to make a bigger molecule, energy is stored in the "
+"chemical bonds that hold them together.  Every time they are broken apart, "
+"that same energy is released to provide energy for life processes."
+msgstr ""
+"經過幾年的時間的過程，同一些原子和分子可能在不同類型的植物和植物間一遍又一遍"
+"的循環。當它們結合而形成更大的分子時，能量就被儲存在將原子吸引在一起的化學鍵"
+"中；每當大分子被分解時，相對的能量被釋放出來，以提供生命過程所需。"
+
+msgid ""
+"Under certain circumstances, decomposers may not be available to fully break "
+"dead matter apart.  If the circumstances are just right, that matter may be "
+"preserved, keeping its complex carbon-based molecules mostly intact. When "
+"plant materials are preserved in this way, and then compressed beneath many "
+"layers of rock, <span class=\"key\">coal</span> is produced. When ocean "
+"microorganisms face similar conditions, the resulting product is crude oil, "
+"or <span class=\"key\">petroleum</span>."
+msgstr ""
+"在某些情況下，分解者可能無法完全分解已死掉的物質。如果條件恰當的話，那這物質"
+"將可能會被保留下來，它可以保持著原來完好的碳分子結構。當植物以這種方式被保"
+"存，然後被許多層的岩石積壓時，就會生成<span class=\"key\">煤</span>；當海洋微"
+"生物面臨著類似的情況時，所得到的產品就會是<span class=\"key\">石油</span>了。"
+
+msgid "Large offshore oil rig drilling for petroleum"
+msgstr "大型海上鑽油井平台鑽探石油"
+
+msgid "Fossil leaves"
+msgstr "葉的化石"
+
+msgid "Coal mining site"
+msgstr "煤炭開採現場"
+
+# 7
+msgid ""
+"Question A. Plants are generally understood to play which role in the "
+"ecosystem?"
+msgstr "問題A. 一般認為，植物在生態系統中扮演著甚麼樣的角色呢？"
+
+msgid "Producers"
+msgstr "生產者"
+
+msgid "First-order consumers"
+msgstr "一級消費者"
+
+msgid "Herbivores"
+msgstr "草食性動物"
+
+msgid "Decomposers"
+msgstr "分解者"
+
+msgid ""
+"Question B. Which of the following illustrates the complex set of "
+"relationships in a plant/animal community?"
+msgstr "問題B. 下列何者可以適當的說明植物/動物群落之間的複雜關係？"
+
+msgid "Food pyramid"
+msgstr "食物金字塔"
+
+msgid "Temperature graph"
+msgstr "溫度曲線圖"
+
+msgid "Food web"
+msgstr "食物網"
+
+msgid "Periodic table"
+msgstr "元素週期表"
+
+msgid "Correct! Producers gather solar energy in photosynthesis."
+msgstr "正確！生產者透過光合作用吸收太陽的能量。"
+
+msgid "No. Consumers eat plants."
+msgstr "不對喔！一級消費者是吃植物的。"
+
+msgid "Sorry. Herbivores eat plants."
+msgstr "不對喔！草食性動物原則上只會吃植物。"
+
+msgid "Nope. Decomposers break down dead material."
+msgstr "不對喔！分解者會分解動植物的屍體。"
+
+msgid "Not quite. The pyramid may be useful in meal planning, though."
+msgstr "不完全對喔！食物金字塔主要是用在讓我們計畫良好飲食的。"
+
+msgid "Ummm... Not related to plant/animal relationships."
+msgstr "嗯...不對喔！這和植物/動物的關係，不相關喔。"
+
+msgid "Yes! Food webs illustrate complex plant/animal relationships."
+msgstr "沒錯！食物網表示的是植物/動物間的複雜關係。"
+
+msgid "Not quite. The periodic table is a tool for chemistry."
+msgstr "不對喔！元素週期表是化學上的工具。"
+
+# 8
+msgid ""
+"Coal and petroleum are considered to be <span class=\"key\">fossil fuels</"
+"span>, because they are the remains of living organisms, millions of years "
+"old. <span class=\"key\">Coal</span> was the fuel for the industrial "
+"revolution, providing the vast amounts of energy required to power the steel "
+"mills and steam engines.  Steady wages, new products, and higher "
+"concentrations of people led to dramatic upward shifts in the standards of "
+"living of people all over the world."
+msgstr ""
+"煤和石油都是屬於<span class=\"key\">化石燃料</span>，因為它們是生物經過幾百萬"
+"年的遺存物。其中， <span class=\"key\">煤</span>是工業革命的燃料，提供了煉鋼"
+"廠和蒸汽機所需要的大量能量。穩定的工資、創新的產品、聚居的人群，使得居住在世"
+"界各地人群的生活水準顯著的提高。"
+
+msgid ""
+"<span class='key'>Petroleum</span> was the fuel for another industrial "
+"revolution at the beginning of the Twentieth Century. Automobiles and "
+"airplanes required the concentration of a lot of energy in a small package "
+"to speed up travel and make it available to common people; petroleum was "
+"just the ticket."
+msgstr ""
+"<span class='key'>石油</span>則是另一個二十世紀初工業革命的燃料。汽 車和 飛機"
+"都需要將大量的能量裝填在一個很小的體積中，以加速交通並提供給老百姓使用。而石"
+"油就是開啟這個工業革命的門票。"
+
+msgid ""
+"We still use huge amounts of coal and petroleum around the world, but we are "
+"beginning to understand the long-term costs of using these resources. Fossil "
+"fuels take a very long time to form, much longer than they take to use up. "
+"Even though new supplies of coal and oil are still being found, the time "
+"required for them to form makes it inevitable that we will eventually run "
+"out. Here's how the system works."
+msgstr ""
+"我們至今在世界各地仍然大量使用煤和石油，但我們也開始了解大量使用這些資源的長"
+"期代價。要形成化石燃料需要很長的時間，但用光它們卻是非常的快。儘管我們有時會"
+"發現一些煤和石油的新來源，但因為它們形成的時間需要這麼的長，所以人類最終總是"
+"會耗盡這些化石燃料的。接下來，我們來看看這整個系統的循環。"
+
+msgid ""
+"Burning fossil fuels releases vast amounts of carbon dioxide into the "
+"atmosphere. This carbon dioxide was originally trapped by photosynthesis "
+"millions of years ago and stored as living material. When that material was "
+"converted into coal and petroleum, it was stored indefinitely below ground. "
+"Now, this stored carbon is being returned to the atmosphere at rates far "
+"faster than when it was removed. This has led to changes in climate patterns "
+"because carbon dioxide absorbs solar energy, heating the atmosphere."
+msgstr ""
+"燃燒化石燃料會將大量的二氧化碳釋放到大氣中，這些二氧化碳可是百萬年前透過光合"
+"作用而儲存在生物體內的。當這些生物被轉化成煤和石油，它本可能是會被無限期儲存"
+"地下；但現在，這些儲存的碳，卻被以遠遠更快於當初從大氣中吸收的速率，返回到大"
+"氣中。因為二氧化碳會吸收太陽能，讓大氣層變熱，這已經導致地球氣候模式的變化"
+"了。"
+
+msgid ""
+"One possible solution to the problem of using up fossil fuels is to make "
+"fuels using solar energy to remove carbon and produce new fuels. That's what "
+"photosynthesis does. It uses the sun's energy to remove carbon dioxide from "
+"the air and make molecules of sugar."
+msgstr ""
+"一種可能用來解決化石燃料被用光的問題，就是去模仿植物的光合作用；也就是說，利"
+"用太陽的能量來將空氣中的碳給''固定''下來，以產生新的能量來源──醣。"
+
+# 9
+msgid "Question A. Coal is a fossil fuel made up mostly of..."
+msgstr "問題A.煤炭是一種化石燃料，它主要是由下列何者所產生的..."
+
+msgid "Dinosaur remains"
+msgstr "恐龍遺骸"
+
+msgid "Marine fossils"
+msgstr "海洋生物化石"
+
+msgid "Plant material"
+msgstr "植物體"
+
+msgid "Preserved insects"
+msgstr "昆蟲標本"
+
+msgid "Question B. The energy stored in fossil fuels came originally from..."
+msgstr "問題B. 儲存在化石燃料的能量，最初是來自..."
+
+msgid "The sun"
+msgstr "太陽"
+
+msgid "Waterfalls"
+msgstr "瀑布"
+
+msgid "Volcanoes"
+msgstr "火山"
+
+msgid "Dinosaurs"
+msgstr "恐龍"
+
+msgid ""
+"Not dinosaurs... Even though some oil companies use them in advertising."
+msgstr "不是恐龍的......雖然有一些石油公司會使用恐龍當廣告。"
+
+msgid "Close... Marine fossils are the source for petroleum."
+msgstr "接近了，不過還是不對喔！...海洋化石石油的來源。"
+
+msgid "That's right! Slabs of coal often include impressions of leaves."
+msgstr "這是正確的！而且煤塊中經常還會看到葉子的壓痕。"
+
+msgid "Sorry. Coal isn't from insects."
+msgstr "抱歉。煤不是從昆蟲得來的。"
+
+msgid "That's right! Coal and petroleum are the remains of living things."
+msgstr "這是正確的！煤和石油都是生物的遺骸，而生物的能量最初都是來自太陽。"
+
+msgid "Sorry... Waterfalls don't make fossil fuels."
+msgstr "不對喔！...瀑布不會製造化石燃料。"
+
+msgid "Um... no. Volcanoes would actually burn fuels away."
+msgstr "嗯...不對。火山實際上還可能燃燒掉地球上的燃料。"
+
+msgid "Not dinosaurs, even though they may have left fossils."
+msgstr "不對喔！能量最初並不是來自恐龍，即使它們可能是化石。"
+
+# 10
+msgid "Using what you know... about energy for life... to solve a problem"
+msgstr "運用你所知道......關於「生命的能量」......解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"The burning of fossil fuels has saved people lots of time and labor while "
+"raising living standards around the world. But burning fossil fuels "
+"contributes to global warming and is dangerous for the future. Many people "
+"argue that the United States should not take action to reduce its use of "
+"fossil fuels unless all other countries around the world reduce their use of "
+"fossil fuels as well. They argue that any changes made only by the US will "
+"be insignificant."
+msgstr ""
+"化石燃料的使用節省了人類大量的時間和人力，同時提高世界各地的生活水準。但燃燒"
+"化石燃料也導致全球暖化並對未來造成危險。許多人認為，除非全世界所有國家共同減"
+"少化石燃料的使用，不然我國不必採取節用化石燃料的行動。他們認為，只有一個國家"
+"所做的任何改變，將是沒有效的。"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"Prepare some \"talking points\" (things that people might say) for people on "
+"both sides of the issue. Use the headings, \"Reasons why the US should cut "
+"back on the use of fossil fuels\" and \"Reasons why the US should not cut "
+"back on the use of fossil fuels\" to organize your talking points.  Enter or "
+"cut and paste your talking points in the text box provided."
+msgstr ""
+"請為對這個問題的兩個相反立場的人，提出可能的“論點”（他們可能會說的話）。請使"
+"用下面兩個標題，“一、為什麼我國應該減少化石燃料的使用”和“二、為什麼我國不應該"
+"減少化石燃料的使用”來列出你的論點。(可將你的論點，輸入、複製貼上到下面的文字"
+"框中)"
+
+# 11
+msgid "Summarizing core ideas... about energy for life"
+msgstr "總結核心觀念......關於「生命的能量」"
+
+msgid ""
+"In green plants, a process called <span class='key'>photosynthesis</span> "
+"captures light energy and stores it in the chemical bonds of sugars.  These "
+"sugars may be used directly by the plant or by other living things, or they "
+"may be converted into a variety of energy storage molecules. These molecules "
+"may be used later. Organisms that capture solar energy are called <span "
+"class='key'>producers</span>. Organisms which use the energy stored by "
+"plants are called <span class='key'>consumers</span>. Each set of "
+"relationships between producers, consumers, and their physical environments "
+"is called a <span class='key'>food web</span>. When plants and animals die, "
+"their bodies decompose, releasing the stored energy. Sometimes, the bodies "
+"do not completely decompose and the stored energy may be converted into "
+"substances which may remain underground for millions of years. <span "
+"class='key'>Coal</span> is the product of the incomplete decomposition of "
+"plant material. Oil and natural gas are the products of a similar process in "
+"ocean organisms. The fact that these products are the remains of living "
+"things millions of years old is why they are called <span class='key'>fossil "
+"fuels</span>."
+msgstr ""
+"在綠色的植物中，會進行一種<span class=\"key\">光合作用</span>，綠色植物會吸收"
+"太陽光的能量並將它儲存在組成醣類的化學鍵中。這些醣類可以直接被植物或其他生物"
+"使用，或者它們可被轉化成各種儲存能量的分子，以便在未來使用。<span class=\"key"
+"\">生產者</span>指的是可以吸收太陽能的生物。<span class=\"key\">消費者</"
+"span> 指的是吃植物以獲得其能量的生物。<span class=\"key\">食物網</span>則是一"
+"個物理環境中，一群生產者、消費者之間的關係圖 。當植物和動物死亡，他們的屍體會"
+"分解並釋放儲存的能量，但有時候，動植物體並沒有完全分解而被留在地下數百萬年，"
+"其中 <span class=\"key\">煤</span>就是植物體不完全分解的產物；<span class="
+"\"key\">石油和天然氣</span>則是海洋生物體經過類似過程的產物。因為這些都是幾百"
+"萬年歷史的生物遺骸，這也就是為什麼它們都被稱為<span class=\"key\">化石燃料</"
+"span>的原因了 。"
+
+msgid "Reviewing key vocabulary related to... the energy for life"
+msgstr "複習重要名詞......關於「生命的能量」"
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"「光合作用」，是植物等生產者獲得能量的過程。這過程中，植物利用太陽光的能量，"
+"將二氧化碳和水轉化成糖和氧。"
+
+msgid "Chloroplast"
+msgstr "葉綠體"
+
+msgid ""
+"Photosynthesis occurs in the part of a plant cell that is actually green, a "
+"structure called a chloroplast. Chloroplast organelles are found mostly in "
+"leaves and stems, and contain a green pigment chemical called chlorophyll "
+"which is able to absorb energy from the sun."
+msgstr ""
+"光合作用發生在植物細胞中一種綠色──稱為「葉綠體」的部分。葉綠體的細胞器主要分"
+"佈在葉和莖，它含有綠色的化合物，稱為「葉綠素」，葉綠素能夠吸收來自太陽的能"
+"量。"
+
+msgid "Chlorophyll"
+msgstr "葉綠素"
+
+msgid ""
+"Within the chloroplast organelle of plant leaves and stems is a green "
+"pigment called chlorophyll, which is able to absorb energy from the sun. "
+"Thus, chlorophyll is essential in photosynthesis."
+msgstr ""
+"在植物葉子和莖裏，葉綠體的細胞器中含有綠色色素稱為「葉綠素」，這可以用來吸收"
+"來自太陽的能量。因此，葉綠素是光合作用必要的成分。"
+
+msgid "Starch"
+msgstr "澱粉"
+
+msgid ""
+"Most of our energy comes from the sugars and starches in our diets. Starches "
+"are actually long chains of simple sugar molecules, bonded together."
+msgstr ""
+"我們大部分的能源來自於我們的飲食中的醣類和澱粉。澱粉實際上是單糖分子間以長鏈"
+"的方式相互結合在一起。"
+
+msgid ""
+"Cellular respiration is a complex, many-stepped process in which energy is "
+"released through the breaking down of sugar and use of oxygen. Cellular "
+"respiration releases energy and forms carbon dioxide and water."
+msgstr ""
+"「細胞呼吸」是在使用氧氣下將糖分解，產生二氧化碳和水，並釋放能量以供細胞使用"
+"的一連串複雜、多步驟的過程。"
+
+msgid "Producer"
+msgstr "生產者"
+
+msgid ""
+"Green plants, and some other organisms in nature, are producers. Instead of "
+"consuming other organisms, producers use the process of photosynthesis to "
+"produce the energy they need to power their own cells."
+msgstr ""
+"綠色的植物和自然界中一些其他生物，都可以是生產者。生產者並不吃其它的生物，它"
+"們可以透過光合作用的過程以產生自身細胞需要的能量。"
+
+msgid "Consumer"
+msgstr "消費者"
+
+msgid ""
+"Consumers are organisms that cannot produce their own energy through "
+"photosynthesis and, thus, eat producers. They digest the plant compounds and "
+"use them for energy and for building their own carbohydrates, proteins, and "
+"fats. A bison, tiger, and people are examples of consumers."
+msgstr ""
+"「消費者」無法進行光合作用以產生自己需要的能量，因此，它們需進食「生產者」以"
+"獲得能量。「消費者」會消化植物裏的化合物並將這些化合物用於產生自己所需的能源"
+"或形成「消費者」自己的碳水化合物、蛋白質和脂肪。野牛、老虎、人都是屬於「消費"
+"者」的例子。"
+
+msgid "Herbivore"
+msgstr "草食性動物"
+
+msgid ""
+"An herbivore is a type of consumer; herbivores eat only plants. Elephants, "
+"giraffes, and deer are examples of herbivores."
+msgstr ""
+"「草食性動物」是一種「消費者」；草食性動物原則上只吃植物。大象、長頸鹿、鹿"
+"等，都是屬於「草食性動物」的例子。"
+
+msgid "Carnivore"
+msgstr "肉食性動物"
+
+msgid ""
+"A carnivore is a type of consumer; carnivores eat only meat. Cats, dogs, and "
+"crocodiles are examples of carnivores."
+msgstr ""
+"「肉食性動物」也是一種「消費者」；肉食性動物園則上只吃肉食。貓、狗和鱷魚是"
+"「肉食性動物」的例子。"
+
+msgid "Omnivore"
+msgstr "雜食性動物"
+
+msgid ""
+"An omnivore is a type of consumer; omnivores eat both plants and meat. "
+"Bears, birds, and people are examples of omnivores."
+msgstr ""
+"「雜食性動物」也是一種「消費者」；雜食性動物會吃植物和肉類。熊、鳥、人是屬於"
+"「雜食性動物」的例子。"
+
+msgid "Food chain"
+msgstr "食物鏈"
+
+msgid ""
+"A direct sequence of producer organisms being eaten by consumer organisms "
+"such as herbivores, which are then eaten by second-order consumers such as "
+"omnivores and carnivores, is called a food chain."
+msgstr ""
+"「食物鏈」，就是級數越高的吃級數低的消費者，例如：「二級消費者(如雜食性和肉食"
+"性動物)」吃「一級消費者(如：草食性動物)」，而「一級消費者」就吃「生產者」，這"
+"種直接的順序關係。"
+
+msgid "Decomposer"
+msgstr "分解器"
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by a group of organisms called decomposers. Bacteria and fungi are "
+"two main types of decomposers, which also go to work on the waste matter "
+"dropped by animals."
+msgstr ""
+"當一個生物死亡但卻未被其它動物吃掉，它們最後還是會被一群稱為「分解者」的生物"
+"所分解，細菌和真菌是兩種主要的分解者。分解者也會對動物的排泄物等物質，進行分"
+"解。"
+
+msgid "Coal"
+msgstr "煤"
+
+msgid ""
+"When plant materials are preserved in such a way that their complex carbon-"
+"based molecules are kept mostly intact, and then compressed beneath many "
+"layers of rock, coal is produced. Coal is an example of a fossil fuel."
+msgstr ""
+"當植物可以它們原來完好的碳分子結構保存，然後被許多層的岩石積壓，就會生成"
+"「煤」。煤是化石燃料的一個例子。"
+
+msgid "Petroleum"
+msgstr "石油"
+
+msgid ""
+"When ocean microorganisms are preserved in such a way that their complex "
+"carbon-based molecules are kept mostly intact, and then compressed beneath "
+"many layers of rock, crude oil, or petroleum, is produced. Petroleum is an "
+"example of a fossil fuel."
+msgstr ""
+"當海洋微生物可以它們原來完好的碳分子結構保存，然後被許多層的岩石積壓，就會生"
+"成「石油」。石油是化石燃料的一個例子。"
+
+msgid "Fossil Fuels"
+msgstr "化石燃料"
+
+msgid ""
+"Coal and petroleum are considered to be fossil fuels because they are the "
+"remains of living organisms, which are called fossils. Fossil fuels are "
+"considered to be a nonrenewable resource."
+msgstr ""
+"煤和石油都是屬於「化石燃料」，因為它們是生物經過幾百萬年的遺存物──也就是「化"
+"石」。化石燃料被認為是一種不可再生的資源。"
+
+# 13
+msgid "Checking what you now know... about energy for life"
+msgstr "看看你現在了解了多少......關於「生命的能量」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的......哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了後，請繼續。"
+
+# 14
+msgid ""
+"Which of the following is the name of the process in which green plants "
+"convert solar energy into chemical bond energy?"
+msgstr "下列哪一項是綠色植物將太陽能轉化為化學鍵能的過程？"
+
+msgid "Glycolysis"
+msgstr "糖解作用(生物細胞中糖代謝的部分過程)"
+
+msgid "No! Respiration is part of the story, but not this part of the story."
+msgstr "不！這單元中是有提到細胞呼吸，但這不是這一題的答案。"
+
+msgid "Yes! Photosynthesis captures and stores energy from the sun."
+msgstr "沒錯！光合作用能捕獲並儲存來自太陽的能量。"
+
+msgid "Hmmm.... Does this word appear in this review?"
+msgstr "嗯....不對喔！"
+
+msgid "It's related..... But not the answer."
+msgstr "它的有關的....但這選項是不對的。"
+
+# 15
+msgid ""
+"Which of the following statement about coal and petroleum is <span "
+"class='blink'>incorrect</span>?"
+msgstr "下列有關媒和石油的敘述，何者<span class='blink'>錯誤</span>？"
+
+msgid ""
+"Click on the statement about coal and petroleum that is <span class=\"blink"
+"\">incorrect</span>. Rotate or flip the 3D box below either up or down to "
+"set your answer."
+msgstr ""
+"下列有關煤和石油的敘述，何者<span class=\"blink\">錯誤</span>。(請向上或向下"
+"翻轉方盒子，以選擇你的答案)"
+
+msgid "Coal and petroleum are important fuel resources."
+msgstr "煤和石油是重要的燃料資源。"
+
+msgid "There is an unlimited supply of them for years to come."
+msgstr "它們可以無限量供應。"
+
+msgid "Burning them has negative side effects for the environment."
+msgstr "燃燒這些燃料對環境有負面影響。"
+
+msgid "They are extracted through deep wells and mines."
+msgstr "他們是用深井及採礦的方式來開採的。"
+
+msgid "Click, hold and drag up or down"
+msgstr "點選、按住並同時滑動滑鼠"
+
+msgid "No, a great deal of coal and petroleum are used for energy."
+msgstr "不是這個選項，這是敘述是正確的！大量的煤和石油被用於提供能源。"
+
+msgid "That's right. Both coal and petroleum have limited supplies."
+msgstr "你答對了，這個敘述是錯誤的。煤炭和石油的供應量是有限。"
+
+msgid ""
+"Sorry, there are many negative side effects from burning coal and petroleum."
+msgstr "不是這個選項，這是敘述是正確的！燃燒煤和石油對環境有許多負面影響。"
+
+msgid "Nope. Many wells and mines are very deep indeed."
+msgstr "不是這個選項，這是敘述是正確的！"
+
+# 16
+msgid ""
+"Based on the food web, which of these is <span class=\"blink\">not</span> a "
+"consumer?"
+msgstr ""
+"根據以下的食物網，請問哪一個<span class=\"blink\">不是</span>「消費者」？"
+
+msgid "Eagle"
+msgstr "老鷹"
+
+msgid "Sparrow"
+msgstr "麻雀"
+
+msgid "Rabbit"
+msgstr "兔子"
+
+msgid "Grasshopper"
+msgstr "蚱蜢"
+
+msgid "Grass"
+msgstr "草"
+
+msgid "Nope. The eagle is the top consumer in this web."
+msgstr "不對喔！老鷹在這個食物網中是最頂級的消費者。"
+
+msgid "Nope. Sparrows eat grasshoppers."
+msgstr "不對喔！麻雀吃蚱蜢。"
+
+msgid "Nope. Grasshopper eat grass."
+msgstr "不對喔！草蜢吃草。"
+
+msgid "Nope. Rabbits eat grass."
+msgstr "不對喔！兔子吃草。"
+
+msgid "That's right. The grass is the foundation of this web."
+msgstr "這是正確的。草是這個食物網中最底層的物種。"
+
+# 17
+msgid ""
+"Look at the pictures below. In which case do you think coal would be used as "
+"fuel? Click the picture to select your answer."
+msgstr ""
+"根據下面的圖片，請問你認為煤將常用在下列哪一種用途？(點擊圖片，選擇你的答案)"
+
+msgid "Car"
+msgstr "汽車"
+
+msgid "Flame from a gas range."
+msgstr "燃氣爐上的火焰"
+
+msgid "Airplane"
+msgstr "飛機"
+
+msgid "Large factory"
+msgstr "大型工廠"
+
+msgid "Incorrect. Coal would be very heavy for a car to use."
+msgstr "不對喔！汽車若使用煤炭，所需要煤炭的重量將是會非常的重。"
+
+msgid "Nope. The flame comes from a gas range."
+msgstr "不對喔。火焰是來自爐子裏面的燃氣。"
+
+msgid "An airplane? Not likely – coal is very heavy."
+msgstr "飛機？不太可能的，煤是非常重的燃料。"
+
+msgid "There you go. A large factory may well use coal."
+msgstr "你答對囉！大型工廠可以很好地利用煤炭。"
+
+# 18
+msgid ""
+"Choose the <span class=\"blink\">correct</span> statement. Rotate or flip "
+"the 3D box below either up or down to set your answer."
+msgstr ""
+"請選擇下列<span class=\"blink\">正確的</span>敘述。(請向上或向下翻轉方盒子，"
+"以選擇你的答案)"
+
+msgid "All living things perform photosynthesis."
+msgstr "所有的生物都會進行光合作用。"
+
+msgid "Only animals make use of cellular respiration."
+msgstr "只有動物會進行細胞呼吸。"
+
+msgid "Mitochondria are the location of photosynthesis."
+msgstr "粒線體是光合作用發生的位置。"
+
+msgid "Both plants and animals perform cellular respiration."
+msgstr "植物和動物都會進行細胞呼吸。"
+
+msgid "Sorry. Photosynthesis is a green plant thing."
+msgstr "不對喔！光合作用只有綠色植物才會進行。"
+
+msgid "This confuses lots of people. Both plants and animals use respiration."
+msgstr "不對喔！這混淆了很多人，其實植物和動物用需要進行細胞呼吸。"
+
+msgid ""
+"The exact opposite. Mitochondria are the location of cellular respiration."
+msgstr "不對喔！也許你還不清楚，粒線體是細胞呼吸的位置。"
+
+msgid "Correct! Plants and animals both use cellular respiration."
+msgstr "正確！植物和動物都會進行細胞呼吸。"
+
+# 19
+msgid ""
+"Click on <span class=\"blink\">all</span> the changes that you think the "
+"events are causing."
+msgstr ""
+"請問以下的事件會造成<span class=\"blink\">哪些變化發生</span>呢？(複選)"
+
+msgid "Green plants absorb solar energy."
+msgstr "綠色植物吸收太陽的能量。"
+
+msgid "Oxygen is used and carbon dioxide is generated."
+msgstr "氧氣被消耗並生成二氧化碳。"
+
+msgid "Sugar and oxygen are manufactured."
+msgstr "產生糖和氧氣。"
+
+msgid "Energy is converted into forms used by all living things."
+msgstr "能量被轉換成可以被各種生物使用的形式。"
+
+msgid "Stored carbon reserves are burned as fuel."
+msgstr "儲存的含碳燃料或養分被燃燒或代謝。"
+
+msgid "Carbon dioxide stored long ago is released into the atmosphere."
+msgstr "許久以前吸收大氣中的二氧化碳形成化合物，如今再被釋放到大氣中。"
+
+msgid "Oxygen and starch are produced."
+msgstr "產生氧氣和澱粉。"
+
+msgid "Energy for electricity, heat, and transportation is released."
+msgstr "可能是放出能量以產生電力、熱力或用來載物。"
+
+msgid "Cells consume sugar and oxygen."
+msgstr "細胞消耗糖和氧氣。"
+
+msgid "Energy is stored for use by higher organisms."
+msgstr "儲存能量以備高等生物使用。"
+
+msgid "Cells release the energy they need for life."
+msgstr "細胞產生它們生命所需要的能量。"
+
+msgid "Chemical bonds are broken and energy is released."
+msgstr "化學鍵被破壞並釋放能量。"
+
+# 20
+msgid "Congratulations, "
+msgstr "恭喜您，"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中“小練習”和“小測驗”的表現。"
+
+msgid "You've completed the Energy for Life review."
+msgstr "你已經完成了「生命的能量」的單元。"

@@ -1,0 +1,826 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "Back"
+msgstr "返回（上一個）"
+
+msgid "Read More"
+msgstr "閱讀更多（延伸閱讀）"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案（複選）。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Please check your answers."
+msgstr "請確認你的答案。"
+
+msgid "How did I do?"
+msgstr "我做了些甚麼？"
+
+msgid "You answered..."
+msgstr "你回答了……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "靜音"
+
+msgid "Unmute"
+msgstr "取消靜音"
+
+msgid "Max volume"
+msgstr "最大聲"
+
+msgid "Full screen"
+msgstr "全螢幕"
+
+msgid "Restore screen"
+msgstr "還原螢幕"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Repeat off"
+msgstr "關閉重複"
+
+msgid "Update Required"
+msgstr "要求更新"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "為了播放你的媒體，你需要將你的瀏覽器更新至最新版本或是更新你的"
+
+msgid "Flash plugin"
+msgstr "Flash插件（外掛程式）"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住滑鼠並上下移動來轉動方塊和選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "點選左、右鍵頭來瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡以開始輸入你的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答接下來的六個考驗問題可以讓你知道你已經了解什麼，還有需要進一步學習哪些內容。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當你準備好了，請點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "考驗問題#1"
+
+msgid "Quiz Question #2"
+msgstr "考驗問題#2"
+
+msgid "Quiz Question #3"
+msgstr "考驗問題#3"
+
+msgid "Quiz Question #4"
+msgstr "考驗問題#4"
+
+msgid "Quiz Question #5"
+msgstr "考驗問題#5"
+
+msgid "Quiz Question #6"
+msgstr "考驗問題#6"
+
+msgid "Congratulations, "
+msgstr "恭喜！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "你可以點擊下方的按鈕來確認在這次的複習中“快速測驗”與“考驗問題”表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "到儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎"
+
+msgid "Preparing your first quick check!"
+msgstr "準備好你的第一次快速測驗！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的最後一次快速測驗？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備開始你的最後一次考驗問題？"
+
+msgid "Putting it all together..."
+msgstr "把他們都放在一起……"
+
+msgid "Words and explanations"
+msgstr "單字與解釋"
+
+msgid "Let's check what you now know"
+msgstr "來看看你知道了什麼"
+
+msgid "And the first quiz question is..."
+msgstr "接著第一個考驗問題是……"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "How Light Behaves"
+msgstr "光如何行動（光的行為方式）"
+
+msgid "Welcome to the How Light Behaves module"
+msgstr "歡迎來到光的行為方式模組"
+
+# 2
+msgid "Thinking about... how light behaves"
+msgstr "想想看……光是如何行動的"
+
+msgid ""
+"When you walk into your dark bedroom at night, you usually turn on a light. With a light on, you can see everything from your red pillow on the chair to the blue blanket on the bed. But what is light? What happens when that light is turned on? How does that light help you see? This "
+"module is all about light and how it behaves."
+msgstr "當你在夜晚時走進你黑暗的房間，一般來說你會打開電燈。在開燈的狀況下，你可以看見所有的東西包括你椅子上的紅色抱枕到床上的藍色毯子。但是到底什麼是光？當電燈被打開時會發生什麼事？光是如何幫助你看見的？在這個模組中都是關於光以及光的行為方式。"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎"
+
+# 3
+msgid "Checking what you know about... how light behaves"
+msgstr "檢測你所知道有關……光如何行動"
+
+msgid "The drawing shows how your room might look after turning on a light at night. Arrange the sequence to show where the light comes from and where it ends up in order for you to be able to see the pillows on the bed."
+msgstr "這張圖顯示了晚上在開燈之後你房間的樣子。這樣的編排順序呈現了光來自哪裡及它結束的位置好讓你可以看見床上的枕頭。"
+
+msgid "Ceiling light"
+msgstr "吊燈"
+
+msgid "Eyes"
+msgstr "眼睛"
+
+msgid "Pillows on the bed"
+msgstr "床上的枕頭"
+
+msgid "If all of the arrows you have drawn start at the light, you are on the right track. We see things by the light bouncing from or coming from them. Our eyes don’t send out any light! Continue to check out more things about how light behaves."
+msgstr "如果所有的箭頭你已經畫好光的起始處，那你已經在正確的軌道上。我們可以看見彈出光或是發出光的東西。我們的眼睛不能發出任何的光！繼續看看更多與光線如何行動有關的內容。"
+
+msgid "If the path you've chosen starts at the light, you are on the right track. We see things by the light bouncing from or coming from them. Our eyes don't send out any light! Continue this review to learn more about how light behaves."
+msgstr "如果你已經選擇了光線開始的路徑，那你已經在正確的軌道。我們可以看見彈出光或是發出光的東西。我們的眼睛不能發出任何的光！繼續這個複習來學習更多與光線如何行動有關的內容。"
+
+msgid "Turning on the lights..."
+msgstr "打開電燈……"
+
+# 4
+msgid "Reviewing big ideas about... how light behaves"
+msgstr "複習相關的主要概念……光如何行動"
+
+msgid ""
+"All light travels in straight lines from a source, such as a lamp, a candle or the Sun. Unlike sound waves that need a material to carry the wave, light waves can travel through empty space. But when light reaches or shines on an object, any or all three of the following things can "
+"happen:"
+msgstr "所有的光都是從來源以直線行進的，就像電燈，蠟燭或是陽光。不像是聲波需要物質來傳遞波動，光波可以穿過空曠的空間。但是如果光線有接觸或是照在一個物體上，任一或是所有下列三件事會發生："
+
+msgid "a. The object or material <span class='key'>absorbs</span> some or most of the light,"
+msgstr "a. 物體或是物質會吸收部分或是大多數的光，"
+
+msgid "b. Some of the light can bounce off or be <span class='key'>reflected</span>, or"
+msgstr "b. 部分的光會反彈或是被反射，或是"
+
+msgid "c. Some of the light can pass through or be <span class='key'>transmitted</span>"
+msgstr "c. 部分的光會穿過或是被傳送"
+
+msgid "White light"
+msgstr "白光"
+
+msgid "White light Reflected"
+msgstr "白光被反射"
+
+msgid "White surface"
+msgstr "白色表面"
+
+msgid "No light Reflected"
+msgstr "沒有光被反射"
+
+msgid "Black surface"
+msgstr "黑色表面"
+
+msgid "Red light Reflected"
+msgstr "紅光被反射"
+
+msgid "Red surface"
+msgstr "紅色表面"
+
+msgid ""
+"A material or object that absorbs or reflects all of the light that shines on it is called <span class='key'>opaque</span>. When light shines on an opaque object, a <span class='key'>shadow</span> is formed on the other side of the object. But not all the light has to be absorbed "
+"or reflected to create a shadow. So shadows aren't all necessarily black. For example, a clear glass of water can also cast a shadow. Try it!"
+msgstr "可以吸收或反射所有光線的材料或物質稱為不透明。當光線照在不透明的物體上時，在物體的另一邊會形成影子。但是不是所有的光都被吸收或反射才會產生影子。所以，影子並不一定都是黑色的。舉例來說，一杯裝了水的清澈玻璃杯也會產生影子。試試看吧！"
+
+msgid "Travelling in straight lines..."
+msgstr "在直線中行進……"
+
+# 5
+msgid "Look at the pictures below of objects and shadows made with light from the Sun. Match the object with its shadow by dragging the shadow images up or down."
+msgstr "請看下方圖片中的物體與由太陽光照射而產生的影子。請將影子的圖片上下拖曳來將物體與它的影子配對。"
+
+msgid "Funny Hat"
+msgstr "有趣的帽子"
+
+msgid "Toy Rake"
+msgstr "玩具耙子"
+
+msgid "Basket"
+msgstr "籃子"
+
+msgid "Look at the objects and shadows made by light from the Sun below. Match the object with its shadow by dragging the images up or down."
+msgstr "請看著下方物體與由太陽光照射而產生的影子。請將影子的圖片上下拖曳來將物體與它的影子配對。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備好你的第一個快速測驗……"
+
+msgid ""
+"Well done! The shadows that are formed will share common features with the objects. The shadow of the rake will have lines of light and dark; the shadow of the funny hat will show the pointy features of the hat; and the shadow of the basket will have a long dark arc because of the "
+"basket handle."
+msgstr "做得好！影子形成會與原來的物體有共同的特徵。耙子的影子會由光影的線條所構成；有趣帽子的影子會呈現出帽子淺淺的形狀，還有籃子的影子會有一個長且深色的弧形，因為籃子有手把。"
+
+msgid "Look again. The shadows formed by the objects will share common features with the objects. Do the shadows in your matches look similar to the objects in the photos?"
+msgstr "再看一次。物體所形成的影子會與物體有共同的特徵。對結果中的影子看起來是否與照片中的物體很相像？"
+
+# 6
+msgid ""
+"Some materials are highly reflective. When light strikes these materials, nearly all of the light bounces off. The reflectors on a bicycle are designed so that light coming from a car's headlights will bounce straight back off of the reflectors, making the bicycle visible to the "
+"driver of the car. During the first Moon landing, the Apollo 11 astronauts placed a similar reflector on the Moon's surface. Scientists on Earth were then able to bounce light off of these reflectors straight back to Earth, allowing for very exact measurements of the distance "
+"between Earth and Moon."
+msgstr "有些物體可以高度反射。當光線直射到這些材質時，幾乎所有的物體都被反彈（反射）了。在腳踏車上的反光板便是被這樣設計，所以當光從車頭燈照射出來時會被直直地被反射板反射，讓車中的駕駛可以看到腳踏車。"
+
+msgid ""
+"<span class='key'>Mirrors</span> are another example of reflectors. A mirror can be any shiny surface that reflects most of the light. You can see yourself or other things in a flat mirror because the light that bounces off you or other things bounces off the mirror in straight "
+"lines back to your eyes. If the surface of a mirror is curved, the light bounces off in different directions and can make things look closer, farther or just plain funny!"
+msgstr ""
+"在首次登陸月球期間，阿波羅11號的太空人放置了一個相似的反射物在月球表面。在地球上的科學家們就可以將這些反射物直直反射回地球的光反彈，這樣就可以很精確的測量地球與月球間的距離。鏡子是另一個反射物的例子。任何很閃亮或是可以反射大多數光的東西都可以是鏡子。你可以在平坦的鏡子中看到你自己或"
+"是其他東西，是因為光線從你身上或是其他東西上反彈到鏡子再從鏡子直線進到你的眼睛。如果鏡子的表面是彎曲的，光線便會反彈到不同的方向也會讓東西看起來更近、更遠或是很搞笑！"
+
+msgid "Things look normal when light reflects off of flat mirrors."
+msgstr "當東西在平坦的鏡子上被反射時看起來很正常。"
+
+msgid "People can look really silly when light reflects off of curved mirrors."
+msgstr "當人們從曲面鏡子被反射時看起來真的很愚蠢。"
+
+msgid "Bouncing lights..."
+msgstr "反射光線……"
+
+# 7
+msgid "Arrange the sequence to show how light has to travel for the person on the bottom of the bunk bed to see the cat sitting on the top of the bunk bed in the mirror."
+msgstr "請排列光行進的順序，以顯現出人在雙層床架底端觀看鏡子中坐在雙層床架頂端的貓咪。"
+
+msgid "Cat on top of bunk bed"
+msgstr "在雙層床頂端的貓咪"
+
+msgid "Lamp beside the mirror"
+msgstr "在鏡子旁的燈"
+
+msgid "Man on bottom of bunk bed"
+msgstr "在雙層床底部的男人"
+
+msgid "Mirror facing the bunk bed "
+msgstr "雙層床對面的鏡子"
+
+msgid "Looking at the cat..."
+msgstr "看著這隻貓咪……"
+
+# 8
+msgid "Great! Light rays first have to reflect (bounce) off the cat, travel to the mirror, and reflect (bounce) off the mirror to person's eye."
+msgstr "太棒了！光線首先從貓咪反射（反彈），行進到鏡子，然後從鏡子反射（反彈）到人的眼睛。"
+
+msgid "Nope! The light rays have to first shine on the cat, then bounce off the cat, travel to the mirror and bounce off the mirror to the person's eye."
+msgstr "不完全！光線先照到貓咪上，接著從貓咪身上反彈，行進到鏡子然後從鏡子反射到人的眼睛。"
+
+msgid ""
+"Light absorption plays an important role in the colors of the objects you see all around you. For you to see a red apple, the apple must reflect red light while absorbing the other colors of light. Ripe bananas look yellow because they reflect yellow light and absorb the other "
+"colors."
+msgstr "光吸收在你身邊看到的所有物體顏色扮演了重要的角色。就像是你看到一顆紅蘋果，這個蘋果肯定是反射了紅光且吸收了其他色光。成熟的香蕉看起來是黃色的，因為它們反射了黃光且吸收了其他色光。"
+
+msgid "The colors of light an object absorbs and reflects can explain why things can look different when different colored lights shine on them."
+msgstr "一個物體吸收與反射的色光，可以解釋為何東西在不同色光照射下會看起來不一樣。"
+
+msgid "Blue, red, yellow cubes under a yellow lamp"
+msgstr "在黃光燈下的藍色、紅色、黃色方塊"
+
+msgid "Blue, red, yellow cubes under a blue lamp"
+msgstr "在藍光燈下的藍色、紅色、黃色方塊"
+
+msgid "Blue, red, yellow cubes under a standard desk lamp source"
+msgstr "在標準桌燈光源下的藍色、紅色、黃色方塊"
+
+msgid "Blue, red, yellow cubes under a red lamp"
+msgstr "在紅光燈下的藍色、紅色、黃色方塊"
+
+msgid ""
+"Black or dark objects absorb more light than white or light colored objects. A material heats up when it absorbs light. The more light that something absorbs, the hotter it gets. This explains why it is not a good idea to walk barefooted on a blacktop or asphalt covered road on a "
+"sunny summer day and why buildings in warmer climates have windows that act like mirrors to reflect the sunlight and keep the rooms inside cooler."
+msgstr "黑色或暗色的物體比白色或亮色的光吸收更多光線。當材料吸收光線時會升溫。當某樣東西吸收更多光的時候會變得更熱。這解釋了為何在夏天烈日下赤腳走在柏油路或瀝青路上不是一個好主意，以及為何在溫暖氣候下建築物的窗戶會像鏡子一樣反射陽光，這樣可以讓室內保持涼爽。"
+
+msgid "You may have seen solar panels on a home or business. These panels change the energy from light to generate electricity for the appliances in a home, or to reduce the amount of money a business has to pay the utility company each month."
+msgstr "你可能在家裡或公司看過太陽能板。這些板子可以將能量從光轉變為電力來供應家庭用電，或是減少公司每個月在公共用電上的開銷。"
+
+msgid "Blue, red or yellow?"
+msgstr "藍色、紅色或是黃色？"
+
+# 9
+msgid "A Strawberry"
+msgstr "一顆草莓"
+
+msgid "A Glass of Orange Juice"
+msgstr "一杯柳橙汁"
+
+msgid "The Lead in a Pencil"
+msgstr "鉛筆的碳"
+
+msgid "<select>"
+msgstr "<選擇>"
+
+msgid "Click on the color of light reflected by the objects shown below."
+msgstr "點擊下方顯示物體反射的色光。"
+
+msgid "red"
+msgstr "紅色"
+
+msgid "orange"
+msgstr "橙色"
+
+msgid "yellow"
+msgstr "黃色"
+
+msgid "green"
+msgstr "綠色"
+
+msgid "blue"
+msgstr "藍色"
+
+msgid "purple"
+msgstr "紫色"
+
+msgid "all of the above"
+msgstr "以上皆是"
+
+msgid "none"
+msgstr "都不是"
+
+msgid "Click on the color of light reflected by the things listed below."
+msgstr "點擊下方列出物體反射的色光。"
+
+msgid "Reflecting light..."
+msgstr "反射光線……"
+
+msgid "You've got it! A ripe strawberry looks red because it reflects red light; a glass of orange juice looks orange because it reflects orange light; and the lead from a pencil looks black because it doesn't reflect any light."
+msgstr "你懂了！一顆成熟的草莓看起來是紅色的，因為它反射紅光；一杯柳橙汁看起來是橙色的，因為它反射橙光；還有鉛筆的碳看起來是黑色的，因為它不會反射任何色光。"
+
+msgid "Not quite! A ripe strawberry looks red because it reflects red light; a glass of orange juice looks orange because it reflects orange light; and the lead from a pencil looks black because it doesn't reflect any light."
+msgstr "不完全！一顆成熟的草莓看起來是紅色的，因為它反射紅光；一杯柳橙汁看起來是橙色的，因為它反射橙光；還有鉛筆的碳看起來是黑色的，因為它不會反射任何色光。"
+
+# 10
+msgid "More big ideas about... how light behaves"
+msgstr "更多主要概念有關……光線如何行動"
+
+msgid ""
+"Some materials not only absorb and reflect light but they also <span class='key'>transmit</span> or let some or most light pass through. Materials that let most light pass straight through are called <span class='key'>transparent</span>. The glass windows on most cars are "
+"transparent, allowing the driver a clear view of any objects near the car. Other transparent materials absorb most colors of light while allowing only one color of light to pass through. A red material lets only red light pass through; a blue material lets only blue light pass "
+"through, and so on."
+msgstr "有些物質不只會吸收與反射光線，還會傳遞或是讓部分或大多數的光通過。可以讓光線穿透的物質被稱為透明。車上的玻璃窗大多數是透明的，可以讓駕駛很清楚的視野能看見附近的物體。其他透明物質吸收多數色光讓單一種色光通過。紅色物質只讓紅色通過；藍色物質只讓藍色通過，以此類推。"
+
+msgid ""
+"Materials that let just some of the light pass through are called <span class='key'>translucent</span>. These materials change the path that light takes on the way through them, making it tough to clearly see objects on the other side of the material. That's why it can be difficult "
+"for airplanes to take off and land in foggy weather, or for the driver of a car to see through a frost covered windshield on a cold day. Remember though that opaque things don't transmit any light!"
+msgstr "只讓部分光線通過的物質被稱為半透明。這些物質會改變通過它們光線的路徑，這造成很難看到位在這物質另一側的物體。這就是為何飛機在起霧的天氣時下降著陸，或是汽車駕駛在天冷時，要看覆滿了冰霜的擋風玻璃可能是會是困難的。想一想不透明的東西不會傳遞任何光線！"
+
+msgid "Absorbing light..."
+msgstr "吸收光線……"
+
+# 11
+msgid "How would you describe the things below in how well they transmit light?"
+msgstr "你會怎樣描述下列的東西是如何傳遞光線的？"
+
+msgid "Clean lake"
+msgstr "乾淨的湖泊"
+
+msgid "Foggy morning"
+msgstr "起霧的早晨"
+
+msgid "Wooden door"
+msgstr "木製門"
+
+msgid "transparent"
+msgstr "透明"
+
+msgid "translucent"
+msgstr "半透明"
+
+msgid "opaque"
+msgstr "不透明"
+
+msgid "Different transmission..."
+msgstr "不一樣的傳遞方式……"
+
+msgid "Way to go! Water in a clean lake is transparent, allowing all light to pass through it; a morning fog is translucent, allowing only some light through; you can't see anything through a wooden door because it is opaque, the door doesn't allow any light to pass through it."
+msgstr "是個方法！在清澈湖中的水是透明的，讓所有得光線可以通過它；晨霧是半透明的，只讓部分的光線通過；你無法透過木製門看到任何的物體，因為它是不透明的，這個門不會讓任何光線通過它。"
+
+msgid "Not quite. Water in a clean lake is transparent, allowing all light to pass through it; a morning fog is translucent, allowing only some light through; you can't see anything through a wooden door because it is opaque, the door doesn't allow any light to pass through it."
+msgstr "不完全。清澈湖中的水是透明的，讓所有得光線可以通過它；晨霧是半透明的，只讓部分的光線通過；你無法透過木製門看到任何的物體，因為它是不透明的，這個門不會讓任何光線通過它。"
+
+# 12
+msgid ""
+"Finally, when light passes from one material to another material, the light can change direction or bend. Scientists call this bending <span class='key'>refraction</span>. For example, when light passes at an angle from air into water or from water into air, the light refracts. "
+"This bending of light can cause objects to look odd, like the straw in this glass of water."
+msgstr "最後，當光線從一種物體通過另一種物體時，光會改變方向或是彎曲。科學家們稱這種彎曲為折射。舉例來說，當光線由一個角度從空氣中進入水中或是水中進到空氣中，光線會折射。這個光線的彎曲會造成物體看起來很奇怪，就像是在玻璃杯水中的吸管。"
+
+msgid ""
+"Because the light is changing directions when passing from water into the air, objects beneath the surface of the water can appear to be slightly out of place. For example, this fish appears to be closer to the surface than it actually is due to the way the light is changing "
+"direction on the way to the person 's eyes."
+msgstr "因為當光線在從水中進到空氣中時會改變方向，在水面下的物體會出現在些微不同的位置。舉例來說，這隻魚看起來會比實際上更接近水的表面，因為光線正在改變進入人眼睛的方向。"
+
+msgid ""
+"A rainbow of color is produced when sunlight passes through raindrops in the air at the proper angle. The different colors of light refract different amounts upon entering and exiting the rain drop, changing the direction of red light the least and blue and violet light the most. "
+"The result is the separation of colors we see as a rainbow."
+msgstr "當陽光以適當的角度通過空中的雨滴，彩虹的顏色產生了。當進出雨滴時，不同的色光反射的量不同，紅光改變的方向最少而藍光與紫光則最多。這個顏色分散的結果就是我們看到的彩虹。"
+
+msgid ""
+"Knowing how light refracts can be used to help us see things more clearly. You may have classmates that wear glasses to help them see. Eyeglasses or contacts have special lenses made of glass or plastic. The <span class='key'>lenses</span> are made to refract light as it passes "
+"through them. A nearsighted person's eyes focus light too \"near\" to the back of the eye. They need a lens that spreads the light out a bit. A farsighted person's eyes focus light too \"far\" behind the back of the eye. They need a lens that focuses the light closer. This helps a "
+"person wearing eyeglasses to see more clearly."
+msgstr ""
+"知道光如何反射可以讓我們更清楚的看到東西。你應該有同學是戴眼鏡來幫助他們看清楚。眼鏡或是隱形眼鏡有用玻璃或塑膠製成的特殊鏡片。鏡片是當光線通過時用來反射它們的。一位近視的人眼睛的焦距太近而不能落到眼球後方。他們需要鏡片來分散一點光線。一位遠視的人的眼睛焦距過遠以至於到眼睛後端的後"
+"面。他們需要一個鏡片聚集光線近一些。這幫助人帶眼鏡可以看得更清楚。"
+
+msgid "Looking at the rainbow..."
+msgstr "看看彩虹……"
+
+# 13
+msgid ""
+"Seeing isn't always believing. Artists are able to create a wide variety of images these days with the help of computers. These computer-generated images can be works of art that would be impossible to achieve with cameras alone. Unfortunately, they can also result in unnatural "
+"images that don't portray nature correctly. Given that refraction bends different colors of light by different amounts, changing the direction of red light the least, and blue and violet light the most, look at the images below and drag them into the correct column to show which "
+"ones got the science right and which ones got it wrong."
+msgstr ""
+"眼見不一定為憑。藝術家可以借助電腦的幫助製造出各式各樣的圖案。這些由電腦產生的圖片可以做出單單用相機無法產生出的藝術。但不幸的是，他們可以產生非自然的圖片，並不能正確描繪出大自然。由於不同的折射彎曲程度會有不同的色光，紅光改變的方向最小，而藍光與紫光改變的方向最大，請看下方的圖片並"
+"將它們拖曳進入正確地欄位中，以表示哪些是科學上正確的、哪些是錯誤的。"
+
+msgid "Items"
+msgstr "項目"
+
+msgid "Got it Right!"
+msgstr "答對了！"
+
+msgid "Got it Wrong!"
+msgstr "答錯了！"
+
+msgid "Prism 1"
+msgstr "稜鏡1"
+
+msgid "Prism 2"
+msgstr "稜鏡2"
+
+msgid "Prism 3"
+msgstr "稜鏡3"
+
+msgid "Prism 4"
+msgstr "稜鏡4"
+
+msgid "Answer"
+msgstr "答案"
+
+# 14
+msgid "Using what you now know about... how light behaves... to solve a problem"
+msgstr "運用你所知道有關……光的行動……來解決問題"
+
+msgid "You're an engineer working for a company in charge of designing a heating system for a swimming pool. You decide to use sunlight to heat up the water by pumping the water from the pool through a bunch of tubes that will run across the roof of the pool building."
+msgstr "你是一位為公司工作的工程師負責設計游泳池的加熱系統。你決定用陽光來加熱，藉由將泳池的水抽到一些通過到泳池建物的屋頂水管。"
+
+msgid "Using what you know about the absorption and reflection of light, describe the characteristics of the tubes you would use for the system."
+msgstr "運用你所知道有關光的吸收與反射來描述在系統中你所用到水管的特色。"
+
+msgid "Looking for a heat source..."
+msgstr "看看熱源……"
+
+# 15
+msgid "Summarizing big ideas about... how light behaves"
+msgstr "歸納主要概念有關……光如何行動"
+
+msgid ""
+"Light is one kind of <span class='key'>energy</span>. When light shines on an object, it can be <span class='key'>reflected</span> (bounced off), <span class='key'>transmitted</span> (passed through) or <span class='key'>absorbed</span> (not reflected or transmitted). <span "
+"class='key'>Transparent</span> materials transmit most light and reflect and absorb some. <span class='key'>Translucent</span> materials transmit some light and reflect and absorb some. <span class='key'>Opaque</span> materials absorb and reflect light but transmit none. When you "
+"see a solid object, the color you see is the color of the light being reflected by the object. A blue car is blue because blue light is reflecting off the car while the other colors of light are being absorbed. If light can pass from one material to another material, it can be "
+"<span class='key'>refracted</span>. When light is refracted, it changes its direction. This can happen when light passes at an angle from air into water or from water into air. <span class='key'>Lenses</span> use refraction to help people see more clearly. Solar panels can be used "
+"to change light energy into heat and electrical energy."
+msgstr ""
+"光是一種能量。當光照在一個物體上，它可以被反射（反彈），傳遞（通過）或是吸收（沒有反射或是傳遞）。透明的物質傳遞大多數的光與反射與吸收一部分。半透明物質傳遞部分光線與反射與吸收一部分。不透明的物質吸收與反射光線但不會有任何傳遞。當你看到固態的物體，你所看到的顏色便是物體所反射的色"
+"光。藍車是藍色的是因為藍光被車子反射同時其他的色光被吸收。如果光線可以從一種物質通過到另一種物質，它可以被折射。當光被折射，它會改變它的方向。這會發生在光線以一個角度從空氣進到水中的時候。鏡片用來折射以幫助人看得更清楚。太陽能板可以用來將光能改變成熱能與電能。"
+
+msgid "Light is one kind of <span class='key'>energy</span>. When light shines on an object, it can be <span class='key'>reflected</span> (bounced off), <span class='key'>transmitted</span> (passed through) or <span class='key'>absorbed</span> (not reflected or transmitted)."
+msgstr "光是一種能量。當光照在一個物體上，它可以被反射（反彈），傳遞（通過）或是吸收（沒有反射或是傳遞）。透明的物質傳遞大多數的光與反射與吸收一部分。"
+
+msgid "<span class='key'>Transparent</span> materials transmit most light and reflect and absorb some. <span class='key'>Translucent</span> materials transmit some light and reflect and absorb some. <span class='key'>Opaque</span> materials absorb and reflect light but transmit none."
+msgstr "半透明物質傳遞部分光線與反射與吸收一部分。不透明的物質吸收與反射光線但不會有任何傳遞。當你看到固態的物體，你所看到的顏色便是物體所反射的色光。"
+
+msgid "When you see a solid object, the color you see is the color of the light being reflected by the object. A blue car is blue because blue light is reflecting off the car while the other colors of light are being absorbed."
+msgstr "藍車是藍色的是因為藍光被車子反射同時其他的色光被吸收。如果光線可以從一種物質通過到另一種物質，它可以被折射。"
+
+msgid "If light can pass from one material to another material, it can be <span class='key'>refracted</span>. When light is refracted, it changes its direction. This can happen when light passes at an angle from air into water or from water into air."
+msgstr "當光被折射，它會改變它的方向。這會發生在光線以一個角度從空氣進到水中的時候。鏡片用來折射以幫助人看得更清楚。"
+
+msgid "<span class='key'>Lenses</span> use refraction to help people see more clearly. Solar panels can be used to change light energy into heat and electrical energy."
+msgstr "太陽能板可以用來將光能改變成熱能與電能。"
+
+# 16
+msgid "Reflected"
+msgstr "反射"
+
+msgid "Refracted"
+msgstr "折射"
+
+msgid "Absorbed"
+msgstr "吸收"
+
+msgid "Transmitted"
+msgstr "傳遞"
+
+msgid "No. If the light had been reflected by the prism, it would have bounced off the surface of the prism."
+msgstr "否。如果光線被一個稜鏡反射，它會被稜鏡的表面反彈。"
+
+msgid "Correct. The light bent upon moving from the surrounding air into the glass, and it changed direction again when moving from the glass back into the surrounding air."
+msgstr "對。光線從空氣中進到玻璃會向上彎折移動，而且當從玻璃移動回空氣中時它會再次改變方向。"
+
+msgid "No. If the light had been absorbed by the prism, it would have remained within the prism rather than passing through the prism and exiting through the opposite side."
+msgstr "否。如果光線被稜鏡給吸收，它會保留在稜鏡之中而不是穿過稜鏡或是穿透到另外一側。"
+
+msgid "Not quite. If the light had simply been transmitted, it would have passed through without separating into different colors."
+msgstr "不完全。如果光線被直接傳遞，它會直接穿過而不會發散成不同的顏色。"
+
+# 18
+msgid "Your first quiz question is..."
+msgstr "你的第一個考驗問題是……"
+
+msgid "Ms. Thomas used a special piece of glass called a prism and a flashlight to show how a rainbow is made. The rainbow produced is an example of light being:"
+msgstr "湯馬士小姐用了一塊很特別的玻璃稱為稜鏡還有一個閃光燈來展現彩虹是如何製造的。彩虹的產生便是一個光存在的例子："
+
+msgid "Reviewing key vocabulary related to... how light behaves"
+msgstr "複習相關的關鍵字……光如何行動"
+
+msgid "Reflection"
+msgstr "反射"
+
+msgid "When a light wave changes direction when it hits a different type of media and stays in the media it was in before. Visible light reflects off mirrors to stay in the air."
+msgstr "光波會改變方向當它碰觸不同的介質並留在原本的介質之中。可見光從鏡子反射停留在空氣中。"
+
+msgid "Refraction"
+msgstr "折射"
+
+msgid "When a light wave changes direction when it hits a different type of media and moves into the new media. Visible light is often refracted when it hits water from the air, or moves from water into the air."
+msgstr "當它接觸到不同種類的介質並進入新的介質，光波會改變方向。當可見光從空氣進入水中或是從水中進到空氣時會折射。"
+
+msgid "Absorption"
+msgstr "吸收"
+
+msgid "A wavelength of light hits the electron of an atom and transfers its energy to it. This will generally excite the electron to a higher energy state."
+msgstr "光的波長撞擊到原子中的電子和改變它的能量。這樣通常會激發電子到一個更高的能階。"
+
+msgid "Lens"
+msgstr "鏡片（透鏡）"
+
+msgid "Something that refracts light converging or diverging it. Examples include lenses in glasses and lenses in a microscope."
+msgstr "某些可以使光折射匯聚或發散。例子包含了眼鏡的透鏡與顯微鏡的透鏡。"
+
+msgid "Transmission"
+msgstr "傳遞"
+
+msgid "Light energy that is absorbed by an electron and then released. A given electron can only absorb and transmit certain wavelengths of light."
+msgstr "光能可以由電子吸收再釋放。一個被提供的電子只能夠吸收或是傳遞特定波長的光。"
+
+msgid "chemical"
+msgstr "化學"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "When light travels through something without being absorbed or reflected. May also be called \"see-through\".  Examples can include water and glass."
+msgstr "當光線行進通過某些東西而不被吸收或是反射。也可以被說是被看穿（透）。例子包含了水及玻璃。"
+
+msgid "Translucent"
+msgstr "半透明"
+
+msgid "When some, but not all, light travels through an object without being absorbed or reflected. Translucent things can be seen through but are not completely clear."
+msgstr "光行進通過一個物體，沒有被吸收或是反射，但並不是全部。半透明的東西可以被看穿但不是完全透徹的。"
+
+msgid "Opaque"
+msgstr "不透明"
+
+msgid "Something that cannot be seen through. It either absorbs or reflects light."
+msgstr "某些不能被看穿的東西。它不能吸收或是反射光線。"
+
+msgid "Shadow"
+msgstr "影子"
+
+msgid "An absence of light in an area due to it being blocked by an object. People cast shadows when in a room with visible light."
+msgstr "一個沒有光的區域，因為它被物體給遮住。人們在有可見光的房間時會投射出影子。"
+
+# 19
+msgid "You are using a mirror to help you get ready for school. Arrange the words in order to show the path the light travels so that you can see yourself in the mirror."
+msgstr "你在準備上學前，正借助一面鏡子。請排列這些單字來呈現出光線行進的過程，這樣你就可以在鏡中看見你自己。"
+
+msgid "eyes"
+msgstr "眼睛"
+
+msgid "mirror"
+msgstr "鏡子"
+
+msgid "face"
+msgstr "臉"
+
+msgid "light"
+msgstr "光"
+
+msgid "Looking at the mirror..."
+msgstr "看著鏡子……"
+
+msgid "Yes. The light has to initially travel from a source to your face before reflecting off of your face and travelling to the mirror and then reflecting off of the mirror and traveling to your eyes, allowing you to see your own face."
+msgstr "對了。光線最初從來源出發到你的臉，再從你的臉反射到鏡子然後從鏡子反射最後進到你的眼睛，好讓你看到自己的臉。"
+
+msgid "Not quite. Light must travel from the source to your face, where it is reflected and then travels to the mirror, where it is again reflected before finally travelling to your eyes."
+msgstr "不完全。光線必定會從來源到你的臉上，從這裡反射並行進到鏡子，再從這裡反射最後行進到你的眼睛。"
+
+# 20
+msgid "If you put a red car in a room with a blue light bulb on the ceiling, what car color would you see?"
+msgstr "如果你將一部紅車放在一間在天花板上有藍色燈泡的房間裡，你看到的車子會是什麼顏色？"
+
+msgid "Red"
+msgstr "紅色"
+
+msgid "Blue"
+msgstr "藍色"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Green"
+msgstr "綠色"
+
+msgid "Putting blue light..."
+msgstr "照藍光……"
+
+msgid "No, the light bulb in the ceiling only emits blue light. There is no red light available to reflect off of the car."
+msgstr "不，天花板上的燈泡只會發出藍光。那裡沒有紅光可以從車子上反射。"
+
+msgid "No, the light bulb does emit blue light, but a red car reflects red light, and absorbs all other colors of light. The blue light would be absorbed by the car's surface."
+msgstr "不，燈泡會發出藍光，但是紅車會反射紅光，並吸收所有其他的色光。藍光會被車子的表面吸收。"
+
+msgid "Yes, the light bulb on the ceiling emits blue light, but the paint on the car absorbs blue light. This would result in the car appearing black in this scenario."
+msgstr "對，在天花板上的燈泡發出藍光，但是車子上的油漆會吸收藍光。在這樣的情況下可能的結果會是車子呈現出黑色。"
+
+msgid "No, the light bulb on the ceiling emits blue light, but a red car reflects only red light while absorbing all other colors."
+msgstr "不，在天花板上的燈泡發出藍光，但是紅車只會反射紅光同時間吸收其他色光。"
+
+# 21
+msgid "It's difficult to identify the objects on the other side of this window because the water on the glass is making the window:"
+msgstr "這很難去辨識窗戶另一邊的物體，因為窗戶玻璃上的水讓它變得："
+
+msgid "Cleaning glass windows..."
+msgstr "清理玻璃窗……"
+
+msgid "Not quite. If the window was dry, it would most likely be transparent, allowing all the light to travel straight through it."
+msgstr "不完全。如果窗戶是乾的，它比較像是透明的，可以讓所有的光線穿過它。"
+
+msgid "Way to go! The water on the window is causing slight changes to the path light takes through it, making the objects on the other side of the glass look fuzzy."
+msgstr "這是個方法！窗戶上的水會讓要穿過的光線行進路線有些改變，會讓在玻璃另一端的物體看起來模糊。"
+
+msgid "Nope. If the glass was opaque, none of the light coming from the other side would make it through. You wouldn't be able to see anything."
+msgstr "不完全。如果玻璃是不透明的，沒有光可以從另一端穿過來。你沒辦法看到任何東西。"
+
+# 22
+msgid "An experienced spear fisher knows not to aim the spear directly at the place where the fish appears to be in the water. This is because light travelling from the fish to the eyes of the spear fisher is _____________ at the surface of the water."
+msgstr "一位很有經驗的持矛漁夫知道不要把矛的目標直接放在魚出現在水中的位置。這是因為光從魚到漁夫的眼睛之間行進，是被水的表面所_____________。"
+
+msgid "reflected"
+msgstr "反射"
+
+msgid "refracted"
+msgstr "折射"
+
+msgid "absorbed"
+msgstr "吸收"
+
+msgid "Hunting fish..."
+msgstr "獵魚……"
+
+msgid "Nope. If the light was reflected at the surface of the water, it would bounce and stay below the surface. The spear fisher wouldn't be able to see the fish at all."
+msgstr "不完全。如果光從水面反射，它會反彈並停留在水面下。這樣漁夫就完全不會看到魚。"
+
+msgid "Yep! The light changes direction as it moves from the water into the air. This bending of light is known as refraction, and it makes the fish appear to be closer to the surface than it actually is."
+msgstr "是的！光會改變方向就像是它從水中移動到空氣中。這樣光的彎曲被認為是一種折射，而且它也會讓魚出現在比實際上更接近水面的位置。"
+
+msgid "No. If the light was absorbed by the water, none of it would reach the eyes of the spear fisher."
+msgstr "不。如果光線被水吸收，那就不會有任何光進到漁夫的眼睛。"
+
+# 23
+msgid "A periscope is used to \"see around corners\". Arrange the sequence to show how light travels in order for the tricycle to be seen by the person using the periscope."
+msgstr "潛望鏡是被用來\"轉個彎來觀看\"。請排列順序以呈現人使用潛望鏡看三輪車時，光是如何行進的。"
+
+msgid "periscope"
+msgstr "潛望鏡"
+
+msgid "person's eye"
+msgstr "人的眼睛"
+
+msgid "sun"
+msgstr "太陽"
+
+msgid "bicycle"
+msgstr "腳踏車"
+
+msgid "Fantastic! The light must first come from the Sun and then bounce off the tricycle before bouncing off of the mirrors in the periscope and arriving at the eye of the person."
+msgstr "太棒了！光線必定是來自陽光再從三輪車反彈然後從潛望鏡的鏡子反彈最後抵達人的眼睛。"
+
+# 24
+msgid "Nope. First, it must come from the Sun, then it is reflected by the tricycle before bouncing off the mirrors in the periscope and arriving at the eye of the person."
+msgstr "不完全。光線必定是來自陽光再從三輪車反射然後從潛望鏡的鏡子反彈最後抵達人的眼睛。"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid "You've completed the How Light Behaves module."
+msgstr "你完成了光如何行動的模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以點擊下方的按鈕來查看你在這個模組中的’快速測驗’與’問題考驗’表現得如何。"
+
+msgid "Go Back to Dashboard"
+msgstr "回到儀表板"
+
+msgid ""
+"Not quite! An image can look real, but people can use science to determine whether or not that's the case. In this example, a couple of the images show the violet light changing direction the least, and the red light changing direction the most. That's not how it works in nature!"
+msgstr "不完全！一張圖片可以看起來很真實，但是人們可以用科學來確定是不是這樣的情況。舉例來說，一些圖片呈現了紫光改變最小的方向，且紅光改變方向最多。這就不是在自然中運作的方式。"
+
+msgid "Way to go! The images that show the red light bending the least and the violet light bending the most have got the science right."
+msgstr "這是個方法！這個圖片呈現出紅光彎曲最少而紫光彎曲最多，這在科學上是正確的。"

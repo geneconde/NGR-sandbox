@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "选择"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "休息"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "无声"
+
+msgid "Unmute"
+msgstr "取消静音"
+
+msgid "Max volume"
+msgstr "最大音量"
+
+msgid "Full screen"
+msgstr "全屏"
+
+msgid "Restore screen"
+msgstr "恢复屏幕"
+
+msgid "Repeat"
+msgstr "重复"
+
+msgid "Repeat off"
+msgstr "重复关"
+
+msgid "Update Required"
+msgstr "更新所需"
+
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr "播放的媒体你要么需要更新您的浏览器到最新版本或更新您的"
+
+msgid "Flash plugin"
+msgstr "闪光插件"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "现状"
+
+msgid "The Scenario"
+msgstr "该方案"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任务"
+
+msgid "The Problem"
+msgstr "问题"
+
+msgid "Your Assignment"
+msgstr "你的任务"
+
+msgid "Close me!"
+msgstr "密我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations, "
+msgstr "恭喜！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Preparing your first quick check!"
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Ready for your last quiz question?"
+msgstr "准备好你的最后测验的问题吗？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"

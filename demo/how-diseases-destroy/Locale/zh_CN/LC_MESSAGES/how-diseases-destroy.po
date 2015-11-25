@@ -1,0 +1,1779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: How Diseases Destroy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-06 11:22+0800\n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+#. 1
+msgid "Diseases"
+msgstr "疾病"
+
+msgid "How Diseases Destroy"
+msgstr "疾病如何造成危害"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Welcome to the How Diseases Destroy review"
+msgstr "歡迎來到「疾病的危害」單元"
+
+#. 2
+msgid "Thinking about... how diseases destroy"
+msgstr "想一想，疾病如何造成危害的？"
+
+msgid ""
+"Why do you have the flu? You were feeling just fine right before getting "
+"sick. What happened? An infectious disease entered your body and upset its "
+"normal healthy state. Most diseases are caused by bacteria or viruses.  Both "
+"are too small to be seen with the naked eye. The human body has a number of "
+"mechanisms that it uses to protect itself against infectious diseases. The "
+"first of these mechanisms is skin. So if the skin gets a cut or scrape, "
+"there is a chance for disease to develop. Can diseases enter our bodies? How "
+"does our body fight them or not let them enter? You will find this out and "
+"more in this review."
+msgstr ""
+"為什麼你會得到了流感？你生病前不是才好好的，到底怎麼了？那是因為，傳染性疾病"
+"進入了你的身體，破壞了正常的健康狀態。大部分的疾病是由細菌或病毒引起的，細菌"
+"和病毒微小到無法用肉眼看到。對於傳染性疾病的入侵，人體有許多機制可以用來保護"
+"自己、避免患病。我們第一層的保護機制就是皮膚；因此，如果皮有割傷或刮傷，疾病"
+"就有機會從這裏開始展開。疾病可以進入我們的身體嗎？我們的身體是如何對抗它們或"
+"不讓他們進入呢？在這個單元中，你就會了解而且知道更多。"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎,"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+#. 3
+msgid "Checking what you know... about how diseases destroy"
+msgstr "看看你了解了多少…關於疾病如何造成危害"
+
+msgid ""
+"Read the two statements below and click on TRUE or FALSE next to each one."
+msgstr "請閱讀下面的兩個敘述，然後點選「正確」或「錯誤」。"
+
+msgid "There is no difference between a cold and flu."
+msgstr "感冒和流行性感冒沒有什麼不同。"
+
+msgid "TRUE"
+msgstr "正確"
+
+msgid "FALSE"
+msgstr "錯誤"
+
+msgid ""
+"You only need to take antibiotics for as long as you feel sick; once you "
+"feel better you can stop taking them."
+msgstr ""
+"當生病而服用抗生素，你只需在身體還覺得不舒服的時候才服用，只要你感覺身體好一"
+"些了，就可以停止服用。"
+
+msgid ""
+"Colds and the flu are both caused by viruses, but the flu (influenza) makes "
+"you feel much worse. The symptoms associated with the flu are more severe "
+"and come on suddenly. Antibiotics kill bacteria by stopping them from "
+"growing. For them to be effective, you must always take the correct dose for "
+"the length of time that your doctor prescribes. If you stop taking your "
+"antibiotics early, you run the risk of getting sick again."
+msgstr ""
+"感冒和流感都是由病毒引起的，但流感（流行性感冒）讓你更不舒服。由流感引起的症"
+"狀較為嚴重，而且來得突然。抗生素殺死細菌以阻止細菌的生長，但如果要能有效，你"
+"必須依照醫生處方的正確劑量和時間來服用。如果你提前停止服用抗生素，你會有復發"
+"疾病風險。"
+
+msgid "Click NEXT to learn more about diseases."
+msgstr "單擊右下方的按鈕以繼續了解疾病。"
+
+msgid "Cold and flu"
+msgstr "感冒和流感"
+
+#. 4
+msgid "Reviewing core ideas... about how diseases destroy"
+msgstr "回顧核心觀念...關於...疾病如何造成危害"
+
+msgid ""
+"A <span class='key'>disease</span> is a change in the processes inside an "
+"organism that does not let the organism do its job. An organism can just "
+"break down by itself, such as when an organ stops working because of traits "
+"passed on from ancestors, or an organism can be damaged by toxins (poison), "
+"radiation, or invading <span class='key'>bacteria</span> and <span "
+"class='key'>viruses</span>."
+msgstr ""
+"<span class='key'>疾病</span>是一種生物體內運作上的改變以致生物體無法正常發揮"
+"功能的現象。一個生物體，可能由於自身的原因而失去功能──例如，由親代傳遞下來的"
+"遺傳所造成某一個器官的失能；但，也可能由於生物體被<span class='key'>有毒物質"
+"（毒素）</span>、<span class='key'>輻射</span>、入侵的<span class='key'>細菌"
+"</span>或<span class='key'>病毒</span>影響而造成了損害。"
+
+msgid ""
+"First we will discuss diseases that are caused by invading bacteria and "
+"viruses, and then we will look at chemical substances causing disease."
+msgstr ""
+"首先，我們將討論由細菌和病毒的入侵而引起的疾病，然後我們再看看化學物質引起的"
+"疾病。"
+
+msgid "Hover your magnifying glass to view bacterial colonies..."
+msgstr "請移動你的放大鏡來查看菌落..."
+
+msgid ""
+"When bacteria or poisons invade our bodies, usually the body will fight off "
+"the invasion. Our bodies have a system called the <span class='key'>immune "
+"system</span>, which is the body's defense against infectious organisms and "
+"other invaders."
+msgstr ""
+"當細菌或毒素侵入我們的身體，通常身體會擊退入侵。我們的身體有一個系統叫做"
+"<span class='key'>免疫系統</span>，這是人體對傳染性微生物和其他入侵者的防禦。"
+
+msgid ""
+"Sometimes, however, the invasion is more than what our body can resist, and "
+"the immune system cannot overcome the invader. A disease may then develop "
+"and symptoms of disease will appear. <span class='key'>Symptoms</span> are a "
+"series of changes in the body that are signs of an invading organism. "
+"Symptoms brought on by a virus might be a fever, nausea (the feeling you "
+"need to vomit), headache, and a lot of sweating."
+msgstr ""
+"有時這些入侵比我們身體的抵抗力還強，免疫系統無法戰勝入侵者，於是疾病就有可能"
+"會發展，疾病的<span class='key'>症狀</span>也會出現。所謂「症狀」是一連串身體"
+"的變化，這些變化都是由於生物體被入侵而產生的現象。由病毒所帶來的症狀可能是發"
+"燒、噁心（你想嘔吐的感覺）、頭痛和大量出汗。"
+
+msgid ""
+"A good part of the diseases today are from invading <span "
+"class='key'>microbes</span> (a life form not seen with the naked eye). Let’s "
+"take a closer look at bacteria and viruses."
+msgstr ""
+"今天大部分的疾病都是由於<span class='key'>微生物</span>（用肉眼無法見到的生"
+"命）的入侵所引起的。現在，讓我們來仔細看看細菌和病毒。"
+
+msgid ""
+"<span class='key'>Bacteria</span> are single-celled organisms. They can be "
+"shaped like rods, spheres, or even spirals, but they are very tiny."
+msgstr ""
+"<span class='key'>細菌</span>是單細胞生物。它們形狀可以像是：棒，球，甚至螺"
+"旋，只是它們都是非常微小的。"
+
+msgid ""
+"Many diseases are caused by invading <span class='key'>microbes</span> (a "
+"life form not seen with the naked eye). Let's take a closer look at bacteria "
+"and viruses."
+msgstr ""
+"許多疾病是由於<span class='key'>微生物</span>（肉眼無法看見的一種生命體）的入"
+"侵而引起的。讓我們來仔細看看細菌和病毒。"
+
+msgid "Now look at the diagram of a bacterial cell at the right."
+msgstr "現在請看右方這一個細菌細胞的圖。"
+
+msgid "Click on the different parts of the cell and discover what they do."
+msgstr "點擊細胞的不同部位，來發現他們的功能。"
+
+msgid "Ribosomes"
+msgstr "核糖體"
+
+msgid "Mesosome"
+msgstr "中間體"
+
+msgid "Plasma membrane"
+msgstr "細胞質膜"
+
+msgid "Cell wall"
+msgstr "細胞壁"
+
+msgid "Cell Wall"
+msgstr "細胞壁"
+
+msgid "Capsule"
+msgstr "莢膜"
+
+msgid "Plasmid DNA"
+msgstr "質體DNA"
+
+msgid "Flagellum"
+msgstr "鞭毛"
+
+msgid "Bacterial Flagellum"
+msgstr "細菌鞭毛"
+
+msgid "Nucleoid"
+msgstr "擬核"
+
+msgid "nucleoid (DNA)"
+msgstr "擬核(DNA)"
+
+msgid "Fimbriae"
+msgstr "繖毛"
+
+msgid "Pilus/Pili"
+msgstr "菌毛"
+
+msgid "Pilus"
+msgstr "菌毛"
+
+msgid "Chromosomal DNA"
+msgstr "染色體DNA"
+
+msgid "Adjusting microscope lenses..."
+msgstr "調整一下顯微鏡鏡頭..."
+
+msgid "Bacterial flagellum"
+msgstr "細菌鞭毛"
+
+msgid "Click image to view the labels clearly."
+msgstr "請點擊圖像以查看說明"
+
+msgid "Bacteria Cell Anatomy"
+msgstr "細菌細胞解剖學"
+
+msgid ""
+"Some bacteria have an extra layer consisting of a capsule which helps "
+"protect the cell and also allows it to stick to surfaces."
+msgstr ""
+"有些細菌具有含帶莢膜的額外層，有助於保護細胞，也讓它可以黏著於物體表面。"
+
+msgid ""
+"Inside the cell wall and cell membrane are the cytoplasm (which contains "
+"ribosomes) and the nucleoid."
+msgstr "在細胞壁和細胞膜內是細胞質（其中包含核糖體）和擬核。"
+
+msgid ""
+"When the <span class='key'>nucleoid</span> is a group of fibers containing a "
+"bacterium's DNA."
+msgstr ""
+"<span class='key'> 「擬核(圖內紫色的部分)」</span>是含有細菌DNA的一群纖維。"
+
+msgid ""
+"There are some bacteria that actually have a third layer that consist of a "
+"<span class=\"key\">capsule</span> and <span class=\"key\">pili</span> which "
+"help the bacteria stick to each other and to surfaces."
+msgstr ""
+"有一些細菌，實際上有一個第三層的結構一包括<span class=\"key\">莢膜</span>和"
+"<span class=\"key\">菌毛</span>，這有助於細菌彼此粘附和黏著表面。"
+
+msgid ""
+"Some bacteria have <span class=\"key\">flagella</span> (tentacle-like "
+"features that help the bacteria to move)."
+msgstr ""
+"有些細菌有<span class=\"key\">鞭毛</span>，這有著觸手般的功能，有助於細菌的移"
+"動。"
+
+msgid ""
+"All bacteria have a <span class=\"key\">cell membrane</span> and a <span "
+"class=\"key\">cell wall</span>. The cell membrane controls the passing of "
+"materials in and out of the bacterium while the cell wall maintains the "
+"shape of the bacterium."
+msgstr ""
+"所有細菌都有<span class=\"key\">細胞膜</span>和<span class=\"key\">細胞壁</"
+"span>。細胞膜能控制通過進出細菌的物質，細胞壁維持細菌的形狀。"
+
+#. 5
+msgid "Question A. Click on the correct statement."
+msgstr "問題A. 點擊正確的敘述。"
+
+msgid "Hover your magnifying glass to view the labels clearly."
+msgstr "請移動你的放大鏡來查看標示....."
+
+msgid "The body defends itself from chemicals and microorganisms with muscles."
+msgstr "身體自我防護是靠肌肉來抵抗化學物質和微生物的。"
+
+msgid ""
+"Disease is only brought on by outside factors such as toxins, radiation, or "
+"invading bacteria."
+msgstr "疾病僅會由外部因素──如毒素，輻射，或細菌入侵，所引起的。"
+
+msgid ""
+"The body has a system to fight off invaders, but does not use it until after "
+"they are sick."
+msgstr "身體有一個系統能抵禦入侵者，但只有在生病以後，人體才會使用這個系統。"
+
+msgid "Disease is a breakdown in the structure or functions of an organism."
+msgstr "疾病是生物體的結構毀壞或功能的失調。"
+
+msgid ""
+"Question B. Look at the diagram of the bacterial cell below. Drag the "
+"following terms up or down to match the corresponding letter."
+msgstr "問題B. 看下面細菌細胞圖。請上下拖動名詞以和英文字母正確配對。"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習！"
+
+msgid "Cytoplasm"
+msgstr "細胞質"
+
+msgid "Flagella"
+msgstr "鞭毛"
+
+msgid "Pillus"
+msgstr "菌毛"
+
+msgid "DNA"
+msgstr "DNA"
+
+msgid ""
+"The body defends itself from chemicals and microorganisms with the immune "
+"system."
+msgstr "身體能保護自己、避免化學物質和微生物傷害，是靠免疫系統。"
+
+msgid ""
+"While toxins, radiation, and invading bacteria can cause disease, an "
+"organism can also break down by itself developing disease."
+msgstr ""
+"除了毒素、輻射、入侵的細菌會導致疾病外，生物體也可能自己毀壞或失能而造成疾"
+"病。"
+
+msgid ""
+"The body does have a system to fight off invaders, but it kicks in as soon "
+"as anything invades our bodies, resisting and not letting us get sick."
+msgstr ""
+"身體有一個系統可用來抵禦入侵者，只要有任何威脅一侵入我們體內，它會馬上啟動，"
+"以避免生病。"
+
+msgid ""
+"Correct! Disease is when an organism breaks down in structure or its "
+"functions."
+msgstr "正確！疾病是當一個生物體的結構毀壞或它的功能失調。"
+
+msgid ""
+"Great job, you labeled the bacteria cell correctly. The cell wall helps the "
+"bacterium maintain its shape. The extra layer consisting of a capsule helps "
+"protect the cell and allows it to stick to surfaces. Pili  help them attach "
+"to other bacteria or surfaces. The cytoplasm is within the cell wall and "
+"membrane. The nucleoid contains the bacterium's DNA. Tentacle-like "
+"structures called flagellum help some bacteria move."
+msgstr ""
+"做得很好！你正確地標記細菌細胞。細胞壁幫助細菌保持其形狀。在外層的莢膜有助於"
+"保護細胞，並使它可以附著於物體表面。菌毛幫助他們附著到其他細菌或表面。細胞質"
+"是在細胞壁或細胞膜內。擬核含有細菌的DNA。觸手狀結構，稱為鞭毛幫助一些細菌的移"
+"動。"
+
+msgid ""
+"Not quite. The cell wall helps the bacterium maintain its shape. The extra "
+"layer consisting of a capsule helps protect the cell and allows it to stick "
+"to surfaces. Pili  help them attach to other bacteria or surfaces. The "
+"cytoplasm is within the cell wall and membrane. The nucleoid contains the "
+"bacterium's DNA. Tentacle-like structures called flagellum help some "
+"bacteria move."
+msgstr ""
+"不完全是。細胞壁幫助細菌保持其形狀。在外層的莢膜有助於保護細胞，並使它可以附"
+"著於物體表面。菌毛幫助他們附著到其他細菌或表面。細胞質是在細胞壁或細胞膜內。"
+"擬核含有細菌的DNA。觸手狀結構，稱為鞭毛幫助一些細菌的移動。"
+
+#. 6
+msgid "More core ideas... about how diseases destroy"
+msgstr "更多核心觀念...關於...疾病如何造成危害"
+
+msgid ""
+"The smallest microbes are <span class='key'>viruses</span>. The structure of "
+"a virus is much simpler than that of bacteria. They usually just have a "
+"shell made of protein and lipids (fat) that protects their genetic "
+"information. Most scientists don't consider them \"true life-forms\". This "
+"is because viruses cannot produce their own proteins to build their own "
+"bodies and they cannot reproduce. Instead, viruses infect cells and make "
+"them create new viruses."
+msgstr ""
+"最小的微生物是<span class='key'>病毒</span>。病毒的結構比細菌要簡單得多。它們"
+"通常只有一個由蛋白質和脂類（脂肪）所組成的外殼，這外殼可以保護它們的遺傳信"
+"息。大多數科學家不認為他們是 \"真正的生命形式\"。這是因為病毒不能產生自己的蛋"
+"白質來構建自己的身體，它們也無法繁殖──不過，病毒可以藉由感染細胞，使細胞代為"
+"產生新的病毒。"
+
+msgid ""
+"An organism or a virus that can cause disease in other organisms is called a "
+"<span class='key'>pathogen</span>."
+msgstr ""
+"一個可使其他生物體產生疾病的生物體或病毒，被稱為<span class='key'>病原體</"
+"span>。"
+
+msgid ""
+"There are thousands of types of pathogens. If you have influenza or the "
+"common cold, you probably have a viral infection. The common cold can be "
+"caused by any one of some 200 viruses. That is why there is no vaccine "
+"against the cold virus. A vaccine effective against one or two of the "
+"viruses will be completely useless against the other 198 or 199 forms."
+msgstr ""
+"病原體，有成千上萬種。如果您染上了「流行性感冒(簡稱流感)」或「普通感冒(簡稱感"
+"冒)」，你可能也就是被病毒感染了。「感冒」的造成是由200多種的病毒其中之一引"
+"起。這就是為什麼沒有對感冒病毒的疫苗。疫苗雖能有效對抗一或兩種的病毒，但對其"
+"他198或199的種形式的病毒是完全無用的。"
+
+msgid ""
+"In the image you can see five different types of pathogens. If an individual "
+"were infected by any of them, it could lead to sepsis."
+msgstr ""
+"在圖像中你可以看到五種不同類型的病原體。如果一個人感染了其中任何一個，就可能"
+"導致敗血症。"
+
+msgid "If the patient does not get medical help within hours, they would die."
+msgstr "如果病人幾小時內得不到醫生的幫助，他們就會死亡。"
+
+msgid "The short film shows bacteria dividing over a period of a few hours."
+msgstr "這個短片顯示，細菌在幾個小時過程中的分裂情形。"
+
+msgid "Streptococcus pneumonia"
+msgstr "肺炎鏈球菌"
+
+msgid "Streptococcus pneumoniae"
+msgstr "肺炎鏈球菌"
+
+msgid "Staphylococcus aureus"
+msgstr "金黃色葡萄球菌"
+
+msgid "Pseudomonas aeruginosa"
+msgstr "銅綠假單胞菌"
+
+msgid "Escherichia coli"
+msgstr "大腸桿菌"
+
+msgid "Candida"
+msgstr "念珠菌"
+
+msgid ""
+"A <span class='key'>carrier</span> is an organism that carries or spreads "
+"disease-causing microbes but may or may not have the symptoms of the disease "
+"itself. For example, ticks can transfer the Lyme disease bacteria to humans. "
+"While the tick is not affected, people develop a rash and other symptoms "
+"after being bitten by the tick."
+msgstr ""
+"<span class='key'>載體</span>是指一個能攜帶傳播致病微生物的生物體，載體本身可"
+"能會有也可能沒有疾病的症狀。例如，壁虱可以將萊姆病的細菌轉移到人類。壁虱本身"
+"不會受到影響，但人們被壁虱咬傷後會出現疹子等症狀。"
+
+msgid ""
+"A <span class='key'>contagious</span> disease is one that spreads from one "
+"organism to another. While some diseases are spread only through direct "
+"physical contact, other diseases are spread indirectly without direct "
+"physical contact with the carrier."
+msgstr ""
+"<span class='key'>傳染性疾病</span>會從一個生物體傳播到另一個身上。雖然有些疾"
+"病只能透過直接接觸來傳播；但有一些疾病卻可以在不直接接觸帶病者的情況下，間接"
+"傳播。"
+
+msgid ""
+"Touching your face, nose, mouth or eyes with your hands could increase the "
+"risk of catching a cold."
+msgstr "用你的雙手觸摸你的臉，鼻子，嘴或眼睛會增加患感冒的風險。"
+
+msgid ""
+"Bacteria, viruses, and microbes in general can grow from just a few to "
+"billions in just a short time. If you start from a single bacterium, it will "
+"grow and split in half. Now you have two bacteria that will then grow and "
+"split again, making four cells. This process continues very quickly, each "
+"time doubling."
+msgstr ""
+"細菌、病毒、微生物，一般而言，可以在短時間從一點點增長到數十億的數量。如果你"
+"從單一的細菌開始，它可以長大再分裂成兩半，這樣，你就有２個細菌了，然後它們會"
+"繼續成長並再次分裂，使之成為４個細菌。這個過程持續得非常快，每次都是雙倍數在"
+"成長。"
+
+msgid "Fighting viruses..."
+msgstr "對抗病毒..."
+
+#. 7
+msgid ""
+"Question A. The Tomato Spotted Wilt virus prevents the plant from fully "
+"growing or even kills it."
+msgstr "問題A. 番茄斑點枯萎病毒會阻礙植物的成長，甚至會殺死植物。"
+
+msgid ""
+"It does not spread to other plants but tomato growers would still be "
+"concerned about the spread of this disease because:"
+msgstr "它不會蔓延到其他植物，但番茄種植者仍然會關注這個疾病的傳播，因為："
+
+msgid ""
+"It does not spread to other plants but tomato growers would still be "
+"concerned about the spread of this disease because: (Click each letter to "
+"choose)"
+msgstr ""
+"它不會蔓延到其他植物，但番茄種植者仍然會關注這個疾病的傳播，因為：（點擊字母"
+"顯示選項並選擇答案）"
+
+msgid ""
+"The virus could cause disease in humans if they eat tomatoes from the "
+"infected plants."
+msgstr "如果人類吃被感染植物的番茄，這病毒會導致人類生病。"
+
+msgid ""
+"Question B. The West Nile virus can be deadly to birds and can infect "
+"animals and even humans. The virus uses mosquitoes as a vector to reach its "
+"bird or other animal host. It can be transmitted when an infected mosquito "
+"bites a bird or person. Mosquitoes acquire the virus by biting infected "
+"birds or other animals. The virus does not harm the mosquito. Why does it "
+"benefit the West Nile virus to not harm the mosquito?"
+msgstr ""
+"問題B. 西尼羅病毒可以使鳥類致命並可以感染動物甚至人類。這病毒利用蚊子作為載"
+"體，傳播到鳥或其他動物宿主體內。當被感染的蚊子叮咬鳥或其他動物時，病毒就可以"
+"被傳播；蚊子也可以藉由叮咬感染的鳥類或其他動物而獲得病毒，而該病毒不會傷害蚊"
+"子。請問，西尼羅病毒不會傷害蚊子的好處是甚麼呢？"
+
+msgid "(Click each letter to choose)"
+msgstr "（點擊字母顯示選項並選擇答案）"
+
+msgid ""
+"Sick mosquitoes would not be able to fly and would not likely be eaten by "
+"birds which is what the virus needs."
+msgstr "生病的蚊子就不能飛，也不會容易被鳥吃掉──這是病毒所需要的。"
+
+msgid ""
+"Question A. The Tomato Spotted Wilt virus prevents the plant from fully "
+"growing or even kills it. It does not spread to other plants but tomato "
+"growers would still be concerned about the spread of this disease because:"
+msgstr ""
+"題題A. 番茄斑點枯萎病毒防止植物成長，甚至殺死它。它不會傳染給其他植物，但番茄"
+"種植者仍然會關注這個疾病的傳播，因為："
+
+msgid "Tomato viruses"
+msgstr "番茄病毒"
+
+msgid "The virus will simply weaken or kill their tomato plants."
+msgstr "這病毒只會削弱或殺死他們的番茄植株。"
+
+msgid ""
+"The virus would spread to other types of crops in nearby fields such as "
+"strawberries."
+msgstr "該病毒會蔓延到在附近的田野其他類型的作物，如草莓。"
+
+msgid ""
+"Wild animals will eat more of the tomato crop since the infected plants will "
+"be shorter."
+msgstr "野生動物會吃掉更多的番茄作物，因為感染的植物會比較矮。"
+
+msgid ""
+"The mosquito doesn't really need the bird to reproduce, so harming it isn't "
+"a problem."
+msgstr "蚊子並不需要鳥類去做繁衍，所以傷害蚊子並不會造成任何問題。"
+
+msgid ""
+"If the mosquito was damaged or harmed it might not be able to bite a "
+"suitable host to transmit the West Nile virus."
+msgstr ""
+"如果蚊子受傷或被傷害 ，它可能就無法去咬一個合適的寄主以幫忙傳播西尼羅病毒。"
+
+msgid ""
+"There is no benefit. What happens to the mosquito does not affect the virus."
+msgstr "沒有任何好處的。因為不管蚊子是否得病，都不會影響到病毒。"
+
+msgid ""
+"Correct, if the mosquito was killed or unable to bite a suitable host for "
+"the virus, the virus's transmission cycle would be broken and the virus "
+"could not reproduce."
+msgstr ""
+"正確的，如果蚊子死亡或無法為病毒去叮咬一個合適的宿主，這些病毒傳播的循環將會"
+"中斷，病毒就無法繁殖。"
+
+msgid "The virus actually does need the bird to take part in its life cycle."
+msgstr "這病毒的確需要鳥類參與病毒的生命循環。"
+
+msgid ""
+"What would happen to the virus if the mosquito was killed before it could "
+"bite a bird?"
+msgstr "如果蚊子在叮咬鳥之前就被已經死亡，那病毒會如何呢？"
+
+msgid ""
+"The virus does need interaction between the mosquito and bird, but the bird "
+"eating the mosquito is not that interaction. Is there a more suitable reason?"
+msgstr ""
+"這病毒確實需要蚊子和鳥類之間的有交互的作用，不過鳥吃蚊子並不是這一種病毒傳播"
+"的有效交互作用。請想一下，有沒有更合適的理由呢？"
+
+msgid "The Tomato Spotted Wilt virus only infects tomato plants."
+msgstr "番茄斑萎病毒只感染番茄植株。"
+
+msgid "Correct, they are worried because their tomato crops could be ruined."
+msgstr "正確的，他們擔心因為他們的番茄作物可能被毀壞。"
+
+msgid "The Tomato Spotted Wilt virus only affects tomato plants."
+msgstr "番茄斑萎病毒只影響番茄植株。"
+
+msgid "Possibly, but the smaller yield of tomatoes is the far bigger problem."
+msgstr "有可能，但產量小是番茄更大的問題。"
+
+#. 8
+msgid ""
+"Microbes are not the only things that can cause disease; toxic chemicals can "
+"cause harmful effects to organisms too. The chemicals can harm specific "
+"types of cells, tissues, organs or organ systems. Toxic chemicals have been "
+"linked by scientists to many diseases. In the next section are some common "
+"health conditions along with information about the chemicals that may be "
+"linked to them."
+msgstr ""
+"微生物不是唯一可以導致疾病的東西，有毒的化學物質也會造成對生物的不良影響。這"
+"些化學物質會損害特定類型的細胞、組織、器官或器官系統。有毒化學物質跟許多疾病"
+"已經被科學家找到連結。在下一節中，我們會見到一些常見的健康狀況跟化學物質有相"
+"關。"
+
+msgid ""
+"The following section shows some common health conditions along with "
+"information about chemicals that may be linked to them."
+msgstr "以下部分會顯示關於可能與化學物質有關的一些常見的健康狀況。"
+
+msgid ""
+"Asthma is a condition with symptoms of recurrent wheezing, coughing, and "
+"difficulty breathing. Allergens and air pollution are often linked to the "
+"increased cases of asthma."
+msgstr ""
+"哮喘的症狀是反覆喘息、咳嗽和呼吸困難。過敏原和空氣污染往往會增加哮喘病例。"
+
+msgid ""
+"<span class='key'>Birth defects</span> can be potentially very serious. "
+"Pregnant women should avoid:"
+msgstr ""
+"新生兒的<span class='key'>天生缺損</span>是非常嚴重的潛在問題。因此，孕婦應避"
+"免："
+
+msgid "*tobacco use"
+msgstr "*抽菸"
+
+msgid "*excessive caffeine consumption, and"
+msgstr "*過量的咖啡因攝取，"
+
+msgid "*excessive alcohol consumption"
+msgstr "*過量飲酒"
+
+msgid "*drinking alcohol."
+msgstr "*飲酒。"
+
+msgid ""
+"<span class='key'>Learning and behavioral disorders</span> can be linked to "
+"toxic chemical exposure, such as to pesticides and heavy metals such as "
+"lead. Lead can be found in old plumbing and paint."
+msgstr ""
+"<span class='key'>學習和行為障礙</span>可能跟暴露在有毒化學品也有關係，如農藥"
+"和重金屬，如鉛。鉛可在舊水管和油漆中被發現。"
+
+msgid ""
+"Cancers can be linked to tobacco use, radiation, and environmental "
+"pollutants."
+msgstr "癌症和抽菸、輻射、環境污染物等有關。"
+
+msgid "Heart disease may be caused by:"
+msgstr "心髒疾病可能是由於："
+
+msgid "*air pollution"
+msgstr "*空氣污染"
+
+msgid "A chemical's level of harm depends on:"
+msgstr "化學品危害的程度取決於："
+
+msgid "*How strong the chemical is."
+msgstr "*化學品的強度。"
+
+msgid "*How often a person encounters a chemical."
+msgstr "*接觸到化學物質的次數。"
+
+msgid "*The amount of a chemical that a person is exposed to."
+msgstr "*接觸到化學品的量多少。"
+
+msgid "*The size of the person encountering the chemicals."
+msgstr "*接觸的化學品的人的體重大小。"
+
+msgid "The best way to keep from getting sick from toxic chemicals is simple:"
+msgstr "避免有毒的化學物質導致生病，最好的方法其實很簡單："
+
+msgid "Avoid them whenever possible."
+msgstr "盡量可能避免他們。"
+
+msgid "Clearing out smokes..."
+msgstr "去除菸品..."
+
+#. 9
+msgid ""
+"Question A. Most over-the-counter medications have different dosage "
+"directions for young children and adults."
+msgstr "問題A. 大多數處方藥對幼兒和成人有不同的劑量。"
+
+msgid ""
+"Based on what you have learned, click on the letters below, read the "
+"descriptions and choose the best answer."
+msgstr ""
+"根據你學到的，請問你認為為什麼會是這樣？請點擊圖片、閱讀描述，然後選擇一個答"
+"案。"
+
+msgid ""
+"Based on what have you learned why is this is the case? Click on the images "
+"to read the description and choose an answer."
+msgstr "根據你學的，為什麼會是這樣？請點擊圖片、閱讀描述，然後選擇一個答案。"
+
+msgid ""
+"Question B. Read the statements about diseases. Click on the statement that "
+"is <span class='red blink bold'>FALSE</span>."
+msgstr ""
+"問題B. 閱讀以下跟疾病相關的敘述，請點擊並選擇 <span class='red blink bold'>錯"
+"誤</span>的敘述."
+
+msgid ""
+"Based on what you have learned, click on the images, read the descriptions "
+"and choose the best answer."
+msgstr "根據你所學到的，點擊圖片，閱讀說明，並選擇最佳答案。"
+
+msgid "Another quick check on the way!"
+msgstr "另一個小練習來囉！"
+
+msgid "A person's ability to tolerate medicine decreases with age."
+msgstr "一個人容忍藥物的能力會隨著年齡的增長而減小。"
+
+msgid "It is more difficult to convince young children to take medicine."
+msgstr "說服年幼的孩子吃藥是困難的。"
+
+msgid ""
+"The directions for young children are simpler so that they can understand "
+"them."
+msgstr "教導幼兒是簡單的，所以他們能夠理解如何自己吃要。"
+
+msgid ""
+"Children have less mass than adults and so they need a smaller amount of the "
+"medicine."
+msgstr "兒童比成人體重輕，所以需要較少量的藥物。"
+
+msgid ""
+"It is true that adults can take a larger dosage, but why do adults and "
+"children need different amounts of medicine based on the concept of dosage?"
+msgstr ""
+"這不是最正確的答案喔！成年人可以攝取較大的劑量是對的。不過，成人和兒童需要不"
+"同的藥量，是根據劑量是受到什麼影響的概念呢？"
+
+msgid ""
+"It is the parents' job to convince their children to take the medicine. The "
+"box usually won't have helpful hints for that. Which key vocabulary word "
+"explains the answer?"
+msgstr ""
+"這是父母的工作去說服自己的孩子吃藥。在藥盒子上通常不會有這方面幫助的提示。哪"
+"一個關鍵的詞彙可以用來解釋這題的答案呢？"
+
+msgid ""
+"It would be dangerous for young children to take medicine unsupervised. What "
+"explains why children would need less medicine than adults?"
+msgstr ""
+"幼兒在沒有大人指導下自己吃藥是危險的。如何解釋孩子為什麼比成人需要的藥物劑量"
+"較小呢？"
+
+msgid ""
+"Correct! The children's dose may be about half the dose for adults, or the "
+"box may recommend asking a doctor for a suitable dose."
+msgstr ""
+"正確！孩子的劑量可能大約是成人的一半，或藥盒子上可能會建議你去請教醫生告訴你"
+"一個合適的劑量。"
+
+msgid ""
+"No, this is true. No matter what the cause of the disease, it leads to some "
+"part of the body not functioning the way it should."
+msgstr ""
+"不是這個選項喔，這敘述是正確的。不管疾病的原因是甚麼，它都導致身體的某個部位"
+"不能正常的運作。"
+
+msgid ""
+"No, this is true. In some cases the cause of a disease might be exposure to "
+"microbes or chemicals, and in other cases it just might be an organ shuts "
+"down by itself or does not function properly."
+msgstr ""
+"不是這個選項喔，這敘述是正確的。在某些情況下，疾病的原因可能是暴露於微生物或"
+"化學物質，但也有一些其他情況下，它也許會是一個器官本身停止或不能正常運作。"
+
+msgid ""
+"No, this is true. In some cases, the cause of a disease might be exposure to "
+"microbes or chemicals, and in other cases, it just might be an organ shuts "
+"down by itself or simply does not function properly."
+msgstr ""
+"不是這個選項 喔，這 敘述是正確的。在某些情況下，疾病的原因可能是暴露於微生物"
+"或化學物質，但也有一些其他情況下，它也許會是 一個器官本身停止或不能正常 運"
+"作。"
+
+msgid ""
+"No, this is true. Exposure to toxic chemicals can lead to diseases, and so "
+"can infections by microbes."
+msgstr ""
+"不是這個選項喔，這敘述是正確的。接觸有毒化學物質可以導致疾病的發生，微生物的"
+"感染也會。"
+
+msgid ""
+"Correct, this statement is false. Diseases and health conditions can be from "
+"any internal or external source."
+msgstr ""
+"答對了，這種說法是錯誤的。疾病和健康產生狀況可以是由身體內部的(功能失調)或外"
+"部的(化學品或微生物)因素所引起。"
+
+msgid "A disease is a breakdown in structures or functions of an organism."
+msgstr "疾病是生物體的結構或功能有了損壞。"
+
+msgid ""
+"Some diseases are the result of inborn failures of the system, while others "
+"are the result of damage by infection by other organisms."
+msgstr ""
+"一些疾病是該系統先天失能的結果，另有些則是由於被其他生物感染的結果而造成損"
+"傷。"
+
+msgid ""
+"Microbes are not the only things that can cause disease; toxic chemicals can "
+"cause harmful effects to organisms too."
+msgstr ""
+"微生物並不是導致疾病唯一的東西，有毒的化學物質可能也會造成對生物的不良影響。"
+
+msgid ""
+"Few health conditions are due to exposure to chemicals, while diseases are "
+"due to the harmful effects of microorganisms."
+msgstr "有些健康狀況是由於接觸化學品造成，但疾病都是由於微生物的有害影響造成。"
+
+#. 10
+msgid ""
+"Since microbes can reproduce so quickly, the next question becomes how to "
+"fight the spread of disease caused by pathogens."
+msgstr ""
+"由於微生物會迅速地繁殖，接下來的問題，就是如何對抗由病原體所引起的疾病傳播"
+"了。"
+
+msgid ""
+"Some chemicals can stop microbial growth or destroy microbes like bleach and "
+"iodine. These chemicals are called <span class='key'>antimicrobial agents</"
+"span>."
+msgstr ""
+"一些化學物質可以阻止微生物生長或破壞它們，如漂白水和碘。這些化學物質被稱為"
+"<span class='key'>抗菌劑</span>。"
+
+msgid ""
+"Some microorganisms can also produce these chemicals that destroy microbes. "
+"These are called <span class='key'>antibiotics</span>."
+msgstr ""
+"一些微生物也能產生這些化學物質，來殺死其它的微生物。這些化學物質被稱為<span "
+"class='key'>抗生素</span>。"
+
+msgid ""
+"Some chemicals, like bleach and iodine, can stop microbial growth or destroy "
+"microbes."
+msgstr "如漂白劑和碘等化學品，可阻止微生物的生長或破壞微生物。"
+
+msgid ""
+"An important discovery in the battle against infectious disease occurred in "
+"the 1930s when scientists found that a particular kind of mold was able to "
+"kill several types of bacteria growing near it."
+msgstr ""
+"跟傳染病的戰鬥中，有一個重大的發現，這發生在約1930年代，那時科學家們發現一種"
+"特定類型的黴能夠殺死多種在它附近生長的細菌。"
+
+msgid "Scientists were able to create the antibiotic penicillin from it."
+msgstr "科學家們可以從它(黴)來得到抗生素，這就是青黴素。"
+
+msgid ""
+"Unfortunately, there is a growing problem with antibiotic use called <span "
+"class='key'>antibiotic resistance</span>."
+msgstr ""
+"不幸的是，抗生素的使用也造成一種叫做──<span class='key'>抗生素的抗藥性</span>"
+"的問題，而且越來越嚴重。"
+
+msgid ""
+"Let's say there is a person who has an infection from bacteria and is given "
+"an antibiotic to treat it. While the antibiotic will kill most of the "
+"bacteria, some of the bacteria may have a genetic trait that gives them the "
+"ability to survive. Even though the antibiotic worked and killed many "
+"bacteria, it did not get rid of all of them. Those that survive reproduce "
+"and create more bacteria that have the ability to resist the antibiotic."
+msgstr ""
+"舉例來說，如果有一個人被細菌感染，而且給予抗生素治療。雖然抗生素會殺死大多數"
+"細菌，但卻有一些細菌可能會有某些基因特质，使他們有能力存活。儘管抗生素有發揮"
+"作用而且也殺死許多細菌，但它並沒有殺死所有的細菌。那些存活下來的，就會再繁"
+"殖，然後產生更多具有抵抗抗生素能力的細菌。"
+
+msgid ""
+"Viruses are difficult to get rid of because they can live and reproduce "
+"inside of our cells – killing a virus also requires killing the cells where "
+"it lives."
+msgstr ""
+"病毒則是很難袪除的，因為他們可以在我們細胞裡生存和繁殖──殺死病毒也會殺死它存"
+"活地方的細胞。"
+
+msgid ""
+"The best way to avoid getting sick from a virus is prevention. An example of "
+"prevention is a vaccine. For a vaccination, dead or weakened viral particles "
+"are injected into a person's body. The particles are mostly harmless, but "
+"the  person's immune system will still attack them and \"remember\" them as "
+"enemies. That way, if the person later contracts the live virus, his or her "
+"immune system is ready to fight."
+msgstr ""
+"避免病毒造成生病，最好的方法是預防，而預防的一個例子是接種疫苗。接種，就是將"
+"死的或者被弱化的病毒粒子注入到一個人的身體，這些粒子大多是無害的，但人的免疫"
+"系統仍然會襲擊他們，並 \"記住\" 他們就是敵人。這樣一來，這個人如果以後再遇到"
+"活病毒時，他的免疫系統就可以準備跟這些病毒戰鬥。"
+
+msgid "Taking medications..."
+msgstr "服用藥物..."
+
+#. 11
+msgid ""
+"Question A. In the past, doctors would often prescribe antibiotics first "
+"without determining whether the patient had a viral infection or a bacterial "
+"infection. The idea was that it would take care of the infection if it was "
+"bacterial and they would only try other options if the antibiotic did not "
+"work. Doctors are now trying to make sure that their patients have a "
+"bacterial infection and not a viral infection before prescribing "
+"antibiotics. Based on what you just learned, what has caused doctors to "
+"change their practice?"
+msgstr ""
+"問題A. 在過去，醫生往往會先開抗生素，而不確定患者是否是病毒感染或細菌感染。當"
+"時的想法是，如果它是細菌，抗生素會對感染產生作用，但如果抗生素沒有作用，他們"
+"才會嘗試其他方法。但現在的醫生們卻會先努力去確認病人是細菌感染──而不是病毒感"
+"染時，他們才會開抗生素給病人。根據你剛剛學到的，請問什麼原因造成醫生改變他們"
+"的做法呢？"
+
+msgid ""
+"The idea was that it would take care of the infection if it was bacterial "
+"and they would only try other options if the antibiotic did not work."
+msgstr ""
+"當時的想法是，如果它是細菌，抗生素會對感染產生作用，但如果抗生素沒有作用，他"
+"們才會嘗試其他方法。"
+
+msgid ""
+"Doctors are now trying to make sure that their patients have a bacterial "
+"infection and not a viral infection before they will prescribe antibiotics."
+msgstr ""
+"但現在的醫生們卻會先努力去確認病人是細菌感染──而不是病毒感染時，他們才會開抗"
+"生素給病人。"
+
+msgid ""
+"Based on what you just learned what has caused doctors to change their "
+"practice?"
+msgstr "根據你剛剛學到的，請問什麼原因造成醫生改變他們的做法呢？"
+
+msgid ""
+"Antibiotics are readily available now and doctors want to make sure they are "
+"only used when absolutely needed."
+msgstr ""
+"現在抗生素很容易取得，但醫生要在確信抗生素的使用是絕對必要時，他們才會使用。"
+
+msgid ""
+"Question B. Click on <span class='blink red'>ALL</span> the correct "
+"statements about antibiotic resistance..."
+msgstr ""
+"問題B. 點擊<span class='blink red'>所有</span>對抗生素抗藥性的正確敘述..."
+
+msgid ""
+"Antibiotic resistance is when microbes resist the effect of an antibiotic."
+msgstr "抗生素的抗藥性，指的是微生物產生能對抗生素抵抗的效果。"
+
+msgid ""
+"Antibiotic resistance happens because microbes are continuously adapting to "
+"their environment."
+msgstr "抗生素抗藥性是因為微生物不斷地適應他們的環境。"
+
+msgid ""
+"Sometimes an antibiotic will kill the weak bacteria, while the stronger "
+"bacteria survive and reproduce."
+msgstr "有時，抗生素會殺死較弱的細菌，然而更強的細菌會生存和繁殖。"
+
+msgid ""
+"The trait of antibiotic resistance is genetically transferred to the next "
+"generation."
+msgstr "抗生素抗藥性的特質由基因轉移到下一代。"
+
+msgid "Writing prescriptions..."
+msgstr "開處方..."
+
+msgid ""
+"The overuse of antibiotics is speeding up the spread of antibiotic resistant "
+"bacteria."
+msgstr "抗生素的過度使用，會加速對抗生素有抗藥性細菌的產生。"
+
+msgid ""
+"It is easier to treat a viral infection so they now try that method first."
+msgstr "治療病毒感染比較容易，所以他們現在先試這個方法。"
+
+msgid ""
+"Because of antibiotics, there are fewer bacterial infections so doctors know "
+"that the infections will more likely be viral."
+msgstr "因為抗生素，細菌感染會較少，因此醫生知道感染比較可能是病毒。"
+
+msgid ""
+"Correct. Antibiotic resistance is a growing issue as microbes adapt to the "
+"environment with drugs and become resistant. Even though some microbes are "
+"killed, the strong ones reproduce and create new generations of strong "
+"microbes resistant to antibiotics."
+msgstr ""
+"正確。抗生素抗藥性是一個日益嚴重的問題，因為微生物會學習去適應藥物環境，對藥"
+"物產生抗藥性。儘管一些微生物被殺死，較強的微生物會繁衍和產生新一代強的微生物"
+"來對抗抗生素。"
+
+msgid ""
+"Not quite. Antibiotic resistance is a growing issue as microbes adapt to the "
+"environment with drugs and become resistant. Even though some microbes are "
+"killed, the strong ones reproduce and create new generations of strong "
+"microbes resistant to antibiotics."
+msgstr ""
+"不完全是。抗生素抗藥性是一個日益嚴重的問題，因為微生物會學習去適應藥物環境，"
+"對藥物產生抗藥性。儘管一些微生物被殺死，較強的微生物會繁衍和創造新一代強的微"
+"生物來對抗抗生素。"
+
+msgid ""
+"Correct. The unnecessary use of antibiotics leads to more bacteria becoming "
+"antibiotic resistant."
+msgstr "正確。非必要地去使用抗生素，會導致更多的細菌變得對抗生素有抗藥性。"
+
+msgid ""
+"Viral infections are more difficult to eliminate after people are already "
+"infected. What problem with using antibiotics did you just learn about?"
+msgstr ""
+"如果人已經被病毒感染了，就比較不容易袪除病毒。你學到了使用抗生素會出現哪些問"
+"題？"
+
+msgid ""
+"It is true that many common sicknesses are caused by viruses such the flu "
+"and common cold but there still are many common bacterial infections. What "
+"problem with using antibiotics did you just learn about?"
+msgstr ""
+"這是事實，許多常見的疾病是由病毒如流感和普通感冒引起的，但許多常見的細菌感染"
+"仍然存在著。請問你，剛剛學到使用抗生素會出現哪些問題？"
+
+#. 12
+msgid "Using what you know... about how diseases destroy... to solve a problem"
+msgstr "運用你知道的......關於疾病如何造成危害......去解決問題"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Please type your answer below."
+msgstr "請輸入您的答案。"
+
+msgid "The Scenario"
+msgstr "任務背景"
+
+msgid ""
+"A couple decides to move out of their apartment and buy an old house to fix "
+"up. The house is almost 100 years old and hasn't had much work done on it "
+"for at least 50 years. Since money and time are limited, they decide they "
+"will focus on attending to repairs related to their health."
+msgstr ""
+"一對夫婦決定搬離公寓，買一個獨棟的老房子然後重新裝修。老房子幾乎有100年了，而"
+"且已經至少50年沒有整修。由於金錢和時間是有限的，他們決定將重點放在維護他們的"
+"健康。"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid ""
+"Using what you know about environmental factors that can cause disease, "
+"develop a plan for them that lists the things they should do and why they "
+"should do them for the sake of their health."
+msgstr ""
+"使用你所知道有關環境因素會導致疾病的知識，來制定一個計劃。計畫中請列出這對夫"
+"婦應該做的事情，還有為什麼為了健康，他們應該要做這些事情。"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."
+
+msgid "Cleaning repair tools..."
+msgstr "清洗維修工具..."
+
+#. 13
+msgid "Summarizing core ideas... about how diseases destroy"
+msgstr "總結核心觀念...關於...疾病如何造成危害"
+
+msgid ""
+"A <span class='key'>disease</span> is a change in the body processes that "
+"does not let the organism do its job. This can happen by itself, or by "
+"toxins, radiation, or invading bacteria and viruses. The body will fight off "
+"any invasion with the <span class='key'>immune system</span>. If the "
+"invasion is more than what the body can resist, a disease may then develop "
+"and symptoms of disease will appear. <span class='key'>Microbes</span> and "
+"toxic chemicals were discussed in this review. Microbes are microscopic life "
+"forms that reproduce quickly. <span class='key'>Bacteria</span> are single-"
+"celled microbes.  A <span class='key'>virus</span> is a microbe that is not "
+"considered truly living. A <span class='key'>pathogen</span> is an organism "
+"or a virus that causes diseases in other organisms. Diseases from pathogens "
+"that are contagious can spread through <span class='key'>carriers</span>. "
+"<span class='key'>Antibiotics</span> can stop microbial growth or destroy "
+"microbes; however, antibiotic resistance makes treating bacterial infections "
+"challenging."
+msgstr ""
+"<span class='key'>疾病</span>是身體運作產生變化致使生物體無法完成其功能。它會"
+"自我產生，也會因為毒素、輻射、或細菌和病毒入侵而發生。身體的<span "
+"class='key'>免疫系統</span>會抵抗任何的入侵。如果入侵大於身體可以抵抗的程度，"
+"疾病就會發生，疾病的症狀也會出現。 <span class='key'>微生物</span>和有毒化學"
+"品在本次單元中進行了討論。微生物是繁殖迅速的微小生命形式。 <span class='key'>"
+"細菌</span>是單細胞微生物。<span class='key'>病毒</span>不被認為是真正的活的"
+"微生物。<span class='key'>病原體</span>是會讓其他生物產生疾病的生物體或病毒。"
+"病原體的疾病是有感染性的，可以透過<span class='key'>載體</span>傳播。 <span "
+"class='key'>抗生素</span>可以阻止微生物生長或破壞微生物，然而，抗生素的抗藥"
+"性，使治療細菌感染變得具有挑戰性。"
+
+msgid "Putting it all together..."
+msgstr "整理一下囉..."
+
+#. 14
+msgid "Reviewing key vocabulary... related to how diseases destroy"
+msgstr "複習重要詞彙...關於疾病如何造成危害"
+
+msgid ""
+"When you have a disease, your body is not working the way it is supposed to. "
+"This causes you to feel ill. Germs can spread some diseases from one person "
+"to another. But there are also other diseases that people are born with. "
+"Doctors do not always know what causes a person to get a disease."
+msgstr ""
+"當你一有「疾病」，你的身體運行的方式跟正常的會不同，這使你感到不適。病菌可以"
+"使疾病從一人傳染到另一人；但也有一些疾病是天生的。醫生不一定知道是什麼原因導"
+"致一人得到疾病。"
+
+msgid ""
+"Our bodies have a system called the immune system, which is the body's "
+"defense against infectious organisms and other invaders. Sometimes, however, "
+"the invasion is more than what our body can resist, and the immune system "
+"cannot overcome the invader."
+msgstr ""
+"我們身體有一個系統叫做「免疫系統」，它是人體對傳染性微生物和其他入侵者的防"
+"禦。然而，有時入侵會比我們身體可以抵抗的程度更強，免疫系統就無法阻擋入侵者。"
+
+msgid ""
+"A disease may then develop and symptoms of disease will appear. Symptoms are "
+"a series of changes in the body that are signs of an invading organism. "
+"Symptoms brought on by a virus might be a fever, nausea (the feeling you "
+"need to vomit), headache, and a lot of sweating."
+msgstr ""
+"疾病繼續發展，症狀就會出現。「症狀」是一系列身體的變化，是生物體入侵的徵兆。"
+"由病毒所帶來的症狀，可能是發燒、噁心（你需要嘔吐的感覺）、頭痛和大量出汗。"
+
+msgid "The nucleoid is a group of fibers containing a bacterium's DNA."
+msgstr "「擬核(圖內紫色的部分)」是含有細菌DNA的一群纖維。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid ""
+"Many diseases today are from invading microbes, which are life forms unable "
+"to be seen with the unaided eye. An example of a microbe is a bacterium."
+msgstr ""
+"現在許多疾病都是「微生物」的入侵，這是用肉眼無法看到的生命形式。微生物的一個"
+"例子細菌。"
+
+msgid ""
+"Bacteria are very small, single-celled organisms that can only be seen with "
+"a microscope. Bacteria are around us all of the time. They perform various "
+"functions and can be found almost anywhere on Earth. Most bacteria do not "
+"hurt us. Some bacteria are even helpful because they eat other, bad bacteria "
+"and prevent them from entering our bodies. When bad bacteria do enter our "
+"bodies, they can grow and become an infection. Doctors can treat bacterial "
+"infections with drugs called antibiotics, which kill bacteria."
+msgstr ""
+"「細菌」是非常小的、單細胞生物，只能用顯微鏡看到。細菌隨時存在我們的左右，他"
+"們執行各種功能，並且幾乎可以在地球上任何地方找到。大多數細菌不會傷害我們，有"
+"些細菌甚至是有幫助的，因為他們會吃其他壞細菌並防止他們進入我們的身體。當壞細"
+"菌進入我們的身體，它們成長並造成感染。醫生治療細菌感染的藥物稱為抗生素，它會"
+"殺滅細菌。"
+
+msgid ""
+"All cells have a cell membrane. The cell membrane controls the passing of "
+"materials in and out of the cell."
+msgstr ""
+"所有細胞具有「細胞膜」。細胞膜在細胞壁的之內，包住細胞質並控制通過進出細胞的"
+"物質。"
+
+msgid ""
+"The cell wall forms the outer boundary of the cell, and helps it maintain "
+"its shape. Inside the cell wall and cell membrane are the cytoplasm (which "
+"contains ribosomes) and the nucleoid or nucleus."
+msgstr ""
+"「細胞壁(圖中褐色的部分)」在細胞膜之外形成細胞的外邊界，並幫助它保持其形狀。"
+"細胞壁之內是細胞膜，細胞膜裡面含有細胞質（其中包含核醣體)和擬核細胞核或細胞"
+"核。"
+
+msgid ""
+"There are some bacteria that actually have a third layer that consists of a "
+"capsule and pili, which help the bacteria stick to each other and to "
+"surfaces."
+msgstr ""
+"有一些細菌，實際上在細胞膜、細胞壁之外面還有一個第三層──它包含「莢膜(圖中淡黃"
+"色的部分)」和菌毛，能幫助細菌粘附彼此和表面。"
+
+msgid ""
+"Some bacteria have pili, which are hair-like projections on the exterior of "
+"the cell that help them attach to other bacteria or surfaces."
+msgstr ""
+"有些細菌有「菌毛」，是毛髮狀突起的細胞外菌毛幫助其附著到其他細菌或表面。"
+
+msgid ""
+"Some bacteria have tentacle-like structures called flagella (singular, "
+"flagellum) that help them move."
+msgstr "某些細菌有觸手樣結構(圖中右上方黃色長條物)，稱為「鞭毛」，幫助其移動。"
+
+msgid ""
+"The smallest microbes are viruses. The structure of a virus is much simpler "
+"than that of bacteria. They usually just have a shell made of protein and "
+"lipids (fat) that protects their genetic information. Most scientists don't "
+"consider them \"true life-forms\". This is because viruses cannot produce "
+"their own proteins to build their own bodies and they cannot reproduce. "
+"Instead, viruses infect cells and make them create new viruses."
+msgstr ""
+"最小的微生物是「病毒」。病毒的結構比細菌要簡單得多。它們通常只有一個由蛋白質"
+"和脂類（脂肪）所組成的外殼，這外殼可以保護它們的遺傳信息。大多數科學家不認為"
+"他們是 \"真正的生命形式\"。這是因為病毒不能產生自己的蛋白質來構建自己的身體，"
+"它們也無法繁殖──不過，病毒可以藉由感染細胞，使細胞代為產生新的病毒。"
+
+msgid ""
+"An organism, such as bacteria or a virus, that can cause disease in other "
+"organisms is called a pathogen."
+msgstr "一個生物體，如細菌或病毒，可導致其它生物生病，則被稱為「病原體」。"
+
+msgid ""
+"A contagious disease is one that spreads from one organism to another. To "
+"avoid contagious diseases, practicing proper hygiene is very important."
+msgstr ""
+"一種「傳染性」疾病指的是，這種疾病可以從一個生物體傳播到另一個身上。為了避免"
+"傳染性疾病，良好的衛生習慣是很重要的。"
+
+msgid ""
+"A carrier is an organism that carries or spreads disease-causing microbes "
+"but may or may not have the symptoms of the disease itself. For example, "
+"ticks are carriers that can transfer the Lyme disease bacteria to humans."
+msgstr ""
+"「載體」是指一個能攜帶傳播致病微生物的生物體，載體本身可能會有也可能沒有疾病"
+"的症狀。例如，壁虱可以將萊姆病的細菌轉移到人類。"
+
+msgid ""
+"Chemicals, such as bleach and iodine, that can stop microbial growth or "
+"destroy microbes are called antimicrobial agents."
+msgstr ""
+"如漂白劑和碘等化學品，可阻止微生物的生長或破壞微生物。被稱為「抗菌劑」。"
+
+msgid ""
+"Antibiotics are substances that are used to kill bacteria or prevent their "
+"growth. The discovery of antibiotics completely changed the way doctors "
+"treat diseases. Before antibiotics, some mild infections would have been "
+"life threatening, but today most only require a quick trip to the doctor and "
+"a prescription of an antibiotic. Penicillin is one of the oldest and most "
+"widely used antibiotics."
+msgstr ""
+"「抗生素」是用來殺滅細菌或阻止其生長的物質。抗生素的發現徹底改變了醫生治療疾"
+"病的方式。抗生素發現前，一些輕微感染就可能危及生命，但今天大多數人只要去看醫"
+"生，就可以拿到抗生素的處方藥物。青黴素是最古老和最廣泛使用的抗生素之一。"
+
+msgid ""
+"The problem of antibiotic resistance, in which a microorganism becomes "
+"resistant to an antibiotic, is caused by both overuse and misuse of "
+"antibiotics. A pathogen can be very difficult to kill once it develops "
+"antibiotic resistance."
+msgstr ""
+"「抗生素抗藥性」問題，指的是微生物對抗生素產生抗藥性，這是由於抗生素過度使用"
+"和濫用造成的。當病原體產生抗生素的抗藥性之後，就變的非常難撲滅。"
+
+msgid "Words and definitions"
+msgstr "單詞和定義"
+
+msgid "Disease"
+msgstr "疾病"
+
+msgid "Immune system"
+msgstr "免疫系統"
+
+msgid "Symptoms"
+msgstr "症狀"
+
+msgid "Microbes"
+msgstr "微生物"
+
+msgid "Bacteria"
+msgstr "細菌"
+
+msgid "Cell membrane"
+msgstr "細胞膜"
+
+msgid "Pili"
+msgstr "菌毛"
+
+msgid "Virus"
+msgstr "病毒"
+
+msgid "Pathogen"
+msgstr "病原體"
+
+msgid "Contagious"
+msgstr "傳染性的"
+
+msgid "Antibiotics"
+msgstr "抗生素"
+
+msgid "Antimicrobial agents"
+msgstr "抗菌劑"
+
+msgid "Antibiotic resistance"
+msgstr "抗生素抗藥性"
+
+msgid "Carrier"
+msgstr "載體"
+
+msgid "Antimicrobal agents"
+msgstr "防菌劑"
+
+#. 15
+msgid "Checking what you now know... about how diseases destroy"
+msgstr "看看你現在了解了多少......關於...疾病如何造成危害"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了點擊下一步按鈕。"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道甚麼"
+
+#. 16
+msgid "Which organism is made of one cell?"
+msgstr "哪一個生物體是由一個細胞組成？"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗的問題是..."
+
+msgid "This jelly fish is made up of billions of cells."
+msgstr "水母是由幾十億個細胞組成。"
+
+msgid "This is not a single-celled organism."
+msgstr "這不是單細胞生物。"
+
+msgid "This caterpillar is made up of billions of cells."
+msgstr "毛毛蟲是由幾十億個細胞組成。"
+
+msgid "Correct! This is a single-celled organism."
+msgstr "正確！這是一種單細胞生物。"
+
+#. 17
+msgid ""
+"Three different microorganisms were collected under the following "
+"circumstances:"
+msgstr "下列有三種不同的微生物分別是在三種環境下被採集到的："
+
+msgid ""
+"Microorganism 1 was collected from a throat swab taken after a person went "
+"to the doctor because of a sore throat. It has a simplistic structure and "
+"flagella."
+msgstr ""
+"微生物1，是用棉花棒塗抹一個因為喉嚨痛去找醫生的病患所採集到的。它具有簡單的結"
+"構和鞭毛。"
+
+msgid ""
+"Microorganism 2 was found when testing a blood sample from a person that had "
+"recently become very ill. When viewed under a microscope, many organelles "
+"are visible within the single-celled organism."
+msgstr ""
+"微生物2，由一個最近病得很厲害的人的血液樣本中得到。當在顯微鏡下觀察時，這個單"
+"細胞生物中，很多細胞器清楚可見。"
+
+msgid ""
+"Microorganism 3 can cause potentially serious disease and the best way to "
+"counter it is by providing vaccines to people before they become infected. "
+"Though it is too small to be seen by a light microscope, its presence was "
+"detected when a tissue sample showed many altered and damaged cells."
+msgstr ""
+"微生物3，這種微生物可能會導致潛在的嚴重疾病，對付它最好辦法是在被感染前提供疫"
+"苗。雖然它太小以致連光學顯微鏡都無法看到，但當生物體的組織樣本顯示有許多細胞"
+"變化和損傷時，這種微生物的存在仍會被檢測到，。"
+
+msgid ""
+"Match each microorganism with its name by dragging the items in the right "
+"column up or down."
+msgstr "請向上或向下移動右行中微生物名稱，來正確配對微生物的編號。"
+
+msgid "Microorganism 1"
+msgstr "微生物1"
+
+msgid "Microorganism 2"
+msgstr "微生物2"
+
+msgid "Microorganism 3"
+msgstr "微生物3"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Eukaryotes"
+msgstr "真核生物"
+
+msgid ""
+"Microorganism 3 is a Virus. It is too small to be seen by a light microscope "
+"and can cause potentially serious disease."
+msgstr ""
+"微生物3是一種病毒。它小到無法通過光學顯微鏡看見，並可能導致潛在的嚴重疾病。"
+
+msgid ""
+"Microorganism 2 is a Eukaryotic Parasite. This microorganism is neither "
+"bacteria, nor a virus."
+msgstr "微生物2是真核寄生蟲。這種微生物既不是細菌，也不是病毒。"
+
+msgid "Microorganism 1 is Bacteria with a simplistic structure and flagella."
+msgstr "微生物1是細菌，它有一個簡單的結構和鞭毛。"
+
+msgid "Collecting microorganisms..."
+msgstr "收集微生物..."
+
+#. 18
+msgid "Which best describes the purpose of antimicrobial agents?"
+msgstr "以下哪項最能描述抗菌劑的目的是什麼？"
+
+msgid "A. They reduce the harmful effects of toxic chemicals on the body."
+msgstr "A. 它們減少有毒化學品對人體的有害影響。"
+
+msgid "B. They destroy or prevent the growth of disease-causing microbes."
+msgstr "B. 它們消滅或預防可造成疾病微生物的增長。"
+
+msgid "C. They encourage microorganisms to produce more antibiotics."
+msgstr "C. 他們使微生物產生更多的抗生素。"
+
+msgid ""
+"D. They act like a vaccine to help our bodies recognize and fight off viral "
+"infections."
+msgstr "D.它們像一種疫苗，幫助我們的身體識別並擊退病毒感染。"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "請向上或向下翻轉方盒子，以選擇你的答案。"
+
+msgid "Fighting bacteria..."
+msgstr "抵抗細菌..."
+
+msgid ""
+"Some antimicrobial agents, like bleach and iodine, are chemicals that can "
+"stop or destroy microbes."
+msgstr "某些抗菌劑，如漂白和碘，都是可以阻止或破壞微生物化學物質。"
+
+msgid ""
+"Correct! Antimicrobial agents destroy or prevent the growth of disease "
+"causing microbes."
+msgstr "正確！抗菌劑破壞或阻止那些會造成疾病發展的微生物。"
+
+msgid "Some microorganisms produce antimicrobial agents that destroy microbes."
+msgstr "一些微生物產生抗菌劑，可以用來殺死其它微生物。"
+
+msgid ""
+"Antimicrobial agents do not work like a vaccine in our bodies. They destroy "
+"or prevent the growth of disease-causing microbes."
+msgstr ""
+"抗菌劑的作用方式並不像我們的身體的疫苗。抗菌劑破壞或阻止造成病情發展的微生"
+"物。"
+
+#. 19
+msgid ""
+"A lab technician was monitoring the growth of a bacterial culture in an "
+"ideal environment with plenty of food and space to grow as part of an "
+"experiment. After each bacterial generation she would count the number of "
+"bacterial cells present. She did this for 5 generations. Below is the data "
+"she recorded."
+msgstr ""
+"實驗室技術人員正在監測細菌培養的一個理想的生長環境，那裡有充足的食物和空間來"
+"增長。每個細菌過了一代後，她將數算細菌存在的數量。她做了5代。這是她記錄的數"
+"據。"
+
+msgid "Generation 0 = 100 bacterial cells"
+msgstr "第0代=100細菌細胞"
+
+msgid "Generation 1 = 200 bacterial cells"
+msgstr "第1代=200細菌細胞"
+
+msgid "Generation 2 = 400 bacterial cells"
+msgstr "第2代=400細菌細胞"
+
+msgid "Generation 3 = 600 bacterial cells"
+msgstr "第3代=600細菌細胞"
+
+msgid "Generation 4 = 1600 bacterial cells"
+msgstr "第4代=1600細菌細胞"
+
+msgid "Generation 5 = 3200 bacterial cells"
+msgstr "第5代=3200細菌細胞"
+
+msgid ""
+"Later she checked over her data again and realized that the data did not "
+"match the expected pattern for bacterial growth. She thoroughly checked "
+"every part of the procedure to be sure nothing was affecting the growth of "
+"the bacteria. Finally she realized that she just made a simple error when "
+"recording the data."
+msgstr ""
+"後來她再檢查了她的數據時察覺到，數據並不匹配細菌生長的預期模式。她仔細檢查了"
+"程序的每一個部分，以確保沒有任何影響了細菌的生長。最後，她發現到，她只是記錄"
+"數據時，犯了一個簡單的錯誤。"
+
+msgid ""
+"Using what you now know about how bacteria reproduce, can you locate the "
+"error in the data and state what the expected bacterial cell count should be?"
+msgstr ""
+"用你現在知道關於細菌複製的知識，你能找出數據的哪一個地方錯了嗎？請問錯誤在"
+"第？代？細菌細胞數量預估應該是多少個？"
+
+msgid "Generation"
+msgstr "第？代："
+
+msgid "select"
+msgstr "選擇"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "500"
+msgstr "500"
+
+msgid "700"
+msgstr "700"
+
+msgid "800"
+msgstr "800"
+
+msgid "900"
+msgstr "900"
+
+msgid "1000"
+msgstr "1000"
+
+msgid "with"
+msgstr "同"
+
+msgid "cells."
+msgstr "個細菌細胞。"
+
+msgid "Recording data..."
+msgstr "記錄數據..."
+
+msgid ""
+"Correct! The error is in Generation 3 because it should be double the count "
+"in the second generation (400x2 = 800) and half of the generation after it "
+"(1600 /2= 800)."
+msgstr ""
+"正確！記錄錯誤是在第3代，因為它應該是由第二代變兩倍（400X2=800），而且應該是"
+"第四代的一半（1600/2 =800）。"
+
+msgid ""
+"Not quite. The error is in Generation 3 because it should be double the "
+"count in the second generation (400x2 = 800) and half of the generation "
+"after it (1600 /2= 800)."
+msgstr ""
+"不完全是。記錄錯誤是在第3代，因為它應該是由第二代變兩倍（400X2=800），而且應"
+"該是第四代的一半（1600/2 =800）。"
+
+#. 20
+msgid "What is one reason that viral infections are difficult to eliminate?"
+msgstr "是什麼原因，使病毒感染是難以消除？"
+
+msgid "Viruses are so small that it is difficult for medicines to find them."
+msgstr "病毒如此之小，藥物很難來找到它們。"
+
+msgid "B. Viruses do not have very capable protection and defense mechanisms."
+msgstr "B. 病毒沒有強大的保護和防禦機制。"
+
+msgid "C. Viruses become resistant to efforts to treat the disease they cause."
+msgstr "C. 病毒會產生抵抗性，抵抗對疾病的治療。"
+
+msgid "D. Viral infections cause no symptoms, so are more difficult to detect."
+msgstr "D.病毒感染沒有引起任何症狀，因此更難以察覺。"
+
+msgid ""
+"Viruses are so small that it is hard to develop medicine that can \"find\" "
+"them."
+msgstr "病毒是如此之小，很難開發藥物可以\"找到\" 他們。"
+
+msgid "Viruses do not have very capable protection and defense mechanisms."
+msgstr "病毒沒有非常強的保護和防禦機制。"
+
+msgid "A. Viruses change so quickly that it's hard for medicines to keep up."
+msgstr "A.病毒改變速度如此之快，藥物的發明很難追上它的速度。"
+
+msgid "Viruses become resistant to efforts to treat the disease they cause."
+msgstr "病毒會產生抵抗性，抵抗對疾病的治療。"
+
+msgid "Viral infections cause no symptoms, so are more difficult to detect."
+msgstr "病毒感染沒有引起任何症狀，因此更難以察覺。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊、按住並上下滑動鼠標旋轉骰子，以選定你的答案。"
+
+msgid "Rotate or flip the 3D box either up or down to set your answer."
+msgstr "請向上或向下翻轉方盒子，以選擇你的答案。"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "點擊、按住並上下滑動鼠標旋轉骰子。"
+
+msgid "Detecting viruses..."
+msgstr "檢測病毒..."
+
+msgid ""
+"Viruses are very small, but they are difficult to eliminate because they "
+"become resistant to efforts to treat the disease they cause."
+msgstr ""
+"病毒非常小的，是沒錯；但它們難以消除的更重要原因，是因為它們產生抵抗性，抵抗"
+"對疾病的治療。"
+
+msgid ""
+"Viruses are hard to get rid of because they become resistant to efforts to "
+"treat the disease they cause."
+msgstr "病毒是很難排除的，因為它們產生抵抗性，抵抗對疾病的治療。"
+
+msgid ""
+"Correct! Viruses are difficult to eliminate since they cannot be seen under "
+"a microscope and become resistant to efforts to treat the disease they cause."
+msgstr ""
+"正確！病毒是難以排除的，因為它們既不能在顯微鏡下發現，而且它們會產生抵抗性，"
+"抵抗對疾病的治療。"
+
+msgid ""
+"Viruses do cause many symptoms when they cause disease. They are difficult "
+"to eliminate because they become resistant to efforts to treat the disease "
+"they cause."
+msgstr ""
+"當病毒導致疾病，也引起許多症狀。它們是難以消除的，因為它們產生抵抗性，抵抗對"
+"疾病的治療。"
+
+#. 21
+msgid ""
+"Match the common health conditions on the left to the chemicals on the right "
+"that may be linked to them by dragging the items in the right column up or "
+"down."
+msgstr "配對常見的健康狀況跟相對應的化學物質，請藉由向上或向下拖動右邊之項目。"
+
+msgid "Asthma"
+msgstr "哮喘"
+
+msgid "Birth Defect"
+msgstr "出生缺陷"
+
+msgid "Cancer"
+msgstr "癌症"
+
+msgid "Learning Disorder"
+msgstr "學習障礙"
+
+msgid "Pesticide and lead exposure"
+msgstr "農藥和鉛暴露"
+
+msgid "Allergens and air pollution"
+msgstr "過敏原和空氣污染"
+
+msgid "Drinking alcohol when pregnant"
+msgstr "懷孕時飲酒"
+
+msgid "Tobacco use and radiation"
+msgstr "抽菸和輻射"
+
+msgid "Health and sickness"
+msgstr "健康與疾病"
+
+msgid ""
+"Correct! Allergens and air pollution are often linked to the increased cases "
+"of asthma. Pregnant women should avoid: tobacco use, excessive caffeine "
+"consumption, and drinking alcohol to avoid birth defects. Cancers can be "
+"linked to tobacco use, radiation, and environmental pollutants. Learning and "
+"behavioral disorders can be linked to exposure to toxic chemicals, such as "
+"pesticides, and heavy metals, such as lead."
+msgstr ""
+"正確！過敏原和空氣污染往往與哮喘病例增加。孕婦應避免使用煙草，過量的咖啡因，"
+"飲酒，避免生出缺陷。癌症可以跟煙草使用相關，輻射和環境污染物。學習和行為障"
+"礙，可以連接到暴露於有毒化學品下，比如：農藥和重金屬，如鉛。"
+
+msgid ""
+"Not quite. Allergens and air pollution are often linked to the increased "
+"cases of asthma. Pregnant women should avoid: tobacco use, excessive "
+"caffeine consumption, and drinking alcohol to avoid birth defects. Cancers "
+"can be linked to tobacco use, radiation, and environmental pollutants. "
+"Learning and behavioral disorders can be linked to exposure to toxic "
+"chemicals, such as pesticides, and heavy metals, such as lead."
+msgstr ""
+"不完全是。過敏原和空氣污染往往與哮喘病例增加有關。孕婦應避免使用煙草、過量的"
+"咖啡因攝取、飲酒，以避免新生兒的出生缺陷。癌症和煙草使用、輻射、環境污染物，"
+"有所關聯。學習和行為障礙和接觸有毒化學物質，如農藥、重金屬(如，鉛)也有關係。"
+
+#. 22
+msgid "End of Review"
+msgstr "本單元結束"
+
+msgid "Congratulations, "
+msgstr "恭喜您，"
+
+msgid "How did I do?"
+msgstr "我答的如何呢？"
+
+msgid "You've completed the Diseases review."
+msgstr "您已經完成了「疾病」單元的學習了！"
+
+msgid "You've completed the How Diseases Destroy review."
+msgstr "您已經完成了「疾病」單元的學 習了！"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中“小練習”和“小測驗”的表現。"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"

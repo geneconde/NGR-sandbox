@@ -1,0 +1,176 @@
+[02-Jul-2014 22:25:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Jul-2014 23:27:39 America/Denver] PHP Warning:  The first parameter of bindtextdomain must not be empty in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/locale.php on line 23
+[02-Jul-2014 23:27:45 America/Denver] PHP Warning:  The first parameter of bindtextdomain must not be empty in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/locale.php on line 23
+[02-Jul-2014 23:27:49 America/Denver] PHP Warning:  The first parameter of bindtextdomain must not be empty in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/locale.php on line 23
+[02-Jul-2014 23:27:54 America/Denver] PHP Warning:  The first parameter of bindtextdomain must not be empty in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/locale.php on line 23
+[08-Jul-2014 03:14:35 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[08-Jul-2014 03:15:00 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[08-Jul-2014 03:15:02 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[14-Oct-2014 19:39:02 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[14-Oct-2014 19:39:08 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 01:12:37 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 103
+[10-Feb-2015 01:13:52 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/7.php on line 103
+[10-Feb-2015 01:13:59 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/9.php on line 103
+[10-Feb-2015 01:14:22 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/9.php on line 103
+[10-Feb-2015 01:14:53 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 123
+[10-Feb-2015 01:15:52 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 123
+[10-Feb-2015 01:16:06 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 123
+[10-Feb-2015 01:16:09 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 123
+[10-Feb-2015 01:18:08 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/14.php on line 84
+[10-Feb-2015 01:18:49 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/15.php on line 84
+[10-Feb-2015 01:18:53 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/16.php on line 84
+[10-Feb-2015 01:18:57 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/17.php on line 84
+[10-Feb-2015 01:19:00 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/18.php on line 84
+[10-Feb-2015 01:19:04 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/19.php on line 84
+[10-Feb-2015 01:20:01 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/19.php on line 84
+[10-Feb-2015 01:58:41 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 01:58:42 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 03:16:17 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 04:28:58 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 20:11:31 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 21:16:19 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[10-Feb-2015 23:27:16 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Feb-2015 00:44:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Feb-2015 20:16:00 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Feb-2015 20:16:01 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Feb-2015 21:57:37 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Feb-2015 22:59:09 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-Feb-2015 00:23:30 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-Feb-2015 18:28:55 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-Feb-2015 19:47:42 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-Feb-2015 20:56:28 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[13-Feb-2015 02:23:33 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Feb-2015 19:23:51 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Feb-2015 20:24:22 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Feb-2015 21:50:07 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Feb-2015 23:06:04 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 00:11:56 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 01:12:46 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 02:46:18 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 04:13:03 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 19:48:11 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 19:48:11 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 20:48:58 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Feb-2015 21:53:18 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[17-Feb-2015 03:24:12 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[17-Feb-2015 20:04:10 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[17-Feb-2015 20:05:30 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[17-Feb-2015 21:23:01 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[17-Feb-2015 22:49:45 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[18-Feb-2015 00:32:10 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[18-Feb-2015 02:06:43 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[18-Feb-2015 03:54:55 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[19-Feb-2015 19:49:14 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[19-Feb-2015 19:49:14 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[19-Feb-2015 20:55:30 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[19-Feb-2015 23:31:33 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[20-Feb-2015 01:25:00 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[20-Feb-2015 02:25:44 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[20-Feb-2015 04:02:23 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Feb-2015 20:05:59 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Feb-2015 20:06:01 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Feb-2015 21:55:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Feb-2015 23:28:42 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 03:16:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 04:27:44 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 19:37:12 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 19:37:47 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 20:44:08 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[23-Feb-2015 23:44:32 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 00:50:18 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 02:43:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 03:38:18 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 04:09:32 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 19:33:40 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 21:21:36 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Feb-2015 22:21:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 00:11:37 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 01:22:56 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 03:06:17 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 20:31:54 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 21:01:11 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 22:09:15 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[25-Feb-2015 23:09:44 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 01:20:22 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 02:41:16 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 03:44:28 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 04:51:39 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 20:09:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 21:11:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 22:20:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[26-Feb-2015 23:44:06 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 00:44:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 01:49:55 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 02:50:41 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 03:51:07 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 04:17:31 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[27-Feb-2015 04:55:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-Mar-2015 20:35:54 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-Mar-2015 20:35:56 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-Mar-2015 21:41:16 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-Mar-2015 22:48:46 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 00:29:58 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 00:29:58 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 00:29:59 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 01:30:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 01:30:03 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 01:30:03 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 03:09:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 03:09:30 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 03:09:30 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 04:21:20 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 04:21:20 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 04:21:20 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 20:26:29 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 20:26:29 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 20:26:29 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 21:30:27 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 21:30:27 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 21:30:27 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 22:37:18 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 22:37:18 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 22:37:18 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Mar-2015 23:43:13 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.dll' - /usr/php/54/usr/lib64/php/modules/php_curl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 23:43:13 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_curl.so' - /usr/php/54/usr/lib64/php/modules/php_curl.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Mar-2015 23:43:13 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 01:27:31 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 03:18:28 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 04:30:22 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 04:45:56 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 20:11:50 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 21:16:33 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 22:22:21 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Mar-2015 23:25:53 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[13-Mar-2015 00:00:36 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 103
+[13-Mar-2015 00:04:59 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[13-Mar-2015 00:04:59 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[13-Mar-2015 00:05:41 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[13-Mar-2015 00:06:26 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[13-Mar-2015 00:33:38 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[13-Mar-2015 00:34:04 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/7.php on line 104
+[13-Mar-2015 00:34:11 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/9.php on line 104
+[13-Mar-2015 00:34:15 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 124
+[13-Mar-2015 00:34:31 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 124
+[13-Mar-2015 00:36:33 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/14.php on line 85
+[13-Mar-2015 00:36:37 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/15.php on line 85
+[13-Mar-2015 00:36:41 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/16.php on line 85
+[13-Mar-2015 00:37:08 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/16.php on line 85
+[13-Mar-2015 00:37:11 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/17.php on line 85
+[13-Mar-2015 00:37:15 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/18.php on line 85
+[13-Mar-2015 00:37:22 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/19.php on line 85
+[13-Mar-2015 00:47:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Mar-2015 19:09:06 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Mar-2015 19:10:33 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/5.php on line 104
+[15-Mar-2015 19:10:57 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/7.php on line 104
+[15-Mar-2015 19:11:13 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/9.php on line 104
+[15-Mar-2015 19:11:18 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/10.php on line 124
+[15-Mar-2015 19:12:16 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/14.php on line 85
+[15-Mar-2015 19:12:20 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/15.php on line 85
+[15-Mar-2015 19:12:23 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/16.php on line 85
+[15-Mar-2015 19:12:24 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/16.php on line 85
+[15-Mar-2015 19:12:28 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/17.php on line 85
+[15-Mar-2015 19:12:32 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/18.php on line 85
+[15-Mar-2015 19:12:32 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/18.php on line 85
+[15-Mar-2015 19:12:36 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/19.php on line 85
+[15-Mar-2015 20:25:05 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Mar-2015 20:26:28 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/module/14.php on line 85

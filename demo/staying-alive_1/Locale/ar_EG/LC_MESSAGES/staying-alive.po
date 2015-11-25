@@ -1,0 +1,1414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: staying alive\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please type your answer."
+msgstr "يرجى كتابة جوابك."
+
+msgid "Please type your answer here..."
+msgstr "يرجى كتابة إجابتك هنا ..."
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار سريع رقم 4"
+
+msgid "Quick Check #5"
+msgstr "اختبار سريع رقم 5"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready, "
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "استعد للتحقق من اجابتك في الاختبار السريع..."
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك في آخر إختبار سريع ؟."
+
+msgid "Putting it all together..."
+msgstr "جمع كل شيء مع بعضه البعض"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الاول هو..."
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Staying Alive"
+msgstr "البقاء على قيد الحياة."
+
+msgid "Welcome to the Staying Alive review"
+msgstr "مرحبا بكم في مراجعة حول البقاء على قيد الحياة."
+
+# 2
+msgid "Thinking about... staying alive"
+msgstr "التفكير بالبقاء على قيد الحياة."
+
+msgid ""
+"Bears hibernate; they sleep through the harsh winter.  Their heartbeats and "
+"breathing slow almost to a stop. They don't eat or drink for months at a "
+"time, and they are even able to recycle urine and protein.  Hibernation is "
+"also when baby bears are born. By the time the new mother bear wakes up from "
+"hibernation, her cubs are around two months old, able to keep up with her, "
+"begin to learn, and explore their surroundings."
+msgstr ""
+"الدببة تنام في سبات عميق، انها تنام خلال الشتاء القارس. دقات قلبها وتنفسها "
+"البطيء يوشكان على التوقف. هي لا تأكل ولا تشرب في هذه الأشهر المتتالية،وهي "
+"قادرة على اعادة تدوير البول والبروتين. السبات يكون عند ولادة أطفال الدببة. "
+"في الوقت الذي تستيقظ الأم فيه من سباتها، يكون عمر أطفالها حوالي الشهرين، لهم "
+"القدرة على مجاراة امهم، والبدء بالتعلم منها، واكتشاف المناطق المحيطة بها."
+
+msgid ""
+"As the bear cubs spend the following months with their mother, they learn "
+"from her how to find food, how to keep safe from danger, and how to protect "
+"themselves when necessary. In essence, they learn how to survive in their "
+"environment. Their survival chances are influenced by the amount of food and "
+"space available, the population of other bears, and interactions with other "
+"species, including humans. How do humans impact the survival of animals in "
+"the wilderness?"
+msgstr ""
+"في حين تمضي أطفال الدببة الأشهر المتتاية مع أمها، فهي تتعلم كيفية العثور على "
+"الطعام، البقاء امنة من الأخطار، وكيفية حماية نفسها عند الضرورة. في جوهرها هي "
+"تتعلم كيفية البقاء على قيد الحياة في بيئتها. وتتأثر فرص بقائها على قيد "
+"الحياة بكمية الطعام والمساحة المتوفرة، وعدد الدببة الأخرى، والتفاعل مع "
+"الأنواع الأخرى، بما في ذلك البشر. كيف يؤثر البشر على بقاء الحيوانات في "
+"البرية؟"
+
+# 3
+msgid "Checking what you know... about staying alive"
+msgstr "التأكد من مدى معرفتك بالبقاء على قيد الحياة."
+
+msgid ""
+"Click in the right column the most likely result of actions or changes in "
+"the left column."
+msgstr ""
+"انقر في العمود الأيمن على النتيجة المحتملة من الإجراءات أو التغيرات في "
+"العمود الأيسر."
+
+msgid "Warming climate"
+msgstr "الاحترار المناخي."
+
+msgid "Migration of many species toward colder regions"
+msgstr "هجرة بعض الأنواع باتجاه المناطق الأبرد."
+
+msgid "Changes in temperature and rainfall patterns"
+msgstr "التغيرات في درجة الحرارة و أنماط هطول الأمطار."
+
+msgid "Lowering of worldwide sea levels"
+msgstr "انخفاض في مستويات سطح البحر في جميع انحاء العالم."
+
+msgid "Preservation of natural areas"
+msgstr "الحفاظ على المناطق الطبيعية."
+
+msgid "Decreasing animal habitat"
+msgstr "الحفاظ على المناطق الطبيعية."
+
+msgid "Increasing animal habitat"
+msgstr "انخفاض مواطن الحيوانات."
+
+msgid "Increasing rates of extinction"
+msgstr "تزايد معدلات الانقراض."
+
+msgid ""
+"As climate changes, so do the homes of many types of plants and animals. "
+"Changes in the climate affect temperature and rainfall patterns around the "
+"world. For example, climate changes can cause worldwide sea levels to "
+"increase. Preserving natural areas maintains the habitat of many types of "
+"plants and animals since extinction is related to habitat loss."
+msgstr ""
+"مع تغير المناخ، كذلك منازل العديد من أنواع النباتات والحيوانات.  التغيرات "
+"المناخية تؤثر في درجة الحرارة و أشكال هطول الأمطار في جميع أنحاء العالم.  "
+"على سبيل المثال، يمكن أن تسبب التغيرات المناخية ازدياد مستويات البحار في "
+"جميع أنحاء العالم.  المحافظة على المناطق الطبيعية يحفظ مواطن العديد من أنواع "
+"النباتات والحيوانات منذ ارتباط الانقراض بفقدان المواطن."
+
+msgid "Observing rainfall patterns..."
+msgstr "مراقبة أشكال الأمطار."
+
+# 4
+msgid "Reviewing core ideas... about staying alive"
+msgstr "مراجعة الافكار الاساسية... حول البقاء على قيد الحياة."
+
+msgid ""
+"Many animals are born with behaviors we call <span class='key'>instinctual</"
+"span>. They perform these behaviors because they have inherited "
+"characteristics that make them unable to do anything else. Most fish never "
+"see their parents. When they hatch, they immediately begin to swim, moving "
+"water across their gills to take in oxygen. Many other animals spend a long "
+"time with their parents. Parents feed and protect them, but also teach them "
+"how to survive in their environments."
+msgstr ""
+"يولد العديد من الحيوانات مع السلوكيات تسمى <span class='key'>الغريزية</span> "
+"أنها تؤدي هذه السلوكيات لأن لديهم الخصائص الموروثة التي تجعلها غير قادرة على "
+"القيام بأي شيء آخر.  معظم الأسماك لم ترى آباءها.  عندما تفقس من بيضها، فهي "
+"تبدأ فورا في السباحة، ناقلة المياه عبر خياشيمها لتأخذ الأكسجين.  العديد من "
+"الحيوانات الأخرى تقضي وقت طويل مع والديها ويطعمونهم ويحمونهم، ولكن أيضا "
+"يعلمونها كيفية البقاء على قيد الحياة في بيئاتها."
+
+msgid ""
+"Some animals even form complex family groups to help them survive. In some "
+"cases, these groups have complicated sets of relationships which determine "
+"which animals eat first and which will be allowed to reproduce. Wolves form "
+"complex family groups that stay together for life. A single male and female "
+"lead the group and are usually the only animals who have cubs. The other "
+"members of the pack all assist in hunting and caring for young. Within the "
+"pack, different wolves seem to have authority over certain members, but not "
+"the others. The wolves take turns eating animals they kill, based on their "
+"position within the pack."
+msgstr ""
+"بعض الحيوانات  تشكل جماعات عائلية معقدة لمساعدتها على البقاء على قيد الحياة. "
+"في بعض الحالات، قد تتعقد هذه الجماعات في مجموعة من  العلاقات والتي تحدد "
+"الحيوانات التي تأكل أولا وبالتالي  سوف يسمح لها بالتكاثر.  الذئاب تشكل "
+"جماعات عائلية معقدة تبقيها معا مدى الحياة.  ذكر واحد وأنثى يقودان المجموعة "
+"التي عادة ما تكون فيها أشبال صغيرة.  الأعضاء الآخرين من المجموعة تساعد في "
+"الصيد ورعاية الصغار.  ضمن المجموعة، بعض  الذئاب يبدو أن لديها سلطة على بعض "
+"الأعضاء، ولكن ليس الآخرين.  الذئاب يتناوبون على أكل الحيوانات التي يقتلونها، "
+"وذلك حسب وضعها في المجموعة."
+
+msgid ""
+"Sometimes, it takes a long time for the offspring to learn from their "
+"parents. Young crows live with their parents for as many as five years, "
+"helping to forage and care for younger siblings, all the while continuing to "
+"learn the complexities of life from their parents. Crow life is so "
+"complicated that each bird must understand what types of food are safe and "
+"which are dangerous, how to handle different kinds of food, and even how it "
+"fits into the crow flock as a whole."
+msgstr ""
+"في بعض الأحيان، يأخذ الأبناء وقتا طويلا للتعلم من والديهم.  الغربان الصغار "
+"يعيشون مع والديهم ما يقارب الخمس سنوات ويساعدون في العلف ورعاية الأشقاء "
+"الأصغر سنا، وطوال هذا الوقت يستمرون بتعلم  تعقيدات الحياة من والديهم.  حياة "
+"الغراب معقدة بحيث يجب على كل فرد فيها أن يفهم ما هي أنواع المواد الغذائية "
+"الآمنة والتي تشكل خطرا، وكيفية التعامل مع أنواع مختلفة من المواد الغذائية، و "
+"مدى تناسبها في السرب ككل."
+
+msgid ""
+"The important point is that instinctual and learned behaviors make survival "
+"and reproduction more likely for the members of the population. In many "
+"kinds of animals, parents and the offspring themselves engage in behaviors "
+"that help the offspring to survive. The big picture is that the survival of "
+"any one individual isn't really very important in nature.  What matters is "
+"the survival and reproduction of the group as a whole. It is important that "
+"the members who do reproduce are well-prepared to survive and reproduce as "
+"well."
+msgstr ""
+"النقطة المهمة هي أن  السلوكيات الغريزية والمكتسبة تجعل البقاء على قيد "
+"الحياة  والتكاثر أكثر احتمالا عند أعضاء المجموعات.  في أنواع كثيرة من "
+"الحيوانات، الآباء والأبناء أنفسهم ينخرطون في السلوكيات التي تساعد  النسل من "
+"أجل البقاء.  الصورة العامة هنا  هي أن بقاء أي فرد ليس في الحقيقة مهم جدا في "
+"الطبيعة.  ما يهم هو البقاء والتكاثر في المجموعة ككل.  من المهم أن أعضاء "
+"المجموعة الذين  يتكاثرون أن يكونوا  معدون إعدادا جيدا من أجل البقاء والتكاثر "
+"أيضا."
+
+msgid "Protecting offsprings..."
+msgstr "حماية الابناء."
+
+# 5
+msgid ""
+"Question A. What is the most important thing to remember about the behavior "
+"of animal parents toward their young?"
+msgstr ""
+"السؤال أ. ما هو الشيء الأهم الذي يجب أن يذكر حول سلوك الآباء تجاه صغارهم؟"
+
+msgid "Animal parents are most concerned with their youngest offspring."
+msgstr "والدي  الحيوانات هم الأكثر قلقا على أصغر أبنائها."
+
+msgid "No individual offspring is as important as the survival of the group."
+msgstr "لا، نسل الفرد هو هام كأهمية البقاء على قيد الحياة للمجموعة."
+
+msgid "Most animal parents are unconcerned with their offspring."
+msgstr "معظم الآباء والأمهات من الحيوانات لا تكترث بأبنائها."
+
+msgid "Baby elk often fall prey to wolf packs."
+msgstr "رضيع الأيل غالبا ما يقع فريسة لمجموعات من الذئاب."
+
+msgid ""
+"Question B. Click on the statement that is <span class='blink'>not</span> "
+"correct."
+msgstr "السؤال ب. انقر على الفقرة <span class='blink'>غير</span> الصحيحة."
+
+msgid "Some animals form complex family groups to help them survive."
+msgstr ""
+"بعض الحيوانات تشكل مجموعات عائلية معقدة لمساعدتها على البقاء على قيد الحياة."
+
+msgid "Animals use their instinctual and learned behaviors to survive."
+msgstr "تستخدم الحيوانات سلوكها الغريزي والمكتسب من أجل البقاء."
+
+msgid ""
+"All animals stay with their parents for a while to learn how to survive."
+msgstr ""
+"جميع الحيوانات تبقى مع والديها لفترة من الوقت لتعلم كيفية البقاء على قيد "
+"الحياة."
+
+msgid ""
+"The group's survival is more important than the individual's ability to "
+"survive."
+msgstr "بقاء الجماعة هو أكثر أهمية من قدرة الفرد على البقاء على قيد الحياة."
+
+msgid "No... Some parents never even see their offspring."
+msgstr "لا... بعض الآباء لم يروا ابنائهم قط."
+
+msgid ""
+"Correct. In nature, survival of the group is much more important than "
+"survival of any individual."
+msgstr ""
+"صحيح.  في الطبيعة، بقاء المجموعة هو أكثر أهمية من بقاء الفرد  على قيد "
+"الحياة ."
+
+msgid ""
+"Actually, many parents are very involved with their offspring. Try again."
+msgstr "في الواقع، الكثير من الآباء مترابطون  مع أبنائهم.  حاول مرة أخرى."
+
+msgid "This may happen, but it's not a key fact."
+msgstr "هذا يمكن أن يحدث، ولكنه ليس حقيقة أساسية."
+
+msgid "Nope! Wolves and elephants live in family groups."
+msgstr "كلا! تعيش الذئاب والفيلة في مجموعات عائلية."
+
+msgid ""
+"Nope! Animals start out with their instincts and learn from parents or the "
+"environment how to survive."
+msgstr ""
+"كلا! الحيوانات تبدأ معتمدة على غرائزها و تتعلم من والديها أو البيئة كيفية "
+"البقاء على قيد الحياة."
+
+msgid ""
+"Correct! Not all animals stay with their parents to learn from them. Most "
+"fish never even see their parents."
+msgstr ""
+"صحيح! لا تبقى كل الحيوانات مع ذويها لتتعلم منها.  معظم الأسماك لا يرون "
+"آبائهم أبدا."
+
+msgid "Nope! A group of animals focuses on creating offspring who can survive."
+msgstr ""
+"كلا! تركز مجموعة من الحيوانات على خلق نسل يستطيع البقاء على قيد الحياة."
+
+# 6
+msgid "More core ideas... about staying alive"
+msgstr "المزيد من الأفكار ... حول البقاء على قيد الحياة."
+
+msgid ""
+"There are limited resources for most animals, so finding something to eat is "
+"an important survival skill. Animals are part of an <span "
+"class='key'>ecosystem</span>; a community of organisms and their physical "
+"environment interacting. Let's look at an example of how animals, "
+"ecosystems, and humans interact. Humans once feared bears and wolves and "
+"thought the world would be a better place without them. They were hunted "
+"until they were very rare. <span class='key'>Predators</span> are animals "
+"that use other animals for food, and <span class='key'>prey</span> are the "
+"animals used for food by predators. Without bears and wolves as predators, "
+"populations of prey species increase very rapidly. In Yellowstone National "
+"Park, the elk became so numerous that they began to starve when their food "
+"supplies ran out in winter. When large animals begin to die rapidly, their "
+"decaying bodies create health risks and cause disruptions."
+msgstr ""
+"هناك موارد محدودة بالنسبة لمعظم الحيوانات،لذلك العثور على شيء للأكل هو مهارة "
+"مهمة للبقاء على قيد الحياة.  الحيوانات هي جزء من <span class='key'>النظام "
+"البيئي </span>؛ مجتمع الكائنات الحية والبيئة المادية التي تتفاعل.  دعونا "
+"ننظر إلى مثال عن كيفية تفاعل الحيوانات والنظم البيئية،والبشر.  يخشى البشر "
+"الدببة والذئاب ويعتقدون أن العالم سيكون مكانا أفضل بدونها.  تم اصطيادها حتى "
+"اصبحت نادرة جدا.  <span class='key'>المفترسات</span> هي الحيوانات التي "
+"تستخدم حيوانات أخرى للأغذية، و <span class='key'>الفريسة</span> هي الحيوانات "
+"المستخدمة للغذاء من قبل الحيوانات المفترسة.  بدون الدببة والذئاب والحيوانات "
+"المفترسة، أعداد الفرائس تكثر بشكل سريع في الغاية.  في حديقة يلوستون الوطنية، "
+"العديد من الأيائل بدأت تجوع عندما نفذت الإمدادات الغذائية في فصل الشتاء.  "
+"عندما تبدأ الحيوانات الكبيرة بالموت بسرعة، فان  جثثها المتحللة  تخلق مخاطر "
+"صحية وتسبب اضطرابات."
+
+msgid ""
+"A few years ago, a new approach to managing predators and prey was adopted. "
+"Many people suggested that natural ecosystems actually need both predators "
+"and prey to remain stable over long periods of time.  In Yellowstone and "
+"elsewhere, bear hunting was stopped and wolves were reintroduced into areas "
+"they once inhabited."
+msgstr ""
+"قبل بضع سنوات، تم اعتماد نهج جديد في إدارة الضواري والفرائس.  واقترح العديد "
+"من الناس أن النظم البيئية الطبيعية تحتاج بالفعل لكل من الحيوانات المفترسة "
+"والفرائس أن تظل مستقرة على مدى فترات طويلة من الزمن.  في يلوستون وأماكن "
+"أخرى، أوقف صيد الدببة وأعيد الذئاب في المناطق التي كانوا يسكنوها."
+
+msgid ""
+"The impacts were dramatic. After only a few years, elk populations returned "
+"to more manageable levels. Bison were generally healthier when the weaker "
+"animals fell prey to wolves. Even trees were impacted. Scientists had "
+"noticed that aspen tree growth was suffering at the same time as elk "
+"populations were growing. Careful observation showed that elk were eating "
+"aspen bark to the point where the trees were having difficulty recovering "
+"each year. As wolf populations reduced elk populations, fewer elk meant less "
+"damage to trees and other types of plants. Wolves also help to improve the "
+"health of the elk and bison herds they prey upon for food. The weakest "
+"animals are also the easiest to catch and kill. By removing these animals "
+"from the herd, wolves eliminate them from competing for food and from "
+"reproducing."
+msgstr ""
+"التأثيرات كانت دراماتيكية.  بعد سنوات قليلة، عادت مجموعات الأيائل  لمستويات "
+"يتم التحكم بها.  الثيران عموما كانت أكثر صحة عندما كانت الحيوانات الضعيفة "
+"تقع فرائس للذئاب.  حتى الأشجار تأثرت.  وقد لاحظ العلماء أن نمو شجرة الحور "
+"كانت تتأثر بشكل سلبي في نفس الوقت الذي كانت تنمو فيه الأيائل.  أظهرت دقة "
+"الملاحظة أن الأيائل يأكلون لحاء الشجرة لدرجة أن  الأشجار تواجه صعوبة في "
+"التعافي كل سنة.  كما خفضت جماعة الذئاب من مجموعة الأيائل، الأيائل القليلة "
+"قللت من  ضررها على الأشجار وأنواع أخرى من النباتات.  الذئاب ساعدت ايضا في "
+"تحسين الحالة الصحية لقطعان الأيائل والثيران وافتراسهم الطعام.  أضعف "
+"الحيوانات تكون أسهل للقبض و القتل.  عن طريق استبعاد هذه الحيوانات من القطيع. "
+"الذئاب ايضا تستبع من المنافسة على الطعام والتكاثر. "
+
+msgid "Finding something to eat..."
+msgstr "العثور على شيء لأكله."
+
+msgid "Bald Eagle"
+msgstr "النسر الأصلع."
+
+msgid "Gray Wolf"
+msgstr "الذئب الرمادي."
+
+msgid "Grizzly Bear"
+msgstr "الدب الأشيب."
+
+msgid "Coyote"
+msgstr "كيوتي"
+
+msgid "Red-Tailed Hawk"
+msgstr "الصقر أحمر الذيل."
+
+msgid "Pronghorn"
+msgstr "ذوات القرون."
+
+# i think it's called
+# osprey..
+msgid "Ospray"
+msgstr "العقاب"
+
+msgid "Big Horn Sheep"
+msgstr "الخراف ذوات القرون الكبيرة"
+
+msgid "Beaver"
+msgstr "قندس"
+
+msgid "Bison"
+msgstr "ثور"
+
+msgid "Elk"
+msgstr "أيل"
+
+msgid "Mayfly"
+msgstr "ذبابة مايو"
+
+msgid "Cutthroat Trout"
+msgstr "سمك السلمون المرقط "
+
+msgid "Deer Mouse"
+msgstr "فأر ليلي"
+
+msgid "Wheatgrass"
+msgstr "سنابل القمح"
+
+msgid "Pond Lily"
+msgstr "زنبق البحيرة"
+
+msgid "Lodgepole Pine"
+msgstr "شجرة الصنوبر الطويلة جدا"
+
+# quaking aspen
+msgid "Quaking Aspren"
+msgstr "الحور المهتز"
+
+msgid "Green Algae"
+msgstr "الطحالب الخضراء"
+
+msgid "Gray Willow"
+msgstr "الصفصاف الرمادي"
+
+msgid ""
+"All plants and animals depend on a complex series of interactions with their "
+"environment and with all other members of their local ecosystem. The deeper "
+"people look into those interactions, the better we can understand them. "
+"These deeper understandings can help us to manage plants and animals as they "
+"interact with human populations around the world."
+msgstr ""
+"جميع النباتات والحيوانات تعتمد على سلسلة معقدة من التفاعلات في بيئتها ومع "
+"جميع الأعضاء الآخرين في النظم الإيكولوجية المحلية.  كلما نظر الناس الى هذه "
+"التفاعلات، كان ذلك أفضل لنستطيع فهمها.  ويمكن لهذه المفاهيم العميقة أن  "
+"تساعدنا على إدارة النباتات والحيوانات لأنها تتفاعل مع البشر في جميع أنحاء "
+"العالم."
+
+# 7
+msgid "Question A. Choose the <span class='blink'>incorrect</span> statement."
+msgstr "السؤال أ. اختر العبارة  <span class='blink'>غير الصحيحة</span>\"."
+
+msgid "Bears and wolves are important parts of the Yellowstone food web."
+msgstr "الدببة والذئاب هي أجزاء مهمة من شبكة ويلستون الغذائية"
+
+msgid "Bears and wolves never interact with one another."
+msgstr "الدببة والذئاب لا تتفاعل مع بعضها أبدا."
+
+msgid "Elk and bison serve as food sources for both bears and wolves."
+msgstr "الأيل والثور هما  بمثابة مصادر غذائية  لكل من الدببة والذئاب."
+
+msgid ""
+"Interactions between natural populations of animals can be very complex."
+msgstr "التفاعلات بين الجماعات الحيوانية الطبيعية  يمكن أن تكون معقدة جدا."
+
+msgid ""
+"Question B. During the period with few wolves, aspen tree growth was "
+"suffering at the same time as elk populations were growing. Based on what "
+"you learned about the complex ecosystem of the Yellowstone National Park, "
+"which statement can be inferred from the effects of reintroducing wolves to "
+"the ecosystem?"
+msgstr ""
+"السؤال ب. خلال الفترة القليلة مع الذئاب، نمو شجرة الحور كان يعاني في نفس "
+"الوقت الذي كانت تنمو فيها مجموعة الأيائل.  بناءً على ما تعلمته حول النظام "
+"البيئي المعقد لحديقة يلوستون الوطنية، أي عبارة يمكن الاستدلال بها من آثار "
+"إعادة تقديم الذئاب للنظام البيئي؟"
+
+msgid ""
+"An animal predator helped to control the amount of damage done to plants the "
+"predator doesn't even eat."
+msgstr ""
+"ساعد الحيوان المفترس في السيطرة على كمية  الأضرار التي لحقت بالنباتات والتي "
+"لا يأكلها الحيوان المفترس."
+
+msgid ""
+"Wolves were eating aspen bark to the point where the trees were having "
+"difficulty recovering each year."
+msgstr ""
+"كانت الذئاب تأكل لحاء شجر الحور بحيث تجد الشجرة صعوبة في التعافي في  كل سنة."
+
+msgid ""
+"Increased elk populations led to less damage to trees and other types of "
+"plants."
+msgstr ""
+"أدت زيادة الأيائل إلى تقليل الأضرار التي لحقت بالأشجار وأنواع أخرى من "
+"النباتات."
+
+msgid "All of the above"
+msgstr "كل ما ذكر أعلاه."
+
+msgid "Sorry. This is true: bears and wolves are both very important."
+msgstr "آسف.  هذا صحيح: كل من الدببة والذئاب مهمة جدا."
+
+msgid "Correct! Bears and wolves compete for many of the same food sources."
+msgstr "صحيح! الدببة والذئاب تتنافس على العديد من موارد الطعام ."
+
+msgid "Nope. Both bears and wolves hunt elk and bison."
+msgstr "كلا. كل من الدببة والذئاب تطارد الأيائل والثيران."
+
+msgid "No... Interactions are often very complex."
+msgstr "لااااا..التفاعلات غالبا ما تكون معقدة جدا."
+
+msgid ""
+"Correct. When wolves returned to the ecosystem, they reduced the population "
+"of elk that was destroying the aspen tree."
+msgstr ""
+"صحيح.  عندما عادت الذئاب إلى النظام البيئي، انخفض عدد الأيائل التي كانت  "
+"تدمر شجرة الحور."
+
+msgid ""
+"No, the elk were actually eating aspen bark to the point where the trees "
+"were having difficulty recovering each year."
+msgstr ""
+"لا، الأيائل تأكل لحاء الشجر  لدرجة أن الأشجار تواجه صعوبة في التعافي ا كل "
+"عام."
+
+msgid ""
+"No, reduced elk populations led to less damage to trees and other types of "
+"plants."
+msgstr ""
+"لا، أدى انخفاض أعداد  الأيائل إلى تقليل الأضرار التي لحقت بالأشجار وأنواع "
+"أخرى من النباتات."
+
+msgid ""
+"No, an animal predator (wolf) helped to control the amount of damage done to "
+"plants (aspen trees) the predator doesn't even eat."
+msgstr ""
+"لا، ساعد الحيوان المفترس  (الذئب) في السيطرة على كمية  الأضرار التي لحقت "
+"بالنباتات (أشجار الحور) والتي لا يأكلها الحيوان المفترس أصلا."
+
+msgid "Tracing changes in Yellowstone..."
+msgstr "تتبع التغييرات في يلوستون ."
+
+# 8
+msgid ""
+"Over time, different environments change as well as all the living things in "
+"their ecosystem. The disruption of a local environment can lead to many "
+"changes, some difficult to predict. These changes can be manmade, as in "
+"Yellowstone; or they may be due to natural factors, or even disasters."
+msgstr ""
+"مع مرور الوقت،تتغير البيئات المختلفة وكذلك جميع الكائنات الحية في النظام "
+"البيئي.  تعطيل البيئة المحلية يمكن أن يؤدي إلى تغييرات كثيرة، وبعض منها يصعب "
+"التنبؤ به.  هذه التغييرات يمكن أن تكون من صنع الإنسان، كما هو الحال في "
+"يلوستون؛ أو قد تكون نتيجة لعوامل طبيعية، أو حتى الكوارث."
+
+msgid ""
+"In the picture below, you can see how human demands for water in addition to "
+"a drought has changed this area over 14 years. You can probably imagine what "
+"happened to the plants and animals that depended on the water in this "
+"ecosystem—they probably disappeared."
+msgstr ""
+"في الصورة أدناه، يمكنك أن ترى كيف يطلب الانسان المياه بالإضافة إلى أن الجفاف "
+"قد غير هذا المنطقة لأكثر من 14 عاما.  ربما يمكنك تخيل ما حدث للنباتات "
+"والحيوانات التي تعتمد على المياه في هذه النظم البيئية- التي ربما اختفت."
+
+msgid "Photo credit: NASA's Earth Observatory, NASA"
+msgstr "صورة: راصد ناسا الأرضي،ناسا"
+
+msgid "March"
+msgstr "اذار"
+
+msgid "April"
+msgstr "نيسان"
+
+msgid "May"
+msgstr "أيار"
+
+msgid ""
+"Mount St. Helens before the May 18, 1980 eruption. View from the northeast "
+"of Spirit Lake."
+msgstr ""
+" جبل سانت هيلين قبل انهيار 18 أيار 1980 . عرض من الشمال الشرقي من بحيرة "
+"الروح."
+
+msgid "Photograph courtesy USGS"
+msgstr "صورة بإذن من هيئة المسح الجيولوجي الأمريكية."
+
+msgid ""
+"Plume rises from Mount St. Helens' dome, Spirit Lake in foreground; view "
+"from the north. May 19, 1982."
+msgstr ""
+"سحابة ترتفع من قبة جبل سانت هيلين ، بحيرة الروح في المقدمة؛ عرض من الشمال.  "
+"19  أيار1982."
+
+msgid "Photograph courtesy Topinka, Lyn, USGS"
+msgstr "الصورة من توبينكا،لين، هيئة المسح الجيولوجية الامريكية."
+
+msgid ""
+"In the pictures above, you can see a big change in a mountain. In the spring "
+"of 1980, one of the Pacific Northwest's most majestic mountains began to "
+"show signs of change. Mt. St. Helens began to rumble, and its many "
+"earthquakes each day attracted scientists, journalists, and the simply "
+"curious. On May 18, at 8:32 AM, the whole world around the mountain changed. "
+"One entire part of the mountain slid away, and the top of Mt. St. Helens "
+"exploded, releasing gases, heat, ash, and energy powerful enough to turn the "
+"surrounding forests, lakes, and meadows into a lifeless expanse, resembling "
+"the surface of the moon. Little survived in what was once a forest teeming "
+"with birds, squirrels, elk, bear, and life of all kinds. Manmade structures "
+"were obliterated and trees blown flat for many miles in all directions. It "
+"was a disaster the likes of which had been seldom seen."
+msgstr ""
+"في الصور المبينة أعلاه، يمكنك أن ترى تغييرا كبيرا في الجبل.  في ربيع عام "
+"1980، واحداً من أكثر الجبال الشاهقة شمال غرب المحيط الهادئ بدأت تظهرعليه "
+"علامات التغيير.  شارع  م .ت .سانت هيلين بدأ بالأهتزاز، والعديد من الزلازل "
+"جذبت كل يوم العلماء والصحفيين وممن ينتابهم الفضول.  في 18 مايو، الساعة 8:32، "
+"العالم كله حول الجبل تغير.  جزء واحد كامل من الجبل انزلق بعيدا، وقمة جبل "
+"سانت هيلين انفجرت ، مطلقة الغازات والحرارة، والرماد، والطاقة قوية بما يكفي "
+"لتحويل الغابات المحيطة، والبحيرات، والمروج إلى منطقة هامدة، تشبه سطح القمر. "
+"نجا القليل حيث كانت هذه الغابة ذات مرة تعج بالطيور والسناجب والأيائل،و "
+"الدببة، والحياة بجميع أنواعها.  تم طمس هياكل من صنع الإنسان والأشجار انفجرت "
+"بعيدا لأميال عديدة في كل الاتجاهات. كان كارثة و نادرا ما ظهر مثلها."
+
+msgid ""
+"But nature moves on. Within a few years, a few plants began to colonize the "
+"blast area. Animals followed, and a new ecosystem began to form. More than "
+"thirty years later, the Mt. St. Helens region is home to a healthy, diverse "
+"ecosystem once again."
+msgstr ""
+"لكن الطبيعة تمضي قدما.  في غضون بضع سنوات، بدأت أعداد قليلة من النباتات "
+"بالتوطن في المنطقة المدمرة.  تتبعها الحيوانات، ويبدأ النظام البيئي الجديد "
+"بالتشكل.  بعد أكثر من ثلاثين عاما،  منطقة سانت هيلين هي موطن النظم البيئية "
+"المتنوعة الصحية مرة أخرى."
+
+msgid ""
+"This time series of data shows the explosion and subsequent recovery of life "
+"on the volcano. Landsat, a satellite program operated by NASA and the U.S. "
+"Geological Survey acquired the images between 1979 and 2011. In them, "
+"scientists have an unprecedented opportunity to witness how life recovers "
+"from devastation. <span>(Video credit: NASA's Goddard Space Flight Center)</"
+"span>"
+msgstr ""
+"هذه السلسلة الزمنية للبيانات تظهر الانفجار واعادة الحياة على البركان.  "
+"لاندسات، وهو برنامج الأقمار الصناعية الذي تديره وكالة ناسا وهيئة المسح "
+"الجيولوجي الامريكية ، حصلت على هذه الصور بين عامي 1979 و 2011.  العلماء "
+"لديهم فرصة غير مسبوقة ليشهدوا كيف تسترد الحياة من الدمار.   <span>(فيديو: "
+"مركز جودارد لرحلات الفضاء التابع لناسا<span>"
+
+msgid ""
+"Disasters occur in nature. Some are caused by humans; others happen for "
+"reasons related to weather, climate, or even changes in the earth. These "
+"changes can lead to drastic changes in the living populations of any given "
+"area. Over time, the local ecosystem will return to a stable balance between "
+"all types of plants and animals. The system may be the same as it was before "
+"the disaster, or it may be different. But stability will return."
+msgstr ""
+"تحدث الكوارث في الطبيعة.  وبعضها من  البشر؛ البعض الآخر يحدث لأسباب تتعلق "
+"بالطقس والمناخ، و حتى التغييرات في الأرض.  وهي يمكن أن تؤدي إلى تغييرات "
+"جذرية على السكان الذين يعيشون في أي منطقة .  مع مرور الوقت، فإن النظم "
+"البيئية المحلية ستعود إلى توازن مستقر بين جميع أنواع النباتات والحيوانات.  "
+"النظام قد يكون هو نفسه كما كان قبل وقوع الكارثة، أو أنه قد يكون مختلفاً.  "
+"ولكن الاستقرار سيعود."
+
+msgid "Looking at old pictures..."
+msgstr "انظر الى الصور القديمة... "
+
+# 9
+msgid ""
+"Question A. Changes in natural systems occur due to which of the following?"
+msgstr "السؤال أ. التغيرات في النظام الطبيعي يحدث نتيجة أي من التالي؟"
+
+msgid "Human impacts"
+msgstr "الآثار البشرية"
+
+msgid "Natural disasters"
+msgstr "الكوارث الطبيعية"
+
+msgid "Both human impacts and natural disasters"
+msgstr "كل من الآثار البشرية والكوارث الطبيعية"
+
+msgid "Neither human impacts nor natural disasters"
+msgstr "ليست الآثار البشرية ولا الكوارث الطبيعية."
+
+msgid ""
+"Question B. What happens to the ecosystem of an area after a disaster or "
+"dramatic change happens?"
+msgstr ""
+"السؤال ب.  ماذا يحدث للنظام البيئي في منطقة ما بعد وقوع كارثة أو حدوث تغيير "
+"جذري ؟"
+
+msgid ""
+"All the plants and animals that were once part of that area become extinct."
+msgstr "جميع النباتات والحيوانات التي كانت ذات يوم جزءا من تلك المنطقة تنقرض."
+
+msgid ""
+"Over time, some plants and animals adapt or new species become part of the "
+"ecosystem."
+msgstr ""
+"مع مرور الوقت بعض النباتات والحيوانات تتكيف، أو أن الأنواع الجديدة تصبح جزءا "
+"من النظام البيئي."
+
+msgid ""
+"The local ecosystem will never return to a stable balance between plants and "
+"animals."
+msgstr ""
+" النظم البيئية المحلية لن تعود أبدا إلى توازن مستقر بين النباتات والحيوانات."
+
+msgid "None of the above"
+msgstr "لا شيء مما ذكر أعلاه"
+
+msgid "Better think some more... Humans do have impacts... Any others?"
+msgstr "الأفضل أن تفكر أكثر...الإنسان لديه آثار...هل هناك آثار آخرى؟"
+
+msgid "True... as far as it goes. But there are other impacts. Keep thinking."
+msgstr "صحيح...مع مرور الوقت.  لكن هناك آثارأخرى.  استمر في التفكير."
+
+msgid "Correct! Both humans and nature impact local environments."
+msgstr "صحيح! كل من البشر والطبيعة بؤثر في البيئات المحلية."
+
+msgid "Nope. These are the only two possibilities."
+msgstr "كلا، ليس هنالك سوى اثنين من الاحتمالات."
+
+msgid ""
+"No, some might be able to adapt to the new environment. Not all of them will "
+"necessarily become extinct."
+msgstr ""
+"كلا، قد يكون البعض قادراً على التكيف في البيئة الجديدة.  ليس من الضروري أن "
+"ينقرضوا كلهم."
+
+msgid ""
+"Correct. Plants and animals will gradually fill the new environment and "
+"create a different ecosystem."
+msgstr ""
+"صحيح.  النباتات والحيوانات سوف تملأ تدريجيا البيئة الجديدة، وتخلق نظام بيئي "
+"مختلفة."
+
+msgid ""
+"No, the local ecosystem will eventually return to a stable balance, but it "
+"will be different from what it was before the disaster."
+msgstr ""
+"لا،النظام البيئي المحلي يعود في نهاية المطاف إلى توازن مستقر، لكنه لن يكون "
+"مختلفا عن ما كان عليه قبل وقوع الكارثة."
+
+msgid ""
+"No, over time some plants and animals adapt or new species become part of "
+"the ecosystem."
+msgstr ""
+"لا، مع مرور الوقت بعض النباتات والحيوانات تتكيف، أو تصبح الأنواع الجديدة "
+"جزءا من النظام البيئي."
+
+msgid "Gathering data..."
+msgstr "جمع البيانات"
+
+# 10
+msgid ""
+"<span class='key'>Biodiversity</span> matters. It is a measure of the "
+"stability of any ecosystem. It preserves millions of years of evolution of "
+"plants, animals, and the unseen biochemistry of cells. Biodiversity is the "
+"sum of all the living things in all ecosystems on the planet. It's "
+"everything alive that has managed to survive through all of the millions of "
+"years of earth's history. A more useful way to think of biodiversity is to "
+"consider every living thing you have ever seen; and every living thing you "
+"haven't seen yet."
+msgstr ""
+" <span class='key'>التنوع البيولوجي </span> مهم.  فهو مقياس لاستقرار أي نظام "
+"بيئي.  إنه يحفظ ملايين السنين من التطور في النباتات والحيوانات، والكيمياء "
+"الحيوية غير المرئية في الخلايا.  التنوع البيولوجي هو مجموع كل الكائنات الحية "
+"في جميع النظم البيئية على كوكب الأرض. انه كل شيء على قيد الحياة تمكن من "
+"البقاء  خلال ملايين السنين من تاريخ الارض.  وهناك طريقة أكثر فائدة للتفكير "
+"في التنوع البيولوجي وهي النظر في كل شيء حي رأيته سابقا؛ وكل شيء حي لم تره "
+"لغاية الآن."
+
+msgid ""
+"Many people might ask, “Just how important can any one species or ecosystem "
+"be to everyone else?” The difficult answer is that we don't know. Until we "
+"fully understand a particular ecosystem, we can't make any judgments about "
+"the importance of its parts. And, since evolution never stops or even slows "
+"down, it's unlikely that we will ever completely understand any system."
+msgstr ""
+"الكثير من الناس قد يسألون، كم هو مهم النوع أوالنظام البيئي الواحد للبقية؟ "
+"الجواب الصعب هو أننا لا نعرف.  ذلك حتى نفهم تماما نظام بيئي معين، لا يمكن أن "
+"نطلق أحكام حول أهمية أجزاء هذا النظام.  وبما أن حدوث التطور لا يتوقف أو حتى "
+"يبطئ، فإنة من غيرالمرجح أن نفهم تماماأي نظام."
+
+msgid ""
+"Biodiversity matters because we are completely connected to nature. Everyone "
+"needs food and water. Everyone is at risk for illness. The solutions for "
+"these needs come from the world around us. The aspirin we use is a product "
+"of willow tree bark. The antibiotics we use were discovered on the surface "
+"of moldy fruit. Many compounds used to cure different human conditions are "
+"products of plants, molds, and bacteria. All of our modern foods have deep "
+"roots in wild plants. The latest efforts in breeding new varieties of food "
+"crops depend a great deal on research into wild varieties of these same "
+"plants."
+msgstr ""
+"التنوع البيئي مهم لاننا مرتبطين كليا بالطبيعة.  الكل يحتاج الى الطعام "
+"والماء. الكل تحت خطر المرض .  الحلول لهذه الاحتياجات تأتي من العالم حولنا.  "
+"الأسبيرين الذي نستخدمه هو مكون من لحاء شجرة الصفصاف.  المضادات الحيوية التي "
+"نستخدمها اكتشفت على سطح فاكهة متعفنة. الكثير من المركبات التي تستخدم لشفاء "
+"حالات الانسان المختلفة هي منتجات من النباتات،العفن والبكتيريا. جميع الأغذية "
+"الحديثة لها جذور عميقة في النباتات البرية.  أحدث الجهود في تربية أصناف جديدة "
+"من المحاصيل الغذائية تعتمد إلى حد كبير على البحوث في مجال الأصناف البرية "
+"لهذه النباتات نفسها."
+
+msgid ""
+"It's difficult to know just how important any one type of plant or animal is "
+"to its ecosystem. All species interact with many others, sometimes in ways "
+"that are not obvious. Every time a plant or animal goes extinct, the world "
+"loses not only that species, but its entire body chemistry and its "
+"evolutionary history. As humans, the important lesson is to remember that we "
+"don't know what we don't know. Decisions must be made carefully, considering "
+"all available information, and must be reconsidered when more information "
+"becomes available."
+msgstr ""
+"من الصعب أن نعرف مدى أهمية أي نوع واحد من النبات أو الحيوان بالنسبة لنظامها "
+"البيئي.  جميع الأنواع تتفاعل مع البقية، وأحيانا بطرق ليست واضحة.  في كل مرة "
+"ينقرض فيها النبات أو الحيوان، لا يخسر العالم الأنواع فحسب، بل الكيمياء في "
+"الجسم كله وتاريخها التطوري.  كبشر، والدرس المهم هو أن نتذكر أننا لا نعرف ما "
+"لا نعرف.  يجب اتخاذ القرارات بعناية، وأخذ جميع المعلومات المتاحة بالإعتبار، "
+"ويجب اعادة النظر فيها عند توافر المزيد من المعلومات."
+
+msgid "White willow bark herb used in Chinese herbal medicine"
+msgstr " عشبة لحاء الصفصاف الأبيض  تستخدم في الادوية العشبية الصينية"
+
+msgid "Green Penicillium mold on an orange tangelo"
+msgstr "عفن البنسيليوم الأخضر على برتقالة التانقيلو."
+
+msgid "Measuring stability of ecosystem..."
+msgstr "قياس استقرار النظام البيئي ."
+
+# 11
+msgid "Question A. Biodiversity can best be described as..."
+msgstr "السؤال أ. أفضل وصف للتنوع البيولوجي هو..."
+
+msgid "All plants living in a given area"
+msgstr "جميع النباتات الحية في منطقة معينة."
+
+msgid "All animals living in a given area"
+msgstr "كل الحيوانات التي تعيش في منطقة معينة"
+
+msgid "The extinct members of an ecosystem"
+msgstr "المجموعة المنقرضة في النظام البيئي."
+
+msgid "All plants and animals in an ecosystem"
+msgstr "كل النباتات والحيوانات في النظام البيئي."
+
+msgid ""
+"Question B. Click on the statement that is <span class='blink'>not</span> "
+"correct about biodiversity."
+msgstr ""
+"السؤال ب. اضغط على الفقرة <span class='blink'>غير</span> الصحيحة حول التنوع "
+"البيولوجي."
+
+msgid ""
+"Humans are generally good at judging the importance of each species in an "
+"ecosystem."
+msgstr "الانسان بشكل عام جيد في الحكم على أهمية كل نوع في النظام البيئي."
+
+msgid "Biodiversity matters because we are completely connected to nature."
+msgstr "التنوع البيولوجي مهم لأننا متصلين كليا بالطبيعة."
+
+msgid ""
+"The completeness of an ecosystem's biodiversity is often used as a measure "
+"of its health."
+msgstr ""
+"عادة ما يستخدم اكتمال التنوع البيولوجي للنظم البيئية كمقياس لمدة صحتها."
+
+msgid ""
+"Biodiversity is the sum of all the living things in all ecosystems on the "
+"planet."
+msgstr ""
+"التنوع البيولوجي هو مجموع  كل الأشياء الحية في جميع النظم البيئية على كوكب "
+"الأرض."
+
+msgid "Not quite, although plants are part of the picture."
+msgstr "ليس تماما،على الرغم من أن النباتات تشكل جزءاً من الصورة."
+
+msgid "No... although animals are part of the picture."
+msgstr "لا... على الرغم من أن الحيوانات تشكل جزءاً من الصورة."
+
+msgid "Sorry. Extinct plants and animals are gone. They don't count anymore."
+msgstr "آسف.  النباتات والحيوانات المنقرضة هي هالكة.  لا تُحْسَب بعد الآن."
+
+msgid "Correct! Biodiversity includes all living things."
+msgstr "صحيح،التنوع البيولوجي يحتوي جميع الكائنات الحية."
+
+# truely
+msgid ""
+"Good Choice! Ecosystems are constantly changing and we won't ever truly "
+"grasp all that goes on in a particular ecosystem. Decisions and judgments "
+"must be made considering all available information."
+msgstr ""
+"اختيار جيد! النظم البيئية تتغير باستمرار ونحن لن نفهم حقا كل ما يدور في نظام "
+"بيئي معين.  القرارات والأحكام يجب أن تتم  آخذين بعين الاعتبار جميع المعلومات "
+"المتاحة."
+
+msgid ""
+"No, this statement is correct. We depend on a variety of living things as "
+"resources."
+msgstr ""
+"لا، هذا البيان صحيح.  نحن نعتمد على مجموعة متنوعة من الكائنات الحية كموارد."
+
+msgid ""
+"No, this statement is correct. The more biodiversity an ecosystem has, the "
+"healthier scientists believe it is."
+msgstr ""
+"لا، هذا البيان صحيح.  كلما كان هناك تنوع بيولوجي في النظام البيئي ، كلما صدق "
+"العلماء صحة ذلك أكثر."
+
+msgid ""
+"No, this statement is correct. Biodiversity is all plants and animals in an "
+"ecosystem."
+msgstr ""
+"لا، هذه الفقرة صحيحة.  التنوع البيولوجي هو كل النباتات والحيوانات في نظام "
+"بيئي."
+
+# 12
+msgid "Using what you know... about staying alive... to solve a problem"
+msgstr "استخدم ما تعرفه ... عن البقاء على قيد  الحياة ... لحل مشكلة ما."
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"Officials want to expand biodiversity conservation efforts on a certain "
+"island. The main goals are to protect the biodiversity of the ecosystem, and "
+"to protect the native primates that live in the forests on the island. The "
+"endangered primates are unique and have become an eco-tourist attraction. "
+"They are sensitive to habitat changes, and at a high risk of "
+"extinction. Only one of four forest areas will receive full support for "
+"conservation."
+msgstr ""
+"المسؤولون يرغبون في توسيع الجهود في المحافظة على التنوع البيولوجي في جزيرة "
+"معينة.  الأهداف الرئيسية اليوم هي لحماية التنوع البيولوجي في النظم البيئية، "
+"وحماية القردة الأصلية في غابات الجزيرة.  القرود المهددة بالانقراض  فريدة من "
+"نوعها  وأصبحت عامل جذب سياحي للبيئة.  فهي حساسة للتغيرات الحياتية، و على وشك "
+"الانقراض.   واحدة فقط من مناطق الغابات الأربعة سوف تأخذ دعما كاملا كمحمية ."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"You are a scientist on the conservation team that will decide which area "
+"should get full conservation support. How would you choose one forest to "
+"protect the biodiversity of the island? List three factors you would "
+"consider to compare the forests. For example, what economic advantage each "
+"island has could be a factor. What else would you consider to make a "
+"decision that would best meet the biodiversity conservation goals?"
+msgstr ""
+"أنت عالم في فريق المحمية والذي سيقرر أي منطقة يجب أن تأخذ الدعم الكامل "
+"للمحمية.  كيف ستختار كل غابة لتحمي التنوع البيولوجي في تلك الجزيرة؟ ضع ثلاثة "
+"عوامل يمكن أخذها بعين الاعتبار للمقارنة بين الغابات. مثال على ذلك، أي ميزة "
+"اقتصادية لكل جزيرة قد تكون عاملا.  ماذا يمكن ان تفعله أيضا لاتخاذ القرار "
+"الأفضل الهادف للحفاظ على التنوع البيولوجي؟"
+
+msgid "Protecting biodiversity..."
+msgstr "حماية التنوع البيولوجي."
+
+# 13
+msgid "Summarizing core ideas... about staying alive"
+msgstr "تلخيص الأفكار الأساسية ... حول البقاء على قيد الحياة."
+
+msgid ""
+"In many kinds of animals, parents and the offspring themselves engage in "
+"behaviors that help the offspring to survive. Many animals are born with "
+"<span class='key'>instinctual behaviors</span>. Other animals rely only on "
+"what they learn to survive. The survival and reproduction of the group as a "
+"whole is important. <span class='key'>Ecosystems</span> are dynamic in "
+"nature and their characteristics can vary over time. Disruptions to any "
+"physical or biological component of an ecosystem can lead to shifts in all "
+"its populations. The more we understand the ecosystems, the more it will "
+"help us to manage plants and animals as they interact with human populations "
+"around the world. <span class='key'>Biodiversity</span> describes the "
+"variety of species found in Earth's terrestrial and oceanic ecosystems. The "
+"completeness or integrity of an ecosystem's biodiversity is often used as a "
+"measure of its health. All organisms must be able to obtain and use "
+"resources, grow, reproduce, and maintain stable internal conditions while "
+"living in a constantly changing external environment."
+msgstr ""
+"في العديد  من أنواع الحيوانات، ينخرط الآباء والأبناء في السلوكيات التي تساعد "
+"الأبناء للبقاء على قيد الحياة.  يولد العديد من الحيوانات ولديها <span "
+"class='key'>سلوكيات غريزية</span>.  الحيوانات الأخرى تعتمد على ما تعلمته "
+"للبقاء على قيد الحياة. البقاء والتكاثر في المجموعة ككل مهم جدا.  <span "
+"class='key'>النظم البيئية</span> هي ديناميكية في طبيعتها.  يمكن أن تختلف "
+"خصائصها مع مرور الوقت.  ان تعطل أي عنصر مادي أو بيولوجي في النظام البيئي "
+"يمكن أن يؤدي الى تحولات مدمرة لكل منها.  كلما فهمنا النظم البيئية أكثر ، "
+"كلما ساعدتنا أكثر على ادارة النباتات والحيوانات لأنها تتفاعل مع البشر في "
+"جميع أنحاء العالم.  يشرح <span class='key'>التنوع البيولوجي</span> التنوع في "
+"أنواع موجودة في النظم البيئية الأرضية والمحيطة للأرض.  اكتمال واتمام التنوع "
+"البيولوجي للنظم البيئية يستخدمان كقياس لصحته.  كل الكائنات يجب أن تكون قادرة "
+"على الحصول واستخدام الموارد،النمو،التكاثر،والحصول على أوضاع داخلية مستقرة "
+"بينما نعيش في بيئة خارجية متغيرة باستمرار."
+
+msgid "Reviewing key vocabulary related to... staying alive"
+msgstr "استعراض المفردات الأساسية ذات الصلة ... بالبقاء على قيد الحياة."
+
+msgid "Ecosystem"
+msgstr "النظام البيئي"
+
+msgid ""
+"An ecosystem is a community of organisms living in close proximity, and "
+"their interactions in their shared physical environment. An example of an "
+"ecosystem is a tropical rainforest, which has many different kinds of "
+"organisms living and interacting together."
+msgstr ""
+"النظام البيئي هو مجتمع من الكائنات الحية المتجاورة مع بعضها وفي تفاعلاتها "
+"البيئية المادية المشتركة.  مثال على النظام البيئي هو الغابات الاستوائية "
+"الماطرة، التي لديها عديد من الأنواع المختلفة من الكائنات الحية وتتفاعل مع "
+"بعضها البعض."
+
+msgid "Instinctual Behavior"
+msgstr "سلوك غريزي"
+
+msgid ""
+"An instinctual behavior is one that a creature is born with, and thus is "
+"unlearned, that helps it to survive. The communication of wolves through "
+"howling is an example of an instinctual behavior."
+msgstr ""
+"السلوك الفطري هو الذي يخلق مع المولود ، وبالنتيجة فهو سلوك غير متعلم، والذي "
+"يساعد على البقاء على قيد الحياة.  التواصل من خلال عواء الذئاب هو مثال على "
+"السلوك الفطري."
+
+msgid "Predator"
+msgstr "المفترس"
+
+msgid ""
+"Organisms that hunt and eat other organisms are called predators. For "
+"example, tigers are predators to antelope."
+msgstr ""
+"الكائنات التي تصطاد وتأكل الكائنات الأخرى تسمى مفترسة.  مثال على ذلك النمور "
+"تفترس الظباء."
+
+msgid "Prey"
+msgstr "فريسة"
+
+msgid ""
+"Organisms that are hunted and eaten by other organisms are called prey. For "
+"example, gazelles are prey to cheetahs."
+msgstr ""
+"الكائنات التي يتم اصطيادها وتؤكل عن طريق كائنات أخرى تسمى فريسة.  مثال على "
+"ذلك، الغزلان هي فريسة للفهود."
+
+msgid "Biodiversity"
+msgstr "التنوع البيولوجي."
+
+msgid ""
+"An ecosystem is said to have great biodiversity when many different types of "
+"creatures live together in it. One ecosystem with much biodiversity is the "
+"coral reef."
+msgstr ""
+"يقال أن النظام البيئي لديه تنوع بيولوجي عندما تعيش  أنواع مختلفة من "
+"الحيوانات معا فيه.  النظام البيئي الذي لديه تنوع بيولوجي هو الشعب المرجانية."
+
+# 15
+msgid "Checking what you now know... about staying alive"
+msgstr "تأكد مما تعرف...حول البقاء على قيد الحياة."
+
+# 16
+msgid ""
+"Which of the following statements is probably true about animals that spend "
+"little time with their parents?"
+msgstr ""
+"أي من العبارات التالية على الأرجح صحيحة عن الحيوانات التي تمضي القليل من "
+"الوقت مع والديها؟"
+
+msgid "These animals learn complex behaviors from their parents."
+msgstr "هذه الحيوانات تتعلم السلوكيات المعقدة من والديها."
+
+msgid "These animals have many instinctual behaviors."
+msgstr "هذه الحيوانات لديها العديد من السلوكيات الغريزية."
+
+msgid "These animals live in extended family units."
+msgstr "هذه الحيوانات تعيش في وحدات أسرية موسعة"
+
+msgid "These animals learn to find food from their parents."
+msgstr "هذه الحيوانات تتعلم العثور على الطعام من والديها."
+
+msgid "That's it! If there's no time to learn, behavior must be instinctual."
+msgstr "هذا صحيح! اذا لم يكن هناك وقت للتعلم، يجب أن يكون السلوك غريزي."
+
+msgid "Not likely. Complex learning takes a lot of time."
+msgstr "ليس مرجحاً.  التعليم المعقد يأخذ الكثير من الوقت."
+
+msgid "Probably not. An extended family means lots of contact."
+msgstr "ليس محتملاً.  الأسر الموسعة تعني الكثير من التواصل."
+
+msgid "Nope. Learning takes time."
+msgstr "لا،التعلم يأخذ وقتا."
+
+# 17
+msgid ""
+"Based on what happened at Yellowstone Park, we know that predators like "
+"wolves should best be viewed as..."
+msgstr ""
+"بناءً على ما حدث في حديقة يلوستون، نحن نعلم أن الحيوانات المفترسة مثل الذئاب "
+"ينبغي أن ننظر إليها باعتبارها الأفضل في  ..."
+
+msgid "Significant parts of natural systems"
+msgstr "أجزاء مهمة من الأنظمة الطبيعية"
+
+msgid "Angry killers without mercy"
+msgstr "قتلة غاضبين دون رحمة."
+
+msgid "Playful, friendly animals"
+msgstr "حيوانات ودية ومرحة."
+
+msgid "Wild animals best taken out of nature's cycle"
+msgstr "من الأفضل أن تؤخذ الحيوانات البرية خارج  دورة الطبيعة"
+
+msgid "Hunting for food..."
+msgstr "الصيد للطعام..."
+
+msgid "Correct. Wolves are top predators in many ecosystems."
+msgstr ""
+"صحيح. الذئاب والحيوانات المفترسة هي الأفضل بين  الكثير في النظم البيئية."
+
+msgid "Hardly. Wolves have tender relationships with other wolves."
+msgstr "بالكاد.  الذئاب لديها علاقات ودية مع الذئاب الأخرى."
+
+msgid "Um... no. Wolves, even puppies, are very dangerous."
+msgstr "ممم.... لااااا.  الذئاب وحتى جراءها خطيرة جدا."
+
+msgid ""
+"Sorry. It's important to have wild wolves and taking them out of the "
+"ecosystem has negative effects on plants and animals."
+msgstr ""
+"آسف.  من المهم وجود الذئاب البرية، ولاخراجها من النظام البيئي آثارٌ سلبية على "
+"النباتات والحيوانات."
+
+# 18
+msgid ""
+"Which of the following is the <span class='blink'>best</span> definition of "
+"biodiversity?"
+msgstr "أي من التالي هو <span class='key'>أفضل</span> تعريف للتنوع البيولوجي؟"
+
+msgid "The population of any particular species in an area."
+msgstr "سكان وشعوب أي نوع معين في هذه منطقة."
+
+msgid "All of the plants and animals in all ecosystems."
+msgstr "جميع النباتات والحيوانات في جميع النظام البيئي."
+
+msgid "The population of all plants in an area."
+msgstr "مجموعة كل النباتات في منطقة معينة."
+
+msgid "The population of all animals in an area."
+msgstr "مجموعة كل الحيوانات في منطقة معينة."
+
+msgid "Reporting about biodiversity..."
+msgstr "تقرير عن التنوع البيولوجي..."
+
+msgid "Not this one... Think bigger."
+msgstr "ليس هذه المرة... وسع تفكيرك."
+
+msgid "Correct! Biodiversity is everything alive!"
+msgstr "صحيح، التنوع البيولوجي هو كل شيء حي!"
+
+msgid "Sorry... Not just plants..."
+msgstr "آسف... ليس فقط نباتات"
+
+msgid "Ummm...  No... Not just animals."
+msgstr "ممممم...لا... ليس فقط حيوانات"
+
+# 19
+msgid ""
+"When making environmental decisions, it's important to consider scientific "
+"observations because..."
+msgstr ""
+"عند اتخاذ القرارات البيئية، من المهم أن تأخذ بالإعتبار الملاحظات العلمية "
+"لأن ..."
+
+msgid ""
+"The best decisions take both nature and the needs of people into account."
+msgstr "أفضل القرارات تأخذ  كل من الطبيعة واحتياجات الناس بعين الاعتبار."
+
+msgid "Stories from other people are the best way to learn how nature works."
+msgstr "القصص من  الأشخاص هي أفضل طريقة لتعلم كيفية عمل الطبيعة."
+
+msgid "Science seldom offers much to help understand natural processes."
+msgstr " نادراً ما يقدم العلم المساعدة في فهم العمليات الطبيعية."
+
+msgid "The best solutions are always the least expensive solutions."
+msgstr "أفضل الحلول هي دائماً أقل الحلول تكلفة."
+
+msgid "Making scientific observation..."
+msgstr "صنع الملاحظة العلمية ..."
+
+msgid "Yes. Environmental decisions must consider both people and nature."
+msgstr "نعم.  يجب النظر في كل القرارات البيئية لكل من الناس والطبيعة."
+
+msgid "Sorry... Stories don't always lead to better understandings."
+msgstr "آسف ... القصص لا تؤدي إلى فهم أفضل دائماً."
+
+msgid "Um... no... Science is the best way to understand nature."
+msgstr "مممم ... لا ... العلم هو أفضل طريقة لفهم الطبيعة."
+
+msgid "Not often. Cheap solutions often lead to expensive consequences."
+msgstr ""
+"ليس في أغلب الأحيان.  الحلول الرخيصة غالبا ما تؤدي إلى نتائج باهظة الثمن."
+
+# 20
+msgid ""
+"Which of the following is not an important reason to preserve biodiversity?"
+msgstr "أي من التالي ليس سببا هاما للحفاظ على التنوع البيولوجي؟"
+
+msgid "Most human food sources have wild ancestors and relatives."
+msgstr "معظم المصادر الغذائية للإنسان أسلافها وأقاربها من البرية."
+
+msgid "Many useful medications were first discovered in the wild."
+msgstr "تم اكتشاف العديد من الأدوية المفيدة لأول مرة في البرية."
+
+msgid "Humans have limited understandings of most ecosystems worldwide."
+msgstr "لدى البشر فهم محدود لمعظم النظم البيئية في جميع أنحاء العالم."
+
+msgid "Extinction has little impact on surviving species."
+msgstr "الانقراض له تأثير صغير على الأنواع  الباقية على قيد الحياة ."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدوير المربع وحدد إجابتك."
+
+msgid "Preserving biodiversity..."
+msgstr "الحفاظ على التنوع البيولوجي ..."
+
+msgid ""
+"That's the one. Extinction has a big impact, even if we don't see it right "
+"away."
+msgstr ""
+"هذه هي الاجابة.  الانقراض له تأثير كبير، حتى لو كنا لا نرى ذلك على الفور."
+
+msgid "Nope. All human food sources have origins in nature."
+msgstr "كلا.  جميع المصادر الغذائية للإنسان لها أصول في الطبيعة."
+
+msgid "Sorry. Many medications were first found in plants, fungi, or microbes."
+msgstr ""
+"آسف.  العديد من الأدوية عثر عليها لأول مرة في النباتات أو الفطريات أو "
+"الميكروبات."
+
+msgid "While this is true, it's actually a reason to preserve biodiversity."
+msgstr "في حين أن هذا صحيح، انها فعلا سبب للحفاظ على التنوع البيولوجي."
+
+# 21
+msgid ""
+"Keystone species are plants or animals who interact most with other species, "
+"often determining how large the other species population can grow. A beaver "
+"pond is a simple ecosystem, centered around a small body of water backed up "
+"behind a temporary dam made by beavers. Click on the button to show the "
+"plants and animals in this ecosystem."
+msgstr ""
+"الأنواع التي تؤثر في البيئة هي النباتات والحيوانات والتي تتفاعل مع أنواع "
+"أخرى، وهي أحيانا تحدد كبر هذه الأنواع.  بركة القندس هي نظام بيئي بسيط، "
+"تتمحور حول مجموعة مياه  مدعومة من وراء السد المؤقت الذي بنته القنادس.  انقر "
+"على الزر لإظهار النباتات والحيوانات في هذا النظام البيئي."
+
+msgid "Wolf"
+msgstr "ذئب"
+
+msgid "Water lilies"
+msgstr "زنبق الماء"
+
+msgid "Beaver pond"
+msgstr "بركة القندس"
+
+msgid "Wood duck"
+msgstr "بطة الخشب "
+
+msgid "Trout"
+msgstr "سمك السلمون المرقط"
+
+msgid "Bullfrog"
+msgstr "ضفدعة كبيرة"
+
+msgid "Show diagram"
+msgstr "شاهد الرسم البياني"
+
+msgid "Lives in"
+msgstr "يعيش في"
+
+msgid "Builds"
+msgstr "يبني"
+
+msgid "Eats"
+msgstr "يأكل"
+
+msgid "Trout and wood ducks both live in beaver ponds and eat mayflies."
+msgstr ""
+"سمك السلمون المرقط والبط الأمريكي كلاهما يعيشان في برك القندس ويأكلان ذباب "
+"الماي."
+
+msgid ""
+"Water lilies live in beaver ponds where they eat mayflies and bullfrogs."
+msgstr "زنابق الماء تعيش في برك القندس حيث تأكل ذبابة الماي والضفادع الكبيرة."
+
+msgid "Wolves eat bullfrogs who build ponds where trout eat mayflies."
+msgstr ""
+"الذئاب تأكل الضفادع الذين يبنون البرك حيث يأكل سمك السلمون المرقط  ذبابة "
+"الماي."
+
+msgid ""
+"Bullfrogs live in beaver ponds where they eat water lilies and wood ducks."
+msgstr "الضفادع تعيش في برك القنادس حيث تأكل زنابق الماء و بط الخشب."
+
+msgid "Yes, that is correct."
+msgstr "نعم، هذا صحيح."
+
+msgid "Sorry, that is incorrect."
+msgstr "آسف، ذلك غير صحيح."
+
+msgid "Nope, that is incorrect."
+msgstr "كلا، هذا غير صحيح."
+
+msgid "Not really. Try again."
+msgstr "ليس تماماً. حاول مجددا"
+
+# 22
+msgid "You've completed the Staying Alive review."
+msgstr "لقد اتممت مراجعة البقاء على قيد الحياة."
+
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكن التحقق مما قدمته في الاختبار السريع وفي الاسئلة القصيرة لهذه المراجعة "
+"من خلال النقر على الزر أدناه."
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"أدر او اقلب الصندوق المبين على اليسار اما لاعلى او لاسفل لتحديد اجابتك."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "أنقر على مفتاح \"التالي\" عندما تكون مستعداً."
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك ... "
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لآخر سؤال في الامتحان؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"

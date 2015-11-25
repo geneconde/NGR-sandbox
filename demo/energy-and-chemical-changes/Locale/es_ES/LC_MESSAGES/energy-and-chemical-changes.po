@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja debajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations"
+msgstr "¡Felicidades, "
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "¿Estás listo/a"
+
+msgid "Your first quiz question is..."
+msgstr "Su primera pregunta concurso es ..."
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Energy and Chemical Changes"
+msgstr "Energía y Cambios Químicos"
+
+msgid "Welcome to the Energy and Chemical Changes module"
+msgstr "Bienvenido/a al módulo de Energía y Cambios Químicos"
+
+# 2
+msgid "Thinking about... energy and chemical changes"
+msgstr "Pensando acerca de... energía y cambios químicos"
+
+msgid "Have you ever heard people say: \"Wow, she really has a lot of energy. I wonder where she gets it from?\" Usually people are talking about their friends or relatives that are always \"on-the-go.\" They go to work or go to school, they do athletics or work out, join clubs, they do volunteer work and they never seem to get tired. Where DO they get all that energy? Think about all the things YOU do everyday. Where does your energy come from?"
+msgstr "¿Alguna vez has escuchado a las personas decir \"Vaya, ella tiene mucha energía. ¿Me pregunto de dónde la obtiene?\"? Normalmente la gente se refiere a sus amigos o familiares que siempre están \"en marcha.\" Van a trabajar o a la escuela, hacen deportes o ejercicio, se unen a clubes, trabajan como voluntarios y nunca parecen cansarse. ¿De DÓNDE obtienen toda esa energía? Piensa acerca de las cosas que TÚ haces todos los días. ¿De dónde viene tu energía?"
+
+msgid "And then think about all of the other things that you see happening and changing all around you – like cars moving, the lights going on in your house, flowers blooming in the garden, rain falling from the sky. What makes all of those things happen?"
+msgstr "Y luego piensa acerca de todas las otras cosas que ves que suceden y cambian a tu alrededor - como autos que se mueven, las luces que se encienden en tu casa, flores que brotan en los jardines, la lluvia que cae del cielo. ¿Qué hace que sucedan todas esas cosas?"
+
+# 3
+msgid "Checking what you know about... energy and chemical changes"
+msgstr "Revisando lo que sabes acerca de... energía y cambios químicos"
+
+msgid "What do you think is the original source for all that energy in the food you eat?"
+msgstr "¿Cuál crees que es la fuente original de toda la energía en los alimentos que consumes?"
+
+msgid "Sun"
+msgstr "Sol"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Cows"
+msgstr "Vacas"
+
+msgid "Plants"
+msgstr "Plantas"
+
+msgid "Power plants"
+msgstr "Plantas de energía"
+
+msgid ""
+"All of the energy that is stored in the chemical compounds that make up the food we eat ultimately comes from the Sun. Plants have the ability to take the sun's energy and store as chemicals that are food for the plant – and for us. Cows and people eat the plants to get our energy to live – and sometimes we eat the cows or drink their milk. We all need water to help the biological processes of living take place, but water doesn't actually provide us with energy. And power plants provide the energy to package and refrigerate the food.  But the ultimate source of the "
+"energy that's in the food we eat originally comes from the Sun."
+msgstr ""
+"Toda la energía que se almacena en los compuestos químicos que forman los alimentos que consumimos finalmente viene del sol. Las plantas tienen la capacidad de tomar la energía del sol y almacenarla como químicos que son alimento para la planta - y para nosotros. Las vacas y las personas comemos las plantas para obtener nuestra energía para vivir - y algunas veces comemos las vacas y bebemos su leche. Todos necesitamos agua para ayudar a los procesos biológicos que tienen lugar para que vivamos, pero el agua en realidad no nos provee de energía. Y las plantas de energía "
+"proveen la energía para empacar y refrigerar la comida. Pero la fuente inicial de la energía que está en los alimentos que comemos es originalmente el sol."
+
+msgid "Getting energy from the sun..."
+msgstr "Obteniendo energía del sol..."
+
+# 4
+msgid "Reviewing big ideas about... energy and chemical changes"
+msgstr "Revisando ideas importantes acerca de... energía y cambios químicos"
+
+msgid ""
+"Look all around you. Energy is everywhere. You might not be able to see it directly because it's not a thing. But you can see what it does. Wherever you look, something is happening: your friends are moving around, playing ball, riding a bike, or just talking; cars are driving by; a pencil just rolled across your desk and fell on the floor. Even in things you can't see, something is happening: the air in your room is moving to make sounds; the invisible molecules of oxygen and nitrogen that make air are even bouncing around to create the temperature you feel in the air; "
+"and you – you are breathing and your heart is beating and even if you can't see it, the cells that make up your body are growing and making more cells to make you bigger and stronger every day. And all of this activity – everything that's happening – all the activity in the universe happens because of energy."
+msgstr ""
+"Mira a tu alrededor. La energía está en todas partes. Quizá no seas capaz de verla directamente porque no es un objeto. Pero puedes ver lo que hace. A donde sea que mires, algo está sucediendo: tus amigos se mueven, juegan con un balón, montan en bicicleta o simplemente hablan; los autos pasan; un lápiz acaba de rodar por encima de un escritorio y cayó al suelo. Incluso en cosas que no puedes ver, algo está pasando: el aire en tu habitación se está moviendo para crear sonidos; las moléculas invisibles de oxígeno y nitrógeno que forman el aire incluso están rebotando "
+"entre sí para crear la temperatura que sientes en el aire; y tú - tú estás respirando y tu corazón está latiendo e incluso si no lo puedes ver, las células que forman tu cuerpo están creciendo y formando más células para hacerte más grande y fuerte cada día. Y toda esta actividad - todo lo que está sucediendo - toda la actividad en el universo sucede debido a la energía."
+
+msgid "Scientists define <span class='key'>energy</span> as \"the ability to do <span class='key'>work</span>\". That's one of the most important ideas in all of science! And when they say \"work\", they don't just mean it like doing your school-\"work\" or your home-\"work\", or when someone goes to \"work\" to make money and earn a living. What scientists mean by \"work\" is anything that causes matter to change or move. So everything that happens to matter in the universe, any movement or change to matter, is considered work and requires energy."
+msgstr ""
+"Los científicos definen <span class='key'>la energía</span> como \"la capacidad de realizar un <span class='key'>trabajo</span>\". ¡Ésa es una de las ideas más importantes en toda la ciencia! Y cuando dicen \"trabajo\", no sólo se refieren al \"trabajo\" de la escuela, o el \"trabajo\" en tu hogar, o cuando alguien va a \"trabajar\" para ganar dinero para vivir. A lo que se refieren los científicos cuando dicen \"trabajo\" es a cualquier cosa que cause que la materia se mueva o cambie. Así que todo lo que le sucede a la materia en el universo, cualquier movimiento o "
+"cambio en la materia, se considera un trabajo y requiere energía."
+
+msgid "Looking around..."
+msgstr "Mirando a tu alrededor..."
+
+# 5
+msgid "Question A. The <span class='blink'>best</span> scientific definition for energy is:"
+msgstr "Pregunta A. La <span class='blink'>mejor</span> definición científica de energía es:"
+
+msgid "What it takes to get you moving when you're tired."
+msgstr "Lo que necesitas para moverte cuando estás cansado/a."
+
+msgid "What it takes to make a car go down the road."
+msgstr "Lo que se necesita para hacer que un auto se mueva por un camino."
+
+msgid "What it takes to run a mile really fast."
+msgstr "Lo que se necesita para correr una milla muy rápidamente."
+
+msgid "The work it takes to make any kind of change to anything."
+msgstr "El trabajo que toma realizar cualquier tipo de cambio a cualquier cosa."
+
+msgid "Question B. What is the <span class='blink'>BEST</span> example of how a <span class='blink'>scientist</span> would describe work?"
+msgstr "Pregunta B. ¿Cuál es el <span class='blink'>MEJOR</span> ejemplo de cómo un <span class='blink'>científico</span> describiría un trabajo?"
+
+msgid "Digging a deep hole in the ground."
+msgstr "Cavar un agujero profundo en el suelo."
+
+msgid "Pushing a wheelbarrow full of cement."
+msgstr "Empujar una carretilla llena de cemento."
+
+msgid "Making a change to anything in the universe."
+msgstr "Realizar un cambio a cualquier cosa en el universo."
+
+msgid "Running a large tractor to harvest corn."
+msgstr "Hacer funcionar un tractor grande para cosechar maíz."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Not quite – It does take energy and work to get you moving when you're tired but scientists think of it in a much more general way."
+msgstr "No exactamente - sí toma energía y trabajo hacer que te muevas cuando estás cansado/a, pero los científicos piensan en ello de una forma mucho más general."
+
+msgid "Not quite – It does take energy and work to power a car but scientists think of it in a much more general way."
+msgstr "No exactamente - sí toma energía y trabajo hacer funcionar un auto, pero los científicos piensan en ello de una forma mucho más general."
+
+msgid "Not quite – It does take energy and work to run a mile really fast but scientists think of it in a much more general way."
+msgstr "No exactamente - sí toma energía y trabajo correr una milla muy rápido, pero los científicos piensan en ello de una forma mucho más general."
+
+msgid "Yes- Scientists think that energy is the work that it takes to make changes to almost anything. Any kind of change to anything in the universe requires energy."
+msgstr "Sí - los científicos piensan que la energía es el trabajo que toma realizar cambios a cualquier cosa. Cualquier tipo de cambio a cualquier objeto en el universo requiere energía."
+
+msgid "Not quite – Digging a hole is work but scientists think of work in a much more general way."
+msgstr "No exactamente - cavar un agujero es trabajo pero los científicos piensan acerca del trabajo de una forma mucho más general."
+
+msgid "Not quite – Pushing a wheelbarrow is work but scientists think of work in a much more general way."
+msgstr "No exactamente - empujar una carretilla es trabajo pero los científicos piensan acerca del trabajo de una forma mucho más general."
+
+msgid "Not quite – Running a tractor is work but scientists think of work in a much more general way."
+msgstr "No exactamente - hacer funcionar un tractor es trabajo pero los científicos piensan acerca del trabajo de una forma mucho más general."
+
+# 6
+msgid "More big ideas about... energy and chemical changes"
+msgstr "Más ideas importantes acerca de... energía y cambios químicos"
+
+msgid "Energy is everywhere and it's necessary when any kind of changes occur in the universe. What kind of changes? Here are some examples. When an object speeds up, slows down, starts or stops, these are changes in motion that require energy. When something heats up or cools down, energy is involved. When it's dark and you turn on the light, it requires energy. When you're sitting and you get up and walk, energy is needed. Anything that happens requires energy!!"
+msgstr "La energía está en todas partes y es necesaria cuando cualquier clase de cambio ocurre en el universo. ¿Qué tipo de cambios? Aquí hay algunos ejemplos. Cuando un objeto acelera, reduce velocidad, comienza a moverse o se detiene, hay cambios en movimiento que requieren energía. Cuando algo se calienta o enfría, se necesita energía. Cuando está oscuro y enciendes la luz, eso requiere energía. Cuando estás sentado y te levantas y caminas, se necesita energía. ¡¡Todo lo que sucede requiere energía!!"
+
+msgid "And here's another very important idea from science about energy: \"Energy cannot be created or destroyed - it just changes forms\". This is called the \"<span class = 'key upper'>Law of Conservation of Energy</span>\". It just means that whenever any of those changes we were talking about happens, energy is never gained or lost in the universe - it just changes forms. That's why energy is never actually \"produced\" by a battery, or a windmill, or any other device. These devices just take one form of energy that already exists and changes it into a different form."
+msgstr ""
+"Y aquí está otra idea muy importante de la ciencia acerca de la energía: \"La energía no puede ser creada ni destruida - sólo cambia de forma\". Esto se llama \"<span class = 'key upper'>Ley de la Conservación de la Energía</span>\". Sólo significa que cuando cualquiera de esos cambios de los que hablábamos sucede, no se pierde ni se gana energía en el universo - sólo cambia de forma. Es por eso que la energía nunca se \"produce\" realmente por una batería, un molino de viento o cualquier otro dispositivo. Este dispositivo sólo toma una forma de energía que ya existe y "
+"la transforma en otra forma distinta."
+
+msgid "So what are these different forms or kinds of energy? Here the names scientists use for just a few kinds of energy you might encounter everyday."
+msgstr "Así que, ¿cuáles son estas formas o clases diferentes de energía? Aquí están los nombres que los científicos usan para tan sólo algunas clases de energía que puedes encontrar todos los días."
+
+msgid "Hover on the different kinds of energy to see the details."
+msgstr "Pasa tu mouse sobre los distintos tipos de energía y mira los detalles."
+
+msgid "Biological energy is the energy used by your body to do all the things that make us alive."
+msgstr "La energía biológica es el tipo de energía utilizado por tu cuerpo para realizar todas las cosas que nos permiten vivir."
+
+msgid "Heat energy is what keeps everything warm."
+msgstr "La energía térmica es lo que mantiene el calor de las cosas."
+
+msgid "Light energy is what helps us to see."
+msgstr "La energía lumínica es la que nos permite ver."
+
+msgid "Sound energy is the vibration of air or other molecules that helps us to hear."
+msgstr "La energía sonora es la vibración del aire u otras moléculas que nos permite oír."
+
+msgid "Electrical energy is the energy of electrons going through wires to make so many things work."
+msgstr "La energía eléctrica es la energía de electrones que pasan por cables para hacer funcionar muchas cosas."
+
+msgid "Chemical energy is stored energy in chemical compounds such as found in food."
+msgstr "La energía química es energía acumulada en compuestos químicos como los que se encuentran en la comida."
+
+msgid "Kinetic energy is the energy of motion."
+msgstr "La energía cinética es la energía del movimiento."
+
+msgid "Changes in motion..."
+msgstr "Cambios en el movimiento..."
+
+# 7
+msgid "Drag the statements up and down to best describe the kind of energy the picture represents. How do we stay healthy?"
+msgstr "Arrastra las declaraciones que describen mejor qué tipo de energía representa la imagen hacia arriba o hacia abajo. ¿Cómo nos mantenemos sanos?"
+
+msgid "Light"
+msgstr "Lumínica"
+
+msgid "Sound"
+msgstr "Sonora"
+
+msgid "Biological"
+msgstr "Biológica"
+
+msgid "Chemical"
+msgstr "Química"
+
+msgid "Kinetic"
+msgstr "Cinética"
+
+msgid "Heat"
+msgstr "Térmica"
+
+msgid "Electrical"
+msgstr "Eléctrica"
+
+msgid "Energy used by your body to do all the things that make us alive."
+msgstr "Energía utilizada por tu cuerpo para realizar todas las cosas que nos permiten vivir."
+
+msgid "Energy that keeps everything warm."
+msgstr "Energía que mantiene el calor de las cosas."
+
+msgid "Energy that makes objects visible to us."
+msgstr "Energía que hace a los objetos visibles para nosotros."
+
+msgid "Energy that uses vibration of air or other molecules."
+msgstr "Energía que utiliza la vibración del aire u otras moléculas."
+
+msgid "Energy of electrons going through wires."
+msgstr "Energía de electrones que pasan por cables."
+
+msgid "Energy that is usually stored in food."
+msgstr "Energía usualmente acumulada en la comida."
+
+msgid "Energy of motion."
+msgstr "Energía de movimiento."
+
+msgid "Describing kinds of energy..."
+msgstr "Describiendo formas de energía..."
+
+# 8
+msgid "Stored chemical energy in plants"
+msgstr "Energía química acumulada en las plantas"
+
+msgid "Stored chemical energy in food"
+msgstr "Energía química acumulada en los alimentos"
+
+msgid "Mechanical energy of heart beating"
+msgstr "Energía mecánica del latido del corazón"
+
+msgid "Heat energy from exercise"
+msgstr "Energía térmica del ejercicio"
+
+msgid "Biological energy of thinking"
+msgstr "Energía biológica del pensamiento"
+
+msgid "Kinetic energy of motion"
+msgstr "Energía cinética del movimiento"
+
+msgid "Heat and Light Energy"
+msgstr "Energía Térmica y Lumínica"
+
+msgid "The Law of Conservation of Energy says that: \"energy is neither created nor destroyed\" but just changes forms - which means it is <span class='key'>converted</span> from one form of energy to another. The example shown in the diagram below shows how that happens when energy from the sun gets converted to energy that your body uses in your everyday life for you to be alive."
+msgstr "La Ley de la Conservación de la Energía dice que: \"la energía no se crea ni se destruye\" sino que sólo cambia de forma - lo que significa que se <span class='key'>convierte</span> de una forma de energía a otra. El ejemplo mostrado en el diagrama debajo muestra cómo sucede eso cuando la energía del sol se convierte en energía que tu cuerpo utiliza en tu vida diaria para que puedas estar vivo."
+
+msgid "1. <span class='key'>Solar energy</span> from the sun - light and heat - is converted, or changed, into energy for plants to live and grow. And the plant can store some of that energy as <span class='key'>chemical potential energy</span> in the food the plant makes. This happens in the plant's green leaves by a series of <span class='key'>chemical reactions</span> called <span class='key'>photosynthesis</span>."
+msgstr "1. <span class='key'>Energía solar</span> del sol - luz y calor - se convierte o transforma en energía para que las plantas vivan y crezcan. Y la planta puede acumular algo de energía como <span class='key'>energía química potencial</span> en el alimento que la planta crea. Esto sucede en las hojas verdes de las plantas por una serie de <span class='key'>reacciones químicas</span> llamadas <span class='key'>fotosíntesis</span>."
+
+msgid "2. When farmers harvest the food plants make, like corn or wheat, and make it into food for people, the stored <span class='key'>chemical energy</span> from the plants stays as stored chemical potential energy in the food you eat so you can get the energy to live."
+msgstr "2. Cuando los granjeros cosechan el alimento que las plantas crean, como maíz o trigo, y lo convierten en alimento para las personas, la <span class='key'>energía química</span> acumulada de las plantas, se mantiene como energía química potencial almacenada en el alimento que tú consumes para poder obtener la energía para vivir."
+
+msgid "3. Then <span class='key'>Chemical reactions</span> in your body convert the stored <span class='key'>chemical potential energy</span> from the food you eat into other forms of energy like:"
+msgstr "3. Entonces <span class='key'>reacciones químicas</span> en tu cuerpo convierten la <span class='key'>energía química potencial</span> del alimento que consumes en otras formas de energía como:"
+
+msgid "<span class='key'>Biological energy</span> to help you think and do all of the other things your body does automatically without you thinking about it."
+msgstr "<span class='key'>Energía biológica</span> para ayudarte a pensar y hacer todas las otras cosas que tu cuerpo realiza automáticamente sin que pienses en ellas."
+
+msgid "<span class='key'>Mechanical energy</span> - like the beating of your heart and moving your arms and legs."
+msgstr "<span class='key'>Energía mecánica</span> - como el latido de tu corazón y el movimiento de tus brazos y piernas."
+
+msgid "<span class='key'>Kinetic energy</span> in the motion of anything you push or pull or lift."
+msgstr "<span class='key'>Energía cinética</span> por el movimiento de cualquier cosa que empujas, de lo que tiras o que levantas."
+
+msgid "<span class='key'>Heat energy</span> you give off from exercising."
+msgstr "<span class='key'>Energía térmica</span> que liberas al ejercitarse."
+
+msgid "Click the image to enlarge the diagram."
+msgstr "Da clic en la imagen para ampliar el diagrama."
+
+msgid "Creating or destroying?"
+msgstr "¿Creando o destruyendo?"
+
+# 9
+msgid "Question A. The chemical energy stored in plants comes from:"
+msgstr "Pregunta A. La energía química acumulada en las plantas proviene de:"
+
+msgid "Heat energy from the soil"
+msgstr "Energía térmica del suelo"
+
+msgid "Solar energy from the sun"
+msgstr "Energía solar del sol"
+
+msgid "Kinetic energy from growing"
+msgstr "Energía cinética del crecimiento"
+
+msgid "Water energy in the roots"
+msgstr "Energía acuática en las raíces"
+
+msgid "Question B. When you eat, the energy you get from the food comes from:"
+msgstr "Pregunta B. Cuando comes, la energía que obtienes de los alimentos proviene de:"
+
+msgid "The solar energy in the food"
+msgstr "La energía solar en el alimento."
+
+msgid "The biological energy in the food"
+msgstr "La energía biológica en el alimento."
+
+msgid "The kinetic energy in the food"
+msgstr "La energía cinética en el alimento."
+
+msgid "The stored chemical energy in the food"
+msgstr "La energía química acumulada en el alimento."
+
+msgid "Not quite - heat energy from the soil helps the plant seeds grow but that's not where the stored chemical energy in the plant comes from."
+msgstr "No exactamente - la energía térmica del suelo ayuda a las semillas de la planta a crecer pero ahí no es de donde proviene la energía química almacenada en la planta."
+
+msgid "Yes - Solar energy from the sun is converted into stored chemical energy in the plant by the chemical reactions of photosynthesis."
+msgstr "Sí - la energía solar del sol se convierte en energía química almacenada en la planta debido a las reacciones químicas de la fotosíntesis."
+
+msgid "Not really - The kinetic energy of the plant growing actually comes from the chemical energy in the plant - not the other way around."
+msgstr "No realmente - la energía cinética del crecimiento de la planta en realidad proviene de la energía química en la planta - no al contrario."
+
+msgid "Not really - there is no such thing as water energy in the roots."
+msgstr "No realmente - no existe tal cosa como energía acuática en las raíces."
+
+msgid "Not quite - solar energy helped make the energy in the food but has been converted into a different kind of energy in the food."
+msgstr "No exactamente - la energía solar ayudó a formar la energía en el alimento pero se ha convertido en un tipo diferente de energía en el alimento."
+
+msgid "Not quite - the energy in the food is converted to biological energy in your body."
+msgstr "No exactamente - la energía en el alimento se convierte en energía biológica en tu cuerpo."
+
+msgid "Not quite - the energy in the food is converted to kinetic energy in the activities your body does."
+msgstr "No exactamente - la energía en el alimento se convierte en energía cinética en las actividades que tu cuerpo realiza."
+
+msgid "Yes! When you eat, the energy you get from the food comes from the stored chemical energy in the food."
+msgstr "¡Sí! Cuando comes, la energía que obtienes del alimento proviene de la energía química almacenada en el alimento."
+
+# 10
+msgid "Using what you now know about... energy and chemical changes... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... energía y cambios químicos... para resolver un problema"
+
+msgid "Let's say you want to get back to nature and live in a beautiful little cabin up in the mountains far away from town where there is no electricity."
+msgstr "Digamos que quieres regresar a la naturaleza y vivir en una hermosa cabaña en las montañas, muy lejos de la ciudad, donde no hay electricidad."
+
+msgid "How would you use your knowledge of chemical energy, and how it is converted to and from different forms of energy, to design a system to light your cabin and power your cool electronic gear?"
+msgstr "¿Cómo utilizarías tus conocimientos acerca de la energía química y cómo se convierte en distintas formas de energía para diseñar un sistema que iluminara tu cabaña y diera energía a tus geniales aparatos electrónicos?"
+
+msgid "Write a short paragraph to describe your design."
+msgstr "Escribe un párrafo corto para describir tu diseño."
+
+msgid "Converting energy..."
+msgstr "Convirtiendo energía..."
+
+# 11
+msgid "Summarizing big ideas about... energy and chemical changes"
+msgstr "Resumiendo ideas importantes acera de... energía y cambios químicos"
+
+msgid "Energy is everywhere around you. Energy makes things happen! Anything that moves or changes requires energy. But it's not as simple as just one kind of energy. There are many forms of energy and they keep changing forms as they cause things to happen. For instance, <span class='key'>light energy</span> from the sun is one form of energy."
+msgstr "La energía está en todas partes a tu alrededor. ¡La energía hace que las cosas sucedan! Cualquier cosa que se mueva o cambie requiere energía. Pero no es tan simple como una sola clase de energía. Hay muchas formas de energía y siguen cambiando de forma conforme hacen que cosas sucedan. Por ejemplo, la <span class='key'>energía lumínica</span> del sol es una forma de energía."
+
+msgid "It travels through space until it hits the earth and then some of it is <span class='key'>converted</span> into <span class='key'>heat energy</span> that changes the temperature of the earth making it warmer. Also, some of the light from the sun is absorbed by the leaves of green plant, and by special chemical reactions called <span class='key'>photosynthesis</span>, the <span class='key'>light energy</span> is converted into <span class='key'>chemical energy</span> stored in the plant as food."
+msgstr "Viaja a través del espacio hasta que llega a la Tierra y luego una parte de ella se <span class='key'>convierte</span> en <span class='key'>energía térmica</span> que cambia la temperatura de la Tierra haciéndola más tibia. Además, parte de la luz del sol es absorbida por las hojas de las plantas verdes, y por reacciones químicas especiales llamadas <span class='key'>fotosíntesis</span>, la <span class='key'>energía lumínica</span> se convierte en <span class='key'>energía química</span> almacenada en la planta como alimento."
+
+msgid "We eat some of the foods plants produce and it becomes our source of energy. When energy is stored, like food in plants, we call it <span class='key'>potential energy</span> because it isn't doing anything right now but it has the \"potential\" to make something happen when it's released. When something is in motion, like a ball rolling down a hill it contains energy of motion that scientists call <span class='key'>kinetic energy</span>."
+msgstr "Comemos algunos de los alimentos que las plantas producen y se convierten en nuestra fuente de energía. Cuando se acumula energía, como el alimento en las plantas, la llamamos <span class='key'>energía potencial</span> porque no está haciendo nada por el momento pero tiene el \"potencial\" de hacer que algo suceda cuando sea liberada. Cuando algo está en movimiento, como una pelota que rueda colina abajo, contiene energía de movimientos que los científicos llaman <span class='key'>energía cinética</span>. "
+
+msgid "Energy can take many forms such as; sound energy, electrical energy, light energy, heat energy, chemical energy, kinetic energy, potential energy, nuclear energy and biological energy. But it's important to know that the universe doesn't create any new energy or destroy any existing energy. It just constantly keeps converting one kind of energy to another to keep the universe working. The universe is a very good at recycling energy. Scientists call that the <span class='key'>Law of Conservation of Energy</span>."
+msgstr "La energía puede tomar muchas formas como; energía sonora, energía eléctrica, energía lumínica, energía térmica, energía química, energía cinética, energía potencial, energía nuclear y energía biológica. Pero es importante saber que el universo no crea energía nueva ni destruye ninguna energía existente. Sólo constantemente convierte un tipo de energía a otro para mantener al universo en funcionamiento. El universo es muy bueno reciclando energía. Los científicos llaman a eso la <span class='key'>Ley de la Conservación de la Energía</span>."
+
+# 12
+msgid "Reviewing key vocabulary related to... energy and chemical changes"
+msgstr "Revisando vocabulario clave relacionado con... energía y cambios químicos"
+
+msgid "Chemical energy"
+msgstr "Energía química"
+
+msgid "The potential energy stored in chemical compounds. It can be converted by chemical reactions to other forms of energy, such as light energy or heat energy."
+msgstr "La energía potencial acumulada en compuestos químicos. Puede convertirse por reacciones químicas a otras formas de energía, como energía lumínica o térmica."
+
+msgid "Potential energy"
+msgstr "Energía potencial"
+
+msgid "Any kind of stored energy that can be converted to other kinds of energy."
+msgstr "Cualquier clase de energía acumulada que puede ser convertida a otros tipos de energía."
+
+msgid "Kinetic energy"
+msgstr "Energía cinética"
+
+msgid "The energy of an object in motion. It is the opposite of potential energy. Examples would include releasing a coiled spring or dropping a ball."
+msgstr "La energía de un objeto en movimiento. Es lo contrario de energía potencial. Ejemplos incluyen el soltar un resorte encogido o dejar caer una pelota. "
+
+msgid "Photosynthesis"
+msgstr "Fotosíntesis"
+
+msgid "The process by which plants convert carbon dioxide, water, and light energy into glucose and molecular oxygen. The plant can then use the glucose later for energy."
+msgstr "El proceso por el que las plantas convierten dióxido de carbono, agua y energía lumínica en glucosa y oxígeno molecular. La planta entonces puede utilizar la glucosa después como energía."
+
+msgid "Conservation of energy"
+msgstr "Conservación de energía"
+
+msgid "The concept that energy can be neither created nor destroyed, it can only change form. The total amount of energy at the start of any process must be equal the amount of energy at the end of the process."
+msgstr "El concepto de que la energía no puede ser creada ni destruida, sino sólo cambiar de forma. La cantidad total de energía al inicio de cualquier proceso debe ser la misma cantidad de energía que al final del proceso."
+
+msgid "Work"
+msgstr "Trabajo"
+
+msgid "The application of a force over a distance. Pushing a weight down the road is doing work."
+msgstr "La aplicación de una fuerza a lo largo de una distancia. Empujar un peso a lo largo de un camino es realizar un trabajo."
+
+msgid "Energy"
+msgstr "Energía"
+
+msgid "The property of objects that can be transferred or changed in form, but not created nor destroy. Energy is the ability of objects to do things."
+msgstr "La propiedad de los objetos que puede transferirse o cambiar de forma, pero no puede ser creada ni destruida. La energía es la capacidad de los objetos de hacer cosas."
+
+msgid "The transfer of energy from one form to another. Potential energy is converted into kinetic energy when a ball that has been lifted into the air is dropped and allowed to fall."
+msgstr "La transferencia de energía de una forma a otra. La energía potencial se convierte en energía cinética cuando una pelota que ha sido elevada en el aire se deja caer y se permite que caiga."
+
+msgid "Converting energy"
+msgstr "Convertir energía"
+
+# 13
+msgid "Checking what you now know about... energy and chemical changes"
+msgstr "Revisando lo que sabes ahora acerca de... energía y cambios químicos"
+
+# 14
+msgid "Photosynthesis is a process involving chemical reactions in the leaves of green plants that converts:"
+msgstr "La fotosíntesis es un proceso que involucra reacciones químicas en las hojas de las plantas verdes que convierte:"
+
+msgid "heat energy from the Sun into kinetic energy to make the plant move towards the Sun."
+msgstr "energía térmica del sol en energía cinética para hacer que la planta se mueva hacia el sol."
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for the plant."
+msgstr "energía lumínica del sol para formar energía química en la planta para proveer la planta de alimento."
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr "energía lumínica del sol para formar energía química en la planta para proveer de alimento a los animales."
+
+msgid "heat energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr "energía térmica del sol para formar energía química en la planta para proveer de alimento a los animales."
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant to move towards the Sun. The energy from the food the plant makes during photosynthesis does."
+msgstr "No exactamente - la energía térmica del sol no provoca que las plantas se muevan hacia el sol. La energía del alimento que la planta crea durante la fotosíntesis lo hace."
+
+msgid "Yes - light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr "Sí - la energía lumínica del sol se convierte en energía química en el alimento que la planta crea para sí misma."
+
+msgid "Not quite - light energy from the Sun is converted into chemical energy in the food the plant makes for itself - not for food for the animals that might eat it."
+msgstr "No exactamente - la energía lumínica del sol se convierte en energía química en el alimento que la planta crea para sí misma - no para los animales que quizá la coman."
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant make food for animals. But the light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr "No exactamente - la energía térmica del sol no provoca que la planta cree alimento para animales. Pero la energía lumínica del sol se convierte en energía química en el alimento que la planta crea para sí misma."
+
+# 15
+msgid "Which of the following is the most important form of energy that is found in the food you eat that provides energy for your body’s biological activity?"
+msgstr "¿Cuál de las siguientes es la forma más importante de energía que se encuentra en los alimentos que consumes y provee energía para las actividades biológicas de tu cuerpo?"
+
+msgid "Not quite - heat energy in hot food can help keep your body warm - like drinking hot chocolate on a cold day - but that isn't the most important form of energy in food."
+msgstr "No exactamente - la energía térmica en los alimentos calientes pueden ayudarte a mantener tu cuerpo tibio - como beber chocolate caliente en un día frío - pero ésa no es la forma más importante de energía en los alimentos."
+
+msgid "Not really - there really isn't any light energy in food."
+msgstr "No realmente - no hay energía lumínica en los alimentos."
+
+msgid "Not really - there really isn't any electrical energy in food."
+msgstr "No realmente - no hay energía eléctrica en los alimentos."
+
+msgid "Yes! Chemical energy in the food you eat – like in sugars, proteins, and fats - provide almost all of the energy your body needs to function."
+msgstr "¡Sí! La energía química en los alimentos que consumes - como las azúcares, proteínas y grasas - provee casi toda la energía que tu cuerpo necesita para funcionar."
+
+msgid "Heat energy"
+msgstr "Energía térmica"
+
+msgid "Light energy"
+msgstr "Energía lumínica"
+
+msgid "Electrical energy"
+msgstr "Energía eléctrica"
+
+msgid "Riding a bike..."
+msgstr "Montando en bici..."
+
+# 16
+msgid "Which of the following is an example of kinetic energy? The energy in a:"
+msgstr "¿Cuál de los siguientes es un ejemplo de energía cinética? La energía en:"
+
+msgid "Rock sitting on a cliff"
+msgstr "Una roca situada en un risco"
+
+msgid "Glass of lemonade"
+msgstr "Un vaso de limonada"
+
+msgid "Battery"
+msgstr "Una batería"
+
+msgid "Child sliding down a slide"
+msgstr "Un niño que se desliza por un tobogán"
+
+msgid "Finding kinetic energy..."
+msgstr "Encontrando energía cinética..."
+
+msgid "Not really. Kinetic energy is the energy of motion but rock sitting on a cliff isn't moving, it's just sitting there."
+msgstr "No realmente. La energía cinética es la energía del movimiento pero una roca situada en un risco no se está moviendo, sólo está inmóvil."
+
+msgid "Not quite - a battery has stored potential chemical energy inside that can be converted to electrical energy. But that's not kinetic energy."
+msgstr "No exactamente - una batería tiene energía química potencial acumulada dentro que puede convertirse en energía eléctrica. Pero eso no es energía cinética."
+
+msgid "Not quite! A glass of lemonade may have stored potential chemical energy inside in the form of sugar, but that's not kinetic energy."
+msgstr "¡No exactamente! Un vaso de limonada puede tener energía química potencial acumulada dentro en la forma de azúcar, pero eso no es energía cinética."
+
+msgid "Yes! A child sliding down a slide is moving so it has kinetic energy. What happens if he runs into another child sitting at the bottom of the slide?!"
+msgstr "¡Sí! Un niño que se desliza por un tobogán se está moviendo así que tiene energía cinética. ¡¿Qué sucede si choca con otro niño que está sentado al final del tobogán?!"
+
+# 17
+msgid "Which of the following is an example of potential energy? The energy in a:"
+msgstr "¿Cuál de los siguientes es un ejemplo de energía potencial? La energía en:"
+
+msgid "Falling rock"
+msgstr "Una roca que cae"
+
+msgid "Flowing river"
+msgstr "Un río que corre"
+
+msgid "Gust of wind"
+msgstr "Un golpe de viento"
+
+msgid "Studying potential energy..."
+msgstr "Estudiando energía potencial..."
+
+msgid "Yes! A battery has stored potential chemical energy inside that can be converted to electrical energy once you hook it up to something like a fan. Then when the fan is in motion, the potential energy becomes kinetic energy."
+msgstr "¡Sí! Una batería tiene energía química potencial acumulada dentro que puede convertirse en energía eléctrica una vez que la conectas a algo como un ventilador. Entonces, cuando el ventilador está en movimiento, la energía potencial se convierte en energía cinética."
+
+msgid "Not quite. A flowing river has energy of motion - which is kinetic energy, not potential energy."
+msgstr "No exactamente. Un río que corre tiene energía de movimiento - que es energía cinética, no energía potencial."
+
+msgid "Not quite. A falling rock has energy of motion - which is kinetic energy, not potential energy."
+msgstr "No exactamente. Una roca que cae tiene energía de movimiento - que es energía cinética, no energía potencial."
+
+msgid "Not quite! A gust of wind has energy of motion - which is kinetic energy, not potential energy."
+msgstr "¡No exactamente! Un golpe de viento tiene energía de movimiento - que es energía cinética, no energía potencial."
+
+# 18
+msgid "Which of the following things you do everyday does not require energy?"
+msgstr "¿Cuál de las siguientes cosas que haces todos los días no requiere energía?"
+
+msgid "Sleeping"
+msgstr "Dormir"
+
+msgid "Thinking"
+msgstr "Pensar"
+
+msgid "Sitting perfectly still"
+msgstr "Sentarte completamente inmóvil"
+
+msgid "None of the above"
+msgstr "Ninguna de las anteriores"
+
+msgid "Looking for energy..."
+msgstr "Buscando energía..."
+
+msgid "Not quite - Even when you are sleeping, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr "No exactamente - incluso cuando estás durmiendo, tu corazón está latiendo, estás respirando y estás creciendo - todas estas cosas requieren energía."
+
+msgid "Not quite - Even when you are just thinking, your heart is beating, you are breathing, and you are growing - all of these things need energy. Even the process of thinking requires your brain to use energy. That's why it's a good idea to eat good food for energy to think when you're in school."
+msgstr "No exactamente - incluso cuando sólo estás pensando, tu corazón está latiendo, estás respirando y estás creciendo - todas estas cosas requieren energía. Incluso el proceso del pensamiento requiere que tu cerebro utilice energía. Por eso es buena idea comer buenos alimentos para tener energía para pensar cuando estés en la escuela."
+
+msgid "Not quite - Even when you are sitting perfectly still, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr "No exactamente - incluso cuando estás sentado completamente inmóvil, tu corazón está latiendo, estás respirando y estás creciendo - todas estas cosas requieren energía."
+
+msgid "Yes - All of the above choices require energy so &quot;None of the above&quot; are examples that DO NOT require energy"
+msgstr "Sí - todas las opciones anteriores requieren energía así que &quot;ninguna de las anteriores&quot; es un ejemplo que NO requiere energía."
+
+# 19
+msgid "Any time anything is happening in the universe, or any changes occur to anything in the universe, those events require:"
+msgstr "Cada vez que algo está sucediendo, o cada vez que ocurren cambios a cualquier cosa en el universo, dichos eventos requieren:"
+
+msgid "Force"
+msgstr "Fuerza"
+
+msgid "Human"
+msgstr "Humanos"
+
+msgid "The Sun"
+msgstr "El sol"
+
+msgid "Yes - Energy is required for all changes to occur in the universe."
+msgstr "Sí - se requiere energía para que todos los cambios ocurran en el universo."
+
+msgid "Not quite - Force is a push or a pull. Some changes that happen, like thinking, require energy but not a force."
+msgstr "No exactamente - la fuerza es una atracción o un rechazo. Algunos cambios que ocurren, como el pensamiento, requieren energía pero no una fuerza."
+
+msgid "Not really - lots of things happen in the universe that humans aren't involved in."
+msgstr "No realmente - muchas cosas ocurren en el universo en las que los humanos no están involucrados."
+
+msgid "Not quite - the Sun provides energy for many changes that happen in our solar system but not everything. And outside our solar system, in the big universe, our sun doesn't provide any energy impact at all."
+msgstr "No exactamente - el sol provee la energía para muchos cambios que ocurren en nuestro sistema solar pero no todos. Y fuera de nuestro sistema solar, en el inmenso universo, nuestro sol no provee ningún impacto energético en absoluto."
+
+msgid "You've completed the Energy and Chemical Changes module."
+msgstr "Has completado el módulo de Energía y Cambios Químicos."

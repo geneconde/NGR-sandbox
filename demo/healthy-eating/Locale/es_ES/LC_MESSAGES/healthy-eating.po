@@ -1,0 +1,864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: healthy eating\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Behaviors"
+msgstr "Comportamientos"
+
+msgid "More big ideas... about behaviors"
+msgstr "Más ideas clave... acerca de comportamientos"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Revisar la respuesta"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha"
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Go Back to Dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "Estás listo/a"
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Click here to start typing your answer..."
+msgstr "Da clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Da clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén el botón y arrastra hacia arriba y hacia abajo para girar la caja y elegir tu respuesta."
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+# 1
+msgid "Healthy Eating"
+msgstr "Comer Sanamente"
+
+msgid "Welcome to the Healthy Eating module"
+msgstr "Bienvenido/a a la revisión de Comer Sanamente"
+
+# 2
+msgid "Thinking about... healthy eating"
+msgstr "Pensando acerca de... comer sanamente"
+
+msgid "What is food to you? Something you eat during a movie or something to keep you busy when you hang out with friends? Or is food like fuel to give you energy and keep you going? How you think about food will affect what and how much you eat. Think about healthy eating and the decisions you make every day that change your body and your health."
+msgstr "¿Qué es la comida para ti? ¿Algo que comes durante una película o algo para mantenerte ocupado/a cuando sales con tus amigos? ¿O es la comida un combustible para darte energía y mantenerte funcionando? Cómo piensas acerca de la comida afectará qué y cuánto comes. Piensa acerca de comer sanamente y las decisiones que tomas cada día que cambian tu cuerpo y tu salud."
+
+msgid "You are what you eat. Why not eat the best? Is the best food the same for everyone? Is food that is cheap or ready to eat always the best food for our bodies?"
+msgstr "Eres lo que comes. ¿Por qué no comer lo mejor? ¿Es la mejor comida la misma para todos? ¿Son los alimentos baratos o los que ya están listos para comer siempre lo mejor para nuestros cuerpos?"
+
+# 3
+msgid "Checking what you already know about... healthy eating"
+msgstr "Revisando lo que ya sabes acerca de... comer sanamente"
+
+msgid "Drag the food you see on the left into the correct food group on the right it belongs in."
+msgstr "Arrastra el alimento de la izquierda al grupo de alimentos correcto de la derecha al que pertenece."
+
+msgid "Items"
+msgstr "Productos"
+
+msgid "Grain"
+msgstr "Grano"
+
+msgid "Vegetable"
+msgstr "Vegetal"
+
+msgid "Fruit"
+msgstr "Fruta"
+
+msgid "Milk"
+msgstr "Leche"
+
+msgid "Meat"
+msgstr "Carne"
+
+msgid "You dragged food into each of the five food groups. Continue to read on about each of these food groups and other elements of a healthy lifestyle such as getting enough vitamins and exercise."
+msgstr "Arrastraste alimentos a cada uno de los cinco grupos alimenticios. Continúa leyendo acerca de cada uno de estos grupos alimenticios y los demás elementos de un estilo de vida saludable, como obtener suficientes vitaminas y ejercitarte."
+
+msgid "Sorting foods..."
+msgstr "Clasificando alimentos..."
+
+# 4
+msgid "Five Food Group"
+msgstr "Cinco Grupos Alimenticios"
+
+msgid "Grain Group"
+msgstr "Grupo de los Granos"
+
+msgid "Vegetables Group"
+msgstr "Grupo de los Vegetales"
+
+msgid "Fruit Group"
+msgstr "Grupo de la Fruta"
+
+msgid "Oil Group"
+msgstr "Grupo de los Aceites"
+
+msgid "Milk Group"
+msgstr "Grupo Lácteo"
+
+msgid "Meat and Beans"
+msgstr "Carne y Legumbres"
+
+msgid "More big ideas about... healthy eating"
+msgstr "Más ideas clave acerca de.... comer sanamente"
+
+msgid "Reviewing big ideas about... healthy eating"
+msgstr "Revisando ideas importantes acerca de... comer sanamente"
+
+msgid "The things you eat every day make up your <span class='key'>diet</span>. A healthy diet contains different kinds of foods. Scientists who study <span class='key'>healthy eating</span> habits came up with the <span class='key'>Food Guidance System</span> that tells you what food and how much of it you should eat to stay healthy. You can see this in MyPyramid, a <span class='key'>food pyramid</span> of the five food groups. This diagram shows you how to find a balance between your food intake and physical activity."
+msgstr "Las cosas que comes cada día conforman tu <span class='key'>dieta</span>. Una dieta sana contiene distintos tipos de alimentos. Los científicos que estudian los hábitos de <span class='key'>comer sanamente</span> crearon el <span class='key'>Sistema de Guía Alimentaria</span> que nos dice qué comida y cuánta debes comer para mantenerte sano/a. Puedes revisar esto en MyPyramid, una <span class='key'>pirámide alimenticia</span> de los cinco grupos alimenticios. Este diagrama te muestra cómo encontrar un balance entre tu ingesta alimenticia y actividad física."
+
+msgid "Click to enlarge"
+msgstr "Da clic para agrandar"
+
+msgid "Let's take a closer look at the pyramid. Each of the five food groups (Grain, Vegetable, Fruit, Milk, and Meat & Beans) is identified by a unique color. The person running up the stairs reminds you to be physically active every day. All the colors show you to eat foods from every food group every day. Some of the stripes are larger because you should eat more foods from the food groups with the wider stripes. The colored stripes are wider at the bottom of the pyramid, showing you that every food group has foods we should eat more than others. You should also choose healthier foods from each food group."
+msgstr "Miremos más de cerca la pirámide. Cada uno de los cinco grupos alimenticios (Granos, Vegetales, Fruta, Lácteo y Carne & Legumbres) se identifica por un color único. La persona que sube las escaleras corriendo te recuerda mantenerte activo físicamente todos los días. Todos los colores te muestran que debes comer alimentos de cada grupo alimenticio cada día. Algunas de las barras son más grandes porque deberías comer más alimentos de los grupos alimenticios con las barras más anchas. Las barras de color son más anchas en la base de la pirámide, mostrándote que cada grupo alimenticio tiene algunos alimentos que debemos comer más que otros. También deberías elegir alimentos más sanos de cada grupo alimenticio."
+
+msgid "Grains are divided into 2 subgroups: <span class='key'>whole grains</span> and refined grains. Whole grains contain the entire grain kernel - the bran, germ, and endosperm. Examples include whole-wheat flour, oatmeal, whole cornmeal, and brown rice. <span class='key'>Refined grains</span> have been milled, a process that removes the bran and germ. This is done to give grains a finer texture and improve their shelf life, but it also removes dietary fiber, iron, and many B vitamins. Some examples of refined grain products are white flour, white bread, and white rice."
+msgstr "Los granos se dividen en 2 subgrupos: <span class='key'>granos enteros</span> y granos refinados. Los granos enteros contienen la semilla entera del grano - el salvado, el germen y el endospermo. Algunos ejemplos incluyen la harina de trigo integral, la avena, la sémola de maíz entero y el arroz integral. Los <span class='key'>granos refinados</span> han sido molidos, un proceso que remueve el salvado y el germen. Esto se hace para darles a los granos una textura más fina y mejorar su vida útil, pero también elimina la fibra dietética, hierro y muchas vitaminas B. Algunos ejemplos de productos de grano refinado son la harina blanca, el pan blanco y el arroz blanco."
+
+msgid "Food in the meat and bean group offers the body protein. All foods made from meat, poultry, fish, dry beans or peas, eggs, nuts, and seeds are considered part of this group. Dry beans and peas are part of this group as well as the vegetable group. Most meat and poultry choices should be lean or low fat. Fish, nuts, and seeds contain healthy oils, so choose these foods frequently instead of meat or poultry."
+msgstr "Los alimentos en el grupo de carne y legumbres ofrecen proteínas al cuerpo. Todos los alimentos hechos de carnes rojas, pollo, pescado, legumbres secas o guisantes, huevos, nueces y semillas se consideran parte de este grupo. Las legumbres secas y guisantes son parte de este grupo así como del grupo de los vegetales. La mayoría de las opciones de carne roja y blanca deberían ser magras o bajas en grasa. El pescado, nueces y semillas contienen aceites saludables, así que elige estos alimentos con frecuencia en lugar de la carne o pollo."
+
+msgid "Grain Group: Make half your grains whole"
+msgstr "Grupo de los Granos: Haz que la mitad de tus granos sean enteros"
+
+msgid "Eat at least 3 oz. of whole-grain cereals, bread, crackers, rice, or pasta every day."
+msgstr "Come al menos 3 onzas (85 gramos) de cereales, pan, galletas, arroz o pasta integrales todos los días."
+
+msgid "Vegetable Group: Vary your veggies"
+msgstr "Grupo de los Vegetales: Varía tus vegetales"
+
+msgid "Eat more dark green veggies like broccoli, spinach and other dark leafy greens."
+msgstr "Come más vegetales verde oscuro como brócoli, espinaca y otros vegetales de hojas verde oscuro."
+
+msgid "Eat more orange vegetables like carrots and sweet potatoes."
+msgstr "Come más vegetales color naranja como zanahorias y papa dulce (batata)."
+
+msgid "Eat more dry beans and peas like pinto beans, kidney beans and lentils."
+msgstr "Come más legumbres secas y guisantes como frijoles, habichuelas y lentejas."
+
+msgid "Fruit Group: Focus on fruits"
+msgstr "Grupo de las Frutas: Enfócate en las frutas"
+
+msgid "Eat a variety of fruits."
+msgstr "Come una variedad de frutas."
+
+msgid "Choose fresh, frozen, canned or dried fruit."
+msgstr "Elige fruta fresca, congelada, enlatada o seca."
+
+msgid "Go easy on fruit juices."
+msgstr "Modera los jugos de fruta."
+
+msgid "Milk Group: Get your calcium-rich food"
+msgstr "Grupo Lácteo: Consume alimentos ricos en calcio"
+
+msgid "Go low fat or fat-free when you choose milk, yogurt, and other milk products."
+msgstr "Elige opciones bajas en grasa o sin grasa cuando consumas leche, yogurt y otros productos lácteos."
+
+msgid "If you don't or can't consume milk, choose lactose-free products or other calcium sources such as fortified foods and beverages."
+msgstr "Si no puedes o no quieres consumir leche, elige productos libres de lactosa u otras fuentes de calcio como alimentos y bebidas fortificados."
+
+msgid "Meat & Beans Group: Go lean with protein"
+msgstr "Grupo de la Carne & Legumbres: Elige proteínas magras"
+
+msgid "Choose low fat or lean meat and poultry."
+msgstr "Elige carne y pollo bajos en grasa o magros."
+
+msgid "Bake it, broil it or grill it."
+msgstr "Hornéalo, o ásalo a la parrilla."
+
+msgid "Vary your protein routine - choose more fish, beans, peas, nuts and seeds."
+msgstr "Varía tu rutina proteínica - elige más pescado, legumbres, guisantes, nueces y semillas."
+
+msgid "Oils come from many different plants and from fish. Some common oils are canola oil, corn oil, cottonseed oil, olive oil, and sunflower oil. A number of foods are naturally high in oils, like nuts, olives, some fish, and avocados."
+msgstr "Los aceites vienen de muchas diferentes plantas y del pescado. Algunos aceites comunes son el aceite de canola, el aceite de maíz, aceite de la semilla del algodón, aceite de oliva y aceite de girasol. Ciertos alimentos son naturalmente ricos en aceites, como las nueces, aceitunas, algunos pescados y el aguacate."
+
+msgid "Looking at the Pyramid..."
+msgstr "Mirando la Pirámide..."
+
+# 5a
+msgid "Question A. Which food is a whole grain product?"
+msgstr "Pregunta A. ¿Cuál alimento es un producto de grano entero?"
+
+msgid "Mushroom"
+msgstr "Champiñón"
+
+msgid "Oatmeal"
+msgstr "Avena"
+
+msgid "White Bread"
+msgstr "Pan Blanco"
+
+msgid "White Rice"
+msgstr "Arroz Blanco"
+
+msgid "Question B. Which food group is our body's best source of energy?"
+msgstr "Pregunta B. ¿Cuál grupo alimenticio es la mejor fuente de energía para nuestro cuerpo?"
+
+msgid "Meat and Beans group"
+msgstr "El grupo de la Carne y Legumbres"
+
+msgid "Milk group"
+msgstr "Grupo de los Lácteos"
+
+msgid "Grain group"
+msgstr "Grupo de los Granos"
+
+msgid "Vegetable group"
+msgstr "Grupo de los Vegetales"
+
+# 5b
+msgid "No, mushrooms are not part of the grain food group. Oatmeal is a whole grain product."
+msgstr "No, los champiñones no forman parte del grupo alimenticio de los granos. La avena es un producto de grano entero."
+
+msgid "Correct, oatmeal is a whole grain product."
+msgstr "Correcto, la avena es un producto de grano entero."
+
+msgid "Not quite, white bread is part of the grain food group, but it is not whole grain."
+msgstr "No exactamente, el pan blanco forma parte del grupo alimenticio de los granos, pero no es de grano entero."
+
+msgid "Not quite, white rice is part of the grain food group, but it is not whole grain."
+msgstr "No exactamente, el arroz blanco forma parte del grupo alimenticio de los granos, pero no es de grano entero."
+
+msgid "No, meat and beans are an important source for your body to build protein."
+msgstr "No, la carne y las legumbres son una fuente importante para que tu cuerpo acumule proteínas."
+
+msgid "Milk is a good source of vitamins and minerals, and helps the body build protein."
+msgstr "La leche es una buena fuente de vitaminas y minerales, y ayuda al cuerpo a acumular proteínas."
+
+msgid "Correct. We get the most energy from grains."
+msgstr "Correcto. Obtenemos la mayor cantidad de energía de los granos."
+
+msgid "Vegetables offer the body different kinds of vitamins and minerals, but we get the most energy from grains."
+msgstr "Los vegetales ofrecen al cuerpo distintos tipos de vitaminas y minerales, pero obtenemos la mayor cantidad de energía de los granos."
+
+# 6a
+msgid "MyPyramid suggests that we make half our grains whole, vary our veggies, focus on fruits, get our calcium-rich foods, and go lean with protein.  This is easy to follow, but every person needs their own plan (or diet) for what to eat every day."
+msgstr "MyPyramid sugiere que hagamos que la mitad de nuestros granos consumidos sean enteros, variemos nuestros vegetales, nos enfoquemos en las frutas, consumamos alimentos ricos en calcio, y elijamos proteínas magras. Esto es fácil de seguir, pero cada persona necesita su propio plan (o dieta) sobre qué comer cada día."
+
+msgid "One way to analyze your diet is in terms of the <span class='key'>calories</span> or energy contained in each food. Different foods contain different amounts of calories, or potential energy. Each of the items to the right contains about 100 calories. Cheese has a lot of fat compared to cherry tomatoes; a small piece of cheese has the same amount of calories as a bowl of tomatoes. The type of food (fat, protein, or carbohydrate) is what determines the number of calories, and the amount we eat determines how fattening it can be."
+msgstr "Una forma de analizar tu dieta es con base en las <span class='key'>calorías</span> o energía contenida en cada alimento. Distintos alimentos contienen diferentes cantidades de calorías o energía potencial. Cada uno de los productos de la derecha contiene aproximadamente 100 calorías. El queso tiene mucha grasa en comparación con los tomates cherry; un pequeño trozo de queso tiene la misma cantidad de calorías que un tazón de tomates. El tipo de alimento (grasa, proteína o carbohidrato) es lo que determina el número de calorías, y la cantidad que comemos determina cuánto nos puede engordar."
+
+msgid "50 Cherry tomatoes"
+msgstr "50 Tomates cherry"
+
+msgid "1 Chocolate shortbread cookie"
+msgstr "1 Galleta de chocolate"
+
+msgid "1 Glass of juice orange"
+msgstr "1 Vaso de jugo de naranja"
+
+msgid "About 4 squares of chocolate"
+msgstr "Aproximadamente 4 cuadritos de chocolate"
+
+msgid "1 Cube of cheese, 3/4 inch across"
+msgstr "1 Cubo de queso, de 2 centímetros"
+
+msgid "1 Large chicken egg"
+msgstr "1 Huevo grande de gallina"
+
+# 6b
+msgid "Exactly how many calories every person needs a day depends on the height, weight, age, gender, and activity level of that person. Usually, children need less than 2000 calories a day and should be physically active for an hour a day."
+msgstr "Exactamente cuántas calorías necesita una persona cada día depende de la estatura, peso, edad, género y cantidad de actividad de dicha persona. Normalmente, los niños necesitan menos de 2000 calorías por día y deben estar activos físicamente por una hora al día."
+
+msgid "Being physically active is a key element in living a longer, healthier, happier life and goes hand in hand with healthy eating. It can help relieve stress and can provide an overall feeling of well-being. Physical activity can also help you achieve and maintain a healthy weight. The body maintains a balance between the food you eat (calories in) and the exercise you do (calories out). The calories you do not burn are stored in the body in the form of fat."
+msgstr "Estar físicamente activos es un elemento clave para vivir una vida más larga, sana y feliz y va de la mano con comer sanamente. Puede ayudarte a liberar el estrés y darte un sentimiento general de bienestar. La actividad física también puede ayudarte a alcanzar y mantener un peso sano. El cuerpo mantiene un balance entre la comida que ingieres (calorías entrantes) y el ejercicio que realizas (calorías salientes). Las calorías que no quemas se almacenan en el cuerpo como grasa."
+
+msgid "Reading nutrition facts..."
+msgstr "Leyendo información nutricional..."
+
+# 7a
+msgid "Question A. Choose the <span class='blink'>best</span> answer to the following question. How do we stay healthy?"
+msgstr "Pregunta A. Elige la <span class='blink'>mejor</span> respuesta a la siguiente pregunta. ¿Cómo nos mantenemos sanos?"
+
+msgid "Exercising every day for half an hour is being healthy."
+msgstr "Ejercitarnos cada día por media hora es ser saludables."
+
+msgid "Eating food from all the food groups is all you need to be healthy."
+msgstr "Comer alimentos de todos los grupos alimenticios es todo lo que se necesita para estar sano."
+
+msgid "Not eating a lot of sugar or salt is healthy eating."
+msgstr "No comer mucha azúcar o sal es comer sanamente."
+
+msgid "Eating from all food groups and exercising is healthy living."
+msgstr "Comer de todos los grupos alimenticios y ejercitarse es vivir sanamente."
+
+msgid "Question B. It's an hour before your big game and you're feeling hungry. What's the <span class='blink'>best</span> thing to eat?"
+msgstr "Pregunta B. Falta una hora para tu gran juego y tienes hambre. ¿Cuál es la <span class='blink'>mejor</span> opción para comer?"
+
+msgid "An ice cream float"
+msgstr "Un helado de crema con soda"
+
+msgid "An apple and a muffin"
+msgstr "Una manzana y un panecillo"
+
+msgid "Spaghetti and Meatballs"
+msgstr "Spaghetti y Albóndigas"
+
+msgid "A cheeseburger and fries"
+msgstr "Una hamburguesa y patatas fritas"
+
+# 7b
+msgid "Not quite, while exercising is necessary, eating a variety of foods is also needed to stay healthy."
+msgstr "No exactamente, aunque hacer ejercicio es necesario, también necesitas comer una variedad de alimentos para mantenerte sano/a."
+
+msgid "Not quite, while eating a variety of foods is necessary, exercising is also needed to stay healthy."
+msgstr "No exactamente, aunque necesitas comer una variedad de alimentos, también hacer ejercicio es necesario para mantenerte sano/a."
+
+msgid "Not quite, not having a lot of sugar or salt is a good eating habit, but regular exercise and eating a variety of foods is also needed for a healthy lifestyle."
+msgstr "No exactamente, no consumir mucha azúcar o sal es un buen hábito alimenticio, pero ejercitarte regularmente y comer una variedad de alimentos también es necesario para llevar un estilo de vida sano."
+
+msgid "Correct, daily exercise and healthy food choices will lead to healthy living."
+msgstr "Correcto, el ejercicio diario y las decisiones alimenticias sanas te llevarán a vivir sanamente."
+
+msgid "No, processed sugars will release energy very quickly and will not give you energy throughout the game."
+msgstr "No, las azúcares procesadas liberarán energía muy rápidamente y no te darán energía a lo largo del juego."
+
+msgid "Correct. An apple and muffin will give you the energy that you need over time."
+msgstr "Correcto. Una manzana y un panecillo te darán la energía que necesitas a lo largo del juego."
+
+msgid "No, spaghetti and meatballs is a good combination of grains and protein, but a snack would be better before a game - such as an apple and a muffin."
+msgstr "No, el spaghetti y las albóndigas son una buena combinación de granos y proteína, pero un refrigerio sería mejor antes de un juego - como una manzana y un panecillo."
+
+msgid "No, cheeseburger and fries has a lot of oil and is not nearly as healthy as an apple and muffin."
+msgstr "No, la hamburguesa y las patatas fritas tienen mucho aceite y no son para nada tan saludables como una manzana y un panecillo."
+
+msgid "Eating healthy foods..."
+msgstr "Comiendo alimentos saludables..."
+
+# 8a
+msgid "The food we eat has changed in the past century. We are eating more processed foods instead of meals made from fresh ingredients. Factories use farm-grown foods to make processed foods. For example, tomatoes are used to make spaghetti sauce, and potatoes are used to make french fries. When foods are processed, certain ingredients are added to them for taste and to make them last longer. Not all of these ingredients are healthy. Also, processed foods don't have as many vitamins and minerals as fresh foods do."
+msgstr "La comida que consumimos ha cambiado a lo largo del último siglo. Estamos comiendo más alimentos procesados en lugar de comidas preparadas con ingredientes frescos, Las fábricas utilizan alimentos cultivados en granjas para crear alimentos procesados. Por ejemplo, los tomates se utilizan para hacer salsa de spaghetti, y las patatas se utilizan para hacer patatas fritas. Cuando los alimentos se procesan, se les agregan ciertos ingredientes para cambiar el sabor y hacer que duren más. No todos estos ingredientes son saludables. Además, los alimentos procesados no tienen tantas vitaminas y minerales como los alimentos frescos."
+
+msgid "Vitamins are important to stay healthy. We need vitamins A, C, D, E, K, and eight types of vitamin B. Each vitamin has a special job to do in our body. For the most part, we get vitamins from our food, but taking multivitamins is good for people who might not be eating a variety of food."
+msgstr "Las vitaminas son importantes para mantenerse sano. Necesitamos vitaminas A, C, D, E, K, y ocho tipos de vitamina B. Cada vitamina tiene una función especial en nuestro cuerpo. En general, obtenemos vitaminas de nuestra comida, pero tomar multivitamínicos también es bueno para las personas que quizá no estén comiendo una variedad de alimentos."
+
+# 8b
+msgid "Vitamin A helps with our vision. It is found in salmon and egg yolks. Our body can also make this vitamin when we eat orange and green vegetables like carrots and kale. Vitamin B helps make energy and set it free when your body needs it. The body also needs them to make red blood cells to carry oxygen throughout our body. Whole grain breads and fish and meat are full of vitamin B."
+msgstr "La vitamina A ayuda con nuestra vista. Se encuentra en el salmón y las yemas de huevo. Nuestro cuerpo también puede crear esta vitamina cuando comemos vegetales anaranjados y verdes como zanahorias y col rizada (kale). La vitamina B nos ayuda a crear energía y liberarla cuando el cuerpo lo necesita. El cuerpo tambíen la necesita para crear glóbulos rojos que llevan oxígeno a todo el cuerpo. Los panes de grano entero, pescado y carne están llenos de vitamina B."
+
+msgid "Vitamin C helps heal wounds and burns. It also helps keep gums and muscles in good shape. This vitamin that is found in citrus fruit also helps your body resist infection so you can put off getting sick a little longer. Vitamin D is needed for your bones and teeth. There are two kinds of this vitamin: one that the body makes when we are in the sun, and one that we can get from fortified milk and cereal, and oily fish. We can get vitamin E from vegetable oil and nuts, and vitamin K from vegetables like spinach and broccoli."
+msgstr "La vitamina C nos ayuda a curar heridas y quemaduras. También ayuda a mantener nuestras encías y músculos en buen estado. Esta vitamina que se encuentra en frutas cítricas también ayuda a tu cuerpo a resistir infecciones para que puedas evitar enfermarte por más tiempo. La vitamina D se necesita para tus huesos y dientes. Hay dos tipos de esta vitamina: una que nuestro cuerpo crea cuando estamos en el sol, y otra que obtenemos de leche y cereales fortificados y del pescado graso. Obtenemos vitamina E de aceites vegetales y nueces, y vitamina K de vegetales como la espinaca y el brócoli."
+
+msgid "Taking vitamins..."
+msgstr "Tomando vitaminas..."
+
+# 9a
+msgid "Question A. Which vitamin might be hard to get if you are on a vegetarian or vegan diet?"
+msgstr "Pregunta A. ¿Cuál vitamina podría ser difícil de obtener si estás en una dieta vegetariana o vegana?"
+
+msgid "Vitamin C"
+msgstr "Vitamina C"
+
+msgid "Vitamin B"
+msgstr "Vitamina B"
+
+msgid "Vitamin E"
+msgstr "Vitamina E"
+
+msgid "Vitamin A"
+msgstr "Vitamina A"
+
+msgid "Question B. Common food sources of Vitamin A are:"
+msgstr "Pregunta B. Alimentos que son fuentes comunes de vitamina A son:"
+
+msgid "Milk, eggs, butter, cheese, cream, and liver"
+msgstr "Leche, huevos, mantequilla, queso, crema e hígado"
+
+msgid "White sugar, honey, and sugar cane"
+msgstr "Azúcar blanca, miel y caña de azúcar"
+
+msgid "Broccoli, apricots, cantaloupes, carrots, and spinach"
+msgstr "Brócoli, albaricoques, melones, zanahorias y espinaca"
+
+msgid "Both A and C"
+msgstr "Tanto A como C"
+
+# 9b
+msgid "No, vitamin C is in many fruits and vegetables that vegetarians can eat."
+msgstr "No, la vitamina C está en muchas frutas y vegetales que los vegetarianos pueden comer."
+
+msgid "Correct. Vitamin B12 is not available from plant products and it is necessary for blood cell production and cellular metabolism."
+msgstr "Correcto. La vitamina B12 no está disponible en productos vegetales y es necesaria para la producción de glóbulos rojos y el metabolismo celular."
+
+msgid "No, vitamin E is found in vegetable oil and nuts as well as other vegetables such as avocados and asparagus."
+msgstr "No, la vitamina E se encuentra en aceites vegetales y nueces, así como otros vegetales como los aguacates y el espárrago."
+
+msgid "No, vegetarians can get vitamin A from vegetables; they do not need to eat meat to get this vitamin."
+msgstr "No, los vegetarianos pueden obtener vitamina A de los vegetales; no necesitan comer carne para obtener esta vitamina."
+
+msgid "Not quite, other sources are broccoli, apricots, cantaloupes, carrots, and spinach."
+msgstr "No exactamente, otras fuentes son el brócoli, albaricoques, melones, zanahorias y espinaca."
+
+msgid "No, sugar is not a source of vitamin A. Broccoli, carrots, milk, cheese, and liver are good sources for this vitamin."
+msgstr "No, el azúcar no es una fuente de vitamina A. El brócoli, zanahorias, leche, queso e hígado son buenas fuentes de esta vitamina."
+
+msgid "Not quite, other sources are milk, eggs, butter, cheese, cream, and liver."
+msgstr "No exactamente, otras fuentes son la leche, huevos, mantequilla, queso, crema e hígado."
+
+msgid "Correct. There is a wide variety of sources for vitamin A."
+msgstr "Correcto. Hay una amplia variedad de fuentes de vitamina A."
+
+# 10a
+msgid "Pretzels"
+msgstr "Pretzels"
+
+msgid "Potato Chips"
+msgstr "Patatas Fritas"
+
+msgid "Nutrition Facts"
+msgstr "Información Nutricional"
+
+msgid "Serving Size: 60g"
+msgstr "Tamaño de la Porción: 60g"
+
+msgid "Amount per serving"
+msgstr "Cantidad por porción"
+
+msgid "Calories"
+msgstr "Calorías"
+
+msgid "Calories from Fat 18"
+msgstr "Calorías de grasa 18"
+
+msgid "% Daily Values"
+msgstr "Valores Diarios %"
+
+msgid "Total Fat"
+msgstr "Grasa Total"
+
+msgid "Saturated Fat"
+msgstr "Grasa Saturada"
+
+msgid "Trans Fat"
+msgstr "Grasas Trans"
+
+msgid "Cholesterol"
+msgstr "Colesterol"
+
+msgid "Sodium"
+msgstr "Sodio"
+
+msgid "Total Carbohydrate"
+msgstr "Carbohidratos Totales"
+
+msgid "Dietary Fiber"
+msgstr "Fibra Dietética"
+
+msgid "Sugars"
+msgstr "Azúcares"
+
+msgid "*Percent Daily Values are based on a 2,000 calorie diet. Your daily Values may be higher or lower depending on your calories needs."
+msgstr "*Los Valores Diarios Porcentuales se basan en una dieta de 2,000 calorías. Sus Valores diarios pueden ser más altos o más bajos dependiendo de sus necesidades calóricas."
+
+msgid "Serving Size: 227g"
+msgstr "Tamaño de la Porción: 227g"
+
+msgid "Calories from Fat 691"
+msgstr "Calorías de Grasa 691"
+
+msgid "Click here to view nutrition labels"
+msgstr "haga clic aquí para ver están las etiquetas nutricionales"
+
+msgid "Using what you know about... healthy eating... to solve a problem"
+msgstr "Utilizando lo que sabes acerca de... comer sanamente... para resolver un problema"
+
+msgid "You are a <span class='key'>nutritionist</span> (a person who advises people on matters of healthy eating). You have a client who does not want to lose weight. He simply wants to learn to eat healthy foods that fit his lifestyle. So you go over calories and a basic meal plan with him on the first session."
+msgstr "Tú eres un/a <span class='key'>nutriólogo/a</span> (una persona que aconseja a las personas sobre cómo comer sanamente). Tienes un cliente que no quiere bajar de peso. Simplemente quiere aprender a comer alimentos saludables que encajan con su estilo de vida. Así que le explicas las calorías y un plan de alimentación básico en la primera sesión."
+
+msgid "Using what your client now knows about healthy eating, which snack would you suggest he has: pretzels or potato chips? Below are the nutrition labels, discuss the nutritional values of both snacks and compare them. Which snack would you advise he should eat based on calories? Remember to take the fat, salt, and sugar content of each food into consideration. You can also add in any suggestions you have for a healthier snack."
+msgstr "Utilizando lo que tu cliente ahora sabe acerca de comer sanamente, ¿cuál refrigerio crees que él comerá: pretzels o patatas fritas? Debajo están las etiquetas nutricionales, analiza los valores nutricionales de ambos refrigerios y compáralos. ¿Cuál refrigerio le recomendarías que comiera basándote en las calorías? Recuerda tomar en consideración el contenido de grasa, sal y azúcar de cada alimento. También puedes añadir cualquier sugerencia que tengas sobre refrigerios más sanos."
+
+msgid "Planning for diet..."
+msgstr "Planeando tu dieta..."
+
+# 11
+msgid "Summarizing big ideas about... healthy eating"
+msgstr "Resumiendo ideas clave acerca de... comer sanamente"
+
+msgid ""
+"A healthy <span class='key'>diet</span> contains different kinds of foods. <span class='key'>MyPyramid</span>, a <span class='key'>food pyramid</span> of the five food groups, shows the need to find a balance between our food intake and physical activity.  There are five food groups: Grains, Vegetables, Fruits, Milk, and Meat & Beans. Grains are divided into two subgroups: whole grains and refined grains. Food in the meat and beans group offers the body protein. While following the basic guidelines of MyPyramid, every person needs their own plan for what to eat every day. We can look at the energy in food using its unit (<span class='key'>calorie</span>) to see how much of which foods we should eat. We also need vitamins, minerals, and oils as part of our balanced diet. Being physically active is a key element in living a longer, healthier, happier life and goes hand in hand with <span class='key'>healthy eating</span>."
+msgstr ""
+"Una <span class='key'>dieta</span> sana contiene distintos tipos de alimentos. <span class='key'>MyPyramid</span>, una <span class='key'>pirámide alimenticia</span> de los cinco grupos alimenticios, muestra la necesidad de encontrar un balance entre nuestra ingesta de comida y actividad física. Hay cinco grupos alimenticios: Granos, Vegetales, Frutas, Lácteos, y Carnes & Legumbres. Los granos se dividen en dos subgrupos: granos enteros y granos refinados. La comida en el grupo de carnes y legumbres le proporciona proteínas al cuerpo. Siguiendo los lineamientos básicos de MyPyramid, cada persona necesita su propio plan sobre qué comer cada día. Podemos medir la energía de la comida utilizando su unidad (<span class='key'>caloría</span>) para saber cuántos y cuáles alimentos deberíamos comer. También necesitamos vitaminas, minerales y aceites como parte de nuestra dieta balanceada. Estar físicamente activos es un "
+"elemento clave para vivir una vida más larga, sana y feliz y va de la mano con <span class='key'>comer sanamente</span>."
+
+# 12
+msgid "Reviewing key vocabulary related to... healthy eating"
+msgstr "Revisando vocabulario clave relacionado con... comer sanamente"
+
+msgid "The food one eats. Some people try to restrict their diet in order to be healthier."
+msgstr "Los alimentos que una persona come. Algunas personas intentan restringir su dieta para estar más sanos."
+
+msgid "Diet"
+msgstr "Dieta"
+
+msgid "Food Guidance System"
+msgstr "Sistema de Guía Alimentaria"
+
+msgid "The Food Guidance System (MyPyramid) is an educational tool to help individuals implement the Dietary Guidelines for Americans published jointly by the Department of Health and Human Services and the U.S. Department of Agriculture."
+msgstr "El Sistema de Guía Alimentaria (MyPyramid) es una herramienta educativa para ayudar a los individuos a implementar los Lineamientos Dietéticos para los Estadounidenses publicadas en conjunto por el Departamento de Salud y Servicios Humanos y el Departamento de Agricultura de EE.UU.."
+
+msgid "Food Pyramid (MyPyramid)"
+msgstr "Pirámide Alimenticia (MyPyramid)"
+
+msgid "The recommended servings of various food groups one should eat daily according to the Department of Health and Human Services and the USDA."
+msgstr "Las porciones recomendadas de diversos grupos alimenticios que una persona debería comer diariamente de acuerdo al Departamento de Salud y Servicios Humanos y el USDA."
+
+msgid "Whole grains"
+msgstr "Granos enteros"
+
+msgid "A cereal grain that has not been processed or refined.  That is, it contains the germ, endosperm, and bran.  An example would be whole wheat bread."
+msgstr "Un grano de cereal que no ha sido procesado o refinado. Es decir, contiene el germen, endospermo y salvado. Un ejemplo sería el pan de trigo integral."
+
+msgid "Refined grains"
+msgstr "Granos refinados"
+
+msgid "A cereal grain that has been processed so that it only contains the endosperm.  An example would be white bread."
+msgstr "Un grano de cereal que ha sido procesado para que sólo contenga el endospermo.  Un ejemplo sería el pan blanco."
+
+msgid "Calorie"
+msgstr "Caloría"
+
+msgid "A unit of measurement for energy.  Food calories, also called kilocalories, are expressed as kcal or with a capital letter C."
+msgstr "Una unidad de medida de energía. Las calorías en los alimentos, también llamadas kilocalorías, se expresan como kcal o con una letra C mayúscula."
+
+msgid "Nutritionist"
+msgstr "Nutriólogo/a"
+
+msgid "Someone who is an expert in human nutrition and studies the effects of food on the body."
+msgstr "Alguien que es experto en la nutrición humana y estudia los efectos de los alimentos en el cuerpo."
+
+msgid "Healthy eating"
+msgstr "Comer sanamente"
+
+msgid "Consuming a balance of different types of food so that one gets the various vitamins, nutrients, and calorie sources needed. There is some dispute as to what diet is healthiest."
+msgstr "Consumir un balance de distintos tipos de alimentos para que una persona obtenga las diversas fuentes de vitaminas, nutrientes y calorías. Hay cierta disputa sobre cuál dieta es la más sana."
+
+# 13
+msgid "Checking what you now know about... healthy eating"
+msgstr "Revisando lo que sabes ahora acerca de... comer sanamente"
+
+# 14
+msgid "Which word completes this basic rule of healthy eating?"
+msgstr "¿Cuál palabra complementa esta regla básica de comer sanamente?"
+
+msgid "Eat a"
+msgstr "¡Comer una"
+
+msgid "of Food!"
+msgstr "de alimentos!"
+
+msgid "lot"
+msgstr "cantidad"
+
+msgid "variety"
+msgstr "variedad"
+
+msgid "calorie"
+msgstr "caloría"
+
+msgid "mouthful"
+msgstr "porción"
+
+msgid "No, the amount of food you eat should be based on how much your body needs."
+msgstr "No, la cantidad de alimentos que debes comer se basa en cuánto necesita tu cuerpo."
+
+msgid "Correct. Your body needs a variety of food to stay healthy."
+msgstr "Correcto. Tu cuerpo necesita una variedad de alimentos para mantenerse sano."
+
+msgid "No, calories are just a way of measuring the energy each food gives off. There should be a balance between the amount of calories you take in and the amount of exercise you do each day."
+msgstr "No, las calorías son sólo una forma de medir la energía que cada alimento da. Debería haber un balance entre la cantidad de calorías que ingieres y la cantidad de ejercicio que realizas cada día."
+
+msgid "No, your body needs a variety of food to stay healthy."
+msgstr "No, tu cuerpo necesita una variedad de alimentos para mantenerse sano."
+
+# 15
+msgid "Why should we try to make half of the grains we eat daily whole grain food?"
+msgstr "¿Por qué debemos tratar que la mitad de los granos que comemos diariamente sean granos enteros?"
+
+msgid "Because whole grain food has fiber, iron, and B vitamins."
+msgstr "Porque los alimentos de granos enteros tienen fibra, hierro y vitaminas B."
+
+msgid "Because white bread and white rice have more calories."
+msgstr "Porque el pan blanco y el arroz blanco tienen más calorías."
+
+msgid "Because whole grain food has health benefits for our teeth."
+msgstr "Porque los alimentos de granos enteros tienen beneficios para la salud de nuestros dientes."
+
+msgid "Because white bread and white rice are too expensive."
+msgstr "Porque el pan blanco y el arroz blanco son demasiado costosos."
+
+msgid "Looking for whole grains..."
+msgstr "Buscando granos enteros..."
+
+msgid "Correct. Whole grain food has fiber, iron, and B vitamins in it. Whereas white bread and white rice have those taken out when processed."
+msgstr "Correcto. Los alimentos de granos enteros tienen fibra, hierro y vitaminas B en ellos. Mientras que el pan blanco y el arroz blanco los pierden al ser procesados."
+
+msgid "No, whole grains are more nutritious, they have fiber, iron, and B vitamins."
+msgstr "No, los granos enteros son mucho más nutritivos, tienen fibra, hierro y vitaminas B."
+
+msgid "Not quite, whole grain food has benefits, but not necessarily for our teeth. It has fiber, iron, and B vitamins."
+msgstr "No exactamente, los alimentos de granos enteros tienen beneficios, pero no necesariamente para nuestros dientes. Tienen fibra, hierro y vitaminas B."
+
+msgid "No, the cost of whole grain food is not considered, its benefits are. It has fiber, iron, and B vitamins."
+msgstr "No, el costo de los alimentos de granos enteros no se toma en cuenta, sus beneficios sí. Tienen fibra, hierro y vitaminas B."
+
+# 16
+msgid "The word calorie is best related to which word?"
+msgstr "¿La palabra caloría se relaciona mejor con qué palabra?"
+
+msgid "Fat"
+msgstr "Grasa"
+
+msgid "Energy"
+msgstr "Energía"
+
+msgid "Protein"
+msgstr "Proteína"
+
+msgid "Serving"
+msgstr "Porción"
+
+msgid "No, fat is high in calories, but calorie is a unit of energy."
+msgstr "No, la grasa tiene un alto número de calorías, pero la caloría es una unidad de energía."
+
+msgid "Correct. Energy is related to calories because calorie is a unit of energy."
+msgstr "Correcto. La energía se relaciona con las calorías porque la caloría es una unidad de energía."
+
+msgid "No. Energy is related to calories because calorie is a unit of energy."
+msgstr "No. La energía se relaciona con las calorías porque la caloría es una unidad de energía."
+
+msgid "Not quite. Serving is related to calorie because the nutritional information given on products are usually based on one serving size. But it is related even more to energy because calorie is a unit of energy."
+msgstr "No exactamente. Una porción se relaciona con las calorías porque la información nutricional que se da sobre los productos se basa normalmente en una porción. Pero se relaciona más con la energía porque la caloría es una unidad de energía."
+
+msgid "Checking daily calories..."
+msgstr "Revisando calorías diarias..."
+
+# 17
+msgid "What does your body do with calories you eat but do not use?"
+msgstr "¿Qué hace tu cuerpo con las calorías que comes pero no utilizas?"
+
+msgid "Your body gets rid of them."
+msgstr "Tu cuerpo las elimina."
+
+msgid "Your body always uses all the calories you eat."
+msgstr "Tu cuerpo siempre utiliza todas las calorías que comes."
+
+msgid "Your body stores unused calories as fat."
+msgstr "Tu cuerpo almacena calorías no utilizadas como grasa."
+
+msgid "All of the above"
+msgstr "Todas las anteriores"
+
+msgid "Flipping the box..."
+msgstr "Dando vuelta a la caja..."
+
+msgid "No, your body will get rid of calories if they are used up, for instance when you exercise. Unused calories are stored as fat."
+msgstr "No, tu cuerpo eliminará las calorías si son utilizadas, por ejemplo cuando haces ejercicio. Las calorías no utilizadas se almacenan como grasa."
+
+msgid "No, your body uses the calories that you need and stores the rest as fat."
+msgstr "No, tu cuerpo utiliza las calorías que necesitas y almacena el resto como grasa."
+
+msgid "Correct. Unused calories are stored as fat, you can burn unused calories by exercising."
+msgstr "Correcto. Las calorías no utilizadas se almacenan como grasa, puedes quemar calorías no utilizadas haciendo ejercicio."
+
+msgid "No. Your body stores unused calories as fat. Your body does not always use all the calories you eat. It does not automatically get rid of the unused calories."
+msgstr "No. Tu cuerpo almacena calorías no utilizadas como grasa. Tu cuerpo no siempre utiliza todas las calorías que comes. No elimina automáticamente las calorías no utilizadas."
+
+# 18
+msgid "Sorting ingredients..."
+msgstr "Clasificando ingredientes..."
+
+msgid "Match the foods on the top with what they contain on the bottom."
+msgstr "Une los alimentos de la parte superior con lo que contienen en la parte inferior."
+
+msgid "Whole Cornmeal"
+msgstr "Sémola de Maíz Entero"
+
+msgid "Avocados"
+msgstr "Aguacates"
+
+msgid "Chicken"
+msgstr "Pollo"
+
+msgid "Grape Fruit"
+msgstr "Toronja"
+
+msgid "Iron"
+msgstr "Hierro"
+
+msgid "Natural Oils"
+msgstr "Aceites Naturales"
+
+msgid "Calcium"
+msgstr "Calcio"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Correct! Milk has calcium, whole cornmeal has iron, avocados have natural oils, chicken has protein, and grapefruit has vitamin C. All these foods have even more in them than what is listed."
+msgstr "¡Correcto! La leche tiene calcio, la sémola de maíz entero tiene hierro, los aguacates tienen aceites naturales, el pollo tiene proteínas, y la toronja tiene vitamina C. Todos estos alimentos tienen aún más en ellos que lo que hemos mencionado."
+
+msgid "Not quite. Milk has calcium, whole cornmeal has iron, avocados have natural oils, chicken has protein, and grapefruit has vitamin C. All these foods have even more in them than what is listed."
+msgstr "No exactamente. La leche tiene calcio, la sémola de maíz entero tiene hierro, los aguacates tienen aceites naturales, el pollo tiene proteínas, y la toronja tiene vitamina C. Todos estos alimentos tienen aún más en ellos que lo que hemos mencionado."
+
+# 19
+msgid "The nutritional label and ingredients of a food are shown below. Based on this information, how many calories does 1.5 cups of this cereal have?"
+msgstr "La etiqueta nutricional y los ingredientes de un alimento se muestran debajo. Basándote en esta información, ¿cuántas calorías tienen 1.5 tazas de este cereal?"
+
+msgid "Serving Size 0.75 cup (28g)"
+msgstr "Tamaño de la Porción 0.75 taza (28g)"
+
+msgid "Serving Per Container 12"
+msgstr "Porciones Por Envase 12"
+
+msgid "Calories from Fat 15"
+msgstr "Calorías de Grasa 15"
+
+msgid "None of the above"
+msgstr "Ninguna de las anteriores"
+
+msgid "Potassium"
+msgstr "Potasio"
+
+msgid "No, one serving size has 110 calories. The question asks for 1 and a half cups (two servings), so you should double the amount of calories, 220."
+msgstr "No, una porción tiene 110 calorías. La pregunta pide 1 taza y media (dos porciones), así que deberías duplicar la cantidad de calorías, 220."
+
+msgid "Correct. Two serving sizes has double the amount of calories in the table: 2 X 110 = 220 calories for one and a half cups."
+msgstr "Correcto. Dos porciones tienen el doble de la cantidad de calorías en la tabla: 2 X 110 = 220 calorías por una taza y media."
+
+msgid "No, two serving sizes has double the amount of calories in the table: 2 X 110 = 220 calories for one and a half cups."
+msgstr "No, dos porciones tienen el doble de la cantidad de calorías en la tabla: 2 X 110 = 220 calorías por una taza y media."
+
+msgid "No, the correct answer is 220. Two serving sizes has double the amount of calories listed in the table."
+msgstr "No, la respuesta correcta es 220. Dos porciones tienen el doble de la cantidad de calorías listadas en la tabla."
+
+# 20
+msgid "You've completed the Healthy Eating module."
+msgstr "Has copmletado la revisión de Comer Sanamente."

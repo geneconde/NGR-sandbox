@@ -1,0 +1,900 @@
+# msgid "Finding facts..."
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthy Body\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid ""
+"No, some actions such as taking away your hand when it comes into contact "
+"with hot water are not controlled by our brain."
+msgstr ""
+"د.  لا، بعض الأفعال مثل سحب يدك بعيداً عندما تلامس الماء الساخن غير محكومة "
+"بدماغنا."
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار قصير رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Studying cells..."
+msgstr "دراسة الخلايا"
+
+msgid "Cells working together"
+msgstr "خلابا تعمل مع بعضها"
+
+msgid "Interconnecting body systems..."
+msgstr "ربط أجهزة الجسم داخلياً... "
+
+msgid "Passing on the messages..."
+msgstr "تمرير الرسائل"
+
+msgid "Recording information..."
+msgstr "تسجيل المعلومات"
+
+msgid "Presenting healthier lifestyle..."
+msgstr "تقديم أسلوب حياة أكثر صحة ..."
+
+msgid "Putting it all together"
+msgstr "وضع كل ذلك معا"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "اختبارك القصير الاول هو..."
+
+msgid "Recognizing similarities..."
+msgstr "ادراك التشابه"
+
+msgid "Brain interpreting information..."
+msgstr "تفسير الدماغ للمعلومات"
+
+msgid "Working nervous system..."
+msgstr "عمل الجهاز العصبي ..."
+
+msgid "Identifying parts of the body..."
+msgstr "تحديد أجزاء الجسم ..."
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال في الاختبار؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Healthy Body review,"
+msgstr "مرحبا بكم في مراجعة صحة الجسم،"
+
+# 2
+msgid "Thinking about... a healthy body"
+msgstr "التفكير ... بالجسم السليم."
+
+msgid ""
+"A healthy body... think about it. Eating right, exercising everyday, "
+"brushing your teeth, getting your shots, taking care of your skin, getting "
+"enough sleep, keeping your bowels moving, drinking enough water, staying "
+"away from harmful substances... there is a lot that we can and should do to "
+"keep our body healthy. How much time do you spend each day keeping your body "
+"healthy?"
+msgstr ""
+"الجسم السليم ... فكر في ذلك.  تناول الطعام المناسب، وممارسة التمارين "
+"اليومية، وتنظيف أسنانك، والحصول على تطعيماتك الخاصة ، ورعاية بشرتك، والحصول "
+"على قسط كاف من النوم، والحفاظ على حركة أمعائك ، وشرب كمية كافية من الماء، "
+"والبقاء بعيدا عن المواد الضارة ... هناك الكثير مما ينبغي القيام به لنحافظ "
+"على صحة الجسم.  كم من الوقت  تنفق كل يوم للحفاظ على جسمك صحي؟"
+
+# 3
+msgid "Checking what you know... about a healthy body"
+msgstr "التأكد من معرفتك عن الجسم الصحي."
+
+msgid ""
+"Choose <span class='blink'>true</span> or <span class='blink'>false</span> "
+"for each of the following statements and decide whether these ideas about "
+"the human body are fact or myth."
+msgstr ""
+"اختر ما هو  <span class='blink'>صحيح</span>  أو  <span class='blink'>خاطيء</"
+"span>  لكل من العبارات التالية وقرر  ما إذا كانت هذه الأفكار حول جسم الإنسان "
+"هي حقيقة أو خرافة."
+
+msgid "It is safe to follow the 5-second rule for dropped food."
+msgstr "من الامان ان نتبع قاعدة الخمس ثواني للطعام سقوط ."
+
+msgid "True"
+msgstr "صحيح"
+
+msgid "False"
+msgstr "خاطئ"
+
+msgid "Eating after dark causes weight gain."
+msgstr "تناول الطعام بعد حلول الظلام يسبب زيادة الوزن"
+
+msgid "Cracking your knuckles can cause arthritis."
+msgstr "طق مفاصل اصابعك من الممكن ان يسبب التهاب بالفاصل."
+
+msgid "Soda is bad for your kidneys."
+msgstr "الصودا سيئة لكليتيك."
+
+msgid ""
+"The acid in soda is hard on your kidneys. It is what you eat (and how many "
+"calories it contains) not when you eat it. Cracking your knuckles is a bad "
+"habit that causes hand swelling and less grip strength. It is not safe to "
+"eat anything off the floor."
+msgstr ""
+"الحوامض في الصودا قاسية على الكليتين.  انه ما تأكله (وعدد السعرات الحرارية "
+"الموجودة فيه) وليس متى تأكل.  طق مفاصل اصابعك هي عادة سيئة تسبب تورم اليد "
+"وتقلل من قوة قبضتها.  ليس من الأمان ان تأكل اي شيء عن الأرض."
+
+msgid ""
+"If you got these correct, you are on the right track to knowing how to keep "
+"your body healthy. You will see how all of what your body does is connected. "
+"Any part that stops working affects your whole system."
+msgstr ""
+"إذا كانت اجابتك صحيحة، فأنت على الطريق الصحيح لمعرفة كيفية الحفاظ على جسمك "
+"صحي.  سترى كيف أن كل ما يفعله جسمك متصل مع بعضه البعض.  أي جزء يتوقف عن  "
+"العمل يؤثر على نظام الجسم كله."
+
+# 4
+msgid "Reviewing core ideas... about a healthy body"
+msgstr "مراجعة الافكار الاساسية ...عن الجسم الصحي."
+
+msgid ""
+"The human body is made up of trillions of independent <span "
+"class='key'>cells</span>. Each cell is alive; it requires resources, and "
+"produces waste. We have hundreds of different types of cell, each "
+"specialized for its own functions. When many copies of the same cell type "
+"are gathered together, they are known as <span class='key'>tissue</span>. "
+"The body also contains many types of tissue. Some examples of cell and "
+"tissue types include muscle, bone, nervous, and skin."
+msgstr ""
+"يتكون جسم الإنسان من تريليونات من <span class='key'>الخلايا</span> "
+"المستقلة . كل خلية على قيد الحياة؛ تتطلب الموارد، وتنتج النفايات.  لدينا "
+"مئات الأنواع المختلفة من الخلايا، كل  منها متخصصة بمهامها الخاصة.  عندما "
+"تجمع عدة نسخ من نفس نوع الخلايا معا، و هي معروفة ب <span "
+"class='key'>الأنسجة</span>. يحتوي الجسم أيضا على العديد من الأنسجة.  وتشمل "
+"بعض الأمثلة على أنواع الخلايا والأنسجة العضلية والعظام والجهاز العصبي والجلد."
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together."
+msgstr ""
+"<span class='key'>الأعضاء</span>  هي مجموعات من الأنسجة مجتمعة معا لأداء "
+"وظائف الجسم الرئيسية.  عندما نتحدث عن هذه النظم مثل الدورة الدموية أو الجهاز "
+"الهضمي، في الواقع  نحن نتحدث عن مجموعات من الأجهزة التي تعمل معا."
+
+msgid ""
+"Organs work together to make up a <span class='key'>body system</span>. Our "
+"skeleton supports us. Our muscles move us. Our skin and hair protect us. Our "
+"digestive system takes nutrients from our food. Our nervous system transmits "
+"information around our bodies. Our respiratory system brings in the oxygen "
+"we need to survive. Our circulatory system pumps blood. Our immune system "
+"fights disease. And our reproductive system produces the babies that keep "
+"our families going from generation to generation."
+msgstr ""
+"الأعضاء تعمل معا لتشكل <span class='key'>نظام الجسم</span> .  هيكلنا العظمي "
+"يدعمنا.  عضلاتنا تحركنا .  جلدنا والشعر يحمينا.  نظامنا الهضمي يأخذ المغذيات "
+"من طعامنا.  نظامنا العصبي ينقل المعلومات حول أجسامنا.  نظامنا التنفسي يجلب "
+"الأوكسجين الذي نحن بحاجة إليه للبقاء على قيد الحياة.  نظام الدورة الدموية "
+"يضخ الدم .  نظام المناعة يحارب المرض.  والجهاز التناسلي لدينا ينتج الأطفال "
+"التي تبقي عائلاتنا مستمرة  من جيل إلى جيل."
+
+# 5
+msgid "Preparing your first quick check..."
+msgstr "التحضير لأول تقويم سريع!"
+
+msgid "Question A. Choose the <span class='blink'>correct</span> statement."
+msgstr "السؤال أ: اختر العبارة الصحيحة."
+
+msgid "Cells are made up of tissues."
+msgstr "الخلايا مصنوعة من الأنسجة."
+
+msgid "Tissues are made up of cells."
+msgstr "الأنسجة مصنوعة من الخلايا."
+
+msgid "Cells are made up of organs."
+msgstr "الخلايا تتكون من الأعضاء."
+
+msgid "All living things are made up of two or more cells."
+msgstr "جميع الكائنات الحية تتكون من اثنين أو أكثر من الخلايا."
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"اقلب او دور الصندوق ادناه للاعلى او للاسفل لتحديد الاجابة الصحيحة. انقر، على "
+"الفأرة وحركها اعلى او اسفل."
+
+msgid "No, tissues are made up of cells."
+msgstr "لا, الأنسجة تتكون من الخلايا."
+
+msgid "Correct, tissues are made up of cells."
+msgstr "صحيح, الأنسجة تتكون من الخلايا."
+
+msgid "No, organs are made up of tissues (which are made up of cells)."
+msgstr "لا, الأعضاء مصنوعة من الأنسجة (والتي تصنع من الخلايا)."
+
+msgid "No, there are single cell organisms."
+msgstr ".لا، هناك كائنات وحيدة الخلية."
+
+# 6
+msgid "More core ideas... about a healthy body"
+msgstr "المزيد من الافكار الاساسية ...حول جسم صحي."
+
+msgid ""
+"Human beings are living things, made of cells. They use energy to move, "
+"grow, and respond to stimuli. They must be able to breathe, circulate blood, "
+"and reproduce. That's a lot for one body to do. It all works because the "
+"body's cells all work together. Each cell type has special jobs and chores. "
+"Similar cells are organized into tissues. Cells with the same function "
+"combine to form organs. If one of them stops working, the body can't run "
+"smoothly. Let's take a closer look at a few organs."
+msgstr ""
+"البشر هم الكائنات الحية، مصنوعة من خلايا.  إنها تستخدم الطاقة للتحرك، "
+"والنمو، والاستجابة للمؤثرات.  يجب أن تكون قادرة على التنفس، وتوزيع الدم، "
+"والتكاثر.  وهذا كثير  على جسد واحد .  كل شيء يعمل لأن خلايا الجسم جميعا تعمل "
+"مع بعضها.  كل نوع من الخلايا له وظيفة وأعمال خاصة . ويتم تنظيم خلايا مماثلة "
+"في الأنسجة. الخلايا التي تحتوي على نفس الوظيفة تتجمع لتشكل الأعضاء.  إذا كان "
+"واحد منها قد توقف عن العمل، لا يستطيع الجسم أن يعمل بسلاسة.  دعونا نلقي نظرة "
+"قريبة على عدد من الأعضاء."
+
+msgid "Move"
+msgstr "تحرك"
+
+msgid "Respire (Exchange of gases)"
+msgstr "تنفس (تبادل الغازات)."
+
+msgid "Sense and respond to change"
+msgstr "الشعور والاستجابة للتغييرات."
+
+msgid "Nutrition for energy"
+msgstr "التغذية  للحصول على الطاقة."
+
+msgid "Excrete waste"
+msgstr "إفرز المخلفات."
+
+msgid "Reproduce"
+msgstr "تكاثر"
+
+msgid "Grow and develop"
+msgstr "النمو والتطور."
+
+msgid ""
+"Your heart, lungs, kidneys, and intestines are all important organs. But "
+"they are not the only organs that help keep our body healthy. Skin is the "
+"human body's largest organ. It protects the bones and organs inside our "
+"bodies, as well as protecting our bodies from outside diseases. Skin allows "
+"you to feel and react to heat and cold and regulates your body heat. Your "
+"nose is an organ that helps you breathe. Even the hairs in your nose have "
+"important functions. They add moisture, adjust air temperature, and filter "
+"out germs, dust, and even insects. The nervous system receives information "
+"from other body systems. That information is processed in the brain, which "
+"sometimes sends action signals back to other organ systems."
+msgstr ""
+"قلبك والرئتين والكلى والأمعاء كلها أجهزة هامة.  ولكنها ليست فقط الأجهزة التي "
+"تساعد على الحفاظ على الجسم بصحة جيدة.  الجلد هو أكبر عضو في جسم الإنسان. "
+"لأنه يحمي العظام والأعضاء داخل أجسامنا، وكذلك حماية أجسامنا من الأمراض "
+"الخارجية. الجلد يسمح لك أن تشعر وتتفاعل مع الحرارة والبرودة وينظم حرارة "
+"الجسم.  الأنف هو الجهاز الذي يساعدك على التنفس.  حتى الشعر في الأنف له وظائف "
+"هامة فهو يضيف الرطوبة، وضبط درجة حرارة الهواء، وتصفية الجراثيم والغبار، حتى "
+"الحشرات.  يستقبل الجهاز العصبي المعلومات من أجهزة الجسم الأخرى.  تتم معالجة "
+"تلك المعلومات في الدماغ، الذي يرسل إشارات في بعض الأحيان إلى أجهزة الجسم "
+"الأخرى."
+
+# 7
+msgid ""
+"Question A. Click on the statement that is <span class='blink'>not correct</"
+"span>."
+msgstr "سؤال أ. اضغط على العبارة <span class='blink'>غير</span> الصحيحة ."
+
+msgid "The human body is made up of complicated, interrelated systems."
+msgstr "يتكون جسم الإنسان من نظم معقدة ومترابطة."
+
+msgid "For every job the body has, there is a structure that will do the job."
+msgstr "لكل وظيفة في الجسم ، هناك هيكل من شأنه أن يقوم  بهذه الوظيفة."
+
+msgid ""
+"If one body system stops working, the body just keeps going and working fine."
+msgstr "إذا توقف نظام الجسم عن العمل، يستمر  الجسد بالعمل على ما يرام."
+
+msgid "Organs are made up of tissues."
+msgstr "الأعضاء مصنوعة من الأنسجة."
+
+msgid ""
+"Question B. The systems in the human body are interrelated and "
+"interconnected. Which of the following statements are <span "
+"class='blink'>true</span>?"
+msgstr ""
+"السؤال ب. النظم في جسم الإنسان مترابطة ومتداخلة. أي من العبارات التالية "
+"<span class='blink'>صحيحة</span> ؟"
+
+msgid "The systems work separately from one another."
+msgstr "الأنظمة تعمل بشكل مستقل عن بعضها البعض."
+
+msgid "The systems depend on one another."
+msgstr "تعتمد النظم على بعضها البعض."
+
+msgid "The systems are connected, but too complex to understand."
+msgstr "هذه النظم مرتبطة بعضها ببعض. ولكن فهمها معقد جدا."
+
+msgid "When one system works, the other does not."
+msgstr "عندما يعمل نظام معين، النظم الآخرى لا تعمل."
+
+msgid ""
+"No. This statement is correct. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"لا، هذه العبارة صحيحة. إذا توقف أحد الأنظمة عن العمل، لا يستطيع الجسم العمل "
+"بسلاسة."
+
+msgid ""
+"Yes. This statement is false. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"نعم, هذه العبارة خاطئة.  إذا توقف أحد الأنظمة عن العمل، لا يستطيع الجسم "
+"العمل بسلاسة."
+
+msgid "Sorry, that statement is true. Organs are made of tissues."
+msgstr "اسف, هذا العبارة صحيحة. الأعضاء مصنوعة من الأنسجة."
+
+msgid ""
+"No, the body systems are connected in many ways and depend on one another."
+msgstr ""
+"لا، ترتبط  أجهزة الجسم مع بعضها البعض  في نواح كثيرة وتعتمد على بعضها البعض."
+
+msgid ""
+"Yes, the body systems are connected in many ways and depend on one another."
+msgstr ""
+"نعم، ترتبط  أجهزة الجسم مع بعضها البعض  في نواح كثيرة وتعتمد على بعضها البعض."
+
+# 8
+msgid ""
+"Your brain is in charge of most everything that you do. It doesn't work "
+"alone though. The brain is part of a system, the <span class='key'>nervous "
+"system</span>, one that works with the spinal cord and lots of nerves. "
+"Different kinds of nerves have different functions. <span "
+"class='key'>Sensory nerves</span> help us gather information about the world "
+"around us. When we see, hear, taste, touch, or smell, our sensory nerves "
+"carry that information to the brain. After the brain processes the "
+"information, <span class='key'>motor nerves</span> have the responsibility "
+"of passing on the messages the brain sends to the muscles all over the body."
+msgstr ""
+"الدماغ هو المسؤول عن معظم ما تفعله.  على الرغم من أنه  لا يعمل وحده .  "
+"الدماغ هو جزء من نظام <span class='key'>الجهاز العصبي</span> ، والذي  يعمل "
+"مع الحبل الشوكي والكثير من الأعصاب. أنواع مختلفة من الأعصاب لها وظائف "
+"مختلفة. <span class='key'>الأعصاب الحسية</span> تساعدنا  على جمع المعلومات "
+"عن العالم من حولنا.  عندما نرى، نسمع، نتذوق،نلمس، أو نشم،أعصابنا الحسية تحمل "
+"المعلومات إلى الدماغ.  و بعد أن يعالجها الدماغ ، <span class='key'>الأعصاب "
+"الحركية</span>  لديها مسؤولية تمرير الرسائل الى الدماغ ومن ثم يرسلها إلى "
+"العضلات في جميع أنحاء الجسم."
+
+msgid ""
+"That might have been a lot of information for your brain to process. Let's "
+"say it in another way. We receive different types of information through our "
+"senses, then process them in our brain, and then our bodies respond to the "
+"information in different ways. For example, while we are walking and we see "
+"something in front of us, we move over so we do not bump into it. Let's look "
+"at that in slow motion. First, our eyes receive the information that an "
+"object may be in our way. Our brain processes this information and tells the "
+"body how to react and what to do about this possible danger. In this case it "
+"orders our legs to continue moving, but on a different path."
+msgstr ""
+"قد يكون هنالك الكثير من المعلومات يتوجب على الدماغ معالجتها. لنقولها بطريقة "
+"أخرى , اننا نتلقى عدة انواع من المعلومات من خلال حواسنا, ومن ثم نعالجها عن "
+"طريق دماغنا، ثم تستجيب أجسامنا للمعلومات بطرق مختلفة.  على سبيل المثال، "
+"عندما نسير ونرى شيئا امامنا نبتعد حتى لا نصطدم به.  لنرى ذلك في حركة بطيئة، "
+"أولا أعيننا تتلقى معلومات بأن هنالك شيئا يعيق طريقنا, يعالج دماغنا هذه "
+"المعلومات ويخبر الجسم كيفية التصرف وماذا يفعل حيال هذا الخطر المحتمل.  في "
+"هذه الحالة فإنه يأمر أرجلنا إلى مواصلة التحرك، ولكن بمسار مختلف."
+
+# 9
+msgid ""
+"Question A. Click on the <span class='red blink'>BEST</span> statement about "
+"the nervous system."
+msgstr ""
+"السؤال أ. اضغط على <span class='red blink'>أفضل</span> مفهوم عن الجهاز "
+"العصبي."
+
+msgid "The nervous system consists of the brain and the spinal cord."
+msgstr "يتكون الجهاز العصبي من الدماغ والحبل الشوكي."
+
+msgid "Sensory nerves along with the brain make up the nervous system."
+msgstr "الأعصاب الحسية إلى جانب الدماغ تشكل الجهاز العصبي."
+
+msgid ""
+"The nervous system consists of the brain, spinal cord, and a complex network "
+"of nerves."
+msgstr "يتكون الجهاز العصبي من الدماغ والحبل الشوكي، وشبكة معقدة من الأعصاب."
+
+msgid ""
+"Question B. Put the following steps of how our nervous system basically "
+"works in the correct order by dragging the items  up or down."
+msgstr ""
+"السؤال ب. ضع الخطوات التالية لكيفية عمل نظامنا العصبي في الترتيب الصحيح عن "
+"طريق سحب العناصر لأعلى أو لأسفل."
+
+msgid ""
+"Sensory nerve cells take information from the eyes, ears, nose, tongue, and "
+"skin to the brain."
+msgstr ""
+"الخلايا العصبية الحسية تأخذ المعلومات من العينين والأذنين والأنف واللسان "
+"والجلد إلى الدماغ."
+
+msgid ""
+"Motor nerve cells carry messages away from the brain and back to the rest of "
+"the body."
+msgstr "الخلايا العصبية الحركية تحمل رسائل من الدماغ إلى باقي الجسم."
+
+msgid ""
+"In the brain, the nerve cells relay information to each other through a "
+"complex process."
+msgstr ""
+"في الدماغ، تنقل الخلايا العصبية المعلومات إلى بعضها البعض من خلال عملية "
+"معقدة."
+
+msgid ""
+"Not quite, the complex network of nerves is also part of the nervous system."
+msgstr "ليس تماما، الشبكة المعقدة من الأعصاب هي أيضا جزء من الجهاز العصبي."
+
+msgid "Not quite, the spinal cord is also part of the nervous system."
+msgstr "ليس تماما، الحبل الشوكي هو أيضا جزء من الجهاز العصبي."
+
+msgid ""
+"Correct! The brain, spinal cord, and complex network of nerves make up the "
+"nervous system."
+msgstr "صحيح! الدماغ والحبل الشوكي، وشبكة معقدة من الأعصاب تشكل الجهاز العصبي."
+
+msgid ""
+"Good job! Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"صحيح! الخلايا العصبية  تأخذ المعلومات إلى الدماغ، حينما  يعطى الأوامر , ثم "
+"يتم  حمل الرسالة إلى الجسم."
+
+msgid ""
+"Not quite. Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"ليس تماما, الخلايا العصبية  تأخذ المعلومات إلى الدماغ، حينما  يعطى الأوامر , "
+"ثم يتم  حمل الرسالة إلى الجسم."
+
+# 10
+msgid "Using what you know... about a healthy body... to solve a problem"
+msgstr "استخدام ما تعرفه ... عن الجسم السليم ... من أجل حل مشكلة."
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"You are a physician giving a lecture to a sixth grade class that just "
+"finished a unit on health in their science class. The teacher has invited "
+"you to speak for these students."
+msgstr ""
+"أنت طبيب يعطي محاضرة لطلاب الصف السادس الذي انتهى لتوه من وحدة عن الصحة في "
+"حصة العلوم. و قد دعاك المعلم  للتحدث  لهؤلاء الطلاب."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"Discuss three health issues students face at school. Offer solutions to a "
+"healthier lifestyle. Even though your presentation at school will be half an "
+"hour, outline the health problems and solutions you plan to present to the "
+"students in the text box provided below."
+msgstr ""
+"ناقش ثلاثة قضايا صحية تواجه الطلاب في المدرسة.  قدم حلول لحياة صحية.  على "
+"الرغم من أن العرض التقديمي في المدرسة سيكون مدته نصف ساعة، لخص  المشاكل "
+"الصحية وأوجد حلول تنوي عرضها للطلاب في مربع النص أدناه."
+
+msgid "Please type your answer here..."
+msgstr "من فضلك, اطبع اجابتك هنا"
+
+msgid "Please type your answer."
+msgstr "يرجى كتابة جوابك."
+
+# 11
+msgid "Summarizing core ideas... about a healthy body"
+msgstr "تلخيص الأفكار الأساسية ... حول الجسم الصحي."
+
+msgid ""
+"<span class='key'>Cells</span> are organized into <span class='key'>tissues</"
+"span> which perform special tasks. The tissues, then, are organized into "
+"<span class='key'>organs</span> which each take care of one or more "
+"functions. The organs and systems all work to perform the body's functions: "
+"use energy to move and grow, respond to stimuli, reproduce, and breathe. "
+"Every major function required of living things has an organ system to "
+"perform it. The <span class='key'>nervous system</span> makes decisions and "
+"controls the other systems. To do this, we receive different types of "
+"information through our senses, then process them in our brain (part of the "
+"<span class='key'>nervous system</span>), and then our bodies respond to the "
+"information in different ways."
+msgstr ""
+"يتم تنظيم <span class='key'>الخلايا</span> في <span class='key'>الأنسجة</"
+"span> والتي بدورها تقوم بمهام خاصة.  يتم تنظيم الأنسجة في <span "
+"class='key'>الأعضاء</span> كل منهما يقوم بمهمة واحدة أو أكثر. الأعضاء واجهزة "
+"الجسم يعملون لأداء مهام الجسم.  استخدام الطاقة للتحرك والنمو، والاستجابة "
+"للمؤثرات والتكاثر، والتنفس.  كل وظيفة رئيسية تطلب من الكائنات الحية  لتنفيذ "
+"ذلك. <span class='key'>الجهاز العصبي</span>  يصنع القرارات ويتحكم في النظم "
+"الأخرى.  للقيام بذلك، نتلقى أنواع مختلفة من المعلومات من خلال <span "
+"class='key'>النظام العصبي</span>، ثم معالجتها في الدماغ (جزء من الجهاز "
+"العصبي ، ومن ثم ترد أجسامنا  على المعلومات بمختلف الطرق."
+
+# 12
+msgid "Reviewing key vocabulary related to... a healthy body"
+msgstr "مراجعة المفردات ذات الصلة ... بصحة الجسم."
+
+msgid "Tissue"
+msgstr "نسيج"
+
+msgid ""
+"When many copies of the same cell type are gathered together, they are known "
+"as tissue. The body also contains many types of tissue. Some examples of "
+"cell and tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"عندما يتم جمع عدة نسخ من نفس نوع الخلايا معا،   هذه الخلايا تعرف بالأنسجة.  "
+"يحتوي الجسم أيضا العديد من أنواع الأنسجة.  بعض الأمثلة على أنواع الخلايا "
+"يشمل الأنسجة العضلية والعصبية والعظام والجلد."
+
+msgid "Organ"
+msgstr "عضو"
+
+msgid ""
+"Organs are groups of tissues combined together to perform the body's major "
+"functions. When we talk about such systems as the circulatory or digestive "
+"system, we are actually talking about groups of organs working together."
+msgstr ""
+"الأجهزة هي مجموعات من الأنسجة مجتمعة معا لأداء وظائف الجسم الرئيسية.  عندما "
+"نتحدث عن نظم مثل الدورة الدموية أو الجهاز الهضمي، نحن نتحدث في الواقع عن "
+"مجموعات من الأجهزة التي تعمل معا."
+
+msgid "Body system"
+msgstr "نظام الجسم"
+
+msgid ""
+"Organs work together to make up a body system. Our skeleton supports us. Our "
+"muscles move us. Our skin and hair protect us. Our digestive system takes "
+"nutrients from our food. Our nervous system transmits information around our "
+"bodies. Our respiratory system brings in the oxygen we need to survive. Our "
+"circulatory system pumps blood. Our immune system fights disease. And our "
+"reproductive system produces the babies that keep our families going from "
+"generation to generation. All these are body systems."
+msgstr ""
+"الأعضاء تعمل معا لتشكل نظام الجسم . الهيكل العظمي يدعمنا. عضلاتنا تحركنا .  "
+"الجلد والشعر يحمينا .  نظامنا الهضمي يأخذ المغذيات من طعامنا.  نظامنا العصبي "
+"ينقل المعلومات في جمعي أجسامنا. نظامنا التنفسي يجلب الأوكسجين  الذي نحن "
+"بحاجة إليه البقاء على قيد الحياة. نظام الدورة الدموية يضخ الدم . نظام "
+"المناعة يحارب المرض.  والجهاز التناسلي لدينا ينتج الأطفال التي تبقي عائلاتنا "
+"مستمرة  من جيل إلى جيل.  كل هذه أجهزة في الجسم."
+
+msgid "Nervous system"
+msgstr "الجهاز العصبي"
+
+msgid ""
+"Our nervous system transmits information around our bodies. The brain and "
+"spinal cords are the two primary parts of the nervous system, working with "
+"lots of nerves."
+msgstr ""
+"نظامنا العصبي ينقل المعلومات حول أجسامنا.  الدماغ والنخاع الشوكي نوعان من "
+"الأجزاء الرئيسية للجهاز العصبي، ويعمل مع الكثير من الأعصاب."
+
+msgid "Sensory nerves"
+msgstr "الأعصاب الحسية"
+
+msgid ""
+"Sensory nerves help us gather information about the world around us. When we "
+"use our senses to see, hear, taste, touch, and smell; our sensory nerves "
+"have the job to take that information to the brain."
+msgstr ""
+"الأعصاب الحسية تساعدنا على جمع المعلومات عن العالم من حولنا.  عندما نستخدم "
+"حواسنا نرى، و نسمع،و نتذوق، و نلمس، ونشم؛ الأعصاب الحسية  لدينا لديها وظيفة "
+"أخذ تلك المعلومات إلى الدماغ."
+
+msgid "Motor nerves"
+msgstr "الأعصاب الحركية"
+
+msgid ""
+"After the brain processes information received through sensory nerves, motor "
+"nerves have the responsibility of passing on the messages the brain sends to "
+"the muscles all over the body."
+msgstr ""
+"بعد معالجة الدماغ للمعلومات المتلقاة عن طريق  الأعصاب الحسية والأعصاب "
+"الحركية لديها مسؤولية تمرير الرسائل للدماغ  ومن ثم يرسلها  إلى العضلات في "
+"جميع أنحاء الجسم."
+
+# 13
+msgid "Checking what you now know... about a healthy body"
+msgstr "التأكد من  مدى معرفتك  الآن ... عن الجسم الصحي."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختبار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+# 14
+msgid "Click on the correct description of the body systems below."
+msgstr "انقر على الوصف الصحيح لأجهزة الجسم أدناه."
+
+msgid "Our respiratory system brings in the oxygen."
+msgstr "جهازنا التنفسي يجلب الأكسجين."
+
+msgid "Our reproductive system pumps blood."
+msgstr "جهازنا التناسلي يضخ الدم."
+
+msgid "Our digestive system fights disease."
+msgstr "جهازنا الهضمي يحارب الأمراض."
+
+msgid "Our circulatory system produces offspring."
+msgstr "نظام الدورة الدموية ينتج ذرية."
+
+msgid "Yes, our respiratory system brings in the oxygen."
+msgstr "نعم، جهازنا التنفسي يجمع الهواء."
+
+msgid "No. Our reproductive system produces offspring."
+msgstr "لا، جهازنا التناسلي ينتج الذرية ."
+
+msgid "No. Our digestive system takes nutrients from our food."
+msgstr "لا، جهازنا الهضمي يأخذ المواد الغذائية من طعامنا."
+
+msgid "Not quite. Our circulatory system pumps blood."
+msgstr "ليس تماما,نظام الدورة الدموية يضخ الدم."
+
+# 15
+msgid ""
+"Take a look at the two pictures below and determine what they have in common."
+msgstr "الق نظرة على الصورتين أدناه وحدد ما الشيء المشترك بينهما."
+
+msgid "They are both cells."
+msgstr "كلاهما خلايا"
+
+msgid "They are both tissues."
+msgstr "كلاهما أنسجة"
+
+msgid "They are both organs."
+msgstr "كلاهما أعضاء."
+
+msgid "They are both body systems."
+msgstr "كلاهما أجهزة في الجسم."
+
+msgid "Yes, the eye and liver are both organs."
+msgstr "نعم، كل من العين والكبد أعضاء ."
+
+msgid "No, the eye and liver are both organs."
+msgstr "لا، كل من العين والكبد أعضاء ."
+
+# 16
+msgid "Choose the correct statement about the brain."
+msgstr " اختر المفهوم الصحيح للدماغ."
+
+msgid "The brain controls everything the body does."
+msgstr "الدماغ يتحكم بكل شيء يقوم به الجسم."
+
+msgid ""
+"Some activities, like breathing and heart rate, are not controlled by the "
+"brain."
+msgstr "بعض الأنشطة، مثل التنفس ومعدل ضربات القلب، لا يتحكم بها الدماغ."
+
+msgid "The nervous system controls all body functions."
+msgstr "الجهاز العصبي يتحكم بجميع وظائف الجسم."
+
+msgid ""
+"Some actions, like pulling your hand away from hot water, are not controlled "
+"by the brain."
+msgstr ""
+"بعض الإجراءات، مثل سحب يدك بعيدا عن الماء الساخن، لا يسيطر عليها الدماغ."
+
+msgid ""
+"Not quite, our brain controls almost everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"ليس تماما، الدماغ يتحكم بكل شيء نقوم به تقريبا.   ولا يتحكم بردود أفعالنا "
+"لضمان بقاءنا بأمان وابعادنا عن الأذى."
+
+msgid "No, the brain controls our breathing and heartbeat."
+msgstr "لا، الدماغ يتحكم بتنفسنا وضربات قلبنا."
+
+msgid ""
+"Not quite, our brain controls “almost” everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"ليس تماما، دماغنا يتحكم بكل شيء نقوم به تقريبا.  ويتحكم بردود أفعالنا ليضمن "
+"بقاءنا بأمان وابعادنا عن الأذى."
+
+msgid ""
+"Correct! The reflex actions are taken care of by the spinal cord. The "
+"nervous system controls these reflexes, but not the brain."
+msgstr ""
+"صحيح، الحبل الشوكي هو من يعتني بردات فعلنا.  الجهاز العصبي هو من يتحكم بهذه "
+"الردود وليس الدماغ."
+
+# 17
+msgid "The nervous system does not depend upon which of the following?"
+msgstr "لا يعتمد الجهاز العصبي على أي من الآتي؟"
+
+msgid "The circulatory system"
+msgstr "نظام الدورة الدموية."
+
+msgid "The skeletal system"
+msgstr "الجهاز العظمي."
+
+msgid "The respiratory system"
+msgstr "الجهاز التنفسي."
+
+msgid "It does depend on all of the systems above."
+msgstr "لا تعتمد على كل الأجهزة في الأعلى."
+
+msgid "Sorry... the brain needs oxygen from blood."
+msgstr "اسف، الدماغ يحتاج للهواء من الدم."
+
+msgid "Nope. The brain is protected by the skull."
+msgstr "لا, الدماغ محمي عن طريق الجمجمة."
+
+msgid "Don't think so... the brain needs the oxygen gathered by the lungs."
+msgstr "لا أعتقد ذلك، الدماغ يحتاج للهواء الذي جمعته الرئتين."
+
+msgid ""
+"You go it! That was a trick question... the nervous system needs all of "
+"these."
+msgstr "لقد أصبت.  كان هذا سؤالا مخادعا ...الجهاز العصبي يحتاج كل منها ."
+
+# 18
+msgid ""
+"Look at the table below and fill in the blanks by dragging the terms under "
+"the illustrations."
+msgstr ""
+"انظر الى الجدول أدناه ، و إملأ في الفراغات عن طريق سحب المفهوم تحت الرسوم "
+"التوضيحية."
+
+msgid "Cell"
+msgstr "خلية"
+
+msgid "Body System"
+msgstr "نظام الجسم."
+
+msgid "Reset"
+msgstr "اعادة تشغيل"
+
+msgid ""
+"Good job! Cells make up tissue, tissue makes up organs, organs make up body "
+"systems.  Altogether they make the body run."
+msgstr ""
+"عمل جيد! الخلايا تشكل الأنسجة، والأنسجة تشكل الأعضاء، والأعضاء تشكل أجهزة "
+"الجسم.  كل هذا يجعل الجسم يعمل."
+
+msgid ""
+"Not quite... Cells make up tissue, tissue makes up organs, organs make up "
+"body systems.  Altogether they make the body run."
+msgstr ""
+"ليس تماما، الخلايا تشكل الأنسجة، والأنسجة تشكل الأعضاء، والأعضاء تشكل أجهزة "
+"الجسم.  كل هذا يجعل الجسم يعمل."
+
+# 19
+msgid "Choose the correct statement."
+msgstr "إختر العبارة الصحيحة."
+
+msgid "Organs may be made of a variety of different tissues."
+msgstr "الأعضاء قد تصنع من أكثر من نوع من الانسجة."
+
+msgid "Each organ is made of a unique tissue type."
+msgstr "كل عضو مكون من نوع مميز من الأنسجة."
+
+msgid "Organ systems consist of only a single type of tissue."
+msgstr "تتكون أنظمة الأعضاء فقط من نوع واحد من الأنسجة."
+
+msgid "Cells are made of many different tissue types."
+msgstr "الخلايا تتكون من عدة انواع من الأنسجة."
+
+msgid "That's right! organs may be made of many tissues."
+msgstr "هذا صحيح، الأعضاء يمكن أن تتكون من  أنسجة متعددة."
+
+msgid "Read carefully... organs may be made of more than one tissue."
+msgstr "اقرأ بحذر...أعضاء الجسم يمكن ان تتكون من اكثر من نسيج."
+
+msgid "No... systems are made of organs; organs may be made of many tissues."
+msgstr ""
+"لا، أجهزة الجسم تتكون من الأعضاء، والأعضاء يمكن أن تتكون من عدة أنسجة ."
+
+msgid "The exact opposite... tissues are made of cells..."
+msgstr "على العكس تماما، الأنسجة تتكون من الخلايا."
+
+# 20
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid "You've completed the Healthy Body review."
+msgstr "لقد اتممت مراجعة صحة الجسم."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك التحقق مما درسته من خلال التقويم السريع والأسئلة القصيرة لهذه المراجعة "
+"من خلال النقر على الزر أدناه."

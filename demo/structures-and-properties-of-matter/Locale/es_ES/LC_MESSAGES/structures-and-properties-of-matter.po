@@ -1,0 +1,759 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja de abajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "Estás listo/a"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Welcome to the Structure and Properties of Matter module"
+msgstr "Bienvenido/a al módulo de Estructura y Propiedades de la Materia"
+
+# 2
+msgid "Thinking about... the structure and properties of matter"
+msgstr "Pensando acerca de... la estructura y propiedades de la materia"
+
+msgid "You know what's really fun? Slime – that's what!! Slime is some cool stuff you can make so you can play tricks on your friends and gross out your family."
+msgstr "¿Sabes qué es realmente divertido? ¡La baba! La baba es algo interesante que puedes hacer para gastar bromas a tus amigos y a tu familia."
+
+msgid "Slime is easy to make out of easy to find ingredients you can get at the supermarket. There are a bunch of different recipes for how to make slime. Search on Google for \"slime images\" and \"slime on youtube\" and you'll get all kinds of great ideas on how to make slime and play pranks on your friends."
+msgstr "La baba es fácil de hacer a partir de ingredientes fáciles de encontrar en el supermercado. Hay muchas recetas diferentes para hacer baba.. Busca en Google \"fotos de baba\" y \"baba en youtube\" y obtendrás toda clase de ideas geniales acerca de cómo hacer baba y cómo jugarles bromas a tus amigos."
+
+msgid ""
+"The reason why slime is so much fun to play tricks with is because it's stuff with certain properties.  It's runny, icky, gooey and green, and of course, slimy. But it's also safe and easily washable – just the kind of properties that make it fun to \"slime\" your friends without hurting them or ruining their clothes. \"Stuff\" is called matter by scientists. So let's look at "
+"more kinds of matter and their properties."
+msgstr ""
+"La razón por la que la baba es tan divertida para hacer bromas, es porque es una cosa con ciertas propiedades. Es escurridiza, asquerosa, pegajosa y verde, y por supuesto, babosa. Pero también es segura y fácil de lavar - justo el tipo de propiedades que hacen que sea divertido \"babear\" a tus amigos sin lastimarlos o arruinar su ropa. Las \"cosas\" son conocidas como materia "
+"por los científicos. Así que veamos más clases de materia y sus propiedades."
+
+# 3
+msgid "Checking what you know about... the structure and properties of matter"
+msgstr "Revisando lo que sabes acera de... la estructura y propiedades de la materia"
+
+msgid "Which of the following do you think is <span class=\"blink\">not</span> matter – the \"stuff\" that makes up the universe?"
+msgstr "¿Cuál de las siguientes crees que <span class=\"blink\">no</span> sea materia - una de las \"cosas\" que conforman al universo?"
+
+msgid "Rocks"
+msgstr "Rocas"
+
+msgid "Sunlight"
+msgstr "Luz de sol"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Air"
+msgstr "Aire"
+
+msgid "Snow"
+msgstr "Nieve"
+
+msgid ""
+"Matter is anything that has mass and takes up space. Most people know that rocks, dirt, snow and water are matter because they can see and feel them. Sometimes people think that air isn't matter because they can't see it – it's invisible - and they can't feel its weight because they're so used to it pressing down on them every day. But air is matter because it takes up space and "
+"has mass – you can feel it when the wind blows and it pushes upon airplane wings to keep them in the air. The only one of these choices that isn't matter is sunlight – because sunlight is energy - which doesn't have mass or take up space."
+msgstr ""
+"La materia es todo lo que tiene una masa y ocupa un espacio. La mayoría de las personas saben que las rocas, tierra, nieve y agua son materia porque pueden verlas y sentirlas. Algunas veces las personas creen que el aire no es materia porque no lo pueden ver - es invisible - y no pueden sentir su peso porque están tan acostumbrados a que ejerza presión sobre ellos todos los días. "
+"Pero el aire es materia porque ocupa espacio y tiene masa - puedes sentirlo cuando el viento sopla y empuja las alas de los aviones para mantenerlos en el aire. La única de estas opciones que no es materia es la luz de sol - porque la luz de sol es energía - que no tiene masa ni ocupa espacio."
+
+msgid "Identifying properties of matter..."
+msgstr "Identificando las propiedades de la materia..."
+
+# 4
+msgid "Reviewing big ideas about... the structure and properties of matter"
+msgstr "Revisando ideas importantes acerca de... la estructura y propiedades de la materia"
+
+msgid ""
+"All the \"stuff\" that you see or feel or use in your daily life is <span class='key'>matter</span>. The wood that makes up your house is matter. The food and water you eat and drink is matter. The metal that makes up your car is matter. But there's also a lot of matter you don't feel or see or smell or use. The air that you breathe is matter even if you can't see it! Matter is "
+"all the \"stuff\" that makes up the earth and the entire universe. The way scientists define matter is that matter is anything that has mass and takes up space."
+msgstr ""
+"Todas las \"cosas\" que ves o que sientes o utilizas en tu vida diaria son <span class='key'>materia</span>. La madera de la que está construida tu casa es materia. La comida y agua que comes y bebes son materia. El metal que forma tu auto es materia. Pero también hay mucha materia que no sientes o ves o hueles o utilizas. ¡El aire que respiras es materia incluso si no lo puedes "
+"ver! La materia son todas las \"cosas\" que forman a la Tierra y al universo entero. La manera en que los científicos definen la materia es que materia es todo aquello que tiene masa y ocupa espacio."
+
+msgid ""
+"There are different kinds of matter based on their properties. <span class='key'>Properties</span> are something about matter that you can observe to describe the matter and identify it. And it's these properties that make different kinds of matter useful to us for different purposes. For instance, most matter that we call metal has the property of being hard and strong and is "
+"useful to make structures like tall buildings and bridges and cars and trucks. Wood is a kind of matter that has the property of being hard and strong but soft enough to hammer a nail through. So, because of these properties, it is useful to build houses. Other matter, such as water, has the property of being either a solid, liquid, or gas at different temperatures. That's an "
+"important property of matter that scientists call a \"state\" of matter. There are many kinds of matter with many different properties and many different uses."
+msgstr ""
+"Hay distintas clases de materia basándonos en sus propiedades. <span class='key'>Propiedades</span> son algo acerca de la materia que puedes observar para describir la materia e identificarla. Y son estas propiedades que hacen que las distintas clases de materia sean útiles para nosotros para distintos fines. Por ejemplo, la mayoría de la materia que llamamos metal tiene la "
+"propiedad de ser dura y fuerte y es útil para crear estructuras como edificios altos y puentes y autos y camiones. La madera es una clase de materia que tiene la propiedad de ser dura y fuerte pero lo suficientemente suave como para poder clavar un clavo a través de ella. Así que, debido a estas propiedades, es útil para construir casas. Otra materia, como el agua, tiene la "
+"propiedad de ser ya sea sólida, líquida o gas a distintas temperaturas. Es una propiedad importante de la materia que los científicos llaman \"estado\" de la materia. Hay muchas clases de materia con muchas propiedades diferentes y muchos usos diferentes."
+
+msgid "Drinking water..."
+msgstr "Bebiendo agua..."
+
+# 5
+msgid "Question A. Which of the following substances is <span class='blink'>not</span> matter?"
+msgstr "Pregunta A. ¿Cuál de las siguientes sustancias <span class='blink'>no</span> es materia?"
+
+msgid "Light"
+msgstr "Luz"
+
+msgid "Wood"
+msgstr "Madera"
+
+msgid "Steel"
+msgstr "Acero"
+
+msgid "Food"
+msgstr "Comida"
+
+msgid "Question B. Which of the following statements about matter are <span class='blink'>true</span>?"
+msgstr "Pregunta B. ¿Cuáles de las siguientes declaraciones acerca de la materia son <span class='blink'>verdad</span>?"
+
+msgid "You can see all matter."
+msgstr "Puedes ver toda la materia."
+
+msgid "You can smell all matter."
+msgstr "Puedes oler toda la materia."
+
+msgid "All matter has properties."
+msgstr "Toda la materia tiene propiedades."
+
+msgid "All matter is helpful to people."
+msgstr "Toda la materia ayuda a las personas."
+
+msgid "Preparing your first quick check…"
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Nope! Wood is matter because it has mass and takes up space."
+msgstr "¡Nop! La madera es materia porque tiene masa y ocupa espacio."
+
+msgid "No! Steel is matter because it has mass and takes up space."
+msgstr "¡Nop! El acero es materia porque tiene masa y ocupa espacio."
+
+msgid "Thats wrong! Food is matter because it has mass and takes up space."
+msgstr "¡Eso no es correcto! La comida es materia porque tiene masa y ocupa espacio."
+
+msgid "Correct! Light is NOT matter because it has no mass and doesn't take up space."
+msgstr "¡Correcto! La luz NO es materia porque no tiene masa y no ocupa espacio."
+
+msgid "False! You can't see ALL matter – like you can't see air."
+msgstr "¡Falso! No puedes ver TODA la materia - como no puedes ver el aire."
+
+msgid "False! You can't smell ALL matter – like you can't smell glass and water. But maybe your dog can or cat can smell some things you can't."
+msgstr "¡Falso! No puedes oler TODA la materia - como no puedes oler al vidrio o al agua. Pero quizá tu perro o gato puedan oler algunas cosas que tú no."
+
+msgid "True! All matter does have properties. Sometimes their properties are different from each other, but all matter has some kind of properties."
+msgstr "¡Verdad! Toda la materia tiene propiedades. Algunas veces sus propiedades son distintas entre sí, pero toda la materia tiene algún tipo de propiedades."
+
+msgid "False! Virtually all matter has some kind of use – but some of the uses are bad for people – like poison - so they are not helpful."
+msgstr "¡Falso! Virtualmente toda la materia tiene alguna clase de uso - pero algunas veces, dicho uso es malo para las personas - como el veneno - así que no nos ayudan siempre."
+
+# 6
+msgid "More big ideas about... the structure and properties of matter"
+msgstr "Más ideas importantes acerca de... la estructura y propiedades de la materia"
+
+msgid ""
+"\"Matter can neither be created nor destroyed but can change forms\" is one of the most important things about nature that scientists have ever figured out. What this means is that matter can never just disappear into nothingness even if it seems like it does. One way matter changes forms is that it can change states from <span class='key'>solid</span> to <span "
+"class='key'>liquid</span> or from liquid to <span class='key'>gas</span>. These are called <span class='key'>states of matter</span>."
+msgstr ""
+"\"La materia no puede ser creada ni destruida pero puede cambiar de forma\" es uno de los hechos más importantes acerca de la naturaleza que los científicos han descubierto. Lo que esto significa, es que la materia nunca puede simplemente desaparecer en la nada, incluso si parece que así lo hace. Una manera en que la materia cambia de forma es que puede cambiar de estado de <span "
+"class='key'>sólido</span> a <span class='key'>líquido</span> o de líquido a <span class='key'>gaseoso</span>. Estos se conocen como <span class='key'>estados de la materia</span>."
+
+msgid ""
+"For instance, if you leave a puddle of water on the bathroom floor after you take a shower - even though your mother told you to make sure you clean it up - the next day, when she checks your bathroom, the puddle of water is gone!! Did it magically disappear? Did some bathroom wizard come in and destroy the water to save you from your mom being mad at you? It seems like it, "
+"doesn't it? But the water didn't get<br> destroyed – it just evaporated all by itself. This means it changed from the liquid state of water on the floor to the gaseous state of water in the air."
+msgstr ""
+"Por ejemplo, si dejas un charco de agua en el piso del baño después de ducharte - aunque tu madre te dijo que por favor lo limpiaras - al día siguiente, cuando revise tu baño, ¡el charco de agua se habrá ido! ¿Desapareció mágicamente? ¿Acaso un mago del baño vino y destruyó el agua para salvarte de que tu mamá se molestara contigo? Parece que así fue, ¿verdad? Pero el agua no se "
+"<br>destruyó - simplemente se evaporó por sí misma. Esto significa que cambió del estado líquido del agua en el piso al estado gaseoso del agua en el aire."
+
+msgid ""
+"It changed from having the property of you being able to see it and feel it as a liquid to the property of being invisible as gaseous water. And - this is important! - if you had weighed the water in the puddle and it weighed 1 ounce, after it <span class='key'>evaporated</span>, the air in your bathroom weighs 1 ounce more. The 1 ounce of water still weighs 1 ounce! It's just 1 "
+"ounce of gaseous water in your bathroom air instead of 1 ounce of liquid water in a puddle on the floor. The mass of liquid water didn't change even though you couldn't see it anymore! You could tell that's true if you could figure out a way to weigh your bathroom air – something to think about!"
+msgstr ""
+"Cambió de tener la propiedad de que tú seas capaz de verla y sentirla como un líquido a la propiedad de ser invisible como agua gaseosa. Y - ¡esto es importante! - si hubieras pesado el agua en el charco y hubiera pesado 1 onza, después de que se haya <span class='key'>evaporado</span>, el aire en tu baño pesaría 1 onza más. ¡Esa onza de agua aún pesa 1 onza! Es sólo que ahora es "
+"1 onza de agua gaseosa en el aire de tu baño en lugar de 1 onza de agua líquida en un charco sobre el suelo. ¡La masa del agua líquida no cambió aunque no pudieras verla ya! Podrías descubrir que eso es verdad si pudieras hallar una manera de pesar el aire de tu baño - ¡piensa en ello!"
+
+msgid "4 ounces"
+msgstr "4 onzas"
+
+msgid "A little bit more than 4 ounces"
+msgstr "Un poco más de 4 onzas"
+
+msgid "5 ounces"
+msgstr "5 onzas"
+
+msgid "A little bit less than 5 ounces"
+msgstr "Un poco menos de 5 onzas"
+
+msgid "6 ounces"
+msgstr "6 onzas"
+
+msgid "Looking for traces..."
+msgstr "Buscando rastros..."
+
+# 7
+msgid "Question A. Which of the following is <span class='blink'>not</span> a state of matter:"
+msgstr "Pregunta A. ¿Cuál de los siguientes <span class='blink'>no</span> es un estado de la materia?"
+
+msgid "Solid"
+msgstr "Sólido"
+
+msgid "Shiny"
+msgstr "Brillante"
+
+msgid "Liquid"
+msgstr "Líquido"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Question B. When a substance like water evaporates:"
+msgstr "Pregunta B. Cuando una sustancia como el agua se evapora:"
+
+msgid "It disappears and doesn't exist anymore."
+msgstr "Desaparece y ya no existe."
+
+msgid "It changes to a gas and loses enough weight so it can float with the air."
+msgstr "Cambia a gas y pierde suficiente peso como para poder flotar con el aire."
+
+msgid "It doesn't change weight at all, it just becomes part of the air."
+msgstr "No cambia su peso en lo absoluto, sólo se vuelve parte del aire."
+
+msgid "No! When water evaporates, it seems to disappear because you can't see it anymore, but it still exists and is mixed in with the atmosphere."
+msgstr "¡No! Cuando el agua se evapora, parece que desaparece porque ya no la puedes ver, pero aún existe y está mezclada con la atmósfera."
+
+msgid "Nope! It does change into a gas – water vapor – but it still has the same mass and weight as it did before."
+msgstr "¡Nop! Sí cambia a un gas - vapor de agua - pero aún tiene el mismo peso y masa que tenía antes."
+
+msgid "Wrong answer! – It does change into a gas – water vapor – but it doesn't lose any weight - it still has the same mass and weight as it did before."
+msgstr "¡Respuesta equivocada! - Sí cambia a un gas - vapor de agua - pero no pierde ningún peso - aún tiene la misma masa y peso que tenía antes."
+
+msgid "Correct! The water doesn't lose any weight – evaporation means that the liquid water breaks down into individual water molecules and each one is light enough to disperse into the air."
+msgstr "¡Correcto! El agua no pierde ningún peso - la evaporación significa que el agua líquida se descompone en moléculas individuales de agua y cada una es lo suficientemente ligera como para dispersarse en el aire."
+
+msgid "Nope! Solid  is a state of matter."
+msgstr "¡Nop! Sólido es un estado de la materia."
+
+msgid "Correct! Shiny  is not  one of the three states of matter."
+msgstr "¡Correcto! Brillante no es uno de los tres estados de la materia."
+
+msgid "Wrong answer! Liquid  is a state of matter."
+msgstr "¡Respuesta equivocada! Líquido es un estado de la materia."
+
+msgid "No! Gas  is a state of matter."
+msgstr "¡No! El gas es un estado de la materia."
+
+msgid "Evaporating water..."
+msgstr "Evaporando agua..."
+
+# 8
+msgid ""
+"All matter is made up of millions of little particles that are too small to see with the naked eye... even too small to see with ordinary microscopes. These particles are called <span class='key'>atoms</span>. You can think of them as the building blocks of matter – kind of like Legos. Each Lego block is like an individual atom. And just like Legos, there are many, many different "
+"sizes and kinds of atoms that can be combined to build many different kinds of matter with different properties. If you build an object with just one kind of Lego block, that's like nature building matter with just one kind of atom – so you get a kind of matter called an  <span class='key'>element</span> - like oxygen, or carbon, or iron. But if you start combining different "
+"kinds of Lego blocks - different sizes or shaped blocks - that's like nature combining different kinds of atoms together to form <span class='key'>compounds</span> - which are matter made of two or more different kinds of atoms."
+msgstr ""
+"Toda la materia está formada de millones de pequeñas partículas que son demasiado pequeñas para ser vistas a simple visa... incluso demasiado pequeñas para ser visibles por microscopios ordinarios. Estas partículas se llaman <span class='key'>átomos</span>. Puedes pensar en ellos como los bloques de construcción que constituyen la materia - como Legos. Cada bloque de Lego es como "
+"un átomo individual. Y justo como los Legos, hay muchos, muchos diferentes tipos y tamaños de átomos que pueden ser combinados para construir muchas clases diferentes de materia con propiedades diferentes. Si construyes un objeto con sólo una clase de bloque Lego, es como si la naturaleza construyera materia con sólo una clase de átomo - así que obtienes una clase de materia "
+"llamada <span class='key'>elemento</span> - cómo el oxígeno, o carbono, o hierro. Pero si comienzas a combinar distintas clases de bloques Lego - con distintas formas o tamaños - es como si la naturaleza combinara distintos tipos de átomos para formar <span class='key'>compuestos</span> - que están hechos de dos o más tipos de átomos."
+
+msgid "Hover your mouse on the images to see the details."
+msgstr "Pasa tu mouse sobre las imágenes para ver los detalles."
+
+msgid "There are different kinds of Lego building blocks just like there are many different kinds of atoms - the building blocks of matter."
+msgstr "Hay distintos tipos de bloques de construcción Lego justo como hay muchos tipos diferentes de átomos - los bloques de construcción de la materia."
+
+msgid "Building matter from just one kind of atom makes an element."
+msgstr "Construir materia a partir de un sólo tipo de átomo forma un elemento."
+
+msgid "Building matter from two or more different kinds of atom makes a compound."
+msgstr "Construir materia a partir de dos o más tipos diferentes de átomo forma un compuesto."
+
+msgid ""
+"Most of the matter we see or touch or even eat is made of compounds. Some examples of compounds are water - H<sub>2</sub>O - which means it has two atoms of the element hydrogen for every atom of oxygen; or salt – NaCl – which has one atom of sodium for every one atom of chlorine; or sugar - C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> – which is made of the elements carbon, "
+"hydrogen, and oxygen. It's important to know that when you look at one grain of sugar or one drop of water, they are made up of millions of invisible building blocks called atoms."
+msgstr ""
+"La mayoría de la materia que vemos o tocamos o que incluso comemos está formada de compuestos. Algunos ejemplos de compuestos son el agua - H<sub>2</sub>O - que significa que tiene dos átomos del elemento hidrógeno por cada átomo de oxígeno; o a sal - NaCl - que tiene un átomo de sodio por cada átomo de cloro; o el azúcar - C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> – que está "
+"formada por los elementos carbono, hidrógeno y oxígeno. Es importante saber que cuando miras un grano de azúcar o una gota de agua, ellos están formados por millones de bloques de construcción invisibles llamados átomos."
+
+msgid "Building blocks..."
+msgstr "Bloques de construcción..."
+
+# 9
+msgid "Question A. Which of the following is <span class='blink'>not</span> a compound?"
+msgstr "Pregunta A. ¿Cuál de los siguientes <span class='blink'>no</span> es un compuesto?"
+
+msgid "Question B. Which of the following is <span class='blink'>not</span> an element?"
+msgstr "Pregunta B. ¿Cuál de los siguientes <span class='blink'>no</span> es un elemento?"
+
+msgid "Sugar"
+msgstr "Azúcar"
+
+msgid "Iron"
+msgstr "Hierro"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+msgid "Salt"
+msgstr "Sal"
+
+msgid "No! Sugar is a compound molecule C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> consisting of several atoms of the elements Carbon, Hydrogen and Oxygen."
+msgstr "¡No! El azúcar es una molécula de un compuesto C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> que consiste de varios átomos de los elementos carbono, hidrógeno y oxígeno."
+
+msgid "Nope! Water is a compound H2O of the elements Hydrogen and Oxygen."
+msgstr "¡Nop! El agua es un compuesto H2O de los elementos hidrógeno y oxígeno."
+
+msgid "Wrong answer! Salt is a compound NaCl of the two elements Sodium (Na) and Chlorine (Cl)."
+msgstr "¡Respuesta equivocada! La sal es un compuesto NaCl de los dos elementos sodio (Na) y cloro (Cl)."
+
+msgid "Correct – Sugar is a compound molecule consisting of several atoms of the elements Carbon, Hydrogen and Oxygen."
+msgstr "Correcto - El azúcar es una molécula de un compuesto que consiste de varios átomos de los elementos carbono, hidrógeno y oxígeno."
+
+msgid "No! Iron is an element."
+msgstr "¡No! El hierro es un elemento."
+
+msgid "Nope! Hydrogen is an element."
+msgstr "¡Nop! El hidrógeno es un elemento."
+
+msgid "Wrong answer! Oxygen is an element."
+msgstr "¡Respuesta equivocada! El oxígeno es un elemento."
+
+msgid "Correct! Oxygen is an element."
+msgstr "¡Correcto! El oxígeno es un elemento."
+
+# 10
+msgid "Using what you now know about... the structure and properties of matter... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... la estructura y propiedades de la materia... para resolver un problema"
+
+msgid "Your friend didn't understand the difference between atoms and molecules and how they make up elements and compounds."
+msgstr "Tu amigo no comprendió la diferencia entre átomos y moléculas y cómo forman elementos o compuestos."
+
+msgid "How would you use Legos to demonstrate the idea?"
+msgstr "¿Cómo utilizarías Legos para demostrarle la idea?"
+
+msgid "Playing lego..."
+msgstr "Jugando con Legos..."
+
+# 11
+msgid "Summarizing big ideas about... the structure and properties of matter"
+msgstr "Resumiendo ideas importantes acerca de... la estructura y propiedades de la materia"
+
+msgid ""
+"Everything that makes up the earth and the universe is made up of <span class='key'>matter</span> - whether you can see it or not. There are lots of different kinds of matter with lots of different <span class='key'>properties</span>. Some of those properties make the matter useful for us. All matter is made up of tiny invisible particles called <span class='key'>atoms</span> and "
+"molecules. If the matter is made up of just one kind of atom, it's called an <span class='key'>element</span>. If the matter is made up of two or more different kinds of atoms, the matter is called a <span class='key'>compound</span>. Even the tiniest bit of matter you can see – like a grain of sand or sugar, or even a speck of dust – is still made up of millions of atoms or "
+"molecules."
+msgstr ""
+"Todo lo que forma la Tierra y el universo está formado de <span class='key'>materia</span> - la puedas ver o no. Hay muchas clases diferentes de materia con toda clase de <span class='key'>propiedades</span> diferentes. Algunas de esas propiedades hacen que la materia sea útil para nosotros. Toda la materia está formada de pequeñísimas partículas invisibles llamadas <span "
+"class='key'>átomos</span> y moléculas. Si la materia está formada de una sola clase de átomo, se llama <span class='key'>elemento</span>. Si la materia está formada de dos o más clases diferentes de átomos, dicha materia se llama <span class='key'>compuesto</span>. Incluso la partícula más pequeña de materia que puedes ver - como un grano de arena o de azúcar, o incluso una "
+"partícula de polvo - está formada de millones de átomos o moléculas."
+
+msgid "Na +"
+msgstr "Na +"
+
+msgid "Cl -"
+msgstr "Cl -"
+
+msgid "NaCl"
+msgstr "NaCl"
+
+msgid "Water Molecule"
+msgstr "Molécula de Agua"
+
+msgid "H"
+msgstr "H"
+
+msgid "O"
+msgstr "O"
+
+# 12
+msgid "Reviewing key vocabulary related to... the structure and properties of matter"
+msgstr "Revisando vocabulario clave relacionado con... la estructura y propiedades de la materia"
+
+msgid "Atom"
+msgstr "Átomo"
+
+msgid "The basic unit of matter. An atom consists of a central nucleus surrounded by electrons."
+msgstr "La unidad básica de materia. Un átomo consiste de un núcleo central rodeado por electrones."
+
+msgid "Matter"
+msgstr "Materia"
+
+msgid "Anything that has mass and takes up space. Atoms combine to comprise matter.  That is, matter is everything that is made up of atoms. Examples would include people, planets, air, water and stars."
+msgstr "Todo aquello que tiene masa y ocupa espacio. Los átomos se combinan para formar materia. Eso quiere decir, la materia es todo aquello que está formado por átomos. Ejemplos incluyen a las personas, planetas, aire, agua y estrellas."
+
+msgid "Compound"
+msgstr "Compuesto"
+
+msgid "A substance made up of two or more different kinds of atoms. Compounds can be formed or broken up in chemical reactions. Examples include water, carbon dioxide and salt."
+msgstr "Una sustancia formada por dos o más tipos diferentes de átomos. Los compuestos pueden formarse o descomponerse a raíz de reacciones químicas. Algunos ejemplos incluyen al agua, el dióxido de carbono y la sal."
+
+msgid "Element"
+msgstr "Elemento"
+
+msgid "An element is a pure sample of one type of atom. Examples could include gases like hydrogen, oxygen, and helium, or a solid piece of iron or copper."
+msgstr "Un elemento es una muestra pura de un solo tipo de átomo. Ejemplos incluyen a gases como el hidrógeno, oxígeno y helio, o una pieza sólida de hierro o cobre."
+
+msgid "Properties of Matter"
+msgstr "Propiedades de la Materia"
+
+msgid "Descriptors about a piece of matter that describe it. For example, an iron wrench is hard, heavy and gray."
+msgstr "Son descriptores acerca de una pieza de materia que ayudan a describirla. Por ejemplo, una llave de hierro es dura, pesada y gris."
+
+msgid "Evaporate"
+msgstr "Evaporar"
+
+msgid "When matter goes from the liquid phase to the gaseous phase. Evaporation is commonly observed with water."
+msgstr "Cuando la materia pasa de la fase líquida a la fase gaseosa. La evaporación se observa comúnmente con el agua."
+
+msgid "State of Matter"
+msgstr "Estado de la Materia"
+
+msgid "Whether something is currently a solid, a liquid, or a gas. This can change as heat and or pressure are applied to the matter."
+msgstr "Si algo es actualmente un sólido, un líquido o un gas. Esto puede cambiar debido a la aplicación de calor o presión sobre la materia."
+
+msgid "One of the states of matter that keep their shape unless pushed or pulled by an outside force. Solids have molecules closely packed together with little room for motion. Examples include ice and metals."
+msgstr "Uno de los estados de la materia que mantiene su forma a menos que sea empujado o extendido por una fuerza externa. Los sólidos tienen moléculas que están muy juntas con muy poco espacio para moverse. Ejemplos de ello incluyen al hielo y los metales."
+
+msgid "One of the states of matter that take the shape of the container that holds them. Liquids have molecules that are somewhat less closely packed, allowing them some room to move and interact. Examples include water and mercury."
+msgstr "Uno de los estados de la materia que toma la forma del contenedor que lo retiene. Los líquidos tienen moléculas que están algo menos unidas, dándoles algo de espacio para moverse e interactuar. Ejemplos incluyen al agua y el mercurio."
+
+msgid "One of the states of matter that will expand into the atmosphere unless constrained by a closed container. Gas phase molecules are very spread apart and can essentially move freely. Examples include water vapor (steam), carbon dioxide and helium."
+msgstr "Uno de los estados de la materia en que se expandirá hacia la atmósfera a menos que esté restringida por un contenedor cerrado. Las moléculas de la fase gaseosa están muy separadas y pueden moverse con libertad. Ejemplos incluyen al vapor de agua, al dióxido de carbono y al helio."
+
+# 13
+msgid "Checking what you now know about... the structure and properties of matter"
+msgstr "Revisando lo que sabes ahora acerca de... la estructura y propiedades de la materia"
+
+# 14
+msgid "Here is a diagram that represents one particle (one molecule) of water, H<sub>2</sub>O. Which of the following statements about water is correct?"
+msgstr "Aquí hay un diagrama que representa una partícula (una molécula) de agua, H<sub>2</sub>O. ¿Cuál de las siguientes declaraciones acerca del agua es correcta?"
+
+msgid "Hydrogen"
+msgstr "Hidrógeno"
+
+msgid "One of these particles makes up each drop of water."
+msgstr "Una de estas partículas forma cada gota de agua."
+
+msgid "These particles are very small but big enough to see with a microscope."
+msgstr "Estas partículas son muy pequeñas pero lo suficientemente grandes como para verlas con un microscopio."
+
+msgid "The hydrogen atoms are too small to see but you can see the oxygen atoms."
+msgstr "Los átomos de hidrógeno son demasiado pequeños para verlos, pero puedes ver los átomos de oxígeno."
+
+msgid "The whole water particle (molecule) is too small to see and it takes millions of them to make one water drop."
+msgstr "Toda la partícula de agua (molécula) es demasiado pequeña para ser vista y hacen falta millones de ellas para formar una gota de agua."
+
+msgid "Wrong answer! A water droplet is made of millions of water molecules."
+msgstr "¡Respuesta equivocada! Una gota de agua está formada por millones de moléculas de agua."
+
+msgid "Nope! These molecules (individual particles) of water are very small and too small to see with the naked eye, or even with a microscope."
+msgstr "¡Nop! Estas moléculas (partículas individuales) de agua son muy pequeñas y son demasiado pequeñas para ser vistas a simple vista, o incluso con el microscopio."
+
+msgid "No! Both the hydrogen and oxygen atoms are too small to see. Even the whole water molecule is too small to see with the naked eye, or even with a microscope."
+msgstr "¡No! Tanto los átomos de hidrógeno como de oxígeno son demasiado pequeños para ser vistos. Incluso toda la molécula de agua es demasiado pequeña para ser vista a simple vista, o incluso con un microscopio."
+
+msgid "Correct! The whole water particle (molecule) is too small to see and it takes millions of them to make one water drop."
+msgstr "¡Correcto! Toda la partícula de agua (molécula) es demasiado pequeña para ser vista y hacen falta millones de ellas para formar una gota de agua."
+
+msgid "Your first quiz question is…"
+msgstr "Tu primera pregunta de evaluación es..."
+
+# 15
+msgid "Think about riding your bike. Match the properties of matter from the first column to the matter you use in the second column when you ride your bike."
+msgstr "Piensa acerca de montar en tu bicicleta. Relaciona las propiedades de la materia de la primera columna a la materia que utilizas al montar en bicicleta de la segunda columna:"
+
+msgid "Hard and strong"
+msgstr "Dura y fuerte"
+
+msgid "Soft, tough, flexible"
+msgstr "Suave, resistente, flexible"
+
+msgid "Waterproof and soft"
+msgstr "Resistente al agua y suave"
+
+msgid "Soft and warm"
+msgstr "Suave y cálido"
+
+msgid "Flexible and tough"
+msgstr "Flexible y resistente"
+
+msgid "Parts of Bike and Rider"
+msgstr "Partes de la Bicicleta y el Conductor"
+
+msgid "Bike tire"
+msgstr "Neumático de bicicleta"
+
+msgid "Shirt"
+msgstr "Camisa"
+
+msgid "Bike frame"
+msgstr "Marco de la bicicleta"
+
+msgid "Bike seat"
+msgstr "Asiento de la bicicleta"
+
+msgid "Girl's skin"
+msgstr "Piel de la niña"
+
+msgid "Riding a bike..."
+msgstr "Montando en bicicleta..."
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Correct! The bike frame needs to be heard and strong to support the rider; the girl’s skin needs to be soft to touch, flexible to move and tough so it doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry and soft to be comfortable; the shirt needs to be soft and warm to be comfortable and keep you warm; and the bike tire needs to be flexible and tough."
+msgstr ""
+"¡Correcto! El marco de la bicicleta necesita ser rígido y fuerte para soportar al conductor; la piel de la niña debe ser suave al contacto, flexible para moverse y resistente para que no se corte fácilmente; el asiento de la bicicleta necesita ser resistente al agua para que se mantenga seco y suave para ser cómodo; la camisa debe ser suave y cálida para que sea cómoda y te "
+"mantenga tibio; y el neumático de la bicicleta necesita ser flexible y resistente."
+
+msgid "Wrong! The bike frame needs to be heard and strong to support the rider; the girl’s skin needs to be soft to touch, flexible to move and tough so it doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry and soft to be comfortable; the shirt needs to be soft and warm to be comfortable and keep you warm; and the bike tire needs to be flexible and tough."
+msgstr ""
+"¡Incorrecto! El marco de la bicicleta necesita ser rígido y fuerte para soportar al conductor; la piel de la niña debe ser suave al contacto, flexible para moverse y resistente para que no se corte fácilmente; el asiento de la bicicleta necesita ser resistente al agua para que se mantenga seco y suave para ser cómodo; la camisa debe ser suave y cálida para que sea cómoda y te "
+"mantenga tibio; y el neumático de la bicicleta necesita ser flexible y resistente."
+
+# 16
+msgid "Here are five common objects that you see every day. What is the property of the matter that makes up these objects that is common to all of them?"
+msgstr "Aquí hay cinco objetos comunes que ves todos los días. ¿Cuál es la propiedad de la materia que forma estos objetos que es común a todos ellos?"
+
+msgid "Soft"
+msgstr "Suave"
+
+msgid "Smell"
+msgstr "Olor"
+
+msgid "Yellow"
+msgstr "Amarillo"
+
+msgid "Nope! The penny, glass and pencil aren’t soft."
+msgstr "¡Nop! El centavo, el vidrio y el lápiz no son suaves."
+
+msgid "Correct! all of these objects have the property of being solid – not liquid or gas."
+msgstr "¡Correcto! todos estos objetos tienen la propiedad de ser sólidos - no líquidos ni gases."
+
+msgid "No. Only the hotdog, and maybe, the shirt if you haven’t washed it recently, have smell as a property."
+msgstr "No. Sólo la salchicha, y quizás la camisa si no la has lavado recientemente, tienen olor como propiedad."
+
+msgid "No! Only the penny and glass are shiny."
+msgstr "¡No! Sólo el centavo y el vidrio son brillantes."
+
+msgid "Not right. Only the pencil is yellow…and the mustard on the hotdog."
+msgstr "No es correcto. Sólo el lápiz es amarillo... y la mostaza de la salchicha."
+
+# 17
+msgid "What is the property of the matter that makes up the window that makes it <span class='blink'>different</span> from all of the other objects?"
+msgstr "¿Cuál es la propiedad de la materia que forma la ventana que hace que sea <span class='blink'>diferente</span> de todos los otros objetos?"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "Colored"
+msgstr "Color"
+
+msgid "Hard"
+msgstr "Dura"
+
+msgid "Strong"
+msgstr "Fuerte"
+
+# 18
+msgid "If you were to take 1 ounce of sugar and add it to 4 ounces of Kool-Aid and stir it really well so you couldn’t see the sugar at all anymore, the final weight of the Kool-Aid would be..."
+msgstr "Si tomaras 1 onza de azúcar y le añadieras 4 onzas de Kool-Aid y los mezclaras muy bien para que ya no pudieras ver el azúcar, el peso final del Kool-Aid sería..."
+
+msgid "Making a cold juice..."
+msgstr "Preparando jugo frío..."
+
+msgid "No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the weight of the sugar (1 ounce) = 5 ounces."
+msgstr "¡No! El peso final incluye el peso del Kool-Aid (4 onzas) Y el peso del azúcar (1 onza) = 5 onzas."
+
+msgid "Nope! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "¡Nop! El peso final incluye el peso del Kool-Aid (4 onzas) Y el peso completo del azúcar (1 onza) = 5 onzas."
+
+msgid "Correct! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "¡Correcto! El peso final incluye el peso del Kool-Aid (4 onzas) Y el peso completo del azúcar (1 onza) = 5 onzas."
+
+msgid "Wrong answer! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "¡Respuesta incorrecta! El peso final incluye el peso del Kool-Aid (4 onzas) Y el peso completo del azúcar (1 onza) = 5 onzas."
+
+msgid "No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr "¡No! El peso final incluye el peso del Kool-Aid (4 onzas) Y el peso completo del azúcar (1 onza) = 5 onzas."
+
+# 19
+msgid "Which of the following statements is <span class='blink'>NOT</span> true about the similarities of how atoms build molecules and Lego blocks build objects."
+msgstr "¿Cuál de las siguientes declaraciones <span class='blink'>NO</span> es verdad acerca de las similitudes entre cómo los átomos forman las moléculas y los bloques de Lego construyen objetos?"
+
+msgid "Both come in different sizes."
+msgstr "Ambos vienen en tamaños diferentes."
+
+msgid "Both can attach to each other."
+msgstr "Ambos pueden unirse entre sí."
+
+msgid "Both can combine to make different shapes."
+msgstr "Ambos pueden combinarse para crear distintas formas."
+
+msgid "Both are too small to see."
+msgstr "Ambos son demasiado pequeños para ser vistos."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms come in different sizes."
+msgstr "No exactamente. Ésta es una declaración verdadera. Tanto los bloques de Lego como los átomos vienen en tamaños diferentes."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms can attach to each other."
+msgstr "No exactamente. Ésta es una declaración verdadera. Tanto los bloques de Lego como los átomos pueden unirse entre sí."
+
+msgid "Not quite. This is a true statement. Both Lego blocks and atoms can combine to make different shapes."
+msgstr "No exactamente. Ésta es una declaración verdadera. Tanto los bloques de Lego como los átomos pueden combinarse para crear distintas formas."
+
+msgid "Correct! This is not a true statement. Atoms are too small to see but you can definitely see Lego blocks."
+msgstr "¡Correcto! Ésta no es una declaración verdadera. Los átomos son demasiado pequeños para ser vistos, pero definitivamente puedes ver los bloques de Lego."
+
+# 20
+msgid "Congratulation"
+msgstr "Felicitaciones"
+
+msgid "You've completed the Structure and Properties of Matter module."
+msgstr "Has completado el módulo de la Estructura y Propiedades de la Materia."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."

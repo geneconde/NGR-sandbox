@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "將下方的方框向上或向下旋轉以設置您的答案。擊點、按住或是上下移動您的游標。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點左邊及右邊的箭頭以瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations"
+msgstr "恭喜你！"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以點擊下方的按鈕來確認在這次的複習中“快速測驗”與“考驗問題”表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "進入儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "準備好了嗎"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把它們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "和第一個測驗題為……"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Energy and Chemical Changes"
+msgstr "能量與化學變化"
+
+msgid "Welcome to the Energy and Chemical Changes module"
+msgstr "歡迎來到「能量與化學變化」的模組"
+
+# 2
+msgid "Thinking about... energy and chemical changes"
+msgstr "想想有關…「能量與化學變化」"
+
+msgid "Have you ever heard people say: \"Wow, she really has a lot of energy. I wonder where she gets it from?\" Usually people are talking about their friends or relatives that are always \"on-the-go.\" They go to work or go to school, they do athletics or work out, join clubs, they do volunteer work and they never seem to get tired. Where DO they get all that energy? Think about all the things YOU do everyday. Where does your energy come from?"
+msgstr "你有沒有聽過人家說：「哇，她真的很有活力。我想知道她是從哪裡得到的？」人們總是在旅途中談論他們的朋友或是親戚。他們去上班或上學，他們做運動或工作、加入俱樂部，他們做志願工作，他們似乎從未感到厭倦。他們去哪兒獲得所有的能量？想想你每一天做的所有的事情。那麼你的能量從何而來？"
+
+msgid "And then think about all of the other things that you see happening and changing all around you – like cars moving, the lights going on in your house, flowers blooming in the garden, rain falling from the sky. What makes all of those things happen?"
+msgstr "想想看你身旁所發生一切並且一直在改變的事物，就像汽車在路上行駛、陽光照入你的房屋、在花園盛開的花朵或是天空降下的雨水，這些是怎麼發生的呢？"
+
+# 3
+msgid "Checking what you know about... energy and chemical changes"
+msgstr "檢查你關於能量及化學變化的知識。"
+
+msgid "What do you think is the original source for all that energy in the food you eat?"
+msgstr "在你所吃的食物中你覺得什麼是能量的最終始來源？"
+
+msgid "Sun"
+msgstr "陽光"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Cows"
+msgstr "牛"
+
+msgid "Plants"
+msgstr "植物"
+
+msgid "Power plants"
+msgstr "發電廠"
+
+msgid ""
+"All of the energy that is stored in the chemical compounds that make up the food we eat ultimately comes from the Sun. Plants have the ability to take the sun's energy and store as chemicals that are food for the plant – and for us. Cows and people eat the plants to get our energy to live – and sometimes we eat the cows or drink their milk. We all need water to help the biological processes of living take place, but water doesn't actually provide us with energy. And power plants provide the energy to package and refrigerate the food.  But the ultimate source of the "
+"energy that's in the food we eat originally comes from the Sun."
+msgstr "所有的能源都儲存在化學化合物之中，而且我們所吃的食物最終的來源都是太陽。植物有將陽光轉換及儲存成化學物的能力成為植物的養分並且讓我們得以食用。人與牛都食用植物獲得生存的能量，有時候我們會吃牛肉或是喝牛奶。我們都需要水得以維持生存的機能，但是水並不提供我們生存的能量。發電廠會提供能量去包裝及冷藏食物。但最終所有我們吃食物中能量的來源都是太陽。"
+
+msgid "Getting energy from the sun..."
+msgstr "從太陽獲取能源……"
+
+# 4
+msgid "Reviewing big ideas about... energy and chemical changes"
+msgstr "重新檢視關於能源及化學變化。"
+
+msgid ""
+"Look all around you. Energy is everywhere. You might not be able to see it directly because it's not a thing. But you can see what it does. Wherever you look, something is happening: your friends are moving around, playing ball, riding a bike, or just talking; cars are driving by; a pencil just rolled across your desk and fell on the floor. Even in things you can't see, something is happening: the air in your room is moving to make sounds; the invisible molecules of oxygen and nitrogen that make air are even bouncing around to create the temperature you feel in the air; "
+"and you – you are breathing and your heart is beating and even if you can't see it, the cells that make up your body are growing and making more cells to make you bigger and stronger every day. And all of this activity – everything that's happening – all the activity in the universe happens because of energy."
+msgstr "看看四周，能量存在於各個地方。你或許不能直接地看到因為它不是個「物體」，但你可以看到它是什麼。無論在哪裡你觀察，所有發生的事情：例如你的朋友在附近走動、玩球、騎腳踏車或者講話聊天；車輛行駛經過你身邊；或只是一枝筆在桌上滾動掉落地面。就是算是你沒看到的事物，還是一直存在著：在房間流動的空氣發出聲音、看不見的氧氣及氮氣交互反應創造你所感受到的溫度、而就算有時你無法看到，你一直都有呼吸及心跳，細胞讓你的身體持續成長並且創造細胞讓你每天都更加強壯。所有這些活動－所有在宇宙間發生的事物，都是因為有能量的存在。"
+
+msgid "Scientists define <span class='key'>energy</span> as \"the ability to do <span class='key'>work</span>\". That's one of the most important ideas in all of science! And when they say \"work\", they don't just mean it like doing your school-\"work\" or your home-\"work\", or when someone goes to \"work\" to make money and earn a living. What scientists mean by \"work\" is anything that causes matter to change or move. So everything that happens to matter in the universe, any movement or change to matter, is considered work and requires energy."
+msgstr "科學家定義能量為：有做功的能力。這在所有的科學中是很重要的概念。而當他們說到「做功」，他們不只是指學校中的「工作」或者你的回家作業，也不是只上班的「工作」，更不是賺錢養家的「工作」。科學家口中所說的「做功」，是指所有會導致改變或移動的事物。所以所有在宇宙間發生的事，所有動作或是改變發生，都是「做功」並且需要能源。"
+
+msgid "Looking around..."
+msgstr "看看四周……"
+
+# 5
+msgid "Question A. The <span class='blink'>best</span> scientific definition for energy is:"
+msgstr "問題Ａ 對能源最好的科學定義是："
+
+msgid "What it takes to get you moving when you're tired."
+msgstr "是讓你移動物品的能量"
+
+msgid "What it takes to make a car go down the road."
+msgstr "是讓車輛行駛的能量"
+
+msgid "What it takes to run a mile really fast."
+msgstr "是讓你跑得很快的能量"
+
+msgid "The work it takes to make any kind of change to anything."
+msgstr "是讓所有事物改變的能量"
+
+msgid "Question B. What is the <span class='blink'>BEST</span> example of how a <span class='blink'>scientist</span> would describe work?"
+msgstr "問題B. 什麼是科學家會用來描述做功最好的例子?"
+
+msgid "Digging a deep hole in the ground."
+msgstr "在地面挖掘一個深洞。"
+
+msgid "Pushing a wheelbarrow full of cement."
+msgstr "推著滿載水泥的獨輪車。"
+
+msgid "Making a change to anything in the universe."
+msgstr "改變在宇宙中任何東西。"
+
+msgid "Running a large tractor to harvest corn."
+msgstr "運行大型拖拉機收割玉米。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個快速檢測……"
+
+msgid "Not quite – It does take energy and work to get you moving when you're tired but scientists think of it in a much more general way."
+msgstr "不正確 – 當你累的時候，消耗了能量的並且讓你動起來，但科學家認為做功是一個更為一般性的方式。"
+
+msgid "Not quite – It does take energy and work to power a car but scientists think of it in a much more general way."
+msgstr "不正確 – 它需要的能量以發動車子，但科學家認為做功是一個更一般性的方式。"
+
+msgid "Not quite – It does take energy and work to run a mile really fast but scientists think of it in a much more general way."
+msgstr "不正確 – 它需消耗能量與做功，例如以非常快的速度跑一英里，但科學家認為做功是一個更一般性的方式。"
+
+msgid "Yes- Scientists think that energy is the work that it takes to make changes to almost anything. Any kind of change to anything in the universe requires energy."
+msgstr "是的 –科學家們認為能量即是做功改變幾乎所有的東西。宇宙中任何物質的改變都需要能量。"
+
+msgid "Not quite – Digging a hole is work but scientists think of work in a much more general way."
+msgstr "不正確 – 挖洞是做功，但科學家認為做功是一個更一般性的方式。"
+
+msgid "Not quite – Pushing a wheelbarrow is work but scientists think of work in a much more general way."
+msgstr "不正確 – 推著獨輪車是做功，但科學家認為做功是一個更一般性的方式。"
+
+msgid "Not quite – Running a tractor is work but scientists think of work in a much more general way."
+msgstr "不正確 –運行一台拖拉機是做功，但科學家認為做功是一個更一般性的方式。"
+
+# 6
+msgid "More big ideas about... energy and chemical changes"
+msgstr "更多有關「能量與化學變化」的大概念"
+
+msgid "Energy is everywhere and it's necessary when any kind of changes occur in the universe. What kind of changes? Here are some examples. When an object speeds up, slows down, starts or stops, these are changes in motion that require energy. When something heats up or cools down, energy is involved. When it's dark and you turn on the light, it requires energy. When you're sitting and you get up and walk, energy is needed. Anything that happens requires energy!!"
+msgstr "能源是無處不在且是必要的，當任何一種變化發生在宇宙中。是什麼樣的變化？這裡有一些例子。當一個物體的加快、減慢、開始或停止，這些是需要能量的運動的變化。當某種東西被加熱或冷卻，都需要能量參與。當黑暗的時候，你把燈打開，這需要的能量。當你坐著和你站起來走路，這也都需要能量。發生的任何事情需要能量！"
+
+msgid "And here's another very important idea from science about energy: \"Energy cannot be created or destroyed - it just changes forms\". This is called the \"<span class = 'key upper'>Law of Conservation of Energy</span>\". It just means that whenever any of those changes we were talking about happens, energy is never gained or lost in the universe - it just changes forms. That's why energy is never actually \"produced\" by a battery, or a windmill, or any other device. These devices just take one form of energy that already exists and changes it into a different form."
+msgstr "另一個非常重要的來自科學有關能量的概念“能量不能被創造或毀滅 - 它只是改變形式”。這就是所謂的“能量守恆定律”。它只是意味著，每當我們談論任何發生的變化，能量永遠不會在宇宙中獲得或消失，只是改變了它的形式。這就是為什麼能量從未真正由電池、風車或任何其他設備所“產生”。這些設備只是把已經存在的一種能量形式改變成另一種不同的形式。"
+
+msgid "So what are these different forms or kinds of energy? Here the names scientists use for just a few kinds of energy you might encounter everyday."
+msgstr "那麼什麼是這些不同的形式或種類的能源？在這裡有科學家所使用的幾種你可能在日常生活中會遇到的能量名稱。"
+
+msgid "Hover on the different kinds of energy to see the details."
+msgstr "將游標放置在不同種類的能源來查看詳細的信息。"
+
+msgid "Biological energy is the energy used by your body to do all the things that make us alive."
+msgstr "生物能源是用自己的身體做所有事情的能量使我們活著。"
+
+msgid "Heat energy is what keeps everything warm."
+msgstr "熱能維持所有一切的溫暖。"
+
+msgid "Light energy is what helps us to see."
+msgstr "光能是幫助我們看見。"
+
+msgid "Sound energy is the vibration of air or other molecules that helps us to hear."
+msgstr "聲能是空氣或其它分子的振動幫助我們聽到的。"
+
+msgid "Electrical energy is the energy of electrons going through wires to make so many things work."
+msgstr "電能是電子的能量，經過電線使許多東西的運作。"
+
+msgid "Chemical energy is stored energy in chemical compounds such as found in food."
+msgstr "化學能儲存能量於化合物中，例如在食物中發現的。"
+
+msgid "Kinetic energy is the energy of motion."
+msgstr "動能是運動的能量。"
+
+msgid "Changes in motion..."
+msgstr "在運動中變化……"
+
+# 7
+msgid "Drag the statements up and down to best describe the kind of energy the picture represents. How do we stay healthy?"
+msgstr "上下拖動最能描述畫面中代表一種能量的句子。我們如何保持身體健康？"
+
+msgid "Light"
+msgstr "光"
+
+msgid "Sound"
+msgstr "聲音"
+
+msgid "Biological"
+msgstr "生物"
+
+msgid "Chemical"
+msgstr "化學"
+
+msgid "Kinetic"
+msgstr "動能"
+
+msgid "Heat"
+msgstr "熱"
+
+msgid "Electrical"
+msgstr "電"
+
+msgid "Energy used by your body to do all the things that make us alive."
+msgstr "用你的身體能量，做一切讓我們活著的事。"
+
+msgid "Energy that keeps everything warm."
+msgstr "能量能保持溫暖。"
+
+msgid "Energy that makes objects visible to us."
+msgstr "能量使物體能被我們看見。"
+
+msgid "Energy that uses vibration of air or other molecules."
+msgstr "能量使用空氣或其它分子振動。"
+
+msgid "Energy of electrons going through wires."
+msgstr "高能電子經過電線。"
+
+msgid "Energy that is usually stored in food."
+msgstr "能量通常儲存在食物。"
+
+msgid "Energy of motion."
+msgstr "運動的能量。"
+
+msgid "Describing kinds of energy..."
+msgstr "描述各種能源……"
+
+# 8
+msgid "Stored chemical energy in plants"
+msgstr "在植物中儲存的化學能"
+
+msgid "Stored chemical energy in food"
+msgstr "在食物儲存的化學能"
+
+msgid "Mechanical energy of heart beating"
+msgstr "心臟跳動的機械能"
+
+msgid "Heat energy from exercise"
+msgstr "從運動中產生的熱能"
+
+msgid "Biological energy of thinking"
+msgstr "思考的生物能"
+
+msgid "Kinetic energy of motion"
+msgstr "運動的動能"
+
+msgid "Heat and Light Energy"
+msgstr "熱和光能"
+
+msgid "The Law of Conservation of Energy says that: \"energy is neither created nor destroyed\" but just changes forms - which means it is <span class='key'>converted</span> from one form of energy to another. The example shown in the diagram below shows how that happens when energy from the sun gets converted to energy that your body uses in your everyday life for you to be alive."
+msgstr "能量守恆定律指出：“能源是既不創造也不能被消滅”，但只是改變了形式 - 這意味著它是能量從一種形式轉化為另一種。如下圖所示的例子說明了來自太陽的能被轉換成你的身體日常生活所使用使你存活的能量。"
+
+msgid "1. <span class='key'>Solar energy</span> from the sun - light and heat - is converted, or changed, into energy for plants to live and grow. And the plant can store some of that energy as <span class='key'>chemical potential energy</span> in the food the plant makes. This happens in the plant's green leaves by a series of <span class='key'>chemical reactions</span> called <span class='key'>photosynthesis</span>."
+msgstr "1. 來自太陽的的太陽能- 光與熱 –被轉換或改變成植物生活和成長的能量。植物可以儲存製造出來的部分能量於食物中作為化學位能。這由一系列的化學反應叫做光合作用，發生於植物的綠葉。"
+
+msgid "2. When farmers harvest the food plants make, like corn or wheat, and make it into food for people, the stored <span class='key'>chemical energy</span> from the plants stays as stored chemical potential energy in the food you eat so you can get the energy to live."
+msgstr "2. 當農民收穫這些植物，例如玉米或小麥，並使其成為美食，儲存於植物中的化學能以化學位能保持在食品中，你這樣就可以得到能量而存活。"
+
+msgid "3. Then <span class='key'>Chemical reactions</span> in your body convert the stored <span class='key'>chemical potential energy</span> from the food you eat into other forms of energy like:"
+msgstr "3. 在你身體中，當化學反應將食物中儲存的化學位能轉換成其他能量，如："
+
+msgid "<span class='key'>Biological energy</span> to help you think and do all of the other things your body does automatically without you thinking about it."
+msgstr "生物能源以幫助你思考以及做所有你的身體會自動做而不需思考的事。"
+
+msgid "<span class='key'>Mechanical energy</span> - like the beating of your heart and moving your arms and legs."
+msgstr "機械能 - 像你的心臟跳動和移動你的手臂和腿。"
+
+msgid "<span class='key'>Kinetic energy</span> in the motion of anything you push or pull or lift."
+msgstr "動能為你推、拉或抬升任何事物的運動。"
+
+msgid "<span class='key'>Heat energy</span> you give off from exercising."
+msgstr "運動釋出熱能。"
+
+msgid "Click the image to enlarge the diagram."
+msgstr "點擊圖像放大圖片。"
+
+msgid "Creating or destroying?"
+msgstr "建立或摧毀？"
+
+# 9
+msgid "Question A. The chemical energy stored in plants comes from:"
+msgstr "問題A. 儲存在植物中的化學能來自於： "
+
+msgid "Heat energy from the soil"
+msgstr "土壤中的熱能"
+
+msgid "Solar energy from the sun"
+msgstr "太陽中的太陽能"
+
+msgid "Kinetic energy from growing"
+msgstr "從成長的動能"
+
+msgid "Water energy in the roots"
+msgstr "在根部中水的能量"
+
+msgid "Question B. When you eat, the energy you get from the food comes from:"
+msgstr "問題B. 當你吃東西的時候，你從食物中獲取的能量來自於："
+
+msgid "The solar energy in the food"
+msgstr "食物中的太陽能"
+
+msgid "The biological energy in the food"
+msgstr "在食物中的生物能源"
+
+msgid "The kinetic energy in the food"
+msgstr "在食物中的動能"
+
+msgid "The stored chemical energy in the food"
+msgstr "在食物中儲存的化學能"
+
+msgid "Not quite - heat energy from the soil helps the plant seeds grow but that's not where the stored chemical energy in the plant comes from."
+msgstr "不正確 – 來自土壤的熱能幫助植物的種子生長，但不是植物中化學能的來源。"
+
+msgid "Yes - Solar energy from the sun is converted into stored chemical energy in the plant by the chemical reactions of photosynthesis."
+msgstr "是 – 來自太陽的太陽能通過光合作用的化學反應被轉換成植物中的化學能。"
+
+msgid "Not really - The kinetic energy of the plant growing actually comes from the chemical energy in the plant - not the other way around."
+msgstr "不正確 – 植物生長的動能實際上來源於植物的化學能- 不是周圍的其他方法。"
+
+msgid "Not really - there is no such thing as water energy in the roots."
+msgstr "不正確 – 沒有像在根部的水能這樣的事情。"
+
+msgid "Not quite - solar energy helped make the energy in the food but has been converted into a different kind of energy in the food."
+msgstr "不正確 – 太陽能幫助在食物中產生能量，但已經被轉變成不同類型的能量儲存於食物中。"
+
+msgid "Not quite - the energy in the food is converted to biological energy in your body."
+msgstr "不正確 – 食物中的能量被轉換成身體中的生物能。"
+
+msgid "Not quite - the energy in the food is converted to kinetic energy in the activities your body does."
+msgstr "不正確 – 在食物中的能量被轉化成身體活動時的動能。"
+
+msgid "Yes! When you eat, the energy you get from the food comes from the stored chemical energy in the food."
+msgstr "是的！當你吃東西的時候，你從食物中獲取的能量來自於食物中所儲存的化學能。"
+
+# 10
+msgid "Using what you now know about... energy and chemical changes... to solve a problem"
+msgstr "使用你所知道有關於「能量與化學變化」的知識來解決問題。"
+
+msgid "Let's say you want to get back to nature and live in a beautiful little cabin up in the mountains far away from town where there is no electricity."
+msgstr "比方說，你想回歸自然，生活在遠離城市的山上的一個美麗小屋裡沒有電。"
+
+msgid "How would you use your knowledge of chemical energy, and how it is converted to and from different forms of energy, to design a system to light your cabin and power your cool electronic gear?"
+msgstr "你會如何使用你的化學能的知識，以及它是如何轉換和從不同形式的能量轉換，設計一個系統來照亮你的小屋以及供電冷卻電子齒輪。"
+
+msgid "Write a short paragraph to describe your design."
+msgstr "寫一段簡短的話來描述你的設計。"
+
+msgid "Converting energy..."
+msgstr "能量轉換……"
+
+# 11
+msgid "Summarizing big ideas about... energy and chemical changes"
+msgstr "總結關於能源與化學變化的大概念"
+
+msgid "Energy is everywhere around you. Energy makes things happen! Anything that moves or changes requires energy. But it's not as simple as just one kind of energy. There are many forms of energy and they keep changing forms as they cause things to happen. For instance, <span class='key'>light energy</span> from the sun is one form of energy."
+msgstr "能量在身邊隨處可見，它是讓所有事情發生的最源頭！所有事情無論移動或是改變都需要能量。但它需要的卻不只一種能源。世界上有各種各樣的能量形式而它們在讓事情發生時不斷的改變。例如光能是太陽散發出的能量之一。"
+
+msgid "It travels through space until it hits the earth and then some of it is <span class='key'>converted</span> into <span class='key'>heat energy</span> that changes the temperature of the earth making it warmer. Also, some of the light from the sun is absorbed by the leaves of green plant, and by special chemical reactions called <span class='key'>photosynthesis</span>, the <span class='key'>light energy</span> is converted into <span class='key'>chemical energy</span> stored in the plant as food."
+msgstr "光能穿越太空直到它到達地球，而其中一部分轉換成熱能並且讓地球溫度升高變得溫暖。一部分太陽的光能則由綠色植物的葉子吸收，透過叫做光合作用的特別化學反應，光能轉換成化學能，就是植物的食物並儲存於植物中。"
+
+msgid "We eat some of the foods plants produce and it becomes our source of energy. When energy is stored, like food in plants, we call it <span class='key'>potential energy</span> because it isn't doing anything right now but it has the \"potential\" to make something happen when it's released. When something is in motion, like a ball rolling down a hill it contains energy of motion that scientists call <span class='key'>kinetic energy</span>."
+msgstr "我們會食用一些由植物所產生的食物，而它將成為我們的能量來源。當能量，例如植物的食物，被儲存時，我們將它稱為「位能」，因為它的「潛在因子」所以它不會馬上產生作用，當它釋放出來才會產生作用。當事物開始產生動態的變化，就像球從山上滾下來時，包含著運動的能量，科學家們將它稱作「動能」。"
+
+msgid "Energy can take many forms such as; sound energy, electrical energy, light energy, heat energy, chemical energy, kinetic energy, potential energy, nuclear energy and biological energy. But it's important to know that the universe doesn't create any new energy or destroy any existing energy. It just constantly keeps converting one kind of energy to another to keep the universe working. The universe is a very good at recycling energy. Scientists call that the <span class='key'>Law of Conservation of Energy</span>."
+msgstr "能源可採多種形式存在，例如：聲能、電能、光能、熱能、化學能、動能、位能、核能以及生物能。但最重要的是去了解在宇宙不會去重造任何新的能量或是破壞任何現有的能量。它只是持續不斷的轉換各種能量以保持宇宙中的運作。宇宙非常善於回收能量。科學家們將這稱作「能量守恆定律」。"
+
+# 12
+msgid "Reviewing key vocabulary related to... energy and chemical changes"
+msgstr "審視能源與化學變化中的重點詞彙"
+
+msgid "Chemical energy"
+msgstr "化學能"
+
+msgid "The potential energy stored in chemical compounds. It can be converted by chemical reactions to other forms of energy, such as light energy or heat energy."
+msgstr "儲存於化學化合物中的位能。它可以透過化學反應轉換為其他形式的能量，就像光能或是熱能。"
+
+msgid "Potential energy"
+msgstr "位能"
+
+msgid "Any kind of stored energy that can be converted to other kinds of energy."
+msgstr "任何一種可被儲存的能量都可以轉換成其他種類的能量。"
+
+msgid "Kinetic energy"
+msgstr "動能"
+
+msgid "The energy of an object in motion. It is the opposite of potential energy. Examples would include releasing a coiled spring or dropping a ball."
+msgstr "在運動物體中的能量。與位能為相反的能量。就像釋放一個彈簧或是丟一顆球的能量。"
+
+msgid "Photosynthesis"
+msgstr "光合作用"
+
+msgid "The process by which plants convert carbon dioxide, water, and light energy into glucose and molecular oxygen. The plant can then use the glucose later for energy."
+msgstr "植物將二氧化碳、水、光能轉換成葡萄糖及氧分子的過程。植物可以將葡萄糖當作自身的能量。"
+
+msgid "Conservation of energy"
+msgstr "能量守恆"
+
+msgid "The concept that energy can be neither created nor destroyed, it can only change form. The total amount of energy at the start of any process must be equal the amount of energy at the end of the process."
+msgstr "能量守恆是個關於能量不是無中生有也不會被消滅的概念，但是它可以轉換形式。在任何過程開始時的能量總量和過程結束時相等。"
+
+msgid "Work"
+msgstr "做功"
+
+msgid "The application of a force over a distance. Pushing a weight down the road is doing work."
+msgstr "施一個力量在相當位移之間。在路上你推動一個有重量的物品，就是在做功。"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "The property of objects that can be transferred or changed in form, but not created nor destroy. Energy is the ability of objects to do things."
+msgstr "所有的物件都可以在不同的形式中轉移或是改變，但無法創造或是摧毀。能量是物件去做事的能力。"
+
+msgid "The transfer of energy from one form to another. Potential energy is converted into kinetic energy when a ball that has been lifted into the air is dropped and allowed to fall."
+msgstr "能量從一種形式轉移到另一種。當球被舉起在空中，並使其落下，位能就會轉換成動能。"
+
+msgid "Converting energy"
+msgstr "能源轉換"
+
+# 13
+msgid "Checking what you now know about... energy and chemical changes"
+msgstr "檢查自身有關能量及化學變化的知識"
+
+# 14
+msgid "Photosynthesis is a process involving chemical reactions in the leaves of green plants that converts:"
+msgstr "光合作用是個涉及綠色植物中化學反應，它轉換："
+
+msgid "heat energy from the Sun into kinetic energy to make the plant move towards the Sun."
+msgstr "太陽散發的熱能轉化成動能讓植物產生向光性。"
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for the plant."
+msgstr "太陽的光能讓植物中的化學能為植物提供養分。"
+
+msgid "light energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr "太陽的光能使植物中的化學能為動物提供養分。"
+
+msgid "heat energy from the Sun to make chemical energy in the plant to provide food for animals."
+msgstr "太陽的熱能可以使植物中的化學能為動物提供養分。"
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant to move towards the Sun. The energy from the food the plant makes during photosynthesis does."
+msgstr "不盡如此 – 太陽的熱能不能讓植物產生向光性。植物的養分在光合作用時才能使植物產生向光性。"
+
+msgid "Yes - light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr "是的 – 太陽的光能使植物中的化學能為植物自身提供養分。"
+
+msgid "Not quite - light energy from the Sun is converted into chemical energy in the food the plant makes for itself - not for food for the animals that might eat it."
+msgstr "不盡如此 – 太陽的光能使植物中的化學是為植物提供養分，而不是為了會吃掉它的動物提供養分。"
+
+msgid "Not quite - heat energy from the Sun doesn't cause the plant make food for animals. But the light energy from the Sun is converted into chemical energy in the food the plant makes for itself."
+msgstr "不盡如此 – 太陽的熱能不會使植物提供養分給動物。但太陽的光能轉換為植物中的化學並為植物自身提供養分。"
+
+# 15
+msgid "Which of the following is the most important form of energy that is found in the food you eat that provides energy for your body’s biological activity?"
+msgstr "下列哪個選項是你吃的食物中為你身體提供能量的最重要形式。"
+
+msgid "Not quite - heat energy in hot food can help keep your body warm - like drinking hot chocolate on a cold day - but that isn't the most important form of energy in food."
+msgstr "不盡如此－在熱食中的熱能可以讓你的身體溫暖，就像在冷天喝熱巧克力，但這不是在食物中最重要的能量形式。"
+
+msgid "Not really - there really isn't any light energy in food."
+msgstr "不盡如此－在食物中沒有任何的光能。"
+
+msgid "Not really - there really isn't any electrical energy in food."
+msgstr "不盡如此－在食物中沒有任何的電能。"
+
+msgid "Yes! Chemical energy in the food you eat – like in sugars, proteins, and fats - provide almost all of the energy your body needs to function."
+msgstr "是的！在食物中的化學能，就像糖分、蛋白質、或是脂肪，提供幾乎所有身體機能需要的能量。"
+
+msgid "Heat energy"
+msgstr "熱能"
+
+msgid "Light energy"
+msgstr "光能"
+
+msgid "Electrical energy"
+msgstr "電能"
+
+msgid "Riding a bike..."
+msgstr "騎自行車……"
+
+# 16
+msgid "Which of the following is an example of kinetic energy? The energy in a:"
+msgstr "以下哪一項是動能的例子？能量在："
+
+msgid "Rock sitting on a cliff"
+msgstr "山崖峭壁上的岩石"
+
+msgid "Glass of lemonade"
+msgstr "一杯檸檬水"
+
+msgid "Battery"
+msgstr "電池"
+
+msgid "Child sliding down a slide"
+msgstr "滑下滑梯的兒童"
+
+msgid "Finding kinetic energy..."
+msgstr "尋找動能……"
+
+msgid "Not really. Kinetic energy is the energy of motion but rock sitting on a cliff isn't moving, it's just sitting there."
+msgstr "不是。動能是運動的能量，但岩石坐落在懸崖上是不動的，它只是坐在那裡。"
+
+msgid "Not quite - a battery has stored potential chemical energy inside that can be converted to electrical energy. But that's not kinetic energy."
+msgstr "不是。一個電池儲存潛在的化學能可轉換為電能。但是這不是動能。"
+
+msgid "Not quite! A glass of lemonade may have stored potential chemical energy inside in the form of sugar, but that's not kinetic energy."
+msgstr "不是！一杯檸檬水可能儲存潛在的化學能於糖的形式中，但這並不是動能。"
+
+msgid "Yes! A child sliding down a slide is moving so it has kinetic energy. What happens if he runs into another child sitting at the bottom of the slide?!"
+msgstr "是的！兒童滑下滑梯是運動，因此具有動能。如果他跑進坐有另一位孩子的溜滑梯底部，會發生什麼事情呢？"
+
+# 17
+msgid "Which of the following is an example of potential energy? The energy in a:"
+msgstr "以下哪項是位能的例子？能量在："
+
+msgid "Falling rock"
+msgstr "落石"
+
+msgid "Flowing river"
+msgstr "流動的河"
+
+msgid "Gust of wind"
+msgstr "一陣風"
+
+msgid "Studying potential energy..."
+msgstr "研究位能……"
+
+msgid "Yes! A battery has stored potential chemical energy inside that can be converted to electrical energy once you hook it up to something like a fan. Then when the fan is in motion, the potential energy becomes kinetic energy."
+msgstr "是！電池有儲存潛在的化學能可以轉化成電能，一旦你把它掛到像風扇的地方。然後，當風扇在運動時，位能即成為動能。"
+
+msgid "Not quite. A flowing river has energy of motion - which is kinetic energy, not potential energy."
+msgstr "不是。一個流動的河流有運動的能量 – 這是動能，而不是位能。"
+
+msgid "Not quite. A falling rock has energy of motion - which is kinetic energy, not potential energy."
+msgstr "不是。落石有運動能量 – 這是動能，而不是位能。"
+
+msgid "Not quite! A gust of wind has energy of motion - which is kinetic energy, not potential energy."
+msgstr "不是！一陣風有運動能量 – 這是動能，而不是位能。"
+
+# 18
+msgid "Which of the following things you do everyday does not require energy?"
+msgstr "以下哪些事情是你每天所做並且不需要能量？"
+
+msgid "Sleeping"
+msgstr "睡眠"
+
+msgid "Thinking"
+msgstr "思考"
+
+msgid "Sitting perfectly still"
+msgstr "坐著完全靜止"
+
+msgid "None of the above"
+msgstr "以上都不是"
+
+msgid "Looking for energy..."
+msgstr "尋找能量……"
+
+msgid "Not quite - Even when you are sleeping, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr "不是 – 即使當你在睡覺，你的心臟跳動，你的呼吸，和你成長 – 所有的這些事情都需要能量。"
+
+msgid "Not quite - Even when you are just thinking, your heart is beating, you are breathing, and you are growing - all of these things need energy. Even the process of thinking requires your brain to use energy. That's why it's a good idea to eat good food for energy to think when you're in school."
+msgstr "不是 – 即使你只是思考，你的心臟在跳動，你的呼吸，和你成長 - 所有的這些事情都需要能量。甚至思考過程也需要你的大腦使用能量。這是何以你在學校中，你攝取食物提供能量以供思考是一個好主意。"
+
+msgid "Not quite - Even when you are sitting perfectly still, your heart is beating, you are breathing, and you are growing - all of these things need energy."
+msgstr "不盡然，即使當你靜止時，你的心臟跳動，你呼吸，以及你生長，所有這些需要能量。"
+
+msgid "Yes - All of the above choices require energy so &quot;None of the above&quot; are examples that DO NOT require energy"
+msgstr "是的 –以上所有的選擇項目都需要能量，所以“以上皆非” 的例子是不需要能量。"
+
+# 19
+msgid "Any time anything is happening in the universe, or any changes occur to anything in the universe, those events require:"
+msgstr "任何時候，任何事情發生在宇宙中，或發生在宇宙中的任何東西改變，這些事件需要："
+
+msgid "Force"
+msgstr "力"
+
+msgid "Human"
+msgstr "人類"
+
+msgid "The Sun"
+msgstr "太陽"
+
+msgid "Yes - Energy is required for all changes to occur in the universe."
+msgstr "是的 – 所有發生在宇宙中的變化是需要能量。"
+
+msgid "Not quite - Force is a push or a pull. Some changes that happen, like thinking, require energy but not a force."
+msgstr "不對 – 力是推或拉。一些變化的發生，像是思考，需要能量但不是力。"
+
+msgid "Not really - lots of things happen in the universe that humans aren't involved in."
+msgstr "不對 – 很多事情發生在人類無法參與的宇宙中。"
+
+msgid "Not quite - the Sun provides energy for many changes that happen in our solar system but not everything. And outside our solar system, in the big universe, our sun doesn't provide any energy impact at all."
+msgstr "不對 – 太陽提供能量給我們太陽系中發生的許多改變，但不是所有的。"
+
+msgid "You've completed the Energy and Chemical Changes module."
+msgstr "你已經完成了「能量與化學變化」的模組。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個考驗問題是…"

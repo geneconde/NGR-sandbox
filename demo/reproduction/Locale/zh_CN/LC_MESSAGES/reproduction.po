@@ -1,0 +1,1306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Biodiversity\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quick Check #5"
+msgstr "小練習 #5"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready, "
+msgstr "你準備好了嗎, "
+
+msgid "Reproducing microorganism..."
+msgstr "微生物的繁殖..."
+
+msgid "Taking care of offspring..."
+msgstr "照顧下一代..."
+
+msgid "Preparing your first quick check..."
+msgstr "請準備你的第一次小練習！"
+
+msgid "Enumerating hereditary characteristics..."
+msgstr "列舉遺傳特徵..."
+
+msgid "Plants reproduction"
+msgstr "植物的繁殖"
+
+msgid "Survival instincts of organisms..."
+msgstr "生物的生存本能..."
+
+msgid "Studying the life cycle..."
+msgstr "研究生命週期..."
+
+msgid "Bees carrying pollen"
+msgstr "蜜蜂攜帶花粉"
+
+msgid "Flowers are blooming"
+msgstr "百花盛開..."
+
+msgid "Courting peacocks"
+msgstr "孔雀求愛"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後的小練習了嗎？"
+
+msgid "Flying birds"
+msgstr "飛鳥"
+
+msgid "Putting it all together..."
+msgstr "整理一下囉..."
+
+msgid "Words and explanations"
+msgstr "字詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+msgid "Stallions competing for dominance"
+msgstr "公馬爭奪主導權"
+
+msgid "Flipping the box..."
+msgstr "翻轉方盒..."
+
+msgid "A pack of wolves is running."
+msgstr "群狼奔跑"
+
+msgid "Flying bats"
+msgstr "飛行中的蝙蝠"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗嗎？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Reproduction review"
+msgstr "歡迎來到「生命的繁衍」單元，"
+
+# 2
+msgid "Thinking about... reproduction"
+msgstr "想一想...關於「生命的繁衍」"
+
+msgid ""
+"You have a family, what about plants and animals? Do they have families too? "
+"Think about plants and animals having parents and then having children of "
+"their own. The ability to reproduce ensures that families continue into the "
+"future. This is true for all of nature. The varieties of ways in which "
+"reproduction occurs is nothing short of amazing."
+msgstr ""
+"你有一個家庭，但動物和植物呢？它們也有家庭嗎？讓我們想一想！一個動物或植物，"
+"它們也有上一代和下一代。就因為，生物都有繁殖的能力，所以家族才能夠不斷延續；"
+"這原則適用於所有自然界。你知道嗎？不同的生物可以有不同的繁殖方式，有趣的是，"
+"這些各式各樣的繁殖方式，常常令人感到讚嘆。"
+
+# 3
+msgid "Checking what you know... about reproduction"
+msgstr "看看您了解了多少......關於「生命的繁衍」"
+
+msgid ""
+"Click on <span class='red blink'>all</span> the <span class='blink'>correct</"
+"span> statements below."
+msgstr "請點選下列中，<span class=\"red blink\">所有正確的</span>敘述。"
+
+msgid "All living organisms reproduce."
+msgstr "各種生物都會繁殖。"
+
+msgid "All non-living organisms reproduce."
+msgstr "各種的非生物都會繁殖。"
+
+msgid "All organisms that reproduce need a male and a female to do so."
+msgstr "所有的生物繁殖都需要有一個雄性和一個雌性。"
+
+msgid "Living things have different ways to reproduce."
+msgstr "生物有許多不同繁殖的方法。"
+
+msgid "Reproduction is a natural tendency to keep life going."
+msgstr "繁殖是一個將生命延續的自然現象。"
+
+msgid "Plants and animals have the same structures for reproduction."
+msgstr "動物和植物都具有相同的生殖構造。"
+
+msgid ""
+"You may or may not have checked all the right ones—a few are a bit tricky. "
+"Reproduction is a natural tendency to continue life by creating offspring. "
+"There are different ways to reproduce, not always involving a female and a "
+"male. All living things--plants, animals, and microorganisms reproduce. "
+"There are non-living things like viruses that also reproduce and make more "
+"viruses. Living organisms have different structures to help them reproduce. "
+"You will learn more about reproduction in this review."
+msgstr ""
+"雖然其中有幾個選項是要稍微想一想，但您或許已將全部的正確敘述都答出來了。是"
+"的，繁殖是一個生物要產生後代延續生命的自然傾向。繁殖可透過許多不同的方式，不"
+"一定需要有一個雌性和一個雄性。各種生物，也就是動物、植物和微生物都會繁殖。病"
+"毒，雖然屬於「非生物」，但它也會繁殖以產生更多的病毒。不同的生物體具有不同的"
+"結構來進行繁殖。請繼續閱讀本單元中，您對繁殖將會有更多的了解。"
+
+# 4
+msgid "Reviewing core ideas... about reproduction"
+msgstr "複習核心觀念......關於「生命的繁衍」"
+
+msgid ""
+"Life begins... somehow. Plants sprout. Eggs hatch. Microbes divide. Mammals "
+"are born. All living things go through a life cycle, a pattern of "
+"development that includes growth, adult development, <span class=\"key"
+"\">reproduction</span>, aging, and death."
+msgstr ""
+"生命...在某種情況下開始了！植物發芽、卵孵化、微生物分裂、哺乳動物誕生......。"
+"生物都會經歷一個生命週期，這過程包括：出生、成長、發展、<span class=\"key\">"
+"生殖</span>、衰老，然後死亡。"
+
+msgid ""
+"All living things start out small, usually too small to survive in a hostile "
+"world. Plants grow and mature. They develop <span class=\"key\">flowers</"
+"span> which turn into fruits, and contain the seeds for the next generation."
+msgstr ""
+"所有生物的生命開始時，都很小；也因為很小，所以常難以在充滿敵意的世界裡存活長"
+"大。例如植物，從種子開始，它們生長、達到成熟、長出<span class=\"key\">花朵</"
+"span>再結出果實，而果實則可又包含著孕育下一代的種子了。"
+
+msgid ""
+"Animals have life cycles as well. Once animals are born, some are taken care "
+"of by their parents, and some never even know their parents, and live on "
+"their own immediately. They become able to reproduce when they reach their "
+"full size. Animals reproduce in different ways. In species having parents of "
+"different sexes, the mating process may be as simple as spreading eggs and "
+"sperm in a trench at the bottom of a stream to a life-long partnership, "
+"lasting many years."
+msgstr ""
+"動物也有生命週期。一旦動物出生後，有些是由它們的父母照顧，有的則是立刻獨自開"
+"始展開生活，從來不知道自己的父母是誰。當動物長大成熟後就有能力進行生殖。動物"
+"有各種不同的繁殖方式，對一些具有不同性別的動物，生物交配可能複雜也可能簡單，"
+"例如簡單到就只是分別將卵子和精子散播在河水的底部，只因為這樣，它們雌、雄之間"
+"就形成多年的伴侶關係。"
+
+msgid ""
+"After an animal's reproductive and parenting years are completed, most begin "
+"a process of decline. Illnesses are more frequent and last longer. Wounds "
+"take longer to heal. Finding food and resources becomes more difficult. "
+"Eventually all animals die, completing their cycle of life."
+msgstr ""
+"生物在完成它們生殖和養育的階段後，大部分也就進入了衰老的過程。疾病更加頻繁、"
+"持續時間更長、傷口也需要更長的時間來癒合、食物和資源的找尋也變得更加的困難；"
+"最終，所有的生物都會邁入死亡，完成所謂的「生命週期」。"
+
+# 5
+msgid ""
+"Question A. Which of the following stages is <span class=\"blink\">not</"
+"span> a part of all animal life cycles?"
+msgstr ""
+"問題A. 以下哪一個階段<span class=\"blink\">不是</span>所有動物都會經歷的生命"
+"週期？"
+
+msgid "Birth or hatching"
+msgstr "出生或孵化"
+
+msgid "Reproducing"
+msgstr "繁殖"
+
+msgid "Caring for young"
+msgstr "照顧幼小的後代"
+
+msgid "Death"
+msgstr "死亡"
+
+msgid "All living organisms"
+msgstr "各種生物都會 繁 殖。"
+
+msgid ""
+"Question B. Which living things have this life cycle: birth, growth, "
+"reproduction, and death?"
+msgstr "問題B. 哪一些生物具有這生命週期：出生、成長、生殖和死亡？"
+
+msgid "Plants and animals"
+msgstr "動物和植物"
+
+msgid "Animals and humans"
+msgstr "動物和人類"
+
+msgid "Nearly all living organisms"
+msgstr "所有的生物"
+
+msgid "Plants, animals, and humans"
+msgstr "動物、植物和人類"
+
+msgid "No... All animals hatch or are born."
+msgstr "不對喔！自然界中所有的動物都會經歷孵化或出生。"
+
+msgid "No... All types of animals reproduce."
+msgstr "不對喔！各種動物都會經歷「繁殖」。"
+
+msgid ""
+"That's correct. Some types of animals live on their own their entire lives."
+msgstr ""
+"這是正確的。有些種類的動物一生都是獨立自己長大、獨立生活的，沒有受到親代(父"
+"母)的照顧。"
+
+msgid "No... All animals eventually die."
+msgstr "不對喔！所有的動物最終都會經歷「死亡」。"
+
+msgid ""
+"Not quite. Plants and animals do have life cycles like that, but so do "
+"humans and all other living organisms."
+msgstr "不完全是。動物和植物都有這樣的生命週期，人類還有其它生物也是。"
+
+msgid ""
+"Not quite. Humans and animals do have life cycles like that, but so do "
+"plants and all other living organisms."
+msgstr "不完全是。人類和動物都有這樣的生命週期，人類還有其它生物也是。"
+
+msgid ""
+"Correct! Plants, animals, humans, and other living organisms have the life "
+"cycle of birth, growth, reproduction, and death."
+msgstr ""
+"正確！動物、植物、人類和其它生物都有著出生、成長、生殖和死亡的生命週期。"
+
+msgid ""
+"Almost. There are tiny organisms you left out that also have this type of "
+"life cycle."
+msgstr "很接近！但是你漏掉了，因為還有一些微生物它們也有這樣的生命周期。"
+
+# 6
+msgid "More core ideas... about reproduction"
+msgstr "更多核心觀念...關於「生命的繁衍」"
+
+msgid ""
+"Some types of living things are able to reproduce one individual at a time, "
+"by dividing or having small parts break off from the parent. This is common "
+"in microbes and in many types of plants. This type of reproduction is called "
+"<span class=\"key\">asexual</span>, and results in <span class=\"key"
+"\">offspring</span> that are exact copies of their parents."
+msgstr ""
+"有一些生物能夠直接從母株取下一小部分，進行繁殖。這在微生物中和許多植物中，相"
+"當常見。這種類型的繁殖就稱為<span class=\"key\">無性生殖</span>，這可以使得它"
+"們的<span class=\"key\">後代</span>跟原來的親代(母株)完全相同。"
+
+msgid ""
+"Other organisms require two parents for reproduction to occur. Each parent "
+"contributes equally to each offspring, so that offspring always have "
+"characteristics of both parents. This type of reproduction is called <span "
+"class=\"key\">sexual reproduction</span>, and involves males (who contribute "
+"sperm) and females (who contribute eggs). This type of reproduction often "
+"involves complex mating behaviors that help determine which individuals will "
+"choose each other as partners. This is common in animals."
+msgstr ""
+"而有些生物則需要雌雄雙方，才能進行繁殖。在遺傳上，雌雄任一方對每個子代都有相"
+"同的貢獻，所以後代會有親代(雌和雄)雙方的特點。這種類型的生殖稱為<span class="
+"\"key\">有性生殖</span>，也就是需要雄性（貢獻精子）和雌性（貢獻卵子）來進行生"
+"殖。這種類型常會涉及複雜的擇偶行為，有助於動物選擇它們的對象。"
+
+msgid ""
+"Depending on the type of reproductions, similarities between parents and "
+"offspring may differ. Asexual reproduction results in offspring exactly like "
+"the parent; and sexual reproduction leads to offspring who resemble their "
+"parents, but are not copies. Each generation produces unique combinations of "
+"characteristics that enable the species to be capable of surviving any "
+"number of problems which may occur in nature. Much of the beauty of nature "
+"is related to the amazing variety of plant and animal reproductive anatomy "
+"and behavior."
+msgstr ""
+"不同的繁殖方式，會使父母與子女之間的相似性有所不同。「無性生殖」產生的子代會"
+"跟親代一模一樣；「有性生殖」的子代長得會與親代相像，但並不相同。「有性生殖」"
+"的後代都會形成獨特的新組合，使新的後代能夠具有新的調適能力以在不斷變動的大自"
+"然中存活下來。而，這種各形各色的動植物和多采多姿的繁衍結構和行為，就成了自然"
+"之美的一個部分了。"
+
+# 7
+msgid ""
+"Question A. How are the products of asexual reproduction similar to their "
+"parents?"
+msgstr "問題 A. 為什麼無性生殖的子代和它們的親代會一模一樣呢？"
+
+msgid ""
+"Rotate or flip the 3D box at the left either up or down to set your answer."
+msgstr "請向上或向下翻轉左邊3D盒，以選擇你的答案"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並上下移動滑鼠旋轉方塊，然後選擇你的答案。"
+
+msgid "They can only reproduce once per lifetime."
+msgstr "它們在一生中都只能繁殖一次。"
+
+msgid "They have half of their parent's genes."
+msgstr "它們具有它們親代的一半基因。"
+
+msgid "They are exactly like their parent."
+msgstr "它們具有與它們的親代完全一樣的基因。"
+
+msgid "They have double of their parent's genes."
+msgstr "它們有它們親代的兩倍基因。"
+
+msgid ""
+"Question B. What is the easiest way to get a plant to reproduce asexually?"
+msgstr "問題B. 讓植物無性繁殖最簡單的方法是什麼呢？"
+
+msgid "By splitting it down the middle."
+msgstr "從中間將它們切開。"
+
+msgid "By giving it artificial hormones."
+msgstr "給予人造荷爾蒙。"
+
+msgid "By taking a cutting of a flower and replanting it."
+msgstr "切下一小塊然後重新栽種。"
+
+msgid "By spreading its roots through the ground."
+msgstr "讓它們的根在地底下蔓延。"
+
+msgid ""
+"Correct. The child has the exact same genes the parent does, like a clone."
+msgstr "答對囉！子代與它們的親代具有完全相同的基因，就像一個複製體。"
+
+msgid ""
+"No, in asexual reproduction the product has the exact same genes the parent "
+"does."
+msgstr "不對喔！在無性繁殖時，子代與它們的親代具有完全相同的基因。"
+
+msgid "No. The product of asexual reproduction is exactly like the parent."
+msgstr "不對喔！無性繁殖的產物與它們的親代是完全一樣的。"
+
+msgid ""
+"No, in asexual reproduction the child has the exact same genes the parent "
+"does."
+msgstr "不對喔！在無性繁殖時，子代與它們的親代具有完全相同的基因。"
+
+msgid "That works! Using roots to copy plants is a good choice."
+msgstr "正確這方法很好！用根去複製植物是一個不錯的選擇。"
+
+msgid ""
+"No, splitting it down the middle will not make another plant, it will just "
+"kill it."
+msgstr "不對喔！把它從中間切斷不會生成另一株植物，這只會弄死它。"
+
+msgid ""
+"No, artificial hormones might make it grow, but not reproduce asexually."
+msgstr "不對喔！人工賀爾蒙可能會使植物成長，但並不會造成無性繁殖。"
+
+msgid "No, that is incorrect."
+msgstr "不對喔！那是不正確的。"
+
+# 8
+msgid ""
+"Living things grow, breathe, eat (take in the substances they need to grow), "
+"get rid of waste, and reproduce in different ways. They all move and respond "
+"to their environment somehow. When a dog pants and a human sweats, they are "
+"both trying to cool down. Thorns on a rose bush are very similar to the "
+"stink of a skunk in that they both are trying to protect themselves. A plant "
+"grows toward light and animals move to find water and food."
+msgstr ""
+"生物會生長、呼吸、進食（攝取營養）、排除廢物，它們也具有不同的繁殖方式。生物"
+"還會對它們的環境產生「反應」，例如：狗會喘息和人會流汗，這都是在降低體溫的一"
+"些反應；玫瑰會長刺和臭鼬釋放臭味，這都是在試圖保護自己的反應；植物會朝向光亮"
+"的方向生長和動物會朝有飲水食物的地方遷移，這也都是植物生長和動物移動的一種反"
+"應來取得生存的有利條件。"
+
+msgid ""
+"What do a monkey and a microbe have in common? A lot actually. All organisms "
+"grow, reproduce, get old and die. They each carry out different parts of "
+"their life cycle in different ways. To do this, plants and animals have "
+"different structures, or parts."
+msgstr ""
+"你想過，猴子和微生物有什麼共同點嗎？實際上有很多。雖然，所有的生物都會生長、"
+"繁殖、衰老和死亡，但彼此間在不同生命週期的每一個階段，還是會有不同的現象。因"
+"此，可以想知，不同生物之間應該具有不同的構造或組成。"
+
+msgid ""
+"Plants and animals have both internal and external structures that help them "
+"live based on their needs. Dogs have lungs and fish have gills. Both of "
+"these structures help the animals breathe. Colored petals on a flower and "
+"colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"動物和植物在內部和外部都有一些構造，來幫助它們生存。例如，狗有肺、魚有鰓，這"
+"兩種構造使得動物能夠呼吸；花的彩色花瓣和鳥的彩色羽毛也都能促進繁殖，幫助生物"
+"生存。"
+
+msgid ""
+"There are similarities and differences among all the species that reproduce "
+"sexually. In all species, females produce eggs and males produce sperm. But "
+"they do so with very different physical structures. Plant reproductive "
+"structures are found in flowers. In animals, individuals are either male or "
+"female, each having very different reproductive systems."
+msgstr ""
+"會進行有性生殖的生物，它們之間有些共通處、也會差異處。例如，在共通處方面，這"
+"些生物都由雌性產生卵子、雄性會產生精子，而且雌雄間的生理結構有很大的不同；而"
+"在差異處方面，對植物而言，雌雄的生殖結構常可以同時存在一朵花內(也就是「雌雄同"
+"體」)，但對動物來說，雌雄則常分屬於不同的個體(也就是「雌雄異體」)。"
+
+msgid ""
+"Many plants have both male and female parts in the same flower. Hover your "
+"mouse over each image to know more information."
+msgstr ""
+"下圖中，以左上角的這朵粉紅色花為例，可看到它就同時具有雌、雄的特徵部分(也就"
+"是，「雌蕊」和「雄蕊」，一般而言，雌蕊在中心，雄蕊在環繞在周圍)。[請按照從左"
+"到右順序，將鼠標懸停在每個圖像上，以了解更多信息。]"
+
+msgid ""
+"The male part is called a stamen. Sperm are packaged into particles called "
+"<span class=\"key\">pollen</span> grains."
+msgstr ""
+"雄性的特徵部分被稱為「雄蕊」。在這裡，「精子」被集中成為顆粒狀，稱為<span "
+"class=\"key\">花粉粒</span>。"
+
+msgid ""
+"The female part of the flower is called the pistil. When the pollen grain "
+"breaks open, a tube grows into the pistil and penetrates the ovary. A sperm "
+"cell then travels down the pollen tube to fertilize an egg cell."
+msgstr ""
+"雌性部分稱「雌蕊」。花粉粒破裂、花粉散落，長成「花粉管」到雌蕊並穿透「子"
+"房」。精子細胞透過花粉管進入，使「卵細胞受精」。"
+
+msgid ""
+"Egg cells are located inside the ovary. After the sperm and egg cells unite, "
+"a seed begins to develop inside the ovary."
+msgstr "卵細胞位於子房內部。精子和卵細胞結合後，「種子」開始在子房內發育。"
+
+msgid "The rest of the ovary develops into a fruit."
+msgstr "子房的其餘部分則發育成為「果實」。"
+
+# 9
+msgid ""
+"Question A. Fill in the blanks to complete the paragraph below. Click on the "
+"select button to choose the <span class=\"blink\">correct</span> answer."
+msgstr ""
+"問題A. 請在下面句子中點選空格處以填入<span class='blink'>correct</span>答案。"
+
+msgid "In all species, females produce"
+msgstr "在各種生物物種中，雌性會產生"
+
+msgid "flowers"
+msgstr "花"
+
+msgid "productive"
+msgstr "產物"
+
+msgid "pollen"
+msgstr "花粉"
+
+msgid "eggs"
+msgstr "卵子"
+
+msgid "reproductive"
+msgstr "生殖"
+
+msgid "and males produce"
+msgstr "而雄性會產生"
+
+msgid ""
+". But they do so with very different physical structures. Plant reproductive "
+"structures are found in "
+msgstr "。但不同物種間有非常不同的身體結構來做這些事情。植物生殖結構位於"
+
+msgid ""
+". In animals, individuals are either male or female, each having very "
+"different "
+msgstr "。動物則可能分有雄性或雌性，雌雄具有非常不同的"
+
+msgid "systems."
+msgstr "系統。"
+
+msgid ""
+"Question B. Click on <span class=\"blink\">all</span> the following "
+"processes that all living things do."
+msgstr ""
+"問題A. 請點選下列，生物會有的各種<span class=\"blink\">活動</span>。(複選)"
+
+msgid "Movement"
+msgstr "向光或移動"
+
+msgid "Respiration"
+msgstr "呼吸"
+
+msgid "Growing"
+msgstr "成長"
+
+msgid "Shrinking"
+msgstr "越年長越萎縮"
+
+msgid "Reproduction"
+msgstr "複製"
+
+msgid "Asexual reproduction"
+msgstr "無性繁殖"
+
+msgid "Asexual Reproduction"
+msgstr "無性繁殖"
+
+msgid "Responding to the environment"
+msgstr "對環境進行反應"
+
+msgid ""
+"Great job! Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"答的好！動物和植物用不同的部分來進行繁殖。有時，植物在同一株植物上，會同時有"
+"雌性和雄性的結構。"
+
+msgid ""
+"Not quite. Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"不完全對喔！動物和植物用不同的部分來進行繁殖。有時，植物在同一株植物上，會同"
+"時有雌性和雄性的結構；但大部分的動物，分有雌性、雄性，並由一個雌性和一個雄性"
+"動物，產生後代。"
+
+msgid ""
+"Great job! All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"答得好！所有生物都會有向光或移動的能力，同時它們也會呼吸、生長、繁殖並對它們"
+"的環境做出反應。"
+
+msgid ""
+"Not quite. All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"不完全對喔！所有生物都會有向光或移動的能力，同時它們也會呼吸、生長、繁殖並對"
+"它們的環境做出反應。"
+
+# 10
+msgid ""
+"When you first look at flowers, the process of getting <span "
+"class='key'>pollen</span> to egg cells seems simple. The pollen probably "
+"just falls from the anther to the stigma, and everything takes care of "
+"itself. The real process is better. Future generations are healthier when "
+"characteristics from different parents are mixed in offspring. This is why "
+"most flowers don't have their male and female parts ready to reproduce at "
+"the same time. The pollen that is made by a particular plant won't be used "
+"to pollinate that plant, but will send its message to another plant."
+msgstr ""
+"我們初看花的生殖，也許會覺得這不過是一朵花雄蕊上的<span class='key'>花粉</"
+"span>正巧從花藥掉出落到柱頭，然後就進到雌蕊內「卵細胞」，這一切只是自然產生罷"
+"了！其實，自然有時候真的很巧妙！我們知道，如果後代具有兩個親代的遺傳組合時，"
+"它對不同的環境可能會有較好的調適，後代也就會比較健康。這就是為什麼大多數的"
+"花，自身雖可能是「雌雄同體」也就是一多花中同時具有雄性和雌性的部分，但它們不"
+"會自身啟動生殖。也就是說，多數植物本身雄蕊上的花粉不會對自己的雌蕊內的卵細胞"
+"進行受精(授粉)，花粉常需傳送到另一棵植物的雌蕊才能進行生殖，這就叫做「異花授"
+"粉」。"
+
+msgid ""
+"The problem is getting the pollen from one location to another. Sometimes "
+"pollen that is shed from a flower is carried by the wind to another flower. "
+"In more interesting cases, the pollen has a carrier - an animal. Birds, "
+"bees, and bats can be carriers of pollen."
+msgstr ""
+"接下來要克服的問題就是，花粉如何從一個植株傳到另一個植株了呢？有時候，傳遞花"
+"粉(傳粉)要透過風；有時候則透過另一種有趣方式── 那就是用動物作為「傳粉者」，例"
+"如：鳥類、蜜蜂和蝙蝠，都可以幫助花粉的傳播。"
+
+msgid ""
+"Bees pollinate more than 100 types of agricultural crops in the United "
+"States, including apples, oranges, lemons, watermelons, and cantaloupe. Bees "
+"are attracted to flowers because they can smell sweet, sugary nectar, "
+"usually located near the base of the flower, inside the petals. As a bee "
+"climbs into a flower, its hairy body rubs past anthers, thick with pollen. "
+"Much of that pollen is stuck to the bee hairs. At the next flower, the bee "
+"climbs in again, searching for nectar. As it climbs in, it brushes past the "
+"sticky stigma, losing a few of the pollen grains. This pollen then "
+"fertilizes the flower and fruit development begins."
+msgstr ""
+"以美國為例，蜜蜂會幫助100多種農作物傳遞花粉，包括蘋果、橘子、檸檬、西瓜和哈密"
+"瓜等等。蜜蜂會因為聞到由花深處散發出的花蜜甜味而被吸引而靠近花朵採蜜。當蜜蜂"
+"爬過一朵花時，它毛茸茸的身體會碰到有著厚厚花粉的花藥，花粉就粘在蜜蜂的絨毛"
+"上。再當這蜜蜂飛到下一朵花一樣的尋找花蜜而和柱頭碰觸時，身上所沾黏的上一朵花"
+"花粉粒就會掉落而進入雌蕊。這將使的這一株植物受精，然後花和果實開始發育。"
+
+# 11
+msgid "Question A. Which of the following is most likely a pollinator?"
+msgstr "問題A. 下列何者最可能是傳粉者？"
+
+msgid "A beetle crawls into and out of a flower."
+msgstr "甲蟲，它在一朵花中爬進爬出。"
+
+msgid "A bird builds a nest in a tree."
+msgstr "鳥，它常在樹上築巢。"
+
+msgid "Termites construct a colony inside a tree."
+msgstr "白蟻，它常在樹裏築窩。"
+
+msgid "Deer chew the leaves of plants in a meadow."
+msgstr "鹿，它常在草地上咀嚼植物的葉子。"
+
+msgid ""
+"Question B. Which part of the plant holds the pollen before pollination "
+"happens?"
+msgstr "問題B. 下面哪一個圖正確的表示出，植物還沒進行授粉前，花粉位置？"
+
+msgid "Correct. An animal must enter and leave flowers to be a pollinator."
+msgstr "正確。動物必須碰觸然後離開花朵，才可能是一個傳粉者。"
+
+msgid "Not this one. It doesn't say anything about the bird and flowers."
+msgstr "不是這一個喔！我們並沒有提到有關鳥會幫助傳播花粉的事情喔！"
+
+msgid "Nope. Eating a tree doesn't help its reproduction."
+msgstr "不對喔！在樹內築巢沒有幫助樹木繁殖。"
+
+msgid "Sorry. Leaf-eating doesn't do anything for pollination."
+msgstr "不對喔！食葉和傳播花粉不相關。"
+
+msgid "Correct. Pollen is on the top part of the stamen."
+msgstr "正確。雄蕊往往有許多根而且是環繞著雌蕊，花粉是在雄蕊的頂部。"
+
+msgid "No, pollen is not on the stigma."
+msgstr ""
+"不對喔！花的中間被雄蕊所環繞的是雌蕊，雌蕊上方叫柱頭，花粉並不在柱頭上。"
+
+msgid "No, pollen is not on the petal."
+msgstr "不對喔！花粉不在花瓣上。"
+
+msgid "No, pollen is not on the stem."
+msgstr "不對喔！花粉不在花莖上。"
+
+# 12
+msgid ""
+"In animals, individuals are either male or female; each having very "
+"different reproductive systems. In sexual reproduction, sperm from the male "
+"is united with an egg from the female creating a fertilized egg. Once its "
+"place is secure, it develops into a fetus and then into an infant, ready for "
+"birth. While different species take different amounts of time for "
+"development, the process is similar in all species."
+msgstr ""
+"通常在動物中，個體不是雄性就是雌性；雌雄各有不同的生殖系統。在有性生殖時，雄"
+"性精子會與雌性卵子結合成一個受精卵，然後發展成胚胎，而後成為一個嬰兒，準備誕"
+"生。雖然不同種類的動物會有不同的發育時間，但這個過程是大家都類似的。"
+
+msgid ""
+"In reality, for this to happen in animals, females usually choose their "
+"reproductive partners. Animal females in nature have one key interest: "
+"survival of their own offspring. Sometimes that means choosing a strong male "
+"to mate with. Sometimes other male characteristics matter more."
+msgstr ""
+"在現實世界中，動物要進行繁殖時，雌性通常會選擇它們的生殖對象。自然界的雌性動"
+"物須考慮到它的自身關鍵利益：也就是，後代的生存。這代表著就要選擇一個生存性較"
+"強的雄性以進行交配。"
+
+msgid ""
+"Many mammal, bird, fish, and reptile males make displays to attract females. "
+"These displays are examples of <span class=\"key\">courtship</span> "
+"behavior. Some examples you may have seen include peacocks showing off their "
+"tail feathers; stallions or bulls pawing at the ground; or cuttlefish "
+"changing colors almost instantly. The purpose of courtship behavior is to "
+"allow for the selection of healthy mates. This system, while not foolproof, "
+"works well enough that it is common throughout the animal kingdom."
+msgstr ""
+"有時雄性動物為了展現雄性特徵，因此，許多雄性的哺乳動物、鳥類、魚類和爬行動"
+"物，會以炫耀的行為來吸引雌性，這些都稱為<span class=\"key\">求偶行為</span>。"
+"你可能見過一些像是，孔雀炫耀自己尾巴的羽毛、種馬或公牛用力踏地或墨魚在瞬間改"
+"變顏色等等例子。求偶行為的目的，都只是為表現自己是健康的伴侶。雖然這行為並非"
+"絕對完美，但在整個動物王國中是很普遍和有用的。"
+
+# 13
+msgid ""
+"Question A. Which of the follow pictures shows an animal making a courtship "
+"display?"
+msgstr "問題A. 以下那一個圖片，顯示動物的求偶炫耀？"
+
+msgid ""
+"Question B. Select the <span class='blink'>correct</span> words and complete "
+"the paragraph below."
+msgstr "問題B. 請選擇<span class='blink'>正確的單詞</span>並完成下面的句子。"
+
+msgid "male"
+msgstr "雄性"
+
+msgid "egg"
+msgstr "卵子"
+
+msgid "asexual"
+msgstr "無性"
+
+msgid "female"
+msgstr "雌性"
+
+msgid "sexual"
+msgstr "有性"
+
+msgid "sperm"
+msgstr "精子"
+
+msgid "In "
+msgstr "在"
+
+msgid "reproduction, "
+msgstr "生殖中，"
+
+msgid "from the "
+msgstr "──來自於"
+
+msgid "is united with an/a"
+msgstr "，會與一個"
+
+msgid "creating a fertilized egg."
+msgstr "，結合產生一個受精卵。"
+
+msgid "Correct! This bird is making a display."
+msgstr "正確！這隻鳥正在炫耀。"
+
+msgid "Not this one... it's just a bird."
+msgstr "不對喔！......它就只是一隻一般狀態下的鳥。"
+
+msgid "Nah... this is just a bird."
+msgstr "不對喔！......它就只是一隻一般狀態下的鳥。"
+
+msgid "Not this one... these are just parrots."
+msgstr "不對喔！......這些就只是兩隻在一般狀態下的鸚鵡。"
+
+msgid ""
+"Great job! Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"答得好！動物藉由有性生殖產生後代，過程中雄性的精子和雌性的卵子結合而成。"
+
+msgid ""
+"Not quite. Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"不完全對喔！答得好！動物藉由有性生殖產生後代，過程中雄性的精子和雌性的卵子結"
+"合而成。"
+
+# 14
+msgid "Using what you know... about reproduction... to solve a problem"
+msgstr "運用你所知道的......關於「生命的繁衍」......來解決問題"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid ""
+"A certain bird, called a manakin shows his display to attract the female to "
+"mate. The male is brightly colored. The female is about the same size, but "
+"has colors that will allow her to remain unnoticed when she cares for her "
+"eggs in her nest. There is a lot of competition and only the alpha male will "
+"have the opportunity to mate."
+msgstr ""
+"有一種鳥叫做燕雀，它會炫耀它的外觀以吸引雌性交配。雄性色彩鮮豔；雌性大小雖和"
+"雄性接近，但她的羽色平淡，這幫助她在照顧鳥巢中的蛋時，不容易被注意或發現。求"
+"偶的競爭很多，但只有最優秀的雄性將才有機會交配。"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"You are a zoologist in the <span class='key'>ornithology</span> department "
+"(a branch of zoology that concerns the study of birds). You are preparing an "
+"enclosed habitat for this manakin species to live at your zoo."
+msgstr ""
+"你是在<span class='key'>鳥類學</span>系的動物學家。您正在為一個動物園中開闢一"
+"區封閉的棲息地，讓燕雀可以在那裡生活。"
+
+msgid ""
+"Based on what you now know about the animal and reproduction, what ideas do "
+"you have for the bird's area you are building? What behavior in the birds "
+"might cause problems related to mating? What could you do to solve such a "
+"problem with manakins in breeding season in your zoo?"
+msgstr ""
+"根據你現在所了解有關動物和繁殖的知識，請問你對於構建這個棲息地有什麼想法呢？"
+"哪些鳥類的行為可能會造成燕雀交配的問題？在動物園的繁殖季節，你可以做哪些事來"
+"解決這些燕雀交配的問題呢？"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡並開始輸入你的答案..."
+
+# 15
+msgid "Summarizing core ideas... about reproduction"
+msgstr "總結核心觀念......關於「生命的繁衍」"
+
+msgid ""
+"All living things are capable of <span class='key'>reproduction</span>. Each "
+"new generation of <span class='key'>offspring</span> is the result of either "
+"asexual or sexual reproduction. Organisms that reproduce asexually do so by "
+"dividing or budding off new individuals. <span class='key'>Asexual</span> "
+"organisms are all alike. <span class='key'>Sexual reproduction</span> "
+"involves differences between males and females. This allows recombination of "
+"genetic material, and variation among different organisms of the same type. "
+"All plants and animals progress through life cycles. In the early stages of "
+"development, an organism grows from an embryo through various stages until "
+"it is mature enough for reproduction. In the reproductive phase, females "
+"produce egg cells and males produce sperm. Sperm is carried in pollen. <span "
+"class='key'>Pollination</span> is when pollen is carried from one flower to "
+"another, sometimes by the wind, but often by insects or other animals. "
+"Animals often have special behaviors to help them attract mates. These <span "
+"class='key'>courtship</span> behaviors send messages to opposite sex members "
+"of the same species that individuals are ready for reproduction."
+msgstr ""
+"生物都能<span class=\"key\">繁殖</span> 。每一代的<span class=\"key\">子代</"
+"span> 都是無性或有性生殖的結果。無性生殖的生物體可透過斷裂或出芽等方式產生新"
+"個體， <span class=\"key\">無性生殖</span> 的生物都是很相似的。 <span class="
+"\"key\">有性生殖</span> 涉及雄性和雌性兩個不同個體之交配，所以可進行遺傳物質"
+"的重組，所以同種之間的不同個體都會有著差異。所有的動物和植物都會經歷生命週"
+"期。在發展的早期階段，生物由胚胎開始生長，經過多個不同階段，直到成熟到可以生"
+"殖的階段。在生育期，雌性產生卵細胞；雄性產生精子，花也有精子，它在花粉中。 "
+"<span class=\"key\">傳粉</span> 是花粉從一朵花被帶到另一朵花，這往往由風、昆"
+"蟲或其它動物來攜帶。動物往往會有特殊的行為，以幫助它們吸引異性。這些<span "
+"class=\"key\">求愛</span> 行為是，釋放信息給那些同種並準備好可以進行生殖的異"
+"性。"
+
+# 16
+msgid "Reviewing key vocabulary... related to... reproduction"
+msgstr "複習重要名詞......關於「生命的繁衍」"
+
+msgid "Offspring"
+msgstr "後代"
+
+msgid "Sexual Reproduction"
+msgstr "有性生殖"
+
+msgid "Flower"
+msgstr "花"
+
+msgid "Pollination/ Pollen"
+msgstr "授粉/花粉"
+
+msgid "Courtship Display"
+msgstr "求偶炫耀"
+
+msgid "Ornithology"
+msgstr "鳥類學"
+
+msgid ""
+"Reproduction is the act of making the same thing again. Living things must "
+"reproduce themselves to continue as a form of life. All plants and animals "
+"have a system of reproduction. Some plants do it by dropping seeds. Some "
+"animals lay eggs. Other animals have babies. Insects reproduce many, many "
+"times more offspring than larger animals do."
+msgstr ""
+"「繁殖」是生物一代一代重複的行為。生物都必須進行繁殖，以延續物種的生命。所有"
+"的動物和植物都有生殖系統和方法，有些植物是藉著種子的掉落，有些動物利用產卵，"
+"有些則產下雛鳥、雛獸，其中人類會產下嬰兒。昆蟲的繁殖非常快，它們後代的數量比"
+"其它大型動物還多的多。"
+
+msgid ""
+"Offspring are new living things that come from one or more parents. When a "
+"female dog has a litter of puppies, she has given birth to offspring."
+msgstr ""
+"「後代」指的是新的生命，它們可以來自單一或多個親代。當一隻母狗有了一窩小狗，"
+"這時她就是繁殖了「後代」。"
+
+msgid ""
+"It is very important that living things make offspring. If they did not, "
+"over time they would eventually no longer exist on Earth. Every type of "
+"living thing makes offspring. Even plants have offspring. Many types of "
+"flowers, plants, and trees drop seeds from which their offspring will grow."
+msgstr ""
+"生物要有「後代」，是非常重要的。不然，一段時間後，這生物將會滅絕。每一種生物"
+"也都會產生後代，拿植物來說，許多花草樹木的種子會落在地上以長出它們的後代。"
+
+msgid ""
+"Asexual reproduction is a way of producing offspring that involves only one "
+"parent. There is no combining of a female sex cell with a male sex cell."
+msgstr ""
+"「無性生殖」，是一種只有一個親代參與就能進行的繁殖方式，這種方式不必透過雌性"
+"與雄性生殖細胞的結合。"
+
+msgid ""
+"Asexual reproduction is the primary means of reproduction for many single-"
+"celled living things such as bacteria. Many plants and fungi also reproduce "
+"asexually, but asexual reproduction is not common among multicellular living "
+"things."
+msgstr ""
+"無性生殖是許多單細胞生物──如細菌，繁殖的主要方法。許多植物和真菌類也採用無性"
+"生殖，但無性生殖在多細胞生物中並不普遍。"
+
+msgid ""
+"In sexual reproduction, sperm from the male is united with an egg from the "
+"female creating a fertilized egg. Once its place is secure, it develops into "
+"a fetus and then into an infant, ready for birth."
+msgstr ""
+"「有性生殖」，是雄性的精子與雌性的卵結合，產生一個受精卵，以繁衍後代的方法。"
+"一旦受精卵著落到合適的地方，就會發展成胚胎，然後變成嬰兒，準備誕生。"
+
+msgid ""
+"Like animals, plants also reproduce sexually—the egg and sperm are produced "
+"in the flowers of flowering plants."
+msgstr ""
+"像動物一樣，有些植物也行有性生殖，植物的卵子和精子被製造於開花植物中的花。"
+
+msgid ""
+"Plant reproductive structures are found in flowers. Colored petals on a "
+"flower and colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"植物的生殖構造是在花裡面。花朵上的彩色花瓣能吸引傳粉動物，促成繁殖發生。"
+
+msgid ""
+"Many plants have both male and female parts in the same flower. The male "
+"part is called a stamen. Sperm are packaged into particles called pollen "
+"grains. The female part of the flower is called the pistil."
+msgstr ""
+"許多植物是「雌雄同體」。植物的雄性部分被稱為「雄蕊」，精子被包成粒子狀，稱為"
+"花粉粒，位在雄蕊的頂端；花的雌性部分則稱為「雌蕊」。"
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants, through the process of pollination."
+msgstr ""
+"「花粉」是開花植物中發現的一種黃色粉末。花粉通過「傳粉」的過程，使得植物繁殖"
+"更多的植物。"
+
+msgid ""
+"Insects such as bees and butterflies go to flowers to eat. While they eat, "
+"some of the flower's pollen sticks to them. When one insect goes to another "
+"flower, it takes the pollen with it. Some of the first flower's pollen rubs "
+"off onto the second flower. That helps the second flower grow seeds."
+msgstr ""
+"昆蟲，如蜜蜂和蝴蝶等，會在花朵中採食。當它們採食花蜜時，有的花的花粉會黏在它"
+"們身上，當昆蟲進入另一朵花，就同時把花粉帶了過去。當第一朵花的花粉掉落到第二"
+"朵花內時，會有助於第二朵花的受精和隨後種子的成長。"
+
+msgid "Look at the bee in this photograph. Can you see the pollen?"
+msgstr "看照片蜜蜂身上，你可以看到花粉嗎？"
+
+msgid ""
+"Many mammal, bird, fish, and reptile males engage in courtship display "
+"behaviors to attract females."
+msgstr ""
+"許多雄性的哺乳類、鳥類、魚類和爬行動物，會進行炫耀的「求偶行為」來吸引雌性。"
+
+msgid ""
+"Some examples of courtship behavior are peacocks showing off their tail "
+"feathers; stallions or bulls pawing at the ground; or cuttlefish changing "
+"colors almost instantly."
+msgstr ""
+"求偶行為的一些例子是，孔雀會炫耀自己的漂亮尾羽；種馬或公牛用力踩踏地面；墨魚"
+"會在瞬間改變顏色。"
+
+msgid "Ornithology is the study of birds."
+msgstr "鳥類學是指研究鳥類的科學。"
+
+msgid ""
+"An ornithologist may work for a zoo to prepare a proper habitat for a bird "
+"to live in."
+msgstr "「鳥類學家」可能為動物園工作，他們能夠鳥類設置合適的棲息地。"
+
+# 17
+msgid "Checking what you now know... about reproduction"
+msgstr "檢查你現在知道的......關於繁衍生命"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的，哪些是還需要再學習的"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好時，請點選下一步。"
+
+# 18
+msgid "Reproduction involving male and female parents is known as:"
+msgstr "涉及雄性和雌性的父母的生殖方式，被稱為："
+
+msgid "Asexual"
+msgstr "無性生殖"
+
+msgid "Nonsexual"
+msgstr "無性別的生殖"
+
+msgid "Sexual"
+msgstr "有性生殖"
+
+msgid "Monoclonal"
+msgstr "複製生殖"
+
+msgid "Correct. Sexual reproduction requires male and female parents."
+msgstr "正確。有性生殖需要雄性和雌性的雙方。"
+
+msgid "Sorry. Asexual reproduction involves only one parent."
+msgstr "不對喔！無性生殖只需要一個親代。"
+
+msgid "No... Reproduction using two parents is sexual."
+msgstr "不對喔！需要雌雄兩個親代共同參與的，屬於有性生殖。"
+
+msgid "Nah... Monoclonal is a type of asexual reproduction."
+msgstr "不對喔！複製生殖是一種無性生殖。"
+
+# 19
+msgid ""
+"Click <span class='blink'>all</span> the changes on the right column you "
+"think the events on the left column are causing."
+msgstr ""
+"右邊的那些敘述，較可能是由左圖所造成的？請點選<span class='blink'>所有的正確"
+"</span>選項。"
+
+msgid "Rapid accumulation of identical organisms"
+msgstr "相同的生物的快速複製"
+
+msgid "Great variety in human appearance"
+msgstr "人類外表的多樣化"
+
+msgid "New varieties of apple"
+msgstr "新品種的蘋果"
+
+msgid "Some traits are passed onto offspring more often than others."
+msgstr "有些動物比其他動物較容易將它的性狀(可遺傳的特徵)遺傳給後代。"
+
+msgid "Some traits may be lost to populations of organisms."
+msgstr "有些動物的性狀(可遺傳的特徵)可能會在生物種群中消失。"
+
+msgid "All individuals have equal chances of reproducing."
+msgstr "所有的個體都有平等的繁殖機會。"
+
+msgid "Correct. The bacteria dividing leads to producing identical organisms."
+msgstr ""
+"正確。這圖表示的是細胞的分裂。例如，細菌分裂會很快速的製造出一模一樣的生物。"
+
+msgid ""
+"You're right about identical organisms, but can they be identical and have "
+"variety at the same time? Check again."
+msgstr ""
+"不對喔！這圖表示的是細胞的分裂。例如，細菌分裂會很快速的製造出一模一樣的生"
+"物。"
+
+msgid "No. Asexual reproduction does not cause any type of variety."
+msgstr ""
+"不對喔！這圖表示的是細胞的分裂。例如，細菌分裂會很快速的製造出一模一樣的生"
+"物。無性生殖不會產生任何的多樣性。"
+
+msgid "Correct. Not all traits are passed down to one's offspring."
+msgstr "正確。不是所有生物的所有性狀都會傳遞給後代。"
+
+msgid "Partly correct... Not all traits are passed down to one's offspring."
+msgstr "部分正確...不是所有生物的所有性狀都會傳遞給後代。"
+
+msgid "No, for example in some animal groups only the dominant males mate."
+msgstr "不對喔！舉例來說，在一些動物群中只有占優勢的雄性才能交配產生後代。"
+
+# 20
+msgid "Which of the following is true of animal cycles?"
+msgstr "下列哪一項有關動物生命週期的敘述是正確的？"
+
+msgid "Some animals reproduce."
+msgstr "只有部分動物會繁殖。"
+
+msgid "Animals only reproduce by laying eggs."
+msgstr "動物只藉由產卵來繁殖。"
+
+msgid "All animals reproduce."
+msgstr "各種動物都能繁殖。"
+
+msgid "A and B"
+msgstr "A和B"
+
+msgid "Correct. In their life cycle, all animals reproduce."
+msgstr "正確。繁殖是動物生命週期中的重要階段，各種動物都會繁殖。"
+
+msgid "No, all animals reproduce. Otherwise they would be extinct."
+msgstr "不對喔！各種動物都會繁殖。否則，它們將會滅絕。"
+
+msgid "No, not all animals lay eggs. For example most mammals do not lay eggs."
+msgstr "不對喔！不是所有的動物都產卵，大多數哺乳動物就不會產卵。"
+
+msgid "No, all animals reproduce, but they don't all lay eggs."
+msgstr "沒有，各種動物都會繁殖，但它們並不都是藉由產卵。"
+
+# 21
+msgid ""
+"What is an advantage of having only the dominant male and female wolves in a "
+"pack produce offspring?"
+msgstr "請問，選擇占優勢的雄狼和雌狼來產生後代，有甚麼好處？"
+
+msgid ""
+"Later generations will likely be more similar to the stronger wolves than to "
+"the weaker wolves."
+msgstr "後代比較可能是較強品種的狼，而不是較弱的狼。"
+
+msgid ""
+"Later generations will likely be more similar to the weaker wolves than to "
+"the stronger wolves."
+msgstr "後代比較可能是較弱品種的狼，而不是較強的狼。"
+
+msgid ""
+"Later generations will probably have more difficulty finding food than "
+"previous generations."
+msgstr "後代可能會比親代更難找到食物。"
+
+msgid ""
+"Later generations will have more difficulty finding shelter than previous "
+"generations."
+msgstr "後代會比親代更難找到棲身之處。"
+
+msgid ""
+"Very good! Whatever characteristics the dominant parents have will transfer "
+"to their offspring."
+msgstr "非常好！強勢親代的特徵，會遺傳到它們的後代。"
+
+msgid ""
+"Not likely... There's no connection between the non-dominant wolves and the "
+"next generation."
+msgstr ""
+"不太可能喔！...這些子代是較強品種的狼所產下的，它們和那些弱勢的狼之間並沒有遺"
+"傳的關聯。"
+
+msgid ""
+"No. Chances of finding food in the future probably don't decrease with "
+"stronger characteristics."
+msgstr "不對喔！不會因為有較強品種的優點，而使得未來尋找食物的機會減少。"
+
+msgid ""
+"Sorry... Chances of finding shelter aren't really affected by reproductive "
+"choices."
+msgstr "不對喔！不會因為有較強品種的優點，而使得未來尋找棲息地的機會減少。"
+
+# 22
+msgid "What can you infer about flowers that are pollinated by bats?"
+msgstr "當你知道有一種花是由蝙蝠來傳粉的。請問下列何者是合適的推斷？"
+
+msgid "They are probably located in caves."
+msgstr "這花可能生長在洞穴中。"
+
+msgid "They probably contain no pollen."
+msgstr "這花可能沒有花粉。"
+
+msgid "They probably bloom at night."
+msgstr "這花可能是在夜間綻放。"
+
+msgid "They are probably very brightly colored."
+msgstr "這花可能顏色非常鮮豔。"
+
+msgid ""
+"No, flowers are unlikely to be found in caves, since plants need light to "
+"grow."
+msgstr "不對喔！花是不太可能在洞穴中被發現的，因為植物都需要光來生長。"
+
+msgid "No. Flowers without pollen cannot be part of the pollination process."
+msgstr "不對喔！這花如果沒有花粉的話，蝙蝠怎麼會是它的傳粉者。"
+
+msgid "Correct! The flowers might be open at night when bats come out."
+msgstr ""
+"正確！蝙蝠是夜行性動物，這花可能是在夜間綻放，正好蝙蝠可以幫助花來傳粉。"
+
+msgid ""
+"Bats are color blind, so bright colored flowers would not affect their "
+"ability to find them."
+msgstr "蝙蝠是色盲，所以顏色鮮豔的花朵不會幫助蝙蝠找到它們。"
+
+# 23
+msgid ""
+"In the life cycle of a plant, the first step is seed germination. The second "
+"step is plant growth. What occurs next in the third step?"
+msgstr ""
+"在植物的整個生命週期中，第一步驟是種子發芽、第二步驟是植物生長，接下來第三步"
+"驟比較可能是什麼呢？"
+
+msgid "The fruit releases seeds."
+msgstr "果實釋放種子。"
+
+msgid "The plant flowers."
+msgstr "植物開花。"
+
+msgid "The plant dies."
+msgstr "植物死亡。"
+
+msgid "None of the above"
+msgstr "以上都不是。"
+
+msgid "No, the plant produces fruit after it flowers."
+msgstr "不對喔！植物要先開花後才結出果實。"
+
+msgid "Yes, the third step is when the plant flowers."
+msgstr "是的，第三步驟是植物開花。"
+
+msgid "No, the plant still has a few steps to do before dying."
+msgstr "不對喔！植物在生命結束之前還有幾個步驟需要完成。"
+
+msgid "No, the plant flowers in the third step."
+msgstr "不對喔！植物是在第三步驟開花。"
+
+# 24
+msgid "Congratulations, "
+msgstr "恭喜您！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現..."
+
+msgid "You've completed the Reproduction review."
+msgstr "你已經完成了「生命的繁衍」的單元。"

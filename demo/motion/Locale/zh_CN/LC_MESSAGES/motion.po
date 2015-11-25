@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "选择"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "休息"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "无声"
+
+msgid "Unmute"
+msgstr "取消静音"
+
+msgid "Max volume"
+msgstr "最大音量"
+
+msgid "Full screen"
+msgstr "全屏"
+
+msgid "Restore screen"
+msgstr "恢复屏幕"
+
+msgid "Repeat"
+msgstr "重复"
+
+msgid "Repeat off"
+msgstr "重复关"
+
+msgid "Update Required"
+msgstr "更新所需"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "為了播放此媒體，您需要更新您的瀏覽器至最新版本或是更新你的Flash播放器"
+
+msgid "Flash plugin"
+msgstr "Flash播放器"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任务"
+
+msgid "The Problem"
+msgstr "问题"
+
+msgid "Your Assignment"
+msgstr "你的任务"
+
+msgid "Close me!"
+msgstr "關閉"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations, "
+msgstr "恭喜！"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Preparing your first quick check!"
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Ready for your last quiz question?"
+msgstr "准备好你的最后测验的问题吗？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+msgid "Motion"
+msgstr "運動"
+
+msgid "Welcome to the Motion module"
+msgstr "歡迎來到「運動」模組"
+
+msgid "Thinking about... motion"
+msgstr "想想看有關...運動"
+
+msgid ""
+"All around us, we can find examples of objects in motion. From large things like buses and airplanes, to small things like birds and bugs, it seems like things are always moving. But did you know that even the things that we see as being at rest might be considered to be moving by someone else? One of Albert Einstein’s most famous observations was that all motion is relative. While you might agree with the person sitting next to you about the motion of a bird outside a window at your school, a person riding by in a bus might have a different description of the bird’s motion. Your ability to observe the bird is limited by what you can see out of your window. You might lose sight of the bird once it flies past your window, but the passenger on the bus might have a different experience if the bird flies fast enough to keep up with the bus. Similarly, when you "
+"look up at the sky at night, it might be difficult to notice any motion amongst the stars above. But if you make careful observations over many nights, you’ll start to notice things moving around. Some of this motion can be explained by the motion of the Earth through the Solar System. Some of the motion is because some of those bright points of light aren’t stars. They might be man-made satellites orbiting the Earth or other planets that are also orbiting the Sun. Even the starts themselves are in motion, though it takes centuries to observe changes in their location in the sky."
+msgstr "在我們周圍，可以發現正在運動物體的例子。大到如公車和飛機，小到如鳥和昆蟲，似乎遠永都在不停的移動。但是你知道嗎？我們就算看到一樣東西靜止不動，在別人眼裡卻看來正在移動。愛因斯坦最著名的觀點之一，是所有的運動都是相對的。你可能會同意，坐在你旁邊的人與一個坐在公車上的人，看窗外鳥兒的運動有不同的描述。你能看見窗外鳥兒的能力是有限的。一旦牠飛過你的窗口，牠可能會消失於你的視線，但如果鳥飛行的速度不快且能跟上公車行駛的速度，在公車上的乘客可能有不同的體驗。但如果你仔細觀察過無數個夜晚，你會開始看到星體的移動。這些運動，可以被地球在太陽系的運動來解釋。有些運動是因為其中的明亮光點，而那不是星星。它們可能是繞著地球轉的人造衛星，或是繞著太陽轉的其他行星。即使恆星是自己開始運動，但也需要幾百年來觀察它在天空中的位置變化，"
+
+msgid "Are you ready, "
+msgstr "你準備好了嗎？"
+
+msgid "Checking what you already know about... motion"
+msgstr "檢測關於你已知的「運動」"
+
+msgid "Click on <span class='blink'>All</span> the objects that are in motion!"
+msgstr "請點擊所有運動中的物體！"
+
+msgid "If you clicked on all of the objects, you’re moving in the right direction.  All motion is relative, even if it’s so slow we don’t see it right away.  If you see the moon in the sky at night, and look for the moon again an hour later, it’ll be in a new location.  Same thing with the clock on the wall, the hour hand moves slowly, but in six hours, it’ll be pointing in the opposite direction!"
+msgstr "如果你點擊了所有的物體，您正朝著正確的方向前進。即使在我們沒看到的時候，物體是動得如此緩慢，但所有的運動都是相對的。如果你看到月亮在夜空中，過一個小時後再看看月亮，它又會在另一個新的位置。同樣的在牆上的時鐘也是如此，時針移動的非常緩慢，但在六小時後，它的指針會指向相反方向！"
+
+msgid "Walking on the sidewalks..."
+msgstr "走在人行道上..."
+
+msgid "Since all motion is relative, an important part of the description of any object's motion is the frame of reference. Usually, the <span class=key>frame of reference</span> is based on the immediate surroundings. For a football game, the frame of reference might be the lines on the field. They mark the <span class=key>position</span> of the players and the ball as they move from one end to the other. They provide specific information on the location of the objects. Without the markings on the field, it would be difficult to know when a team has made a first down or scored a touchdown.  The lines of the field help the referees and players to know where they are and where they are going."
+msgstr "由於所有的運動都是相對的，任何物體運動的一個重要部分的描述是參考座標。通常參考座標相對於周圍環境。對於一場足球比賽，參考座標可能是賽場上的線。當他們從一端移動到另一端，它們標誌著球員的位置和球。他們提供物體位置的特定信息。如果沒有在球場上標記，將很難知道一支球隊已經取得第一次進攻或是觸地得分。場上的線幫助裁判和球員知道他們在哪裡和他們要去哪裡。"
+
+msgid "Another frame of reference might be your neighborhood. Giving directions to a new neighbor might include references to specific landmarks, like a bank, or the post office, or your school! Similarly, compass directions allow us to be specific when giving directions to someone else. Saying that the new store is two miles East of the school is more helpful than just saying that it is two miles away. Street signs can provide helpful reference points along the way!"
+msgstr "另外一項參考座標可能是你的鄰居。給予新鄰居的指示可能包括引用特定地標，如銀行、郵局，或者你的學校！同樣地，指南針為一個人指路的時候給我們明確的方向。如果說一家新開的店在學校以東兩英里處，比僅說它在兩英里外更有幫助。路牌可以提供在道路上前進有益的參考點！"
+
+msgid "A helpful diagram for representing motion can be a <span class=key>motion map</span>. A motion map simply records where an object is located within the frame of reference. Consider the image below showing the location of the team on the field at the beginning of each play. Mapping the motion this way can allow you to see which team is faster at getting the ball from one end of the field to the other. In this image, the blue helmets are moving the ball by 15 yards each play, and the gold helmets are moving the ball by 25 yards each play. The bigger spaces between the images of the gold helmets means that they are moving the ball down the field faster."
+msgstr "一個針對運動表示有用的示意圖可作為一種運動圖。動態圖簡單地記錄一個物體在參考座標中的所在位置。考慮以下每場比賽開始時，球隊在場上所在位置之圖示。描繪出運動的方式可以讓您看到在場上是哪支球隊較快的讓球從一端傳到另一端。在此圖像中，藍色頭盔的球隊在每次比賽中移動球15碼(13.7公尺)，金色頭盔的球隊在每次比賽中移動球15碼(22.9公尺)。金色頭盔的球隊在圖像中的空間較大，意味這他們在比賽場中移動球較快。"
+
+msgid "Stroboscopic photos show multiple images of a moving object in one picture, and can provide information about the motion of the object, just like a motion map. In this image, the ball is moving slowest at the top of the photo, and that’s why the images are so close together. The ball isn’t moving as far between images."
+msgstr "動態鏡盤的照片將一個運動的物體的多個圖像顯示在一個畫面中，並且可以提供物體運動的資訊，就像是一個動態圖。在此圖像中，照片的上方的球移動速度最慢，這就是為什麼圖像是如此接近的原因。球在圖像中是不動的。"
+
+msgid "Playing football..."
+msgstr "踢足球..."
+
+msgid "In all of the motion maps below, the objects are moving from left to right.  Which of the following motion maps shows an object that is getting faster as it moves?"
+msgstr "在下方所有的動態圖，物體皆從左移動至右。以下哪項運動圖顯示了一個物體運動地越來越快？"
+
+msgid "Preparing your first quick check…"
+msgstr "準備你的第一個快速檢測..."
+
+msgid "Nope. These images are evenly spaced, so this duck’s motion is constant."
+msgstr "不。此圖像間隔是均勻的，所以這個鴨子的運動是恆定的。"
+
+msgid "Not quite. These images are farther apart than in A, but they are still evenly spaced, so this duck’s motion is also constant."
+msgstr "不。這些圖像比A相隔的更遠，但它們仍然是均勻間隔，所以這個鴨子的運動也是恆定的。"
+
+msgid "You’ve got it! The images of this duck keep getting farther apart, indicating that this duck is getting faster!"
+msgstr "你答對了！此圖中的鴨子相隔越來越遠，表示這隻鴨子運動的越來越快。"
+
+msgid "Nope. The images of this duck are getting closer together, so this duck appears to be slowing down."
+msgstr "不。此圖中的鴨子相隔越來越近，所以這個鴨子速度似乎漸漸放慢。"
+
+msgid "More big ideas about... motion"
+msgstr "更多有關「運動」的大概念"
+
+msgid "Often, a convenient frame of reference for motion is a number line. With Zero in the center, the numbers are increasingly positive as you go to the right, and increasingly negative as you go to the left. Identifying the position of the object on the number line allows you to be more specific about the location. Saying the object is at -3 is more specific than saying the object is 3 spaces from 0."
+msgstr "一個方便於表示運動的參考座標往往為數字線。零點位於中心，當你往右邊走，數量也會越來越正，如果你往左邊，就會越來越負。在數字線上所標示物體的位置，讓你更明確知道位置。說一個物體在-3比說物體到0的距離有3格來的更明確。"
+
+msgid "Information about the location of an object at different points in time can be recorded in a data table like the one shown below."
+msgstr "物體在不同時間點上的位置訊息，可被記錄在下面的數據表中。"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Location of Object A"
+msgstr "物體A的位置"
+
+msgid "Location of Object B"
+msgstr "物體B的位置"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "We can use the information from the data table to see that Object A is moving faster than object B.  Object A is moving two positions towards the right every 10 seconds, while Object B only moves one position to the right every 10 seconds.  We can also see that Object A catches up to Object B after 50 seconds because the data table shows both objects are at the same position at that time.  We can also use patterns in the numbers to predict where the objects will be at a later point in time.  If the motion continues with the same pattern shown in the data table, Object A will be at position 7 and Object B will be at position 6 after 60 seconds."
+msgstr "我們從數據表中的信息看到，物體A的移動速度快於物體B。物體A每10秒向右移動兩個位置，同時B每10秒只向右移動一個位置。我們還可以看到，物體A在50秒後趕上物體B，因為數據表示這兩個物體當時在同一位置上。我們也可以利用數字的變化模式來預測物體之後的所在位置。如果物體依照表格上的模式持續運動，60秒後物體A會在位置7和物體B會在位置6的地方。"
+
+msgid "A <span class=key>unit of measure</span> allows the data table to be even more specific. Often, distances are measured in terms of feet, yards, or miles in the United States. In countries that use the metric system, those same measurements might be in centimeters, meters or kilometers. Including a unit of measure in your data table allows you to communicate more specifically about your measurements."
+msgstr "測量單位可以使數據表更加明確。通常呎、碼或英里是美國用來測量距離的單位。使用國際單位制的國家，相同的測量單位有公分、公尺或公里。在數據表中加入測量單位可以更明確的表示你的測量數據。"
+
+msgid "Drawing arrows..."
+msgstr "畫箭頭..."
+
+msgid "See if you can answer a few questions about the motion of two different people riding bicycles based on the data table below."
+msgstr "看看你是否可以回答關於下表兩個不同人騎著腳踏車運動的問題。"
+
+msgid "Mary"
+msgstr "瑪麗"
+
+msgid "George"
+msgstr "喬治"
+
+msgid "Mary and George are equally fast"
+msgstr "瑪麗和喬治都同樣快"
+
+msgid "It cannot be known from this table"
+msgstr "表格中無法得知訊息"
+
+msgid "Mary’s Position"
+msgstr "瑪莉的位置"
+
+msgid "George’s Position"
+msgstr "喬治的位置"
+
+msgid "minutes"
+msgstr "分鐘"
+
+msgid "miles East"
+msgstr "數英里以東"
+
+msgid "miles West"
+msgstr "數英里以西"
+
+msgid "Question B. If Mary continues to ride at this pace, where will she most likely be if she continues to ride for another half hour?"
+msgstr "如果瑪莉依這樣的速度繼續騎，再過半小時她會在哪裡？"
+
+msgid "Riding a bicycle..."
+msgstr "騎自行車......"
+
+msgid "Yep! Mary appears to be moving the fastest. She moves 3 miles every ten minutes."
+msgstr "是的！瑪莉移動最快。她每十分鐘移動3英里。"
+
+msgid "Nope. George only moves 1 mile every ten minutes while Mary moves 3 miles in that time."
+msgstr "不。喬治每十分鐘只移動1英里，而相同時間內瑪莉卻移動了3英里。"
+
+msgid "Not quite. Mary and George are moving at different speeds. Mary moves 3 miles every ten minutes but George only moves 1 mile every ten minutes."
+msgstr "不。瑪莉和喬治以不同的速度前進。瑪莉每十分鐘只移動3英里，但相同時間內喬治卻只移動了1英里。"
+
+msgid "No. The patterns in the numbers on the data table can give you a clear idea about which cyclist moves fastest. Mary is moving 3 miles in the same time George moves 1 mile, so Mary is faster."
+msgstr "不。數據表上數字的變化模式可以讓你明確知道哪一輛自行車最快。瑪莉移動3英里的同時，喬治只移動1英里，所以瑪莉比較快。"
+
+msgid "Nope. At her pace, Mary will be 21 miles East at 70 minutes."
+msgstr "不。依照瑪莉前進的步調，在70分鐘的時候，瑪莉到達21英里以東的位置。"
+
+msgid "Not quite. Based on the pattern in the data table, Mary will be 24 miles East at 80 minutes."
+msgstr "根據數據表，在80分鐘的時候，瑪莉在24英里以東的位置"
+
+msgid "Nope. At her pace, Mary won’t get to 30 miles East until 100 minutes."
+msgstr "不。依照瑪莉前進的步調，瑪莉在100分鐘時，到了30英里以東的位置。"
+
+msgid "Question A. Which cyclist is moving the fastest?"
+msgstr "哪一個自行車手移動的最快？"
+
+msgid "Another useful tool for representing motion is a <span class='key'>graph of position versus time</span>. A graph can make differences in the motion of two objects easier to see.  Here’s a plot of the data from the table in the previous section."
+msgstr "另一種表示運動的工具是為位置-時間的關係圖。一張圖可以更容易看到兩個物體的運動差異。這數據所繪的圖上來自先前段落中的表。"
+
+msgid "Plotting data on a graph of position versus time makes it easier to observe patterns in motion. A graph can make it easier to see when Object A passes Object B, and which object is travelling faster. Object A, shown in blue, has a steeper line on the graph. That lets you know that it has a bigger change in position than Object B during the time shown on this graph. A steeper line on a graph of position versus time means that the object has a greater speed."
+msgstr "把數據畫在位置-時間的關係圖上，可以更容易地觀察運動的模式。一張圖可以更清楚的知道物體A何時超越物體B，並且知道哪個物體一段速度較快。物體A標示為藍色，在圖上的線較陡峭。這張圖可以讓你知道，在時間內它的位置改變比物體B還大。在位置-時間的關係圖上，越陡峭的線表示速度越大。"
+
+msgid "This graph plots the position of Object C and Object D.  The lines for the two objects appear to be parallel to each other. Based on the graph, you can see that Object D never catches up to Object C, but Object C is always the same distance ahead of Object D. During the time shown on this graph. Both objects change position by the same amount. Object C moves from the 4 meter mark to the 10 meter mark, and Object D moves from the 0 meter mark to the 6 meter mark.  That represents a change in position of 6 meters for both objects. Both objects change position by 6 meters in 60 seconds. That’s why the red line on the graph is just as steep as the green line."
+msgstr "這張圖繪出了物體C和物體D的位置。兩個物體的線相互平行。根據圖示，你可以看到物體D永遠趕不上物體C，但物體C永遠領先物體D相同的距離。在此圖示意的這段期間。這張圖繪出了物體C和物體D的位置。兩個物體的線相互平行。根據圖示，你可以看到物體D永遠趕不上物體C，但物體C永遠領先物體D相同的距離。在此圖示意的這段期間。"
+
+msgid "Plotting data..."
+msgstr "數據作圖..."
+
+msgid "Take a look at the graphs of position versus time below.  Which set shows one object passing another object?"
+msgstr "看看下面的位置-時間的關係圖。哪一組表示一物體超越另一個物體？"
+
+msgid "Looking at the graph..."
+msgstr "看圖..."
+
+msgid "Nope.  These lines don’t cross on this graph, so these objects are never at the same position."
+msgstr "不。此圖上的線沒有交叉，所以這些物體從不會交會在相同的位置。"
+
+msgid "No.  These lines are parallel, so they’re never going to cross."
+msgstr "不。這些線是平行的，所以它們永遠不會交會。"
+
+msgid "Yes!  These lines cross, indicating that the object shown with the green line passes the object shown with the red line."
+msgstr "是的！這些線交叉，表示綠線的物體超越紅線的物體。"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Sarah's"
+msgstr "莎拉的（Sarah的）"
+
+msgid "meter"
+msgstr "公尺（米）"
+
+msgid "meters"
+msgstr "公尺（米）"
+
+msgid "second"
+msgstr "秒"
+
+msgid "Terry's"
+msgstr "泰瑞的（Terry的）"
+
+msgid "Justin's"
+msgstr "賈斯汀的（Justin的）"
+
+msgid "hr"
+msgstr "小時"
+
+msgid "Different patterns to an object's motion can tell us a lot about how the object is moving.  For example, in a data table like the one to the right, you can see how Terry is changing position by 7 miles every hour, similar to a slow walking pace.  Justin, however, is changing position by 7 miles every hour, similar to a fast jog.  In both examples, the pattern expressed in miles every hour is known as the <span class='key'>speed or velocity</span>.  That pattern can be used to predict the person’s position at a later time.  For example, with a velocity pattern of 3 miles every hour, Terry will have traveled 30 miles after 10 hours at that pace.  If you know that Justin’s total trip took 6 hours, you can use his velocity pattern to see that he likely travelled 42 miles.  Motion where the pattern is constant is referred to as motion with constant velocity."
+msgstr "物體運動的不同模式，可以告訴我們很多關於物體如何運動的資訊。舉例來說，如表中一個向右的數據，你可以看到泰瑞如何以每小時7英里改變他的位置，如步行般緩慢的移動速度。然而賈斯汀以每小時7英里改變他的位置，如快速的跑步。在這兩個例子中，每一小時改變的英里數被稱為速率或速度。這樣的變化模式可用來預測一段時間後人的所在位置。例如以每小時3英里的速度前進，在10小時候，泰瑞走了30英里。如果你知道賈斯汀整段路程花了6小時，你可以利用他的移動速度得知他可能走了42英里。運動的形式是恆定的指的是以恆定的速率運動。"
+
+msgid "Click to view the Data table"
+msgstr "擊點查看數據表"
+
+msgid ""
+"There are other types of motion that don’t display a constant velocity pattern.  Can you see a pattern to Sara’s motion in the table to the left?  In the first ten seconds, she changed position by 1 meter. In the next ten seconds, she changed position by 2 meters. In the ten seconds after that, she changed position by 3 meters.  Sara is getting faster!  If she continues at this pattern, can you see how she’ll be located at 28 meters at 70 seconds and at 36 meters at 80 seconds?  Where will she be at 90 seconds?  To find the answer, you have to look at what happens to the velocity pattern.  It seems that she’s increasing her velocity pattern by 1 meter every 10 seconds for every 10 seconds she’s in motion. So initially, she moves 1 meter in the first 10 seconds, then she moves 2 meters in the next 10 seconds, and then she changes her position by 3 more meters "
+"the 10 seconds after that.  This pattern that describes the way the velocity pattern is changing is known as <span class='key'>acceleration</span>. "
+msgstr "還有另一種不為等速度的情況。你有看到左邊表格中薩拉（Sara）的移動情形嗎？在第一個十秒鐘，她位置改變了1公尺。再下一個十秒，她位置改變了2公尺。而再之後的十秒鐘，她位置改變了3公尺。薩拉越來越快！如果她繼續依照這樣的情形下去，你知道她是如何在70秒時到達28公尺處和在80秒時到達36公尺處的嗎？為了找到答案，你必須了解在速度上發生了什麼事情。看來她以每十秒速度增加1/10（公尺/秒）的方式移動。所以一開始第一個十秒的時候，她移動了1公尺，然後接下來的10秒，她移動了2公尺，之後再過了10秒，她的位置改變了3公尺多。這種描述速度改變的方式，被稱為加速度。"
+
+msgid "Calculating miles..."
+msgstr "计算里程。。。"
+
+msgid "Joaquin's Position"
+msgstr "華金的位置"
+
+msgid "Renee's Position"
+msgstr "華金的位置"
+
+msgid "Ivette's Position"
+msgstr "伊維特的位置"
+
+msgid "minute"
+msgstr "分鐘"
+
+msgid "A group of students decide to collect some data for their motion on bicycles.  They end up with the following data table.  See if you can match the student to the correct description of their motion."
+msgstr "一群學生決定收集一些自行車運行的數據。他們最終得到了以下的數據表。看看你能不能配對學生與其運動的正確描述。"
+
+msgid "Choices"
+msgstr "選擇"
+
+msgid "Getting Faster"
+msgstr "越來越快"
+
+msgid "Getting Slower"
+msgstr "越來越慢"
+
+msgid "Constant Velocity"
+msgstr "等速"
+
+msgid "Ivette"
+msgstr "伊維特"
+
+msgid "Renee"
+msgstr "蕾妮"
+
+msgid "Joaquin"
+msgstr "華金"
+
+msgid "Answer"
+msgstr "答案"
+
+msgid "Using what you know about... motion... to solve a problem"
+msgstr "運用你所知的「運動」概念解決問題。"
+
+msgid "Some of the teachers at your school are growing concerned about cars driving too fast on a road near your school, but they’d like to have some evidence before contacting local law enforcement."
+msgstr "學校中的一些老師們，長期關注學校附近道路開得過快的汽車，但他們希望再通知當地執法單位前，能有一些證據。"
+
+msgid "Come up with a method to determine whether or not the cars are driving over the speed limit.  Make a list of materials and describe how you will use them to safely make the necessary measurements to establish the velocity patterns for cars driving on this road.  Enter your answer in the text box below."
+msgstr "想出一個方法確定路上的汽車是否超速。製作一個材料清單，並描述你將如何安全地測量行駛於道路上的汽車之車速。"
+
+msgid "Driving a car..."
+msgstr "駕駛汽車..."
+
+msgid "Summarizing core ideas... about motion"
+msgstr "總結關於「運動」的核心概念"
+
+msgid ""
+"All motion is relative.  When giving a thorough description of an object’s motion, it is necessary to establish the <span class='key'>frame of reference</span> for your description.  The location of an object can be clearly communicated by giving <span class='key'>positions</span> with respect to the reference frame.  The motion of objects can be represented in a variety of ways in order to allow for easy comparisons and to help establish patterns in motion.  <span class='key'>Motion maps</span> and stroboscopic photos use images spaced at regular time intervals to show patterns in motion.  Data tables provide a way to neatly organize and share data.  Graphing motion on a <span class='key'>position versus time graph</span> can make it easy to see how the motion of two objects compare.  Patterns in the motion of an object can show evidence of constant <span "
+"class='key'>velocity</span>, or if the object is speeding up or slowing down, evidence of <span class='key'>acceleration</span>."
+msgstr "所有的運動都是相對的。如果給你一個物體運動的完整描述，你必須制定參考座標。物體的位置可以透過參考座標清楚地傳達所在位置。物體的運動可以以各種不同的方式來表示，為了便於比較，並且幫助建立的運動形態。動態圖和動態鏡盤的照片使用規則時間間隔的間隔圖像，以表示運動的模式。數據表則提供一種組織整齊的方法。位置–時間關係圖可以容易地看出兩個物體的運動與比較。一個物體的運動模式可以告訴我們是等速度，或者物體正加速或減慢，而這些都作為運動模式的一項證據。"
+
+msgid "Reviewing key vocabulary related to... motion"
+msgstr "回顧有關「運動」的關鍵字"
+
+msgid "A system of physical reference points or landmarks that helps to identify the position of an object."
+msgstr "物理的參考點或地標系統，可以幫助確立物體的位置。"
+
+msgid "Where an object is in relation to other objects.  The distance an object is from other objects."
+msgstr "物理的參考點或地標系統，可以幫助確立物體的位置。"
+
+msgid "Position versus Time Graph"
+msgstr "位置–時間關係圖"
+
+msgid "A graph showing where an object is or was in relation to when it was there.  Position versus time graphs chart the motion of an object."
+msgstr "一個圖示呈現出一個物體的所在位置，或過去曾經在哪個位置。位置–時間關係圖描繪了物體的運動。"
+
+msgid "Motion Map"
+msgstr "動態圖"
+
+msgid "A diagram that shows the position of an object at specific times."
+msgstr "顯示物體在特定時間點的位置。"
+
+msgid "Velocity"
+msgstr "速度"
+
+msgid "How fast an object is moving, and in what direction it is moving.  The change in an object’s position per unit of time."
+msgstr "物體移動的多快和往什麼方向移動。每單位時間內，物體位置的改變量。"
+
+msgid "Acceleration"
+msgstr "加速度"
+
+msgid "How much an object is speeding up or slowing down.  The change in an object’s velocity per unit of time."
+msgstr "物體速度加快或減慢的多寡。每單位時間內，物體速度的改變量。"
+
+msgid "Frame of Reference"
+msgstr "參考座標"
+
+msgid "Checking what you now know about... motion"
+msgstr "檢視你現在所了解的「運動」相關知識"
+
+msgid "This motion map shows a bowling ball rolling down a flat hallway that has a number line painted on the floor showing positions in meters.  The images of the bowling ball show its position every 2 seconds beginning with the image at -10 meter mark which occurred when the clock read 0 seconds."
+msgstr "此動態圖顯示，一個保齡球在一片地面上有標示公尺數線的平坦走廊上滾動。圖示顯示保齡球每兩秒鐘時的位置，保齡球在時鐘讀數為0時，起始點為-10公尺。"
+
+msgid "How much time did it take the ball to reach the 0 meter mark?"
+msgstr "保齡球到達標記為0公尺時，需要花多少時間？"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個測驗問題是..."
+
+msgid "Not quite.  The images of the bowling ball are 2 seconds apart, so it was at the -8 meter mark after 2 seconds, and at the -6 meter mark after 4 seconds. At 5 seconds, the ball would be somewhere between the -6 meter mark and the -4 meter mark."
+msgstr "不。圖示顯示保齡球2秒為一個時間間隔，因此她在2秒後位置在-8，4秒後位置在-6。過了5秒鐘的之後，保齡球會在-6和-4之間。"
+
+msgid "Yes. It was at -10 meters at 0 seconds, so it was at -8 meters when the clock read 2 seconds, and it was at -6 meters when the clock read 4 seconds, so that pattern would have it at the 0 meter mark at 10 seconds."
+msgstr "是的。它位置在-10時候為0秒，因此在2秒的時候，它的所在位置是-8，在4秒的時候，它的所在位置是-6，所以依照這樣的形態，最後在10秒的時，它將會在0的位置。"
+
+msgid "No.  The images of the bowling ball are 2 seconds apart, so it was at the -8 meter mark after 2 seconds, and at the -6 meter mark after 4 seconds.  After 20 seconds, the ball would be past the 10 meter mark."
+msgstr "不。圖示顯示保齡球2秒為一個時間間隔，因此她在2秒後位置在-8，4秒後位置在-6。過了20秒後，保齡球會接近10公尺的位置。"
+
+msgid "Nope.  The images of the bowling ball are 2 seconds apart, so it was at the -8 meter mark after 2 seconds, and at the -6 meter mark after 4 seconds.   After 30 seconds, the ball would be past the 10 meter mark."
+msgstr "不。圖示顯示保齡球2秒為一個時間間隔，因此她在2秒後位置在-8，4秒後位置在-6。過了30秒後，保齡球會接近10公尺的位置。"
+
+msgid "The following motion maps show the position of a duck every 5 seconds as it moves from left to right.  Match the motion map to the correct description of the duck’s motion."
+msgstr "下方動態圖顯示，一隻鴨子每五秒從左至右移動之位置。"
+
+msgid "Slow, Constant Velocity"
+msgstr "慢，等速度"
+
+msgid "Fast, Constant Velocity"
+msgstr "快，等速度"
+
+msgid "Counting ducklings..."
+msgstr "計算小鴨..."
+
+msgid "Alright, you’ve got it!  The spacing of the ducks on the motion map shows the duck’s position every 5 seconds.  Evenly spaced ducks have constant velocity, and ducks that have different spacing are changing speeds."
+msgstr "很棒，你答對了！動態圖上顯示鴨子每移動五秒的所在位置。均勻地間隔表示鴨子為等速度，如果鴨子的間隔不同，表示速度改變。"
+
+msgid "Nope.  The ducks in A are evenly spaced, showing constant velocity; the ducks in B are also evenly spaced, but farther apart, showing a faster constant velocity; the ducks in C are getting farther apart, showing that the duck was getting faster; the ducks in D are getting closer together, showing the duck was slowing down."
+msgstr "不。A中的鴨子移動間隔均勻，為等速度；B中的鴨子也是移動間隔均勻，亦為等速度，但是間隔較遠，為較快的等速度；C中的鴨子移動間隔越來越遠，表示鴨子越來越快；D中的鴨子移動間隔越來越靠近，表示鴨子的速度漸漸放慢。"
+
+msgid "A student records the following data while traveling along a highway on a school bus."
+msgstr "一個學生在校車上，記錄校車在高速公路上行駛的數據。"
+
+msgid "Mile Marker"
+msgstr "英哩數標誌"
+
+msgid "2:00 PM"
+msgstr "下午2點"
+
+msgid "2:15 PM"
+msgstr "下午2:15"
+
+msgid "2:30 PM"
+msgstr "下午兩點半"
+
+msgid "2:45 PM"
+msgstr "下午2:45"
+
+msgid "3:00 PM"
+msgstr "下午3:00"
+
+msgid "Based on this data, what time will it be when the bus reaches its destination at the science museum located near mile marker 250?"
+msgstr "根據該數據，公車什麼時候會到達位於250英里處的科學博物館？"
+
+msgid "4:00 PM"
+msgstr "下午4:00"
+
+msgid "4:30 PM"
+msgstr "下午4:30"
+
+msgid "5:00 PM"
+msgstr "下午5:00"
+
+msgid "5:30 PM"
+msgstr "下午5:30"
+
+msgid "Waiting for school bus..."
+msgstr "等候校車..."
+
+msgid "Not quite.  Based on the velocity pattern, this bus would be near mile marker 220 at 4:00 PM."
+msgstr "不。根據這樣的速度，這輛車四點的時候會接近220英里處。"
+
+msgid "Yes!  Based on the velocity pattern, this bus is travelling 60 miles every hour.  It will be at mile marker 220 at 4:00 PM, and will need another half hour to go the 30 additional miles to the science museum."
+msgstr "是！根據這樣的速度，這輛公車每小時行駛60英里。這輛車四點的時候會位於220英里處，且還需要30分鐘就到還須30英里路程的科學博物館。"
+
+msgid "Nope.  Based on the velocity pattern, this bus is travelling 60 miles every hour.  It will be at mile marker 220 at 4:00 PM and would be at mile marker 280 by 5:00 PM."
+msgstr "不。根據這樣的速度，這輛公車每小時行駛60英里。這輛車四點的時候會位於220英里處，而且五點的時候會到達280英里處。"
+
+msgid "No.  Based on the velocity pattern, this bus is travelling 60 miles every hour.  It will be at mile marker 220 at 4:00 PM and would be at mile marker 310 by 5:30 PM."
+msgstr "不。根據這樣的速度，這輛公車每小時行駛60英里。這輛車四點的時候會位於220英里處，而且五點半的時候會到達310英里處。"
+
+msgid "<span class='black' > This position versus time graph shows the motion for three different objects.</span> <br/><br/>Drag the objects into order from fastest to slowest, based on how fast they are moving at the time 10 seconds."
+msgstr "位址-時間關係圖顯示三種不同物體的運動。根據物體在10秒時的運動有多快，拖曳物體並由最快到最慢排序。"
+
+msgid "Object A"
+msgstr "物體A"
+
+msgid "Object B"
+msgstr "物體B"
+
+msgid "Object C"
+msgstr "物體C"
+
+msgid "Object D"
+msgstr "物體D"
+
+msgid "Dragging objects..."
+msgstr "拖曳物體"
+
+msgid "Yes!  Object A has the steepest graph at 10 seconds, Object B’s graph is not quite as steep, and Object C’s graph is flat, it isn’t changing position at all."
+msgstr "是。物體A在10秒的時候的圖最陡峭，物體B的圖不是很陡，物體C的圖形是平的，它沒有改變位置。"
+
+msgid "Nope.  Object C’s graph shows the highest position at 10 seconds, but it isn’t changing position at all.  Object C is actually the slowest.  Object A has the lowest position at 10 seconds, but the graph for Object A is steeper than the others, it is actually fastest."
+msgstr "不。物體C的圖顯示，在10秒時位置最高，但它並沒有改變位置。物體C其實是最慢的。物體A在10秒時位置最低，但物體A的圖形比其他物體更陡，它實際上是最快的。"
+
+msgid "No.  Object A moves from the 2 meter mark to the 6 meter mark in the first 10 seconds, Object B moves from the 5 meter mark to the 6 meter mark in the first 10 seconds, and Object C doesn’t move at all during the first 5 seconds."
+msgstr "不。物體A在前10秒時，從2公尺處至6公尺處，物體B在前10秒時，從5公尺處至6公尺處，而物體C在前5秒並沒有移動。"
+
+msgid "What is the meaning of the point on the graph at 30 seconds where all the lines cross each other?"
+msgstr "當在30秒時，所有線全部交會在一起，這交叉點代表什麼意思？"
+
+msgid "That’s where all three objects have the same position at the same time."
+msgstr "這表示三個物體為同一時間在同一位置。"
+
+msgid "That’s where all three objects have the same velocity at the same time."
+msgstr "這表示三個物體為同一時間具有相同速度。"
+
+msgid "That’s where all three objects have the same acceleration at the same time."
+msgstr "這表示三個物體為同一時間具有相同加速度。"
+
+msgid "That’s where all three objects have the same position and velocity at the same time."
+msgstr "這表示三個物體為同一時間在同一位置和相同速度。"
+
+msgid "You’ve got it!  All three objects are at the 8 meter mark at 30 seconds."
+msgstr "答對了！在30秒時，三個物體都位於8公尺處。"
+
+msgid "Nope.  Object A traveled from the 2 meter mark to the 8 meter mark prior to  that point, so its velocity is higher than that of Object B, which only traveled from the 5 meter mark to the 8 meter mark in that time.  Object C hasn’t changed position at all in the first 30 seconds, so has a velocity of zero."
+msgstr "不。在此之前，物體A從2公尺處前進到8公尺處，物體B在那段時間只有從5公尺處前進至8公尺處，所以它的速度比B快。物體C在那段30秒內都未改變位置，所以其速度為零。"
+
+msgid "Not quite.  They are all at the same position, but they’ve all moved different distances to get there.  Object A moved the farthest, so it has the highest velocity.  Object C hasn’t moved at all, so it has the lowest velocity."
+msgstr "不。它們都在相同的位置，但它們都移動不同的距離，到達不同的地方。物體A移動的最遠，所以它具有最高的速度。物體C未移動，所以它具有最低的速度。"
+
+msgid "Drawing a line..."
+msgstr "畫線..."
+
+msgid "Tortoise's"
+msgstr "烏龜的"
+
+msgid "Cheetah's"
+msgstr "獵豹的"
+
+msgid "Gazelle's"
+msgstr "羚羊的"
+
+msgid "Hare's"
+msgstr "野兔的"
+
+msgid "Take a look at the data tables below listing the positions of the animals along this number line at different times. "
+msgstr "看看下列動物的數線位置以及在不同時間的數據表。"
+
+msgid "Based on the evidence from the data table, drag the animals into order from fastest to slowest with the fastest on the left and the slowest on the right."
+msgstr "根據數據表中的證據，按照最快到最慢，從左到右由排序這些動物。"
+
+msgid "Click to view table"
+msgstr "點擊查看表格"
+
+msgid "Nicely done!  The Cheetah moves 15 meters every minute, the Gazelle moves 10 meters every minute, the Hare moves 5 meters every minute and the Tortoise doesn’t change position at all."
+msgstr "做的好！獵豹每分鐘移動15公尺，羚羊每分鐘移動10公尺，野兔每分鐘移動5公尺，和烏龜根本沒有改變位置。"
+
+msgid "Not quite.  Take a look at the pattern with which the position of each animal changes.  For the Tortoise, there’s no change in position, he’s not moving at all!  The Cheetah has the pattern showing the greatest change in position each minute, so he’s moving the fastest."
+msgstr "不。看看圖中每個動物的位置變化。對於烏龜，位置沒有變化，它不動了！獵豹運動型態顯示，它每分鐘的位置變化最大，所以它的移動速度最快"
+
+msgid "Reviewing big ideas about... motion"
+msgstr "回顧關於...「運動」的大概念"
+
+msgid "You’ve got it! Based on the pattern in the data table, Mary will be 27 miles East after 90 minutes."
+msgstr "你答對了！根據在數據表，瑪莉在90分鐘後，位於27英里以東。"
+
+msgid "Drag the objects into order from fastest to slowest, based on how fast they are moving at the time 10 seconds."
+msgstr "根據物體在10秒時的運動有多快，拖曳物體並由最快到最慢排序。"
+
+msgid "Position in meters"
+msgstr "在幾公尺處"
+
+msgid "Time in seconds"
+msgstr "在幾秒鐘的時間"
+
+msgid "Nope. None of these objects are accelerating, they all have constant velocities."
+msgstr "不。沒有一個物體正在加速，它們都是等速度。"
+
+msgid "You've completed the Motion module."
+msgstr "你已經完成了「運動」模組。"
+
+msgid "Not quite.  Joaquin changes his position by 4 meters every 15 seconds, so he has a constant velocity; Renee’s pattern keeps getting bigger by 1 meter every 15 seconds, so she’s getting faster; and Ivette’s pattern is getting smaller by 1 meter every second, so she’s getting slower."
+msgstr "不。華金每15秒位置就改變4公尺，所以他為等速度；蕾妮的運動型態以每15秒加大1公尺，所以她變得越來越快；而伊維特的運動型態以每秒1公尺慢慢減小，所以她越來越慢。"
+
+msgid "You’ve got it! Joaquin changes his position by 4 meters every 15 seconds, Renee’s pattern keeps getting bigger by 1 meter every 15 seconds, and Ivette’s pattern is getting smaller by 1 meter every second."
+msgstr "你答對了！華金每15秒位置就改變4公尺，蕾妮的運動型態以每15秒加大1公尺，而伊維特的運動型態以每秒1公尺慢慢減小。"
+
+msgid "Fastest"
+msgstr "最快"
+
+msgid "Slowest"
+msgstr "最慢"

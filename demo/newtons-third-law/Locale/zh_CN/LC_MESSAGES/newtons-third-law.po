@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回（上一個）"
+
+msgid "Read More"
+msgstr "閱讀更多（延伸閱讀）"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案（複選）"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速測驗#1"
+
+msgid "Quick Check #2"
+msgstr "快速測驗#2"
+
+msgid "Quick Check #3"
+msgstr "快速測驗#3"
+
+msgid "Quick Check #4"
+msgstr "快速測驗#4"
+
+msgid "Please check your answers."
+msgstr "請確認你的答案"
+
+msgid "How did I do?"
+msgstr "我應該怎麼做？"
+
+msgid "You answered..."
+msgstr "你回答了……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "靜音"
+
+msgid "Unmute"
+msgstr "取消靜音"
+
+msgid "Max volume"
+msgstr "最大聲"
+
+msgid "Full screen"
+msgstr "全螢幕"
+
+msgid "Restore screen"
+msgstr "還原螢幕"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Repeat off"
+msgstr "關閉重複"
+
+msgid "Update Required"
+msgstr "要求更新"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "為了播放你的媒體，你需要將你的瀏覽器更新至最新版本或是更新你的"
+
+msgid "Flash plugin"
+msgstr "Flash插件（外掛程式）"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住滑鼠並上下移動來轉動方塊和選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "點選左、右鍵頭來瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡以開始輸入你的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答接下來的六個考驗問題可以讓你知道你已經了解什麼，還有需要進一步學習哪些內容。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當你準備好了，請點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "考驗問題#1"
+
+msgid "Quiz Question #2"
+msgstr "考驗問題#2"
+
+msgid "Quiz Question #3"
+msgstr "考驗問題#3"
+
+msgid "Quiz Question #4"
+msgstr "考驗問題#4"
+
+msgid "Quiz Question #5"
+msgstr "考驗問題#5"
+
+msgid "Quiz Question #6"
+msgstr "考驗問題#6"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "你可以點擊下方的按鈕來確認在這次的複習中' 快速測驗' 與' 考驗問題' 表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "到儀表板"
+
+msgid "Go Back to Dashboard"
+msgstr "返回到仪表板"
+
+msgid "Language:"
+msgstr "语言："
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備好你的第一次快速測驗……"
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的最後一次快速測驗？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備開始你的最後一次考驗問題？"
+
+msgid "Putting it all together..."
+msgstr "把他們都放在一起……"
+
+msgid "Words and explanations"
+msgstr "單字與解釋"
+
+msgid "Let's check what you now know"
+msgstr "來看看你知道了什麼"
+
+msgid "And the first quiz question is..."
+msgstr "接著第一個考驗問題是……"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "Welcome to the Newton's Third Law module"
+msgstr "歡迎來到牛頓第三運動定律模組"
+
+msgid "Newton's Third Law"
+msgstr "牛頓第三運動定律"
+
+# 2
+msgid "Thinking about... Newton's Third Law"
+msgstr "想想有關……牛頓第三運動定律"
+
+msgid "Objects all around you are interacting with one another. These interactions can cause objects to stay still, or they can affect the object in ways that can be identified by looking for patterns in the object's motion. Often, objects are experiencing interactions with several other things at the same time. These interactions can be described based on different types of forces. Forces can be really small, like the weight of a butterfly resting on your shoulder, or they can be huge like the thrust from a rocket carrying astronauts into space."
+msgstr "你身邊的所有物件都相互作用著。這些交互作用會使物體停留在原地，或是它們能影響可被觀察辨識的運動模式。通常，物體都經歷著在同一時間與多個其他物體交互作用。這些交互作用可以被描述成是基於不同種類的力所產生。力可以是非常小的，像是蝴蝶停在你的肩膀的重量，或是他們可以大到像火箭把太空人帶到外太空的推力。"
+
+# 3
+msgid "Checking what you already know about... Newton's Third Law"
+msgstr "確認你已經知道相關的內容……牛頓第三運動定律"
+
+msgid "Which of these forces are occurring in the photo of the child on the swing?"
+msgstr "有哪些力作用在這張有孩子在鞦韆上的相片中？"
+
+msgid "The woman pulling back on the swing."
+msgstr "一位女性將鞦韆向後拉。"
+
+msgid "The swing pulling forward on the woman."
+msgstr "鞦韆將女性向前拉。"
+
+msgid "The child pulling down on the swing."
+msgstr "在鞦韆上的孩子將鞦韆向下拉。"
+
+msgid "The swing pulling up on the child."
+msgstr "鞦韆將孩子向上拉。"
+
+msgid "Playing at the park..."
+msgstr "在公園遊玩⋯⋯"
+
+msgid "If you checked all the boxes, you're heading in the right direction. If objects are interacting, they are exerting forces on each other."
+msgstr "如果你確認了所有的方框，你正向正確的方向邁進。如果物體們正在交互作用，他們正在相互施力。"
+
+# 4
+msgid "Reviewing big ideas about... Newton's Third Law"
+msgstr "複習相關的大概念……牛頓第三運動定律"
+
+msgid "<span class='key'>Forces</span> are most easily thought of as a push or a pull, but objects don’t need to be in motion in order to be experiencing forces. Even when objects are sitting perfectly still, they are likely to be experiencing forces from any other objects that they are in contact with. Contact between objects is one of the clearest indicators that forces are present. Look at the interaction between the boys and the trampoline in the image below. Not only are the boys experiencing a force from the trampoline, keeping them from falling to the ground, but the trampoline is experiencing a force from the boys, causing it to stretch underneath them."
+msgstr "力大多容易的被想像成是推或拉，但是物體並不需要動作才能感受力。就算物體完美的座落著不動，他們還是像感受著其他任何與他們相互連接物體的力。物體間的接觸是力呈現於其中的一個明顯指標。請看下方圖中男孩們與跳床之間的交互作用。不只是男孩們感受到來自跳床的力，這讓他們不會掉落到地上，然而跳床受到來自男孩們的力，這造成跳床在他們的下方伸展。"
+
+msgid "Although we don't notice it quite so easily, a similar interaction is occurring between this flower pot and table. The table is preventing the flower pot from crashing into the ground below, and the flower pot is causing the boards in the table to bend ever so slightly underneath it."
+msgstr "雖然我們沒有那麼容易注意到它，但是有一個相似的交互作用正發生在花瓶與桌子之間。桌子正避免讓花瓶掉到下方的地板而破碎，而花瓶使得桌板微微地向下彎曲。"
+
+msgid "This idea that any time objects are interacting with each other, they exert paired forces on one another is known as <span class='key'>Newton's Third Law</span> of motion. The discovery of this law is credited to Sir Isaac Newton, a well-known physicist from 17th century England."
+msgstr "這個概念是當物體正在交互作用時，它們便會產生與另一個配對的力，這被稱為牛頓第三運動定律。這是由艾薩克牛頓爵士發現的，他是17世紀一位非常知名的英國物理學家。"
+
+msgid "Jumping on trampoline..."
+msgstr "在跳床上跳躍……"
+
+# 5
+msgid "Identify <span class='blink'>ALL</span> of the interactions occurring in this photo of a rock climber."
+msgstr "請辨識出在這張照片中所有與攀岩者發生的交互作用。"
+
+msgid "The woman and the cable"
+msgstr "女人與纜線"
+
+msgid "The woman and the rocks"
+msgstr "女人與岩石"
+
+msgid "The woman and the metal stake"
+msgstr "女人與金屬樁"
+
+msgid "The woman and the cable, The woman and the rocks and The woman and the metal stake"
+msgstr "女人和电缆，女人和岩石和那个女人和金属股份"
+
+msgid "I only"
+msgstr "只有1"
+
+msgid "II only"
+msgstr "只有2"
+
+msgid "III only"
+msgstr "只有3"
+
+msgid "I, II and III"
+msgstr "1、2與3"
+
+msgid "Close. The woman is grasping the cable with her hand, so there's definitely an interaction occurring there, but she’s also in contact with a few other objects in the photo."
+msgstr "關閉。這個女人正用她的手抓住纜線，所以很確定的是那裡有交互作用，但是她也跟照片中其他少數的物件產生接觸。"
+
+msgid "Not quite. She's in contact with several other objects in addition to the rocks."
+msgstr "不盡然。除了那個岩石外，她和許多其他的物體有接觸。"
+
+msgid "Nope. She's definitely pulling on the stake, but there are a few other objects that she’s interacting with in the photo."
+msgstr "沒有。她確實正拉著柱子（樁），但是在照片裡還有少數其他的物件與她產生交互作用。"
+
+msgid "You've got it! She's grasping the cable in one hand, pulling on the metal stake with another, and using her feet to push off the rock surface."
+msgstr "你懂了！她正用一隻手抓著纜線，用另一隻手拉住金屬柱子，還有用她的腳在岩石表面撐住。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個快速測驗"
+
+# 6
+msgid "More big ideas about... Newton's Third Law"
+msgstr "更多相關的大概念……牛頓第三運動定律"
+
+msgid "<span class='key'>Newton's Third Law</span> is commonly stated as \"For every action, there is an equal and opposite reaction.\" Another way to think of it is \"If object A puts a force on object B, then object B puts a force on object A.\" This is to say that there are no isolated forces in nature, forces always occur in pairs. When the baseball player strikes a ball with a bat, there is a force on the ball by the bat as well as a force on the bat due to the ball. This interaction can cause the ball to go flying over the fence for a home run, and a stinging feeling in the hands of the batter."
+msgstr "牛顿第三定律通常表述为 “对于每一个动作，有一个大小相等，方向相反的反作用力。” 另一种方式来思考的是 “如果对象A把力对象B ，那么对象B把力对象答： “这是说，没有孤立的力量在自然界中，始终势力成对出现。当棒球运动员击中了蝙蝠一球，还有由蝙蝠球以及对蝙蝠的力的力，由于球。这种相互作用会导致球去飞越篱笆的一个本垒打，并在面糊手中的刺痛感。"
+
+msgid "Sometimes it can be a bit difficult to identify both of the forces involved in an interaction. It’s pretty obvious that a hammer is exerting force on a nail, pounding it into a board, but the nail is also putting a force on the hammer, causing it to stop moving. If the nail didn’t stop the hammer, you’d have to stop it all by yourself. Your arm would get tired much more quickly!"
+msgstr "有时，它可以是一个有点难以辨认两者参与的互动力量。这是很明显，锤力施加在钉子上，冲击成一个板，但指甲也将在锤子的力量，使其停止移动。如果指甲没有停止锤子，你必须停止它全部由自己。你的手臂会觉得厌烦更迅速！"
+
+msgid "When the soccer player heads the ball, the soccer player puts a force on the ball, and the ball also puts a force back on the soccer player. You can see in the photo how much the ball gets squished in this interaction. According to Newton’s Third Law, not only does the ball put a force on the player’s head, but that force is just as big as the force the head puts on the ball."
+msgstr "当足球运动员负责的球，足球运动员把球的力，球也使力回到了足球运动员。您可以在照片多少球被压扁在这种互动中所看到的。根据牛顿第三定律，不仅球把玩家的脑袋给力，但这种力量是一样大的头把球的力量。"
+
+msgid "Striking a ball..."
+msgstr "打擊出一顆球……"
+
+# 7
+msgid "If the skater in the red jacket pushes on the skater in the blue jacket, which of the following will happen?"
+msgstr "如果穿紅色外套的溜冰者推了穿藍色外套的溜冰者，接著會發生什麼事？"
+
+msgid "The skater in the blue jacket will go backwards."
+msgstr "穿藍色外套的溜冰者會向後移動。"
+
+msgid "The skater in the red jacket will go backwards."
+msgstr "穿紅色外套的溜冰者會向後移動。"
+
+msgid "Nothing, the skaters won't move."
+msgstr "什麼都不會發生，溜冰者們不會移動。"
+
+msgid "Both skaters will move away from each other."
+msgstr "兩個溜冰者會向彼此反方向移動。"
+
+msgid "Not quite. The skater in the blue jacket will go backwards due to the force from the skater in the red jacket. However, due to paired forces, the skater in the red jacket will also end up going backwards."
+msgstr "不盡然。穿藍色外套的溜冰者會因為來自紅色外套溜冰者的力而向後移動。然而，因為作用力與反作用力，穿紅色外套的溜冰者最後也會向後移動。"
+
+msgid "Not quite. The skater in the red jacket will go backwards, but the force pair will also result in the skater in the blue jacket going backwards."
+msgstr "不盡然。穿紅色外套的溜冰者會向後移動，但是作用力與反作用力會讓穿藍色外套的溜冰者向後移動。"
+
+msgid "No. The slippery ice will make it very easy for forces to change the motion of the two skaters."
+msgstr "否。濕滑的冰會很容易的改變兩個溜冰者的運動方式。"
+
+msgid "You've got it! Both skaters will experience forces due to this interaction, and the result will be that they both move backwards."
+msgstr "你懂了！兩個溜冰者都會因為交互作用而感受到力，且最後他們兩者都會向後移動。"
+
+# 8
+msgid "Pushing slowly..."
+msgstr "輕輕的推……"
+
+msgid "Not only do forces always come in pairs, but the sizes of the two forces will always be equal. This can be tough to see because force is not the only thing that affects how much an object’s motion will change. The <span class='key'>mass</span> of the object determines how much the motion will change for a particular amount of force.  Mass is measured in kilograms (kg) and is simply a measure of how much matter makes up an object. It’s easy to push the empty shopping cart when you first get to the grocery store, but as the cart fills up with groceries, it becomes more massive.  When the cart is full, it becomes harder to change the cart’s motion. It’s harder to get the cart to start moving, harder to stop it once it's in motion, and harder to get it to go around corners. <span class='key'>Acceleration</span> is a term used to describe how quickly an object’s motion changes. For a certain amount of force, an object with more mass will have less acceleration, and an object with less mass will have a greater acceleration."
+msgstr "不只力出現時都會成對，而且這兩個力的大小總是都會相同。因為力不是唯一影響物體運動如何改變的因素，所以很難被看到。物體的質量決定它受到一個特定的力時的運動改變。質量的測量以公斤為單位（kg）且單純地去測量由多少物質組成此物體。當你進到超市時可以輕易地推動空的購物車，但是當被雜貨所填滿時，它會變得沈重。當整車都滿時，會變得更難讓車子運動。變得更難推動起步，更難在它移動中停下它，且更難讓它在轉角轉彎。加速度這個詞被用來描述物體移動速度的變化。以一定量的力來說，較大質量的物體會有較小的加速度，而質量較小的物體會有較大的加速度。"
+
+msgid "When two objects interact, they put equal forces on each other, but their accelerations will also depend upon their masses. If one of the objects is two times more massive than the other, the more massive object will experience half as much acceleration as the lighter object. This can make it difficult to understand that the forces they put on each other are always equal in size. Did you know that when you jump off the ground, you push down on the earth with the same amount of force that it pushes up on you?  This might be hard to believe because we don’t see the earth move. The reason for that is not a difference in forces but a huge difference between your mass and the mass of the earth. If the two objects involved in an interaction have the same amount of mass, it’s easy to see that the forces they exert on each other are equal size because the accelerations will be the same size, too!"
+msgstr "當兩個物體交互作用，它們相互施予相同的力，但是它們的加速度還是依各自的質量而定。如果有一個物體的質量是另一個的質量，質量較大者會受到質量較小者一半量的加速度。這會令人難以理解它們施給對方的力是一樣大的。你是否知道當你跳到地面時，你施給地球向下的推力和地球給你向上的推力，是一樣大的嗎？這或許很難相信，因為我們並沒有看到地球移動。這是因為兩者所受的力並沒有不同，但是你與地球的質量卻有極大的差異。如果兩個物體涉入交互作用且擁有相同的質量，這樣就會比較容易理解它們所施予對方的力大小相同，因為它們的加速度也是相同的！"
+
+msgid "Calculating mass..."
+msgstr "計算質量……"
+
+# 9
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it. Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience. Arrange the images left to right from the greatest to the least movement."
+msgstr "一個從船上跳到水裡的人，注意到船向她跳向的反方向移動。請依據船受到的加速度大小或是移動的改變，為下列的敘述分級。請將圖片由左到右依照移動最多到最少排列。"
+
+msgid "A) One boater jumps off the front, while the other boater remains seated."
+msgstr "A) 一個划船者跳下前方，而另一位划船者依然坐著。"
+
+msgid "B) Both boaters jump off the front of the boat."
+msgstr "B) 兩位划船者都跳下船隻的前方。"
+
+msgid "C) One boater jumps off of an empty boat."
+msgstr "C) 一位划船者從一艘空的船跳下。"
+
+msgid "D) One boater jumps off the front, while the other boater jumps off the back at the same time."
+msgstr "D) 一位划船者跳下船的前方，在同一時間另一位划船者跳下船的後方。"
+
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it.  Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience.  Arrange the images left to right from the greatest to the least movement."
+msgstr "一個從船上跳到水裡人注意到船向她跳的反方向移動。請依據船受到的加速度大小或是移動的改變，為下方的敘述分級。請將圖片由左到右依照移動最多到最少排列。"
+
+msgid "You’ve got it!  With both boaters jumping in the same direction, the greatest amount of force will be combining to act on the boat.  When the boaters jump in opposite directions, their forces cancel, resulting in no change in motion for the boat."
+msgstr "你懂了！當兩個划船者跳向相同的方向，最大的力會集合作用在船上。當划船者們跳向相反的方向，他們的施力抵銷，導致船不會移動。"
+
+msgid "Not quite.  When the two boaters jump in the same direction, their forces will combine to result in a large change in motion for the empty boat.  With only one person jumping off the boat, the change in motion would be less, and in the situation where the boaters jump in opposite directions, their forces would cancel and the boat wouldn’t move."
+msgstr "不盡然。當兩位划船者跳到相同的方向，他們的力會結合造成空的船隻有更大的移動。當只有一個人跳下船，移動的量會比較少，在划船者跳向反方向的狀況下，他們的力會消失且船不會移動。"
+
+msgid "Looking at the water..."
+msgstr "看看水……"
+
+# 10
+msgid "Forces are paired for moving objects, too! In order for you to be able to walk down the hallway at school, your feet push backwards on the floor while the floor pushes forward on you. When a bicyclist skids to a stop, the road puts a force on the bike, but the bike also puts a force on the road. In an elevator, the floor pushes upwards on you while you push downwards on it."
+msgstr "對於移動中的物體，力也是成對的！為了讓你可以走過學校的走廊，你的腳會向下推地板，同時地板會推向你。當一個騎腳踏車的人從滑行道停止，路面會對腳踏車施一個力，但是腳踏車也會向地面施力。在電梯裡，地板朝上推向你的同時，你也朝下推向它。"
+
+msgid "It can be difficult to get a car moving on a snowy road. The slippery snow can make it difficult for the car to push against the road with enough force to start moving without spinning the tires. It's also difficult to get a moving car to stop suddenly in those conditions!"
+msgstr "要讓車子在雪地的路上移動是很困難的。濕滑的雪會讓車子難以在輪胎沒有旋轉的狀況下對地面施予足夠的力，來讓車子起步。同樣的，在這樣的情況下也很難讓行進中的車子突然停住。"
+
+msgid "For a helicopter to move, the blades on the helicopter push down on the air, and the air pushes up on the helicopter. By changing the amount of force, the helicopter can move up, down, or just hover in place. In this picture, you can see how the air pushed down by the blades on the helicopter ends up making waves in the water."
+msgstr "要讓直昇機移動，直升機上的螺旋槳片向下推動空氣，而空氣將直升機向上推。透過改變施力的量，可以讓直昇機上下移動或是懸滯在一個位置上。在這張圖中，你可以看到螺旋槳片是如何向下推動空氣導致水上的波動。"
+
+msgid "Did you know that people used to be skeptical about the ability to launch rockets into space beyond the earth's atmosphere? They were concerned that the lack of air would make it impossible for the rockets to exert forces in order to control their orbital paths. It turns out that rockets take advantage of Newton's Third Law force pairs by pushing the burning rocket fuel backwards. The other part of that force pair is the force of the burning rocket fuel pushing forward on the rocket, allowing the rocket to change its motion."
+msgstr "你知道人們曾懷疑有關推動火箭越過大氣層進入到外太空的可能性嗎？他們曾考慮到缺乏空氣可能無法讓火箭施力來控制他們的軌道。事實證明了火箭利用了牛頓第三運動定律的優點，藉由燃燒火箭的燃料向後推動。成對的力中的另一個部份則是火箭燃燒燃料推動火箭向前，讓火箭改變了它的運動。"
+
+msgid "Pushing forward..."
+msgstr "推向前……"
+
+# 11
+msgid "Sailboats depend on wind to push against the sails and move the boat forward. On a day without any wind, a sailor decides to try to get the boat moving by attaching a large fan to the boat in order to push air into the sails. Considering the force pairs involved in this situation, what is the most likely outcome for the boat?"
+msgstr "風帆藉由風推動船帆並向前移動。當有一天完全沒有風，船員要讓船移動則藉著嘗試在船上加上一個大風扇朝向船帆推動空氣。考慮一下在這個狀況中成對的力，船最可能有什麼樣的結果？"
+
+msgid "The air will push against the sails, moving the boat forward."
+msgstr "空氣會推向船帆，讓船隻向前移動。"
+
+msgid "The air will push back against the fan, moving the boat backwards."
+msgstr "空氣會向後推向風扇，讓船隻向後移動。"
+
+msgid "The boat won’t move due to the forward force on the sails and the backwards force against the fan."
+msgstr "船隻不會移動，因為向前推動船帆的力抵擋風扇向後推的力。"
+
+msgid "The force against the sails will be greater than the force on the fan, so the boat will still move forward."
+msgstr "對船帆的力會比風扇受到的力來的大，所以船隻還是會向前移動。"
+
+msgid "Not quite. The air will push forward against the sails, but it will also push backwards against the fan. Those interactions will cancel out and the boat won't move."
+msgstr "不盡然。空氣會向前推向船帆，但是也會向後推向風扇。那些交互作用的力會抵銷然後船隻將不會移動。"
+
+msgid "Almost. The air will push the fan backwards, but it will also push forward against the sails. Those interactions will cancel each other out, and the boat won't move."
+msgstr "幾乎。空氣會把風扇向後推，但是也會向前推向船帆。那些交互作用會相互抵消，且船隻不會移動。"
+
+msgid "You've got it. In any interaction, forces are paired. So when the fan pushes the air forward, the air pushes the fan backwards. That backwards push against the fan cancels out the forward push against the sails."
+msgstr "你懂了！每個交互作用，力都是成對的。所以當風扇推空氣向前，空氣就會推風扇向後。那個向後推向風扇的力抵消掉向前推向船帆的力。"
+
+msgid "Nope. If anything, the force pushing back against the fan will be slightly greater. Most likely, the forward force of the air against the sails cancels out the backwards force of the air against the fan, and the boat won't move."
+msgstr "沒有。如果有任何，朝著風扇推向後的力會強一點。最有可能的是，空氣朝向船帆向前的力會抵消空氣朝風扇向後的力，且船隻不會移動。"
+
+# 12
+msgid "Using what you now know about... Newton's Third Law... to solve a problem"
+msgstr "運用你知道有關……牛頓第三運動定律……來解決問題"
+
+msgid "Your neighbor needs some help setting up a clothesline for drying clothes. Use your understanding of paired forces to help plan and design a system for setting up the clothesline for your neighbor."
+msgstr "你的鄰居需要一些幫助來設置曬衣繩曬衣服。運用你對力成對的了解來幫助你的鄰居計畫和設計如何設置曬衣繩。"
+
+msgid "What are some of the important considerations that must go into the design? How will you make certain that the clothesline will be able to support the clothes? Please answer in the space provided."
+msgstr "有哪些重要的考量必定要納進設計中？你要如何確定曬衣繩可以支撐住這些衣服？請在提供的空間裡回答。"
+
+msgid "Hanging clothes..."
+msgstr "掛上衣服…"
+
+# 13
+msgid "Summarizing big ideas about... Newton's Third Law"
+msgstr "歸納相關的大概念……牛頓第三運動定律"
+
+msgid "For any interaction between objects, the <span class='key'>forces</span> the objects put on each other will be of the same size and in opposite directions. Often stated as 'For every action, there is an equal and opposite reaction,' this is known as <span class='key'>Newton's Third Law</span> of motion. To put it another way, there are no isolated forces in nature; forces always come in pairs. When you push on the ground to walk, there is a corresponding force that the ground puts on you. When you use a hammer to pound a nail into a board, the nail also puts a force back on the hammer. When a rocket pushes burning fuel backwards, there is a force in the forward direction to move the rocket. However, paired forces don't guarantee that the changes in motion for the two objects will be paired. The <span class='key'>acceleration</span> of an object is also based on how massive the object is. For an object that is ten times as massive, the acceleration will be ten times smaller even though the forces the two objects experience are the same. If the two objects involved in the interaction are similar in <span class='key'>mass</span>, then it is likely that you will see similar changes in motion."
+msgstr "對任何物體之間的交互作用來說，力與物體推向對方會有相同大小且反方向的力。通常被描述為“對於每一個動作，會有一個相同且反向的交互作用”這就被稱為牛頓第三運動定律。換一種方式來說，在自然界中並沒有獨立的力存在；力總是成對出現。當你走路時推向地面，那裡就會有一個相對應的力從地面推向你。當你用一個錘子將釘子鎚進木板裡，釘子也會對鎚子施予一個力。當一個火箭燃燒燃料向後推，那會有一個向前的力來推動火箭。但是，成對的力並不能確保兩個物體的運動改變也會是成對的。物體的加速度也是依據物體的質量而定。假設有十倍的質量，這時就算兩個物體受到相同的力它的加速度也會小十倍。如果兩個質量相近的物體發生交互作用，那你就會看到它們會有類似的運動改變。"
+
+# 14
+msgid "Reviewing key vocabulary related to... Newton's Third Law"
+msgstr "複習相關的關鍵字……牛頓第三運動定律"
+
+msgid "Force"
+msgstr "力"
+
+msgid "A force occurs anytime there is an interaction between two objects.  Both the size and the direction of the force will determine how that force affects the motion of the objects."
+msgstr "兩個物體交互作用時隨時都有力的產生。力的大小和方向會決定力對物體運動狀態的影響。"
+
+msgid "Acceleration"
+msgstr "加速度"
+
+msgid "Acceleration is how quickly an object changes speed.  If an object is speeding up or slowing down, it is accelerating."
+msgstr "加速度是指物體速度的變化。如果有個物體正在加速或是減速，這就是加速度。"
+
+msgid "Mass"
+msgstr "質量"
+
+msgid "A measure of an object’s inertia as well as the effect gravity has upon it. An object with more mass will require more force to accelerate it and will feel a greater force of gravity upon it."
+msgstr "測量一個物體的慣性就像它所受到的重力。一個物體有越大的質量則需要越大的的力才能為它加速，且會感受到它有更大的重力。"
+
+msgid "For every action, there is an equal and opposite reaction. When a force is applied to an object, that object applies the exact same amount of force back on whatever applied it in the exact opposite direction. So if a person was to push a boulder across a field, the boulder would push back with the same force that the person pushed it with."
+msgstr "對於每個動作，會有一個相等且反向的反應。當供給物體一個力，那物體會供給一個相等量且相反方向的力。所以如果一個人推一個大石頭通過原野，石頭會對這個人施予相同的力。"
+
+# 15
+msgid "Checking what you now know about... Newton's Third Law"
+msgstr "檢測你所知道有關於……牛頓第三運動定律"
+
+# 16
+msgid "Newton's Third Law of paired forces is true..."
+msgstr "牛頓第三運動定律中成對的力是正確的……"
+
+msgid "only when objects are the same size."
+msgstr "只有在物體都是相同大小時。"
+
+msgid "only when objects are at rest."
+msgstr "只有在物體靜止時。"
+
+msgid "only when objects move at a constant speed."
+msgstr "只有在物體有固定移動速度的狀態下。"
+
+msgid "any time two objects interact with one another."
+msgstr "任何在兩個物體間有交互作用時。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個問題是……"
+
+msgid "Nope. Forces are always paired, in any interaction, regardless of the size of the objects involved."
+msgstr "不盡然。力總是成對的，每一個交互作用，而不論是物體的大小。"
+
+msgid "Nope. Forces are always paired even if the objects involved are in motion."
+msgstr "不盡然。力總是成對的，即使是物體正在運動中。"
+
+msgid "Nope. Forces are always paired even if the objects are speeding up or slowing down."
+msgstr "不盡然。力總是成對的，就算物體正在加速或減速。"
+
+msgid "You've got it. According to Newton's Third Law, forces are always paired anytime two objects interact."
+msgstr "你懂了。根據牛頓第三運動定律，兩個物體有交互關係時力總是成對的。"
+
+# 17
+msgid "Compare the two forces mentioned for the following situations. Use >, = or < signs to show how the forces compare to each other."
+msgstr "請比較下列敘述中所提及的兩個力。用 > 、 =  或 < 的標示來呈現力之間的關係。"
+
+msgid "The force the hammer puts on the nail."
+msgstr "力由錘子施在釘子上。"
+
+msgid "The force of the hand on the valleyball."
+msgstr "力由手施在排球上。"
+
+msgid "The force of the feet on the diving board."
+msgstr "腳的力施在跳板上。"
+
+msgid "The force the nail puts on the hammer."
+msgstr "力由釘子施在錘子上。"
+
+msgid "The force of the diving board on the feet."
+msgstr "跳板的力施在人的腳上。"
+
+msgid "The force the volleyball puts on the hand."
+msgstr "排球的力施在手上。"
+
+msgid "Comparing forces..."
+msgstr "比較這些力……"
+
+msgid "You've got it. Forces are always paired, so in all of the interactions shown, both objects experience the same amount of force."
+msgstr "你懂了。力總是成對的，所以在這些所有的交互作用中，物體都受到相同大小的力。"
+
+msgid "Not quite. Any time two objects interact, the forces that they exert on each other will be equal in size."
+msgstr "不盡然。任何時候兩個物體作用時，它們所施予對方的力會是一樣大的。"
+
+# 18
+msgid "Choose the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "選擇適當大小和方向的箭頭來呈現下列狀況下的力。"
+
+msgid "The force of the man pushing on the car:"
+msgstr "男人施力推向車子："
+
+msgid "The force of the car pushing back on the man:"
+msgstr "車子的力推回給男人："
+
+msgid "Aiming arrow..."
+msgstr "目標箭頭……"
+
+msgid "You've got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "你懂了！任何時候兩個物體向對方施力時，那些力會大小相同且方向相反。"
+
+msgid "Nope. The forces are equal in size and opposite in direction, but the man puts a force on the car that is towards the left, and the car puts a force on the man which is towards the right."
+msgstr "沒有。那些力是大小相同且方向相反的，但是男人對車子施一個向左的力，且車子對男人施一個向右的力。"
+
+msgid "Nope.  Even though the man and car are quite different in size, the forces that they put on each other will be equal in size, and opposite in direction."
+msgstr "不盡然。就算男人和車子大小很不一樣，但它們所受到彼此的力還是相同且反方向的。"
+
+# 19
+msgid "Rank these situations based on how quickly the wagon’s motion would change from rest. Arrange the images left to right from the greatest to the least movement."
+msgstr "請以這些貨車從靜止到運動的速度改變狀態做分級。請從左到右由最多到最少運動來排列圖片。"
+
+msgid "A) A wagon with one dog is pulled by one boy"
+msgstr "A) 一輛有狗的貨車被男孩拉動"
+
+msgid "B) A wagon with two dogs is pulled by one boy"
+msgstr "B) 一輛有兩隻狗的貨車被一個男孩拉動"
+
+msgid "C) A wagon with one dog is pulled by two boys"
+msgstr "C) 一輛有一隻狗的貨車被兩個男孩拉動"
+
+msgid "D) An empty wagon  is pulled by two boys"
+msgstr "D) 一輛空的貨車被兩個男孩拉動"
+
+msgid "Pulling a wagon..."
+msgstr "拉一輛貨車……"
+
+msgid "You’ve got it! The combined forces of the two boys will cause a large change in motion for one dog. The boy trying to accelerate two dogs on his own will have the least change in motion."
+msgstr "你懂了！兩個男孩所集合的力可以對一隻狗的運動造成很大改變。這男孩自己試著要讓這兩隻狗加速，產生一些運動的改變。"
+
+msgid "Not quite. The combined forces of two boys pulling will be greater than the force of one boy pulling on his own, but the mass of two dogs in the wagon will resist the change in motion greater than the mass of one dog in the wagon, and an empty wagon will provide the least resistance to a change in motion."
+msgstr "不盡然。兩個男孩所集合拉動的力會比一個男孩獨自拉動來得大，但是貨車上的兩隻狗的質量會抗拒只有一隻狗的貨車所產生的運動改變，且空的貨車會對運動改變有最少的抗拒。"
+
+# 20
+msgid "Select the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "請選擇適當大小與方向的箭頭來呈現下方狀況中的力。"
+
+msgid "Force of the hammer on the nail"
+msgstr "錘子的力在釘子上"
+
+msgid "Force of the nail on the hammer"
+msgstr "釘子的力在錘子上"
+
+msgid "Studying forces..."
+msgstr "研究力……"
+
+msgid "Not quite.  The forces are equal in size and opposite in direction, but the hammer puts a force on the nail in a downward direction, and the nail puts a force on the hammer in an upward direction."
+msgstr "不盡然。這些力大小相同且方向相反，但是錘子對釘子施予一個向下的力，且釘子向錘子施予一個向上的力。"
+
+msgid "You got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "你懂了！任何時候兩個物體相互施力時，那些力會有相同大小、相反方向。"
+
+msgid "Nope. Even though we tend to focus on the force of the hammer hitting the nail, the nail also puts a force on the hammer. That's the force that stops the motion of the hammer. Without that force, you’d have to use the muscles in your arm to stop the hammer with every swing. You'd wear yourself out pretty quickly, if that was the case."
+msgstr "沒有。就算我們傾向注意錘子打釘子的力上，釘子一樣會對鎚子施予力。那就是停止錘子運動的力。如果沒有那個力，每次揮動時你便需要用你手臂上的肌肉來停止錘子。如果是這樣的話你會很快讓自己磨損。"
+
+# 21
+msgid "Your friend is having a hard time understanding how to apply Newton's Third Law of paired forces. As an example, he describes a horse pulling a cart. He claims that it would be impossible for the horse to move the cart forward if the horse and cart are putting the same amount of force on each other. Which of the following statements would be more in line with Newton's Third Law of paired forces?"
+msgstr "你的朋友在理解牛頓第三運動定律中力成對時遇到困難。舉例來說，他描述馬拉車子。他宣稱如果馬和車子向對方施予相同大小的力，可以讓馬把車向前移動。下方哪一個狀況會更符合牛頓第三運動定律中成對的力？"
+
+msgid "To move forward, the horse puts a force on the cart which is larger than the force the cart puts on the horse."
+msgstr "為了向前移動，馬施予車子的力會大於車子向馬施的力。"
+
+msgid "To move forward, the horse must put a force on the cart which is greater than the weight of the cart."
+msgstr "為了向前移動，馬必須施予比車子重的力在車子上。"
+
+msgid "To move forward, the horse and cart put forces on each other which are equal in size."
+msgstr "為了向前移動，馬與車子必須互相施予相同大小的力。"
+
+msgid "To move forward, for a brief time the force of the horse on the cart is greater than the force of the cart on the horse."
+msgstr "為了向前移動，短時間內馬對車的力會大於車對馬的力。"
+
+msgid "Nope. It's impossible for the horse to put more force on the cart than the cart puts on the horse. Those forces are paired, so they’ll be the same size every time."
+msgstr "不對。馬對車的力大於車對馬的力是有可能的。"
+
+msgid "Nope. The force we think of as weight acts in a downward direction, the pull of the horse acts in a sideways direction. The cart can actually be moved with a force much smaller than the weight of the cart."
+msgstr "不對。我們思考重量的施力是向下的，而馬拉車則是側向的。車子確實可以用比車子重量小很多的力來移動。"
+
+msgid "Yes!  The forces that the cart and the horse put on each other will be the same size.  The horse is able to get things moving by pushing off against the ground with a lot of force."
+msgstr "是。車子與馬相互施予的力會是一樣大的。馬可以藉由用很多力推向地面來讓東西移動。"
+
+msgid "Not quite.  The forces that the cart and the horse put on each other are paired, so even if the horse tries to increase the force that it puts on the cart, the paired force that the cart puts on the horse will always increase to match it!"
+msgstr "不完全。車與馬對對方所施的力是成對的，所以就算馬嘗試增加力量對車子的力，車子對馬成對的力也會來相對應增加。"
+
+# 22
+msgid "You've completed the Newton's Third Law module."
+msgstr "你完成了牛頓第三運動定律的模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以點擊下方按鈕來確認你在這個模組的快速測驗與問題考驗中表現如何。"

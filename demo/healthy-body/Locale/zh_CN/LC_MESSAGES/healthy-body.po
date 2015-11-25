@@ -1,0 +1,862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Healthy Body\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Healthy Body"
+msgstr "健康的身体"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Studying cells..."
+msgstr "研究細胞..."
+
+msgid "Finding facts..."
+msgstr "寻找事实..."
+
+msgid "Cells working together"
+msgstr "細胞一起工作"
+
+msgid "Interconnecting body systems..."
+msgstr "互連身體系統..."
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個小練習！..."
+
+msgid "Passing on the messages..."
+msgstr "傳遞信息..."
+
+msgid "Recording information..."
+msgstr "紀錄信息..."
+
+msgid "Presenting healthier lifestyle..."
+msgstr "介紹健康的生活方式..."
+
+msgid "Putting it all together"
+msgstr "全部放在一起"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是..."
+
+msgid "Recognizing similarities..."
+msgstr "認識相似之處..."
+
+msgid "Brain interpreting information..."
+msgstr "大腦解讀信息..."
+
+msgid "Working nervous system..."
+msgstr "工作神經系統..."
+
+msgid "Identifying parts of the body..."
+msgstr "辨認身體部位..."
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗嗎？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Healthy Body review,"
+msgstr "歡迎來到「健康的身體」單元,"
+
+# 2
+msgid "Thinking about... a healthy body"
+msgstr "想一想...關於「健康的身體」"
+
+msgid ""
+"A healthy body... think about it. Eating right, exercising everyday, "
+"brushing your teeth, getting your shots, taking care of your skin, getting "
+"enough sleep, keeping your bowels moving, drinking enough water, staying "
+"away from harmful substances... there is a lot that we can and should do to "
+"keep our body healthy. How much time do you spend each day keeping your body "
+"healthy?"
+msgstr ""
+"一個健康的身體...我們來想一想！正確的飲食、每天運動、刷牙、打針、保養皮膚、充"
+"足的睡眠、保持你的腸子動、喝足夠的水、遠離有害物質...還有很多讓身體健康能做且"
+"應做的事。你每天花多少時間保持你的身體健康？"
+
+# 3
+msgid "Checking what you know... about a healthy body"
+msgstr "檢查你所知道的...關於健康的身體"
+
+msgid ""
+"Choose <span class='blink'>true</span> or <span class='blink'>false</span> "
+"for each of the following statements and decide whether these ideas about "
+"the human body are fact or myth."
+msgstr ""
+"你覺得下面四個敘述是事實還是沒有根據的說法呢？請點選<span class='blink'>事實"
+"</span>或<span class='blink'>沒有根據的說法</span>。"
+
+msgid "It is safe to follow the 5-second rule for dropped food."
+msgstr "食物掉地5秒內撿起來吃，仍是安全的。"
+
+msgid "True"
+msgstr "事實"
+
+msgid "False"
+msgstr "沒有根據的說法"
+
+msgid "Eating after dark causes weight gain."
+msgstr "天黑後進食容易導致體重增加。"
+
+msgid "Cracking your knuckles can cause arthritis."
+msgstr "折指關節可引起關節炎。"
+
+msgid "Soda is bad for your kidneys."
+msgstr "汽水對你的腎臟不好。"
+
+msgid ""
+"The acid in soda is hard on your kidneys. It is what you eat (and how many "
+"calories it contains) not when you eat it. Cracking your knuckles is a bad "
+"habit that causes hand swelling and less grip strength. It is not safe to "
+"eat anything off the floor."
+msgstr ""
+"汽水中的酸對腎臟是負擔。體重增加是和你吃的東西（還有它包含多少卡路里）有關，"
+"而不是你和你什麼時候吃有關。折指關節雖不一定會導致關節炎，但這是一種不好的習"
+"慣，會導致手腫、握力變小。還有，吃掉在地上的食物是不安全的。"
+
+msgid ""
+"If you got these correct, you are on the right track to knowing how to keep "
+"your body healthy. You will see how all of what your body does is connected. "
+"Any part that stops working affects your whole system."
+msgstr ""
+"如果這些你都答對，那麼對如何保持身體健康來說，你是在正確的方向上。接下來，你"
+"將會看到所有身體的部位如何關聯，身體的任何部分停止工作都會影響你的整個系統。"
+
+# 4
+msgid "Reviewing core ideas... about a healthy body"
+msgstr "回顧核心觀念...關於「健康的身體」"
+
+msgid ""
+"The human body is made up of trillions of independent <span "
+"class='key'>cells</span>. Each cell is alive; it requires resources, and "
+"produces waste. We have hundreds of different types of cell, each "
+"specialized for its own functions. When many copies of the same cell type "
+"are gathered together, they are known as <span class='key'>tissue</span>. "
+"The body also contains many types of tissue. Some examples of cell and "
+"tissue types include muscle, bone, nervous, and skin."
+msgstr ""
+"人體是由萬億個獨立<span class='key'>細胞</span>組成。每個細胞都是活的：它需要"
+"養分，並會產生廢物。我們有數百種不同類型的細胞，每一種都有各自的功能。當相同"
+"類型的「細胞」聚集在一起，這就被稱為是<span class='key'>組織</span>，組織也有"
+"許多類型。一些細胞和組織例子，包括：肌肉、骨骼、神經和皮膚等。"
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together."
+msgstr ""
+"<span class='key'>器官</span>是由一群「組織」結合在一起，以執行身體的某一項主"
+"要功能。而當我們談論像循環或消化等等系統時，「系統」，實際上就是一群彼此協同"
+"工作的「器官」集結而成。"
+
+msgid ""
+"Organs work together to make up a <span class='key'>body system</span>. Our "
+"skeleton supports us. Our muscles move us. Our skin and hair protect us. Our "
+"digestive system takes nutrients from our food. Our nervous system transmits "
+"information around our bodies. Our respiratory system brings in the oxygen "
+"we need to survive. Our circulatory system pumps blood. Our immune system "
+"fights disease. And our reproductive system produces the babies that keep "
+"our families going from generation to generation."
+msgstr ""
+"一些「器官」共同工作，就形成了人體的各種<span class='key'>身體「系統」</"
+"span>。例如，我們的骨骼系統支撐著我們、我們的肌肉使我們能夠運動、我們的皮膚和"
+"頭髮保護我們、我們的消化系統從食物獲得我們需要的養分、我們的神經系統傳輸我們"
+"的身體各部份的信息、我們的呼吸系統帶來了我們賴以生存的氧氣、我們的循環系統輸"
+"送血液、我們的免疫系統讓我們能和疾病對抗、我們的生殖系統讓我們繁衍下一代。"
+
+# 5
+msgid "Question A. Choose the <span class='blink'>correct</span> statement."
+msgstr "問題A. 請選擇正確的敘述。"
+
+msgid "Cells are made up of tissues."
+msgstr "細胞是由組織所組成的。"
+
+msgid "Tissues are made up of cells."
+msgstr "組織是由細胞組成的。"
+
+msgid "Cells are made up of organs."
+msgstr "細胞是由器官組成的。"
+
+msgid "All living things are made up of two or more cells."
+msgstr "所有的生物都是兩個或多個細胞組成。"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"請向上或向下翻轉方盒子，以選擇你的答案。(點擊、按住並滑動鼠標向上或向下)"
+
+msgid "No, tissues are made up of cells."
+msgstr "不，組織是由細胞組成的。"
+
+msgid "Correct, tissues are made up of cells."
+msgstr "正確的，組織是由細胞組成的。"
+
+msgid "No, organs are made up of tissues (which are made up of cells)."
+msgstr "不，器官是由組織構成的；而組織是由細胞構成。"
+
+msgid "No, there are single cell organisms."
+msgstr "不，還有單細胞所構成的生物喔！"
+
+# 6
+msgid "More core ideas... about a healthy body"
+msgstr "更多核心觀念...關於「健康的身體」"
+
+msgid ""
+"Human beings are living things, made of cells. They use energy to move, "
+"grow, and respond to stimuli. They must be able to breathe, circulate blood, "
+"and reproduce. That's a lot for one body to do. It all works because the "
+"body's cells all work together. Each cell type has special jobs and chores. "
+"Similar cells are organized into tissues. Cells with the same function "
+"combine to form organs. If one of them stops working, the body can't run "
+"smoothly. Let's take a closer look at a few organs."
+msgstr ""
+"人類是有生命的生物，由細胞組成。人類需使用能源來移動、成長、並對刺激作出反"
+"應；人類也必須能進行呼吸，循環血液與生殖。一個身體要做好多的工作，但因體內的"
+"細胞都通力合作，所以所有工作都能順利運作。每種細胞類型有著特定的工作和任務。"
+"相似的細胞形成「組織」，幾種具有相同的功能的不同組織結合起來就形成「器官」。"
+"如果人體的其中一個器官停止工作，身體就不能順暢運行。以下讓我們來多認識一些器"
+"官。[請點選左邊選項，就可看到右邊器官的圖]"
+
+msgid "Move"
+msgstr "運動"
+
+msgid "Respire (Exchange of gases)"
+msgstr "呼吸（交換氣體）"
+
+msgid "Sense and respond to change"
+msgstr "感覺並對外界改變進行反應"
+
+msgid "Nutrition for energy"
+msgstr "獲得營養以產生能量"
+
+msgid "Excrete waste"
+msgstr "排泄廢物"
+
+msgid "Reproduce"
+msgstr "繁衍"
+
+msgid "Grow and develop"
+msgstr "長大並成長"
+
+msgid ""
+"Your heart, lungs, kidneys, and intestines are all important organs. But "
+"they are not the only organs that help keep our body healthy. Skin is the "
+"human body's largest organ. It protects the bones and organs inside our "
+"bodies, as well as protecting our bodies from outside diseases. Skin allows "
+"you to feel and react to heat and cold and regulates your body heat. Your "
+"nose is an organ that helps you breathe. Even the hairs in your nose have "
+"important functions. They add moisture, adjust air temperature, and filter "
+"out germs, dust, and even insects. The nervous system receives information "
+"from other body systems. That information is processed in the brain, which "
+"sometimes sends action signals back to other organ systems."
+msgstr ""
+"你的心、肺、腎和腸都是重要的器官，但不是只有這些器官使我們身體健康地運作。皮"
+"膚，是人體最大的器官，它可以保護骨骼和我們身體裡的器官並保護我們免於外來的疾"
+"病，皮膚還可以讓你察覺冷熱並進行反應調節體溫。鼻子，也是一個器官，可以幫助你"
+"呼吸。即使是鼻毛也有重要的作用，它能增加溼度、調節空氣溫度、過濾掉細菌灰塵和"
+"昆蟲。當身體接收到外界的信息，這信息在大腦中處理後，有時會發出行動信號給其它"
+"器官進行必要的反應。"
+
+# 7
+msgid ""
+"Question A. Click on the statement that is <span class='blink'>not correct</"
+"span>."
+msgstr "問題A. 點選<span class='blink'>不正確 的敘述</span>。"
+
+msgid "The human body is made up of complicated, interrelated systems."
+msgstr "人體是由複雜的、相互關聯的系統組成。"
+
+msgid "For every job the body has, there is a structure that will do the job."
+msgstr "身體的每一項工作，都有一個身體的結構可以進行這項工作。"
+
+msgid ""
+"If one body system stops working, the body just keeps going and working fine."
+msgstr "縱使人體內的系統停止工作，身體還是能維持功能並運作良好。"
+
+msgid "Organs are made up of tissues."
+msgstr "器官是由組織組成。"
+
+msgid ""
+"Question B. The systems in the human body are interrelated and "
+"interconnected. Which of the following statements are <span "
+"class='blink'>true</span>?"
+msgstr ""
+"問題B. 人體的系統之間都互有關係且相互連結。請問以下哪項敘述是<span "
+"class='blink'>正確的</span>？"
+
+msgid "The systems work separately from one another."
+msgstr "這些系統都是獨立工作。"
+
+msgid "The systems depend on one another."
+msgstr "系統之間彼此依賴。"
+
+msgid "The systems are connected, but too complex to understand."
+msgstr "系統之間是相互連結的，但過於複雜，難於理解。"
+
+msgid "When one system works, the other does not."
+msgstr "當一個系統工作時，其它的系統就停止工作。"
+
+msgid ""
+"No. This statement is correct. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"你選錯喔，這種說法是正確的！如果其中一個系統停止工作，身體就不能順暢運作了。"
+
+msgid ""
+"Yes. This statement is false. If one of the systems stop working, the body "
+"can't run smoothly."
+msgstr ""
+"你選對了，這種說法是錯誤的！如果其中一個系統停止工作，身體就不能順暢運作了。"
+
+msgid "Sorry, that statement is true. Organs are made of tissues."
+msgstr "不是這個選項，這說法是正確的。器官是由組織所構成的。"
+
+msgid ""
+"No, the body systems are connected in many ways and depend on one another."
+msgstr "不對喔！身體各系統都相互關聯且在許多方面互相依賴。"
+
+msgid ""
+"Yes, the body systems are connected in many ways and depend on one another."
+msgstr "是的，身體各系統都相互關聯且在許多方面互相依賴。"
+
+# 8
+msgid ""
+"Your brain is in charge of most everything that you do. It doesn't work "
+"alone though. The brain is part of a system, the <span class='key'>nervous "
+"system</span>, one that works with the spinal cord and lots of nerves. "
+"Different kinds of nerves have different functions. <span "
+"class='key'>Sensory nerves</span> help us gather information about the world "
+"around us. When we see, hear, taste, touch, or smell, our sensory nerves "
+"carry that information to the brain. After the brain processes the "
+"information, <span class='key'>motor nerves</span> have the responsibility "
+"of passing on the messages the brain sends to the muscles all over the body."
+msgstr ""
+"大腦負責你大部分的行為。它不是單獨工作，大腦和脊髓、神經組成<span "
+"class='key'>神經系統</span>共同運作，所以大腦是神經系統的一部分。不同類型的神"
+"經具有不同的功能，例如，<span class='key'>感覺神經</span>幫助我們收集周遭世界"
+"的信息，當我們看到、聽到、嚐到、摸到和聞到時，我們的感覺神經將這些信息傳遞到"
+"大腦，大腦處理後，<span class='key'>運動神經</span>就負責將大腦發送的指令傳到"
+"遍布全身的肌肉上。[圖：大腦可以接受並送出信息]"
+
+msgid ""
+"That might have been a lot of information for your brain to process. Let's "
+"say it in another way. We receive different types of information through our "
+"senses, then process them in our brain, and then our bodies respond to the "
+"information in different ways. For example, while we are walking and we see "
+"something in front of us, we move over so we do not bump into it. Let's look "
+"at that in slow motion. First, our eyes receive the information that an "
+"object may be in our way. Our brain processes this information and tells the "
+"body how to react and what to do about this possible danger. In this case it "
+"orders our legs to continue moving, but on a different path."
+msgstr ""
+"經常有很大量的訊息，需要我們的大腦去處理的。換個方式來說明吧！我們藉由感官來"
+"接收不同類型的信息後，信息傳到大腦中處理，隨後我們的身體才以不同的方式對信息"
+"做出反應。例如，當我們走路時，當我們看到有個東西在前面，我們很自然會閃過去以"
+"免撞到。來，讓我們用慢動作再來想一次這一整個過程！首先，我們的眼睛接收前方物"
+"體可能會擋到路的信息，然後大腦處理這些信息並告訴身體如何反應以及如何去處理這"
+"一個可能的危險；這時，大腦才命令我們的雙腿繼續移動，但要改變前進的路徑。"
+
+# 9
+msgid ""
+"Question A. Click on the <span class='red blink'>BEST</span> statement about "
+"the nervous system."
+msgstr "問題A. 請點選有關神經系統<span class='red blink'>最恰當</span>的敘述。"
+
+msgid "The nervous system consists of the brain and the spinal cord."
+msgstr "神經系統包括腦和脊髓。"
+
+msgid "Sensory nerves along with the brain make up the nervous system."
+msgstr "感覺神經和大腦組成神經系統。"
+
+msgid ""
+"The nervous system consists of the brain, spinal cord, and a complex network "
+"of nerves."
+msgstr "神經系統是包含腦、脊髓和神經的複雜網絡。"
+
+msgid ""
+"Question B. Put the following steps of how our nervous system basically "
+"works in the correct order by dragging the items  up or down."
+msgstr "問題B. 請上下拖拉以下各步驟，以正確的排列出神經系統運作的方式。"
+
+msgid ""
+"Sensory nerve cells take information from the eyes, ears, nose, tongue, and "
+"skin to the brain."
+msgstr "感覺神經細胞從眼、耳、鼻、舌和皮膚獲取信息，然後傳送到大腦。"
+
+msgid ""
+"Motor nerve cells carry messages away from the brain and back to the rest of "
+"the body."
+msgstr "運動神經細胞將大腦送來的信息傳遞到身體的各部分。"
+
+msgid ""
+"In the brain, the nerve cells relay information to each other through a "
+"complex process."
+msgstr "在大腦中，神經細胞透過一個複雜的過程，使信息在彼此間傳遞。"
+
+msgid ""
+"Not quite, the complex network of nerves is also part of the nervous system."
+msgstr "不大對喔！還有，複雜的神經網絡也是神經系統的一部分喔。"
+
+msgid "Not quite, the spinal cord is also part of the nervous system."
+msgstr "不太對喔！還有，脊髓也是神經系統的一部分喔。"
+
+msgid ""
+"Correct! The brain, spinal cord, and complex network of nerves make up the "
+"nervous system."
+msgstr "正確！大腦、脊髓和複雜的神經網絡，構成了神經系統。"
+
+msgid ""
+"Good job! Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"答的好！我們的神經細胞把信息傳遞到大腦，然後大腦給出了一個命令，隨後這信息被"
+"傳送到身體各部位。"
+
+msgid ""
+"Not quite. Our nerve cells take information to the brain, where it gives a "
+"command there, then the message is carried to the body."
+msgstr ""
+"不完全是。我們的神經細胞把信息傳遞到大腦，然後大腦給出了一個命令，隨後這信息"
+"被傳送到身體各部位。"
+
+# 10
+msgid "Using what you know... about a healthy body... to solve a problem"
+msgstr "利用你知道的...關於「健康的身體」...解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"You are a physician giving a lecture to a sixth grade class that just "
+"finished a unit on health in their science class. The teacher has invited "
+"you to speak for these students."
+msgstr ""
+"你是一個醫師，現在有一位老師邀請你來給一班剛剛在自然課中上過健康單元的小學六"
+"年級學生，作一個講課。"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"Discuss three health issues students face at school. Offer solutions to a "
+"healthier lifestyle. Even though your presentation at school will be half an "
+"hour, outline the health problems and solutions you plan to present to the "
+"students in the text box provided below."
+msgstr ""
+"請你，提出學生在學校會面臨的三個和健康有關的問題，並分別提出解決方案使得學生"
+"能有更健康的生活方式。雖然你在學校的演講大約有半小時，但你只要先在下面方框"
+"內，寫下你打算告訴學生的健康問題與解決方式。[建議用綱要式(例如，列出第一、"
+"二、三的方式)來說明]"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+# 11
+msgid "Summarizing core ideas... about a healthy body"
+msgstr "總結核心觀念...關於「健康的身體」"
+
+msgid ""
+"<span class='key'>Cells</span> are organized into <span class='key'>tissues</"
+"span> which perform special tasks. The tissues, then, are organized into "
+"<span class='key'>organs</span> which each take care of one or more "
+"functions. The organs and systems all work to perform the body's functions: "
+"use energy to move and grow, respond to stimuli, reproduce, and breathe. "
+"Every major function required of living things has an organ system to "
+"perform it. The <span class='key'>nervous system</span> makes decisions and "
+"controls the other systems. To do this, we receive different types of "
+"information through our senses, then process them in our brain (part of the "
+"<span class='key'>nervous system</span>), and then our bodies respond to the "
+"information in different ways."
+msgstr ""
+"相似的<span class='key'>細胞</span>在一起成為<span class='key'>組織</span>以"
+"執行特定的任務。數個組織可進而形成為<span class='key'>器官</span>，器官可以執"
+"行單一或者多種的功能。器官和系統都在執行身體的某些功能，例如：運用能量來移動"
+"和生長、對刺激作出反應、生殖和呼吸等。生物生存所需的主要功能都有器官系統來執"
+"行它。<span class='key'>神經系統</span>可以進行決策並控制其它系統，這是透過下"
+"列步驟來完成的：我們先藉由感官接收不同類型的信息，然後在大腦（是<span "
+"class='key'>神經系統</span>的一部分）處理信息，隨後我們的身體以不同的方式來對"
+"信息進行反應。"
+
+# 12
+msgid "Reviewing key vocabulary related to... a healthy body"
+msgstr "複習關鍵詞彙..關於「.健康的身體」"
+
+msgid "Tissue"
+msgstr "組織"
+
+msgid ""
+"When many copies of the same cell type are gathered together, they are known "
+"as tissue. The body also contains many types of tissue. Some examples of "
+"cell and tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"「組織」，是由許多相同類型的「細胞」聚集在一起而組成的，組織也有許多類型。一"
+"些細胞和組織例子，包括：肌肉、骨骼、神經和皮膚等。"
+
+msgid "Organ"
+msgstr "器官"
+
+msgid ""
+"Organs are groups of tissues combined together to perform the body's major "
+"functions. When we talk about such systems as the circulatory or digestive "
+"system, we are actually talking about groups of organs working together."
+msgstr ""
+"器官，是由一群「組織」結合在一起，以執行身體的某一項主要功能。而當我們談論像"
+"循環或消化等等系統時，「系統」，實際上就是一群彼此協同工作的「器官」集結而"
+"成。"
+
+msgid "Body system"
+msgstr "身體系統"
+
+msgid ""
+"Organs work together to make up a body system. Our skeleton supports us. Our "
+"muscles move us. Our skin and hair protect us. Our digestive system takes "
+"nutrients from our food. Our nervous system transmits information around our "
+"bodies. Our respiratory system brings in the oxygen we need to survive. Our "
+"circulatory system pumps blood. Our immune system fights disease. And our "
+"reproductive system produces the babies that keep our families going from "
+"generation to generation. All these are body systems."
+msgstr ""
+"人體的身體「系統」是由一些「器官」共同工作所形成的。例如，我們的骨骼系統支撐"
+"我們、我們的肌肉使我們能夠運動、我們的皮膚和頭髮保護我們、我們的消化系統從食"
+"物獲得我們需要的養分、我們的神經系統傳輸我們的身體各部份的信息、我們的呼吸系"
+"統帶來了我們賴以生存的氧氣、我們的循環系統輸送血液、我們的免疫系統讓我們能和"
+"疾病對抗、我們的生殖系統讓我們繁衍下一代。這些都是身體的「系統」。"
+
+msgid "Nervous system"
+msgstr "神經系統"
+
+msgid ""
+"Our nervous system transmits information around our bodies. The brain and "
+"spinal cords are the two primary parts of the nervous system, working with "
+"lots of nerves."
+msgstr ""
+"「神經系統」，負責我們全身的信息傳遞工作。腦和脊髓是神經系統的兩個主要部份，"
+"但是，這兩者還需要和很多的神經細胞，一起作用。"
+
+msgid "Sensory nerves"
+msgstr "感覺神經"
+
+msgid ""
+"Sensory nerves help us gather information about the world around us. When we "
+"use our senses to see, hear, taste, touch, and smell; our sensory nerves "
+"have the job to take that information to the brain."
+msgstr ""
+"感覺神經幫助我們收集有關我們周圍的世界的信息。當我們用我們的感官視覺，聽覺，"
+"味覺，觸覺和嗅覺;我們的感覺神經將信息傳遞到大腦。"
+
+msgid "Motor nerves"
+msgstr "運動神經"
+
+msgid ""
+"After the brain processes information received through sensory nerves, motor "
+"nerves have the responsibility of passing on the messages the brain sends to "
+"the muscles all over the body."
+msgstr ""
+"大腦處理過從「感覺細胞」傳來的訊息後，「運動神經細胞」就負責將大腦發送的指令"
+"傳到遍布全身的肌肉上。"
+
+# 13
+msgid "Checking what you now know... about a healthy body"
+msgstr "看看你現在知道哪些...關於「健康的身體」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# 14
+msgid "Click on the correct description of the body systems below."
+msgstr "點選下面身體系統的正確描述。"
+
+msgid "Our respiratory system brings in the oxygen."
+msgstr "我們的呼吸系統帶來氧氣。"
+
+msgid "Our reproductive system pumps blood."
+msgstr "我們的生殖系統輸送血液。"
+
+msgid "Our digestive system fights disease."
+msgstr "我們的消化系統抵抗疾病。"
+
+msgid "Our circulatory system produces offspring."
+msgstr "我們的循環系統繁衍後代。"
+
+msgid "Yes, our respiratory system brings in the oxygen."
+msgstr "是的，我們的呼吸系統帶來氧氣。"
+
+msgid "No. Our reproductive system produces offspring."
+msgstr "不對喔！我們的生殖系統繁衍後代。"
+
+msgid "No. Our digestive system takes nutrients from our food."
+msgstr "不對喔！我們的消化系統從食物攝取需要的營養物質。"
+
+msgid "Not quite. Our circulatory system pumps blood."
+msgstr "不完全是。我們的循環系統輸送血液。"
+
+# 15
+msgid ""
+"Take a look at the two pictures below and determine what they have in common."
+msgstr "以下這兩個圖片，請問它們有什麼共通之處。"
+
+msgid "They are both cells."
+msgstr "它們都是細胞。"
+
+msgid "They are both tissues."
+msgstr "它们都是组织"
+
+msgid "They are both organs."
+msgstr "它們都是器官。"
+
+msgid "They are both body systems."
+msgstr "它們都是身體系統。"
+
+msgid "Yes, the eye and liver are both organs."
+msgstr "是的，眼睛和肝臟都是器官。"
+
+msgid "No, the eye and liver are both organs."
+msgstr "不，眼睛和肝臟都是器官。"
+
+# 16
+msgid "Choose the correct statement about the brain."
+msgstr "請選擇關於大腦的正確的敘述。"
+
+msgid "The brain controls everything the body does."
+msgstr "大腦控制身體的一切。"
+
+msgid ""
+"Some activities, like breathing and heart rate, are not controlled by the "
+"brain."
+msgstr "有些活動，如呼吸和心跳速率，並非由大腦控制的。"
+
+msgid "The nervous system controls all body functions."
+msgstr "神經系統控制所有的身體功能。"
+
+msgid ""
+"Some actions, like pulling your hand away from hot water, are not controlled "
+"by the brain."
+msgstr "有些動作──像手碰到很燙的水時會突然抽回，這並不是由大腦控制的。"
+
+msgid ""
+"Not quite, our brain controls almost everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"不完全對喔！我們的大腦雖然幾乎能控制我們所做一切；但它並不會控制我們的「反射"
+"動作」，透過反射動作，我們才能更快的避開傷害、確保我們能保持安全。"
+
+msgid "No, the brain controls our breathing and heartbeat."
+msgstr "不對喔！大腦也能夠控制我們的呼吸和心跳。"
+
+msgid ""
+"Not quite, our brain controls “almost” everything we do. It does not control "
+"our reflexes to make sure we stay safe and out of harm's way."
+msgstr ""
+"不完全對喔！我們的大腦雖然幾乎能控制我們所做一切；但它並不會控制我們的「反射"
+"動作」，透過反射動作，我們才能更快的避開傷害、確保我們能保持安全。"
+
+msgid ""
+"Correct! The reflex actions are taken care of by the spinal cord. The "
+"nervous system controls these reflexes, but not the brain."
+msgstr ""
+"正確！反射動作是由脊髓負責。神經系統會控制這些反射，但不是由神經系統內的大腦"
+"來控制。"
+
+# 17
+msgid "The nervous system does not depend upon which of the following?"
+msgstr "神經系統並不依賴於下列哪項？"
+
+msgid "The circulatory system"
+msgstr "循環系統"
+
+msgid "The skeletal system"
+msgstr "骨骼系統"
+
+msgid "The respiratory system"
+msgstr "呼吸系統"
+
+msgid "It does depend on all of the systems above."
+msgstr "其實它都會依賴於前面的幾個系統。"
+
+msgid "Sorry... the brain needs oxygen from blood."
+msgstr "不對喔...大腦也需要依賴從血液中的氧氣。"
+
+msgid "Nope. The brain is protected by the skull."
+msgstr "不對喔！大腦也是要依賴顱骨保護，顱骨是骨骼系統的一部分。"
+
+msgid "Don't think so... the brain needs the oxygen gathered by the lungs."
+msgstr "不對喔...大腦也需要依賴藉由肺部收集的氧氣。"
+
+msgid ""
+"You go it! That was a trick question... the nervous system needs all of "
+"these."
+msgstr ""
+"你答對了！這是一個有趣的問題...神經系統需要依賴所有這些包括循環、骨骼、呼吸等"
+"等系統。"
+
+# 18
+msgid ""
+"Look at the table below and fill in the blanks by dragging the terms under "
+"the illustrations."
+msgstr "請看下面的圖表，並請拖動適當的詞彙填入相對的圖下方。"
+
+msgid "Cell"
+msgstr "細胞"
+
+msgid "Body System"
+msgstr "身體系統"
+
+msgid "Reset"
+msgstr "全部清除"
+
+msgid ""
+"Good job! Cells make up tissue, tissue makes up organs, organs make up body "
+"systems.  Altogether they make the body run."
+msgstr ""
+"答的好！細胞構成組織、組織構成器官、器官組成身體系統。總之，它們使得身體能夠"
+"運行。"
+
+msgid ""
+"Not quite... Cells make up tissue, tissue makes up organs, organs make up "
+"body systems.  Altogether they make the body run."
+msgstr ""
+"不大對喔...細胞構成組織、組織構成器官、器官組成身體系統。總之，它們使得身體能"
+"夠運行。"
+
+# 19
+msgid "Choose the correct statement."
+msgstr "選擇正確的敘述。"
+
+msgid "Organs may be made of a variety of different tissues."
+msgstr "器官可以由各種不同的組織所組成。"
+
+msgid "Each organ is made of a unique tissue type."
+msgstr "各器官內都是一種獨特的組織類型。"
+
+msgid "Organ systems consist of only a single type of tissue."
+msgstr "系統只包括一個單一類型的組織。"
+
+msgid "Cells are made of many different tissue types."
+msgstr "細胞是由許多不同的組織所構成。"
+
+msgid "That's right! organs may be made of many tissues."
+msgstr "這是正確的！器官可以由許多組織組成。"
+
+msgid "Read carefully... organs may be made of more than one tissue."
+msgstr "請仔細閱讀喔！...器官是可以由一個以上的組織來組成的。"
+
+msgid "No... systems are made of organs; organs may be made of many tissues."
+msgstr "不對喔！系統是由器官組成；器官可以由許多組織組成。"
+
+msgid "The exact opposite... tissues are made of cells..."
+msgstr "正好相反...組織是由細胞組成的..."
+
+# 20
+msgid "Congratulations, "
+msgstr "恭喜您，"
+
+msgid "You've completed the Healthy Body review."
+msgstr "你已經完成了「健康的身體」單元。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來看看你對在此單元中“小練習”和“小測驗”的表現。"

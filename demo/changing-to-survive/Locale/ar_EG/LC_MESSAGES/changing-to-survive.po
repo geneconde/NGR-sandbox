@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Changing to Survive\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "إختبار قصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار قصير رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr ""
+"دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر فوق، وحرك الفأرة صعودا وهبوطا لتدوير الصندوق وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك هي"
+
+msgid "Close me!"
+msgstr "أغلقني!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ طباعة إجابتك..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need "
+"to study."
+msgstr "إجابة الأسئلة القصيرة الستة ستعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وللأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Go Back to Dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "أمستعد لتقويمك السريع الأخير؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "أمستعد لسؤالك القصير الأخير؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Changing to Survive"
+msgstr "التغير من أجل البقاء"
+
+msgid "Welcome to the Changing to Survive module, "
+msgstr "أهلا بك في مراجعة التفير من أجل البقاء"
+
+# 2
+msgid "Thinking about... changing to survive"
+msgstr "فكر ب ... التغير من أجل البقاء"
+
+msgid ""
+"Have you ever heard an older person tell you about days gone by? \"All of this area used to be a farm; there were "
+"no skyscrapers when I was growing up.\" The location has changed so much over the years that a person can barely "
+"tell it is the same place."
+msgstr ""
+"هل سبق لك أن سمعت شخص من كبار السن يخبرك عن الأيام التي مرت ؟ كل هذه المنطقة كانت في الماضي مزرعة؛ لم تكن هناك "
+"ناطحات سحاب عندما كنت صغيراً.  لقد تغير المكان كثيرا على مر السنين حيث أن الشخص بالكاد  يمكن أن يقول أن هذا هو نفس "
+"المكان."
+
+msgid ""
+"Think about the earth, do you think it has changed over billions of years? What could have caused some of those "
+"changes? What about the life forms on earth? Could they have changed as well?"
+msgstr ""
+"فكر في الأرض، هل تعتقد أنها قد تغيرت على مدى مليارات السنين؟ ماذا يمكن أن تسبب بعض تلك التغيرات؟ ماذا عن أشكال "
+"الحياة على الأرض؟ هل يمكن أن تكون قد تغيرت أيضا؟"
+
+# 3
+msgid "Checking what you know... about changing to survive"
+msgstr "تفحص ما تعرفه ... عن التغير من أجل البقاء"
+
+msgid ""
+"Click on <span class='red blink'>all</span> the changes in the left column most probably determined by events in "
+"the right column."
+msgstr ""
+"انقر على <span class='red blink'> جميع </span>  التغيرات في العمود الأيسر ويمكن أن تتحدد بأحداث في العمود الأيمن."
+
+msgid "1. Massive volcanic eruption"
+msgstr "1. انفجار بركاني هائل"
+
+msgid "Local extinction of many nearby populations of plants and animals."
+msgstr "الانقراض المحلي للعديد من النباتات و الحيوانات الموجودة في الجوار."
+
+msgid "Rapid population growth in plants and animals living near the volcano."
+msgstr "النمو السكاني السريع في أعداد النباتات و الحيوانات التي تعيش بالقرب من البركان"
+
+msgid "Changes in living conditions in areas affected by the eruption."
+msgstr "تتأثر التغيرات في ظروف الحياة في المنطقة بالانفجار البركاني"
+
+msgid "2. Expansion of cities into the surrounding areas"
+msgstr "2. توسع المدن الى داخل المناطق المحيطة"
+
+msgid "Increase in plant and animal habitat."
+msgstr "زيادة في مساكن النباتات و الحيوانات "
+
+msgid "Decrease in plant and animal habitat."
+msgstr "الانخفاض في مساكن النباتات و الحيوانات."
+
+msgid "Increase in local species extinction."
+msgstr "الزيادة في انقراض الأنواع المحلية"
+
+msgid ""
+"The blast from a massive volcanic eruption and its after-effects will have profound local impacts. The nearby "
+"plants and animals will have a tough time surviving at all. Dramatic changes in living conditions will occur in "
+"areas near the eruption."
+msgstr ""
+"شدة الانفجار من البركان وآثاره اللاحقة سيكون لها تأثيرات  محلية عميقة .  ستحظى النباتات والحيوانات المجاورة بوقت "
+"صعب  لتبقى على قيد الحياة .  ستحدث تغييرات جذرية في الظروف المعيشية في المناطق القريبة من الانفجار."
+
+msgid ""
+"Expansion of cities into the surrounding areas will lead to a decrease in plant and animal habitat and increase in "
+"local species extinction."
+msgstr " توسع المدن الى المناطق المحيطة بها سيؤدي إلى انخفاض في النبات والحيوان و زيادة في انقراض الأنواع المحلية ."
+
+msgid "Flowing lava..."
+msgstr "تدفق الحمم البركانية"
+
+# 4
+msgid "Reviewing big ideas... about changing to survive"
+msgstr "مراجعة الأفكار الرئيسية حول... التغير من أجر البقاء"
+
+msgid ""
+"The world as we know it today is changing, and it has been changing for a long time. It's often hard to accept the "
+"changes that have occurred in Earth's history. We find fish fossils thousands of miles from any modern ocean, and "
+"thousands of feet up on the tops of mountains. We find the remains of tropical animals in areas that endure harsh "
+"winters. Observations like these ammonites found in the Himalayas are tough to put together with the world we know "
+"each day."
+msgstr ""
+"العالم كما نعرفه اليوم يتغير، و قد تغير لفترة طويلة، وغالبا ما يكون من الصعب قبول التغييرات التي حدثت في تاريخ "
+"الأرض.  نجد أحافير الأسماك آلاف الأميال من أي محيط حديث، وآلاف الأقدام  على قمم الجبال.  ونجد بقايا حيوانات "
+"استوائية في المناطق التي تتحمل الشتاء القاسي. احدى هذه الملاحظات هذه الصدفات المتحجرة التي  وجدت في جبال "
+"الهيمالايا من الصعب وضعها جنبا إلى جنب مع العالم الذي نعرفه في كل يوم ."
+
+msgid "Fossil of prehistoric fish"
+msgstr "احفورة أسماك ما قبل التاريخ"
+
+msgid "Fish fossil"
+msgstr "أحفورة سمكة"
+
+msgid "Ammonite"
+msgstr "الصدف المتحجر"
+
+msgid "Fossilized ammonite"
+msgstr "صدفات متحجرة"
+
+msgid ""
+"The key is that Earth is very, very old. A good estimate of the age of the earth is 4.5 billion years. Most of "
+"that time, Earth was a planet without life. Only during the past 500 million years has life emerged and evolved "
+"into the variety of plants and animals we see today."
+msgstr ""
+"المفتاح هو أن الأرض قديمة جدا، جدا.  تقدير جيد لعمر الأرض هو 4.5 مليار سنة، وكان معظم ذلك الوقت كوكب الأرض دون "
+"حياة.  فقط خلال ال 4.5 بليون سنة الماضية، ظهرت الحياة وتطورت في مجموعة متنوعة من النباتات والحيوانات التي نراها "
+"اليوم ."
+
+msgid ""
+"<span class='key'>Fossils</span> tell us things about how life has changed from the simple organisms that "
+"inhabited our planet hundreds of millions of years ago, to the complex array of life we see today. They show us "
+"life forms no longer present on Earth. Fossils tell us what animals lived in which parts of the world, and can "
+"even give us solid clues about how they moved around as conditions changed. For example, the structures of their "
+"backs and hips let us know whether they walked on four legs, two legs, swam, or even flew."
+msgstr ""
+" <span class='key'>الأحافير</span> تخبرنا عن كيف أن الحياة قد تغيرت من الكائنات الحية البسيطة التي سكنت  كوكبنا  "
+"مئات ملايين السنين الماضية، إلى مجموعة معقدة من الحياة التي نراها اليوم، وهي تبين لنا أشكال الحياة التي لم تعد "
+"موجودة على الأرض.  الأحافير تخبرنا أي الحيوانات عاشت في أي من أجزاء العالم، وحتى يمكن أن تعطينا أدلة صادقة حول "
+"كيفية تنقلها عندما تغيرت الظروف.   وعلى سبيل المثال، هياكل ظهورهم وشكل الورك عندهم تعلمنا سواء كانت تمشي على اربع "
+"أرجل،  أو ساقين، أو تسبح، أو حتى تطير ."
+
+msgid ""
+"In 2004, the fossil remains of a half-fish, half-amphibian were found. This fossil confirmed theories about how "
+"land-dwelling four-limbed animals evolved from their fish ancestors. The animal shown in the middle is an example "
+"that bridges the gap between two quite different animals."
+msgstr ""
+"في عام 2004، بقيت أحفورة  لنصف سمكة، تم العثور على نصف برمائية.  و أكدت هذه الأحفورة النظريات حول كيفية تطور "
+"الحيوانات ذات الأطراف الأربعة التي تعيش في الأرض من أجدادهم الأسماك.  الحيوان  المبين في المنتصف هو المثال الذي "
+"يسد الفجوة بين حيوانين مختلفين تماما ."
+
+msgid ""
+"We often think of fossils as only belonging to extinct types of plants and animals. In many cases, modern versions "
+"of fossil species still exist. Limestone is a type of rock made when the shells of ocean shellfish fill up with "
+"sand and mud after they die. The types of fossils found in limestone found thousands of miles from any ocean are "
+"very similar to the corals and shellfish living in oceans today. When we combine evidence from many fossils from "
+"various locations, we can even come up with explanations for some of the dramatic events of Earth history."
+msgstr ""
+"نحن غالبا ما نعتقد أن الأحافير تنتمي فقط إلى أنواع منقرضة من النباتات والحيوانات.  وفي كثير من الحالات، النسخ "
+"الحديثة من الأنواع الأحفورية لا تزال موجودة.  الحجر الجيري هو نوع من الصخور التي تشكلت عند امتلاء  أصداف المحار "
+"في  المحيط  بالرمل والطين بعد أن يموت. ووجدت أنواع الأحافير في الحجر الجيري  الذي يبعد آلاف الأميال من أي من "
+"المحيطات تشابه جدا المرجان والمحارالذي يعيش في محيطات اليوم. عندما نجمع بين الأدلة من العديد من الأحافير من مواقع "
+"مختلفة،  يمكننا أن نأتي بتفسيرات لبعض الأحداث المأساوية عن تاريخ الأرض ."
+
+msgid "Fossil ammonites in limestone rock"
+msgstr "أحفورة الصدفات المتحجرة في الصخر الجيري"
+
+msgid "Studying Earth's history..."
+msgstr "دراسة تاريخ الأرض ..."
+
+# 5
+msgid "Question A. Fossils <span class='blink'>do not</span> offer clues about which of the following?"
+msgstr "السؤال أ . الأحافير <span class='blink'>لا</span> تقدم أدلة عما يلي؟"
+
+msgid "The way climate for some locations has changed over time."
+msgstr "الطريقة التي تغير بها مناخ بعض المناطق عبر الزمن"
+
+msgid "How climate will change in the near-future."
+msgstr "كيف سيتغير المناخ في المستقبل القريب"
+
+msgid "Eating habits of extinct animals."
+msgstr "عادات الأكل لدى الحيوانات المنقرضة."
+
+msgid "Chemical characteristics of ancient oceans."
+msgstr "الصفات الكيميائية للمحيطات القديمة."
+
+msgid ""
+"Question B. Consider the following observation: \"The types of fossils found in limestone thousands of miles from "
+"any ocean are very similar to the corals and shellfish living in oceans today.\" Click on <span class='blink'>all</"
+"span> the statements that help explain the observation."
+msgstr ""
+"السؤال ب . بالنظر الى الملاحظة التالية: \" أنواع الأحافير التي  وجدت في الحجر الجيري  على بعد آلاف الأميال من أي "
+"من المحيطات متشابهة جدا  للمرجان والمحار الذي يعيش في محيطات اليوم  \"انقر على <span class='blink'> جميع</span> "
+"العبارات التي تساعد على شرح المشاهدة \"."
+
+msgid "That a flood moved living things all around."
+msgstr "أن الفيضان نقل الأشياء في جميع الأرجاء"
+
+msgid "That fossils move around."
+msgstr "أن الأحفورة انتقلت."
+
+msgid "That the earth is changing."
+msgstr "أن الأرض تتغير."
+
+msgid "That fossils help explain earth's history."
+msgstr "تساعد الأحافير على شرح تاريخ الأرض."
+
+msgid "Nope. Fossils offer pretty good clues about past climate change."
+msgstr "لا. الأحافير تقدم أدلة جد جيدة عن تغير المناخ في الماضي."
+
+msgid "Correct. Fossils can't tell us much about near-term climate change."
+msgstr "صحيح. الأحافير لا يمكن أن تخبرنا الكثير عن تغير المناخ في المدى القريب."
+
+msgid "Sorry. Tooth structure tells a lot about eating habits."
+msgstr "آسف.  تركيب الأسنان يخبرنا الكثير عن عادات الأكل."
+
+msgid "Nope. The chemical composition of fossils tells a lot about the chemistry of ancient oceans."
+msgstr "كلا.  التكوين الكيميائي للأحافير يخبرنا الكثير عن كيمياء المحيطات القديمة."
+
+msgid "Correct. The earth is changing and the changes that happened before are documented by fossils."
+msgstr "صحيح.  الأرض تتغير و هذه التغيرات التي حصلت من قبل وثقت عن طريق الأحافير."
+
+msgid ""
+"Fossils do not move around themselves. The earth we see today is not the same way it was millions and billions of "
+"years ago. It changed and is changing; fossils help us see this."
+msgstr ""
+"الأحافير لا تتحرك حول نفسها.  الأرض التي نراها اليوم ليست هي نفسها التي كانت  ملايين و مليارات السنين الماضية.  "
+"لقد تغيرت و ما زالت تتغير؛ الأحافير تساعدنا على رؤية ذلك"
+
+# 6
+msgid "More big ideas... about changing to survive"
+msgstr "أفكار رئيسية أكثر ...عن التغير من أجل البقاء"
+
+msgid ""
+"Over the course of more than 4 billion years of earth history, living things have changed enough to account for "
+"all of the diversity of the life we see on our planet now, and all of the life we have evidence for in the past."
+msgstr ""
+"على مدى أكثر من 4 مليارات سنة من تاريخ الأرض، تغيرت الكائنات الحية بما فيه الكفاية لحساب كل تنوع الحياة الذي نراه "
+"على كوكبنا الآن، وجميع أنواع الحياة  التي لدينا أدلة عليها \"."
+
+msgid ""
+"<span class='key'>Evolution</span> happens because changes, called mutations, sometimes occur in the DNA that "
+"carries the information that makes living things what they are. There are different forms of change: natural "
+"selection, artificial selection, sexual selection, and punctuated equilibrium. <span class='key'>Natural "
+"selection</span> is when some organisms survive and reproduce more often than others, and their characteristics "
+"are passed along, and the population becomes more like them over time."
+msgstr ""
+" <span class='key'>التطور </span> يحدث بسبب تغيرات، وتدعى طفرات تحدث أحيانا في الحمض النووي الذي يحمل المعلومات "
+"التي تجعل الكائنات الحية ما هي عليه.  هناك أشكال مختلفة من التغيير: الانتقاء الطبيعي، والانتقاء الاصطناعي ،و "
+"الانتقاء الجنسي، و التوازن المضبوط.  <span class='key'>الانتقاء الطبيعي</span>  هو البقاء على قيد الحياة عند بعض "
+"الكائنات الحية وتتكاثر في كثير من الأحيان أكثر من غيرها، ويتم تمرير خصائصها جنبا إلى جنب، ويصبح المجتمع الجديد "
+"مثلهم  أكثر على مر الزمن ."
+
+msgid "The Albino Eastern Gray Kangaroo shows an example of color mutation in animals"
+msgstr "ويبين كنغر ألأبينو الرمادي الشرقي مثال على طفرة اللون في الحيوانات"
+
+msgid ""
+"In <span class='key'>sexual selection</span>, one sex (usually females) chooses their mates for reasons unique to "
+"each species. <span class='key'>Punctuated equilibrium</span> is usually associated with natural disasters. When a "
+"disaster like a volcanic eruption or meteorite impact occurs, which members of a population survive is largely a "
+"matter of luck. The traits passed into later generations are those belonging to the survivors. <span "
+"class='key'>Artificial selection</span> is when humans are involved in choosing which plants or animals can mate "
+"and form later generations. Artificial selection is the basis of modern forms of agriculture."
+msgstr ""
+" في <span class='key'>الانتقاء الجنسي</span> ، جنس واحد (عادة الإناث) يختارون أقرانهم لأسباب فريدة من نوعها لكل "
+"الأنواع.  <span class='key'> التوازن المضبوط </span>يترافق عادة مع الكوارث الطبيعية.  عند حدوث الكوارث مثل أثر "
+"نيزك أو انفجار بركاني حيث يكون بقاء أفراد مجموعة من السكان على قيد الحياة إلى حد كبير مسألة حظ..  الصفات التي تم "
+"تمريرها إلى الأجيال اللاحقة هي تلك التي تنتمي إلى الناجين. <span class='key'>الانتقاء الاصطناعي</span> هو عندما "
+"يشارك البشر في اختيار أي نباتات أو حيوانات يمكن أن تتزاوج وتشكل الأجيال اللاحقة. الانتقاء الاصطناعي هو أساس "
+"الأشكال الحديثة للزراعة ."
+
+msgid ""
+"Selective breeding based on some favored characteristics is an example of artificial selection. For many "
+"generations, farmers have allowed only the most productive plants and animals to reproduce. The strongest bulls "
+"are mated with cows that produce the most milk. Tall, vigorous corn plants are mated with those that are tolerant "
+"of drought."
+msgstr ""
+"التكاثر الانتقائي على أساس بعض الخصائص المفضلة هو مثال للانتقاء الاصطناعي.  لأجيال عديدة، وقد سمح المزارعين فقط "
+"لأكثر النباتات والحيوانات انتاجا بالتكاثر.  يتم تزاوج أقوى الثيران مع الأبقار التي تنتج معظم الحليب. نباتات الذرة  "
+"طويل القامة، القوي يتزاوج مع تلك التي هي قادرة على تحمل الجفاف ."
+
+msgid "The Chihuahua and Great Dane show the different sizes of dogs. This is an example of selective breeding."
+msgstr "التشيواوا وداين العظيم تظهر أحجام مختلفة من الكلاب.  هذا مثال من التكاثر الانتقائي."
+
+msgid "Evolution of living things"
+msgstr "تطور الكائنات الحية"
+
+# 7
+msgid "Question A. The image illustrates a part of which form of change?"
+msgstr "السؤال أ. توضح الصورة جزء من أي شكل من أشكال التغير؟"
+
+msgid "Natural Selection"
+msgstr "الانتقاء الطبيعي"
+
+msgid "Natural selection"
+msgstr "الانتقاء الطبيعي"
+
+msgid "Sexual selection"
+msgstr "الانتقاء الجنسي"
+
+msgid "Punctuated equilibrium"
+msgstr "التوازن المظبوط"
+
+msgid "Artificial selection"
+msgstr "الانتقاء الصناعي"
+
+msgid "Question B. Life has existed on Earth for about how long?"
+msgstr "السؤال ب. كم طول فترة وجود الحياة على الأرض؟"
+
+msgid "Between 4 and 5 "
+msgstr "بين 4 و 5"
+
+msgid "hundred million"
+msgstr "مئة مليون"
+
+msgid "hundred thousand"
+msgstr "مئة ألف"
+
+msgid "thousand"
+msgstr "ألف"
+
+msgid "hundred"
+msgstr "مئة"
+
+msgid "years."
+msgstr "سنوات"
+
+msgid "Counting the age of Earth..."
+msgstr "عِد عمر الأرض ..."
+
+msgid "Yes! The white fish eaten by the bird don't reproduce."
+msgstr "نعم! السمك الأبيض الذي يؤكل من قبل الطيور لا يتكاثر."
+
+msgid "Nope. There's nothing in the image related to the selection of mates."
+msgstr "كلا. لا يوجد شيء في الصورة يتعلق بالاختيار من الأقران."
+
+msgid "Sorry... Being captured is a disaster for the fish, but this is an everyday occurrence."
+msgstr "آسف ...أن تُصطاد هو بمثابة كارثة للأسماك، ولكنها واقعة يومية."
+
+msgid "Nope. Artificial selection involved people."
+msgstr "كلا.  الإنتقاء الصناعي يتضمن البشر"
+
+msgid "Correct. Life has existed on Earth for a bit more than hundreds of millions years."
+msgstr " صحيح.  لقد وجدت الحياة على الأرض لأكثر بقليل من مئات ملايين السنين."
+
+msgid "Nope. It's older than that."
+msgstr "كلا . انها أقدم من ذلك"
+
+msgid "Sorry. Much, much older."
+msgstr "آسف .  أقدم بأكثر بكثير"
+
+msgid "Um... no. Have a look at the options again."
+msgstr "اممم...لا .  ألقي نظرة على الخيارات مجددا."
+
+# 8
+msgid ""
+"We mentioned <span class='key'>mutations</span> are small changes that occur in the DNA carrying the information "
+"that makes living things what they are. Mutations are rare, but over time they have an effect. An inherited "
+"mutation can go three ways: it can either have no effect on a living thing, or have a harmful effect on it, or in "
+"the best case, it can give it a competitive advantage. Through natural selection a living thing will either go on "
+"to reproduce and pass on its mutation to the next generation, or die and the mutation disappears."
+msgstr ""
+"ذكرنا أن <span class='key'>الطفرات</span>  هي تغييرات صغيرة تحدث في الحمض النووي الذي يحمل المعلومات التي تجعل "
+"الكائنات الحية على ما هي عليه. الطفرات نادرة، ولكن مع مرور الوقت يصبح  لها تأثير.  الطفرة يمكن أن تذهب بثلاث "
+"اتجاهات: إما أن يكون لها تأثير على كل الكائنات الحية، أو أن يكون لها تأثير ضار عليها، أو في أفضل الأحوال،  يمكن أن "
+"تعطيه ميزة تنافسية.  من خلال الانتقاء الطبيعي إما أن تتكاثر الكائنات الحية  ويمرر طفرته إلى الجيل القادم، أو أن "
+"تموت وتختفي الطفرة ."
+
+msgid ""
+"Let's look at three mutations: neutral, helpful, and harmful. Hover your mouse over each image to view more "
+"information."
+msgstr "دعنا ننظر الى ثلاث طفرات: طبيعية ، مفيدة ، وضارة، حرك فأرتك فوق كل صورة لعرض معلومات أكثر."
+
+msgid ""
+"The mutated gene in Siamese cats causes the kittens to be white when born, and to develop patches of color on "
+"their face, paws, and tail later on."
+msgstr ""
+"إن الجين المتحور في القطط السيامية يتسبب للقطط بأن تكون بيضاء عندما تولد، و تكون بقع من اللون على وجوههم،و "
+"والمخالب، والذيل في وقت لاحق."
+
+msgid ""
+"The mutated gene in tigers causes them to have stripes. A long time ago, the tigers with this gene were able to "
+"blend in with the habitat and be more successful at hunting for food. This mutated gene was passed on to their "
+"offspring."
+msgstr ""
+"إن الجين المتحور في النمور يجعلها بخطوط..  منذ زمن طويل، كانت النمور مع هذا الجين قادرة على الاختلاط مع موطنها "
+"وتكون أكثر نجاحا في الصيد من أجل الغذاء.  تم تمرير هذا الجين المتحور إلى ذريتهم."
+
+msgid ""
+"The mutated gene in Manx cats causes many kittens to die within their first year if the gene is inherited from "
+"both parents. If they get the gene from only one parent, then the kittens survive, but many have stumpy tails or "
+"no tails."
+msgstr ""
+"إن الجين المتحور في قطط المانكس يتسبب للكثير من القطط بالموت في عامهم الأول إذا ورث الجين من كلا الأبوين.  اذا "
+"حصلوا على الجين من أحد الأبوين فقط، فسوف تبقى القطط على قيد الحياة، ولكن العديد منها  لها ذيول قصيرة أو بدون ذيول."
+
+msgid ""
+"In the right circumstances, any kind of variation can be an important factor in the survival of a population of "
+"organisms. The key to survival can be something obvious, or something much harder to see at first. Sometimes, what "
+"seems like a disadvantage in normal times turns out to be an advantage in difficult situations."
+msgstr ""
+"في الظروف المناسبة، أي نوع من الاختلاف يمكن أن يكون عاملا مهما في بقاء السكان من الكائنات الحية.  مفتاح البقاء على "
+"قيد الحياة يمكن أن يكون شيء واضح، أو شيء أصعب بكثير من أن يرى في البداية.  في بعض الأحيان، ما يبدو وكأنه وضع غير "
+"مؤاتٍ في الأوقات العادية يتضح أنه  ميزة في المواقف الصعبة."
+
+msgid "Sickled Cells"
+msgstr "الخلايا المنجلية"
+
+msgid "Normal Red Blood Cells"
+msgstr "كرات دم حمراء طبيعية"
+
+msgid ""
+"In the 1940s, doctors discovered that people who carried sickle cell trait, a condition that could lead to a "
+"disorder in their children, were much more likely to survive malaria than other people. Malaria, a disease carried "
+"by mosquitoes, kills more than a million people each year. Sickle cell patients have inherited a slightly "
+"different form of the blood protein hemoglobin from their parents. The different form is caused by a tiny change "
+"in the DNA carrying the hemoglobin code. In this case, potentially life-threatening condition can also be the key "
+"to survival."
+msgstr ""
+"في الأربعينات من القرن الماضي اكتشف الأطباء أن الأشخاص الذين حملوا سمة فقر الدم المنجلي، وهي حالة يمكن أن تؤدي إلى "
+"اضطراب في أطفالهم، كانت من المرجح النجاة من الملاريا أكثر بكثير من الأشخاص الآخرين.  الملاريا، وهو مرض ينقله "
+"البعوض ويقتل أكثر من مليون شخص كل عام.  ورث مرضى فقر الدم المنجلي شكلاً مختلفاً قليلا من البروتين في هيموغلوبين الدم "
+"عن والديهم.  وينتج  الشكل المختلف تغير صغير في الحمض النووي الذي يحمل رمز الهيموغلوبين، وفي هذه الحالة، يمكن للوضع "
+"الذي يهدد حياتهم  أن يكون أيضا المفتاح للبقاء. "
+
+msgid "Identifying inherited mutation..."
+msgstr "تحديد الطفرات الموروثة"
+
+# 9
+msgid "Question A. The variations involved in evolution must be inherited because:"
+msgstr " السؤال ب . الاختلافات المشتركة في التطور يجب أن تكون موروثة للأسباب التالية:"
+
+msgid "They must be passed into later generations to be important."
+msgstr "يجب تمريرها إلى الأجيال اللاحقة ليكون أمرا هاما."
+
+msgid "They must not be passed into later generations to be important."
+msgstr "لا يجب تمريرها إلى الأجيال اللاحقة ليكون أمرا هاما."
+
+msgid "They must be unique to one individual only."
+msgstr "يجب أن تكون فريدة من نوعها لفرد واحد فقط."
+
+msgid "They must have occurred in both parents to matter."
+msgstr " يجب أن تكون قد حدثت في كل من الآباء والأمهات لتكون مهمة."
+
+msgid "Question B. Click on the <span class='blink'>incorrect</span> statement about mutations and evolution."
+msgstr "السؤال ب . أنقر على العبارة <span class='blink'> غير الصحيحة</span>  عن الطفرات و التطورات."
+
+msgid "Mutations are random errors in DNA."
+msgstr "التحولات هي أخطاء عشوائية في الحمض النووي."
+
+msgid "Mutations can be neutral, helpful, or harmful."
+msgstr "التحولات يمكن أن تكون طبيعية ، أو مفيدة ، أو مؤذية."
+
+msgid "Mutations occur to increase survival of a certain species."
+msgstr "التحولات تحدث لتحسين بقاء أنواع معينة"
+
+msgid "The effects of all mutations are not yet known."
+msgstr "تأثيرات كل التحولات ليست معروفة بعد"
+
+msgid "Correct! It only changes a population if a trait is passed along."
+msgstr "صحيح ! انها فقط تغير المجتمع اذا انتقلت السمة لعدة أجيال."
+
+msgid "Sorry... If a trait isn't passed along, the population doesn't change."
+msgstr "آسف...اذا لم تنتقل السمة، لا يتغير المجتمع."
+
+msgid "No... The trait must be passed along to many individuals."
+msgstr "لا...لا بد أن تنتقل السمة لعدة أفراد"
+
+msgid "Nope. Inheritance can come from either or both parents."
+msgstr "لا.  الوراثة يمكن أن تأتي من أحد أو كلا الوالدين."
+
+msgid "No, the statement is correct. Mutations are random genetic mistakes."
+msgstr "لا، العبارة صحيحة.  الطفرات هي أخطاء جينية عشوائية."
+
+msgid "No, the statement is correct. Mutations can go these three ways."
+msgstr "لا.  العبارة صحيحة .  يمكن أن تسير في ثلاث طرق."
+
+msgid ""
+"Correct, the statement is false. Mutations occur randomly, some of them lead to the survival of a certain species, "
+"and some of them do not."
+msgstr "صحيح، العبارة غير صحيحة.  تحدث الطفرات عشوائيا، وبعضها يؤدي إلى بقاء بعض الأنواع، وبعضها لا."
+
+msgid ""
+"No, the statement is correct. The effects of mutations are visible under different circumstances. Every time "
+"conditions change, mutations show their impact."
+msgstr "لا، العبارة صحيحة.  آثار الطفرات واضحة في ظل ظروف مختلفة، في كل مرة تتغير الظروف، تظهر تأثير الطفرات ."
+
+# 10
+msgid "Using what you know... about changing to survive... to solve a problem"
+msgstr "استخدم ما تعرفه... عن التغير من أجل البقاء... لحل المشكلة"
+
+msgid ""
+"You are a scientist working on a cloning project. Cloning is extracting DNA from an animal or plant, and inserting "
+"it into another cell to create an exact copy of the original living thing. You are part of a team, cloning an "
+"animal that is used as a protein source for humans. You begin to question the impact of the research you are doing."
+msgstr ""
+"أنت عالم تعمل على مشروع استنساخ.  الاستنساخ يتم باستخراج الحمض النووي من حيوان أو نبات، وإدراجه في خلية أخرى لخلق "
+"صورة طبق الأصل من الكائن الحي الأصلي.  أنت جزء من فريق، استنساخ حيوان  يستخدم كمصدر للبروتين بالنسبة للبشر. أنت "
+"تبدأ في التساؤل في تأثير البحث الذي تقومون به . "
+
+msgid ""
+"Using what you now know about artificial selection and the importance of having a variety of animals and plants, "
+"list three concerns you have with this project. Your teammates might argue that there are benefits to spreading "
+"superior genes. What issues would you bring up when stating your concerns? Type them into the textbox below."
+msgstr ""
+"استخدام ما تعرفه الآن عن الانتقاء الاصطناعي وأهمية وجود مجموعة متنوعة من الحيوانات والنباتات، أدرج ثلاثة مخاوف "
+"لديك مع هذا المشروع.  زملاؤك في الفريق قد يجادلون بأن هناك فوائد لنشر الجينات المتفوقة. ما هي القضايا التي ستثيرها "
+"عندما تطرح مخاوفك؟ اكتبها في مربع النص أدناه ."
+
+msgid "Scientist in the laboratory..."
+msgstr "العلماء في المختبر"
+
+# 11
+msgid "Summarizing big ideas... about changing to survive"
+msgstr "تلخيص الأفكار الرئيسية ...عن التغير من أجل البقاء"
+
+msgid ""
+"During the past 500 million years, life on earth has emerged and evolved into the variety of plants and animals we "
+"see today. <span class='key'>Fossils</span> tell us things about how life has changed from the simple organisms "
+"that inhabited our planet a long time ago, to the complex array of life we see today. When we combine evidence "
+"from many fossils from various locations, we can even come up with explanations for some of the dramatic events of "
+"Earth history. <span class='key'>Evolution</span> happens because of genetic mutations. <span "
+"class='key'>Mutations</span> are random errors that occur in the DNA that carries the information that makes "
+"living things what they are. There are different forms of change: <span class='key'>natural selection</span>, "
+"<span class='key'>artificial selection</span>, <span class='key'>sexual selection</span>, and <span "
+"class='key'>punctuated equilibrium</span>. Mutations are rare. An inherited mutation can have one of three "
+"outcomes. It can have no effect on the living thing; it can have a harmful effect; or it may give it a competitive "
+"advantage. Through natural selection, the living thing may either reproduce and pass its mutation to the next "
+"generation, or it may die and the mutation disappears. Sometimes, what seems like a disadvantage in normal times "
+"turns out to be an advantage in difficult situations."
+msgstr ""
+"خلال ال 500 مليون سنة الماضية، الحياة على الأرض قد ظهرت وتطورت إلى مجموعة متنوعة من النباتات والحيوانات التي نراها "
+"اليوم.  <span class='key'>الأحافير</span>   تخبرنا  كيف أن الحياة قد تغيرت من الكائنات الحية البسيطة التي سكنت "
+"كوكبنا منذ زمن طويل، إلى مجموعة معقدة من الحياة التي نراها اليوم.  عندما نجمع بين الأدلة من العديد من الأحافير من "
+"مواقع مختلفة،  يمكننا حتى أن نأتي  بتفسيرات لبعض الأحداث الدرامية من تاريخ الأرض.  <span class='key'>التطور</"
+"span>   يحدث بسبب الطفرات الجينية.  الطفرات</span> هي أخطاء عشوائية تحدث في الحمض النووي الذي يحمل المعلومات التي "
+"تجعل الكائنات الحية تبدو على ما هي عليه.  هناك أشكال مختلفة من التغيير: <span class='key'>الانتقاء الطبيعي</"
+"span>  ، و <span class='key'>الانتقاء الاصطناعي</span>  ، و <span class='key'>الانتقاء الجنسي</span>  ، و <span "
+"class='key'>التوازن المنظبط </span> .  الطفرات نادرة.  الطفرة الموروثة  يمكن أن تملك واحد من ثلاث نتائج .  يمكن أن "
+"لا يكون لها أي تأثير على الكائن الحي؛ أو يمكن أن يكون لها تأثير ضار؛ أو أنها قد تعطيه ميزة تنافسية.  من خلال "
+"الانتقاء الطبيعي، يمكن للكائن  الحي إما أن يعيد إنتاج ويمرر الطفرة إلى الجيل القادم، أو قد يموت وتختفي الطفرة.  في "
+"بعض الأحيان، ما يبدو وكأنه وضع غير مؤاتٍ في الأوقات العادية يتبين أنه  ميزة في المواقف الصعبة ."
+
+# 12
+msgid "Reviewing key vocabulary... related to... changing to survive"
+msgstr "مراجعة المفردات الرئيسية ... المتعلقة ب ... التغير من أجل البقاء"
+
+msgid ""
+"Natural selection is the changing of inherited characteristics of a population of organisms to reflect the greater "
+"survival and reproduction of certain members of the population."
+msgstr ""
+"الانتقاء الطبيعي هو تغيير الخصائص الموروثة من  الكائنات الحية من مجتمع نوع معين  لتعكس زيادة في البقاء والتكاثر "
+"عند أعضاء معينة من نفس المجتمع."
+
+msgid ""
+"Artificial selection occurs when humans get involved in the survival and reproduction of the individual members of "
+"a population."
+msgstr "الانتقاء الصناعي يحدث عند تدخل الانسان في بقاء و تكاثر أفراد من مجتمع نوع معين.  "
+
+msgid "In sexual selection, one sex (usually females) chooses their mates for reasons unique to each species."
+msgstr "في الانتقاء الجنسي، جنس واحد ( عادة الاناث) يختار شريكه لأسباب فريدة متعلقة بكل نوع."
+
+msgid "Phyletic Gradualism"
+msgstr "تطور السلالات المتدرج."
+
+msgid "Morphology"
+msgstr "علم الشكل"
+
+msgid "Time"
+msgstr "الوقت"
+
+msgid "Punctuated Equilibrium"
+msgstr "الاتزان المضبوط"
+
+msgid ""
+"Punctuated equilibrium states that organisms sometimes evolve quickly, in \"growth spurts\", after going unchanged "
+"for long periods of time. These growth spurts occur following major environmental changes."
+msgstr ""
+"التوازن المظبوط  ينص على أن الكائنات الحية تتطور في بعض الأحيان بسرعة، في \" طفرات النمو \"، بعد البقاء دون تغيير "
+"لفترات طويلة من الزمن،  تحدث طفرات النمو هذه  بعد التغيرات البيئية الرئيسية."
+
+msgid "Mutation"
+msgstr "طفرة"
+
+msgid ""
+"Mutations are small changes that occur in the DNA that carries the information that makes living things what they "
+"are.  Mutations are rare, but if inherited, over time can have an effect on a population."
+msgstr ""
+"الطفرات هي التغيرات الصغيرة التي تحدث في الحمض النووي الذي يحمل المعلومات التي تجعل الكائنات الحية على ما هي عليه. "
+"الطفرات نادرة، ولكن إذا ورثت يمكن مع مرور الوقت أن يكون لها تأثير على مجتمع نفس النوع."
+
+# 13
+msgid "Checking what you now know... about changing to survive"
+msgstr "تفحص ما تعرفه ... عن التغير من أجل البقاء"
+
+# 14
+msgid ""
+"Click on the <span class='blink'>correct</span> statements about the changes most likely caused by gradual climate "
+"change."
+msgstr ""
+"أنقر على العبارات <span class='blink'>الصحيحة</span> حول التغيرات التي على الأغلب حدثت بالتدريج بسسب التغير "
+"المناخي."
+
+msgid "Increase in the numbers of individuals able to tolerate the climate differences."
+msgstr "زيادة في أعداد الأفراد القادرة على تحمل الاختلافات المناخية."
+
+msgid "Local extinction of individuals unable to tolerate the climate differences."
+msgstr "الانقراض المحلي من الأفراد غير القادرة على تحمل الاختلافات المناخية."
+
+msgid "Changes in the plants and animals inhabiting a particular area."
+msgstr "التغيرات في النباتات و الحيوانات التي تسكن منطقة معينة."
+
+msgid "All of the above"
+msgstr "كل ما سبق"
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول في الاختبار السريع هو ..."
+
+msgid ""
+"Not quite.  Any plants or animals unable to tolerate climate changes will have difficulty surviving. Climate "
+"changes are likely to cause changes in local plants and animals."
+msgstr ""
+"ليس تماما. أي نباتات أو حيوانات غير قادرة على تحمل التغيرات المناخية ستجد صعوبة في البقاء على قيد الحياة. التغيرات "
+"المناخية من المحتمل أن تسبب تغيرات في النباتات والحيوانات المحلية ."
+
+msgid ""
+"Not quite. Survivors must be able to tolerate changes in climate. Climate changes are likely to cause changes in "
+"local plants and animals."
+msgstr ""
+"ليس تماما.  الناجون يجب أن يكونوا قادرين على تحمل التغيرات في المناخ.  التغيرات المناخية من المحتمل أن تسبب تغيرات "
+"في النباتات والحيوانات المحلية ."
+
+msgid ""
+"Survivors must be able to tolerate changes in climate.  Any plants or animals unable to tolerate climate changes "
+"will have difficulty surviving."
+msgstr ""
+" الناجون يجب أن يكونوا قادرين على تحمل التغيرات في المناخ.  أي نباتات أو حيوانات غير قادرة على تحمل التغيرات "
+"المناخية تجد صعوبة في البقاء على قيد الحياة."
+
+msgid ""
+"Correct. Survivors must be able to tolerate changes in climate.  Any plants or animals unable to tolerate climate "
+"changes will have difficulty surviving. Climate changes are likely to cause changes in local plants and animals."
+msgstr ""
+" صحيح.  الناجون قادرون على تحمل التغيرات في المناخ.  أي نباتات أو حيوانات غير قادرة على تحمل التغيرات المناخية تجد "
+"صعوبة في البقاء على قيد الحياة من المحتمل أن تسبب تغيرات المناخ تغيرات في النباتات والحيوانات المحلية ."
+
+# 15
+msgid "When a fish fossil is found in the rocks on a mountaintop, we can conclude that..."
+msgstr " عندما تم العثور على الأسماك الأحفورية في الصخور على قمة الجبل، يمكننا أن نستنتج أن ..."
+
+msgid "Conditions on Earth seldom change."
+msgstr "الظروف على الأرض نادرا ما تتغير."
+
+msgid "Earth is less than 50 thousand years old."
+msgstr "عمر الأرض أقل من 50 ألف سنة."
+
+msgid "The rocks that are now part of the mountain formed on a seafloor."
+msgstr "الصخور التي هي الآن جزء من جبل تشكلت في قاع المحيط."
+
+msgid "A natural disaster is soon to occur."
+msgstr "كارثة طبيعية ستقع قريبا."
+
+msgid "Digging fossil fuels..."
+msgstr "تنقيب الوقود الأحفوري."
+
+msgid "Correct! Fish fossil for where fish live."
+msgstr "صحيح ! السمكة المتحجرة حيثما يعيش السمك"
+
+msgid "No, all animals reproduce. Otherwise they would be extinct."
+msgstr "لا، كل الحيوانات تتكاثر .  وبغير ذلك، فسوف تنقرض."
+
+msgid "Sorry. The fish fossil doesn't really say much about the age of the planet."
+msgstr "آسف.  أحفورة السمكة لا تخبرنا الكثير عن عمر الكوكب."
+
+msgid "Nope. The fossil gives no hints about disasters."
+msgstr "لا. الأحفورة لا تعطي أدلة على الكوارث."
+
+# 16
+msgid "Which of the following is important in artificial selection?"
+msgstr "أي من التالية مهمة في الإنتقاء الصناعي؟"
+
+msgid "Populations produce too many offspring to survive."
+msgstr "السكان ينتجون نسل كثير جدا للبقاء."
+
+msgid "Humans select which parents will reproduce."
+msgstr "البشر يختارون أي الأباء سوف يتكاثرون."
+
+msgid "There is a competition for survival."
+msgstr "هناك تنافس للبقاء."
+
+msgid "Natural disasters occur every few million years."
+msgstr "الكوارث الطبيعية تحدث كل بضعة ملايين من السنين."
+
+msgid "Selecting different traits..."
+msgstr "اختيار السمات المختلفة\"..."
+
+msgid "Yes! That's the key. Humans are involved."
+msgstr "نعم ! هذه هو المفتاح.  البشر مشتركون."
+
+msgid "True, but not a part of artificial selection."
+msgstr "صحيح، لكن ليس جزء من الانتقاء الصناعي."
+
+msgid "Nope. While true, it's really a part of natural selection."
+msgstr "لا. بينما هذا صحيح ، انه حقا جزء من الانتقاء الطبيعي."
+
+msgid "Sorry.  This is a key for punctuated equilibrium."
+msgstr "آسف . هذا رئيسي للاتزان المظبوط."
+
+# 17
+msgid "Which of the following might be most closely associated with a period of punctuated equilibrium?"
+msgstr "أي من التالية قد تكون مرتبطة بشكل وثيق بمرحلة من التوازن المظبوط؟"
+
+msgid "Massive volcanic eruption"
+msgstr "انفجار بركاني هائل."
+
+msgid "Construction of new housing developments"
+msgstr "إعمار وحدات اسكانية جديدة"
+
+msgid "Regular changes of seasons"
+msgstr "التغيرات المنتظمة للفصول"
+
+msgid "Farmers saving seed for the following growing season"
+msgstr "يحفظ المزارعون البذور لموسم الزراعة القادم"
+
+msgid "Preparing for evolutionary change..."
+msgstr "التحضير للتغيرات الثورية..."
+
+msgid "That's the one. Natural disasters sometimes force rapid change."
+msgstr "هذه هي .  الكوارث الطبيعية تجبر التغيرات السريع أحيانا "
+
+msgid "Probably not.... This can cause changes, but probably slow ones."
+msgstr "ربما لا ... هذا قد يحدث تغيرات ، لكنها ربما تكون بطيئة. "
+
+msgid "Nope. Seasonal change happens every year."
+msgstr "كلا .  التغير الموسمي يحدث كل سنة."
+
+msgid "This is a normal part of artificial selection."
+msgstr "هذا جزء عادي من الانتقاء الصناعي."
+
+# 18
+msgid ""
+"Penguins have developed webbed feet and stunted wings over time. Which of the following statements are incorrect "
+"about these mutations?"
+msgstr "طيور البطريق طورت أقدام غشائية و أجنحة واهنة على مر الزمن.  أي من العبارات التالية غير صحيح حول هذه الطفرات؟"
+
+msgid "The penguins' mutations are useless on land."
+msgstr "تغيرات البطاريق بلا فائدة على اليابسة."
+
+msgid "These mutations are useful for escaping predators."
+msgstr "هذه التغيرات مفيدة للهرب من المفترسين"
+
+msgid "The usefulness of these mutations depends on the environment."
+msgstr "إن فائدة هذه الطفرات تعتمد على البيئة."
+
+msgid "These mutations will help the penguins survive in any environment."
+msgstr "هذه الطفرات تفيد البطاريق للحياة في أي بيئة"
+
+msgid "Penguins playing in cold water..."
+msgstr "البطاريق تلعب في الماء البارد..."
+
+msgid "Actually, the short wings and webbed feet help penguins stay warm and walk on snow and ice."
+msgstr "في الواقع، الأجنحة القصيرة والقدمين الغشائيتين تساعد البطريق على البقاء دافئا والمشي على الثلج والجليد."
+
+msgid "Sorry. The webbed feet and stubby wings make penguins powerful swimmers."
+msgstr "أسف.  الأجنحة القصيرة والقدمين الغشائيتين تجعل البطريق سباح قوي ."
+
+msgid "This is actually true. All mutations are useful or not useful, depending on the environment."
+msgstr " في الحقيقة هذا صحيح.  كل الطفرات اما مفيدة أو غير مفيدة،اعتمادا على البيئة."
+
+msgid "Correct! Neither of these mutations would be helpful in a desert, or in many other places."
+msgstr "صحيح! أيا من هذه الطفرات قد تكون مفيدة في الصحراء، أو في أماكن أخرى كثيرة."
+
+# 19
+msgid ""
+"The following is a simplified diagram of the evolution of species. Fill in the blanks by selecting the correct "
+"phrases from the drop down boxes."
+msgstr ""
+"التالي هو رسم تخطيطي مبسط لتطور الأنواع.  املأ الفراغات عن طريق اختيار العبارات الصحيحة من المربعات  المنسدلة ."
+
+msgid "Genetic variation"
+msgstr "التنوع الجيني"
+
+msgid "Helpful mutation"
+msgstr "الطفرة المفيدة"
+
+msgid "Neutral mutation"
+msgstr "التغير الطبيعي"
+
+msgid "Inherited mutation"
+msgstr "التغير الموروث"
+
+msgid ""
+"Correct! Inherited mutation creates genetic variation, which acted on by natural selection leads to evolution of "
+"species."
+msgstr "صحيح ! طفرة موروثة تخلق الاختلاف الجيني، والتي عمل عليها عن طريق الانتقاء الطبيعي مؤديا إلى تطور الأنواع."
+
+msgid ""
+"Not quite! Inherited mutation creates genetic variation, which acted on by natural selection leads to evolution of "
+"species."
+msgstr ""
+"ليس تماما! طفرة موروثة تخلق الاختلاف الجيني، والتي أجري عليها عن طريق الانتقاء الطبيعي مؤديا إلى تطور الأنواع."
+
+# 20
+msgid "You've completed the Changing to Survive module."
+msgstr "لقد أكملت مراجعة التغير من أجل البقاء."

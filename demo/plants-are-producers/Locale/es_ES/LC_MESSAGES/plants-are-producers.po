@@ -1,0 +1,1345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plants are Producers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ana Pardo <anapr88@gmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Comprobar respuesta"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Repaso rápido nº1"
+
+msgid "Quick Check #2"
+msgstr "Repaso rápido nº2"
+
+msgid "Quick Check #3"
+msgstr "Repaso rápido nº3"
+
+msgid "Quick Check #4"
+msgstr "Repaso rápido nº4"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de examen nº1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de examen nº2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de examen nº3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de examen nº4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de examen nº5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de examen nº6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo he hecho?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Explora las diapositivas a continuación pulsando las flechas izquierda y "
+"derecha"
+
+msgid "Go to dashboard"
+msgstr "Ir al panel principal"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Empecemos!"
+
+msgid "Are you ready,"
+msgstr "Estás preparado/a,"
+
+msgid "Planting a tree..."
+msgstr "Plantando un árbol..."
+
+msgid "Collecting solar energy..."
+msgstr "Capturando energía solar..."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primer repaso rápido..."
+
+msgid "Absorbing carbon dioxide..."
+msgstr "Absorbiendo dióxido de carbono..."
+
+msgid "Combining glucose molecules..."
+msgstr "Combinando moléculas de glucosa..."
+
+msgid "Counting large trees..."
+msgstr "Contando árboles grandes..."
+
+msgid "Producing energy..."
+msgstr "Produciendo energía..."
+
+msgid "Analyzing food chain..."
+msgstr "Analizando la cadena alimenticia..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Preparado/a para tu último repaso rápido?"
+
+msgid "Collecting data..."
+msgstr "Recogiendo datos..."
+
+msgid "Putting it all together..."
+msgstr "Juntemos todo lo aprendido..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Comprobemos lo que sabes"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de examen es..."
+
+msgid "Identifying common feature..."
+msgstr "Identificando características comunes..."
+
+msgid "Studying plants..."
+msgstr "Estudiando las plantas..."
+
+msgid "Gathering energy..."
+msgstr "Recogiendo energía..."
+
+msgid "Stacking fiber..."
+msgstr "Amontonando fibra..."
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Preparado/a para tu último repaso rápido?"
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Plants are Producers"
+msgstr "Las plantas son productores"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Welcome to the Plants are Producers review"
+msgstr "Bienvenido/a al repaso de Las plantas son productores"
+
+# 2
+msgid "Thinking about... plants are producers"
+msgstr "Pensando en... las plantas son productores"
+
+msgid ""
+"Think of what you ate yesterday. Hamburger and fries maybe? The hamburger "
+"came from a cow and the potatoes are a plant. The cow had to eat plants to "
+"grow. Your meal was brought to you by plants. They produce food from solar "
+"energy and store it. These plants are producers. Herbivores eat the plants "
+"and grow. Carnivores eat other animals that have eaten plants. Both animals "
+"are consumers."
+msgstr ""
+"Piensa en lo que comiste ayer. ¿Hamburguesa con papas, quizá? La hamburguesa "
+"viene de una vaca y las papas son una planta. La vaca tiene que comer "
+"plantas para crecer. Tu comida fue posible gracias a las plantas. Ellas "
+"producen alimento a partir de la energía solar y la almacenan. Esas plantas "
+"son productores. Los hervíboros comen las plantas y crecen. Los carnívoros "
+"comen otros animales que han comido plantas. Ambos tipos de animales son "
+"consumidores."
+
+msgid ""
+"We may prepare food and cook it many ways, but plants are the true producers "
+"that give all consumers (including us) the energy we need to survive. What "
+"about the plants themselves, what do they need?"
+msgstr ""
+"Podemos preparar y cocinar la comida de muchas formas, pero las plantas son "
+"los auténticos productores que dan a todos los consumidores (incluidos "
+"nosotros) la energía que necesitan para sobrevivir. ¿Y qué pasa con las "
+"plantas, qué necesitan?"
+
+# 3
+msgid "Checking what you know... about plants are producers"
+msgstr "Comprobando lo que sabes... sobre que las plantas son productores"
+
+msgid ""
+"This plant receives the nutrition it needs to continue to live. What if we "
+"took all its oxygen away, could the plant still grow? Rotate or flip the 3D "
+"box below either up or down to set your answer."
+msgstr ""
+"Esta planta recibe la nutrición que necesita para continuar viva. Si le "
+"quitásemos todo su oxígeno, ¿aún podría crecer la planta? Gira la caja 3D a "
+"continuación hacia arriba o hacia abajo para marcar tu respuesta."
+
+msgid "Yes, because it needs CO<sub>2</sub> and gives off O<sub>2</sub>."
+msgstr "Sí, porque necesita CO<sub>2</sub> y desprende O<sub>2</sub>."
+
+msgid "No, because it needs O<sub>2</sub> and gives off CO<sub>2</sub>."
+msgstr "No, porque necesita O<sub>2</sub> y desprende CO<sub>2</sub>."
+
+msgid ""
+"Yes, because plants need CO<sub>2</sub> to grow and O<sub>2</sub> to produce "
+"food."
+msgstr ""
+"Sí, porque las plantas necesitan CO<sub>2</sub> para crecer y O<sub>2</sub> "
+"para producir alimento."
+
+msgid ""
+"No, because plants need O<sub>2</sub> to grow and CO<sub>2</sub> to produce "
+"food."
+msgstr ""
+"No, porque las plantas necesitan O<sub>2</sub> para crecer y CO<sub>2</sub> "
+"para producir alimento."
+
+msgid "Click, hold and drag up or down"
+msgstr "Haz clic, mantén pulsado y arrastra arriba o abajo"
+
+msgid ""
+"If you chose d, that is correct. A plant could not grow without oxygen. "
+"During photosynthesis (when producing food), plants need to take in carbon "
+"dioxide and give off oxygen. But a plant also uses some of that food to "
+"grow. When a plant uses food, the food is broken down the same way it is "
+"when animals and people use it, with oxygen. Oxygen is needed to release the "
+"stored energy in the food."
+msgstr ""
+"Si has escogido la d, es la correcta. Una planta no puede crecer sin "
+"oxígeno. Durante la fotosíntesis (cuando producen comida), las plantas "
+"necesitan absorber dióxido de carbono y desprender oxígeno. Pero la planta "
+"también usa parte de esos alimentos para crecer. Cuando una planta usa "
+"alimentos, estos se descomponen de la misma forma que cuando los animales y "
+"las personas los usan, con oxígeno. El oxígeno es necesario para liberar la "
+"energía almacenada en los alimentos."
+
+msgid "Sun Light Energy"
+msgstr "Energía de la luz del sol"
+
+msgid "Carbon Dioxide"
+msgstr "Dióxido de carbono"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+# 4
+msgid "Reviewing core ideas... about plants are producers"
+msgstr "Repasando ideas principales... sobre que las plantas son productores"
+
+msgid ""
+"Plants are <span class='key'>producers</span>, they make all the food and "
+"energy in an ecosystem. They are the solid foundation of all food chains and "
+"webs.  The energy that powers nearly all life on earth is generated on the "
+"surface of our sun, some 93 million miles away.  That energy streams at us "
+"constantly.  Even though very little of it actually strikes our small "
+"planet, it provides more than enough energy to keep all of the many billions "
+"of plants and animals around us alive."
+msgstr ""
+"Las plantas son <span class='key'>productores</span>, ellas fabrican todos "
+"los alimentos y la energía de un ecosistema. Son la base sólida de todas las "
+"cadenas y redes alimenticias. La energía proporcionada a casi toda la vida "
+"de la Tierra es generada en la superficie de nuestro Sol, a 150 millones de "
+"kilómetros (93 millones de millas). Esa energía llega a nosotros de forma "
+"constante. Aunque en realidad muy poca llega a nuestro pequeño planeta, "
+"proporciona energía más que suficiente para mantener vivos a los billones de "
+"plantas y animales que nos rodean."
+
+msgid ""
+"The solar energy is captured in the leaves and needles of green plants in a "
+"process called <span class='key'>photosynthesis</span>.  In this process, a "
+"substance called chlorophyll absorbs light energy, temporarily storing it by "
+"changing its own shape.  When the chlorophyll molecule springs back to its "
+"original shape, the energy is released to power a series of chemical "
+"reactions.  These reactions convert water and carbon dioxide into sugar and "
+"oxygen."
+msgstr ""
+"La energía solar es capturada en las hojas y espinas de las plantas verdes "
+"en un proceso llamado <span class='key'>fotosíntesis</span>. En este "
+"proceso, una sustancia llamada clorofila absorbe la energía de la luz y, "
+"cambiando su propia forma, la almacena temporalmente. Cuando la molécula de "
+"clorofila vuelve a su forma original, la energía se libera, dando lugar a "
+"una serie de reacciones químicas. Esas reacciones convierten agua y dióxido "
+"de carbono en azúcar y oxígeno."
+
+msgid "Sunlight"
+msgstr "Luz solar"
+
+msgid "Root"
+msgstr "Raíces"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Minerals"
+msgstr "Minerales"
+
+msgid ""
+"The carbon dioxide is absorbed by the leaves directly from the air. The "
+"water is usually absorbed through roots and transported through the plant "
+"stem to the leaves. In photosynthesis, the carbon dioxide molecules are "
+"combined to form a six-carbon compound called <span class='key'>glucose</"
+"span>. The hydrogen atoms from water are attached to the chain to complete "
+"its structure. The leftover oxygen atoms are combined as molecules and then "
+"released."
+msgstr ""
+"El dióxido de carbono es absorbido directamente del aire por las hojas. El "
+"agua se suele absorber por las raíces y es transportada a través del tallo "
+"de la planta hasta las hojas. En la fotosíntesis, las moléculas de dióxido "
+"de carbono se combinan para formar un compuesto de seis carbonos llamado "
+"<span class='key'>glucosa</span>. Los átomos de hidrógeno del agua se unen a "
+"la cadena para completar su estructura. Los átomos de oxígeno restantes se "
+"combinan como moléculas y se liberan."
+
+msgid ""
+"Glucose may be used for energy directly or connected to other glucose "
+"molecules to form chains called carbohydrates. <span "
+"class='key'>Carbohydrates</span> are used for energy by nearly all living "
+"things.  The oxygen released by photosynthesis is also used by plants and "
+"animals to help unlock the energy stored in carbohydrates."
+msgstr ""
+"La glucosa puede usarse directamente para obtener energía, o conectarse a "
+"otras moléculas de glucosa para formar cadenas llamadas carbohidratos. Casi "
+"todos los seres vivos usan <span class='key'>carbohidratos</span> para "
+"obtener energía. El oxígeno liberado en la fotosíntesis también es usado por "
+"plantas y animales para liberar la energía almacenada en los carbohidratos."
+
+# 5
+msgid ""
+"Question A. Which of the following is a \"waste product\" of photosynthesis?"
+msgstr ""
+"Pregunta A. ¿Cuál de los siguientes es un \"residuo\" de la fotosíntesis?"
+
+msgid "Sugar"
+msgstr "Azúcar"
+
+msgid "Question B. What is the source of energy for photosynthesis?"
+msgstr "Pregunta B. ¿Cuál es la fuente de energía en la fotosíntesis?"
+
+msgid "Soil"
+msgstr "El suelo"
+
+msgid "Sun"
+msgstr "El Sol"
+
+msgid "Plants"
+msgstr "Las plantas"
+
+msgid "Nope. Water is used up in photosynthesis."
+msgstr "No. Se usa todo el agua en la fotosíntesis."
+
+msgid ""
+"Yeah! Seems weird, but oxygen is actually a photosynthesis \"waste product.\""
+msgstr ""
+"¡Sí! Suena raro, pero el oxígeno es en realidad un \"residuo\" de la "
+"fotosíntesis."
+
+msgid "Sorry. Sugar is the main product of photosynthesis."
+msgstr "Lo siento. El azúcar es el producto principal de la fotosíntesis."
+
+msgid "Naaaah. Sunlight is required to make photosynthesis work."
+msgstr "Noooo. La luz solar es necesaria para que la fotosíntesis funcione."
+
+msgid "Sorry. The soil doesn't produce energy."
+msgstr "Lo siento. El suelo no produce energía."
+
+msgid "Nope. Water isn't an energy source for plants."
+msgstr "No. El agua no es una fuente de energía para las plantas."
+
+msgid "Yeah! Plants use solar energy to power photosynthesis."
+msgstr ""
+"¡Sí! Las plantas usan energía solar para hacer funcionar la fotosíntesis."
+
+msgid "Are you sure? Plants need energy for photosynthesis. Think again."
+msgstr ""
+"¿Estás seguro/a? Las plantas necesitan energía para la fotosíntesis. "
+"Piénsalo otra vez."
+
+# 6
+msgid "More core ideas... about plants are producers"
+msgstr "Más ideas principales... sobre que las plantas son productores"
+
+msgid ""
+"As a plant grows, it increases in size and mass. It draws very small amounts "
+"of minerals into its structure through its roots, but the vast majority of "
+"the material that makes up its structure consists of carbon dioxide and "
+"water.  The carbon dioxide is absorbed through openings in leaves or "
+"needles. Most plants absorb water through their roots from the surrounding "
+"soil."
+msgstr ""
+"A medida que una planta crece, aumenta su tamaño y su masa. Incorpora "
+"cantidades muy pequeñas de minerales en su estructura a través de las "
+"raíces, pero la inmensa mayoría de la materia que forma su estructura "
+"consiste en dióxido de carbono y agua. El dióxido de carbono es absorbido a "
+"través de aberturas en las hojas o espinas. La mayoría de las plantas "
+"absorben agua del suelo circundante a través de sus raíces."
+
+msgid ""
+"Photosynthesis captures solar energy and stores it in chemical bonds holding "
+"atoms to one another.  The end product of the process is glucose. Other "
+"chemical processes in the plant are able to combine glucose molecules into "
+"complex chemical structures called cellulose. <span class='key'>Cellulose</"
+"span> is a plant carbohydrate which provides the plant with both stored "
+"energy and a strong substance to help provide it with support."
+msgstr ""
+"La fotosíntesis captura la energía solar y la almacena en enlaces químicos "
+"que unen los átomos unos a otros. El producto final del proceso es la "
+"glucosa. Otros procesos químicos de la planta permiten combinar las "
+"moléculas de glucosa en estructuras químicas complejas llamadas celulosa. La "
+"<span class='key'>celulosa</span> es un carbohidrato vegetal que proporciona "
+"a la planta almacenamiento de energía y una sustancia resistente que le "
+"ayuda a ofrecer soporte."
+
+msgid ""
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"As the plant grows, it increases its total number of cells. This, in turn, "
+"increases the overall mass of cellulose. Even when plant cells die, the "
+"cellulose that surrounded them remains intact. In trees, this remaining "
+"cellulose makes up what we know as wood. Every year of a tree's life, a new "
+"layer of wood is laid down, increasing the mass and strength of the tree as "
+"a whole."
+msgstr ""
+"La celulosa es el componente principal de las paredes que rodean todas las "
+"células vegetales. A medida que la planta crece, aumenta su número total de "
+"células. Esto, como resultado, incrementa la masa total de celulosa. Incluso "
+"cuando las células vegetales mueren, la celulosa que las rodea se mantiene "
+"intacta. En árboles, esta celulosa restante forma lo que conocemos como "
+"madera. Cada año de vida de un árbol, se forma una nueva capa de madera, "
+"incrementando la masa y la fuerza de todo el árbol."
+
+msgid "Arrangement of Cellulose in Cell Walls"
+msgstr "Disposición de la Celulosa en Paredes Celulares"
+
+msgid "Cell wall"
+msgstr "Pared celular"
+
+msgid "Plant cell"
+msgstr "Célula vegetal"
+
+msgid "Cellulose"
+msgstr "Celulosa"
+
+msgid ""
+"Cellulose is also the <span class='key'>fiber</span> found in other types of "
+"plants. It is the fiber in the boll of the cotton flower. It is the stringy "
+"material in celery.  It makes up most of the structure of lettuce leaves. "
+"Cellulose is used for many purposes.  Trees are cut down and lumber is sawn "
+"for homes and furniture.  Wood can also be crushed and mixed with water to "
+"make paper and cardboard. Cellulose fibers from many plants are woven "
+"together to make cloth."
+msgstr ""
+"La celulosa también es la <span class='key'>fibra</span> que se encuentra en "
+"otros tipos de plantas. Es la fibra en la bola de la flor de algodón. Es el "
+"material fibroso del apio. Es la mayor parte de la estructura de las hojas "
+"de lechuga. La celulosa se usa para muchos fines. Los árboles se talan y la "
+"madera se corta para hacer casas y muebles. La madera también se puede moler "
+"y mezclar con agua para hacer papel y cartón. Las fibras de celulosa de "
+"muchas plantas se tejen para hacer tela."
+
+msgid ""
+"Many animals graze on grasses and other plant material for food. These "
+"animals are able to digest cellulose as a direct energy source. <span "
+"class='key'>Humans</span> lack the ability to do so, but still require large "
+"amounts of cellulose in our diets.  For us, cellulose provides the rough "
+"fiber material required for the efficient digestion of the materials we do "
+"use for energy."
+msgstr ""
+"Muchos animales pastan la hierba y otros vegetales para obtener alimento. "
+"Esos animales son capaces de digerir la celulosa como fuente directa de "
+"energía. Los <span class='key'>humanos</span> no tenemos esa capacidad, pero "
+"aún así necesitamos grandes cantidades de celulosa en nuestras dietas. Para "
+"nosotros, la celulosa proporciona la fibra necesaria para una digestión "
+"eficiente de los materiales que sí usamos para obtener energía."
+
+msgid "Cellulose in Plant Cell Walls"
+msgstr "Celulosa en Paredes Celulares"
+
+# 7
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> a "
+"common use of cellulose?"
+msgstr ""
+"Pregunta A. ¿Cuál de los siguientes <span class='blink'>no</span> es un uso "
+"común de la celulosa?"
+
+msgid "Human dietary energy."
+msgstr "Energía en la dieta humana."
+
+msgid "Wood for houses."
+msgstr "Madera para casas."
+
+msgid "Source material for paper."
+msgstr "Materia prima para papel."
+
+msgid "Food for grazing animals."
+msgstr "Alimento para animales rumiantes."
+
+msgid "Question B. The majority of a large tree's mass and volume is..."
+msgstr "Pregunta B. La mayoría de la masa y el volumen de un gran árbol es..."
+
+msgid "Simple sugars"
+msgstr "Azúcares sencillos"
+
+msgid "Protein"
+msgstr "Proteína"
+
+msgid "Fats"
+msgstr "Grasas"
+
+msgid "Select the answer by rotating the 3D box below."
+msgstr "Selecciona la respuesta girando la caja 3D a continuación."
+
+msgid "That's correct! Humans are unable to digest cellulose."
+msgstr "¡Correcto! Los humanos son incapaces de digerir la celulosa."
+
+msgid ""
+"Sorry, that's a major use. Most of our homes are built of plant material."
+msgstr ""
+"Lo siento, ese es un uso mayoritario. La mayoría de nuestras casas están "
+"hechas con materia vegetal."
+
+msgid ""
+"Nope, that's a common use. When you're writing on paper, you're writing on "
+"wood."
+msgstr ""
+"No, ese es un uso común. Cuando escribes en papel, estás escribiendo en "
+"madera."
+
+msgid ""
+"Sorry, that's an important use. Grazers are able to digest cellulose for "
+"food."
+msgstr ""
+"Lo siento, ese es un uso importante. Los rumiantes son capaces de digerir "
+"celulosa para obtener alimento."
+
+msgid "That's right! Wood is made of cellulose."
+msgstr "¡Correcto! La madera está hecha de celulosa."
+
+msgid ""
+"No... Simple sugars are part of the story, but not the main component of "
+"wood."
+msgstr ""
+"No... Los azúcares sencillos son una parte, pero no el componente principal "
+"de la madera."
+
+msgid "There's actually very little protein in a tree."
+msgstr "En realidad hay muy poca proteína en un árbol."
+
+msgid "Nope. Not much fat in a tree."
+msgstr "No. No hay mucha grasa en un árbol."
+
+# 8
+msgid ""
+"As an example, we will look at a plant producer and its effects on the "
+"environment."
+msgstr ""
+"Como ejemplo, vamos a analizar una planta productora y sus efectos en el "
+"medio ambiente."
+
+msgid ""
+"Redwoods can grow to be the tallest and largest trees in the world. They "
+"start as tiny seeds and, thanks to solar energy and photosynthesis, they "
+"work their way up.  It takes a lot of food to grow hundreds of feet tall.  "
+"Like all plants, redwoods grow in three directions at once.  The stem, or "
+"trunk, of the tree grows upward.  The roots grow downward.  As the tree "
+"ages, the trunk also grows outward, forming a new ring of wood for each year "
+"the tree is alive."
+msgstr ""
+"Las secuoyas pueden crecer hasta convertirse en los árboles más altos y "
+"grandes del mundo. Empiezan como semillas diminutas y, gracias a la energía "
+"solar y a la fotosíntesis, empiezan a crecer. Hace falta un montón de "
+"alimento para crecer más de cien metros de alto. Como todas las plantas, las "
+"secuoyas crecen en tres direcciones a la vez. El tallo, o tronco, del árbol "
+"crece hacia arriba. Las raíces crecen hacia abajo. A medida que el árbol se "
+"hace viejo, el tronco también crece hacia afuera, formando un nuevo anillo "
+"de madera por cada año que el árbol vive."
+
+msgid ""
+"Scientists measure every aspect they can of the redwood trees in the forest "
+"and reconstruct the tree in three dimensions on the computer to find out the "
+"information they cannot get from measuring the outside of the tree. Every "
+"year scientists remeasure the specific trees and examine how they have "
+"changed. They also have sensors installed to measure light, temperature, "
+"humidity, wind, and sap flow. Their goal is to learn how these ancient "
+"giants have historically responded to climatic shifts and to monitor how "
+"they are being impacted today by global warming."
+msgstr ""
+"Los científicos miden todos los aspectos que pueden de las secuoyas del "
+"bosque y reconstruyen el árbol en tres dimensiones en la computadora para "
+"averiguar la información que no pueden obtener midiendo el exterior del "
+"árbol. Cada año los científicos vuelven a medir esos mismos árboles y "
+"examinan cómo han cambiado. También instalan sensores para medir la luz, la "
+"temperatura, la humedad, el viento y el flujo de savia. Su objetivo es "
+"aprender cómo han respondido históricamente esos ancianos gigantes a los "
+"cambios climáticos, y monitorizar el impacto actual del calentamiento global."
+
+msgid ""
+"Many things can impact the growth of redwoods, and anything that does must "
+"also cause changes in the unique food webs they support. Like all producers, "
+"redwood trees support a food web. Their food webs involve plants and animals "
+"who spend their entire lives living high above the ground. Researchers in "
+"California have discovered what they call \"aerial gardens.\" More than 200 "
+"feet above the forest floor in redwood country, huge limbs jut out from 1000-"
+"year old trees. These limbs are so large that needles, moss, and other "
+"debris that fall on them never fall to the ground. They pile up and decay, "
+"becoming a type of soil after only a few years."
+msgstr ""
+"Muchas cosas pueden impactar en el crecimiento de las secuoyas, y cualquier "
+"cosa que lo haga también provoca cambios en las redes alimenticias únicas "
+"que soportan. Como todos los productores, las secuoyas soportan una red "
+"alimenticia. Sus redes alimenticias consisten en plantas y animales que "
+"pasan toda su vida en lugares muy altos. Investigadores de California han "
+"descubierto lo que llaman \"jardines aéreos\". A más de 60 metros de altura "
+"del suelo del bosque de secuoyas, sobresalen enormes ramas de esos árboles "
+"de 1000 años. Esas ramas son tan largas que las espinas, el musgo y otros "
+"restos que caen sobre ellas nunca caen al suelo. Se amontonan y se "
+"descomponen, convirtiéndose en un tipo de suelo tras sólo unos pocos años."
+
+msgid ""
+"When this happens, seeds from a variety of plants, lifted into the air by "
+"winds or dropped by birds and other animals, sprout and begin to grow. After "
+"a few years, shrubs and even small trees are able to grow hundreds of feet "
+"above the ground. These \"gardens\" attract animals like squirrels, "
+"salamanders, and many birds who may spend their entire lives high above the "
+"ground."
+msgstr ""
+"Cuando esto ocurre, las semillas de algunas plantas, elevadas en el aire "
+"gracias al viento o a pájaros u otros animales, brotan y empiezan a crecer. "
+"Tras unos años, pueden crecer arbustos e incluso árboles pequeños a decenas "
+"de metros sobre el suelo. Esos \"jardines\" atraen animales, como ardillas, "
+"salamandras y muchos pájaros, que pueden pasar su vida entera ahí arriba."
+
+# 9
+msgid "Question A. What are the producers in redwood forests?"
+msgstr "Pregunta A. ¿Cuáles son los productores en los bosques de secuoyas?"
+
+msgid "Redwood trees only"
+msgstr "Sólo las secuoyas"
+
+msgid "Redwood trees and all other green plants"
+msgstr "Las secuoyas y todas las demás plantas verdes"
+
+msgid "Mosses and squirrels"
+msgstr "Musgos y ardillas"
+
+msgid "Ground-dwelling ferns and salamanders"
+msgstr "Helechos de tierra y salamandras"
+
+msgid ""
+"Question B. In redwood forests, the process responsible for energy "
+"production is..."
+msgstr ""
+"Pregunta B. En los bosques de secuoyas, el proceso responsable de la "
+"producción de energía es..."
+
+msgid "Cellular respiration"
+msgstr "Respiración celular"
+
+msgid "Photosynthesis"
+msgstr "Fotosíntesis"
+
+msgid "Metabolism"
+msgstr "Metabolismo"
+
+msgid "Primary growth"
+msgstr "Crecimiento primario"
+
+msgid "Think about it...  Are there any other green plants?"
+msgstr "Piensa en ello... ¿Hay otras plantas verdes?"
+
+msgid "Correct! All green plants are producers."
+msgstr "¡Correcto! Todas las plantas verdes son productores."
+
+msgid "Hmmmm...  Are squirrels green plants?"
+msgstr "Hmmmm... ¿Las ardillas son plantas verdes?"
+
+msgid "Salamanders? Really? Let's think about green plants."
+msgstr "¿Salamandras? ¿En serio? Piensa en las plantas verdes."
+
+msgid "Sorry.  That's how energy is released."
+msgstr "Lo siento. Así es cómo se libera energía."
+
+msgid "Yes! Photosynthesis is the process in all producers."
+msgstr "¡Sí! La fotosíntesis es el proceso en todos los productores."
+
+msgid "Not quite. Metabolism refers to all cellular processes."
+msgstr ""
+"No exactamente. El metabolismo se refiere a todos los procesos celulares."
+
+msgid "No. Photosynthesis provides energy to power primary growth."
+msgstr "No. La fotosíntesis proporciona energía al crecimiento primario."
+
+# 10
+msgid ""
+"All <span class='key'>food webs</span> are built upon producers, the green "
+"plants that convert solar energy into the fuel for all types of life on "
+"Earth. Any system may have one or more producers providing food and oxygen "
+"for any possible number of <span class='key'>consumers</span>. The consumers "
+"can be any combination of <span class='key'>first-order</span> and higher-"
+"order and, of course, the decomposers complete the process."
+msgstr ""
+"Todas las <span class='key'>redes alimenticias</span> existen en torno a "
+"productores, las plantas verdes que convierten energía solar en el "
+"combustible para todos los tipos de vida en la Tierra. Todos los sistemas "
+"tienen uno o más productores que proporcionan alimento y oxígeno a cualquier "
+"número posible de <span class='key'>consumidores</span>. Los consumidores "
+"pueden ser cualquier combinación de consumidores de <span class='key'>primer "
+"orden</span> y mayor orden y, obviamente, los descomponedores completan el "
+"proceso."
+
+msgid ""
+"Plants absorb carbon dioxide from the air and combine it with water to store "
+"the sun's energy in the chemical bonds of sugar.  The leftover oxygen "
+"produced is released.  That's photosynthesis, and it's the basis for nearly "
+"all life on earth. The food we eat is built on carbon that was once in the "
+"air.  The clothing we wear is built on carbon that was once in the air.  The "
+"wood in our houses is built on carbon that was once in the air. The fuel in "
+"our cars is built on carbon that was once in the air."
+msgstr ""
+"Las plantas absorben dióxido de carbono del aire y lo combinan con agua para "
+"almacenar la energía del sol en los enlaces químicos de los azúcares. El "
+"oxígeno restante que se produce es liberado. Esa es la fotosíntesis, y es la "
+"base de casi toda la vida en la Tierra. Los alimentos que comemos están "
+"hechos con el carbono que estaba en el aire. La ropa que vestimos está hecha "
+"con el carbono que estaba en el aire. La madera de nuestras casas está hecha "
+"con el carbono que estaba en el aire. El combustible de nuestros vehículos "
+"está hecho con el carbono que estaba en el aire."
+
+msgid ""
+"Photosynthesis drives this entire process. However simple or complex a local "
+"food web is, the energy that supports it is trapped by plants and stored in "
+"carbohydrates. At every level of the process, a small amount of the stored "
+"energy is transmitted into the next higher level.  As complicated as this "
+"may appear, it's useful to always remember that food webs are a type of "
+"puzzle. They can be organized in more than one way,  analyzed from different "
+"perspectives, and seem to need updates every time we take a close look at an "
+"ecosystem and find something new. But it's still a puzzle; beautiful, "
+"frustrating, and fascinating all at the same time."
+msgstr ""
+"La fotosíntesis es la base de todo este proceso. No importa si una red "
+"alimenticia local es simple o compleja, la energía que la soporta es "
+"capturada por las plantas y almacenada en carbohidratos. En cualquier nivel "
+"del proceso, una pequeña cantidad de la energía almacenada se transmite al "
+"nivel superior. Por complicado que pueda parecer, siempre es útil recordar "
+"que las redes alimenticias son como un tipo de puzzle. Pueden organizarse de "
+"más de una forma, analizarse desde distintas perspectivas, y necesitan "
+"actualizarse cada vez que observamos de cerca el ecosistema y encontramos "
+"algo nuevo. Pero sigue siendo un puzzle: bonito, frustrante y fascinante al "
+"mismo tiempo."
+
+msgid "Example of a Food Web"
+msgstr "Ejemplo de una Red alimenticia"
+
+# 11
+msgid ""
+"Question A. The flowchart below represents the process of photosynthesis. "
+"Click on the activity that occurs after the first activity."
+msgstr ""
+"Pregunta A. El diagrama a continuación representa el proceso de la "
+"fotosíntesis. Haz clic en la actividad que ocurre después de la primera "
+"actividad."
+
+msgid "Light Energy is absorbed by plants."
+msgstr "La energía de la luz es absorbida por las plantas."
+
+msgid "Plants are eaten by animals for food."
+msgstr "Los animales se comen a las plantas en busca de alimento."
+
+msgid "Carbon dioxide and water are used to make sugar."
+msgstr "El dióxido de carbono y el agua se usan para hacer azúcares."
+
+msgid "Plants release water into the soil."
+msgstr "Las plantas liberan agua al suelo."
+
+msgid "Animals breathe out carbon dioxide."
+msgstr "Los animales exhalan dióxido de carbono."
+
+msgid "Oxygen is released."
+msgstr "El oxígeno se libera."
+
+msgid ""
+"Question B. Butterflies get food from the flowers of a plant. They also lay "
+"their eggs on the leaves of the plant. As the caterpillars develop, they eat "
+"the leaves of the plant. How does the plant benefit from the butterflies?"
+msgstr ""
+"Pregunta B: Las mariposas obtienen alimento de las flores de una planta. "
+"También dejan sus huevos en las hojas de la planta. Cuando los gusanos "
+"nacen, se comen las hojas de la planta. ¿Cómo se beneficia la planta de las "
+"mariposas?"
+
+msgid "Butterflies help the plant grow larger flowers."
+msgstr "Las mariposas ayudan a que la planta tenga flores más grandes."
+
+msgid "Butterflies' eggs help the leaves to fall off the plant."
+msgstr "Los huevos de mariposa ayudan a que caigan las hojas de la planta."
+
+msgid "Butterflies help pollinate flowers so that seeds can form."
+msgstr ""
+"Las mariposas ayudan a polinizar las flores para que se puedan formar "
+"semillas."
+
+msgid "Butterflies help add nutrients to the nectar of the flowers."
+msgstr "Las mariposas ayudan a añadir nutrientes al néctar de las flores."
+
+msgid "No. Butterflies actually eat food made by flowers."
+msgstr ""
+"No. En realidad, las mariposas comen alimentos producidos por las flores."
+
+msgid "Sorry. The eggs don't weigh much at all."
+msgstr "Lo siento. Los huevos no pesan demasiado."
+
+msgid ""
+"Nice! As butterflies move from flower to flower, they carry pollen along."
+msgstr ""
+"¡Bien! Cuando las mariposas se mueven de flor en flor, llevan el polen "
+"consigo."
+
+msgid "Nope. The butterflies take the nectar away from the flowers."
+msgstr "No. Las mariposas se llevan el néctar de las flores."
+
+msgid "Sorry. Plant eating isn't a part of photosynthesis."
+msgstr "Lo siento. Comer plantas no es una parte de la fotosíntesis."
+
+msgid ""
+"That's it! The light energy is used to make sugar from carbon dioxide and "
+"water."
+msgstr ""
+"¡Eso es! La energía de la luz se usa para hacer azúcares a partir de dióxido "
+"de carbono y agua."
+
+msgid "Um, no... Plants absorb water from soil."
+msgstr "Eh, no... Las plantas absorben agua del suelo."
+
+msgid "Nope. OK, it's true... but not part of photosynthesis."
+msgstr "No. Bueno, es cierto... pero no es parte de la fotosíntesis."
+
+# 12
+msgid "Using what you know... about plants are producers... to solve a problem"
+msgstr ""
+"Usando lo que sabes... sobre que las plantas son productores... para "
+"resolver un problema"
+
+msgid "The Scenario"
+msgstr "El escenario"
+
+msgid ""
+"You are an ecologist, a biologist who studies the relation between organisms "
+"and their environment. A company is building a shopping center in an area "
+"that was once a forest. They will need to destroy one acre of what is left "
+"of the forest for their project. The company has hired you as a consultant "
+"on the project."
+msgstr ""
+"Eres un/a ecologista, un/a biólogo/a que estudia la relación entre los "
+"organismos y su entorno. Una empresa está construyendo un centro comercial "
+"en un área que era un bosque. Necesitarán destruir una hectárea de lo que "
+"queda de bosque para su proyecto. La empresa te ha contratado como asesor/a "
+"del proyecto."
+
+msgid "Your Assignment"
+msgstr "Tu tarea"
+
+msgid ""
+"You are to give a report on how removing the trees will affect the "
+"environment. Using what you now know about plants as producers in the food "
+"web, offer some suggestions on how the company can have positive impacts on "
+"the environment."
+msgstr ""
+"Vas a dar un informe sobre cómo afectará al entorno retirar los árboles. "
+"Usando lo que ya sabes sobre las plantas como productores en la red "
+"alimenticia, ofrece algunas sugerencias sobre cómo puede influir "
+"positivamente la empresa en el entorno."
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para escribir tu respuesta..."
+
+# 13
+msgid "Summarizing core ideas... about plants are producers"
+msgstr "Resumiendo ideas principales... sobre que las plantas son productores"
+
+msgid ""
+"Plants absorb energy directly from the sun. They use that energy to power "
+"<span class='key'>photosynthesis</span>, the process that combines carbon "
+"dioxide and water to form sugar. Green plants capable of photosynthesis are "
+"said to be <span class='key'>producers</span>. They are the base of the "
+"<span class='key'>food web</span>, the system of interactions between plants "
+"and <span class='key'>consumers</span>, the animals who consume the plants "
+"for food.  <span class='key'>First-order consumers</span> are animals who "
+"consume only plant material for food. Second-order consumers get their food "
+"by eating first-order consumers. Food webs are such complex sets of "
+"interactions that the loss of any part of the web can cause it to collapse. "
+"When this happens, some species may become extinct."
+msgstr ""
+"Las plantas absorben energía directamente del sol. Usan esa energía para la "
+"<span class='key'>fotosíntesis</span>, el proceso que combina dióxido de "
+"carbono y agua para formar azúcares. Las plantas verdes capaces de realizar "
+"la fotosíntesis se denominan <span class='key'>productores</span>. Son la "
+"base de la <span class='key'>red alimenticia</span>, el sistema de "
+"interacciones entre plantas y <span class='key'>consumidores</span>, los "
+"animales que consumen plantas para obtener alimento. Los <span "
+"class='key'>consumidores de primer orden</span> son los animales que sólo "
+"consumen materia vegetal para obtener alimento. Los consumidores de segundo "
+"orden obtienen su alimento comiendo a consumidores de primer orden. Las "
+"redes alimenticias son grupos de interacciones tan complejas que la pérdida "
+"de cualquier parte de la red puede provocar su colapso. Cuando esto ocurre, "
+"algunas especies pueden extinguirse."
+
+msgid ""
+"Photosynthesis combines water and carbon dioxide to form <span "
+"class='key'>simple sugars</span>. Simple sugars may then be combined to form "
+"complex <span class='key'>carbohydrates</span> like starch and <span "
+"class='key'>cellulose</span>. <span class='key'>Humans</span> are unable to "
+"digest cellulose as food, but make use of its fibers in such products as "
+"paper, cloth and wood."
+msgstr ""
+"La fotosíntesis combina agua y dióxido de carbono para formar <span "
+"class='key'>azúcares sencillos</span>. Los azúcares sencillos pueden "
+"combinarse después para formar <span class='key'>carbohidratos</span> "
+"complejos como el almidón o la <span class='key'>celulosa</span>. Los <span "
+"class='key'>humanos</span> somos incapaces de digerir la celulosa como "
+"alimento, pero hacemos uso de sus fibras en productos como el papel, la tela "
+"y la madera."
+
+# 14
+msgid "Reviewing key vocabulary related to... plants are producers"
+msgstr ""
+"Repasando vocabulario clave relacionado con... las plantas son productores"
+
+msgid "Producers"
+msgstr "Productores"
+
+msgid ""
+"Producers are organisms, such as plants, that obtain their food through the "
+"process of photosynthesis. Producers use the energy of sunlight to produce "
+"sugar, which is used as energy for survival and reproduction. Because they "
+"do not consume other organisms but instead are consumed by others, producers "
+"are at the bottom of the food chain."
+msgstr ""
+"Los productores son organismos, como las plantas, que obtienen su alimento a "
+"través del proceso de la fotosíntesis. Los productores usan la energía de la "
+"luz solar para producir azúcares, que se usan como energía para la "
+"supervivencia y la reproducción. Como no consumen otros organismos, sino que "
+"son consumidos por otros, los productores se encuentran en la base de la "
+"cadena alimenticia."
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"La fotosíntesis, el proceso segú nel cual los productores como las plantas "
+"obtienen su energía, usa la energía de la luz para convertir dióxido de "
+"carbono y agua en azúcares y oxígeno."
+
+msgid "Glucose"
+msgstr "Glucosa"
+
+msgid ""
+"In photosynthesis, the carbon dioxide molecules are combined to form a six-"
+"carbon compound called glucose. Glucose is a simple sugar used to store "
+"energy."
+msgstr ""
+"En la fotosíntesis, las moléculas de dióxido de carbono se combinan para "
+"formar un compuesto de seis carbonos llamado glucosa. La glucosa es un "
+"azúcar sencillo empleado para almacenar energía."
+
+msgid "Carbohydrates"
+msgstr "Carbohidratos"
+
+msgid ""
+"Glucose may be used for energy directly, or connected to other glucose "
+"molecules to form chains called carbohydrates.  Carbohydrates are used for "
+"energy by nearly all living things.  The oxygen released by photosynthesis "
+"is also used by plants and animals to help unlock the energy stored in "
+"carbohydrates.  Grains are examples of foods that are high in carbohydrates."
+msgstr ""
+"La glucosa puede usarse directamente para obtener energía, o conectarse a "
+"otras moléculas de glucosa para formar cadenas llamadas carbohidratos. Casi "
+"todos los seres vivos usan carbohidratos para obtener energía. El oxígeno "
+"liberado en la fotosíntesis también es usado por plantas y animales para "
+"liberar la energía almacenada en los carbohidratos. Los cereales son un "
+"ejemplo de alimento rico en carbohidratos."
+
+msgid ""
+"Cellulose is a plant carbohydrate which provides the plant with both stored "
+"energy and acts as a strong substance to help provide it with support. "
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"The purest natural form of cellulose is cotton."
+msgstr ""
+"La celulosa es un carbohidrato vegetal que proporciona a la planta "
+"almacenamiento de energía y una sustancia resistente que le ayuda a ofrecer "
+"soporte. La celulosa es el componente principal de las paredes que rodean "
+"todas las células vegetales. La forma natural más pura de celulosa es el "
+"algodón."
+
+msgid "Fiber"
+msgstr "Fibra"
+
+msgid ""
+"Cellulose is also the fiber, or tough thread-like substance, found in other "
+"types of plants. It is the fiber in the boll of the cotton flower."
+msgstr ""
+"La celulosa también es la fibra, o la sustancia fibrosa y resistente, que se "
+"encuentra en otros tipos de plantas. Es la fibra en la bola de la flor de "
+"algodón. "
+
+# 15
+msgid "Checking what you now know... about plants are producers"
+msgstr ""
+"Comprobando lo que sabes ahora... sobre que las plantas son productores"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Responder las siguientes seis (6) preguntas de examen te dará una idea de lo "
+"que sabes ahora y lo que necesitas seguir estudiando."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón SIGUIENTE cuando estés listo/a."
+
+# 16
+msgid "If all green plants died, would lions survive?"
+msgstr "Si todas las plantas verdes muriesen, ¿sobrevivirían los leones?"
+
+msgid "Yes, lions do not eat green plants."
+msgstr "Sí, los leones no comen plantas verdes."
+
+msgid "Yes, lions could still eat other animals."
+msgstr "Sí, los leones aún podrían comer a otros animales."
+
+msgid "No, the animals that lions eat need to eat green plants."
+msgstr "No, los animales que comen los leones necesitan comer plantas verdes."
+
+msgid "No, they would have no more plants to eat."
+msgstr "No, no tendrían más plantas que comer."
+
+msgid ""
+"No, although lions do not eat green plants, they eat animals that do. "
+"Without any green plants, there would be no animals for lions to eat."
+msgstr ""
+"No, aunque los leones no comen plantas verdes, comen animales que sí lo "
+"hacen. Sin plantas verdes, no habría animales que los leones pudiesen comer."
+
+msgid ""
+"Not quite, there wouldn't be any other animals for lions to eat because they "
+"would not have any plants as food, and would not survive."
+msgstr ""
+"No exactamente, no habría otros animales que los leones pudiesen comer "
+"porque no habría plantas como alimento, y no sobrevivirían."
+
+msgid ""
+"Correct. Lions are carnivores and eat animals. The animals they eat need "
+"plants to survive."
+msgstr ""
+"Correcto. Los leones son carnívoros y comen animales. Los animales que comen "
+"necesitan plantas para sobrevivir."
+
+msgid ""
+"Not quite, lions are carnivores, so they only indirectly eat plants. They "
+"eat animals that eat plants to survive."
+msgstr ""
+"No exactamente, los leones son carnívoros, así que sólo comen plantas de "
+"forma indirecta. Ellos comen animales que comen plantas para sobrevivir."
+
+# 17
+msgid ""
+"All food webs share what common feature? Rotate or flip the 3D box below "
+"either up or down to set your answer."
+msgstr ""
+"¿Qué característica común comparten todas las redes alimenticias? Gira la "
+"caja 3D a continuación hacia arriba o hacia abajo para marcar tu respuesta."
+
+msgid "Carnivores"
+msgstr "Carnívoros"
+
+msgid "Second-order consumers"
+msgstr "Consumidores de segundo orden"
+
+msgid "Birds"
+msgstr "Pájaros"
+
+msgid "Nope. Carnivores are not required."
+msgstr "No. Los carnívoros no son necesarios."
+
+msgid "Sorry...  Second-order consumers show up a lot, but aren't required."
+msgstr ""
+"Lo siento... Los consumidores de segundo orden son muy frecuentes, pero no "
+"son necesarios."
+
+msgid "Hmm... Food webs can happen under water.  No birds."
+msgstr ""
+"Hmm... Las redes alimenticias pueden existir bajo el agua. No son los "
+"pájaros."
+
+msgid "There you go! All food webs are based on producers."
+msgstr "¡Eso es! Todas las redes alimenticias se basan en productores."
+
+# 18
+msgid "Choose the <span class='blink'>correct</span> statement..."
+msgstr "Elige la afirmación <span class='blink'>correcta</span>..."
+
+msgid "Cellulose is made by plants from oxygen and sulfur."
+msgstr "La celulosa es fabricada por las plantas a partir de oxígeno y azufre."
+
+msgid "Photosynthesis uses the sun's energy to make complex molecules."
+msgstr ""
+"La fotosíntesis emplea la energía solar para crear moléculas complejas."
+
+msgid "Photosynthesis breaks down complex molecules to release energy."
+msgstr "La fotosíntesis descompone moléculas complejas para liberar energía."
+
+msgid "Cellulose is an important plant protein used for movement."
+msgstr ""
+"La celulosa es una importante proteína vegetal empleada en el movimiento."
+
+msgid "Sorry. Cellulose doesn't include any sulfur."
+msgstr "Lo siento. La celulosa no incluye azufre."
+
+msgid ""
+"Good job! Photosynthesis captures solar energy for living things to use."
+msgstr ""
+"¡Buen trabajo! La fotosíntesis captura la energía solar para que los seres "
+"vivos la utilicen."
+
+msgid "No... Photosynthesis stores energy."
+msgstr "No... La fotosíntesis almacena energía."
+
+msgid "Not this one... Cellulose isn't a protein, it's a carbohydrate."
+msgstr "No es esta... La celulosa no es una proteína, es un carbohidrato."
+
+# 19
+msgid ""
+"The source for the carbon needed to make simple sugars in photosynthesis "
+"is..."
+msgstr ""
+"La fuente del carbono necesario para crear azúcares sencillos en la "
+"fotosíntesis es..."
+
+msgid "Air"
+msgstr "Aire"
+
+msgid "Animals"
+msgstr "Animales"
+
+msgid "Right! Photosynthesis combines carbon dioxide molecules to make sugar."
+msgstr ""
+"¡Correcto! La fotosíntesis combina moléculas de dióxido de carbono para "
+"crear azúcares."
+
+msgid "Sorry. Water doesn't contain carbon."
+msgstr "Lo siento. El agua no contiene carbono."
+
+msgid "No. Plants don't absorb much carbon from soil."
+msgstr "No. Las plantas no absorben mucho carbono del suelo."
+
+msgid "Animals are consumers. Try again."
+msgstr "Los animales son consumidores. Inténtalo otra vez."
+
+# 20
+msgid ""
+"Which of the following is <span class='blink'>not</span> a cellulose product?"
+msgstr ""
+"¿Cuál de los siguientes <span class='blink'>no</span> es un producto de la "
+"celulosa?"
+
+msgid "Wood"
+msgstr "Madera"
+
+msgid "Scrambled Egg"
+msgstr "Huevos revueltos"
+
+msgid "Cotton Cloth"
+msgstr "Tela de algodón"
+
+msgid "Paper"
+msgstr "Papel"
+
+msgid "Sorry.  Wood is a cellulose product."
+msgstr "Lo siento. La madera es un producto de celulosa."
+
+msgid "There you go! Scrambled eggs have no cellulose."
+msgstr "¡Eso es! Los huevos revueltos no tienen celulosa."
+
+msgid "Nope. Cotton bolls are pure cellulose."
+msgstr "No. Las bolas de algodón son celulosa pura."
+
+msgid "No. Paper is a wood/water product."
+msgstr "No. El papel es un producto de madera/agua."
+
+# 21
+msgid ""
+"Look at the diagram showing the results of an experiment of increasing the "
+"level of carbon dioxide and its effect on plant growth. Then click on the "
+"statement that you infer from analyzing the data in the bar graph below. "
+"(Suboptimal means less than optimal amount of  water.)"
+msgstr ""
+"Mira el diagrama que muestra los resultados de un experimento incrementando "
+"el nivel de dióxido de carbono y su efecto en el crecimiento de las plantas. "
+"Haz clic en la afirmación que deduces tras analizar los datos del gráfico de "
+"barras a continuación. (Subóptimo significa cantidad de agua menor a la "
+"óptima)."
+
+msgid "Relative Plant Growth Under Increased CO<sub>2</sub> Conditions"
+msgstr ""
+"Crecimiento relativo de la planta bajo condiciones de incremento del "
+"CO<sub>2</sub>"
+
+msgid "Plants with optimal water"
+msgstr "Plantas con agua óptima"
+
+msgid "Plants with suboptimal water"
+msgstr "Plantas con agua subóptima"
+
+msgid "Increased amounts of CO<sub>2</sub> dramatically enhanced plant growth."
+msgstr ""
+"Un incremento de la cantidad de CO<sub>2</sub> mejoró considerablemente el "
+"crecimiento de la planta."
+
+msgid ""
+"In low CO<sub>2</sub> conditions, plants grew much better with less water "
+"than optimal."
+msgstr ""
+"En condiciones de bajo CO<sub>2</sub>, las plantas crecieron mucho mejor con "
+"menos agua que la óptima."
+
+msgid "The amount of water the plants received did not affect their growth."
+msgstr ""
+"La cantidad de agua que las plantas recibieron no afectó a su crecimiento."
+
+msgid ""
+"The amount of carbon dioxide the plants were exposed to did not affect their "
+"growth."
+msgstr ""
+"La cantidad de dióxido de carbono al que las plantas fueron expuestas no "
+"afectó a su crecimiento."
+
+msgid ""
+"Correct. The blue blocks show the growth increase from 31% to 51% under "
+"optimal water conditions. Then when the water decreased, you can see the "
+"CO<sub>2</sub> difference in the red blocks. It went from 63% to 219%."
+msgstr ""
+"Correcto. Los bloques azules muestran el aumento del crecimiento del 31% al "
+"51% bajo condiciones óptimas de agua. Después, cuando el agua disminuye, "
+"puedes ver que la diferencia de CO<sub>2</sub> en los bloques rojos. Pasó "
+"del 63% al 219%."
+
+msgid ""
+"No, with more CO<sub>2</sub>, plant growth in water shortage is 219%. That "
+"is 4 times larger than 51%, the growth increase they had with optimal amount "
+"of water."
+msgstr ""
+"No, con más CO<sub>2</sub> el crecimiento de la planta con escasez de agua "
+"es del 219%. Eso es 4 veces más que el 51%, el aumento del crecimiento que "
+"tuvieron con una cantidad óptima de agua."
+
+msgid ""
+"No, both factors: water and CO<sub>2</sub>, affected plant growth. You can "
+"see the difference in color blocks – with 300 ppm CO<sub>2</sub> (the blocks "
+"on the left), not having enough water caused 32% growth increase. On the "
+"right (600 ppm CO<sub>2</sub>), the lack of water caused a plant growth "
+"increase of 168%."
+msgstr ""
+"No, ambos factores, el agua y el CO<sub>2</sub>, afectaron al crecimiento de "
+"la planta. Puedes ver la diferencia en los bloques de colores: con 300 ppm "
+"de CO<sub>2</sub> (los bloques de la izquierda), no tener suficiente agua "
+"provocó un incremento del crecimiento de un 32%. En la derecha (600 ppm de "
+"CO<sub>2</sub>), la falta de agua provocó un incremento del crecimiento de "
+"la planta de un 168%."
+
+msgid ""
+"No, both factors: water and CO<sub>2</sub>, affected plant growth. You can "
+"see the difference in the same color blocks. The blue blocks show the growth "
+"increase from 31% to 51% under optimal water conditions. Then when the water "
+"decreased, you can see the CO<sub>2</sub> difference in the red blocks. It "
+"went from 63% to 219%."
+msgstr ""
+"No, ambos factores, el agua y el CO<sub>2</sub>, afectaron al crecimiento de "
+"la planta. Puedes ver la diferencia en los mismos bloques de colores. Los "
+"bloques azules muestran el aumento del crecimiento del 31% al 51% bajo "
+"condiciones óptimas de agua. Después, cuando el agua disminuye, puedes ver "
+"que la diferencia de CO<sub>2</sub> en los bloques rojos. Pasó del 63% al "
+"219%."
+
+msgid ""
+"Relative Plant Growth under Different CO<sub>2</sub> and Water Condition"
+msgstr ""
+"Crecimiento Relativo de Plantas bajo Distintas Condiciones de CO<sub>2</sub> "
+"y Agua"
+
+msgid ""
+"In low CO<sub>2</sub> conditions, plants grew less in suboptimal water "
+"conditions."
+msgstr ""
+"En condiciones de bajo CO<sub>2</sub>, las plantas crecieron menos que en "
+"condiciones de agua menores a las óptimas."
+
+msgid ""
+"Correct! The blue blocks show the growth increase under optimal water "
+"conditions. Then when the water decreased, you can see the CO<sub>2</sub> "
+"difference in the red blocks. The red blocks show a much greater growth "
+"increase."
+msgstr ""
+"¡Correcto! Los bloques azules muestran el incremento de crecimiento bajo "
+"condiciones de agua óptimas. Luego, cuando el agua decrementó, puedes ver la "
+"diferencia de CO<sub>2</sub> en los bloques rojos. Los bloques rojos "
+"muestran un incremento de crecimiento mucho mayor."
+
+msgid ""
+"No! In low CO<sub>2</sub> conditions, plants with less water actually grew "
+"better."
+msgstr ""
+"¡No! En condiciones de bajo CO<sub>2</sub>, las plantas con menos agua "
+"crecieron mejor en realidad."
+
+msgid "Nope! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr ""
+"¡Nop! Ambos factores, el agua y el CO<sub>2</sub>, afectaron el crecimiento "
+"de las plantas."
+
+msgid "No! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr ""
+"¡No! Ambos factores, el agua y el CO<sub>2</sub>, afectaron el crecimiento "
+"de las plantas."
+
+# 22
+msgid "You've completed the Plants are Producers review."
+msgstr "Has completado el repaso de Las plantas son productores."
+
+msgid "Congratulations, "
+msgstr "Enhorabuena,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes comprobar cómo lo has hecho en los 'Repasos rápidos' y las 'Preguntas "
+"de examen' de este repaso haciendo clic en el siguiente botón."

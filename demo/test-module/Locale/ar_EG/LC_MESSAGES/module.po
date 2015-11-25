@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "إختبار قصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار قصير رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Play"
+msgstr "اللعب"
+
+msgid "Pause"
+msgstr "استراحة"
+
+msgid "Stop"
+msgstr "توقف"
+
+msgid "Mute"
+msgstr "أخرس"
+
+msgid "Unmute"
+msgstr "غير صامت"
+
+msgid "Max volume"
+msgstr "حجم ماكس"
+
+msgid "Full screen"
+msgstr "كامل الشاشة"
+
+msgid "Restore screen"
+msgstr "استعادة الشاشة"
+
+msgid "Repeat"
+msgstr "كرر"
+
+msgid "Repeat off"
+msgstr "تكرار قبالة"
+
+msgid "Update Required"
+msgstr "التحديث المطلوبة"
+
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr "لتشغيل الوسائط ستحتاج إما إلى تحديث المتصفح لنسخة الأخيرة أو تحديث بك"
+
+msgid "Flash plugin"
+msgstr "فلاش البرنامج المساعد"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر فوق، وعقد وحرك الماوس صعودا وهبوطا لتدوير مربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "في العمل"
+
+msgid "The Problem"
+msgstr "مشكلة"
+
+msgid "Your Assignment"
+msgstr "تعيين الخاص"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيفية إجابتك للإختبار السريع وبالأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "استعداد للمشاركة الشيك سريعة؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "استعداد للمسابقة مشاركة سؤالك؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"

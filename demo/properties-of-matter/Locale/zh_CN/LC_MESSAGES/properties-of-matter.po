@@ -1,0 +1,1220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: properties of matter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-24 15:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+#. 1
+msgid "Welcome to the Properties of Matter review"
+msgstr "歡迎來到...「物質的性質」單元"
+
+msgid "Properties of Matter"
+msgstr "物質的性質"
+
+msgid "Start"
+msgstr "開始"
+
+#. 2
+msgid "Thinking about... the properties of matter"
+msgstr "想一想…「物質的性質」"
+
+msgid ""
+"Can you make diamonds in the oven? Do pencils grow on trees? Some substances "
+"are naturally made, and others are manufactured (or made by humans). The "
+"substances that come from nature are changed to make them have different "
+"properties. Glass is made from natural sand; sand and glass each have very "
+"different characteristics or properties. Most naturally made material can be "
+"recycled in nature by itself. But <span class='key'>manufactured materials</"
+"span> need our help to be recycled. We can recycle glass, plastic, paper, "
+"and cans by taking them to a recycling center."
+msgstr ""
+"您可以在微波爐中做鑽石嗎？鉛筆能長在樹上嗎？有些物質是大自然製造的，有些是人"
+"造的(人類製造的)。來自大自然的物質可以被改變使具有不同的性質。例如：玻璃是由"
+"天然的砂製成，砂和玻璃各自有非常不同的特徵或性質。大多數自然材料可以被大自然"
+"回收；但<span class='key'>人造材料</span>常需要我們的幫助才能進行回收。我們可"
+"以把玻璃、塑膠、紙張與罐頭拿到回收廠進行回收。"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+#. 3
+msgid "Checking what you know... about the properties of matter"
+msgstr "看看你了解了多少…關於「物質的性質」"
+
+msgid ""
+"Look at the pictures below and decide if they are made by humans or can be "
+"found in nature by dragging them to the right column."
+msgstr ""
+"看看下面的圖片並依據他們是由「人類製造的」或是「自然存在的」，把它們拉到右欄"
+"的相對位置。"
+
+msgid ""
+"Wood, human offspring, stones, and sand are made in nature. Paper, pottery, "
+"and plastic are made by humans. People are sometimes inspired by nature to "
+"make things. Sometimes they use objects found in nature and change them to "
+"meet their needs, like making paper from wood."
+msgstr ""
+"木材、人類的後代、石頭、沙子都算是自然生成的，而紙張、陶瓷、塑料是人造的。人"
+"有時候受到自然的啟發製作出東西。有時候他們使用大自然的東西，並改變它們符合需"
+"要，例如利用木材造紙。"
+
+msgid "Made by Humans"
+msgstr "人類製造的"
+
+msgid "Found in Nature"
+msgstr "自然存在的"
+
+msgid "wood"
+msgstr "木材"
+
+msgid "paper"
+msgstr "紙"
+
+msgid "baby"
+msgstr "寶寶"
+
+msgid "stone"
+msgstr "石"
+
+msgid "pottery"
+msgstr "陶器"
+
+msgid "sand"
+msgstr "沙"
+
+msgid "plastic"
+msgstr "塑膠"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+#. 4
+msgid "Reviewing core ideas... about the properties of matter"
+msgstr "複習重要觀念…「物質的性質」"
+
+msgid ""
+"All physical substances are examples of <span class='key'>matter</span> -- "
+"anything that takes up space and has mass. All substances have properties "
+"that make them unique. In this review we will look at different properties "
+"of matter and changes that happen to those properties."
+msgstr ""
+"所有自然界的東西都是<span class='key'>物質</span>的例子。「物質」佔有空間、具"
+"有質量。所有的物質具有獨特的屬性。在這單元中，我們將著眼於物質的不同性質和變"
+"化。"
+
+msgid "Properties of a ball:"
+msgstr "球的特性："
+
+msgid "Round"
+msgstr "圓形"
+
+msgid "Smells like rubber"
+msgstr "聞起來像橡膠"
+
+msgid "Solid"
+msgstr "固體"
+
+msgid "Bouncy"
+msgstr "有彈性"
+
+msgid ""
+"Determining the properties of a substance and how its properties make it "
+"useful are important."
+msgstr "決定物質的性質和這性質如何讓其變得有用，是很重要的。"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid ""
+"Some properties of matter can be determined from the use of our five senses "
+"of sight, hearing, taste, touch, and smell. For example, properties such as "
+"taste (sweet, sour), temperature (hot, cold), or color (red, yellow) can be "
+"determined with our senses."
+msgstr ""
+"物質的某些屬性可以用我們的五種感官：視覺、聽覺、味覺、觸覺和嗅覺來決定。例"
+"如，味道(甜、酸)，溫度(熱、冷)，或顏色(紅、黃)，都可用我們的感官來判斷。"
+
+msgid "melting chocolate"
+msgstr "融化的巧克力"
+
+msgid "boiling water"
+msgstr "沸騰的水"
+
+msgid "frozen lake"
+msgstr "結冰的湖"
+
+msgid ""
+"Other properties of matter can be determined through the use of tools or "
+"scientific instruments, for example, a <span class='key'>thermometer</span> "
+"can be used to determine <span class='key'>melting point</span> (when a "
+"substance changes from a solid to a liquid), <span class='key'>boiling "
+"point</span> (when a substance changes from a liquid to a gas) or <span "
+"class='key'>freezing point</span> (when a substance changes from a liquid to "
+"a solid)."
+msgstr ""
+"還有其它物質屬性可以透過工具或科學儀器來決定，例如，溫度計可以用來確定<span "
+"class='key'>熔點</span>（從固體變為液體）、<span class='key'>沸點</span>（從"
+"液體變為氣體）或<span class='key'>凝固點</span>（從液體到固體）。"
+
+#. 5
+msgid ""
+"Question A. Match each scientific instrument to its name and the properties "
+"that we use to measure them by selecting an item in the drop down lists."
+msgstr ""
+"問題A. 將科學器材名稱和我們用這器材來量測的屬性相互配對。請點選並從下拉選單中"
+"選取。"
+
+msgid "Scientific Instruments:"
+msgstr "科學器材："
+
+msgid "Properties:"
+msgstr "性質："
+
+msgid "Scale"
+msgstr "體重計"
+
+msgid "Thermometer"
+msgstr "溫度計"
+
+msgid "Graduated Cylinder"
+msgstr "量筒"
+
+msgid "Temperature"
+msgstr "溫度"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Volume"
+msgstr "容量"
+
+msgid ""
+"Question B. Click on <span class='red blink bold'>ALL</span> the properties "
+"of matter that are usually best determined through the use of tools or "
+"scientific instruments."
+msgstr ""
+"問題B. 請點擊<span class='red blink bold'>所有</span>最好是透過工具或科學儀器"
+"來確定的物質性質。(複選)"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "Odor"
+msgstr "氣味"
+
+msgid "Melting Point"
+msgstr "熔點"
+
+msgid "Freezing Point"
+msgstr "凝固點"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid ""
+"Good job. The density, freezing point, and melting point of a matter are "
+"best determined when tools and scientific instruments are used. Odor is "
+"usually measured with human sensation and detection as the base of the "
+"measurement."
+msgstr ""
+"好棒！密度、凝固點、與熔點最好是透過工具和科學儀器來測定。氣味通常是靠人類感"
+"官來感測。"
+
+msgid ""
+"Not quite. The density, freezing point, and melting point of a matter are "
+"best determined when tools and scientific instruments are used. Odor is "
+"usually measured with human sensation and detection as the base of the "
+"measurement."
+msgstr ""
+"不完全是。密度、凝固點、與熔點最好是透過工具和科學儀器來測定。氣味通常是靠人"
+"類感官來感測。"
+
+#. 6
+msgid "More core ideas... about the properties of matter"
+msgstr "更多核心思想...關於物質的性質"
+
+msgid ""
+"We can describe matter based on the state it is in. <span class='key'>Solid</"
+"span>, <span class='key'>liquid</span>, and <span class='key'>gas</span> are "
+"the three common states used to describe matter. The particles that make up "
+"matter are atoms and molecules. The physical characteristics of those <span "
+"class='key'>atoms</span> and <span class='key'>molecules</span> decide its "
+"state."
+msgstr ""
+"我們可以根據物質的狀態來描述物質，<span class='key'>固態</span>，<span "
+"class='key'>液態</span>，和<span class='key'>氣態</span>就是三種用來描述物質"
+"的常見狀態。構成物質的粒子是原子和分子，那些<span class='key'>原子</span>和"
+"<span class='key'>分子</span>的物理特性決定物質的狀態。"
+
+msgid "solid"
+msgstr "固體"
+
+msgid "liquid"
+msgstr "液體"
+
+msgid "gas"
+msgstr "氣體"
+
+msgid "plasma"
+msgstr "電漿"
+
+msgid ""
+"Solids are defined as substances that have a definite mass, shape and <span "
+"class='key'>volume</span>. Liquids are substances that have a definite mass "
+"and volume, but a shape that can vary. Gases are substances that have a "
+"definite mass but a shape and volume that can vary. For example, air is a "
+"gas. The main molecules in air are nitrogen, oxygen, and carbon dioxide. You "
+"can feel air molecules moving when the wind blows. Air particles are too "
+"small to be seen, but they can be felt when being pushed by a force we call "
+"pressure."
+msgstr ""
+"「固體」被定義為具有一定的質量、形狀和<span class='key'>體積</span>的物質；"
+"「液體」是具有一定的質量和體積，但可以有所不同形狀的物質；「氣體」則具有一定"
+"的質量，但是形狀和體積可改變的物質。例如，空氣是一種氣體，在空氣中的主要幾種"
+"分子是氮、氧和二氧化碳。風吹動的時候，你能感覺到的就是空氣分子的移動。空氣的"
+"粒子太小，所以我們無法看到，但可以透過施加所謂的壓力而感受得到。"
+
+msgid ""
+"Plasmas are a special state of matter that is formed under such intense heat "
+"that even atoms and molecules break up. The Sun is an example of a plasma."
+msgstr ""
+"「電漿」是物質的一種特殊狀態，在非常高溫時形成，在這溫度時，甚至原子和分子都"
+"會分裂。太陽是電漿的例子。"
+
+msgid ""
+"Matter can combine and separate in different ways. It may seem that snow "
+"disappears when it melts, but it really just changes into the liquid state "
+"of water. When water in a kettle boils down to almost nothing, it has turned "
+"into the gas state, vapor. The amount of water does not change when it goes "
+"from ice to water, or from water to vapor. Under normal circumstances, "
+"matter is not created or destroyed."
+msgstr ""
+"物質可以用不同的方式結合和分離。雪融化時看起來好像不見了，但其實它只是變為水"
+"的液體狀態；當水在水壺裡煮沸到幾乎煮乾，它也是變成氣態、蒸汽。水從冰變成水或"
+"蒸氣時，水的總量都沒有改變。也就是說，在一般情況下，物質無法被創造或摧毀。"
+
+msgid "Physical Change"
+msgstr "物理變化"
+
+msgid "Chemical Change"
+msgstr "化學變化"
+
+msgid "Chemical change"
+msgstr "化學變化"
+
+msgid ""
+"Another way to describe the properties of matter is to use the terms "
+"physical property and chemical property. A <span class='key'>physical "
+"property</span> is one that can be determined without changing the kind or "
+"identity of the matter. For example, the freezing or boiling points of water "
+"are physical properties because determining these points does not change "
+"kind of matter."
+msgstr ""
+"另一種描述物質性質的方式是「物理性質」和「化學性質」。<span class='key'>物理"
+"性質</span>指的是不需要改變物質種類或特性就可以決定的性質，例如，水的凝固點或"
+"沸點是物理性質，因為要決定凝固點或沸點並不必改變物質的種類。"
+
+#. 7
+msgid ""
+"Question A. A hydrologist studies the location, movement, and quality of "
+"water. A hydrologist recognizes the importance that water exists as…"
+msgstr ""
+"問題A. 水文學家研究(地球內部、地表和空氣中)有關水的位置、流動和品質等問題。請"
+"問水文學家需要認識水以什麼型態存在呢..."
+
+msgid "a solid, a liquid, and a gas"
+msgstr "固態、液態和氣態"
+
+msgid "a solid and a liquid"
+msgstr "固態和液態"
+
+msgid "a solid and a gas"
+msgstr "固態和氣態"
+
+msgid "a solid only"
+msgstr "只有固態"
+
+msgid ""
+"Question B. Is this is a PHYSICAL or CHEMICAL property? Click on the right "
+"answer."
+msgstr "問題B. 這是物理或化學性質呢？請點選正確的答案。"
+
+msgid "PHYSICAL"
+msgstr "物理"
+
+msgid "CHEMICAL"
+msgstr "化學"
+
+msgid "Hydrogen is a colorless, tasteless and odorless gas."
+msgstr "氫氣是一種無色、無味、無臭的氣體。"
+
+msgid ""
+"Hydrogen has the potential to ignite and explode given the right conditions."
+msgstr "氫在適當的情況下可以被點燃和爆炸。"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid ""
+"Correct, water molecules can exist in a solid (ice), liquid (water), and gas "
+"(vapor) form."
+msgstr "答對了！水分子會以固態（冰）、液態（水）和氣態（蒸氣）形式存在。"
+
+msgid ""
+"Not quite, water molecules can exist in a gas (vapor) form as well as solid "
+"(ice) and liquid (water)."
+msgstr "不完全對喔！水分子會以氣態（蒸氣）、固態（冰）和液態（水）形式存在。"
+
+msgid ""
+"Not quite, water molecules can exist in a solid (ice) form as well as liquid "
+"(water) and gas (vapor) form."
+msgstr "不完全對喔！水分子會以固態（冰）、液態（水）和氣態（蒸氣）形式存在。"
+
+msgid ""
+"Not quite, water molecules can exist in a gas (vapor) and liquid (water) "
+"form as well as solid (ice)."
+msgstr ""
+"不完全對喔！水分子會以氣態（蒸汽）和液態（水），以及固態（冰）的形式存在。"
+
+msgid ""
+"Correct, descriptions such as colorless, tasteless and odorless are physical "
+"properties of hydrogen. They can be determined without changing the kind or "
+"identity of the matter."
+msgstr ""
+"答對了！例如，無色、無味、無臭的這些描述，都是氫的物理性質。這些性質不需要改"
+"變物質的種類和特質，就可以觀察到並判定的。"
+
+msgid ""
+"No, descriptions such as colorless, tasteless and odorless are not "
+"properties that can be seen when a substance is changed into another kind of "
+"substance."
+msgstr ""
+"不對喔！例如，無色、無味、無臭的這些描述，並不是在物質改變成另一種物質時，用"
+"來觀察並判定的主要性質。"
+
+# 中文意思不太清楚?
+msgid ""
+"No, descriptions such as having the potential to ignite and explode are not "
+"determined without changing the kind or identity of the matter."
+msgstr ""
+"不對喔！可以點燃和產生爆炸的這些描述，無法在不改變物質的種類和特質的情況下來"
+"判定。"
+
+msgid ""
+"Correct, whether or not a substance will burn is a chemical property, "
+"because when something burns, the kind of substance is changed into new "
+"kinds of matter."
+msgstr ""
+"答對了！物質是否會燃燒，是一種化學性質。因為東西燃燒的時候，物質會改變成新物"
+"質。"
+
+#. 8
+msgid "More core ideas... on the properties of matter"
+msgstr "更多核心思想...對物質的性質"
+
+msgid ""
+"Everything is made up of matter and has certain properties, physical and "
+"chemical. Sometimes we change these properties. When we cut or color a piece "
+"of paper we are changing its size and color, but it is still paper. When we "
+"freeze water, we are changing the state from liquid to solid. It is still "
+"the same substance. These are all <span class='key'>physical changes</span>, "
+"which usually can be undone or reversed."
+msgstr ""
+"萬物都是由物質組成且具有某些性質──也就是，物理和化學性質。有時我們會去改變這"
+"些性質。例如，當我們剪紙或上色時，我們改變紙的大小和顏色，但它仍是紙；當我們"
+"把水冷凍，我們是在改變水的狀態──從液體到固體，但它仍然是相同的物質。這些都是"
+"<span class='key'>物理變化</span>，通常可回復或逆轉。"
+
+msgid ""
+"There is another type of change -<span class='key'>chemical change</span>- "
+"that makes an object change into a different substance. The properties "
+"before and after a chemical change of a substance are different. When wood "
+"burns and metal rusts, they form new substances. A chemical change causes "
+"matter to become a new kind of matter."
+msgstr ""
+"還有另一種類型的變化──<span class='key'>化學變化</span>，它使物質變化成另一種"
+"不同的物質。化學變化前後的物質性質是不同的，例如，當木材燃燒和金屬生鏽時，便"
+"形成新的物質。化學變化使的物質成為一種新的物質。"
+
+msgid ""
+"One reason the properties of matter are important is because we have "
+"different purposes for things. For example, how much heat passes through "
+"something is an important property when you are deciding a material's use. "
+"Sometimes the object has one purpose based on its specific property."
+msgstr ""
+"物質性質很重要的一個原因，是因為我們對不同東西常會有不同的使用目的。例如，你"
+"要決定選用哪種材料時，它能允許多少熱能通過，可能就是一個要考慮的重要問題。有"
+"時候物體因為具有特定性質，所以有特定的使用目的。"
+
+msgid ""
+"Let's use a physical property to describe the differences between plastic "
+"and metal. If you put a plastic spoon and a metal spoon in a warm drink, the "
+"metal spoon becomes warm and the plastic one does not. How easy or difficult "
+"it is for heat to pass through a substance is called <span class='key'>heat "
+"conductivity</span>."
+msgstr ""
+"讓我們用一個物理屬性來描述塑膠和金屬之間的差異。如果你把一個塑膠勺和金屬勺子"
+"放在一杯熱飲中，金屬勺會變熱但塑膠勺較不會。熱通過物質的難易度就稱作<span "
+"class='key'>導熱性</span>。"
+
+msgid ""
+"Like most metals, substances that are good at carrying heat are called <span "
+"class='key'>heat conductors.</span> Metal pans conduct heat from the stove "
+"to cook the food inside it. Substances such as wood and plastic that are not "
+"good at carrying heat are called thermal <span class='key'>insulators.</span>"
+msgstr ""
+"容易導熱的物質──像大多數的金屬，稱為<span class='key'>「熱導體」</span>。金屬"
+"的鍋子會傳導爐子的熱量以將食物煮熟。物質如木材和塑膠，則不容易導熱，稱為"
+"<span class='key'>「熱絕緣體」</span>。"
+
+msgid ""
+"Many pans have plastic handles that do not carry heat from the pan to the "
+"part we touch. Pans are good conductors, but they are too hot to touch. So "
+"we use insulators made of fabric and padding to fix this problem."
+msgstr ""
+"很多鍋子都有不會導熱的塑膠把手。鍋子是良導體，但他們太燙手；所以我們也用布料"
+"和填充物等絕緣體來解決這個問題。"
+
+#. 9
+msgid ""
+"Are these changes physical or chemical? Hover your mouse on the texts to "
+"view an image."
+msgstr "這些變化是物理或化學變化？可將滑鼠停在文字上觀看圖像。"
+
+msgid "Molding clay into a bowl"
+msgstr "粘土塑成碗"
+
+msgid "Leaves changing color"
+msgstr "葉變顏色"
+
+msgid "Gasoline burning in a car"
+msgstr "汽油焚燒汽車"
+
+msgid "An apple rotting"
+msgstr "蘋果腐爛"
+
+msgid "Dissolving salt in water"
+msgstr "在水中溶解鹽"
+
+msgid "Chopping up potatoes"
+msgstr "拿刀切馬鈴薯"
+
+msgid "Bleaching a shirt to get a spot out"
+msgstr "漂白襯衫去除污漬"
+
+msgid "Ripping a hole in a shirt"
+msgstr "在襯衫上撕開洞"
+
+msgid "Hanging a shirt out to dry in the sun"
+msgstr "把襯衫掛在陽光下曬乾"
+
+msgid "ANSWER"
+msgstr "答案"
+
+#. 10
+msgid ""
+"Using what you know... about the properties of matter... to solve a problem"
+msgstr "用你知道的......關於物質的性質......解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"Suppose you were to design a house for a client who will build it. You are "
+"comparing using metal to wood for the foundation of the house.  Using what "
+"you know about properties of matter, what would you consider the benefit of "
+"each material? You need to compare the two for the client."
+msgstr ""
+"假設你要為客戶設計一個房子，此時您正在評估使用金屬或木頭做為房子的地板。以你"
+"對物質性質的了解，評估並比較這兩種材料的優點，以提供給客戶做比較。"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid ""
+"Which material would you suggest be used for the design? In the winter, what "
+"problem might people in a house built in wood or metal face? What material "
+"would you then suggest to fix this problem?"
+msgstr ""
+"請問這兩種材料中，你會建議用哪一種材料設計呢？木頭或金屬造的房子在冬季裡可能"
+"會遇到什麼問題呢？你會進一步建議用什麼材料來解決這個問題呢？"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+#. 11
+msgid "Summarizing core ideas... about the properties of matter"
+msgstr "核心觀念總結…有關「物質的性質」"
+
+msgid ""
+"<span class='key'>Matter</span> is the term used to describe all the "
+"physical substances of the universe. Determining the properties of a "
+"substance and how its properties make it useful are important. Matter can be "
+"described and classified according to its different properties. Some "
+"properties of matter can be determined from the use of our five senses. "
+"Other properties of matter can be determined through the use of tools or "
+"scientific instruments. One way to classify matter is to see if they are "
+"naturally made, or manufactured. <span class='key'>Solid</span>, <span "
+"class='key'>liquid</span> and <span class='key'>gas</span> are the three "
+"most common states that we use to describe matter. Another way to make a "
+"distinction regarding states of matter is between <span class='key'>physical "
+"properties</span> and <span class='key'>chemical properties</span> and their "
+"changes. Matter can combine and separate in different ways. <span "
+"class='key'>Physical properties</span> are those that do not change the "
+"nature of matter. <span class='key'>Physical change</span> is when a "
+"substance changes from one state to another without changing into a new "
+"substance. <span class='key'>Chemical properties</span> are those that can "
+"be seen when a substance is changed to form new substances. A <span "
+"class='key'>chemical change</span> causes matter to become a new kind of "
+"matter. Different properties are suited to different purposes. For example "
+"substances differ based on how they allow heat to pass; this property is "
+"called <span class='key'>heat conductivity</span>.  Substances that are good "
+"at carrying heat are called <span class='key'>heat conductors</span>; "
+"substances that are not good at carrying heat are called <span "
+"class='key'>heat insulators</span>."
+msgstr ""
+"<span class='key'>物質</span>是用於描述宇宙間的有形物體的一種專有名詞。決定物"
+"質的性質和如何運用這個性質，是很重要的。物質可以根據它的不同性質來描述和分"
+"類。物質的一些性質可以使用我們的五種感官來決定；另一些則可以透過工具或科學儀"
+"器來決定。物質分類的另一個方法，是看它們是「天然存在的」或是「人造的」。 "
+"<span class='key'>固態</span> ， <span class='key'>液態</span>和<span "
+"class='key'>氣態</span>也是我們最常用來描述物質的三種狀態。還有一種區分物質狀"
+"態的方法是分為：<span class='key'>物理性質</span>和<span class='key'>化學性質"
+"</span>。 <span class='key'>物理性質</span>指的是物質本質不改變時就可以看到的"
+"性質、<span class='key'>物理變化</span>時，物質從一種狀態轉變成另一種狀態，但"
+"不會變成新物質；<span class='key'>化學性質</span>指的是物質被改變成另一種物質"
+"時，才可以看到的性質，<span class='key'>化學變化</span>時，物質會變成一種新物"
+"質。物質有不同的性質，所以也就可以適用於不同的目的，例如，物質間<span "
+"class='key'>導熱性</span>可能不同：善於導熱的物質被稱為<span class='key'>熱導"
+"體</span> 、不善於導熱的物質被稱為<span class='key'>絕緣體</span> 。我們可以"
+"運用這個不同性質於不同的用途上。"
+
+#. 12
+msgid "Reviewing key vocabulary related to... the properties of matter"
+msgstr "複習關鍵名詞…「物質的性質」"
+
+msgid "Manufactured Material"
+msgstr "人造材料"
+
+msgid ""
+"Manufactured materials are man-made materials. Most naturally-made material "
+"can be recycled in nature by itself. But manufactured materials need our "
+"help to be recycled. We can recycle glass, plastic, paper, and cans by "
+"taking them to a recycling center."
+msgstr ""
+"「人造材料」指的就是經過人類生產加工過所得到的材料。大部分天然材料可以被自然"
+"回收，但人造材料(常)需要我們的幫助進行回收。我們可以把玻璃、塑膠、紙張和罐頭"
+"拿到回收廠回收。"
+
+msgid "Matter"
+msgstr "物質"
+
+msgid ""
+"Anything that has mass and takes up space is called matter. All matter is "
+"made up of particles that are too small to see, called atoms."
+msgstr ""
+"凡是有質量並佔有空間的都稱為「物質」。所有物質都是由一種非常微小的粒子組成，"
+"叫做原子。"
+
+msgid "Melting point"
+msgstr "熔點"
+
+msgid ""
+"The melting point is the temperature at which a solid turns to a liquid. "
+"Different solids have different melting points. For example, the melting "
+"point of an ice cube is 32°F (0°C). But a material called tungsten, which is "
+"used in light bulbs, has a melting point of 6170°F (3410°C). The high "
+"melting point of tungsten makes it possible to use in a light bulb without "
+"melting when the light is turned on."
+msgstr ""
+"「熔點」是指固體變為液體的溫度。不同物質其固體的熔點常會不同。例如，冰的熔點"
+"為32°F（0℃）；但用在燈泡的鎢材料，具有6170°F（3410℃）的熔點。鎢的熔點高，所以"
+"可以被用在燈泡中而不會熔化。"
+
+msgid "Freezing point"
+msgstr "凝固點"
+
+msgid ""
+"The freezing point is the temperature at which a liquid turns into a solid. "
+"The freezing point is the same temperature as the melting point, when a "
+"solid changes to a liquid. For example, the freezing point and melting point "
+"of mercury (the liquid found in thermometers) is -37.89 °F."
+msgstr ""
+"「凝固點」是指液體變為固體的溫度。凝固點的溫度與熔點的溫度(固體變為液體時的溫"
+"度)，是相同。例如，汞(一種溫度計裡的液體)的凝固點和熔點都是-37.89°F "
+"(約-38°C)。"
+
+msgid ""
+"A thermometer is a scientific instrument used to measure temperature. "
+"Melting point, boiling point, and freezing point can be measured using a "
+"thermometer."
+msgstr ""
+"「溫度計」是用來測量溫度的科學儀器。熔點、沸點和凝固點可以使用溫度計來測量。"
+
+msgid "Boiling point"
+msgstr "沸點"
+
+msgid ""
+"The boiling point is the temperature at which a liquid begins to turn into a "
+"gas. When a liquid starts bubbling, it has reached its boiling point. "
+"Different liquids have different boiling points. For example, the boiling "
+"point of water is 212°F (100°C). But the boiling point of olive oil is 572°F "
+"(300°C). Also, changes in air pressure can affect the boiling point of "
+"liquids. If you are up in the mountains where there is less air pressure, "
+"liquids will boil at lower temperatures than if you were at sea level."
+msgstr ""
+"「沸點」是指液體變成氣體的溫度。當液體開始沸騰，它已達到其沸點。不同的物質的"
+"液體經常具有不同的沸點。例如，水的沸點為212°F（100℃），但是橄欖油的沸點為"
+"572°F（300℃）。此外，空氣壓力的變化會影響液體的沸點，如果你是在空氣稀薄的山"
+"上，水的沸點會比在海平面低。"
+
+msgid ""
+"The density of a substance is its amount of mass in a given amount of space. "
+"The more compact a substance is, the greater its density."
+msgstr "物質的「密度」，指的是在特定體積時的質量。物質越緊密，密度越大。"
+
+msgid ""
+"Volume is a measure of how much space something takes up. The volume of a "
+"four-sided box can be found by multiplying its length times its width times "
+"its height. The volume of any solid can be found by placing it completely "
+"beneath the water and seeing how much the water rises. The amount that the "
+"water rises tells you how much space the solid takes up."
+msgstr ""
+"「體積」是用來測量物質佔有多少空間的一種測量。箱子的體積可以將長、寬、高相乘"
+"得來。固體的體積有時候可以將固體沒入水裡，看水上升多少來測量，水上升的體積就"
+"是固體的體積。"
+
+msgid ""
+"A solid is one of the three states of matter. The elements or compounds in "
+"the solid state are bound tightly together in a fixed, rigid arrangement. So "
+"solids have a definite shape and volume."
+msgstr ""
+"「固態」是物質的三種狀態之一。在元素或化合物在固態時，會以一種固縛的、形狀固"
+"定的方式排列，彼此緊密結合。因此，固體具有一定的形狀和體積。"
+
+msgid "Liquid"
+msgstr "液態"
+
+msgid ""
+"A liquid is one of the three states of matter. The elements or compounds in "
+"the liquid state are not fixed as in a solid. The elements and compounds of "
+"a liquid can slide around each other. So liquids have a fixed volume, but "
+"they do not have a fixed shape."
+msgstr ""
+"「液態」是物質的三種狀態之一。液態狀態下的元素或化合物不像固體那樣被緊緊束"
+"縛。液態中的元素和化合物可以在彼此間滑動。所以液體不具有固定的形狀，但它們具"
+"有一定的體積。"
+
+msgid "Gas"
+msgstr "氣態"
+
+msgid ""
+"A gas is one of the three states of matter. There are three different forms "
+"that matter can take: solid, liquid, and gas. Unlike solids and liquids, "
+"gases float in the air and are difficult or impossible to see. Oxygen is a "
+"kind of gas. So is water vapor. So is a kind of fuel called natural gas, "
+"which many people use to heat their homes and cook their food."
+msgstr ""
+"「氣態」是物質的三種狀態之一。有三種不同形式的物質：固態，液態和氣態。不同於"
+"固體和液體，氣體會漂(散逸)在空中，所以很難或根本不可能看到。氧氣是一種氣體、"
+"水蒸汽也是。天然氣也是一種氣體，許多人拿來用在家裡取暖或煮飯。"
+
+msgid "Atom"
+msgstr "原子"
+
+msgid ""
+"Atoms are the tiny building blocks of all matter, both living and non-"
+"living. An atom is the smallest possible part of a type of material. For "
+"example, you could have an atom of copper or an atom of oxygen. Different "
+"things are made of different atoms. Things that are big enough to see are "
+"made from a very large number of atoms. You would need a special microscope, "
+"called an electron microscope, to see one atom."
+msgstr ""
+"「原子」可以看成是所有物質──不管是生物和非生物，的微小的積木。「原子」是物質"
+"組合的最小成分。例如，銅或氧原子，不同東西是由不同原子構成的。我們可以看的到"
+"的物質就是由大量的原子集結組成。你如果要能看到一個原子的大小，你需要一種特殊"
+"的顯微鏡，稱為電子顯微鏡。"
+
+msgid "Molecule"
+msgstr "分子"
+
+msgid ""
+"Molecules are atoms bonded together. Molecules are the smallest parts of "
+"living and non-living things that can be recognized. Many molecules make up "
+"a tiny drop of water. Things that are solid, such as ice, have molecules "
+"that are close together and not moving. Things that are liquid, such as "
+"water, have molecules that move freely. Tiny molecules of gases also float "
+"around in the air. Molecules make up everything."
+msgstr ""
+"「分子」是由原子鍵結在一起的物質。分子是生物和非生物可以辨識的最小單位。一滴"
+"小水滴是由許多分子所組成。固體，如冰塊，有緊密無法移動的分子；液體，如水，具"
+"有可自由移動的分子；氣體，如水蒸氣，它的微小分子，可在空中散逸。分子組成萬"
+"物。"
+
+msgid "Physical property"
+msgstr "物理性質"
+
+msgid ""
+"The term physical properties refers to things about an object that can be "
+"seen or measured. Every object has its own special physical properties. The "
+"mass of an object is a physical property. Mass can be measured with a "
+"balance scale. Size is also a physical property. Size can be measured with a "
+"ruler."
+msgstr ""
+"「物理性質」指的是物質本身可以被觀察或測量的性質。每個物質都有自己的特殊物理"
+"性質。一個物體的質量是它的一種物理性質，質量可以用天平來測量；大小也是一個物"
+"理性質，大小可以用尺來測量。"
+
+msgid "Chemical property"
+msgstr "化學性質"
+
+msgid ""
+"<span class='key'>Chemical properties</span> of matter are properties that "
+"can be seen during a chemical reaction—when one kind of substance is changed "
+"into another kind of substance. For example, whether or not a substance will "
+"burn is a chemical property, because when something burns, the kind of "
+"substance is changed into new kinds of matter."
+msgstr ""
+"物質的<span class='key'>化學性質</span>指的是在化學反應──物質改變成另一種物質"
+"的反應，中可以看到的性質。例如，物質會不會燃燒是一種化學性質，因為東西燃燒的"
+"時候，物質會改變成新而不同的物質。"
+
+msgid ""
+"When a substance goes through a physical change, only its form or appearance "
+"changes. Even though it may look different, it is still the same substance. "
+"For example, when water freezes, it turns to ice. The ice and the water are "
+"the same substance. Only their forms are different. Another example is "
+"sawdust. If someone takes an axe and chops into wood, some of the wood "
+"breaks into tiny pieces and becomes sawdust. The sawdust is still wood. It "
+"is just wood in a different form. It has gone through a physical change."
+msgstr ""
+"當一種物質經歷的是「物理變化」，那它只是在形式或外觀上有了變化，儘管它可能看"
+"起來不同，它仍然是同一種物質。例如，當水冷凝時，變為冰，冰和水還是相同的物"
+"質，只不過它們的形式外觀是不同的。另一個例子是小木屑，如果有人用斧頭劈開木"
+"才，木材碎裂成小塊，並成為小木屑；這時，小木屑仍然是木材，它只是不同形式的木"
+"材而已。這都屬於物理變化。"
+
+msgid ""
+"A chemical change is a type of change that makes an object change into a "
+"different substance. The properties before and after a chemical change of a "
+"substance are different. When wood burns and metal rusts, they form new "
+"substances. A chemical change causes matter to become a new kind of matter."
+msgstr ""
+"「化學變化」是讓物質變成不同物質的變化。物質在化學變化前後性質不同。當木材燃"
+"燒和金屬生鏽時，便都形成新的物質。化學變化導致物質成為一種新的物質。"
+
+msgid "Heat conductivity"
+msgstr "導熱性"
+
+msgid ""
+"The heat conductivity of a substance is the ability of the substance to "
+"allow heat to flow through it. Different types of materials have different "
+"heat conductivities. For example, exhaust systems use ceramic coatings that "
+"have low heat conductivities, in order to protect the specialized parts they "
+"are attached to by keeping their temperatures lower."
+msgstr ""
+"物質的「導熱性」是物質允許熱流經它的能力。不同類型的材料具有不同的導熱性。例"
+"如，車輛的排氣系統會使用具有低導熱性的陶瓷塗層，以使得緊鄰這排氣系統的其他汽"
+"車設備的溫度能維持在較低溫，達到保護這些設備的效果。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+#. 13
+msgid "Checking what you now know... about the properties of matter"
+msgstr "看看你現在了解…關於「物質的性質」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "以下六（6）題小測驗會幫助你了解：你現在知道什麼，你仍然需要學習什麼！"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好的時候，請點選繼續。"
+
+#. 14
+msgid "Which of the following is an example of a chemical change?"
+msgstr "下列哪一項是化學變化的例子？"
+
+msgid "Ice melts"
+msgstr "冰融化"
+
+msgid "Glass vase breaks"
+msgstr "玻璃花瓶破掉"
+
+msgid "Toast burns"
+msgstr "吐司燒焦"
+
+msgid "Paper is ripped"
+msgstr "紙被撕破"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Correct, when toast burns it changes chemically."
+msgstr "答對了！當吐司燒焦時，它產生了化學變化。"
+
+msgid ""
+"No, ice melting is a physical change. The same substance is going from the "
+"solid state (ice) to its liquid form (water) without changing."
+msgstr ""
+"不對喔！冰融化是物理變化。從固態（冰）變成液態（水）時，都還是一樣的物質，它"
+"的性質沒有改變。"
+
+msgid "No, when glass breaks it is changing in size, not chemically changing."
+msgstr "不對喔！玻璃破裂，不是化學變化。"
+
+msgid "No, paper tearing is a physical change in size."
+msgstr "不對喔！紙張撕裂是物理變化。"
+
+#. 15
+msgid "Which of the following mixtures forms a new substance?"
+msgstr "下列哪些混合物會形成新的物質呢？"
+
+msgid "a. mixing baking soda and vinegar"
+msgstr "a. 混合小蘇打和醋"
+
+msgid "b. mixing baking soda and water"
+msgstr "b. 混合小蘇打和水"
+
+msgid "c. mixing salt and vinegar"
+msgstr "c. 混合鹽和醋"
+
+msgid "d. mixing salt and water"
+msgstr "d. 混合鹽和水"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "請上下翻轉3D方塊來選擇你的答案。"
+
+msgid ""
+"Correct, this mixing these leads to a chemical reaction forming new "
+"substances. Carbon dioxide is what you probably have seen foaming and "
+"bubbling."
+msgstr ""
+"答對了！混合這些物質會引起化學反應並形成新的物質。你看到冒泡的現象應該是產生"
+"的二氧化碳的氣體。"
+
+msgid "No, this mixture does not form new compounds and can be reversed."
+msgstr ""
+"不對喔！此混合物不會形成新的化合物，而且這個混合的過程是可逆的(也就是讓它們回"
+"到原來的狀態)。"
+
+#. 16
+msgid ""
+"Click and drag the image in the \"ITEM\" column to the column that best "
+"describes the item's properties."
+msgstr "單選並拖拉 \"項目\" 欄的圖像到最能說明它性質的位置。"
+
+msgid "ITEM"
+msgstr "項目"
+
+msgid "SOLID"
+msgstr "固體"
+
+msgid "LIQUID"
+msgstr "液體"
+
+msgid "GAS"
+msgstr "氣體"
+
+msgid "PLASMA"
+msgstr "電漿"
+
+msgid "water in glass"
+msgstr "玻璃中的水"
+
+# This is going to be changed to another example?
+msgid "smoke from a candle"
+msgstr ""
+
+msgid "stick of butter"
+msgstr "奶油棒"
+
+msgid "vapor from a cup of hot tea"
+msgstr "熱茶上的蒸氣(不是小水滴)"
+
+msgid "the sun"
+msgstr "太陽"
+
+msgid "a diamond"
+msgstr "鑽石"
+
+#. 17
+msgid ""
+"A metal spoon was left in a pot of boiling soup. The cook burned a finger by "
+"touching the spoon. Why did his finger get burned?"
+msgstr ""
+"有一根金屬湯匙被留在沸騰鍋裡面，然後廚師因為碰觸湯匙而燙傷了手。請問為什麼他"
+"會燙傷手指呢？"
+
+msgid "The metal spoon chemically reacted with the cook's hand."
+msgstr "金屬湯匙與廚師的手起化學反應。"
+
+msgid "The metal spoon conducted electricity to the cook's hand."
+msgstr "金屬湯匙導電到廚師的手。"
+
+msgid "The metal spoon conducted heat to the cook's hand."
+msgstr "金屬湯匙導熱到廚師的手。"
+
+msgid "The metal spoon insulated the cook's hand."
+msgstr "金屬湯匙隔絕了熱，避免將熱傳給廚師的手。"
+
+msgid ""
+"Correct, the spoon conducted heat from the boiling soup to the person's hand."
+msgstr "答對了！湯匙將熱傳導到人的手。"
+
+msgid ""
+"No, the spoon did not chemically react with the cook's hand. It conducted "
+"heat from the boiling soup to the hand."
+msgstr "不對喔！勺子沒有與廚師的手起化學反應。湯匙將熱湯裡的熱量傳導到人的手。"
+
+msgid ""
+"Not quite, the spoon did not conduct electricity, it conducted heat from the "
+"boiling soup to the person's hand."
+msgstr "不對喔！湯匙沒有導電。湯匙將熱湯裡的熱量傳導到人的手。"
+
+msgid ""
+"No, the metal spoon conducted heat to the cook's hand. An oven mitt might "
+"have insulated the cook's hand."
+msgstr ""
+"不對喔！湯匙將熱湯裡的熱量傳導到廚師的手。烤箱的手套才應該可以絕緣熱，不使熱"
+"傳到廚師的手。"
+
+#. 18
+msgid ""
+"Geologists are people who study rocks and minerals. They often use physical "
+"properties to identify things. A student had a mineral sample that was gray "
+"in color and had a hardness of 6. The mineral made a white streak when "
+"scraped on a ceramic plate."
+msgstr ""
+"地質學家是研究岩石和礦石的人，他們經常使用物理性質來識別的東西。有一位學生有"
+"一件礦物樣品是灰色、硬度6度，而且這礦石在陶瓷板上刮擦時會留下白色條痕。"
+
+msgid "COLOR"
+msgstr "顏色"
+
+msgid "HARDNESS"
+msgstr "硬度"
+
+msgid "STREAK"
+msgstr "條痕"
+
+msgid "MINERAL"
+msgstr "礦石名稱"
+
+msgid "gray, black or reddish brown"
+msgstr "灰、黑或紅棕色"
+
+msgid "red"
+msgstr "紅"
+
+msgid "Hematite"
+msgstr "赤鐵礦"
+
+msgid "black"
+msgstr "黑色"
+
+msgid "Magnetite"
+msgstr "磁鐵礦"
+
+msgid "red, reddish brown, brown or black"
+msgstr "紅、紅褐、棕或黑色"
+
+msgid "white"
+msgstr "白"
+
+msgid "Garnet"
+msgstr "石榴石"
+
+msgid "gray or white"
+msgstr "灰或白色"
+
+msgid "Feldspar"
+msgstr "長石"
+
+msgid "According to the table above, the mineral sample was most likely:"
+msgstr "根據上表，請問礦石樣品最有可能的是下列哪一項："
+
+msgid "Correct, feldspar is most likely the sample mineral."
+msgstr "非常正確！長石是最有可能的礦石。"
+
+msgid ""
+"Not quite, hematite made a red streak. Feldspar is most likely the sample "
+"which made a white streak."
+msgstr ""
+"不對喔！赤鐵礦應該會產生紅色的條痕才是。產生白色條痕的化，那長石最有可能。"
+
+msgid ""
+"Not quite, magnetite is black in color. Feldspar is most likely the sample "
+"which is gray."
+msgstr "不對喔！磁鐵礦是黑色的。礦石是灰色的或，那長石很有可能。"
+
+msgid ""
+"No, garnet is not the same color, nor does the hardness range match the "
+"sample mineral. Feldspar is most likely the sample mineral."
+msgstr "不對喔！石榴石有不同的顏色，硬度範圍也不符。長石是最有可能的礦石。"
+
+#. 19
+msgid ""
+"In the process of baking bread, a few ingredients (flour, water, and yeast) "
+"are mixed in together. Is this initial mixing a physical or chemical change?"
+msgstr ""
+"在烤麵包的過程中，會將一些成分（麵粉，水，和酵母）混合在一起。請問這是物理或"
+"化學變化？"
+
+msgid ""
+"After mixing the ingredients, the yeast starts to feed on the sugars in the "
+"flour and begins to make the bread dough \"rise\". Is bread \"rising\" a "
+"physical or chemical change?"
+msgstr ""
+"混合這些配料後，酵母開始\"吃\"麵團中的糖而開始讓麵團\"上升(變澎)\"。請問使麵"
+"團\"上升(變澎)\"的原因是物理或化學變化？"
+
+msgid ""
+"Correct, the initial mixing of the ingredients does not form a new "
+"substance, or cause a chemical reaction."
+msgstr "正確。混合所用材料不會形成新的物質，或引起化學反應。"
+
+msgid "physical change"
+msgstr "物理變化"
+
+msgid ""
+"No, the initial mixing of the ingredients does not form a new substance, or "
+"cause a chemical reaction. It is a physical change."
+msgstr "不對喔！混合所用材料不會形成新的物質或引起化學反應。它是一種物理變化。"
+
+msgid "chemical change"
+msgstr "化學變化"
+
+msgid ""
+"Correct, new substances such as carbon dioxide are formed and the process is "
+"not easily reversed. It is a chemical change."
+msgstr "正確。會形成像是二氧化碳等新物質，且過程不可逆，它是化學變化。"
+
+msgid ""
+"No, new substances such as carbon dioxide are formed and the process is not "
+"easily reversed. It is a chemical change."
+msgstr "不對喔！會形成像是二氧化碳等新物質，且過程不可逆，它是化學變化。"
+
+#. 20
+msgid "Congratulations"
+msgstr "恭喜您"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "You've completed the Properties of Matter review."
+msgstr "你已經完成「物質的性質」單元的學習。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在\"小練習\"和\"小測驗\"的表現了！"
+
+msgid "How did I do?"
+msgstr "我的表現如何？"
+
+#. Transitions
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎"
+
+msgid "Natural or man-made?"
+msgstr "自然或人為的？"
+
+msgid "Hmm... what is matter?"
+msgstr "嗯...什麼是物質？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習囉！"
+
+msgid "Freezing water to ice cubes..."
+msgstr "把水凍成冰..."
+
+msgid "Another quick check on the way!"
+msgstr "下一個小練習來囉！"
+
+msgid "Chopping wood for the fireplace..."
+msgstr "劈木頭以便壁爐使用..."
+
+msgid "Physical or chemical?"
+msgstr "物理或化學？"
+
+msgid "Drawing blueprints..."
+msgstr "繪製藍圖..."
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+msgid "Words and definitions"
+msgstr "名詞和定義…"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗的題目是..."
+
+msgid "Mixing matters..."
+msgstr "混合物質..."
+
+msgid "Solid, liquid, gas or plasma?"
+msgstr "固體、液體、氣體還是電漿？"
+
+msgid "The hot spoon"
+msgstr "熱湯匙"
+
+msgid "Dazzling minerals"
+msgstr "耀眼的礦石"
+
+msgid "It's rising!"
+msgstr "發起來了！"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"

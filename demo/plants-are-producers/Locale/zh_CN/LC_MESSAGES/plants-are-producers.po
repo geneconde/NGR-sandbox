@@ -1,0 +1,1168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plants are Producers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎, "
+
+msgid "Planting a tree..."
+msgstr "種棵樹..."
+
+msgid "Collecting solar energy..."
+msgstr "收集太陽能..."
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個小練習..."
+
+msgid "Absorbing carbon dioxide..."
+msgstr "吸收二氧化碳..."
+
+msgid "Combining glucose molecules..."
+msgstr "結合葡萄糖分子..."
+
+msgid "Counting large trees..."
+msgstr "數一數有多少大樹..."
+
+msgid "Producing energy..."
+msgstr "產生能量..."
+
+msgid "Analyzing food chain..."
+msgstr "分析食物鏈..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "Collecting data..."
+msgstr "收集數據..."
+
+msgid "Putting it all together..."
+msgstr "整理一下囉..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗問題是..."
+
+msgid "Identifying common feature..."
+msgstr "確認共同的特點..."
+
+msgid "Studying plants..."
+msgstr "研究植物..."
+
+msgid "Gathering energy..."
+msgstr "收集能量..."
+
+msgid "Stacking fiber..."
+msgstr "堆疊纖維..."
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗了嗎?"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Plants are Producers"
+msgstr "植物是生產者"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Plants are Producers review"
+msgstr "歡迎來到「植物是生產者」單元"
+
+# 2
+msgid "Thinking about... plants are producers"
+msgstr "想一想，關於...「植物是生產者」"
+
+msgid ""
+"Think of what you ate yesterday. Hamburger and fries maybe? The hamburger "
+"came from a cow and the potatoes are a plant. The cow had to eat plants to "
+"grow. Your meal was brought to you by plants. They produce food from solar "
+"energy and store it. These plants are producers. Herbivores eat the plants "
+"and grow. Carnivores eat other animals that have eaten plants. Both animals "
+"are consumers."
+msgstr ""
+"想想看你昨天吃的。或許是漢堡和薯條？漢堡內有牛肉而薯條是由馬鈴薯製成。牛必須"
+"吃植物才能生長，所以你的食物是由植物來的；植物可以吸收太陽能生成養分並儲存"
+"它，因此「植物是生產者」。草食性動物以植物為食而生長；肉食性動物以其它動物為"
+"食。這兩種動物都是消費者。"
+
+msgid ""
+"We may prepare food and cook it many ways, but plants are the true producers "
+"that give all consumers (including us) the energy we need to survive. What "
+"about the plants themselves, what do they need?"
+msgstr ""
+"我們可能會準備食物並以各種烹調方法烹煮食物，但植物是真正的生產者，給予所有消"
+"費者（包括我們）賴以生存的能量。但植物本身呢，他們需要什麼？"
+
+# 3
+msgid "Checking what you know... about plants are producers"
+msgstr "看看你了解了多少…關於「植物是生產者」"
+
+msgid ""
+"This plant receives the nutrition it needs to continue to live. What if we "
+"took all its oxygen away, could the plant still grow? Rotate or flip the 3D "
+"box below either up or down to set your answer."
+msgstr ""
+"植物獲得它需要的營養才能繼續生長。如果我們把所有的氧氣拿走，植物還是會生長"
+"嗎？請向上或向下翻轉下方的3D方塊，作答。"
+
+msgid "Yes, because it needs CO<sub>2</sub> and gives off O<sub>2</sub>."
+msgstr ""
+"會的，因為它需要的是二氧化碳(CO<sub>2</sub>) ，並釋放出氧氣(O<SUB>2</ sub>)。"
+
+msgid "No, because it needs O<sub>2</sub> and gives off CO<sub>2</sub>."
+msgstr ""
+"不會，因為它需要氧氣(O<SUB>2</ sub>)，並釋放出二氧化碳(CO<sub>2</sub>) 。"
+
+msgid ""
+"Yes, because plants need CO<sub>2</sub> to grow and O<sub>2</sub> to produce "
+"food."
+msgstr ""
+"會的，因為植物需要二氧化碳(CO<SUB>2</ sub>)來生長；也需要氧氣(O<sub>2</sub>)"
+"來生產食物。"
+
+msgid ""
+"No, because plants need O<sub>2</sub> to grow and CO<sub>2</sub> to produce "
+"food."
+msgstr ""
+"不會的，因為植物需要二氧化碳(CO<SUB>2</ sub>)來生長；也需要氧氣(O<sub>2</"
+"sub>)來生產食物。"
+
+msgid "Click, hold and drag up or down"
+msgstr "點選、按住並同時上下移動滑鼠"
+
+msgid ""
+"If you chose d, that is correct. A plant could not grow without oxygen. "
+"During photosynthesis (when producing food), plants need to take in carbon "
+"dioxide and give off oxygen. But a plant also uses some of that food to "
+"grow. When a plant uses food, the food is broken down the same way it is "
+"when animals and people use it, with oxygen. Oxygen is needed to release the "
+"stored energy in the food."
+msgstr ""
+"如果你選擇了D，那麼你的答案是正確的，植物沒有氧氣還是無法生長的。此外，植物在"
+"光合作用（生產食物時）時，還需要吸收「二氧化碳」，這時它釋放出一些「氧氣」。"
+"因為植物生長時也會和動物或人消耗食物一樣地消耗了一部分所製造的食物，這過程中"
+"需要「氧氣」。也就是說，氧氣幫助釋放儲存在食物中的能量。"
+
+msgid "Sun Light Energy"
+msgstr "太陽光的光能"
+
+msgid "Carbon Dioxide"
+msgstr "二氧化碳"
+
+msgid "Oxygen"
+msgstr "氧氣"
+
+# 4
+msgid "Reviewing core ideas... about plants are producers"
+msgstr "回顧核心觀念...「植物是生產者」"
+
+msgid ""
+"Plants are <span class='key'>producers</span>, they make all the food and "
+"energy in an ecosystem. They are the solid foundation of all food chains and "
+"webs.  The energy that powers nearly all life on earth is generated on the "
+"surface of our sun, some 93 million miles away.  That energy streams at us "
+"constantly.  Even though very little of it actually strikes our small "
+"planet, it provides more than enough energy to keep all of the many billions "
+"of plants and animals around us alive."
+msgstr ""
+"植物是<span class='key'>生產者</span>，它們生產了生態系統中所有的食物和食物能"
+"量，它們是所有食物鏈和食物網的最重要的基礎；而植物的能量則是完全由太陽所提"
+"供。太陽大約離我們9千3百萬英里遠。即使只有非常少部分的能量真正到達了地球，但"
+"這不斷流入給我們的能量，提供了所有數十億的植物及動物存活所需。"
+
+msgid ""
+"The solar energy is captured in the leaves and needles of green plants in a "
+"process called <span class='key'>photosynthesis</span>.  In this process, a "
+"substance called chlorophyll absorbs light energy, temporarily storing it by "
+"changing its own shape.  When the chlorophyll molecule springs back to its "
+"original shape, the energy is released to power a series of chemical "
+"reactions.  These reactions convert water and carbon dioxide into sugar and "
+"oxygen."
+msgstr ""
+"太陽能被綠色植物的葉片和針葉獲取的過程稱為「<span class='key'>光合作用</"
+"span>」。在此過程中，一種叫「葉綠素」的物質吸收光的能量，透過改變自身的形體暫"
+"時儲存它，而當當葉綠素分子回復到其原始形態時，能量被釋放出來成為一系列化學反"
+"應的能源。這些反應將「水」和「二氧化碳」轉化為「醣」和「氧氣」。"
+
+msgid "Sunlight"
+msgstr "陽光"
+
+msgid "Root"
+msgstr "根"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Minerals"
+msgstr "礦物質"
+
+msgid ""
+"The carbon dioxide is absorbed by the leaves directly from the air. The "
+"water is usually absorbed through roots and transported through the plant "
+"stem to the leaves. In photosynthesis, the carbon dioxide molecules are "
+"combined to form a six-carbon compound called <span class='key'>glucose</"
+"span>. The hydrogen atoms from water are attached to the chain to complete "
+"its structure. The leftover oxygen atoms are combined as molecules and then "
+"released."
+msgstr ""
+"葉片直接從空氣中吸收「二氧化碳」，而「水」則通常透過根部吸收並由莖傳送到葉"
+"子。我們可以將「光合作用」的反應，看成是：二氧化碳分子結合成具有６個碳的分"
+"子，然後水中的氫原子加入以完成它的結構，也就形成所謂的「<span class='key'>葡"
+"萄糖</span>」；至於剩餘的氧原子則結合成氧分子──也就是「氧氣」，然後被釋放。"
+
+msgid ""
+"Glucose may be used for energy directly or connected to other glucose "
+"molecules to form chains called carbohydrates. <span "
+"class='key'>Carbohydrates</span> are used for energy by nearly all living "
+"things.  The oxygen released by photosynthesis is also used by plants and "
+"animals to help unlock the energy stored in carbohydrates."
+msgstr ""
+"葡萄糖可以直接作為能量或和其它葡萄糖分子結合形成「<span class='key'>碳水化合"
+"物</span>」， 幾乎所有生物都此來產生能量。透過光合作用釋放的氧也可提供給其它"
+"植物和動物使用，以幫助它們在需要時釋放儲存在碳水化合物中的能量。"
+
+# 5
+msgid ""
+"Question A. Which of the following is a \"waste product\" of photosynthesis?"
+msgstr "問題A. 下列何者是光合作用的「廢物」？"
+
+msgid "Sugar"
+msgstr "醣"
+
+msgid "Question B. What is the source of energy for photosynthesis?"
+msgstr "問題B. 下列何者是光合作用的能量來源？"
+
+msgid "Soil"
+msgstr "土壤"
+
+msgid "Sun"
+msgstr "太陽"
+
+msgid "Plants"
+msgstr "植物"
+
+msgid "Nope. Water is used up in photosynthesis."
+msgstr "不對。水在光合作用中會被使用到。"
+
+msgid ""
+"Yeah! Seems weird, but oxygen is actually a photosynthesis \"waste product.\""
+msgstr ""
+"答對了！雖然看起來有點不可思議，但對植物來說，「氧氣」實際上是光合作用排出的"
+"一種「廢物」。"
+
+msgid "Sorry. Sugar is the main product of photosynthesis."
+msgstr "不對喔！醣類是光合作用的主要產物。"
+
+msgid "Naaaah. Sunlight is required to make photosynthesis work."
+msgstr "不對喔！陽光在光合作用中，是必要的。"
+
+msgid "Sorry. The soil doesn't produce energy."
+msgstr "不對。土壤不產生能量。"
+
+msgid "Nope. Water isn't an energy source for plants."
+msgstr "不對喔！水不是植物的能量來源。"
+
+msgid "Yeah! Plants use solar energy to power photosynthesis."
+msgstr "是啊！植物利用太陽能量進行光合作用。"
+
+msgid "Are you sure? Plants need energy for photosynthesis. Think again."
+msgstr "你確定嗎？植物需要能量進行光合作用。再想想。"
+
+# 6
+msgid "More core ideas... about plants are producers"
+msgstr "更多的核心觀念...關於「植物是生產者」"
+
+msgid ""
+"As a plant grows, it increases in size and mass. It draws very small amounts "
+"of minerals into its structure through its roots, but the vast majority of "
+"the material that makes up its structure consists of carbon dioxide and "
+"water.  The carbon dioxide is absorbed through openings in leaves or "
+"needles. Most plants absorb water through their roots from the surrounding "
+"soil."
+msgstr ""
+"植物生長時，它變大也變重。它會透過根部吸收非常少量的礦物質到其結構中，但構成"
+"植物結構的，則絕大部分物質都是由二氧化碳和水而來。二氧化碳是透過樹葉上的氣孔"
+"吸收，水分則是由根部從周圍的土壤中吸收得來。"
+
+msgid ""
+"Photosynthesis captures solar energy and stores it in chemical bonds holding "
+"atoms to one another.  The end product of the process is glucose. Other "
+"chemical processes in the plant are able to combine glucose molecules into "
+"complex chemical structures called cellulose. <span class='key'>Cellulose</"
+"span> is a plant carbohydrate which provides the plant with both stored "
+"energy and a strong substance to help provide it with support."
+msgstr ""
+"植物藉由光合作用而獲得太陽的能量並將這些能量儲存在能將原子鍵結在一起的化學鍵"
+"中。光合作用的產物是「葡萄糖」，不過植物裡還會繼續進行一些化學過程，以將許多"
+"葡萄糖分子結合成較大的物質──稱為 <span class='key'>纖維素</span>或其它物質。"
+"纖維素，也是一種碳水化合物，它可儲存能量，也幫助支撐植物。"
+
+msgid ""
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"As the plant grows, it increases its total number of cells. This, in turn, "
+"increases the overall mass of cellulose. Even when plant cells die, the "
+"cellulose that surrounded them remains intact. In trees, this remaining "
+"cellulose makes up what we know as wood. Every year of a tree's life, a new "
+"layer of wood is laid down, increasing the mass and strength of the tree as "
+"a whole."
+msgstr ""
+"「纖維素」是植物「細胞壁」的主要成分(請參考右圖)。植物生長時，細胞的總數會增"
+"加；也就是，纖維素的總重量會增加。即使當植物細胞死了，包覆它的纖維素仍能保持"
+"完好；例如，我們熟悉的木材就是砍伐樹木留下來的纖維素。樹木的生命歷程中，每年"
+"都會產生新一層的木材──也就是，我們看到的「年輪」，這增加的一層木材可以增加樹"
+"木整體的重量和強度。"
+
+msgid "Arrangement of Cellulose in Cell Walls"
+msgstr "纖維素在細胞壁的排列"
+
+msgid "Cellulose in Plant Cell Walls"
+msgstr "纤维素在植物细胞壁"
+
+msgid "Cell wall"
+msgstr "細胞壁"
+
+msgid "Plant cell"
+msgstr "植物細胞"
+
+msgid "Cellulose"
+msgstr "纖維素"
+
+msgid ""
+"Cellulose is also the <span class='key'>fiber</span> found in other types of "
+"plants. It is the fiber in the boll of the cotton flower. It is the stringy "
+"material in celery.  It makes up most of the structure of lettuce leaves. "
+"Cellulose is used for many purposes.  Trees are cut down and lumber is sawn "
+"for homes and furniture.  Wood can also be crushed and mixed with water to "
+"make paper and cardboard. Cellulose fibers from many plants are woven "
+"together to make cloth."
+msgstr ""
+"纖維素也是構成<span class='key'>纖維</span>的成分。例如：它形成棉花莢中的纖"
+"維、芹菜中的纖維、萵苣葉中的纖維等等。纖維素的用途很多，例如，木材可以裁鋸用"
+"來建造木屋或製造家具、木材也可以經過粉碎和水混合製成紙和紙板、許多植物的纖維"
+"可以編織成布。"
+
+msgid ""
+"Many animals graze on grasses and other plant material for food. These "
+"animals are able to digest cellulose as a direct energy source. <span "
+"class='key'>Humans</span> lack the ability to do so, but still require large "
+"amounts of cellulose in our diets.  For us, cellulose provides the rough "
+"fiber material required for the efficient digestion of the materials we do "
+"use for energy."
+msgstr ""
+"許多動物以草和其它植物材料為食，它們都能消化纖維素作為能量的直接來源；不過， "
+"<span class='key'>人類</span>卻沒有這種能力，所以我們無法從纖維素中得到能量。"
+"但人類仍然需要在飲食中攝取大量的纖維素，因為這粗糙的纖維物質能幫助我們有效消"
+"化其它能提供我們能量的食物，幫助我們獲取其它食物的能源。"
+
+# 7
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> a "
+"common use of cellulose?"
+msgstr "問題A. 以下哪一項<span class='blink'>不是</span>纖維素的一般用途？"
+
+msgid "Human dietary energy."
+msgstr "人類的食物能量。"
+
+msgid "Wood for houses."
+msgstr "房子的木材。"
+
+msgid "Source material for paper."
+msgstr "紙的原料。"
+
+msgid "Food for grazing animals."
+msgstr "放牧動物的食物。"
+
+msgid "Question B. The majority of a large tree's mass and volume is..."
+msgstr "問題B. 大樹的質量和體積，大部份是由下列哪一個組成而來..."
+
+msgid "Simple sugars"
+msgstr "單醣"
+
+msgid "Protein"
+msgstr "蛋白質"
+
+msgid "Fats"
+msgstr "脂肪"
+
+msgid "Select the answer by rotating the 3D box below."
+msgstr "請旋轉的下面的3D方塊，選擇答案。"
+
+msgid "That's correct! Humans are unable to digest cellulose."
+msgstr "選對了！這不是纖維素的常見用途。人類無法消化纖維素。"
+
+msgid ""
+"Sorry, that's a major use. Most of our homes are built of plant material."
+msgstr "選錯囉！這是纖維素的常見用途喔。木材主要是纖維素。"
+
+msgid ""
+"Nope, that's a common use. When you're writing on paper, you're writing on "
+"wood."
+msgstr ""
+"選錯囉！這是纖維素的常見用途喔。當你在紙上寫字，也相當於寫在植物纖維素上。"
+
+msgid ""
+"Sorry, that's an important use. Grazers are able to digest cellulose for "
+"food."
+msgstr "選錯囉！這是纖維素的常見用途喔。草食性動物都能夠消化纖維素作為食物。"
+
+msgid "That's right! Wood is made of cellulose."
+msgstr "這是正確的！木材主要是由纖維素構成。"
+
+msgid ""
+"No... Simple sugars are part of the story, but not the main component of "
+"wood."
+msgstr "不對喔！單醣是一部分，但不是木材的主要成分。"
+
+msgid "There's actually very little protein in a tree."
+msgstr "實際上樹木只有很少的蛋白質。"
+
+msgid "Nope. Not much fat in a tree."
+msgstr "不對喔！樹木沒有多少脂肪。"
+
+# 8
+msgid ""
+"As an example, we will look at a plant producer and its effects on the "
+"environment."
+msgstr "讓我們舉一個例子來看看，植物──這一個「生產者」，和它對環境的影響。"
+
+msgid ""
+"Redwoods can grow to be the tallest and largest trees in the world. They "
+"start as tiny seeds and, thanks to solar energy and photosynthesis, they "
+"work their way up.  It takes a lot of food to grow hundreds of feet tall.  "
+"Like all plants, redwoods grow in three directions at once.  The stem, or "
+"trunk, of the tree grows upward.  The roots grow downward.  As the tree "
+"ages, the trunk also grows outward, forming a new ring of wood for each year "
+"the tree is alive."
+msgstr ""
+"「紅杉」是世界上可以長到最高及最大的樹。他們從微小的種子開始，藉由太陽能和光"
+"合作用，它們獲得大量的能量和養分，不斷向上成長，有的甚至可長成到100公尺以上"
+"(數百英尺)高。跟所有植物一樣，紅杉也是往三度空間成長：莖(樹幹)向上生長、根向"
+"下生長、樹幹也橫向生長，每年形成一個新的年輪。"
+
+msgid ""
+"Scientists measure every aspect they can of the redwood trees in the forest "
+"and reconstruct the tree in three dimensions on the computer to find out the "
+"information they cannot get from measuring the outside of the tree. Every "
+"year scientists remeasure the specific trees and examine how they have "
+"changed. They also have sensors installed to measure light, temperature, "
+"humidity, wind, and sap flow. Their goal is to learn how these ancient "
+"giants have historically responded to climatic shifts and to monitor how "
+"they are being impacted today by global warming."
+msgstr ""
+"科學家在紅杉樹林測量幾乎所有可測量的因素，他們並在電腦上三維模擬重建樹木，以"
+"了解那些無法單從樹木外部測量得到的資訊。每年科學家也會重新測量選定的樹木並研"
+"究它們有了那些改變。科學家們還安裝測量光線、溫度、濕度、風和樹液等等的感應"
+"器。他們的目標是學習這些古老的植物巨人，如何在歷史上回應氣候變化，並監測它們"
+"受到目前全球暖化的影響。"
+
+msgid ""
+"Many things can impact the growth of redwoods, and anything that does must "
+"also cause changes in the unique food webs they support. Like all producers, "
+"redwood trees support a food web. Their food webs involve plants and animals "
+"who spend their entire lives living high above the ground. Researchers in "
+"California have discovered what they call \"aerial gardens.\" More than 200 "
+"feet above the forest floor in redwood country, huge limbs jut out from 1000-"
+"year old trees. These limbs are so large that needles, moss, and other "
+"debris that fall on them never fall to the ground. They pile up and decay, "
+"becoming a type of soil after only a few years."
+msgstr ""
+"像所有的生產者一樣，紅杉樹也支持一個「食物網」。當外界影響了紅杉的生長，也會"
+"進而響到紅杉所支持的這一個獨特食物網。紅杉的食物網包括很多一生都生存在高空中"
+"的植物和動物。例如，在美國加州的研究人員已經發現了所謂的「空中花園」。在紅杉"
+"森林超過地面60公尺(約200英尺)上，巨大的橫向枝幹從千年的古樹主幹上伸展延伸。這"
+"些橫向枝幹是如此之大，所以針葉、苔蘚和其它殘葉等落在它們上面時，就不易再掉落"
+"到地面。這樣的持續堆積和腐爛，只需短短幾年就成為新的一種土壤。"
+
+msgid ""
+"When this happens, seeds from a variety of plants, lifted into the air by "
+"winds or dropped by birds and other animals, sprout and begin to grow. After "
+"a few years, shrubs and even small trees are able to grow hundreds of feet "
+"above the ground. These \"gardens\" attract animals like squirrels, "
+"salamanders, and many birds who may spend their entire lives high above the "
+"ground."
+msgstr ""
+"這種情況下，由風中吹來或鳥類和其它動物帶來的各種植物種子，就會發芽並開始生"
+"長。幾年後，一些灌木或小樹都能夠在離地面幾十公尺之上生長。這些「空中花園」吸"
+"引著動物，例如松鼠、蜥蜴、和許多鳥類，它們可能一生都會生活在高空之中。"
+
+# 9
+msgid "Question A. What are the producers in redwood forests?"
+msgstr "問題A. 下列何者是紅杉森林中的生產者？"
+
+msgid "Redwood trees only"
+msgstr "只有紅杉樹"
+
+msgid "Redwood trees and all other green plants"
+msgstr "紅杉樹和其它所有綠色植物"
+
+msgid "Mosses and squirrels"
+msgstr "苔蘚和松鼠"
+
+msgid "Ground-dwelling ferns and salamanders"
+msgstr "地棲蕨類植物和蠑螈"
+
+msgid ""
+"Question B. In redwood forests, the process responsible for energy "
+"production is..."
+msgstr "問題B. 在紅杉森林，負責將能量轉變為食物的過程是..."
+
+msgid "Cellular respiration"
+msgstr "細胞呼吸"
+
+msgid "Photosynthesis"
+msgstr "光合作用"
+
+msgid "Metabolism"
+msgstr "代謝作用"
+
+msgid "Primary growth"
+msgstr "初級生長"
+
+msgid "Think about it...  Are there any other green plants?"
+msgstr "想一想喔！...綠色植物都是生產者。有沒有其它的綠色植物呢？"
+
+msgid "Correct! All green plants are producers."
+msgstr "正確！所有的綠色植物都是生產者。"
+
+msgid "Hmmmm...  Are squirrels green plants?"
+msgstr "嗯...不對喔！松鼠是綠色植物？綠色植物才是生產者。"
+
+msgid "Salamanders? Really? Let's think about green plants."
+msgstr "蠑螈？它是動物喔！讓我們來想想，綠色植物才是生產者..."
+
+msgid "Sorry.  That's how energy is released."
+msgstr "不對喔！呼吸作用是生物體內用來將食物轉變為維持生命所需能量的作用。"
+
+msgid "Yes! Photosynthesis is the process in all producers."
+msgstr "沒錯！光合作用是所有生產者都在進行的主要作用。"
+
+msgid "Not quite. Metabolism refers to all cellular processes."
+msgstr "不對喔！光合作用才是所有生產者都在進行的主要作用。"
+
+msgid "No. Photosynthesis provides energy to power primary growth."
+msgstr "不對喔！光合作用提供能量作為主要增長的能源。"
+
+# 10
+msgid ""
+"All <span class='key'>food webs</span> are built upon producers, the green "
+"plants that convert solar energy into the fuel for all types of life on "
+"Earth. Any system may have one or more producers providing food and oxygen "
+"for any possible number of <span class='key'>consumers</span>. The consumers "
+"can be any combination of <span class='key'>first-order</span> and higher-"
+"order and, of course, the decomposers complete the process."
+msgstr ""
+"所有<span class='key'>食物網</span>都是以「生產者」為基礎，綠色植物是生產者，"
+"可將太陽能轉化讓地球上的各種生物來使用，任何生態系統都有一個或多個生產者，以"
+"提供食物和氧氣給<span class='key'>消費者</span>。消費者可以是<span "
+"class='key'>一級</span>和其它各個更高級(例如，二級、三級等等)消費者的任意組"
+"合。當然，最後還要有「分解者」，這個食物網才是完整的。"
+
+msgid ""
+"Plants absorb carbon dioxide from the air and combine it with water to store "
+"the sun's energy in the chemical bonds of sugar.  The leftover oxygen "
+"produced is released.  That's photosynthesis, and it's the basis for nearly "
+"all life on earth. The food we eat is built on carbon that was once in the "
+"air.  The clothing we wear is built on carbon that was once in the air.  The "
+"wood in our houses is built on carbon that was once in the air. The fuel in "
+"our cars is built on carbon that was once in the air."
+msgstr ""
+"植物，這個「生產者」從空氣中吸收二氧化碳來和水反應，生成醣和氧氣，醣的化學鍵"
+"中就用來儲存太陽的能量，而反應所生產剩餘的氧氣被釋放出來給其它生物呼吸──這就"
+"是，「光合作用」，這作用是地球上幾乎所有生命的基礎。我們吃的食物、穿的衣服、"
+"房子的木頭、汽車燃料，都是曾經在空中的含碳物質所製成的。"
+
+msgid ""
+"Photosynthesis drives this entire process. However simple or complex a local "
+"food web is, the energy that supports it is trapped by plants and stored in "
+"carbohydrates. At every level of the process, a small amount of the stored "
+"energy is transmitted into the next higher level.  As complicated as this "
+"may appear, it's useful to always remember that food webs are a type of "
+"puzzle. They can be organized in more than one way,  analyzed from different "
+"perspectives, and seem to need updates every time we take a close look at an "
+"ecosystem and find something new. But it's still a puzzle; beautiful, "
+"frustrating, and fascinating all at the same time."
+msgstr ""
+"「光合作用」是驅動整個食物網運作的核心。不論一個食物網多簡單或多複雜，食物網"
+"中的所有能量都是由植物從陽光中捕獲並儲存在碳水化合物中。以右邊的「食物網」圖"
+"為例，兔子吃青草、玉米，這些植物原本所儲存的一點點、一點點的能量就會傳遞到兔"
+"子體內而準備讓兔子使用；也就是說食物網的每個過程中，生物原本儲存的能量(如青"
+"草、玉米)會被傳遞給下一個更高的層次的生物(例如，兔子 )，而且持續不停。對這複"
+"雜的系統，也許我們可以把它看成是一個拼圖；有著非常多種的拼湊方式、可以從不同"
+"的角度加以解析，似乎我們每次仔細觀察一個生態系統都會發現新的圖像。但它仍然是"
+"一個批圖；總是美麗的、令人沮喪的、令人陶醉。"
+
+msgid "Example of a Food Web"
+msgstr "一個食物網的例子"
+
+# 11
+msgid ""
+"Question A. The flowchart below represents the process of photosynthesis. "
+"Click on the activity that occurs after the first activity."
+msgstr "問題 A. 下圖表示光合作用的過程。請點擊中間並選擇正確選項。"
+
+msgid "Light Energy is absorbed by plants."
+msgstr "太陽光的能量被植物吸收。"
+
+msgid "Plants are eaten by animals for food."
+msgstr "植物被動物當作食物吃掉。"
+
+msgid "Carbon dioxide and water are used to make sugar."
+msgstr "二氧化碳和水被用來製造醣。"
+
+msgid "Plants release water into the soil."
+msgstr "植物釋放出的水進入土壤。"
+
+msgid "Animals breathe out carbon dioxide."
+msgstr "動物呼出二氧化碳。"
+
+msgid "Oxygen is released."
+msgstr "氧氣被釋放。"
+
+msgid ""
+"Question B. Butterflies get food from the flowers of a plant. They also lay "
+"their eggs on the leaves of the plant. As the caterpillars develop, they eat "
+"the leaves of the plant. How does the plant benefit from the butterflies?"
+msgstr ""
+"問題B. 蝴蝶以植物的花作為食物。他們還在植物的葉子上產卵，毛蟲成長過程，牠們還"
+"吃植物的葉子。請問植物從蝴蝶身上得到什麼好處呢？"
+
+msgid "Butterflies help the plant grow larger flowers."
+msgstr "蝴蝶幫助植物生長出較大的花朵。"
+
+msgid "Butterflies' eggs help the leaves to fall off the plant."
+msgstr "蝴蝶的卵幫助葉子從植物上掉落。"
+
+msgid "Butterflies help pollinate flowers so that seeds can form."
+msgstr "蝴蝶幫助花授粉，使種子能形成。"
+
+msgid "Butterflies help add nutrients to the nectar of the flowers."
+msgstr "蝴蝶有助於增加花蜜的營養。"
+
+msgid "No. Butterflies actually eat food made by flowers."
+msgstr "不對喔！蝴蝶實際上吃的是花所製造的食物。"
+
+msgid "Sorry. The eggs don't weigh much at all."
+msgstr "不對喔！卵並不太重，不會讓葉子從植物上掉落。"
+
+msgid ""
+"Nice! As butterflies move from flower to flower, they carry pollen along."
+msgstr "不錯喔！蝴蝶在花與花之間移動，牠們能傳播花粉，使植物授粉。"
+
+msgid "Nope. The butterflies take the nectar away from the flowers."
+msgstr "不對喔！蝴蝶從花裡面帶走花蜜。"
+
+msgid "Sorry. Plant eating isn't a part of photosynthesis."
+msgstr "不對喔！吃植物不是光合作用的一部分。"
+
+msgid ""
+"That's it! The light energy is used to make sugar from carbon dioxide and "
+"water."
+msgstr "答對了！光的能量被用於將二氧化碳和水製成醣和氧氣。"
+
+msgid "Um, no... Plants absorb water from soil."
+msgstr "嗯，不...植物從土壤中吸收水分。"
+
+msgid "Nope. OK, it's true... but not part of photosynthesis."
+msgstr "不對喔！好了，這是事實...但這卻不是光合作用的一部分。"
+
+# 12
+msgid "Using what you know... about plants are producers... to solve a problem"
+msgstr "用你知道的...關於「植物是生產者」...來解決問題"
+
+msgid "The Scenario"
+msgstr "狀況..."
+
+msgid ""
+"You are an ecologist, a biologist who studies the relation between organisms "
+"and their environment. A company is building a shopping center in an area "
+"that was once a forest. They will need to destroy one acre of what is left "
+"of the forest for their project. The company has hired you as a consultant "
+"on the project."
+msgstr ""
+"你是一位生態學家，也就是一種特別專精研究生物與環境之間關係的生物學家。現在一"
+"個公司在曾經是一片森林的地區剷平很多樹林並已經在那蓋了一個商業城。他們正在計"
+"劃要剷平最後僅剩下一點點像操場般小小的樹林。現在，這公司已經聘請您作為這個計"
+"畫的顧問。"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid ""
+"You are to give a report on how removing the trees will affect the "
+"environment. Using what you now know about plants as producers in the food "
+"web, offer some suggestions on how the company can have positive impacts on "
+"the environment."
+msgstr ""
+"您需提交一份關於：「這剩下的小樹林會對環境造成那些重要影響」的報告。請用你現"
+"在所知道，像是：植物是食物網裡的生產者角色等等的知識，寫下報告給這一個公司，"
+"看如何能對環境產生好的影響。"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."
+
+# 13
+msgid "Summarizing core ideas... about plants are producers"
+msgstr "總結核心觀念...關於「植物是生產者」"
+
+msgid ""
+"Plants absorb energy directly from the sun. They use that energy to power "
+"<span class='key'>photosynthesis</span>, the process that combines carbon "
+"dioxide and water to form sugar. Green plants capable of photosynthesis are "
+"said to be <span class='key'>producers</span>. They are the base of the "
+"<span class='key'>food web</span>, the system of interactions between plants "
+"and <span class='key'>consumers</span>, the animals who consume the plants "
+"for food.  <span class='key'>First-order consumers</span> are animals who "
+"consume only plant material for food. Second-order consumers get their food "
+"by eating first-order consumers. Food webs are such complex sets of "
+"interactions that the loss of any part of the web can cause it to collapse. "
+"When this happens, some species may become extinct."
+msgstr ""
+"植物直接吸收來自太陽的能量，他們使用這些能量來進行<span class='key'>光合作用"
+"</span>，這個過程中二氧化碳和水互相結合並產生醣和氧氣。能夠進行光合作用的綠色"
+"植物叫做<span class='key'>生產者</span>，他們是<span class='key'>食物網</"
+"span>的基礎。食物網是植物和<span class='key'>消費者</span>的交互系統，其中動"
+"物消耗植物作為食物； <span class='key'>一級消費者</span>是只消耗植物作為食物"
+"的動物、二級消費者則是指吃一階消費者的動物，以此類推。食物網是如此複雜的交互"
+"作用，失去其中的任何一部分都可能會導致整個食物網的崩潰；當這種這種情況發生"
+"時，一些物種可能會滅絕。"
+
+msgid ""
+"Photosynthesis combines water and carbon dioxide to form <span "
+"class='key'>simple sugars</span>. Simple sugars may then be combined to form "
+"complex <span class='key'>carbohydrates</span> like starch and <span "
+"class='key'>cellulose</span>. <span class='key'>Humans</span> are unable to "
+"digest cellulose as food, but make use of its fibers in such products as "
+"paper, cloth and wood."
+msgstr ""
+"光合作用中二氧化碳和水，形成<span class='key'>單醣</span>。單醣可以組合形成複"
+"雜的<span class='key'>碳水化合物</span>，例如<span class='key'>澱粉和纖維素</"
+"span>。 <span class='key'>人類</span>無法消化纖維素作為食物，但我們常利用纖維"
+"作為紙張、布料和木材等產品。"
+
+# 14
+msgid "Reviewing key vocabulary related to... plants are producers"
+msgstr "複習重要詞彙...「植物是生產者」"
+
+msgid "Producers"
+msgstr "生產者"
+
+msgid ""
+"Producers are organisms, such as plants, that obtain their food through the "
+"process of photosynthesis. Producers use the energy of sunlight to produce "
+"sugar, which is used as energy for survival and reproduction. Because they "
+"do not consume other organisms but instead are consumed by others, producers "
+"are at the bottom of the food chain."
+msgstr ""
+"生產者是生物食物網中的一個類別，例如植物就是生產者，因為它們透過光合作用的過"
+"程產生養分(例如：葡萄糖、澱粉、纖維素)並可供給其它動物食用。生產者利用太陽光"
+"的能量來生產醣，作為生存和繁殖的能量。因為它們不會獵食其它生物，而是提供能量"
+"給他人，因此生產者是在食物鏈的底部。"
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"「光合作用」，是植物這些生產者獲得能量的方式；這過程中，植物利用太陽能量，將"
+"二氧化碳和水轉換為醣和氧氣。"
+
+msgid "Glucose"
+msgstr "葡萄糖"
+
+msgid ""
+"In photosynthesis, the carbon dioxide molecules are combined to form a six-"
+"carbon compound called glucose. Glucose is a simple sugar used to store "
+"energy."
+msgstr ""
+"在光合作用中，二氧化碳分子結合形成一種稱為葡萄糖的6個碳的化合物。葡萄糖是一種"
+"單醣，用來儲存能量。"
+
+msgid "Carbohydrates"
+msgstr "碳水化合物"
+
+msgid ""
+"Glucose may be used for energy directly, or connected to other glucose "
+"molecules to form chains called carbohydrates.  Carbohydrates are used for "
+"energy by nearly all living things.  The oxygen released by photosynthesis "
+"is also used by plants and animals to help unlock the energy stored in "
+"carbohydrates.  Grains are examples of foods that are high in carbohydrates."
+msgstr ""
+"葡萄糖可以直接作為能量，或和其它葡萄糖分子結合形成鏈狀的大化合物，這稱為碳水"
+"化合物，這幾乎是所有生物的能量。透過光合作用釋放的氧氣也能被植物和動物所用，"
+"以幫助釋放儲存在碳水化合物中的能量。穀物是食物中高碳水化合物的例子。"
+
+msgid ""
+"Cellulose is a plant carbohydrate which provides the plant with both stored "
+"energy and acts as a strong substance to help provide it with support. "
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"The purest natural form of cellulose is cotton."
+msgstr ""
+"纖維素也是植物中的一種碳水化合物，它幫植物儲存能量並可做為堅固材料幫助植物支"
+"撐植物體。纖維素是植物細胞壁的主要成分。天然產生最純的纖維素是棉花。"
+
+msgid "Fiber"
+msgstr "纖維"
+
+msgid ""
+"Cellulose is also the fiber, or tough thread-like substance, found in other "
+"types of plants. It is the fiber in the boll of the cotton flower."
+msgstr ""
+"纖維素也就是纖維，它是一種堅韌的線形物質，在其它類型的植物中也能找到。它是棉"
+"花莢裡的纖維。"
+
+# 15
+msgid "Checking what you now know... about plants are producers"
+msgstr "看看你現在了解了多少…關於「植物是生產者」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# 16
+msgid "If all green plants died, would lions survive?"
+msgstr "如果所有的綠色植物都死亡了，獅子可以生存下來嗎？"
+
+msgid "Yes, lions do not eat green plants."
+msgstr "可以的，獅子不吃綠色的植物。"
+
+msgid "Yes, lions could still eat other animals."
+msgstr "可以的，獅子仍然可以吃其它動物。"
+
+msgid "No, the animals that lions eat need to eat green plants."
+msgstr "不可以的，獅子吃的動物需要吃綠色植物才能生存。"
+
+msgid "No, they would have no more plants to eat."
+msgstr "不可以的，他們將沒有植物可吃。"
+
+msgid ""
+"No, although lions do not eat green plants, they eat animals that do. "
+"Without any green plants, there would be no animals for lions to eat."
+msgstr ""
+"不對喔！雖然獅子不吃綠色的植物，但他們吃的動物需要吃綠色植物。沒有任何綠色的"
+"植物，就沒有動物給獅子吃。"
+
+msgid ""
+"Not quite, there wouldn't be any other animals for lions to eat because they "
+"would not have any plants as food, and would not survive."
+msgstr ""
+"不對喔！不會有任何其它動物給獅子吃的，因為他們都沒有任何植物可吃，將無法生"
+"存。"
+
+msgid ""
+"Correct. Lions are carnivores and eat animals. The animals they eat need "
+"plants to survive."
+msgstr "正確。雖然獅子是肉食性動物只吃動物，但他們吃的動物，還是要吃植物維生。"
+
+msgid ""
+"Not quite, lions are carnivores, so they only indirectly eat plants. They "
+"eat animals that eat plants to survive."
+msgstr ""
+"不對喔！獅子是肉食性動物，它們不吃植物，但他們還是需吃以植物維生的動物。"
+
+# 17
+msgid ""
+"All food webs share what common feature? Rotate or flip the 3D box below "
+"either up or down to set your answer."
+msgstr "所有食物網都需要具備的是什麼呢？請上下翻轉下方3D方塊來選擇你的答案。"
+
+msgid "Carnivores"
+msgstr "肉食性動物"
+
+msgid "Second-order consumers"
+msgstr "二級消費者"
+
+msgid "Birds"
+msgstr "鳥類"
+
+msgid "Nope. Carnivores are not required."
+msgstr "不對喔！肉食性動物不是必需的。"
+
+msgid "Sorry...  Second-order consumers show up a lot, but aren't required."
+msgstr "不對喔！二級消費者雖也常普遍出現，但不是必需的。"
+
+msgid "Hmm... Food webs can happen under water.  No birds."
+msgstr "不對喔！水中也可以有食物網，那這食物網就沒有鳥喔。"
+
+msgid "There you go! All food webs are based on producers."
+msgstr "答對了！所有食物網都根源於生產者，所以一定要有生產者。"
+
+# 18
+msgid "Choose the <span class='blink'>correct</span> statement..."
+msgstr "請選擇<span class='blink'>正確的</span>敘述..."
+
+msgid "Cellulose is made by plants from oxygen and sulfur."
+msgstr "纖維素是植物利用氧氣及硫所製成。"
+
+msgid "Photosynthesis uses the sun's energy to make complex molecules."
+msgstr "光合作用利用太陽的能量來形成複雜的分子。"
+
+msgid "Photosynthesis breaks down complex molecules to release energy."
+msgstr "光合作用分解複雜的分子，以釋放能量。"
+
+msgid "Cellulose is an important plant protein used for movement."
+msgstr "纖維素是一種用於運動的重要植物蛋白質。"
+
+msgid "Sorry. Cellulose doesn't include any sulfur."
+msgstr "不對喔！纖維素不包括任何的硫。"
+
+msgid ""
+"Good job! Photosynthesis captures solar energy for living things to use."
+msgstr "答得好！光合作用獲取太陽能讓生物都能使用。"
+
+msgid "No... Photosynthesis stores energy."
+msgstr "不對喔！..光合作用是儲存能量的過程。"
+
+msgid "Not this one... Cellulose isn't a protein, it's a carbohydrate."
+msgstr "不對喔！...纖維素不是一種蛋白質，它是碳水化合物。"
+
+# 19
+msgid ""
+"The source for the carbon needed to make simple sugars in photosynthesis "
+"is..."
+msgstr "光合作用中，用以製造單醣的碳，它的來源是..."
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "Animals"
+msgstr "動物"
+
+msgid "Right! Photosynthesis combines carbon dioxide molecules to make sugar."
+msgstr "沒錯！光合作用會促使二氧化碳分子結合形成醣類。"
+
+msgid "Sorry. Water doesn't contain carbon."
+msgstr "不對喔！水不含有碳。"
+
+msgid "No. Plants don't absorb much carbon from soil."
+msgstr "不對喔！植物不會從土壤中吸收大量的碳。"
+
+msgid "Animals are consumers. Try again."
+msgstr "動物是消費者，它不是光合作用中，碳的主要來源。請再試一次。"
+
+# 20
+msgid ""
+"Which of the following is <span class='blink'>not</span> a cellulose product?"
+msgstr "下列哪一項，<span class='blink'>不是</span>纖維素的產物？"
+
+msgid "Wood"
+msgstr "木材"
+
+msgid "Scrambled Egg"
+msgstr "炒蛋"
+
+msgid "Cotton Cloth"
+msgstr "棉布"
+
+msgid "Paper"
+msgstr "紙張"
+
+msgid "Sorry.  Wood is a cellulose product."
+msgstr "不對喔！木材是一種纖維素的產物。"
+
+msgid "There you go! Scrambled eggs have no cellulose."
+msgstr "答對了！炒蛋不是纖維素的產物。"
+
+msgid "Nope. Cotton bolls are pure cellulose."
+msgstr "不對喔！棉莢是纖維素的產物。"
+
+msgid "No. Paper is a wood/water product."
+msgstr "不對喔！紙是由木材做來的，木材是纖維素的產物。"
+
+# 21 (This question may need to be revised then be translated.)
+msgid ""
+"Look at the diagram showing the results of an experiment of increasing the "
+"level of carbon dioxide and its effect on plant growth. Then click on the "
+"statement that you infer from analyzing the data in the bar graph below. "
+"(Suboptimal means less than optimal amount of  water.)"
+msgstr ""
+"下方圖表，是研究「二氧化碳的濃度」、「澆水的量」對「植物生長影響」的實驗結"
+"果。請依據這數據 選擇下列中正確的一項敘述。（※註：1. 圖 中的PPM是濃度的單位，"
+"越大表示濃度越高。2. 圖 中，藍、紅顏色表示不同的澆水量，藍色表示較多的澆水"
+"量、紅色表示較少的澆水量。）"
+
+msgid ""
+"Relative Plant Growth under Different CO<sub>2</sub> and Water Condition"
+msgstr "不同二氧化碳濃度和不同澆水量下植物生長情形"
+
+msgid "Increased amounts of CO<sub>2</sub> dramatically enhanced plant growth."
+msgstr "增加二氧化碳濃度，能明顯的提高植物的生長速率。"
+
+msgid ""
+"In low CO<sub>2</sub> conditions, plants grew less in suboptimal water "
+"conditions."
+msgstr "當 二氧化碳濃度低的狀況下，植物在較小澆水量時長得比較慢。"
+
+msgid "The amount of water the plants received did not affect their growth."
+msgstr "植物吸收的水量不會影響生長速率。"
+
+msgid ""
+"The amount of carbon dioxide the plants were exposed to did not affect their "
+"growth."
+msgstr "二氧化碳的濃度大小和植物生長快慢沒有關係。"
+
+msgid ""
+"Correct! The blue blocks show the growth increase under optimal water "
+"conditions. Then when the water decreased, you can see the CO<sub>2</sub> "
+"difference in the red blocks. The red blocks show a much greater growth "
+"increase."
+msgstr ""
+"正確。不管是在較大澆水量(藍色色柱)或 較小澆水量(紅色色柱)， 都顯示增加二氧化"
+"碳濃度，能明顯的提高植物的生長速率。"
+
+msgid ""
+"No! In low CO<sub>2</sub> conditions, plants with less water actually grew "
+"better."
+msgstr "不對喔！在低二氧化碳濃度時，較小澆水量 (紅色色柱)長 得比較快。"
+
+msgid "Nope! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr "不對喔！澆水量和二氧化碳的量，兩者都會影響植物的生長。"
+
+msgid "No! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr "不對喔！澆 水量和二氧化碳的量，兩者都會影響植物的生長。"
+
+msgid "Plants with optimal water"
+msgstr "較多澆水量"
+
+msgid "Plants with suboptimal water"
+msgstr "較少澆水量"
+
+msgid ""
+"No, with more CO<sub>2</sub>, plant growth in water shortage is 219%. That "
+"is 4 times larger than 51%, the growth increase they had with optimal amount "
+"of water."
+msgstr ""
+"不對喔！有較多的二氧化碳，植物在缺水情況下增長219%。這比有充足水量時增長速率"
+"51%還多了4倍。"
+
+msgid ""
+"No, both factors: water and CO<sub>2</sub>, affected plant growth. You can "
+"see the difference in color blocks – with 300 ppm CO<sub>2</sub> (the blocks "
+"on the left), not having enough water caused 32% growth increase. On the "
+"right (600 ppm CO<sub>2</sub>), the lack of water caused a plant growth "
+"increase of 168%."
+msgstr ""
+"不對喔！水和二氧化碳，這兩個因素都影響植物的生長。你可以從不同色柱看出差別來"
+"－當二氧化碳濃度固定為300 PPM時（左邊色柱），缺水的生長速率增長32%。在右邊"
+"（二氧化碳濃度為600 PPM），缺水造成植物增長168%。"
+
+msgid ""
+"No, both factors: water and CO<sub>2</sub>, affected plant growth. You can "
+"see the difference in the same color blocks. The blue blocks show the growth "
+"increase from 31% to 51% under optimal water conditions. Then when the water "
+"decreased, you can see the CO<sub>2</sub> difference in the red blocks. It "
+"went from 63% to 219%."
+msgstr ""
+"不對喔！水和二氧化碳，這兩個因素都影響植物的生長。你可以在相同色柱中看出差"
+"異。藍色色柱顯示在水量充足時生長幅度從31%增加到51%。但當水量降低時，你可以看"
+"到二氧化碳在紅色色柱的差異。它從63%提高到219%。"
+
+# 22
+msgid "You've completed the Plants are Producers review."
+msgstr "你已經完成了「植物是生產者」單元。"
+
+msgid "Congratulations, "
+msgstr "恭喜您囉, "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現"

@@ -1,0 +1,783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Quick Check #5"
+msgstr "Revisión Rápida #5"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja debajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "Estás listo/a,"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Our Solar System"
+msgstr "Nuestro Sistema Solar"
+
+msgid "Welcome to Our Solar System module"
+msgstr "Bienvenido/a al módulo de Nuestro Sistema Solar"
+
+msgid "Thinking about... our solar system"
+msgstr "Pensando acerca de... nuestro sistema solar"
+
+msgid "For thousands of years, people have looked at the sun, moon, stars and planets. Tales were told and myths were created to explain the movement of those objects across the nighttime and daytime sky. And the patterns they found were used to create calendars and make predictions of all sorts. Today, much has been learned about the structure of the solar system and how it works. We also know that the movement of the Sun, Earth and Moon can explain phenomena on Earth such as changing tides and seasons as well as solar and lunar eclipses."
+msgstr "Por miles de años, las personas han mirado al sol, la luna, estrellas y planetas. Se han contado historias y se han creado mitos para explicar el movimiento de dichos objetos a través del cielo nocturno y diurno. Y los patrones que encontraron fueron utilizados para crear calendarios, y hacer predicciones de toda clase. Hoy en día, hemos aprendido mucho acerca de la estructura del sistema solar y de cómo funciona. También sabemos que el movimiento del sol, la Tierra y la luna pueden explicar fenómenos en la Tierra como cambios en las mareas y estaciones así como los eclipses solares y lunares."
+
+msgid "Our solar system consists of a single star, which we call the Sun and eight planets including Mercury, Venus, Earth (the one we live on), Mars, Jupiter, Saturn, Uranus and Neptune. Of all the objects in our solar system, mankind has only been able to directly explore two (except for those objects such as meteorites that have fallen to Earth). The first is our planet, Earth. The second is Earth's moon. However, scientists have developed a number of tools and technologies that help them understand many details about the composition and structure of the planets that cannot yet be visited by humans. These tools and technologies include robots (sent to Mars) and unmanned spacecraft (probes) that can take pictures and atmospheric samplings and send them back to Earth."
+msgstr "Nuestro sistema solar consiste de una única estrella, que nosotros conocemos como el sol y ocho planetas, incluyendo a Mercurio, Venus, Tierra (en el que vivimos), Marte, Júpiter, Saturno, Urano y Neptuno. De todos los objetos en nuestro sistema solar, la humanidad sólo ha sido capaz de explorar directamente dos (excepto por aquellos objetos como meteoritos que han caído a la Tierra). El primero es nuestro planeta, la Tierra. El segundo es la luna de la Tierra. Sin embargo, los científicos han desarrollado un número de herramientas y tecnologías que les ayudan a entender muchos detalles acerca de la composición y estructura de los planetas que no pueden ser visitados por humanos aún. Estas herramientas y tecnologías incluyen robots (enviados a Marte) y naves espaciales sin pasajeros (sondas) que pueden tomar fotografías y muestras atmosféricas y enviarlas de vuelta a la Tierra."
+
+msgid "You've completed the Our Solar System module."
+msgstr "Has completado el módulo de Nuestro Sistema Solar."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en las 'Revisiones Rápidas' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Checking what you already know about... our solar system"
+msgstr "Revisando lo que ya sabes acerca de... nuestro sistema solar"
+
+msgid "Rearrange the descriptions on the right by dragging them next to the pictures on the left they best describe."
+msgstr "Reorganiza las descripciones de la derecha arrastrándolas junto a las imágenes que describen mejor de la izquierda."
+
+msgid "Star"
+msgstr "Estrella"
+
+msgid "Moon"
+msgstr "Luna"
+
+msgid "Asteroid"
+msgstr "Asteroide"
+
+msgid "A celestial body that orbits a planet."
+msgstr "Un cuerpo celestial que orbita un planeta."
+
+msgid "A small rocky celestial body that may become a meteorite when it enters the earth’s atmosphere."
+msgstr "Un pequeño cuerpo celestial rocoso que puede convertirse en meteorito cuando entra a la atmósfera terrestre."
+
+msgid "A celestial body made up mostly of dust and ice."
+msgstr "Un cuerpo celestial formado principalmente de polvo y hielo."
+
+msgid "A small, planet-like celestial object with a gravitational field too weak to clear out neighboring objects."
+msgstr "Un objeto celestial pequeño, parecido a un planeta, con un campo gravitacional demasiado débil como para alejarse de objetos cercanos."
+
+msgid "A huge ball of gas that produces tremendous heat and light energy."
+msgstr "Una enorme bola de gas que produce tremendas cantidades de energía térmica y lumínica."
+
+msgid "A large celestial body that orbits a star."
+msgstr "Un cuerpo celestial grande que orbita una estrella."
+
+msgid "The universe is made up of many natural celestial bodies such as stars; planets that orbit the stars; moons that orbit the planets; and comets and asteroids that may also orbit stars. Man has also made some artificial celestial bodies such as communication satellites that orbit the earth."
+msgstr "El universo está formado por  muchos cuerpos celestiales naturales como estrellas; planetas que orbitan las estrellas; lunas que orbitan los planetas; y cometas y asteroides que también pueden orbitar estrellas. El hombre también ha creado algunos cuerpos celestiales artificiales como satélites de comunicaciones que orbitan la Tierra."
+
+msgid "Counting planets..."
+msgstr "Contando planetas..."
+
+msgid "Reviewing big ideas about... our solar system"
+msgstr "Revisando ideas importantes acerca de... nuestro sistema solar"
+
+msgid "We can see many objects in the nighttime (and daytime) sky. Some of those objects are part of our solar system while others are not (such as distant stars). And yet others are only occasionally found in our <span class='key'>solar system</span>. Objects that are permanent residents of our solar system include the <span class='key'>Sun</span>, <span class='key'>planets</span>, <span class='key'>moons</span>, <span class='key'>asteroids</span> and <span class='key'>dwarf planets</span>. Pluto is a well-known example of a dwarf planet. All the objects in our solar system are bound together by the strong gravitational pull of the sun. Even the furthest planets in our solar system are held in their orbital paths by the sun's gravity."
+msgstr "Podemos ver muchos objetos en el cielo nocturno (y diurno). Algunos de esos objetos son parte de nuestro sistema solar mientras que otros no lo son (como las estrellas distantes). Y sin embargo, otras sólo se encuentran ocasionalmente en nuestro <span class='key'>sistema solar</span>. Los objetos que son residentes permanentes de nuestro sistema solar incluyen al <span class='key'>Sol</span>, <span class='key'>planetas</span>, <span class='key'>lunas</span>, <span class='key'>asteroides</span> y <span class='key'>planetas enanos</span>. Plutón es un ejemplo bien conocido de un planeta enano. Todos los objetos en nuestro sistema solar están unidos por la fuerte atracción gravitacional del sol. Incluso los planetas más lejanos de nuestro sistema solar se mantienen en su camino orbital debido a la gravedad del sol."
+
+msgid "Most of the objects we see with our naked eyes in the nighttime sky that are outside our solar system are stars. <span class='key'>Comets</span> are frozen bodies of ice and dust that spend most of their time outside our solar system. However, some comets follow orbits around our Sun. The Sun's <span class='key'>gravity</span> is the force that pulls them inside our solar system. As comets approach the Sun, a bright tail forms making them visible in the nighttime sky. Sometimes, the comets are so big and bright that they can be seen during the daytime. Scientists argue comets of all sizes (large and small) that have crashed into Earth are the source of water found on our planet. Collectively, most of the objects we see in the day and nighttime sky are all found in the Orion Arm of the Milky Way Galaxy. There is some variation in the way scientists define <span class='key'>galaxy</span>, but most agree that it is a massive collection of stars (many billions) held together by the force of gravity."
+msgstr "La mayoría de los objetos que vemos a simple vista en el cielo nocturno fuera de nuestro sistema solar, son estrellas. Los <span class='key'>cometas</span> son cuerpos congelados de hielo y polvo que pasan la mayor parte de su tiempo fuera de nuestro sistema solar. Sin embargo, algunos cometas siguen órbitas alrededor de nuestro sol. La <span class='key'>gravedad</span> del sol es la fuerza que los atrae hacia nuestro sistema solar. Conforme los cometas se acercan al sol, una cola brillante se forma, haciéndolos visibles en el cielo nocturno. Algunas veces, los cometas son tan grandes y brillantes que pueden ser vistos durante el día. Los científicos dicen que cometas de todos tamaños (grandes y pequeños) que han chocado contra la Tierra, son la fuente del agua encontrada en nuestro planeta. En conjunto, la mayoría de los objetos que vemos en el cielo nocturno y diurno, se encuentran en el brazo de Orión de la Vía Láctea. Hay algunas variaciones en la forma en que los científicos definen una <span class='key'>galaxia</span>, pero la mayoría está de acuerdo en que es una colección masiva de estrellas (muchos miles de millones) unidas por la fuerza de  gravedad."
+
+msgid "Studying solar systems..."
+msgstr "Estudiando sistemas solares..."
+
+msgid "Distance from Sun"
+msgstr "Distancia del sol"
+
+msgid "Age of Formation"
+msgstr "Edad de formación"
+
+msgid "Rotation"
+msgstr "Rotación"
+
+msgid "Rotational Speed"
+msgstr "Velocidad rotacional"
+
+msgid "Number of Moons"
+msgstr "Número de lunas"
+
+msgid "What factor do you think is associated most closely with whether a planet is likely to be placed in the Rocky or Gaseous category?"
+msgstr "¿Cuál factor crees que esté asociado de manera más cercana con si un planeta será colocado en la categoría Rocosa o Gaseosa?"
+
+msgid "Correct! The planets closest to the Sun are all rocky planets."
+msgstr "¡Correcto! Los planetas más cercanos al sol son todos planetas rocosos."
+
+msgid "Try again. It's thought that the ages of the planets are approximately the same."
+msgstr "Inténtalo de nuevo. Se cree que las edades de los planetas son aproximadamente iguales."
+
+msgid "Not quite. The factor most closely associated with the type of planet is distance from the Sun."
+msgstr "No exactamente. El factor más cercanamente asociado con el tipo de un planeta es su distancia al sol."
+
+msgid "Try again. Both types of planets can have one or more moons."
+msgstr "Inténtalo de nuevo. Ambos tipos de planetas pueden tener una o más lunas."
+
+msgid "Photosynthesis"
+msgstr "Fotosíntesis"
+
+msgid "Spectroscopy"
+msgstr "Espectroscopía"
+
+msgid "Luminescence"
+msgstr "Luminiscencia"
+
+msgid "Photo Analysis"
+msgstr "Foto Análisis"
+
+msgid "Average Distance from the Sun"
+msgstr "Distancia promedio del sol"
+
+msgid "Number of Earth Days required to Orbit the Sun (rounded to nearest whole number)"
+msgstr "Número de días terrestres requeridos para orbitar al sol (redondeado al número entero más cercano)"
+
+msgid "Number of Earth Years required to Orbit the Sun (rounded to nearest whole number)"
+msgstr "Número de años terrestres requeridos para orbitar al sol (redondeado al número entero más cercano)"
+
+msgid "57 million km"
+msgstr "57 millones de km"
+
+msgid "108 million km"
+msgstr "108 millones de km"
+
+msgid "150 million km"
+msgstr "150 millones de km"
+
+msgid "228 million km"
+msgstr "228 millones de km"
+
+msgid "779 million km"
+msgstr "779 millones de km"
+
+msgid "14,300 million km"
+msgstr "14,300 millones de km"
+
+msgid "28,800 million km"
+msgstr "28,800 millones de km"
+
+msgid "45,000 million km"
+msgstr "45,000 millones de km"
+
+msgid "Mercury"
+msgstr "Mercurio"
+
+msgid "Venus"
+msgstr "Venus"
+
+msgid "Mars"
+msgstr "Marte"
+
+msgid "Jupiter"
+msgstr "Júpiter"
+
+msgid "Saturn"
+msgstr "Saturno"
+
+msgid "Neptune"
+msgstr "Neptuno"
+
+msgid "Uranus"
+msgstr "Urano"
+
+msgid "More big ideas about... our solar system"
+msgstr "Más ideas importantes acerca de... nuestro sistema solar"
+
+msgid "The Sun exerts a very strong gravitational pull on the planets in our solar system. With the Sun at the center of our solar system, a balance of gravitational forces keeps the planets orbiting the Sun. The time it takes the planets to journey around the Sun (orbit) varies widely. Generally, the planets closer to the Sun such as Mercury, Venus, Earth and Mars complete one <span class='key'>revolution</span> around the Sun much more quickly than those planets such as Jupiter, Saturn, Uranus and Neptune that are much further away. Click on the table below to see if you can see this pattern."
+msgstr "El sol ejerce una atracción muy fuerte sobre los planetas en nuestro sistema solar. Con el sol al centro de nuestro sistema solar, un equilibrio de fuerzas gravitacionales fuerza a los planetas a mantenerse en órbita alrededor del Sol. El tiempo que toma a los planetas viajar alrededor del sol (orbitar) varía mucho. En general, los planetas más cercanos al sol, como Mercurio, Venus, Tierra y Marte completan una <span class='key'>revolución</span> alrededor del sol mucho más rápido que aquellos planetas como Júpiter, Saturno, Urano y Neptuno que están mucho más lejos. Da clic en la tabla debajo para ver si puedes notar este patrón."
+
+msgid "Click on the table below to see if you can see this pattern."
+msgstr "Da clic en la tabla debajo para ver si puedes notar este patrón."
+
+msgid "Advancements in technologies made by scientists and engineers have led to great discoveries about the detailed structure and composition of our solar system. Manned space crafts and unmanned probes have been used to gather information about the surface of the moon while space probes and robots have recorded details about the surface structure and composition of Mars. Here on Earth, advances in spectroscopy (the study of the absorption and radiation of light by matter) and computers have provided much information about the chemical composition of the solar system and the universe."
+msgstr "Los avances en la tecnología hechos por científicos e ingenieros nos han llevado a grandes descubrimientos acerca de la estructura y composición detallada de nuestro sistema solar. Naves espaciales con tripulación y sondas sin tripulación han sido utilizadas para recopilar información acerca de la superficie de la luna mientras que sondas espaciales y robots han registrado detalles acerca de la estructura de la superficie y la composición de Marte. Aquí en la Tierra, avances en la espectroscopía (el estudio de la absorción y radiación de la luz por la materia) y computadoras han proporcionado mucha información acerca de la composición química del sistema solar y del universo."
+
+msgid "Astronomers use an instrument called a \"<span class='key'>spectrometer</span>.\" This instrument analyzes emission of light rays by spreading them out through a prism. The composition of the objects being viewed can then be determined by the patterns created by the spectrometer. Figure 1 below shows the spectrum emitted by white light. Figure 2 shows the spectrum emitted by energized hydrogen atoms. In this way, scientists are able to conclude that the Sun is composed largely of hydrogen (and helium)."
+msgstr "Los astrónomos utilizan un instrumento llamado \"<span class='key'>espectrómetro</span>.\"  Este instrumento analiza las emisiones de rayos de luz al separarlos a través de un prisma. La composición de los objetos que están siendo vistos puede entonces ser determinada por los patrones creados por el espectrómetro. La Figura 1 debajo muestra el espectro emitido por una luz blanca. La Figura 2 muestra el espectro emitido por átomos de hidrógeno energizados. De esta manera, los científicos son capaces de concluir que el sol está compuesto en gran parte por hidrógeno (y helio)."
+
+msgid "Figure 1. Full spectrum of white light."
+msgstr "Figura 1. Espectro completo de la luz blanca."
+
+msgid "Figure 2. Spectrum of energized hydrogen atoms."
+msgstr "Figura 2. Espectro de átomos de hidrógeno energizados."
+
+msgid "Using spectrometer..."
+msgstr "Utilizando el espectrómetro..."
+
+msgid "You have been stranded on Mars after a crash landing. Although the crashed rocket cannot get you back into space, it does provide enough food, water, shelter and oxygen until the rescue mission arrives. The radio also works. NASA just informed you that a rescue ship cannot pick you up until Mars comes back around to the exact same orbital position it was in when the ship crashed. In other words, you will be stranded on the planet for exactly 1 Mars year. According to the table below, how many Earth days must your friends wait before they see you rescued?"
+msgstr "Te has quedado estancado/a en Marte después de un aterrizaje forzoso. Aunque el cohete que se estrelló no puede llevarte de vuelta al espacio, provee suficiente alimento, agua, refugio y oxígeno hasta que la misión de rescate llegue. El radio también funciona. La NASA te acaba de informar que una nave de rescate no puede recogerte sino hasta que Marte regrese a la misma posición orbital exacta en la que estaba cuando la nave se estrelló. En otras palabras, estarás estancado/a en el planeta por exactamente un año de Marte. De acuerdo a la tabla debajo, ¿cuántos días terrestres deberán esperar tus amigos antes de que te rescaten?"
+
+msgid "Click the image below to view the table."
+msgstr "Da clic en la imagen debajo para ver la tabla."
+
+msgid "Counting the days..."
+msgstr "Contando los días..."
+
+msgid "Not quite. It takes many more earth days than that for Mars to complete one orbit around the Sun."
+msgstr "No exactamente. Toma muchos más días terrestres que esos para que Marte complete una órbita alrededor del sol."
+
+msgid "That’s Right! It will take 730 earth days before you can be rescued."
+msgstr "¡Así es! Tomaría 730 días terrestres antes de que pudieras ser rescatado/a."
+
+msgid "The Sun is a massive ball of super hot gas (mostly hydrogen) that produces tremendous amounts of heat and light through nuclear reactions. Heat and light from the Sun radiates out in all directions through space. About 30% of the Sun’s energy reaching the Earth is reflected back out into our solar system. The rest (about 70%) is absorbed by Earth’s atmosphere, oceans and solid surfaces. When the Sun’s energy hits the Earth, it warms the atmosphere, land and oceans. The radiant energy (heat energy) absorbed by land and water can be stored and released back into the atmosphere. In this way, winds and ocean currents are created. The light reaching plant life on earth is used, through a process called photosynthesis, to help them create food for growth and development. Hence, even in complex food webs, the original source of energy for most living things on Earth can be traced back to sunlight. "
+msgstr "El sol es una bola masiva de gas súper caliente (principalmente hidrógeno) que produce tremendas cantidades de calor y luz a través de reacciones nucleares. Calor y luz emanan del sol en todas direcciones a través del espacio. Aproximadamente 30% de la energía solar que llega a la Tierra se refleja de regreso hacia el sistema solar. El resto (aproximadamente 70%) es absorbido por la atmósfera terrestre, los océanos y las superficies sólidas. Cuando la energía del sol llega a la Tierra, calienta la atmósfera, suelo y océanos. La energía radiante (energía térmica) absorbida por el suelo y el agua puede ser acumulada y liberada de regreso a la atmósfera. De esta manera se crean los vientos y corrientes oceánicas. La luz que llega a la vida vegetal de la Tierra se utiliza, a través de un proceso llamado fotosíntesis, para ayudarles a crear alimentos para crecer y desarrollarse. Por lo tanto, incluso en redes alimenticias complejas, la fuente original de energía para la mayor parte de los seres vivos en la Tierra, puede ser identificada como la luz del sol."
+
+msgid "Producing heat..."
+msgstr "Produciendo calor..."
+
+msgid "Question A. Click on the area in Figure A where the days are longer than other parts of the world."
+msgstr "Pregunta A. Da clic en el área en la Figura A donde los días son más largos que en otras partes del mundo."
+
+msgid "Summer in the Southern Hemisphere"
+msgstr "Verano en el Hemisferio Sur"
+
+msgid "Question B. Click on the area in Figure B where the days are shorter than other parts of the world."
+msgstr "Pregunta B. Da clic en el área en la Figura B donde los días son más cortos que en otras partes del mundo."
+
+msgid "Figure B"
+msgstr "Figura B"
+
+msgid "Figure A"
+msgstr "Figura A"
+
+msgid "Winter in the Southern Hemisphere"
+msgstr "Invierno en el Hemisferio Sur"
+
+msgid "The figures below represent the amount of radiation received on Earth’s surface from the Sun during the summer and winter in the southern hemisphere. Red represents the most, then green and yellow, and blue is the least."
+msgstr "Las figuras debajo representan la cantidad de radiación recibida del sol sobre la superficie terrestre durante el verano y el invierno en el hemisferio sur. El rojo representa la mayor cantidad, luego verde y amarillo, y el azul la menor cantidad."
+
+msgid "Correct! The area shaded red has a longer period of daylight than other areas on Earth."
+msgstr "¡Correcto! El área sombreada con rojo tiene períodos más largos de luz de día que otras áreas de la Tierra."
+
+msgid "Not quite! The area shaded red has a longer period of daylight than other areas on Earth."
+msgstr "¡No exactamente! El área sombreada con rojo tiene períodos más largos de luz de día que otras áreas de la Tierra."
+
+msgid "Correct! The area shaded blue and light blue has a shorter period of daylight than other areas on Earth."
+msgstr "¡Correcto! El área sombreada con azul y azul claro tiene un período más corto de luz de día que otras áreas de la Tierra."
+
+msgid "Not quite! The area shaded blue and light blue has a shorter period of daylight than other areas on Earth."
+msgstr "¡No exactamente! El área sombreada con azul y azul claro tiene un período más corto de luz de día que otras áreas de la Tierra."
+
+msgid "Polaris"
+msgstr "Polaris"
+
+msgid "N Axis"
+msgstr "Eje N"
+
+msgid "Earth Orbit"
+msgstr "Órbita Terrestre"
+
+msgid "S Axis"
+msgstr "Eje S"
+
+msgid "Sigma Octantis"
+msgstr "Sigma Octantis"
+
+msgid "The Earth constantly orbits the Sun. But at the same time, the Earth is constantly spinning around its center (also called the <span class='key'>axis</span>). The ends of the axis around which the Earth spins are called the North and South Poles. Unlike a twirling ballerina spinning straight up and down on her toes, the Earth spins on an axis (<span class='key'>rotation</span>) that is tilted about 23 degrees off the perpendicular to the orbital plane of the Earth. If an imaginary line could be drawn to extend the North Pole far out into space, it would lead very close to a star named Polaris (the North Star). As the Earth spins on its axis, the axis constantly points to the North Star (therefore the North Star, or Polaris, remains at the center of the nighttime sky). All the other stars appear to move in a great circles or arcs. No matter where the Earth is located along its orbit around the Sun, the North Pole points constantly at Polaris (which is approximately 430 million light years away from Earth.)"
+msgstr "La Tierra constantemente orbita al sol. Pero al mismo tiempo, la Tierra está girando constantemente alrededor de su centro (también conocido como el <span class='key'>eje</span>). Las puntas del eje alrededor de las cuales la Tierra gira se conocen como los Polos Norte y Sur. A diferencia que una bailarina que gira de forma recta sobre sus dedos, la Tierra gira sobre un eje (<span class='key'>rotación</span>) que está inclinado unos 23 grados de la perpendicular al plano orbital de la Tierra. Si una línea imaginaria pudiera ser trazada extendiéndose desde el Polo Norte hacia el espacio, nos llevaría muy cerca de una estrella llamada Polaris (la Estrella del Norte). Conforme la Tierra gira sobre su eje, el eje constantemente señala hacia la Estrella del Norte (por lo tanto, la Estrella del Norte o Polaris, se mantiene al centro del cielo nocturno). Todas las otras estrellas parecen moverse en grandes círculos o arcos. Sin importar en dónde está ubicada la Tierra en su órbita alrededor del sol, el Polo Norte señala constantemente hacia Polaris (que está aproximadamente a 430 millones de años luz de la Tierra)."
+
+msgid "The constant tilt of the Earth throughout the journey around the Sun results in the phenomena on Earth known as the change in seasons.  During summer in the northern hemisphere, the northern pole is tilted toward the Sun. As a consequence, the sun's light rays hit Earth's surface with more intensity than during the winter when the northern pole is tilting away from the Sun."
+msgstr "La inclinación constante de la Tierra a lo largo del viaje alrededor del sol resulta en el fenómeno conocido en la Tierra como el cambio de estaciones. Durante el verano en el hemisferio norte, el polo norte se inclina hacia el sol. Como consecuencia, los rayos de luz del sol llegan a la superficie terrestre con mayor intensidad que durante el invierno cuando el polo norte se inclina en dirección opuesta al sol."
+
+msgid "Spinning around..."
+msgstr "Girando alrededor..."
+
+msgid "In Figure A, it is summer time in the northern hemisphere."
+msgstr "En la Figura A, es verano en el hemisferio norte."
+
+msgid "In Figure A, the Earth is closer to the Sun."
+msgstr "En la Figura A, la Tierra está más cerca del sol."
+
+msgid "In Figure B, it is summer time in the northern hemisphere."
+msgstr "En la Figura B, es verano en el hemisferio norte."
+
+msgid "In Figure B, the Earth is closer to the Sun."
+msgstr "En la Figura B, la Tierra está más cerca del sol."
+
+msgid "Question A. Which of the following is <span class='blink'>true</span>? Check <span class='blink'>all</span> that apply"
+msgstr "Pregunta A. ¿Cuál de las siguientes es <span class='blink'>verdad</span>? Marca <span class='blink'>todas</span> las que aplican"
+
+msgid "Changing seasons..."
+msgstr "Cambiando de estación..."
+
+msgid "That’s right! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "¡Así es! Es verano en el hemisferio norte cuando el Polo Norte se inclina hacia el sol, y la Tierra está de hecho más cerca del sol cuando es invierno en el hemisferio norte."
+
+msgid "Not quite. It is wintertime in the northern hemisphere when the North axis tilts away from the Sun."
+msgstr "No exactamente. Es invierno en el hemisferio norte cuando el lado norte del eje se inclina hacia el lado opuesto al sol."
+
+msgid "Not quite. The Earth is actually farther from the Sun when the North axis tilts toward the Sun."
+msgstr "No exactamente. La Tierra de hecho está más lejos del sol cuando el lado norte del eje se inclina hacia el sol."
+
+msgid "Not quite! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "¡No exactamente! Es verano en el hemisferio norte cuando el Polo Norte se inclina hacia el sol, y la Tierra está de hecho más cerca del sol cuando es invierno en el hemisferio norte."
+
+msgid "Nope! It is summer time in the northern hemisphere when the North pole tilts toward the Sun, and the Earth is actually closer to the Sun when it is winter in the Northern Hemisphere."
+msgstr "¡Nop! Es verano en el hemisferio norte cuando el Polo Norte se inclina hacia el sol, y la Tierra está de hecho más cerca del sol cuando es invierno en el hemisferio norte."
+
+msgid "Just as Earth orbits around the Sun, the Moon Orbits around Earth. While it takes 365 days for the Earth to orbit the Sun, it takes 27.5 days for the moon to orbit the Earth. And, just like Earth, one side (one half) of the Moon's surface is constantly lighted by the Sun's light. But over the course of roughly one month, the angle between the Sun, Earth and Moon changes. Consequently, the amount of the lighted side of the moon we can see changes. This varying amount explains why we see the phenomena known as the Phases of the Moon. When we can see the entire side of the moon that is being lit, we call that phase a Full Moon. When we see only a partial side of the lighted side of the moon, we call that phase crescent moon. When the moon is on the same side of earth as the Sun, we call that phase the new moon. Some people think that there is a straight line between the Earth, Moon and Sun. But this is not correct. Because of the differences in the planes of orbit (Moon around Earth and Earth around the Sun), only occasionally do all three line up. When that happens, we have either a solar eclipse (when the Moon's shadow crosses the Earth) or a lunar eclipse (when the Earth's Shadow crosses the moon)."
+msgstr "Justo como la Tierra orbita alrededor del sol, la luna orbita alrededor de la Tierra. Mientras que la Tierra tarda 365 días para orbitar al sol, la luna tarda 27.5 días en orbitar a la Tierra. Y, justo como la Tierra, un lado (una mitad) de la superficie lunar está constantemente iluminada por la luz del sol. Pero a lo largo del curso de aproximadamente un mes, el ángulo entre el sol, la Tierra y la luna cambia. Consecuentemente, la cantidad del lado iluminado de la luna que podemos ver, cambia. Esta cantidad variable explica por qué vemos el fenómeno conocido como las Fases de la Luna. Cuando podemos ver todo el lado de la luna que está siendo iluminado, llamamos esa fase Luna Llena. Cuando sólo vemos un lado parcial del lado iluminado de la luna, llamamos a esa fase Cuarto (Creciente o Menguante). Cuando la luna está en el mismo lado de la Tierra que el sol, llamamos a esa fase la Luna Nueva. Algunas personas piensan que hay una línea recta entre la Tierra, la luna y el sol. Pero esto no es correcto. Debido a las diferencias en los planos de órbita (de la luna alrededor de la Tierra y de la Tierra alrededor del sol), sólo ocasionalmente se alinean las tres. Cuando eso sucede, tenemos ya sea un eclipse solar (cuando la sombra de la luna cubre a la Tierra) o un eclipse lunar (cuando la sombra de la Tierra cubre a la luna)."
+
+msgid "Tracking the phases of the Moon..."
+msgstr "Siguiendo las fases de la luna..."
+
+msgid "Waxing"
+msgstr "Creciente"
+
+msgid " bigger)"
+msgstr "más grande)"
+
+msgid "Phases of the Moon"
+msgstr "Fases de la luna"
+
+msgid "Sun"
+msgstr "Sol"
+
+msgid "Waiting"
+msgstr "Esperando"
+
+msgid "(getting"
+msgstr "(haciéndose"
+
+msgid "smaller)"
+msgstr "más pequeña)"
+
+msgid "Earth"
+msgstr "Tierra"
+
+msgid "Moon Phase"
+msgstr "Fase lunar"
+
+msgid "Full Moon"
+msgstr "Luna llena"
+
+msgid "1st Quarter"
+msgstr "Cuarto creciente"
+
+msgid "3rd Quarter"
+msgstr "Cuarto menguante"
+
+msgid "New Moon"
+msgstr "Luna nueva"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Look at the image below and match the labels to the correct phase in the table below by dragging the letters on the right column up or down."
+msgstr "Mira la imagen debajo y une las etiquetas a la fase correcta en la tabla debajo arrastrando las letras de la columna derecha hacia arriba o hacia abajo."
+
+msgid "Correct! You've correctly matched each Moon phase with its relative position in the Earth/Moon/Sun system."
+msgstr "¡Correcto! Has unido correctamente cada fase lunar con su posición relativa en el sistema de Tierra/luna/sol."
+
+msgid "All phases of the Moon need to be matched to its correct relative position in the Earth/Moon/Sun system. The correct order is C, B, D and A."
+msgstr "Todas las fases de la luna necesitan ser unidas a su posición relativa correcta en el sistema de la Tierra/luna/sol. El orden correcto es C, B, D y A."
+
+msgid "Using what you now know about... our solar system... to solve a problem"
+msgstr "Utilizando lo que ahora sabes acerca de... nuestro sistema solar... para resolver un problema"
+
+msgid "You are a scientist working on a project that will send a probe to Mars. Your team plans the timing of the launch of the probe from Earth so that it has to travel the least distance before landing on Mars' surface."
+msgstr "Eres un/a científico/a trabajando en un proyecto que enviará una sonda a Marte. Tu equipo planea la hora del despegue de la sonda desde la Tierra para que viaje la menor distancia posible antes de aterrizar en la superficie de Marte."
+
+msgid "Problem: Write a brief recommendation on what factors your team will need to consider and what information you will need to successfully launch a probe craft from Earth and have it land safely on Mars. Remember that..."
+msgstr "Problema: Escribe una breve recomendación sobre cuáles factores tendría que considerar tu equipo y qué información necesitarías para enviar exitosamente una sonda espacial desde la Tierra y hacer que aterrizara sana y salva en Marte. Recuerda que..."
+
+msgid "1. Earth's speed in its orbit around the sun is approximately 108,000 km/hr; and"
+msgstr "1. La velocidad de la Tierra en su órbita alrededor del sol es aproximadamente 108,000 km/hr; y"
+
+msgid "Setting the time..."
+msgstr "Estableciendo la hora..."
+
+msgid "Our Solar System was created approximately 4.6 billion years ago as swirling masses of gas and dust were pulled together through gravitational forces. The Solar Systems consists of the <span class='key'>Sun</span>, 8 <span class='key'>planets</span>, many moons and many smaller objects including meteors and <span class='key'>asteroids</span>. Being by far the largest object in the system, the Sun exerts a tremendous gravitational force on all the objects. Through a balance of gravitational forces, the planets and all other objects are pulled into orbit around the Sun. The composition of the objects in the Solar System has been discovered using space probes (including satellites), robots and a few manned space visits (only to the <span class='key'>Moon</span>). On Earth, scientists use telescopes and <span class='key'>spectrometers</span> to understand the composition of planets. The movement of celestial bodies produces cyclic patterns of many phenomena including phases of the moons, tides, seasons, eclipses of the Sun and Moon, and apparent arrangement of stars in the nighttime sky."
+msgstr "Nuestro Sistema Solar fue creado hace aproximadamente 4600 millones de años cuando masas en torbellino de gas y polvo se unieron debido a las fuerzas gravitacionales. El Sistema Solar consiste del <span class='key'>sol</span>, 8 <span class='key'>planetas</span>, muchas lunas y muchos objetos más pequeños incluyendo a meteoritos y <span class='key'>asteroides</span>. Siendo por mucho el objeto más grande en el sistema, el sol ejerce una gran fuerza gravitacional sobre todos los objetos. A través de un equilibrio de fuerzas gravitacionales, los planetas y todos los otros objetos son atraídos en una órbita alrededor del sol. La composición de los objetos en el Sistema Solar ha sido descubierta utilizando sondas espaciales (incluyendo satélites), robots y unas pocas visitas espaciales con tripulación (únicamente a la <span class='key'>luna</span>). En la Tierra, los científicos utilizan telescopios y <span class='key'>espectrómetros</span> para entender la composición de los planetas. El movimiento de los cuerpos celestiales produce patrones cíclicos de muchos fenómenos incluyendo las fases de la luna, mareas, estaciones, eclipses de sol y luna, y arreglos aparentes de las estrellas en el cielo nocturno."
+
+msgid "Which of the following is the study of the absorption and radiation of light by matter."
+msgstr "¿Cuál de las siguientes es el estudio de la absorción y radiación de luz por la materia?"
+
+msgid "No. Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "No. La espectroscopía es el estudio de la absorción y radiación de luz por la materia."
+
+msgid "Correct! Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "¡Correcto! La espectroscopía es el estudio de la absorción y radiación de luz por la materia."
+
+msgid "Not quite. Spectroscopy is the study of the absorption and radiation of light by matter."
+msgstr "No exactamente. La espectroscopía es el estudio de la absorción y radiación de luz por la materia."
+
+msgid "Reviewing key vocabulary related to... our solar system"
+msgstr "Revisando vocabulario clave relacionado con... nuestro sistema solar"
+
+msgid "When an object orbits around another object. If the revolving is a result of gravity, generally the less massive object will revolve around the more massive one. Examples include Earth's moon revolving around the Earth, and the Earth revolving around the Sun."
+msgstr "Cuando un objeto orbita alrededor de otro objeto. Si la revolución es un resultado de la gravedad, generalmente el objeto menos masivo revolverá alrededor del más masivo. Ejemplos incluyen a la luna terrestre que gira alrededor de la Tierra y la Tierra girando alrededor del sol."
+
+msgid "Revolution"
+msgstr "Revolución"
+
+msgid "Gravity"
+msgstr "Gravedad"
+
+msgid "The attractive force all things with mass enact upon one another. This force is proportional to the masses being attracted, as well as their distance apart."
+msgstr "La fuerza de atracción que todas las cosas con masa ejercen unas sobre otras. Esta fuerza es proporcional a las masas que son atraídas, así como la distancia a la que están."
+
+msgid "Dwarf Planet"
+msgstr "Planeta enano"
+
+msgid "An object the size of a planet that has not cleared its orbit of other objects. Pluto was recently reclassified from a planet to a dwarf planet."
+msgstr "Un objeto del tamaño de un planeta que no ha liberado su órbita de otros objetos. Plutón recientemente fue reclasificado de planeta a planeta enano."
+
+msgid "Planet"
+msgstr "Planeta"
+
+msgid "A celestial body orbiting a star that is large enough to be rounded by its own gravity, but not so large that its gravity can cause nuclear fusion. Planets must have also cleared their orbit of other objects by means of their gravity. Planets can be solid, like Earth and Mars, or gaseous, like Jupiter and Saturn."
+msgstr "Un cuerpo celestial que orbita a una estrella que es lo suficientemente grande para ser redondeado por su propia gravedad, pero no lo suficientemente grande para que su gravedad pueda causar fusión nuclear. Los planetas también deben haber liberado su órbita de otros objetos a través de su gravedad. Los planetas pueden ser sólidos, como la Tierra y Marte, o gaseosos como Júpiter y Saturno."
+
+msgid "The star at the center of our solar system. It gives off light and heat as a result of constant nuclear fusion and fission inside of it. All of the other objects in the solar system revolve around the Sun."
+msgstr "La estrella al centro de nuestro sistema solar. Emite luz y calor como resultado de constantes fisiones y fusiones nucleares en su interior. Todos los otros objetos en el sistema solar giran alrededor del sol."
+
+msgid "An object that orbits around a planet, also called a natural satellite. A planet can have any number of moons, or none at all. Earth has one moon, while Jupiter has at least 67."
+msgstr "Un objeto que orbita alrededor de un planeta, también llamado satélite natural. Un planeta puede tener cualquier cantidad de lunas, o ninguna en absoluto. La Tierra tiene una luna, mientras que Júpiter tiene al menos 67."
+
+msgid "Earth's Axis"
+msgstr "Eje terrestre"
+
+msgid "The imaginary line around which the Earth rotates. This line runs from the North Pole through the center of the planet to the South Pole. Earth's axis is tilted in relation to its orbit around the sun, causing us to have seasons."
+msgstr "La línea imaginaria alrededor de la cuál la Tierra gira. Esta línea va del Polo Norte a través del centro del planeta al Polo Sur. El eje terrestre está inclinado en relación con su órbita alrededor del sol, provocando que tengamos estaciones."
+
+msgid "Galaxy"
+msgstr "Galaxia"
+
+msgid "A large collection of stars, gas, dust, stellar remnants and dark matter all gravitationally bound together. All of the objects contained within a galaxy orbit around a supermassive black hole at the center. The Earth and its solar system are in the Milky Way Galaxy."
+msgstr "Una gran colección de estrellas, gas, polvo, restos estelares y materia oscura que están unidos gravitacionalmente entre sí. Todos los objetos contenidos dentro de una galaxia orbitan alrededor de un hoyo negro supermasivo en el centro. La Tierra y su sistema solar están en la Galaxia de la Vía Láctea."
+
+msgid "Spectrometer"
+msgstr "Espectrómetro"
+
+msgid "A device used to measure part of the electromagnetic spectrum or light spectrum. A spectrometer can be used to measure visible light that humans can see, but can also measure wavelengths that are invisible to people, such as ultraviolet and infrared."
+msgstr "Un dispositivo que se utiliza para medir parte del espectro electromagnético o espectro de luz. Un espectrómetro puede ser utilizado para medir la luz visible que los humanos pueden ver, pero también puede medir longitudes de onda que son invisibles para las personas, como ultravioleta e infrarroja."
+
+msgid "A body orbiting the Sun that is neither a major planet, nor a comet. There are millions of asteroids in our solar system. A large band of asteroids exists between Mars and Jupiter, appropriately named, \"The Asteroid Belt.\""
+msgstr "Un cuerpo que orbita al sol que no es ni un planeta principal, ni un cometa. Hay millones de asteroides en nuestro sistema solar. Una banda gruesa de asteroides existe entre Marte y Júpiter, conocida apropiadamente como, \"El Cinturón de Asteroides.\""
+
+msgid "Comet"
+msgstr "Cometa"
+
+msgid "An icy, small solar system body. When a comet passes near the Sun, it heats up and begins to outgas. This process gives it an atmosphere, sometimes called a tail."
+msgstr "Un cuerpo helado y pequeño en el sistema solar. Cuando un cometa pasa cerca del sol, se calienta y comienza a liberar gas. Este proceso le da una atmósfera, algunas veces conocida como cola."
+
+msgid "The largest body in our solar system is..."
+msgstr "El cuerpo más grande en nuestro sistema solar es..."
+
+msgid "Earth."
+msgstr "la Tierra."
+
+msgid "the Sun."
+msgstr "el sol."
+
+msgid "Jupiter."
+msgstr "Júpiter."
+
+msgid "the Moon."
+msgstr "la luna."
+
+msgid "Incorrect. There are many other objects bigger than Earth in the solar system."
+msgstr "Incorrecto. Hay muchos otros objetos más grandes que la Tierra en el sistema solar."
+
+msgid "Correct! The Sun is the largest celestial body in our solar system."
+msgstr "¡Correcto! El sol es el cuerpo celestial más grande en nuestro sistema solar."
+
+msgid "Not quite. Though very, very big, there is another object in our solar system that's bigger than Jupiter."
+msgstr "No exactamente. Aunque es muy, muy grande, hay otro objeto en nuestro sistema solar que es más grande que Júpiter."
+
+msgid "Nope. Even Earth is larger than the Moon."
+msgstr "Nop. Incluso la Tierra es más grande que la luna."
+
+msgid "A star composed of hydrogen and helium."
+msgstr "Una estrella compuesta de hidrógeno y helio."
+
+msgid "A medium planet with an atmosphere."
+msgstr "Un planeta de tamaño mediano con una atmósfera."
+
+msgid "Not quite! All the objects in our solar system revolve around the Sun."
+msgstr "¡No exactamente! Todos los objetos en nuestro sistema solar giran alrededor del sol."
+
+msgid "A star composed of carbon and nitrogen."
+msgstr "Una estrella compuesta de carbono y nitrógeno."
+
+msgid "Not quite. A star is found at the center of our solar system but it is not composed of carbon and nitrogen."
+msgstr "No exactamente. Una estrella se encuentra al centro de nuestro sistema solar, pero no está compuesta de carbono y nitrógeno."
+
+msgid "A black hole that was once a star."
+msgstr "Un hoyo negro que una vez fue una estrella"
+
+msgid "Incorrect. A black hole's gravitational pull would consume the solar system."
+msgstr "Incorrecto. La atracción gravitacional de un hoyo negro consumiría al sistema solar."
+
+msgid "Correct! A star composed of hydrogen and helium is found at the center of our solar system. We call that star the Sun."
+msgstr "¡Correcto! Una estrella compuesta de hidrógeno y helio se encuentra al centro de nuestro sistema solar. Llamamos a esa estrella, sol."
+
+msgid "Although the planets in our solar system have unique features, they also have similarities. Which of the following characteristics is most similar among the planets in our solar system?"
+msgstr "Aunque los planetas en nuestro sistema solar tienen características únicas, también tienen similitudes. ¿Cuál de las siguientes características es la más similar entre los planetas de nuestro sistema solar?"
+
+msgid "Mass"
+msgstr "Masa"
+
+msgid "Shape of orbit"
+msgstr "Forma de la órbita"
+
+msgid "Number of satellites"
+msgstr "Número de satélites"
+
+msgid "Chemical composition"
+msgstr "Composición química"
+
+msgid "Identifying similarities..."
+msgstr "Identificando similitudes..."
+
+msgid "Incorrect. There are great differences in the chemical composition among the planets."
+msgstr "Incorrecto. Hay grandes diferencias entre la masa de los planetas en nuestro sistema solar."
+
+msgid "Correct! The shape (elliptical) of the orbits of the planets is relatively similar to each other."
+msgstr "¡Correcto! Las formas (elípticas) de las órbitas de los planetas son relativamente similares entre sí."
+
+msgid "Not quite. Some planets do not have any satellites (also known as moons)."
+msgstr "No exactamente. Algunos planetas no tienen ningún satélite (también conocidos como lunas)."
+
+msgid "Incorrect. The are great differences in the chemical composition among the planets."
+msgstr "Incorrecto. Hay grandes diferencias en composición química entre los planetas."
+
+msgid "If another planet were discovered in our system and that planet was found to be approximately 200 million kilometers from the Sun, how many Earth Days would you expect it would take that planet to make one complete revolution around the sun?"
+msgstr "Si se descubriera otro planeta en nuestro sistema y dicho planeta se encontrara a aproximadamente 200 millones de kilómetros del sol, ¿cuántos días terrestres esperarías que le tomara a ese planeta dar una revolución completa alrededor del sol?"
+
+msgid "Revolving around the sun..."
+msgstr "Girando alrededor del sol..."
+
+msgid "Not quite. You've under-estimated the number of Earth days required for that planet to orbit the Sun. At a distance of 200 million kilometers, a planet would take approximately 500 to 600 Earth days to orbit the Sun."
+msgstr "No exactamente. Has subestimado el número de días terrestres requeridos para que ese planeta orbite el sol. A una distancia de 200 millones de kilómetros, un planeta necesitaría aproximadamente de 500 a 600 días para orbitar alrededor del sol."
+
+msgid "Correct! At a distance of 200 million kilometers, a planet would take approximately 500 to 600 Earth days to orbit the Sun."
+msgstr "¡Correcto! A una distancia de 200 millones de kilómetros, un planeta necesitaría aproximadamente de 500 a 600 días para orbitar alrededor del sol."
+
+msgid "Distance from the Sun"
+msgstr "Distancia desde el sol"
+
+msgid "Number of Earth Days"
+msgstr "Número de días terrestres"
+
+msgid "Relationship between distance from the Sun and number of Earth days to orbit around the Sun"
+msgstr "Relación entre distancia desde el sol y número de días terrestres que tarda orbitar alrededor del sol"
+
+msgid "X-axis = Distance (Millions of Kilometers) from the Sun"
+msgstr "Eje X = Distancia (millones de kilómetros) desde el sol"
+
+msgid "Y-axis = Number of Earth Days to complete orbit around Sun"
+msgstr "Eje Y = Número de días terrestres que tarda completar una órbita alrededor del sol."
+
+msgid "Which of the following planets are classified as \"gaseous planets\"? Check <span class='blink'>all</span> that apply."
+msgstr "¿Cuáles de los siguientes planetas están clasificados como \"planetas gaseosos\"? Marca <span class='blink'>todas</span> las que aplican."
+
+msgid "Gaseous planets..."
+msgstr "Planetas gaseosos..."
+
+msgid "Yes! The planets, Neptune and Saturn, are large gaseous planets farther from the Sun."
+msgstr "¡Sí! Los planetas Neptuno y Saturno son grandes planetas gaseosos lejanos del sol."
+
+msgid "Not quite! The planets, Neptune and Saturn are large gaseous planets farther from the Sun. Venus and Mars are closer to the Sun and are made of mostly rock."
+msgstr "¡No exactamente! Los planetas Neptuno y Saturno son grandes planetas gaseosos lejanos del sol. Venus y Marte están más cerca del sol y están formados principalmente de roca."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera evaluación rápida..."
+
+msgid "Waxing (getting bigger)"
+msgstr "Creciente (cada vez más grande)"
+
+msgid "Waning (getting smaller)"
+msgstr "Esperando (cada vez más pequeña)"
+
+msgid "Waning"
+msgstr "Esperando"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Mars' speed in its orbit around the sun is nearly 87,000 km/h"
+msgstr "La velocidad de Marte en su órbita alrededor del sol es casi 87,000 km/h"
+
+msgid "2. Mars' speed in its orbit around the sun is nearly 87,000 km/hr"
+msgstr "2. La velocidad de Marte en su órbita alrededor del sol es casi 87,000 km/h"
+
+msgid "When an object spins around an axis, or imaginary line that goes through the object. Many objects in space rotate, such as the Earth and Earth's Moon."
+msgstr "Cuando un objeto gira alrededor de un eje, o línea imaginaria que pasa a través del objeto. Muchos objetos en el espacio rotan, como la Tierra y la luna terrestre."
+
+msgid "Checking what you now know about... our solar system"
+msgstr "Revisando lo que sabes ahora acerca de... nuestro sistema solar"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Flipping the box..."
+msgstr "Girando la caja..."
+
+msgid "What is at the center of our solar system?"
+msgstr "¿Qué hay al centro de nuestro sistema solar?"
+
+msgid "label"
+msgstr "etiqueta"
+
+msgid "Summarizing big ideas about... our solar system"
+msgstr "Resumiendo ideas importantes acerca de... nuestro sistema solar"
+
+msgid "Summer or winter?"
+msgstr "Verano o Invierno?"

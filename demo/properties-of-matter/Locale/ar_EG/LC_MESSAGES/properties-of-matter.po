@@ -1,0 +1,1292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: properties-of-matter\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Raina\n"
+"Language-Team: Ibrahim Al-Momani,Jim Shymansky,Jigzen's Computer Services "
+"<ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+
+# 1
+msgid "Welcome to the Properties of Matter review"
+msgstr "مرحبا بكم في مراجعة خصائص المادة"
+
+msgid "Properties of Matter"
+msgstr "خصائص المادة"
+
+msgid "Start"
+msgstr "ابدأ"
+
+# 2
+msgid "Thinking about... the properties of matter"
+msgstr "التفكير ... بخصائص المادة"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid ""
+"Can you make diamonds in the oven? Do pencils grow on trees? Some substances "
+"are naturally made, and others are manufactured (or made by humans). The "
+"substances that come from nature are changed to make them have different "
+"properties. Glass is made from natural sand; sand and glass each have very "
+"different characteristics or properties. Most naturally made material can be "
+"recycled in nature by itself. But <span class='key'>manufactured materials</"
+"span> need our help to be recycled. We can recycle glass, plastic, paper, "
+"and cans by taking them to a recycling center."
+msgstr ""
+"هل يمكنك عمل الماس في الفرن؟ هل تنمو اقلام الرصاص على الاشجار؟ بعض المواد هي "
+"من صنع الطبيعة, والبعض الاخر هي من صنع الإنسان ( او من عمل الانسان) المواد "
+"من عمل الطبيعة تُحَّور لاكسابها خصائص مختلفة. الزجاج يصنع من الرمل الطبيعي ؛ "
+"الزجاج و الرمل لهما صفات او خصائص مختلفة. معظم المواد الطبيعية يمكن ان تدور "
+"في الطبيعة من تلقاء نفسها . بينما <span class='key'>المواد المصنعة</span> "
+"تحتاج لمساعدتنا من اجل اعادة تدويرها . نستطيع تدوير الزجاج, والبلاستيك, "
+"والورق والعلب من خلال اخذها لمركز تدوير "
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+# 3
+msgid "Checking what you know... about the properties of matter"
+msgstr "فحص ما تعرفه عن ... صفات المادة"
+
+msgid ""
+"Look at the pictures below and decide if they are made by humans or can be "
+"found in nature by dragging them to the right column."
+msgstr ""
+"انظر للصور التالية وقرر ما اذا كانت مصنعة او موجودة في الطبيعة من خلال سحبها "
+"الى العمود الصحيح."
+
+msgid ""
+"Wood, human offspring, stones, and sand are made in nature. Paper, pottery, "
+"and plastic are made by humans. People are sometimes inspired by nature to "
+"make things. Sometimes they use objects found in nature and change them to "
+"meet their needs, like making paper from wood."
+msgstr ""
+" الخشب، و نسل الإنسان، والحجارة، والرمل منتجات طبيعية.  أما الورق، والفخار، "
+"والبلاستيك فهي مصنوعة من قبل البشر.  الناس في بعض الأحيان يستوحون من الطبيعة "
+"لصنع الاشياء. و في بعض الأحيان يستخدمون الكائنات الموجودة في الطبيعة "
+"ويغيرونها لتلبية احتياجاتهم، مثل صنع الورق من الخشب."
+
+msgid "Made by Humans"
+msgstr "من صنع الانسان"
+
+msgid "Found in Nature"
+msgstr "موجود في الطبيعة"
+
+msgid "wood"
+msgstr "الخشب"
+
+msgid "paper"
+msgstr "الورق"
+
+msgid "baby"
+msgstr "الطفل"
+
+msgid "stone"
+msgstr "الحجر"
+
+msgid "pottery"
+msgstr "الشعر"
+
+msgid "sand"
+msgstr "الرمل"
+
+msgid "plastic"
+msgstr "البلاستيك"
+
+msgid "Check Answer"
+msgstr "تفقد الاجابة"
+
+# 4
+msgid "Reviewing core ideas... about the properties of matter"
+msgstr "مراجعة الافكار الأساسية عن ... خصائص المادة"
+
+msgid ""
+"All physical substances are examples of <span class='key'>matter</span> -- "
+"anything that takes up space and has mass. All substances have properties "
+"that make them unique. In this review we will look at different properties "
+"of matter and changes that happen to those properties."
+msgstr ""
+"جميع الأشياء المادية هي أمثلة على  <span class='key'>المادة</span> -- أي شيء "
+"يأخذ حيز في الفراغ وله كتلة.  جميع المواد لها خصائص تجعلها فريدة من نوعها.  "
+"في هذه المراجعة سوف نلقي نظرة على خصائص مختلفة من المادة والتغيرات التي تحدث "
+"لتلك الخصائص."
+
+msgid "Properties of a ball:"
+msgstr "خصائص الكرة"
+
+msgid "Round"
+msgstr "مدورة"
+
+msgid "Smells like rubber"
+msgstr "رائحتها كالمطاط"
+
+msgid "Solid"
+msgstr "صلبة"
+
+msgid "Bouncy"
+msgstr "ترتد"
+
+msgid "melting chocolate"
+msgstr "الشوكولاته ذوبان"
+
+msgid "boiling water"
+msgstr "الماء المغلي"
+
+msgid "frozen lake"
+msgstr "بحيرة متجمدة"
+
+msgid ""
+"Determining the properties of a substance and how its properties make it "
+"useful are important."
+msgstr "تحديد خصائص مادة ما وكيف ان هذه الخصائص تجعلها مفيدة مهم "
+
+msgid "Read More"
+msgstr "اقرا اكثر"
+
+msgid ""
+"Some properties of matter can be determined from the use of our five senses "
+"of sight, hearing, taste, touch, and smell. For example, properties such as "
+"taste (sweet, sour), temperature (hot, cold), or color (red, yellow) can be "
+"determined with our senses."
+msgstr ""
+"ويمكن تحديد بعض خصائص المادة من استخدام الحواس الخمس البصر والسمع والذوق "
+"واللمس، والشم.  على سبيل المثال، خصائص مثل طعم (الحلو والحامض)، ودرجة "
+"الحرارة (الباردة والساخنة)، أو لون (أحمر، أصفر) يمكن تحديده بحواسنا. "
+
+msgid ""
+"Other properties of matter can be determined through the use of tools or "
+"scientific instruments, for example, a <span class='key'>thermometer</span> "
+"can be used to determine <span class='key'>melting point</span> (when a "
+"substance changes from a solid to a liquid), <span class='key'>boiling "
+"point</span> (when a substance changes from a liquid to a gas) or <span "
+"class='key'>freezing point</span> (when a substance changes from a liquid to "
+"a solid)."
+msgstr ""
+"يمكن تحديد خصائص أخرى للمادة من خلال استخدام الأدوات أو الأجهزة العلمية، على "
+"سبيل المثال، يمكن استخدام <span class='key'>مقياس الحرارة</span> لتحديد "
+"<span class='key'>نقطة الانصهار</span> (عند تحول المادة من الحالة الصلبة إلى "
+"الحالة السائلة)، أو <span class='key'>نقطة الغليان</span> (عند تغيير مادة من "
+"السائل إلى غاز) أو <span class='key'>نقطة التجمد</span> (عند تحول المادة من "
+"الحالة السائلة إلى الحالة الصلبة)."
+
+# 5
+msgid "Quick Check #1"
+msgstr "تقويم سريع #1"
+
+msgid ""
+"Question A. Match each scientific instrument to its name and the properties "
+"that we use to measure them by selecting an item in the drop down lists."
+msgstr ""
+"السؤال A. تطابق كل وثيقة علمية لاسمها والخصائص التي نستخدمها لقياس لهم عن "
+"طريق تحديد عنصر في القوائم المنسدلة."
+
+msgid "Scientific Instruments:"
+msgstr "الادوات العلمية"
+
+msgid "Properties:"
+msgstr "الخصائص:"
+
+msgid "Scale"
+msgstr "مقياس"
+
+msgid "Thermometer"
+msgstr "مقياس حرارة"
+
+msgid "Graduated Cylinder"
+msgstr "اسطوانة مدرجة"
+
+msgid "Temperature"
+msgstr "الحرارة"
+
+msgid "Weight"
+msgstr "الوزن "
+
+msgid "Volume"
+msgstr "الحجم"
+
+msgid ""
+"Question B. Click on <span class='red blink bold'>ALL</span> the properties "
+"of matter that are usually best determined through the use of tools or "
+"scientific instruments."
+msgstr ""
+"السؤال ب.انقر فوق <span class='red blink bold'>جميع</span> صفات المادة التي "
+"في العادة تتحدد بشكل افضل من خلال استخدام ادوات أو معدات علمية"
+
+msgid "Density"
+msgstr "الكثافة"
+
+msgid "Odor"
+msgstr "الرائحة"
+
+msgid "Melting Point"
+msgstr "نقطة الإنصهار"
+
+msgid "Freezing Point"
+msgstr "نقطة التجمد"
+
+msgid "Please select your answers."
+msgstr "الرجاء اختر اجاباتك"
+
+msgid "How did I do?"
+msgstr "كيف ابليت؟"
+
+msgid ""
+"Good job. The density, freezing point, and melting point of a matter are "
+"best determined when tools and scientific instruments are used. Odor is "
+"usually measured with human sensation and detection as the base of the "
+"measurement."
+msgstr ""
+"عمل جيد. الكثافة،و درجة التجمد، ونقطة الذوبان لمادة يتم تحديدها أفضل عند "
+"استخدام الأدوات والأجهزة العلمية.  وعادة ما تقاس الرائحة عن طريق إحساس "
+"الإنسان والكشف كأساس للقياس."
+
+msgid ""
+"Question B. Click on <span class='red blink'>ALL</span> the properties of "
+"matter that are usually best determined through the use of tools or "
+"scientific instruments."
+msgstr ""
+" السؤال ب. انقر على <span class='red blink'>جميع</span>  خصائص المادة التي "
+"يتم عادة تحديدها أفضل من خلال استخدام الأدوات أو الأجهزة العلمية."
+
+msgid ""
+"Not quite. The density, freezing point, and melting point of a matter are "
+"best determined when tools and scientific instruments are used. Odor is "
+"usually measured with human sensation and detection as the base of the "
+"measurement."
+msgstr ""
+"ليس تماما. الكثافة، و درجة التجمد، و نقطة الذوبان لمادة ما يتم تحديدها أفضل "
+"عند استخدام الأدوات والأجهزة العلمية.  وعادة ما تقاس الرائحة عن طريق إحساس "
+"الإنسان والكشف كأساس للقياس."
+
+# 6
+msgid "More core ideas... about the properties of matter"
+msgstr "افكار رئيسية اضافية ... عن خصائص المادة"
+
+msgid ""
+"We can describe matter based on the state it is in. <span class='key'>Solid</"
+"span>, <span class='key'>liquid</span>, and <span class='key'>gas</span> are "
+"the three common states used to describe matter. The particles that make up "
+"matter are atoms and molecules. The physical characteristics of those <span "
+"class='key'>atoms</span> and <span class='key'>molecules</span> decide its "
+"state."
+msgstr ""
+"يمكننا وصف المادة على أساس الحالة التي هي فيها. <span class='key'>الصلبة</"
+"span>  و <span class='key'>السائلة </span>، و <span class='key'>الغازية</"
+"span> وتستخدم الحالات  الثلاث الشائعة لوصف المادة.  الجزيئات التي تشكل  "
+"المادة هي ذرات و جزيئات.  الخصائص الفيزيائية  لتلك <span class='key'>الذرات</"
+"span>  و <span class='key'>الجزيئات</span>  تقرر حالتها."
+
+msgid "solid"
+msgstr "صلب"
+
+msgid "liquid"
+msgstr "سائل"
+
+msgid "gas"
+msgstr "غاز"
+
+msgid "plasma"
+msgstr "بلازما"
+
+msgid ""
+"Solids are defined as substances that have a definite mass, shape and <span "
+"class='key'>volume</span>. Liquids are substances that have a definite mass "
+"and volume, but a shape that can vary. Gases are substances that have a "
+"definite mass but a shape and volume that can vary. For example, air is a "
+"gas. The main molecules in air are nitrogen, oxygen, and carbon dioxide. You "
+"can feel air molecules moving when the wind blows. Air particles are too "
+"small to be seen, but they can be felt when being pushed by a force we call "
+"pressure."
+msgstr ""
+"تعرف المواد الصلبة بأنها مواد لها كتلة و شكل و <span class='key'>حجم</span> "
+"محددين.  السوائل هي المواد التي لها كتلة وحجم محددين، ولكن الشكل يمكن أن "
+"يتغير. الغازات هي مواد لها كتلة محدد ولكن شكل و حجم يمكن أن يتغيران. على "
+"سبيل المثال، الهواء هو غاز. الجزيئات الرئيسية في الهواء والنيتروجين، "
+"والأكسجين، وثاني أكسيد الكربون. يمكنك أن تشعر بجزيئات الهواء تتحرك عندما تهب "
+"الرياح.  جزيئات الهواء هي صغيرة جدا كي ترى بالعين، ولكن يمكن الشعور بها ندما "
+"يتم دفعها بقوة تسمى الضغط."
+
+msgid ""
+"Plasmas are a special state of matter that is formed under such intense heat "
+"that even atoms and molecules break up. The Sun is an example of a plasma."
+msgstr ""
+"البلازما هي حالة خاصة من المواد التي يتم تشكيلها بموجب الحرارة الشديدة . حتى "
+"الذرات والجزيئات تتكسر. و الشمس هي مثال للبلازما."
+
+msgid ""
+"Matter can combine and separate in different ways. It may seem that snow "
+"disappears when it melts, but it really just changes into the liquid state "
+"of water. When water in a kettle boils down to almost nothing, it has turned "
+"into the gas state, vapor. The amount of water does not change when it goes "
+"from ice to water, or from water to vapor. Under normal circumstances, "
+"matter is not created or destroyed."
+msgstr ""
+"المادة  يمكن ان تجمع وتفصل بطرق مختلفة.  قد يبدو أن الثلوج تختفي عندما تذوب، "
+"لكنه في الحقيقة مجرد تغييرالى الحالة السائلة من الماء. عندما يغلي الماء في "
+"غلاية وصولا الى لا شيء تقريبا،إنها تحولت الى حالة الغاز والبخار. لا تتغير "
+"كمية المياه عندماتتحول من الثلج الى الماء، أو من الماء إلى البخار.  في ظل "
+"الظروف العادية،  لا يتم إنشاء أو تدمير المادة. "
+
+msgid "Physical Change"
+msgstr "التغير الفيزيائي"
+
+msgid "Chemical Change"
+msgstr "التغير الكيميائي"
+
+msgid "Chemical change"
+msgstr "التغير الكيميائي"
+
+msgid ""
+"Another way to describe the properties of matter is to use the terms "
+"physical property and chemical property. A <span class='key'>physical "
+"property</span> is one that can be determined without changing the kind or "
+"identity of the matter. For example, the freezing or boiling points of water "
+"are physical properties because determining these points does not change "
+"kind of matter."
+msgstr ""
+"طريقة أخرى لوصف خصائص المادة هو استخدام مصطلحات الخاصية الفيزيائية والخاصية "
+"الكيميائية. <span class='key'>الخاصية الفيزيائية</span> هي التي يمكن تحديدها "
+"دون تغيير نوع أو هوية المادة. على سبيل المثال، نقطة تجميد أو غليان الماء هي "
+"من الخصائص الفيزيائية لان تحديد هذه النقاط لا يغير نوع المادة."
+
+msgid ""
+"<span class='key'>Chemical properties</span> of matter are properties that "
+"can be seen during a chemical reaction—when one kind of substance is changed "
+"into another kind of substance. For example, whether or not a substance will "
+"burn is a chemical property, because when something burns, the kind of "
+"substance is changed into new kinds of matter."
+msgstr ""
+"<span class='key'>الخصائص الكيميائية</span> للمادة هي الخصائص التي يمكن أن "
+"تُشاهَد خلال التفاعل الكيميائي -- عند تغيير نوع واحد من مادة إلى نوع آخر من "
+"المواد.  على سبيل المثال، ما إذا كانت مادة تحرق أو لا هي خاصية كيميائية، لأن "
+"عندما يكون هناك شيء يحترق، فان نوعه يتغير."
+
+# 7
+msgid "Quick Check #2"
+msgstr "تقويم سريع #2"
+
+msgid ""
+"Question A. A hydrologist studies the location, movement, and quality of "
+"water. A hydrologist recognizes the importance that water exists as…"
+msgstr ""
+"سؤال أ.  عَالِم الهيدرولوجيا يدرس الموقع والحركة ونوعية المياه.  و يدرك "
+"الهيدرولوجي  أهمية وجود الماء كما هو موجود في الطبيعة ..."
+
+msgid "a solid, a liquid, and a gas"
+msgstr "صلب , و سائل , وغازي"
+
+msgid "a solid and a liquid"
+msgstr "صلب و سائل"
+
+msgid "a solid and a gas"
+msgstr "صلب و غازي"
+
+msgid "a solid only"
+msgstr "صلب فقط"
+
+msgid ""
+"Question B. Is this is a PHYSICAL or CHEMICAL property? Click on the right "
+"answer."
+msgstr "سؤال ب. هل هي خاصية فيزيائية ام كيميائية؟ انقر على الاجابة الصحيحة"
+
+msgid "PHYSICAL"
+msgstr "مادية"
+
+msgid "CHEMICAL"
+msgstr "كيميائية"
+
+msgid "Hydrogen is a colorless, tasteless and odorless gas."
+msgstr "الهيدروجين هو غاز لا لون لهو ولا طعم و لا رائحة."
+
+msgid ""
+"Hydrogen has the potential to ignite and explode given the right conditions."
+msgstr ""
+"لدى الهيدروجين القدرة على الاشتعال و الانفجار اذا اعطي الظروف المناسبة."
+
+msgid "You answered..."
+msgstr "انت اجبت"
+
+msgid ""
+"Correct, water molecules can exist in a solid (ice), liquid (water), and gas "
+"(vapor) form."
+msgstr ""
+"صحيح . جزيئات الماء يمكن ان توجد في (الجليد) الصلب, وفي السائل ( الماء) وفي "
+"الغاز ( بخار الماء)."
+
+msgid ""
+"Not quite, water molecules can exist in a gas (vapor) form as well as solid "
+"(ice) and liquid (water)."
+msgstr ""
+"ليس تماما . حزيء الماء يمكن أن توجد على شكل الغاز ( بخار الماء) والصلب "
+"( جليد) و السائل ( الماء)."
+
+msgid ""
+"Not quite, water molecules can exist in a solid (ice) form as well as liquid "
+"(water) and gas (vapor) form."
+msgstr ""
+"ليس تماما، يمكن أن  توجد جزيئات الماء في شكل صلب (جليد) وكذلك السائل (الماء) "
+"وفي شكل غاز (بخار)."
+
+msgid ""
+"Not quite, water molecules can exist in a gas (vapor) and liquid (water) "
+"form as well as solid (ice)."
+msgstr ""
+". ليس تماما، يمكن أن  توجد جزيئات الماء في شكل غاز (بخار) و سائل (الماء) "
+"وكذلك في شكل الصلب (الثلج)."
+
+msgid ""
+"Correct, these descriptions are physical properties of hydrogen. They can be "
+"determined without changing the kind or identity of the matter."
+msgstr ""
+" صحيح، هذه الأوصاف هي الخصائص الفيزيائية للهيدروجين.  و يمكن تحديدها  بدون "
+"تغيير نوع أو هوية هذه المادة. "
+
+msgid ""
+"No, these descriptions are not properties that can be seen when a substance "
+"is changed into another kind of substance."
+msgstr ""
+"لا، هذه الأوصاف ليست الخصائص التي يمكن رؤيتها عند تغيير مادة الى نوع آخر من "
+"المواد. "
+
+msgid ""
+"Correct, whether or not a substance will burn is a chemical property, "
+"because when something burns, the kind of substance is changed into new "
+"kinds of matter."
+msgstr ""
+"صحيح، ما إذا كان سيتم حرق مادة أو لا هي خاصية كيميائية، لأنه عندما يحترق "
+"شيء، يتم تغيير نوعه من مادة إلى أنواع جديدة من تلك المادة."
+
+msgid ""
+"No, these descriptions are not determined without changing the kind or "
+"identity of the matter."
+msgstr " لا، لا تتحدد هذه الأوصاف دون تغيير نوع أو هوية هذه المادة."
+
+# 8
+msgid "More core ideas... on the properties of matter"
+msgstr "افكار أساسية اكثر ... عن خصائص المادة"
+
+msgid ""
+"Everything is made up of matter and has certain properties, physical and "
+"chemical. Sometimes we change these properties. When we cut or color a piece "
+"of paper we are changing its size and color, but it is still paper. When we "
+"freeze water, we are changing the state from liquid to solid. It is still "
+"the same substance. These are all <span class='key'>physical changes</span>, "
+"which usually can be undone or reversed."
+msgstr ""
+"كل شيء مكون من مادة ولها خصائص معينة، فيزيائية وكيميائية.  أحيانا نغير هذه "
+"الخصائص.  عندما نقطع أو نلون قطعة من الورق نغير حجمها ولونها، لكنه يبقى "
+"ورق.  عندما نجمد الماء، نعمل على تغيير الحالة من السائل إلى صلب، لكنه يبقى "
+"نفس المادة. هذه كلها <span class='key'>تغييرات فيزيائية</span> ، والتي عادة "
+"ما يمكن نقضها أو عكسها."
+
+msgid ""
+"There is another type of change -<span class='key'>chemical change</span>- "
+"that makes an object change into a different substance. The properties "
+"before and after a chemical change of a substance are different. When wood "
+"burns and metal rusts, they form new substances. A chemical change causes "
+"matter to become a new kind of matter."
+msgstr ""
+"هناك نوع آخر من <span class='key'>التغير الكيميائي</span>. التغير الذي يجعل "
+"الشيء يتغير الى مادةمختلفة. خصائص المادة تختلف قبل وعد التغير الكيميائي.  "
+"عندما  يحترق  الخشب والمعدن يصدأ، تتشكل مواد جديدة.  يتسبب التغير الكيميائي "
+"لمادة بان  تصبح نوعا جديدا من المادة مختلفة عن المادة الأصل."
+
+msgid ""
+"One reason the properties of matter are important is because we have "
+"different purposes for things. For example, how much heat passes through "
+"something is an important property when you are deciding a material's use. "
+"Sometimes the object has one purpose based on its specific property."
+msgstr ""
+"أحد الأسباب لأهمية خصائص المادة هي أن لدينا أهداف مختلفة للأشياء. على سبيل "
+"المثال،  مقدار الحرارة التي تمر عبر شيء هو خاصية هامة لاتخاذ قرار لاستخدام "
+"المادة . في بعض الأحيان الشيء له هدف واحد يعتمد على خاصية محددة. "
+
+msgid ""
+"Let’s use a physical property to describe the differences between plastic "
+"and metal. If you put a plastic spoon and a metal spoon in a warm drink, the "
+"metal spoon becomes warm and the plastic one does not. How easy or difficult "
+"it is for heat to pass through a substance is called <span class='key'>heat "
+"conductivity</span>."
+msgstr ""
+"أدعونا نستخدام الخاصية فيزيائية لوصف الاختلافات بين البلاستيك والمعدن.  إذا "
+"وضعت ملعقة من البلاستيك وملعقة معدنية في شراب دافئ، تصبح الملعقة المعدنية "
+"دافئة اما البلاستيكية فلا.  مقدار سهولة أو صعوبة مرور الحرارة من خلال مادة "
+"تسمى <span class='key'>التوصيل الحراري</span>. "
+
+msgid ""
+"Like most metals, substances that are good at carrying heat are called <span "
+"class='key'>heat conductors.</span> Metal pans conduct heat from the stove "
+"to cook the food inside it. Substances such as wood and plastic that are not "
+"good at carrying heat are called thermal <span class='key'>insulators.</span>"
+msgstr ""
+"مثل معظم المعادن، تسمى المواد  الجيدة في تحميل <span class='key'>الحرارة "
+"موصلات</span> الحرارة.  الأواني المعدنية تمرر الحرارة من الموقد لطهي الطعام "
+"داخله. وتسمى المواد مثل الخشب والبلاستيك التي ليست جيدة في تحميل الحرارة "
+"<span class='key'>العوازل الحرارية</span>."
+
+msgid ""
+"Many pans have plastic handles that do not carry heat from the pan to the "
+"part we touch. Pans are good conductors, but they are too hot to touch. So "
+"we use insulators made of fabric and padding to fix this problem."
+msgstr ""
+"العديد من المقالي لها مقابض من البلاستيك التي لا تحمل الحرارة من المقلاة إلى "
+"الجزء الذي نلمسه. المقالي موصلات جيدة، ولكنها ساخنة جدا للمس.  ولذا فإننا "
+"نستخدم العوازل المصنوعة من القماش والحشو لإصلاح هذه المشكلة."
+
+# 9
+msgid "Quick Check #3"
+msgstr "فحص سريع #3"
+
+msgid ""
+"Are these changes physical or chemical? Hover your mouse on the texts to "
+"view an image."
+msgstr "هل هذه التغيرات كيميائية ام فيزيائية؟ حرك الفأر على النصوص لعرض صورة. "
+
+msgid "Molding clay into a bowl"
+msgstr "صب الطين في وعاء"
+
+msgid "Leaves changing color"
+msgstr "تغير لون اوراق الشجر"
+
+msgid "Gasoline burning in a car"
+msgstr "احتراق البنزين في السيارة"
+
+msgid "An apple rotting"
+msgstr "تعفن تفاحة"
+
+msgid "Dissolving salt in water"
+msgstr "ذوبان الملح في الماء"
+
+msgid "Chopping up potatoes"
+msgstr "تقطيع حبة بطاطا"
+
+msgid "Bleaching a shirt to get a spot out"
+msgstr "تبييض قميص لازالة بقعة"
+
+msgid "Ripping a hole in a shirt"
+msgstr "تمزيق فجوة في قميص"
+
+msgid "Hanging a shirt out to dry in the sun"
+msgstr "تعليق قميص في الشمس ليجف"
+
+msgid "ANSWER"
+msgstr "اجب"
+
+# 10
+msgid ""
+"Using what you know... about the properties of matter... to solve a problem"
+msgstr "استخدم ما تعرفه... عن خصائص المادة ... لحل مشكلة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"Suppose you were to design a house for a client who will build it. You are "
+"comparing using metal to wood for the foundation of the house.  Using what "
+"you know about properties of matter, what would you consider the benefit of "
+"each material? You need to compare the two for the client."
+msgstr ""
+"لنفترض ان من المفترض أن تصميم منزل لزبون سوف يبنيه. وأردت أن تقارن بين "
+"استخدام المعدن أو الخشب لوضع أساس البيت. استخدم ما تعرفه عن خصائص المادة، ما "
+"الممكن أن تأخذ بالإعتبار فائدة كل مادة؟ أنت تحتاج إلى مقارنة المادتين للزبون."
+
+msgid "Your Assignment"
+msgstr "واجبك"
+
+msgid ""
+"Which material would you suggest be used for the design? In the winter, what "
+"problem might people in a house built in wood or metal face? What material "
+"would you then suggest to fix this problem?"
+msgstr ""
+"اي مادة ستقترح لأن تستخدم في التصميم؟ في فصل الشتاء، ما هي المشكلة التي قد "
+"يواجهها الناس في منزل بني في الخشب أو المعدن ؟ ما هي المواد اللتي تقترحها "
+"لإصلاح هذه المشكلة؟"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك ... "
+
+# 11
+msgid "Summarizing core ideas... about the properties of matter"
+msgstr "تلخيص الافكار الرئيسية... حول خصائص المادة"
+
+msgid ""
+"<span class='key'>Matter</span> is the term used to describe all the "
+"physical substances of the universe. Determining the properties of a "
+"substance and how its properties make it useful are important. Matter can be "
+"described and classified according to its different properties. Some "
+"properties of matter can be determined from the use of our five senses. "
+"Other properties of matter can be determined through the use of tools or "
+"scientific instruments. One way to classify matter is to see if they are "
+"naturally made, or manufactured. <span class='key'>Solid</span>, <span "
+"class='key'>liquid</span> and <span class='key'>gas</span> are the three "
+"most common states that we use to describe matter. Another way to make a "
+"distinction regarding states of matter is between <span class='key'>physical "
+"properties</span> and <span class='key'>chemical properties</span> and their "
+"changes. Matter can combine and separate in different ways. <span "
+"class='key'>Physical properties</span> are those that do not change the "
+"nature of matter. <span class='key'>Physical change</span> is when a "
+"substance changes from one state to another without changing into a new "
+"substance. <span class='key'>Chemical properties</span> are those that can "
+"be seen when a substance is changed to form new substances. A <span "
+"class='key'>chemical change</span> causes matter to become a new kind of "
+"matter. Different properties are suited to different purposes. For example "
+"substances differ based on how they allow heat to pass; this property is "
+"called <span class='key'>heat conductivity</span>.  Substances that are good "
+"at carrying heat are called <span class='key'>heat conductors</span>; "
+"substances that are not good at carrying heat are called <span "
+"class='key'>heat insulators</span>."
+msgstr ""
+"<span class='key'>مادة </span> هو مصطلح يستخدم لوصف جميع المواد الفيزيائية "
+"في الكون . تحديد خواص مادة وكيف هي خصائصها التي تجعلها مفيدة مهم جداً.  ويمكن "
+"وصف المادة و تصنيفها وفقا لخصائصها المختلفة . ويمكن تحديد بعض خصائص المادة "
+"باستخدام الحواس الخمس الموجودة لدينا . يمكن تحديد خصائص أخرى من المادة من "
+"خلال استخدام الأدوات أو الأجهزة العلمية . طريقة واحدة لتصنيف المادة هي معرفة "
+"ما إذا كانت موجودة بشكل طبيعي ، أو أنها مصنعة .  <span class='key'>السائل </"
+"span> و  <span class='key'>الصلب </span>  و <span class='key'>الغاز </span> "
+"هي الحالات الثلاث الأكثر شيوعا التي نستخدمها لوصف المادة.  طريقة اخرى "
+"للتمييز فيما يتعلق بحالات المادة هي بمعرفة <span class='key'>الخصائص "
+"الفيزيائية </span>  و <span class='key'>الخصائص الكيميائية </span> و "
+"التغييرات الخاصة بهم . المادةة يمكن جمعها وفصلها بطرق مختلفة.  <span "
+"class='key'>الخصائص الفيزيائية </span> هي تلك التي لا تغير في طبيعة "
+"المادة .  <span class='key'>التغيير الفيزيائي </span> هو عند تغيير مادة من "
+"حالة إلى أخرى دون تغييرها الى  مادة جديدة .  <span class='key'>الخواص "
+"الكيميائية </span> هي تلك التي يمكن رؤيتها عند تغيير مادة لتشكيل مواد "
+"جديدة .   <span class='key'>تغير كيميائي </span> يتسبب في جعل المادة  نوعا "
+"جديدا من المواد. تناسب خصائص مختلفة لأغراض مختلفة. على سبيل المثال تختلف "
+"المواد على أساس كيف أنها تسمح لتمرير الحرارة ؛ وتسمى هذه الخاصية <span "
+"class='key'> التوصيل الحراري</span> .  وتسمى المواد الجيدة في تحميل الحرارة  "
+"<span class='key'>الموصلات الحرارية</span>؛وتسمى المواد التي ليست جيدة في "
+"تحميل الحرارة  <span class='key'>العوازل الحرارية</span>."
+
+# 12
+msgid "Reviewing key vocabulary related to... the properties of matter"
+msgstr "مراجعة المفردات الأساسية ذات الصلة... بخصائص المادة"
+
+msgid "Close me!"
+msgstr "أغلقني!"
+
+msgid "Manufactured Material"
+msgstr "مواد مصنعة"
+
+msgid ""
+"Manufactured materials are man-made materials. Most naturally-made material "
+"can be recycled in nature by itself. But manufactured materials need our "
+"help to be recycled. We can recycle glass, plastic, paper, and cans by "
+"taking them to a recycling center."
+msgstr ""
+"المواد المصنعة هي مواد من صنع الإنسان. أكثر المواد الطبيعية يمكن إعادة "
+"تدويرها في الطبيعة من تلقاء نفسها.  ولكن المواد المصنعة بحاجة لمساعدتنا "
+"لإعادة تدويرها. يمكننا إعادة تدوير الزجاج والبلاستيك والورق والعلب عبر نقلها "
+"الى مركز لإعادة التدوير."
+
+msgid "Matter"
+msgstr "المادة"
+
+msgid ""
+"Anything that has mass and takes up space is called matter. All matter is "
+"made up of particles that are too small to see, called atoms."
+msgstr ""
+"اي شيء له كتلة ويشغل حيز يسمى مادة.  كل المواد مكونة من جزيئات لا ترى بالعين "
+"المجردة تسمى ذرات."
+
+msgid ""
+"The melting point is the temperature at which a solid turns to a liquid. "
+"Different solids have different melting points. For example, the melting "
+"point of an ice cube is 32°F (0°C). But a material called tungsten, which is "
+"used in light bulbs, has a melting point of 6170°F (3410°C). The high "
+"melting point of tungsten makes it possible to use in a light bulb without "
+"melting when the light is turned on."
+msgstr ""
+"نقطة الانصهار هي درجة الحرارة التي يتحول بها الصلب إلى السائل.  المواد "
+"الصلبة المختلفة لها نقاط إنصهار مختلفة.  على سبيل المثال، درجة انصهار  مكعب "
+"جليد هي 32 درجة فهرنهايت (0 درجة مئوية).  ولكن مادة تسمى التنغستن، والذي "
+"يستخدم في المصابيح الكهربائية، له درجة انصهار 6170 درجة فهرنهايت (3410 درجة "
+"مئوية). نقطة انصهار عالية من التنغستن يجعل من الممكن استخدامه في مصباح "
+"كهربائي دون ذوبانها عند تشغيل الضوء. "
+
+msgid ""
+"The freezing point is the temperature at which a liquid turns into a solid. "
+"The freezing point is the same temperature as the melting point, when a "
+"solid changes to a liquid. For example, the freezing point and melting point "
+"of mercury (the liquid found in thermometers) is -37.89 °F."
+msgstr ""
+"نقطة التجمد هي درجة الحرارة التي  يتحول بها السائل إلى مادة صلبة. نقطة "
+"التجمد هي نفس درجة حرارة نقطة الانصهار، عند تغيير الحالة الصلبة إلى الحالة "
+"السائلة.  على سبيل المثال، نقطة التجمد ودرجة انصهار الزئبق (السائل الذي  "
+"يوجد في موازين الحرارة) هو -37.89 ° F."
+
+msgid ""
+"A thermometer is a scientific instrument used to measure temperature. "
+"Melting point, boiling point, and freezing point can be measured using a "
+"thermometer."
+msgstr ""
+"ومقياس الحرارة هو أداة علمية تستخدم لقياس درجة الحرارة. نقطة ذوبان، و نقطة "
+"الغليان، و درجة التجمد يمكن قياس باستخدام ميزان حرارة."
+
+msgid "Boiling point"
+msgstr "نقطة الغليان"
+
+msgid ""
+"The boiling point is the temperature at which a liquid begins to turn into a "
+"gas. When a liquid starts bubbling, it has reached its boiling point. "
+"Different liquids have different boiling points. For example, the boiling "
+"point of water is 212°F (100°C). But the boiling point of olive oil is 572°F "
+"(300°C). Also, changes in air pressure can affect the boiling point of "
+"liquids. If you are up in the mountains where there is less air pressure, "
+"liquids will boil at lower temperatures than if you were at sea level."
+msgstr ""
+"نقطة الغليان هي درجة الحرارة التي يبدأ السائل عندها بالتحول الى غاز.  عندما "
+"يبدأ السائل بالغليان، يكون قد بلغ نقطة  الغليان.  السوائل المختلفة لها نقاط "
+"غليان مختلفة.  على سبيل المثال، نقطة غليان الماء هي 212 درجة فهرنهايت (100 "
+"درجة مئوية).  ولكن درجة غليان زيت الزيتون هي 572 درجة فهرنهايت (300 درجة "
+"مئوية). أيضا، يمكن للتغيرات في الضغط الجوي ان يؤثر على درجة غليان السوائل.  "
+"إذا كنت في الجبال حيث هناك أقل ضغط الجوي، تغلي السوائل عند درجات حرارة أقل "
+"مما لو كانت على مستوى سطح البحر."
+
+msgid ""
+"The density of a substance is its amount of mass in a given amount of space. "
+"The more compact a substance is, the greater its density."
+msgstr ""
+"كثافة  المادة هي كمية كتلته في حيز معين من الفضاء.  كلما كانت جزيئات المادة "
+"متراصة أكثر كلما زادت كئافتها."
+
+msgid ""
+"Volume is a measure of how much space something takes up. The volume of a "
+"four-sided box can be found by multiplying its length times its width times "
+"its height. The volume of any solid can be found by placing it completely "
+"beneath the water and seeing how much the water rises. The amount that the "
+"water rises tells you how much space the solid takes up."
+msgstr ""
+"الحجم هو مقياس لمقدار ما يشغله من حيز.  حجم مربع  من أربعة أضلاع يمكن حسابه "
+"بضرب طوله بعرضه بارتفاعه. حجم أي مادة صلبة يمكن ايجاده عن طريق وضعها تماما "
+"تحت الماء ورؤية مدى ارتفاع المياه. المدى الذي يرتفعه الماء يخبرك بمقدار "
+"المساحة التي تشغلها المادة الصلبة الصلبة."
+
+msgid ""
+"A solid is one of the three states of matter. The elements or compounds in "
+"the solid state are bound tightly together in a fixed, rigid arrangement. So "
+"solids have a definite shape and volume."
+msgstr ""
+"الصلابة هي واحدة من الحالات الثلاث للمادة.  العناصر أو المركبات في الحالة "
+"الصلبة مرتبطة بإحكام أكثر مع بعضها البعض ولها ترتيب جامد و ثابت.  وبذلك فإن "
+"المواد الصلبة لها شكل  وحجم محدد."
+
+msgid "Liquid"
+msgstr "السائل"
+
+msgid ""
+"A liquid is one of the three states of matter. The elements or compounds in "
+"the liquid state are not fixed as in a solid. The elements and compounds of "
+"a liquid can slide around each other. So liquids have a fixed volume, but "
+"they do not have a fixed shape."
+msgstr ""
+"السيولة هي احدى حالات المادة الثلاث . العناصر أو المركبات في الحالة السائلة "
+"ليست ثابتة  كما في الحالة الصلبة.  العناصر والمركبات في السائل يمكن أن تنزلق "
+"حول بعضها البعض.  حتى السوائل لها حجم ثابت، ولكن لم يكن لها شكل ثابت."
+
+msgid "Gas"
+msgstr "الغاز"
+
+msgid ""
+"A gas is one of the three states of matter. There are three different forms "
+"that matter can take: solid, liquid, and gas. Unlike solids and liquids, "
+"gases float in the air and are difficult or impossible to see. Oxygen is a "
+"kind of gas. So is water vapor. So is a kind of fuel called natural gas, "
+"which many people use to heat their homes and cook their food."
+msgstr ""
+"الغاز هي واحدة من الحالات الثلاث للمادة.  هناك ثلاثة أشكال مختلفة يمكن أن "
+"تأخذها المادة: الصلبة والسائلة، والغاز.  على عكس المواد الصلبة والسوائل ,"
+"الغازات تطفو في الهواء ويصعب أو يستحيل أن ترى بالعين. الأكسجين هو نوع من "
+"الغاز. و كذلك هو بخار الماء.  وكذلك هو نوع من الوقود يسمى الغاز الطبيعي، "
+"والذي يستخدمه العديد من الناس لتدفئة منازلهم وطهي طعامهم."
+
+msgid "Atom"
+msgstr "الذَرَّة"
+
+msgid ""
+"Atoms are the tiny building blocks of all matter, both living and non-"
+"living. An atom is the smallest possible part of a type of material. For "
+"example, you could have an atom of copper or an atom of oxygen. Different "
+"things are made of different atoms. Things that are big enough to see are "
+"made from a very large number of atoms. You would need a special microscope, "
+"called an electron microscope, to see one atom."
+msgstr ""
+"الذرات هي اللبنات الصغيرة من جميع المواد، الحية وغير الحية على السواء .  "
+"فالذرة هي أصغر جزء ممكن من نوع من المواد.  على سبيل المثال، يمكن أن يكون "
+"لديك ذرة من النحاس أو ذرة من الأوكسجين. الاشياء المختلفة مكونة من ذرات "
+"مختلفة.  والأشياء الكبيرة بما يكفي لرؤيتها مصنوعة من عدد كبير جدا من الذرات. "
+"و لربما تحتاج الى مجهر خاص، يسمى المجهر الإلكتروني، لرؤية ذرة واحدة."
+
+msgid "Molecule"
+msgstr "الجزيء"
+
+msgid ""
+"Molecules are atoms bonded together. Molecules are the smallest parts of "
+"living and non-living things that can be recognized. Many molecules make up "
+"a tiny drop of water. Things that are solid, such as ice, have molecules "
+"that are close together and not moving. Things that are liquid, such as "
+"water, have molecules that move freely. Tiny molecules of gases also float "
+"around in the air. Molecules make up everything."
+msgstr ""
+"جزيئات هي ذرات مربوطة معا. الجزيئات هي أصغر أجزاء من الكائنات الحية وغير "
+"الحية التي يمكن التعرف عليها.  و العديد من الجزيئات تشكل قطرة صغيرة من "
+"الماء.  الأشياء الصلبة، مثل الجليد، تتكون من جزيئات  قريبة من بعضها البعض "
+"ولا تتحرك.  أما الأشياء  السائلة، مثل الماء تتكون من جزيئات  تتحرك بحرية.  "
+"الجزيئات الصغيرة من الغازات أيضا تطفو  في الهواء.  الجزيئات تشكل كل شيء."
+
+msgid "Physical property"
+msgstr "خصائص فيزيائية"
+
+msgid ""
+"The term physical properties refers to things about an object that can be "
+"seen or measured. Every object has its own special physical properties. The "
+"mass of an object is a physical property. Mass can be measured with a "
+"balance scale. Size is also a physical property. Size can be measured with a "
+"ruler."
+msgstr ""
+"يشير مصطلح الخصائص الفيزيائية للأشياء التي يمكن رؤيتها أو قياسها.  كل كائن "
+"له خصائصه الفيزيائية الخاصة به.  كتلة الكائن هو خاصية فيزيائية.  و يمكن قياس "
+"الكتلة في الميزان. الحجم هو أيضا خاصية فيزيائية. ويمكن قياس الحجم بالمسطرة. "
+
+msgid "Chemical property"
+msgstr "خصائص كيميائية"
+
+msgid ""
+"Chemical properties of matter are properties that can be seen during a "
+"chemical reaction—when one kind of substance is changed into another kind of "
+"substance. For example, whether or not a substance will burn is a chemical "
+"property, because when something burns, the kind of substance is changed "
+"into new kinds of matter."
+msgstr ""
+"الخصائص الكيميائية للمادة هي الخصائص التي يمكن أن ينظر إليها خلال تفاعل "
+"كيميائي عند تغيير نوع من مادة إلى نوع آخر من المواد .  على سبيل المثال، هل "
+"المادة ستحترق أم لا هي خاصية كيميائية، لأنه عندما يحترق شيء، يتم تغيير نوعه "
+"من مادة إلى أنواع جديدة من المواد."
+
+msgid ""
+"When a substance goes through a physical change, only its form or appearance "
+"changes. Even though it may look different, it is still the same substance. "
+"For example, when water freezes, it turns to ice. The ice and the water are "
+"the same substance. Only their forms are different. Another example is "
+"sawdust. If someone takes an axe and chops into wood, some of the wood "
+"breaks into tiny pieces and becomes sawdust. The sawdust is still wood. It "
+"is just wood in a different form. It has gone through a physical change."
+msgstr ""
+"عندما تمر مادة  بتغيير فيزيائي، فقط شكله أو مظهره يتغير.  على الرغم من أنها "
+"قد تبدو مختلفة، الا انها لا تزال نفس المادة.  على سبيل المثال، عندما يتجمد "
+"الماء، فإنه يتحول إلى جليد.  الجليد والماء هما نفس المادة. ولكن فقط أشكالها "
+"مختلفة.  مثال آخر هو نشارة الخشب. اذا كان شخص ما يأخذ فأسا ويقطع  الخشب، "
+"وبعض  الخشب يكسر إلى قطع صغيرة ويصبح نشارة خشب. نشارة الخشب لا تزال خشب.  "
+"فقط في شكل مختلف.  حدث له تغيير فيزيائي."
+
+msgid ""
+"A chemical change is a type of change that makes an object change into a "
+"different substance. The properties before and after a chemical change of a "
+"substance are different. When wood burns and metal rusts, they form new "
+"substances. A chemical change causes matter to become a new kind of matter."
+msgstr ""
+"التغيير الكيميائي هو نوع من التغيير الذي يجعل الكائن يتغير الى مادة مختلفة.  "
+"الخصائص قبل وبعد التغيير الكيميائي للمادة مختلفة. عندما تحرق الخشب والمعدن "
+"يصدأ، فإنها  تتشكل مواد جديدة. يتسبب التغير الكيميائي للمادة بان تصبح مادة "
+"جديدة."
+
+msgid "Heat conductivity"
+msgstr "توصيل الحرارة"
+
+# 13
+msgid "Checking what you now know... about the properties of matter"
+msgstr "فحص  ما تعرفه... عن خصائص المادة"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "اجابة الاسئلة الستة سوف تخبرك بما تعرفه و بما لا تزال بحاجة لدراسته."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر زر التالي عندما تكون جاهزاً"
+
+# 14
+msgid "Quiz Question #1"
+msgstr "سؤال سريع #1"
+
+msgid "Which of the following is an example of a chemical change?"
+msgstr "اي من التالية هي مثال على التفير الكيميائي؟"
+
+msgid "Ice melts"
+msgstr "ذوبان الجليد"
+
+msgid "Glass vase breaks"
+msgstr "فواصل إناء من الزجاج"
+
+msgid "Toast burns"
+msgstr "احتراق الخبز"
+
+msgid "Paper is ripped"
+msgstr "تمزيق الورق"
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك"
+
+msgid "Please select your answer."
+msgstr "الرجاء اختيار اجابتك."
+
+msgid "Correct, when toast burns it changes chemically."
+msgstr "صحيح عندما يحترق الخبز يتغير كيميائيا"
+
+msgid ""
+"No, ice melting is a physical change. The same substance is going from the "
+"solid state (ice) to its liquid form (water) without changing."
+msgstr ""
+"لا، ذوبان الجليد هو تغير فيزيائي .  تتحول المادة من الصلب (جليد) الى السائل "
+"( ماء) بدون تغيير."
+
+msgid "No, when glass breaks it is changing in size, not chemically changing."
+msgstr "لا، عندما ينكسر الزجاج يتغير بالحجم وليس تغيراً كيميائياً."
+
+msgid "No, paper tearing is a physical change in size."
+msgstr "لا، تمزيق الورق هو تغير فيزيائي بالحجم"
+
+# 15
+msgid "Quiz Question #2"
+msgstr "سؤال سريع #2"
+
+msgid "Which of the following mixtures forms a new substance?"
+msgstr "اي من الخلطات التالية تشكل مادة جديدة؟"
+
+msgid "a. mixing baking soda and vinegar"
+msgstr "أ. خلط صودا الخبز و الخل"
+
+msgid "b. mixing baking soda and water"
+msgstr "ب. خلط صودا الخبز و الماء"
+
+msgid "c. mixing salt and vinegar"
+msgstr "ج. خلط الملح و الخل"
+
+msgid "d. mixing salt and water"
+msgstr "د. خلط الملح و الماء"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "دور او اقلب الصندوق ثلاثي الابعاد للاعلى او الاسفل لتحدد اجابتك."
+
+msgid ""
+"Correct, this mixing these leads to a chemical reaction forming new "
+"substances. Carbon dioxide is what you probably have seen foaming and "
+"bubbling."
+msgstr ""
+"صحيح، هذا الخلط للخرزات يؤدي إلى تفاعل كيميائي و تشكيل مواد جديدة.  ثاني "
+"أكسيد الكربون هو ما رأيته يشكل رغوة وفقاعات."
+
+msgid "No, this mixture does not form new compounds and can be reversed."
+msgstr "لا، هذا الخليط لا يشكل مركبات جديدة ويمكن عكسها."
+
+# 16
+msgid "Quiz Question #3"
+msgstr "سؤال سريع #3"
+
+msgid ""
+"Click and drag the image in the \"ITEM\" column to the column that best "
+"describes the item's properties."
+msgstr ""
+"انقر واسحب الصورة في عمود \"الفقرة\"  إلى العمود الذي يصف أفضل ما يمكن خصائص "
+"العنصر."
+
+msgid "ITEM"
+msgstr "الفقرة"
+
+msgid "Answer"
+msgstr "إجابة"
+
+msgid "SOLID"
+msgstr "صلب"
+
+msgid "LIQUID"
+msgstr "سائل"
+
+msgid "GAS"
+msgstr "غاز"
+
+msgid "PLASMA"
+msgstr "بلازما"
+
+msgid "water in glass"
+msgstr "ماء في كاس"
+
+msgid "vapor from a cup of hot tea"
+msgstr "بخار من فنجان شاي ساخن."
+
+msgid "stick of butter"
+msgstr "اصبع زبدة"
+
+msgid "the sun"
+msgstr "الشمس"
+
+msgid "a diamond"
+msgstr "الماس"
+
+# 17
+msgid "Quiz Question #4"
+msgstr "سؤال سريع #4"
+
+msgid ""
+"A metal spoon was left in a pot of boiling soup. The cook burned a finger by "
+"touching the spoon. Why did his finger get burned?"
+msgstr ""
+"تركت ملعقة معدنية في وعاء من الحساء المغلي. الطاهي حرق اصبعه عن طريق لمس "
+"الملعقة. لماذا احترقإصبعه ؟"
+
+msgid "The metal spoon chemically reacted with the cook’s hand."
+msgstr "تفاعلت الملعقة المعدنية كيميائيا مع يد الطباخ."
+
+msgid "The metal spoon conducted electricity to the cook’s hand."
+msgstr "اوصلت الملعقة المعدنية الكهرباء ليد الطباخ."
+
+msgid "The metal spoon conducted heat to the cook’s hand."
+msgstr "اوصلت  الملعقة المعدنية الحرارة إلى يد الطباخ."
+
+msgid "The metal spoon insulated the cook’s hand."
+msgstr "الملعقة المعدنية عزلت يد الطباخ."
+
+msgid ""
+"Correct, the spoon conducted heat from the boiling soup to the person’s hand."
+msgstr "صحيح، الملعقة اوصلت الحرارة من الحساء ال يد الشخص."
+
+msgid ""
+"No, the spoon did not chemically react with the cook’s hand. It conducted "
+"heat from the boiling soup to the hand."
+msgstr ""
+"لا، الملعقة لم تتفاعل كيميائيا مع يد الشخص بل اوصلت الحرارة من الحساء الى "
+"يده."
+
+msgid ""
+"Not quite, the spoon did not conduct electricity, it conducted heat from the "
+"boiling soup to the person’s hand."
+msgstr ""
+"ليس تماما، الملعقة لم توصل الكهرباء، بل اوصلت الحرارة من الحساء الى يد الشخص."
+
+msgid ""
+"No, the metal spoon conducted heat to the cook’s hand. An oven mitt might "
+"have insulated the cook’s hand."
+msgstr ""
+"لا، الملعقة المعدنية اوصلت الحرارة ليده.  مقبض الفرن ربما عزل يد الشخص."
+
+# 18
+msgid "Quiz Question #5"
+msgstr "سؤال سريع #5"
+
+msgid ""
+"Geologists are people who study rocks and minerals. They often use physical "
+"properties to identify things. A student had a mineral sample that was gray "
+"in color and had a hardness of 6. The mineral made a white streak when "
+"scraped on a ceramic plate."
+msgstr ""
+"علماء الجيولوجيا هم الناس الذين يدرسون الصخور والمعادن. انهم غالبا ما "
+"يستخدمون الخواص الفيزيائية لتحديد الأشياء.  الطالب لديه عينة معدنية رمادية "
+"اللون، وكان مستوى صلابتها هو 6.  المعدن ادى لمسحات بيضاء عندما كشطت على "
+"السيراميك.  عند مسح الارض."
+
+msgid "COLOR"
+msgstr "لون"
+
+msgid "HARDNESS"
+msgstr "صلابة"
+
+msgid "STREAK"
+msgstr "مسحة"
+
+msgid "MINERAL"
+msgstr "معدن"
+
+msgid "gray, black or reddish brown"
+msgstr "رمادي او اسود او بني محمر"
+
+msgid "red"
+msgstr "احمر"
+
+msgid "Hematite"
+msgstr "الهميتايت"
+
+msgid "black"
+msgstr "اسود"
+
+msgid "Magnetite"
+msgstr "الماغنيتايت"
+
+msgid "red, reddish brown, brown or black"
+msgstr "احمر او بني محمر او بني او اسود"
+
+msgid "white"
+msgstr "ابيض"
+
+msgid "Garnet"
+msgstr "الجرانيت"
+
+msgid "gray or white"
+msgstr "رمادي او ابيض"
+
+msgid "Feldspar"
+msgstr "الفلسبار"
+
+msgid "According to the table above, the mineral sample was most likely:"
+msgstr "وفقا للجدول في الاسفل ، العينة المعدنية كانت على الاغلب."
+
+msgid "Correct, feldspar is most likely the sample mineral."
+msgstr "صحيح الفلسبار هو المثال على الاغلب"
+
+msgid ""
+"Not quite, hematite made a red streak. Feldspar is most likely the sample "
+"which made a white streak."
+msgstr ""
+"ليس تماما. الهيميتايت يعمل مسحات حمراء .  والفلسبار على الاغلب هو الذي يعمل "
+"مسحات بيضاء."
+
+msgid ""
+"Not quite, magnetite is black in color. Feldspar is most likely the sample "
+"which is gray."
+msgstr ""
+"ليس تماما، الماغنيتايت اسود اللون .  الفلدسبار هو على الاغلب العينة ذات "
+"اللون الرمادي"
+
+msgid ""
+"No, garnet is not the same color, nor does the hardness range match the "
+"sample mineral. Feldspar is most likely the sample mineral."
+msgstr ""
+"لا ، الغرانيت ليس له لون محدد ولا مدى الصلابة يتطابق مع عينة المعدن.  "
+"الفلسبار على الاغلب هو العينة"
+
+# 19
+msgid "Quiz Question #6"
+msgstr "سؤال سريع #6"
+
+msgid ""
+"In the process of baking bread, a few ingredients (flour, water, and yeast) "
+"are mixed in together. Is this initial mixing a physical or chemical change?"
+msgstr ""
+"في عملية خبز الخبز بعض المكونات ( الطحين, و الماء, و الخميرة) تخلط معا في "
+"هذا الخلط المبدئي.  هل هو تغير فيزيائي ام كيميائي؟"
+
+msgid ""
+"After mixing the ingredients, the yeast starts to feed on the sugars in the "
+"flour and begins to make the bread dough \"rise\". Is bread \"rising\" a "
+"physical or chemical change?"
+msgstr ""
+"بعد خلط المكونات، الخميرة تتغذى  على السكريات الموجودة في الدقيق ويبدأ بجعل "
+"عجين الخبز (يرتفع).  هل (ارتفاع) الخبز هو تغيير فيزيائي أو كيميائي؟ "
+
+msgid ""
+"Correct, the initial mixing of the ingredients does not form a new "
+"substance, or cause a chemical reaction."
+msgstr "صحيح، الخلط المبدئي للمكونات لا يشكل مواد جديدة او يسبب تغيراً كيميائياً"
+
+msgid "physical change"
+msgstr "تغير فيزيائي"
+
+msgid ""
+"No, the initial mixing of the ingredients does not form a new substance, or "
+"cause a chemical reaction. It is a physical change."
+msgstr ""
+"لا، الخلط المبدئي للمكونات لا يشكل مادة جديدة او تفاعل كيميائي انه تغير "
+"فيزيائي."
+
+msgid "chemical change"
+msgstr "تغير كيميائي"
+
+msgid ""
+"Correct, new substances such as carbon dioxide are formed and the process is "
+"not easily reversed. It is a chemical change."
+msgstr ""
+"صحيح، مواد جديدة مثل ثاني اكسيد الكربون تتشكل والعملية لا تُعكَس بسهولة انه "
+"تغير كيميائي."
+
+msgid ""
+"No, new substances such as carbon dioxide are formed and the process is not "
+"easily reversed. It is a chemical change."
+msgstr ""
+"لا، مواد جديدة مثل ثاني اكسيد الكربون تتشكل و العملية لا تعكس بسهولة.  انه "
+"تغير كيميائي"
+
+# 20
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "You've completed the Properties of Matter review."
+msgstr "لقد اكملت مراجعة خصائص المادة"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك فحص ما قدمته في الاختبار السريع و الأسئلة السريعة لهذه المراجعة بالنقر "
+"على الزر في الاسفل."
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Transitions
+msgid "Let's begin!"
+msgstr "دعنا نبدأ"
+
+msgid "Sre you ready"
+msgstr "هل انت جاهز"
+
+msgid "Natural or man-made?"
+msgstr "طبيعي ام من صنع الانسان"
+
+msgid "Hmm... what is matter?"
+msgstr "همممم ... ما هي المادة؟"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير تقويمك السريع الاول!"
+
+msgid "Freezing water to ice cubes..."
+msgstr "تجمد الماء في مكعبات جليد ..."
+
+msgid "Another quick check on the way!"
+msgstr "اختبار سريع اخر في طريقه إليك!"
+
+msgid "Chopping wood for the fireplace..."
+msgstr "تقطيع الخشب للموقد ..."
+
+msgid "Physical or chemical?"
+msgstr "فيزيائي او كيميائي؟"
+
+msgid "Drawing blueprints..."
+msgstr "رسم المخططات ..."
+
+msgid "Putting it all together..."
+msgstr "اجمعها كلها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "الكلمات و التفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نختبر ما تعرفه"
+
+msgid "And the first quiz question is..."
+msgstr "و اول سؤال سريع هو ..."
+
+msgid "Mixing matters..."
+msgstr "خلط المواد ..."
+
+msgid "Solid, liquid, gas or plasma?"
+msgstr "صلب , أو سائل, أو غاز , او  بلازما"
+
+msgid "The hot spoon"
+msgstr "الملعقة الساخنة"
+
+msgid "Dazzling minerals"
+msgstr "المعادن المبهرة"
+
+msgid "It's rising!"
+msgstr "انها ترتفع!"
+
+msgid "You're done!"
+msgstr "لقد انتهيت!"

@@ -1,0 +1,1195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plants are Producers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: basam <basam_rj_99@yahoo.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار سريع رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Planting a tree..."
+msgstr "زراعة شجرة"
+
+msgid "Collecting solar energy..."
+msgstr "جمع الطاقة الشمسية"
+
+msgid "Preparing your first quick check..."
+msgstr "التحضير لفحصك السريع الأول"
+
+msgid "Absorbing carbon dioxide..."
+msgstr "امتصاص ثاني أكسيد الكربون"
+
+msgid "Combining glucose molecules..."
+msgstr "ربط جزيئات الجلوكوز"
+
+msgid "Counting large trees..."
+msgstr "عد الأشجار الكبيرة"
+
+msgid "Producing energy..."
+msgstr "انتاج الطاقة"
+
+msgid "Analyzing food chain..."
+msgstr "تحليل سلسلة الغذاء"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت جاهز لاختبارك السريع الأخير؟"
+
+msgid "Collecting data..."
+msgstr "جمع البيانات"
+
+msgid "Putting it all together..."
+msgstr "جمعها مع بعضها ..."
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الأول هو ..."
+
+msgid "Identifying common feature..."
+msgstr "التعرف على الصفة المشتركة..."
+
+msgid "Studying plants..."
+msgstr "دراسة النباتات ..."
+
+msgid "Gathering energy..."
+msgstr "جمع الطاقة"
+
+msgid "Stacking fiber..."
+msgstr "الألياف المتراصة"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت جاهز لسؤالك القصير الأخير ؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Plants are Producers"
+msgstr "النباتات هي منتجات"
+
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Plants are Producers review"
+msgstr "أهلا بك في عرض النباتات هي منتجات"
+
+# 2
+msgid "Thinking about... plants are producers"
+msgstr "فكر ب ... النباتات هي منتجات"
+
+msgid ""
+"Think of what you ate yesterday. Hamburger and fries maybe? The hamburger "
+"came from a cow and the potatoes are a plant. The cow had to eat plants to "
+"grow. Your meal was brought to you by plants. They produce food from solar "
+"energy and store it. These plants are producers. Herbivores eat the plants "
+"and grow. Carnivores eat other animals that have eaten plants. Both animals "
+"are consumers."
+msgstr ""
+"فكر في ما أكلته أمس.  همبرغر وبطاطا ربما؟ جاء الهمبرغر من البقر والبطاطا هي "
+"نبات.  البقر عليه أكل النباتات للنمو.  أحضرت وجبتك اليك عبر النباتات.  إنها "
+"تنتج الغذاء من الطاقة الشمسية وتخزنه.  هذه النباتات هي منتجات. العواشب تأكل "
+"النباتات لتنمو.  آكلة اللحوم تأكل الحيوانات الأخرى التي تأكل النباتات. كلا "
+"الحيوانين هما مستهلكان. "
+
+msgid ""
+"We may prepare food and cook it many ways, but plants are the true producers "
+"that give all consumers (including us) the energy we need to survive. What "
+"about the plants themselves, what do they need?"
+msgstr ""
+"قد نعد الطعام و نطهوه بطرق عدة، لكن النباتات هي المنتجات الحقيقية التي تعطي "
+"كل المستهلكين ( بما فيهم نحن) الطاقة التي تحتاجها للبقاء. ماذا عن النباتات "
+"نفسها، ماذا تحتاج؟"
+
+# 3
+msgid "Checking what you know... about plants are producers"
+msgstr "افحص ما تعرفه ...حول النباتات هي منتجات"
+
+msgid ""
+"This plant receives the nutrition it needs to continue to live. What if we "
+"took all its oxygen away, could the plant still grow? Rotate or flip the 3D "
+"box below either up or down to set your answer."
+msgstr ""
+"هذه النبتة تتلقى التغذية التي تحتاجها لمواصلة العيش. ماذا لو أخذنا كل ما "
+"فيها من الأكسجين منها، هل يمكن للنبات مواصلة النمو؟ دور أو اقلب  الصندوق "
+"الثلاثي الأبعاد أدناه إما أعلى أو لأسفل لتحديد الإجابة."
+
+msgid "Yes, because it needs CO<sub>2</sub> and gives off O<sub>2</sub>."
+msgstr "نعم ، لأنها تحتاج  CO<sub>2</sub>  و تعطي </sub>O<sub>2          "
+
+msgid "No, because it needs O<sub>2</sub> and gives off CO<sub>2</sub>."
+msgstr "لا، لأنها تحتاج  </sub>O<sub>2 و تعطي CO<sub>2</sub>."
+
+msgid ""
+"Yes, because plants need CO<sub>2</sub> to grow and O<sub>2</sub> to produce "
+"food."
+msgstr ""
+"نعم ، لأن النباتات تحتاج CO<sub>2</sub> لتنمو و O<sub>2</sub>لتنتج الغذاء"
+
+msgid ""
+"No, because plants need O<sub>2</sub> to grow and CO<sub>2</sub> to produce "
+"food."
+msgstr ""
+"لا ، لأن النباتات تحتاج O<sub>2</sub> لتنمو و CO<sub>2</sub> لتنتج الغذاء"
+
+msgid "Click, hold and drag up or down"
+msgstr "أنقر ،احمل و اسحب للأعلى أو للأسفل"
+
+msgid ""
+"If you chose d, that is correct. A plant could not grow without oxygen. "
+"During photosynthesis (when producing food), plants need to take in carbon "
+"dioxide and give off oxygen. But a plant also uses some of that food to "
+"grow. When a plant uses food, the food is broken down the same way it is "
+"when animals and people use it, with oxygen. Oxygen is needed to release the "
+"stored energy in the food."
+msgstr ""
+"إذا اخترت د، هذا صحيح. النبتة لا يمكن أن تنمو دون الأوكسجين. خلال عملية "
+"التمثيل الضوئي (عند إنتاج المواد الغذائية)، تحتاج النباتات لأخذ ثاني أكسيد "
+"الكربون وتطلق الأكسجين، ولكن يستخدم النبات أيضا بعض من تلك المواد الغذائية "
+"للنمو.  عندما يستخدم النبات المواد الغذائية، يتم تكسيرالطعام بنفس الطريقة "
+"التي يستخدمها الحيوانات والناس ، مع الأكسجين.  هناك حاجة إلى الأكسجين لإطلاق "
+"الطاقة المخزنة في الطعام ."
+
+msgid "Sun Light Energy"
+msgstr "طاقة أشعة الشمس"
+
+msgid "Carbon Dioxide"
+msgstr "ثاني أكسيد الكربون"
+
+msgid "Oxygen"
+msgstr "الأكسجين"
+
+# 4
+msgid "Reviewing core ideas... about plants are producers"
+msgstr "مراجعة الأفكار الرئيسية ...حول النباتات هي منتجات"
+
+msgid ""
+"Plants are <span class='key'>producers</span>, they make all the food and "
+"energy in an ecosystem. They are the solid foundation of all food chains and "
+"webs.  The energy that powers nearly all life on earth is generated on the "
+"surface of our sun, some 93 million miles away.  That energy streams at us "
+"constantly.  Even though very little of it actually strikes our small "
+"planet, it provides more than enough energy to keep all of the many billions "
+"of plants and animals around us alive."
+msgstr ""
+"النباتات هي <span class='key'>منتجات</span> ، لأنها تعمل جميع المواد "
+"الغذائية والطاقة في نظام بيئي.  هم أساس متين  لجميع السلاسل الغذائية "
+"والشبكات. الطاقة التي تزود ما يقرب من كل الحياة على الأرض تولدت على سطح "
+"شمسنا، نحو 93 مليون ميل.  تيارات هذه الطاقة في الولايات المتحدة باستمرار.  "
+"على الرغم من  وقوعها الفعلي على كوكبنا الصغير، فإنه يوفر أكثر من ما يكفي من "
+"الطاقة للحفاظ على كل المليارات من النباتات والحيوانات حولنا على قيد الحياة. "
+
+msgid ""
+"The solar energy is captured in the leaves and needles of green plants in a "
+"process called <span class='key'>photosynthesis</span>.  In this process, a "
+"substance called chlorophyll absorbs light energy, temporarily storing it by "
+"changing its own shape.  When the chlorophyll molecule springs back to its "
+"original shape, the energy is released to power a series of chemical "
+"reactions.  These reactions convert water and carbon dioxide into sugar and "
+"oxygen."
+msgstr ""
+"يتم التقاط الطاقة الشمسية في الأوراق والإبر من النباتات الخضراء في عملية "
+"تسمى <span class='key'>التركيب الضوئي</span> . في هذه العملية، مادة تسمى "
+"الكلوروفيل تمتص الطاقة الضوئية وتخزنها بشكل مؤقت عن طريق تغييرشكلها الخاص. "
+"عندما ينطلق جزيء الكلوروفيل يعود إلى شكله الأصلي، يتم تحرير الطاقة لتشغيل "
+"سلسلة من التفاعلات الكيميائية. هذه التفاعلات تحول الماء وثاني أكسيد الكربون "
+"إلى السكر والأكسجين ."
+
+msgid "Sunlight"
+msgstr "أشعة الشمس"
+
+msgid "Root"
+msgstr "جذور"
+
+msgid "Water"
+msgstr "ماء"
+
+msgid "Minerals"
+msgstr "معادن"
+
+msgid ""
+"The carbon dioxide is absorbed by the leaves directly from the air. The "
+"water is usually absorbed through roots and transported through the plant "
+"stem to the leaves. In photosynthesis, the carbon dioxide molecules are "
+"combined to form a six-carbon compound called <span class='key'>glucose</"
+"span>. The hydrogen atoms from water are attached to the chain to complete "
+"its structure. The leftover oxygen atoms are combined as molecules and then "
+"released."
+msgstr ""
+"يتم امتصاص ثاني أكسيد الكربون من الأوراق مباشرة من الهواء. عادة ما يتم "
+"امتصاص المياه من خلال الجذور ونقلها عبر جذع النبات إلى الأوراق. في عملية "
+"التمثيل الضوئي، يتم الجمع بين جزيئات ثاني أكسيد الكربون لتكوين مركب من ست- "
+"كربونات يسمى <span class='key'> الجلوكوز </span>.  وتلحق ذرات الهيدروجين من "
+"الماء إلى سلسلة لاستكمال هيكلها.  يتم الجمع بين ذرات الأكسجين لتكوين جزيئات "
+"ثم تُطلق. "
+
+msgid ""
+"Glucose may be used for energy directly or connected to other glucose "
+"molecules to form chains called carbohydrates. <span "
+"class='key'>Carbohydrates</span> are used for energy by nearly all living "
+"things.  The oxygen released by photosynthesis is also used by plants and "
+"animals to help unlock the energy stored in carbohydrates."
+msgstr ""
+"يمكن استخدام الجلوكوز للحصول على الطاقة بشكل مباشر أو متصلا بجزيئات جلوكوز "
+"أخرى لتشكيل سلاسل تسمى <span class='key'>الكربوهيدرات</span>.  الكربوهيدرات "
+"تستخدم للحصول على الطاقة من قبل ما يقرب من جميع الكائنات الحية.  الأوكسجين "
+"الصادر عن التمثيل الضوئي هو أيضاالذي تستخدمه النباتات والحيوانات للمساعدة في "
+"إطلاق الطاقة المخزونة في الكربوهيدرات ."
+
+# 5
+msgid ""
+"Question A. Which of the following is a \"waste product\" of photosynthesis?"
+msgstr "السؤال أ . أي من التالية هي من \"مخلفات\" التمثيل الضوئي؟"
+
+msgid "Sugar"
+msgstr "سكر"
+
+msgid "Question B. What is the source of energy for photosynthesis?"
+msgstr "السؤال ب . ما هو مصدر الطاقة للتمثيل الضوئي؟"
+
+msgid "Soil"
+msgstr "التربة"
+
+msgid "Sun"
+msgstr "الشمس"
+
+msgid "Plants"
+msgstr "النباتات"
+
+msgid "Nope. Water is used up in photosynthesis."
+msgstr "كلا. الماء يستخدم في التمثيل الضوئي"
+
+msgid ""
+"Yeah! Seems weird, but oxygen is actually a photosynthesis \"waste product.\""
+msgstr ""
+"نعم! قد يبدو هذا غريبا، لكن الأكسجين في الحقيقة هو من \"مخلفات\" التمثيل "
+"الضوئي."
+
+msgid "Sorry. Sugar is the main product of photosynthesis."
+msgstr "آسف . السكر هو المنتج الأساسي للتمثيل الضوئي"
+
+msgid "Naaaah. Sunlight is required to make photosynthesis work."
+msgstr "لااااااااااا. أشعة االشمس مطلوبة لانجاز أعمال التمثيل الضوئي"
+
+msgid "Sorry. The soil doesn't produce energy."
+msgstr "آسف ، التربة لا تنتج طاقة"
+
+msgid "Nope. Water isn't an energy source for plants."
+msgstr "لا، الماء ليس مصدر طاقة للنباتات"
+
+msgid "Yeah! Plants use solar energy to power photosynthesis."
+msgstr "نعم! النباتات تستخدم الطاقة الشمسية لامداد التمثيل الضوئي بالطاقة"
+
+msgid "Are you sure? Plants need energy for photosynthesis. Think again."
+msgstr "هل أنت متأكد؟ النباتات تحتاج الطاقة للتمثيل الضوئي . فكر مرة أخرى."
+
+# 6
+msgid "More core ideas... about plants are producers"
+msgstr "أفكار رئيسية أكثر ... حول النباتات هي منتجات"
+
+msgid ""
+"As a plant grows, it increases in size and mass. It draws very small amounts "
+"of minerals into its structure through its roots, but the vast majority of "
+"the material that makes up its structure consists of carbon dioxide and "
+"water.  The carbon dioxide is absorbed through openings in leaves or "
+"needles. Most plants absorb water through their roots from the surrounding "
+"soil."
+msgstr ""
+"عندما ينمو النبات، يزيد في الحجم والكتلة، تتسرب كميات صغيرة جدا من المعادن "
+"في هيكلها من خلال جذورها، ولكن الغالبية العظمى من المواد التي تشكل هيكلها "
+"تتكون من ثاني أكسيد الكربون والماء.  ويتم امتصاص ثاني أكسيد الكربون من خلال "
+"فتحات في الأوراق أو الإبر.  معظم النباتات تمتص الماء عبر جذورها من التربة "
+"المحيطة بها ."
+
+msgid ""
+"Photosynthesis captures solar energy and stores it in chemical bonds holding "
+"atoms to one another.  The end product of the process is glucose. Other "
+"chemical processes in the plant are able to combine glucose molecules into "
+"complex chemical structures called cellulose. <span class='key'>Cellulose</"
+"span> is a plant carbohydrate which provides the plant with both stored "
+"energy and a strong substance to help provide it with support."
+msgstr ""
+"التمثيل الضوئي يلتقط الطاقة الشمسية ويخزنها في الروابط الكيميائية عاقدا "
+"الذرات مع بعضها البعض. المنتج النهائي من هذه العملية هو الجلوكوز.  العمليات "
+"الكيميائية الأخرى في النبات  قادرة على الجمع بين جزيئات الجلوكوز في هياكل "
+"كيميائية معقدة تسمى <span class='key'>السليلوز</span>.  سيليلوز  هو "
+"الكربوهيدرات النباتية التي تزود النبتة بكل من الطاقة المخزونة ومادة قوية "
+"للمساعدة في توفير الدعم لها ."
+
+msgid ""
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"As the plant grows, it increases its total number of cells. This, in turn, "
+"increases the overall mass of cellulose. Even when plant cells die, the "
+"cellulose that surrounded them remains intact. In trees, this remaining "
+"cellulose makes up what we know as wood. Every year of a tree's life, a new "
+"layer of wood is laid down, increasing the mass and strength of the tree as "
+"a whole."
+msgstr ""
+"السيليلوز هوالمكون الرئيسي للجدران المحيطة بكل الخلايا النباتية. عندما ينمو "
+"النبات،  يزيد العدد الإجمالي للخلايا، وهذا، بدوره، يزيد من الكتلة الإجمالية "
+"للسليلوز. حتى عندما تموت الخلايا النباتية، يبقى السليلوزالمحيط بها سليما.  "
+"في الأشجار، السليلوز المتبقي يشكل ما نعرفه بالخشب. كل سنة من حياة الشجرة، "
+"توضع طبقة جديدة من الخشب، تزيد كتلة وقوة الشجرة ككل. "
+
+msgid "Arrangement of Cellulose in Cell Walls"
+msgstr "ترتيب السليولوز في جدران الخلايا"
+
+msgid "Cellulose in Plant Cell Walls"
+msgstr "السليلوز في جدران خلية النبات"
+
+msgid "Cell wall"
+msgstr "الجدار الخلوي"
+
+msgid "Plant cell"
+msgstr "خلية نباتية"
+
+msgid "Cellulose"
+msgstr "السيليلوز"
+
+msgid ""
+"Cellulose is also the <span class='key'>fiber</span> found in other types of "
+"plants. It is the fiber in the boll of the cotton flower. It is the stringy "
+"material in celery.  It makes up most of the structure of lettuce leaves. "
+"Cellulose is used for many purposes.  Trees are cut down and lumber is sawn "
+"for homes and furniture.  Wood can also be crushed and mixed with water to "
+"make paper and cardboard. Cellulose fibers from many plants are woven "
+"together to make cloth."
+msgstr ""
+"سيليلوز هو أيضا <span class='key'>الألياف</span> التي توجد في أنواع أخرى من "
+"النباتات، وهي الألياف في الكيس من زهرة القطن، وهي مادة المفتولة  في الكرفس، "
+"وتشكل معظم هيكل أوراق الخس.  يستخدم السليلوز لأغراض كثيرة. يتم قطع الأشجار و "
+"ينشر الخشب  للمنازل والأثاث. كما يمكن سحق الخشب ويخلط مع الماء لعمل الورق "
+"والكرتون. تُنسج ألياف السليلوز من العديد من النباتات معا لعمل القماش ."
+
+msgid ""
+"Many animals graze on grasses and other plant material for food. These "
+"animals are able to digest cellulose as a direct energy source. <span "
+"class='key'>Humans</span> lack the ability to do so, but still require large "
+"amounts of cellulose in our diets.  For us, cellulose provides the rough "
+"fiber material required for the efficient digestion of the materials we do "
+"use for energy."
+msgstr ""
+"كثير من الحيوانات ترعى على الأعشاب والمواد النباتية الأخرى للغذاء. هذه "
+"الحيوانات قادرة على هضم السليلوز كمصدر للطاقة مباشرة.  <span "
+"class='key'>البشر</span> يفتقرون إلى القدرة على القيام بذلك، ولكن لا نزال "
+"نتطلب كميات كبيرة من السليلوز في وجباتنا الغذائية.  بالنسبة لنا، يوفر "
+"السليولوز المواد الخام والألياف اللازمة لكفاءة عملية هضم  المواد التي "
+"نستخدمها للحصول على الطاقة ."
+
+# 7
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> a "
+"common use of cellulose?"
+msgstr ""
+"السؤال أ . أي من التالية <span class='blink'>ليست</span> من استخدامات "
+"السيليلوز؟"
+
+msgid "Human dietary energy."
+msgstr "طاقة الانسان الغذائية"
+
+msgid "Wood for houses."
+msgstr "الخشب للبيوت"
+
+msgid "Source material for paper."
+msgstr "مصدر مادة للورق"
+
+msgid "Food for grazing animals."
+msgstr "طعام للحيوانات الرعوية."
+
+msgid "Question B. The majority of a large tree's mass and volume is..."
+msgstr "السؤال ب . أغلبية حجم و كتلة شجرة كبيرة هي ..."
+
+msgid "Simple sugars"
+msgstr "السكريات البسيطة"
+
+msgid "Protein"
+msgstr "البروتين"
+
+msgid "Fats"
+msgstr "الدهون"
+
+msgid "Select the answer by rotating the 3D box below."
+msgstr "اختر الاجابة عن طريق تدوير الصندوق ثلاثي الأبعاد"
+
+msgid "That's correct! Humans are unable to digest cellulose."
+msgstr "هذا صحيح! البشر غير قادرين على هضم السليلوز"
+
+msgid ""
+"Sorry, that's a major use. Most of our homes are built of plant material."
+msgstr "آسف . هذا استخدام كبير. معظم بيوتنا مبنية من مادة نباتية"
+
+msgid ""
+"Nope, that's a common use. When you're writing on paper, you're writing on "
+"wood."
+msgstr ""
+"لااااااا. هذا استخدام شائع.  عندما تكتب على الورق، فأنت تكتب على الخشب."
+
+msgid ""
+"Sorry, that's an important use. Grazers are able to digest cellulose for "
+"food."
+msgstr "آسف، هذا استخدام مهم، الرعويات قادرة على هضم السيليلوز للغذاء"
+
+msgid "That's right! Wood is made of cellulose."
+msgstr "هذا صحيح! الخشب مصنوع من السيليلوز"
+
+msgid ""
+"No... Simple sugars are part of the story, but not the main component of "
+"wood."
+msgstr ""
+"لا... السكريات البسيطة هي جزء من القصة، ولكنها ليست المكون الرئيسي للخشب"
+
+msgid "There's actually very little protein in a tree."
+msgstr "في الحقيقة هناك كمية قليلة من البروتين في الشجرة"
+
+msgid "Nope. Not much fat in a tree."
+msgstr "لا. ليس هناك الكثير من الدهون في الشجرة"
+
+# 8
+msgid ""
+"As an example, we will look at a plant producer and its effects on the "
+"environment."
+msgstr "كمثال، سوف ننظر الى مُنْتَج نباتي و تأثيراتها على البيئة"
+
+msgid ""
+"Redwoods can grow to be the tallest and largest trees in the world. They "
+"start as tiny seeds and, thanks to solar energy and photosynthesis, they "
+"work their way up.  It takes a lot of food to grow hundreds of feet tall.  "
+"Like all plants, redwoods grow in three directions at once.  The stem, or "
+"trunk, of the tree grows upward.  The roots grow downward.  As the tree "
+"ages, the trunk also grows outward, forming a new ring of wood for each year "
+"the tree is alive."
+msgstr ""
+"أشجار الخشب الأحمر يمكن أن تنمو لتصبح أطول و أكبر الأشجار في العالم تبدأ "
+"كبذور صغيرة ، شكرا للطاقة الشمسية و التمثيل الضوئي التي تعمل للوصل بها الى "
+"ذلك. إنها تأخذ الكثير من الغذاء لتنمو مئات الأمتار للأعلى، ككل النباتات، "
+"أشجار الخشب الأحمر تنمو في ثلاث إتجاهات في نفس الوقت . الجذع أو الساق للشجرة "
+"ينموان للأعلى. الجذور تنمو للأسفل. عندما تعمر الشجرة الساق ينمو للخارج مشكلا "
+"حلقة خشبية جديدة لكل سنة تعيشها الشجرة."
+
+msgid ""
+"Scientists measure every aspect they can of the redwood trees in the forest "
+"and reconstruct the tree in three dimensions on the computer to find out the "
+"information they cannot get from measuring the outside of the tree. Every "
+"year scientists remeasure the specific trees and examine how they have "
+"changed. They also have sensors installed to measure light, temperature, "
+"humidity, wind, and sap flow. Their goal is to learn how these ancient "
+"giants have historically responded to climatic shifts and to monitor how "
+"they are being impacted today by global warming."
+msgstr ""
+"يقيس العلماء كل ما في وسعهم من أشجار الخشب الأحمر في الغابات ويعيدون بناء "
+"شجرة ثلاثية الأبعاد على الكمبيوتر لمعرفة المعلومات التي لا يمكن الحصول عليها "
+"من قياس خارج شجرة . كل سنة العلماء يعيدون قياس أشجار محددة ودراسة كيف تغيرت. "
+"كما أنهم ثبتوا أجهزة الاستشعار لقياس الضوء ودرجة الحرارة والرطوبة والرياح "
+"وتدفق النسغ. هدفهم هو أن نتعلم كيف استجابت  تاريخيا هذه الشجرات العملاقة  "
+"للتغيرات المناخية ورصد كيف تأثرت اليوم بظاهرة الاحتباس الحراري  ."
+
+msgid ""
+"Many things can impact the growth of redwoods, and anything that does must "
+"also cause changes in the unique food webs they support. Like all producers, "
+"redwood trees support a food web. Their food webs involve plants and animals "
+"who spend their entire lives living high above the ground. Researchers in "
+"California have discovered what they call \"aerial gardens.\" More than 200 "
+"feet above the forest floor in redwood country, huge limbs jut out from 1000-"
+"year old trees. These limbs are so large that needles, moss, and other "
+"debris that fall on them never fall to the ground. They pile up and decay, "
+"becoming a type of soil after only a few years."
+msgstr ""
+"أشياء كثيرة يمكن أن تؤثر على نمو الخشب الأحمر، وأي شيء  يفعل ذلك  يجب أيضا "
+"أن يسبب تغيرات في الشبكات الغذائية الفريدة التي تدعمها. مثل كل المنتجات، "
+"أشجار الخشب الأحمر تدعم شبكة غذائية. شبكاتها الغذائية تنطوي على النباتات "
+"والحيوانات التي تقضي حياتها بأكملها تعيش في الأعلى  فوق سطح الأرض.  وقد "
+"اكتشف الباحثون في كاليفورنيا ما يسمونه \"الحدائق الجوية.\" أكثر من 200 قدم "
+"فوق أرض الغابة في بلد الخشب الأحمر، برزت أطراف ضخمة خارجة من الأشجار التي "
+"تعيش لمدة 1000 عام.   وهذه الأطراف هي من الضخامة بحيث الإبر، والطحالب ، "
+"وغيرها من الحطام التي تقع عليها أبدا لا تسقط على الأرض، وهي تتراكم وتضمحل، "
+"وتصبح نوع من التربة بعد بضع سنوات فقط ."
+
+msgid ""
+"When this happens, seeds from a variety of plants, lifted into the air by "
+"winds or dropped by birds and other animals, sprout and begin to grow. After "
+"a few years, shrubs and even small trees are able to grow hundreds of feet "
+"above the ground. These \"gardens\" attract animals like squirrels, "
+"salamanders, and many birds who may spend their entire lives high above the "
+"ground."
+msgstr ""
+"وعندما يحدث ذلك، البذور من مجموعة متنوعة من النباتات، ترفع في الهواء بفعل "
+"الرياح أو تنحدر بفعل الطيور وغيرها من الحيوانات، تنبت وتبدأ في النمو بعد "
+"سنوات قليلة، والشجيرات، وحتى الأشجار الصغيرة هي قادرة على النمو مئات الأقدام "
+"فوق الأرض.  هذه \"الحدائق\" تجذب الحيوانات مثل السناجب، والسلمندر، والعديد "
+"من الطيور التي يمكن أن تقضي حياتها بأكملها في الأعلى فوق سطح الأرض ."
+
+# 9
+msgid "Question A. What are the producers in redwood forests?"
+msgstr "السؤال أ. ما هي المنتجات في غابات الخشب الأحمر؟"
+
+msgid "Redwood trees only"
+msgstr "أشجار الخشب الأحمر فقط"
+
+msgid "Redwood trees and all other green plants"
+msgstr "أشجار الخشب الأحمر و كل النباتات الخضراء الأخرى"
+
+msgid "Mosses and squirrels"
+msgstr "الطحالب والسناجب"
+
+msgid "Ground-dwelling ferns and salamanders"
+msgstr "السراخس الأرضية والسلمندر"
+
+msgid ""
+"Question B. In redwood forests, the process responsible for energy "
+"production is..."
+msgstr ""
+"السؤال ب . في غابات الخشب الأحمر ، العملية المسؤولة عن انتاج الطاقة هي ... "
+
+msgid "Cellular respiration"
+msgstr "التنفس الخلوي"
+
+msgid "Photosynthesis"
+msgstr "التمثيل الضوئي"
+
+msgid "Metabolism"
+msgstr "الأيض"
+
+msgid "Primary growth"
+msgstr "النمو الأولي"
+
+msgid "Think about it...  Are there any other green plants?"
+msgstr "فكر فيها... هل هناك أي نباتات خضراء أخرى؟"
+
+msgid "Correct! All green plants are producers."
+msgstr "صحيح! كل النباتات الخضراء هي منتجات"
+
+msgid "Hmmmm...  Are squirrels green plants?"
+msgstr "همممممم...هل السناجب نباتات خضراء؟"
+
+msgid "Salamanders? Really? Let's think about green plants."
+msgstr "السلمندر؟ حقا؟ دعنا نفكر بالنباتات الخضراء"
+
+msgid "Sorry.  That's how energy is released."
+msgstr "آسف.  هكذا يتم إطلاق الطاقة."
+
+msgid "Yes! Photosynthesis is the process in all producers."
+msgstr "نعم! التمثيل الضوئي هي عملية في كل المنتجات."
+
+msgid "Not quite. Metabolism refers to all cellular processes."
+msgstr "ليس تماما . الأيض تشير الى كل العمليات الخلوية."
+
+msgid "No. Photosynthesis provides energy to power primary growth."
+msgstr "لا. التمثيل الضوئي تزود النمو الأولي بالطاقة."
+
+# 10
+msgid ""
+"All <span class='key'>food webs</span> are built upon producers, the green "
+"plants that convert solar energy into the fuel for all types of life on "
+"Earth. Any system may have one or more producers providing food and oxygen "
+"for any possible number of <span class='key'>consumers</span>. The consumers "
+"can be any combination of <span class='key'>first-order</span> and higher-"
+"order and, of course, the decomposers complete the process."
+msgstr ""
+"جميع <span class='key'>الشبكات الغذائية </span> مبنية على المنتجات، "
+"والنباتات الخضراء التي تحول الطاقة الشمسية إلى وقود لجميع أنواع الحياة على "
+"الأرض. قد يحتوي أي نظام على واحد أو أكثر من المنتجين يوفرون الغذاء و "
+"الأكسجين لأي عدد ممكن من <span class='key'>المستهلكات</span> . ويمكن "
+"للمستهلكات أن تكون أي مزيج من <span class='key'>الدرجة الأولى </span> و "
+"الدرجة العليا، وبالطبع،المحللات تكمل العملية. "
+
+msgid ""
+"Plants absorb carbon dioxide from the air and combine it with water to store "
+"the sun's energy in the chemical bonds of sugar.  The leftover oxygen "
+"produced is released.  That's photosynthesis, and it's the basis for nearly "
+"all life on earth. The food we eat is built on carbon that was once in the "
+"air.  The clothing we wear is built on carbon that was once in the air.  The "
+"wood in our houses is built on carbon that was once in the air. The fuel in "
+"our cars is built on carbon that was once in the air."
+msgstr ""
+"تمتص النباتات ثاني أكسيد الكربون من الجو وتدمجه مع الماء لتخزين الطاقة "
+"الشمسية في الروابط الكيميائية من السكر.  يتم تحرير الأكسجين المتبقي. هذا "
+"التمثيل الضوئي، وهي الأساس لما يقرب كل الحياة على الأرض. الطعام الذي نأكله "
+"هو مبني على الكربون الذي كان يوما ما في الهواء.  بنيت الملابس التي نرتديها "
+"على الكربون الذي كان يوما ما في الهواء. الخشب في بيوتنا مبني على الكربون "
+"الذي كان يوما ما في الهواء. الوقود في سياراتنا  مبني على أن الكربون الذي "
+"كان  يوما ما في الهواء ."
+
+msgid ""
+"Photosynthesis drives this entire process. However simple or complex a local "
+"food web is, the energy that supports it is trapped by plants and stored in "
+"carbohydrates. At every level of the process, a small amount of the stored "
+"energy is transmitted into the next higher level.  As complicated as this "
+"may appear, it's useful to always remember that food webs are a type of "
+"puzzle. They can be organized in more than one way,  analyzed from different "
+"perspectives, and seem to need updates every time we take a close look at an "
+"ecosystem and find something new. But it's still a puzzle; beautiful, "
+"frustrating, and fascinating all at the same time."
+msgstr ""
+"التمثيل الضوئي يدفع هذه العملية برمتها. بالرغم من بساطة أو تعقيد الشبكة "
+"الغذائية المحلية، الطاقة التي تدعمها محاصرة من قبل النباتات وتخزن في "
+"الكربوهيدرات. في كل مستوى من مستويات العملية، كمية صغيرة من الطاقة المخزنة "
+"تبث في المستوى الأعلى القادم.  كعملية معقدة كما تظهر عليه، فإن من المفيد أن "
+"نتذكر دائما أن الشبكات الغذائية هي نوع من الألغاز.  يمكن تنظيمها في أكثر من "
+"طريقة واحدة، وتحليلها من زوايا مختلفة، وتبدو في حاجة إلى التحديثات في كل "
+"مرة  نلقي نظرة قريبة على النظام البيئي وتجد شيئا جديدا ولكن ما زال لغزا "
+"محيرا؛ جميلاً، محبطا، ورائعاً  بنفس الوقت ."
+
+msgid "Example of a Food Web"
+msgstr "مثال على السلسلة الغذائية"
+
+# 11
+msgid ""
+"Question A. The flowchart below represents the process of photosynthesis. "
+"Click on the activity that occurs after the first activity."
+msgstr ""
+"السؤال أ. المخطط أدناه يمثل عملية التمثيل الضوئي. انقر على النشاط الذي يحدث "
+"بعد النشاط الأول."
+
+msgid "Light Energy is absorbed by plants."
+msgstr "الطاقة الضوئية تمتص من قبل النباتات."
+
+msgid "Plants are eaten by animals for food."
+msgstr "تؤكل النباتات من قبل الحيوانات كغذاء."
+
+msgid "Carbon dioxide and water are used to make sugar."
+msgstr "يستعمل ثاني أكسيد الكربون و الماء لصنع السكر."
+
+msgid "Plants release water into the soil."
+msgstr "تطلق النباتات الماء في التربة"
+
+msgid "Animals breathe out carbon dioxide."
+msgstr "تطلق الحيوانات ثاني أكسيد الكربون عند التنفس."
+
+msgid "Oxygen is released."
+msgstr "يطلق الاكسجين."
+
+msgid ""
+"Question B. Butterflies get food from the flowers of a plant. They also lay "
+"their eggs on the leaves of the plant. As the caterpillars develop, they eat "
+"the leaves of the plant. How does the plant benefit from the butterflies?"
+msgstr ""
+"سؤال ب. تحصل الفراشات على الغذاء من زهور النباتات، وهي تضع بيضها أيضا على "
+"أوراق النبات. ومع تطور اليرقات، فإنها تأكل أوراق النبات. كيف تستفيد النباتات "
+"من الفراشات؟"
+
+msgid "Butterflies help the plant grow larger flowers."
+msgstr "تساعد الفراشات النباتات على أن تنمو الزهور بشكل أكبر."
+
+msgid "Butterflies' eggs help the leaves to fall off the plant."
+msgstr "بيض الفراشات يساعد أوراق النبات على التساقط."
+
+msgid "Butterflies help pollinate flowers so that seeds can form."
+msgstr "الفراشات تساعد على  تلقيح الزهور بحيث يمكن أن تتشكل البذور."
+
+msgid "Butterflies help add nutrients to the nectar of the flowers."
+msgstr "الفراشات تساعد في اضافة المواد المعدنية لرحيق الزهور."
+
+msgid "No. Butterflies actually eat food made by flowers."
+msgstr "لا.  الفراشات في الحقيقة تأكل الغذاء الذي تصنعه الزهور."
+
+msgid "Sorry. The eggs don't weigh much at all."
+msgstr "آسف . البيوض لا تزن كثيرا أبدا"
+
+msgid ""
+"Nice! As butterflies move from flower to flower, they carry pollen along."
+msgstr ""
+"جميل جداً! حالما تتحرك الفراشات من زهرة الى أخرى، تحمل حبوب اللقاح بعيدا."
+
+msgid "Nope. The butterflies take the nectar away from the flowers."
+msgstr "كلا.  الفراشات تأخذ الرحيق من الزهور."
+
+msgid "Sorry. Plant eating isn't a part of photosynthesis."
+msgstr "آسف . أكل النبات ليس جزءاً من التمثيل الضوئي."
+
+msgid ""
+"That's it! The light energy is used to make sugar from carbon dioxide and "
+"water."
+msgstr ""
+"هذه هي ! الطاقة الشمسية تستخدم لعمل السكر من ثاني أكسيد الكربون و الماء."
+
+msgid "Um, no... Plants absorb water from soil."
+msgstr "أمممم، لا ... النبات يمتص الماء من التربة"
+
+msgid "Nope. OK, it's true... but not part of photosynthesis."
+msgstr "كلا. حسنا، هذه حقيقة ... لكنها ليست جزءاً من التمثيل الضوئي."
+
+# 12
+msgid "Using what you know... about plants are producers... to solve a problem"
+msgstr "استخدم ما تعرفه... حول النباتات هي منتجات ... لحل مشكلة"
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid ""
+"You are an ecologist, a biologist who studies the relation between organisms "
+"and their environment. A company is building a shopping center in an area "
+"that was once a forest. They will need to destroy one acre of what is left "
+"of the forest for their project. The company has hired you as a consultant "
+"on the project."
+msgstr ""
+"أنت خبير في شؤون البيئة، عالم الأحياء الذي يدرس العلاقة بين الكائنات الحية "
+"وبيئاتها.  شركة تقوم ببناء مركز تجاري في المنطقة التي كانت ذات يوم غابة، "
+"وسوف تحتاج إلى تدمير فدان واحد مما تبقى من الغابات الخاصة بمشروعهم.  وظفتك "
+"الشركة لتكون مستشارا في المشروع ."
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid ""
+"You are to give a report on how removing the trees will affect the "
+"environment. Using what you now know about plants as producers in the food "
+"web, offer some suggestions on how the company can have positive impacts on "
+"the environment."
+msgstr ""
+"أنت توشك  على اعطاء تقرير عن كيف أن إزالة الأشجار سوف يؤثر على البيئة.  "
+"باستخدام ما تعرفه الآن عن النباتات والمنتجات في الشبكة الغذائية، قدم بعض "
+"الاقتراحات حول كيف يمكن للشركة أن يكون لها آثار إيجابية على البيئة."
+
+# 13
+msgid "Summarizing core ideas... about plants are producers"
+msgstr "تلخيص الأفكار الرئيسية حول ... النباتات هي منتجات"
+
+msgid ""
+"Plants absorb energy directly from the sun. They use that energy to power "
+"<span class='key'>photosynthesis</span>, the process that combines carbon "
+"dioxide and water to form sugar. Green plants capable of photosynthesis are "
+"said to be <span class='key'>producers</span>. They are the base of the "
+"<span class='key'>food web</span>, the system of interactions between plants "
+"and <span class='key'>consumers</span>, the animals who consume the plants "
+"for food.  <span class='key'>First-order consumers</span> are animals who "
+"consume only plant material for food. Second-order consumers get their food "
+"by eating first-order consumers. Food webs are such complex sets of "
+"interactions that the loss of any part of the web can cause it to collapse. "
+"When this happens, some species may become extinct."
+msgstr ""
+"النباتات تمتص الطاقة مباشرة من الشمس. إنها تستخدم تلك الطاقة لعملية <span "
+"class='key'>التمثيل الضوئي </span>، العملية التي تجمع بين ثاني أكسيد الكربون "
+"والماء لتكوين السكر.  ويقال النباتات الخضراء قادرة على التمثيل الضوئي أن "
+"تكون <span class='key'>منتجات</span>.  وهي قاعدة <span class='key'>الشبكة "
+"الغذائية</span>،  نظام تفاعل بين النباتات و <span class='key'>المستهلكات</"
+"span>، والحيوانات التي تستهلك النباتات من أجل الغذاء.  <span "
+"class='key'>مستهلكات درجة أولى </span>هي حيوانات تستهلك المواد النباتية فقط "
+"للغذاء.ا  أما مستهلكات الدرجة- الثانية فتحصل على طعامها من خلال تناول "
+"المستهلكات من الدرجة - الأولى .  الشبكات الغذائية هي مجموعات من تفاعلات "
+"معقدة حيث أن فقدان أي جزء من الشبكة يمكن أن يؤدي إلى الانهيار. وعندما يحدث "
+"ذلك، قد تصبح بعض الأنواع منقرضة. "
+
+msgid ""
+"Photosynthesis combines water and carbon dioxide to form <span "
+"class='key'>simple sugars</span>. Simple sugars may then be combined to form "
+"complex <span class='key'>carbohydrates</span> like starch and <span "
+"class='key'>cellulose</span>. <span class='key'>Humans</span> are unable to "
+"digest cellulose as food, but make use of its fibers in such products as "
+"paper, cloth and wood."
+msgstr ""
+"التمثيل الضوئي يجمع بين الماء وثاني أكسيد الكربون لتكوين <span "
+"class='key'>السكريات البسيطة</span>.  قد تتجمع  السكريات البسيطة لاحقا "
+"لتكوين <span class='key'>الكربوهيدرات</span> المعقدة مثل النشا و <span "
+"class='key'>السليلوز</span>.  <span class='key'>البشر </span> لا يستطيعون "
+"هضم السليلوز كغذاء، ولكن يمكن الاستفادة من أليافها في منتجات مثل الورق "
+"والقماش و الخشب ."
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا كي تبدأ بطباعة إجابتك..."
+
+# 14
+msgid "Reviewing key vocabulary related to... plants are producers"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ب ... النباتات هي منتجات"
+
+msgid "Producers"
+msgstr "المنتجات"
+
+msgid ""
+"Producers are organisms, such as plants, that obtain their food through the "
+"process of photosynthesis. Producers use the energy of sunlight to produce "
+"sugar, which is used as energy for survival and reproduction. Because they "
+"do not consume other organisms but instead are consumed by others, producers "
+"are at the bottom of the food chain."
+msgstr ""
+"المنتجات هي كائنات حية، مثل النباتات، التي تحصل على غذائها من خلال عملية "
+"التمثيل الضوئي.  تستخدم المنتجات الطاقة من أشعة الشمس لإنتاج السكر، والذي "
+"يستخدم كمصدر من مصادر الطاقة من أجل البقاء والتكاثر.  لأنها لا تستهلك "
+"الكائنات الحية الأخرى ولكن بدلا من ذلك يتم استهلاكها من قبل المنتجات الأخرى "
+"وهي في أسفل السلسلة الغذائية ."
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"التمثيل الضوئي ، العملية التي من خلالها تحصل المنتجات مثل النبات على طاقتها، "
+"باستخدام الطاقة الضوئية لتحويل ثاني أكسيد الكربون و الماء الى سكر و أكسجين."
+
+msgid "Glucose"
+msgstr "الجلوكوز"
+
+msgid ""
+"In photosynthesis, the carbon dioxide molecules are combined to form a six-"
+"carbon compound called glucose. Glucose is a simple sugar used to store "
+"energy."
+msgstr ""
+"في التمثيل الضوئي ، تجتمع جزيئات ثاني أكسيد الكربون لتشكل مركبات ذات الستة- "
+"كربونات التي تسمى الجلوكوز. الجلوكوز هو سكريات بسيطة تستخدم لتخزين الطاقة"
+
+msgid "Carbohydrates"
+msgstr "الكربوهايدرات"
+
+msgid ""
+"Glucose may be used for energy directly, or connected to other glucose "
+"molecules to form chains called carbohydrates.  Carbohydrates are used for "
+"energy by nearly all living things.  The oxygen released by photosynthesis "
+"is also used by plants and animals to help unlock the energy stored in "
+"carbohydrates.  Grains are examples of foods that are high in carbohydrates."
+msgstr ""
+"يمكن استخدام الجلوكوز للحصول على الطاقة بشكل مباشر، أو متصلا بجزيئات جلوكوز "
+"أخرى لتشكيل سلاسل تسمى الكربوهيدرات.  تستخدم الكربوهيدرات للطاقة من قبل ما "
+"يقرب من جميع الكائنات الحية.  يتم استخدام الأكسجين الصادر عن التمثيل الضوئي "
+"أيضا من النباتات والحيوانات للمساعدة في إطلاق الطاقة المخزنة في "
+"الكربوهيدرات.  الحبوب هي أمثلة على الأطعمة التي هي عالية في الكربوهيدرات ."
+
+msgid ""
+"Cellulose is a plant carbohydrate which provides the plant with both stored "
+"energy and acts as a strong substance to help provide it with support. "
+"Cellulose is the chief component of the walls surrounding every plant cell. "
+"The purest natural form of cellulose is cotton."
+msgstr ""
+"السيللوز هو الكربوهيدرات النباتية التي تزود النبات بالطاقة المخزونة ويعمل "
+"كمادة قوية للمساعدة في توفيرها . السليلوز هو مكون رئيس من الجدران المحيطة "
+"بكل الخلايا النباتية. أنقى أشكال السليلوز الطبيعي هو القطن."
+
+msgid "Fiber"
+msgstr "الألياف"
+
+msgid ""
+"Cellulose is also the fiber, or tough thread-like substance, found in other "
+"types of plants. It is the fiber in the boll of the cotton flower."
+msgstr ""
+"السيلولوز هو أيضا من الألياف، أو مادة قاسية تشبه الخيط، وجدت في أنواع أخرى "
+"من النباتات، هي الألياف في الكيس من زهرة القطن."
+
+# 15
+msgid "Checking what you now know... about plants are producers"
+msgstr "تفحص ما تعرفه ...حول النباتات هي منتجات"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختبار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+# 16
+msgid "If all green plants died, would lions survive?"
+msgstr "اذا ماتت كل النباتات الخضراء ، هل ستبقى الأسود حية؟"
+
+msgid "Yes, lions do not eat green plants."
+msgstr "نعم . الأسود لا تأكل النباتات الخضراء"
+
+msgid "Yes, lions could still eat other animals."
+msgstr "نعم . ما زالت الأسود قادرة على أكل حيوانات أخرى"
+
+msgid "No, the animals that lions eat need to eat green plants."
+msgstr "لا . الحيوانات التي تتناولها الأسود تحتاج لأن تأكل نباتات خضراء"
+
+msgid "No, they would have no more plants to eat."
+msgstr "لا، لن يكون  لديها أي نباتات لتناولها."
+
+msgid ""
+"No, although lions do not eat green plants, they eat animals that do. "
+"Without any green plants, there would be no animals for lions to eat."
+msgstr ""
+"لا، على الرغم من أن الأسود لا تأكل النباتات الخضراء، الا أنها تأكل الحيوانات "
+"التي تأكلها .  بدون أي نباتات خضراء، لن يكون هناك أي حيوانات  لتتناولها "
+"الأسود كاطعام."
+
+msgid ""
+"Not quite, there wouldn't be any other animals for lions to eat because they "
+"would not have any plants as food, and would not survive."
+msgstr ""
+"ليس تماما، لن يكون هناك أي حيوانات أخرى للأسود لتتناولها كطعام لأنها لن يكون "
+"لها أي نباتات كغذاء، ولن تبقى على قيد الحياة."
+
+msgid ""
+"Correct. Lions are carnivores and eat animals. The animals they eat need "
+"plants to survive."
+msgstr ""
+"صحيح. الأسود هي حيوانات آكلة اللحوم وتأكل الحيوانات. الحيوانات التي تأكلها "
+"الأسود تحتاج الى النباتات للبقاء على قيد الحياة."
+
+msgid ""
+"Not quite, lions are carnivores, so they only indirectly eat plants. They "
+"eat animals that eat plants to survive."
+msgstr ""
+"ليس تماما، الأسود هي حيوانات آكلة للحوم، لذلك هي فقط بشكل غير مباشر تأكل "
+"النباتات. وبذا هي تأكل الحيوانات التي تأكل النباتات من أجل البقاء."
+
+# 17
+msgid ""
+"All food webs share what common feature? Rotate or flip the 3D box below "
+"either up or down to set your answer."
+msgstr ""
+"كل الشبكات الغذائية تتشارك بأي سمة مشتركة؟ دورأو اقلب  الصندوق ثلاثي الأبعاد "
+"أدناه إما لأعلى أو لأسفل لتحديد الإجابة."
+
+msgid "Carnivores"
+msgstr "آكلات اللحوم"
+
+msgid "Second-order consumers"
+msgstr "مستهلكات درجة ثانية "
+
+msgid "Birds"
+msgstr "الطيور"
+
+msgid "Nope. Carnivores are not required."
+msgstr "كلا. آكلات اللحوم ليست مطلوبة"
+
+msgid "Sorry...  Second-order consumers show up a lot, but aren't required."
+msgstr "آسف ... تظهر المستهلكات من الدرجة الثانية بشكلٍ متكرر، ولكن ليس مطلوبا."
+
+msgid "Hmm... Food webs can happen under water.  No birds."
+msgstr "هممم...الشبكات الغذائية يمكن أن تحدث تحت الماء.  لا عصافير"
+
+msgid "There you go! All food webs are based on producers."
+msgstr "ها أنت ذا! كل الشبكات الجيدة معتمدة على المنتجات"
+
+# 18
+msgid "Choose the <span class='blink'>correct</span> statement..."
+msgstr "اختر العبارة <span class='blink'>الصحيحة</span> "
+
+msgid "Cellulose is made by plants from oxygen and sulfur."
+msgstr "السيليلوز يصنع من قبل النبات باستخدام الأكسجين و الكبريت"
+
+msgid "Photosynthesis uses the sun's energy to make complex molecules."
+msgstr "التمثيل الضوئي يستخدم طاقة الشمس لعمل جزيئات معقدة."
+
+msgid "Photosynthesis breaks down complex molecules to release energy."
+msgstr "التمثيل الضوئي يكسر الجزيئات المعقدة لإطلاق الطاقة."
+
+msgid "Cellulose is an important plant protein used for movement."
+msgstr "السيلولوز هو البروتينات النباتية الهامة المستخدمة للحركة."
+
+msgid "Sorry. Cellulose doesn't include any sulfur."
+msgstr "عذرا .  لا يتضمن السيلولوز أي الكبريت."
+
+msgid ""
+"Good job! Photosynthesis captures solar energy for living things to use."
+msgstr "عمل جيد! التمثيل الضوئي يلتقط الطاقة الشمسية للأشياء الحية لتستخدمها."
+
+msgid "No... Photosynthesis stores energy."
+msgstr "لا...البناء الضوئي يخزن الطاقة."
+
+msgid "Not this one... Cellulose isn't a protein, it's a carbohydrate."
+msgstr "ليست هذه... السيليلوز ليس بروتين، انه كربوهيدرات"
+
+# 19
+msgid ""
+"The source for the carbon needed to make simple sugars in photosynthesis "
+"is..."
+msgstr "مصدر الكربون المطلوب لعمل السكريات البسيطة في البناء الضوئي هو .."
+
+msgid "Air"
+msgstr "هواء"
+
+msgid "Animals"
+msgstr "حيوانات"
+
+msgid "Right! Photosynthesis combines carbon dioxide molecules to make sugar."
+msgstr "صحيح! يجمع التمثيل الضوئي جزيئات الكربون لعمل السكر"
+
+msgid "Sorry. Water doesn't contain carbon."
+msgstr "آسف . الماء لا يحتوي على كربون"
+
+msgid "No. Plants don't absorb much carbon from soil."
+msgstr "لا. النبات لا يمتص ثاني أكسيد الكربون أكثر من التربة"
+
+msgid "Animals are consumers. Try again."
+msgstr "الحيوانات هي مستهلكات .  حاول مجددا"
+
+# 20
+msgid ""
+"Which of the following is <span class='blink'>not</span> a cellulose product?"
+msgstr "أي من التالية <span class='blink'>ليس</span> منتج سيلولوزي؟"
+
+msgid "Wood"
+msgstr "خشب"
+
+msgid "Scrambled Egg"
+msgstr "بيض مخفوق"
+
+msgid "Cotton Cloth"
+msgstr "ملابس قطنية"
+
+msgid "Paper"
+msgstr "ورق"
+
+msgid "Sorry.  Wood is a cellulose product."
+msgstr "آسف . الخشب منتج سيلولوزي"
+
+msgid "There you go! Scrambled eggs have no cellulose."
+msgstr "ها أنت ذا! البيض المخفوق ليس فيه سليلوز."
+
+msgid "Nope. Cotton bolls are pure cellulose."
+msgstr "كلا.  كرات القطن هي سليلوز نقي."
+
+msgid "No. Paper is a wood/water product."
+msgstr "لا.  الورق هو منتج خشبي / مائي."
+
+# 21
+msgid ""
+"Look at the diagram showing the results of an experiment of increasing the "
+"level of carbon dioxide and its effect on plant growth. Then click on the "
+"statement that you infer from analyzing the data in the bar graph below. "
+"(Suboptimal means less than optimal amount of  water.)"
+msgstr ""
+"انظر إلى الرسم البياني الذي يبين نتائج تجربة زيادة مستوى ثاني أكسيد الكربون "
+"وتأثيره على نمو النبات.  ثم انقر على الجملة التي قمت باستنتاجها من تحليل "
+"البيانات في الرسم البياني أدناه  (غير الأمثل يعني أقل من الكمية المثلى من "
+"الماء.)"
+
+msgid ""
+"Relative Plant Growth under Different CO<sub>2</sub> and Water Condition"
+msgstr "نمو النبات نسبي في ظروف ثاني أكسيد الكربون والماء."
+
+msgid "Plants with optimal water"
+msgstr "نباتات بكمية المياه المثلى"
+
+msgid "Plants with suboptimal water"
+msgstr "نباتات بكمية المياه غير المثلى"
+
+msgid "Increased amounts of CO<sub>2</sub> dramatically enhanced plant growth."
+msgstr "الكميات المرتفعة من CO<sub>2</sub> تحفز بشكل كبير نمو النبتة"
+
+msgid ""
+"In low CO<sub>2</sub> conditions, plants grew less in suboptimal water "
+"conditions."
+msgstr ""
+"فتحت ظروف إنخفاض ثاني أكسيد الكربون، تنمو النباتات أقل في ظروف تكون فيها "
+"المياه أقل من الوضع المثالي."
+
+msgid "The amount of water the plants received did not affect their growth."
+msgstr "كمية الماء التي تتلقاها النبتة لا تؤثر على نموها"
+
+msgid ""
+"The amount of carbon dioxide the plants were exposed to did not affect their "
+"growth."
+msgstr "كمية ثاني أكسيد الكربون التي تتعرض لها النبتة لا تؤثر على نموها"
+
+msgid ""
+"Correct! The blue blocks show the growth increase under optimal water "
+"conditions. Then when the water decreased, you can see the CO<sub>2</sub> "
+"difference in the red blocks. The red blocks show a much greater growth "
+"increase."
+msgstr ""
+"صحيح! تظهر الكتل الزرقاء زيادة النمو تحت ظروف المياه الأمثل.  وعندما ينخفض "
+"الماء، يمكنك ان ترى الفرق CO<sub>2</sub> في كتل حمراء.  تُظهر الكتل الحمراء "
+"زيادة النمو أكبر بكثير."
+
+msgid ""
+"No! In low CO<sub>2</sub> conditions, plants with less water actually grew "
+"better."
+msgstr ""
+"لا! في ظروف انخفاض CO<sub>2</sub>، النباتات بمعدل مياه أقل تنمو بشكلٍ أكبر "
+"فعلياً."
+
+msgid "Nope! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr "كلا! كلاً من العاملين، الماء و CO<sub>2</sub>،  تؤثر في نمو النبات."
+
+msgid "No! Both factors, water and CO<sub>2</sub>, affected plant growth."
+msgstr "لا! كلاً من العاملين، الماء و CO<sub>2</sub>، تؤثر في نمو النبات."
+
+# 22
+msgid "You've completed the Plants are Producers review."
+msgstr "لقد أكملت مراجعة النباتات هي منتجات"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك فحص كيف أديت في \" الاختبار السريع\" و\" الأسئلة القصير\" لهذا العرض "
+"بالنقر على الزر بالأسفل"
+
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك."

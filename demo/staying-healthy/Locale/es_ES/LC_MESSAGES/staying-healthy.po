@@ -1,0 +1,1643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: staying-healthy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ana Pardo <anapr88@gmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Comprobar Respuesta"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Staying Healthy"
+msgstr "Mantenerse sanos"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Repaso rápido nº1"
+
+msgid "Quick Check #2"
+msgstr "Repaso rápido nº2"
+
+msgid "Quick Check #3"
+msgstr "Repaso rápido nº3"
+
+msgid "Quick Check #4"
+msgstr "Repaso rápido nº4"
+
+msgid "Quick Check #5"
+msgstr "Repaso rápido nº5"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de examen nº1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de examen nº2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de examen nº3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de examen nº4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de examen nº5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de examen nº6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo he hecho?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "More core ideas... about staying healthy"
+msgstr "Más ideas principales... sobre mantenerse sanos"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la "
+"caja y seleccionar tu respuesta."
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Empecemos!"
+
+msgid "Are you ready,"
+msgstr "Estás preparado/a,"
+
+msgid "Breathing fresh air..."
+msgstr "Respirando aire fresco..."
+
+msgid "Warming up for exercise..."
+msgstr "Calentando para hacer ejercicio..."
+
+msgid "Ready for your first quick check?"
+msgstr "¿Preparado/a para tu primer repaso rápido?"
+
+msgid "Organs are working together..."
+msgstr "Los órganos están trabajando juntos..."
+
+msgid "Help to fight diseases"
+msgstr "Ayuda a acabar con las enfermedades"
+
+msgid "Vitamins for energy boost"
+msgstr "Vitaminas para aumentar la energía"
+
+msgid "Vaccination on the go"
+msgstr "Vacunas en marcha"
+
+msgid "Preparing a delicious diet..."
+msgstr "Preparando una dieta deliciosa..."
+
+msgid "Burning calories..."
+msgstr "Quemando calorías..."
+
+msgid "Blocking harmful substances..."
+msgstr "Bloqueando sustancias dañinas..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Preparado/a para tu último repaso rápido?"
+
+msgid "A healthy nutrition diet"
+msgstr "Una nutrición saludable"
+
+msgid "Putting it all together..."
+msgstr "Juntemos todo lo aprendido..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Comprobemos lo que sabes"
+
+msgid "Your first quiz question is"
+msgstr "Tu primera pregunta de examen es"
+
+msgid "What are organs made of?"
+msgstr "¿De qué están hechos los órganos?"
+
+msgid "Inhale... exhale..."
+msgstr "Inhala... exhala..."
+
+msgid "Picture of a healthy heart"
+msgstr "Imagen de un corazón sano"
+
+msgid "Go, Grow, Glow"
+msgstr "Ve, crece, brilla"
+
+msgid "Take the last quiz question!"
+msgstr "¡La última pregunta de examen!"
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Welcome to the Staying Healthy review,"
+msgstr "Bienvenido/a al repaso de Mantenerse sanos,"
+
+msgid "Start"
+msgstr "Inicio"
+
+# 2
+msgid "Thinking about... staying healthy"
+msgstr "Pensando en... mantenerse sanos"
+
+msgid ""
+"People come in all ages, shapes and sizes; but we do have one important "
+"thing in common. We'll feel better and live longer and more comfortably if "
+"we understand and take care of our bodies. The human body is more complex "
+"than any machine ever designed, and yet it is very reliable, lasts a long "
+"time, and can usually fix itself when something goes wrong."
+msgstr ""
+"La gente viene en todas las edades, formas y tamaños, pero todos tenemos una "
+"cosa importante en común. Nos sentiremos mejor y viviremos más y más cómodos "
+"si entendemos y cuidamos nuestros cuerpos. El cuerpo humano es más complejo "
+"que ninguna máquina jamás diseñada, y aún así es muy fiable, dura mucho "
+"tiempo, y normalmente se arregla solo cuando algo va mal."
+
+# 3
+msgid "Checking what you know... about staying healthy"
+msgstr "Comprobando lo que sabes... sobre mantenerse sanos"
+
+msgid "Click the statements the activities shown are likely to cause."
+msgstr ""
+"Haz clic en las afirmaciones que es probable que causen las actividades "
+"mostradas."
+
+msgid "Diet heavy in fats and carbohydrates."
+msgstr "Dieta alta en grasas y carbohidratos."
+
+msgid "Increase in obesity."
+msgstr "Aumento de la obesidad."
+
+msgid "Increase in heart disease."
+msgstr "Aumento de enfermedades del corazón."
+
+msgid "Increase in overall fitness."
+msgstr "Mejora de la salud en general."
+
+msgid "Daily exercises at least 30 minutes long."
+msgstr "Ejercicio diario de al menos 30 minutos."
+
+msgid "Decrease in body weight."
+msgstr "Reducción del peso corporal."
+
+msgid "Increase in energy."
+msgstr "Aumento de la energía."
+
+msgid "Increase in heart disease risk."
+msgstr "Aumento del riesgo de enfermedades del corazón."
+
+msgid "Childhood health checkups including vaccinations at appropriate ages."
+msgstr ""
+"Revisiones médicas durante la infancia, incluyendo vacunas a las edades "
+"apropiadas."
+
+msgid "Increase in childhood diseases."
+msgstr "Aumento de enfermedades infantiles."
+
+msgid "Decrease in overall health."
+msgstr "Empeoramiento de la salud en general."
+
+msgid "Fewer childhood diseases."
+msgstr "Menos enfermedades infantiles."
+
+msgid ""
+"A diet heavy in fats and carbohydrates can lead to obesity and heart "
+"problems. Daily exercise is needed to control body weight and give an energy "
+"boost. Checkups and vaccinations are also necessary to prevent major "
+"diseases."
+msgstr ""
+"Una dieta alta en grasas y carbohidratos puede conducir a problemas de "
+"corazón y obesidad. El ejercicio diario es necesario para controlar el peso "
+"corporal y aumentar la energía. Las revisiones y las vacunas también son "
+"necesarias para prevenir enfermedades graves."
+
+# 4
+msgid "Reviewing core ideas... about staying healthy"
+msgstr "Repasando ideas principales... acerca de mantenerse sanos"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit."
+msgstr ""
+"Nuestros cuerpos están compuestos de muchos sistemas que trabajan juntos "
+"para mantenernos sanos. Cada sistema está formado por un conjunto de órganos "
+"que funcionan independientemente y en equipo."
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Explora las diapositivas a continuación pulsando las flechas izquierda y "
+"derecha"
+
+msgid ""
+"The <span class='key'>circulatory system's</span> primary function is to "
+"move blood through the body, but it doesn't work alone. The <span "
+"class='key'>respiratory system</span> works with it to take in oxygen from "
+"the air to send through the blood to body tissues."
+msgstr ""
+"La función principal del <span class='key'>sistema circulatorio</span> es "
+"mover la sangre a lo largo del cuerpo, pero no trabaja solo. El <span "
+"class='key'>sistema respiratorio</span> trabaja con él tomando oxígeno del "
+"aire y enviándolo a través de la sangre a los tejidos del cuerpo."
+
+msgid ""
+"Blood also brings carbon dioxide from body tissues to the lungs to be "
+"breathed out. In addition, blood carries nutrients from the digestive system "
+"to tissues all over the body. Chemical waste from the entire body is carried "
+"by blood and removed by the kidneys and other parts of the <span "
+"class='key'>excretory system</span>."
+msgstr ""
+"La sangre también lleva dióxido de carbono de los tejidos del cuerpo a los "
+"pulmones para ser exhalado. Además, la sangre transporta nutrientes del "
+"sistema digestivo a todos los tejidos del cuerpo. Los residuos químicos de "
+"todo el cuerpo son transportados por la sangre y eliminados por los riñones "
+"y otras partes del <span class='key'>sistema excretor</span>."
+
+msgid ""
+"The <span class='key'>endocrine system</span> produces chemicals that cause "
+"changes in other parts of the body. The endocrine system controls many of "
+"the functions of the digestive and reproductive systems. It also influences "
+"the nervous system and circulatory system by producing the substances that "
+"cause changes in heart rate, blood pressure, and breathing when we are "
+"excited or afraid."
+msgstr ""
+"El <span class='key'>sistema endocrino</span> fabrica químicos que provocan "
+"cambios en otras partes del cuerpo. El sistema endocrino controla muchas de "
+"las funciones de los sistemas digestivo y reproductivo. También influye en "
+"el sistema nervioso y el sistema circulatorio al producir las sustancias que "
+"provocan cambios en el ritmo cardíaco, la tensión sanguínea y la respiración "
+"cuando estamos nerviosos o asustados."
+
+msgid ""
+"The <span class='key'>nervous system</span> consists of the brain, spinal "
+"cord, and a complex network of nerves that transmit information around the "
+"body. Sensory nerves are the tools that provide information about the world "
+"around us. Sight, sound, taste, touch, and smell are detected and "
+"information is sent to the brain. Motor nerves send messages from the brain "
+"to muscles around the body. When muscles contract, bones move."
+msgstr ""
+"El <span class='key'>sistema nervioso</span> consiste en el cerebro, la "
+"médula espinal, y una compleja red de nervios que transmiten información a "
+"lo largo del cuerpo. Los nervios sensoriales son las herramientas que nos "
+"dan información sobre el mundo que nos rodea. La vista, el oído, el sabor, "
+"el tacto y el olfato son detectados y la información se envía al cerebro. "
+"Los nervios motores envían mensajes del cerebro a los músculos de todo el "
+"cuerpo. Cuando los músculos se contraen, los huesos se mueven."
+
+msgid ""
+"The <span class='key'>skeletal system</span> is responsible for providing "
+"support for the rest of the body. It also provides attachment points for "
+"muscles, which contract to allow movement. This movement is made possible by "
+"energy delivered by blood, and is controlled by the nervous system. The "
+"skeletal system is also where new blood cells are made."
+msgstr ""
+"El <span class='key'>sistema óseo</span> es responsable de dar soporte al "
+"resto del cuerpo. También propociona puntos de sujeción a los músculos, que "
+"se contraen para permitir el movimiento. Este movimiento es posible gracias "
+"a la energía entregada por la sangre, y es controlado por el sistema "
+"nervioso. El sistema óseo también es donde se fabrican las nuevas células de "
+"la sangre."
+
+# 5
+msgid ""
+"Question A. The nervous system does <span class='blink red'>NOT</span> "
+"depend upon which of the following?"
+msgstr ""
+"Pregunta A. ¿De cuál de los siguientes <span class='blink red'>NO</span> "
+"depende el sistema nervioso?"
+
+msgid "Circulatory System"
+msgstr "Sistema circulatorio"
+
+msgid "Skeletal System"
+msgstr "Sistema óseo"
+
+msgid "Respiratory System"
+msgstr "Sistema respiratorio"
+
+msgid "Circulatory, Skeletal and Respiratory"
+msgstr "Circulatorio, óseo y respiratorio"
+
+msgid "It DOES depend on all of the systems mentioned."
+msgstr "SÍ depende de todos los sistemas mencionados."
+
+msgid ""
+"Question B. What would happen if your respiratory system stopped working?"
+msgstr ""
+"Pregunta B. ¿Qué pasaría si tu sistema respiratorio dejase de funcionar?"
+
+msgid "You would need an organ transplant."
+msgstr "Necesitarías un transplante de órganos."
+
+msgid "Nothing, the body would recover somehow."
+msgstr "Nada, el cuerpo se recuperaría de alguna forma."
+
+msgid "You would not be able to continue living and die."
+msgstr "No serías capaz de seguir viviendo y morirías."
+
+msgid "Not quite! The brain needs oxygen from blood."
+msgstr "¡No exactamente! El cerebro necesita el oxígeno de la sangre."
+
+msgid "Nope! The brain is protected by the skull."
+msgstr "¡No! El cerebro está protegido por el cráneo."
+
+msgid "Think again! The brain needs the oxygen gathered by the lungs."
+msgstr ""
+"¡Piénsalo de nuevo! El cerebro necesita el oxígeno que absorben los pulmones."
+
+msgid ""
+"You got it! That was a trick question... The nervous system needs all of "
+"these."
+msgstr ""
+"¡Lo tienes! Era una pregunta con truco... El sistema nervioso necesita todo "
+"eso."
+
+msgid ""
+"Nope! The respiratory system is a whole set of organs working together. "
+"Transplanting one isn't likely to restore function."
+msgstr ""
+"¡No! El sistema respiratorio es un conjunto completo de órganos que trabajan "
+"juntos. Transplantar un órgano no va a restaurar su funcionamiento."
+
+msgid ""
+"Not quite! Your body cannot recover; if you stop breathing, you stop living."
+msgstr ""
+"¡No exactamente! Tu cuerpo no podría recuperarse. Si dejas de respirar, "
+"dejas de vivir."
+
+msgid ""
+"Correct! Respiration is breathing; if you stop breathing, you stop living."
+msgstr "¡Correcto! Si dejas de respirar, dejas de vivir."
+
+# 6
+msgid ""
+"The human body is made up of trillions of independent cells.  Each <span "
+"class='key'>cell</span> is alive, requires resources, and produces waste. "
+"When many copies of the same cell type are gathered together, they are known "
+"as <span class='key'>tissue</span>. We have hundreds of different types of "
+"tissues, each specialized for its own functions. Some examples of cell and "
+"tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"El cuerpo humano está hecho de billones de células independientes. Cada "
+"<span class='key'>célula</span> está viva, necesita recursos y produce "
+"residuos. Cuando muchas copias del mismo tipo de célula están juntas, se "
+"conocen como <span class='key'>tejido</span>. Tenemos cientos de tipos de "
+"tejidos diferentes, cada uno especializado en sus propias funciones. Algunos "
+"ejemplos de tipos de células y tejidos incluyen los músculos, los nervios, "
+"los huesos y la piel."
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together. While cells and tissues are difficult to see and "
+"tell apart, organs are mostly quite large and easy to identify.<br/>Some "
+"examples of organs are the heart, lungs, brain, kidneys, and stomach. Some "
+"organs are so small they require magnification to be seen. Others are much "
+"larger. The largest is our skin which covers our entire bodies."
+msgstr ""
+"Los <span class='key'>órganos</span> son grupos de tejidos que se combinan "
+"para llevar a cabo las funciones principales del cuerpo. Cuando hablamos de "
+"sistemas como el respiratorio o el digestivo, en realidad estamos hablando "
+"de grupos de órganos que trabajan juntos. Mientras que las células y los "
+"tejidos son difíciles de ver y diferenciar, los órganos son normalmente "
+"bastante grandes y fáciles de identificar.<br/>Algunos ejemplos de órganos "
+"son el corazón, los pulmones, el cerebro, los riñones y el estómago. Algunos "
+"órganos son tan pequeños que hacen falta lupas para verlos. Otros son mucho "
+"más grandes. El más grande es nuestra piel, que cubre todo el cuerpo."
+
+msgid ""
+"Major body systems are groups of organs working as a unit to fulfill major "
+"body functions. The <span class='key'>digestive system</span> has many "
+"parts, each performing a specific task, all aimed towards allowing our body "
+"to absorb the nutrients and water we need to survive.<br/>The other systems "
+"are organized in a similar way, each unique in its own pattern. Because each "
+"organ is made of many different tissues, any organ may be a part of more "
+"than one system at a time. The pancreas, for example, makes chemicals that "
+"help digest food, while, at the same time, making other substances that help "
+"regulate the activities of other organs. It belongs to both the digestive "
+"and endocrine systems."
+msgstr ""
+"Los sistemas principales del cuerpo son grupos de órganos que trabajan como "
+"una unidad para satisfacer las funciones principales del cuerpo. El <span "
+"class='key'>sistema digestivo</span> tiene muchas partes, cada una con una "
+"tarea específica, y todas centradas en absorber los nutrientes y el agua que "
+"necesitamos para sobrevivir.<br/>Los otros sistemas se organizan de un modo "
+"similar, todos únicos con su propio patrón. Como cada órgano está hecho de "
+"muchos tejidos diferentes, cualquier órgano puede ser parte de más de un "
+"sistema a la vez. El páncreas, por ejemplo, crea químicos que ayudan a "
+"digerir la comida, mientras que, a la vez, crea otras sustancias que ayudan "
+"a regular las actividades de otros órganos. Pertenece a ambos sistemas, el "
+"digestivo y el endocrino."
+
+# 7
+msgid ""
+"Question A. All animals need food to survive. Immediately after an animal "
+"eats food, the food is..."
+msgstr ""
+"Pregunta A. Todos los animales necesitan comida para sobrevivir. "
+"Inmediatamente después de que un animal come, la comida es..."
+
+msgid "Stored for later use"
+msgstr "Guardada para ser usada más tarde"
+
+msgid "Converted into waste"
+msgstr "Convertida en deshechos"
+
+msgid "Transported by the bloodstream"
+msgstr "Transportada por el torrente sanguíneo"
+
+msgid "Digested into simpler substances"
+msgstr "Digerida en sustancias más simples"
+
+msgid ""
+"Food energy is eventually stored for later use, but it must first be broken "
+"into simpler substances."
+msgstr ""
+"La energía de la comida se almacena para ser usada más tarde, pero primero "
+"debe descomponerse en sustancias más simples."
+
+msgid ""
+"Some food is converted into waste, but only after it is broken into simpler "
+"parts."
+msgstr ""
+"Parte de la comida se convierte en desechos, pero sólo después de ser "
+"descompuesta en partas más simples."
+
+msgid ""
+"Food molecules must be broken down from more complex substances before they "
+"can be transported in blood."
+msgstr ""
+"Las moléculas de la comida son sustancias más complejas que deben "
+"descomponerse antes de poder ser transportadas por la sangre."
+
+msgid ""
+"That's right! Food is made of complex molecules that must be broken into "
+"simpler substances for energy to be released or stored."
+msgstr ""
+"¡Exacto! La comida está formada por moléculas complejas que deben "
+"descomponerse en sustancias más simples para liberar o almacenar energía."
+
+msgid ""
+"Question B. The pancreas plays roles in which <span class='blink red'>TWO</"
+"span> systems?"
+msgstr ""
+"Pregunta B. ¿En qué <span class='blink red'>DOS</span> sistemas juega un "
+"papel el páncreas?"
+
+msgid "The pancreas plays roles in"
+msgstr "El pancreas juega un papel en los sistemas"
+
+msgid "nervous"
+msgstr "nervioso"
+
+msgid "integumentary"
+msgstr "integumentario"
+
+msgid "digestive"
+msgstr "digestivo"
+
+msgid "endocrine"
+msgstr "endocrino"
+
+msgid "skeletal"
+msgstr "óseo"
+
+msgid "and"
+msgstr "y"
+
+msgid "systems."
+msgstr "."
+
+msgid ""
+"Nope! First the food enters the bloodstream and is digested into simpler "
+"substances."
+msgstr ""
+"¡No! Antes la comida entra en el torrente sanguíneo y es digerida en "
+"sustancias más simples."
+
+msgid ""
+"Think again! Converting what is not used by the body into waste is one of "
+"the last things that happens."
+msgstr ""
+"¡Piénsalo de nuevo! Convertir lo que no se usa por el cuerpo en residuos es "
+"una de las últimas cosas que ocurren."
+
+msgid ""
+"Not quite! First the food enters the bloodstream to be processed and "
+"distributed around the body."
+msgstr ""
+"¡No exactamente! Antes la comida entra en el torrente sanguíneo para ser "
+"procesada y distribuida en todo el cuerpo."
+
+msgid ""
+"Right on! First the food enters the bloodstream, and then it can be digested "
+"into simpler substances."
+msgstr ""
+"¡Exacto! Primero la comida entra en el torrente sanguíneo, y luego puede ser "
+"digerida en sustancias más simples."
+
+msgid "Super!  Both correct!"
+msgstr "¡Genial! ¡Ambas son correctas!"
+
+msgid "You're halfway there... try again."
+msgstr "Estás a medio camino... inténtalo de nuevo."
+
+msgid "Neither of these."
+msgstr "Ninguna de esas."
+
+# 8
+msgid ""
+"What's going on when you are sick? You have been invaded.  Some tiny disease "
+"agent has found a way into your body, and is reproducing, using your body as "
+"a shelter, food source, and a way of passing its offspring on to others."
+msgstr ""
+"¿Qué pasa cuando enfermas? Has sido invadido. Algún minúsculo agente "
+"infeccioso ha encontrado la forma de entrar en tu cuerpo y se está "
+"reproduciendo, usando tu cuerpo como refugio, fuente de alimento y forma de "
+"pasar su descendencia a otros."
+
+msgid ""
+"Most infections are caused by one of two agents. The first are simple living "
+"cells called <span class='key'>bacteria</span>. Bacteria are among the "
+"simplest of all living things, and are found everywhere on the planet. Most "
+"bacteria are safe and usually beneficial to people. A few types, though, are "
+"dangerous. When they get inside our bodies, they form colonies where they "
+"make many millions of copies of themselves and cause damage to the tissues "
+"around them."
+msgstr ""
+"La mayoría de infecciones son causadas por uno de dos agentes. El primero "
+"son células vivas sencillas llamadas <span class='key'>bacterias</span>. Las "
+"bacterias están entre los seres vivos más pequeños que existen, y se "
+"encuentran en todos los lugares del planeta. La mayoría de bacterias son "
+"seguras y normalmente beneficiosas para las personas. Algunos tipos, sin "
+"embargo, son peligrosos. Cuando entran en nuestro cuerpo forman colonias "
+"donde hacen millones de copias de sí mismas y causan daño a los tejidos que "
+"las rodean."
+
+msgid ""
+"Most of the time, our <span class='key'>immune system</span> is able to "
+"identify and destroy the bacteria infecting us. Sometimes, however, the "
+"bacteria reproduce out of control and we need antibiotic medication. "
+"Antibiotics kill bacteria and are not harmful to people. After two or three "
+"days taking the medication, many people feel much better, but it is very "
+"important to take all of the antibiotic prescribed according to the "
+"directions. This make sure all of the bacteria are killed and a new "
+"infections doesn't occur."
+msgstr ""
+"La mayoría del tiempo, nuestro <span class='key'>sistema inmunitario</span> "
+"es capaz de identificar y destruir las bacterias infecciosas. Algunas veces, "
+"sin embargo, las bacterias se reproducen sin control y necesitamos "
+"antibióticos. Los antibióticos matan a las bacterias y no son dañinos para "
+"las personas. Tras dos o tres días tomando la medicación mucha gente se "
+"siente mejor, pero es muy importante tomar todos los antibióticos que nos "
+"han prescrito. Así se asegura que todas las bacterias han muerto y que no "
+"habrá una nueva infección."
+
+msgid ""
+"Other infections are caused by extremely small particles called <span "
+"class='key'>viruses</span>. Viruses aren't completely alive. They are "
+"inactive unless they are inside living cells. Once there, they cause the "
+"cell to make huge numbers of viruses,and then break open, releasing the "
+"viruses to infect other cells."
+msgstr ""
+"Otras infecciones son causadas por partículas extremadamente pequeñas "
+"llamadas <span class='key'>virus.</span> Los virus no están del todo vivos. "
+"Están inactivos a no ser que estén dentro de células vivas. Una vez allí, "
+"provocan que la célula fabrique enormes cantidades de virus, y luego se abre "
+"rompiéndose y liberando los virus para que infecten a otras células."
+
+msgid ""
+"Our immune system can nearly always find ways to destroy viruses. Every time "
+"you have had a cold or the flu, you have suffered from a viral infection, "
+"and your immune system has cleared it from your body in one or two weeks. "
+"Once you have survived any virus, your immune system is able to remember it "
+"for a very long time, and is then able to identify and destroy it whenever "
+"you are exposed again."
+msgstr ""
+"Nuestro sistema inmunitario casi siempre encuentra formas de destruir los "
+"virus. Cada vez que has tenido un resfriado o la gripe, has sufrido una "
+"infección vírica, y tu sistema inmunitario la eliminó de tu cuerpo en una o "
+"dos semanas. Una vez has sobrevivido a un virus, tu sistema inmunitario es "
+"capaz de recordarlo por mucho tiempo, y luego es capaz de identificarlo y "
+"destruirlo si te expones de nuevo a él."
+
+msgid ""
+"Some viruses, though, are so dangerous they can cause permanent damage or "
+"death before our immune systems can clear them out. For these diseases we "
+"rely on vaccinations to protect us from danger. <span "
+"class='key'>Vaccinations</span> use very weak varieties of virus or even "
+"broken up viral particles to teach our immune systems to identify and "
+"destroy these dangerous agents. Some vaccines are taken by mouth; others are "
+"given as shots."
+msgstr ""
+"Algunos virus, sin embargo, son tan peligrosos que pueden causar daño "
+"permanente o la muerte antes de que nuestro sistema inmunitario pueda "
+"eliminarlo. Con esas enfermedades dependemos de que las vacunas nos "
+"protejan. Las <span class='key'>vacunas</span> usan variedades muy débiles "
+"de los virus o incluso partículas virales rotas para enseñar a nuestro "
+"sistema inmunitario a identificar y destruir esos peligrosos agentes. "
+"Algunas vacunas se administran por la boca, otras por inyecciones."
+
+# 9
+msgid ""
+"Question A. A person is prescribed an antibiotic for ten days. She begins "
+"taking the pills and feels much better after four days. What should she do "
+"with the remaining pills?"
+msgstr ""
+"Pregunta A. Una persona es prescrita un antibiótico por diez días. Empieza a "
+"tomar las pastillas y se siente mucho mejor tras cuatro días. ¿Qué debería "
+"hacer con las pastillas restantes?"
+
+msgid "She should return them to the pharmacy."
+msgstr "Debería devolverlas a la farmacia."
+
+msgid "She should take all of the pills, even though she feels better."
+msgstr "Debería tomar todas las pastillas, aunque se sienta mejor."
+
+msgid "She should save the pills in case she gets sick again."
+msgstr "Debería guardar las pastillas por si enferma otra vez."
+
+msgid "She should give the pills to a friend in case they get sick too."
+msgstr "Debería darle las pastillas a un amigo por si se enferma también."
+
+msgid ""
+"Question B. Click on <span class='blink red'>ALL</span> the correct "
+"statements below."
+msgstr ""
+"Pregunta B. Haz clic en <span class='blink red'>TODAS</span> las "
+"afirmaciones correctas a continuación."
+
+msgid "All bacteria cause disease."
+msgstr "Todas las bacterias provocan enfermedades."
+
+msgid "Usually infections are caused by bacteria or viruses."
+msgstr "Normalmente las infecciones son provocadas por bacterias o virus."
+
+msgid "Bacteria and viruses make copies of themselves in our bodies."
+msgstr ""
+"Las bacterias y los virus hacen copias de sí mismos en nuestros cuerpos."
+
+msgid ""
+"We rely on our immune system to identify and destroy any disease agent our "
+"body is exposed to."
+msgstr ""
+"Dependemos de nuestro sistema inmunitario para identificar y destruir "
+"cualquier agente infeccioso al que se exponga nuestro cuerpo."
+
+msgid ""
+"Not quite! Most bacteria do not cause disease and are actually helpful to "
+"people."
+msgstr ""
+"¡No exactamente! La mayoría de bacterias no provocan enfermedades y, de "
+"hecho, ayudan a la gente."
+
+msgid ""
+"You got it! Infections can come from bacteria and viruses. Bacteria and "
+"viruses both reproduce inside our body and make millions of copies of "
+"themselves to attack our body systems. Our bodies will fight off any disease "
+"agent and remember what it was in the future. For very dangerous diseases we "
+"also rely on vaccinations."
+msgstr ""
+"¡Lo tienes! Las infecciones pueden provenir de bacterias y virus. Tanto las "
+"bacterias como los virus se reproducen en el interior de nuestro cuerpo y "
+"crean millones de copias de sí mismos para atacar los sistemas de nuestro "
+"cuerpo. Nuestros cuerpos se librarán de cualquier agente infeccioso y lo "
+"recordarán en el futuro. Para enfermedades muy peligrosas también nos "
+"apoyamos en las vacunas."
+
+msgid "Nope! She should take all of the pills."
+msgstr "¡No! Debería tomar todas las pastillas."
+
+msgid ""
+"Correct! If she takes the entire dose, she will kill all of the bacteria."
+msgstr "¡Correcto! Si toma la dosis completa, matará a todas las bacterias."
+
+msgid ""
+"That's dangerous. She should take all of the pills to kill all of the "
+"bacteria."
+msgstr ""
+"Eso es peligroso. Debería tomar todas las pastillas para matar a todas las "
+"bacterias."
+
+msgid "No way! That's very dangerous! Never give medication away."
+msgstr "¡Para nada! ¡Eso es muy peligroso! Nunca regales medicamentos."
+
+# 10
+msgid ""
+"One way to always try to keep your body healthy is make sure you are eating "
+"the right foods. Foods provide us with energy, and the materials needed for "
+"growth and general well-being. The digestive system takes in food and breaks "
+"it down into the simple molecules from which it is made. They fall into "
+"three main groups: carbohydrates, fats, and protein."
+msgstr ""
+"Una forma de intentar mantener siempre tu cuerpo saludable es asegurarte de "
+"que estás comiendo los alimentos adecuados. Los alimentos nos proporcionan "
+"energía, y los materiales necesarios para el crecimiento y el bienestar en "
+"general. El sistema digestivo absorbe los alimentos y los descompone en las "
+"moléculas más sencillas que los componen. Se dividen en tres grupos "
+"principales: carbohidratos, grasas y proteínas."
+
+msgid ""
+"<span class='key'>Carbohydrates</span> provide our bodies with the energy we "
+"need to function. Sugars are simple carbohydrates that provide energy almost "
+"immediately. Complex carbohydrates, also called starches, are long chains of "
+"simple sugar molecules that provide energy over a course of hours. Some "
+"foods rich in carbohydrates include potatoes, bread, rice, and pasta."
+msgstr ""
+"Los <span class='key'>carbohidratos</span> proporcionan a nuestro cuerpo la "
+"energía que necesitamos para funcionar. Los azúcares son carbohidratos "
+"sencillos que proporcionan energía casi inmediatamente. Los carbohidratos "
+"complejos, también llamados almidones, son largas cadenas de moléculas de "
+"azúcares sencillos que proporcionan energía a lo largo de varias horas. "
+"Algunos alimentos ricos en carbohidratos son las patatas, el pan, el arroz y "
+"la pasta."
+
+msgid ""
+"<span class='key'>Fats</span> store energy for longer term use. When a "
+"person takes in more carbohydrates than they can use in the short term, some "
+"of the sugar molecules are turned into fat. When energy is needed, fats can "
+"be converted back into sugars for immediate use. Fats in our diets are "
+"stored for later use. Fats, like cooking oils, that are liquid at room "
+"temperature are called lipids. Dietary sources of fats include cooking oils, "
+"butter, cheese, and meat."
+msgstr ""
+"Las <span class='key'>grasas</span> almacenan energía para su uso a largo "
+"plazo. Cuando una persona toma más carbohidratos de los que puede usar a "
+"corto plazo, algunas de las moléculas de azúcar se convierten en grasa. "
+"Cuando se necesita energía, las grasas se pueden convertir de nuevo en "
+"azúcares para su uso inmediato. Las grasas de nuestra dieta se almacenan "
+"para ser usadas más tarde. Las grasas, como los aceites de cocina, que son "
+"líquidas a temperatura ambiente se llaman lípidos. Las fuentes de grasas en "
+"la dieta son los aceites de cocina, la mantequilla, el queso y la carne."
+
+msgid ""
+"<span class='key'>Proteins</span> are long chains of simple amino acid "
+"molecules. Proteins are important for building muscles and organs. The amino "
+"acids in our diets are the same amino acids needed to build our own muscles "
+"and organs. Some important protein sources include meat, poultry, fish, and "
+"beans."
+msgstr ""
+"Las <span class='key'>proteínas</span> son largas cadenas de moléculas de "
+"aminoácidos sencillas. Las proteínas son importantes para crear músculos y "
+"órganos. Los aminoácidos de nuestra dieta son los mismos aminoácidos "
+"necesarios para crear nuestros propios músculos y órganos. Algunas fuentes "
+"importantes de proteínas son la carne, el pescado y las legumbres."
+
+msgid ""
+"<span class='key'>Vitamins</span> are nutrients needed in only very small "
+"amounts. They serve as helpers to make our body chemistry work as it should. "
+"Even though we need only small amounts of each, lacking vitamins in our "
+"diets causes a variety of disorders. Even though a balanced diet supplies "
+"all necessary vitamins, many people choose to take vitamin supplements each "
+"day."
+msgstr ""
+"Las <span class='key'>vitaminas</span> son nutrientes necesarios en "
+"cantidades muy pequeñas. Sirven para ayudar a que la química de nuestro "
+"cuerpo funcione como debe. Aunque sólo necesitamos pequeñas cantidades de "
+"cada una, la falta de vitaminas en nuestra dieta provoca una variedad de "
+"trastornos. A pesar de que una dieta equilibrada nos da todas las vitaminas "
+"necesarias, mucha gente escoge tomar suplementos de vitaminas a diario."
+
+msgid "Vitamin"
+msgstr "Vitamina"
+
+msgid "Symptom of Deficiency"
+msgstr "Síntoma de deficiencia"
+
+msgid "Natural Source of Vitamin"
+msgstr "Fuente natural de vitamina"
+
+msgid "DIARRHEA, LACK OF GROWTH"
+msgstr "DIARREA, FALTA DE CRECIMIENTO"
+
+msgid "CARROTS, DANDELIONS, GREEN VEGETABLES, HAY"
+msgstr "ZANAHORIAS, DIENTES DE LEÓN, VERDURAS VERDES, HENO"
+
+msgid "SWOLLEN JOINTS, SCURVY"
+msgstr "ARTICULACIONES HINCHADAS, ESCORBUTO"
+
+msgid "FRESH FRUITS AND VEGETABLES"
+msgstr "FRUTAS Y VERDURAS FRESCAS"
+
+msgid "RICKETS"
+msgstr "RAQUITISMO"
+
+msgid "FRESH LIVER OILS, WHEAT GERM, GREEN VEGETABLES"
+msgstr "ACEITES DE HÍGADO FRESCO, GERMEN DE TRIGO, VEGETALES VERDES"
+
+msgid "CLICK TO VIEW"
+msgstr "CLIC PARA VER"
+
+msgid ""
+"Many people are interested in the calorie values of their foods. <span "
+"class='key'>Calories</span> measure the amount of energy a particular food "
+"holds in its molecules. When the molecules are broken down, the energy is "
+"released. We gain weight when we take in more calories than we burn. We lose "
+"weight when we burn more calories than we take in."
+msgstr ""
+"Mucha gente está interesada en las calorías de sus alimentos. Las <span "
+"class='key'>calorías</span> miden la cantidad de energía que un alimento "
+"concreto almacena en sus moléculas. Cuando las moléculas se descomponen, la "
+"energía es liberada. Ganamos peso cuando consumimos más calorías de las que "
+"quemamos. Perdemos peso cuando quemamos más calorías de las que consumimos."
+
+msgid ""
+"Any healthy diet should include all types of food and enough calories to "
+"make it through each day without getting sick. The food labels on all "
+"packaged foods and available in many restaurants summarize the nutrition "
+"values of the foods we eat. One such label is shown on the right."
+msgstr ""
+"Cualquier dieta saludable debería incluir todos los tipos de alimentos y "
+"suficientes calorías para superar el día sin enfermar. Las etiquetas de "
+"todos los alimentos envasados y disponibles en muchos restaurantes resumen "
+"el valor nutricional de los alimentos que comemos. Una de esas etiquetas se "
+"muestra a la derecha."
+
+msgid "SKIN DISORDERS, POOR REPRODUCTION"
+msgstr "TRASTORNOS CUTÁNEOS, ESTERILIDAD"
+
+msgid "WHEAT GERM, GREEN VEGETABLES"
+msgstr "GERMEN DE TRIGO, VERDURAS VERDES"
+
+msgid ""
+"NOTE: VITAMIN B AFFECTS THE NERVOUS SYSTEM AND A REGULAR SMALL AMOUNT IS "
+"EFFECTIVE IN TREATING STRESS, ONE OF THE PRIMARY CONTRIBUTORS IN MANY "
+"DISEASES ESPECIALLY WET TAIL."
+msgstr ""
+"NOTA: LA VITAMINA B AFECTA AL SISTEMA NERVIOSO Y UNA CANTIDAD PEQUEÑA "
+"REGULAR ES EFECTIVA EN EL TRATAMIENTO DEL ESTRÉS, UNA DE LAS PRINCIPALES "
+"CAUSAS DE MUCHAS ENFERMEDADES, ESPECIALMENTE INTESTINALES."
+
+# 11
+msgid ""
+"Question A. Bobby's dad has been told by his doctor to lose 10 pounds in the "
+"next year. How should Bobby's dad change his daily routine?"
+msgstr ""
+"Pregunta A. Al padre de Bobby le ha dicho el doctor que pierda 5 kilos (10 "
+"libras) para el año que viene. ¿Cómo debería cambiar su rutina diaria el "
+"padre de Bobby?"
+
+msgid ""
+"Cut calorie intake and increase exercise so that he uses more calories than "
+"he takes in."
+msgstr ""
+"Reducir la ingesta de calorías e incrementar el ejercicio para usar más "
+"calorías de las que consume."
+
+msgid "Increase calorie intake while cutting out beans and meats."
+msgstr ""
+"Aumentar la ingesta de calorías reduciendo la ingesta de legumbres y carnes."
+
+msgid "Decrease exercise while increasing the amounts of starches he eats."
+msgstr "Reducir el ejercicio e incrementar la cantidad de almidones que come."
+
+msgid ""
+"Cut calorie intake and decrease exercise to increase the amount of energy "
+"stored as fat."
+msgstr ""
+"Reducir la ingesta de calorías y reducir el ejercicio para aumentar la "
+"cantidad de energía que se almacena como grasa."
+
+msgid ""
+"Question B. What might happen if we did not eat enough meat, poultry, fish, "
+"or beans?"
+msgstr ""
+"Pregunta B. ¿Qué podría pasar si no comemos suficiente carne, pescado o "
+"legumbres?"
+
+msgid "We would gain weight."
+msgstr "Ganaríamos peso."
+
+msgid "We would be thirsty."
+msgstr "Tendríamos sed."
+
+msgid "We would not be able to build muscles."
+msgstr "No podríamos crear músculo."
+
+msgid "We would not have any energy at all."
+msgstr "No tendríamos nada de energía."
+
+msgid "That's the one that works!"
+msgstr "¡Esa es la que funciona!"
+
+msgid ""
+"Nope! Increasing calorie intake without exercise will actually make him gain "
+"weight."
+msgstr ""
+"¡No! Aumentar la ingesta de calorías sin hacer ejercicio en realidad le "
+"haría ganar peso."
+
+msgid "Decrease exercise and increase starch? His weight is going up!"
+msgstr ""
+"¿Reducir el ejercicio y aumentar los almidones? ¡Su peso va a aumentar!"
+
+msgid ""
+"Not quite! Increasing the amount of energy stored increases his weight. That "
+"won't work."
+msgstr ""
+"¡No exactamente! Aumentar la cantidad de energía almacenada aumenta el peso. "
+"Eso no va a funcionar."
+
+msgid "Nope! You probably would not gain weight by not eating some foods."
+msgstr "¡No! Probablemente no ganarías peso al no comer ciertas comidas."
+
+msgid "Not quite! Meat, poultry, fish, and beans are all food high in protein."
+msgstr ""
+"¡No exactamente! La carne, el pescado y las legumbres son alimentos ricos en "
+"proteínas."
+
+msgid ""
+"Correct! meat, poultry, fish, and beans are all food high in protein which "
+"is needed to build muscle mass."
+msgstr ""
+"¡Correcto! La carne, el pescado y las legumbres son alimentos ricos en "
+"proteínas, necesarios para crear masa muscular."
+
+msgid ""
+"Think again! You would still have energy from other sources, such as "
+"carbohydrates."
+msgstr ""
+"¡Piénsalo de nuevo! Aún recibirías energía de otras fuentes, como los "
+"carbohidratos."
+
+# 12
+msgid ""
+"Many substances that are common in our society are harmful to the body. "
+"Around the house, products used for cleaning and household chores are often "
+"quite poisonous. Even the medications prescribed for family members can be "
+"very dangerous if not used properly. Using any type of medicine without "
+"supervision by a doctor and pharmacist is a very dangerous situation. The "
+"effects of many of these powerful drugs can lead to illness and even death."
+msgstr ""
+"Muchas sustancias comunes en nuestra sociedad son dañinas para el cuerpo. En "
+"la casa, los productos que se usan para limpiar y para tareas del hogar "
+"suelen ser bastante venenosos. Hasta los medicamentos prescritos para los "
+"miembros de la familia pueden ser muy peligrosos si no se usan "
+"correctamente. Usar cualquier tipo de medicina sin supervisión médica y "
+"farmacéutica es muy peligroso. Los efectos de muchas de esas fuertes "
+"medicinas pueden provocar malestar o incluso la muerte."
+
+msgid ""
+"Another commonly misused substance is alcohol. Alcohol changes our "
+"perceptions of the world around us, and makes us drowsy and less able to "
+"react to stimuli. Like many other drugs, alcohol is addictive,that is to say "
+"it becomes a substance people depend upon to help them make it through each "
+"day. Smoking is still a problem too; not just for those who smoke. Smoking "
+"is related to many health problems including lung cancer,heart disease, and "
+"high blood pressure. Even second-hand, or smoke from someone else who is "
+"smoking near you, can increase the risk of heart disease and cancer."
+msgstr ""
+"Otra sustancia de la que se suele abusar es el alcohol. El alcohol cambia "
+"nuestra percepción del mundo que nos rodea, nos deja más somnolientos y "
+"reaccionamos peor a los estímulos. Como muchas otras drogas, el alcohol es "
+"adictivo, lo que quiere decir que se convierte en una sustancia en la que la "
+"gente depende para que les ayude a superar el día. Fumar también es un "
+"problema, no sólo para aquellos que fuman. Fumar está relacionado con muchos "
+"problemas de salud, como el cáncer de pulmón, enfermedades del corazón y "
+"tensión alta. Hasta el tabaquismo pasivo, o respirar el humo de alguien que "
+"está fumando cerca de ti, puede aumentar el riesgo de enfermedades del "
+"corazón y cáncer."
+
+msgid ""
+"Having a healthy body means thinking about health. It means being aware of "
+"what's in our diets, and it means making sure that we exercise regularly. "
+"Half of fitness means eating a healthy diet. The other half is engaging in "
+"enough strenuous exercise to attain and maintain a healthy weight. Vigorous "
+"exercise also makes our heart and muscles stronger, and enhances the way we "
+"feel about ourselves.<br/><br/>Exercises that strengthen the heart and "
+"increase endurance are designed with three factors in mind: frequency, "
+"intensity, and duration.  Frequency is just how often exercise is performed. "
+"Intensity is related to how fast or how hard the exercise is performed. The "
+"intensity needs to be enough to put stress on the heart, but not so much "
+"that a person tires before the exercise can do its good. That's duration, or "
+"how long an exercise is performed. Generally, adults should engage in at "
+"least 30 minutes of intense exercise each day. While we often think of "
+"intense exercises being such activities as swimming or running, simply "
+"walking can raise heart rates enough to make big differences in fitness."
+msgstr ""
+"Tener un cuerpo saludable significa pensar en la salud. Significa ser "
+"consciente de lo que está en nuestra dieta, y significa asegurarnos de que "
+"hacemos ejercicio regularmente. La mitad de nuestra salud viene de una dieta "
+"saludable. La otra mitad viene de hacer suficiente ejercicio extenuante para "
+"conseguir y mantener un peso saludable. El ejercicio intenso también "
+"fortalece nuestro corazón y nuestros músculos, y nos hace sentir mejor con "
+"nosotros mismos.<br/><br/>Los ejercicios que fortalecen el corazón y "
+"aumentan nuestra resistencia están diseñados con tres factores en mente: "
+"frecuencia, intensidad y duración. La frecuencia es cada cuánto tiempo se "
+"hace ejercicio. La intensidad está relacionada con lo rápido o duro que es "
+"el ejercicio.La intensidad debe ser suficiente para que el corazón se "
+"esfuerce, pero tampoco tanta que la persona se canse antes de que el "
+"ejercicio pueda beneficiarle. La duración es por cuánto tiempo se realiza el "
+"ejercicio. En general, los adultos deben hacer al menos 30 minutos de "
+"ejercicio intenso al día. Aunque a menudo pensamos que el ejercicio intenso "
+"son actividades como nadar o correr, simplemente caminar puede aumentar la "
+"frecuencia cardíaca lo suficiente como para mejorar notablemente la salud."
+
+# 13
+msgid ""
+"Question A. Connect each of the descriptions on the right to the requirement "
+"for exercise it describes on the left by dragging any of the circles at the "
+"left column to another circle in the right column. Click the \"Start Over\" "
+"button to remove the lines and connect again."
+msgstr ""
+"Pregunta A. Conecta cada descripción, a la derecha, con el requisito del "
+"ejercicio que describe, a la izquierda, arrastrando cualquiera de los "
+"círculos de la columna de la izquierda a los círculos de la columna de la "
+"derecha. Haz clic en el botón \"Volver a empezar\" para borrar las líneas y "
+"conectarlas de nuevo."
+
+msgid "Start Over"
+msgstr "Empezar de nuevo"
+
+msgid "Frequency"
+msgstr "Frecuencia"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Intensity"
+msgstr "Intensidad"
+
+msgid "Increase heart rate while exercising."
+msgstr "Aumentar la frecuencia cardíaca durante el ejercicio."
+
+msgid "Exercise a set number of days per week."
+msgstr "Hacer ejercicio un número de días a la semana."
+
+msgid "Try to exercise at least 30 minutes per day."
+msgstr "Intentar hacer ejercicio al menos 30 minutos al día."
+
+msgid ""
+"Question B. Which of the following is <span class='blink red'>NOT</span> "
+"usually associated with heavy use of alcohol?"
+msgstr ""
+"Pregunta B. ¿Cuál de los siguientes <span class='blink red'>NO</span> se "
+"suele relacionar con el abuso del alcohol?"
+
+msgid "Extreme coolness"
+msgstr "Ser extremadamente divertido"
+
+msgid "Safe driving"
+msgstr "Conducción segura"
+
+msgid "Low risk of heart disease"
+msgstr "Bajo riesgo de enfermedades del corazón"
+
+msgid "Healthy liver function"
+msgstr "Buen funcionamiento del hígado"
+
+msgid "That's it! Heavy drinking is decidedly UNcool."
+msgstr "¡Eso es! Definitivamente beber mucho NO es divertido."
+
+msgid "Hardly. Don't get into a car with someone who's been drinking."
+msgstr "En absoluto. No montes en un coche con alguien que ha estado bebiendo."
+
+msgid "Think again! Heart disease risk goes up with heavy alcohol use."
+msgstr ""
+"¡Piénsalo de nuevo! El riego de enfermedades del corazón aumenta al abusar "
+"del alcohol."
+
+msgid "Not quite! Heavy drinking is damaging to the liver."
+msgstr "¡No exactamente! Beber mucho daña el hígado."
+
+# 14
+msgid "Using what you know... about staying healthy... to solve a problem"
+msgstr ""
+"Usando lo que sabes... sobre mantenerse sanos... para resolver un problema"
+
+msgid "The Scenario"
+msgstr "El escenario"
+
+msgid ""
+"You are a nutritionist working in a school. After taking some surveys you "
+"have realized that the majority of the fourth and fifth grade students are "
+"eating either a pastry that is put in the toaster, or sugar-coated cereal "
+"for breakfast 90% of the time. By solving this breakfast nutrition problem, "
+"you can help the students learn more in class."
+msgstr ""
+"Eres un/a nutricionista trabajando en una escuela. Tras hacer algunas "
+"encuestas te has dado cuenta de que la mayoría de los estudiantes de cuarto "
+"y quinto grado desayunan una torta que se pone en la tostadora o cereales "
+"con azúcar el 90% de las veces. Resolviendo este problema nutricional del "
+"desayuno, puedes ayudar a los estudiantes a aprender más en clase."
+
+msgid "Your Task"
+msgstr "Tu tarea"
+
+msgid ""
+"Explain to them why this breakfast is incomplete, and offer them healthier "
+"breakfast ideas. (Hint: you can inform them about the food groups their "
+"breakfast is not including, or about the harm in having too much of certain "
+"substances.)"
+msgstr ""
+"Explícales por qué este desayuno está incompleto, y ofréceles ideas "
+"saludables para el desayuno. (Pista: puedes informarles sobre los grupos de "
+"alimentos que su desayuno no incluye, o sobre el daño de consumir demasiado "
+"de ciertas sustancias)."
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para escribir tu respuesta..."
+
+# 15
+msgid "Summarizing core ideas... about staying healthy"
+msgstr "Resumiendo las ideas principales... sobre mantenerse sanos"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit.We looked at the <span class='key'>circulatory</"
+"span>, <span class='key'>respiratory</span>, <span class='key'>excretory</"
+"span>, <span class='key'>skeletal</span>, <span class='key'>digestive</"
+"span>, <span class='key'>endocrine</span>, and <span class='key'>nervous "
+"system</span> in this review. Most infections are caused by one of two "
+"agents: <span class='key'>bacteria</span> or <span class='key'>viruses</"
+"span>. Most of the time, our immune system is able to identify and destroy "
+"the bacteria and viruses infecting us. When it can't destroy bacteria, we "
+"need antibiotic medication, and when the virus is too dangerous, we get "
+"vaccinated ahead of time. Another way to stay healthy is to eat the right "
+"foods. The three main food groups are <span class='key'>carbohydrates</"
+"span>, <span class='key'>fats</span>, and <span class='key'>protein</span>. "
+"<span class='key'>Calories</span> are a measurement of the amount of energy "
+"a particular food holds in its molecules. Any healthy diet should include "
+"all types of food and enough calories to make it through each day without "
+"getting sick. The last point of staying healthy is to exercise and avoid "
+"substances that are harmful to the body. Prescribed medication for others, "
+"alcohol, cigarettes, drugs, and other substances that might even be in the "
+"home should be avoided to stay healthy."
+msgstr ""
+"Nuestros cuerpos están compuestos de muchos sistemas que trabajan juntos "
+"para mantenernos sanos. Cada sistema está formado por un conjunto de órganos "
+"que funcionan independientemente y en equipo. Hemos visto los sistemas <span "
+"class='key'>circulatorio</span>, <span class='key'>respiratorio</span>, "
+"<span class='key'>excretor</span>, <span class='key'>óseo</span>, <span "
+"class='key'>digestivo</span>, <span class='key'>endocrino</span> y <span "
+"class='key'>nervioso</span> en este repaso. La mayoría de infecciones son "
+"causadas por uno de dos agentes: <span class='key'>bacterias</span> o <span "
+"class='key'>virus</span>. La mayoría del tiempo, nuestro sistema inmunitario "
+"es capaz de identificar y destruir las bacterias infecciosas. Cuando no "
+"podemos destruir las bacterias, necesitamos antibióticos, y cuando los virus "
+"son demasiado peligrosos, nos vacunamos para prevenir. Otra forma de "
+"mantenernos sanos es comer los alimentos adecuados. Los tres grupos de "
+"alimentos principales son los <span class='key'>carbohidratos</span>, las "
+"<span class='key'>grasas</span> y las <span class='key'>proteínas</span>. "
+"Las <span class='key'>calorías</span> miden la cantidad de energía que un "
+"alimento concreto almacena en sus moléculas. Una dieta saludable debe "
+"incluir todos los tipos de alimentos y suficientes calorías para superar el "
+"día sin enfermar. El último punto para mantenerse sanos es hacer ejercicio y "
+"evitar sustancias perjudiciales para el cuerpo. Las medicinas prescritas "
+"para otros, el alcohol, el tabaco, las drogas y otras sustancias que incluso "
+"podrías tener en casa deberían ser evitadas para estar sano/a."
+
+# 16
+msgid "Reviewing key vocabulary... related to staying healthy"
+msgstr "Repasando vocabulario clave... relacionado con mantenerse sanos"
+
+msgid "Calorie"
+msgstr "Calorías"
+
+msgid "Carbohydrates"
+msgstr "Carbohidratos"
+
+msgid "Cells"
+msgstr "Células"
+
+msgid "Circulatory system"
+msgstr "Sistema circulatorio"
+
+msgid "Digestive system"
+msgstr "Sistema digestivo"
+
+msgid "Excretory system"
+msgstr "Sistema excretor"
+
+msgid "Fats"
+msgstr "Grasas"
+
+msgid "Immune system"
+msgstr "Sistema inmunitario"
+
+msgid "Nervous system"
+msgstr "Sistema nervioso"
+
+msgid "Organs"
+msgstr "Órganos"
+
+msgid "Proteins"
+msgstr "Proteínas"
+
+msgid "Reproductive system"
+msgstr "Sistema reproductivo"
+
+msgid "Respiratory system"
+msgstr "Sistema respiratorio"
+
+msgid "Skeletal system"
+msgstr "Sistema óseo"
+
+msgid "Systems"
+msgstr "Sistemas"
+
+msgid "Tissues"
+msgstr "Tejidos"
+
+msgid "Vitamins"
+msgstr "Vitaminas"
+
+msgid "A unit of heat energy used to compare foods."
+msgstr "Una unidad de energía usada para comparar alimentos."
+
+msgid "Quick energy food made of simple and complex sugars and starches."
+msgstr ""
+"Alimentos de energía rápida hechos de azúcares y almidones simples y "
+"complejos."
+
+msgid "The smallest units of living things."
+msgstr "Las unidades más pequeñas de entre los seres vivos."
+
+msgid ""
+"Heart, blood, and vessels responsible for the movement of nutrients and "
+"gasses throughout the body."
+msgstr ""
+"Corazón, sangre y vasos sanguíneos responsables del transporte de nutrientes "
+"y gases a lo largo del cuerpo."
+
+msgid ""
+"Stomach, liver, intestines, and other organs responsible for the breakdown "
+"and processing of food prior to absorption."
+msgstr ""
+"Estómago, hígado, intestinos y otros órganos responsables de la "
+"descomposición y procesado de los alimentos antes de su absorción."
+
+msgid "Kidneys and other organs responsible for the removal of chemical waste."
+msgstr ""
+"Riñones y otros órganos responsables de la eliminación de residuos químicos."
+
+msgid "Energy storage food made of fatty acids and glycerol."
+msgstr "Alimentos que almacenan energía formados por ácidos grasos y glicerol."
+
+msgid ""
+"White blood cells, bone marrow, thymus, and spleen responsible for fighting "
+"infection."
+msgstr ""
+"Glóbulos blancos, médula ósea, timo y bazo, responsables de luchar contra "
+"las infecciones."
+
+msgid ""
+"Nerves, spinal cord, and brain responsible for responses to the environment."
+msgstr ""
+"Nervios, médula espinal y cerebro, responsables de las respuestas al entorno."
+
+msgid "Collections of tissues working together to perform functions."
+msgstr "Colecciones de tejidos que trabajan juntos para realizar funciones."
+
+msgid "Structural substances made from amino acids."
+msgstr "Sustancias estructurales formadas por aminoácidos."
+
+msgid ""
+"Ovaries, testes, and other organs responsible for the production of "
+"offspring."
+msgstr ""
+"Ovarios, testículos y otros órganos responsables de la producción de hijos."
+
+msgid ""
+"Lungs and other structures responsible for taking in oxygen and removing "
+"carbon dioxide."
+msgstr ""
+"Pulmones y otras estructuras responsables de absorber oxígeno y eliminar "
+"dióxido de carbono."
+
+msgid ""
+"Rigid framework of bones and connective tissues responsible for supporting "
+"and protecting the body."
+msgstr ""
+"Armazón rígida de huesos y tejidos conectivos responsable de soportar y "
+"proteger el cuerpo."
+
+msgid "Collections of organs working together to perform related tasks."
+msgstr ""
+"Colecciones de órganos que trabajan juntos para realizar tareas relacionadas."
+
+msgid "Groups of similar cells working together to perform similar functions."
+msgstr ""
+"Grupos de células similares que trabajan juntas para realizar funciones "
+"similares."
+
+msgid ""
+"Nutrients needed in very small amounts to support normal growth and activity."
+msgstr ""
+"Nutrientes necesarios en cantidades muy pequeñas para mantener el "
+"crecimiento y la actividad normales."
+
+# 17
+msgid "Checking what you now know... about staying healthy"
+msgstr "Comprobando lo que sabes ahora... sobre mantenerse sanos"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Responder las siguientes seis (6) preguntas de examen te dará una idea de lo "
+"que sabes ahora y lo que necesitas seguir estudiando."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón SIGUIENTE cuando estés listo/a."
+
+# 18
+msgid "The spinal cord is part of which of the following body systems?"
+msgstr ""
+"¿De cuál de los siguientes sistemas del cuerpo forma parte la médula espinal?"
+
+msgid "Digestive System"
+msgstr "Sistema digestivo"
+
+msgid "Nervous System"
+msgstr "Sistema nervioso"
+
+msgid "Muscular System"
+msgstr "Sistema muscular"
+
+msgid "Integumentary System"
+msgstr "Sistema integumentario"
+
+msgid ""
+"Not quite! The spinal cord is about information; the digestive system is "
+"about food."
+msgstr ""
+"¡No exactamente! La médula espinal tiene que ver con la información, y el "
+"sistema digestivo con los alimentos."
+
+msgid "You got it! The spinal cord carries information to and from the brain."
+msgstr "¡Lo tienes! La médula espinal transporta información de y al cerebro."
+
+msgid ""
+"Try again! The spinal cord is about information; the muscular system is "
+"about movement."
+msgstr ""
+"¡Inténtalo otra vez! La médula espinal tiene que ver con la información, y "
+"el sistema muscular con el movimiento."
+
+msgid ""
+"Nope! The spinal cord is about information; the integumentary system is "
+"about protection."
+msgstr ""
+"¡No! La médula espinal tiene que ver con la información, y el sistema "
+"integumentario con la protección."
+
+# 19
+msgid "Choose the correct statement:"
+msgstr "Elige la afirmación correcta:"
+
+msgid "A. Organs may be made of a variety of different tissues."
+msgstr "A. Los órganos pueden estar hechos de varios tejidos diferentes."
+
+msgid "B. Each organ is made of a unique tissue type."
+msgstr "B. Cada órgano está hecho de un tipo de tejido único."
+
+msgid "C. Organ systems consist of only a single type of tissue."
+msgstr "C. Los sistemas de órganos consisten en sólo un tipo de tejido."
+
+msgid "D. Cells are made of many different tissue types."
+msgstr "D. Las células están hechas de muchos tipos de tejidos diferentes."
+
+msgid ""
+"Rotate or flip the box on the left either up or down to set your answer."
+msgstr ""
+"Gira la caja de la izquierda hacia arriba o hacia abajo para marcar tu "
+"respuesta."
+
+msgid "Click, hold and slide mouse up or down."
+msgstr ""
+"Haz clic, mantén pulsado y arrastra el ratón hacia arriba o hacia abajo."
+
+msgid "That's right! Organs may be made of many tissues."
+msgstr "¡Eso es! Los órganos pueden estar formados por muchos tejidos."
+
+msgid "Look again! Organs MAY be made of more than one tissue."
+msgstr ""
+"¡Mira otra vez! Los órganos PUEDEN estar formados por más de un tejido."
+
+msgid "Nope! Systems are made of organs; organs may be made of many tissues."
+msgstr ""
+"¡No! Los sistemas están formados por órganos, y los órganos pueden estar "
+"formados por muchos tejidos."
+
+msgid "The exact opposite, tissues are made of cells."
+msgstr "Exactamente lo contrario, los tejidos están formados por células."
+
+# 20
+msgid "Which of the following is affected by the respiratory system?"
+msgstr "¿Cuál de los siguientes es provocado por el sistema respiratorio?"
+
+msgid "Hiccup"
+msgstr "Hipo"
+
+msgid "Sneeze"
+msgstr "Estornudo"
+
+msgid "Yawn"
+msgstr "Bostezo"
+
+msgid "All of the above"
+msgstr "Todas las anteriores"
+
+msgid ""
+"Not quite! Hiccups are the sudden movements of the diaphragm, but it's not "
+"the only one affected by the respiratory system."
+msgstr ""
+"¡No exactamente! El hipo es un movimiento repentino del diafragma, pero no "
+"es el único provocado por el sistema respiratorio."
+
+msgid ""
+"Not quite! Sneezing is like a cough in the upper breathing passages, but "
+"it's not the only one affected by the respiratory system."
+msgstr ""
+"¡No exactamente! Un estornudo es como toser por los canales respiratorios "
+"superiores, pero no es el único provocado por el sistema respiratorio."
+
+msgid ""
+"Not quite! Yawning happens when your lungs do not take enough oxygen from "
+"the air because we are sleepy or drowsy. But it's not the only one affected "
+"by the respiratory system."
+msgstr ""
+"¡No exactamente! El bostezo ocurre cuando tus pulmones no absorben "
+"suficiente oxígeno del aire porque estamos somnolientos o cansados. Pero no "
+"es el único provocado por el sistema respiratorio."
+
+msgid ""
+"Correct! Hiccupping, sneezing, and yawning are all affected by the "
+"respiratory system."
+msgstr ""
+"¡Correcto! Tanto el hipo como los estornudos y los bostezos son provocados "
+"por el sistema respiratorio."
+
+# 21
+msgid "What is the main function of the circulatory system?"
+msgstr "¿Cuál es la función principal del sistema circulatorio?"
+
+msgid "To help us breathe"
+msgstr "Ayudarnos a respirar"
+
+msgid "To provide support for the body"
+msgstr "Proporcionar soporte al cuerpo"
+
+msgid "To control the digestive and reproductive systems"
+msgstr "Controlar los sistemas digestivo y reproductivo"
+
+msgid "To control the blood flow around the body"
+msgstr "Controlar el flujo de sangre a través del cuerpo"
+
+msgid ""
+"Nope! The circulatory system circulates blood to all the far out places of "
+"the body."
+msgstr ""
+"¡No! El sistema circulatorio hace circular la sangre a todos los puntos del "
+"cuerpo."
+
+msgid ""
+"Not quite! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr ""
+"¡No exactamente! El sistema circulatorio hace circular la sangre a todos los "
+"puntos del cuerpo."
+
+msgid ""
+"Try again! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr ""
+"¡Inténtalo otra vez! El sistema circulatorio hace circular la sangre a todos "
+"los puntos del cuerpo."
+
+msgid ""
+"You got it! The circulatory system circulates blood to all the far out "
+"places of the body."
+msgstr ""
+"¡Lo tienes! El sistema circulatorio hace circular la sangre a todos los "
+"puntos del cuerpo."
+
+# 22
+msgid "How should a person plan diet and exercise if they want to lose weight?"
+msgstr ""
+"¿Cómo debe planear una persona la dieta y el ejercicio si quiere perder peso?"
+
+msgid "Exercise should use fewer calories than diet takes in."
+msgstr ""
+"El ejercicio debe quemar menos calorías de las que se ingieren en la dieta."
+
+msgid "Diet and exercise are not related to one another."
+msgstr "La dieta y el ejercicio no están relacionados entre sí."
+
+msgid "At least one major food group should be eliminated from the diet."
+msgstr ""
+"Al menos un grupo principal de alimentos debe ser eliminado de la dieta."
+
+msgid "Exercise should use more calories than diet takes in."
+msgstr ""
+"El ejercicio debe quemar más calorías de las que se ingieren en la dieta."
+
+msgid "Nope! This plan will add weight."
+msgstr "¡No! Ese plan haría ganar peso."
+
+msgid "Try again! Diet and exercise certainly ARE related to one another."
+msgstr ""
+"¡Inténtalo de nuevo! En realidad la dieta y el ejercicio SÍ se relacionan "
+"entre sí."
+
+msgid ""
+"Not a good idea. Eliminating food groups isn't generally healthy approach."
+msgstr ""
+"No es una buena idea. Eliminar grupos de alimentos no suele ser una "
+"estrategia sana."
+
+msgid "Super! This plan will lead to weight loss."
+msgstr "¡Genial! Ese plan haría perder peso."
+
+# 23
+msgid "How are exercise and heart rate related?"
+msgstr "¿Cómo se relacionan el ejercicio y el ritmo cardíaco?"
+
+msgid "Heavy exercise increases heart rate"
+msgstr "Mucho ejercicio aumenta el ritmo cardíaco"
+
+msgid "Heavy exercise decreases heart rate"
+msgstr "Mucho ejercicio disminuye el ritmo cardíaco"
+
+msgid "Sitting still increases heart rate"
+msgstr "Estar sentado/a aumenta el ritmo cardíaco"
+
+msgid "Light exercise decreases heart rate"
+msgstr "El ejercicio ligero disminuye el ritmo cardíaco"
+
+msgid "You got it! Heavy exercise does increase heart rate."
+msgstr "¡Lo tienes! El ejercicio intenso aumenta el ritmo cardíaco."
+
+msgid "The exact opposite! Go over the choices again."
+msgstr "¡Exactamente lo contrario! Revisa las opciones otra vez."
+
+msgid "Nope! Sitting still does little to heart rate."
+msgstr "¡No! Estar sentado/a afecta muy poco al ritmo cardíaco."
+
+msgid ""
+"Tricky... Actually any exercise elevates heart rate, at least a little bit."
+msgstr ""
+"Tiene truco... En realidad cualquier ejercicio aumenta el ritmo cardíaco, al "
+"menos un poco."
+
+# 24
+msgid "Congratulations, "
+msgstr "Felicidades,"
+
+msgid "You've completed the Staying Healthy review."
+msgstr "Has completado el repaso de Mantenerse sanos."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes comprobar cómo lo has hecho en los 'Repasos rápidos' y las 'Preguntas "
+"de examen' de este repaso haciendo clic en el siguiente botón."
+
+msgid "Go to dashboard"
+msgstr "Ir al panel principal"
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Rotate or flip the box below either up or down to set your answer."
+msgstr ""
+"Girar o voltear el cuadro de abajo hacia arriba o hacia abajo para ajustar "
+"su respuesta."

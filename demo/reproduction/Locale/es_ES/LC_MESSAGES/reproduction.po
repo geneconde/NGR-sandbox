@@ -1,0 +1,1519 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Biodiversity\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Comprobar la respuesta"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "You answered..."
+msgstr "Respondiste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba su respuesta."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Comprobación rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Comprobación rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Comprobación rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Comprobación rápida #4"
+
+msgid "Quick Check #5"
+msgstr "Comprobación rápida #5"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de cuestionario #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de cuestionario #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de cuestionario #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de cuestionario #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de cuestionario #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de cuestionario #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo me fue?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Navega por las diapositivas abajo haciendo clic en las flechas izquierdas y "
+"derecha"
+
+msgid "Go to dashboard"
+msgstr "Ve al panel de control"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Empecemos!"
+
+msgid "Are you ready, "
+msgstr "¿Estás listo/a? "
+
+msgid "Reproducing microorganism..."
+msgstr "Reproduciendo un microorganismo…"
+
+msgid "Taking care of offspring..."
+msgstr "Cuidando a la descendencia..."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera comprobación rápida…"
+
+msgid "Enumerating hereditary characteristics..."
+msgstr "Enumerando características hereditarias…"
+
+msgid "Plants reproduction"
+msgstr "Reproducción de las plantas"
+
+msgid "Survival instincts of organisms..."
+msgstr "Instintos de supervivencia de organismos…"
+
+msgid "Studying the life cycle..."
+msgstr "Estudiando el ciclo de la vida…"
+
+msgid "Bees carrying pollen"
+msgstr "Abejas que llevan polen"
+
+msgid "Flowers are blooming"
+msgstr "Flores que florecen"
+
+msgid "Courting peacocks"
+msgstr "Pavos reales que cortejan"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Preparado/a para tu última comprobación rápida?"
+
+msgid "Flying birds"
+msgstr "Pájaros que vuelan"
+
+msgid "Putting it all together..."
+msgstr "Juntándolo todo…"
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Vamos a ver lo que sabes ahora"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de cuestionario es…"
+
+msgid "Stallions competing for dominance"
+msgstr "Sementales que compiten por la dominación"
+
+msgid "Flipping the box..."
+msgstr "Invirtiendo la caja…"
+
+msgid "A pack of wolves is running."
+msgstr "Una manada de lobos está corriendo."
+
+msgid "Flying bats"
+msgstr "Murciélagos que vuelan"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Preparado/a para tu última pregunta de cuestionario?"
+
+msgid "You're done!"
+msgstr "¡Has terminado!"
+
+# 1
+msgid "Start"
+msgstr "Empezar"
+
+msgid "Welcome to the Reproduction review"
+msgstr "Bienvenido/a al resumen de la Reproducción"
+
+# 2
+msgid "Thinking about... reproduction"
+msgstr "Pensando sobre… reproducción"
+
+msgid ""
+"You have a family, what about plants and animals? Do they have families too? "
+"Think about plants and animals having parents and then having children of "
+"their own. The ability to reproduce ensures that families continue into the "
+"future. This is true for all of nature. The varieties of ways in which "
+"reproduction occurs is nothing short of amazing."
+msgstr ""
+"Tú tienes una familia, ¿pero qué hay de las plantas y los animales? ¿También "
+"tienen familias? Piensa que las plantas y los animales tienen padres y luego "
+"tienen hijos propios. La capacidad de reproducirse asegura que las familias "
+"continúen en el futuro. Esto es cierto para toda la naturaleza. La gran "
+"cantidad de formas en las que se produce la reproducción es poco menos que "
+"increíble."
+
+# 3
+msgid "Checking what you know... about reproduction"
+msgstr "Comprobando lo que sabes… sobre reproducción"
+
+msgid ""
+"Click on <span class='red blink'>all</span> the <span class='blink'>correct</"
+"span> statements below."
+msgstr ""
+"Haga clic en <span class='red blink'>todas</span> las declaraciones <span "
+"class='blink'>correctas</span> de abajo."
+
+msgid "All living organisms reproduce."
+msgstr "Todos los organismos vivos se reproducen."
+
+msgid "All non-living organisms reproduce."
+msgstr "Todos los organismos no vivos se reproducen."
+
+msgid "All organisms that reproduce need a male and a female to do so."
+msgstr ""
+"Todos los organismos que se reproducen necesitan un macho y una hembra para "
+"hacerlo."
+
+msgid "Living things have different ways to reproduce."
+msgstr "Los seres vivos tienen diferentes maneras de reproducirse."
+
+msgid "Reproduction is a natural tendency to keep life going."
+msgstr ""
+"La reproducción es una tendencia natural para hacer que la vida continúe."
+
+msgid "Plants and animals have the same structures for reproduction."
+msgstr ""
+"Las plantas y los animales tienen las mismas estructuras para la "
+"reproducción."
+
+msgid ""
+"You may or may not have checked all the right ones—a few are a bit tricky. "
+"Reproduction is a natural tendency to continue life by creating offspring. "
+"There are different ways to reproduce, not always involving a female and a "
+"male. All living things--plants, animals, and microorganisms reproduce. "
+"There are non-living things like viruses that also reproduce and make more "
+"viruses. Living organisms have different structures to help them reproduce. "
+"You will learn more about reproduction in this review."
+msgstr ""
+"Puede, o puede que no, hayas marcado todas las que son correctas; algunas de "
+"ellas son un poco complicadas. La reproducción es un proceso natural que "
+"crea descendencia. Hay diferentes maneras de reproducirse, y no siempre es "
+"necesario una hembra y un macho. Todos los seres vivos, plantas, animales y "
+"microorganismos, se reproducen. Hay seres no vivos como los virus que "
+"también se reproducen y hacen más virus. Los organismos vivos tienen "
+"diferentes estructuras que les ayudan a reproducirse. Aprenderás más sobre "
+"la reproducción en esta revisión."
+
+# 4
+msgid "Reviewing core ideas... about reproduction"
+msgstr "Revisando las ideas centrales… sobre reproducción"
+
+msgid ""
+"Life begins... somehow. Plants sprout. Eggs hatch. Microbes divide. Mammals "
+"are born. All living things go through a life cycle, a pattern of "
+"development that includes growth, adult development, <span class=\"key"
+"\">reproduction</span>, aging, and death."
+msgstr ""
+"La vida empieza… de alguna manera. Las plantas brotan. Los huevos "
+"eclosionan. Los microbios se dividen. Los mamíferos nacen. Todos los seres "
+"vivos pasan por un ciclo de vida, un modelo de desarrollo que incluye el "
+"crecimiento, el desarrollo del adulto, la <span class=\"key\">reproducción</"
+"span>, el envejecimiento y la muerte."
+
+msgid ""
+"All living things start out small, usually too small to survive in a hostile "
+"world. Plants grow and mature. They develop <span class=\"key\">flowers</"
+"span> which turn into fruits, and contain the seeds for the next generation."
+msgstr ""
+"Todos los seres vivos empiezan como cosas pequeñas, por lo general demasiado "
+"pequeñas para sobrevivir en un mundo hostil. Las plantas crecen y maduran. "
+"Desarrollan <span class=\"key\">flores</span> que a su vez se convierten en "
+"frutas, que contienen las semillas para la siguiente generación."
+
+msgid ""
+"Animals have life cycles as well. Once animals are born, some are taken care "
+"of by their parents, and some never even know their parents, and live on "
+"their own immediately. They become able to reproduce when they reach their "
+"full size. Animals reproduce in different ways. In species having parents of "
+"different sexes, the mating process may be as simple as spreading eggs and "
+"sperm in a trench at the bottom of a stream to a life-long partnership, "
+"lasting many years."
+msgstr ""
+"Los animales también tienen ciclos de vida. Cuando nacen los animales, "
+"algunos son atendidos por sus padres mientras que algunos ni siquiera saben "
+"quiénes son sus padres e inmediatamente viven por su cuenta. Llegan a ser "
+"capaces de reproducirse cuando alcanzan su tamaño completo. Los animales se "
+"reproducen de diferentes maneras. En las especies que tienen padres de sexos "
+"diferentes, el proceso de apareamiento puede ir desde la simple difusión de "
+"los óvulos y los espermatozoides en una zanja en la parte inferior de la "
+"corriente de un río hasta a una asociación para toda la vida, con una "
+"duración de muchos años."
+
+msgid ""
+"After an animal's reproductive and parenting years are completed, most begin "
+"a process of decline. Illnesses are more frequent and last longer. Wounds "
+"take longer to heal. Finding food and resources becomes more difficult. "
+"Eventually all animals die, completing their cycle of life."
+msgstr ""
+"Después de completar años de reproducción y de crianza de un animal, la "
+"mayoría comienza un proceso de declive. Las enfermedades son más frecuentes "
+"y duran más. Las heridas tardan más en sanar. Encontrar alimentos y recursos "
+"se vuelve más difícil. Eventualmente, todos los animales mueren, completando "
+"su ciclo de vida."
+
+# 5
+msgid ""
+"Question A. Which of the following stages is <span class=\"blink\">not</"
+"span> a part of all animal life cycles?"
+msgstr ""
+"Pregunta A. ¿Cuál de las siguientes etapas <span class=\"blink\">no</span> "
+"forma parte del ciclo de vida de todos los animales?"
+
+msgid "Birth or hatching"
+msgstr "Nacimiento o eclosión"
+
+msgid "Reproducing"
+msgstr "Reproducción"
+
+msgid "Caring for young"
+msgstr "Preocuparse por los jóvenes"
+
+msgid "Death"
+msgstr "Muerte"
+
+msgid ""
+"Question B. Which living things have this life cycle: birth, growth, "
+"reproduction, and death?"
+msgstr ""
+"Pregunta B. ¿Qué seres vivos tienen el ciclo de vida siguiente: nacimiento, "
+"crecimiento, reproducción y muerte?"
+
+msgid "Plants and animals"
+msgstr "Plantas y animales"
+
+msgid "Animals and humans"
+msgstr "Animales y humanos"
+
+msgid "Nearly all living organisms"
+msgstr "Casi todos los seres vivos."
+
+msgid "Plants, animals, and humans"
+msgstr "Plantas, animales y humanos"
+
+msgid "No... All animals hatch or are born."
+msgstr "No… Los animales nacen o eclosionan"
+
+msgid "No... All types of animals reproduce."
+msgstr "No… Todos los tipos de animales se reproducen."
+
+msgid ""
+"That's correct. Some types of animals live on their own their entire lives."
+msgstr ""
+"Correcto. Algunos tipos de animales viven por su cuenta la mayor parte de "
+"sus vidas."
+
+msgid "No... All animals eventually die."
+msgstr "No… Los animales acaban muriéndose."
+
+msgid ""
+"Not quite. Plants and animals do have life cycles like that, but so do "
+"humans and all other living organisms."
+msgstr ""
+"No exactamente. Las plantas y los animales tienen ciclos de vida como éste, "
+"pero también lo tienen humanos y otros seres vivos."
+
+msgid ""
+"Not quite. Humans and animals do have life cycles like that, but so do "
+"plants and all other living organisms."
+msgstr ""
+"No exactamente. Los humanos y los animales tienen ciclos de vida como este, "
+"pero también lo tienen las plantas y otros seres vivos."
+
+msgid ""
+"Correct! Plants, animals, humans, and other living organisms have the life "
+"cycle of birth, growth, reproduction, and death."
+msgstr ""
+"¡Correcto! Las plantas, los animales, los humanos y otros seres vivos tienen "
+"el ciclo de vida de nacimiento, crecimiento, reproducción y muerte."
+
+msgid ""
+"Almost. There are tiny organisms you left out that also have this type of "
+"life cycle."
+msgstr ""
+"Casi. Hay pequeños organismos que te has dejado que también tienen este tipo "
+"de ciclo de vida."
+
+# 6
+msgid "More core ideas... about reproduction"
+msgstr "Más ideas centrales… sobre reproducción"
+
+msgid ""
+"Some types of living things are able to reproduce one individual at a time, "
+"by dividing or having small parts break off from the parent. This is common "
+"in microbes and in many types of plants. This type of reproduction is called "
+"<span class=\"key\">asexual</span>, and results in <span class=\"key"
+"\">offspring</span> that are exact copies of their parents."
+msgstr ""
+"Algunos tipos de seres vivos son capaces de reproducirse una vez en cada "
+"momento, mediante la división o que separación de parte de sus cuerpos que "
+"se desprenden del padre. Esto es común en los microbios y en muchos tipos de "
+"plantas. Este tipo de reproducción se llama <span class=\"key\">asexual</"
+"span> y resulta en una <span class=\"key\">descendencia</span> que es una "
+"copia exacta de los padres."
+
+msgid ""
+"Other organisms require two parents for reproduction to occur. Each parent "
+"contributes equally to each offspring, so that offspring always have "
+"characteristics of both parents. This type of reproduction is called <span "
+"class=\"key\">sexual reproduction</span>, and involves males (who contribute "
+"sperm) and females (who contribute eggs). This type of reproduction often "
+"involves complex mating behaviors that help determine which individuals will "
+"choose each other as partners. This is common in animals."
+msgstr ""
+"Otros organismos requieren dos partes para que suceda la reproducción. Cada "
+"padre contribuye igualmente en la descendencia, de manera que ésta siempre "
+"tiene características de los dos padres. Este tipo de reproducción se llama "
+"<span class=\"key\">reproducción sexual</span>, e involucra machos (que "
+"contribuyen con sus espermatozoides) y hembras (que contribuyen con sus "
+"óvulos). Este tipo de reproducción a menudo involucra comportamientos de "
+"acoplamiento complejos que ayudan a determinar qué individuos elegirán entre "
+"sí como socios. Esto es común en los animales."
+
+msgid ""
+"Depending on the type of reproductions, similarities between parents and "
+"offspring may differ. Asexual reproduction results in offspring exactly like "
+"the parent; and sexual reproduction leads to offspring who resemble their "
+"parents, but are not copies. Each generation produces unique combinations of "
+"characteristics that enable the species to be capable of surviving any "
+"number of problems which may occur in nature. Much of the beauty of nature "
+"is related to the amazing variety of plant and animal reproductive anatomy "
+"and behavior."
+msgstr ""
+"Dependiendo del tipo de reproducción, las similitudes entre los padres y los "
+"hijos pueden ser diferentes. La reproducción asexual resulta en una "
+"descendencia exacta al padre; y la reproducción sexual conduce a una "
+"descendencia que se parece a sus padres, pero no es una copia de ellos. Cada "
+"generación produce combinaciones únicas de características que permiten a "
+"las especies a ser capaces de sobrevivir a cualquier número de problemas que "
+"puedan ocurrir en la naturaleza. Gran parte de la belleza de la naturaleza "
+"se relaciona con la increíble variedad de la anatomía y el comportamiento "
+"reproductor de plantas y animales."
+
+# 7
+msgid ""
+"Question A. How are the products of asexual reproduction similar to their "
+"parents?"
+msgstr ""
+"Pregunta A. ¿En qué medida son los productos de la reproducción asexual "
+"similares a sus padres?"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"Rota o invierte la caja 3D de la izquierda, ya sea hacia arriba o hacia "
+"abajo para ajustar tu respuesta."
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "Haz clic, aprieta y desplaza el ratón hacia arriba o hacia abajo."
+
+msgid "They can only reproduce once per lifetime."
+msgstr "Sólo se pueden reproducir una vez en la vida."
+
+msgid "They have half of their parent's genes."
+msgstr "Tienen la mitad de los genes de sus padres."
+
+msgid "They are exactly like their parent."
+msgstr "Son iguales a sus padres."
+
+msgid "They have double of their parent's genes."
+msgstr "Tienen el doble de genes que sus padres."
+
+msgid ""
+"Question B. What is the easiest way to get a plant to reproduce asexually?"
+msgstr ""
+"Pregunta B. ¿Cuál es la forma más fácil de que una planta de reproduzca "
+"asexualmente?"
+
+msgid "By splitting it down the middle."
+msgstr "Dividiéndola por la mitad."
+
+msgid "By giving it artificial hormones."
+msgstr "Dándole hormonas artificiales."
+
+msgid "By taking a cutting from it and replanting it."
+msgstr "Cortando un trozo de la misma y replantándolo."
+
+msgid "By spreading its roots through the ground."
+msgstr "Esparciendo sus raíces por el suelo."
+
+msgid ""
+"Correct. The child has the exact same genes the parent does, like a clone."
+msgstr ""
+"Correcto, el hijo tiene exactamente los mismos genes que tiene el padre, "
+"como un clon."
+
+msgid "No. The product of asexual reproduction is exactly like the parent."
+msgstr ""
+"No. El producto de la reproducción asexual es exactamente igual al padre."
+
+msgid ""
+"No, in asexual reproduction the product has the exact same genes the parent "
+"does."
+msgstr ""
+"No, en la reproducción asexual el producto tiene exactamente los mismos "
+"genes que el padre."
+
+msgid ""
+"No, in asexual reproduction the child has the exact same genes the parent "
+"does."
+msgstr ""
+"No, en la reproducción asexual, el hijo tiene exactamente los mismos genes "
+"que tiene el padre."
+
+msgid "That works! Using roots to copy plants is a good choice."
+msgstr ""
+"¡Esto funciona! Usar raíces para copiar una planta es una buena elección."
+
+msgid ""
+"No, splitting it down the middle will not make another plant, it will just "
+"kill it."
+msgstr ""
+"No, dividir una planta por la mitad no hará que salga otra planta, "
+"simplemente la matará."
+
+msgid ""
+"No, artificial hormones might make it grow, but not reproduce asexually."
+msgstr ""
+"No, puede que las hormonas artificiales la hagan crecer, pero no la harán "
+"reproducirse sexualmente."
+
+msgid "No, that is incorrect."
+msgstr "No, esto es incorrecto."
+
+# 8
+msgid ""
+"Living things grow, breathe, eat (take in the substances they need to grow), "
+"get rid of waste, and reproduce in different ways. They all move and respond "
+"to their environment somehow. When a dog pants and a human sweats, they are "
+"both trying to cool down. Thorns on a rose bush are very similar to the "
+"stink of a skunk in that they both are trying to protect themselves. A plant "
+"grows toward light and animals move to find water and food."
+msgstr ""
+"Los seres vivos crecen, respiran, comen (disfrutan de las sustancias que "
+"necesitan para crecer), se deshacen de los residuos y se reproducen de "
+"diferentes formas. Todos ellos se mueven y responden a su ambiente de alguna "
+"manera. Cuando un perro saca la lengua y cuando un humano suda, ambos están "
+"tratando de enfriarse. Las espinas en un rosal son muy similares a la peste "
+"de una mofeta, pues ambos están tratando de protegerse a sí mismos. Una "
+"planta crece hacia la luz y los animales se mueven en busca de agua y comida."
+
+msgid ""
+"What do a monkey and a microbe have in common? A lot actually. All organisms "
+"grow, reproduce, get old and die. They each carry out different parts of "
+"their life cycle in different ways. To do this, plants and animals have "
+"different structures, or parts."
+msgstr ""
+"¿Qué tienen en común un mono y un microbio? En realidad mucho. Todos los "
+"organismos crecen, se reproducen, envejecen y mueren. Cada uno de ellos "
+"lleva a cabo diferentes partes de su ciclo de vida de diferentes maneras. "
+"Para ello, las plantas y los animales tienen diferentes estructuras o partes."
+
+msgid ""
+"Plants and animals have both internal and external structures that help them "
+"live based on their needs. Dogs have lungs and fish have gills. Both of "
+"these structures help the animals breathe. Colored petals on a flower and "
+"colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"Las plantas y los animales tienen tanto estructuras internas como externas "
+"que les ayudan a mantenterse vivos basándose en sus necesidades. Los perros "
+"tienen pulmones y los peces tienen branquias. Estas dos estructuras ayudan a "
+"los animales a respirar. Los pétalos de color de una flor y las plumas de "
+"colores de un pájaro son las estructuras que tienen que ayudar a que la "
+"reproducción tenga lugar."
+
+msgid ""
+"There are similarities and differences among all the species that reproduce "
+"sexually. In all species, females produce eggs and males produce sperm. But "
+"they do so with very different physical structures. Plant reproductive "
+"structures are found in flowers. In animals, individuals are either male or "
+"female, each having very different reproductive systems."
+msgstr ""
+"Hay similitudes y diferencias entre todas las especies que se reproducen "
+"sexualmente. En todas las especies, las hembras producen óvulos y los machos "
+"producen espermatozoides. Pero lo hacen con estructuras físicas muy "
+"diferentes. Las estructuras reproductivas de las plantas se encuentran en "
+"las flores. En los animales, los individuos son o machos o hembras, y cada "
+"uno tiene un aparato reproductor muy diferente."
+
+msgid ""
+"Many plants have both male and female parts in the same flower. Hover your "
+"mouse over each image to know more information."
+msgstr ""
+"Muchas plantas tienen tanto partes masculinas como partes femeninas en la "
+"misma flor. Pasa el ratón sobre cada imagen para obtener más información."
+
+msgid ""
+"The male part is called a stamen. Sperm are packaged into particles called "
+"<span class=\"key\">pollen</span> grains."
+msgstr ""
+"La parte del macho es llamado estambre. Los espermatozoides están "
+"almacenados en pequeñas partículas llamadas granos de <span class=\"key"
+"\">polen</span>."
+
+msgid ""
+"The female part of the flower is called the pistil. When the pollen grain "
+"breaks open, a tube grows into the pistil and penetrates the ovary. A sperm "
+"cell then travels down the pollen tube to fertilize an egg cell."
+msgstr ""
+"La parte hembra de la flor se llama el pistilo. Cuando se abren los granos "
+"de polen, un tubo se convierte en el pistilo y penetra en el ovario. Un "
+"espermatozoide viaja por la trompa de polen para fertilizar un óvulo."
+
+msgid ""
+"Egg cells are located inside the ovary. After the sperm and egg cells unite, "
+"a seed begins to develop inside the ovary."
+msgstr ""
+"Los óvulos se encuentran dentro del ovario. Después de que los "
+"espermatozoides y el óvulo se unan, una semilla comienza a desarrollarse "
+"dentro del ovario."
+
+msgid "The rest of the ovary develops into a fruit."
+msgstr "El resto del ovario se convierte en una fruta."
+
+# 9
+msgid ""
+"Question A. Fill in the blanks to complete the paragraph below. Click on the "
+"select button to choose the <span class=\"blink\">correct</span> answer."
+msgstr ""
+"Pregunta A. Rellena los espacios en blanco para completar el párrafo a "
+"continuación. Haz clic en el botón seleccionar para elegir la respuesta "
+"<span class='blink'>correcta</span>."
+
+msgid "In all species, females produce"
+msgstr "En todas las especies, las hembras producen"
+
+msgid "flowers"
+msgstr "flores"
+
+msgid "productive"
+msgstr "productivas"
+
+msgid "pollen"
+msgstr "polen"
+
+msgid "eggs"
+msgstr "óvulos"
+
+msgid "reproductive"
+msgstr "reproductivas"
+
+msgid "and males produce"
+msgstr "y los machos producen"
+
+msgid ""
+". But they do so with very different physical structures. Plant reproductive "
+"structures are found in "
+msgstr ""
+". Pero lo hacen con estructuras físicas muy diferentes. Las estructuras "
+"reproductoras de las plantas se encuentran en "
+
+msgid ""
+". In animals, individuals are either male or female, each having very "
+"different "
+msgstr ""
+". En los animales, los individuos son o machos o hembras, cada uno teniendo "
+"diferentes "
+
+msgid "systems."
+msgstr "sistemas."
+
+msgid ""
+"Question B. Click on <span class=\"blink\">all</span> the following "
+"processes that all living things do."
+msgstr ""
+"Pregunta B. Haz clic en <span class=\"blink\">todos</span> los procesos "
+"siguientes que los seres vivos hacen."
+
+msgid "Movement"
+msgstr "Movimiento"
+
+msgid "Respiration"
+msgstr "Respiración"
+
+msgid "Growing"
+msgstr "Crecimiento"
+
+msgid "Shrinking"
+msgstr "Encogimiento"
+
+msgid "Reproduction"
+msgstr "Reproducción"
+
+msgid "Asexual Reproduction"
+msgstr "Reproducción asexual"
+
+msgid "Responding to the environment"
+msgstr "Responder al entorno"
+
+msgid ""
+"Great job! Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but "
+"animals have two separate female and male animals."
+msgstr ""
+"¡Buen trabajo! Las plantas y los animales tienen diferentes partes para "
+"reproducirse. Algunas veces las plantas tienen estructuras de machos y "
+"estructuras de hembras, pero los animales tienen dos animales separados para "
+"machos y hembras."
+
+msgid ""
+"Not quite. Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"No exactamente. Las plantas y los animales tienen diferentes partes para la "
+"reproducción. En ocasiones las plantas tienen estructuras masculinas y "
+"femeninas en una sola planta, pero la mayoría de animales tienen padres "
+"macho y hembra separadamente."
+
+msgid ""
+"Great job! All living things move, breathe somehow, grow, reproduce, and "
+"respond to their environment."
+msgstr ""
+"¡Buen trabajo! Todos los seres vivos se mueven, respiran y de alguna manera, "
+"crecen, se reproducen y responden al entorno."
+
+msgid ""
+"Not quite. All living things move, breathe somehow, grow, reproduce, and "
+"respond to their environment."
+msgstr ""
+"No exactamente. Todos los seres vivos se mueven, respiran y de alguna "
+"manera, crecen, se reproducen y responden al entorno."
+
+# 10
+msgid ""
+"When you first look at flowers, the process of getting <span "
+"class='key'>pollen</span> to egg cells seems simple. The pollen probably "
+"just falls from the anther to the stigma, and everything takes care of "
+"itself. The real process is better. Future generations are healthier when "
+"characteristics from different parents are mixed in offspring. This is why "
+"most flowers don't have their male and female parts ready to reproduce at "
+"the same time. The pollen that is made by a particular plant won't be used "
+"to pollinate that plant, but will send its message to another plant."
+msgstr ""
+"Cuando ves por primera vez las flores, el proceso de la obtención del <span "
+"class='key'>polen</span> hacia un óvulo parece simple. Probablemente el "
+"polen sólo se cae de la antera al estigma, y todo se hace por sí solo. El "
+"proceso real es mejor. Las futuras generaciones son más saludables cuando "
+"las características de diferentes padres se mezclan en la descendencia. Esta "
+"es la razón por la que la mayoría de las flores no tienen sus partes "
+"masculinas y femeninas preparadas para reproducirse a la vez. El polen "
+"producido por una planta en particular no será utilizado para polinizar "
+"dicha planta, sino que se enviará su mensaje a otra planta."
+
+msgid ""
+"The problem is getting the pollen from one location to another. Sometimes "
+"pollen that is shed from a flower is carried by the wind to another flower. "
+"In more interesting cases, the pollen has a carrier - an animal. Birds, "
+"bees, and bats can be carriers of pollen."
+msgstr ""
+"El problema es llevar el polen de una ubicación a otra. A veces el polen que "
+"se desprende de una flor es transportado por el viento a otra flor. En los "
+"casos más interesantes, el polen tiene un portador: un animal. Los pájaros, "
+"las abejas y los murciélagos pueden ser portadoras de polen."
+
+msgid ""
+"Bees pollinate more than 100 types of agricultural crops in the United "
+"States, including apples, oranges, lemons, watermelons, and cantaloupe. Bees "
+"are attracted to flowers because they can smell sweet, sugary nectar, "
+"usually located near the base of the flower, inside the petals. As a bee "
+"climbs into a flower, its hairy body rubs past anthers, thick with pollen. "
+"Much of that pollen is stuck to the bee hairs. At the next flower, the bee "
+"climbs in again, searching for nectar. As it climbs in, it brushes past the "
+"sticky stigma, losing a few of the pollen grains. This pollen then "
+"fertilizes the flower and fruit development begins."
+msgstr ""
+"Las abejas politizan más de 100 tipos de cultivos agrícolas en los Estados "
+"Unidos, incluyendo las manzanas, las naranjas, los limones, las sandías y "
+"los melones. Las abejas son atraídas por las flores, ya sea por su dulce "
+"olor o su néctar azucarado, que normalmente se encuentra cerca de la base de "
+"la flor, dentro de los pétalos. Cuando una abeja se sube a una flor, su "
+"cuerpo peludo acaba frotando las anteras, que tienen mucho polen. Gran parte "
+"del polen se pega a los pelos de las abejas. En la siguiente flor, la abeja "
+"se sube de nuevo, en busca de néctar. A medida que asciende, roza el estigma "
+"pegajoso y pierde algunos de los granos de polen. Entonces este polen "
+"fertiliza dicha flor y empieza el desarrollo del fruto."
+
+# 11
+msgid "Question A. Which of the following is most likely a pollinator?"
+msgstr ""
+"Pregunta A. ¿Cuál de los siguientes es con más probabilidad un polinizador?"
+
+msgid "A beetle crawls into and out of a flower."
+msgstr "Un escarabajo que se arrastra dentro y fuera de una flor."
+
+msgid "A bird builds a nest in a tree."
+msgstr "Un pájaro que construye un nido en un árbol."
+
+msgid "Termites construct a colony inside a tree."
+msgstr "Unas termitas que construyen una colonia dentro de un árbol."
+
+msgid "Deer chew the leaves of plants in a meadow."
+msgstr "Un ciervo que mastica hojas de plantas en un prado."
+
+msgid ""
+"Question B. Which part of the plant holds the pollen before pollination "
+"happens?"
+msgstr ""
+"Pregunta B. ¿Qué parte de la planta retiene el polen antes de que suceda la "
+"polinización?"
+
+msgid "Correct. An animal must enter and leave flowers to be a pollinator."
+msgstr ""
+"Correcto. Un animal debe entrar y salir de las flores para ser un "
+"polinizador."
+
+msgid "Not this one. It doesn't say anything about the bird and flowers."
+msgstr "Ésta no. No dice nada sobre pájaros y flores."
+
+msgid "Nope. Eating a tree doesn't help its reproduction."
+msgstr "Nop. Comerse un árbol no ayuda a su reproducción."
+
+msgid "Sorry. Leaf-eating doesn't do anything for pollination."
+msgstr "Lo sentimos. Comerse hojas no ayuda a la polinización."
+
+msgid "Correct. Pollen is on the top part of the stamen."
+msgstr "Correcto. El polen se encuentra en la parte superior de los estambres."
+
+msgid "No, pollen is not on the stigma."
+msgstr "No, el polen no se encuentra en el estigma."
+
+msgid "No, pollen is not on the petal."
+msgstr "No, el polen no se encuentra en el pétalo."
+
+msgid "No, pollen is not on the stem."
+msgstr "No, el polen no se encuentra en el tallo."
+
+# 12
+msgid ""
+"In animals, individuals are either male or female; each having very "
+"different reproductive systems. In sexual reproduction, sperm from the male "
+"is united with an egg from the female creating a fertilized egg. Once its "
+"place is secure, it develops into a fetus and then into an infant, ready for "
+"birth. While different species take different amounts of time for "
+"development, the process is similar in all species."
+msgstr ""
+"En los animales, los individuos son machos o hembras; cada uno con "
+"diferentes sistemas reproductivos. En la reproducción sexual, el "
+"espermatozoide del macho se une con un óvulo de la hembra resultando en un "
+"óvulo fecundado. Una vez se encuentra en un lugar seguro, se convierte en un "
+"feto y luego en un bebé, listo ya para el nacimiento. Mientras que "
+"diferentes especies necesitan diferentes cantidades de tiempo para el "
+"desarrollo, el proceso es similar en todas las especies."
+
+msgid ""
+"In reality, for this to happen in animals, females usually choose their "
+"reproductive partners. Animal females in nature have one key interest: "
+"survival of their own offspring. Sometimes that means choosing a strong male "
+"to mate with. Sometimes other male characteristics matter more."
+msgstr ""
+"En realidad, para que esto suceda en los animales, las hembras suelen elegir "
+"a sus parejas reproductivas. Las hembras de los animales en la naturaleza "
+"tienen un interés fundamental: la supervivencia de su propia descendencia. A "
+"veces eso significa la elección de un hombre fuerte para aparearse. A veces "
+"otras características masculinas son más importantes."
+
+msgid ""
+"Many mammal, bird, fish, and reptile males make displays to attract females. "
+"These displays are examples of <span class=\"key\">courtship</span> "
+"behavior. Some examples you may have seen include peacocks showing off their "
+"tail feathers; stallions or bulls pawing at the ground; or cuttlefish "
+"changing colors almost instantly. The purpose of courtship behavior is to "
+"allow for the selection of healthy mates. This system, while not foolproof, "
+"works well enough that it is common throughout the animal kingdom."
+msgstr ""
+"Muchos machos mamíferos, aves, peces y reptiles  hacen exhibiciones para "
+"atraer a las hembras. Estas muestras son ejemplos de comportamiento para "
+"<span class=\"key\">cortejar</span>. Algunos ejemplos que puede que hayas "
+"visto incluyen a los pavos reales mostrando sus plumas de la cola; a los "
+"sementales o los toros pateando el suelo; o el cambio de color casi al "
+"instante de las sepias. El propósito de comportamiento de cortejo es "
+"permitir la selección de compañeros sanos. Este sistema, aunque no es "
+"infalible, funciona bastante bien y es común en todo el reino animal."
+
+# 13
+msgid ""
+"Question A. Which of the follow pictures shows an animal making a courtship "
+"display?"
+msgstr ""
+"Pregunta A. ¿Cuál de las siguientes imágenes muestra a un animal haciendo "
+"una exhibición de cortejo?"
+
+msgid ""
+"Question B. Select the <span class='blink'>correct</span> words and complete "
+"the paragraph below."
+msgstr ""
+"Pregunta B. Selecciona las palabras <span class='blink'>correctas</span> y "
+"completa el siguiente párrafo. "
+
+msgid "male"
+msgstr "macho"
+
+msgid "egg"
+msgstr "óvulo"
+
+msgid "asexual"
+msgstr "asexual"
+
+msgid "female"
+msgstr "hembra"
+
+msgid "sexual"
+msgstr "sexual"
+
+msgid "sperm"
+msgstr "espermatozoide"
+
+msgid "In"
+msgstr "En"
+
+msgid "reproduction, "
+msgstr "la reproducción, "
+
+msgid "from the "
+msgstr "de "
+
+msgid "is united with an/a"
+msgstr "se une mediante un/a"
+
+msgid "creating a fertilized egg."
+msgstr "creando un óvulo fertilizado."
+
+msgid "Correct! This bird is making a display."
+msgstr "¡Correcto! El pájaro se está exhibiendo."
+
+msgid "Not this one... it's just a bird."
+msgstr "Ésta no… simplemente es un pájaro."
+
+msgid "Nah... this is just a bird."
+msgstr "No… simplemente es un pájaro."
+
+msgid "Not this one... these are just parrots."
+msgstr "Ésta no… simplemente son loros."
+
+msgid ""
+"Great job! Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"¡Buen trabajo! Los animales crean descendencia a través de la reproducción "
+"sexual en la que el espermatozoide de los hombres y el óvulo de la hembra se "
+"unen."
+
+msgid ""
+"Not quite. Animals create offspring by sexual reproduction in which sperm "
+"from the male and an egg from the female unite."
+msgstr ""
+"No exactamente. Los animales crean descendencia a través de la reproducción "
+"sexual en la que el espermatozoide de los hombres y el óvulo de la hembra se "
+"unen."
+
+# 14
+msgid "Using what you know... about reproduction... to solve a problem"
+msgstr ""
+"Usando lo que sabes… sobre la reproducción… para solucionar un problema"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid ""
+"A certain bird, called a manakin shows his display to attract the female to "
+"mate. The male is brightly colored. The female is about the same size, but "
+"has colors that will allow her to remain unnoticed when she cares for her "
+"eggs in her nest. There is a lot of competition and only the alpha male will "
+"have the opportunity to mate."
+msgstr ""
+"Un pájaro determinado, llamado saltarín, muestra su exhibición para atraer a "
+"la hembra para aparearse. El macho es de color brillante. La hembra es "
+"aproximadamente el mismo tamaño, pero tiene colores que le permiten pasar "
+"desapercibida cuando ella cuida de sus huevos en su nido. Hay mucha "
+"competencia y sólo el macho alfa tendrá la oportunidad de aparearse."
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid ""
+"You are a zoologist in the <span class='key'>ornithology</span> department "
+"(a branch of zoology that concerns the study of birds). You are preparing an "
+"enclosed habitat for this manakin species to live at your zoo."
+msgstr ""
+"Eres un/a zoólogo/a en el departamento de <span class='key'>ornitología</"
+"span> (una rama de la zoología relacionado con el estudio de las aves). "
+"Estás preparando un hábitat cerrado para que esta especie de saltarín pueda "
+"vivir en tu zoológico."
+
+msgid ""
+"Based on what you now know about the animal and reproduction, what ideas do "
+"you have for the bird's area you are building? What behavior in the birds "
+"might cause problems related to mating? What could you do to solve such a "
+"problem with manakins in breeding season in your zoo?"
+msgstr ""
+"Basándote en lo que sabes sobre el animal y la reproducción, ¿qué ideas "
+"tienes para el área para los pájaros que estás construyendo? ¿Qué "
+"comportamiento en las aves podría causar problemas relacionados con el "
+"apareamiento? ¿Qué podrías hacer para resolver un problema de este tipo con "
+"los saltarines en época de reproducción en el zoológico?"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta …"
+
+# 15
+msgid "Summarizing core ideas... about reproduction"
+msgstr "Resumiendo ideas clave… sobre reproducción"
+
+msgid ""
+"All living things are capable of <span class='key'>reproduction</span>. Each "
+"new generation of <span class='key'>offspring</span> is the result of either "
+"asexual or sexual reproduction. Organisms that reproduce asexually do so by "
+"dividing or budding off new individuals. <span class='key'>Asexual</span> "
+"organisms are all alike. <span class='key'>Sexual reproduction</span> "
+"involves differences between males and females. This allows recombination of "
+"genetic material, and variation among different organisms of the same type. "
+"All plants and animals progress through life cycles. In the early stages of "
+"development, an organism grows from an embryo through various stages until "
+"it is mature enough for reproduction. In the reproductive phase, females "
+"produce egg cells and males produce sperm. Sperm is carried in pollen. <span "
+"class='key'>Pollination</span> is when pollen is carried from one flower to "
+"another, sometimes by the wind, but often by insects or other animals. "
+"Animals often have special behaviors to help them attract mates. These <span "
+"class='key'>courtship</span> behaviors send messages to opposite sex members "
+"of the same species that individuals are ready for reproduction."
+msgstr ""
+"Todos los seres vivos son capaces de <span class='key'>reproducirse</span>. "
+"Cada nueva generación de <span class='key'>descendencia</span> es el "
+"resultado de o bien la reproducción sexual o bien la reproducción asexual. "
+"Los organismos que se reproducen asexualmente lo hacen dividiéndose en dos "
+"para crac nuevos individuos. Los individuos <span class='key'>asexuales</"
+"span> se parecen entre ellos. La <span class='key'>reproducción sexual</"
+"span> involucra diferencias entra machos y hembras.Esto permite que haya una "
+"recombinación de material genético y una variación entre organismos del "
+"mismo tipo. Todas las plantas y los animales progresan a través de ciclos de "
+"vida. En las primeras frases del ciclo de vida, un organismo crece desde un "
+"embrión a través de diferentes etapas hasta que es suficientemente maduro "
+"como para reproducirse. En la fase reproductiva, las hembras producen óvulos "
+"y los machos producen espermatozoides. Los espermatozoides son llevados por "
+"el polen. La <span class='key'>polinización</span> es cuando el polen es "
+"llevado de una flor a otra, a veces por el viento, otras veces por insectos "
+"o animales. Los animales a veces tienen comportamientos especiales para "
+"atraer a sus parejas. Este comportamiento de <span class='key'>cortejo</"
+"span> envía mensajes al sexo opuesto de la misma especie indicando que ya "
+"están listos para la reproducción."
+
+# 16
+msgid "Reviewing key vocabulary... related to... reproduction"
+msgstr "Revisando vocabulario clave… relacionado con… reproducción"
+
+msgid "Offspring"
+msgstr "Descendencia"
+
+msgid "Sexual Reproduction"
+msgstr "Reproducción sexual"
+
+msgid "Flower"
+msgstr "Flor"
+
+msgid "Pollination/ Pollen"
+msgstr "Polinización/Polen"
+
+msgid "Courtship Display"
+msgstr "Exhibición de cortejo"
+
+msgid "Ornithology"
+msgstr "Ornitología"
+
+msgid ""
+"Reproduction is the act of making the same thing again. Living things must "
+"reproduce themselves to continue as a form of life. All plants and animals "
+"have a system of reproduction. Some plants do it by dropping seeds. Some "
+"animals lay eggs. Other animals have babies. Insects reproduce many, many "
+"times more offspring than larger animals do."
+msgstr ""
+"La reproducción es el acto de hacer lo mismo otra vez. Los seres vivos deben "
+"reproducirse para continuar como una forma de vida. Todas las plantas y los "
+"animales tienen un sistema reproductor. Algunas plantas lo hacen dejando "
+"caer semillas. Algunos animales ponen huevos. Otros animales tienen bebés. "
+"Los insectos se reproducen muchas, muchas veces más que otros animales de "
+"mayor tamaño."
+
+msgid ""
+"Offspring are new living things that come from one or more parents. When a "
+"female dog has a litter of puppies, she has given birth to offspring."
+msgstr ""
+"La descendencia son nuevos seres vivos que provienen de uno o ambos padres. "
+"Cuando un perro hembra tiene una camada de cachorros, es que ha dado a luz a "
+"su descendencia."
+
+msgid ""
+"It is very important that living things make offspring. If they did not, "
+"over time they would eventually no longer exist on Earth. Every type of "
+"living thing makes offspring. Even plants have offspring. Many types of "
+"flowers, plants, and trees drop seeds from which their offspring will grow."
+msgstr ""
+"Es muy importante que los seres vivos tengan descendencia. Si no fuera así, "
+"con el tiempo se extinguirían y ya no existirían2 en la Tierra. Cada tipo de "
+"ser vivo tiene descendencia. Incluso las plantas tienen descendencia. Muchos "
+"tipos de flores, plantas y árboles dejan caer sus semillas para que crezca "
+"su descendencia."
+
+msgid ""
+"Asexual reproduction is a way of producing offspring that involves only one "
+"parent. There is no combining of a female sex cell with a male sex cell."
+msgstr ""
+"La reproducción asexual es la manera de producir descendencia que involucra "
+"a un solo progenitor. No se combina un óvulo con un espermatozoide."
+
+msgid ""
+"Asexual reproduction is the primary means of reproduction for many single-"
+"celled living things such as bacteria. Many plants and fungi also reproduce "
+"asexually, but asexual reproduction is not common among multicellular living "
+"things."
+msgstr ""
+"La reproducción asexual es el principal medio de reproducción para muchos "
+"seres vivos unicelulares, como las bacterias. Muchas plantas y hongos "
+"también se reproducen asexualmente, pero la reproducción asexual no es común "
+"entre los seres vivos pluricelulares."
+
+msgid ""
+"In sexual reproduction, sperm from the male is united with an egg from the "
+"female creating a fertilized egg. Once its place is secure, it develops into "
+"a fetus and then into an infant, ready for birth."
+msgstr ""
+"En la reproducción sexual, el espermatozoide del macho se une con un óvulo "
+"de la hembra, creando así un óvulo fecundado. Una vez está en un lugar "
+"seguro, se desarrolla en un feto y luego en un bebé, listo para el "
+"nacimiento."
+
+msgid ""
+"Like animals, plants also reproduce sexually—the egg and sperm are produced "
+"in the flowers of flowering plants."
+msgstr ""
+"Al igual que los animales, las plantas también se reproducen sexualmente, el "
+"óvulo y el espermatozoide se producen en las flores de las plantas con "
+"flores."
+
+msgid ""
+"Plant reproductive structures are found in flowers. Colored petals on a "
+"flower and colored feathers on a bird are both structures they have to help "
+"reproduction take place."
+msgstr ""
+"Las estructuras reproductivas de las plantas se encuentran en las flores. "
+"Los pétalos de color sobre una flor y las plumas de colores sobre un pájaro "
+"son las estructuras que tienen para ayudar a que la reproducción tenga lugar."
+
+msgid ""
+"Many plants have both male and female parts in the same flower. The male "
+"part is called a stamen. Sperm are packaged into particles called pollen "
+"grains. The female part of the flower is called the pistil."
+msgstr ""
+"Muchas plantas tienen partes masculinas y femeninas en la misma flor. La "
+"parte masculina se llama estambre. Los espermatozoides se empaquetan en "
+"partículas llamadas granos de polen. La parte femenina de la flor se llama "
+"pistilo."
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants, through the process of pollination."
+msgstr ""
+"El polen es un polvo amarillento que se encuentra en el interior de una "
+"planta con flores. El polen ayuda a que la planta pueda crear más plantas a "
+"través del proceso de polinización."
+
+msgid ""
+"Insects such as bees and butterflies go to flowers to eat. While they eat, "
+"some of the flower's pollen sticks to them. When one insect goes to another "
+"flower, it takes the pollen with it. Some of the first flower's pollen rubs "
+"off onto the second flower. That helps the second flower grow seeds."
+msgstr ""
+"Los insectos como las abejas y las mariposas van a las flores a comer. "
+"Mientras comen, el polen de la flor se pega a ellos. Cuando un insecto se va "
+"a otra flor, se lleva el polen de la misma. Algunos granos de polen de la "
+"primera flor se difuminan en la segunda flor. Esto hace que crezcan semillas "
+"en la segunda flor."
+
+msgid "Look at the bee in this photograph. Can you see the pollen?"
+msgstr "Mira a la abeja en esta fotografía. ¿Puedes ver el polen?"
+
+msgid ""
+"Many mammal, bird, fish, and reptile males engage in courtship display "
+"behaviors to attract females."
+msgstr ""
+"Muchos machos mamíferos, aves, peces y reptiles hacen exhibiciones para "
+"atraer a las hembras. "
+
+msgid ""
+"Some examples of courtship behavior are peacocks showing off their tail "
+"feathers; stallions or bulls pawing at the ground; or cuttlefish changing "
+"colors almost instantly."
+msgstr ""
+"Algunos ejemplos que puede que hayas visto incluyen a los pavos reales "
+"mostrando sus plumas de la cola; a los sementales o los toros pateando el "
+"suelo; o el cambio de color casi al instante de las sepias. "
+
+msgid "Ornithology is the study of birds."
+msgstr "La ornitología es el estudio de las aves."
+
+msgid ""
+"An ornithologist may work for a zoo to prepare a proper habitat for a bird "
+"to live in."
+msgstr ""
+"Un ornitólogo puede que trabaje en un zoo para preparar un hábitat adecuado "
+"para que un pájaro pueda vivir."
+
+# 17
+msgid "Checking what you now know... about reproduction"
+msgstr "Comprobando lo que sabes ahora… sobre reproducción"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestar a las siguientes seis (6) preguntas de la prueba te dará una idea "
+"de lo ahora sabes y de lo que todavía tienes que estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón SIGUIENTE cuando estés listo/a."
+
+# 18
+msgid "Reproduction involving male and female parents is known as:"
+msgstr ""
+"La reproducción que involucra a un padre y a una madre es conocida como:"
+
+msgid "Asexual"
+msgstr "Asexual"
+
+msgid "Nonsexual"
+msgstr "No sexual"
+
+msgid "Sexual"
+msgstr "Sexual"
+
+msgid "Monoclonal"
+msgstr "Monoclonal"
+
+msgid "Correct. Sexual reproduction requires male and female parents."
+msgstr "Correcto. La reproducción sexual requiere un padre y una madre."
+
+msgid "Sorry. Asexual reproduction involves only one parent."
+msgstr "Lo sentimos. La reproducción asexual sólo requiere a un padre."
+
+msgid "No... Reproduction using two parents is sexual."
+msgstr "No… la reproducción con dos padres es la sexual."
+
+msgid "Nah... Monoclonal is a type of asexual reproduction."
+msgstr "No… Monoclonal es un tipo de reproducción asexual."
+
+# 19
+msgid ""
+"Click <span class='blink'>all</span> the changes on the right column you "
+"think the events on the left column are causing."
+msgstr ""
+"Haz clic en <span class='blink'>todos</span> los cambios en la columna de la "
+"derecha que tú creas que están causados por los de la columna de la "
+"izquierda."
+
+msgid "Rapid accumulation of identical organisms"
+msgstr "La rápida acumulación de organismos idénticos"
+
+msgid "Great variety in human appearance"
+msgstr "Gran variedad en la apariencia humana"
+
+msgid "New varieties of apple"
+msgstr "Nuevas variedades de manzana"
+
+msgid "Some traits are passed onto offspring more often than others."
+msgstr ""
+"Algunos rasgos son transmitidos a la descendencia en mayor frecuencia que "
+"otros."
+
+msgid "Some traits may be lost to populations of organisms."
+msgstr "Puede que se pierdan algunos rasgos en poblaciones de organismos."
+
+msgid "All individuals have equal chances of reproducing."
+msgstr "Todos los individuos tienen las mismas oportunidades de reproducirse."
+
+msgid "Correct. The bacteria dividing leads to producing identical organisms."
+msgstr ""
+"Correcto. La división de las bacterias conduce a que se produzcan organismos "
+"idénticos."
+
+msgid ""
+"You're right about identical organisms, but can they be identical and have "
+"variety at the same time? Check again."
+msgstr ""
+"Estás en lo cierto acerca de los organismos idénticos pero, ¿pueden ser "
+"idénticos y que haya variedad al mismo tiempo? Compruébalo otra vez."
+
+msgid "No. Asexual reproduction does not cause any type of variety."
+msgstr "No. La reproducción asexual no causa ningún tipo de variedad."
+
+msgid "Correct. Not all traits are passed down to one's offspring."
+msgstr "Correcto. No todos los rasgos se pasan a la descendencia."
+
+msgid "Partly correct... Not all traits are passed down to one's offspring."
+msgstr "Parcialmente correcto… No todos los rasgos se pasan a la descendencia."
+
+msgid "No, for example in some animal groups only the dominant males mate."
+msgstr ""
+"No, por ejemplo en algunos grupos de animales solo los machos dominantes se "
+"aparejan."
+
+# 20
+msgid "Which of the following is true of animal cycles?"
+msgstr "¿Cuál de los siguientes es cierto para los ciclos de los animales?"
+
+msgid "Some animals reproduce."
+msgstr "Algunos animales se reproducen."
+
+msgid "Animals only reproduce by laying eggs."
+msgstr "Los animales solo se reproducen poniendo huevos."
+
+msgid "All animals reproduce."
+msgstr "Todos los animales se reproducen."
+
+msgid "A and B"
+msgstr "A y B"
+
+msgid "Correct. In their life cycle, all animals reproduce."
+msgstr "Correcto. En su ciclo de vida, los animales se reproducen."
+
+msgid "No, all animals reproduce. Otherwise they would be extinct."
+msgstr ""
+"No, todos los animales se reproducen. De no ser así, se habrían extinguido."
+
+msgid "No, not all animals lay eggs. For example most mammals do not lay eggs."
+msgstr ""
+"No, no todos los animales ponen huevos. Por ejemplo, los mamíferos no ponen "
+"huevos."
+
+msgid "No, all animals reproduce, but they don't all lay eggs."
+msgstr "No, todos los animales se reproducen, pero no todos ponen huevos."
+
+# 21
+msgid ""
+"What is an advantage of having only the dominant male and female wolves in a "
+"pack produce offspring?"
+msgstr ""
+"¿Cuál es la ventaja de que únicamente los lobos macho y hembra dominantes de "
+"la manada produzcan descendencia?"
+
+msgid ""
+"Later generations will likely be more similar to the stronger wolves than to "
+"the weaker wolves."
+msgstr ""
+"Las futuras generaciones serán más similares a los lobos más fuertes que a "
+"los lobos más débiles."
+
+msgid ""
+"Later generations will likely be more similar to the weaker wolves than to "
+"the stronger wolves."
+msgstr ""
+"Las futuras generaciones serán más similares a los lobos más débiles que a "
+"los lobos más fuertes."
+
+msgid ""
+"Later generations will probably have more difficulty finding food than "
+"previous generations."
+msgstr ""
+"Probablemente las futuras generaciones tendrán más dificultades para "
+"encontrar comida que las anteriores generaciones."
+
+msgid ""
+"Later generations will have more difficulty finding shelter than previous "
+"generations."
+msgstr ""
+"Las futuras generaciones tendrán más dificultades para encontrar refugio que "
+"las anteriores generaciones."
+
+msgid ""
+"Very good! Whatever characteristics the dominant parents have will transfer "
+"to their offspring."
+msgstr ""
+"¡Muy bien! Cualquiera de las características que tengan los padres serán "
+"transmitidas a la descendencia."
+
+msgid ""
+"Not likely... There's no connection between the non-dominant wolves and the "
+"next generation."
+msgstr ""
+"No es muy probable… No hay ninguna conexión entre los lobos no dominantes y "
+"la siguiente generación."
+
+msgid ""
+"No. Chances of finding food in the future probably don't decrease with "
+"stronger characteristics."
+msgstr ""
+"No. Las probabilidades de encontrar comida en el futuro no decrecen con "
+"rasgos más fuertes."
+
+msgid ""
+"Sorry... Chances of finding shelter aren't really affected by reproductive "
+"choices."
+msgstr ""
+"Lo sentimos… Las posibilidades de encontrar refugio no se ven afectadas por "
+"las elecciones reproductivas."
+
+# 22
+msgid "What can you infer about flowers that are pollinated by bats?"
+msgstr ""
+"¿Qué puedes inferir sobre las flores que son polinizadas por murciélagos?"
+
+msgid "They are probably located in caves."
+msgstr "Probablemente se encuentren en cuevas."
+
+msgid "They probably contain no pollen."
+msgstr "Probablemente no contengan polen."
+
+msgid "They probably bloom at night."
+msgstr "Probablemente florezcan por la noche."
+
+msgid "They are probably very brightly colored."
+msgstr "Probablemente tengan colores brillantes."
+
+msgid ""
+"No, flowers are unlikely to be found in caves, since plants need light to "
+"grow."
+msgstr ""
+"No, es poco probable encontrar flores en cuevas, pues las flores necesitan "
+"la luz para crecer."
+
+msgid "No. Flowers without pollen cannot be part of the pollination process."
+msgstr ""
+"No. Las flores sin polen no pueden participar en el proceso de polinización."
+
+msgid "Correct! The flowers might be open at night when bats come out."
+msgstr ""
+"¡Correcto! Puede que las flores estén abiertas por la noche cuando salen los "
+"murciélagos."
+
+msgid ""
+"Bats are color blind, so bright colored flowers would not affect their "
+"ability to find them."
+msgstr ""
+"Los murciélagos son ciegos, así que que las flores tengan colores brillantes "
+"no afectará a su habilidad para encontrarlas."
+
+# 23
+msgid ""
+"In the life cycle of a plant, the first step is seed germination. The second "
+"step is plant growth. What occurs next in the third step?"
+msgstr ""
+"En el ciclo de vida de una planta, la primera etapa es la germinación de las "
+"semillas. La segunda etapa es el crecimiento de las plantas. ¿Qué es lo "
+"siguiente que ocurre en la tercera etapa?"
+
+msgid "The fruit releases seeds."
+msgstr "La fruta libera semillas."
+
+msgid "The plant flowers."
+msgstr "La planta florece."
+
+msgid "The plant dies."
+msgstr "La planta muere."
+
+msgid "None of the above"
+msgstr "Ninguna de las anteriores."
+
+msgid "No, the plant produces fruit after it flowers."
+msgstr "No, la planta produce las frutas después de las flores."
+
+msgid "Yes, the third step is when the plant flowers."
+msgstr "Sí, la tercera etapa es cuando la planta florece."
+
+msgid "No, the plant still has a few steps to do before dying."
+msgstr "No, a la planta aún le quedan algunas etapas más antes de morir."
+
+msgid "No, the plant flowers in the third step."
+msgstr "No, la planta florece en la tercera estala."
+
+# 24
+msgid "Congratulations, "
+msgstr "Enhorabuena,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes comprobar cómo lo has hecho en la 'Comprobación rápida' y en las "
+"'Preguntas del cuestionario' para este examen haciendo clic en el botón de "
+"abajo."
+
+msgid "You've completed the Reproduction review."
+msgstr "Has completado el resumen de la Reproducción."
+
+msgid "All living organisms"
+msgstr "Todos los organismos vivos"
+
+msgid "By taking a cutting of a flower and replanting it."
+msgstr "Cortando un esqueje de una flor y replantándolo."
+
+msgid ""
+"Great job! Plants and animals have different parts for reproduction. "
+"Sometimes plants have female and male structures all on one plant, but most "
+"animals have two separate female and male parents."
+msgstr ""
+"¡Buen trabajo! Plantas y animales tienen distintas partes para la "
+"reproducción. A veces las plantas tienen las estructuras femenina y "
+"masculina en la misma planta, pero la mayoría de los animales tiene dos "
+"padres diferentes, hembra y macho."
+
+msgid ""
+"Great job! All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"¡Buen trabajo! Todos los seres vivos respiran de alguna forma, crecen, se "
+"reproducen y responden a su entorno."
+
+msgid ""
+"Not quite. All living things breathe somehow, grow, reproduce, and respond "
+"to their environment."
+msgstr ""
+"No exactamente. Todos los seres vivos respiran de alguna forma, crecen, se "
+"reproducen y responden a su entorno."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la "
+"caja y seleccionar tu respuesta."

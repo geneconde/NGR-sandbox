@@ -1,0 +1,1319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Life Cycle of Plants\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Please type your answer below"
+msgstr "يرجى طباعة إجابتك في الأسفل"
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "Quick Check #1"
+msgstr "الإختبار القصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "الإختبار القصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "الإختبار القصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "الإختبار القصير رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "إمتحان قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "إمتحان قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "إمتحان قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "إمتحان قصير رقم 6"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# 1
+msgid "Life Cycle of Plants"
+msgstr "دورة حياة النباتات"
+
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Welcome to the Life Cycle of Plants review, "
+msgstr "أهلاً وسهلاً بكم في مراجعة دورة حياة النباتات،"
+
+# 2
+msgid "Are you ready, "
+msgstr "هل أنت مستعد"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "wait for it... wait for it..."
+msgstr "إنتظرها... إنتظرها... "
+
+msgid "Next part coming up!"
+msgstr "الجزء التالي في طريقه إليك!"
+
+msgid "Thinking about... the life cycle of plants"
+msgstr "فكر في ... دورة حياة النباتات "
+
+msgid ""
+"Plants are amazing! In California, there are giant redwood trees. These "
+"trees can grow over 300 feet tall. But interestingly, the seeds from these "
+"humongous trees are quite small. Do you ever wonder how a tree that large "
+"can develop from such a small seed? Let’s review some ideas about the life "
+"plants have!"
+msgstr ""
+"النباتات مذهلة! في كاليفورنيا، هناك أشجار خشب أحمر عملاقة.  هذه الأشجار يصل "
+"طولها لأكثر من 100 متر.  لكن ولحسن الحظ، بذور هذه الأشجار العملاقة صغيرة "
+"جداً.  هل من الممكن تخيل كيف تنمو شجرة بهذا الحجم من بذرة صغيرة جداً؟ دعنا "
+"نراجع بعض الأفكار حول حياة النباتات! "
+
+# 3
+msgid "Checking what you know... about the life cycle of plants"
+msgstr "تأكد مما تعرف... حول دورة حياة النباتات"
+
+msgid ""
+"What do you already know about plants? Match the parts of the plant by "
+"dragging the correct term up or down."
+msgstr ""
+"ما الذي تعرفه عن النباتات؟ طابق أجزاء النبات بواسطة سحب المصطلح الصحيح "
+"للأعلى أو للأسفل."
+
+msgid "Leaves"
+msgstr "أوراق"
+
+msgid "Roots"
+msgstr "جذور"
+
+msgid "Seed"
+msgstr "بذرة"
+
+msgid "Fruit"
+msgstr "ثمار"
+
+msgid ""
+"The first part of the plant shown here is the Leaf, Fruit, Flower, Stem, and "
+"last are the Roots. These are the main parts of a plant with seeds."
+msgstr ""
+"الجزء الأول من النبتة يظهر هنا هو الورقة، والثمرة، والزهرة، والساق، وآخر "
+"واحد هو الجذور.  هذه هي الأجزاء الرئيسية من النبتة مع البذور."
+
+# 4
+msgid "Reviewing core ideas... about the life cycle of plants"
+msgstr "مراجعة الأفكار الرئيسة... حول دورة حياة النباتات"
+
+msgid "Click on the checkboxes to view more information on each item."
+msgstr "انقر على مربعات الاختيار لعرض المزيد من المعلومات عن كل عنصر. "
+
+msgid "All plants go through a life cycle"
+msgstr "جميع النباتات تمر في دورة حياة"
+
+msgid "Many plants start out as a small <span class='key'>seed</span>."
+msgstr "الكثير من النباتات تبدأ <span class='key'>بذرة</span> صغيرة."
+
+msgid "When the seed is planted in the ground"
+msgstr "عندما تزرع البذرة في الأرض"
+
+msgid ""
+"it <span class='key'>sprouts</span> into a young <span class='key'>seedling</"
+"span> through the process of <span class='key'>germination</span>."
+msgstr ""
+"هي <span class='key'>تتبرعم</span> لتصبح <span class='key'>شتلة </span> من "
+"خلال عملية <span class='key'>الإنبات</span> ."
+
+msgid "Seedlings"
+msgstr "شتلات"
+
+msgid ""
+"have a small <span class='key'>root</span> that is used to suck up water "
+"from the ground."
+msgstr "لها <span class='key'>جذر</span> صغير يستخدم في إمتصاص الماء من الأرض."
+
+msgid "<span class='key'>Stem</span>"
+msgstr "<span class='key'>ساق</span>"
+
+msgid "Stem"
+msgstr "ساق"
+
+msgid "stem"
+msgstr "ساق"
+
+msgid "is the body of the plant."
+msgstr "هو جسم النبتة."
+
+msgid "Seedlings also have small <span class='key'>leaves</span>"
+msgstr "الشتلات لها أوراق <span class='key'>أيضاً</span>"
+
+msgid ""
+"that are used to get energy from the sun. The seedling continues to grow "
+"until it becomes a mature plant."
+msgstr ""
+"التي تستخدم للحصول على طاقة من الشمس.  تستمر الشتلة بالنمو حتى تصبح نبتة "
+"بالغة."
+
+msgid ""
+"Seedlings also have small leaves that are used to get energy from the sun. "
+"The seedling continues to grow until it becomes a mature <span "
+"class='key'>plant. </span>"
+msgstr ""
+"الشتلات لها أيضاً أوراق صغيرة تستخدم للحصول على الطاقة من الشمس.  تستمر "
+"الشتلة بالنمو حتى تصبح  <span class='key'>نبتة</span> بالغة."
+
+msgid "Some fully grown plants make flowers."
+msgstr "بعض النباتات المكتملة النمو تُكَوِّن أزهار."
+
+msgid ""
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr "تسخدم الأزهار بواسطة النباتات لتنتج بذور أكثر كي تستمر دورة الحياة."
+
+# 5
+msgid ""
+"Question A. What is <span class='red blink'>NOT</span> required for a seed "
+"to begin to grow?"
+msgstr ""
+"سؤال أ. ما الشيء <span class='red blink'>غير</span>  الضروري كي تبدأ البذرة "
+"بالنمو؟"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow?"
+msgstr ""
+"سؤال أ. ما الشيء <span class='red'>غير</span>  الضروري كي تبدأ البذرة بالنمو؟"
+
+msgid "Stored Water"
+msgstr "ماء مُخَزن"
+
+msgid "Stored water"
+msgstr "ماء مُخَزن"
+
+msgid "Sunlight"
+msgstr "ضوء الشمس"
+
+msgid "sunlight"
+msgstr "ضوء الشمس"
+
+msgid "Stored food"
+msgstr "غذاء مُخَزن"
+
+msgid "Appropriate temperature"
+msgstr "حرارة مناسبة"
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they won’t grow, too much and they will rot."
+msgstr ""
+"لا، تحتاج البذور كمية معينة من الرطوبة لتنمو.  فالقليل جداً من الرطوبة لن "
+"تتمكن من النمو والكثير جداً من الرطوبة ستتعفن. "
+
+msgid ""
+"Question B. Which part does a seedling <span class='red'>NOT</span> have?"
+msgstr "السؤال ب. أي جزء <span class='red'>غير</span> موجود في الشتلة؟"
+
+msgid ""
+"Question B. Which part does a seedling <span class='red blink'>NOT</span> "
+"have?"
+msgstr "السؤال ب. أي جزء <span class='red blink'>غير</span> موجود في الشتلة؟"
+
+msgid "roots"
+msgstr "جذور"
+
+msgid "flowers"
+msgstr "أزهار"
+
+msgid "Flowers"
+msgstr "أزهار"
+
+msgid ""
+"Question A. What is <span class='red'>NOT</span> required for a seed to "
+"begin to grow"
+msgstr ""
+"السؤال أ. ما الشيء <span class='red'>غير<span class='red'> الضروري للبذرة "
+"لكي تبدأ بالنمو؟"
+
+msgid "You answered"
+msgstr "إجابتك هي "
+
+msgid ""
+"Correct! Not all seeds need sunlight to grow. When the seedling gets to the "
+"surface, it can begin to make its own food through photosynthesis."
+msgstr ""
+"صحيح! لا تحتاج جميع البذور ضوء الشمس كي تنمو.  عندما تصل الشتلة إلى السطح، "
+"تستطيع أن تبدأ بصنع غذائها بنفسها بواسطة عملية التمثيل الضوئي."
+
+msgid ""
+"No, seeds need a certain amount of moisture and humidity to grow. Too little "
+"moisture and they wonÃÂ¢ÃÂÃÂt grow, too much and they will rot."
+msgstr ""
+"لا، تحتاج البذور لكمية معينة من الرطوبة كي تنمو.  فكمية قليلة جداً من الرطوبة "
+"لن تسمح بنموها، وكمية كبيرة جداً من الرطوبة ستعفنها."
+
+msgid ""
+"No, seeds need stored food to power the seedling to grow through inches of "
+"soil."
+msgstr ""
+"لا، تحتاج البذور للغذاء المُخَزن كي تبدأ الشتلة بالنمو لعدة سنتمترات من التربة."
+
+msgid ""
+"No, seeds need the correct soil temperature to grow. For example, a tropical "
+"seed might not grow in cool temperatures."
+msgstr ""
+"لا، تحتاج البذرة حرارة تربة محددة كي تنمو.  على سبيل المثال، البذرة "
+"الإستوائية يمكن أن لا تنمو في حرارة باردة."
+
+msgid ""
+"Correct! A seedling does not have a flower. The flower is the part of a "
+"flowering plant that makes seeds."
+msgstr ""
+"صحيح! لا يوجد أزهار في  الشتلة.  الزهرة هي جزء من النبتة المُزهرة التي تصنع "
+"بذور."
+
+msgid "No, a seedling does have roots."
+msgstr "لا،  الشتلة ليس لها جذور."
+
+msgid "No, a seedling does have a stem."
+msgstr "لا، الشتلة ليس لها ساق."
+
+msgid "No, a seedling does have leaves."
+msgstr "لا، الشتلة ليس لها أوراق."
+
+# 6
+msgid "More core ideas... about the life cycle of plants"
+msgstr "أفكار رئيسية أكثر ... عن دورة حياة النباتات"
+
+msgid "Flowers have many parts needed to make more seeds."
+msgstr "الأزهار لها أجزاء ضرورية كي تصنع بذور."
+
+msgid ""
+"The outer parts of a flower are the petals. We notice the <span "
+"class='key'>petals</span> because they are usually colorful."
+msgstr ""
+"الأجزاء الخارجية من الزهرة هي البتلات. نلاحظ <span class='key'>البتلات</"
+"span> لأنها عادةً مُلُونة."
+
+msgid "Inside the petal are"
+msgstr "بداخل البتلة يوجد "
+
+msgid ""
+"several things that look like little sticks with a yellow top. These are "
+"called <span class='key'>stamen</span> and they contain pollen.<span "
+"class='key'> Pollen</span> is used to make more seeds."
+msgstr ""
+"عدة أشياء تبدو كأنها عصي برأس أصفر.  هذه الأشياء تسمى <span "
+"class='key'>مياسم</span> وهي تحتوي حبوب اللقاح.  <span class='key'>حبوب "
+"اللقاح</span> تُستخدم لصنع بذور أكثر."
+
+msgid "In the center of the flower"
+msgstr "في وسط الزهرة "
+
+msgid "is the <span class='key'>pistil</span>."
+msgstr "يوجد <span class='key'>المدق</span>."
+
+msgid "The top part of the stamen"
+msgstr "الجزء العلوي من السداة "
+
+msgid "is the anther. It makes<span class='key'> pollen</span>."
+msgstr "يوجد المئبر.  وهو يصنع <span class='key'>حبوب اللقاح</span>. "
+
+msgid "guess what's next!"
+msgstr "خمن ما الخطوة التالية!"
+
+msgid "more core ideas about plants!"
+msgstr "أفكار رئيسية أكثر حول النباتات!"
+
+msgid "Select here"
+msgstr "إختر هنا"
+
+msgid "To make a seed"
+msgstr "لإنتاج بذرة"
+
+msgid ""
+"<span class='key'> pollen</span> has to find its way to a pistil and travel "
+"down to reach the egg. This is called <span class='key'>pollination</span>."
+msgstr ""
+"<span class='key'> حبوب اللقاح</span>  يجب أن تجد طريقها إلى المدق وتنتقل "
+"للأسفل كي تصل البويضة.  وهذا يسمى <span class='key'> تلقيح</span> ."
+
+# 7
+msgid ""
+"Correct. The anther is part of the stamen, which makes pollen. Pollen has to "
+"find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"صحيح.  المئبر هو جزء من السداة الذي يصنع حبوب اللقاح.  حبوب اللقاح يجب أن "
+"تجد طريقها للمدق لتصل إلى البويضة، والتي تسمى تلقيح."
+
+msgid "The anther is part of the"
+msgstr "في العضو الذكري هي جزء من"
+
+msgid ""
+"Not quite. The anther is part of the stamen, which makes pollen. Pollen has "
+"to find its way to a pistil and reach the egg, which is called pollination."
+msgstr ""
+"ليس بالضبط.  المئبر هو جزء من السداة الذي يُنتِج حبوب اللقاح.  حبوب اللقاح يجب "
+"أن تجد طريقها للمدق وتصل البويضة، والتي تسمى تلقيح."
+
+msgid ""
+"No, a seed grows and sprouts into a seedling through the process of "
+"germination. Pollination is when pollen is transferred to the egg to "
+"eventually form a seed."
+msgstr ""
+"لا، تنمو البذرة وتتبرعم لتكون شتلة خلال عملية الإنبات.  التلقيح يحدث عندما "
+"تنتقل حبوب اللقاح للبويضة لتُكون في النهاية بذرة."
+
+msgid ""
+"Correct. Pollination is when pollen is transferred to the egg to eventually "
+"form a seed."
+msgstr ""
+"صحيح.  التلقيح يحدث عندما تنتقل حبوب اللقاح إلى البويضة لتُكون في النهاية "
+"بذرة."
+
+msgid ""
+"No. Pollination is when pollen is transferred to the egg to eventually form "
+"a seed."
+msgstr ""
+"لا. يحدث التلقيح عندما تنتقل حبوب اللقاح إلى البويضة لتُكون في النهاية بذرة."
+
+msgid "Question A. Select the best answer from the drop down list."
+msgstr "سؤال أ.  إختر الجواب الصحيح من القائمة في الأسفل."
+
+msgid "The <span class='key'>anther</span> is part of the"
+msgstr "<span class='key'>المئبر </span> هو جزء من "
+
+msgid "stamen"
+msgstr "السداة"
+
+msgid "petal"
+msgstr "البتلة"
+
+msgid "pollination"
+msgstr "التلقيح"
+
+msgid "The anther's function is to produce"
+msgstr "وظيفة العضو الذكري هو إنتاج "
+
+msgid ""
+"Question B. To make a seed, pollen has to find its way to a pistil and "
+"travel down to reach the egg. What is this process called?"
+msgstr ""
+"السؤال ب.  لإنتاج بذرة، على حبوب اللقاح أن تجد طريقها إلى المدق كي تصل إلى "
+"البويضة.  ماذا تسمى هذه العملية؟"
+
+msgid "Germination"
+msgstr "إنبات"
+
+msgid "germination"
+msgstr "إنبات"
+
+msgid "Pollination"
+msgstr "تلقيح"
+
+msgid "Both of the above"
+msgstr "جميع ما سبق"
+
+msgid "Neither of the above"
+msgstr "لا شيء مما سبق"
+
+# 8
+msgid ""
+"Plants have different ways to attract their pollinators. For example, many "
+"flowers have brightly-colored petals and give off attractive aromas, while "
+"others produce <span class='key'>nectar</span>, a food for some insects."
+msgstr ""
+"للنباتات طرق مختلفة لجذب ملقحاتها.  على سبيل المثال، الكثير من الأزهار لها "
+"بتلات زاهية الألوان وتعطي روائح جاذبة، بينما تنتج أزهار أخرى رحيق،وهو غذاء "
+"لبعض الحشرات."
+
+msgid ""
+"<span class='key'>Pollinators</span> love to drink the sweet nectar at the "
+"base of the pistil and go from flower to flower to get more. This way, the "
+"insect gets something to eat and the plant is able to make seeds."
+msgstr ""
+"الملقحات تحب أن تشرب رحيق حلو في قاعدة المدق وتذهب من زهرة لأخرى لتحصل على "
+"المزيد.  بهذه الطريقة، تحصل الحشرة على شيء لتأكل وتستطيع النبتة أن تُنتج بذور."
+
+msgid ""
+"Some plants use the wind to spread their pollen. Think of a dandelion being "
+"blown by the wind."
+msgstr ""
+"تستخدم بعض النباتات الريح لنشر حبوب لقاحها.  فكر في نبات الهندباء عندما "
+"يتطاير بواسطة الرياح."
+
+msgid ""
+"Plants differ on how they produce their offspring. Having seeds is one of "
+"the five ways plants reproduce."
+msgstr ""
+"تختلف النباتات في طريقة إنتاجها للأجيال الجديدة.  فالبذور هي واحدة من خمسة "
+"طرق تستخدمها النباتات كي تتكاثر."
+
+msgid ""
+"Some plants have fruit with tiny little hooks that catch on passing animals. "
+"The fruit with seeds inside it gets carried to a distant place the animal "
+"goes."
+msgstr ""
+"بعض النباتات لها ثمار مصائد صغيرة جداً تصيد بها الحيوانات المارة من قربها.  "
+"الثمار التي لها بذور بداخلها تُحمل لمكان تذهب إليه هذه الحيوانات وقد يكون "
+"بعيد جداً."
+
+msgid ""
+"However the seeds get dispersed (spread over different places), they will "
+"begin to grow and continue the cycle of life."
+msgstr ""
+"ومع ذلك البذور التي تتناثر في أماكن مختلفة تبدأ بالنمو وتستمر دورة الحياة."
+
+msgid "Click on each item below to view examples of flowering plants."
+msgstr "انقر على كل عنصر كي تشاهد أمثلة على النباتات الزهرية."
+
+msgid "Pine and Spruce Trees"
+msgstr "أشجار الصنوبر والتنوب"
+
+msgid ""
+"The pine and spruce trees are examples of flowering plants that reproduce "
+"using seeds. The cones harbor the tree's seeds."
+msgstr ""
+"أشجار الصنوبر والتنوب هي مثال للنباتات الزهرية التي تتكاثر بالبذور.  "
+"المخاريط تحفظ بذور الشجرة."
+
+msgid "Coconuts"
+msgstr "جوز الهند"
+
+msgid ""
+"The large seeds of palm trees are perhaps the ultimate example of a durable "
+"seed, as they can reach locations miles away by floating in water, even "
+"through the ocean."
+msgstr ""
+"بذور النخيل الكبيرة ربما تكون المثال الأفضل لبذرة معمرة كونها تصل لأماكن "
+"بعيدة جداً تصل لأميال بواسطة العوم على الماء حتى في المحيط."
+
+msgid "Acorns and Walnuts"
+msgstr "الجوز وبذور الجوز"
+
+msgid ""
+"Acorns and walnuts are large seeds that are able to endure harsh conditions "
+"and be planted far away from their parent tree."
+msgstr ""
+"الجوز وبذور الجوز هما بذور كبيرة قادرة على تحمل الظروف القاسية ويمكن زراعتها "
+"بعيدا عن الشجرة الأم."
+
+msgid "Pollen"
+msgstr "حبوب اللقاح"
+
+msgid ""
+"Pollen is also considered a seed, which is transferred by a pollinator to "
+"the same (<span class='key'>self-pollination</span>) or a different plant "
+"(<span class='key'>cross-pollination</span>) in order to reproduce."
+msgstr ""
+"حبة اللقاح تعتبر بذرة أيضاً والتي تنتقل بواسطة ملقح إلى نفس النبتة (تلقيح "
+"ذاتي) أو نبتة مختلفة (تلاقح) لكي تتكاثر."
+
+# 9
+msgid ""
+"No, not all plants have seeds. There are four other ways for plants to "
+"reproduce."
+msgstr "لا، ليس لجميع النباتات بذور.  هناك أربع طرق أخرى للنباتات كي تتكاثر."
+
+msgid "All plants have seeds and reproduce this way."
+msgstr "جميع النباتات لها بذور وتتكاثر بهذه الطريقة."
+
+msgid ""
+"Correct. Acorns, walnuts, and coconuts are large seeds that are able to "
+"endure adverse conditions and be planted far away from their parent tree."
+msgstr ""
+"صحيح.  الجوز وبذور الجوز وجوز الهند هي بذور كبيرة تستطيع أن تتحمل ظروف قاسية "
+"ويمكن زراعتها بعيداً عن الشجرة الأم."
+
+msgid "Acorns, walnuts and coconuts are all large seeds."
+msgstr "الجوز وبذور الجوز وجوز الهند جميعها بذور كبيرة."
+
+msgid ""
+"No, cross-pollination is when a pollinator moves pollen to a different plant."
+msgstr "لا، التلاقح هو عندما ينقل ملقح حبوب اللقاح لنبتة مختلفة. "
+
+msgid "Cross-pollination is when a pollinator moves pollen to the same plant."
+msgstr "التلاقح هو عندما يحرك ملقح حبوب اللقاح إلى نفس النبتة."
+
+msgid ""
+"No, not all seeds need to be planted nearby the parent plant. Coconuts (the "
+"large seeds of palm trees) can reach and be planted miles away."
+msgstr ""
+"لا، لا تحتاج جميع النباتات بذور لكي تُزرع بجانب النبتة الأم.  جوز الهند "
+"(البذور الكبيرة من أشجار النخيل) يمكن أن تصل وتزرع بأماكن تبعد أميال عن "
+"النبتة الأم."
+
+msgid "Seeds need to be planted nearby the parent plant."
+msgstr "تحتاج البذور أن تُزرع بجانب النبتة الأم."
+
+msgid ""
+"No, some seeds may fall to the ground near the plant, but this is not the "
+"primary way for the seeds to spread."
+msgstr ""
+"لا، بعض البذور يمكن أن تسقط إلى الأرض بجانب النبتة، لكن هذه ليست الطريقة "
+"الأساسية لإنتشار البذور."
+
+msgid "By the plant falling and dying."
+msgstr "بواسطة النبتة التي تسقط وتموت."
+
+msgid ""
+"No, some seeds may be knocked to the ground when it rains, but this is not "
+"the primary way for the seeds to spread."
+msgstr ""
+"لا، بعض البذور يمكن أن تقع على الأرض عندما تمطر، لكن هذه ليست الطريقة "
+"الأساسية للبذور كي تنتشر."
+
+msgid "By water when it rains."
+msgstr "بواسطة الماء عندما تُمطر"
+
+msgid ""
+"Correct, most of the dandelion seeds are spread by a wind or breeze, or "
+"sometimes by people who blow on the dandelion."
+msgstr ""
+"صحيح، معظم بذور نبات الهندباء تنتشر بواسطة الرياح أو النسمات أو أحياناً "
+"بواسطة الناس الذين ينفخون على نبتة الهندباء."
+
+msgid "By wind when it blows."
+msgstr "بواسطة الرياح عندما تهب."
+
+msgid ""
+"No, an animal may occasionally eat a dandelion and spread its seeds, but "
+"very few dandelion seeds are spread this way."
+msgstr ""
+"لا، يمكن أحياناً لحيوان أن يأكل نبتة الهندباء وينشر بذورها ، لكن بذور قليلة "
+"جداً لنبات الهندباء تنتشر بهذه الطريقة."
+
+msgid "By animals when they eat the flower."
+msgstr "بواسطة الحيوانات عندما تأكل الزهرة."
+
+msgid "Question A. Which of these statements is true"
+msgstr "سؤال أ. أي من هذه العبارات صحيحاً"
+
+msgid "Question B. How are dandelion seeds primarily dispersed"
+msgstr "سؤال ب. كيف تنتشر بذور الهندباء بالأساس"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "دَوِّر أو إقلب الصندوق ثلاثي الأبعاد إما للأعلى أو للأسفل لتضع إجابتك."
+
+msgid "Click the box, then hold, and slide mouse up or down"
+msgstr "انقر الصندوق، وثبت المؤشر عليه، وحرك الفأرة للأعلى أو للأسفل"
+
+# 10
+msgid ""
+"Using what you know... about the life cycle of plants... to solve a problem"
+msgstr "بإستخدام ما تعرف ... عن دورة حياة النباتات ... لحل المشكلة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"pollinate the flowers for us to get almost a third of our food. The problem "
+"is that the honeybees are decreasing in population. No one is exactly sure "
+"why, but the honeybee colonies are in trouble and recently almost 25% of "
+"them have been lost. You have been called in to advise the department of "
+"agriculture on the problem."
+msgstr ""
+"خلال موسم زراعة محاصيل في أمريكا الشمالية، يعتمد المزارعون  على نحل العسل "
+"لتلقيح الزهور لنا للحصول على ما يقرب من ثلث غذائنا. المشكلة هي أن أعداد نحل "
+"العسل آخذة في التناقص . لا أحد متأكد بالضبط لماذا، ولكن تجمعات نحل العسل في "
+"ورطة ، وقد فقدت ما يقرب منهم.  فإذا دعيت لتقديم المشورة في وزارة الزراعة حول "
+"المشكلة."
+
+msgid ""
+"During crops planting season in North America, farmers count on honeybees to "
+"pollinate the flowers for us to get almost a third of our food."
+msgstr ""
+"أثناء فصل الزراعة تعتمد المحاصيل في أمريكيا الشمالية على النحل لتلقيح "
+"الأزهار كي نحصل على ما يقارب من ثلث طعامنا."
+
+msgid ""
+"The problem is that the honeybees are decreasing in population. No one is "
+"exactly sure why, but the honeybee colonies are in trouble and recently "
+"almost 25% of them have been lost. You have been called in to advise the "
+"department of agriculture on the problem."
+msgstr ""
+"المشكلة هي أن أعداد النحل تتضاءَل.  لا أحد يعرف بالضبط لماذا، لكن مجتمعات "
+"النحل بخطر حيث أن 25% منها قد فقد بالوقت الحالي.  فإذا طُلب منك كي تبدي النصح "
+"لدائرة الزراعة لحل هذه المشكلة."
+
+msgid "More"
+msgstr "المزيد"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Please type your answer below."
+msgstr "يرجى طباعة إجابتك في الأسفل"
+
+msgid "Your Task"
+msgstr "مهمتك هي "
+
+msgid ""
+"Using what you know about plants and what you can research about honeybees, "
+"what are some things you would advise the department to consider to ensure "
+"that the plants get pollinated? Key in your possible solutions in the "
+"textbox below."
+msgstr ""
+"باستخدام ما تعرف عن النباتات وما يمكنك أن تبحث عن النحل، ما هي بعض الأشياء "
+"التي يمكنك أن تنصح مديرية الزراعة لتأخذ بالإعتبار للتأكد من أن النباتات تحصل "
+"على التلقيح؟ المفتاح في إجاباتك المحتملة في صندوق النص الموجود في الأسفل."
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا كي تبدأ بطباعة إجابتك ..."
+
+# 11
+msgid "Summarizing core ideas... about the life cycle of plants"
+msgstr "تلخيص الأفكار الرئيسية ... حول دورة حياة النباتات "
+
+msgid ""
+"The <span class='key'>life cycle</span> of a plant goes through several "
+"stages. The plant starts off as a <span class='key'>seed</span>. When the "
+"seed sprouts into a <span class='key'>seedling</span> through <span "
+"class='key'>germination</span>, it grows into a fully grown plant that is "
+"capable of producing seeds. The next stage of the life cycle is to produce "
+"seeds. Flowering plants have special parts to make <span class='key'>pollen</"
+"span>, attract <span class='key'>pollinators</span> and to grow the seeds. "
+"The newly created seed, given the right conditions, will germinate and turn "
+"into a plant, starting the plant life cycle over again."
+msgstr ""
+"دورة حياة النبتة تسير في عدة مراحل.  تبدأ النبتة على شكل <span "
+"class='key'>بذرة</span>.  عندما تتبرعم البذرة إلى <span class='key'>شتلة</"
+"span>  خلال عملية <span class='key'>الإنبات</span> ، تنمو لتصبح نبتة مكتملة "
+"والتي تستطيع أن تنتج بذور.  الخطوة التالية من دورة حياة النبتة هي لإنتاج "
+"البذور.  النباتات الزهرية لها أجزاء خاصة لتنتج <span class='key'>حبوب "
+"اللقاح</span> ، تجذب <span class='key'>الملقحات</span>  ولتنمي البذور.  "
+"والبذور الجديدة ، أخذاً بالإعتبار الظروف الصحيحة، ستنبت وتتحول إلى نبتة، "
+"لتبدأ بذلك دورة حياة النبتة مرة أخرى."
+
+# 12
+msgid "Words and definition?"
+msgstr "كلمات وتفسيرات"
+
+msgid "Reviewing key vocabulary related to... the life cycle of plants"
+msgstr "مراجعة المصطلحات المرتبطة ... بدورة حياة النباتات."
+
+msgid "life cycle"
+msgstr "دورة الحياة"
+
+msgid ""
+"The life cycle of an organism is all of the changes it undergoes from birth "
+"to reproduction to death. This life cycle is repeated generation after "
+"generation."
+msgstr ""
+"دورة الحياة للكائن هي كل التغيرات التي تحدث من الميلاد إلى التكاثر وحتى "
+"الموت.  تتكرر دورة الحياة من جيل إلى جيل."
+
+msgid "seed"
+msgstr "بذرة"
+
+msgid ""
+"Many plants start out as a small seed. When the seed is planted in the "
+"ground, it sprouts into a young seedling through the process of germination. "
+"Flowers are used by plants to produce more seeds to continue the life cycle."
+msgstr ""
+"الكثير من النباتات تبدأ كبذرة صغيرة.  عندما تُزرع البذرة في  الأرض، فإنها "
+"تتبرعم لتكون شتلة صغيرة خلال عملية الإنبات.  وتستخدم الأزهار بواسطة النباتات "
+"كي تُنتج بذور إضافية لتستمر دورة الحياة."
+
+msgid "sprout"
+msgstr "برعم"
+
+msgid ""
+"A sprout is when the seed changes into a seedling through germination. "
+"Through sprouting, the seedling then grows into a fully grown plant that is "
+"capable of producing seeds."
+msgstr ""
+"البرعم هو عندما تتغير البذرة إلى شتلة صغيرة خلال الإنبات.  بالتبرعم تنمو "
+"الشتلة لتصبح نبتة مكتملة تستطيع أن تنتج بذور."
+
+msgid "seedling"
+msgstr "شتلة"
+
+msgid ""
+"Seedlings are seeds that have sprouted. Seedlings have a small root that is "
+"used to suck up water from the ground and a stem that is the body of the "
+"plant. Seedlings also have small leaves that are used to get energy from the "
+"sun. The seedling continues to grow until it becomes a mature plant."
+msgstr ""
+"الشتلات هي بذور تبرعمت.  وللشتلات جذر صغير يستخدم لإمتصاص الماء من الأرض "
+"وساق وهو جسم النبتة.  وللشتلات أيضاً أوراق صغيرة تستخدم للحصول على طاقة من "
+"الشمس.  وتستمر النبتة في النمو حتى تصبح نبتة بالغة."
+
+msgid ""
+"When the seed is planted in the ground, it sprouts into a young seedling "
+"through the process of germination."
+msgstr "عندما تُزرع البذرة في الأرض، تتبرعم إلى شتلة صغيرة خلال عملية الإنبات."
+
+msgid "root"
+msgstr "جذر"
+
+msgid ""
+"A root is the part of a plant that helps it get water and food from the "
+"ground. Roots have no leaves or flowers on them. Roots are usually "
+"underground, but not always. You can see in the photograph that this "
+"mangrove tree's roots are visible above ground. Roots that are underground "
+"help hold a plant in the ground. Your teeth also have roots. They hold your "
+"teeth in your gums."
+msgstr ""
+"الجذر هو جزء من النبتة يساعدها على الحصول على الماء والغذاء من الأرض.  ليس "
+"للجذور أوراق أو أزهار عليها.  والجذور عادة تكون تحت الأرض، لكن ليس دائماً.  "
+"بإمكانك أن ترى هذه جذور شجرة المنغروف وهي بارزة فوق الأرض.  الجذور الموجودة "
+"تحت الأرض تساعد في تثبيت النبتة في الأرض.  لأسنانك جذور أيضاً.  وهي تثبتها في "
+"لثتك."
+
+msgid ""
+"Seedlings have a small root that is used to suck up water from the ground "
+"and a stem that is the body of the plant. The main parts of the stem are the "
+"nodes, internodes, the petioles, and the leaves."
+msgstr ""
+"الشتلات لها جذور صغيرة تستخدمها لكي تمتص الماء من الأرض ولها ساق و هو جسم "
+"النبتة.  الأجزاء الرئيسية من الساق هي العقد، والسلاميات، والأعناق، والأوراق."
+
+msgid "leaves"
+msgstr "أوراق"
+
+msgid ""
+"Leaves are the part of the plant that absorb sunlight as the fuel for the "
+"process of photosynthesis. Seedlings also have small leaves that are used to "
+"get energy from the sun."
+msgstr ""
+"الأوراق هي جزء من النبتة والذي يمتص ضوء الشمس كوقود لعملية التمثيل الضوئي.  "
+"للشتلات أوراق صغيرة أيضاً تُستخدم للحصول على الطاقة من الشمس."
+
+msgid ""
+"Flowers have many parts needed to make more seeds. The outer parts of a "
+"flower are the petals. We notice the petals because they are usually "
+"colorful. Inside the petal are several things that look like little sticks "
+"with a yellow top, which are the stamen, containing pollen."
+msgstr ""
+"للأزهار أجزاء كثيرة كي تصنع بذور إضافية.  الأجزاء الخارجبة من الزهرة هي "
+"البتلات.  نحن نلاحظ البتلات لأنها عادة ملونة.  بداخل البتلة هناك اشياء أخرى "
+"تشبه العصي الصغيرة برأس أصفر، والتي هي السداة وتحتوي حبوب اللقاح."
+
+msgid ""
+"Inside the petal of a flower are several things that look like little sticks "
+"with a yellow top. These are called stamen and they contain pollen. The "
+"stamen is the male part of a flower."
+msgstr ""
+"بداخل بتلة الزهرة يوجد عدة أشياء والتي تبدو كعصي صغيرة جداً رؤوسها صفراء.  "
+"هذه تسمى سداة وتحتوي على حبوب اللقاح.  السداة هي الجزء المؤنث من الزهرة."
+
+msgid "pollen"
+msgstr "حبوب اللقاح"
+
+msgid ""
+"Pollen is a yellowish powder found inside a flowering plant. Pollen helps "
+"the plant to make more plants. Insects such as bees and butterflies go to "
+"flowers to eat. While they eat, some of the flower's pollen sticks to them. "
+"When one insect goes to another flower, it takes the pollen with it. Some of "
+"the first flower's pollen rubs off onto the second flower. That helps the "
+"second flower grow seeds. Look at the bee in this photograph. Can you see "
+"the pollen?"
+msgstr ""
+"حبوب اللقاح هي عبارة عن بودرة صفراوية اللون موجودة بداخل النبتة.  تساعد حبوب "
+"اللقاح في إنتاج نباتات أكثر.  الحشرات كالنحل والفراش تذهب إلى الأزهار كي "
+"تأكل.  بينما هي تأكل، تلتصق بها بعض حبوب اللقاح من الزهرة.  وعندما تذهب هذه "
+"الحشرة إلى زهرة ثانية، تأخذ حبوب اللقاح معها.  بعض من حبوب اللقاح من الزهرة "
+"الأولى تبقى على الزهرة الثانية.  هذا يساعد الزهرة الثانية على أن تنمو فيها "
+"البذور.  أنظر إلى النحلة في هذه الصورة.  هل ترى حبوب اللقاح؟"
+
+msgid "pistil"
+msgstr "المدق"
+
+msgid ""
+"A pistil is the female part of a flower. It is located inside the flower and "
+"helps produce seeds. The pistil is very important because it helps plants to "
+"make more plants. Butterflies and bees can help plants by bringing pollen "
+"from one flower to another. If the pollen gets on the pistil of a flower, it "
+"can make seeds or even turn into a fruit. Some flowers have just one pistil, "
+"while others have many. Above is a photograph of a hibiscus pistil."
+msgstr ""
+" المدق هو الجزء الأنثوي من الزهرة.  وهو يقع في وسط الزهرة ويساعد على إنتاج "
+"البذور.  والمدق مهم جداً لأنه يساعد النباتات على إنتاج نباتات أخرى.  الفراشات "
+"والنحل يمكن أن تساعد النباتات بجلب حبوب اللقاح من زهرة لأخرى.  إذا وصلت حبة "
+"اللقاح إلى مدق الزهرة، يمكن أن يُنتج بذور أو حتى يتحول إلى ثمرة.  بعض الأزهار "
+"لها مدق واحد.  وأخرى لها الكثير من المدقات.  في الصورة الموجودة في الأعلى "
+"مدق لنبات الكركديه."
+
+msgid "pollinate"
+msgstr "يُلَقِح"
+
+msgid ""
+"To pollinate is to transfer pollen between flowers in plant reproduction. "
+"Birds and bees pollinate many different plants."
+msgstr ""
+"لكي يتم التلقيح يجب على حبوب اللقاح أن تنتقل بين الأزهار في تكاثر النبتة.  "
+"الطيور والنحل تلقح نباتات كثيرة ومختلفة."
+
+msgid "pollinator"
+msgstr "ملقح"
+
+msgid ""
+"A pollinator is a living thing that moves pollen from one plant to another "
+"plant. Pollen is needed by some plants to make seeds and fruits. Bees, "
+"butterflies, and bats can act as pollinators. They fly from one plant to "
+"another and transfer pollen as they do. Many pollinators are animals that "
+"transfer pollen on their hair or fur. If there were no pollinators, there "
+"would be a lot less seeds and fruit in the world."
+msgstr ""
+"المُلَقِح هو شيء حي ينقل حبوب اللقاح من نبتة لأخرى.  حبة اللقاح ضرورية لبعض "
+"النباتات كي تصنع بذور وثمار.  النحل والفراش الوطاويط يمكن أن تكون ملقحات.  "
+"فهي تطير من نبتة لأخرى وتنقل حبوب اللقاح معها.  ملقحات كثيرة هي حيوانات تنقل "
+"حبوب اللقاح على شعرها أو فروها.  إذا لم يكن هناك ملقحات، سيكون هناك نقص كبير "
+"في البذور وفي الثمار حول العالم."
+
+msgid "nectar"
+msgstr "الرحيق"
+
+msgid ""
+"Many flowers produce nectar, a food for some insects. Pollinators love to "
+"drink the sweet nectar at the base of the pistil and go from flower to "
+"flower to get more."
+msgstr ""
+"تنتج الأزهار الكثير من الرحيق، وهو غذاء لبعض الحشرات.  الملقحات تحب أن تشرب "
+"الرحيق الحلو عند قاعدة المدق وتذهب من زهرة لأخرى كي تحصل على المزيد."
+
+msgid "Close me!"
+msgstr "أغلقني!"
+
+msgid "self-pollination"
+msgstr "تلقيح ذاتي"
+
+msgid ""
+"When pollen is transferred by a pollinator to the same plant in order to "
+"reproduce, this is called self-pollination. Hylocereus undatus is a "
+"hermaphrodite plant with both carpels and stamens for performing self-"
+"pollination."
+msgstr ""
+"عندما تنتقل حبوب اللقاح بواسطة مُلَقِح إلى نفس النبتة من أجل التكاثر، يسمى هذا "
+"بالتلقيح الذاتي.  ففاكهة البتايا (أو فاكهة التنين) هي نبات خنثى به كرابل "
+"وأسدية لأداء التلقيح الذاتي.\" "
+
+msgid "cross-pollination"
+msgstr "تلاقح"
+
+msgid ""
+"When pollen is transferred by a pollinator to a different plant in order to "
+"reproduce, this is called cross-pollination."
+msgstr ""
+"عندما تنتقل حبوب اللقاح بواسطة ملقح إلى نبتة مختلفة لكي تتكاثر، هذا يسمى "
+"تلاقح."
+
+# 13
+msgid "Checking what you now know... about the life cycle of plants"
+msgstr "تأكد مما تعرف الآن ... عن دورة حياة النباتات"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know."
+msgstr "الإجابة على هذه الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر لاحق عندما تكون مستعداً"
+
+msgid "guess what's next?"
+msgstr "خمن ما الذي يلحق؟"
+
+# 14
+msgid "You answered..."
+msgstr "لقد أجبت ..."
+
+msgid "preparing your first quiz question!"
+msgstr "تحضير أول سؤال قصير!"
+
+msgid "Please select your answer."
+msgstr "يرجى إختيار إجابتك."
+
+msgid "Which part of the plant makes seeds?"
+msgstr "أي جزء من النبتة يصنع البذور؟"
+
+msgid "Root"
+msgstr "جذر"
+
+msgid "Flower"
+msgstr "زهرة"
+
+msgid "Leaf"
+msgstr "ورقة"
+
+msgid ""
+"No, the roots absorb the water and nutrients from the soil into the plant."
+msgstr "لا، تمتص الجذور الماء والمغذيات من التربة إلى النبتة."
+
+msgid ""
+"No, the stem gives the plant support. It is also in charge of distributing "
+"water and sap throughout the plant."
+msgstr ""
+"لا، يعطي الساق دعامة للنبتة.  وهو مسؤول أيضاً عن توزيع الماء والغذاء في "
+"النبتة."
+
+msgid ""
+"Correct. The flower is the part that has the stamen and pistil to make seeds."
+msgstr "صحيح. الزهرة هي الجزء الذي يحتوي على الميسم والمدق كي تنتج بذور."
+
+msgid ""
+"No, plant leaves have the important job of producing food through "
+"photosynthesis."
+msgstr ""
+"لا، أوراق النبتة لها وظيفة مهمة في إنتاج غذاء خلال عملية التمثيل الضوئي."
+
+msgid "You didn't select any answer."
+msgstr "لم تختار أي جواب."
+
+# 15
+msgid ""
+"A strong storm has blown through your neighborhood. After the storm, you "
+"noticed the flowers on the plants outside have been damaged. How would this "
+"affect the life cycle of the plant?"
+msgstr ""
+"عاصفة قوية هبت في منطقتك.  بعد العاصفة، لاحظت الأزهار على النباتات الموجودة "
+"في الخارج قد تدمرت.  كيف يمكن أن تؤثر على دورة حياة النبتة؟"
+
+msgid "It would not affect the plant's life cycle at all."
+msgstr "هي لن تؤثر على دورة حياة النبتة على الإطلاق"
+
+msgid "Without its flowers and seeds, the plant would be unable to reproduce."
+msgstr "بدون أزهارها وبذورها، لن تتمكن النبتة من التكاثر."
+
+msgid ""
+"A pollinator can still make the plant reproduce, even without the flower and "
+"seeds."
+msgstr "يستطيع الملقح أن يجعل النبتة تتكاثر حتى بدون الزهرة والبذور"
+
+msgid "The plant would remain in its current state until it is removed."
+msgstr "يمكن أن تبقى النبتة في  وضعها الحالي حتى تُقلَع."
+
+msgid ""
+"No, it would affect the plant’s life cycle. Without its flowers and seeds, "
+"the plant would be unable to reproduce."
+msgstr ""
+"لا، من الممكن أن تؤثر في دورة حياة النبتة.  بدون بذورها وأزهارها، لن تتمكن "
+"النبتة من التكاثر."
+
+msgid ""
+"Most flowering plants need seeds to reproduce. If the flowers are too "
+"damaged to create seeds, the plant would produce new flowers to allow "
+"reproduction to continue."
+msgstr ""
+"معظم النباتات الزهرية تحتاج للبذور كي تتكاثر.  إذا كانت الأزهار تالفة جداً "
+"لكي تنتج بذور، يمكن للنبتة أن تنتج أزهار جديدة لتسمح للتكاثر بالإستمرار."
+
+msgid ""
+"No, a pollinator does not make the plant reproduce. It simply assists in "
+"pollination and helps set the stage for reproduction in the flower."
+msgstr ""
+"لا، المُلقح لا يجعل النبتة تتكاثر.  إنه يسمح بالتلقيح ويساعد بتنظيم عملية "
+"التكاثر في الزهرة."
+
+msgid ""
+"No, even the organisms that have the ability to fix themselves do not go "
+"backwards in their life cycle. Without its flowers and seeds, the plant "
+"would be unable to reproduce."
+msgstr ""
+"لا، حتى الكائنات التي لها القدرة على ضبط نفسها، لا تسير للخلف في دورة "
+"حياتها.  بدون الأزهار والبذور، لن تكون النبتة قادرة على التكاثر."
+
+# 16
+msgid "Plants can be pollinated by?"
+msgstr "تستطيع النباتات التلقيح بواسطة؟"
+
+msgid "Soil"
+msgstr "تربة"
+
+msgid "Bees"
+msgstr "النحل"
+
+msgid "Bee"
+msgstr "النحلة"
+
+msgid "Watering them"
+msgstr "يرويهم بالماء"
+
+msgid "Seeds"
+msgstr "البذور"
+
+msgid ""
+"No, soil does not pollinate plants. Soil provides water and nutrients to "
+"plants."
+msgstr "لا، التربة لا تلقح النباتات.  التربة تزود النباتات بالتربة والغذاء. "
+
+msgid ""
+"Correct, bees can pollinate plants. When a bee lands on a flower, its feet "
+"get full of pollen. The bee flies away looking for nectar and lands on "
+"another flower. The pollen is now on a different flower."
+msgstr ""
+"صحيح، النحل يستطيع تلقيح النباتات.  عندما تهبط النحلة على الزهرة، تمتليء "
+"أرجلها بحبوب اللقاح.  تطير النحلة مبتعدة عنها لتحصل على الرحيق وتهبط على "
+"زهرة أخرى.  حبوب اللقاح هي الآن على زهرة مختلفة."
+
+msgid ""
+"No, watering the plants helps them grow, but not pollinate. Bees can "
+"pollinate plants."
+msgstr ""
+"لا، سقاية النباتات تساعدها على النمو، لكن لا تلقحها.  تستطيع النحلات أن تلقح "
+"النباتات."
+
+msgid ""
+"No, seeds are formed after pollination takes place. Bees can pollinate "
+"plants."
+msgstr "لا، تتكون البذور بعد أن يتم التلقيح.  يمكن للنحلات أن تلقح النباتات."
+
+# 17
+msgid "Which statement best summarizes the life cycle of plants in general?"
+msgstr "أي عبارة تلخص بشكل أفضل دورة حياة النباتات بشكلٍ عام؟"
+
+msgid "Select one of the choices below."
+msgstr "إختار واحدة من الخيارات في الأسفل."
+
+msgid ""
+"Seed sprouts into a seedling, which grows into an adult plant, which "
+"produces more seeds."
+msgstr ""
+"تتبرعم البذرة لتكون شتلة، والتي تنمو لتكون نبتة ناضجة، والتي بدورها تُنتج "
+"بذور أكثر."
+
+msgid ""
+"Seedling sprouts into a seed, which produces more seeds, and then grows into "
+"an adult plant."
+msgstr ""
+"تتبرعم الشتلة لتكون بذور، والتي بدورها تُنتج بذور أكثر، ومن ثم تنمو لتكون "
+"نبتة ناضجة."
+
+msgid "Adult plant deteriorates into a seedling, which produces more seeds."
+msgstr "النبتة البالغة تتدهور لتكون شتلة، والتي بدورها تُنتج بذور أكثر."
+
+msgid ""
+"Seed grows first into an adult and then a seedling, which produces more "
+"seeds."
+msgstr ""
+"تنمو البذرة أولاً لتُكَوِّن نبتة بالغة ومن ثم شتلة، والتي بدورها تُنتج بذور أكثر."
+
+msgid ""
+"Correct. A seed sprouts into a seedling through germination, which grows "
+"into an adult plant, which produces more seeds."
+msgstr ""
+"صحيح.  تتبرعم البذرة لتكون شتلة خلال عملية الإنبات، والتي بدورها تنمو لتكون "
+"نبتة بالغة، و تُنتج بذور أكثر."
+
+msgid ""
+"No, a seed sprouts into a seedling (not the other way around). Once it is an "
+"adult plant it can produce more seeds."
+msgstr ""
+"لا، تتبرعم البذرة لتكون شتلة (وليس العكس).  عندما تصبح نبتة بالغة يمكنها أن "
+"تُنتج بذور أكثر."
+
+msgid ""
+"No, a seedling grows into an adult plant (not the other way around). Once it "
+"is an adult plant it can produce more seeds."
+msgstr ""
+"لا، تنمو الشتلة لتكون نبتة بالغة (وليس العكس).  عندما تصبح نبتة بالغة يمكنها "
+"أن تُنتج بذور أكثر."
+
+msgid ""
+"No, a seed grows first into a seedling, then an adult plant. Once it is an "
+"adult plant it can produce more seeds."
+msgstr ""
+"لا، تنمو البذرة أولاً لتكون شتلة، ومن ثم نبتة بالغة.  عندما تصبح نبتة بالغة "
+"يمكنها أن تُنتج بذور أكثر."
+
+# 18
+msgid ""
+"Correct. from day 1 to day 6, the plant’s growth was relatively steady, "
+"until it experienced a very noticeable change when its height went from 2.7 "
+"to 1.1 cm."
+msgstr ""
+"صحيح.  من اليوم 1 ولغاية اليوم 6، يكون نمو النبتة ثابت نسبياً، حتى يحدث تغير "
+"مُلَاحَظ جداً يتغير طولها من 1.1 ولغاية 2.7 سم."
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change"
+msgstr ""
+"لا، بعد اليوم 6 نمو النبتة لا يتناقص، وطولها يتغير من 1.1 ولغاية 2.7 سم."
+
+msgid "The plant grew very quickly, and then slowed down its growth."
+msgstr "تنمو النبتة بسرعة كبيرة جداً، ومن ثم يتناقص نموها."
+
+msgid ""
+"No, from day 1 to day 6, the plant's growth was relatively steady, until it "
+"experienced a very noticeable change."
+msgstr ""
+" لا، من اليوم 1 إلى اليوم 6، نمو النبتة يكون ثابت نسبياً، حتى يبدأ التغير "
+"الملحوظ جداً بنموها. "
+
+msgid "The plant grew very slowly, and then sped up its growth."
+msgstr "نمت النبتة بشكلٍ بطيء، ومن ثم نمت بسرعة كبيرة."
+
+msgid ""
+"No, most of the growth was steady, but after day 6 its height went from 2.7 "
+"to 1.1 cm."
+msgstr ""
+"لا، معظم النمو كان ثابتاً، لكن بعد يوم 6 زاد طول النبتة من 1.1 إلى 2.7 سم."
+
+msgid "The plant grew in a steady manner throughout the time of observation."
+msgstr "نمت النبتة بشكلٍ ثابت خلال زمن الملاحظة."
+
+msgid "Which statement best describes the life of this plant?"
+msgstr "أي عبارة تصف بشكلٍ أفضل دورة حياة النبتة؟"
+
+msgid ""
+"The plant showed steady growth until it experienced a very noticeable change."
+msgstr "أظهرت النبتة نمواً ثابتاً حتى بدأت بالتغير الملحوظ جداً."
+
+msgid "Day after germination"
+msgstr "يوم بعد الإنبات."
+
+msgid "Plant height in cm"
+msgstr "إرتفاع النبتة بالسنتميتر"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "انقر، وثبت المؤشر وحرك الفأرة للأعلى أو للأسفل."
+
+msgid ""
+"No, after day 6 the plant's growth did not slow down; its height went from "
+"2.7 to 1.1 cm. This is a noticeable change."
+msgstr ""
+"لا، بعد يوم 6 لا يقل نمو النبتة؛ ويزيد إرتفاعها من 1.1 إلى 2.7 سم.  هذا تغير "
+"ملحوظ جداً."
+
+# 19
+msgid ""
+"When insects and wind assist and pollen from the same flower is brought to "
+"the stigma of that flower. This description is related to which of the "
+"following terms?"
+msgstr ""
+"عندما تتساعد الحشرات والرياح وحبوب اللقاح من نفس الزهرة تُنقل إلى ميسم نفس "
+"الزهرة. أي من الآتي مرتبط هذا الوصف؟"
+
+msgid "Cross-pollination"
+msgstr "تلاقح"
+
+msgid "Self-pollination"
+msgstr "تلقيح ذاتي"
+
+msgid "Seed dispersal"
+msgstr "نشر البذرة"
+
+msgid ""
+"No, cross-pollination is when pollen from a different flower is brought to "
+"the stigma of a flower."
+msgstr "لا, التلاقح هو عندما تُنقل حبوب اللقاح من زهرة إلى ميسم زهرة مختلفة.  "
+
+msgid ""
+"Correct. Pollinators can help, as long as the pollen and stigma are from the "
+"same flower, it is considered self-pollination."
+msgstr ""
+"صحيح.  تستطيع الملقحات المساعدة ما دام أن حبوب اللقاح والميسم من نفس الزهرة، "
+"وهو يعتبر تلقيح ذاتي."
+
+msgid "No, germination is the sprouting and growth of a seed to a seedling."
+msgstr "لا، الإنبات هو تبرعم ونمو بذرة لتصبح شتلة."
+
+msgid ""
+"No, pollinators such as insects and wind disperse seeds for pollination. "
+"Self-pollination is when pollen from the same flower is brought to the "
+"stigma of that flower."
+msgstr ""
+"لا, الملقحات مثل الحشرات والرياح تنشر البذور للتلقيح.  التلقيح الذاتي هي "
+"عندما تُنقل حبوب اللقاح إلى ميسم نفس الزهرة."
+
+# 20
+msgid "End of Review"
+msgstr "نهاية المراجعة"
+
+msgid "Congratulations, "
+msgstr "مبروك،"
+
+msgid "Congratulations!"
+msgstr "مبروك!"
+
+msgid "You've completed the Life Cycle of Plants review."
+msgstr "لقد أنهيت مراجعة دورة حياة النباتات."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك أن تتأكد من كيف عملت في التقويم السريع وفي الأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل."
+
+# preloaders
+msgid "The parts of the plant"
+msgstr "أجزاء النبتة"
+
+msgid "Planting seeds..."
+msgstr "بذور إنبات"
+
+msgid "Flowers are blooming"
+msgstr "أزهار تتفتح"
+
+msgid "Attracting pollinators..."
+msgstr "جَذب الملقحات"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير أول تقويم سريع"
+
+msgid "Do you like flowers?"
+msgstr "هل تحب الأزهار؟"
+
+msgid "Another quick check on the way!"
+msgstr "تقويم سريع بطريقه إليك!"
+
+msgid "The colony collapse"
+msgstr "إنهيار المستعمرة"
+
+msgid "Putting it all together..."
+msgstr "ضعها مع بعضها ..."
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال سريع هو ..."
+
+msgid "Plants and storms"
+msgstr "النباتات والعواصف"
+
+msgid "Who can pollinate?"
+msgstr "مَن يستطيع التلقيح؟"
+
+msgid "The plant life cycle is..."
+msgstr "دورة حياة النبات هي ..."
+
+msgid "Last two!"
+msgstr "أخر إثنتين"
+
+msgid "Pollinator assistants"
+msgstr "مساعدات الملقح"
+
+msgid "You're done!"
+msgstr "لقد أنهيت!"

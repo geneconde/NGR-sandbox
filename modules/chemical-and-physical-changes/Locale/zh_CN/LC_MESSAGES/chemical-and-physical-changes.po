@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "閱讀更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速測驗#1"
+
+msgid "Quick Check #2"
+msgstr "快速測驗#2"
+
+msgid "Quick Check #3"
+msgstr "快速測驗#3"
+
+msgid "Quick Check #4"
+msgstr "快速測驗#4"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "將下方的方框向上或向下旋轉以設置您的答案。擊點、按住或是上下移動您的游標。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations"
+msgstr "恭喜您"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“快速檢測”與“測驗題”中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入儀錶板"
+
+msgid "Go Back to Dashboard"
+msgstr "返回主選單"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把他們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "第一個測驗題為……"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Language:"
+msgstr "语言："
+
+# 1.
+msgid "Welcome to the Chemical and Physical Changes module"
+msgstr "歡迎來到「化學與物理變化」的模組"
+
+# 2.
+msgid "Thinking about... chemical and physical changes"
+msgstr "想想有關……「化學與物理變化」"
+
+msgid "Remember your last birthday when you were blowing the candles out on your birthday cake? That whole experience was made possible by chemical and physical changes in matter!"
+msgstr "記住你上次過生日時吹熄了生日蛋糕上的蠟燭嗎？這整個過程經歷了物質的化學與物理變化。"
+
+msgid "There's a lot to be learned at your birthday party about how different kinds of matter interact to cause chemical and physical changes in matter. The baking of your birthday cake involves chemical reactions that are good examples of chemical changes in the ingredients that make the cake. The burning of the candles involves both physical changes and chemical changes in the matter that makes up the candles. But the making of the lemonade you drink and making the ice that keeps the lemonade cold are not chemical changes – they are physical changes that happen in the sugar, the water and the lemonade mix that make your lemonade. Let's see what all of this means."
+msgstr "在你的生日派對上，有許多關於不同種類的物質如何相互作用，以引起物質的化學和物理變化，這些都是必須學習的。生日蛋糕的烘烤涉及的化學反應，是蛋糕成分起化學變化很好的例子。蠟燭燃燒同時涉及物質的物理變化及化學變化。但是你製作檸檬水來喝和製作冰塊使檸檬變得冰涼，這些皆沒有化學變化。這物理變化發生在糖、水和檸檬水混合形成你所喝的檸檬水。讓我們來看看這所有一切的意義。"
+
+# 3.
+msgid "Checking what you know about... chemical and physical changes"
+msgstr "看看你了解多少有關……「化學與物理變化」"
+
+msgid "When the ingredients in the bowl change to become a cake, what do you think is the <span class='blink'>best explanation</span> for what happens?"
+msgstr "你覺得該怎麼解釋碗裡的原料如何變成蛋糕的呢？"
+
+msgid "Stirring the ingredients together causes them to mix and change to make the cake."
+msgstr "將這些原料攪拌混合再一起產生變化做成蛋糕。"
+
+msgid "The chemicals that make up the ingredients automatically combine to make new chemicals in the cake."
+msgstr "化學反應讓這些原料自動融合成蛋糕中新的化學物質。"
+
+msgid "The heat from the oven causes the chemicals in the ingredients to have a chemical reaction to form new chemicals that make up the cake."
+msgstr "烤箱中的熱使蛋糕中的原料產生化學變化而生成生新的成分得以製成蛋糕。"
+
+msgid "Cake mixes from the grocery store automatically make cakes when you cook them."
+msgstr "當你料理從超市中買來的蛋糕粉時，它們會自行融合成為蛋糕。"
+
+msgid "Simply stirring the ingredients together just makes a mixture of ingredients but not a cake. Even if you let the mixture sit for a long time, you still won't get a cake. The chemicals in the ingredients, like the eggs and milk and sugar, don't automatically combine and change to make the cake. The heat from the oven causes the chemicals that make up the cake ingredients to have a chemical reaction that changes them into new chemicals that make up a cake. These new chemicals give the cake its new properties that are different from those of the ingredients. You can't taste raw eggs or flour or milk anymore. But you can taste cake."
+msgstr "簡單的將原料攪拌再一起製成原料混合物但不是蛋糕。就算你將原料混合物放置一段時間，還是不會自己變成蛋糕。原料之中的化學物，例如：雞蛋、牛奶、糖，它們不會自動融合成為蛋糕。是烤箱中的熱源造成蛋糕原料的化學變化而形成新的化學物成為真正的蛋糕。這些新的化學物質讓蛋糕產生與原料截然不同的新特性。你無法單獨嘗到生蛋、麵粉或是牛奶的味道，你嚐到的是蛋糕的味道。"
+
+msgid "Baking sweet cakes..."
+msgstr "烘焙一個甜蛋糕……"
+
+# 4.
+msgid "Reviewing big ideas about... chemical and physical changes"
+msgstr "回顧一個有關「化學與物理變化」的大概念。"
+
+msgid "Let's start by making lemonade!! There's nothing like a nice big glass of cold lemonade to wash down that delicious birthday cake. Making lemonade for your birthday party is a good example of mixing two or more different substances and getting a new substance that has different <span class='key'>properties</span>. That's what scientists call a <span class='key'>physical change</span>. Let's make some lemonade and see what that means."
+msgstr "讓我們從製作檸檬汁出發吧！沒有什麼比得上一大瓶沁涼的檸檬汁搭配上美味的生日蛋糕了。製作生日派對的檸檬汁是個很好的例子去解釋如何混合兩種不同特性的物質而產生出新的物質。而這就是科學上所說的物理變化。讓我們來製作檸檬汁並了解「物理變化」的涵義吧。"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Plus"
+msgstr "加上"
+
+msgid "Powdered Lemonade Mix"
+msgstr "檸檬原料粉"
+
+msgid "Sugar"
+msgstr "糖"
+
+msgid "Equals"
+msgstr "等於"
+
+msgid "Lemonade"
+msgstr "檸檬汁"
+
+msgid "When you mix the lemonade mix with water and sugar, you get a new substance with new properties - lemonade. The lemonade mix by itself is dry and \"lemony\" tasting but bitter. The water by itself is wet but tasteless. And the sugar is dry but sweet. Mix them all together and you get lemonade, which has the properties of all three ingredients combined – wet, lemony-tasting, and sweet – but are different from each of the ingredients by themselves. Lemonade is a good example of a <span class='key'>mixture</span>."
+msgstr "當你用水及糖混合檸檬原料粉時，你得到一個新特性的物質：檸檬汁。檸檬原料粉本身是乾的，嘗起來只有酸味。而水是液態且無色無味。糖則是乾且甜的。將這三方原料混合在一起就會得到檸檬汁，並且綜合了三個原料的特性：液態、檸檬味及甜味，但卻又與原本自身的特性稍有不同。檸檬汁是個「混合物」的好例子。"
+
+msgid "A mixture is an example of a physical change because the original ingredients, like the sugar, the water, and the lemonade mix, don't turn into new chemicals – they just mix together. If you simply let the lemonade stand on your table long enough – and it may take a couple of days – the water part of the mixture will eventually <span class='key'>evaporate</span> – which means it goes up into the air and becomes part of the air. Then, if you look in the bottom of the pitcher, you'll see the sugar and the lemonade mix are still there!  It came back!! Well, it was always there, but it was just mixed in with the water. The sugar always stayed sugar, and the lemonade mix stayed lemonade mix. They never changed into anything else. And the water <span class='key'>evaporating</span> – going from liquid to gas – is another example of a <span class='key'>physical change</span>. We'll talk more about that later."
+msgstr "混合物是物理變化的例子，因為原本的成分，如糖、水和檸檬汁混合，並沒有產生新的化合物，它們就只是混合在一起而已。如果你讓檸檬水放在桌上足夠的時間，可能需要一兩天，混合物中一部分的水最終會蒸發，也就是它跑到空氣中成為空氣的一部分。接著，你看看罐子的底部，你會看到糖和檸檬汁仍存在！它回來了！這是永遠存在的，只是混合在水中而已。糖還是糖，檸檬汁還是檸檬汁。它們從來沒有變成別的東西。水的蒸發從液體變成氣體，是一個物理變化的另一個例子。我們後面將會詳細討論。"
+
+msgid "And here's something else that's important about mixing <span class='key'>substances</span> together that causes physical changes. Even though the mixture might have new properties compared to the ingredients, the weight (or mass) of the mixture is always exactly the same as the weight of all the ingredients combined. No new matter is created or none of the matter is destroyed. This idea is called <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science."
+msgstr "下面是其他一些重要的關於物質混合在一起引起物理變化的例子。儘管混合物相較於原料可能具有新的特性，但混合物的重量（或質量）始終和所有原料重量總和相同。沒有新的物質產生也沒有物質被破壞。這個概念被稱為「物質的守恆」，是所有科學中最重要的概念之一。"
+
+msgid "Extracting lemonade..."
+msgstr "萃取檸檬水……"
+
+# 5.
+msgid "Question A. When sugar is added to water to sweeten the lemonade, it:"
+msgstr "問題A. 當糖被加入水中使檸檬水變甜，它："
+
+msgid "Disappears."
+msgstr "消失了。"
+
+msgid "Is still sugar but dissolved in the water."
+msgstr "仍是糖，但溶解在水中。"
+
+msgid "Reacts with the water to create a new kind of matter."
+msgstr "與水反應，以產生了一種新的物質。"
+
+msgid "Reacts with the water to change into something sweet."
+msgstr "與水反應轉變成甜的東西。"
+
+msgid "Question B. When a physical change in matter occurs:"
+msgstr "問題B. 當物質的物理變化發生："
+
+msgid "The properties of the matter are changed forever."
+msgstr "物質的性質永遠改變。"
+
+msgid "The matter can be changed back into its original properties."
+msgstr "這個物質可以改回其原有的特性。"
+
+msgid "New properties of the matter are created that can't be changed back to the original properties."
+msgstr "產生新的物質特性，且不能改變回原本的特性。"
+
+msgid "Nothing happens to the properties of the matter."
+msgstr "什麼也沒有發生。"
+
+msgid "Preparing your first quick check..."
+msgstr "預備你的第一個快速檢測……"
+
+msgid "No – You can't see the sugar in the lemonade – but it doesn't disappear – it's still in the lemonade making it sweet."
+msgstr "否–你不能看到檸檬水中的糖，但是它並沒有消失，它仍然存在在檸檬水中使之變甜。"
+
+msgid "Yes – the sugar is still sugar but it's dissolved in the water."
+msgstr "是 - 糖仍然是糖，但它溶解在水中。"
+
+msgid "No – sugar dissolves in water but stays sugar. It doesn't become a new kind of matter."
+msgstr "否–糖溶於水仍是糖，它不會成為一種新的物質。"
+
+msgid "No – The sugar was sweet to begin with. It doesn't become sweet by dissolving in the water. In a physical change, many of the original properties don't change."
+msgstr "否–糖一開始本來就是甜的，並不是因為溶在水中才變甜。在物理變化中，許多原有的特性是不會改變的。"
+
+msgid "No - In a physical change, many of the original properties don't change. And if they do change, like liquid water turning into ice, the properties can easily be changed back again."
+msgstr "否–在物理變化中，許多原有的特性是不會改變的。如果他們不改變，就像液態水變成冰，很容易就能被再次變回來。"
+
+msgid "Yes - The matter can be changed back into its original properties."
+msgstr "是的–物質可改變回其原來的特性。"
+
+msgid "No – No new properties of matter are created in physical changes that can't be changed back again to the original properties."
+msgstr "否–在物理變化中，沒有不能改變回原來特性的新物質產生。"
+
+msgid "No – Something can happen to the properties of the matter – like water becoming hard when it freezes. But it can change back to the original water simply by melting."
+msgstr "否–會有些事情發生，像是當水冰凍後變堅硬，但它可以輕易地又改變回原來的水。"
+
+# 6.
+msgid "Reviewing more big ideas about... chemical and physical changes"
+msgstr "回顧有關關於……「化學與物理變化」更大的概念。"
+
+msgid "Now that we have some tasty lemonade for our party, let's make some ice cubes to keep it cold."
+msgstr "現在為了我們的派對，我們有一些美味的檸檬汁，讓我們做一些冰塊保持它的低溫吧。"
+
+msgid "Ice Cube Tray"
+msgstr "製冰盤"
+
+msgid "Freezer"
+msgstr "冰櫃"
+
+msgid "Ice"
+msgstr "冰"
+
+msgid "Making ice cubes is even easier than making lemonade! All you have to do is add some liquid water to an ice cube tray, put it in the freezer, and wait a couple of hours until it freezes into solid water – called ice. It's called changing states of matter - in this case from liquid to solid. Changing states of matter of substances occur because of changes in temperature. This is another example of a physical change that can happen to a substance. Most substances like water can commonly exist in three different states of matter – solids, liquids, and gas. But what makes water unusual is that it can exist in all three states of matter at temperatures that commonly occur in everyday life on earth."
+msgstr "製作冰塊比製作檸檬汁更容易！你所有做的就是把液態的水加入製冰盤，放入冰櫃中等待數小時，直到結凍成固態的水，稱作為冰。從液態變成固態，這就是所謂的改變物質的狀態。物質因為溫度的變化而發生狀態改變，這是物質發生物理變化的另一個例子。大多數的物質，像是水通常可以存在在三個不同狀態 - 固態、液態和氣態。但水不同尋常的是，它可以在我們地球上日常生活當中的溫度下存在三種狀態。"
+
+msgid "<span class='key'>Changing states of matter</span> just means changing a substance – like water - from a solid to a liquid or a liquid to a gas – or going the other way - from a gas to a liquid or a liquid to a solid, simply by changing the temperature. In making ice cubes, the water changed its properties from being liquid at room temperature to being cold and solid when it freezes. But it's still water. It didn't change what it is - just some of its properties changed. And - if you just leave the ice alone at room temperature for an hour or so, the ice will melt back to liquid water again– or change from a solid state – ice - into the liquid state - liquid water – all by itself. That means the process of changing states of matter is <span class='key'>reversible</span>. It can go either way."
+msgstr "物質狀態的改變就只是意味著改變物質本身，例如水從固態到液態或液態到氣態，或另一種方式由氣態到液態或液態至固態，這些藉著簡單地改變溫度。在製造冰塊時，水從室溫下的液態到冷凍結成固態而改變了它的性質，但仍然還是水。它並沒有改變它自己，只是它的一些特性改變。但如果你把冰塊放在室溫下一小時左右，冰就會再次融化回水，也就是從固態的冰改變成液態的水，全部只發生於水本身。這意味著物質的狀態改變的過程是可逆的，它可以改變至任何一種狀態。"
+
+msgid "Most matter can exist in a solid state, liquid state, or gaseous state, depending on the temperature. But sometimes, for some substances like iron, the temperature has to be really hot – like in a really hot furnace to get it to become liquid."
+msgstr "根據不同溫度，大多數的物質可以以固態、液態或氣態的狀態存在。但有時候對於某些物質，例如鐵就必須要非常熱的溫度，就像需要一個真正的熱爐讓它變成液體。"
+
+msgid "Putting ice cubes..."
+msgstr "投入冰塊……"
+
+# 7.
+msgid "Question A. Which of the following properties of matter is most important in causing matter to change its state?"
+msgstr "問題A. 其中哪一個是引起物質狀態改變最重要的特性？"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Temperature"
+msgstr "溫度"
+
+msgid "Shape"
+msgstr "形狀"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Question B. Which of the following is <span class='blink'>NOT</span> an example of matter changing its state?"
+msgstr "問題B. 下列哪一個不是物質狀態改變的例子？"
+
+msgid "Any solid substance turning into a liquid"
+msgstr "任何固體物質變成液體"
+
+msgid "Liquid water freezing"
+msgstr "液態水結冰"
+
+msgid "Water evaporating"
+msgstr "水蒸發"
+
+msgid "Liquid water getting cold"
+msgstr "液態的水越來越冰"
+
+msgid "Changing state of matter..."
+msgstr "改變物質的狀態……"
+
+msgid "Not really – the size of a substance may change because of a change in state – like liquid water expands and gets bigger when it freezes – but that doesn't cause the water to freeze and change state – it's the result of water freezing."
+msgstr "不是–因為狀態變化，物質的大小可能改變，像是液態水結凍時膨脹且變大，但大小的改變並不會造成水結凍並改變狀態，大小的改變是結凍的結果。"
+
+msgid "Yes – The temperature of any substance normally is the cause of most common substances changing state under normal conditions. For instance, when you cool liquid water to below its freezing point, it changes state to become solid ice."
+msgstr "是–在正常條件下，溫度通常是最常見改變狀態的原因。例如，當你降低液態水的溫度低於冰點，它改變狀態成為固態。"
+
+msgid "No – The shape of a substance doesn't cause it to change states."
+msgstr "否–物質的形狀不會導致它改變狀態。"
+
+msgid "No – The color of a substance doesn’t cause it to change states. But if a substance is dark-colored, it may absorb sunlight more than if it was a light color. This might heat it up and cause it to melt. But it’s still the temperature increase that causes the melting."
+msgstr "否–物質的顏色不導致其狀態改變。但是，如果一種物質是深色，它會比亮色物質吸收的太陽光還多。這可能會熱起來，並使其熔化。但這仍然是因為溫度升高，導致融化。"
+
+msgid "Not quite – substance turning from a solid to a liquid is called melting – which is a change of state."
+msgstr "不完全正確–物質從固體變成液體被稱為熔化，這是狀態的改變。"
+
+msgid "Not quite – water freezing – going from a liquid to a solid - is a change of state."
+msgstr "不完全正確–水結冰，從液體變成固體，是狀態的變化。"
+
+msgid "Not quite – water evaporating – going from a liquid to a gas - is a change of state."
+msgstr "不完全正確–水蒸發，從液體變成氣體，是狀態的變化。"
+
+msgid "Correct – Liquid water getting colder – without freezing is not a change of state. It starts out liquid and is still liquid after it gets colder, so there's no change of state."
+msgstr "正確–液態水變冷，不凍結並不是狀態的變化。它開始時是液態，變冷後仍是液態，所以狀態並沒有改變。"
+
+# 8.
+msgid "Now let's think about the cake. Did you happen to watch your mother or someone else make the cake? They added some white powdered flour, some sugar, butter, milk, eggs, and baking powder all together in a big bowl. The recipe calls these \"ingredients\" but scientists think of them as <span class='key'>chemical compounds</span>. It looks like a big mess, doesn't it? Does it look like something you'd want to eat?  But then all the ingredients got mixed together and put in the hot oven to bake. Then what happened? After baking in the oven at about 350 degrees for 30-45 minutes, that big mess in the bowl changed. Out popped a cake that looks and feels and tastes totally different than the ingredients before baking. Look at the ingredients in the bowl, then look at the slice of cake. How do you think the properties of the cake – the taste, the color, the way it feels – are different from the properties of the ingredients? What do you think happened to cause those changes?"
+msgstr "現在，讓我們想想蛋糕。你看到過你的母親或是其他人在製作蛋糕嗎？他們添加了一些白色粉末狀的麵粉、一些白糖、奶油、牛奶、雞蛋和發酵粉一起在一個大碗裡。食譜稱這些“配料”，但科學家們認為它們就是化學物質。它看起來像一攤雜物，不是嗎？它們看起來是你會想吃的東西嗎？但把所有的配料混合在一起，接著放入烤箱烘烤，接著發生了什麼？經過烤箱350度30-45分鐘的烘烤，碗裡一攤看起來像雜物的東西改變了。接著突然出現了一個蛋糕，它的外觀、感覺和味道和烘烤前的成分完全不同。您怎麼看待蛋糕的性質 - 味道、顏色、等諸如此類的感覺與先前配料的性質不同？你覺得發生了什麼導致這些變化？"
+
+msgid "Lots of complicated <span class='key'>chemical changes</span> happen when a cake bakes. But let's look at just one chemical change that's really important - how the cake rises."
+msgstr "當一個蛋糕在烘烤的時候，有很多複雜的化學變化發生，但是在我們眼中看來，就只是一個化學的變化，那就是很重要的 - 蛋糕是如何膨脹起來的？"
+
+msgid "Sodium bicarbonate"
+msgstr "碳酸氫鈉（小蘇打）"
+
+msgid "Citric acid"
+msgstr "檸檬酸"
+
+msgid "One of the ingredients in the cake is baking powder. Baking powder is composed of two chemical compounds – sodium bicarbonate and a very weak and harmless acid - that react together when heated to make two new chemicals – carbon dioxide gas – CO<sub>2</sub> – plus some water."
+msgstr "蛋糕裡的一個成分配料是發酵粉。發酵粉由兩個化學物質組成，碳酸氫鈉和一個非常弱的且無害的酸，當加熱的時候，物質相互作用形成兩個新的化學物質 - 二氧化碳CO2加上一些水。"
+
+msgid "As the cake cooks, the CO<sub>2</sub> gas gets in between the little cake particles and lifts them up and pushes them apart to cause the cake to rise. This reaction is:"
+msgstr "當烤蛋糕時，二氧化碳氣體跑到了蛋糕小粒子之間，提起它們並推動它們分開來，使蛋糕膨大升起來。此反應是："
+
+msgid "NaHCO"
+msgstr "NaHCO"
+
+msgid "H+"
+msgstr "氫離子"
+
+msgid "CO<sub>2"
+msgstr "二氧化碳"
+
+msgid "H<sub>2</sub>O"
+msgstr "水"
+
+msgid "Becomes"
+msgstr "變成"
+
+msgid "Acid"
+msgstr "酸"
+
+msgid "Carbon dioxide"
+msgstr "二氧化碳"
+
+msgid "The big difference between physical changes, like changes of state, and chemical changes, like the baking of the cake, is that in a chemical change or reaction, the change in the substances can't be reversed. In other words, once you make the cake, you can't get back the eggs, and milk, and baking soda."
+msgstr "物理變化和化學變化之間最大的區別，在於物理變化為狀態的變化，化學變化像是烤麵包為化學的改變或反應，物質的變化是不可逆的。換言之，一旦你做的蛋糕，你就不可能回復到雞蛋、牛奶和小蘇打。"
+
+msgid "Pre-heating oven..."
+msgstr "預熱烤箱……"
+
+# 9.
+msgid "Question A. Which of the following cake ingredients is <span class='blink'>not</span> a chemical compound?"
+msgstr "問題A. 下列哪個蛋糕配料不是化學物質？"
+
+msgid "Egg"
+msgstr "雞蛋"
+
+msgid "Baking soda"
+msgstr "小蘇打"
+
+msgid "None of the above"
+msgstr "以上皆是化學物質"
+
+msgid "Question B. Which of the following statements are <span class='blink'>false</span> about chemical compounds?"
+msgstr "問題B. 下列哪個有關化學物質的句子是錯誤的？"
+
+msgid "All chemicals are bad for you so never eat or go near any chemical compounds."
+msgstr "所有的化學品都對你有害，所以不要吃也不要靠近任何化學物質。"
+
+msgid "Almost everything in the universe is made up of chemical compounds – some of them are bad for you and some of them are good."
+msgstr "宇宙中的一切都是由化學物質組成，其中有些是對你有害，其中有些是好的。"
+
+msgid "Some chemical compounds are necessary for your everyday survival."
+msgstr "有些化學物質是我們日常生活所需的。"
+
+msgid "It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "重要的是要了解關於化學品的意義，讓你知道什麼是壞的，什麼是好的。"
+
+msgid "Sorting cake ingredients..."
+msgstr "將蛋糕原料分類……"
+
+msgid "Not quite – Eggs are made from very complicated chemical compounds."
+msgstr "不完全對–雞蛋是由複雜的化學物質組成。"
+
+msgid "Not quite – Sugar is the chemical C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>  which means it's made up from the elements carbon, hydrogen, and oxygen."
+msgstr "不完全對–糖的化學式是C6H12O6，是由元素碳、氫和氧組成。"
+
+msgid "Not quite – baking soda is Sodium bicarbonate - NaHCO<sub>3</sub>. Even though it's a chemical it's totally safe to have in your cake."
+msgstr "不完全對–小蘇打為碳酸氫鈉 - NaHCO 3。儘管這是化學製品，但在你的蛋糕裡面是完全安全的。"
+
+msgid "Yes – all of the ingredients your mom puts in your birthday cake are really chemicals."
+msgstr "沒錯–你媽媽在你的生日蛋糕裡放的所有配料皆為化學製品。"
+
+msgid "Yes – This is a false statement. Not all chemical compounds are bad for you. In fact some are critical to life – like water – which is the chemical compound H<sub>2</sub>O – is critical for your survival."
+msgstr "沒錯–這是一個錯誤的句子。不是所有化學物質對你都是有害的，事實上一些對生命至關重要的，像是水就是一個化合物H2O，是你生存的關鍵。"
+
+msgid "Not quite – This is a true statement - Almost everything in the universe is made up from chemical compounds. Some of them are bad for you and some of them are good."
+msgstr "不盡然–這句子是對的。近乎宇宙中的一切皆是由化學物質組成，其中有些是對你有害，其中有些是好的。"
+
+msgid "Not Quite - This is a true statement. Some chemical compounds are necessary for your everyday survival – like water – which is the chemical compound H<sub>2</sub>O is critical for your survival."
+msgstr "不不盡然–這句子是對的。不是所有化學物質對你都是有害的，事實上一些對生命至關重要的，像是水就是一個化合物H2O，是你生存的關鍵。"
+
+msgid "Not quite – This is a true statement - It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "不盡然–重要的是要了解關於化學品的意義，讓你知道什麼是好的，什麼是壞的。"
+
+# 10.
+msgid "More big ideas about... chemical and physical changes"
+msgstr "更多有關「化學與物理變化」的大概念"
+
+msgid "How about burning the candles on the cake – is that a chemical or a physical change? Well, it turns out it's both!!"
+msgstr "蛋糕上的蠟燭是如何燃燒的，是化學變化還是物理變化？嗯，原來都是啊！"
+
+msgid "The candles are made of wax – which is a chemical compound made of the <span class='key'>elements</span> carbon and hydrogen. A <span class='key'>chemical compound</span> is when two or more different elements – like carbon and hydrogen - combine to form a compound like wax, or when hydrogen and oxygen combine to form a different compound called water."
+msgstr "蠟燭是由蠟製成，是一個由碳元素和氫元素組成的化合物。化合物是指由兩個或兩個以上的不同元素所組成，像是碳和氫結合形成似蠟的化合物，或是當氫氣和氧氣結合形成不同的化合物，稱為水。"
+
+msgid "When you light the candles, the heat from the burning candlewick – the string - melts some of the solid wax and turns it into liquid wax. That's a physical change because the change is reversible – which means, if you just let the melted wax cool - it will turn right back into solid wax again. But here's something that's not so obvious – the heat also turns some liquid wax into a gas. That's also a physical change because if you could quickly cool the gas again, it would turn back into liquid and then solid wax."
+msgstr "當你點燃蠟燭，熱是來自燃燒蠟燭燭芯，熱串聯融化一些固體的蠟，把它轉變成液態狀的蠟。這是一個物理變化，因為變化是可逆。這意味著，如果你讓融化的蠟冷卻，他又會再次變成固體狀。但是有些東西並不是那麼明顯容易觀察，熱也會使液態的蠟變成氣體。這也是一種物理變化，因為如果你很快地再次冷卻氣體，他可以再變回液體，然後再變回固體。"
+
+msgid "But here's the interesting thing – the gas formed by heating the wax immediately has a <span class='key'>chemical reaction</span> with the oxygen in the air to make the flame which generates light and heat. This chemical reaction is what we commonly call “burning” but scientists call combustion. Not only does the chemical reaction create energy in the form of heat and light, but it also changes the methane gas from the wax into carbon dioxide and water vapor gases, which mix with the air around the candle. So the chemical compound from the melted wax, the methane gas, reacts with oxygen from the air and creates heat, light, water vapor and carbon dioxide gas. This is an example of a chemical reaction and <span class='key'>chemical change</span>, which is not <span class='key'>reversible</span>, because if you let the water and carbon dioxide cool or do almost anything else to them, they will not turn back into wax. <br>This is the chemical reaction for the burning (also called combustion) process:"
+msgstr "但有趣的是，蠟通過加熱形成氣體，立刻與空氣中的氧發生化學反應，形成光和熱的火焰。這種化學反應，我們通常稱為“燃燒”，但是科學家稱之為助燃。化學反應不僅以熱和光的形式產生能量，也會使蠟的甲烷氣體轉變成二氧化碳和水蒸氣，這些都是在蠟燭旁邊的氣體。這是一個化學反應和化學變化的例子，是不可逆的，因為如果你讓水和二氧化碳冷卻或做任何事情，他們都不會變回原來的蠟。這是在燃燒(助燃)過程中的化學反應："
+
+msgid "CH<sub>4</sub>"
+msgstr "甲烷"
+
+msgid "O<sub>2</sub>"
+msgstr "氧"
+
+msgid "CO<sub>2</sub>"
+msgstr "二氧化碳"
+
+msgid "Heat light"
+msgstr "光熱"
+
+msgid "Methane gas"
+msgstr "甲烷氣體"
+
+msgid "Oxygen"
+msgstr "氧氣"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "Lighting a candle..."
+msgstr "點燃蠟燭……"
+
+msgid "Heat and Light"
+msgstr "热和光"
+
+# 11.
+msgid "Question A. Burning birthday candles is a good example of:"
+msgstr "問題A. 燃燒生日蠟燭是哪一項的好例子："
+
+msgid "Both chemical and physical changes"
+msgstr "化學變化及物理變化"
+
+msgid "Chemical reaction"
+msgstr "化學反應"
+
+msgid "Neither chemical nor physical changes"
+msgstr "既不是化學變化也不是物理變化"
+
+msgid "Physical change"
+msgstr "物理變化"
+
+msgid "Question B. When candle wax changes into a gas and burns, it does all of the following except it:"
+msgstr "問題B. 當蠟燭變成氣體並且燃燒，以下哪件事不會發生："
+
+msgid "Changes to different gasses."
+msgstr "變成不同的氣體。"
+
+msgid "Becomes wax again."
+msgstr "再次變成蠟。"
+
+msgid "Creates heat and light."
+msgstr "產生熱和光。"
+
+msgid "Correct. When the candle burns, the wax melts then turns into a gas – which are examples of physical changes. Then the gas burns to change into different gasses plus heat and light. This is an example of chemical change."
+msgstr "正確。當蠟燭燃燒時，蠟融化然後變成氣體，這是物理變化的例子。則氣體燃燒變成不同的氣體以及熱與光，這就是化學變化的例子。"
+
+msgid "No – because both a chemical reaction or chemical change AND a physical change occur when the wax melts."
+msgstr "否–當蠟燭融化時化學反應或化學變化及物理變化兩者皆會發生。"
+
+msgid "No – because both chemical and physical changes occur."
+msgstr "否–因為化學變化和物理變化皆會發生。"
+
+msgid "No – because both physical change AND chemical change occur when the wax burns to change into different gasses plus heat and light."
+msgstr "否–因為當蠟燭燃燒轉變成不同的氣體加上光和熱時，皆有物理變化和化學變化發生。"
+
+msgid "Not quite – This is a true statement - when the candle wax changes to a gas you can't see it."
+msgstr "不完全正確–這句子是正確的。當蠟燭變成氣體，你沒辦法看到。"
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it changes to different gasses – carbon dioxide and water."
+msgstr "不完全正確–這句子是正確的。當蠟燭燃燒時，它轉變成不同氣體–二氧化碳和水。"
+
+msgid "That's right – this is not a true statement - When candle wax changes into a gas and burns, it does not turn back into wax again."
+msgstr "沒錯–這句子是正確的。當蠟燭轉變成氣體燃燒時，它就不會再轉變回蠟燭了。"
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it creates heat and light."
+msgstr "不完全正確–這句子是正確的。當蠟燭燃燒，會產生熱和光。"
+
+# 12
+msgid "Using what you now know about... chemical and physical changes... to solve a problem"
+msgstr "運用你現在知道有關的「化學變化和物理變化」……來解決問題"
+
+msgid "Pretend you are the ruler of a great city in the middle of the desert. You have lots and lots of money from oil wells in your country but no fresh water for your people to drink. There is a seaport in your city but the water there is salt water so you can't drink it."
+msgstr "假設你是一個沙漠中偉大城市的統治者。油井在你的國家，你有很多很多的錢，但是沒有淡水供人飲用。城市有一個港口，但是水中含有鹽分，所以不能飲用。"
+
+msgid "You read about a country far to the north that has lots of water frozen into glaciers. What could you do with the ice from the glaciers to provide fresh water for your city?"
+msgstr "你知道遙遠北方的國家，擁有大量的水凍成冰川。你該怎麼把冰川的水變成淡水提供城市使用？"
+
+msgid "Searching for sources of water..."
+msgstr "尋找水源……"
+
+# 13
+msgid "Summarizing big ideas about... chemical and physical changes"
+msgstr "總結有關於「化學與物理變化」的大概念"
+
+msgid "All matter – the stuff or substances that everything is made of – has properties that you can see, feel, touch, taste, or hear. These properties might be: how hard the substance is; what color it is; whether it's a solid, liquid or gas; how it tastes; or anything else you can observe with your senses. These are all called <span class='key'>\"properties of matter\"</span>.<br/>"
+msgstr "所有物質都有自己的特性，你可以看得到、感受到、觸摸的到、嚐得到或聽得到。這些特性可能是：物質多硬；什麼顏色；是固體、液體或氣體；嘗起來味道如何；或任何你可以用感官觀察的。這些就是所謂的“物質的特性”。"
+
+msgid "Sometimes, things you do to matter can change these properties. Like you can heat or cool substances that change them from a solid to a liquid or a gas. This kind of change is called a <span class='key'>change of state</span>. The word \"state\" means: Is it in a solid, liquid, or gaseous, \"state\"? Or you can mix substances together. Mixing water and sugar together changes the properties of both the sugar and the water to make a new substance – a <span class='key'>mixture</span> - called sugar water that is wet and sweet.<br/>"
+msgstr "有時候，你對物質做的處理會改變它的特性。像是你可以加熱或冷卻物質讓它們從固體變成液體或氣體。這種變化被稱為狀態的改變。“狀態”這個單字是指：它是在固體、液體還是氣體的狀態？或者你可以把物質混合在一起。把糖和水混合在一起改變了糖和水的性質，且形成一個濕的和甜的混合物，稱為糖水。"
+
+msgid "Both mixtures and changes of state are examples of <span class='key'>physical changes</span> to matter because each of these changes is easily reversible. Heating may change solid water – ice - into liquid water but freezing the liquid water easily reverses the change back to solid water. And adding sugar to water might create sugar water but you can reverse the change and get both the plain water and the sugar back by letting the water evaporate.<br/>"
+msgstr "混合物和狀態變化是物質物理變化的例子，因為這些變化是很容易恢復的。加熱可改變固態的水(冰)變成液態水，但凍結液態水後，便能轉變回固態的水。且糖加到水裡形成糖水，但你可以逆轉這個變化，通過讓水蒸發使白開水和糖回來。"
+
+msgid "Another kind of change to matter is called <span class='key'>chemical change</span>. This is a little bit different and more complicated than physical change. In chemical change when two or more different substances are mixed together, and sometimes when you also heat them too, they change into totally different substances with new and different properties. This process is called a <span class='key'>chemical reaction</span>. Usually, after a chemical reaction, the new substances produced cannot easily be changed back to the original substances.<br/>"
+msgstr "在化學變化中，當兩個或是兩個以上的物質混合在一起，有時候你還加熱它們，它們就會變成完全不同的物質，擁有新的且不同的特性。這個過程被稱為化學反應。通常，化學反應過後，所產生的新物質不能輕易地改變回原來的物質。每當物理變化或化學變化發生，不管它們是什麼，有一件事情是非常重要的。在一起的所有物質原始的重量（質量）會等於所有物質最終的重量（質量）。不論是生成或銷毀，這是一個「物質的守恆」原則，是所有科學中最重要的思想之一。"
+
+msgid "Whenever physical changes or chemical changes happen, no matter what they are, there is one thing that is very important. The weight (mass) of the all the original substances (matter) together is the same as the weight (mass) of all substances (matter)  you end up with. No matter is either created or destroyed. This principle is called the <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science.<br/>"
+msgstr "每当物理变化或化学变化发生，不管它们是什么，有一件事，这是非常重要的。的所有的原始物质（关系）的重量（质量）一起是相同的所有物质（物质）你最终的重量（质量）。不管是创建或销毁。这一原则被称为的<span class='键'>物</ span>的保护，是所有科学中最重要的思想之一。<br/>"
+
+# 14
+msgid "Reviewing key vocabulary related to... chemical and physical changes"
+msgstr "回顧有關「化學和物理變化」的關鍵詞彙"
+
+msgid "Properties of Matter"
+msgstr "物質的特性"
+
+msgid "properties of matter"
+msgstr "物質的特性"
+
+msgid "Descriptors about a piece of matter that describe it. For example, an iron wrench is hard, heavy, and gray."
+msgstr "描述一塊物質。例如：一個鐵的板手是硬的、重的和是灰色的。"
+
+msgid "Change of State"
+msgstr "狀態改變"
+
+msgid "change of state"
+msgstr "狀態改變"
+
+msgid "A \"state\" of matter is whether it’s a solid, liquid or gas. When matter is heated or cooled, it can \"change state\" from one of these states to another, like water melting changes from a solid state to a liquid state."
+msgstr "物質的狀態是，它是否是固體、液體或氣體。當物質加熱或冷卻，他可以從這個狀態改變改變至另一個狀態，像水融化，從固態轉變成液態。"
+
+msgid "Mixture"
+msgstr "混合物"
+
+msgid "mixture"
+msgstr "混合物"
+
+msgid "A mixture is when two substances are mixed together but don’t react chemically to form new chemical compounds. The original substances are still in the mixture and can be changed back to their original form relatively easily. This is called a \"reversible\" change. Dissolving sugar in water is a good example of a mixture."
+msgstr "混合物是當兩個物質混合在一起，但不發生化學反應以形成新的化合物。原本的物質仍存在在混合物裡，且相對的比較容易恢復成原來的形式。這就是所謂的「可逆」變化。糖溶解在水中形成混合物是一個很好的例子。"
+
+msgid "Physical Change"
+msgstr "物理變化"
+
+msgid "physical change"
+msgstr "物理變化"
+
+msgid "A physical change is when a substance changes form and no new substances are created from chemical changes. Mixing and changes of state are good examples of physical changes."
+msgstr "物理變化是指當物質改變形式時，並沒有新的物質由化學變化產生。混合和狀態改變是物理變化很好的例子。"
+
+msgid "Chemical Change"
+msgstr "化學變化"
+
+msgid "chemical change"
+msgstr "化學變化"
+
+msgid "When substances mix together but then have a chemical reaction with each other to form new chemical compounds. Burning a candle is a good example of chemical change. Methane gas and oxygen gas react to form new chemical compounds carbon dioxide and water."
+msgstr "當物質混合在一起之後彼此發生化學反應，形成新的化合物。蠟燭燃燒是化學變化的一個很好的例子。甲烷氣體和氧氣反應形成新的化合物，二氧化碳和水。"
+
+msgid "Chemical Reaction"
+msgstr "化學反應"
+
+msgid "chemical reaction"
+msgstr "化學反應"
+
+msgid "When chemical compounds, like methane gas and oxygen gas, react to form new chemical compounds like carbon dioxide and water."
+msgstr "當化合物，如甲烷氣體和氧氣，反應形成新的化合物，像是二氧化碳和水。"
+
+msgid "Evaporate"
+msgstr "蒸發"
+
+msgid "evaporate"
+msgstr "蒸發"
+
+msgid "When matter goes from the liquid phase to the gaseous phase.  Evaporation is commonly observed with water."
+msgstr "當物質從液相到氣相。蒸發通常在水觀察到。"
+
+msgid "Conservation of Matter"
+msgstr "物質的守恆"
+
+msgid "conservation of matter"
+msgstr "物質的守恆"
+
+msgid "Matter can neither be created, nor destroyed.  The amount of mass at the start of a physical or chemical change is the same as the mass at the end."
+msgstr "物質既不能被創造也不能被銷毀。在物理變化和化學變化開始時的質量和最後的質量是相等的。"
+
+msgid "Chemical Compound"
+msgstr "化合物"
+
+msgid "chemical compound"
+msgstr "化合物"
+
+msgid "Atoms that share electrons in a definite manner and so are deemed as being \"bound\" together.  Some examples include water (H<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>)"
+msgstr "原子以一種方式共享電子，它們被視同為綁在一起。一些例子，包括水(H2O)、二氧化碳(CO2)和甲烷(CH4)。"
+
+msgid "Reversible"
+msgstr "可逆的"
+
+msgid "reversible"
+msgstr "可逆的"
+
+msgid "A process is reversible if there is a way for everything at the end of the process to be changed back to the way it was beforehand.  For example, phase changes are reversible processes; liquid water that is frozen can be melted again to be liquid, and the same amount of liquid water will be present after melting as before freezing."
+msgstr "一個過程如果能讓所有東西在過程結束時被變回原先的樣子，稱為「可逆的」。例如：相的變化是可逆的過程；液態水被凍結後可以再次融化變回液態水，且水在融化後的量和冰凍前的量是相同的。"
+
+# 15
+msgid "Checking what you now know about… chemical and physical changes"
+msgstr "檢驗你現在知道有關「化學與物理變化」是什麼？"
+
+# 16
+msgid "Scientists think of the term \"matter\" as:"
+msgstr "科學家們認為「物質」這個詞為："
+
+msgid "A. All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr "A. 所有構成你周圍世界的物質和材料（原料）。"
+
+msgid "B. All of the solid stuff in the universe."
+msgstr "B. 宇宙中所有固體的東西。"
+
+msgid "C. All of the chemicals that get used in their laboratories."
+msgstr "C. 所有在實驗室使用的化學品。"
+
+msgid "D. Everything that you can see around you."
+msgstr "D. 任何你可以在身邊看到的東西。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次測驗的問題是……"
+
+msgid "All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr "所有組成你周圍世界的物質和材料（原料）。"
+
+msgid "Correct – All of the “stuff” that makes up the world and even the universe is matter. Some of it you can see – like rocks or dirt - and some of it you cant – like air. But it's all matter."
+msgstr "正確–所有組成這個世界，甚至是整個宇宙的所有「東西」都為物質。有些是你可以看到的，像是岩石或泥土，但有些是你無法看到的，像是空氣。但這些都為物質。"
+
+msgid "Not quite – Matter isn't just the solid stuff. Matter can be liquid or gas as well."
+msgstr "不完全正確–物質不僅僅是固體的東西，物質可以是液體或是氣體。"
+
+msgid "All of the solid stuff in the universe."
+msgstr "宇宙中所有固體的東西。"
+
+msgid "All of the chemicals that get used in their laboratories."
+msgstr "所有在實驗室使用的化學品。"
+
+msgid "Not quite – chemicals in the lab are matter but there is a lot more matter in the universe than just chemicals in the lab."
+msgstr "不完全正確–在實驗室中的化學品是物質沒錯，但不僅僅只有在實驗中的化學品，宇宙中有更大量的物質。"
+
+msgid "Everything that you can see around you."
+msgstr "任何你可以在身邊看到的東西。"
+
+msgid "Not quite – matter is not just the stuff you can see. Some matter like air you can't see. And some matter isn't right around you – it can be in outer space on another planet."
+msgstr "不完全正確–不是你看的到的東西才是物質，有些物質，像是空氣，是你看不到的。有些物質不是真正在你身邊，它可以是在外太空的另一個星球。"
+
+# 17
+msgid "Properties of matter are:"
+msgstr "物質的性質是："
+
+msgid "A. Anything you can feel when you touch matter."
+msgstr "A. 當你觸摸物質時，任何你能感受到的感覺。"
+
+msgid "B. Anything about matter that you can observe with any of your senses."
+msgstr "B. 任何關於物質的，你都可以用任何你的感官觀察。"
+
+msgid "C. Only things you can measure about matter."
+msgstr "C. 只有那些你可以測量的東西。"
+
+msgid "D. Only things you can see."
+msgstr "D.只有那些你能看到的東西。"
+
+msgid "Identifying properties of matter..."
+msgstr "辨別物質的性質……"
+
+msgid "Anything you can feel when you touch matter."
+msgstr "當你觸摸物質時，任何你能感受到的感覺。"
+
+msgid "Not quite – Some properties of matter you can feel – like how hard or soft something is – but other properties of matter – like how it smells or what color it is require other senses."
+msgstr "不完全正確–一些物質的性質你可以感覺到，像是多堅硬或是多柔軟，但其他的物質性質，像是它的味道如何或顏色是什麼，這需要其他的感官。"
+
+msgid "Anything about matter that you can observe with any of your senses."
+msgstr "任何關於物質的，你都可以用任何你的感官觀察。"
+
+msgid "Correct – Properties of matter are things about matter that you can observe with any of your senses. And observe doesn't mean just to see. Smelling, feeling, hearing, or tasting a property of a substance is also making an observation about matter."
+msgstr "正確–物質的性質是你可以用任何你的感官觀察。觀察並不意味著只是為了看看。嗅覺、感覺、聽覺或品嚐物質的性質也是對物質的觀察。"
+
+msgid "Only things you can measure about matter."
+msgstr "只有那些你可以測量的物質"
+
+msgid "Not quite – Many properties of matter – like weight or hardness - you can measure. But some properties like odor or color can't be measured."
+msgstr "不完全正確–許多物質的性質，就像重量或是硬度這些都能測量，但氣味或顏色是不能被測量的。"
+
+msgid "Only things you can see."
+msgstr "只有那些你能看到的東西。"
+
+msgid "Not quite – Some properties of matter you can see – like what color something is – but other properties of matter – like how it smells or what it sounds like require other senses."
+msgstr "不完全正確–有些性質是你可以看到的，像是東西是什麼顏色，但其他物質的性質，像是氣味如何或聽起來如何則需要其他感官。"
+
+# 18
+msgid "An example of a change in a property of matter that is <span class='blink'>not</span> reversible is:"
+msgstr "物質性質的改變為不可逆的例子："
+
+msgid "Freezing water to make ice cubes."
+msgstr "把水冷凍，製成冰塊。"
+
+msgid "Melting butter to pour over popcorn."
+msgstr "將奶油融化倒在爆米花上。"
+
+msgid "Burning wood in a campfire to warm you up."
+msgstr "營火燃燒木頭使你溫暖。"
+
+msgid "Melting ice to change it into liquid water."
+msgstr "融化冰變成液態水。"
+
+msgid "Changing state..."
+msgstr "改變狀態……"
+
+msgid "Not quite – Freezing water to make ice cubes can be reversed by warming them up to let the water melt to form liquid water again."
+msgstr "不完全正確–冷凍水製成的冰塊，可以通過將其升溫讓水融化，再次形成液態水。"
+
+msgid "Not quite - Melted butter to pour over popcorn can be changed back to solid butter by putting it in the refrigerator."
+msgstr "不完全正確–倒在爆米花上融化的奶油，可以把它放進冰箱變回固體的奶油。"
+
+msgid "Correct – When you burn wood in a campfire, the solid wood turns into light, heat, and carbon dioxide gas that can’t directly turn back into wood."
+msgstr "正確–當在營火燃燒木頭時，實木變成光、熱和二氧化碳氣體，這些無法直接變回木頭。"
+
+msgid "Not quite – Melting ice to change it into liquid water can be reversed by freezing the water again to make ice."
+msgstr "不完全正確–融冰變成液態水後，藉由再次冷凍可以在逆轉變回冰。"
+
+# 19
+msgid "Which of the following statements is <span class='blink'>true</span>? When you mix two substances together, they:"
+msgstr "以下哪项是的<span class='眨眼'>真</ span>？当你混合两种物质一起，他们："
+
+msgid "A. Always combine to make a new substance with new properties."
+msgstr "A. 總是互相結合而產生具有新特性的新物質。"
+
+msgid "B. Sometimes combine to make a new substance with new properties."
+msgstr "B. 有時會互相結合而產生具有新特性的新物質。"
+
+msgid "C. Never combine to make a new substance with new properties."
+msgstr "C. 決不會互相結合，亦不會產生具有新特性的新物質。"
+
+msgid "D. Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "D. 總是互相結合，產生具有新特性的新物質且是不可逆的。"
+
+msgid "Selecting true statement..."
+msgstr "選取正確的陳述……"
+
+msgid "Always combine to make a new substance with new properties."
+msgstr "總是互相結合而產生具有新特性的新物質。"
+
+msgid "Not quite – Sometimes when you mix two substances together, they combine to make a new substance with new properties but not always."
+msgstr "不完全正確–有時當你混合兩種物質，它們會結合而產生具有新特性的新物質，但不總是這個樣子。"
+
+msgid "Sometimes combine to make a new substance with new properties."
+msgstr "有時會互相結合而產生具有新特性的新物質。"
+
+msgid "Correct – When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "正確–當你混合兩種物質，它們有時候會結合而產生具有新特性的新物質。"
+
+msgid "Never combine to make a new substance with new properties."
+msgstr "決不會互相結合，亦不會產生具有新特性的新物質。"
+
+msgid "Not quite - When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "不完全正確–當你混合兩種物質時，它們有時候會結合而產生具有新特性的新物質。"
+
+msgid "Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "總是互相結合，產生具有新特性的新物質且不可逆。"
+
+msgid "Not quite – When you mix two substances together, they sometimes combine to make a new substance with new properties. Sometimes this can be reversed but sometimes it can't."
+msgstr "不完全正確–當你混合兩種物質時，它們有時候會結合而產生具有新特性的新物質。有時這是可逆的，但有時是不可逆的。"
+
+# 20
+msgid "Which is <span class='blink'>not</span> an example of mixing two substances that can be reversed to get the original substances back again?"
+msgstr "哪一個不是兩種物質混合後，可再次逆轉回原始物質的例子？"
+
+msgid "Mixing M&Ms and peanuts to make trail mix."
+msgstr "混合M&Ms巧克力和花生，形成綜合高熱量食物。"
+
+msgid "Mixing sugar into water to get sugar water."
+msgstr "混合糖放入水中得到糖水。"
+
+msgid "Mixing milk with your cereal in the morning."
+msgstr "早上混合牛奶和你的麥片。"
+
+msgid "Mixing eggs and milk into the pancake mix and cooking it to make pancakes."
+msgstr "混合雞蛋和牛奶放入薄煎餅粉，烹調做成煎餅。"
+
+msgid "Mixing substances..."
+msgstr "混合物質……"
+
+msgid "Not quite – Mixing peanuts and M&Ms together is pretty easy to reverse. You just have to pick out all the peanuts or the M&Ms and separate them into two different piles."
+msgstr "不完全正確–混合M&Ms巧克力和花生是容易可逆的。你只需要挑出所有的花生和M&Ms，把它們分成不同的兩堆。"
+
+msgid "Not quite – When you mix sugar and water to get sugar water, you can reverse the process simply by letting the water evaporate. Then you'll get the sugar back in the bottom of the glass and the water is in the atmosphere."
+msgstr "不完全正確–當你將糖和水混合得到糖水，你可以讓水蒸發來簡單地逆轉這一過程。然後你會在玻璃杯底部得到糖，而水跑到大氣中。"
+
+msgid "Not quite. When you mix milk in with your cereal, you can separate the mixture by pouring it through a strainer. Then you get the milk in a glass again and the cereal in the strainer."
+msgstr "不完全正確–當你把你的麥片混進牛奶裡，可以藉著一個過濾器把混合物分離。那個你就會再次得到一杯牛奶和過濾器中的麥片。"
+
+msgid "Correct – Making pancakes is like making a birthday cake. You mix the ingredients together and heat it to cook and you get a new substance – pancakes – where you can't get the eggs or milk back again."
+msgstr "正確–製作煎餅就像是做一個生日蛋糕。你把配料混合再一起，並加熱烹煮它，你會得到一個新的物質，就是煎餅，且你不能再得到雞蛋或牛奶。"
+
+# 21
+msgid "Which of the following is an example of a chemical reaction that creates new substances?"
+msgstr "下列哪一個是化學反應產生新物質的例子？"
+
+msgid "A. Mixing eggs, milk and flour to make a birthday cake."
+msgstr "A. 攪拌雞蛋、牛奶和麵粉做一個生日蛋糕。"
+
+msgid "B. Burning the candles on top of the birthday cake."
+msgstr "B. 在生日蛋糕上燃燒蠟燭。"
+
+msgid "C. Adding lemonade mix and sugar to water to make lemonade."
+msgstr "C. 添加檸檬汁混合糖和水，形成檸檬水。"
+
+msgid "D. Freezing water to make ice cubes."
+msgstr "D. 冷凍水製成冰塊。"
+
+msgid "Mixing eggs, milk and flour to make a birthday cake."
+msgstr "攪拌雞蛋、牛奶和麵粉做一個生日蛋糕。"
+
+msgid "Not quite – Mixing eggs, milk and flour to make a birthday cake doesn't change any of the substances into new substances. That doesn't happen until the cake is baked."
+msgstr "不完全正確–混合雞蛋、牛奶和麵粉做一個生日蛋糕並不會改變任何物質產生新的物質。化學變化是不會發生直到蛋糕出爐了。"
+
+msgid "Burning the candles on top of the birthday cake."
+msgstr "在生日蛋糕上燃燒蠟燭。"
+
+msgid "Correct – When you burn the candles on top of the birthday cake, a chemical reaction occurs to create new substances. The candle wax is changed into carbon dioxide and water and heat and light energy are given off."
+msgstr "正確–當蠟燭在生日蛋糕上燃燒，發生了化學反應，創造了新的物質。蠟燭的蠟被改變成二氧化碳和水，熱能和光能被釋放出來。"
+
+msgid "Adding lemonade mix and sugar to water to make lemonade."
+msgstr "添加檸檬汁混合糖和水，形成檸檬水。"
+
+msgid "Not quite – When you add lemonade mix and sugar to water to make lemonade, you still have the same sugar and lemon and water – just all mixed together."
+msgstr "不完全正確–當你添加檸檬汁混合糖和水，形成檸檬水，你仍然擁有相同的糖、檸檬汁和水，只是把東西混合在一起而已。"
+
+msgid "Not quite – When you freeze water to make ice cubes, you still have water but not a new substance."
+msgstr "不完全正確–當你結凍水製成冰塊，你仍然擁有水，而不是新的物質。"
+
+# 22
+msgid "You've completed the Chemical and Physical Changes module."
+msgstr "你已經完成了「化學與物理變化」模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以通過擊點下方按鈕檢查你是如何做這個模組的“快速檢測”與 “測驗題”。"

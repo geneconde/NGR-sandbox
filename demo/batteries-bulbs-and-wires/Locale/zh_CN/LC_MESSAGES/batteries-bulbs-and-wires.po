@@ -1,0 +1,728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我答得如何?"
+
+msgid "You answered..."
+msgstr "你的答案是..."
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請旋轉或翻轉下面的方框，以選擇你的答案。點擊、按住並上下移動滑鼠。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住並上下移動滑鼠旋轉方塊，然後選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下6小題，可以了解哪些是你已經知道的，而哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵！"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Congratulations,"
+msgstr "恭喜您！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "請點擊下面的按鍵，查看你在「小測驗」和「小練習」中的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備你最後一題的小測驗！"
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在所學會的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是..."
+
+msgid "You're done!"
+msgstr "大功告成! "
+
+msgid "Batteries, Bulbs and Wires"
+msgstr ""
+
+msgid "Welcome to the Batteries, Bulbs and Wires (Electric Circuits) module"
+msgstr ""
+
+msgid "Thinking about... electric circuits"
+msgstr ""
+
+msgid "You know what's very cool? And sometimes scary? Going into a dark place, like a closet, or basement, or even under your covers, with a flashlight. Or how about out in the dark woods at night? That would be cool and scary too. No matter where you are in the dark – a flashlight makes you feel better and safer because you can see what's out there. But have you ever wondered about how they work? What makes them light up and what to do if they stop working? It all has to do with simple electric circuits so let's see if we can figure it out."
+msgstr ""
+
+msgid "Checking what you know about... electric circuits"
+msgstr ""
+
+msgid "When you push the switch on a flashlight and it lights up, it is because the switch:"
+msgstr ""
+
+msgid "pushes the battery up against the bulb."
+msgstr ""
+
+msgid "completes a simple circuit in the flashlight."
+msgstr ""
+
+msgid "turns the battery on."
+msgstr ""
+
+msgid "tells the bulb to light."
+msgstr ""
+
+msgid "There is a simple circuit in the flashlight that is completed when the switch is pushed to the \"on\" position. This allows electric current to run from the battery to the bulb, through the bulb, and back again causing the bulb to light."
+msgstr ""
+
+msgid "Switching on lights..."
+msgstr ""
+
+msgid "Reviewing big ideas about... electric circuits"
+msgstr ""
+
+msgid "The most fundamental concept of almost any electrical device is the idea of a <span class='key'>circuit</span>. A circuit allows <span class='key'>electrons</span>, which are tiny invisible negatively charged particles, to flow through a wire or another conductor. The <span class='key'>electric current</span> (the flowing electrons) moves from a source of electrical energy - such as a <span class='key'>battery</span> or electrical generator - to a device that needs electrical energy to operate – like a light bulb, an electric motor, or a computer chip. In sophisticated electrical devices, such as a computer, circuits can be very complex, but at its core, every complex circuit begins with a <span class='key'>simple circuit</span> composed of three basic components:<br>"
+msgstr ""
+
+msgid "a source of electrical energy – like a battery;"
+msgstr ""
+
+msgid "a device that uses electrical energy – like a light bulb; and"
+msgstr ""
+
+msgid "an electrical conductor, such as a wire or other metal, that allows electricity to flow from the electrical source to the device and back again –  as in the case of a battery operated bulb in a flashlight."
+msgstr ""
+
+msgid "Simple Electric Circuit"
+msgstr ""
+
+msgid "The term \"circuit\" comes from the same Latin language root \"circ\" - as in the word circle. When you draw a circle, you start at one point and come all the way back to it. Can you think of other words that come from that same Latin root? Even though electrical circuits might not always be in the shape of circles, the idea is that electrical current flows in a path that starts at the source of the electrical energy, flows through the circuit, and finally comes back to that source. Sometimes simple circuits can have a switch, like in the flashlight, but it isn’t absolutely necessary."
+msgstr ""
+
+msgid "Look carefully at the diagram above. You can trace the flow of electricity in the circuit. It starts by coming out of one end of the battery, flows through the wire to the side of the bulb, then through the bulb making the bulb light up, then out the bottom of the bulb and through the wire back to the battery. Flashlights are a good example of a simple circuit. Can you trace the circuit in this diagram of a flashlight?"
+msgstr ""
+
+msgid "A simple circuit inside a flashlight"
+msgstr ""
+
+msgid "plastic case"
+msgstr ""
+
+msgid "spring"
+msgstr ""
+
+msgid "switch"
+msgstr ""
+
+msgid "battery"
+msgstr ""
+
+msgid "bulb"
+msgstr ""
+
+msgid "reflector"
+msgstr ""
+
+msgid "protective<br/>glass"
+msgstr ""
+
+msgid "wire"
+msgstr ""
+
+msgid "Drawing a circle..."
+msgstr ""
+
+msgid "source of electrical energy – like a battery."
+msgstr ""
+
+msgid "a switch to turn the circuit on and off."
+msgstr ""
+
+msgid "a device that uses electrical energy."
+msgstr ""
+
+msgid "a conductor to connect the source of the electrical energy to the device."
+msgstr ""
+
+msgid "Question B. In a simple circuit in a flashlight, the wires (the conductors) are critical to the circuit to provide a:"
+msgstr ""
+
+msgid "path for the electricity to be conducted from the battery to the bulb and back again."
+msgstr ""
+
+msgid "path for the electrical energy to get to the bulb."
+msgstr ""
+
+msgid "path for the electrical energy to get back to the battery."
+msgstr ""
+
+msgid "connector for the \"on-off\" switch."
+msgstr ""
+
+msgid "Question A. Which of the following components of a simple circuit can be left out and still have a simple circuit that works?"
+msgstr ""
+
+msgid "Nope -  you can't leave out the source of electrical energy in a circuit – that's a critical part of the circuit."
+msgstr ""
+
+msgid "Correct -  A switch is a nice thing to have in the circuit but the circuit can work just fine without one. You just wouldn't be able to turn it on or off."
+msgstr ""
+
+msgid "Nope -  you can't leave out the conductor of electrical energy in a circuit – that’s a critical part of the circuit."
+msgstr ""
+
+msgid "Correct – the wire conductors are necessary to provide a path for the electrical energy to flow both from the battery to the bulb and to return from the bulb back to the battery to complete the circuit."
+msgstr ""
+
+msgid "Not quite - the wire conductors are necessary to provide a path for the electrical energy to flow both from the battery to the bulb and to return from the bulb back to the battery to complete the circuit."
+msgstr ""
+
+msgid "Nope – A switch isn't really absolutely necessary in a flashlight so that's not the most important role of the wire conductors."
+msgstr ""
+
+msgid "More big ideas about... electric circuits"
+msgstr ""
+
+msgid "Electric circuits rely on electrical <span class='key'>conductors</span>, such as copper wires, to conduct electrical energy from the source to the device that needs it. Most common electrical conductors used in normal circuits are metals, such as copper, gold and silver. Interestingly, water is also a conductor even though it’s not a metal. Materials that don’t conduct electrical energy are called <span class='key'>insulators</span>. Examples of insulating materials are plastic, wood, cloth, air and many other non-metals. Insulators are sometimes used to cover and shield the conductors in a circuit so that when you touch the conductor, you don't get an electrical shock."
+msgstr ""
+
+msgid "It's important to know that getting an electrical shock can be very dangerous and could hurt you or even kill you. That's because touching the conductor allows the electrical energy to travel through your body and can make your heart stop. It's not dangerous when you touch a wire in a flashlight because the electrical energy from a flashlight battery isn't very strong. But if you touch an uninsulated wire from lamp or appliance that is plugged into your house sockets, it can be very harmful to you because the electrical energy traveling through the wires is much stronger."
+msgstr ""
+
+msgid "But even a single battery and wire can possibly hurt you a little. If you run an uninsulated wire directly from the top to the bottom of a flashlight battery, it will heat enough to burn your fingers, but it won't electrocute you. <br/> <br/> And remember!! Water is an electrical conductor too. So if you are in water, like in a bathtub, and an appliance like a hairdryer falls into the tub, the water can conduct the electrical energy from the hairdryer to your body and can hurt you or kill you. So be careful!!"
+msgstr ""
+
+msgid "Posting danger signs..."
+msgstr ""
+
+msgid "Drag each material into its proper category."
+msgstr ""
+
+msgid "Material"
+msgstr ""
+
+msgid "Conductors"
+msgstr ""
+
+msgid "Insulators"
+msgstr ""
+
+msgid "Silver"
+msgstr ""
+
+msgid "Wood"
+msgstr ""
+
+msgid "Copper"
+msgstr ""
+
+msgid "Iron"
+msgstr ""
+
+msgid "Plastic"
+msgstr ""
+
+msgid "Rubber"
+msgstr ""
+
+msgid "Water"
+msgstr ""
+
+msgid "Air"
+msgstr ""
+
+msgid "Conductor or insulator?"
+msgstr ""
+
+msgid "Browse through the slides below by clicking the left and right arrows.<br>"
+msgstr ""
+
+msgid "Batteries are the source of electrical energy in a flashlight circuit. Flashlight batteries usually have a top and bottom that are connected by the conductors to the light bulb to complete the circuit and make the bulb light up."
+msgstr ""
+
+msgid "But there are lots of other kinds of batteries too - like a car battery. Instead of having a top and a bottom for connections, it has two “<span class='key'>terminals</span>”, which are little posts that stick out of the top of the battery that the circuit wires are connected to."
+msgstr ""
+
+msgid "All batteries have two ends or terminals that are usually marked with a plus sign (+) or a minus sign (-). To make a circuit, a wire or other conductor connects the + side of the battery with the – side with something like a light bulb in between."
+msgstr ""
+
+msgid "Another kind of battery is the rectangular battery with two connection clips on the top that are often used to power toy cars and helicopters. And there are cell phone batteries and wristwatch batteries too. It seems like almost everything we use in our everyday lives requires some type of battery."
+msgstr ""
+
+msgid "Each of these batteries is slightly different. And they are often identified by how powerful they are. The batteries electrical energy is measured in volts. A flashlight battery is one-and-a-half (1.5) volts. So is a watch battery. A car battery is 12 volts. The battery you put in your toy car is 9 volts. The higher the voltage, the higher the electrical energy they put out. Other batteries are other voltages depending on the needs of the devices they power."
+msgstr ""
+
+msgid "So how does this battery work? Batteries contain chemicals – like acids and metals - that have chemical reactions that cause electrons – those invisible charged particles we talked about earlier - to move from one side of the battery to the other – through the wires in the circuit. Batteries are good examples of a convenient and portable system that converts <span class='key'>chemical potential energy</span> into <span class='key'>electrical energy</span>."
+msgstr ""
+
+msgid "Batteries used in your computer or cell phone are pretty complicated. But the basic idea can be as simple as sticking two different metals, like a zinc nail and a copper penny, into a lemon. These metals are called <span class='key'>electrodes</span>. Chemical reactions occur between the zinc and copper electrodes and the acid in the lemon juice to cause electrons to start to move. And if you hook up a wire between the nail and the penny – a lemon battery’s terminals - those electrons will move through the wire from the nail to the penny forming an electric current.  That’s a simple circuit! If you were to put a very small bulb or a buzzer in the circuit attached to the wire, the bulb would faintly glow or the buzzer would buzz. A lemon battery is a very simple battery that doesn't have much power. But it shows you the basic idea of how a battery works."
+msgstr ""
+
+msgid "Studying how battery works..."
+msgstr ""
+
+msgid "Question A. The voltage of a battery is a measure of:"
+msgstr ""
+
+msgid "How big the battery is."
+msgstr ""
+
+msgid "How long the battery will last."
+msgstr ""
+
+msgid "What the battery will be used for."
+msgstr ""
+
+msgid "The electrical energy of the battery."
+msgstr ""
+
+msgid "Chemical reactions inside the battery."
+msgstr ""
+
+msgid "The light bulb needing those electrons."
+msgstr ""
+
+msgid "The wires pushing the electrons."
+msgstr ""
+
+msgid "Electrons building up on the terminals."
+msgstr ""
+
+msgid "Question B. The electrons moving through a simple circuit connected to a battery are driven by:"
+msgstr ""
+
+msgid "Electrons moving"
+msgstr ""
+
+msgid "Not quite – Sometimes a small battery like a wristwatch battery can be the same voltage as a bigger battery such as a flashlight battery."
+msgstr ""
+
+msgid "Nope – the voltage doesn’t tell anything about how long the battery will last. Usually bigger batteries will last longer because they have more chemicals inside."
+msgstr ""
+
+msgid "Not exactly – different voltage batteries are used to power different devices but the same voltage can also power different devices. For example, a battery can be the same voltage as a battery powering a flashlight."
+msgstr ""
+
+msgid "Correct – the voltage of a battery is a measure of how much electrical energy a battery can put out. A flashlight battery is only 1.5 volts so it can’t start a car. But a car battery is 12 volts and can start a car."
+msgstr "Yes – Chemical reactions inside the battery can cause electrons to move in the circuit. This electric current is what causes a bulb in the electric circuit to light up."
+
+msgid "Not really – bulbs aren’t like people. They don’t “need” electrons so that’s not what makes the electrons flow in a circuit."
+msgstr ""
+
+msgid "Nope – wires can’t push electrons to make them move."
+msgstr ""
+
+msgid "Nope – electrons don’t build up on the terminals."
+msgstr ""
+
+msgid "The ultimate objective of an electric circuit is to power some electrical device – like a light, or a motor, or a buzzer. Let’s just look at a light bulb for now. The usual light bulb most people have in their houses is called an <span class='key'>incandescent bulb</span> – incandescent means it lights up from getting hot.  As we discussed in the beginning of this review, the electrons, or electric current, comes out of one end of the battery, flows through the wire to the side of the bulb, then through the bulb making the bulb light up, then out the bottom of the bulb and through the wire back to the battery. When we say \"through the bulb\", we mean that the electric current flows through the thin, curly little wire in the bulb, called the <span class='key'>filament</span>."
+msgstr ""
+
+msgid "It’s hard to see how the connections are made from the circuit to the filament in most light bulbs because part of the filament wire is \"hidden\" in the metal base of the bulb – the \"screw-in\" part (Figure 1). But if you could see through the metal, you'd see that one part of the filament wire is connected to the bump on the bottom of the bulb and the other to the metal side of the screw-in part of the bulb (Figure 2)."
+msgstr ""
+
+msgid "When the circuit is complete and the current runs through the filament, the <span class='key'>friction</span> or rubbing together of the electrons passing through the skinny wire of the filament causes so much friction in the wire that the wire heats up and it starts to glow and give off light. That's how a light bulb works. Try rubbing your hands together really hard and fast. Do you feel them heat up? That heat is caused by the friction of rubbing your hands together. Do you think you could rub them together hard enough to get them to glow?"
+msgstr ""
+
+msgid "Flowing electric current..."
+msgstr ""
+
+msgid "The gas inside the bulb glowing."
+msgstr ""
+
+msgid "The positive and negative electricity crashing together and exploding in the bulb."
+msgstr ""
+
+msgid "The friction of the electrons rubbing inside the filament."
+msgstr ""
+
+msgid "The glass of the light bulb getting hot."
+msgstr ""
+
+msgid "Liquid electricity flowing through the wires."
+msgstr ""
+
+msgid "Electrons flowing inside the wire."
+msgstr ""
+
+msgid "Electricity flowing on the outside of the wires."
+msgstr ""
+
+msgid "Atoms vibrating inside the wire."
+msgstr ""
+
+msgid "Question A. The cause of the incandescent bulb lighting up in a simple electric circuit is:"
+msgstr ""
+
+msgid "Question B. An electric current in a simple circuit is made up of:"
+msgstr ""
+
+msgid "Not exactly. There is no gas inside incandescent bulbs. But some lights, like a mercury vapor streetlight, do use gas inside to light it."
+msgstr ""
+
+msgid "Nope – Positive and negative charges don’t crash together in the bulb."
+msgstr ""
+
+msgid "Yes -  Electrons flowing through the filament causes friction in the filament causing it to heat up and give off light."
+msgstr ""
+
+msgid "Nope – The glass of the bulb does get too hot to touch – so be careful – but it’s the heat of the filament that causes the bulb to light up."
+msgstr ""
+
+msgid "Nope! Electricity flows like water but it isn't a liquid. It's flowing electron charged particles inside the wire."
+msgstr ""
+
+msgid "Correct – electric current is flowing electron charged particles inside the wire."
+msgstr ""
+
+msgid "Nope – No electricity flows on the outside of the wires."
+msgstr ""
+
+msgid "Not quite – Atoms do vibrate inside the wire but they don’t flow at all.  Electric current is flowing electron charged particles inside the wire."
+msgstr ""
+
+msgid "Using what you now know about... electric circuits... to solve a problem"
+msgstr ""
+
+msgid "Think about what would happen if you were out camping and it was going to get dark in about an hour and you tried out your flashlight and it didn’t work."
+msgstr ""
+
+msgid "Use what you know about simple circuits to “trouble shoot” the broken flashlight to try and figure out what’s wrong with it. Talk about all the things you would check and what you might be able to do to fix it."
+msgstr ""
+
+msgid "Using a flashlight..."
+msgstr ""
+
+msgid "Summarizing big ideas about... electric circuits"
+msgstr ""
+
+msgid "Your computer, your cell phone, your family's TV and even the lighting at your local grocery store are all made to work by incredibly complex electrical circuits. But at the heart of all of these sophisticated electrical systems are simple circuits. Simple circuits consist of three basic components:"
+msgstr ""
+
+msgid "A <span class='key'>power source</span>, like a battery in a flashlight or a generator, that powers your house electricity."
+msgstr ""
+
+msgid "An <span class='key'>electrical device</span> that needs to be powered, like the bulb in a flashlight, the motor on a vacuum cleaner, or the computer chip in your laptop or phone."
+msgstr ""
+
+msgid "A <span class='key'>conductor</span>, like a wire, to connect the electric current from the power source to the device."
+msgstr ""
+
+msgid "Electrical <span class='key'>conductors</span> are usually metal but water can also conduct electricity. Electrical <span class='key'>insulators</span> are materials, like rubber, plastic, or air, that can't conduct electricity. They are used to cover and shield wires and other conductors so you don’t get a shock."
+msgstr ""
+
+msgid "In a <span class='key'>simple circuit</span>, like a flashlight, an electric circuit connects these three components in a pattern that begins and ends with the power source. <span class='key'>Electrons</span> are invisible negative charges that move around the circuit and make an <span class='key'>electric current</span> in the circuit. Chemical reactions in the battery provide the energy to make the electrons move. And the wire conductors provide a path for the electrons to move from the battery to the bulb. The friction of the electrons rubbing in the bulb’s <span class='key'>filament</span> causes the filament to heat up and glow brightly."
+msgstr ""
+
+msgid "Reviewing key vocabulary related to... electric circuits"
+msgstr ""
+
+msgid "A circuit allows electrons, which are tiny invisible negatively charged particles, to flow through a wire or another conductor."
+msgstr ""
+
+msgid "Circuit"
+msgstr ""
+
+msgid "Electrons"
+msgstr ""
+
+msgid "Electrons are invisible negative charges that move around the circuit and make an electric current in the circuit."
+msgstr ""
+
+msgid "Battery"
+msgstr ""
+
+msgid "Batteries are the source of electrical energy in a flashlight circuit."
+msgstr ""
+
+msgid "Incandescent bulb"
+msgstr ""
+
+msgid "The usual light bulb most people have in their houses is called an incandescent bulb – incandescent means it lights up from getting hot."
+msgstr ""
+
+msgid "Electric current"
+msgstr ""
+
+msgid "The movement of electrons through a wire or other electrical conductor."
+msgstr ""
+
+msgid "Conductor"
+msgstr ""
+
+msgid "Any material that allows electric current to flow through it. Electrical conductors are usually metals but water can also conduct electricity."
+msgstr ""
+
+msgid "Chemical potential energy"
+msgstr ""
+
+msgid "The energy in the chemicals inside a battery that’s changed by a chemical reaction to create electrical current in a circuit."
+msgstr ""
+
+msgid "Filament"
+msgstr ""
+
+msgid " When we say “through the bulb”, we mean that the electric current flows through the thin, curly little wire in the bulb, called the filament."
+msgstr ""
+
+msgid "Insulator"
+msgstr ""
+
+msgid "Electrical insulators are materials, like rubber, plastic, or air, that can't conduct electricity. They are used to cover and shield wires and other conductors so you don't get a shock."
+msgstr ""
+
+msgid "Battery terminal"
+msgstr ""
+
+msgid "Battery terminals are little posts that stick out of the top of the battery that the circuit wires are connected to."
+msgstr ""
+
+msgid "Electrical energy"
+msgstr ""
+
+msgid "The energy of electrons moving through a wire in a circuit."
+msgstr ""
+
+msgid "Simple circuit"
+msgstr ""
+
+msgid "In a simple circuit like a flashlight, an electric circuit connects these three components in a pattern that begins and ends with the power source."
+msgstr ""
+
+msgid "Which statement about electrons in an electrical circuit is <span class = 'blink'>NOT</span> true? "
+msgstr ""
+
+msgid "Electrons are invisible negatively charged particles."
+msgstr ""
+
+msgid "Moving electrons make up an electric current."
+msgstr ""
+
+msgid "Friction, from electrons rubbing in a light bulb’s filament, cause the light bulb to heat up and glow."
+msgstr ""
+
+msgid "Nuclear reactions in the battery produce electrons."
+msgstr ""
+
+msgid "Nope! This statement is true about electrons. Electrons are invisible negatively charged particles."
+msgstr ""
+
+msgid "Nope – this statement is true about electrons. Moving electrons do make up an electric current."
+msgstr ""
+
+msgid "Nope – this statement is true about electrons. Friction, from electrons rubbing in a light bulb’s filament, does cause the light bulb to heat up and glow."
+msgstr ""
+
+msgid "Correct! It's the chemical reactions, not the nuclear reactions, inside the battery that cause electrons to move in the circuit."
+msgstr ""
+
+msgid "Lighting a bulb..."
+msgstr ""
+
+msgid "Yes – This is correct. The plus end of the battery is connected to the side of the bulb leading to the filament and the minus side of the battery is connected to the bump on the bulb leading to the other side of the filament making a complete circuit from one side of the battery, through the bulb, and back to the battery."
+msgstr ""
+
+msgid "Not quite – The positive end of the battery is touching the side of the bulb but the minus end of the battery isn’t touching the bottom of the bulb so there is no circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Nope – The positive end of the battery is touching the bump on the bulb but the negative end of the battery isn’t connected to the side of the bulb so there is no circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Not really - The negative end of the battery is touching the bump on the bulb but the positive end of the battery isn’t connected to the side of the bulb so there is no circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Which of the following diagrams is a complete circuit that will light the bulb?"
+msgstr ""
+
+msgid "Charging batteries..."
+msgstr ""
+
+msgid "Not quite – One end of the battery – the negative end - is connected to the side of the bulb but the other end of the battery – the positive end – is also connected to the side of the bulb. It would need to be connected to the bottom – bump – on the bulb to make a complete circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Not quite – One end of the battery – the negative end - is connected to the bottom bump of the bulb but the other end of the battery – the positive end – is also connected to the bottom bump of the bulb. It would need to be connected to the side of the bulb to make a complete circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Not quite! The positive end of the battery is connected to both the bottom bump and the side of the bulb. In order to make a complete circuit through the bulb’s filament, either one of the wires, but not both, would need to be connected to the other end, the negative end of the battery."
+msgstr ""
+
+msgid "Correct – One end of the battery is connected to the bottom bump on the bulb while the other end of the battery is connected to the side of the bulb resulting in a complete circuit through the bulb’s filament."
+msgstr ""
+
+msgid "Which of the following diagrams is <span class='blink'>NOT</span> a complete circuit that will light the bulb?"
+msgstr ""
+
+msgid "Preparing wires..."
+msgstr ""
+
+msgid "Not quite. This is a complete circuit. A complete circuit that lights the bulb is when either the positive or negative end of the battery is in contact with either the side or bottom of the bulb and the other end of the battery is connected to the other side of the bulb. In this case, the negative end of the battery is connected to the bottom bump on the bulb and the positive end of the battery is connected to the side of the bulb using the wire."
+msgstr ""
+
+msgid "Not quite! This is a complete circuit. A complete circuit that lights the bulb is when either the positive or negative end of the battery is in contact with either the side or bottom of the bulb and the other end of the battery is connected to the other side of the bulb. In this case, the negative end of the battery is connected to the bottom bump on the bulb using the wire and the positive end of the battery is connected to the side of the bulb."
+msgstr ""
+
+msgid "Correct! This is not a complete circuit. A complete circuit that lights the bulb is when either the positive or negative end of the battery is in contact with either the side or bottom of the bulb and the other end of the battery is connected to the other side of the bulb. In this case, the negative end of the battery is connected to the bottom bump on the bulb and the positive end of the battery is also connected to the bottom bump on the bulb using the wire. Nothing is connecting the battery to the side of the bulb."
+msgstr ""
+
+msgid "Which of the following diagrams shows the accurate movement of the <span class='blink'>current</span>, the <span class='blink'>yellow arrows</span>, through the circuit?"
+msgstr ""
+
+msgid "Looking at the arrows..."
+msgstr ""
+
+msgid "Not exactly – Current in a complete light bulb circuit moves from one end of the battery through the filament and back to the other end of the battery. In this case the current looks like it’s just coming out of one end of the battery and hitting the filament from two different directions."
+msgstr ""
+
+msgid "Correct – Current in a complete light bulb circuit moves from one end of the battery through the filament and back to the other end of the battery. In this case the current is coming from the positive end of the battery through the filament and back to the negative end of the battery."
+msgstr ""
+
+msgid "Not exactly – Current in a complete light bulb circuit moves from one end of the battery through the filament and back to the other end of the battery. In this case the current looks like it’s just coming out of both ends of the battery and hitting the filament from opposite directions."
+msgstr ""
+
+msgid "Not exactly – Current in a complete light bulb circuit moves from one end of the battery through the filament and back to the other end of the battery. In this case the current looks like it’s just coming out of both ends of the battery and hitting the filament from two different directions."
+msgstr ""
+
+msgid "Which of the following pairs of metal electrodes in a battery would cause an electric current to flow in a circuit hooked up to the battery?"
+msgstr ""
+
+msgid "Zinc and Zinc"
+msgstr ""
+
+msgid "Copper and Copper"
+msgstr ""
+
+msgid "Zinc and Copper"
+msgstr ""
+
+msgid "Gold and Gold"
+msgstr ""
+
+msgid "Yes - Exactly – A battery has to have two different metal electrodes in order to generate an electric current."
+msgstr ""
+
+msgid "Not quite – A battery has to have two different metal electrodes in order to generate an electric current."
+msgstr ""
+
+msgid "Congratulations"
+msgstr ""
+
+msgid "You've completed the Batteries, Bulbs and Wires<br/>(Electric Circuits) module."
+msgstr ""
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr ""

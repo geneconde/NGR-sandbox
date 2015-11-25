@@ -1,0 +1,1206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecosystem Interaction\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: James Shymansky, <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Globals
+msgid "How did I do?"
+msgstr "我答的如何？"
+
+msgid "Ecosystems Interactions"
+msgstr "生態系中的交互作用"
+
+msgid "More core ideas... about ecosystems interactions"
+msgstr "更多核心觀念...關於「生態系中的交互作用」"
+
+msgid "You answered..."
+msgstr "您的回答..."
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Previous"
+msgstr "前一題"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr "請向上或向下翻轉方盒子，以選擇你的答案 (點選並同時滑動滑鼠)。"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Ecosystems Interactions review"
+msgstr "歡迎您到「生態系中的交互作用」單元"
+
+msgid "Let's begin"
+msgstr "我們開始囉！"
+
+# 2
+msgid "Thinking about... ecosystems interactions"
+msgstr "想一想...關於「生態系中的交互作用」"
+
+msgid ""
+"Think about your family. There are people in your family of different ages "
+"and with different jobs. Even though you do your own things every day and "
+"may even have your own bedrooms, you all live together and interact with "
+"each other every day. Now think about a pond, a desert, or a forest. They "
+"are called ecosystems. Now read the first sentences about your family again "
+"and think about how a family is like an ecosystem."
+msgstr ""
+"想想你的家中吧！你的家人有的年齡不同、有的工作不同。不過即使你每天都做你自己"
+"的事情，甚至你有著自己的臥室，但家人還是住在一起，彼此天天互動。現在就請你想"
+"一想，在一個池塘、一片沙漠或者一片森林。我們可以稱這些為「生態系」。現在請你"
+"再讀一次前面關於描述你家人互動的句子，然後想一想：為什麼一個家庭可以想成是一"
+"個生態系呢？"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎"
+
+# 3
+msgid "Checking what you know... about ecosystems interactions"
+msgstr "看看你了解了多少...關於「生態系中的交互作用」"
+
+msgid "Read the following statements and decide if they are true or false."
+msgstr "閱讀以下敘述，並判斷它們是對的還是錯。"
+
+msgid "Statement"
+msgstr "敘述"
+
+msgid "True"
+msgstr "對"
+
+msgid "False"
+msgstr "錯"
+
+msgid "Ecosystems are simply a collection of organisms."
+msgstr "生態系指的就是很多生物的集合。"
+
+msgid "Ecosystems don't change; they stay the same over time."
+msgstr "生態系不會改變──即使時間變遷它們還是保持不變。"
+
+msgid "Species that live together in an ecosystem need to get along."
+msgstr "生活在一個生態系的物種，彼此會有互動。"
+
+msgid "Some species may disappear with no effect on an ecosystem."
+msgstr "某些物種的消失對生態系沒有任何影響。"
+
+msgid ""
+"Ecosystems include not just the organisms but also the interactions among "
+"the organisms and between the organisms and their physical environment. All "
+"organisms are important within an ecosystem even though some may compete for "
+"resources and feed on one another. After going through this review come back "
+"and see if you would answer any of the true/false statements differently."
+msgstr ""
+"生態系不僅包括生物本身，它也包括生態系裏的生物之間的交互作用、還有生物及物理"
+"環境之間的相互作用。所有的生物都是重要的，縱使有些可能彼此間在生態系內還是必"
+"須爭奪資源和養分。完成本單元的學習後，也許你對上面的題目會有不同的回答。"
+
+msgid "Working together..."
+msgstr "共同合作..."
+
+# 4
+msgid "Reviewing core ideas... about ecosystems interactions"
+msgstr "複習核心觀念...關於「生態系中的交互作用」"
+
+msgid ""
+"This desert is an <span class=\"key\">ecosystem</span>. It is made up of "
+"living and non-living things that interact with each other. A desert does "
+"not get a lot of rain, but it gets a lot of sun. So the plants and animals "
+"that live in a desert adapt to be able to survive these conditions."
+msgstr ""
+"這片沙漠也是一個<span class='key'>生態系</span>，它也是由彼此交互作用的生物和"
+"非生物所組成。沙漠，沒有很多的雨水，但它有很多的陽光，因此生活在沙漠中的植物"
+"和動物並須適應這些條件才能生存。"
+
+msgid ""
+"Animals and plants survive and live in a desert ecosystem by <span class="
+"\"key\">adapting</span> to the desert. Over time the kind of cactus best "
+"suited to live in a desert continue to grow and reproduce while other kinds "
+"of cactus eventually disappear. Cacti (more than one cactus) store water in "
+"their stems to help them survive the lack of rain. Kangaroo rats sleep "
+"underground where it is cooler and look for food during the night when the "
+"sun goes down. Owls hunt at night after the sun goes down, often catching "
+"kangaroo rats."
+msgstr ""
+"沙漠中的動物和植物，需藉由<span class='key'>調適</span>以適應沙漠的生態系，來"
+"求生存。隨著時間的推移，那些最適合生活在沙漠中的仙人掌能夠不斷地生長和繁殖，"
+"而其他種類的仙人掌最終會消失滅絕。仙人掌將水儲存在莖，幫助它們在缺雨的環境中"
+"生存；有一種沙漠中的鼠類，會睡在較涼爽的地底下並在太陽下山後才在夜間覓食；貓"
+"頭鷹則也會在太陽下山後的夜晚，出來獵食這種鼠類。"
+
+msgid ""
+"A <span class=\"key\">healthy ecosystem</span> is one of which many species "
+"are able to meet their needs for life over a long period of time.  All "
+"species need food, water, and other resources. Some even depend upon one "
+"another. <span class=\"key\">Predators</span> depend upon their prey species "
+"for food.  <span class=\"key\">Prey</span> species depend upon other "
+"predators to control their numbers. If either type is removed from an area, "
+"all living things in the area suffer. Prey species reproduce uncontrollably "
+"and begin to die as their food sources run out. Predators begin to die off "
+"quickly because their food is gone."
+msgstr ""
+"一個<span class='key'>健康的生態系</span>，指的是生態系中許多物種的生活所需，"
+"都能長時間的被滿足。所有物種都需要食物、水和其他資源，有些甚至彼此依賴。 "
+"<span class='key'>掠食者</span>以它們的獵物為食，所以掠食者依賴著獵物維生；"
+"而 <span class='key'>獵物</span>的數量也因為掠食者的存在而受到控制，所以獵物"
+"也依賴著掠食者。如果任一物種從一個地區消失，該地區所有的生物都會受到影響，獵"
+"物可能因為繁殖失控，造成沒有食物而開始死亡，而掠食者也會因為它們的獵物消失，"
+"缺乏食物而開始迅速死亡。"
+
+msgid "Walking on the desert..."
+msgstr "走在沙漠中..."
+
+# 5
+msgid "Quick Check #1"
+msgstr "小練習＃1"
+
+msgid "Question A. What is an ecosystem?"
+msgstr "問題A. 請問什麼是生態系呢？生態系是："
+
+msgid ""
+"An un-natural unit consisting of plants, animals, and microorganisms in an "
+"area functioning together and interacting with the environment."
+msgstr ""
+"植物、動物、和微生物在一個區域相互運作，且和環境相互作用的非自然的系統。"
+
+msgid ""
+"A natural unit consisting of plants, animals, and microorganisms in an area "
+"functioning together and interacting with the environment."
+msgstr "植物、動物、和微生物在一個區域相互運作，且和環境相互作用的自然的系統。"
+
+msgid ""
+"An un-natural unit consisting of plants, animals, and microorganisms in an "
+"area not functioning together or interacting with the environment."
+msgstr ""
+"植物、動物、和微生物在一個區域相互運作，但不與環境相互作用的非自然的系統。"
+
+msgid ""
+"A natural unit consisting of plants, animals, and microorganisms in an area "
+"not functioning together or interacting with the environment."
+msgstr ""
+"植物、動物、和微生物在一個區域相互運作，但不與環境相互作用的自然的系統。"
+
+msgid "Question B. What non-living things might be in an ecosystem?"
+msgstr "問題B. 下列哪一項可以是生態系的一部分而且是屬於非生物的？"
+
+msgid "Mammals and insects"
+msgstr "哺乳動物和昆蟲"
+
+msgid "Fungi and plants"
+msgstr "真菌和植物"
+
+msgid "Rocks and soil"
+msgstr "岩石和土壤"
+
+msgid "Bacteria and other microbes"
+msgstr "細菌和其他微生物"
+
+msgid ""
+"Not quite! An ecosystem is a natural unit of living things interacting "
+"together and with the environment."
+msgstr "不大對喔！生態系是包含多種生物與環境彼此交互作用的天然群體。"
+
+msgid ""
+"Correct! Within an ecosystem all kinds of living and non-living interact and "
+"exist together."
+msgstr "正確！生態系中各種生物和非生物彼此交互作用而且共同存在。"
+
+msgid ""
+"Nope! An ecosystem is a natural unit of living things interacting together "
+"and with the environment. If the parts of an ecosystem did not work together "
+"it really wouldn't be a system."
+msgstr ""
+"不對喔！生態系是包含多種生物與環境彼此交互作用的天然群體。如果生態系的各部分"
+"無法共同作用，就不是一個生態系了。"
+
+msgid ""
+"Not quite! An ecosystem is a natural unit of living things- but living and "
+"non-living things function and interact with each other within the ecosystem."
+msgstr ""
+"不太對喔！生態系是包含多種生物與環境彼此交互作用的天然群體。在這系統內，生"
+"物、非生物共同運作並彼此交互作用。"
+
+msgid ""
+"Nope! Mammals and insects can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"不對喔！哺乳動物和昆蟲可以是生態系的一部分，但它們是有生命的東西。岩石和土壤"
+"是生態系非生物部分的例子。"
+
+msgid ""
+"Nope! Fungi and plants can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"不對喔！真菌和植物可以是生態系的一部分，但它們是有生命的東西。岩石和土壤是生"
+"態系非生物部分的例子。"
+
+msgid ""
+"Correct! Rocks and soil would be considered non-living parts of an "
+"ecosystem. The non-living and living components of an ecosystem are always "
+"interacting with each other, for example, when a plant is growing in soil."
+msgstr ""
+"正確！岩石和土壤被視為生態系中非生物的部分。生態系的非生物和生物部分總是彼此"
+"相互作用，例如，植物在土壤中生長。"
+
+msgid ""
+"Nope! Bacteria and microbes can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"不對喔！細菌和微生物可以是生態系的一部分，但它們是有生命的東西。岩石和土壤是"
+"生態系非生物部分的例子。"
+
+msgid "Ready for your first quick check?"
+msgstr "準備開始你的第一個小練習？"
+
+# 6
+msgid ""
+"People can change or affect ecosystems in many different ways. In fact, "
+"almost everything humans have done throughout history has somehow changed "
+"different ecosystems. People cut down trees to make space in a forest.  They "
+"plant trees to create shade in a grassland.  They plant crops and make space "
+"for the animals we need for food."
+msgstr ""
+"人們可能透過各種方式改變或影響生態系。事實上，幾乎人類在整個歷史上做過的事"
+"情，都某種程度地改變了各種的生態系。例如，人們砍伐森林樹木增大空間、人們在草"
+"原種植樹木以便遮陽、人們種植農作物或為畜養的動物開闢空間以提供我們需要的食"
+"物。"
+
+msgid ""
+"One example of how people changed an ecosystem is the case of Yellowstone "
+"National Park, a preserved area. Around it, people built roads, fought "
+"forest fires, and built campgrounds and lodges.  As more people began to "
+"visit this park, a decision was made to eliminate large predators, like "
+"mountain lions and wolves, by hunting them to extinction within the park."
+msgstr ""
+"還有一個人類改變生態系的例子就如美國的「黃石國家公園」保護區(如圖)。人們在那"
+"周圍建造道路、對抗森林火災、開設露營地和小屋。而且，隨著越來越多的人開始來參"
+"觀這個公園，人們決定在公園內獵殺大型掠食者，如美洲獅和狼。"
+
+msgid ""
+"Over many years, the park changed; going from a forest filled with large "
+"trees and open spaces to one filled with shrubs and dead wood. The elk herd "
+"grew so rapidly that animals began to die due to a lack of food. Park "
+"managers eventually decided to make an attempt to return the park to its "
+"natural state."
+msgstr ""
+"經過了這麼多年後，國家公園受到了改變；從原本滿是大樹和空地的森林變成充滿了灌"
+"木和枯枝。麋鹿群迅速增長(如圖)，然後其它動物因為缺乏食物開始死亡。公園管理人"
+"員最終決定嘗試恢復公園的自然狀態。"
+
+msgid ""
+"People can also make indirect effects on ecosystems by burning fossil fuels "
+"like coal and oil, which can cause air and water pollution. This affects "
+"species that depend on these natural resources (air, soil, and water) and "
+"that can lead to a change in an ecosystem as well."
+msgstr ""
+"人們還可能因為燃燒化石燃料，如煤和石油，導致空氣和水污染，而間接地影響生態"
+"系。這些人類的活動，會影響依賴著這些天然資源（空氣、土壤和水）的生物物種，並"
+"可能導致生態系的改變。"
+
+msgid "Burning fossil fuels..."
+msgstr "燃燒化石燃料..."
+
+# 7
+msgid "Quick Check #2"
+msgstr "小練習＃2"
+
+msgid ""
+"Question A. Check <span class=\"blink\">all</span> the ways farming "
+"practices that are intended to increase crop production can be bad for the "
+"ecosystem."
+msgstr ""
+"問題A. 請問<span class='blink'>哪幾項</span>是提高農作物產量時可能造成的影響"
+"且可能不利於生態系的呢？(複選)"
+
+msgid "Nutrients may be taken from the soil."
+msgstr "土壤中的營養物質可能會被帶走。"
+
+msgid "Nearby streams can become polluted."
+msgstr "附近的小河將被污染。"
+
+msgid "Grass fires may occur more frequently."
+msgstr "可能會更頻繁地發生草原火災。"
+
+msgid "Habitats for some animals may be destroyed."
+msgstr "動物的棲息地可能會被破壞。"
+
+msgid ""
+"Question B. Which statement is an example of a living thing interacting with "
+"a non-living thing?"
+msgstr "問題B. 下列哪一個敘述是生物與非生物交互作用的例子？"
+
+msgid "A beaver cutting down trees."
+msgstr "海狸咬斷樹木。"
+
+msgid "A prairie dog living under soil."
+msgstr "土撥鼠生活在地底下。"
+
+msgid "A plant and fungus living together."
+msgstr "植物和真菌生活在一起。"
+
+msgid "A flower that is pollinated by a bee."
+msgstr "花由蜜蜂傳粉。"
+
+msgid "Plowing soil..."
+msgstr "翻耕土壤..."
+
+msgid ""
+"Correct! These are all things people do that can affect the species living "
+"in an ecosystem. If we use the soil over and over without taking care of it, "
+"or empty chemicals into streams, we will impact the ecosystem in the worst "
+"way."
+msgstr ""
+"正確！這些都是人類所為且會影響生活在生態系中的生物物種。如果我們不斷使用土地"
+"而不照顧它，或將化學物質倒進河流，我們將會嚴重的傷害生態系。"
+
+msgid ""
+"Think again! (a) is one of the effects--people change the soil they use. If "
+"the soil is used over and over to grow crops and no fertilizer is added to "
+"it, the natural nutrients in the soil will be severely reduced. (b) is also "
+"one of the effects--farmers use chemicals to help plants grow faster and "
+"kill plants and bugs that try to eat the plants they are growing. Rain can "
+"wash a lot of these chemicals into the river and pollute the water. (c) a "
+"fire every so often can actually be good for an ecosystem because it allows "
+"new plants to grow. (d) is also bad for the ecosystem because when tree and "
+"other vegetation are cut down to make room for a farm, many animals may lose "
+"what they need to survive."
+msgstr ""
+"再想想喔！(a) 選項，是人們改變土壤所造成的影響之一。如果土壤被反覆使用種植農"
+"作物且不施肥，土壤中的天然養分會嚴重降低。 (b) 選項，是農民使用化學物質來幫助"
+"植物生長得更快，並殺死啃食生長作物的植物和昆蟲的影響之一。雨水會將這些化學物"
+"質沖入河道，污染水源。 (c) 選項，每隔一段時間發生的火災，其實對生態系很好，因"
+"為它提供新的植物生長的機會。 (d) 選項，也是會破壞生態系，因為當樹木和其他植物"
+"被砍伐以騰出空間給農場，很多原來的棲息動物可能會失去它們賴以生存的東西。"
+
+msgid ""
+"Not quite! Trees are living things. The way beavers cut down trees and build "
+"dams changes the ecosystem a lot. They create ponds and offer protection to "
+"many animals."
+msgstr ""
+"不太對喔！樹也是生物。海狸會咬斷樹木並築壩擋水的方式會大大地改變生態系。海狸"
+"會使水塘形成，這也可能保護許多動物。"
+
+msgid ""
+"Correct! The soil keeps the prairie dog safe, and they dig tunnels helping "
+"the water to get everywhere in the soil."
+msgstr "正確！土壤保護土撥鼠的安全；它們挖地道也可以讓水分能流動到土壤的各處。"
+
+msgid ""
+"Not quite! A plant and fungus can live together in a way that they both can "
+"benefit, but both are living things."
+msgstr "不大對喔！植物和真菌可以互利的方式共同生活；但這兩者都是有生物。"
+
+msgid ""
+"Not quite! Bees pollinate flowers and the interaction results in more "
+"flowers and food for the bee, but both are living things."
+msgstr ""
+"不大對喔！蜜蜂傳粉給花的這種交互作用，使得花長得更多，而蜜蜂有了更多的食物。"
+"不過它們兩者都是生物。"
+
+# 8
+msgid ""
+"How do animals adapt to live in different ecosystems? Some animals adapt to "
+"different habitats, and some animals do well just the way they are. It "
+"depends on the species and on the ecosystem. An adaptation is a change in "
+"the body structure, processes or behavior of a specie that has evolved over "
+"a period of generations. All surviving species have adapted to different "
+"climates and conditions over the years. For example, animals that live in "
+"cold climates have thick fur, and animals that live in warm climates have "
+"bodies that help them stay cool. Animals also adapt in different ways to "
+"help them find food in their habitat. For example, a snake that lives in the "
+"desert that eats small animals would probably have a hard time staying warm "
+"and finding food in an arctic environment."
+msgstr ""
+"動物如何在不同的生態系適應生活？有些動物需要經歷「調適」的過程，但有一些動物"
+"只要照原本的方式就可以生活的很好。這兩者間的不同，是由物種和生態系來決定。"
+"「調適」指的是，生物去改變它這物種經歷世代演化後所具有的身體結構、過程和行"
+"為。多年來倖存的物種已經適應了不同的氣候和環境條件，例如，生活在寒冷氣候條件"
+"下的動物有厚厚的皮毛、生活在氣候溫暖的動物有幫助它們保持涼爽的身體結構。動物"
+"也藉由「調適」運用不同的方式以幫助它們在棲息地尋找食物，例如，已經適應在沙漠"
+"生存吃小動物的蛇，大概也很難在北極環境中保持溫暖並尋找食物了。"
+
+msgid ""
+"Parrots were brought to the Hawaiian Islands as pets and were either "
+"released or escaped. Hawaii turns out to be excellent habitat for parrots "
+"and they have reproduced in the wild. Unfortunately, many native Hawaiian "
+"birds have difficulty competing with parrots for food and are nearing "
+"extinction. Plants or animals living in wild spaces outside their native "
+"ranges, such as these parrots now found in Hawaii, are known as <span class="
+"\"key\">invasive species</span>. Invasive species create problems for native "
+"species either by preying upon the natives for food, or by out-competing "
+"them for food and other resources."
+msgstr ""
+"鸚鵡剛開始是被帶到了夏威夷群島當作寵物的，後來也許是被釋放或者自行逃脫。由於"
+"夏威夷是鸚鵡極好的棲息地，所以它們在野外開始繁殖。不幸的是，許多夏威夷本地的"
+"鳥類難以和鸚鵡爭食，而接近滅絕。生活在自己的本土範圍外的動植物──如這些現在在"
+"夏威夷的鸚鵡，就被稱為<span class='key'>入侵物種</span>。外來物種的入侵對於本"
+"地物種會造成很大的問題──無論是入侵物種會捕食其它的本地物種，或在競逐食物和其"
+"他資源時會勝過本地物種。"
+
+msgid "Adapting to environment..."
+msgstr "適應環境..."
+
+# 9
+msgid "Quick Check #3"
+msgstr "小練習＃3"
+
+msgid "Question A. Why do adaptations become common in populations?"
+msgstr "問題 A. 為什麼「調適」，是生物群體中普遍的現象呢？"
+
+msgid "Adaptations make it harder for animals to survive."
+msgstr "「調適」，會使動物更難生存。"
+
+msgid "Only animals are able to adapt."
+msgstr "只有動物能夠進行「調適」。"
+
+msgid "Only plants are able to adapt."
+msgstr "只有植物能夠進行「調適」。"
+
+msgid "Adaptations make it easier for animals to survive."
+msgstr "「調適」，使得動物更容易生存。"
+
+msgid ""
+"Question B. Which of the following would <span class=\"blink\">NOT</span> be "
+"a problem created by an invasive species?"
+msgstr "問題B. 下列哪一項<span class='blink'>不是</span>入侵物種所造成的問題？"
+
+msgid "A. Creating new habitat for native species."
+msgstr "A。為本土物種的生物(也就是原來就棲息在這裡的生物)開闢新棲息地。"
+
+msgid "B. Preying upon native species."
+msgstr "B。捕食本土物種的生物。"
+
+msgid "C. Competing with native species."
+msgstr "C。與原生物種生物競爭。"
+
+msgid "D. Over-populating the habit."
+msgstr "D。造成棲息地的物種數目過度密集。"
+
+msgid "Feeding wild birds..."
+msgstr "餵食野生鳥類..."
+
+msgid "Nope! Adaptations make survival easier."
+msgstr "不對喔！「調適」使物種更容易生存。"
+
+msgid "Nope! All living things are able to adapt to changing environments."
+msgstr "不對喔！所有生物都能夠進行「調適」以適應不斷變化的環境。"
+
+msgid ""
+"Correct! In the desert, the owl stays cool by hunting for its prey at night."
+msgstr "正確！在沙漠中，貓頭鷹在涼爽的夜間捕食。"
+
+msgid ""
+"That's the one! New habitat would be great if invasive species created it. "
+"They don't."
+msgstr ""
+"對，就是這一個選項！如果入侵物種真能創造新的棲息地那將會很好，可是事實上並不"
+"是如此。"
+
+msgid "Not quite! Invasive species often prey upon natives."
+msgstr "不大對喔！外來入侵物種經常捕食本土物種。"
+
+msgid "Sorry. Invasive species often out-compete natives."
+msgstr "不對喔！入侵物種經常在競爭中勝過本土物種。"
+
+msgid ""
+"Nope! Without predators, invasive species would increase rapidly in "
+"population."
+msgstr "不對喔！沒有掠食者，外來物種會迅速增加。"
+
+# 10
+msgid ""
+"Ecosystems come in different sizes. They can be as small as a puddle or as "
+"large as the Earth itself. Any group of living and nonliving things "
+"interacting with each other can be considered as an ecosystem. An ecosystem "
+"is made up of a habitat, where things live; and a community, the animals and "
+"plants who live there. A habitat is the natural home or environment of an "
+"animal, plant, or other organism."
+msgstr ""
+"生態系有不同的大小。它們可以是小到一個水坑或大如地球本身。任何生物和非生物彼"
+"此交互作用，就可以被視為是一個生態系。生態系是由「棲息地(生物生活的地方)」和"
+"「群落(生活在這裡的所有動植物)」所組成。"
+
+msgid ""
+"In a habitat, plants and animals interact and rely on each other. In Africa, "
+"one of the largest trees and one of the tiniest insects rely completely on "
+"each other for survival. The sycamore fig tree supports an entire ecosystem, "
+"consisting of birds, snakes, insects, monkeys and elephants."
+msgstr ""
+"在棲息地裡，所有植物和動物之間彼此相互作用而且相互依賴。例如，在非洲，有最大"
+"的樹和最小的昆蟲，依靠著對方生存；在那裏，無花果樹支撐著整個生態系，包括鳥"
+"類、蛇類、昆蟲、猴子和大象。"
+
+msgid ""
+"The picture at the right that looks like fruits is actually a set of "
+"flowers. They can only be pollinated by a tiny wasp that brings along pollen "
+"from another fig tree. Over a period of weeks, the wasp eggs hatch and begin "
+"to develop through a series of life stages, using the inside of the "
+"developing fruit as food."
+msgstr ""
+"右邊看起來像一大串果實的圖片實際上是好多的花。它們只能藉由一種小黃蜂從另一株"
+"無花果樹傳送花粉已完成授粉。幾星期後，小黃蜂卵孵化，幼蟲以內部長大中的果實為"
+"食物，而得以在生命發展的歷程中不斷成長。(小黃蜂和蜜蜂是不同的生物，蜜蜂並不會"
+"幫助無花果傳粉。)"
+
+msgid ""
+"The sycamore fig is also the center of a larger system involving many other "
+"creatures.  When the fruit ripens a wide variety of animals come to feed. "
+"Monkeys harvest and eat the fruits, as do elephants and bats. Some birds "
+"even use the tree for shelter, grey hornbills building nests in hollow "
+"spaces in the trunk. Hollow spaces are also used by bees as a shelter for "
+"hives. The sycamore fig further supports its ecosystem by forming fruits "
+"several times each year. If there are a few trees in an area, nourishing "
+"food will always be available. This entire complex system depends upon the "
+"interaction between a tree and a wasp. If either is lost, the whole system "
+"collapses."
+msgstr ""
+"無花果樹也算是一個較大的生態系裡面的一個中心。當無花果果實成熟時，各式各樣的"
+"動物前來覓食，例如：猴子會來摘取並吃食水果，大象和蝙蝠也是。有些鳥類甚至使用"
+"樹當作庇護所，例如：灰犀鳥在樹幹中空處築巢。此外，有些樹幹中空處還可以作為蜜"
+"蜂的蜂窩。無花果每年結果數次，這也進一步支撐了生態系。只要一個地區有一些樹，"
+"就會有營養的食物。這整個複雜的生態系仰賴樹和黃蜂之間的交互作用──如果失去任何"
+"一個，整個生態系統就會崩潰。"
+
+msgid "Setting up turtle habitat..."
+msgstr "幫助建立海龜的棲息地......"
+
+# 11
+msgid "Quick Check #4"
+msgstr "小練習＃4"
+
+msgid "Question A. What is a beaver's habitat?"
+msgstr "問題A. 以下何者是海狸的棲息地？"
+
+msgid "The number of beavers in a given area."
+msgstr "海狸在特定區域的數量。"
+
+msgid "The streams of North America."
+msgstr "北美洲的河流。"
+
+msgid "The plants that beavers eat."
+msgstr "海狸吃的植物。"
+
+msgid "The tail of a beaver."
+msgstr "海狸的尾巴。"
+
+msgid ""
+"Question B. Which of the following animals does not use the sycamore fig as "
+"a food source?"
+msgstr "問題B. 下列哪一個動物不以無花果作為食物來源？"
+
+msgid "Monkeys"
+msgstr "猴子"
+
+msgid "Elephants"
+msgstr "大象"
+
+msgid "Bats"
+msgstr "蝙蝠"
+
+msgid "Bees"
+msgstr "蜜蜂(不是小黃蜂喔！)"
+
+msgid "Ready for your last quick check?"
+msgstr "準備進行你的最後一個小練習？"
+
+msgid ""
+"Nope! The beaver's habitat is where the animal lives - streams of North "
+"America."
+msgstr "不對喔！棲息地就是動物生活的地方；北美河流中有海狸棲息。"
+
+msgid ""
+"Correct! Beavers live in lodges created from branches and mud. They build "
+"their lodges after they build dams and create a pond."
+msgstr ""
+"正確！海狸生活在由樹枝和泥土建造的巢穴。它們建好自己的巢穴後，會築壩，並形成"
+"水池。"
+
+msgid ""
+"Nope! The beaver's habitat is where the animal lives – plants are only part "
+"of their habitat."
+msgstr "不對喔！棲息地是動物生活的地方 植物只是棲息地的一部分。"
+
+msgid ""
+"Nope! The beaver's tail is an adaptation - streams of North America are its "
+"habitat."
+msgstr "不對喔！海狸的尾巴是一種「調適」後的產物- 北美洲的河流是其棲息地。"
+
+msgid "Nope! Monkeys eat the fig fruits."
+msgstr "不對喔！猴子吃無花果的果實。"
+
+msgid "Not quite! Elephants love figs."
+msgstr "不完全對喔！大象愛無花果。"
+
+msgid "Not bats. Bats even eat figs upside down!"
+msgstr "不是蝙蝠。蝙蝠甚至會倒掛著吃無花果！"
+
+msgid "Correct! Bees don't eat figs, they build hives in hollow spaces."
+msgstr "正確！蜜蜂不吃無花果，它們在有洞的地方建造蜂巢。"
+
+# 12
+msgid ""
+"Using what you know... about ecosystems interactions... to solve a problem"
+msgstr "運用您所知道...有關「生態系中的交互作用」......解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"When people move into an area, they can't help but immediately begin to make "
+"changes.  They need food and a place to live.  They like to live in "
+"communities with other people.  They each have their own sense of what is "
+"useful and attractive.  The pictures below show examples of how different "
+"landscapes looked before and since people arrived."
+msgstr ""
+"當人們遷入一個新地方時，不得不立刻開始做出改變。他們需要食物和居所、喜歡和其"
+"他人住在社區中。他們每個人，對於什麼是有用的和什麼是有吸引力的，都有不同看"
+"法。下面幾張圖顯示出人類抵達前後的一些不同的景象。"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"The historical society in your town has hired you to prepare a report on "
+"what the town area may have looked like before people settled there. Take a "
+"walk around your neighborhood and make some notes in the space below about "
+"how you think your own community looks now and how it may have looked before "
+"people settled there."
+msgstr ""
+"你城市(或鄉鎮)的歷史協會聘請你提出一個報告說明你的城市(或鄉鎮)在人類定居前可"
+"能的樣子。請你想一想並在下面的空白處寫下現在的樣子以及人類在這裡定居前可能的"
+"樣子。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Looking at the old pictures..."
+msgstr "看看老照片..."
+
+# 13
+msgid "Summarizing core ideas... about ecosystems interactions"
+msgstr "總結核心觀念...關於「生態系中的交互作用」"
+
+msgid ""
+"An <span class=\"key\">ecosystem</span> is made up of living and non-living "
+"things that interact with each other. Animals and plants survive and live in "
+"their ecosystem by <span class=\"key\">adapting</span> to its conditions. In "
+"a <span class=\"key\">healthy ecosystem</span> many species are able to meet "
+"their needs (food, water, and other resources) for life over a long period "
+"of time.   People can change ecosystems in many different ways. The changes "
+"affect species that depend on the natural resources (air, soil, and water) "
+"in the ecosystem. Some animals need to adapt to their habitat over time, and "
+"some <span class=\"key\">invasive species</span> do not. Plants or animals "
+"living in wild spaces outside their native ranges are known as <span class="
+"\"key\">invasive species</span>.  Ecosystems come in different sizes. An "
+"ecosystem is made up of a habitat, where things live; and a community, the "
+"animals and plants who live there. A habitat is the natural home or "
+"environment of an animal, plant, or other organism. In a habitat, plants and "
+"animals interact and rely on each other."
+msgstr ""
+"一個<span class='key'>生態系</span>是由生物和非生物彼此交互作用所構成。動物和"
+"植物藉由<span class='key'>適配</span>以適應生態系的狀況並求得生存和生活。在"
+"<span class='key'>健康的生態系</span>中，大部分的物種都能夠長時間地滿足它們的"
+"生命的需求（食物，水和其他資源）。人們會以許多不同的方式改變生態系，這些變化"
+"會影響那些依賴著生態系中自然資源（空氣、土壤和水）的物種。有些動物需要時間去"
+"適應它們的新棲息地，但有些<span class='key'>入侵物種</span>也可能不必任何適"
+"應，而可直接生活。植物或動物生活在自己的本土範圍外的野生環境時，被稱為<span "
+"class='key'>入侵物種</span> 。生態系統有不同的大小。生態系是由「棲息地(生物生"
+"活的地方)」和「群落(生活在這裡的所有動植物)」所組成。棲息地是動物、植物或其他"
+"生物的自然家園或環境。在棲息地中，各種植物和動物之間彼此交互作用、彼此依賴。"
+
+msgid "Putting it all together..."
+msgstr "總結一下......"
+
+# 14
+msgid "Reviewing key vocabulary related to... ecosystems interactions"
+msgstr "複習關鍵詞彙...關於「生態系中的交互作用」"
+
+msgid "Ecosystem"
+msgstr "生態系"
+
+msgid ""
+"An ecosystem is all the living and non-living things in a given place. An "
+"ecosystem can be as large as a forest or as small as a rotting log. There "
+"are both land and water ecosystems."
+msgstr ""
+"生態系，指的是一個特定地方中的相互作用的所有生物和非生物。生態系可以大到像一"
+"個森林或小到像一塊腐爛的木頭。生態系也可以看它是位在陸地或在水裏，分為陸域生"
+"態系或水生態系。"
+
+msgid ""
+"Ponds, rivers, lakes, and oceans are all examples of water ecosystems. A "
+"pond ecosystem contains not only water, but living organisms such as fish, "
+"plants, insects, frogs, and turtles. Common land ecosystems include forests, "
+"deserts, and grassy meadows."
+msgstr ""
+"池塘、河流、湖泊和海洋是水生態系的例子。一個池塘的生態系中不只包括水，它還包"
+"括許多生物，如魚類、植物、昆蟲、青蛙和烏龜等。而，一般的陸域生態系，則包括："
+"森林、沙漠、和草地等。"
+
+msgid "Adapt"
+msgstr "調適"
+
+msgid ""
+"To say that something has adapted means that it fits in with its "
+"surroundings. Some living things change slowly over time in order to adapt "
+"to their surroundings. Adapting helps living things to stay alive. If living "
+"things didn't have the ability to adapt, they would disappear forever."
+msgstr ""
+"「調適」，指的是某一個生物配合它周圍環境而進行調整和適應的過程。一些生物，慢"
+"慢隨著時間改變而自我調整進而適應周圍的環境。「調適」，能有助於生物生存，如果"
+"生物未具有適應的能力，它們將永遠滅絕。"
+
+msgid ""
+"A thick coat of fur is an example of how some animals, such as polar bears, "
+"have become adapted to the cold. A polar bear's white color is another way "
+"in which polar bears are adapted to their surroundings. The color of a polar "
+"bear allows it to blend in with the snow. This makes it easy for them to "
+"sneak up on the animals that they hunt for food."
+msgstr ""
+"厚厚的外套毛皮，就是一些動物(如北極熊)進行「調適」以適應寒冷的一個例子；北極"
+"熊的白色也是另一種適應周圍環境的例子，它的顏色使得它得以融入雪地背景，這使得"
+"它們易於偷襲以獵取其它動物，獲得食物。"
+
+msgid "Healthy ecosystem"
+msgstr "健康的生態系"
+
+msgid ""
+"A healthy ecosystem is an ecosystem in which many species are able to meet "
+"their needs for life over a long period of time."
+msgstr ""
+"健康的生態系，指的是一個生態系裡面的許多物種，它們生存的需求都能得到長期的滿"
+"足。"
+
+msgid ""
+"A 400-year old deciduous forest that has remained relatively stable is an "
+"example of a healthy ecosystem."
+msgstr ""
+"一個已經有400年的落葉闊葉林而且還一直保持相對穩定，那就是一個健康生態系的例"
+"子。"
+
+msgid "Predator"
+msgstr "掠食者"
+
+msgid ""
+"Animals that hunt, attack, and eat other animals are called predators. "
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"掠食者，指的會進行狩獵、攻擊、或吃食其他動物的動物。這些掠食者包括：獅子、老"
+"虎、和鯊魚等。狗和貓也是掠食者，但因為人們給它們食物，所以它們並不需要去捕"
+"食。野外的掠食者必須像是很好的獵人，否則將無食物可吃。"
+
+msgid "Prey"
+msgstr "獵物"
+
+msgid ""
+"Animals that are hunted and eaten by other animals are called prey. Prey "
+"animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals that are weak "
+"or sick make easier prey for the animals that hunt them."
+msgstr ""
+"被獵殺和被吃掉的動物，稱為獵物。獵物身上往往有特殊的斑紋，以幫助它們融入周圍"
+"的環境，避免被發現。動物虛弱或生病時，將使它們易於被掠食者捕食。"
+
+msgid "Invasive species"
+msgstr "外來入侵物種"
+
+msgid ""
+"Invasive species are plants or animals living in wild spaces outside their "
+"native ranges."
+msgstr "入侵物種，指的是生活在原本生活範圍外的動植物。"
+
+msgid ""
+"Invasive species create problems for native species either by preying upon "
+"the natives for food, or by out-competing them for food and other resources."
+msgstr ""
+"外來物種的入侵對於本地物種會造成很大的問題──無論是入侵物種會捕食其它的本地物"
+"種，或在競逐食物和其他資源時它們經常會勝過本地物種。"
+
+msgid "Words and explanations"
+msgstr "名詞和解釋"
+
+# 15
+msgid "Checking what you now know... about ecosystems interactions"
+msgstr "看看你現在知道了什麼......關於「生態系中的交互作用」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好後，請點選繼續。"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在知道的"
+
+# 16
+msgid "Quiz Question #1"
+msgstr "小測驗＃1"
+
+msgid "Do ecosystems have a certain size?"
+msgstr "生態系具有一定的大小嗎？"
+
+msgid "Yes, 10 square miles"
+msgstr "有的，25萬平方公里(約10萬平方英哩)"
+
+msgid "Yes, 100 square miles"
+msgstr "有的，250萬平方公里(約100萬平方英哩)"
+
+msgid "No, ecosystems do not have a certain size"
+msgstr "沒有的，生態系並沒有一定的大小"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+msgid ""
+"Nope! There is no specific size for an ecosystem. The entire earth can be an "
+"ecosystem, and the pond near your school is also an ecosystem. It depends on "
+"what you are focusing on."
+msgstr ""
+"不對喔！生態系並沒有一個特定的大小。整個地球可以是一個生態系；附近學校的水池"
+"也可以是一個生態系。這取決於你的關注的重點是什麼。"
+
+msgid ""
+"Correct! There is no specific size for an ecosystem. Depending on which "
+"interactions you are studying, the entire earth can be an ecosystem, and so "
+"can a small pond."
+msgstr ""
+"正確！生態系並沒有一個特定的大小。這取決於你的關注的重點是什麼：整個地球可以"
+"是一個生態系；附近學校的水池也可以是一個生態系。"
+
+# 17
+msgid "Quiz Question #2"
+msgstr "小測驗＃2"
+
+msgid "Click on <span class=\"blink\">all</span> the examples of an ecosystem."
+msgstr "請選取下列中<span class='blink'>生態系</span>的所有例子(複選)。"
+
+msgid "Pond"
+msgstr "水池"
+
+msgid "Forest"
+msgstr "森林"
+
+msgid "Niche"
+msgstr "一個物種和生活環境(即「生態位」)"
+
+msgid "Grassland"
+msgstr "草原"
+
+msgid "Having healthy interactions..."
+msgstr "有健康的互動..."
+
+msgid ""
+"Correct! A pond, forest, and grassland are all ecosystems. Different animals "
+"live in each ecosystem with their own environment and interactions."
+msgstr ""
+"正確！水池、森林、草地都是生態系。在這些生態系中，多種不同的動物共同生活在生"
+"態系中並與各自的環境進行交互作用。"
+
+msgid ""
+"Not quite! A pond, forest, and grassland are all ecosystems. Different "
+"animals live in each ecosystem with their own environment and interactions. "
+"A niche is not an ecosystem. A niche is how an organism responds to the "
+"environment."
+msgstr ""
+"不大對喔！水池、森林、草地都是生態系。在這些生態系中，有多種不同的動物共同生"
+"活在生態系中並與各自的環境進行交互作用。但是，「生態位」並不是一個生態系──生"
+"態位，指的是只有一種生物物種和環境進行互動而已。"
+
+# 18
+msgid "Quiz Question #3"
+msgstr "小測驗＃3"
+
+msgid "Predators are important to their prey because:"
+msgstr "掠食者對於獵物來說是很重要的，因為："
+
+msgid "A. Predators serve as food for their prey."
+msgstr "A。掠食者可以作為獵物的食物。"
+
+msgid "B. Predators seldom consume prey for food."
+msgstr "B。掠食者很少以獵物為食。"
+
+msgid "C. Predators hide from their prey to avoid being eaten."
+msgstr "C。掠食者會躲藏起來以不被獵物發現，避免被吃掉。"
+
+msgid "D. Predators kill and eat prey, helping to control the prey population."
+msgstr "D。掠食者會獵殺並吃掉獵物，有助於控制獵物的數量。"
+
+msgid "Hunting for food..."
+msgstr "打獵獲取食物..."
+
+msgid "It's the other way around... prey are the food."
+msgstr "正好相反...獵物才是食物。"
+
+msgid "Nope! Predators always consume prey for food."
+msgstr "不對喔！掠食者是以獵物為食物，才對。"
+
+msgid "It's the other way around... prey usually hide from predators."
+msgstr "正好相反...獵物才是經常要躲藏以不被掠食者發現。"
+
+msgid "You got it! Without predators, prey population skyrocket."
+msgstr "你答對了！沒有補食者的話，獵物的數量將會暴增。"
+
+# 19
+msgid "Quiz Question #4"
+msgstr "小測驗＃4"
+
+msgid ""
+"What can you infer about a camel from the fact that it can easily live in "
+"the desert?"
+msgstr "你從駱駝可以很容易地生活在沙漠中的事實，可以推論出："
+
+msgid "It must be a very large animal."
+msgstr "它一定是一種非常大的動物。"
+
+msgid "It must eat only cacti."
+msgstr "它一定只吃仙人掌。"
+
+msgid "It must have a small habitat."
+msgstr "它的棲息地(生活範圍)一定很小。"
+
+msgid "It must survive on little water."
+msgstr "它一定是依賴少量的水就可以生存。"
+
+msgid "Riding a camel..."
+msgstr "騎騎駝..."
+
+msgid ""
+"Nope! Actually, animals that are smaller than a camel can also do well in "
+"the desert."
+msgstr "不對喔！其實，比駱駝小的動物也能在沙漠中活的很好。"
+
+msgid ""
+"Not quite! Some animals are carnivores and eat other animals. Cacti have "
+"adapted to survive in the desert, but that does not necessarily mean animals "
+"have to eat them."
+msgstr ""
+"不大對喔！有些沙漠動物是肉食性動物，它們可以吃其他動物。仙人掌雖已經適應在沙"
+"漠中生存下來，但這並不一定代表著動物就一定只吃仙人掌。"
+
+msgid "Nope! A camel's habitat is the entire desert, not such a small habitat."
+msgstr "不對喔！駱駝的棲息地(生活範圍)是整個沙漠，不是在一個小的棲息地。"
+
+msgid ""
+"Correct! The fact that a camel can thrive in the desert means it has adapted "
+"somehow to survive on little water."
+msgstr ""
+"正確！駱駝可以在沙漠中茁壯成長的事實，代表著它已經某種程度適應，用少量的水就"
+"可以生存了。"
+
+# 20
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid ""
+"When humans interact with natural systems, it's common for unexpected "
+"consequences to occur. Which of the following is the best explanation?"
+msgstr ""
+"當人類與自然系統交互作用，常會有意料之外的後果發生。下列哪一項是最好的解釋？"
+
+msgid "Humans seldom consider all possible outcomes before making decisions."
+msgstr "做決定之前，人類很少考慮所有可能的後果。"
+
+msgid ""
+"Humans always completely understand an ecosystem before we begin to change "
+"it."
+msgstr "人類總是在完全了解一個生態系之後，才會開始改變它。"
+
+msgid "Humans always consider all possible outcomes before making decisions."
+msgstr "人類總是考慮過所有可能的後果，然後才下決定。"
+
+msgid "Nature is a simple system with few hard-to-understand relationships."
+msgstr "大自然是一個簡單的系統，裡面很少難以了解的關係。"
+
+msgid "Interacting with nature..."
+msgstr "與自然交互作用..."
+
+msgid ""
+"Correct! Humans accidentally cause problems when we consider only positive "
+"outcomes of our decisions."
+msgstr ""
+"正確！當我們的決定只考慮到人類的利益時，我們就會導致出乎意料的問題發生。"
+
+msgid "Nope! Very few ecosystems are completely understood."
+msgstr "不對喔！極少數的生態系是已經被完全了解的。"
+
+msgid "Not quite! It's hard to consider all possible outcomes."
+msgstr "不大對喔！我們很難考慮到所有可能的結果。"
+
+msgid "Think again! Nature is more complex than people understand."
+msgstr "再想一想喔！大自然遠比人類所了解的要複雜得多。"
+
+# 21
+msgid "Quiz Question #6"
+msgstr "小測驗＃6"
+
+msgid ""
+"Collared doves have a black half-collar, dark feathers, and a long, white-"
+"edged tail. The graph below shows the population growth of the collared dove "
+"after it first arrived in the United Kingdom. Which of the following "
+"statements <span class='blink'>best</span> explains why the curve flattens "
+"out at the X mark?"
+msgstr ""
+"**(changed to Reindeer example)斑鳩有一個黑色半領、黑羽毛、長而具白邊的尾巴。"
+"下圖顯示了斑鳩的數量增加後，在英國第一次來到。以下哪項陳述<span "
+"class='blink'>最好</span>解釋了為什麼該曲線變平的X標記？"
+
+msgid "Predators could not catch the doves."
+msgstr "**(changed to Reindeer example)掠食者無法捉到鴿子。"
+
+msgid "Food in the environment was limited."
+msgstr "**(changed to Reindeer example)環境中的食物是有限的。"
+
+msgid "Severe winters destroyed nesting sites."
+msgstr "**(changed to Reindeer example)嚴冬摧毀築巢地。"
+
+msgid "The doves were able to find many mates."
+msgstr "**(changed to Reindeer example)斑鳩能夠找到配偶。"
+
+msgid "Collared Dove"
+msgstr "**(changed to Reindeer example)斑鳩"
+
+msgid "Population Growth Curve"
+msgstr "**(changed to Reindeer example)數量增長曲線"
+
+msgid "Year"
+msgstr "**(changed to Reindeer example)年"
+
+msgid "Number of Collared Doves"
+msgstr "**(changed to Reindeer example)斑鳩的數量"
+
+msgid "Take the last quiz question!"
+msgstr "來進行最後一個小測驗！"
+
+msgid ""
+"Nope! The curve probably flattens out because the food was limited and the "
+"birds competed to get it. If predator could not catch the doves, there would "
+"be an increase in birds."
+msgstr ""
+"**(changed to Reindeer example)不對喔！該曲線可能變得平坦，因為食物是有限的，"
+"鳥兒競爭得到它。如果掠食者無法趕上的鴿子，會有增加的鳥類。"
+
+msgid ""
+"Correct! The curve probably flattens out because the food was limited and "
+"the birds competed for the resources."
+msgstr ""
+"**(changed to Reindeer example)正確！該曲線可能變得平坦，因為食物是有限的，鳥"
+"兒爭奪資源。"
+
+msgid ""
+"Nope! If there were severe winters, it would have killed many more doves and "
+"the curve would have gone down to show a decrease."
+msgstr ""
+"v不對喔！如果有嚴重的冬天，它會殺死更多的鴿子和曲線就已經下降，顯示下跌。"
+
+msgid ""
+"Not quite! By mating the doves would have increased in population, causing "
+"the curve to go up."
+msgstr ""
+"**(changed to Reindeer example)不大對喔！通過交配的鴿子會在人口有所增加，導致"
+"曲線往上走。"
+
+# 22
+msgid "Congratulations"
+msgstr "恭喜您"
+
+msgid "You've completed the Ecosystems Interactions review."
+msgstr "你已經完成了「生態系中的交互作用」單元。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中\"小練習\"和\"小測驗\"的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主控面板"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid ""
+"Reindeer were first introduced on St. Paul Island, Alaska in 1910.  The "
+"island had few mammals and no predators.  The graph on the right below shows "
+"the changes in the St. Paul reindeer population between 1910 and 1950. Which "
+"of the following statements <span class='blink'>best</span> explains why the "
+"curve peaks between 1935 and 1940?"
+msgstr ""
+"馴鹿是在1910年開始被引入美國阿拉斯加的聖保羅島。當時這島上有少數的哺乳動物而"
+"且沒有馴鹿的天敵。下圖顯示了1910年至1950年之間聖保羅馴鹿數量的變化情形。以下"
+"哪項敘述最能解釋為什麼在1940年附近的曲線達到高峰？"
+
+msgid "Predators caught more and more deer."
+msgstr "掠食者捕捉越來越多的馴鹿。"
+
+msgid "Young deer found abundant food sources."
+msgstr "年輕的馴鹿找到了豐富的食物來源。"
+
+msgid "Severe winters destroyed deer shelters."
+msgstr "嚴冬摧毀馴鹿的棲息處所。"
+
+msgid "The deer were unable to find many mates."
+msgstr "馴鹿無法找到配偶。"
+
+msgid ""
+"Not really... if more deer were caught and killed, there would be a decrease "
+"in the population, not an increase."
+msgstr "不對喔！如果有更多的馴鹿被捕殺，馴鹿的數量應該是減少而不是增加。"
+
+msgid ""
+"Correct! Young deer managed to find a lot of food, so they grew in "
+"population over those years. That food source may not have lasted after 1940."
+msgstr ""
+"正確！年輕的馴鹿設法找到大量的食物，所以它們在這些年間，數量繼續增多。不過，"
+"這些食物來源在1940年後可能並沒有持續。"
+
+msgid ""
+"Not really... if deer shelters were destroyed, it would lead to deer dying "
+"in the severe winters. This would decrease the deer population."
+msgstr ""
+"不必然是這樣喔！如果馴鹿棲息處被摧毀所，這會導致馴鹿死在嚴冬。這將導致馴鹿的"
+"數量減少。"
+
+msgid ""
+"Not really... if deer couldn't find mates, they wouldn't have more "
+"offspring. This would make the deer population stay the same until the old "
+"deer died."
+msgstr ""
+"不對喔！如果馴鹿找不到配偶，它們便不會有更多的後代。這將使馴鹿的數量保持不"
+"變，直到老鹿死了。"

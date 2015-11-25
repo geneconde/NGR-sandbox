@@ -1,0 +1,1478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: how animals respond\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-24 17:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+#. Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Check answer"
+msgstr "查看答案"
+
+#. 運動員收到一個打擊頭部，導致他失去意識了幾分鐘。...
+msgid "Read more"
+msgstr "繼續閱讀"
+
+msgid "How Animals Respond"
+msgstr "動物如何產生反應的"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "More core ideas... about how animals respond"
+msgstr "更多核心觀念...關於「動物如何反應」"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+#. 1
+msgid "Welcome to How Animals Respond review"
+msgstr "歡迎來到「動物是如何反應」單元"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "我們開始囉！"
+
+#. 2
+msgid "Thinking about... how animals respond"
+msgstr "想一想... 動物如何反應的"
+
+msgid ""
+"Did you ever wonder how we scream when we are scared and eat when we are "
+"hungry? Did you learn that in school? What about how to solve a math "
+"problem? How did you learn to do that?"
+msgstr ""
+"你有沒有想過當我們害怕的時候，是如何發出尖叫？餓了，又是如何進食？你在學校裡"
+"有學過那些事嗎？還有你有學過，如何解決一個數學問題？你是怎麼學會的呢？"
+
+msgid ""
+"People and animals are able to respond to their environments in some "
+"manner.  When we sense external danger or internal hunger we respond. "
+"Animals have brains or structures that allow them to sense the world around "
+"them, and sometimes even remember and learn as well."
+msgstr ""
+"人和動物都能夠以某種方式對它們的環境進行「反應」。當我們查覺到外來的危險或內"
+"在的飢餓，我們會作出反應。動物也有大腦或相近的組織，所以它們能夠感應周圍的世"
+"界，有時候更可進一步獲得記憶和學習。"
+
+msgid ""
+"Nerve cells and tissues are similar in all animals, having many structures "
+"in common.  Information is transmitted from place to place using a system of "
+"electricity and chemistry. This information may be used to form complex "
+"networks of neural cells, or even to stimulate muscles to move the organism "
+"in useful ways."
+msgstr ""
+"所有的動物的神經細胞和組織都很相似，有著許多共同結構。信息從一個地方傳輸到另"
+"一個地方是使用一種類似電能和化學的系統。此信息可被複雜的神經細胞網絡所使用，"
+"甚至此信息可被用來刺激肌肉，使生物體產生有用的運動。"
+
+msgid "Are you ready, "
+msgstr "你準備好了嗎，"
+
+#. 3
+msgid "Checking what you already know... about how animals respond"
+msgstr "看看你了解了多少…關於「動物如何反應」"
+
+msgid ""
+"Click on <span class='blink'>all</span> the changes in the right column you "
+"think the events in the left column are causing."
+msgstr ""
+"下列各題中，都有一個敘述和圖片，請問這會造成哪些現象。請點擊右方選項中的"
+"<span class='blink'>所有</span>正確答案。"
+
+msgid "A child touches his finger to a hot pan, just off the stove."
+msgstr "一個小孩用他的手指頭觸碰剛離開爐子的熱鍋。"
+
+msgid "A nerve impulse is sent immediately to his brain."
+msgstr "神經信息立即被發送到他的大腦。"
+
+msgid "He drifts gently into peaceful slumber."
+msgstr "他慢慢地進入熟睡。"
+
+msgid "He withdraws his hand, crying out in pain."
+msgstr "他縮回他的手，痛的哭了。"
+
+msgid "A nerve cell transmits a chemical message to a muscle."
+msgstr "神經細胞傳遞化學的信息到肌肉。"
+
+msgid "Muscle cells contract, causing a bone to move."
+msgstr "肌肉細胞收縮，導致骨頭和手的移動。"
+
+msgid "The brain relates the smell to a previous experience."
+msgstr "大腦將聞到的氣味和以前的經驗建立連結。"
+
+msgid "The image is interpreted by cells in the front of the brain."
+msgstr "圖像是由位於大腦前方的細胞進行解讀。"
+
+msgid ""
+"An athlete receives a blow to the head, causing him to lose consciousness "
+"for a few minutes."
+msgstr "一個運動員的頭部受到重擊，導致他失去了幾分鐘的知覺。"
+
+msgid "Part of the brain is compressed."
+msgstr "大腦的一部分受到壓縮。"
+
+msgid "Some memories may be lost or confused."
+msgstr "有些記憶可能會喪失或是混淆。"
+
+msgid "He is at higher risk for further brain injuries."
+msgstr "他還有進一步腦損傷的較高風險。"
+
+msgid ""
+"When a nerve cell transmits a chemical message to a muscle, muscle cells "
+"contract, causing a bone to move. When someone receives a blow to their "
+"head, part of their brain is compressed, some memories might be lost or "
+"confused, and the person will be at higher risk for other brain injuries. "
+"When a child touches his finger to a hot pan, a nerve impulse is sent "
+"immediately to his brain, causing him to withdraw his hand. Read on to learn "
+"more about how animals respond."
+msgstr ""
+"當神經細胞傳送化學信息到肌肉，肌肉細胞收縮，引起骨頭(肢體)的動作。當人的頭部"
+"受到重擊，他們的大腦的一部分將被擠壓，有些記憶可能會喪失或混淆，而且他還可能"
+"還有腦部損傷的風險。當一個孩子手指碰到熱鍋，神經刺激被立即傳送到他的大腦，使"
+"他收回他的手。現在，請你繼續閱讀，以了解更多關於動物如何反應的。"
+
+msgid "Cold and flu"
+msgstr "感冒和流感"
+
+msgid "Wearing oven mitts..."
+msgstr "為什麼帶上隔熱手套呢..."
+
+#. 4
+msgid "Reviewing core ideas... about how animals respond"
+msgstr "回顧核心觀念... 「動物如何反應」"
+
+msgid ""
+"Your body has a network that works like the network for cell phones. "
+"Messages are sent and received - from phone to phone, and to and from the "
+"body and the brain. A group of sensitive cells somewhere in your body is "
+"stimulated by something from the outside world. These nerve cells respond by "
+"generating a tiny electrical signal which is sent through a series of very "
+"long nerve fibers to the brain. Once in the brain, the signal is "
+"retransmitted and interpreted by the brain's many regions. The sensation may "
+"be related to sight, sound, smell, taste, or touch."
+msgstr ""
+"你的身體有一種網絡，它運行的方式類似手機網絡。手機網絡中，訊息在從手機和手機"
+"之間被發送和接收；身體網絡中，當身體中的感應細胞受到外界刺激，感應細胞會發出"
+"微小電流信號通過一系列非常長的神經纖維傳向大腦。信號一旦在大腦中，還會被傳遞"
+"到腦中的許多區域進行解讀。人體的感覺可以是視覺、聽覺、嗅覺、味覺、或觸摸等"
+"等。"
+
+msgid ""
+"A <span class='key'>stimulus</span> is any physical or chemical change that "
+"stimulates the nervous system. After the brain makes sense of the stimulus, "
+"it responds. A <span class='key'>response</span> is an organism's reaction "
+"to a stimulus. The brain responds by creating a memory and often sending a "
+"response signal out to the body. The response works similar to the stimulus, "
+"only in reverse. An electrical signal goes out through nerve fibers to "
+"muscles where it sends a chemical message causing muscle cells to contract."
+msgstr ""
+"<span class='key'>刺激</span>指的是會導致生物體的神經系統受到任何物理或化學因"
+"素激發的現象。大腦查覺刺激物後，會產生相對的反應；而，<span class='key'>反應"
+"</span>指的則是一個生物體對刺激的回應。大腦的反應，可能是記憶的形成或者輸出信"
+"號到人體。至於，「反應」的工作原理類似於「刺激」，只是方向相反罷了。信號傳導"
+"都會透過神經纖維到肌肉，在肌肉那裡它會發送一個化學信號造成肌肉細胞收縮。"
+
+msgid ""
+"The cells that make up the nervous system are called <span "
+"class='key'>neurons</span>. They are organized into networks known as the "
+"central and peripheral nervous systems. The <span class='key'>central "
+"nervous system</span> is the brain and spinal cord. The <span "
+"class='key'>peripheral nervous system</span> is all of the many nerve cells "
+"throughout the body that connect to the spinal cord. The central nervous "
+"system is responsible for interpreting and responding to stimuli. The "
+"peripheral nervous system is responsible for sensing our environment and "
+"stimulating muscles to act when called upon."
+msgstr ""
+"構成神經系統的細胞被稱為<span class='key'>神經元</span>。所有神經元被連結並形"
+"成中樞和末梢神經系統。中樞神經系統是大腦和脊髓；末梢神經系統是所有連接到脊髓"
+"的神經細胞。中樞神經系統負責解讀和回應刺激；末梢神經系統負責感應環境並刺激肌"
+"肉。"
+
+msgid ""
+"The cells of the peripheral nervous system are also divided into two groups."
+msgstr "末梢神經系統的細胞也分為兩組。"
+
+msgid ""
+"The neurons that take information from the brain and stimulate responses "
+"throughout the body are called <span class='key'>motor neurons</span>."
+msgstr ""
+"「<span class='key'>運動神經元</span>」，指的是那些能讀取大腦傳來的信息進而刺"
+"激我們的身體產生反應的神經元。"
+
+msgid "Sight"
+msgstr "視力"
+
+msgid "Smell"
+msgstr "嗅覺"
+
+msgid "Touch"
+msgstr "觸摸"
+
+msgid "Taste"
+msgstr "味覺"
+
+msgid "Hearing"
+msgstr "聽力"
+
+msgid "Adjusting microscope lenses.."
+msgstr "調整顯微鏡的鏡頭..."
+
+#. 5
+msgid ""
+"Question A. A muscle is stimulated to contract by which of the following?"
+msgstr "問題A. 肌肉的收縮，是由下列各刺激中的哪一個選項所引起的呢？"
+
+msgid "Sensory neuron"
+msgstr "感覺神經元"
+
+msgid "Motor neuron"
+msgstr "運動神經元"
+
+msgid "Sensory neurons"
+msgstr "感覺神經元"
+
+msgid "Motor neurons"
+msgstr "運動神經元"
+
+msgid "Digestive system"
+msgstr "消化系統"
+
+msgid "Dermal layer"
+msgstr "真皮層"
+
+msgid ""
+"Question B. Cells in the eye are considered to be part of which nervous "
+"system?"
+msgstr "問題B. 眼睛的細胞被認為是神經系統的哪一部分？"
+
+msgid "The peripheral system because it includes sensory functions."
+msgstr "末梢系統因為它包括感觀功能。"
+
+msgid "The central system because it includes sensory functions."
+msgstr "中樞系統因為它包括感觀功能。"
+
+msgid "The mechanical nervous system because it includes muscles."
+msgstr "機械神經系統因為它包括肌肉。"
+
+msgid "The skeletal nervous system because eyes contain no bones."
+msgstr "骨骼神經系統因為眼睛不包含骨頭。"
+
+msgid "Close! But sensory neurons aren’t connected to muscles."
+msgstr "答錯囉！感觀神經元並沒有連接到肌肉。"
+
+msgid "Correct! Motor neurons send the signal for muscles to contract."
+msgstr "正確！運動神經元發出信號導致肌肉收縮。"
+
+msgid "Sorry. The digestive system has muscles, but doesn’t stimulate them."
+msgstr ""
+"抱歉，你答錯囉！消化系統具有肌肉，但是肌肉的收縮並不是由消化系統直接刺激的。"
+
+msgid "Nope. The dermal layer is part of the skin."
+msgstr "不對喔！真皮層是皮膚的一部分。它不直接刺激肌肉造成收縮的。"
+
+msgid "Right! Sensory organs belong to the peripheral nervous system."
+msgstr "正確！感觀器官屬於末梢神經系統。"
+
+msgid "Sorry. The central nervous system has no sensory cells."
+msgstr "抱歉。中樞神經系統沒有感觀細胞。"
+
+msgid "Nope. There is no mechanical nervous system."
+msgstr "不對喔！沒有所謂機械性的神經系統。"
+
+msgid "Incorrect. We don’t have a skeletal nervous system."
+msgstr "不正確！沒有所謂的骨骼神經系統。"
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習！"
+
+#. 6
+msgid "The nervous system is sensitive to three different types of stimuli."
+msgstr "神經系統能察覺三種不同類型的「刺激」。"
+
+msgid ""
+"<span class='key'>Mechanical stimuli</span> include anything that causes a "
+"sensation of touch, pain, sound, or temperature."
+msgstr ""
+"<span class='key'>機械性刺激</span>，指的是能引起包括任何：碰觸、疼痛、聲音、"
+"冷熱感覺的刺激。"
+
+msgid ""
+"<span class='key'>Chemical stimuli</span> are molecules in our environment "
+"that make us sense taste or smell."
+msgstr ""
+"<span class='key'>化學性刺激</span>指的是讓我們感覺到環境中味道或氣味的化學分"
+"子。"
+
+msgid ""
+"The third type of stimuli our nervous system is sensitive to is called <span "
+"class='key'>electromagnetic stimuli</span>."
+msgstr ""
+"<span class='key'>電磁波刺激</span>，指的是由例如光線所引起的刺激，光線和其他"
+"的一些電波都是電磁波。我們的神經系統也能察覺這種電磁波刺激。"
+
+msgid ""
+"Our eyes are able to perceive part of the electromagnetic spectrum, that "
+"portion we call <span class='key'>visible light</span>."
+msgstr ""
+"我們的眼睛能夠收到電磁光譜範圍中的一部分，該部分我們稱之為<span class='key'>"
+"可見光</span>。"
+
+msgid ""
+"Neurons sensitive to touch, pain, and temperature are located over most "
+"parts of our bodies, but some are concentrated in certain structures. A "
+"<span class='key'>receptor</span> is a nerve cell that is sensitive to "
+"chemical stimuli based on shape."
+msgstr ""
+"對碰觸、疼痛和溫度能有所感應的神經元，遍佈在我們的身體表面；不過有一些神經元"
+"是集中在某些身體的構造中。<span class='key'>接受器</span>是一個神經細胞，它接"
+"受特定形狀的化學物質產生的刺激。"
+
+msgid ""
+"Temperature receptors are concentrated in the head, while touch receptors "
+"are concentrated in the fingers. Few touch receptors are found in the back, "
+"while pain receptors are distributed fairly evenly throughout the body."
+msgstr ""
+"溫度接受器主要集中在頭部，而觸覺接受器主要集中在手指。很少有觸覺接受器被發現"
+"在背後，而痛覺接受器相當均勻的分佈在全身。"
+
+msgid ""
+"Our ears are sensitive to disturbances in the air, water, or solid surfaces "
+"around us."
+msgstr "耳朵能查覺我們身邊的空氣、水、或者固體表面的振動。"
+
+msgid ""
+"Sound is the result of vibrations set up in a substance that are transmitted "
+"from one point to another."
+msgstr "聲音的產生，是因為物體上的振動從一個點傳到另一個點的結果。"
+
+msgid ""
+"These vibrations are picked up by our eardrums and then transmitted through "
+"three very small bones and into the fluids of a structure called the cochlea."
+msgstr ""
+"這些外界的振動會被耳膜接收，然後通過三個非常小的骨頭和一個裝著液體的結構── 這"
+"稱為「耳蜗」。"
+
+msgid ""
+"Special touch receptors here transmit the pattern of vibration to the brain "
+"as an electrical signal."
+msgstr "這裡有一種特殊的觸覺接收器將振動的樣式轉變成電子信號傳向大腦。"
+
+msgid "The brain interprets the pattern as sound."
+msgstr "大腦隨後就將這些電子信號解讀，成為聲音。"
+
+msgid ""
+"Smell and taste are both the result of chemical stimulation. The "
+"characteristics of molecules in nature are largely determined by their "
+"shapes."
+msgstr ""
+"嗅覺和味覺都是化學刺激的結果。在自然界中分子的特性大部分取決於它們的形狀。"
+
+msgid ""
+"Humans perceive taste thanks to structures on our tongues called <span "
+"class='key'>taste buds</span>."
+msgstr ""
+"人類用嘴能嚐到味道，就是味覺。 這要感謝我們的舌頭裡的一種結構，稱為味蕾。"
+
+msgid ""
+"Between 2000 and 5000 taste buds are located on a typical person’s tongue. "
+"Each taste bud has 50 - 100 taste receptor cells."
+msgstr "人的舌頭上有2000到5000個味蕾。每個味蕾有50 – 100個味覺接受器細胞。"
+
+msgid ""
+"A taste bud is stimulated when molecules fit correctly into open spaces on "
+"the receptor cells."
+msgstr "當分子正確的跟接受器細胞結合時，味蕾就感受到刺激。"
+
+msgid ""
+"There are five different sorts of taste: sweet, sour, bitter, salty, and "
+"umami. Most people can associate sweet, sour, bitter, and salty with some "
+"familiar food. Umami, the least well-known, is a flavor associated with "
+"various meats and Asian foods."
+msgstr ""
+"有五種不同種類的味道：甜、酸、苦、鹹、鮮味。大多數人可以將甜、酸、苦、鹹與自"
+"己熟悉的食物聯想在一起。而鮮味，它是最少人知道的，它是一種肉類和亞洲的食品相"
+"關的一種風味。"
+
+msgid ""
+"Smell receptors work in a similar manner but are concentrated in the nose "
+"and work for molecules suspended in the air."
+msgstr ""
+"氣味接受器也是和味覺接受器有相近的模式，但都集中在鼻子，可以感應懸浮在空氣的"
+"分子。"
+
+msgid ""
+"Much of what we understand as flavor is actually a combination of taste and "
+"smell combined and interpreted by the brain together."
+msgstr "許多我們所理解的味道其實是味覺和嗅覺的結合，由大腦一起解讀。"
+
+msgid "Mechanical and chemical stimuli"
+msgstr "機械性...和化學性...的刺激..."
+
+#. 7
+msgid "Question A. Why do different types of food have different flavors?"
+msgstr "問題A. 為什麼不同種類的食物有不同的味道？"
+
+msgid "All kinds of food are made of molecules with the same shape."
+msgstr "各種食品都由具有相同形狀的分子而組成。"
+
+msgid "Food molecules come in many different shapes."
+msgstr "不同食物中的食物分子，形狀不同。"
+
+msgid "Spicy food often has a strong aroma."
+msgstr "辛辣的食物往往具有很強的氣味。"
+
+msgid "The electromagnetic spectrum contains all known colors."
+msgstr "電磁光譜中包含所有已知的顏色。"
+
+msgid ""
+"Question B. Why are dogs able to distinguish many more smells than people?"
+msgstr "問題B. 為什麼狗比人能分辨出更多的氣味？"
+
+msgid "Dogs have many fewer smell receptors than people."
+msgstr "狗的氣味接收器比人要少。"
+
+msgid "People have many more smell receptors than dogs."
+msgstr "人的氣味接受器比狗更多。"
+
+msgid "Dogs have many more smell receptors than people."
+msgstr "狗的氣味接受器比人更多。"
+
+msgid "Dogs and people have about the same number of smell receptors."
+msgstr "狗和人的氣味接受器的數目大概相同。"
+
+msgid ""
+"No. If all food molecules were the same shape, they would all taste the same."
+msgstr "不對喔！如果所有的食物分子都是相同的形狀，他們所有的味道將會都一樣。"
+
+msgid "That’s right! Each molecule shape stimulates receptors differently."
+msgstr ""
+"答對了！的確，不同食物中，它的分子形狀不同。不同形狀的分子刺激的接受器不同，"
+"所以感覺到味道不同。"
+
+msgid "While this is often true, it doesn’t directly cause taste differences."
+msgstr "雖然的確常是這樣，但這不能算是不同食物會有不同味道的原因。"
+
+msgid "Um... No... We don’t taste colors."
+msgstr "嗯...不...我們不會去嚐顏色。"
+
+msgid "Nope. This would make dogs less sensitive than people."
+msgstr "不對喔！這將使狗比人更不靈敏。"
+
+msgid "Sorry. This would make people more sensitive than dogs."
+msgstr "抱歉。這將使人比狗更靈敏。"
+
+msgid "Right! Dogs have many more smell receptors."
+msgstr "沒錯！狗有較多的氣味接受器。"
+
+msgid "Incorrect. We would be about equally sensitive."
+msgstr "不正確喔！如果真的是這樣的話，那我們不就應該和夠一樣靈敏了嗎？"
+
+msgid "Slurps and sniffs"
+msgstr "吃一吃...聞一聞..."
+
+#. 8
+msgid ""
+"In the movies, Superman had X-ray vision... Crazy? Maybe not as much as it "
+"sounds..."
+msgstr "在電影中，超人有X光的視覺...瘋狂嗎？也許並不瘋狂喔..."
+
+msgid ""
+"X-rays are a part of the electromagnetic spectrum, a wide range of energy "
+"that is emitted by stars, and by many everyday things we take for granted. "
+"Cell phones communicate using radio, a form of electromagnetic radiation. "
+msgstr ""
+"X射 線是電磁光譜的一部分，它是一種範圍的能量(請 見下圖)， 它是由恆星或我們熟"
+"知的一些機器所發出來的。而無線電波，它也是電磁光譜的一種，它常被用在手機通信"
+"上。"
+
+msgid ""
+"Television uses another form. We heat our foods using microwaves - yet "
+"another type of electromagnetic radiation. In fact, you are using this "
+"radiation right now as you read this screen. The colors of our visible "
+"spectrum are also a part of the electromagnetic spectrum."
+msgstr ""
+"我們使用微波加熱我們的食物── 這是另一種電磁輻射。事實上，當你現在閱讀這一個畫"
+"面時，你也正在使用輻 射，2. 我 們的可見光譜中的顏色也是電磁光譜的一部分(請 見"
+"下圖)。"
+
+msgid "Radio waves"
+msgstr "無線電波"
+
+msgid "Microwave"
+msgstr "微波"
+
+msgid "Infrared"
+msgstr "紅外線"
+
+msgid "Ultraviolet"
+msgstr "紫外線"
+
+msgid "X-Rays"
+msgstr "X射線"
+
+msgid "Gamma Rays"
+msgstr "伽瑪射線(γ-射線)"
+
+msgid "Visible Light"
+msgstr "可見光"
+
+msgid ""
+"Our eyes contain four types of light-sensitive sensory neurons. Located in "
+"the <span class='key'>retina</span> (inner surface at the rear of the eye), "
+"they respond to different types of light. <span class='key'>Rods</span> are "
+"neurons that sense brightness. Intense light is perceived as white and dim "
+"light as shades of gray ending in black."
+msgstr ""
+"我們的眼睛包含四種「光敏感的感覺神經元」，它們都位於<span class='key'>視網膜"
+"</span>中（在眼睛後部的內側表面）。他們對不同類型的光產生反應。其中第一種稱"
+"為， <span class='key'>視桿細胞</span>，它是對亮度產生反應的神經元── 強烈的光"
+"線被認為是白色、昏暗的燈光為灰色、甚至是黑色。"
+
+msgid "Hover your mouse on the image to view the different parts of the eye."
+msgstr "移動鼠標在圖像上可以看到眼睛的不同部分。"
+
+msgid "Pupil"
+msgstr "瞳孔"
+
+msgid "Lens"
+msgstr "水晶體"
+
+msgid "Iris"
+msgstr "虹膜"
+
+msgid ""
+"There are three types of cells called <span class='key'>cones</span>. Each "
+"is sensitive to one of three colors: blue, red, and green. The color image "
+"we see in our minds is the product of an amazingly complex set of "
+"information about the intensities of all different kinds of light entering "
+"our eyes."
+msgstr ""
+"另外，還有三種的「對光敏感的感覺神經元」，它們是分別能察覺藍、紅、綠三種顏色"
+"的三種<span class='key'>視錐細胞</span>。我們在腦中看到的彩色圖像，是一個進入"
+"我們的眼睛的這三種顏色光線所產生的綜合信息。"
+
+msgid ""
+"Light enters the eye through the pupil. When light is very intense, the iris "
+"responds by expanding, narrowing the pupil opening. This allows less light "
+"to enter the eye, protecting its sensitive sensory neurons."
+msgstr ""
+"光線進入眼睛通過瞳孔。當光線十分強烈時，虹膜會擴大、瞳孔會縮小。這會讓較少的"
+"光進入眼睛，保護敏感的感覺神經元。"
+
+msgid ""
+"The lens focuses a light image on the retina, where rods and cones are "
+"located. Because light passing through a lens is inverted, the image on our "
+"retinas appears to be upside down and backwards."
+msgstr ""
+"水晶體能將物體的圖像聚焦在視網膜上，視網膜的表層則有視桿細胞和視錐細胞。因為"
+"光線穿過水晶體後光束會被反轉，因此在我們的視網膜上的圖像是上下顛倒的。"
+
+msgid ""
+"Our brains are able to take this information, along with all of the color "
+"information, and create an image that makes sense with our surroundings."
+msgstr ""
+"我們的大腦能夠接收這些資訊，再加上所有的顏色信息，經過整合建構後，就成為我們"
+"能“看到”的一個圖像。"
+
+msgid ""
+"The ability to see a clear image depends on having the proper distance "
+"between the lens and retina. This distance is called the focal length. A "
+"person whose eye diameter isn't quite as long as normal sees a fuzzy image "
+"because the focal length is too long. He is said to be farsighted."
+msgstr ""
+"看到清晰圖像的能力取決於水晶體和視網膜之間的適當距離，該距離被稱為焦距。如果"
+"一個人的眼球直徑比正常的要短，看到的將只是模糊的影像；這種情況，因為焦距太"
+"長。他就被稱作是遠視(請參考右圖)。"
+
+msgid ""
+"A person whose eye diameter is longer than normal sees a fuzzy image because "
+"the focal length is too short. She is said to be nearsighted. Both of these "
+"conditions are treated with glasses or lenses outside the body, which "
+"correct the focal lengths to form images properly on the retina."
+msgstr ""
+"如果一個人的水晶體直徑比正常的還長，也會看到一個模糊的形象；因為，此時焦距太"
+"短，她就被稱為是近視(請參考左圖)。以上這兩個情況都可用眼鏡來矯正，眼鏡── 這身"
+"體外部的鏡片，會校正光線成相的焦距，讓形成的圖像正好在視網膜上出現。"
+
+msgid "Loading x-ray vision..."
+msgstr "強化視力..."
+
+#. 9
+msgid "Select the statement below to choose answer."
+msgstr "選擇下面的語句來選擇答案。"
+
+msgid ""
+"Question A. Which of the following statements is <span class='blink'>NOT</"
+"span> correct about how our eyes sense our surroundings."
+msgstr ""
+"問題A. 以下哪一個敘述中，<span class='blink'>不是</span>我們眼睛查覺外在的環"
+"境的正確敘述。"
+
+msgid "Visible light is part of the electromagnetic spectrum."
+msgstr "可見光是電磁光譜的一部分。"
+
+msgid "Light enters the eye through the pupil."
+msgstr "光線透過瞳孔進入眼睛。"
+
+msgid "Our eyes have rods to sense color and cones to sense intensity."
+msgstr "我們的眼睛有：視桿細胞感應色彩、視錐細胞感覺強度。"
+
+msgid "Our eyes have cones to sense color and rods to sense intensity."
+msgstr "我們的眼睛有：視錐細胞感應色彩、視桿細胞感覺強度。"
+
+msgid ""
+"Question B. Among people who wear glasses, people who are farsighted have "
+"very different lens shapes than people who are nearsighted. Which statement "
+"best accounts for this difference?"
+msgstr ""
+"問題B. 帶眼鏡的人中，遠視者跟近視眼者的鏡片形狀有很大不同。下列哪一個陳述最能"
+"解釋這種差異？"
+
+msgid "Farsighted people have eye diameters shorter than nearsighted people."
+msgstr "遠視者水晶體直徑比近視者要短。"
+
+msgid "Farsighted people have eye diameters longer than nearsighted people."
+msgstr "遠視者水晶體直徑比近視者要長。"
+
+msgid "Farsighted people have fewer rods than nearsighted people."
+msgstr "遠視者比近視者有較少的視桿細胞。"
+
+msgid "Farsighted people have more rods than nearsighted people."
+msgstr "遠視者比近視者有較多的視桿細胞。"
+
+msgid "This one is correct. Light is part of the electromagnetic spectrum."
+msgstr "這一個是正確的。光的電磁頻譜的一部分。"
+
+msgid "Try again. Light does enter the eye through the pupil."
+msgstr "不對喔，這敘述是正確的。光就是由瞳孔進入眼內的。請再試一次！"
+
+msgid "Correct. Rods sense intensity and cones sense color."
+msgstr ""
+"你選對了，這一個敘述是錯誤的！的確是，視桿細胞感應強度、視錐細胞感應色彩。"
+
+msgid "No... This is correct. Cones sense color and rods sense intensity."
+msgstr "不對喔，這敘述是正確的。視錐細胞會感應色彩，而視桿細胞感應光強度。"
+
+msgid ""
+"You got it! This causes the image to be not properly focused on the retina."
+msgstr "你答對了！這使得圖像不能被準確地聚焦在視網膜上。"
+
+msgid "Nope. People with longer eye diameters are nearsighted."
+msgstr "不對喔！人的水晶體直徑過長的是近視眼。"
+
+msgid ""
+"Sorry. Both nearsighted and farsighted people have about the same numbers of "
+"rods."
+msgstr "抱歉，不對喔！近視和遠視者，有差不多相同數目的視桿細胞。"
+
+msgid ""
+"Incorrect. Both nearsighted and farsighted people have about the same "
+"numbers of rods."
+msgstr "不對喔！近視和遠視者有差不多相同數目的視桿細胞。"
+
+msgid "Glasses are for eyes"
+msgstr "眼鏡是什麼..."
+
+# 原文。
+# 記憶是類似詩歌和歌曲的東西。記憶塑造了我們周圍的人與世界和我們的關係。他們可以給我們帶來強烈的感受;讓我們記住微小的細節，或者他們可能很難記住。我們隨時在形成新記憶，而且，有時候，就像考試的日子，我們靠記憶去解決問題。
+#. 10
+msgid ""
+"Memories are the stuff of poems and song. They shape our relationships with "
+"other people and the world around us. They can bring on strong feelings; "
+"make us remember tiny details; or they can be hard to hold on to. We form "
+"new memories all the time, and, sometimes, like on test days, we are "
+"challenged to repeat them to solve problems."
+msgstr ""
+"「記憶」就好像是我們心中所記得的詩歌、歌曲...的那些東西，它也能描繪出我們周圍"
+"的人、世界和我們的關係。記憶可以給我們帶來強烈的感受、可以讓我們想起一些微小"
+"的細節、或者有時候，它也很難留住。我們隨時在形成新的記憶，而且，有時候，就像"
+"考試的時候，我們也會靠記憶去解決問題。"
+
+msgid ""
+"But what is a memory, anyway? A useful way to think of a memory is to think "
+"of a pattern."
+msgstr ""
+"但究竟什麼是「記憶」呢？一個回想起舊「記憶」的有用方法，就是去回想起那些事物"
+"的「樣式」。"
+
+msgid ""
+"The words printed on a page are a pattern that we recognize as information."
+msgstr ""
+"印在頁面上的字，就是我們認得的一種「樣式」；藉由這些樣式，我們才能理解它要傳"
+"達的訊息。"
+
+msgid ""
+"A video image is actually a pattern of tiny dots on a screen that we "
+"recognize as a picture."
+msgstr ""
+"螢幕圖像上的圖片，實際上是在屏幕上的小點所組成的「樣式」；藉由這些樣式，我們"
+"才能理解它要代表的訊息。"
+
+msgid ""
+"A compact disc (CD) or digital video disc (DVD) stores information as a "
+"series of tiny pits that cause light to reflect in a pattern computers can "
+"recognize."
+msgstr ""
+"光碟片(CD或DVD)將資料以一堆微小的凹點儲存，因此只要用光來照射，所得到的反射圖"
+"案就可以讓電腦識別它的「樣式」；藉由這些樣式，我們就能理解它要傳達的訊息。"
+
+msgid ""
+"In our brains, <span class='key'>memories</span> are patterns of connections "
+"between neurons."
+msgstr ""
+"在我們的大腦中的<span class='key'>「記憶」</span>，則是神經元連接的「樣式」。"
+
+msgid ""
+"These memory patterns form when cells communicate with one another. One "
+"nerve cell sends a message to another by releasing chemicals into the space "
+"between. This space is called the <span class='key'>synapse</span>. Whenever "
+"a cell communicates with another cell, their next interaction becomes "
+"quicker and easier. When this communication happens a few times, a temporary "
+"pattern is formed. We call this a <span class='key'>short-term memory</"
+"span>. When the communication happens many times, the pattern lasts a very "
+"long time. This is a <span class='key'>long-term memory</span>."
+msgstr ""
+"神經細胞之間互相溝通時，就會形成記憶。一個神經細胞要將消息傳遞到另一個細胞，"
+"必須藉由將一些化學物質分泌到神經細胞與神經細胞之間的空間來進行，這細胞間的空"
+"間被稱為<span class='key'>突觸</span>。每當一個細胞與其他細胞溝通，他們的下一"
+"個互動會變得更快，更簡單。當這種情況多發生幾次，會有一個暫時的模式出現，我們"
+"稱之為<span class='key'>短期記憶</span>；當傳遞發生了很多次後，這記憶模式會持"
+"續了很長的時間，這就是<span class='key'>長期記憶</span>。"
+
+msgid ""
+"So, how do you improve your own memory? Certainly, some people are just "
+"better able to remember details than others, but everyone can learn a few "
+"skills to improve their own memories. Bookstores have entire sections on "
+"memory improvement, and a quick Internet search brings up thousands of hits. "
+"Here are just a few simple tools:"
+msgstr ""
+"所以，你如何提高自己的記憶力呢？當然，有些人記憶力比較好；但每個人都可以學習"
+"一些方法，來提高自己的記憶。書店有一整個區域都是關於如何提升記憶的書，網絡搜"
+"尋也會有一堆出現。這裡僅提供你一些簡單的小技巧："
+
+msgid ""
+"<span class='key'>Chunking</span>: Avoid memorizing lists and random facts, "
+"and find ways to group them together. For example, when you try to remember "
+"a grocery list think of the dairy items together, the fruits together, the "
+"vegetables together, and so on."
+msgstr ""
+"<span class='key'>分組記憶</span>：當要記憶一長串、沒有規則，而顯得難以背記的"
+"事物時，你可以試著將它們分類成比較小的群組，再來記憶。例如，當你試著要記住一"
+"個到超級市場的購物清單時，你可以先把它們分組：例如，把奶類分成一組、水果一"
+"組、蔬菜一組等等。"
+
+msgid ""
+"<span class='key'>Imagery</span>: In your mind, think of the things you need "
+"to remember as being in places. Try to 'see' the dairy aisle in your mind. "
+"Try to visualize the produce section and remember where different fruits and "
+"vegetables are located."
+msgstr ""
+"<span class='key'>圖像記憶</span>記憶：在你的心中，把你要記住的東西想成圖像，"
+"有規則地放到你的腦中。例如，剛剛的記憶超市購物的例子哩，你可嘗試在心中，去“看"
+"到”乳製品的走道的景象；或者，嘗試在心中“看到”農產品的區域，然後進一步在心"
+"中“看到”要買的水果和蔬菜的擺放位置和樣子。"
+
+msgid ""
+"<span class='key'>Practice</span>: Repeat the chunked or imagined "
+"information over and over. Flash cards are handy. Make a set and use them. "
+"Explain the information to a parent or friend. Practice, and practice "
+"frequently."
+msgstr ""
+"<span class='key'>常常練習</span>：也就是要不斷練習「分組記憶」、「圖像記憶」"
+"的那些訊息和方法。小卡片可以是很方便的小工具，你可準備並使用。你也可以向父母"
+"或朋友解釋這些方法和你如何使用它們。你要持續的練習、經常的練習。"
+
+msgid ""
+"These tools, and many others, work by strengthening the connections between "
+"cells in the brain. The more often the memory pattern is exercised, the "
+"stronger it becomes, and the easier it is to use later."
+msgstr ""
+"這些小技巧── 當然，還有很多的其他方法，都能加強腦細胞間的連結而達到增進記憶的"
+"效果。記憶的樣式更被反覆練習，記憶能力就會變更強，也越容易供日後使用。"
+
+msgid "Digging through the mind palace..."
+msgstr "探索心靈深處..."
+
+#. 11
+msgid "Question A. A memory may best be thought of as..."
+msgstr "問題A. 腦裡面的「記憶」，最好被看成是..."
+
+msgid "An isolated random event."
+msgstr "一個獨立的隨機事件。"
+
+msgid "A pattern of connections between brain cells."
+msgstr "腦細胞之間的連接樣式。"
+
+msgid "A list of unrelated facts."
+msgstr "一堆不相關的事物。"
+
+msgid "The result of a frightening experience."
+msgstr "一個可怕經驗的結果。"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>not</span> a good "
+"study technique to memorize a set of facts."
+msgstr ""
+"問題B. 當要背誦一堆事物時，請問以下哪一個<span class='blink'>不是</span> 好的"
+"方法呢。"
+
+msgid "Chunking"
+msgstr "分組記憶"
+
+msgid "Imagery"
+msgstr "圖像記憶"
+
+msgid "Practice"
+msgstr "常常練習"
+
+msgid "Cramming"
+msgstr "死記"
+
+msgid "We hope not. Isolated events are hard to remember."
+msgstr "不對喔！死記的方法不太好，因為一堆不相干的事情是很難記住。"
+
+msgid "Correct. A memory is a pattern of cellular connections."
+msgstr "正確！一個「記憶」，就是細胞之間連結的一種樣式。"
+
+msgid "No... Lists of unrelated facts aren’t very useful."
+msgstr "不對喔！一堆沒有相干的事物，不是非常有用。"
+
+msgid "That may result in one type of memory, but not always a useful one."
+msgstr ""
+"這不是最正確的選項喔！雖然可怕的經驗是可能會成為某一種的記憶，但並不是一個有"
+"效的方法。"
+
+msgid "No. Breaking the material into chunks is a good idea."
+msgstr ""
+"你選錯喔，這個選項──「分組記憶」是好的小技巧。因為，先把資料分類成比較小的群"
+"組，再來記憶，比較容易。這是一個好主意。"
+
+msgid "Sorry. Creating a complex mental image is an excellent plan."
+msgstr ""
+"你選錯喔，這個選項──「圖像記憶」是好的小技巧。試著形成一個由幾個部分組成的心"
+"理圖像，是一個幫助記憶很好的方法。"
+
+msgid "Nope. Practice, practice, practice."
+msgstr "不對喔。請你練習，練習，再練習。"
+
+msgid "There you go. Cramming doesn’t work."
+msgstr "你選對了，單單死記活背是不行的。"
+
+msgid "Did you remember?"
+msgstr "你還記得嗎？"
+
+#. 12
+msgid "Using what you know... about how animals respond... to solve a problem"
+msgstr "利用你已知的知識...「動物如何反應」... 來解決問題"
+
+msgid "The Situation"
+msgstr "狀況..."
+
+msgid ""
+"Sensory receptors are located all over our bodies. We know that our visual "
+"receptors are located in our eyes, hearing in our ears, and taste on our "
+"tongues. What about the sensation of touch? We sense touch through pressure "
+"sensors. The more pressure sensors that are in an area, the more sensitive "
+"that area is to touch. The relative number of pressure sensors in an area "
+"can be determined by how close two touches can come together and feel like "
+"one touch. The closer two touches can come together and feel like two "
+"touches, the more pressure sensors there are in that area."
+msgstr ""
+"感覺接受器遍布我們的身體。我們知道，「視覺」的接收器位於我們的眼睛、「聽覺」"
+"在耳朵、「味覺」在舌頭；那麼，「觸覺」的接受器呢？我們能感應到觸摸是透過皮膚"
+"上的壓力感應器；越多壓力感應器集中在一個區域中，這個區域就對觸覺較敏感。至於"
+"某一個區域的壓力感應器數量是較多還是較少？我們可以由兩個同時給予皮膚的刺激被"
+"誤判成一個刺激點時的最小距離來決定。能辨識出兩個刺激點的距離越小，這一帶皮膚"
+"所存在的壓力感應器也就越多。"
+
+msgid "The Task"
+msgstr "你的任務"
+
+msgid ""
+"Design a study to map the concentration of pressure points at various "
+"locations on the body (e.g., different fingertips, palm, back of hand, "
+"different toes, bottom of foot, back of neck, etc.). Describe your study and "
+"report your data in a table that lists the areas studied from the most "
+"sensitive to touch to least sensitive to touch."
+msgstr ""
+"請設計一個研究，以了解人體不同部位（例如，指尖、手掌、手背、腳趾、腳的底部、"
+"頸背等等）觸覺感應器分布的集中和分散的情形。請描述你的方法，並將你的結果，從"
+"最敏感的到最不敏感的部位，以表的形式列出。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Pressure sensors"
+msgstr "壓力感應器..."
+
+#. 13
+msgid "Summarizing core ideas... about how animals respond"
+msgstr "總結核心觀念...關於「動物如何反應」的"
+
+msgid ""
+"<span class='key'>Neurons</span> (<span class='key'>nervous system cells</"
+"span>) are organized into networks known as the <span class='key'>central</"
+"span> and <span class='key'>peripheral</span> nervous systems. The central "
+"nervous system is the brain and spinal cord. The peripheral nervous system "
+"is all of the many nerve cells throughout the body that connect to the "
+"spinal cord. The cells of the peripheral nervous system are divided into "
+"<span class='key'>sensory</span> and <span class='key'>motor</span> neurons. "
+"The nervous system is sensitive to three different types of <span "
+"class='key'>stimuli</span>: <span class='key'>mechanical</span>, <span "
+"class='key'>chemical</span>, and <span class='key'>electromagnetic</span> "
+"stimuli. A <span class='key'>receptor</span> is a nerve cell that is "
+"sensitive to chemical stimuli based on shape. Special touch receptors in the "
+"ear transmit the pattern of vibration to the brain as an electrical signal. "
+"The brain interprets the pattern as sound. Smell and taste are both the "
+"result of chemical stimulation. Humans perceive taste thanks to structures "
+"on our tongues called <span class='key'>taste buds</span>. Smell receptors "
+"work much like taste receptors, but are concentrated in the nose, and work "
+"for molecules suspended in the air. Our eyes contain four types of light-"
+"sensitive sensory neurons. Located in the <span class='key'>retina</span>, "
+"they respond to different types of light. <span class='key'>Rods</span> are "
+"neurons that sense brightness. The ability to see a clear image depends on "
+"having the proper distance between the lens and retina called the focal "
+"length. <span class='key'>Memory</span> patterns form when cells communicate "
+"with one another. One nerve cell sends a message to another by releasing "
+"chemicals into the space between called the <span class='key'>synapse</"
+"span>. When this communication happens a few times, a temporary pattern "
+"known as <span class='key'>short-term memory</span> is formed. <span "
+"class='key'>Chunking</span>, <span class='key'>imagery</span>, and <span "
+"class='key'>practice</span> is how one's memory can be improved. These tools "
+"work by strengthening the connections between cells in the brain."
+msgstr ""
+" <span class='key'>視桿細胞</span>是感應亮度的神經元。看到清晰的圖像的能力是"
+"取決於晶體和視網膜之間有沒有一個適當的距離，這適當的距離稱為焦距。 <span "
+"class='key'>記憶</span>形成是由於細胞之間互相溝通。一個神經細胞要跟另一個細胞"
+"溝通，是通過釋放化學物質進入一個空間稱為<span class='key'>突觸</span>。當這種"
+"的溝通發生了幾次，被稱為<span class='key'>短期記憶</span>。 <span "
+"class='key'>分塊</span> ， <span class='key'>圖像</span> ，和<span "
+"class='key'>練習</span>是一個人的記憶是如何得以進步。這些方法，都是加強腦細胞"
+"之間的連結。"
+
+msgid "Putting it all together..."
+msgstr "整理一下囉..."
+
+#. 14
+msgid "Reviewing key vocabulary... related to how animals respond"
+msgstr "回顧主要詞彙...關於「動物如何反應」"
+
+msgid "Central nervous system"
+msgstr "中樞神經系統"
+
+msgid ""
+"The central nervous system is the brain and spinal cord. The central nervous "
+"system is responsible for interpreting and responding to stimuli."
+msgstr "中樞神經系統指的是大腦和脊髓。中樞神經系統負責解讀和回應刺激。"
+
+msgid "Chemical stimulus"
+msgstr "化學性刺激"
+
+msgid ""
+"Chemical stimuli are molecules in our environment that make us sense taste "
+"or smell."
+msgstr ""
+"「化學性刺激」指的是存在我們環境中的化學分子物質所造成的刺激，有些化學物質能"
+"觸動我們的味覺或嗅覺。"
+
+msgid "Cone"
+msgstr "視錐細胞"
+
+msgid ""
+"There are three types of cells in the eye called cones. Each cone is "
+"sensitive to one of three colors: blue, red, and green."
+msgstr "視錐細胞有三種，每一種視錐細胞對藍色、紅色和綠色的其中之一種顏色敏感。"
+
+msgid "Electromagnetic stimulus"
+msgstr "電磁刺激"
+
+msgid ""
+"Beside mechanical and chemical stimuli, the third type of stimuli our "
+"nervous system is sensitive to is electromagnetic stimulus, which includes "
+"visible light."
+msgstr ""
+"除了機械和化學刺激，第三種會引起我們的神經系統的刺激是「電磁刺激」，它包括可"
+"見光。"
+
+msgid "Mechanical Stimulus"
+msgstr "機械性的刺激"
+
+msgid ""
+"Mechanical stimuli include anything that causes a sensation of touch, pain, "
+"sound, or temperature."
+msgstr ""
+"「機械性的刺激」包括任何會引起觸感、痛覺、音感或溫感的因素。也就是，由物理性"
+"因素引起的刺激。"
+
+msgid "Memory"
+msgstr "記憶"
+
+msgid ""
+"A useful way to think of a memory is to think of a pattern. The words "
+"printed on a page are a pattern that we recognize as information. A video "
+"image is actually a pattern of tiny dots on a screen that we recognize as a "
+"picture. A compact disc (CD) or digital video disc (DVD) stores information "
+"as a series of tiny pits that cause light to reflect in a pattern computers "
+"can recognize. In our brains, memories are patterns of connections between "
+"neurons."
+msgstr ""
+"一個回想起舊「記憶」的有用方法，就是去回想起那些事物的「樣式」。印在頁面上的"
+"字，就是我們認得的一種「樣式」，藉由這些樣式，我們才能理解它要傳達的訊息；螢"
+"幕圖像上的圖片，實際上是在屏幕上的小點所組成的「樣式」，藉由這些樣式，我們也"
+"才能理解它要代表的訊息；此外，光碟片(CD或DVD)將資料以一堆微小的凹點儲存，因此"
+"只要用光來照射，所得到的反射圖案就可以讓電腦識別它的「樣式」傳達的訊息。在我"
+"們的大腦中的「記憶」，就是神經元連接的「樣式」。"
+
+msgid ""
+"The neurons that take information from the brain and stimulate responses "
+"throughout the body are called motor neurons."
+msgstr ""
+"「運動神經元」指的是那些能讀取大腦傳來的信息進而刺激我們的身體產生反應的神經"
+"元。"
+
+msgid "Neuron"
+msgstr "神經元"
+
+msgid "Neurons"
+msgstr "神經細胞(神經元)"
+
+msgid ""
+"Neurons are nerve cells. Neurons respond to a stimulus, send a tiny "
+"electrical signal to the brain, and the signal is interpreted by the brain "
+"as a response is generated."
+msgstr ""
+"「神經元」是神經細胞。當神經元受到刺激發生反應時，會發送一個微小電流訊號到大"
+"腦，當大腦解讀這信息後，同時反應也會發生。"
+
+msgid "Receptor"
+msgstr "接收器"
+
+msgid ""
+"Sensory receptors are located all over our bodies. Different sense receptors "
+"are specialized for particular kinds of information, which may be then "
+"processed and integrated by the brain, with some information stored as "
+"memories. Each sense receptor responds to different inputs (electromagnetic, "
+"mechanical, chemical), transmitting them as signals that travel along nerve "
+"cells to the brain."
+msgstr ""
+"「感覺接收器」遍布我們的身體表面。不同感覺接收器專門接收不同類型的信息，當信"
+"息接收後，傳送到大腦處理和組織，其中一些信息會存儲為記憶。當不同的感覺接收器"
+"對不同的刺激（電磁、機械、或化學刺激）做出反應，它會將這些刺激以訊號的形式透"
+"過神經細胞接連傳遞，傳播到大腦。"
+
+msgid "Retina"
+msgstr "視網膜"
+
+msgid ""
+"Located in the retina (inner surface at the rear of the eye), they respond "
+"to different types of light."
+msgstr ""
+"「視網膜」位於眼睛後部的內側表面，那裡有四種光感應神經元可感知不同類型的光，"
+"外界物體的影像會在視網膜成像。"
+
+msgid "Rod"
+msgstr "視桿細胞"
+
+msgid "Rods"
+msgstr "視桿細胞"
+
+msgid "Rods are neurons that sense brightness."
+msgstr "「視桿細胞」是用來感知亮度的神經元。"
+
+msgid ""
+"Those cells that interact with the environment to sense taste, touch, smell, "
+"vision, and sound are called sensory neurons."
+msgstr ""
+"「感覺神經元」，就是那些能查覺環境中的味道、碰觸、氣味、影像和聲音的細胞。"
+
+msgid ""
+"Those cells that interact with the environment to sense taste, touch, smell, "
+"vision, and sound are called <span class='key'>sensory neurons</span>."
+msgstr ""
+"「<span class='key'>感覺神經元</span>」，就是那些能查覺環境中的味道、碰觸、氣"
+"味、影像和聲音的細胞。"
+
+msgid "Stimulus"
+msgstr "刺激物"
+
+msgid ""
+"A stimulus is something that produces a reaction or a change. Light is a "
+"stimulus that can cause the size of the pupil in your eye to change. "
+"Sometimes rewards are used as a stimulus to cause a desired action or "
+"response. For example, your school may reward students for the numbers of "
+"books read during the school year. This reward can act as a stimulus to get "
+"students to read more books."
+msgstr ""
+"「刺激」，指的是會造成生物體有所反應或變化的事物，光的刺激可導致眼睛瞳孔大小"
+"的改變。有時候，獎賞也被用來當作刺激，以使別人進行你所希望的動作或回應，例"
+"如，你的學校為了鼓勵學生閱讀更多的書籍，因此會獎勵學生；這個獎勵可以作為刺"
+"激，讓學生讀多一點的書。"
+
+msgid "Synapse"
+msgstr "突觸"
+
+msgid ""
+"One nerve cell sends a message to another by releasing chemicals into the "
+"space between.  This space is called the synapse."
+msgstr ""
+"「突觸」是一個神經細胞跟另一個神經細胞之間的空間；要傳遞訊息時，神經細胞會釋"
+"放化學物質進入這個空間。"
+
+msgid "Response"
+msgstr "反應"
+
+msgid ""
+"A response is generated in the brain after it receives a tiny electrical "
+"signal from the neurons. The response works like the stimulus, only in "
+"reverse."
+msgstr ""
+"「反應」指的是當大腦接收到從神經元傳來的一個微小電信號後，所產生的回應。「反"
+"應」的工作原理類似於「刺激」，只是方向相反罷了。"
+
+msgid "Peripheral nervous system"
+msgstr "末梢神經系統"
+
+msgid ""
+"The peripheral nervous system is all of the many nerve cells throughout the "
+"body that connect to the spinal cord. The peripheral nervous system is "
+"responsible for sensing our environment and stimulating muscles to act when "
+"called upon."
+msgstr ""
+"「末梢神經系統」是所有連接到脊髓的神經細胞，它負責感應環境並刺激肌肉、發生動"
+"作。"
+
+msgid "Visible light"
+msgstr "可見光"
+
+msgid ""
+"Our eyes are able to perceive part of the electromagnetic spectrum, that "
+"portion we call visible light."
+msgstr "我們的眼睛能夠看到的那部分的電磁光譜，稱之為「可見光」。"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+#. 15
+msgid "Checking what you now know... about how animals respond"
+msgstr "看看你現在了解了多少…關於「動物如何反應的」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+msgid "Let's check what you now know"
+msgstr "看看知道多少..."
+
+#. 16
+msgid ""
+"Choose the <span class='blink'>incorrect</span> statement from the following."
+msgstr "選擇下列<span class='blink'>不正確</span>的敘述(單選)。"
+
+msgid "Cone cells sense light."
+msgstr "視錐細胞可以查覺到光。"
+
+msgid "Animals are not capable of learned behavior."
+msgstr "動物是不能夠學到行為的。"
+
+msgid "The brain is part of the central nervous system."
+msgstr "大腦是中樞神經系統的一部分。"
+
+msgid "Chunking is a memorization technique."
+msgstr "「分組記憶」是一個記憶的小技巧。"
+
+msgid "Sorry. Cone cells are sensitive to light."
+msgstr "你選錯囉，這敘述是對的。視錐細胞可以查覺到光。"
+
+msgid "That’s the one... Many animals certainly are able to learn."
+msgstr "你選對了，這個敘述是不正確的。...許多動物都能夠學習到行為的。"
+
+msgid "This one is true. The brain is part of the central nervous system."
+msgstr "你選錯囉，這是正確的敘述。大腦是中樞神經系統的一部分。"
+
+msgid "Nope. That’s true. Chunking is grouping similar ideas together."
+msgstr ""
+"你選錯囉，這是正確的敘述。「分組記憶」是分組來記憶較相關的事物，這是一個記憶"
+"的小技巧。"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗來囉..."
+
+#. 17
+msgid ""
+"Which of the following statements correctly explains the relationship "
+"between rod and cone cells?"
+msgstr "以下哪些選項正確地說明「視桿細胞」和「視錐細胞」之間的關係？"
+
+msgid "Rods sense black/white; cones sense color."
+msgstr "視桿細胞感覺黑色/白色；視錐細胞感覺色彩的顏色。"
+
+msgid "Rods sense heat; cones sense sound."
+msgstr "視桿細胞感覺到熱；視錐細胞感到的聲音。"
+
+msgid "Rods sense color; cones sense smell."
+msgstr "視桿細胞感覺色彩;視錐細胞感覺嗅覺。"
+
+msgid "Rods sense taste; cones sense color."
+msgstr "視桿細胞感覺味道;視錐細胞感覺色彩。"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"請向上或向下翻轉方盒子，以選擇你的答案。(點擊、按住並滑動鼠標向上或向下)"
+
+msgid ""
+"Yes! Rods and cones are sensitive to different parts of the visible light "
+"spectrum."
+msgstr ""
+"沒錯！視桿細胞是用來察覺黑色/白色(也就是光線的強弱)；視錐細胞則是用來察覺色彩"
+"的顏色。"
+
+msgid "Noooo... Rods and cones have to do with vision."
+msgstr "不，不...！視桿細胞和視錐細胞都與視覺有關。"
+
+msgid "Sorry. Both rods and cones are related to color vision."
+msgstr "抱歉，不對喔！視桿細胞和視錐細胞都與視覺有關。"
+
+msgid "Nope. Taste is chemical. Rods and cones are electromagnetic."
+msgstr "不。味道是化學性的刺激。視桿細胞和視錐細胞是用來察覺電磁刺激的。"
+
+msgid "The rod and the cone"
+msgstr "視桿和細胞視錐細胞"
+
+#. 18
+msgid ""
+"Sensory neurons respond to chemical stimuli based upon the substance's..."
+msgstr ""
+"「感覺神經元」能對化學性的刺激作出反應，是因為不同的化學刺激物具有不同的..."
+
+msgid "Age"
+msgstr "年齡"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Shape"
+msgstr "形狀"
+
+msgid "Loudness"
+msgstr "響度"
+
+msgid "Incorrect. Age isn’t really key."
+msgstr "不正確喔！年齡不是真的關鍵。"
+
+msgid "Nope. Color is related to electromagnetic stimuli."
+msgstr "不對喔！顏色是屬於電磁刺激的。"
+
+msgid ""
+"That’s it! A molecule stimulates a response when it matches shapes with a "
+"receptor."
+msgstr ""
+"你答對了！當化學分子的形狀和接受器的形狀吻合時，就能造成對接受器的刺激而引起"
+"反應。"
+
+msgid "Sorry. Loudness is related to sound."
+msgstr "不對喔！響度是與聲音有關的。"
+
+msgid "Responding to stimuli..."
+msgstr "對刺激的反應..."
+
+#. 19
+msgid ""
+"Which of the following is <span class='blink'>true</span> about sensory "
+"neurons."
+msgstr "下列哪一項是有關「感覺神經元」的<span class='blink'>正確</span>敘述。"
+
+msgid "Sensory neurons are part of the central nervous system."
+msgstr "感覺神經元是中樞神經系統的一部分。"
+
+msgid "Sensory neurons contain memories."
+msgstr "感覺神經元能儲存紀憶。"
+
+msgid "Sensory neurons stimulate muscle contraction."
+msgstr "感覺神經元能刺激肌肉收縮。"
+
+msgid "Sensory neurons are part of the peripheral nervous system."
+msgstr "感覺神經元是末梢神經系統的一部分。"
+
+msgid "Quiz Question #4 - How did I do?"
+msgstr "小測驗問題＃4 - 我答的如何？"
+
+msgid ""
+"Sorry. The central nervous system includes the brain and spinal cord only."
+msgstr "抱歉，不對喔。中樞神經系統只包括腦和脊髓。"
+
+msgid "Nope. Memories reside in the brain."
+msgstr "不對喔！「記憶」是儲存在大腦中。"
+
+msgid "Not that one. Motor neurons stimulate muscles."
+msgstr "不對喔！運動神經元才會刺激肌肉使它發生動作的。"
+
+msgid "There you go. Sensory neurons belong to the peripheral nervous system."
+msgstr "答對了！感覺神經元是末梢神經系統的一部分。"
+
+msgid "Sensory neurons..."
+msgstr "感覺神經元..."
+
+#. 20
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "The use of flashcards to study for exams works because..."
+msgstr "使用圖(字)卡來學習以準備考試常常很有用，這是因為..."
+
+msgid "Practice reinforces the connections between neurons involved in memory."
+msgstr "練習會強化神經元之間的連接。"
+
+msgid "Practice weakens the connections between neurons involved in memory."
+msgstr "練習會削弱神經元之間的連接。"
+
+msgid "Memories reside in the peripheral nervous system."
+msgstr "記憶是儲存在末梢神經系統。"
+
+msgid "Memories reside in sensory neurons related to vision."
+msgstr "記憶儲存在跟視力有關的感覺神經元。"
+
+msgid "Correct. Practice strengthens the pattern of neurons."
+msgstr "正確！練習會強化神經元之間的連接。"
+
+msgid "Backwards... Practice makes the connections stronger."
+msgstr "答錯囉！正好相反；練習會強化神經元之間的連接。"
+
+msgid "Sorry. Memories aren’t part of the peripheral nervous system."
+msgstr "抱歉，你答錯囉！記憶不是末梢神經系統負責的事情；大腦才是。"
+
+msgid "Ummm... No. Memories reside in the brain."
+msgstr "不對喔！記憶不是感覺神經系統負責的事情；記憶是儲存在大腦中的。"
+
+msgid "Flipping flashcards..."
+msgstr "快翻翻圖(字)卡..."
+
+#. 21
+msgid ""
+"Stroke victims often suffer damage to the central nervous system. Which of "
+"the conditions is likely to occur in stroke victims?"
+msgstr ""
+"中風患者經常是中樞神經系統遭受到損害。以下那些情況比較可能發生在中風病患身"
+"上？"
+
+msgid ""
+"Loss of smell because brain cells are no longer able to make sense of smell "
+"information."
+msgstr "失去嗅覺，因為腦細胞已經無法察覺氣味信息。"
+
+msgid ""
+"Difficulty speaking because the brain is no longer able to send the proper "
+"messages to muscles."
+msgstr "說話困難，因為大腦已經不再能夠發送適當的信息給肌肉。"
+
+msgid "Memory loss because memories reside in brain tissue."
+msgstr "記憶力減退，因為記憶是儲存在腦組織中。"
+
+msgid ""
+"All of the above. All information must pass through the brain. Any brain "
+"damage is very serious."
+msgstr "以上均是。所有的信息都必須經過大腦，所以任何腦部的損傷都是很嚴重的。"
+
+msgid "True... But not the only correct answer."
+msgstr "這是對的敘述，...但不是唯一正確的答案。"
+
+msgid "Correct... But there may be more correct choices."
+msgstr "這是對的敘述，...但也許還有其他正確的選項。"
+
+msgid "Yes! But there could be more right answers."
+msgstr "這是對的敘述，...但還有其他正確的答案。"
+
+msgid "Well done. Any central nervous system damage is a serious condition."
+msgstr "答的好！任何中樞神經系統損傷都會造成嚴重的傷害。"
+
+msgid "The central nervous systems"
+msgstr "中樞神經系統"
+
+#. 22
+msgid "Congratulations, "
+msgstr "恭喜您, "
+
+msgid "You've completed the How Animals Respond review."
+msgstr "你已經完成了「動物如何反應」單元的學習了。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中“小練習”和“小測驗”的表現。"
+
+msgid "How Did I Do?"
+msgstr "我答的如何呢？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"

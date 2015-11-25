@@ -1,0 +1,1432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Natural Hazards\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: zh\n"
+
+# 1
+msgid "Natural Hazards"
+msgstr "天然災害"
+
+msgid "Welcome to the Natural Hazards review"
+msgstr "歡迎您來到「天然災害」的單元"
+
+msgid "start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "我們開始囉！"
+
+# 2
+msgid "Daily News"
+msgstr "每日新聞報"
+
+msgid "Thinking about... Natural Hazards"
+msgstr "想一想…天然災害…"
+
+msgid "California home teeters on edge of cliff after landslide"
+msgstr "美國西部加州，山坡滑落，崖邊的房屋也會危危欲墜"
+
+msgid "Superstorm Hurricane Sandy Hits East Coast of the United States"
+msgstr "超級颶風珊蒂侵襲美國東海岸(註: 颱風如發生在大西洋，改稱颶風)"
+
+msgid "North Dakota residents exhausted from multiple floods"
+msgstr "美國中部- 北達科達州居民因洪水氾濫，疲憊無助"
+
+msgid ""
+"North Dakota, California, New York - it seems like no matter where you live "
+"there are some kinds of natural hazards you have to know about and be "
+"careful of. This doesn’t mean that nature is bad. Nature is just nature. But "
+"floods, and hurricanes and landslides are all a natural part of well nature. "
+"We have to understand where, how, and why these things happen; and how we "
+"can stay safe when they do. Do any natural hazards occur frequently near "
+"where you live?"
+msgstr ""
+"西部、中部、或東部 - 不管在哪裡，都要了解並留意天然災害。這並不代表大自然是不"
+"好的。大自然本身就只是大自然，我們看到的氾濫、颶風、和山坡滑落，也都是美好大"
+"自然裡面自然存在的部分。所以，我們必須了解這些災害是在哪裡發生？如何發生？以"
+"及為什麼會發生？我們更要了解，要如何才能在災害發生時，保持安全？請問，你住的"
+"地方，有天然災害經常發生嗎？"
+
+msgid "Are you ready"
+msgstr "準備好了嗎"
+
+msgid "Back"
+msgstr "回復上一步"
+
+msgid "Check answer"
+msgstr "對一下答案"
+
+msgid "Next"
+msgstr "繼續"
+
+# 3
+msgid "Checking what you know... about natural hazards"
+msgstr "你對天然災害…了解多少呢？"
+
+msgid "Which of the following statements are true?"
+msgstr "請問，下列的敘述，哪些是正確的？"
+
+msgid ""
+"Natural disasters happen very rarely and these events are just the bad luck "
+"of the people that are affected."
+msgstr "天然災害很少發生；受到這些事件影響的人，也只是因為他們的運氣不好。"
+
+msgid "Hazards are random in both time and place and just bad luck."
+msgstr "災害是不定時而且是隨處發生的。碰到了，只能算是運氣不好。"
+
+msgid ""
+"A 30-year, 100-year, or 500-year flood means that these are set time "
+"intervals between flooding events."
+msgstr ""
+"有時候報導中會提到，這次是「百年一遇的大水災」。請問這「百年一遇的大水災」指"
+"的是，下一次的洪水一定要等到一百年後才會再來。"
+
+msgid ""
+"Floods are rare, atypical, almost unnatural events rather than normal river "
+"behavior."
+msgstr "水災是少見的、反常的。根本不能算是河流的正常活動。"
+
+msgid "None of the above are true."
+msgstr "以上皆非。"
+
+msgid "Check Answer"
+msgstr "請檢查一下答案！"
+
+msgid ""
+"None of the above statements are correct. Natural disasters happen all the "
+"time around the world."
+msgstr "答案是「以上皆非」。天然災害隨時會發生在世界的各角落。"
+
+msgid "Natural hazards are not caused by bad luck."
+msgstr "天然災害並不是運氣不好所造成的。"
+
+msgid ""
+"Continue with the review and read about natural disasters and natural "
+"hazards and how scientists study them."
+msgstr "請繼續…你將可以進一步認識天然災害以及科學家是如何研究它們的！"
+
+msgid "How often do they happen?"
+msgstr "它們有多常發生呢？"
+
+# 4
+msgid "Reviewing core ideas... about natural hazards"
+msgstr "關鍵概念學習…關於天然災害…"
+
+msgid ""
+"Natural hazards are dangers that come from nature; threatening life, health, "
+"property, and the environment."
+msgstr "天然災害 是來自大自然的危險。它威脅生命、健康、財產和我們的環境。"
+
+msgid ""
+"There are many different kinds of natural hazards. Some natural hazards are "
+"related to the weather, like <span class='key'>lightning</span>, <span "
+"class='key'>hurricanes</span>, and <span class='key'>tornadoes</span>."
+msgstr ""
+"有許多不同的種類的天然災害。有些天然災害和「天氣」有關，例如：<span "
+"class='key'>閃電</span>, <span class='key'>颶風(或颱風)</span>, 和 <span "
+"class='key'>龍捲風</span>。"
+
+msgid ""
+"Some are related to just geology; like <span class='key'>earthquakes</span> "
+"and <span class='key'>volcanoes</span>."
+msgstr ""
+"有些是只和「地質」的因素有關，例如<span class='key'>地震</ span>和<span "
+"class='key'>火山爆發</span>"
+
+msgid ""
+"Many <span class='key'>natural hazards</span> and <span "
+"class='key'>disasters</span> are the result of combinations of weather and "
+"landscapes in certain areas. A landscape is the shape and features of the "
+"land."
+msgstr ""
+"許多<span class='key'>自然災害</span>是由「天氣」和「地貌」兩個因素，所共同造"
+"成的。所謂<span class='key'>地貌</span>就是地表的形狀。"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid ""
+"For instance, California gets a lot of <span class='key'>wildfires</span> "
+"because of a combination of hot dry windy weather with lots of trees and "
+"bushes and rolling hills."
+msgstr ""
+"例如，美國的加州，因為乾熱多風的氣候和許多的林木和樹叢，這裡常會發生野外的火"
+"災，也就是<span class='key'>「野火」</span>。"
+
+msgid ""
+"North Dakota gets <span class='blue'>flooding</span> almost every spring "
+"because of lots of rain and snow melting into a narrow river in a low flat "
+"river valley."
+msgstr ""
+"美國北達科達州，則因為春天時，有降雨多加上融雪流入了低平河谷，常常造成了"
+"<span class='blue'>「氾濫」</span>。"
+
+msgid ""
+"The good news is that <span class='key'>meteorologists</span>, who are "
+"weather scientists, do their best to tell us ahead of time about weather "
+"related natural hazards. This is called <span class='key'>forecasting</"
+"span>; it is another name for predicting the weather. They use all kinds of "
+"tools, their knowledge about weather, and past events that happened in the "
+"region to help people prepare for natural hazards."
+msgstr ""
+"還好，一個好消息是，<span class='key'>氣象學家</span>，也就是專門研究氣候的科"
+"學家，總是儘所能地在自然災害襲擊前告訴我們。這就是所謂的<span class='key'>預"
+"報</span>，也就是我們常說的「氣候預報」，氣象學家利用各種工具、氣象知識、以及"
+"在過去的事件，來幫助人們對自然災害作準備。"
+
+msgid ""
+"Meteorologists might forecast heavy rains and snowmelt. This will warn "
+"people to prepare for a natural flood hazard. Then the community fills sand "
+"bags to help build temporary dams to help protect houses and businesses in "
+"cities along rivers where flooding is predicted."
+msgstr ""
+"氣象學家能預報大雨和融雪，這可以提醒人們提早因應自然的洪水災害。獲得這些警告"
+"後，社區可以藉由填充沙袋、建立臨時堤壩，來保護城市的河岸可能淹水地區的住宅及"
+"商家。"
+
+msgid "Planning for emergencies..."
+msgstr "為緊急狀況作準備..."
+
+# 5
+msgid "Question A. Lightning, hurricanes, and tornadoes are a result of..."
+msgstr "問題A. 請問，閃電、颶風(或颱風)、龍捲風，是下列哪種因素所造成的呢？"
+
+msgid "Geological Features"
+msgstr "地質外觀(也就是：地殼內相關的因素)"
+
+msgid "Weather"
+msgstr "氣候"
+
+msgid "Weather and geological features combined"
+msgstr "氣候和地質外觀"
+
+msgid "Landscape Features"
+msgstr "地景外觀(也就是：地形外觀相關的因素)"
+
+msgid ""
+"Question B. An example of a natural hazard that is a result of both weather "
+"and landscape is..."
+msgstr ""
+"問題B. 下列哪一種天然災害，是由氣候和地景因素共同造成的？(註：地景因素，就是"
+"指和地形外觀，相關的因素。)"
+
+msgid "Volcano"
+msgstr "火山"
+
+msgid "Volcanoes"
+msgstr "火山"
+
+msgid "Earthquake"
+msgstr "地震"
+
+msgid "Flood"
+msgstr "洪水氾濫"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "You answered..."
+msgstr "你剛回答的是..."
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習！"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Correct. These natural hazards are related to weather."
+msgstr "正確。這些天然災害，和氣候相關。"
+
+msgid "No. Earthquakes and volcanoes are related to geology."
+msgstr "不！地震和火山爆發，才是和地質有關。"
+
+msgid ""
+"No. Wildfires and floods are related to a combination of weather and geology."
+msgstr "不！例如野火、洪水氾濫，才和氣候與地質兩個因素都有關。"
+
+msgid "Not quite. Lightning, hurricanes, and tornadoes are related to weather."
+msgstr "不對喔！雷電、颶風、颱風、龍捲風等，是和氣候因素有關。"
+
+msgid ""
+"You got it right! A flood is a result of rain and snow (weather) and the "
+"features of the land that it is trying to go into (landscape)."
+msgstr ""
+"你答對了！雨雪在地表川流時，可能造成洪水氾濫。其中雨、雪就是屬於「氣候」因"
+"素；水在地表中川流，就是屬於「地景」因素所造成。"
+
+msgid "No. Hurricanes are related to weather, not geological factors."
+msgstr "不對喔！颶風(或颱風)和氣候因素有關；和地質因素無關。"
+
+msgid "No. Volcanoes are related to geological factors, not weather."
+msgstr "不對喔！火山爆發和地質因素有關；和氣候因素無關。"
+
+msgid "No. Earthquakes are related to geological factors, not weather."
+msgstr "不！地震和火山爆發，都是與地質因素有關；不是天氣的因素喔。"
+
+# 6
+msgid "More core ideas... about natural hazards"
+msgstr "更多的關鍵概念...關於天然災害..."
+
+msgid ""
+"Natural hazards have been happening throughout history and they will "
+"continue to happen in the future. Here are some examples of natural "
+"phenomena that can be hazards if they affect people."
+msgstr ""
+"在歷史上天然災害經常存在，未來也一樣會繼續發生。下面是一些自然現現影響人類而"
+"造成的災害。(你可以點擊小箭頭喔 ！)"
+
+msgid ""
+"A big difference between now and the past is that scientists have made great "
+"progress in studying and learning about the natural hazards and their causes "
+"and this knowledge can help communities prepare for them to save lives and "
+"decrease property damage."
+msgstr ""
+"現在和以前，很大不同是，科學家們在研究天然災害和成因，取得了很大的進步。這方"
+"面的知識可以幫助社區做好準備，為他們挽救生命，減少財產損失。"
+
+msgid ""
+"To keep us safe, it is important to study the science of the natural "
+"phenomena that cause these hazards so we can understand them and predict "
+"when and where they might happen and cause trouble for people."
+msgstr ""
+"為了維護安全，我們去研究造成這些災害背後的科學，使我們能了解並預測災害會在何"
+"時、何地發生，這非常的重要。"
+
+msgid ""
+"<span class='key'>Geologists</span> are scientists that study the science of "
+"the solid parts of the earth made out of rocks and soil but also study the "
+"water in rivers and lakes too."
+msgstr ""
+"<span class='key'>地質學家</span>是一種專門研究地球固體(例如，岩石和土壤)和液"
+"體部分(例如：河流和湖泊等)的科學家。"
+
+msgid ""
+"<span class='key'>Climatologists</span> and <span "
+"class='key'>Meteorologists</span> are scientists that study the atmosphere "
+"to understand climate and weather."
+msgstr ""
+"<span class='key'>氣候學家</span>和<span class='key'>氣象學家</span>是研究大"
+"氣、氣候和天氣的科學家。"
+
+msgid ""
+"Scientists are limited as to which natural hazards they can forecast. "
+"However, the more science advances, the more tools and technology are "
+"created to help monitor and forecast what is going on in nature."
+msgstr ""
+"科學家預測天然災害的能力還是相當有限。不過，科學越進步，就有越多的工具和科技"
+"被創造出來，以助人類監測和預報大自然的運作。"
+
+msgid ""
+"But all of these scientists have to understand the whole earth together as "
+"one big system – the rocks, the water, the atmosphere, the ice, and all the "
+"living things on earth – in order to really know how it all works."
+msgstr ""
+"但是，所有這些不同的科學家都需要對整個地球有所了解。他們需把地球看為一個大系"
+"統，這個系統中，包括了 - 岩石、水、大氣、冰，還有所有地球上的生物。這樣，他們"
+"才能真正知道這一切是如何作用的。"
+
+msgid ""
+"Let’s look at one particular natural hazard and how the earth is one big "
+"system."
+msgstr "讓我們來看一種天然災害，還有為什麼地球是一個大的系統。"
+
+msgid ""
+"A <span class='key'>tsunami</span> is a huge wave. The word tsunami actually "
+"means \"harbor wave\" in Japanese. When an earthquake occurs or volcano "
+"erupts under water, it can trigger a tsunami. These massive waves travel "
+"very fast. When they hit land, they slow down but increase in height."
+msgstr ""
+"<span class='key'>「海嘯」</span>是一種巨大的浪潮。英文稱為\"港波\"，也就是日"
+"文：「海港的波」。當地震發生或者海底火山爆發時，可能引起海嘯。海嘯的龐大的海"
+"波，傳播速度非常快。當他們接近海岸時，速度減慢，但海浪變高。"
+
+msgid ""
+"The waves hit and flood everything, destroying homes and other buildings. "
+"After a tsunami, it’s hard to keep things dry and clean, and it’s often hard "
+"to access clean water."
+msgstr ""
+"海嘯入侵岸上後，浪擊並淹沒一切，摧毀房屋和各種建築物。海嘯之後，幾乎所有東西"
+"都不再是乾燥和清潔的，而且很難得到乾淨的水。"
+
+msgid ""
+"That’s why in addition to all the casualties, many diseases usually spread "
+"and cause even more problems after a tsunami."
+msgstr ""
+"這就是為什麼除了直接沖擊造成的傷亡外；海嘯之後，通常還會疾病蔓延，造成更多的"
+"問題。"
+
+msgid ""
+"Scientists cannot predict tsunamis because they cannot forecast earthquakes."
+msgstr "科學家不能預測地震，所以，他們也無法預測海嘯。"
+
+msgid ""
+"But scientists monitor large earthquakes that might cause a tsunami to "
+"forecast tsunami arrival times and wave heights through the use of computer "
+"modelling."
+msgstr ""
+"不過，科學家們還是可以在大地震發生時，對可能引起的海嘯進行監控。他們運用電腦"
+"模擬的模型，預測海嘯可能到達的時間和波浪的高度。"
+
+msgid ""
+"This is how studying the science of all these natural events of the earth "
+"becomes important to the safety of mankind."
+msgstr "這就是為什麼，研究地球的所有這些自然事件，對於人類的安全是非常重要的。"
+
+msgid "Studying rock and soil samples..."
+msgstr "想一想...岩石和土壤..."
+
+# 7
+msgid "Question A. What causes tsunamis?"
+msgstr "問題A：請問，下列哪一個因素是引起海嘯的主要原因？"
+
+msgid "Volcanic activity"
+msgstr "火山活動"
+
+msgid "Explosions on land"
+msgstr "陸地上的爆炸"
+
+msgid "Underwater earthquakes"
+msgstr "海底地震"
+
+msgid "Sudden change in temperature"
+msgstr "氣溫突然地改變"
+
+msgid ""
+"Question B. Click on <span class='red bold blink'>ALL</span> the correct "
+"statements below."
+msgstr ""
+"問題B, 請點選下列選項中<span class='red bold blink'>所有</span>正確的敘述："
+"(請複選)"
+
+msgid "Scientists can predict all natural hazards."
+msgstr "科學家可以預測所有的天然災害。"
+
+msgid ""
+"Scientists study natural events to understand them and predict when and "
+"where they might happen."
+msgstr "科學家研究自然現象，以了解它們並預測何時何地會發生。"
+
+msgid "Climatologists and meteorologists study climate and weather."
+msgstr "氣候學家和氣象學家研究氣候和天氣。"
+
+msgid "Geologists make sure natural hazards are avoided."
+msgstr "地質學家能確保我們避開所有天然災害。"
+
+msgid ""
+"You got it right! Scientists know that earthquakes and volcanic activity "
+"underwater trigger tsunamis."
+msgstr "你答對的！科學家們知道，地震和海底火山活動可能引起海嘯。"
+
+msgid "Not quite. Volcanic activity that is underwater can cause a tsunamis."
+msgstr "不完全是喔！海底火山活動可能引起海嘯。"
+
+msgid ""
+"Not quite. Only volcanic activity that is underwater can cause tsunami. "
+"Volcanoes on land don’t cause tsunamis."
+msgstr "不完全對喔！只有海底火山活動能引起海嘯；陸地上的火山活動就不能喔！"
+
+msgid ""
+"No. Earthquakes or volcanoes that erupt under water can cause a tsunami."
+msgstr "不對喔！海底的地震或火山爆發可能會導致海嘯。"
+
+msgid "No. Underwater earthquakes or volcanoes can cause a tsunami."
+msgstr "不對喔！海底的地震或火山爆發可能引起海嘯。"
+
+msgid "Question B. Click on ALL the correct statements below."
+msgstr "問題B：請點選下面所有正確敘述。"
+
+msgid ""
+"Correct! Climatologists study the climate, and meterologists study the "
+"weather. Many scientists study natural events to better understand why, how, "
+"and when they occur. They hope to be able to predict them."
+msgstr ""
+"正確！氣候學家研究的是氣候，也就是研究比較長時間的氣象變化情形；而，氣象學家"
+"研究是天氣，也就是較短時間的可能變化。許多科學家研究自然現象，以便更深入理"
+"解：它們為什麼、如何、何時，會發生？科學家們希望能夠預測這些自然現象。"
+
+msgid ""
+"Not quite! Scientists cannot predict all natural hazards. Although they "
+"study natural disasters and work hard to be able to predict them (not avoid "
+"them) someday."
+msgstr ""
+"不太對喔！雖然科學家研究天然災害而且也努力要能夠預測天然災害，但還是無法預測"
+"(或避免)所有天然災害。"
+
+msgid "Checking weather conditions..."
+msgstr "最近天氣好嗎..."
+
+# 8
+msgid ""
+"Meteorologists are limited as to which natural hazards they can forecast. "
+"However, the more science advances, the more tools and technology are "
+"created to help monitor and forecast what is going on in nature."
+msgstr ""
+"氣象學家預測天然災害的能力還是相當有限。不過，科學越進步，就有越多的工具和科"
+"技被創造出來，以助人類監測和預報大自然的運作。"
+
+msgid "There are many natural hazards that humans canât get rid of or avoid."
+msgstr "有許多天然災害是人類無法擺脫或避免的。"
+
+msgid "Some of these are:"
+msgstr "其中一些是："
+
+msgid "Landslide"
+msgstr "滑坡"
+
+msgid "Avalanche"
+msgstr "雪崩"
+
+msgid "Tornado"
+msgstr "龍捲風"
+
+msgid "Wildfire"
+msgstr "野火"
+
+msgid "Drought"
+msgstr "乾旱"
+
+msgid "Blizzard"
+msgstr "暴風雪"
+
+msgid "Tsunami"
+msgstr "海嘯"
+
+msgid "Heat Wave"
+msgstr "熱浪(也就是天氣持續的過度炎熱)"
+
+msgid ""
+"After understanding the science of natural phenomena that cause natural "
+"hazards, there are many things humans can do to avoid or minimize their "
+"impacts."
+msgstr ""
+"了解導致自然災害的自然現象的科學之後有很多事情人類可以做，以避免或盡量減少其"
+"影響。"
+
+msgid ""
+"For instance, if scientists understand that in certain parts of the country, "
+"dry hot winds will occur during certain parts of the year, then there are "
+"actions a family can take to protect themselves and their homes and "
+"belongings."
+msgstr ""
+"例如，如果科學家了解，在該國某些地區，將出現乾熱風在一年中的某些部分，然後有"
+"行動一個家庭可以採取保護自己和自己的家園和財產。"
+
+msgid ""
+"For instance, if scientists understand that in certain parts of the country, "
+"warm hot winds will occur during certain parts of the year, then there are "
+"actions a family can take to protect themselves and their homes and "
+"belongings. One might be to clear away all of the trees that are close to "
+"the house so the fire couldn’t spread to those trees and then to the house. "
+"Another action could be to build the house out of materials that don’t "
+"easily catch fire – like a metal roof and brick or stone walls."
+msgstr ""
+"例如，如果科學家知道了某些地區一年中的某段時間會有熱風吹襲，那麼每個家庭就可"
+"以採取保護自己和自己的家園和財產的行動。人們可清除接近房子的所有樹木，那麼野"
+"火就無法延燒到房子。另一個可以作的事情是將建材改為不易著火的材料，例如，金屬"
+"屋頂、磚或石牆。"
+
+msgid ""
+"It is suggested to people to prepare themselves for earthquakes in these "
+"ways:"
+msgstr "我們建議人們在以下幾方面，作好地震的準備："
+
+msgid "<span class='red bold blink'>Click</span> an item to show image."
+msgstr "<span class='red bold blink'>點擊</span>下列選項，以顯示圖像。"
+
+msgid "Get a fire extinguisher."
+msgstr "準備滅火器。"
+
+msgid "Have an extra water supply."
+msgstr "準備多一點的飲用水。"
+
+msgid "Have an emergency plan."
+msgstr "準備應變措施。"
+
+msgid "Have a first-aid kit ready."
+msgstr "準備急救箱。"
+
+msgid "Secure large or valuable items."
+msgstr "要將大型的或者珍貴的物品，固定好。"
+
+msgid "Know the &#34;drop-cover-hold&#34; drill."
+msgstr "要熟悉 &#34;伏地-遮擋-抓緊&#34; 的地震應變動作。"
+
+msgid ""
+"Similar actions and preparedness are important for floods, or tornadoes, "
+"hurricanes, or almost any of the other natural hazards."
+msgstr ""
+"對於防備洪水、龍捲風、颶風、颱風或其他天然災害，類似的準備和行動，也都是重要"
+"的。"
+
+msgid ""
+"So when you are warned to <span class='key'>evacuate</span> your home – "
+"which means to leave it - because of any of the natural hazards: pay "
+"attention and act quickly."
+msgstr ""
+"當天然災害發生而你被警告要 <span class='key'>撤離</span> 你的家時， 請你要："
+"提高警覺並快速行動。。"
+
+msgid ""
+"These are some things that people and communities can do to protect "
+"themselves and lessen the impact of these hazards."
+msgstr "這些，都是居民和社區保護自己並減輕災害衝擊的方法。"
+
+msgid ""
+"But most importantly, when you are warned to <span class='key'>evacuate</"
+"span> your home – which means to leave it - because of any of the natural "
+"hazards: pay attention and act quickly."
+msgstr ""
+"當自然災害發生而你被警告要 <span class='key'>撤離</span> 你的家時，最著要的"
+"是 請你要：提高警覺並快速行動。"
+
+msgid "Securing first-aid kits..."
+msgstr "平常就要準備急救包的..."
+
+msgid ""
+"But some natural hazards like earthquakes are still not understood well "
+"enough by scientists to give an accurate warning for a time and place for it "
+"to occur."
+msgstr ""
+"但像是地震等天然災害，科學家的理解還是不足，所以尚無法準確預警何時、何地會發"
+"生。"
+
+# 9
+msgid ""
+"Question A. Which of the following would be a good strategy to protect your "
+"family if an <span class='red bold blink'>immediate</span> wildfire threat "
+"was coming near your home within several hours?"
+msgstr ""
+"問題A. 如果家周圍有一些樹林，而鄰近區域發生火災並可能在幾個小時內延燒到房子，"
+"請問以下哪一個方式，會是保護你家人的最好方法呢？"
+
+msgid "Take shelter in your basement"
+msgstr "到地下室避難"
+
+msgid "Stand on the roof of your house with a garden hose and spray the fire"
+msgstr "站在你家的屋頂上拿著水管滅火"
+
+msgid "Evacuate as soon as possible"
+msgstr "儘速撤離"
+
+msgid "Start chopping down the trees near your house"
+msgstr "開始砍倒你家附近的樹木"
+
+msgid ""
+"Question B. Click on <span class='red bold blink'>ALL</span> the things you "
+"could do to protect your home from an <span class='red bold blink'>eventual</"
+"span> wildfire threat if you lived in an area where wildfires were fairly "
+"common."
+msgstr ""
+"問題B. 如果你住在一個森林野火可能發生的地區，請問你可做哪些事情來保護您的家庭"
+"的安全呢？請點選<span class='red bold blink'>所有</span>正確的選項。(請複選)"
+
+msgid "Clear-cut the trees and brush near your house."
+msgstr "砍除房子周圍的樹木和灌木叢。"
+
+msgid "Put a steel roof on your house."
+msgstr "換成鋼製的屋頂。"
+
+msgid "Get a new fire extinguisher."
+msgstr "準備一個新的滅火器。"
+
+msgid "Build the walls of your house out of brick or stone."
+msgstr "房子的牆壁改成磚或石頭。"
+
+msgid ""
+"Correct. With enough notice, you can get far away from your home and the "
+"wildfire."
+msgstr "你選擇的很正確！如果通知的時間足夠，應可先離開家並遠離周圍火災的威脅。"
+
+msgid "No."
+msgstr "不對喔！"
+
+msgid "Not quite."
+msgstr "不完全是喔！"
+
+msgid ""
+"Not really, this is a good long term solution, but not when there is an "
+"immediate threat."
+msgstr ""
+"這不是這時候的好方法。雖然，砍除周圍的樹林，是一個好的長期的解決方案，但在面"
+"臨即將出現的火災威脅時，恐怕並不適當。"
+
+msgid ""
+"Question B. Click on ALL the things you could do to protect your home from "
+"an eventual wildfire threat if you lived in an area where wildfires were "
+"fairly common."
+msgstr ""
+"問題B. 如果你住在一個森林野火可能發生的地區，請問你可做哪些事情來保護您的家庭"
+"的安全呢？請點選<所有>正確的選項。(請複選)"
+
+msgid ""
+"Correct! If moving out the area that usually has wildfires is not an option, "
+"all of above are good choices to protect your home from a potential "
+"wildfire. If there is an immediate wildfire threat coming near your home, "
+"evacuation would be the best choice."
+msgstr ""
+"非常正確！如果，搬離野火可能威脅的地區不是一個可行的選項。那麼，以上的所有項"
+"目都還算是保護你房子的不錯的選擇。不過，當野火發生並在往你家附近靠近時，撤離"
+"將是最好的選擇。"
+
+msgid ""
+"Not quite. If moving out the area that usually has wildfires is not an "
+"option, all of above are good choices to protect your home from a potential "
+"wildfire. You can probably think of more things to do to protect yourself "
+"and your home from a potential wildfire as well."
+msgstr ""
+"不完全對喔！如果，搬離野火可能威脅的地區不是一個可行的選項。那麼，以上的所有"
+"項目都還算是保護你房子的不錯的選擇。你也許還可以想出更多能保護你家的方法。"
+
+msgid ""
+"Correct. If moving out the area that usually has wildfires is not an option, "
+"all of these statements are good choices to protect your home from a "
+"potential wildfire. If there is an immediate wildfire threat coming near "
+"your home, evacuation would be the best choice."
+msgstr ""
+"正確！如果你無法選擇搬離經常有野火發生的區域。那麼這些所 有敘述都是可以用來保"
+"護你的家免於野火造成更大危害的選項。不過，如果有一個野火已經威脅到你家附近"
+"了，疏散將是最好的選擇。"
+
+msgid ""
+"Not quite. If moving out the area that usually has wildfires is not an "
+"option, all of these statements are good choices to protect your home from a "
+"potential wildfire. You can probably think of more things to do to protect "
+"yourself and your home from a potential wildfire as well."
+msgstr ""
+"不完全對喔！如果你無法選擇搬離經常有野火發生的區域。那麼 這些所有敘述都是可以"
+"用來保護你的家免於野火造成更大危害的選項。不過，如果有一個野火已經威脅到你家"
+"附近了，疏散將是最好的選 擇。"
+
+msgid "Stocking food in basement..."
+msgstr "在地下室儲存食品..."
+
+# 10
+msgid "Using what you know... about natural hazards... to solve a problem"
+msgstr "活用並解決問題... 關於天然災害..."
+
+msgid "The Scenario"
+msgstr "假想..."
+
+msgid ""
+"When you grow up, where would the perfect place be for you to live and have "
+"your dream house? What natural hazards do you think might be in that place?"
+msgstr ""
+"你長大了！請問你心目中理想的生活地方在哪裡呢？你有夢想中的房子嗎？在那裡，可"
+"能會有哪些天然災害呢？"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid ""
+"Now describe what features you would design into your a house to best "
+"protect yourself and your family from being harmed by those natural hazards."
+msgstr ""
+"現在請你描述，你的房子會有什麼樣的設計以保護你和家人免於受到這些可能天然災害"
+"的傷害呢？。"
+
+msgid ""
+"You are a landscape architect working on a project to build a home for an "
+"important person in a private area without any other buildings. You are to "
+"investigate the geological conditions of three different areas to choose the "
+"best location for your client."
+msgstr ""
+"現在，你是一位景觀建築師，正在幫一位很重要的人物在一塊他私人空地上設計房屋。"
+"你需要去調查三個不同地區的地質條件，以選出最適合您的客戶的最佳建築地點。"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"What natural hazards do you think might be in that place (you can choose "
+"from the list of natural hazards mentioned in the previous sections)?"
+msgstr ""
+"你認為那一個地區可能會有什麼樣的天然災害？（你可以從前面所提到的各種天然災害"
+"中來選擇。）"
+
+msgid ""
+"Make a report to take your client including three areas that would offer "
+"privacy along with the possible natural hazards of the area. Describe what "
+"features you would design into the house to best protect your client from "
+"being harmed by those natural hazards."
+msgstr ""
+"請你做一份報告給你的客戶，報告裡請包括三個地區。請提供每個地區隱私性的情形和"
+"每個地區可能的天然災害。另外，請描述你的房子會有什麼樣的設計，來保護你的客戶"
+"免於受到天然災害。"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點擊這裡，然後開始輸入你的答案..."
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Drawing blueprints..."
+msgstr "繪製藍圖..."
+
+# 11
+msgid "Summarizing core ideas... about natural hazards"
+msgstr "總結關鍵概念...關於「天然災害」"
+
+msgid ""
+"Natural hazards are natural phenomena that can potentially cause harm to "
+"humans. If they are very, very big and cause lots of damages and hurt or "
+"kill lots of people, they are called <span class='key'>natural disasters</"
+"span>. Scientists study these natural hazards and are able to predict when "
+"and where most of them will occur with enough accuracy to give people a "
+"chance to protect their families and property. Scientists can tell how "
+"likely it is for natural hazards to occur in certain places at certain "
+"times. For instance scientists – like <span class='key'>climatologists</"
+"span> – know that hurricanes are generally most likely to occur during the "
+"summer months in the Gulf of Mexico and along the Atlantic coast of the "
+"United States. So if you live in those areas you would need to be aware that "
+"a hurricane is a possibility in the summer and you should live in a house "
+"built to be able to withstand a hurricane. Then, another type of scientist – "
+"a <span class='key'>meteorologist</span> or weatherman – might predict a "
+"week or so ahead of time that a big hurricane is expected to hit a certain "
+"area – like Nags Head North Carolina – on August 21st. Then people in Nags "
+"Head would know to board up their house and evacuate the area before the "
+"hurricane hit."
+msgstr ""
+"自然災害，指的是有可能對人類造成危害的自然現象。如果是非常非常大並造成極大損"
+"害和傷亡，他們也被稱為自然災難。科學家研究這些<span class='key'>自然災害</"
+"span>，並經常能夠準確地預測災害何時何地會發生，這使得人們能夠有機會保護家人和"
+"財產。科學家們可以預測天然災害在何時何處發生的可能性。舉例而言，有一種科學"
+"家，我們稱他們為<span class='key'>氣候學家</span> - 他們的研究知道了颶風一般"
+"都在暑假期間發生在墨西哥海灣和美國大西洋沿岸；那麼，如果你住在這地區，你就需"
+"要知道：颶風可能在夏天發生，而且你住的房子應該要足以承受颶風。再舉例來說，還"
+"有另一種科學家 - 我們稱他們為<span class='key'>氣象學家</span>或者叫作天氣預"
+"報員 - 他們預測的時間就比較短，例如他們會預測某一個大颶風將在大概一個星期後襲"
+"擊某一個地區。所以，當他們預報：「下周，約在8月21日，颶風將侵襲...省...縣」"
+"時，那麼，當地人們就可事先加固他們的房子或者在颶風來襲前撤離該地區。"
+
+msgid "Putting it all together..."
+msgstr "總結一下..."
+
+# 12
+msgid "Reviewing key vocabulary related to... natural hazards"
+msgstr "複習重點詞彙...天然災害"
+
+msgid "Natural hazard"
+msgstr "天然災害"
+
+msgid ""
+"Natural hazards are dangers that come from nature; threatening life, health, "
+"property, and the environment. There are many different kinds of natural "
+"hazards. Some natural hazards are related to the weather, like lightning, "
+"hurricanes, and tornadoes.  Some are related to just geology; like "
+"earthquakes and volcanoes. Many natural hazards and disasters are the result "
+"of combinations of weather and landscapes in certain areas."
+msgstr ""
+"天然災害指的是，來自大自然的危險，它們威脅生命、健康、財產和環境。天然災害有"
+"許多不同的種類：有的和天氣有關，如閃電、颶風(颱風)和龍捲風；有的和地質有關，"
+"像地震和火山；有的和天氣和地質都有關，例如，水災和土石流。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Landscape"
+msgstr "地景"
+
+msgid "A landscape is the shape and features of the land."
+msgstr "「地景」指的就是地表的形狀。"
+
+msgid "Geologist"
+msgstr "地質學家"
+
+msgid ""
+"Geologists are scientists that study the science of the solid parts of the "
+"earth made out of rocks and soil but also study the water in rivers and "
+"lakes too. Climatologists and meteorologists are scientists that study the "
+"atmosphere to understand climate and weather."
+msgstr ""
+"「地質學家」是專門研究地球上的固體部分(例如，岩石和土壤)和液體部分(例如：河流"
+"和湖泊等)的科學家。「氣候學家」和「氣象學家」則是研究地球的大氣層，以了解氣候"
+"和天氣的科學家。"
+
+msgid "Meteorologist"
+msgstr "氣象學家"
+
+msgid ""
+"Climatologists and meteorologists are scientists that study the atmosphere "
+"to understand climate and weather."
+msgstr "「氣候學家」和「氣象學家」是研究大氣層以了解氣候和天氣的科學家。"
+
+msgid "Climatologist"
+msgstr "氣候學家"
+
+msgid "Forecasting"
+msgstr "預報"
+
+msgid ""
+"Forecasting is, in meteorology, predicting the weather using scientific "
+"instruments."
+msgstr "在氣象學上所稱的預報指的是，使用科學儀器來預測天氣。"
+
+msgid ""
+"A volcano is a place on the surface of Earth where hot, liquid rock comes up "
+"from deep inside Earth. Some volcanoes have hot, liquid rock flowing out of "
+"them all the time. Other volcanoes are quiet for many years, but they are "
+"still volcanoes. Not all volcanoes look the same. Some volcanoes look like "
+"mountains. Others are flat or look like shallow holes."
+msgstr ""
+"「火山」是地表的一種地形，地心流過來的炙熱岩漿集中在此處。有些火山隨時都在流"
+"淌出炙熱的岩漿；但有些火山卻沉寂多年。火山的形狀，並非都是一樣的；有的像是山"
+"峰、有的是扁平的、有的看起來像是淺的坑洞。"
+
+msgid ""
+"A drought is a lack of rainfall that lasts a long time. A drought is really "
+"bad for farmers. People must use less water when there is a drought. They "
+"are supposed to use it only for drinking, cooking, and cleaning. They are "
+"not supposed to water their lawns or wash their cars during a drought. Some "
+"places, such as deserts, are always in a drought because they never get much "
+"rain."
+msgstr ""
+"「乾旱」就是長時間缺乏降雨。這對農民有非常嚴重的影響。乾旱時，人們必須要節省"
+"用水；例如，水就只能用在飲用，做飯和清潔，而不可以浪費在澆草坪或洗車。有些地"
+"方，如沙漠，則總是處在乾旱狀態，因為這些地方都不會有大量的雨水。"
+
+msgid "Evacuate"
+msgstr "撤離"
+
+msgid "Natural disaster"
+msgstr "自然災難"
+
+msgid ""
+"In the case of a natural disaster, you may be warned to evacuate your home – "
+"which means to leave it - because of any of the natural hazards: pay "
+"attention and act quickly."
+msgstr ""
+"在發生天然災害的情況下，你可能會被警告要撤離你的家。 請你要：提高警覺並快速行"
+"動。。"
+
+msgid ""
+"Natural disasters are drastic weather phenomena that can potentially cause "
+"lots of damages and hurt or kill lots of people. Examples of natural "
+"disasters are hurricanes, tornadoes, avalanches, earthquakes, volcanoes, and "
+"tsunamis."
+msgstr ""
+"天然災害是劇烈的自然現象，它可能會導致大量損害和傷亡。天然災害的例子是颶風(或"
+"颱風)、龍捲風、雪崩、地震、火山爆發和海嘯。"
+
+msgid "Hurricane"
+msgstr "颶風"
+
+msgid ""
+"A hurricane is a very large storm with constant winds of more than 74 miles "
+"per hour. Hurricanes usually also come with heavy rain. A hurricane spins as "
+"it moves. The center of a hurricane is called its eye. Some hurricanes can "
+"easily pull trees out of the ground and tear roofs off houses."
+msgstr ""
+"颶風(或者颱風)是一個非常大的風暴，風速超過每小時74英里(相當於約120公里)。颶風"
+"通常挾帶著大雨。颶風一邊移動一邊旋轉。颶風的中心，稱作風眼。"
+
+msgid ""
+"A tornado is a very dangerous funnel of air from the ground to the sky. "
+"Tornadoes  are capable of causing much destruction and death."
+msgstr ""
+"龍捲風是非常危險的，它是一種從地面旋轉到天空的漏斗型的氣流。龍捲風會造成很大"
+"的破壞和死亡。"
+
+msgid ""
+"An earthquake is a natural disaster in which a sudden movement within the "
+"Earth’s crust generates seismic waves. The seismic waves of earthquakes are "
+"capable of causing devastation to land and to life."
+msgstr ""
+"地震是一種天然災害。它是地殼內突然移動產生的地震波。地震的地震波能夠毀壞地表"
+"和造成傷亡。"
+
+msgid ""
+"A tsunami is a huge wave. When an earthquake occurs or volcano erupts under "
+"water, it can trigger a tsunami. These massive waves travel very fast. When "
+"they hit land, they slow down but increase in height. The waves hit and "
+"flood everything, destroying homes and other buildings."
+msgstr ""
+"海嘯是一種巨大的浪潮。當海底產生地震或者海底火山爆發時，可能就會引起海嘯。海"
+"嘯的龐大的海波，傳播速度非常快。當他們接近海岸時，速度減慢，但海浪變高。海嘯"
+"入侵岸上後，浪擊並淹沒一切，摧毀房屋和各種建築物。"
+
+msgid ""
+"An avalanche is a mass movement of snow, in which it quickly travels down a "
+"hill or mountain. Avalanches can be extremely dangerous, as their force and "
+"sheer size can be capable of burying everything in its path."
+msgstr ""
+"雪崩是雪的巨大移動，它快速地從山坡下滑。雪崩是非常危險的，因為它的力量和龐大"
+"的規模，可以將所經過的所有東西掩埋。"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid ""
+"A fire burning vegetation in some sort of wilderness area. It is usually "
+"characterized by the fire being very large and spreading very quickly. "
+"Wildfires are unusual in their ability to jump across barriers such as "
+"roads, rivers, and fire breaks."
+msgstr ""
+"指的是，在荒野區焚燒植被的大火。它一般都有非常大和迅速蔓延的 特質。野火不太容"
+"易跨越道路、河流和防火分隔區。"
+
+msgid "Lightning"
+msgstr "閃電"
+
+msgid ""
+"A build up of static electricity in a cloud that is suddenly discharged. "
+"This discharge can be from the cloud to itself, to another cloud, or to the "
+"ground. Lightning is always accompanied by the sound of thunder, always "
+"observed after the flash due to sound traveling more slowly than light."
+msgstr ""
+"指的是，在雲裡面的靜電逐漸累積然後被突然釋放。這種放電可以是將電釋放到本身這"
+"朵雲、或到另一朵雲、或者釋放到地面。閃電總是伴隨著雷鳴聲，由於聲音傳播比光更"
+"慢，所以雷聲 總是比閃電來的慢。"
+
+# 13
+msgid "Checking what you now know... about natural hazards"
+msgstr "看看你現在知道了什麼...關於天然災害"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以幫助你知道那些是你熟悉而那些是需要加強學習的..."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好，請點擊下一步按鈕。"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道"
+
+# 14
+msgid "Quiz Question"
+msgstr "小測驗"
+
+msgid ""
+"Look at the map below. Use the key to determine which area in the United "
+"States has the least risk of having a tornado."
+msgstr ""
+"右下方的地圖以顏色代表不同地區龍捲風出現可能性和風強度情形，顏色所代表的意義"
+"標註在地圖的下方，如，白色區域為第1區，風力會到130mph (每小時130英里)。地圖中"
+"共分為1-4區，請判斷哪一個區域龍捲風的危險最小。"
+
+msgid ""
+"Rotate or flip the box on the left either up or down to set your answer."
+msgstr "決定答案後，可點選字母處，按住並上下翻轉來選擇你的答案。"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "點擊、按住，並向上或向下滑動鼠標。"
+
+msgid "A. The Northeast - New England"
+msgstr "A. 東北部的黃色地區 - (新英格蘭區)"
+
+msgid "B. The Great Lakes Region"
+msgstr "B. 中部的紅色和橘色地區(五大湖區)"
+
+msgid "C. Florida and Texas"
+msgstr "C. 東南及南部地區 (佛州和德州，簡寫FL和TX)"
+
+msgid "D. California and Western US"
+msgstr "D. 西部地區 (加利福尼亞州，簡寫CA)"
+
+msgid ""
+"Hover your mouse on each US State abbreviation to highlight their location."
+msgstr "你可以在美國各省的簡寫上面移動鼠標，懸停時，該州的位置將會顯現。"
+
+msgid "WIND ZONES"
+msgstr "發生龍捲風可能性的分區圖"
+
+msgid "ZONE I"
+msgstr "第 1 區"
+
+msgid "(130mph)"
+msgstr "（130 英里/每小時） (註：1英里約1.6公里)"
+
+msgid "ZONE II"
+msgstr "第 2 區"
+
+msgid "(160mph)"
+msgstr "（160 英里/每小時, mph）"
+
+msgid "ZONE III"
+msgstr "第 3 區"
+
+msgid "(200mph)"
+msgstr "（200 英里/每小時, mph）"
+
+msgid "ZONE IV"
+msgstr "第 4 區"
+
+msgid "(250mph)"
+msgstr "（250 英里/每小時, mph）"
+
+msgid "Answer"
+msgstr "答案"
+
+msgid ""
+"Correct, the western states of the US are in Zone I which have the least "
+"tornado risk."
+msgstr "答對了！美國西部在第 1 區，這裡具有最少的龍捲風風險。"
+
+msgid ""
+"No, the Northeastern states are in Zone II which have a higher risk than "
+"Zone I."
+msgstr "不對喔！東北部屬於在第 2 區，這裡具有比第 1 區高的風險。"
+
+msgid "Not quite, that region is mostly orange- in Zone III."
+msgstr ""
+"不對喔！該地區主要是橘色，在第 3 區，這裡具有比第 1, 2 區都還高的風險。"
+
+msgid ""
+"No, Florida and Texas are in zone III, they have a high risk of having a "
+"tornado."
+msgstr "不對喔！東南部和南部屬於第 3 區，這裡也有龍捲風的高風險。"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗的問題是..."
+
+# 15
+msgid ""
+"Most states in the United States are at risk for some kind of natural "
+"hazard. The best strategy to protect your family and property from damages "
+"is to:"
+msgstr ""
+"美國大多數的州都具有發生某種天然災害的風險。保護您的家人和財產，最好的策略"
+"是："
+
+msgid "A. Understand the hazard and know what to do to minimize the risk."
+msgstr "A. 了解災害並知道如何才能將風險降到最低。"
+
+msgid "B. Hope that nothing happens during your lifetime."
+msgstr "B. 希望一輩子都不會碰到這些事。"
+
+msgid ""
+"C. Go on the internet and find out any news about upcoming natural hazards."
+msgstr "C. 上網並關心各種可能發生天然災害的消息。"
+
+msgid "D. Ignore it because whatever will happen will happen."
+msgstr "D. 不管它囉！因為不管如何，會發生就會發生。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊、按住並上下滑動鼠標旋轉骰子，以選定你的答案。"
+
+msgid ""
+"Correct. Understanding potential dangers and being prepared for them is the "
+"best option."
+msgstr "答對了！了解潛在的危險並作好準備，是最好的選擇。"
+
+msgid ""
+"No, hoping for the best is not enough; you also need to plan for the worst."
+msgstr ""
+"不對喔！光是希望一輩子都不會碰到這些事，是不夠的，你還需要有面對最壞情況的打"
+"算。"
+
+msgid ""
+"Ignoring the natural hazard is simply being in denial- it is the worst "
+"option of the four."
+msgstr "不管它？這是錯的。這是四個選項裡面，最不好的選擇喔！"
+
+msgid "Flood-proofing the house..."
+msgstr "防淹水的房子..."
+
+# 16
+msgid ""
+"Drag the boxes at the left up or down to match its description at the right."
+msgstr "配對題- 請上下拖動左方的長方格子，使和右方的敘述一致。"
+
+msgid "A storm that forms at sea and strikes land."
+msgstr "在海上形成然後侵襲陸地的風暴。"
+
+msgid "Massive harbor waves that cause damage when they crash into land."
+msgstr "侵襲海岸並造成嚴重損害的巨大波浪。"
+
+msgid "A funnel of air from the ground to the sky."
+msgstr "從地面上升到天空的漏斗型狀的氣旋。"
+
+msgid "What happens when there is no rain for a long time."
+msgstr "當不下雨的時間很長時，會發生什麼事呢？"
+
+msgid ""
+"Great job! A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. "
+"These are all natural hazards that have many effects on the environment and "
+"people."
+msgstr ""
+"非常好！海嘯是當巨大的海浪沖擊上岸導致嚴重的損害。龍捲風是由地面到天空的漏斗"
+"形狀的強烈氣旋。這些都是對環境和人造成很大影響的天然災害。"
+
+msgid ""
+"Not quite. A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. A "
+"hurricane is a storm that forms at sea and strikes land. A drought is a lack "
+"of rainfall that lasts a long time."
+msgstr ""
+"不完全對喔！海嘯是當巨大的海浪沖擊上岸導致嚴重的損害。龍捲風是由地面到天空的"
+"漏斗形狀的強烈氣旋。颶風(或颱風)是在海上形成的大風暴，會襲擊陸地。"
+
+msgid "Evacuating people..."
+msgstr "撤離人群..."
+
+# 17
+msgid ""
+"The map below shows a possible scenario of an earthquake in a certain area. "
+"Which of the statements below <span class='blink red'>ARE NOT</span> correct?"
+msgstr ""
+"下面是某區域地震的示意圖。請問下面哪一個敘述<span class='blink red'>不正確</"
+"span>？"
+
+msgid ""
+"A. The map shows us which areas are most likely going to feel the earthquake "
+"the most."
+msgstr "A. 這地圖告訴我們，哪些區域是最常會有地震。"
+
+msgid "B. The red area will probably have the most damage from the earthquake."
+msgstr "B. 紅色區域將可能會有最大的地震損害。"
+
+msgid "C. The yellow area will probably feel the earthquake the least."
+msgstr "C. 黃色區域可能會最少感覺到地震。"
+
+msgid ""
+"D. This information can help people in the area prepare for the earthquake."
+msgstr "D. 這些資訊可以幫助該地區的人，進行地震準備。"
+
+msgid "Image produced by the U.S. Geological Survey"
+msgstr "圖片資料來源：美國地質調查局"
+
+msgid ""
+"Correct. This is false because the amount of shaking is \"strong\" for the "
+"yellow region."
+msgstr "是的！這選項是錯的，因為黃色區域感覺到的震度還是&#34;相當強&#34;喔！"
+
+msgid ""
+"No, this statement is correct. The map shows us which areas are most likely "
+"going to feel the earthquake the most as well as the possible amount of "
+"damage each area will have."
+msgstr ""
+"你選錯囉！這個敘述是正確的。這地圖的確可以告訴我們，哪些區域常可能感受到地震"
+"和可能損害的程度。"
+
+msgid ""
+"No, this statement is correct. From the chart we see that the potential "
+"damage of the red region is &#34;very heavy&#34; which is the most probable "
+"damage."
+msgstr ""
+"你選錯囉！這個敘述是正確的。從圖中，我們可以看到，紅色區域的潛在損害是&#34;非"
+"常嚴重&#34;，這是最嚴重的等級。"
+
+msgid ""
+"No, this statement is correct. People can identify the area they live or "
+"work in and prepare for potential damages."
+msgstr ""
+"你選錯囉！這個敘述是正確的。人們可以藉此辨別他們所居住或工作的區域可能的損"
+"害，並為潛在的損害做準備。"
+
+msgid "Looking for emergency exits..."
+msgstr "尋找緊急出口..."
+
+# 18
+msgid ""
+"Match each picture to its natural disaster by flipping or rotating the box "
+"to show the correct image that matches the label. Then, click on \"weather\" "
+"or \"geology\" under each illustration to show if each natural hazard is "
+"weather related or geology related."
+msgstr ""
+"請將「天然災害名稱」、「圖片」和它的「類別」配對正確。(1. 請你翻轉或圖片，以"
+"選擇和名稱符合的正確的圖片，2. 請在每一個圖片下方，點選它是屬於 \"氣候\"還"
+"是  \"地質\")"
+
+msgid "Select"
+msgstr "請按我並選擇"
+
+msgid "Geological"
+msgstr "地質的"
+
+msgid ""
+"Correct! A tsunami is when massive harbor waves cause damage when they crash "
+"into land. A tornado is a funnel of air from the ground to the sky. These "
+"are all natural hazards that have many effects on the environment and "
+"people. A hurricane is a storm that forms at sea and strikes land. A drought "
+"is what happens when there is no rain for a long time, you can see the "
+"crackles in the land."
+msgstr ""
+"正確！海嘯是巨大的海浪，沖擊上岸導致嚴重的損害。龍捲風是由地面到天空的漏斗形"
+"狀的強烈氣旋。颶風(或颱風)是在海上形成的大風暴，會襲擊陸地。乾旱是長時間缺少"
+"雨水所造成，有時可以看到泥土地有龜裂。這些都是天然災害，它們對環境和人類有很"
+"多方面的影響。"
+
+msgid ""
+"Not quite. A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. "
+"These are all natural hazards that have many effects on the environment and "
+"people. A hurricane is a storm that forms at sea and strikes land. A drought "
+"is what happens when there is no rain for a long time, you can see the "
+"crackles in the land."
+msgstr ""
+"不完全是喔！海嘯是巨大的海浪，沖擊上岸導致嚴重的損害。龍捲風是由地面到天空的"
+"漏斗形狀的強烈氣旋。颶風是在海上形成的大風暴，會襲擊陸地。乾旱是長時間缺少雨"
+"水所造成，有時可以看到泥土地有龜裂。這些都是天然災害，它們對環境和人類有很多"
+"方面的影響。"
+
+msgid "Weather or geology?"
+msgstr "氣象的是地質的？"
+
+# 19
+msgid ""
+"Due to the number of volcanic eruptions and earthquakes, the Pacific &#34;"
+"Ring of Fire&#34; is the most common place for tsunamis to happen. Which "
+"true statement can we infer from this information?"
+msgstr ""
+"由於頻繁的火山爆發和地震，環太平洋&#34;火環帶&#34; 區域是海嘯最經常發生的地"
+"方。由此，我們可以推知下列哪一個敘述是正確的呢？"
+
+msgid ""
+"Some natural hazards are more likely to occur than others in a given region."
+msgstr ""
+"對某一個地區而言，有一些特定的天然災害比其他種類的天然災害，較可能發生。"
+
+msgid "Some kinds of natural hazards only happen in a certain region."
+msgstr "某些種類的天然災害的發生，只發生在某一些區域。"
+
+msgid ""
+"Humans cannot eliminate the hazards but can take steps to reduce their "
+"impacts."
+msgstr "人類無法消除所有天然災害，但可以採取措施來減少其影響。"
+
+msgid ""
+"Humans can eliminate the hazards and take steps to reduce their impacts."
+msgstr "人類可以完全消除天然災害，並採取措施減少其影響。"
+
+msgid ""
+"Correct. Tsunamis are triggered by underwater volcanoes and earthquakes. The "
+"\"Ring of Fire\" shows the region that this happens often and will most "
+"likely cause a tsunami."
+msgstr ""
+"正確！海嘯是由海底火山和地震所觸發。在 \"火環\"區顯示的就是最可能引發海嘯的區"
+"域。"
+
+msgid ""
+"No, this is not true; underwater volcanoes and earthquakes and therefore "
+"tsunamis could happen anywhere- not just in the Ring of Fire."
+msgstr ""
+"不，這不對喔！海底火山和地震都會引起海嘯。因此海嘯可能發生在其他地方，不只是"
+"在火環帶。"
+
+msgid ""
+"Not quite, it is correct – but we cannot infer this from this information."
+msgstr "不，雖然這是正確的，但，我們不能從這些資訊中推論出這一點。"
+
+msgid ""
+"No, this is not true. People cannot eliminate natural hazards, at best we "
+"can predict them."
+msgstr "不，這不是對的。人們不能消除天然災害，充其量我們只可以預測他們。"
+
+msgid ""
+"A. Some natural hazards are more likely to occur than others in a given "
+"region."
+msgstr ""
+"A. 對某一個地區而言，有一些特定的天然災害比其他種類的天然災害，較可能發生。"
+
+msgid "B. Some kinds of severe weather only happen in a certain region."
+msgstr "B. 有一些災害性氣候只發生在某些特定地區。"
+
+msgid ""
+"C. Humans cannot eliminate the hazards but can take steps to reduce their "
+"impacts."
+msgstr "C. 人類無法完全消除天然災害，但可以採取措施來減少其影響。"
+
+msgid ""
+"D. Humans can eliminate the hazards and take steps to reduce their impacts."
+msgstr "D. 人類能夠完全消除天然災害，也可以採取措施來減少其影響。"
+
+msgid "The ring of fire"
+msgstr "(太平洋)火環帶"
+
+# 20
+msgid "End of Review"
+msgstr "單元結束"
+
+msgid "Congratulations"
+msgstr "恭喜你囉"
+
+msgid "You've completed this Natural Hazards review."
+msgstr "你已經完成了「天然災害」單元的學習了。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現..."
+
+msgid "How Did I Do?"
+msgstr "我做得如何呢？"
+
+msgid "You're done!"
+msgstr "已經大功告成了！"
+
+# quick check, quiz question
+msgid "Quick Check #1 - How did I do?"
+msgstr "小練習 #1 - 我答得如何呢?"
+
+msgid "Quick Check #2 - How did I do?"
+msgstr "小練習 #2 - 我答得如何呢?"
+
+msgid "Quick Check #3 - How did I do?"
+msgstr "小練習 #3 - 我答得如何呢?"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Quiz Question #1 - How did I do?"
+msgstr "小測驗 #1- 我答的如何呢?"
+
+msgid "Quiz Question #2 - How did I do?"
+msgstr "小測驗 #2- 我答的如何呢?"
+
+msgid "Quiz Question #3 - How did I do?"
+msgstr "小測驗 #3- 我答的如何呢?"
+
+msgid "Quiz Question #4 - How did I do?"
+msgstr "小測驗 #4- 我答的如何呢?"
+
+msgid "Quiz Question #5 - How did I do?"
+msgstr "小測驗 #5- 我答的如何呢?"
+
+msgid "Quiz Question #6 - How did I do?"
+msgstr "小測驗 #6- 我答的如何呢?"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"

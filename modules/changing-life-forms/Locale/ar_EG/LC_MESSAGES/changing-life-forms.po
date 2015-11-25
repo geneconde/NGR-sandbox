@@ -1,0 +1,1310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Changing Life Forms\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Preparing your first quick check..."
+msgstr "التحضير لأول تقويم سريع!"
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "اختبار سريع  رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار سريع رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Cuddling bears..."
+msgstr "معانقة الدببة"
+
+msgid "Adapting to environment..."
+msgstr "التكيف مع البيئة ..."
+
+msgid "Woodpeckers burrowing for food..."
+msgstr "نقار الخشب يخبئ الطعام"
+
+msgid "Passing on to next generation..."
+msgstr "تمرر الى الجيل القادم.... "
+
+msgid "Changing environment..."
+msgstr "تغيير البيئة ..."
+
+msgid "Identifying species..."
+msgstr "تحديد الأنواع ..."
+
+msgid "Flying dark moth..."
+msgstr "الفراشة السوداء الطائرة ..."
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد لاخر اختبار لسريع؟ "
+
+msgid "Writing a fiction novel..."
+msgstr "كتابة رواية خيالية"
+
+msgid "Putting it all together..."
+msgstr "وضع كل ذلك معا"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الأول هو..."
+
+msgid "Studying natural selection..."
+msgstr "دراسة الانتقاء الطبيعي ..."
+
+msgid "Remembering Darwin's idea..."
+msgstr "تذكر  فكرة داروين ..."
+
+msgid "Determining the evolutionary change..."
+msgstr "تحديد التغير التطوري ..."
+
+msgid "Changing to survive..."
+msgstr "التغير للبقاء على قيد الحياة ..."
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال سريع ؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Changing Life Forms review,"
+msgstr "أهلاً بكم بمراجعة نماذج الحياة المتغيرة، "
+
+# 2
+msgid "Thinking about... changing life forms"
+msgstr " التفكير ب ... نماذج الحياة المتغيرة "
+
+msgid ""
+"Look at the flowers below. Don't they look similar to each other? They are "
+"all actually Mediterranean bee orchids. But they each belong to a separate "
+"species. Each flower is pollinated by a different kind of insect. They are "
+"so similar, yet they are not the same species of flower; they cannot "
+"interbreed."
+msgstr ""
+"أنظر إلى الزهور أدناه.  ألا تبدو متشابهة؟ في الواقع هي كلها سحلبيات "
+"البحرالأبيض المتوسط.  ولكن كل منهما تنتمي إلى أنواع منفصلة. يتم تلقح كل زهرة "
+"بواسطة نوع مختلف من الحشرات.  هي متشابهة جدا، ولكنها ليست من نفس نوع الزهور؛ "
+"انها لا تتهجن."
+
+msgid ""
+"There are many examples of living things similar to each other, but they "
+"have certain differences that set them apart. All the variety along with "
+"similar features led scientists to come up with different explanations about "
+"how living things change over time."
+msgstr ""
+"وهناك أمثلة كثيرة على كائنات حية مشابهة لبعضها البعض، ولكن لديها بعض "
+"الاختلافات التي تميزها عن غيرها.  كل التنوعات والميزات المشابهة تقود العلماء "
+"للتوصل إلى تفسيرات مختلفة حول كيفية تغيير الكائنات الحية على مر الزمن."
+
+# 3
+msgid "Checking what you know... about changing life forms"
+msgstr " تأكد مما تعرف ... حول نماذج الحياة المتغيرة"
+
+msgid ""
+"Which of the following statements <span class='blink'>best</span> describes "
+"an adaptation?"
+msgstr ""
+"أي من العبارات التالية الوصف <span class='blink'>الأفضل</span>  للتكيف؟"
+
+msgid ""
+"Adaptations are learned behaviors that help animals survive and reproduce."
+msgstr "يعلم التكيف السلوكيات التي تساعد الحيوانات على البقاء والتكاثر."
+
+msgid ""
+"Adaptations are inherited characteristics that make organisms more likely to "
+"survive and reproduce."
+msgstr ""
+"التكيفات هي خصائص متوارثة  تجعل  الكائنات الحية أكثر عرضة للبقاء على قيد "
+"الحياة والتكاثر."
+
+msgid ""
+"Adaptations result from animal mutations that occur in response to rapidly "
+"changing environments."
+msgstr ""
+"التكيفات تنتج عن الطفرات التي تحدث في الحيوان استجابة لبيئات سريعة التغير."
+
+msgid ""
+"Adaptations are rare and only occur in animals found in tropical rain "
+"forests."
+msgstr ""
+"التكيفات نادرة وتحدث فقط في الحيوانات الموجودة في الغابات الاستوائية الماطرة."
+
+msgid ""
+"Adaptations are inherited characteristics that help all organisms survive "
+"and reproduce. They are the result of random mutations to DNA. A mutation "
+"may cause no change; or be harmful, neutral, or beneficial. If it ever "
+"becomes important for survival, the change is called an adaptation."
+msgstr ""
+"التكيفات هي خصائص متوارثة تساعد الكائنات الحية في البقاء على قيد الحياة "
+"والتكاثر.  فهي نتيجة لطفرات عشوائية في الحمض النووي.  قد لا تسبب الطفرة أي "
+"تغيير؛ أو أن تكون ضارة، أو محايدة، أو مفيدة.   إذا أصبحت  يوما ما مهمة  من "
+"أجل البقاء، يسمى هذا التغيير تكيف."
+
+# 4
+msgid "Reviewing core ideas... about changing life forms"
+msgstr " استعراض الأفكار الجوهرية ... حول نماذج الحياة المتغيرة"
+
+msgid ""
+"There are many different kinds of living things in any area, and they exist "
+"in different places on land and in water. Look at the variety of plants and "
+"animals in the picture. Each habitat has certain conditions that life forms "
+"in it have to get used to and survive. So if it is really cold or hot, "
+"plants and animals still have to find a way to get nourished and reproduce. "
+"The variety of adaptations is as diverse as all the differences we see in "
+"nature. An <span class='key'>adaptation</span> is an inherited "
+"characteristic that gives the adapting organisms an improved chance for "
+"survival and reproduction."
+msgstr ""
+"هناك الكثير من الأنواع المختلفة من الكائنات الحية في أي منطقة، وهي موجود ة "
+"في أماكن مختلفة على الأرض وفي المياه.  إلق نظرة على المجموعة المتنوعة من "
+"النباتات والحيوانات في الصورة.  كل موطن به شروط معينة تكون الحياة فيه و "
+"تعتاد عليه للبقاء على قيد الحياة.  ومع ذلك، حتى لو كانت باردة أو حارة، "
+"فالنباتات والحيوانات لا تزال بحاجة لايجاد وسيلة تحصل بها على التغذية "
+"والتكاثر.  مجموعة متنوعة من التكيفات هي  مثل كل الاختلافات التي نراها في "
+"الطبيعة.  <span class='key'>التكيف</span>  هو سمة موروثة تعطي الكائنات "
+"الحية  فرص محسنة للبقاء على قيد الحياة والتكاثر."
+
+msgid ""
+"Hover your mouse on the images below to see the different kinds of animal "
+"adaptations."
+msgstr "مرر الماوس على الصور أدناه  لرؤية أنواع مختلفة من تكيفات الحيوان."
+
+msgid "Color patterns can protect animals from predators."
+msgstr "الأشكال الملونة تحمي الحيوانات من المفترسات."
+
+msgid "Downy feathers can help birds survive cold weather"
+msgstr ""
+"يمكن أن يساعد الريش الناعم الطيور في البقاء على قيد الحياة في الطقس البارد."
+
+msgid "Nostrils on the tops of heads allow whales to breathe efficiently."
+msgstr "الفتحة فوق رأس الحيتان تسمح لها بالتنفس بسلاسة."
+
+msgid "Single-toed hooves let horses run faster."
+msgstr "الحافر الواحد يجعل الحصان يركض أسرع."
+
+msgid ""
+"Adaptation leads to all the different plants and animals across the world. "
+"Each of the many unique and diverse places on earth has its own kinds of "
+"plants and animals."
+msgstr ""
+"التكيف له دور أساسي بمختلف أنواع  النباتات والحيوانات في جميع أنحاء العالم.  "
+"العديد من الأماكن الفريدة والمتنوعة على الأرض لها أنواع خاصة بها من النباتات "
+"والحيوانات."
+
+msgid ""
+"Around 200 years ago, a scientist named Charles Darwin explored one of those "
+"places called the Galapagos Islands. He observed and collected the different "
+"plants and animals that lived in that habitat. The Galapagos Islands are a "
+"series of volcanic islands, rising from the Pacific Ocean more than 600 "
+"miles west of South America.  Each island has a diverse set of ecosystems. "
+"An <span class='key'>ecosystem</span> is the unique set of living and non-"
+"living factors that combine to determine the types of plants and animals "
+"that can live in a certain location. Galapagos ecosystems range from desert "
+"to grassland to rainforest."
+msgstr ""
+"منذ حوالي 200 سنة،  عالم يدعى تشارلز داروين اكتشف واحدة من الأماكن تسمى جزر "
+"غالاباغوس.  لاحظ وجمع مختلف النباتات والحيوانات التي كانت تعيش في ذلك "
+"المواطن.  جزر غالاباغوس هي سلسلة من الجزر البركانية، وترتفع عن سطح المحيط "
+"الهادئ أكثر من 600 ميل (900 كيلو متر) إلى الغرب من أمريكا الجنوبية.  كل "
+"جزيرة لديها مجموعة متنوعة من النظم البيئية.   و <span class='key'>النظام "
+"البيئي</span> هو مجموعة فريدة من العوامل الحية وغير الحية التي تجتمع لتحدد "
+"أنواع النباتات والحيوانات التي يمكن أن تعيش في مكان معين.  النظم البيئية في "
+"غالاباغوس تتراوح بين الصحراء إلى الأراضي العشبية وإلى الغابات المطيرة."
+
+msgid "Small Ground-Finch"
+msgstr "نوع من أنواع العصافير الصغيرة "
+
+msgid "Medium Ground-Finch"
+msgstr "طائر القراوند فينيش المتوسط"
+
+msgid "Large Ground-Finch"
+msgstr "طائر القراوند فينيش الكبير"
+
+msgid ""
+"He noticed that on each island, a unique species of finch existed. They were "
+"all finches and very similar to one another, but their beaks were very "
+"different in shape and size. The beaks seemed to be related to the available "
+"resources on the island. Where there was fruit, the finches had beaks that "
+"were useful for eating fruit. On islands with insects, the finches had "
+"narrow beaks that could pick up insects one at a time. So Darwin thought the "
+"finches might have changed to become more specialized to suit their "
+"environment."
+msgstr ""
+"لقد لاحظ أن في كل جزيرة، أنواع فريدة من العصافير.  كانت العصافير مىتشابهة "
+"جدا ولكن كانت مناقيرها مختلفة جدا في الشكل والحجم.  يبدو أن المناقير لها صلة "
+"بالموارد المتاحة في تلك الجزيرة.  حيث كانت هناك الفاكهة، وكانت مناقير "
+"العصافير مفيدة لتناول الفاكهة.  على الجزر التي يوجد بها حشرات، العصافير التي "
+"لديها مناقير ضيقة تلتقط حشرة في كل وقت.  لذلك يعتقد داروين أن العصافير قد "
+"تغيرت لتصبح أكثر تخصصا لتتناسب مع بيئاتها."
+
+msgid ""
+"Living things adapt to different living conditions when they move into new "
+"locations.  They must also change when <span class='key'>environmental "
+"changes</span> occur in places they already live. Over the years, climate "
+"changes, rivers change their courses, fires rage, and predators prowl.  Life "
+"has the ability to adapt to whatever changes occur."
+msgstr ""
+"الكائنات الحية تتكيف مع الظروف المعيشية المختلفة عند انتقالها الى مواقع "
+"جديدة.  كما يجب أن تتغير عندما تحدث <span class='key'>تغيرات بيئية</span>  "
+"في الأماكن التي تعيش فيها أصلا.  على مر السنين، يتغير المناخ، والأنهار تغير "
+"مناهجها، والحرائق تهتاج، والحيوانات المفترسة تجوب.  الحياة لديها القدرة على "
+"التكيف مع كل ما يحدث من التغييرات."
+
+# 5
+msgid ""
+"Question A. Click on <span class='blink'>all</span> the biological "
+"adaptations from the following:"
+msgstr ""
+"السؤال أ. انقر على <span class='key'>جميع</span>  التكيفات البيولوجية من "
+"الآتي:"
+
+msgid "Falcons have a streamlined shape to fly faster."
+msgstr "الصقور لها شكل مبسط لتطير أسرع."
+
+msgid "Sports cars have a streamlined shape to drive faster."
+msgstr "السيارات لها شكل مبسط لدفع أسرع."
+
+msgid "Snow leopards' spots make them difficult to see in rocky habitats."
+msgstr "النقط الموجودة على الفهود الثلجية تجعل رؤيتها صعبة في الأماكن الصخرية."
+
+msgid "Most people wear heavy coats on cold winter days."
+msgstr "معظم الناس ترتدي المعاطف الثقيلة في أيام الشتاء الباردة."
+
+msgid ""
+"Question B. Which environmental change would most likely cause changes in "
+"nearby living things?"
+msgstr ""
+"السؤال ب. أي تغيير بيئي هو الأكثر احتمالا في إحداث تغييرات  في الكائنات "
+"الحية القريبة منها؟"
+
+msgid "A volcanic eruption more than a thousand kilometers away."
+msgstr "إنفجار بركان لمساقة أكثر من ألف كيلومتر بعيدا."
+
+msgid "A rapidly deepening canyon, more than 50 kilometers long."
+msgstr "عمق  الوادي ، أكثر من 50 كيلو مترا طولاً."
+
+msgid "A rapidly warming climate resulting in sea levels rising."
+msgstr "احترار المناخ بسرعة يؤدي إلى ارتفاع مستويات سطح البحر."
+
+msgid "A very long period without rain causing widespread drought."
+msgstr "مرور فترات طويلة جدا دون المطر يسبب الجفاف على نطاق واسع."
+
+msgid ""
+"Right! Faster flying makes catching prey more likely. Prey animals don't see "
+"the cats coming until it is too late."
+msgstr ""
+"صحيح! التحليق السريع يجعل اصطياد الفريسة  أكثر حدوثا.  فرائس الحيوانات لا "
+"ترى القطط القادمة حتى فوات الأوان."
+
+msgid ""
+"Not quite. Sports cars aren't alive. People only adjust for the weather. "
+"It's not an inherited trait. But faster flying makes catching prey more "
+"likely, and prey animals don't see the cats coming until it is too late."
+msgstr ""
+"ليس تماما.  السيارات الرياضية ليست حية.  يتكيف الأشخاص حسب الطقس.  هذه ليست "
+"سمة موروثة.  ولكن التحليق السريع يجعل اصطياد الفرائس أكثر حدوثا.  الحيوانات "
+"التي يتم افتراسها لا ترى القطط (المفترسة) الا بعد فوات الأوان."
+
+msgid ""
+"Probably not. A far away eruption would probably have widespread impacts."
+msgstr ""
+"على الأرجح لا.  من شأن انفجار البركان البعيد أن يكون له تأثير على نطاق واسع."
+
+msgid ""
+"Good choice! As the canyon becomes more of an obstacle, it isolates animals "
+"on both sides."
+msgstr ""
+"اختيار جيد! كلما أصبح الوادي أكثر صعوبة، كلما عزل الحيوانات على كلا الجانبين."
+
+msgid ""
+"Unlikely. A warming climate impacts living things over a very wide area, "
+"impacting nearby living things equally."
+msgstr ""
+"غير مرجح.  احترار المناخ يؤثر على الكائنات الحية على مساحة واسعة جدا، مما "
+"يؤثر على الكائنات الحية المجاورة على حد سواء."
+
+msgid ""
+"Not the best choice. Widespread drought means it happens over a wide area, "
+"impacting nearby living things equally."
+msgstr ""
+"ليس أفضل خيار.  الجفاف على نطاق واسع يعني أنه يحدث على مساحة واسعة، مما يؤثر "
+"على الكائنات الحية المجاورة على حد سواء."
+
+# 6
+msgid "More core ideas... about changing life forms"
+msgstr " أفكار جوهرية إضافية ...حول نماذج الحياة المتغيرة"
+
+msgid ""
+"All living things in an environment are trying to survive. They will try "
+"their best to find food and shelter, and reproduce to create more offspring. "
+"But not every environment is cut out for every living thing. Think of a "
+"cactus on an iceberg- how long do you think it would survive? Think of a "
+"penguin in a desert- do you think it would be able to reproduce? So in a "
+"particular habitat, some organisms can survive better than others. Some may "
+"not survive at all."
+msgstr ""
+"تحاول كل الكائنات الحية في بيئة ما أن تبقى على قيد الحياة.  وهي ستبذل قصارى "
+"جهدها للعثور على الغذاء والمأوى، وتتكاثر لخلق المزيد من الذرية.  ولكن ليس كل "
+"بيئة تخلق لكل كائن حي.  فكر في نبات الصبار على الجليد  هل تعتقد أنه سيبقى "
+"على قيد الحياة؟ فكر في عيش البطريق في الصحراء هل تعتقد أنه سيكون قادرا على "
+"التكاثر؟ اذا ، في مواطن خاصة، يمكن لبعض الكائنات الحية البقاء فيها على قيد "
+"الحياة أكثر من غيرها.  البعض قد لا يبقى على قيد الحياة على الإطلاق."
+
+msgid ""
+"Looking at beaks again, you can see how important beak size and shape is to "
+"these woodpeckers when it comes to finding food. The bird on the right has a "
+"long, thin beak that can easily access worms inside a tree. Whereas the bird "
+"on the left is similar to the other bird in many ways, but it does not have "
+"the long beak."
+msgstr ""
+"انظر الى المناقير مرة أخرى، يمكنك أن ترى مدى أهمية حجم المنقار وشكله  لطيور "
+"نقار الخشب عندما يتعلق الأمر بالعثور على الغذاء.  الطير على اليمين له منقار "
+"رقيق و طويل، والذي يمكنه الوصول الى الديدان داخل الشجرة بسهولة.  في حين أن "
+"الطير على اليسار هو مماثل للطيور الأخرى في نواح كثيرة، ولكن ليس لديه منقار "
+"طويل."
+
+msgid ""
+"Animals born with advantageous traits are more likely to live long enough to "
+"reach that goal."
+msgstr ""
+" الحيوانات التي تولد بسمات متميزة تكون أكثر ملائمةً للعيش لفترة طويلة حتى تصل "
+"إلى ذلك الهدف."
+
+msgid ""
+"Sometimes the differences in characteristics between individuals of the same "
+"species provide advantages in finding food and surviving. The species that "
+"survives well can reproduce and produce more of its kind that will continue "
+"to survive well."
+msgstr ""
+"أحيانا الاختلافات في الخصائص بين الأفراد من نفس النوع توفر مزايا في العثور "
+"على الطعام والبقاء على قيد الحياة.  الأنواع التي تعيش جيدا تتكاثر  وتنتج من "
+"نفس نوعها أكثر والتي من من شأنها الاستمرار في البقاء على قيد الحياة بشكل جيد."
+
+msgid ""
+"Sometimes characteristic differences help certain species stay alive. "
+"Consider a type of fish that is usually green. Because of a random DNA "
+"change, called <span class='key'>genetic mutation</span>, the color of two "
+"fish changes in one generation; one to a bright color, and one to a dark "
+"color. When a larger predator swims by, hungry for food, which is more "
+"likely to be seen and eaten? The brighter fish is more easily seen, and less "
+"likely to survive the encounter.  The darker fish is more likely to live "
+"long enough to mate and reproduce. Darwin called this <span "
+"class='key'>natural selection</span>."
+msgstr ""
+" في بعض الأحيان اختلافات مميزة تساعد أنواع معينة البقاء على قيد الحياة. خذ "
+"بالإعتبار مثلاً نوع من الأسماك التي عادة ما تكون خضراء.   بسبب تغيير الحمض "
+"النووي عشوائية، يسمى <span class='key'> طفرة جينية </span>، يتغير لون سمكتين "
+"في جيل واحد؛ واحدة تتحول إلى لون مشرق، وواحدة تتحول إلى اللون الداكن. عندما "
+"يسبح مفترس أكبر منها بجانبها ، وهو جائع للأغذية، أي من المرجح أن ينظر إليها "
+"ويأكلها؟ السمكة الأكثر إشراقا تكون أسهل كي تُشاهد، وأقل عرضة للبقاء على قيد "
+"الحياة لقاء. السمكة الداكنة من المرجح أن تعيش طويلا بما فيه الكفاية لتتزاوج "
+"وتتكاثر.  سمى داروين هذا <span class='key'> الانتقاء الطبيعي </ span>."
+
+# 7
+msgid ""
+"Question A. Click on the phrase that best describes a favorable mutation for "
+"a fox."
+msgstr "السؤال أ. اضغط على العبارة الأفضل وصفا للطفرة المواتيه للثعلب."
+
+msgid "A mutation that changes the fur of a fox to bright yellow."
+msgstr "الطفرة هي التي تغير الفراء في الثعلب إلى الأصفر الساطع."
+
+msgid "A mutation that makes a fox run faster."
+msgstr "الطفرة هي التي تجعل الثعلي يركض أسرع."
+
+msgid "A mutation that changes the eye color of a fox."
+msgstr "الطفرة هي التي تغير لون عين الثعلب"
+
+msgid "A mutation that gives a fox a third ear."
+msgstr "الطفرة هي التي تمنح الثعلب أذنا ثالثة"
+
+msgid ""
+"Question B. When will a change most likely be passed on to the next "
+"generation?"
+msgstr "السؤال ب. في أي وقت يمكن  للتغيير أن يمرر الى الجيل القادم؟"
+
+msgid "When it changes the physical characteristics of the living thing."
+msgstr "عندما تغير الخصائص الفيزيائية للكائن الحي."
+
+msgid "When it prevents the living thing from finding a mate."
+msgstr "عندما تمنع الكائن الحي من العثور على شريك."
+
+msgid "When it is completely random, without a specific purpose."
+msgstr "عندما تكون عشوائية كليا، دون سبب محدد."
+
+msgid "When it becomes an advantage to the survival of the living thing."
+msgstr "عندما تصبح ميزة لبقاء الكائن الحي على قيد الحياة."
+
+msgid ""
+"Not good. Bright yellow foxes would have a hard time sneaking up on prey."
+msgstr ""
+"ليس جيدا، الثعالب ذات اللون الأصفر الساطع تجد صعوبة في التسلل من  الفريسة."
+
+msgid "Yes! For a predator, faster is better."
+msgstr "نعم، بالنسبة للمفترسات، كلما كان أسرع كان أفضل."
+
+msgid "Eye color? Probably not a big deal to a fox."
+msgstr "لون العين؟ ربما ليس مشكلة كبيرة بالنسبة للثعلب."
+
+msgid ""
+"No. A mutation big enough to cause a third ear will most likely cause other "
+"deformities."
+msgstr ""
+"لا، الطفرة كبيرة بما يكفي لأن تسبب حدوث أذن ثالثة وعلى الأرجح ستسبب تشوهات "
+"أخرى."
+
+msgid "Sorry. It depends upon how a characteristic changes."
+msgstr "آسف. ذلك يعتمد على كيفية تغير الخاصية."
+
+msgid "No. Mating is necessary to pass traits along."
+msgstr "لا، التزاوج ضروري ليمرر الصفات لجيل آخر."
+
+msgid ""
+"Nope. This is tricky. Changes are random, without purpose, but sometimes "
+"they work out to be advantages."
+msgstr ""
+"كلا.  هذا خادع.  التغييرات عشوائية، بدون هدف، ولكن في بعض الأحيان تعمل لأن "
+"تصبح مزايا."
+
+msgid ""
+"There you go. Survival is the key. In order to reproduce, an organism must "
+"first survive."
+msgstr ""
+"ها أنت. البقاء على قيد الحياة هو المفتاح.  من أجل التكاثر، يجب البقاء على "
+"قيد الحياة للكائن الحي أولا."
+
+# 8
+msgid ""
+"The environment and resources change all the time. Some changes affect "
+"plants and animals and cause them to change over time as well. Let's look at "
+"the woodpecker example again. What if something happened to the trees, and "
+"there were no more worms for the long beaked birds to eat? The resources in "
+"the environment changed, and the characteristic that was once an advantage "
+"is no longer useful. Now the woodpecker on the left has the advantage "
+"because its beak can crack open nuts to survive. It will reproduce and "
+"create more of the species with that beak to survive the new conditions."
+msgstr ""
+"البيئة والموارد تتغير في كل وقت.  بعض التغييرات تؤثر على النباتات والحيوانات "
+"وتسبب لها التغير بمرور الوقت أيضا.  دعونا ننظر في مثال نقار الخشب مرة أخرى.  "
+"ماذا لو حدث شيء للأشجار، ولم يكن هنالك المزيد من الديدان للطيور ذات المنقار "
+"الطويل لتناول الطعام؟ الموارد في البيئة تغيرت، والسمة التي كانت ميزة لم تعد "
+"مجديةا.  الآن نقار الخشب على اليسار لديه ميزة لأن منقاره يمكن أن يكسر الجوز "
+"من أجل البقاء. فهي سوف تتكاثر وتنتج  أنواع أكثر من هذه المناقير من أجل "
+"البقاء في الظروف الجديدة."
+
+msgid ""
+"So, not everything in the environment stays the same. The variety that "
+"animals and plants have help them to survive changing conditions. The "
+"environment changes in different ways: the temperature may change, there may "
+"be less resources, there may be pollution caused by humans. Every living "
+"thing reacts differently to these changes. Some may survive and reproduce, "
+"others may not do so well and die. Some living things may move to new "
+"locations, and others might move into this new transformed environment."
+msgstr ""
+"وبذلك، لا يبقى كل شيء في البيئة على حاله.  تنوع الحيوانات والنباتات  قد "
+"تساعدها على البقاء في الظروف المتغيرة.  تغير البيئة بطرق مختلفة: قد تتغير "
+"درجة الحرارة، قد يكون هناك موارد أقل، قد يكون هناك تلوث ناجم عن البشر.  كل "
+"شيء حي يتفاعل بشكل مختلف مع هذه التغييرات.  البعض قد يعيش ويتكاثر، والبعض "
+"الآخر قد لا يعمل بشكل جيد ويموت.  بعض الكائنات الحية قد تنتقل إلى مواقع "
+"جديدة، والبعض الآخر يمكن أن يتحرك في هذه البيئة الجديدة المتحولة."
+
+msgid ""
+"Sometimes, a species may not have enough variation to allow any of its "
+"members to survive environmental changes. A species is said to be <span "
+"class='key'>extinct</span> when its last members die. Most of the species "
+"that have existed in earth's history are now extinct."
+msgstr ""
+"في بعض الأحيان،بعض الأنواع قد لا تكون مختلفة بما يكفي للسماح لأي من أعضائها "
+"البقاء ضمن التغيرات البيئية.  ويقال إن الأنواع <span class='key'> تنقرض</"
+"span> عندما يموت آخر عضو منها.  معظم الأنواع التي كانت موجودة في تاريخ الارض "
+"هي الآن منقرضة."
+
+msgid ""
+"The game is changing, but the rule of the game is still survival. Based on a "
+"few observations and a bit of logic, Darwin proposed the idea of <span "
+"class='key'>natural selection</span>."
+msgstr ""
+"اللعبة تتغير، ولكن قانون اللعبة لا يزال موجوداً.  بناءاً على بعض الملاحظات "
+"وقليلا من المنطق، اقترح داروين فكرة <span class='key'>الانتقاء الطبيعي</"
+"span>."
+
+msgid "Species produce large numbers of offspring."
+msgstr "الأنواع تنتج عدد كبير من الذرية."
+
+msgid "Resources available to organisms are limited."
+msgstr "الموارد المتاحة للكائنات محدودة."
+
+msgid "Limited resources create a competition for survival and reproduction."
+msgstr "الموارد المحدودة تخلق المنافسة من أجل البقاء والتكاثر."
+
+msgid "All species have inherited variations for nearly every characteristic."
+msgstr "ورثت جميع الأنواع تغييرات لكل خاصية تقريبا."
+
+msgid ""
+"The members of a population who survive and reproduce send their genetic "
+"information into future generations."
+msgstr ""
+"الأفراد من الشعوب التي عاشت وتكاثرت ،أرسلت المعلومات الجينية الوراثية إلى "
+"الأجيال القادمة."
+
+msgid ""
+"That's about it. Change happens because some traits get passed along and "
+"some don't. When changes add up to the point where some populations can no "
+"longer interbreed with others, new species result. When living things are "
+"from different species, they cannot breed with one another."
+msgstr ""
+"ذلك كل شيء.  يحدث التغيير لأن بعض الصفات تمرر والبعض الآخر لا.  عندما تضاف "
+"التغيرات لدرجة  أن بعض الأفراد لا يمكنهاالتزاوج مع بعضها البعض ، فتنتج أنواع "
+"جديدة.  عند ما تكون الكائنات الحية  من أنواع مختلفة، فإنها لا يمكن أن تتزاوج "
+"مع بعضها البعض."
+
+# 9
+msgid ""
+"Question A. The variations involved in evolution must be inherited because:"
+msgstr ""
+"السؤال أ. الاختلافات الداخلة في التطور يجب أن تكون موروثة للأسباب التالية:"
+
+msgid "They must be passed into later generations to be important."
+msgstr "لا بد من تمريرها إلى الأجيال اللاحقة  لتصبح ذات أهمية."
+
+msgid "They must not be passed into later generations to be important."
+msgstr "لا يجب تمريرها للأجيال القادمة لتصبح ذات أهمية."
+
+msgid "They must be unique to one individual only."
+msgstr "يجب أن تكون فريدة ومميزة لفرد واحد فقط."
+
+msgid "They must have occurred in both parents to matter."
+msgstr "يجب أن تكون قد حصلت لكل من الآب والأم  لتأخذ أهمية. "
+
+msgid ""
+"Question B. Which factor determines whether two living things are members of "
+"the same species?"
+msgstr ""
+"السؤال ب. ما هو العامل الذي يحدد ما إذا كان اثنين من الكائنات الحية هي أفراد "
+"من نفس النوع؟"
+
+msgid "The physical characteristics of the two living things."
+msgstr "الخصائص الفيزيائية لاثنين من الكائنات الحية."
+
+msgid "The environment in which the two living things live."
+msgstr "البيئة التي يعيش فيها اثنين من الكائنات الحية."
+
+msgid "Their ability to breed with one another."
+msgstr "القدرة على التزاوج مع بعضها البعض."
+
+msgid "All of the above."
+msgstr "كل ما ذكر أعلاه."
+
+msgid "Correct! It only changes a population if a trait is passed along."
+msgstr "صحيح، تتغير أفراد الشعوب اذا مرت الخصائص للأجيال."
+
+msgid "Sorry... If a trait isn't passed along, the population doesn't change."
+msgstr "آسف ... إذا لم يتم  تمرير السمة ، لن يتفير افراد المجتمع."
+
+msgid "No... It doesn't matter how many individuals have an important trait."
+msgstr "لا .. لا يهم كم من الأفراد لديهم صفات هامة."
+
+msgid "Nope. Inheritance can come from either or both parents."
+msgstr "كلا.  الوراثة يمكن أن تأتي من أحد أو كلا الوالدين."
+
+msgid "Important? Yes. Critical? No.  Appearances can be deceiving."
+msgstr "مهم؟ نعم.  حرج ؟  لا.  يمكن للمظاهر أن تخدع."
+
+msgid "Not really. Some species inhabit many different environments."
+msgstr "ليس تماما. بعض الأنواع تسكن في العديد من البيئات المختلفة."
+
+msgid "Yes!!! The ability to mate and produce successful offspring is the key."
+msgstr "نعم! القدرة على التزاوج والتكاثر الناجح هو المفتاح"
+
+msgid "No. Go back and reread each of the choices."
+msgstr "لا، ارجع الى الخلف وأعد قراءة  الخيارات."
+
+# 10
+msgid ""
+"Change happens. Things change all the time. As time passes, changes "
+"accumulate. When living things change, it's called evolution. Over the "
+"course of more than 4 billion years of earth history, living things have "
+"changed enough to account for all of the diversity of the life we see on our "
+"planet now."
+msgstr ""
+"التغيير يحدث.  الأمور تتغير في كل وقت.  مع مرور الوقت، التغيرات تتراكم.  "
+"عندما تتغير الكائنات الحية، فهذا يدعى تطور.  على مدى أكثر من 4 مليارات سنة "
+"من تاريخ الأرض، تغيرت الكائنات الحية بما فيه الكفاية لتأخذ بالحسبان كل "
+"تنوعات الحياة التي نراها على كوكبنا الآن."
+
+msgid ""
+"A well-known example of natural selection involves insects called peppered "
+"moths. As forests in central England became polluted with soot from "
+"factories, a type of common moth changed colors from gray to black. "
+"Pollution had changed the environment: the light trees covered by lichens "
+"turned dark and bare. This had an impact on the moths because the light "
+"moths' camouflage no longer worked in the dark forest. Meanwhile, the DNA of "
+"a single moth changed and the moth's color was dark. This moth reproduced "
+"and created more dark moths with better camouflage and a better chance of "
+"survival in the dark forest."
+msgstr ""
+"ومن الأمثلة المعروفة على الانتقاء الطبيعي حشرات تسمى العث .  عندما أصبحت "
+"الغابات في وسط انجلترا ملوثة من سخام المصانع،  نوع من العث الشائع تغيرت "
+"ألوانه من الرمادي إلى الأسود..  غيرالتلوث البيئة: الأشجارالمغطاة بالأشنات "
+"أصبحت داكنة وعارية.  وكان لهذا تأثير على العث بسبب تمويه ضوء العث والذي لم "
+"يعد يعمل في غابة مظلمة.  وفي الوقت نفسه، الحمض النووي لعثة واحدة تغير، ولون "
+"العث اصبح داكنا.  هذه العثة تكاثرت، وخلفت المزيد من العث الداكن  مع تمويه "
+"أفضل وفرصة أفضل للبقاء على قيد الحياة في غابة مظلمة."
+
+msgid ""
+"Natural selection caused the population of moths to have a darker color due "
+"to the changes in pollution. All living things have small differences "
+"between the individuals in the species. Not all finches look alike, nor do "
+"all St. Bernard dogs look alike. If one of those differences allows the "
+"individuals to live longer, they will have more offspring. As that trait is "
+"passed on, the entire species changes."
+msgstr ""
+"تسبب الانتقاء الطبيعي لمجموعات من العث أن يكون لونها أغمق بسبب التغيرات في "
+"التلوث. جميع الكائنات الحية لديها اختلافات صغيرة بين الأفراد في الأنواع. لا "
+"تتشابه  كل العصافير، وليس كل كلاب سانت برنارد تتشابه أيضا. ان كان واحدا من "
+"هذه الاختلافات يسمح للأفراد بالعيش لفترة أطول، سيكون لديه المزيد من الذرية.  "
+"وكما تمرر هذه السمات ، فان كل الأنواع تتغير."
+
+msgid ""
+"In the last fifty years, much effort has been put in to decrease the amount "
+"of pollution. With less pollution, the forests are becoming cleaner. Yes, "
+"the environment is changing again, and the number of dark moths are dropping."
+msgstr ""
+"في السنوات الخمسين الماضية، تم بذل الكثير من الجهود للتقليل من كمية التلوث.  "
+"مع تلوث أقل،  أصبحت الغابات أكثر نظافة. نعم، البيئة تتغير مرة أخرى، وعدد "
+"العث الداكن آخذ في الانخفاض."
+
+# 11
+msgid ""
+"Question A. Which of the following ideas is <span class='blink'>not</span> "
+"an essential part of natural selection?"
+msgstr ""
+"السؤال أ. أي من الأفكار التالية <span class='blink'>ليست</span>  جزءاً أساسيا "
+"من الانتقاء الطبيعي؟"
+
+msgid "Populations display inherited variations for nearly every trait."
+msgstr "يعرض السكان الاختلافات الموروثة لكل سمة تقريبا."
+
+msgid "Species produce very large numbers of offspring."
+msgstr "الأنواع تنتج أعداد كبيرة جدا من الذرية."
+
+msgid "There is a competition for survival in nature."
+msgstr "هناك منافسة من أجل البقاء في الطبيعة."
+
+msgid "Every few million years, a comet strikes the earth."
+msgstr "في كل بضعة ملايين من السنين،  يضرب مذنب الأرض."
+
+msgid ""
+"Question B. The example of the peppered moths living near English industrial "
+"cities demonstrates that:"
+msgstr ""
+"السؤال ب.  مثال العث والذي يعيش بالقرب من المدن الصناعية الانجليزية يوضح ما "
+"يلي:"
+
+msgid ""
+"A change in an environment can result in the evolution of species living "
+"there."
+msgstr "أي تغيير في البيئة يمكن أن يؤدي إلى تطور أنواع من الكائنات الحية هناك."
+
+msgid ""
+"The environment near these cities has always favored dark colored moths."
+msgstr "البيئة التي تكون بقرب هذه المدن تفضل دائما العث الداكن اللون."
+
+msgid ""
+"Evolution occurs so slowly that it is not possible to determine that it has "
+"happened in less than a million years."
+msgstr ""
+"يحدث التطور ببطء حتى أنه ليس من الممكن تحديد حدوثه في أقل من مليون سنة."
+
+msgid "None of the above."
+msgstr "لا شيء مما ذكر أعلاه."
+
+msgid "Nope. It's true, but this is an important part of natural selection."
+msgstr "كلا.  هذا صحيح، ولكن هذا هو جزء مهم من الانتقاء الطبيعي."
+
+msgid "Sorry. Natural selection depends upon this one."
+msgstr "آسف.  الانتقاء الطبيعي يعتمد على هذا ."
+
+msgid "Not this one. This is a key point in natural selection."
+msgstr "ليس هذا. هذه هي النقطة الأساسية في الانتقاء الطبيعي."
+
+msgid ""
+"Bingo! While this is true, and does affect evolution, it's not part of the "
+"natural selection idea."
+msgstr ""
+"صحيح! في حين أن هذا صحيح، ويؤثر في التطور، انه ليس جزءا من فكرة الانتقاء "
+"الطبيعي."
+
+msgid ""
+"Correct. The traits nature selects for or against can change as the "
+"environment changes."
+msgstr "صحيح.  طبيعة الصفات تختار مع او ضد وقد تتغير مع تغير البيئة."
+
+msgid ""
+"Not quite. When air pollution was reduced during the last few decades, tree "
+"bark became lighter in color. As a result, lighter colored moths were "
+"favored."
+msgstr ""
+"ليس تماما.  عندما تم التقليل من  تلوث الهواء خلال العقود القليلة الماضية، "
+"أصبح لحاء الشجرة أخف في اللون.  ونتيجة لذلك، العث ذا اللون الفاتح هو المحبذ."
+
+msgid ""
+"No. In species with short generational times, such as moths and other "
+"insects, evolution can often be seen in just a few decades or less."
+msgstr ""
+"لا، في الأنواع  قصيرة الجيل، مثل العث والحشرات الأخرى،  التطور يمكن أن يحدث "
+"في بضع عقود أو أقل."
+
+msgid ""
+"No. The traits nature selects for or against can change as the environment "
+"changes. The environment near cities does not favor dark colored moths, and "
+"evolution in species with short generational times, evolution can often be "
+"seen in just a few decades or less."
+msgstr ""
+"صحيح.  طبيعة الصفات تختار مع او ضد وقد تتغير مع تغير البيئة. البيئة القريبة "
+"من المدن لا تحبذ العث داكن اللون، والتطور في الأنواع يحدث في  أوقات قصيرة، "
+"وفي كثير من الأحيان التطور يحدث في بضعة عقود أو أقل."
+
+msgid ""
+"No. The traits nature selects for or against can change as the environment "
+"changes. The environment near cities does not favor dark colored moths, and "
+"evolution in species with short generational times can often be seen in just "
+"a few decades or less."
+msgstr ""
+"صحيح. طبيعة الصفات تختار مع او ضد وقد تتغير مع تغير البيئة. البيئة القريبة "
+"من المدن لا تحبذ العث داكن اللون، والتطور في الأنواع يحدث في أوقات قصيرة، "
+"وفي كثير من الأحيان التطور يحدث في بضعة عقود أو أقل."
+
+# 12
+msgid "Using what you know... about changing life forms... to solve a problem"
+msgstr " استخدم ما تعرف ... حول نماذج الحياة المتغيرة ... لحل مشكلة."
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid ""
+"You are a science fiction novelist developing ideas for a new book. Your "
+"book is about the 21st century and all the technological changes. Cars can "
+"fly and people have machines that do almost everything for them. So what "
+"would this mean to people in such an advanced world of technology?"
+msgstr ""
+"أنت روائي في الخيال العلمي يطور أفكار لكتاب جديد. كتابك هو حول القرن 21 "
+"وجميع التغيرات التكنولوجية. السيارات يمكن أن تطير والناس لديها الآلات التي "
+"تفعل كل شيء لهم تقريبا .اذا ماذا يمكن أن يعني هذا للناس في مثل هذا العالم "
+"المتقدم في التكنولوجيا؟"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك ... "
+
+msgid ""
+"Based on what you now know about natural selection and how the environment "
+"changes affect living things over time, decide which human traits to change "
+"in your novel. Explain what skills people would need to survive in your new, "
+"high-tech world, and how people would have to be different to stay alive and "
+"prosper. Which traits would people no longer have to have your new world?"
+msgstr ""
+"بناء على ما تعرفه الآن عن الانتقاء الطبيعي، وكيف أن تغير البيئة يؤثر في "
+"الكائنات الحية على مر الزمن،حدد  أي الصفات البشرية لتغيرها  في روايتك. اشرح "
+"ما يحتاجه الناس من  مهارات للبقاء على قيد الحياة في العالم الجديد، ذات "
+"التقنية العالية  وكيف يمكن للناس أن يكونوا مختلفين للبقاء على قيد الحياة "
+"والازدهار. أي من الصفات  لم تعد موجودة للناس ليكون في العالم الجديد الخاص بك؟"
+
+msgid ""
+"Based on what you now know about natural selection and how the environment "
+"changes affect living things over time, decide which human traits to change "
+"in your novel. Explain what skills people would need to survive in your new, "
+"high-tech world, and how people would have to be different to stay alive and "
+"prosper. Which traits would people no longer have to have in your new world?"
+msgstr ""
+"بناء على ما تعرفه الآن عن الانتقاء الطبيعي، وكيف أن تغير البيئة يؤثر في "
+"الكائنات الحية على مر الزمن،حدد  أي الصفات البشرية لتغيرها  في روايتك. اشرح "
+"ما يحتاجه الناس من  مهارات للبقاء على قيد الحياة في العالم الجديد، ذات "
+"التقنية العالية  وكيف يمكن للناس أن يكونوا مختلفين للبقاء على قيد الحياة "
+"والازدهار. أي من الصفات  لم تعد موجودة للناس ليكون في العالم الجديد الخاص بك؟"
+
+msgid "Please type your answer."
+msgstr "يرجى كتابة جوابك."
+
+# 13
+msgid "Summarizing core ideas... about changing life forms"
+msgstr " تلخيص الأفكار الأساسية ... حول نماذج الحياة المتغيرة "
+
+msgid ""
+"There are many different kinds of living things in any area, and they exist "
+"in different places on land and in water. Changes in an organism's habitat "
+"are sometimes beneficial to it and sometimes harmful. For any particular "
+"environment, some kinds of organisms survive well, some survive less well, "
+"and some cannot survive at all. <span class='key'>Adaptation</span> by <span "
+"class='key'>natural selection</span> acting over generations is one "
+"important process by which species change over time in response to changes "
+"in environmental conditions. The environment is dynamic in nature; its "
+"characteristics can vary over time. Disruptions to any part of the "
+"environment can lead to shifts in all its populations. Traits that support "
+"successful survival and reproduction in the new environment become more "
+"common; those that do not become less common. Thus, the distribution of "
+"traits in a population changes."
+msgstr ""
+"هناك العديد من الأنواع المختلفة من الكائنات الحية في أي  منطقة، وهي موجودة "
+"في أماكن مختلفة على الأرض وفي الماء. التغيرات في مسكن الكائن الحي مفيدة "
+"وضارة في بعض الأحيان. لأي بيئة ، بعض أنواع الكائنات الحية تبقى على قيد "
+"الحياة بشكل جيد، وبعضها ينجو بشكل أقل، وبعضها لا يمكن النجاة على الإطلاق.  "
+"<span class='key'>التكيف</span> بواسطة <span class='key'>الانتقاء الطبيعي</"
+"span> عبر الأجيال هو عملية مهمة تتغير فيها الأنواع على مر الزمن وتستجيب "
+"للتغيرات في الظروف البيئية.  البيئة تكون حيوية في الطبيعة؛ يمكن أن تختلف "
+"خصائصها مع مرور الوقت.  تعطل أي جزء من البيئة يمكن أن يؤدي إلى تحولات في كل "
+"الجماعات.  الصفات التي تدعم البقاء والتكاثر الناجح في البيئة الجديدة أصبحت "
+"أكثر شيوعا؛ والصفات التي ليست كذلك تصبح أقل شيوعا. وبالتالي، فإن توزيع "
+"الصفات على الجماعات يتغير."
+
+# 14
+msgid "Reviewing key vocabulary related to... changing life forms"
+msgstr " استعراض المصطلحات المرتبطة ب ... نماذج الحياة المتغيرة"
+
+msgid "Adaptation"
+msgstr "التكيف"
+
+msgid "Natural selection"
+msgstr "الانتقاء الطبيعي"
+
+msgid "Environmental change"
+msgstr "التغير البيئي"
+
+msgid "Genetic mutation"
+msgstr "طفرة جينية"
+
+msgid "Extinction"
+msgstr "الانقراض"
+
+msgid "Ecosystem"
+msgstr "النظام البيئي"
+
+msgid ""
+"An inherited characteristic that may give a life form a better chance of "
+"survival. Animals that are better adapted are more likely to reproduce and "
+"pass on their adaptations."
+msgstr ""
+"السمة الموروثة التي قد تعطي شكل من أشكال الحياة فرصة أفضل للبقاء على قيد "
+"الحياة.  الحيوانات التي تتكيف على نحو أفضل هي أكثر عرضة للتكاثر و توريث "
+"التكيفات الخاصة بها."
+
+msgid ""
+"An example would be the giraffe. Giraffes' long necks allow them to obtain "
+"food that other animals cannot reach."
+msgstr ""
+"على سبيل المثال الزرافة. أعناق الزرافات الطويلة تسمح لهم بالحصول على الغذاء "
+"الذي لا تستطيع الحيوانات الأخرى الوصول إليه."
+
+msgid ""
+"Animals that are best adapted to survive will be the ones most likely to "
+"reproduce and pass on their genes. This results in a decrease in the total "
+"diversity of a population over time."
+msgstr ""
+"الحيوانات التي تتكيف بشكل أفضل لتبقى على قيد الحياة تكون الأكثر احتمالا "
+"للتكاثر وتوريث جيناتها.  هذا يؤدي إلى انخفاض في التنوع في مجموعة الأفراد مع "
+"مرور الوقت."
+
+msgid ""
+"An example would be the shift in the peppered moth populations. Lighter "
+"colored moths survive more frequently around light colored trees, while dark "
+"colored moths survive more frequently around dark colored trees."
+msgstr ""
+"مثال على ذلك هو  التحول في مجموعة العث . العث الفاتح يبقى على قيد الحياة على "
+"نحو  متكرر أكثر حول الأشجار الملونة الخفيفة، في حين أن العث داكن اللون يبقى "
+"على قيد الحياة  بشكل متكرر أكثر حول أشجار داكنة اللون."
+
+msgid ""
+"A change in the surroundings that affects the organisms living there. "
+"Environmental change may favor a species or members of a species and drive "
+"natural selection."
+msgstr ""
+"أي تغيير في البيئة المحيطة  يؤثر على الكائنات الحية التي تعيش هناك.  التغير "
+"البيئي قد يفضل أنواع أو أفراد  من الأنواع و المضي قدما نحو الانتقاء الطبيعي."
+
+msgid ""
+"Examples may include natural disasters, the introduction of an invasive "
+"species, climate change, or human interference."
+msgstr ""
+"يمكن أن تشمل الأمثلة الكوارث الطبيعية، وإدخال الأنواع الغازية، وتغير المناخ، "
+"أو تدخل الإنسان."
+
+msgid ""
+"DNA that is incorrectly copied can result in differences in an organism. "
+"These differences may be beneficial, resulting in the organism being better "
+"adapted. They may also be harmful, resulting in the organism being less well "
+"adapted. Many mutations, however, cause changes that have no significant "
+"effect on the organism as a whole."
+msgstr ""
+"الحمض النووي الذي يتم نسخه بشكل غير صحيح يمكن أن يؤدي إلى اختلافات في الكائن "
+"الحي.  قد تكون هذه الاختلافات مفيدة، اذا تكيف الكائن بشكل أفضل من هذه "
+"النتيجة.  قد تكون أيضا ضارة، اذا تكيف الكائن بشكل أقل.  مع ذلك ، العديد من "
+"الطفرات، تسبب تغيرات  ليس لها تأثير كبير على الكائن الحي ككل."
+
+msgid ""
+"If no members of a species are able to reproduce, the species will cease to "
+"exist and become extinct. The vast majority of species that have existed in "
+"earth's history are now extinct."
+msgstr ""
+"إذا لم تكن الأفراد من الأنواع قادرة على التكاثر، فإن الأنواع تزول من الوجود "
+"وتصبح منقرضة.  الغالبية العظمى من الأنواع التي كانت موجودة في تاريخ الارض هي "
+"الآن منقرضة."
+
+msgid ""
+"An ecosystem is living and non-living components of an area that co-exist in "
+"a balance. If the balance is disrupted by something such as an environmental "
+"change, some or all species may experience natural selection, or possibly go "
+"extinct."
+msgstr ""
+"النظام البيئي يشمل الكائنات الحية و غير الحية في المنطقة التي تعيش في "
+"توازن.  إذا اختل التوازن في شيء مثل التغير البيئي، فان بعض أو كل الأنواع قد "
+"تواجه الانتقاء الطبيعي، أو ربما تنقرض."
+
+# 15
+msgid "Checking what you now know... about changing life forms"
+msgstr " تأكد مما تعرف الآن ... حول نماذج الحياة المتغيرة "
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+# 16
+msgid "Choose the <span class='blink'>best</span> example of an adaptation."
+msgstr "اختر المثال الأصح للتكيف"
+
+msgid "Parrots learn to say phrases by copying people."
+msgstr "الببغاوات تتعلم تكلم الجمل عن طريق تقليد البشر."
+
+msgid "Polar bears' hollow fur keeps them warm and makes swimming easier."
+msgstr "فراء  الدببة القطبية الجوفاء  يبقيها دافئة ويجعل السباحة أسهل."
+
+msgid "A tropical rainforest is cleared by fire."
+msgstr "الغابات الاستوائية الماطرة تزال بالنيران."
+
+msgid "Rice fields are harvested at the end of a growing season."
+msgstr "يتم حصاد حقول الأرز في نهاية موسم النمو."
+
+msgid "Not an adaptation. Learning isn't inherited."
+msgstr "ليس تكيفا.  التعلم لا يورث."
+
+msgid "Right. The fur is an important adaptation."
+msgstr "صحيح.  يعتبر الفراء من التكيفات المهمة."
+
+msgid "Sorry. The rainforest clearing is only temporary."
+msgstr "آسف.  هدم الغابات المطيرة هو مؤقت فقط."
+
+msgid "Nope. The harvest happens every year."
+msgstr "لا، الحصاد يحدث كل سنة."
+
+# 17
+msgid "Natural selection does <span class='blink'>not</span> involve..."
+msgstr "الانتقاء الطبيعي <span class='blink'>ليس </span> مشمولا..ً."
+
+msgid "Some types of variation are inherited."
+msgstr "بعض أنواع التغيرات هي موروثة."
+
+msgid "People have carefully chosen horses to breed for special traits."
+msgstr "يختار الناس الأحصنة بحذر لتتوالد وبالتالي الحصول على صفات خاصة."
+
+msgid "There is a competition for survival."
+msgstr "هنالك منافسة على البقاء."
+
+msgid "Some traits make an organism especially able to survive in its habitat."
+msgstr "بعض السمات تجعل الكائن الحي قادرا وخاصة على البقاء في موطنه. "
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدير الصندوق وحدد إجابتك"
+
+msgid "Nope. Inherited variation is a key part of natural selection."
+msgstr "كلا.  التغيرات الموروثة هي جزء رئيسي من الانتقاء الطبيعي."
+
+msgid "Right! Choosing which animals breed takes nature out of the selection."
+msgstr "صحيح،اختيار اي من الحيوانات لتتوالد تبقي الطبيعة خارج موضوع الاختيار."
+
+msgid "Nope. Competition is very important in natural selection."
+msgstr "كلا، التنافس مهم جدا في الانتقاء الطبيعي."
+
+msgid "Sorry. Survival and reproduction are key in natural selection."
+msgstr "أسف.  بقاء الحياة والتكاثر هما مفتاح في الانتقاء الطبيعي."
+
+# 18
+msgid ""
+"Which of the following environmental changes is least likely to lead to "
+"evolutionary change?"
+msgstr "أي من التغيرات البيئية التالية هي أقل احتمالا لتحدث تغير ثوري؟"
+
+msgid "Eruption of a supervolcano on an island."
+msgstr "ثوران بركان عملاق على جزيرة."
+
+msgid "A large meteorite impact."
+msgstr "تأثير النيزك الكبير."
+
+msgid "A small group of people walking across a prairie."
+msgstr "مجموعة صغيرة من الناس يسيرون عبر المروج."
+
+msgid "The climate warming over a short period of time."
+msgstr "ارتفاع درجة حرارة المناخ خلال فترة قصيرة من الزمن."
+
+msgid "No. This actually could lead to some major changes."
+msgstr "لا.  في الواقع هذا قد يؤدي إلى بعض التغييرات الكبرى."
+
+msgid "Sorry. Large meteorite impacts have had profound impacts in the past."
+msgstr "آسف.  آثار نيزك كبير كان لها  تأثيرات عميقة في الماضي."
+
+msgid "Correct. Simply walking through an area is likely to be harmless."
+msgstr "صحيح. المشي في منطقة معينة من المرجح أن يكون غير ضار."
+
+msgid "Nope. Climate change has been shown to cause significant changes."
+msgstr "كلا.  وقد تبين أن تغير المناخ  قد يسبب تغيرات مهمة."
+
+# 19
+msgid ""
+"Which of the following statements is consistent with Darwin's idea of "
+"natural selection?"
+msgstr "أي من العبارات التالية تتماشى مع فكرة داروين في الانتقاء الطبيعي؟"
+
+msgid "Larger individuals tend to have more offspring."
+msgstr "الأفراد الأكبر حجما  يميلون إلى أن يكون لديهم ذرية أكثر ."
+
+msgid ""
+"Individuals better adapted to the environment tend to leave more offspring."
+msgstr "الأفراد الأفضل تكيفا مع البيئة يميلون إلى ترك  ذرية أكثر."
+
+msgid "Individuals with variations tend to survive longer."
+msgstr "الأفراد المختلفة تميل إلى البقاء على قيد الحياة لفترة أطول."
+
+msgid ""
+"Survival of individuals is more important in natural selection than in "
+"reproduction."
+msgstr ""
+"بقاء الأفراد على قيد الحياة أكثر أهمية في الانتقاء الطبيعي مما كانت عليه في "
+"التكاثر."
+
+msgid "Nope. Size has little to do with numbers of offspring."
+msgstr "كلا. الحجم ليس له أي علاقة في أعداد الذرية."
+
+msgid ""
+"Correct! Having more offspring means that individuals are better adapted."
+msgstr "صحيح! وجود المزيد من الذرية يعني أن الأفراد يتم تكييفها على نحو أفضل."
+
+msgid "Sorry. All individuals display variations in many different traits."
+msgstr "آسف. يعرض جميع الأفراد الاختلافات في الكثير من الصفات المختلفة."
+
+msgid "Nope. Reproduction is key to natural selection."
+msgstr "كلا. الاستنساخ هو المفتاح للانتقاء الطبيعي."
+
+# 20
+msgid ""
+"A certain bird species preys upon insects that live on tree trunks. Over a "
+"period of time, the insects burrow deeper and deeper into the bark to avoid "
+"being eaten. Which of the following changes is likely to occur in the bird "
+"population?"
+msgstr ""
+"تفترس بعض أنواع الطيور الحشرات التي تعيش على جذوع الأشجار.  على مدى فترة من "
+"الزمن، الحشرات تحفر أعمق وأعمق في اللحاء لتجنب التعرض للأكل.  أي من التغيرات "
+"التالية من المرجح أن يحدث عند أسراب الطيور؟"
+
+msgid "The birds would lay eggs earlier each spring."
+msgstr "قد تضع الطيور بيوضها في وقت سابق كل ربيع."
+
+msgid "The birds would migrate later each fall."
+msgstr "قد تهاجر الطيور في وقت لاحق كل خريف."
+
+msgid "Beaks would become longer and thinner over time."
+msgstr "المناقيرستصبح أطول وأنحف مع مرور الوقت"
+
+msgid "Spot patterns on eggs would change to darker colors."
+msgstr "إن أشكال البقع على البيض تتغيرالى  اللون الداكن."
+
+msgid ""
+"Not likely. We can't predict a relationship between insect depth and mating "
+"time."
+msgstr ""
+"ليس محتملا.  نحن لا نستطيع أن نتنبأ بالعلاقة بين عمق الحشرات ووقت التزاوج."
+
+msgid "Nope. We have no reason to predict any change in migration."
+msgstr "كلا. ليس لدينا أي سبب لتوقع أي تغيير في الهجرة."
+
+msgid "Correct! Selection will favor longer, thinner beaks to catch food."
+msgstr "صحيح! والاختيار يفضل أن يكون ، مناقير طويلة ورقيقة لالتقاط الطعام."
+
+msgid "Sorry. There's no reason to link food location to spot patterns."
+msgstr "آسف.  ليس هناك سبب لربط موقع الطعام بأنماط البقع."
+
+# 21
+msgid ""
+"The chart shows the survival rate of peppered moth over time (2002-2007). "
+"The blue dashed line shows the fraction of light colored moth that survived. "
+"The red solid line shows the fraction of dark colored moth that survived. "
+"Use this chart to click on the statement that is <span class='blink'>not "
+"correct</span> regarding this data and what you know about environment "
+"changes."
+msgstr ""
+"يوضح الرسم البياني نسبة البقاء على قيد الحياة في العث بين العام "
+"(2001-2007).  الخط الأزرق المتقطع يظهر جزء من العثة فاتحة اللون والتي بقيت "
+"على قيد الحياة. الخط الأحمر المتين يظهر جزء من العث الداكن والذي بقي على قيد "
+"الحياة.  استخدم هذا الرسم البياني للنقر على العبارة <span class='blink'>غير</"
+"span> الصحيحة فيما يتعلق بهذه البيانات وما تعرفه عن تغيرات البيئة."
+
+msgid ""
+"The survival rates of light and dark moth populations are changing from "
+"2002-2007."
+msgstr ""
+"معدلات البقاء على قيد الحياة في مجتمعات عث الضوء وعث الظلام تتغير 2002-2007."
+
+msgid ""
+"In 2004, light colored moths were more likely to survive than dark moths."
+msgstr ""
+"في عام 2004، عث الضوء الملون كان ملائماً أكثر للبقاء على قيد الحياة من عث "
+"الظلام."
+
+msgid ""
+"From 2005 to 2006 something must have caused the survival rate of dark "
+"colored moths to increase."
+msgstr ""
+"من 2005 إلى 2006 شيء ما قد تسبب في ازدياد  معدل بقاء العث الداكن على قيد "
+"الحياة."
+
+msgid ""
+"In 2003, the fraction of light colored moths that survived show that "
+"pollution must be low."
+msgstr ""
+"في عام 2003، جزء من العث ذا اللون الفاتح  بقي على قيد الحياة  أظهر أن التلوث "
+"يجب أن يكون منخفضا."
+
+msgid ""
+"No. The population rate changes are illustrated by the peaks and valleys of "
+"the chart."
+msgstr ""
+"لا.  تغيرات معدل النمو موضحة بالقمم العليا والقمم الدنيا في الرسم البياني."
+
+msgid ""
+"No. The point indicated by the blue line is higher than the one indicated by "
+"the red line."
+msgstr ""
+"لا.  النقطة المشار إليها في الخط الأزرق هي أعلى من النقطة المشار إليها في "
+"الخط الأحمر."
+
+msgid ""
+"No. The red line increases from 2005-2006. Some factors did cause the "
+"survival rate to increase."
+msgstr ""
+"لا. يتزايد الخط الأحمر من 2005-2006.  بعض العوامل سببت تزايد معدل البقاء على "
+"قيد الحياة."
+
+msgid ""
+"Correct, this statement is false. In 2003, the light colored moths were at "
+"their lowest survival rate, which shows that population might have been "
+"high, the trees dark, and the light colored moths could not survive as well. "
+"Pollution is one factor that affects the population of these moths."
+msgstr ""
+"صحيح، هذه العبارة خطأ.  في عام 2003، كانت الفراشات الفاتحة اللون في أدنى "
+"المعدلات لبقائها على قيد الحياة، مما يدل على ان المجموعات قد تكون عالية، "
+"والأشجار داكنة، والعث الفاتح اللون  لا يمكنه البقاء كذلك.  التلوث هو أحد "
+"العوامل التي تؤثر على مجموعات العث."
+
+# 22
+msgid "Congratulations"
+msgstr "مبروك"
+
+msgid "You've completed the Changing Life Forms review."
+msgstr " لقد أكملت مراجعة نماذج الحياة المتغيرة."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك تفقد اجاباتك في الاختبار السريع و الاسئلة القصيرة بالنقر على الزر "
+"المبين أدناه."

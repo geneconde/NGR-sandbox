@@ -1,0 +1,1055 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "إختبار قصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار قصير رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر فوق، وعقد وحرك الماوس صعودا وهبوطا لتدوير مربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "في العمل"
+
+msgid "The Problem"
+msgstr "مشكلة"
+
+msgid "Your Assignment"
+msgstr "تعيين الخاص"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Congratulations"
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وبالأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "استعداد للمشاركة الشيك سريعة؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "استعداد للمسابقة مشاركة سؤالك؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1.
+msgid "Welcome to the Chemical and Physical Changes module"
+msgstr "مرحبا بكم في وحدة  التغيرات الفيزيائية والكيميائية"
+
+# 2.
+msgid "Thinking about... chemical and physical changes"
+msgstr "التفكير.. بالتغييرات الكيميائية والفيزيائية"
+
+msgid "Remember your last birthday when you were blowing the candles out on your birthday cake? That whole experience was made possible by chemical and physical changes in matter!"
+msgstr "هل تذكر عيد ميلادك الماضي عندما نفخت على شموع  كعكة عيد ميلادك؟ هذه الخبرة أصبحت ممكنة  بفضل التغيرات الكيميائية والفيزيائية في المادة!"
+
+msgid ""
+"There's a lot to be learned at your birthday party about how different kinds of matter interact to cause chemical and physical changes in matter. The baking of your birthday cake involves chemical "
+"reactions that are good examples of chemical changes in the ingredients that make the cake. The burning of the candles involves both physical changes and chemical changes in the matter that makes up "
+"the candles. But the making of the lemonade you drink and making the ice that keeps the lemonade cold are not chemical changes – they are physical changes that happen in the sugar, the water and the "
+"lemonade mix that make your lemonade. Let's see what all of this means."
+msgstr ""
+"هناك الكثير مما يمكن تعلمه من حفل عيد ميلادك عن كيفية تفاعل المواد بسبب التغيرات الكيميائية والفيزيائية فيها.  خبز كعكة عيد ميلادك يتضمن التفاعلات الكيميائية والتي تعتبر أمثلة جيدة على التغيرات "
+"الكيميائية في المكونات التي نحضر الكعكة منها.  فحرق الشموع يشمل كل من التغيرات الفيزيائية والتغيرات الكيميائية في المادة التي تكون الشموع.  ولكن صنع عصير الليمون الذي تشربه والثلج الذي يحافظ على برودة "
+"عصير الليمون ليست تغيرات كيميائية - فهي تغيرات فيزيائية تحدث في السكر، فخليط الماء وعصير الليمون يكون مزيج من عصير الليمون الذي تشربه. دعونا نرى ماذا يعني كل هذا."
+
+# 3.
+msgid "Checking what you know about... chemical and physical changes"
+msgstr "التأكد مما تعرفه عن ... الكيميائية والتغيرات الفيزيائية"
+
+msgid "When the ingredients in the bowl change to become a cake, what do you think is the <span class='blink'>best explanation</span> for what happens?"
+msgstr "عندما تتغير المكونات في الوعاء لتصبح كعكة، ما هو أفضل تفسير برأيك لما يحدث؟"
+
+msgid "Stirring the ingredients together causes them to mix and change to make the cake."
+msgstr "تحريك المكونات معا يسبب مزج هذه المكونات فتتغير لتكون الكعكة."
+
+msgid "The chemicals that make up the ingredients automatically combine to make new chemicals in the cake."
+msgstr "تندمج المواد الكيميائية التي تشكل المكونات تلقائيا لتكوين مواد كيميائية جديدة في الكعكة."
+
+msgid "The heat from the oven causes the chemicals in the ingredients to have a chemical reaction to form new chemicals that make up the cake."
+msgstr "الحرارة من الفرن تسبب تفاعل كيميائي في المواد الكيميائية الموجودة في المكونات فتشكل مواد كيميائية جديدة والتي في النهاية تكون الكعكة."
+
+msgid "Cake mixes from the grocery store automatically make cakes when you cook them."
+msgstr "مزيج الكعك الجاهز من البقالة يصنع الكعك تلقائيا عند طهوه."
+
+msgid ""
+"Simply stirring the ingredients together just makes a mixture of ingredients but not a cake. Even if you let the mixture sit for a long time, you still won't get a cake. The chemicals in the "
+"ingredients, like the eggs and milk and sugar, don't automatically combine and change to make the cake. The heat from the oven causes the chemicals that make up the cake ingredients to have a chemical "
+"reaction that changes them into new chemicals that make up a cake. These new chemicals give the cake its new properties that are different from those of the ingredients. You can't taste raw eggs or "
+"flour or milk anymore. But you can taste cake."
+msgstr ""
+"تحريك المكونات ببساطة يكوّن مزيجا من المكونات ولكن لا يصنع  كعكة.  حتى لو تركت المزيج لفترة طويلة، فأنت لن تحصل على الكعكة.  المواد الكيميائية في المكونات، مثل البيض والحليب والسكر، لا تندمج تلقائيا "
+"وتتغير لتصبح كعكة.  حرارة الفرن تسبب تفاعلاً كيميائياً في المواد الكيميائية الموجودة داخل المكونات لتشكيل مواد كيميائية جديدة والتي تكون الكعكة.  هذه المواد الكيميائية الجديدة تعطي الكعكة خصائص جديدة "
+"تختلف عن تلك المكونات. لا يمكنك تذوق البيض النيء أو الدقيق أو الحليب بعدها.  ولكن يمكنك تذوق الكعكة."
+
+msgid "Baking sweet cakes..."
+msgstr "خبز الكعك الحلو "
+
+# 4.
+msgid "Reviewing big ideas about... chemical and physical changes"
+msgstr "مراجعة الأفكار الرئيسية حول ... التغيرات الكيميائية و الفيزيائية"
+
+msgid ""
+"Let's start by making lemonade!! There's nothing like a nice big glass of cold lemonade to wash down that delicious birthday cake. Making lemonade for your birthday party is a good example of mixing "
+"two or more different substances and getting a new substance that has different <span class='key'>properties</span>. That's what scientists call a <span class='key'>physical change</span>. Let's make "
+"some lemonade and see what that means."
+msgstr ""
+"دعونا نبدأ بصنع عصير الليمون !! لا يوجد شيء أجمل وألذ من كوب كبير من عصير الليمون البارد لإزالة طعم هذه الكعكة اللذيذة.  صنع عصير الليمون لحفلة عيد ميلادك هو مثال جيد لمزج اثنين أو أكثر من المواد "
+"المختلفة، والحصول على مادة جديدة لها <span class='key'>خصائص مختلفة</span>، وهذا ما يسميه العلماء <span class='key'>التغير الفيزيائي </span>. دعونا نصنع عصير الليمون ونرى ما معنى ذلك."
+
+msgid "Water"
+msgstr "ماء"
+
+msgid "Plus"
+msgstr "إضافة"
+
+msgid "Powdered Lemonade Mix"
+msgstr "مزيج مسحوق عصير الليمون "
+
+msgid "Sugar"
+msgstr "سكر"
+
+msgid "Equals"
+msgstr "يساوي"
+
+msgid "Lemonade"
+msgstr "عصير الليمون"
+
+msgid ""
+"When you mix the lemonade mix with water and sugar, you get a new substance with new properties - lemonade. The lemonade mix by itself is dry and \"lemony\" tasting but bitter. The water by itself is "
+"wet but tasteless. And the sugar is dry but sweet. Mix them all together and you get lemonade, which has the properties of all three ingredients combined – wet, lemony-tasting, and sweet – but are "
+"different from each of the ingredients by themselves. Lemonade is a good example of a <span class='key'>mixture</span>."
+msgstr ""
+"عند خلط مزيج عصير الليمون مع الماء والسكر، تحصل على مادة جديدة ذات خصائص جديدة - عصير الليمون.  مزيج عصير الليمون بحد ذاته جاف وطعمه ليمون ولكن مر.  الماء بحد ذاته رطب ولكن ليس له طعم.  والسكر جاف ولكن "
+"طعمه حلو.  امزجها كلها مع بعضها وستحصل على عصير الليمون، والذي يمتلك خصائص كافة المكونات الثلاثة مجتمعة - الرطب، والحامض، والحلو - ولكنه يختلف عن كل من المكونات لوحده، عصير الليمون هو مثال جيد على "
+"<span class='key'>المزيج</span> ."
+
+msgid ""
+"A mixture is an example of a physical change because the original ingredients, like the sugar, the water, and the lemonade mix, don't turn into new chemicals – they just mix together. If you simply let "
+"the lemonade stand on your table long enough – and it may take a couple of days – the water part of the mixture will eventually <span class='key'>evaporate</span> – which means it goes up into the air "
+"and becomes part of the air. Then, if you look in the bottom of the pitcher, you'll see the sugar and the lemonade mix are still there!  It came back!! Well, it was always there, but it was just mixed "
+"in with the water. The sugar always stayed sugar, and the lemonade mix stayed lemonade mix. They never changed into anything else. And the water <span class='key'>evaporating</span> – going from liquid "
+"to gas – is another example of a <span class='key'>physical change</span>. We'll talk more about that later."
+msgstr ""
+"المزيج هو مثال على التغير الفيزيائي لأن المكونات الأصلية، مثل السكر والماء، ومزيج عصير الليمون، لا تتحول إلى مواد كيميائية جديدة - هي فقط ممزوجة معا. . إذا تركت عصير الليمون على طاولتك فترة طويلة - أو "
+"لعدة أيام- ففي نهاية المطاف سيتبخر الماء الموجود في المزيج.  ذلك يعني أنه سيرتفع في الهواء وسيصبح جزءا من الهوا.  بعد ذلك، إذا نظرت الى أسفل الإبريق، سترى مزيج السكر وعصير الليمون  لا يزال هناك! هل "
+"عاد !! حسنا، لقد كان دائما موجودا هناك، لكنه كان مختلطا مع الماء فقط. السكر يبقى دائما سكرا، و مزيج عصير الليمون سيبقى هو نفسه.  لن يتغيروا الى اي شيء آخر. والماء فترة سوف <span class='key'>يتبخر</"
+"span> - الانتقال من الحالة السائلة إلى الحالة الغازية - هو مثال آخر على <span class='key'>التغير الفيزيائي </span>. سوف نتحدث أكثر عن ذلك لاحقا."
+
+msgid ""
+"And here's something else that's important about mixing <span class='key'>substances</span> together that causes physical changes. Even though the mixture might have new properties compared to the "
+"ingredients, the weight (or mass) of the mixture is always exactly the same as the weight of all the ingredients combined. No new matter is created or none of the matter is destroyed. This idea is "
+"called <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science."
+msgstr ""
+"وهنا شيء آخر مهم حول مزج <span class='key'>المواد</span> معا والذي يسبب التغيرات الفيزيائية على الرغم من أن المزيج قد يكون له خواص جديدة مقارنة مع المكونات، وزن (أو كتلة) الخليط يكون دائما نفسه كوزن "
+"جميع المكونات مجتمعة. لا يتم تكوين مادة جديدة أو إتلاف أيا من هذه المواد. وتسمى هذه الفكرة  <span class='key'>حفظ المواد</span> وتعد واحدة من أهم الأفكار في جميع العلوم."
+
+msgid "Extracting lemonade..."
+msgstr "استخراج عصير الليمون ..."
+
+# 5.
+msgid "Question A. When sugar is added to water to sweeten the lemonade, it:"
+msgstr "السؤال أ. عند إضافة السكر إلى الماء لتحلية عصير الليمون، فإنه:"
+
+msgid "Disappears."
+msgstr "يختفي."
+
+msgid "Is still sugar but dissolved in the water."
+msgstr "يبقى السكر  في الماء ولكنه يذوب"
+
+msgid "Reacts with the water to create a new kind of matter."
+msgstr "يتفاعل مع الماء لتكوين مادة جديدة."
+
+msgid "Reacts with the water to change into something sweet."
+msgstr "يتفاعل مع الماء ليتحول الى شيئ حلو."
+
+msgid "Question B. When a physical change in matter occurs:"
+msgstr "السؤال ب. عند حدوث تغير فيزيائي في المادة:"
+
+msgid "The properties of the matter are changed forever."
+msgstr "ستتغير خصائص هذه المادة إلى الأبد."
+
+msgid "The matter can be changed back into its original properties."
+msgstr "يمكن إعادة  خصائص المادة الأصلية مرة أخرى."
+
+msgid "New properties of the matter are created that can't be changed back to the original properties."
+msgstr "يتم تكوين خصائص جديدة لهذه المادة التي لا يمكن إعادتها إلى الخصائص الأصلية."
+
+msgid "Nothing happens to the properties of the matter."
+msgstr "لا يحدث أي شيء إلى خصائص هذه المادة."
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير أول تقويم سريع..."
+
+msgid "No – You can't see the sugar in the lemonade – but it doesn't disappear – it's still in the lemonade making it sweet."
+msgstr "لا - لا يمكنك رؤية السكر في عصير الليمون - لكنه لا يختفي - هو يبقى في عصير الليمون ليجعل طعمه حلواً."
+
+msgid "Yes – the sugar is still sugar but it's dissolved in the water."
+msgstr "نعم - السكر  يبقى سكر ولكنه ذاب في الماء"
+
+msgid "No – sugar dissolves in water but stays sugar. It doesn't become a new kind of matter."
+msgstr "لا - السكر يذوب في الماء ولكنه يبقى سكراً. فهو لا يتحول إلى مادة جديدة."
+
+msgid "No – The sugar was sweet to begin with. It doesn't become sweet by dissolving in the water. In a physical change, many of the original properties don't change."
+msgstr "لا - يكون السكر حلو عند البدء بتناوله. ولا يصبح حلوا عن طريق إذابته في الماء. في التغيير الفيزيائي، العديد من الخصائص الأصلية لا تتغير."
+
+msgid "No - In a physical change, many of the original properties don't change. And if they do change, like liquid water turning into ice, the properties can easily be changed back again."
+msgstr "لا - في التغيير الفيزيائي، العديد من الخصائص الأصلية لا تتغير.  وإذا تغيرت ، مثل تحول الماء السائل الى جليد، يمكن للخصائص أن تتغير مرة أخرى بسهولة ليرجع إلى ما كان عليه أصلاً>  "
+
+msgid "Yes - The matter can be changed back into its original properties."
+msgstr "نعم - يمكن أن تتغير المادة مرة أخرى وترجع إلى الخصائص الأصلية."
+
+msgid "No – No new properties of matter are created in physical changes that can't be changed back again to the original properties."
+msgstr "لا - لا يتم تكوين خصائص جديدة للمادة في التغيرات الفيزيائية والتي لا يمكن إرجاعها مرة أخرى إلى خصائصها الأصلية."
+
+msgid "No – Something can happen to the properties of the matter – like water becoming hard when it freezes. But it can change back to the original water simply by melting."
+msgstr "لا - يمكن أن يحدث شيء إلى خصائص المادة -مثل تحول الماء الى الحالة الصلبة عندما يتجمد.  ولكنه يمكن أن يرجع مرة أخرى إلى الحالة الأصلية ببساطة عن طريق الذوبان."
+
+# 6.
+msgid "Reviewing more big ideas about... chemical and physical changes"
+msgstr "مراجعة الأفكار الرئيسية حول ...التغيرات الكيميائية و الفيزيائية"
+
+msgid "Now that we have some tasty lemonade for our party, let's make some ice cubes to keep it cold."
+msgstr "الآن لدينا بعضا من عصير الليمون اللذيذ من أجل حفلتنا، دعونا نصنع بعض مكعبات الثلج لإبقائه باردا."
+
+msgid "Ice Cube Tray"
+msgstr "علبة مكعبات الثلج"
+
+msgid "Freezer"
+msgstr " مُجَمِد"
+
+msgid "Ice"
+msgstr "جليد"
+
+msgid ""
+"Making ice cubes is even easier than making lemonade! All you have to do is add some liquid water to an ice cube tray, put it in the freezer, and wait a couple of hours until it freezes into solid "
+"water – called ice. It's called changing states of matter - in this case from liquid to solid. Changing states of matter of substances occur because of changes in temperature. This is another example "
+"of a physical change that can happen to a substance. Most substances like water can commonly exist in three different states of matter – solids, liquids, and gas. But what makes water unusual is that "
+"it can exist in all three states of matter at temperatures that commonly occur in everyday life on earth."
+msgstr ""
+"لعل صنع مكعبات الثلج  أسهل من صنع عصير الليمون! كل ما عليك القيام به هو إضافة بعض الماء السائل إلى علبة مكعبات الثلج، ووضعها في المجمدة، والانتظار بضع ساعات حتى يتجمد ويتحول إلى الحالة الصلبة - "
+"الجليد.  هذا يسمى تغير حالات  المادة - وفي هذه الحالة تحول من السائل إلى الصلب.  تغيير حالات مادة من المواد تحدث بسبب التغيرات في درجة الحرارة. وهنا مثال آخر على التغيير الفيزيائي الذي يمكن أن يحدث "
+"للمادة. يمكن لمعظم المواد كالماء أن توجد  في ثلاث حالات مختلفة من المواد - المواد الصلبة والسائلة والغازية.  ولكن ما يجعل المياه غير عادية هو أنه يمكن أن تتشكل في جميع الحالات الثلاث الموجودة في المادة "
+"في درجات الحرارة التي تحدث عموما في الحياة اليومية على الأرض."
+
+msgid ""
+"<span class='key'>Changing states of matter</span> just means changing a substance – like water - from a solid to a liquid or a liquid to a gas – or going the other way - from a gas to a liquid or a "
+"liquid to a solid, simply by changing the temperature. In making ice cubes, the water changed its properties from being liquid at room temperature to being cold and solid when it freezes. But it's "
+"still water. It didn't change what it is - just some of its properties changed. And - if you just leave the ice alone at room temperature for an hour or so, the ice will melt back to liquid water "
+"again– or change from a solid state – ice - into the liquid state - liquid water – all by itself. That means the process of changing states of matter is <span class='key'>reversible</span>. It can go "
+"either way."
+msgstr ""
+"تغيير حالات  المادة يعني مجرد تغيير للمادة - كالماء - من الحالة الصلبة إلى الحالة السائلة أو السائلة إلى الحالة الغازية - أو الانتقال بطريقة أخرى - من غاز إلى سائل أو السائل إلى مادة صلبة، وذلك ببساطة "
+"عن طريق تغيير درجة الحرارة.  فعند صنع مكعبات الثلج، غير الماء خصائصه من السائلة في درجة حرارة الغرفة إلى بارد وصلب عندما يتجمد. لكنه لا يزال ماءا. لم يغير ما هو عليه - فقط قام بتغيير بعض من خصائصه. إذا "
+"تركت الجليد وحده في درجة حرارة الغرفة لمدة ساعة أو نحو ذلك، فإن الجليد سيذوب ويرجع للحالة السائلة أو يتغير من الحالة الصلبة - الجليد - إلى الحالة السائلة - الماء- من تلقاء نفسه.  وهذا يعني أن عملية "
+"تغيير حالات المادة <span class='key'>قابلة للعكس</span> . ويمكن أن تحدث في الاتجاهين ."
+
+msgid ""
+"Most matter can exist in a solid state, liquid state, or gaseous state, depending on the temperature. But sometimes, for some substances like iron, the temperature has to be really hot – like in a "
+"really hot furnace to get it to become liquid."
+msgstr ""
+"يمكن أن تتواجد معظم المواد  في الحالة الصلبة،أو الحالة السائلة أو الحالة الغازية، تبعا لدرجة الحرارة.  لكن في بعض الأحيان، بالنسبة لبعض المواد مثل الحديد ،يجب أن تكون درجة الحرارة عالية  فعلا - كما في "
+"الفرن الساخن لجعله سائلا."
+
+msgid "Putting ice cubes..."
+msgstr "وضع مكعبات الثلج ..."
+
+# 7.
+msgid "Question A. Which of the following properties of matter is most important in causing matter to change its state?"
+msgstr "السؤال أ. أي من الخصائص التالية للمادة هي الأكثر أهمية في التسبب بتغيير حالة المادة؟"
+
+msgid "Size"
+msgstr "الحجم"
+
+msgid "Temperature"
+msgstr "درجة الحرارة"
+
+msgid "Shape"
+msgstr "الشكل "
+
+msgid "Color"
+msgstr "اللون"
+
+msgid "Question B. Which of the following is <span class='blink'>NOT</span> an example of matter changing its state?"
+msgstr "السؤال ب. أي مما يلي<span class='blink'> ليس</span> مثالا على المواد التي تغير حالتها؟"
+
+msgid "Any solid substance turning into a liquid"
+msgstr "أي مادة صلبة تتحول إلى السائلة"
+
+msgid "Liquid water freezing"
+msgstr "تجميد الماء السائل"
+
+msgid "Water evaporating"
+msgstr "تبخر المياه"
+
+msgid "Liquid water getting cold"
+msgstr "الماء السائل يصبح باردا"
+
+msgid "Changing state of matter..."
+msgstr "تغير حالة المادة "
+
+msgid ""
+"Not really – the size of a substance may change because of a change in state – like liquid water expands and gets bigger when it freezes – but that doesn't cause the water to freeze and change state – "
+"it's the result of water freezing."
+msgstr "ليس صحيحاً -  قد يتغير حجم المادة بسبب التغير في الحالة- مثل توسع الماء السائل ويصبح حجمه أكبر عندما يتجمد - ولكن هذا لا يتسبب بتجميد الماء وتغير حالته - انها نتيجة لتجميد الماء."
+
+msgid ""
+"Yes – The temperature of any substance normally is the cause of most common substances changing state under normal conditions. For instance, when you cool liquid water to below its freezing point, it "
+"changes state to become solid ice."
+msgstr "نعم - درجة حرارة أي مادة عادة هي سبب تغيير حالة معظم المواد المشتركة في ظل ظروف طبيعية. على سبيل المثال، عند تبريد الماء السائل إلى ما دون درجة التجمد، فإنه يغير حالته ليصبح جليد صلب."
+
+msgid "No – The shape of a substance doesn't cause it to change states."
+msgstr "لا - شكل المادة لا يتسبب في تغيير حالتها."
+
+msgid ""
+"No – The color of a substance doesn’t cause it to change states. But if a substance is dark-colored, it may absorb sunlight more than if it was a light color. This might heat it up and cause it to "
+"melt. But it’s still the temperature increase that causes the melting."
+msgstr ""
+"لا - لون المادة لا يتسبب في تغيير حالتها. ولكن إذا كانت المادة داكنة اللون، يمكن أن يحدث امتصاص ضوء الشمس أكثر مما لو كان لونها فاتحاً.  هذا يمكن أن يسخنها أو أن يذيبها.  لكن ارتفاع درجة الحرارة يتسبب "
+"في ذوبانها."
+
+msgid "Not quite – substance turning from a solid to a liquid is called melting – which is a change of state."
+msgstr "ويسمى تحول المادة من الحالة الصلبة إلى الحالة السائلة ذوبان - - وهو تغير في المادة."
+
+msgid "Not quite – water freezing – going from a liquid to a solid - is a change of state."
+msgstr "ليس تماما - تجميد المياه - الانتقال من الحالة السائلة إلى الحالة الصلبة - هو تغيير في المادة."
+
+msgid "Not quite – water evaporating – going from a liquid to a gas - is a change of state."
+msgstr "ليس تماما - تبخر المياه - الانتقال من الحالة السائلة إلى الحالة الغازية - هو تغيرفي المادة."
+
+msgid "Correct – Liquid water getting colder – without freezing is not a change of state. It starts out liquid and is still liquid after it gets colder, so there's no change of state."
+msgstr "صحيح - عندما تزداد برودة  الماء السائل - دون تجمد فهذا لا يعتبر تغير في حالة المادة.  يكون الماء في البداية وفي النهاية سائلا عندما يتعرض للتبريد، لذلك ليس هناك تغيير في حالة المادة."
+
+# 8.
+msgid ""
+"Now let's think about the cake. Did you happen to watch your mother or someone else make the cake? They added some white powdered flour, some sugar, butter, milk, eggs, and baking powder all together "
+"in a big bowl. The recipe calls these \"ingredients\" but scientists think of them as <span class='key'>chemical compounds</span>. It looks like a big mess, doesn't it? Does it look like something "
+"you'd want to eat?  But then all the ingredients got mixed together and put in the hot oven to bake. Then what happened? After baking in the oven at about 350 degrees for 30-45 minutes, that big mess "
+"in the bowl changed. Out popped a cake that looks and feels and tastes totally different than the ingredients before baking. Look at the ingredients in the bowl, then look at the slice of cake. How do "
+"you think the properties of the cake – the taste, the color, the way it feels – are different from the properties of the ingredients? What do you think happened to cause those changes?"
+msgstr ""
+"دعونا الآن نفكر في الكعكة.  هل سبق ورأيت أمك أو أي أحد يقوم بصنع الكعكة؟ لقد أضافوا  بعضا من مسحوق الدقيق، بعضا من السكر،والزبدة، والحليب،والبيض، ومسحوق الخَبز كلها في وعاء كبير.  الوصفة تسمى كل هذه "
+"بالمكونات، ولكن يعتبرها العلماء <span class='key'>كمركبات كيميائية</span>. تبدو كفوضى كبيرة، أليس كذلك؟هل تبدو كشيء تريد أكله؟ لكن بعد ذلك تمتزج المكونات كلها معا وتوضع في الفرن الساخن لتنخبز.  ثم ماذا "
+"يحصل بعد ذلك؟ بعد الخبز على درجة حرارة 350 لمدة 30-45 دقيقة، تحولت هذه الفوضى الكبيرة.  ظهرت الكعكة التي يبدو شكلها وطعمها مختلف تماما عن المكونات قبل الخبز. انظرعلى المكونات في الوعاء، ثم انظر الى "
+"قطعة من الكعكة. كيف ترى بأن خصائص الكعكة - الطعم، اللون  يختلف عن خصائص المكونات؟ ماذا حدث برأيك لهذه التغيرات؟"
+
+msgid "Lots of complicated <span class='key'>chemical changes</span> happen when a cake bakes. But let's look at just one chemical change that's really important - how the cake rises."
+msgstr "الكثير من <span class='key'>التغيرات الكيميائية</span> المعقدة تحدث عندما تنخبز الكعكة.  ولكن دعونا ننظر في تغيير كيميائي واحد فقط  وهو مهم حقا - كيف ترتفع الكعكة"
+
+msgid "Sodium bicarbonate"
+msgstr "بيكربونات الصوديوم"
+
+msgid "Citric acid"
+msgstr "حمض الستريك"
+
+msgid ""
+"One of the ingredients in the cake is baking powder. Baking powder is composed of two chemical compounds – sodium bicarbonate and a very weak and harmless acid - that react together when heated to make "
+"two new chemicals – carbon dioxide gas – CO<sub>2</sub> – plus some water."
+msgstr ""
+"واحدة من المكونات في الكعكة هي مسحوق الخبز. يتكون مسحوق الخبز من اثنين من المركبات الكيميائية - بيكربونات الصوديوم وحمض ضعيف جدا وغير ضار - واللذان يتفاعلان معا عند تسخينها لتكوين اثنين من المواد "
+"الكيميائية الجديدة - غاز ثاني أكسيد الكربون بالإضافة إلى بعض الماء."
+
+msgid "As the cake cooks, the CO<sub>2</sub> gas gets in between the little cake particles and lifts them up and pushes them apart to cause the cake to rise. This reaction is:"
+msgstr "عندما تُطهى الكعكة، يدخل غاز ثاني أكسيد الكربون داخل جزيئات الكعكة وتقوم برفعهم وفصلهم عن بعضهم البعض لترتفع الكعكة وتنتفخ.  هذا التفاعل هو: "
+
+msgid "NaHCO"
+msgstr "NaHCO"
+
+msgid "H+"
+msgstr "H+"
+
+msgid "CO<sub>2"
+msgstr "CO<sub>2"
+
+msgid "H<sub>2</sub>O"
+msgstr "H<sub>2<sub>O"
+
+msgid "Becomes"
+msgstr "يصبح"
+
+msgid "Acid"
+msgstr "حامض"
+
+msgid "Carbon dioxide"
+msgstr "ثاني أكسيد الكربون"
+
+msgid ""
+"The big difference between physical changes, like changes of state, and chemical changes, like the baking of the cake, is that in a chemical change or reaction, the change in the substances can't be "
+"reversed. In other words, once you make the cake, you can't get back the eggs, and milk, and baking soda."
+msgstr ""
+"الفرق كبير بين التغيرات الفيزيائية، مثل التغيرات في المادة، والتغيرات الكيميائية، مثل خبز الكعكة، هو أنه في التغيير الكيميائي أو رد الفعل، التغيير في المواد لا يمكن عكسه.  وبعبارة أخرى، وبمجرد أن تصنع "
+"الكعكة، لا يمكنك الحصول على البيض مرة أخرى، والحليب، وصودا الخبز."
+
+msgid "Pre-heating oven..."
+msgstr "تسخين الفرن قبل ..."
+
+# 9.
+msgid "Question A. Which of the following cake ingredients is <span class='blink'>not</span> a chemical compound?"
+msgstr "السؤال أ. أي من مكونات الكعكة التالية  ليس مركباً كيميائياً؟"
+
+msgid "Egg"
+msgstr "بيضة"
+
+msgid "Baking soda"
+msgstr "بيكربونات الصوديوم/صودا الخبز"
+
+msgid "None of the above"
+msgstr "لا شيء مما سبق"
+
+msgid "Question B. Which of the following statements are <span class='blink'>false</span> about chemical compounds?"
+msgstr "السؤال ب.  أي من العبارات التالية <span class='blink'>خاطئة</span> عن المركبات الكيميائية؟"
+
+msgid "All chemicals are bad for you so never eat or go near any chemical compounds."
+msgstr "جميع المواد الكيميائية سيئة بالنسبة اليك لذا لا تأكل أو تقترب من أي مركبات كيميائية مطلقاً."
+
+msgid "Almost everything in the universe is made up of chemical compounds – some of them are bad for you and some of them are good."
+msgstr "يتكون كل شيء تقريبا في الكون من مركبات كيميائية - بعضها سيء بالنسبة لك وبعضها جيد."
+
+msgid "Some chemical compounds are necessary for your everyday survival."
+msgstr "بعض المركبات الكيميائية ضرورية للبقاء على قيد الحياة كل يوم"
+
+msgid "It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "من المهم أن نفهم الأفكار حول المواد الكيميائية حتى تعرف المواد الضارة والجيدة بالنسبة اليك"
+
+msgid "Sorting cake ingredients..."
+msgstr "صنف مكونات الكعكة ..."
+
+msgid "Not quite – Eggs are made from very complicated chemical compounds."
+msgstr "ليس تماما - البيض مصنوع من مركبات كيميائية معقدة للغاية."
+
+msgid "Not quite – Sugar is the chemical C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>  which means it's made up from the elements carbon, hydrogen, and oxygen."
+msgstr "ليس تماما - السكر هو المادة الكيميائية 6H<sub>12</sub>O<sub>6</sub>C مما يعني انها مصنوعة من عنصر الكربون والهيدروجين والأكسجين."
+
+msgid "Not quite – baking soda is Sodium bicarbonate - NaHCO<sub>3</sub>. Even though it's a chemical it's totally safe to have in your cake."
+msgstr "ليس تماما - صودا الخبز هو بيكربونات الصوديوم  <sub>3</sub>NaHCO.  على الرغم من انها مادة كيميائية إلا انها آمنة تماما لتكون داخل كعكتك."
+
+msgid "Yes – all of the ingredients your mom puts in your birthday cake are really chemicals."
+msgstr "نعم - كل من المكونات التي تضعها أمك في كعكة عيد ميلادك هي في حقا مواد الكيميائية."
+
+msgid ""
+"Yes – This is a false statement. Not all chemical compounds are bad for you. In fact some are critical to life – like water – which is the chemical compound H<sub>2</sub>O – is critical for your "
+"survival."
+msgstr ""
+"نعم - وهذه عبارة ليست صحيحة.  ليست كل المركبات الكيميائية سيئة بالنسبة لك.  في الواقع بعضها بالغ الأهمية في الحياة - مثل الماء - والذي هو مركب كيميائي <sub>O<sub>2<sub>H بالغ الأهمية من أجل ان تبقى على "
+"قيد الحياة"
+
+msgid "Not quite – This is a true statement - Almost everything in the universe is made up from chemical compounds. Some of them are bad for you and some of them are good."
+msgstr "ليس تماما - هذه عبارة صحيحة- كل شيء تقريبا في الكون يتكون من المركبات الكيميائية. بعضها سيء بالنسبة لك وبعضها جيد."
+
+msgid "Not Quite - This is a true statement. Some chemical compounds are necessary for your everyday survival – like water – which is the chemical compound H<sub>2</sub>O is critical for your survival."
+msgstr "ليس تماما -هذه عبارة صحيحة. بعض المركبات الكيميائية ضرورية لتبقى على قيد الحياة- مثل الماء - الذي هو مركب كيميائي O<sub>2<sub>H هو أمر حاسم لتبقى على قيد الحياة."
+
+msgid "Not quite – This is a true statement - It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "ليس تماما - هذه عبارة صحيحة- من المهم أن نفهم الأفكار حول المواد الكيميائية حتى تعرف ما هي المواد السيئة  والجيدة بالنسبة اليك."
+
+# 10.
+msgid "More big ideas about... chemical and physical changes"
+msgstr "المزيد من الأفكار الكبيرة حول ... التغيرات الكيميائية والفيزيائية"
+
+msgid "How about burning the candles on the cake – is that a chemical or a physical change? Well, it turns out it's both!!"
+msgstr "ماذا عن احتراق الشموع الموجودة على الكعكة - هل هو تغير كيميائي أو فيزيائي؟ حسنا،لقد اتضح انه الاثنين معاً !!"
+
+msgid ""
+"The candles are made of wax – which is a chemical compound made of the <span class='key'>elements</span> carbon and hydrogen. A <span class='key'>chemical compound</span> is when two or more different "
+"elements – like carbon and hydrogen - combine to form a compound like wax, or when hydrogen and oxygen combine to form a different compound called water."
+msgstr ""
+"تتكون الشموع من الشمع - وهي مركب كيميائي مصنوع من <span class='key'>عناصر</span>  الكربون والهيدروجين.  <span class='key'>المركب الكيميائي</span> هو عندما يندمج اثنين أو أكثر من العناصر المختلفة - مثل "
+"الكربون والهيدروجين -  لتشكيل مركب مثل الشمع، أو عندما يجتمع الهيدروجين والأكسجين  لتشكيل مركب مختلف يسمى الماء."
+
+msgid ""
+"When you light the candles, the heat from the burning candlewick – the string - melts some of the solid wax and turns it into liquid wax. That's a physical change because the change is reversible – "
+"which means, if you just let the melted wax cool - it will turn right back into solid wax again. But here's something that's not so obvious – the heat also turns some liquid wax into a gas. That's also "
+"a physical change because if you could quickly cool the gas again, it would turn back into liquid and then solid wax."
+msgstr ""
+"عندما تضيء الشموع، تذيب فتيلة الشمعة( الخيط) بعضا من الشمع الصلب وتحوله الى شمع سائل.  يعتبر هذا تغيرا فيزيائيا لأن هذا التغير قابل للعكس وهذا يعني أنه إذا تركت الشمع الساخن يبرد فإن الشمع سيرجع إلى "
+"الحالة الصلبة مرة أخرى. ولكن هناك شيء غير واشح وهو أن  تحول الحرارة بعض الشمع السائل إلى غاز. وهذا أيضا يعد تغيرا فيزيائيا لأنه إذا برد الغاز بسرعة مرة أخرى ، فإنه سوف يتحول إلى الشمع السائل ومن ثم "
+"الصلب."
+
+msgid ""
+"But here's the interesting thing – the gas formed by heating the wax immediately has a <span class='key'>chemical reaction</span> with the oxygen in the air to make the flame which generates light and "
+"heat. This chemical reaction is what we commonly call “burning” but scientists call combustion. Not only does the chemical reaction create energy in the form of heat and light, but it also changes the "
+"methane gas from the wax into carbon dioxide and water vapor gases, which mix with the air around the candle. So the chemical compound from the melted wax, the methane gas, reacts with oxygen from the "
+"air and creates heat, light, water vapor and carbon dioxide gas. This is an example of a chemical reaction and <span class='key'>chemical change</span>, which is not <span class='key'>reversible</"
+"span>, because if you let the water and carbon dioxide cool or do almost anything else to them, they will not turn back into wax. <br>This is the chemical reaction for the burning (also called "
+"combustion) process:"
+msgstr ""
+"وهنا يكمن الأمر المثير للاهتمام. يتفاعل الغاز المتشكل من احتراق الشمع كيميائيا بسرعة مع الأكسجين في الهواء لتكوين شعلة تولد الضوء والحرارة.  هذا <span class='key'>التفاعل الكيميائي</span> هو ما نسميه "
+"عادة \"حرق\" لكن يسميه العلماء الاحتراق.  ليس فقط التفاعل الكيميائي ما يكون الطاقة على شكل حرارة وضوء، ولكنه أيضا يغير غاز الميثان من الشمع الى غاز ثاني أكسيد الكربون وبخار الماء، والذي يختلط مع الهواء "
+"حول الشمعة. لذلك فإن المركب الكيميائي من ذوبان الشمع، وغاز الميثان، يتفاعل مع الأكسجين المستمد من الهواء ويكون الحرارة والضوء، وبخار الماء وغاز ثاني أكسيد الكربون. . وهذا مثال على التفاعل الكيميائي "
+"والتغير الكيميائي ،وهو غير قابل <span class='key'>للإنعكاس</span>، لأنه إذا تركت الماء وثاني أكسيد الكربون يبردان أو فعلت بهم أي شيء، فلن يتحولان إلى شمع.  <br> وهذا هو التفاعل الكيميائي لعملية لحرق "
+"(يسمى أيضا بالاحتراق)."
+
+msgid "CH<sub>4</sub>"
+msgstr "<sub>4<sub>CH"
+
+msgid "O<sub>2</sub>"
+msgstr "<sub>2<sub>O"
+
+msgid "CO<sub>2</sub>"
+msgstr "<sub>2<sub>CO"
+
+msgid "Heat light"
+msgstr "ضوء التسخين"
+
+msgid "Methane gas"
+msgstr "غاز الميثان"
+
+msgid "Oxygen"
+msgstr "اكسجين"
+
+msgid "Energy"
+msgstr "طاقة"
+
+msgid "Lighting a candle..."
+msgstr "إشعال شمعة"
+
+msgid "Heat and Light"
+msgstr "حرارة وضوء"
+
+# 11.
+msgid "Question A. Burning birthday candles is a good example of:"
+msgstr "السؤال أ. حرق الشموع يوم عيد ميلاد هو مثال جيد على:"
+
+msgid "Both chemical and physical changes"
+msgstr "كل من التغيرات الكيميائية والفيزيائية"
+
+msgid "Chemical reaction"
+msgstr "تفاعل كيميائي"
+
+msgid "Neither chemical nor physical changes"
+msgstr "لا تغيرات كيميائية ولا فيزيائية"
+
+msgid "Physical change"
+msgstr "تغير فيزيائي"
+
+msgid "Question B. When candle wax changes into a gas and burns, it does all of the following except it:"
+msgstr "السؤال ب. عندما يتحول الشمع إلى غاز ويحترق، يجري له كل ما يلي عدا أنه:"
+
+msgid "Changes to different gasses."
+msgstr "يتغير لغازات مختلفة"
+
+msgid "Becomes wax again."
+msgstr "يصبح شمعا مرة أخرى."
+
+msgid "Creates heat and light."
+msgstr "يولد حرارة وضوء."
+
+msgid ""
+"Correct. When the candle burns, the wax melts then turns into a gas – which are examples of physical changes. Then the gas burns to change into different gasses plus heat and light. This is an example "
+"of chemical change."
+msgstr "صحيح.  عندما تحترق الشمعة، يذوب الشمع ثم يتحول إلى غاز – وهي أمثلة على التغيرات الفيزيائية.  ثم يحترق الغاز ليتحول الى غازات مختلفة بالإضافة إلى الحرارة والضوء. وهذا مثال للتغير الكيميائي."
+
+msgid "No – because both a chemical reaction or chemical change AND a physical change occur when the wax melts."
+msgstr "لا – لأن كل من التفاعل الكيميائي أو التغير الكيميائي والتغيير الفيزيائي يحدثان عندما يذوب الشمع."
+
+msgid "No – because both chemical and physical changes occur."
+msgstr "لا – لأن التغيرات الكيميائية والفيزيائية يحدثان على حد سواء."
+
+msgid "No – because both physical change AND chemical change occur when the wax burns to change into different gasses plus heat and light."
+msgstr "لا – لأن كل من التغير الفيزيائي و التغير الكيميائي يحدثان عند احتراق الشمع وتحولها إلى غازات مختلفة بالإضافة إلى الحرارة والضوء."
+
+msgid "Not quite – This is a true statement - when the candle wax changes to a gas you can't see it."
+msgstr "ليس تماما - هذه عبارة غير صحيحة- عندما يتحول شمع الشمعة إلى غاز فأنت لا يمكنك رؤيته."
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it changes to different gasses – carbon dioxide and water."
+msgstr "ليس تماما--هذه عبارة صحيحة-عندما يحترق الشمع، فإنه يتحول إلى غازات مختلفة – ثاني أكسيد الكربون والماء."
+
+msgid "That's right – this is not a true statement - When candle wax changes into a gas and burns, it does not turn back into wax again."
+msgstr "هذا صحيح– هذه ليست عبارة صحيحة--عندما يتحول شمع الشمعة الى غاز ويحترق، فهو لا يرجع لأن يكون الشمع مرة أخرى."
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it creates heat and light."
+msgstr "ليس تماما--هذه عبارة صحيحة-عند احتراق الشمع، فهي تولد حرارة وضوء."
+
+# 12
+msgid "Using what you now know about... chemical and physical changes... to solve a problem"
+msgstr "استخدم ما تعرفه الآن عن... التغيرات الكيميائية والفيزيائية.. لحل مشكلة"
+
+msgid ""
+"Pretend you are the ruler of a great city in the middle of the desert. You have lots and lots of money from oil wells in your country but no fresh water for your people to drink. There is a seaport in "
+"your city but the water there is salt water so you can't drink it."
+msgstr ""
+"تظاهر بأنك حاكما لمدينة عظيمة في وسط الصحراء.  لديك الكثير من المال من آبار النفط في بلدك ولكن لا يوجد مياه عذبة ليشربها شعبك. يوجد ميناء بحري في مدينتك ولكن المياه هناك مالحة و لا تستطيع أن تشربها."
+
+msgid "You read about a country far to the north that has lots of water frozen into glaciers. What could you do with the ice from the glaciers to provide fresh water for your city?"
+msgstr "أنت تقرأ الآن عن بلد يقع في الشمال وبه الكثير من المياه المتجمدة في الأنهار الجليدية. ما الذي يمكنك فعله بالجليد من الأنهار الجليدية لتوفير المياه العذبة لمدينتك؟"
+
+msgid "Searching for sources of water..."
+msgstr "البحث عن مصدر للماء..."
+
+# 13
+msgid "Summarizing big ideas about... chemical and physical changes"
+msgstr "تلخيص الأفكار الكبيرة حول.. التغيرات الكيميائية والفيزيائية"
+
+msgid ""
+"All matter – the stuff or substances that everything is made of – has properties that you can see, feel, touch, taste, or hear. These properties might be: how hard the substance is; what color it is; "
+"whether it's a solid, liquid or gas; how it tastes; or anything else you can observe with your senses. These are all called <span class='key'>\"properties of matter\"</span>.<br/> Sometimes, things you "
+"do to matter can changes these properties. Like you can heat or cool substances that change them from a solid to a liquid or a gas. This kind of change is called a <span class='key'>change of state</"
+"span>. The word \"state\" means: Is it in a \"solid, liquid, or gaseous, \"state\"? Or you can mix substances together. Mixing water and sugar together changes the properties of both the sugar and the "
+"water to make a new substance – a <span class='key'>mixture</span> - called sugar water that is wet and sweet.<br/>\tBoth mixtures and changes of state are examples of <span class='key'>physical "
+"changes</span> to matter because each of these changes is easily reversible. Heating may change solid water – ice - into liquid water but freezing the liquid water easily reverses the change back to "
+"solid water. And adding sugar to water might create sugar water but you can reverse the change and get both the plain water and the sugar back by letting the water evaporate.<br/> Another kind of "
+"change to matter is called <span class='key'>chemical change</span>. This is a little bit different and more complicated than physical change. In chemical change when two or more different substances "
+"are mixed together, and sometimes when you also heat them too, they change into totally different substances with new and different properties. This process is called a <span class='key'>chemical "
+"reaction</span>. Usually, after a chemical reaction, the new substances produced cannot easily be changed back to the original substances.<br/> Whenever physical changes or chemical changes happen, no "
+"matter what they are, there is one thing that is very important. The weight (mass) of the all the original substances (matter) together is the same as the weight (mass) of all substances (matter)  you "
+"end up with. No matter is either created or destroyed. This principle is called the <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science."
+msgstr ""
+"كل المواد والأشياء والتي يصنع منها كل شيء لها خصائص يمكنك أن تراها،تشعر بها، تلمسها تتذوقها أو تسمعها.  هذه الخصائص قد تكون : قسوة المادة ؛ لونها ؛ وسواء كانت في صورة صلبة أو سائلة أو غازية؛ كيف "
+"طعمها.  أو أي شيء آخر يمكنك مراقبته بحواسك.  وهذه كلها تسمى  <span class='key'>خصائص المادة </span>.  <br/>في بعض الأحيان، الأشياء التي تقوم بها يمكن أن تغير هذه الخصائص.  مثال: يمكنك تسخين أو تبريد "
+"المواد والتي تتغير من الحالة الصلبة إلى الحالة السائلة أو الغازية.  ويسمى هذا النوع من التغيير  <span class='key'>تغير الحالة</span>. كلمة حالة تعني صلبة أو سائلة أو غازية،  أو يمكنك خلط المواد معا.  "
+"خلط الماء والسكر معا يغير خصائص كل من السكر والماء لتكوين مادة جديدة.  <span class='key'>الخليط الذي يسمى المياه المحلاة يكون رطبا وحلوا.  <br/>كلا المزيجين والتغيرات في الحالة هي أمثلة على  <span "
+"class='key'>التغيرات الفيزيائية</span> فيها لأن كل واحد من هذه التغيرات يمكن عكسه بسهولة. التسخين قد يغير المياه الصلبة - الجليد - إلى المياه السائلة ولكن تجميد المياه السائلة بسهولة يعكس هذا التغيير "
+"إلى المياه الصلبة.  وإضافة السكر إلى المياه قد يكوَن مياه محلاة ولكن يمكنك عكس التغيير والحصول على كل من الماء العادي والسكر من جديد عن طريق ترك المياه تتبخر.  نوع آخر من التغيير يسمى  <span "
+"class='key'>التغير الكيميائي.  وهذا يختلف قليلا ويكون أكثر تعقيدا من التغيير الفيزيائي. في التغير الكيميائي يتم خلط اثنين أو أكثر من المواد المختلفة معا، وأحيانا عندما يتم تسخينها .  <br/>وتتغير المواد "
+"المختلفة تماما مع خصائص جديدة ومختلفة.  وتسمى هذه العملية   <span class='key'>بالتفاعل الكيميائي</span>. عادة، بعد أي تفاعل كيميائي،  ليس من السهل أن تتغير المواد الجديدة المنتجة إلى المواد الأصلية.  "
+"<br/>كلما حدثت التغيرات الفيزيائية أو التغيرات الكيميائية ، بغض النظر عن ما هي عليه، هناك شيء واحد كبير الأهمية. الوزن (الكتلة)  لجميع المواد الأصلية (المواد) معا هو نفس الوزن (الكتلة) لجميع المواد "
+"التي تتكون بالنهاية.  لا يوجد مادة تتكون او تتدمر من تلقاء نفسها.  وهذا ما يسمى بمبدأ  <span class='key'>حفظ المادة </span>وهي واحدة من أكثر الأفكار أهمية في جميع العلوم."
+
+# 14
+msgid "Reviewing key vocabulary related to... chemical and physical changes"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ... بالتغيرات الفيزيائية والكيميائية "
+
+msgid "Properties of Matter"
+msgstr "خصائص المادة"
+
+msgid "Descriptors about a piece of matter that describe it. For example, an iron wrench is hard, heavy, and gray."
+msgstr "أوصاف لجزء المادة التي يصفها. على سبيل المثال، مفتاح الربط الحديد الرمادي الثقيل الصلب."
+
+msgid "Change of State"
+msgstr "تغير الحالة"
+
+msgid ""
+"A \"state\" of matter is whether it’s a solid, liquid or gas. When matter is heated or cooled, it can \"change state\" from one of these states to another, like water melting changes from a solid state "
+"to a liquid state."
+msgstr "حالة المادة سواء كانت صلبة أو سائلة أو غازية.  عند تسخين او تبريد المادة، يمكن أن تتغير الحالة من إحدى هذه الحالات إلى أخرى، مثل تغييرات ذوبان المياه من الحالة الصلبة إلى الحالة السائلة."
+
+msgid "Mixture"
+msgstr "مزيج"
+
+msgid ""
+"A mixture is when two substances are mixed together but don’t react chemically to form new chemical compounds. The original substances are still in the mixture and can be changed back to their original "
+"form relatively easily. This is called a \"reversible\" change. Dissolving sugar in water is a good example of a mixture."
+msgstr ""
+"المزيج هو عندما يتم خلط مادتين معا ولكنها لا تتفاعل كيميائيا لتشكيل مركبات كيميائية جديدة. المواد الأصلية لا تزال في المزيج وهي قابلة لتتغير الى شكلها الأصلي بسهولة نسبيا. وهذا ما يسمى تغيرا  قابل "
+"للعكس.  إذابة السكر في الماء هو مثال جيد على المزيج."
+
+msgid "Physical Change"
+msgstr "تغير فيزيائي"
+
+msgid "A physical change is when a substance changes form and no new substances are created from chemical changes. Mixing and changes of state are good examples of physical changes."
+msgstr "التغير الفيزيائي هو عندما تتغير حالة مادة دون تشكل مواد جديدة . الخليط وتغير الدولة أمثلة جيدة من التغيرات الفيزيائية ."
+
+msgid "Chemical Change"
+msgstr "تغير كيميائي"
+
+msgid ""
+"When substances mix together but then have a chemical reaction with each other to form new chemical compounds. Burning a candle is a good example of chemical change. Methane gas and oxygen gas react to "
+"form new chemical compounds carbon dioxide and water."
+msgstr ""
+"عندما تمتزج المواد معا  ويحدث بعدها تفاعلاً كيميائيا لتكوين مركبات كيميائية جديدة.  احتراق الشمعة هو مثال جيد على التغير الكيميائي.  يتفاعل غاز الميثان وغاز الأكسجين لتشكيل مركبات كيميائية جديدة، ثاني "
+"أكسيد الكربون والماء."
+
+msgid "Chemical Reaction"
+msgstr "تفاعل كيميائي"
+
+msgid "When chemical compounds, like methane gas and oxygen gas, react to form new chemical compounds like carbon dioxide and water."
+msgstr "عندما تتفاعل المركبات الكيميائية، مثل غاز الميثان وغاز الأكسجين، لتشكيل مركبات كيميائية جديدة مثل ثاني أكسيد الكربون والماء."
+
+msgid "Evaporate"
+msgstr "تبخر"
+
+msgid "When matter goes from the liquid phase to the gaseous phase.  Evaporation is commonly observed with water."
+msgstr "عندما تتحول المادة من الحالة السائلة إلى الحالة الغازية.  يُلاحَظ التبخر عادة مع الماء."
+
+msgid "Conservation of Matter"
+msgstr "حفظ المادة"
+
+msgid "Matter can neither be created, nor destroyed.  The amount of mass at the start of a physical or chemical change is the same as the mass at the end."
+msgstr "لا يمكن للمادة ان تفنى أو تستحدث. مقدار الكتلة في بداية التغيير الفيزيائي أو الكيميائي هو نفس الكتلة عند النهاية."
+
+msgid "Chemical Compound"
+msgstr "مركّب كيميائي"
+
+msgid ""
+"Atoms that share electrons in a definite manner and so are deemed as being \"bound\" together.  Some examples include water (H<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>)"
+msgstr "تعتبر الذرات التي تتشارك بالالكترونات بطريقة محددة مترابطة معا. وتشمل بعض الأمثلة مثل ثاني أكسيد الكربون، والماء و الميثان."
+
+msgid "Reversible"
+msgstr "قابلٌ للإنعكاس"
+
+msgid ""
+"A process is reversible if there is a way for everything at the end of the process to be changed back to the way it was beforehand.  For example, phase changes are reversible processes; liquid water "
+"that is frozen can be melted again to be liquid, and the same amount of liquid water will be present after melting as before freezing."
+msgstr ""
+"تكون العملية قابلة للإنعكاس إذا كان هناك وسيلة لان يرجع كل شي بنهاية العملية إلى ما كان عليه في البداية.  على سبيل المثال، تغيرات الحالة هي عمليات قابلة للعكس. المياه المتجمدة يمكن أن تذوب مرة أخرى "
+"لتكون سائلة، وسوف تكون نفس كمية المياه السائلة موجودة بعد الذوبان كما كانت قبل أن تتجمد."
+
+# 15
+msgid "Checking what you now know about… chemical and physical changes"
+msgstr "التأكد مما تعرفه عن ...التغيرات الكيميائية و الفيزيائية"
+
+# 16
+msgid "Scientists think of the term \"matter\" as:"
+msgstr "يفكر العلماء بمصطلح (المادة) ك:"
+
+msgid "A. All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr "أ. جميع العناصر والمواد التي تشكل العالم من حولك."
+
+msgid "B. All of the solid stuff in the universe."
+msgstr "ب. جميع الاشياء الصلبة في الكون."
+
+msgid "C. All of the chemicals that get used in their laboratories."
+msgstr "ج. جميع المواد الكيميائية التي تُستخدم في مختبراتهم."
+
+msgid "D. Everything that you can see around you."
+msgstr "د. كل ما تراه من حولك."
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr " جميع المواد والعناصر التي تشكل العالم من حولك."
+
+msgid "Correct – All of the “stuff” that makes up the world and even the universe is matter. Some of it you can see – like rocks or dirt - and some of it you cant – like air. But it's all matter."
+msgstr "صحيح - كل الأشياء التي تشكل العالم حتى الكون تعتبر مادة. بعض هذه الاشياء يمكن أن تراها - مثل الصخور أو التراب - ومنه ما لا يمكن أن تراه - مثل الهواء. ولكنها كلها مواد."
+
+msgid "Not quite – Matter isn't just the solid stuff. Matter can be liquid or gas as well."
+msgstr "ليس تماما--المادة ليست فقط الأشياء الصلبة. يمكن أن تكون هذه المادة سائلة أو غازية أيضا.."
+
+msgid "All of the solid stuff in the universe."
+msgstr "جميع الاشياء الصلبة في الكون."
+
+msgid "All of the chemicals that get used in their laboratories."
+msgstr "جميع المواد الكيميائية التي تُستخدم في مختبراتهم."
+
+msgid "Not quite – chemicals in the lab are matter but there is a lot more matter in the universe than just chemicals in the lab."
+msgstr "ليس تماما--المواد الكيميائية في المختبر هي مواد لكن يوجد هناك مواد أكثر  بكثير في الكون من المواد الكيميائية الموجودة في المختبر."
+
+msgid "Everything that you can see around you."
+msgstr "كل شيء يمكنك أن تراه من حولك."
+
+msgid "Not quite – matter is not just the stuff you can see. Some matter like air you can't see. And some matter isn't right around you – it can be in outer space on another planet."
+msgstr "ليس تماما، المادة ليست مجرد الأشياء التي يمكنك أن تراها. بعض المواد مثل الهواء لا يمكنك رؤيته. وبعض هذه المواد ليست موجودة حولك يمكن أن تكون في الفضاء الخارجي على كوكب آخر."
+
+# 17
+msgid "Properties of matter are:"
+msgstr "خصائص المادة"
+
+msgid "A. Anything you can feel when you touch matter."
+msgstr "أ. أي شيء يمكنك أن تحسه عندما تلمس المادة."
+
+msgid "B. Anything about matter that you can observe with any of your senses."
+msgstr "ب. أي شيء عن المادة والذي يمكنك مراقبته بأي حاسة من حواسك."
+
+msgid "C. Only things you can measure about matter."
+msgstr "ج.  الأشياء التي يمكنك قياسها عن المادة فقط."
+
+msgid "D. Only things you can see."
+msgstr "د. الأشياء التي يمكنك أن تراها فقط."
+
+msgid "Identifying properties of matter..."
+msgstr "تحديد خصائص المادة ..."
+
+msgid "Anything you can feel when you touch matter."
+msgstr " أي شيء يمكنك أن تحسه عندما تلمس المادة."
+
+msgid "Not quite – Some properties of matter you can feel – like how hard or soft something is – but other properties of matter – like how it smells or what color it is require other senses."
+msgstr "ليس تماما - يمكنك أن تشعر ببعض خصائص المادة  - مثل مدى صلابة أو ليونة الشيء - ولكن بعض الخصائص الأخرى للمادة - مثل الرائحة أو اللون يتطلب الحواس الأخرى."
+
+msgid "Anything about matter that you can observe with any of your senses."
+msgstr " أي شيء عن المادة والذي يمكنك ملاحظته بأي حاسة من حواسك."
+
+msgid ""
+"Correct – Properties of matter are things about matter that you can observe with any of your senses. And observe doesn't mean just to see. Smelling, feeling, hearing, or tasting a property of a "
+"substance is also making an observation about matter."
+msgstr "صحيح، خصائص المادة هي الأشياء التي يمكنك مراقبتها بأي حاسة من حواسك.  والمراقبة لا تعني أن ترى فقط..  فالشم أو اللمس أو سماع أوالتذوق مادة هو أيضاً ملاحظة حول هذه المادة."
+
+msgid "Only things you can measure about matter."
+msgstr " فقط الأشياء التي يمكنك قياسها عن المادة "
+
+msgid "Not quite – Many properties of matter – like weight or hardness - you can measure. But some properties like odor or color can't be measured."
+msgstr "ليس تماما--يمكنك قياس العديد من خصائص هذه المادة مثل الوزن أو الصلابة. ولكن لا يمكن قياس بعض الخصائص مثل الرائحة أو اللون."
+
+msgid "Only things you can see."
+msgstr "الأشياء التي يمكنك أن تراها فقط."
+
+msgid "Not quite – Some properties of matter you can see – like what color something is – but other properties of matter – like how it smells or what it sounds like require other senses."
+msgstr "ليس تماما، يمكنك أن ترى بعض الخصائص هذه المادة،-مثل لون شيء ما-  ولكن تحتاج  خصائص أخرى لهذه المادة – مثل رائحتها أو كيف تظهر يتطلب حواس أخرى."
+
+# 18
+msgid "An example of a change in a property of matter that is <span class='blink'>not</span> reversible is:"
+msgstr "مثال لتغير خاصية لمادة والتي <span class='blink'>لا</span> يمكن إرجاعها هي:"
+
+msgid "Freezing water to make ice cubes."
+msgstr "تجميد المياه لصنع مكعبات الثلج."
+
+msgid "Melting butter to pour over popcorn."
+msgstr "ذوبان الزبدة لسكبها فوق الفشار."
+
+msgid "Burning wood in a campfire to warm you up."
+msgstr "حرق الخشب في موقد التدفئة."
+
+msgid "Melting ice to change it into liquid water."
+msgstr "ذوبان الجليد لتغييره إلى المياه السائلة."
+
+msgid "Changing state..."
+msgstr "تغير الحالة "
+
+msgid "Not quite – Freezing water to make ice cubes can be reversed by warming them up to let the water melt to form liquid water again."
+msgstr "ليس تماما--تجمد المياه لصنع مكعبات الثلج  يمكن إرجاعها بتسخين المكعبات ليترك الماء يذوب لتتشكل المياه السائلة مجددا."
+
+msgid "Not quite - Melted butter to pour over popcorn can be changed back to solid butter by putting it in the refrigerator."
+msgstr "ليس تماما--يمكن إرجاع الزبدة المذابة فوق الفشار  إلى زبدة صلبة بوضعها في الثلاجة."
+
+msgid "Correct – When you burn wood in a campfire, the solid wood turns into light, heat, and carbon dioxide gas that can’t directly turn back into wood."
+msgstr "صحيح عند حرق الخشب في موقد النار، الخشب الصلب يتحول إلى ضوء، وحرارة، وغاز ثاني أكسيد الكربون والذي سيرجع الى خشب مباشرة."
+
+msgid "Not quite – Melting ice to change it into liquid water can be reversed by freezing the water again to make ice."
+msgstr "ليس تماما-يمكن إرجاع ذوبان الجليد  بعد تحوله إلى الماء السائل بتجميد الماء مرة أخرى لصنع الجليد."
+
+# 19
+msgid "Which of the following statements is <span class='blink'>true</span>? When you mix two substances together, they:"
+msgstr "أي من العبارات التالية صحيحا. عند خلط مادتين معا، فإنها:"
+
+msgid "A. Always combine to make a new substance with new properties."
+msgstr "أ. تتحد دائما لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "B. Sometimes combine to make a new substance with new properties."
+msgstr "ب تتحد المواد أحيانا لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "C. Never combine to make a new substance with new properties."
+msgstr "ج. لا تدمج ابدأ لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "D. Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "د. تندمج دائما لتكوين مادة جديدة ذات خصائص جديدة، والتي لا يمكن عكسها."
+
+msgid "Selecting true statement..."
+msgstr "اختيارعبارة صحيحة "
+
+msgid "Always combine to make a new substance with new properties."
+msgstr " تتحد دائما لتكوين مادة جديدة ذات خصائص جديدة، والتي لا يمكن عكسها."
+
+msgid "Not quite – Sometimes when you mix two substances together, they combine to make a new substance with new properties but not always."
+msgstr "ليس تماما - في بعض الأحيان عند مزج مادتين معا، تتحدان مع بعضهما لتكوين مادة جديدة ذات خصائص جديدة ولكن ليس دائما."
+
+msgid "Sometimes combine to make a new substance with new properties."
+msgstr "في بعض الأحيان تندمج لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "Correct – When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "صحيح - عند مزج مادتين معا،فهي في بعض الأحيان تندمج لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "Never combine to make a new substance with new properties."
+msgstr " لا يتحدان ابدأ لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "Not quite - When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "ليس تماما - عندما تندمج  مادتين معا، فهي في بعض الأحيان تتحدان  لتكوين مادة جديدة ذات خصائص جديدة."
+
+msgid "Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "الدمج دائما يكوين مادة جديدة ذات خصائص جديدة، والتي لا يمكن عكسها."
+
+msgid "Not quite – When you mix two substances together, they sometimes combine to make a new substance with new properties. Sometimes this can be reversed but sometimes it can't."
+msgstr "ليس تماما - عندما تمزج مادتين معا، فهي في بعض الأحيان تندمج لتكوين مادة جديدة ذات خصائص جديدة.  قد يكون هذا قابلا للإنعكاس وأحيانا لا يكون."
+
+# 20
+msgid "Which is <span class='blink'>not</span> an example of mixing two substances that can be reversed to get the original substances back again?"
+msgstr "أي من التالي <span class='blink'>ليس</span> مثالا للإتحاد بين اثنين من المواد و يمكن عكسها للحصول على المواد الأصلية مرة أخرى؟"
+
+msgid "Mixing M&Ms and peanuts to make trail mix."
+msgstr "مزج حبات الشوكولاتة والفول السوداني لتكوين مزيج من الحبوب الجافة."
+
+msgid "Mixing sugar into water to get sugar water."
+msgstr "مزج السكر مع الماء لتكوين مياه محلاة."
+
+msgid "Mixing milk with your cereal in the morning."
+msgstr "مزج الحليب مع السيريال الخاصة بك في الصباح."
+
+msgid "Mixing eggs and milk into the pancake mix and cooking it to make pancakes."
+msgstr "مزج البيض والحليب وطهيه لصنع الفطائر."
+
+msgid "Mixing substances..."
+msgstr "مزج المواد "
+
+msgid "Not quite – Mixing peanuts and M&Ms together is pretty easy to reverse. You just have to pick out all the peanuts or the M&Ms and separate them into two different piles."
+msgstr "ليس تماما - مزج حبات الشوكولاتة والفول السوداني معا يمكن فصله عن بعضه. عليك فقط أن تلتقط حبات الفول السوداني والشوكولاطة وفصلها إلى قسمين مختلفين."
+
+msgid ""
+"Not quite – When you mix sugar and water to get sugar water, you can reverse the process simply by letting the water evaporate. Then you'll get the sugar back in the bottom of the glass and the water "
+"is in the atmosphere."
+msgstr "ليس تماما - عندما تمزج السكر والماء للحصول على المياه المحلاة، يمكنك عكس العملية ببساطة عن طريق تبخر المياه.  ثم ستحصل على السكر مرة أخرى في الجزء السفلي من الزجاج والمياه تتبخر في الجو."
+
+msgid "Not quite. When you mix milk in with your cereal, you can separate the mixture by pouring it through a strainer. Then you get the milk in a glass again and the cereal in the strainer."
+msgstr "ليس تماما. عند مزج الحليب مع الحبوب الخاصة بك، يمكنك فصل المزيج عن طريق سكبه خلال مصفاة. عندها ستحصل على الحليب في الكوب والحبوب في المصفاة مرة أخرى."
+
+msgid ""
+"Correct – Making pancakes is like making a birthday cake. You mix the ingredients together and heat it to cook and you get a new substance – pancakes – where you can't get the eggs or milk back again."
+msgstr "صحيح - صنع الفطائر هي مثل صنع كعكة عيد ميلاد. يمكنك مزج المكونات مع بعضها ووضعها تحت درجة حرارة عالية لتطهى وعندها تحصل على فطائر جديدة  حيث لا يمكنك الحصول على البيض أو الحليب مرة أخرى."
+
+# 21
+msgid "Which of the following is an example of a chemical reaction that creates new substances?"
+msgstr "أي مما يلي مثال على تفاعل كيميائي والذي يكون مواد جديدة؟"
+
+msgid "A. Mixing eggs, milk and flour to make a birthday cake."
+msgstr "أ. مزج البيض والحليب والدقيق لصنع كعكة عيد ميلاد."
+
+msgid "B. Burning the candles on top of the birthday cake."
+msgstr "ب. احتراق الشموع الموجودة على كعكة عيد الميلاد."
+
+msgid "C. Adding lemonade mix and sugar to water to make lemonade."
+msgstr "ج. إضافة مزيج عصير الليمون والسكر إلى الماء لصنع الليموناضة."
+
+msgid "D. Freezing water to make ice cubes."
+msgstr "د. تجميد المياه لصنع مكعبات الثلج."
+
+msgid "Mixing eggs, milk and flour to make a birthday cake."
+msgstr "مزج البيض والحليب والدقيق لصنع كعكة عيد ميلاد."
+
+msgid "Not quite – Mixing eggs, milk and flour to make a birthday cake doesn't change any of the substances into new substances. That doesn't happen until the cake is baked."
+msgstr "ليس تماما - مزج البيض والحليب والدقيق لصنع كعكة عيد ميلاد لا يحول أي من المواد إلى مواد جديدة. وهذا لا يحدث حتى يتم خبز الكعكة."
+
+msgid "Burning the candles on top of the birthday cake."
+msgstr "احتراق الشموع الموجودة على كعكة عيد الميلاد."
+
+msgid ""
+"Correct – When you burn the candles on top of the birthday cake, a chemical reaction occurs to create new substances. The candle wax is changed into carbon dioxide and water and heat and light energy "
+"are given off."
+msgstr "صحيح - عندما تحرق الشموع الموجودة على كعكة عيد الميلاد، يحدث تفاعل كيميائي ويكوَن مواد جديدة. يتحول الشمع إلى ثاني أكسيد الكربون وينبعث الماء والحرارة وطاقة الضوء."
+
+msgid "Adding lemonade mix and sugar to water to make lemonade."
+msgstr " إضافة مزيج عصير الليمون والسكر إلى الماء لصنع الليموناضة."
+
+msgid "Not quite – When you add lemonade mix and sugar to water to make lemonade, you still have the same sugar and lemon and water – just all mixed together."
+msgstr "ليس تماما - عند إضافة مزيج عصير الليمون والسكر إلى الماء لصنع الليموناضة، سيبقى السكر والليمون موجودان في الماء - لكنها فقط ممزوجة مع بعضها."
+
+msgid "Not quite – When you freeze water to make ice cubes, you still have water but not a new substance."
+msgstr "ليس تماما - عندما تجمد المياه لصنع مكعبات الثلج، لا يزال الماء موجودا لكنه أصبح مادة جديدة."
+
+# 22
+msgid "You've completed the Chemical and Physical Changes module."
+msgstr "لقد أكملت وحدة  التغيرات الفيزيائية والكيميائية"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك على الاختبارات السريعة وعلى أسئلة التقويم لهذه الوحدة  بالنقر على الزر في الأسفل. "

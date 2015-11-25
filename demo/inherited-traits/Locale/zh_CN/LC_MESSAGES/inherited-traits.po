@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "靜音"
+
+msgid "Unmute"
+msgstr "取消靜音"
+
+msgid "Max volume"
+msgstr "最大音量"
+
+msgid "Full screen"
+msgstr "全螢幕"
+
+msgid "Restore screen"
+msgstr "取消全螢幕"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Repeat off"
+msgstr "結束重複"
+
+msgid "Update Required"
+msgstr "更新"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "為了播放此媒體，您需要更新您的瀏覽器至最新版本或是更新你的"
+
+msgid "Flash plugin"
+msgstr "Flash播放器"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Close Me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations, "
+msgstr "恭喜你！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在＂ 快速檢測＂與＂測驗題＂中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把它們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "以及第一個測驗題是……"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Welcome to the Inherited Traits module"
+msgstr "歡迎來到「遺傳性狀」模組"
+
+msgid "Thinking about... inherited traits"
+msgstr "想想看有關……遺傳性狀"
+
+msgid "Ever get called by the wrong name?  It's pretty common. Sometimes a teacher will use your older sister's or brother's name to call on you.  Sometimes your grandparent will call you by your uncle, aunt or parent's name. Seems weird, but it happens all the time. Why? Because you're related!"
+msgstr "曾經被叫錯名字嗎？這是很常見的。有時候老師會把你叫成你姊姊或哥哥的名字。有時候你的爺爺奶奶也會把你叫成你的叔叔或是你父母的名字。真是不可思議，但它隨時都在發生。為什麼呢？因為他們都與你有關係！"
+
+msgid "Have a look at these two pictures:"
+msgstr "看看這兩張照片："
+
+msgid "These two men aren't the same person - they're father and son. It's true; they do look remarkably similar, and there's a reason for it. They share a great deal: the same chromosomes; the same genes."
+msgstr "這兩個男人不是同一個人–他們是父子。這是真的，他們看起來非常相似，這其中有個原因。他們都共同擁有：同樣的染色體；相同的基因。"
+
+msgid "You have similar relationships with your own parents and siblings.  You even share characteristics with your grandparents and cousins. It’s because you have inherited your characteristics from your mother and father."
+msgstr "你與你的父母和兄弟姊妹有相近的關係。你甚至與你的父母和兄弟姊妹有共同的特徵。那是因為你遺傳了你爸爸和媽媽的特徵。"
+
+msgid "For thousands of years, people have understood a few basic rules about inheritance in plants and animals.  In the past hundred years, we have learned how to use this knowledge to make more accurate predictions about all living things."
+msgstr "幾千年來，人們已經了解一些有關植物與動物基本的遺傳規則。在過去一百年，我們已經學會了如何使用這方面的知識，以更準確的預測所有生物。"
+
+msgid "Checking what you now know about... inherited traits"
+msgstr "檢視有關於你所知道的……「遺傳性狀」"
+
+msgid "Select which phrases <span class='blink key1'>BEST</span> describe the observation on the left"
+msgstr "選擇一個詞彙最能說明左側所觀察到的。"
+
+msgid "Dominant genes"
+msgstr "顯性基因"
+
+msgid "Recessive genes"
+msgstr "隱性基因"
+
+msgid "Chromosomes"
+msgstr "染色體"
+
+msgid "Some traits are able to skip generations."
+msgstr "有些性狀是能夠隔代遺傳的。"
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "這不是一種污染物，因為人類是環境的一部分，並且他們的呼吸是自然發生的。可是如果它是人類的一個大城市，像是紐約或是東京。看看下列的項目。"
+
+msgid "Genetic information is carried on these."
+msgstr "遺傳訊息被這些所攜帶。"
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "沒錯，因為母牛在農場，尤其是一個有成千上萬隻母牛的大農場，增加至環境中的甲烷量比正常只有幾隻動物的自然土地與樹林還多。"
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "沒錯，如果河水溫度通常是冷的，加入了熱水或較溫暖的水，那麼這就是一種汙染物。這就是所謂的熱汙染。"
+
+msgid "Some traits never skip generations."
+msgstr "一些性狀永遠不會隔代遺傳。"
+
+msgid ""
+"The rules of inheritance apply to all types of plants and animals that reproduce sexually. <span class='key'>Traits</span> are the characteristics we see in all living things. <span class = 'key'>Traits</span> that sometimes skip generations are said to be <span class='key'>recessive</span>. Traits that never skip generations are <span class='key'>dominant</span>. The information that causes a trait to appear is known as a <span class='key'>gene</span>. Genes are actually chemical messages "
+"carried in structures called <span class='key'>chromosomes</span>, which are found in the nuclei of cells. Every individual carries two sets of chromosomes in every cell, one set inherited from each parent. For this reason, each parent contributes half of the information needed to make an individual."
+msgstr "遺傳的規則適用於所有類型的植物和動物的有性生殖。性狀是我們在所有生物體上所看到的特徵。性狀有時候隔代遺傳被認為是隱性的。從來未隔代遺傳的性狀是顯性的。導致性狀出現的信息被稱為一個基因。事實上基因在一個結構上攜帶化學性的訊息，就是所謂的染色體，被發現於細胞的細胞核中。每一個人的每一個細胞中攜帶兩套染色體，各來自於父親與母親。為此原因，每位父母貢獻了製造一個個體所需的一半信息。"
+
+msgid "Carrying chromosomes...​"
+msgstr "攜帶染色體……"
+
+msgid "Reviewing big ideas about... inherited traits"
+msgstr "回顧有關「遺傳性狀」的大概念"
+
+msgid "Ever wonder why you have two parents? We all do, you know. It's one of the few things that's true for all people. Even though some families may have only one parent in the home, or other families have two same-sex parents, every living person has both a female biological parent and a male biological parent. Parents of opposite sexes are the reason our form of reproduction is called <span class='key'>sexual reproduction</span>."
+msgstr "有沒有想過，為什麼你有父親和母親呢？大家都如此，你知道的。這是為數不多可通用於所有人的事情之一。即使有些家庭可能只有一個家長，或是其他家庭有兩個同性的父母，每一個活著的人都有一個女性親輩和一名男性親輩。異性父母是我們繁殖形式的原因，被稱為有性生殖。"
+
+msgid "The simplest form of reproduction in nature is called <span class='key'>asexual reproduction</span>. This occurs when new organisms break away in some fashion from a parent organism. Asexual reproduction is common in single-cell organisms, plants and a few animals. It produces clones or exact copies of the parent. While this process is very efficient, the sameness of the individuals it produces is a disadvantage in many types of living things."
+msgstr "在自然界中繁殖的最簡單形式，被稱為無性繁殖。這發生在當新的生物體以某種方式從母體脫離時。無性生殖常見於單細胞生物、植物和少數動物。它產生無性殖株或是完全複製親代。雖然這個過程是非常有效的，但在許多類型的生物而言，它產生了完全相同的個體是不利的。"
+
+msgid "When the environment changes in some way, it’s important that all members of a living population not be the same. Diversity helps to ensure that new combinations of inherited traits make the survival of at least some members of a population possible when conditions become difficult."
+msgstr "當環境改變，一個生物群體中的所有成員不相同是很重要的。多樣性有助於確保遺傳性狀的新組合，使得在生活條件困難的時候，群體中至少有一部分可能得以生存。"
+
+msgid ""
+"Sexual reproduction works because every individual has two copies of each chromosome, the cell structures that carry information. Each plant or animal receives one copy of each chromosome from each parent. They then are able to pass only one of each chromosome on to their own offspring. Since it is equally likely that either of each chromosome may be passed on to any offspring, all combinations of chromosomes are possible.  This allows for new combinations of chromosomes and the traits they "
+"carry every generation."
+msgstr "有性生殖是因每個個體有兩套染色體，每一條都攜帶了信息。每個植物或動物接收來自親代的每條染色體的其中一條副本。然後，它們只能讓各一條染色體傳至自己的後代。每條染色體被傳遞到任何後代的可能性是相同的，染色體的所有組合都有可能。使得染色體有新的組合和性狀一代傳一代。"
+
+msgid "Preparing your first quick check…"
+msgstr "準備你的第一個快速檢測……"
+
+msgid "Question A. Sexual reproduction is most closely associated with..."
+msgstr "問題A. 與有性生殖最密切關係的是……"
+
+msgid "Question B. An advantage of asexual reproduction would be:"
+msgstr "問題B. 無性生殖的一個優點是："
+
+msgid "increased diversity."
+msgstr "增加多樣性。"
+
+msgid "decreased diversity."
+msgstr "降低多樣性。"
+
+msgid "single celled-animals."
+msgstr "單細胞動物。"
+
+msgid "bacteria."
+msgstr "細菌。"
+
+msgid "the production of seedless grapes."
+msgstr "生產無籽葡萄。"
+
+msgid "increased diversity within a species."
+msgstr "增加物種的多樣性。"
+
+msgid "improved survival during times of environmental stress."
+msgstr "在環境壓力的時候提高生存率。"
+
+msgid "short-term extinction of the species."
+msgstr "短期內滅絕的物種。"
+
+msgid "That's right! Sexual reproduction promotes diversity."
+msgstr "這是正確的！有性生殖促進多樣性。"
+
+msgid "Sorry. It’s the other way around."
+msgstr "抱歉！有其他的方式。"
+
+msgid "Ummm... No. Single celled organisms reproduce asexually."
+msgstr "嗯……不。單細胞生物為無性生殖。"
+
+msgid "Nope. Bacteria reproduce asexually."
+msgstr "不是。細菌為無性繁殖。"
+
+msgid "Yeah! Seedless fruit is only possible when no seeds are required."
+msgstr "是啊！無籽水果只有可能在不需要種子的植物出現。"
+
+msgid "Nope. Diversity would actually decrease."
+msgstr "不，實際上多樣性會降低。"
+
+msgid "Sorry. Less diversity means fewer chances of survival."
+msgstr "抱歉，多樣性低意味著生存機率更小。"
+
+msgid "No. Extinction may happen, but it’s not an advantage."
+msgstr "不，滅絕可能會發生，但它不是個優點。"
+
+msgid "A chart like this is called a <span class='key'>pedigree</span>. Males are shown as squares and females are shown as circles. Family  members with the dominant trait are colored red. Recessives are colored blue. The lines show the relationships within the family. Parents are linked together, and lines extend to their offspring."
+msgstr "就如同此圖表，就是所謂的譜系。男性為正方形，女性為圓形。有顯性性狀的家族成員為紅色，隱性的顏色為藍色，線段顯示在家庭中的關係。父母們連接在一起，線延伸至自己的後代。"
+
+msgid "Take a close look. The red trait shows up in every generation. In all cases, at least one parent of a red individual also showed the red trait."
+msgstr "仔細看。紅色的性狀出現在每個世代。在所有情況下，至少一個紅色個體的親代也顯示出紅色性狀。"
+
+msgid "This pedigree looks a bit different. Once again, red is dominant. Individuals having both red and blue carry one copy of each gene, but show the red trait.  Even though they appear to be dominant, it’s possible for red parents to have blue offspring.  Blue parents never have red offspring."
+msgstr "這譜系看上去有點不同。再說一次，紅色為顯性。一個人具有紅色和藍色的攜帶了一個基因的其中一套，但顯示出紅色性狀。雖然它們看起來是顯性，有可能顯現出紅色的親代會有藍色的後代。帶有藍色的父母永遠不會有紅色的後代。"
+
+msgid "More big ideas about... inherited traits"
+msgstr "更多關於「遺傳性狀」的大概念"
+
+msgid "The inheritance of nearly all traits follows only a few simple rules. The first big rule is that everyone has two genes for every characteristic, inheriting one from each parent. Individuals may pass only one gene for each characteristic on to any offspring. The second big rule is that genes don’t usually influence each other, that is to say that the gene inherited for nose shape doesn’t determine the gene inherited for short big toes."
+msgstr "幾乎所有性狀的遺傳僅遵循幾條簡單的規則。第一個大的規則是，每個人的每個特徵都有兩個基因，分別遺傳自父母。每個個體的每個特徵，只可以有一個基因遺傳給後代。第二個大的規則是，基因通常不會互相影響，也就是說，鼻子形狀的基因不會決定又短又大的腳趾。"
+
+msgid "Then, there's something called <span class='key'>dominance</span>. Genes are not all created equal. Some genes cause their traits to be displayed every generation.  They are called dominant genes. Others can seem to skip generations, only to appear again in descendants of later generations. They are called <span class='key'>recessive</span>."
+msgstr "然後，還有一種叫主導地位。基因是並非所有平等的。某些基因會導致它們的性狀被顯現在每一代，它們被稱為顯性基因。其它似乎可以隔代遺傳，只再次出現在後代子孫，它們被稱為隱性的。"
+
+msgid "Here's an example of a family with a dominant characteristic."
+msgstr "這是一個具有顯性特徵的一個家庭的例子。"
+
+msgid "Click the images to see the details."
+msgstr "點擊圖片可查看細節。"
+
+msgid "Skipping generations..."
+msgstr "隔代……"
+
+msgid "Inherited Traits"
+msgstr "遺傳性狀"
+
+msgid "Inheriting dominant traits..."
+msgstr "遺傳顯性性狀……"
+
+msgid "Sorry. Recessive traits do skip generations."
+msgstr "抱歉，隱性性狀會隔代遺傳。"
+
+msgid "Nope. Traits are not referred to as flexible."
+msgstr "不，性狀並非是靈活機動的。"
+
+msgid "Correct. Dominant traits never skip generations."
+msgstr "正確的，顯性性狀從未隔代遺傳。"
+
+msgid "No. Traits aren’t referred to as denatured."
+msgstr "不，性狀不被稱做是變性的"
+
+msgid "Sorry. A parent’s size isn’t related to what traits they can pass on."
+msgstr "抱歉，父母的體型大小和性狀的遺傳是沒有關係的。"
+
+msgid "Nope. Time spent with children is long after traits are passed."
+msgstr "不，性狀遺傳之後，陪伴孩子所花的時間較長。"
+
+msgid "No. Dominant traits are passed along as often as recessive."
+msgstr "不，顯性性狀和隱性性狀傳遞的機會是相同的。"
+
+msgid "That's right! Either parent can pass along either gene for any trait."
+msgstr "正確的！親代的任一方可以傳遞任何性狀中的任一基因。"
+
+msgid "Pedigrees are a good way to summarize the complex histories of families. Sometimes, though, we just need to predict the future offspring of a particular set of parents. Have a look at the following problem."
+msgstr "譜系是總結家庭的複雜歷史的好方法。然而，有時候我們只需要預測一組特定的父母的後代。來看看下面的問題。"
+
+msgid "A white male guinea pig had many generations of all-white ancestors. A black female guinea pig also had many generations of all-black ancestors. When the guinea pigs were allowed to mate, all of their offspring were black. When two of the resulting black guinea pigs mated, three-fourths of their offspring were also black, but one-fourth were white."
+msgstr "白色雄性天竺鼠具有許多代全白的祖先。黑的雌性天竺鼠也有許多代全黑的祖先。當天竺鼠交配，所有的子代都是黑色的。當交配產生的兩隻天竺鼠子代再交配，3/4子代也是黑色的，1/4的子代為白色的。"
+
+msgid "Well, the recessive color was white, because white fur was hidden in the first set of offspring. That means black is the dominant color.  We often use letters to represent dominant and recessive genes. Since any individual always has two genes for every characteristic, the original parents in the problem would have these combinations:"
+msgstr "那麼，隱性顏色為白色，因為白色皮毛被隱藏在第一組子代。這意味著黑色是顯性顏色。我們經常用字母來代表顯性和隱性基因。因為任何個體的每個特徵總是有兩個基因，所以親代將有一下這些組合："
+
+msgid "Original Black parent:"
+msgstr "原來的黑色親代："
+
+msgid "Original White parent:"
+msgstr "原來的白色親代："
+
+msgid "This genetic shorthand tells us the <span class='key'>genotype</span> of an individual.  Genotype is the actual combination of genes an individual has, even those we can’t easily detect. The appearance the genotype causes is called an individual's <span class='key'>phenotype</span>. Phenotypes are usually described by adjectives like black, white, tall and short. Genotypes are indicated by letters or symbols."
+msgstr "此種遺傳縮寫告訴我們個體的基因型。基因型是一個個體具有基因的結合。即使那些我們不能輕易察覺。基因型的表現被稱為個體的表現型。表現型通常被描述特徵如黑、白、高和矮。基因型是由字母或符號表示。"
+
+msgid "The first set of offspring in the problem must have a gene from each parent. The white parent has only the f gene. The black parent has only F. The genotype of all of their offspring must be Ff. Their phenotype is black, but they all carry a recessive white gene."
+msgstr "在問題中，第一組子代必須有一個基因分別來自親代。白色親代只具有f基因，黑色親代只具有F基因。它們所有的子代的基因型必為Ff。其表現型為黑色，但它們都攜帶一個白色的隱性基因。"
+
+msgid "Browsing slides..."
+msgstr "瀏覽投影片……"
+
+msgid "Question A. Genotypes are most often described by which of the following?"
+msgstr "問題A. 基因型最常由以下哪一個來描述？"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents’ genotypes must be:"
+msgstr "問題B. 一對高的豌豆產生的子代有高有矮。親代的基因型為："
+
+msgid "Letters or symbols"
+msgstr "字母或符號"
+
+msgid "Descriptive words like quickly or slowly"
+msgstr "描述性詞彙，例如快或慢"
+
+msgid "Descriptive words like blue or orange"
+msgstr "描述性詞彙，例如藍色或橙色"
+
+msgid "Measurements like meters or kilograms"
+msgstr "測量值，像是公尺或公斤"
+
+msgid "Correct. Genotypes use letters or other symbols."
+msgstr "正確，基因型使用字母或其他符號。"
+
+msgid "No. These words describe how something happens."
+msgstr "不，這些字彙描述事情如何發生。"
+
+msgid "No. Words like these may be used as phenotypes."
+msgstr "不，像這些字彙可以被用作表現型。"
+
+msgid "Sorry. Measurements don’t refer to genotypes."
+msgstr "抱歉，測量值不被用作基因型。"
+
+msgid "Nope. These parents can only produce tall offspring."
+msgstr "不，這些親代只可以產生高的子代。"
+
+msgid "Sorry. These parents can only produce short offspring."
+msgstr "抱歉，這些親代只可以產生矮的子代。"
+
+msgid "Yes! Some of these parents offspring will be tall and some short."
+msgstr "是的！這些親代的子代可以是高的和矮的。"
+
+msgid "No.  These parents can only produce tall offspring."
+msgstr "不，這些親代只可以產生高的子代。"
+
+msgid "It's even possible to make predictions about how likely it is for given sets of parents to produce particular offspring. What’s more, we can even determine the genotypes of parents if we know the phenotypes of their offspring."
+msgstr "甚至能預測一對親代產生特定子代的可能性。更重要的，如果我們知道子代的表現型，我們甚至可以決定親代的基因型。"
+
+msgid "Here’s another problem"
+msgstr "這裡還有另一個問題"
+
+msgid "A brown mouse mated with a black mouse. Their offspring were all brown. Two of the offspring were then allowed to mate. What colors of offspring could they have? If the litter was eight baby mice, how many would likely be black?"
+msgstr "一隻棕色的小鼠和一隻黑色的小鼠交配，它們的子代都是棕色的。它們將會有什麼顏色的子代呢？如果有八隻小鼠，有多少可能是黑色的呢？"
+
+msgid "This one is tricky. Using the same rules of dominance we saw above, we would predict that the offspring were both Bb.  Two Bb parents should be able to have both brown and black offspring. The problem comes up when we’re asked to predict how many of either color are likely."
+msgstr "這是一個棘手的問題。利用我們上面所看到的顯性地位的規則，我們可以預測子代均為Bb。兩個Bb親代，應會有棕色和黑色的子代。當我們被問到預測有每個顏色各有多少的可能性時，問題就來了。"
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation. Here's how it works:"
+msgstr "這時候，一種有用的工具就派上用場了。潘乃特氏方格法透過顯示下一代可能的基因組合使我們做出預測。看看如何操作："
+
+msgid "Original Parents"
+msgstr "原始的親代"
+
+msgid "First set of Parents"
+msgstr "親代的第一子代"
+
+msgid "The original parents were the brown and black mice. Since all of their offspring mice were brown, brown had to be dominant.  The black parent, then, was bb. The brown parent could have been either genotype, but any brown offspring had to be Bb since they received b from the other parent."
+msgstr "最初的親代是棕色和黑色小鼠。由於所有的子代小鼠呈現棕色，棕色必為顯性。黑色的親代為bb。棕色的親代可能有任一基因型，但是棕色的子代都必須為Bb，因為它們接收來子親代的b。"
+
+msgid "A Punnett square is a way of organizing which genes may be transmitted into a new generation.  Since each parent passes along only half of its gene combination, the Punnett square is organized like this:"
+msgstr "潘乃特氏方格法是一種了解哪些基因可以被傳送至下一子代的方法。因為每個親代僅傳送一半的基因組，潘乃特氏方格法如同這樣："
+
+msgid ""
+"The single letters in the top row and left column show that each parent passes along half of its genes.  The combinations in the table are the only possible gene combinations possible in the next generation. Three of the genotypes have B, resulting in brown mice. Only one has bb, leading to black mice. So, each individual has a 3/4  chance of being brown, and 1/4 chance of being black. Another way to say this is that in any litter, 3/4 are expected to be brown and 1/4 are expected to be black."
+msgstr "最上面一行和左欄的單一字母表示親代傳遞的一半基因組，在表中的組合是下一代唯一可能的基因組合。有三種基因型具有B，產生棕色的小鼠。只有一種具有bb，產生黑色的小鼠。所以，每個個體有3/4的機率為棕色，有1/4的機率為黑色。另一種說法是，在任何的飼養籠中，預計有3/4為棕色，預計有1/4為白色。"
+
+msgid "So... If there are eight baby mice in the litter, we expect 1/4, or 2, to be black."
+msgstr "所以……一個飼養籠如果有八隻小老鼠我們預計1/4或是兩隻為黑色。"
+
+msgid "Predicting colors..."
+msgstr "預測顏色……"
+
+msgid "Question A. Two brown-eyed parents had one brown-eyed child and one blue-eyed child. Choose the Punnett square that best represents this situation."
+msgstr "問題A. 兩個具有棕色眼睛的父母有一個具棕色眼睛的孩子和一個具藍眼睛的孩子。選擇最能代表這種情況的潘乃特氏方格。"
+
+msgid "Question B. House cats born without tails are called manx. The manx characteristic is controlled by a dominant gene. The Punnett square for a mating between two manx cats is shown below. If the litter resulted in eight kittens, which of the choices is most likely to occur?"
+msgstr "問題B. 天生沒有尾巴的家貓被稱為曼島貓。曼島貓的特徵是由顯性基因控制。如下所示的潘乃特氏方格為兩隻曼島貓進行交配。如果飼養籠中有八隻小貓，哪一個選擇最有可能發生？"
+
+msgid "Incorrect. None of the offspring would be blue-eyed (bb)."
+msgstr "不正確。沒有子代會是藍眼睛的(bb)。"
+
+msgid "That's right! These parents can produce both brown and blue-eyed offspring."
+msgstr "正確的！這些親代可以同時生產棕色和藍色眼睛的子代。"
+
+msgid "Nope. Neither parent is brown-eyed."
+msgstr "不，親代皆不是棕色眼睛。"
+
+msgid "Sorry. Only one parent has brown eyes."
+msgstr "抱歉，只有親代一方有棕色眼睛。"
+
+msgid "Probably not. It’s very unlikely that all offspring would be manx."
+msgstr "大概沒有，所有的子代將是曼島貓是非常不可能的。"
+
+msgid "Not likely. Kittens with tails should be rare from these parents."
+msgstr "不太可能，從這些親代產生有尾巴的幼貓是很罕見的。"
+
+msgid "Possible, but the table predicts about 3/4 of the kittens should be manx."
+msgstr "有可能，但是表格預測了大約有3/4的幼貓為曼島貓。"
+
+msgid "Correct! The table predicts about 3/4 of the kittens should be manx."
+msgstr "正確！表格預測了大約有3/4幼貓為曼島貓。"
+
+msgid "Using what you know about... inherited traits... to solve a problem"
+msgstr "利用你所知道的「遺傳性狀」知識來解決問題。"
+
+msgid "In dogs, deafness is caused by a recessive gene, “d”. A dog breeder wants to use a particular normal dog for breeding purposes, if he can be sure the dog is DD, or free of the recessive deafness gene."
+msgstr "狗的耳聾是由隱性基因“d”所控制。如果狗的育種員可以肯定狗的基因型為DD，或是沒有隱性耳聾基因，他想使用特定正常的狗進行繁殖。"
+
+msgid "Use the space below to explain how he might perform a series of breeding experiments to determine whether this dog would be useful in his breeding plans."
+msgstr "以下篇幅來解釋他是如何進行一系列的育種實驗，以確定在這育種計畫中的這些狗是否是有用的。"
+
+msgid "Experimenting..."
+msgstr "做實驗……"
+
+msgid "Summarizing big ideas about... inherited traits"
+msgstr "總結「遺傳性狀」的概念"
+
+msgid "Nearly all plants and animals reproduce sexually, that is, they have female and male parents. Every new individual receives half of its inherited information from its mother, and half from its father. The half from the mother is a random set of the information inherited from her own parents. The same is true for information inherited from the father."
+msgstr "幾乎所有植物和動物都進行有性生殖，也就是說，它們具有雌性和雄性的親代。每一個新的個體接收一半來自母親的遺傳信息與一半來自父親的遺傳信息。母親一半的基因組是隨機遺傳自她自己父母的遺傳信息，父親也同樣是如此。"
+
+msgid "Some characteristics are sometimes absent in a generation, only to reappear in later generations. These are said to be <span class = 'key'>recessive traits</span>. These <span class = 'key'>traits</span> only appear when an individual inherits the same gene from each parent. <span class = 'key'>Dominant traits</span> never skip generations. They appear even when their gene is inherited from only one parent."
+msgstr "有時候有些特徵會消失在一個世代之中，只會再次出現在下一個世代，這些被認為是隱性性狀。這些性狀只會出現在當一個人的遺傳來自於父母的同一個基因。顯性性狀從來沒有隔代遺傳。它甚至會出現在只從親代那裡得到一個這種基因，而有顯性性狀。"
+
+msgid "The random rearrangement of <span class = 'key'>genes</span> in each generation allows every species to have new combinations of genes all the time. These unique gene combinations are sometimes important to species survival."
+msgstr "每一世代基因的隨機排列讓每一物種無時無刻都有新的基因組合。有時候這些獨特的基因組合對於物種的生存是至關重要的。"
+
+msgid "It is possible to use the rules of probability to make predictions about past or future generations if we have information about other members of the same family. These predictions may be made about <span class = 'key'>genotype </span> (the actual genetic information) or <span class = 'key'> phenotype </span> (the visible traits coded for by genes)."
+msgstr "如果我們擁有關於同一個家族成員的訊息，我們是可能可以利用機率的規則來預測過去的和未來的世代。這些預測可能為基因型（實際的遺傳信息）或表現型（通過基因編碼的可見性狀）。"
+
+msgid "Reviewing key vocabulary related to... inherited traits"
+msgstr "回顧有關「遺傳性狀」的重要詞彙"
+
+msgid "Chromosome"
+msgstr "染色體"
+
+msgid "A threadlike structure found in cells that contains their DNA.  Each is made of tightly bound strands of DNA coiled together."
+msgstr "在細胞中發現含有DNA的線狀構造。DNA鏈緊密結合纏繞在一起。"
+
+msgid "Dominant"
+msgstr "顯性"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype.  For example, if brown hair is dominant over red hair, a person with the gene for brown hair will have brown hair, even if they also have the gene for red hair."
+msgstr "一個等位基因或性狀，當存在於生物體的DNA，它會顯現在生物體的表現型。例如，如果棕色頭髮是顯性的大過於紅色，一個人有棕色頭髮的基因，即使他也有紅色頭髮的基因，但他的頭髮就會是棕色的。"
+
+msgid "A portion of a strand of DNA that codes for a specific protein.  There are often multiple versions of the same gene.  Genes can be dominant or recessive, depending on which variant is present in an organism.  An organism will possess two versions of each gene, which may be the same or different."
+msgstr "DNA上有決定特定的蛋白質的密碼。相同的基因常常有多種情況。基因可以是顯性或是隱性，這取決於對偶基因的哪一種情況出現在生物體裡。一個生物體會有兩種對偶基因的情況，它們可以是相同的或是不同的。"
+
+msgid "Genotype"
+msgstr "基因型"
+
+msgid "The combination of genes present in an organism.  When both versions of a gene are the same and they are the dominant version, the genotype is said to be “homozygous dominant.”  When both versions of a gene are the same and they are the recessive version, the genotype is said to be “homozygous recessive.”  When an organism possesses one dominant gene and one recessive gene, it is said to be “heterozygous\"."
+msgstr "存在於生物體的基因組合。當相對於染色體上的對偶基因是相同的，然後又是顯性的，稱為“顯性同型合子”。當生物體具有一個顯性基因和一個隱性基因，被稱為 “異型合子”。"
+
+msgid "Pedigree"
+msgstr "譜系"
+
+msgid "An organism’s parents, grandparents, etc.  A family tree."
+msgstr "一個生物體的親代、祖父母輩等等。即家譜。"
+
+msgid "The trait an organism displays as result of its genotype.  If an organism possesses at least one dominant gene, it will present the dominant trait.  If an organism only possesses recessive genes, it will present the recessive trait."
+msgstr "性狀是生物顯現其基因型的結果。如果生物體具有至少一個顯性基因，它就會出現顯性性狀；如果生物體只具有隱性基因，它就會呈現隱性性狀。"
+
+msgid "Punnett square"
+msgstr "潘乃特氏方格"
+
+msgid "Phenotype"
+msgstr "表現型"
+
+msgid "A graphical representation of an organism’s parent’s genotypes that shows the potential genotypes the organism itself could possess.  The square also shows the probability of each genotype the organism could possess."
+msgstr "一個生物體親代基因型的圖表，顯示了生物體具有的潛在基因型。方格也顯示了生物體可能具有的基因型的機率。"
+
+msgid "Recessive"
+msgstr "隱性"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype so long as the organism does not also possess a dominant version of the gene.  For example, if red hair is recessive to brown hair, a person with the gene for red hair will have red hair as long as they do not also have the gene for brown hair."
+msgstr "一個等位基因或性狀，當存在於生物體中的DNA，它會一直出現在生物體的表現型，直到生物體不再具有顯性的等位基因。例如，如果紅色頭髮對於棕色頭髮來說是隱性，那麼只要一個有紅色基因的人會顯現出紅頭髮，一直到他們的後代出現有決定棕色頭髮的基因時。"
+
+msgid "A physical characteristic of an organism.  Generally there are different varieties of traits possible for an organism.  Examples would be things like eye and hair color."
+msgstr "生物體的物理特性。通常一個生物體可能有不同的性狀。例如像是眼睛和頭髮的顏色。"
+
+msgid "Trait"
+msgstr "性狀"
+
+msgid "Choose the <span class='blink'>correct</span> statement from the following."
+msgstr "選擇以下正確的說法。"
+
+msgid "Males inherit most of their genes from their fathers."
+msgstr "男性大部分的基因是遺傳自父親。"
+
+msgid "Females inherit most of their genes from their mothers."
+msgstr "女性大部分的基因是遺傳自母親。"
+
+msgid "All offspring inherit most of their genes from their fathers."
+msgstr "所有子代大部分的基因是遺傳自父親。"
+
+msgid "All offspring inherit genes equally from both parents."
+msgstr "所有子代大部分的基因是遺傳自父母雙方。"
+
+msgid "Your first quiz question is…"
+msgstr "你的第一次測驗的問題是……"
+
+msgid "Sorry. Genes are inherited equally from both sexes."
+msgstr "抱歉，基因是均等的遺傳自兩性。"
+
+msgid "No. Genes are inherited equally from both sexes."
+msgstr "不，基因是均等的遺傳自兩性。"
+
+msgid "Not this one. Genes are inherited equally from both sexes."
+msgstr "不是這個，基因是均等的遺傳自兩性。"
+
+msgid "Yes! Both parents contribute equally."
+msgstr "是的！父母雙方有均等的貢獻。"
+
+msgid "The ability to taste a certain substance called PTC is dominant in humans. Is it possible for a pair of PTC-tasting parents to have a child who is unable to taste PTC?"
+msgstr "能嚐出某種PTC 物質者帶顯性基因。是否有可能一對可嚐出PTC的父母有一個無法嚐出PTC 的小孩？"
+
+msgid "It is possible if both parents also carry the recessive gene."
+msgstr "如果父母雙方都有攜帶隱性基因的話是可能的。"
+
+msgid "It is possible if either parent carries the recessive gene."
+msgstr "如果父母其中一方攜帶隱性基因的話是可能的。"
+
+msgid "It is not possible because PTC-tasting is dominant."
+msgstr "這是不可能的，因為能嚐出PTC是顯性的。"
+
+msgid "It is not possible because PTC-tasting is recessive."
+msgstr "這是不可能的，因為能嚐出PTC是隱性的。"
+
+msgid "Passing genes..."
+msgstr "傳遞基因……"
+
+msgid "That’s right! Both parents must carry the recessive gene."
+msgstr "正確的！父母雙方必須攜帶隱性基因。"
+
+msgid "Not quite. Both parents must carry the recessive gene."
+msgstr "不完全是。父母雙方必須攜帶隱性基因。"
+
+msgid "Sorry. It is possible because PTC is dominant."
+msgstr "抱歉。是可能的，因為PTC是由顯性基因主導。"
+
+msgid "No. PTC-tasting is dominant."
+msgstr "不，能嚐出PTC為顯性。"
+
+msgid "A brown mouse mated with a white mouse and produced all brown offspring. Which statement most likely summarizes this mating?"
+msgstr "一隻棕色小鼠和一隻白色小鼠交配產生全為棕色的子代。以下哪一項最可以總結此種交配？"
+
+msgid "Flipping the box..."
+msgstr "翻頁……"
+
+msgid "Use the Punnett square below to answer the question. This mating is between mice. Brown is dominant. White is recessive."
+msgstr "使用下面的潘乃特氏方格來回答問題。這是小鼠的交配。棕色為顯性，白色為隱性。"
+
+msgid "Which offspring display the brown phenotype?"
+msgstr "哪一個子代顯示棕色的表現型？"
+
+msgid "Looking at Punnett square..."
+msgstr "看看潘乃特氏方格……"
+
+msgid "Sorry. bb is white"
+msgstr "抱歉，bb是白色的。"
+
+msgid "Yes! Both Bb and BB are white."
+msgstr "是的！Bb和BB是白色的。"
+
+msgid "Nope. bb is white."
+msgstr "不，bb是白色的。"
+
+msgid "No. BB is brown, but so is Bb."
+msgstr "不，BB為棕色，Bb也是。"
+
+msgid "Consider the following pedigree of a human family. The color red indicates the dominant gene for curly hair. Blue indicates the recessive straight hair gene."
+msgstr "考慮以下人類家庭的譜系。紅色表示為捲髮的顯性基因。藍色表示直髮的隱性基因。"
+
+msgid "Which of the following statements is true?"
+msgstr "以下哪項是正確的？"
+
+msgid "The B parents could have a curly-haired child."
+msgstr "父母B可以有一個捲髮的孩子。"
+
+msgid "The A parents could have a curly-haired child."
+msgstr "父母A可以有一個捲髮的孩子。"
+
+msgid "The C parents could not have a curly-haired child."
+msgstr "父母C可以有一個捲髮的孩子。"
+
+msgid "The A parents could not have a straight-haired child."
+msgstr "父母A可以有一個直髮的孩子。"
+
+msgid "No. Curly is dominant. If the gene were present in the parents, they would be curly."
+msgstr "不，捲髮是顯性的。如果基因存在於父母雙方，他們就會是捲髮。"
+
+msgid "Yes! In fact, the A parents do have a curly-haired child."
+msgstr "是的！事實上，父母A確實會有一個捲髮的孩子。"
+
+msgid "Sorry. The C parents do have curly-haired children."
+msgstr "抱歉，父母C確實會有一個捲髮的孩子。"
+
+msgid "Nope. The A parents do have a straight-haired child."
+msgstr "不，父母A確實會有一個直髮的孩子。"
+
+msgid "Congratulations"
+msgstr "恭喜你"
+
+msgid "You've completed the Inherited Traits module."
+msgstr "你已經完成了「遺傳性狀」的模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以通過集點下面「快速檢測」和「測驗題」的按鈕檢查。"
+
+msgid "Ensuring new combinations​...​​"
+msgstr "確保新的組合……"
+
+msgid "Question A. Genetic traits that never skip generations are said to be:"
+msgstr "問題A. 遺傳性狀從不隔代遺傳被稱為："
+
+msgid "Question B. Dominant traits are more likely to be inherited from..."
+msgstr "問題B. 顯性性狀更有可能遺傳自……"
+
+msgid "male parents, because males are usually bigger than females."
+msgstr "雄性親代，因為雄性的體型通常比雌性大。"
+
+msgid "female parents, because mothers often spend more time with their children."
+msgstr "雌性親代，因為雌性往往花較多時間陪伴孩子。"
+
+msgid "either parent, because dominant traits are never inherited."
+msgstr "任一親代，因為顯性性狀從不遺傳。"
+
+msgid "either parent, because both are equally likely to pass on traits."
+msgstr "任一親代，因為兩者都有同等的可能傳遞性狀。"
+
+msgid "Flexible"
+msgstr "可變化的"
+
+msgid "Denatured"
+msgstr "改變性質的"
+
+msgid "Studying genotype..."
+msgstr "學習基因型……"
+
+msgid "TT and tt"
+msgstr "TT和tt"
+
+msgid "tt and tt"
+msgstr "tt和tt"
+
+msgid "Tt and Tt"
+msgstr "Tt和Tt"
+
+msgid "TT and Tt"
+msgstr "TT和Tt"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents' genotypes must be:"
+msgstr "問題B. 一個高大的豌豆產生的子代有高有矮。親代的基因型必須是："
+
+msgid "No. These parents can only produce tall offspring."
+msgstr "不，這些親代只能產生高的子代。"
+
+msgid "BB"
+msgstr "BB"
+
+msgid "or"
+msgstr "或者"
+
+msgid "X"
+msgstr "X"
+
+msgid "bb"
+msgstr "bb"
+
+msgid "[10b] diagram details not included in PO file: BB or Bb bb"
+msgstr "圖[10b]的細節不包含在PO文件：BB或Bb bb"
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Question A."
+msgstr "問題A."
+
+msgid "Question B."
+msgstr "問題B."
+
+msgid "Question C."
+msgstr "問題C."
+
+msgid "Question D."
+msgstr "問題D."
+
+msgid "8 manx kittens"
+msgstr "八隻曼島貓的幼貓"
+
+msgid "8 kittens with tails"
+msgstr "八隻有尾巴的幼貓"
+
+msgid "6 kittens with tails; 2 manx"
+msgstr "六隻有尾巴的幼貓；兩隻曼島貓"
+
+msgid "6 manx; 2 kittens with tails"
+msgstr "六隻曼島貓；兩隻有尾巴的幼貓"
+
+msgid "Gene"
+msgstr "基因"
+
+msgid "bb x bb"
+msgstr "bb x bb"
+
+msgid "BB x bb"
+msgstr "BB x bb"
+
+msgid "Bb x Bb"
+msgstr "Bb x Bb"
+
+msgid "BB x BB"
+msgstr "BB x BB"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案◦"
+
+msgid "No. This mating produces only white mice."
+msgstr "不，這種配對只產生白色小鼠。"
+
+msgid "Right! This mating produces only brown mice."
+msgstr "沒錯！這種配對只產生棕色小鼠。"
+
+msgid "Nope. This mating should produce both brown and white offspring."
+msgstr "不，這種配對應該產生棕色和白色兩種子代。"
+
+msgid "Sorry. Both of these parents are brown. One of the given parents is white."
+msgstr "抱歉，兩個親代皆為棕色。其中一個親代為白色。"
+
+msgid "What are the genotypes of the parents in this mating?"
+msgstr "在此種配對中，親代的基因型是什麼？"
+
+msgid "b"
+msgstr "b"
+
+msgid "No. These parents can have only brown offspring."
+msgstr "不，這些親代只會有棕色子代。"
+
+msgid "Sorry. These parents can have only white offspring."
+msgstr "抱歉，這些親代只會有白色子代。"
+
+msgid "Not likely. These parents should have about equal numbers of brown and white offspring."
+msgstr "不太可能，親代擁有棕色和白色子代的數量大約相等。"
+
+msgid "That's it. These parents expect to have 3/4 brown and 4/4 white offspring."
+msgstr "就是如此，這些親代預期會有3/4棕色和1/4白色的子代。"
+
+msgid "Here's how it works:"
+msgstr "看看如何操作："
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation."
+msgstr "這時候，一種有用的工具就派上用場了。潘乃特氏方格法透過顯示下一代可能的基因組合使我們做出預測。"
+
+msgid "Bb"
+msgstr "Bb"
+
+msgid "BB and bb"
+msgstr "BB和bb"
+
+msgid "BB and Bb"
+msgstr "BB和Bb"
+
+msgid "Bb and bb"
+msgstr "Bb和bb"
+
+msgid "BB only"
+msgstr "只有BB"

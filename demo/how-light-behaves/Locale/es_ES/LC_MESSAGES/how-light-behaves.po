@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.7.4\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Quick Check #5"
+msgstr "Revisión Rápida #5"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Reproducir"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Mute"
+msgstr "Silencio"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Restaurar pantalla"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Repeat off"
+msgstr "No repetir"
+
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr ""
+"Para reproducir los contenidos multimedia, necesitas actualizar tu navegador "
+"a una versión más reciente o actualizar tu"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr ""
+"Navega entre las diapositivas debajo dando clic en las flechas de izquierda "
+"y derecha."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la "
+"caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestar las siguientes seis (6) preguntas de evaluación te dará una idea "
+"acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "¡Felicidades, "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de "
+"Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "¿Estás listo/a, "
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "How Light Behaves"
+msgstr "Cómo se Comporta la Luz"
+
+msgid "Welcome to the How Light Behaves module"
+msgstr "Bienvenido/a al módulo de cómo se comporta la luz"
+
+# 2
+msgid "Thinking about... how light behaves"
+msgstr "Pensando acerca de... cómo se comporta la luz"
+
+msgid ""
+"When you walk into your dark bedroom at night, you usually turn on a light. "
+"With a light on, you can see everything from your red pillow on the chair to "
+"the blue blanket on the bed. But what is light? What happens when that light "
+"is turned on? How does that light help you see? This module is all about "
+"light and how it behaves."
+msgstr ""
+"Cuando entras en tu habitación oscura por la noche, sueles encender una luz. "
+"Con una luz encendida, puedes ver todo, desde tu almohada roja en la silla a "
+"la manta azul sobre la cama. Pero, ¿qué es la luz? ¿Qué sucede cuando se "
+"enciende esa luz? ¿Cómo te ayuda esa luz a ver? Este módulo trata acerca de "
+"la luz y cómo se comporta."
+
+msgid "Are you ready"
+msgstr "¿Estás listo/a"
+
+# 3
+msgid "Checking what you know about... how light behaves"
+msgstr "Revisando lo que sabes acerca de... cómo se comporta la luz"
+
+msgid ""
+"The drawing shows how your room might look after turning on a light at "
+"night. Arrange the sequence to show where the light comes from and where it "
+"ends up in order for you to be able to see the pillows on the bed."
+msgstr ""
+"El dibujo muestra cómo podría lucir tu habitación tras encender una luz por "
+"la noche. Ordena la secuencia para mostrar de dónde viene la luz y en donde "
+"termina para que tú puedas ser capaz de ver las almohadas sobre la cama."
+
+msgid "Ceiling light"
+msgstr "Luz de techo"
+
+msgid "Eyes"
+msgstr "Ojos"
+
+msgid "Pillows on the bed"
+msgstr "Almohadas sobre la cama"
+
+msgid ""
+"If all of the arrows you have drawn start at the light, you are on the right "
+"track. We see things by the light bouncing from or coming from them. Our "
+"eyes donât send out any light! Continue to check out more things about how "
+"light behaves."
+msgstr ""
+"Si todas las flechas que has dibujado comienzan en la luz, vas por el camino "
+"correcto. Vemos cosas porque la luz rebota o proviene de ellas. ¡Nuestros "
+"ojos no proyectan ninguna luz! Continúa para descubrir más cosas acerca de "
+"cómo se comporta la luz."
+
+msgid ""
+"If the path you've chosen starts at the light, you are on the right track. "
+"We see things by the light bouncing from or coming from them. Our eyes don't "
+"send out any light! Continue this review to learn more about how light "
+"behaves."
+msgstr ""
+"Si el camino que has elegido comienza en la luz, vas por el camino correcto. "
+"Vemos cosas debido a la luz que rebota o proviene de ellas. ¡Nuestros ojos "
+"no proyectan ninguna luz! Continúa esta revisión para aprender más acerca de "
+"cómo se comporta la luz."
+
+msgid "Turning on the lights..."
+msgstr "Encendiendo las luces..."
+
+# 4
+msgid "Reviewing big ideas about... how light behaves"
+msgstr "Revisando ideas importantes acerca de... cómo se comporta la luz"
+
+msgid ""
+"All light travels in straight lines from a source, such as a lamp, a candle "
+"or the Sun. Unlike sound waves that need a material to carry the wave, light "
+"waves can travel through empty space. But when light reaches or shines on an "
+"object, any or all three of the following things can happen:"
+msgstr ""
+"Toda la luz viaja en líneas rectas a partir de una fuente, como una lámpara, "
+"una vela o el sol. A diferencia de las ondas sonoras que necesitan un "
+"material para llevar la onda, las ondas de luz pueden viajar a través del "
+"espacio vacío. Pero cuando la luz llega a o brilla sobre un objeto, una o "
+"todas las tres cosas siguientes puede suceder:"
+
+msgid ""
+"a. The object or material <span class='key'>absorbs</span> some or most of "
+"the light,"
+msgstr ""
+"a. El objeto o material <span class='key'>absorbe</span> parte o la mayoría "
+"de la luz,"
+
+msgid ""
+"b. Some of the light can bounce off or be <span class='key'>reflected</"
+"span>, or"
+msgstr ""
+"b. Parte de la luz puede rebotar o ser <span class='key'>reflejada</span>, o"
+
+msgid ""
+"c. Some of the light can pass through or be <span class='key'>transmitted</"
+"span>"
+msgstr ""
+"c. Parte de la luz puede pasar a través o ser <span class='key'>transmitida</"
+"span>"
+
+msgid "White light"
+msgstr "Luz blanca"
+
+msgid "White light Reflected"
+msgstr "Luz blanca Reflejada"
+
+msgid "White surface"
+msgstr "Superficie blanca"
+
+msgid "No light Reflected"
+msgstr "Ninguna luz Reflejada"
+
+msgid "Black surface"
+msgstr "Superficie negra"
+
+msgid "Red light Reflected"
+msgstr "Luz roja Reflejada"
+
+msgid "Red surface"
+msgstr "Superficie roja"
+
+msgid ""
+"A material or object that absorbs or reflects all of the light that shines "
+"on it is called <span class='key'>opaque</span>. When light shines on an "
+"opaque object, a <span class='key'>shadow</span> is formed on the other side "
+"of the object. But not all the light has to be absorbed or reflected to "
+"create a shadow. So shadows aren't all necessarily black. For example, a "
+"clear glass of water can also cast a shadow. Try it!"
+msgstr ""
+"Un material u objeto que absorbe o refleja toda la luz que brilla sobre de "
+"él, se conoce como <span class='key'>opaco</span>. Cuando la luz brilla "
+"sobre un objeto opaco, una <span class='key'>sombra</span> se forma al otro "
+"lado del objeto. Pero no toda la luz tiene que ser absorbida o reflejada "
+"para crear una sombra. Así que las sombras no son necesariamente todas "
+"negras. Por ejemplo, un vaso transparente con agua también puede proyectar "
+"una sombra. ¡Inténtalo!"
+
+msgid "Travelling in straight lines..."
+msgstr "Viajando en líneas rectas..."
+
+# 5
+msgid ""
+"Look at the pictures below of objects and shadows made with light from the "
+"Sun. Match the object with its shadow by dragging the shadow images up or "
+"down."
+msgstr ""
+"Mira las imágenes debajo de objetos y sombras formadas por la luz del sol. "
+"Une el objeto con su sombra arrastrando las imágenes de las sombras hacia "
+"arriba o hacia abajo."
+
+msgid "Funny Hat"
+msgstr "Sombrero Gracioso"
+
+msgid "Toy Rake"
+msgstr "Rastrillo de Juguete"
+
+msgid "Basket"
+msgstr "Cesta"
+
+msgid ""
+"Look at the objects and shadows made by light from the Sun below. Match the "
+"object with its shadow by dragging the images up or down."
+msgstr ""
+"Mira los objetos y las sombras creadas por el sol debajo. Une el objeto con "
+"su sombra arrastrando las imágenes hacia arriba o hacia abajo."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid ""
+"Well done! The shadows that are formed will share common features with the "
+"objects. The shadow of the rake will have lines of light and dark; the "
+"shadow of the funny hat will show the pointy features of the hat; and the "
+"shadow of the basket will have a long dark arc because of the basket handle."
+msgstr ""
+"¡Bien hecho! Las sombras que se forman tendrán características en común con "
+"los objetos. La sombra del rastrillo tendrá líneas de luz y de oscuridad; la "
+"sombra del sombrero gracioso mostrará las características puntiagudas del "
+"sombrero; y la sombra de la cesta tendrá un arco largo y oscuro debido al "
+"mango de la cesta."
+
+msgid ""
+"Look again. The shadows formed by the objects will share common features "
+"with the objects. Do the shadows in your matches look similar to the objects "
+"in the photos?"
+msgstr ""
+"Mira de nuevo. Las sombras que se forman por los objetos tendrán "
+"características en común con los objetos. ¿Acaso las sombras en tus pares "
+"lucen similares a los objetos en las fotos?"
+
+# 6
+msgid ""
+"Some materials are highly reflective. When light strikes these materials, "
+"nearly all of the light bounces off. The reflectors on a bicycle are "
+"designed so that light coming from a car's headlights will bounce straight "
+"back off of the reflectors, making the bicycle visible to the driver of the "
+"car. During the first Moon landing, the Apollo 11 astronauts placed a "
+"similar reflector on the Moon's surface. Scientists on Earth were then able "
+"to bounce light off of these reflectors straight back to Earth, allowing for "
+"very exact measurements of the distance between Earth and Moon."
+msgstr ""
+"Algunos materiales son altamente reflejantes. Cuando la luz toca estos "
+"materiales, casi toda la luz rebota en ellos. Los reflectores de una "
+"bicicleta están diseñados para que la luz que viene de los faros de un auto "
+"rebote en los reflectores, haciendo que la bicicleta sea visible para el "
+"conductor del auto. Durante el primer aterrizaje en la luna, los astronautas "
+"del Apolo 11 colocaron un reflector similar sobre la superficie de la luna. "
+"Los científicos en la Tierra entonces fueron capaces de rebotar luz sobre "
+"estos reflectores de regreso a la Tierra, lo que les permitió realizar "
+"mediciones muy exactas de la distancia entre la Tierra y la luna."
+
+msgid ""
+"<span class='key'>Mirrors</span> are another example of reflectors. A mirror "
+"can be any shiny surface that reflects most of the light. You can see "
+"yourself or other things in a flat mirror because the light that bounces off "
+"you or other things bounces off the mirror in straight lines back to your "
+"eyes. If the surface of a mirror is curved, the light bounces off in "
+"different directions and can make things look closer, farther or just plain "
+"funny!"
+msgstr ""
+"Los <span class='key'>espejos</span> son otro ejemplo de reflectores. Un "
+"espejo puede ser cualquier superficie brillante que refleja la mayor parte "
+"de la luz. Puedes verte a ti mismo u a otros objetos en un espejo plano "
+"porque la luz que rebota en  ti u otros objetos rebota en el espejo de "
+"regreso en líneas rectas hacia tus ojos. Si la superficie del espejo está "
+"curveada, la luz rebota en distintas direcciones y puede hacer que las cosas "
+"luzcan más cercanas, más lejanas ¡o simplemente graciosas!"
+
+msgid "Things look normal when light reflects off of flat mirrors."
+msgstr "Las cosas lucen normales cuando la luz se refleja en espejos planos."
+
+msgid "People can look really silly when light reflects off of curved mirrors."
+msgstr ""
+"La gente puede verse muy graciosa cuando la luz se refleja en espejos "
+"curveados."
+
+msgid "Bouncing lights..."
+msgstr "Rebotando luces..."
+
+# 7
+msgid ""
+"Arrange the sequence to show how light has to travel for the person on the "
+"bottom of the bunk bed to see the cat sitting on the top of the bunk bed in "
+"the mirror."
+msgstr ""
+"Ordena la secuencia para mostrar cómo la luz necesita viajar para que la "
+"persona en la parte inferior de la litera vea al gato sentado en la parte "
+"superior de la litera por el espejo."
+
+msgid "Cat on top of bunk bed"
+msgstr "Gato en la parte superior de la litera"
+
+msgid "Lamp beside the mirror"
+msgstr "Lámpara al lado del espejo"
+
+msgid "Man on bottom of bunk bed"
+msgstr "Hombre en la parte inferior de la litera"
+
+msgid "Mirror facing the bunk bed "
+msgstr "Espejo de frente a la litera"
+
+msgid "Looking at the cat..."
+msgstr "Mirando al gato..."
+
+# 8
+msgid ""
+"Great! Light rays first have to reflect (bounce) off the cat, travel to the "
+"mirror, and reflect (bounce) off the mirror to person's eye."
+msgstr ""
+"¡Excelente! Los rayos de luz primero tienen que reflejarse (rebotar) sobre "
+"el gato, viajar al espejo y reflejarse (rebotar) sobre el espejo hacia el "
+"ojo de la persona."
+
+msgid ""
+"Nope! The light rays have to first shine on the cat, then bounce off the "
+"cat, travel to the mirror and bounce off the mirror to the person's eye."
+msgstr ""
+"¡Nop! Los rayos de luz primero tienen que brillar sobre el gato, luego "
+"rebotar sobre el gato, viajar al espejo y rebotar sobre el espejo hacia el "
+"ojo de la persona."
+
+msgid ""
+"Light absorption plays an important role in the colors of the objects you "
+"see all around you. For you to see a red apple, the apple must reflect red "
+"light while absorbing the other colors of light. Ripe bananas look yellow "
+"because they reflect yellow light and absorb the other colors."
+msgstr ""
+"La absorción de la luz tiene un papel importante sobre los colores de los "
+"objetos que ves a tu alrededor. Para que puedas ver una manzana roja, la "
+"manzana debe reflejar la luz roja mientras que absorbe los otros colores de "
+"la luz. Las bananas maduras lucen amarillas porque reflejan la luz amarilla "
+"y absorben todos los otros colores."
+
+msgid ""
+"The colors of light an object absorbs and reflects can explain why things "
+"can look different when different colored lights shine on them."
+msgstr ""
+"Los colores de luz que un objeto absorbe y refleja pueden explicar por qué "
+"las cosas pueden lucir diferentes cuando luces de distintos colores brillan "
+"sobre ellas."
+
+msgid "Blue, red, yellow cubes under a yellow lamp"
+msgstr "Cubos azules, rojos, amarillos debajo de una lámpara amarilla."
+
+msgid "Blue, red, yellow cubes under a blue lamp"
+msgstr "Cubos azules, rojos, amarillos debajo de una lámpara azul."
+
+msgid "Blue, red, yellow cubes under a standard desk lamp source"
+msgstr ""
+"Cubos azules, rojos, amarillos debajo de una lámpara de escritorio común."
+
+msgid "Blue, red, yellow cubes under a red lamp"
+msgstr "Cubos azules, rojos, amarillos debajo de una lámpara roja."
+
+msgid ""
+"Black or dark objects absorb more light than white or light colored objects. "
+"A material heats up when it absorbs light. The more light that something "
+"absorbs, the hotter it gets. This explains why it is not a good idea to walk "
+"barefooted on a blacktop or asphalt covered road on a sunny summer day and "
+"why buildings in warmer climates have windows that act like mirrors to "
+"reflect the sunlight and keep the rooms inside cooler."
+msgstr ""
+"Los objetos negros u oscuros absorben más luz que los objetos de colores "
+"claros o blancos. Un material se calienta cuando absorbe luz. Entre más luz "
+"absorbe algo, más caliente se pone. Esto explica por qué no es buena idea "
+"caminar descalzo sobre un camino de asfalto o concreto cuando es un día "
+"soleado de verano y por qué los edificios en climas más cálidos tienen "
+"ventanas que actúan como espejos para reflejar la luz del sol y mantener las "
+"habitaciones interiores más frescas."
+
+msgid ""
+"You may have seen solar panels on a home or business. These panels change "
+"the energy from light to generate electricity for the appliances in a home, "
+"or to reduce the amount of money a business has to pay the utility company "
+"each month."
+msgstr ""
+"Quizá hayas visto paneles solares en una casa o negocio. Estos paneles "
+"transforman la energía de la luz para generar electricidad para los aparatos "
+"en una casa, o para reducir la cantidad de dinero que un negocio tiene que "
+"pagar a la compañía de servicio eléctrico cada mes."
+
+msgid "Blue, red or yellow?"
+msgstr "¿Azul, rojo o amarillo?"
+
+# 9
+msgid "A Strawberry"
+msgstr "Una Fresa"
+
+msgid "A Glass of Orange Juice"
+msgstr "Un Vaso de Jugo de Naranja"
+
+msgid "The Lead in a Pencil"
+msgstr "El Plomo en un Lápiz"
+
+msgid "<select>"
+msgstr "<seleccionar>"
+
+msgid "Click on the color of light reflected by the objects shown below."
+msgstr ""
+"Da clic en el color de la luz reflejada por los objetos mostrados debajo."
+
+msgid "red"
+msgstr "rojo"
+
+msgid "orange"
+msgstr "anaranjado"
+
+msgid "yellow"
+msgstr "amarillo"
+
+msgid "green"
+msgstr "verde"
+
+msgid "blue"
+msgstr "azul"
+
+msgid "purple"
+msgstr "púrpura"
+
+msgid "all of the above"
+msgstr "todos los anteriores"
+
+msgid "none"
+msgstr "ninguno"
+
+msgid "Click on the color of light reflected by the things listed below."
+msgstr "Da clic en el color de luz reflejado por las cosas listadas debajo."
+
+msgid "Reflecting light..."
+msgstr "Reflejando luz..."
+
+msgid ""
+"You've got it! A ripe strawberry looks red because it reflects red light; a "
+"glass of orange juice looks orange because it reflects orange light; and the "
+"lead from a pencil looks black because it doesn't reflect any light."
+msgstr ""
+"¡Acertaste! Una fresa madura luce roja porque refleja la luz roja; un vaso "
+"de jugo de naranja luce anaranjado porque refleja la luz anaranjada; y el "
+"carbón de un lápiz luce negro porque no refleja ninguna luz."
+
+msgid ""
+"Not quite! A ripe strawberry looks red because it reflects red light; a "
+"glass of orange juice looks orange because it reflects orange light; and the "
+"lead from a pencil looks black because it doesn't reflect any light."
+msgstr ""
+"¡No exactamente! Una fresa madura luce roja porque refleja la luz roja; un "
+"vaso de jugo de naranja luce anaranjado porque refleja la luz anaranjada; y "
+"el carbón de un lápiz luce negro porque no refleja ninguna luz."
+
+# 10
+msgid "More big ideas about... how light behaves"
+msgstr "Más ideas importantes acerca de... cómo se comporta la luz"
+
+msgid ""
+"Some materials not only absorb and reflect light but they also <span "
+"class='key'>transmit</span> or let some or most light pass through. "
+"Materials that let most light pass straight through are called <span "
+"class='key'>transparent</span>. The glass windows on most cars are "
+"transparent, allowing the driver a clear view of any objects near the car. "
+"Other transparent materials absorb most colors of light while allowing only "
+"one color of light to pass through. A red material lets only red light pass "
+"through; a blue material lets only blue light pass through, and so on."
+msgstr ""
+"Algunos materiales no sólo absorben y reflejan la luz sino que también <span "
+"class='key'>transmiten</span> o dejan pasar un poco o la mayor parte de la "
+"luz. Los materiales que dejan que la mayor parte de la luz pase directamente "
+"a través de ellas, se conocen como <span class='key'>transparentes</span>. "
+"Las ventanas de vidrio en la mayoría de los automóviles son transparentes, "
+"lo que permite al conductor ver claramente cualquier objeto cerca del auto. "
+"Otros materiales transparentes absorben la mayoría de los colores de la luz "
+"mientras que dejan pasar un solo color de luz. Un material rojo sólo deja "
+"pasar la luz roja; un material azul sólo deja pasar la luz azul, etcétera."
+
+msgid ""
+"Materials that let just some of the light pass through are called <span "
+"class='key'>translucent</span>. These materials change the path that light "
+"takes on the way through them, making it tough to clearly see objects on the "
+"other side of the material. That's why it can be difficult for airplanes to "
+"take off and land in foggy weather, or for the driver of a car to see "
+"through a frost covered windshield on a cold day. Remember though that "
+"opaque things don't transmit any light!"
+msgstr ""
+"Los materiales que dejan pasar sólo una parte de la luz se conocen como "
+"<span class='key'>translúcidos</span>. Estos materiales cambian el camino "
+"que sigue la luz cuando pasa a través de ellos, haciendo difícil ver los "
+"objetos del otro lado del material claramente. Por eso puede ser difícil "
+"para los aviones despegar y aterrizar en climas con neblina, o para un "
+"conductor ver a través del parabrisas de su auto cuando está cubierto de "
+"hielo, en un día frío. ¡Recuerda, sin embargo, que las cosas opacas no "
+"transmiten ninguna luz!"
+
+msgid "Absorbing light..."
+msgstr "Absorbiendo luz..."
+
+# 11
+msgid ""
+"How would you describe the things below in how well they transmit light?"
+msgstr ""
+"¿Cómo describirías las cosas debajo con respecto a cuán bien transmiten la "
+"luz?"
+
+msgid "Clean lake"
+msgstr "Lago limpio"
+
+msgid "Foggy morning"
+msgstr "Mañana con neblina"
+
+msgid "Wooden door"
+msgstr "Puerta de madera"
+
+msgid "transparent"
+msgstr "transparente"
+
+msgid "translucent"
+msgstr "translúcido"
+
+msgid "opaque"
+msgstr "opaco"
+
+msgid "Different transmission..."
+msgstr "Transmisión distinta..."
+
+msgid ""
+"Way to go! Water in a clean lake is transparent, allowing all light to pass "
+"through it; a morning fog is translucent, allowing only some light through; "
+"you can't see anything through a wooden door because it is opaque, the door "
+"doesn't allow any light to pass through it."
+msgstr ""
+"¡Bien hecho! El agua en un lago limpio es transparente, lo que permite que "
+"toda la luz pase a través de ella; la neblina de una mañana es translúcida, "
+"lo que permite que una parte de la luz pase; no puedes ver nada a través de "
+"una puerta de madera porque es opaca, la puerta  no permite que nada de luz "
+"pase a través de ella."
+
+msgid ""
+"Not quite. Water in a clean lake is transparent, allowing all light to pass "
+"through it; a morning fog is translucent, allowing only some light through; "
+"you can't see anything through a wooden door because it is opaque, the door "
+"doesn't allow any light to pass through it."
+msgstr ""
+"No exactamente. El agua en un lago limpio es transparente, lo que permite "
+"que toda la luz pase a través de ella; la neblina de una mañana es "
+"translúcida, lo que permite que una parte de la luz pase; no puedes ver nada "
+"a través de una puerta de madera porque es opaca, la puerta no permite que "
+"nada de luz pase a través de ella."
+
+# 12
+msgid ""
+"Finally, when light passes from one material to another material, the light "
+"can change direction or bend. Scientists call this bending <span "
+"class='key'>refraction</span>. For example, when light passes at an angle "
+"from air into water or from water into air, the light refracts. This bending "
+"of light can cause objects to look odd, like the straw in this glass of "
+"water."
+msgstr ""
+"Finalmente, cuando la luz pasa de un material a otro material, la luz puede "
+"cambiar de dirección o doblarse. Los científicos llaman a este pliegue <span "
+"class='key'>refracción</span>. Por ejemplo, cuando la luz pasa con un ángulo "
+"del aire al agua o del agua al aire, la luz se refracta. Este pliegue de la "
+"luz puede causar que los objetos luzcan extraños, como la pajilla en este "
+"vaso de agua."
+
+msgid ""
+"Because the light is changing directions when passing from water into the "
+"air, objects beneath the surface of the water can appear to be slightly out "
+"of place. For example, this fish appears to be closer to the surface than it "
+"actually is due to the way the light is changing direction on the way to the "
+"person 's eyes."
+msgstr ""
+"Porque la luz está cambiando de dirección cuando pasa del agua al aire, los "
+"objetos debajo de la superficie del agua pueden parecer ligeramente fuera de "
+"lugar. Por ejemplo, este pez parece estar más cerca de la superficie de lo "
+"que está realmente, debido a la forma en que la luz está cambiando de "
+"dirección de camino a los ojos de la persona."
+
+msgid ""
+"A rainbow of color is produced when sunlight passes through raindrops in the "
+"air at the proper angle. The different colors of light refract different "
+"amounts upon entering and exiting the rain drop, changing the direction of "
+"red light the least and blue and violet light the most. The result is the "
+"separation of colors we see as a rainbow."
+msgstr ""
+"Un arcoíris de color se produce cuando la luz pasa a través de las gotas de "
+"lluvia en el aire en el ángulo apropiado. Los distintos colores de la luz se "
+"refractan en distinto grado cuando entran y salen de la gota de lluvia, "
+"cambiando la dirección de la luz roja de la manera más mínima y la luz azul "
+"y violeta con la mayor intensidad. El resultado es la separación de los "
+"colores que vemos como un arcoiris."
+
+msgid ""
+"Knowing how light refracts can be used to help us see things more clearly. "
+"You may have classmates that wear glasses to help them see. Eyeglasses or "
+"contacts have special lenses made of glass or plastic. The <span "
+"class='key'>lenses</span> are made to refract light as it passes through "
+"them. A nearsighted person's eyes focus light too \"near\" to the back of "
+"the eye. They need a lens that spreads the light out a bit. A farsighted "
+"person's eyes focus light too \"far\" behind the back of the eye. They need "
+"a lens that focuses the light closer. This helps a person wearing eyeglasses "
+"to see more clearly."
+msgstr ""
+"Saber cómo se refracta la luz puede ser utilizado para ayudarnos a ver las "
+"cosas más claramente. Puede ser que tengas compañeros de clase que utilizan "
+"gafas que les ayudan a ver. Las gafas y lentes de contacto tienen lentes "
+"especiales hechos de vidrio o plástico. Los <span class='key'>lentes</span> "
+"están hechos para refractar la luz cuando pasa a través de ellos. Los ojos "
+"de una persona miope enfocan la luz demasiado \"cerca\" de la pared trasera "
+"del ojo. Ellos necesiten un lente que disipe la luz un poco. Los ojos de una "
+"persona hipermétrope, enfocan la luz demasiado \"lejos\" de la pared trasera "
+"del ojo. Necesitan un lente que enfoque la luz más cerca. Esto ayuda a que "
+"una persona que usa gafas vea más claramente."
+
+msgid "Looking at the rainbow..."
+msgstr "Mirando el arcoíris..."
+
+# 13
+msgid ""
+"Seeing isn't always believing. Artists are able to create a wide variety of "
+"images these days with the help of computers. These computer-generated "
+"images can be works of art that would be impossible to achieve with cameras "
+"alone. Unfortunately, they can also result in unnatural images that don't "
+"portray nature correctly. Given that refraction bends different colors of "
+"light by different amounts, changing the direction of red light the least, "
+"and blue and violet light the most, look at the images below and drag them "
+"into the correct column to show which ones got the science right and which "
+"ones got it wrong."
+msgstr ""
+"Ver no siempre es creer. Los artistas son capaces de crear una gran variedad "
+"de imágenes estos días con la ayuda de computadoras. Estas imágenes "
+"generadas por computadora pueden ser obras de arte que sería imposible crear "
+"tan sólo con una cámara. Desafortunadamente, también pueden resultar en "
+"imágenes antinaturales que no representan a la naturaleza correctamente. "
+"Dado que la refracción dobla los distintos colores de la luz en distinto "
+"grado, cambiando la dirección de la luz roja de la manera más mínima y la "
+"luz azul y violeta con la mayor intensidad, mira las imágenes debajo y "
+"arrástralas hacia la columna correcta para mostrar cuáles son correctas de "
+"acuerdo a la ciencia y cuáles no."
+
+msgid "Items"
+msgstr "Objetos"
+
+msgid "Got it Right!"
+msgstr "¡Acertaste!"
+
+msgid "Got it Wrong!"
+msgstr "¡Te equivocaste!"
+
+msgid "Prism 1"
+msgstr "Prisma 1"
+
+msgid "Prism 2"
+msgstr "Prisma 2"
+
+msgid "Prism 3"
+msgstr "Prisma 3"
+
+msgid "Prism 4"
+msgstr "Prisma 4"
+
+msgid "Answer"
+msgstr "Respuesta"
+
+# 14
+msgid ""
+"Using what you now know about... how light behaves... to solve a problem"
+msgstr ""
+"Utilizando lo que ahora sabes acerca de... cómo se comporta la luz... para "
+"resolver un problema"
+
+msgid ""
+"You're an engineer working for a company in charge of designing a heating "
+"system for a swimming pool. You decide to use sunlight to heat up the water "
+"by pumping the water from the pool through a bunch of tubes that will run "
+"across the roof of the pool building."
+msgstr ""
+"Eres un/a ingeniero/a que trabaja para una compañía a cargo de diseñar un "
+"sistema de calefacción para una piscina. Decides utilizar la luz del sol "
+"para calentar el agua bombeando el agua de la piscina a través de un grupo "
+"de tuberías que pasarán a lo largo del techo del edificio donde se encuentra "
+"la piscina."
+
+msgid ""
+"Using what you know about the absorption and reflection of light, describe "
+"the characteristics of the tubes you would use for the system."
+msgstr ""
+"Utilizando lo que sabes acerca de la absorción y reflexión de la luz, "
+"describe las características de los tubos que utilizarías para el sistema."
+
+msgid "Looking for a heat source..."
+msgstr "Buscando una fuente de calor..."
+
+# 15
+msgid "Summarizing big ideas about... how light behaves"
+msgstr "Resumiendo ideas importantes acerca de... cómo se comporta la luz"
+
+msgid ""
+"Light is one kind of <span class='key'>energy</span>. When light shines on "
+"an object, it can be <span class='key'>reflected</span> (bounced off), <span "
+"class='key'>transmitted</span> (passed through) or <span "
+"class='key'>absorbed</span> (not reflected or transmitted). <span "
+"class='key'>Transparent</span> materials transmit most light and reflect and "
+"absorb some. <span class='key'>Translucent</span> materials transmit some "
+"light and reflect and absorb some. <span class='key'>Opaque</span> materials "
+"absorb and reflect light but transmit none. When you see a solid object, the "
+"color you see is the color of the light being reflected by the object. A "
+"blue car is blue because blue light is reflecting off the car while the "
+"other colors of light are being absorbed. If light can pass from one "
+"material to another material, it can be <span class='key'>refracted</span>. "
+"When light is refracted, it changes its direction. This can happen when "
+"light passes at an angle from air into water or from water into air. <span "
+"class='key'>Lenses</span> use refraction to help people see more clearly. "
+"Solar panels can be used to change light energy into heat and electrical "
+"energy."
+msgstr ""
+"La luz es un tipo de <span class='key'>energía</span>. Cuando la luz brilla "
+"sobre un objeto, puede ser <span class='key'>reflejada</span> (rebotar), "
+"<span class='key'>transmitida</span> (pasar a través del objeto), o <span "
+"class='key'>absorbida</span> (ni reflejarse ni transmitirse). Los materiales "
+"<span class='key'>transparentes</span> transmiten la mayor parte de la luz y "
+"reflejan y absorben un poco. Los materiales <span class='key'>translúcidos</"
+"span> transmiten una parte de la luz y reflejan y absorben un poco. Los "
+"materiales <span class='key'>opacos</span> absorben y reflejan luz pero no "
+"transmiten ninguna. Cuando ves un objeto sólido, el color que ves es el "
+"color de la luz que es reflejada por el objeto. Un auto azul es azul porque "
+"la luz azul se refleja en el auto mientras que los otros colores de luz "
+"están siendo absorbidos. Si la luz puede pasar de un material a otro, puede "
+"ser <span class='key'>refractada</span>. Cuando la luz se refracta, cambia "
+"de dirección. Esto puede suceder cuando la luz pasa con un ángulo del aire "
+"al agua o del agua al aire. Los <span class='key'>lentes</span> utilizan "
+"refracción para ayudar a las personas a ver más claramente. Los paneles "
+"solares pueden ser utilizados para transformar energía lumínica en calor y "
+"electricidad."
+
+# 16
+msgid "Reflected"
+msgstr "Reflejada"
+
+msgid "Refracted"
+msgstr "Refractada"
+
+msgid "Absorbed"
+msgstr "Absorbida"
+
+msgid "Transmitted"
+msgstr "Transmitida"
+
+msgid ""
+"No. If the light had been reflected by the prism, it would have bounced off "
+"the surface of the prism."
+msgstr ""
+"No. Si la luz hubiera sido reflejada por el prisma, habría rebotado en la "
+"superficie del prisma."
+
+msgid ""
+"Correct. The light bent upon moving from the surrounding air into the glass, "
+"and it changed direction again when moving from the glass back into the "
+"surrounding air."
+msgstr ""
+"Correcto. La luz se dobló al pasar del aire al vidrio, y cambió de dirección "
+"de nuevo cuando pasó del vidrio de nuevo al aire a su alrededor."
+
+msgid ""
+"No. If the light had been absorbed by the prism, it would have remained "
+"within the prism rather than passing through the prism and exiting through "
+"the opposite side."
+msgstr ""
+"No. Si la luz hubiera sido absorbida por el prisma, habría permanecido "
+"dentro del prisma en lugar de pasar a través de él y salir por el lado "
+"opuesto."
+
+msgid ""
+"Not quite. If the light had simply been transmitted, it would have passed "
+"through without separating into different colors."
+msgstr ""
+"No exactamente. Si la luz simplemente hubiera sido transmitida, habría "
+"pasado a través del prisma sin separarse en distintos colores."
+
+# 17
+msgid "Checking what you now know about... how light behaves"
+msgstr "Revisando lo que sabes acerca de... cómo se comporta la luz"
+
+# 18
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid ""
+"Ms. Thomas used a special piece of glass called a prism and a flashlight to "
+"show how a rainbow is made. The rainbow produced is an example of light "
+"being:"
+msgstr ""
+"La Srita. Thomas utilizó un pedazo especial de vidrio llamado prisma y una "
+"linterna para mostrar cómo se hace un arcoíris. El arcoíris que se produjo "
+"es un ejemplo de la luz siendo:"
+
+msgid "Reviewing key vocabulary related to... how light behaves"
+msgstr "Revisando vocabulario clave relacionado con... cómo se comporta la luz"
+
+msgid "Reflection"
+msgstr "Reflexión"
+
+msgid ""
+"When a light wave changes direction when it hits a different type of media "
+"and stays in the media it was in before. Visible light reflects off mirrors "
+"to stay in the air."
+msgstr ""
+"Cuando una onda de luz cambia de dirección cuando toca un tipo distinto de "
+"medio y se queda en el medio en que estaba anteriormente. La luz visible se "
+"refleja en los espejos para permanecer en el aire."
+
+msgid "Refraction"
+msgstr "Refracción"
+
+msgid ""
+"When a light wave changes direction when it hits a different type of media "
+"and moves into the new media. Visible light is often refracted when it hits "
+"water from the air, or moves from water into the air."
+msgstr ""
+"Cuando una onda de luz cambia de dirección cuando toca un tipo distinto de "
+"medio y se transmite al nuevo medio. La luz visible con frecuencia es "
+"refractada cuando entra al agua desde el aire, o pasa del agua al aire."
+
+msgid "Absorption"
+msgstr "Absorción"
+
+msgid ""
+"A wavelength of light hits the electron of an atom and transfers its energy "
+"to it. This will generally excite the electron to a higher energy state."
+msgstr ""
+"Una longitud de onda de luz toca el electrón de un átomo y transfiere su "
+"energía a él. Esto generalmente elevará al electrón hacia un estado de "
+"energía más alto."
+
+msgid "Lens"
+msgstr "Lente"
+
+msgid ""
+"Something that refracts light converging or diverging it. Examples include "
+"lenses in glasses and lenses in a microscope."
+msgstr ""
+"Algo que refracta la luz haciéndola convergir o divergir. Ejemplos incluyen "
+"los lentes en unas gafas y los lentes de un microscopio."
+
+msgid "Transmission"
+msgstr "Transmisión"
+
+msgid ""
+"Light energy that is absorbed by an electron and then released. A given "
+"electron can only absorb and transmit certain wavelengths of light."
+msgstr ""
+"Energía lumínica que es absorbida por un electrón y luego liberada. Un "
+"electrón determinado sólo puede absorber y transmitir luz de ciertas "
+"longitudes de onda."
+
+msgid "chemical"
+msgstr "Químico"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid ""
+"When light travels through something without being absorbed or reflected. "
+"May also be called \"see-through\".  Examples can include water and glass."
+msgstr ""
+"Algo que permite que la luz viaje a través de él sin ser absorbida o "
+"reflejada. A dichos objetos también se les puede llamar \"cristalinos\". "
+"Ejemplos incluyen al agua y al vidrio."
+
+msgid "Translucent"
+msgstr "Translúcido"
+
+msgid ""
+"When some, but not all, light travels through an object without being "
+"absorbed or reflected. Translucent things can be seen through but are not "
+"completely clear."
+msgstr ""
+"Cuando un objeto permite que una parte de, pero no toda, la luz viaje a "
+"través de él sin ser absorbida o reflejada. Las cosas translúcidas permiten "
+"ver a través de ellas pero no son completamente transparentes."
+
+msgid "Opaque"
+msgstr "Opaco"
+
+msgid ""
+"Something that cannot be seen through. It either absorbs or reflects light."
+msgstr ""
+"Algo a través de lo cual no se puede ver. Ya que absorbe o refleja la luz."
+
+msgid "Shadow"
+msgstr "Sombra"
+
+msgid ""
+"An absence of light in an area due to it being blocked by an object. People "
+"cast shadows when in a room with visible light."
+msgstr ""
+"Una ausencia de luz en un área debido a que es bloqueada por un objeto. Las "
+"personas proyectan sombras cuando están en una habitación con luz visible."
+
+# 19
+msgid ""
+"You are using a mirror to help you get ready for school. Arrange the words "
+"in order to show the path the light travels so that you can see yourself in "
+"the mirror."
+msgstr ""
+"Estás utilizando un espejo para ayudarte a prepararte para la escuela. "
+"Ordena las palabras para mostrar el camino que la luz recorre para que "
+"puedas verte en el espejo."
+
+msgid "eyes"
+msgstr "ojos"
+
+msgid "mirror"
+msgstr "espejo"
+
+msgid "face"
+msgstr "rostro"
+
+msgid "light"
+msgstr "luz"
+
+msgid "Looking at the mirror..."
+msgstr "Mirándote al espejo..."
+
+msgid ""
+"Yes. The light has to initially travel from a source to your face before "
+"reflecting off of your face and travelling to the mirror and then reflecting "
+"off of the mirror and traveling to your eyes, allowing you to see your own "
+"face."
+msgstr ""
+"Sí. La luz inicialmente debe viajar de una fuente a tu rostro, antes de "
+"reflejarse en tu rostro y viajar al espejo, luego reflejándose en el espejo "
+"y viajando a tus ojos, permitiéndote ver tu propio rostro."
+
+msgid ""
+"Not quite. Light must travel from the source to your face, where it is "
+"reflected and then travels to the mirror, where it is again reflected before "
+"finally travelling to your eyes."
+msgstr ""
+"No exactamente. La luz debe viajar de la fuente a tu rostro, donde se "
+"refleja y luego viaja al espejo, donde de nuevo es reflejada antes de viajar "
+"finalmente a tus ojos."
+
+# 20
+msgid ""
+"If you put a red car in a room with a blue light bulb on the ceiling, what "
+"car color would you see?"
+msgstr ""
+"Si colocas un auto rojo en una habitación con una bombilla azul en el techo, "
+"¿qué color de auto verías?"
+
+msgid "Red"
+msgstr "Rojo"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "Black"
+msgstr "Negro"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Putting blue light..."
+msgstr "Poniendo luz azul..."
+
+msgid ""
+"No, the light bulb in the ceiling only emits blue light. There is no red "
+"light available to reflect off of the car."
+msgstr ""
+"No, la bombilla en el techo sólo emite luz azul. No hay luz roja disponible "
+"para que se refleje en el auto."
+
+msgid ""
+"No, the light bulb does emit blue light, but a red car reflects red light, "
+"and absorbs all other colors of light. The blue light would be absorbed by "
+"the car's surface."
+msgstr ""
+"No, la bombilla en el techo emite luz azul, pero un auto rojo refleja luz "
+"roja, y absorbe todos los otros colores de la luz. La luz azul sería "
+"absorbida por la superficie del auto."
+
+msgid ""
+"Yes, the light bulb on the ceiling emits blue light, but the paint on the "
+"car absorbs blue light. This would result in the car appearing black in this "
+"scenario."
+msgstr ""
+"Sí, la bombilla en el techo emite luz azul, pero la pintura del auto absorbe "
+"luz azul. Esto resultaría en que el auto aparezca negro en esta situación."
+
+msgid ""
+"No, the light bulb on the ceiling emits blue light, but a red car reflects "
+"only red light while absorbing all other colors."
+msgstr ""
+"No, la bombilla en el techo emite luz azul, pero un auto rojo refleja sólo "
+"luz roja mientras que absorbe todos los otros colores."
+
+# 21
+msgid ""
+"It's difficult to identify the objects on the other side of this window "
+"because the water on the glass is making the window:"
+msgstr ""
+"Es difícil identificar los objetos al otro lado de esta ventana porque el "
+"agua sobre el vidrio hace que la ventana sea:"
+
+msgid "Cleaning glass windows..."
+msgstr "Limpiando ventanas de cristal..."
+
+msgid ""
+"Not quite. If the window was dry, it would most likely be transparent, "
+"allowing all the light to travel straight through it."
+msgstr ""
+"No exactamente. Si la ventana estuviese seca, lo más probable es que fuera "
+"transparente, permitiendo que toda la luz viajara a través de ella."
+
+msgid ""
+"Way to go! The water on the window is causing slight changes to the path "
+"light takes through it, making the objects on the other side of the glass "
+"look fuzzy."
+msgstr ""
+"¡Bien hecho! El agua en la ventana está provocando ligeros cambios en el "
+"camino que la luz sigue a través de él, haciendo que los objetos del otro "
+"lado del vidrio luzcan borrosos."
+
+msgid ""
+"Nope. If the glass was opaque, none of the light coming from the other side "
+"would make it through. You wouldn't be able to see anything."
+msgstr ""
+"Nop. Si el vidrio fuese opaco, no pasaría nada de la luz que viene del otro "
+"lado. No serías capaz de ver nada."
+
+# 22
+msgid ""
+"An experienced spear fisher knows not to aim the spear directly at the place "
+"where the fish appears to be in the water. This is because light travelling "
+"from the fish to the eyes of the spear fisher is _____________ at the "
+"surface of the water."
+msgstr ""
+"Un pescador con arpón experimentado sabe que no debe apuntar el arpón "
+"directamente al lugar donde el pez parece estar en el agua. Esto es porque "
+"la luz que viaja del pez a los ojos del pescador está siendo ___________ en "
+"la superficie del agua."
+
+msgid "reflected"
+msgstr "reflejada"
+
+msgid "refracted"
+msgstr "refractada"
+
+msgid "absorbed"
+msgstr "absorbida"
+
+msgid "Hunting fish..."
+msgstr "Cazando peces..."
+
+msgid ""
+"Nope. If the light was reflected at the surface of the water, it would "
+"bounce and stay below the surface. The spear fisher wouldn't be able to see "
+"the fish at all."
+msgstr ""
+"Nop. Si la luz se reflejara en la superficie del agua, rebotaría y se "
+"quedaría debajo de la superficie. El pescador con arpón no sería capaz de "
+"ver al pez en absoluto."
+
+msgid ""
+"Yep! The light changes direction as it moves from the water into the air. "
+"This bending of light is known as refraction, and it makes the fish appear "
+"to be closer to the surface than it actually is."
+msgstr ""
+"¡Sí! La luz cambia de dirección conforme se mueve del agua al aire. Este "
+"pliegue de la luz se conoce como refracción, y hace que el pez parezca estar "
+"más cercano a la superficie de lo que está realmente."
+
+msgid ""
+"No. If the light was absorbed by the water, none of it would reach the eyes "
+"of the spear fisher."
+msgstr ""
+"No. Si la luz fuese absorbida por el agua, ninguna parte de ella llegaría a "
+"los ojos del pescador con arpón."
+
+# 23
+msgid ""
+"A periscope is used to \"see around corners\". Arrange the sequence to show "
+"how light travels in order for the tricycle to be seen by the person using "
+"the periscope."
+msgstr ""
+"Un periscopio se utiliza para \"ver alrededor de las esquinas\". Ordena la "
+"secuencia para mostrar cómo viaja la luz para que el triciclo sea visto por "
+"la persona utilizando el periscopio."
+
+msgid "periscope"
+msgstr "periscopio"
+
+msgid "person's eye"
+msgstr "ojo de la persona"
+
+msgid "sun"
+msgstr "sol"
+
+msgid "bicycle"
+msgstr "bicicleta"
+
+msgid ""
+"Fantastic! The light must first come from the Sun and then bounce off the "
+"tricycle before bouncing off of the mirrors in the periscope and arriving at "
+"the eye of the person."
+msgstr ""
+"¡Fantástico! La luz primero debe venir del sol y luego rebotar en el "
+"triciclo antes de rebotar en los espejos del periscopio para llegar al ojo "
+"de la persona."
+
+# 24
+msgid ""
+"Nope. First, it must come from the Sun, then it is reflected by the tricycle "
+"before bouncing off the mirrors in the periscope and arriving at the eye of "
+"the person."
+msgstr ""
+"Nop. Primero, debe venir del sol, luego es reflejada por el triciclo antes "
+"de rebotar en los espejos del periscopio para llegar al ojo de la persona."
+
+msgid "Congratulations"
+msgstr "¡Felicitaciones, "
+
+msgid "You've completed the How Light Behaves module."
+msgstr "Has completado el módulo de Cómo se Comporta la Luz"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for "
+"this module by clicking the button below."
+msgstr ""
+"Puedes revisar cómo lo hiciste en las 'Revisiones Rápidas' y 'Preguntas de "
+"Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Go Back to Dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid ""
+"Not quite! An image can look real, but people can use science to determine "
+"whether or not that's the case. In this example, a couple of the images show "
+"the violet light changing direction the least, and the red light changing "
+"direction the most. That's not how it works in nature!"
+msgstr ""
+"¡No exactamente! Una imagen puede lucir real, pero las personas pueden "
+"utilizar la ciencia para determinar si lo es o no. En este ejemplo, un par "
+"de imágenes muestran la luz violeta cambiando de dirección de la manera más "
+"mínima, y la luz roja cambiando al máximo. ¡Así no funciona en la naturaleza!"
+
+msgid ""
+"Way to go! The images that show the red light bending the least and the "
+"violet light bending the most have got the science right."
+msgstr ""
+"¡Bien hecho! Las imágenes que muestran la luz roja doblándose lo mínimo y la "
+"luz violeta doblándose al máximo son correctas de acuerdo a la ciencia."

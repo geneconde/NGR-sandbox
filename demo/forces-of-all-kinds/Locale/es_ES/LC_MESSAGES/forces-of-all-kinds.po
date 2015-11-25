@@ -1,0 +1,710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Quick Check #5"
+msgstr "Revisión Rápida #5"
+
+msgid "Quick Check #6"
+msgstr "Revisión Rápida #6"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja debajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations"
+msgstr "¡Felicitaciones, "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "¿Estás listo/a"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# page 1
+msgid "Forces of all Kinds"
+msgstr "Fuerzas de Todo Tipo"
+
+msgid "Welcome to the Forces of All Kinds module"
+msgstr "Bienvenido/a al módulo de Fuerzas de Todo Tipo"
+
+# page 2
+msgid "Thinking about... forces"
+msgstr "Pensando acerca de... fuerzas"
+
+msgid "If you take a look around you, chances are you can find many examples of objects interacting with each other. All of these interactions can be classified into just a few different types of forces. Most of the interactions you can see are based on either electric or gravitational forces. A few of the interactions might be based on magnetic force. Most objects are experiencing one or more of these different types of forces at the same time. The way these forces combine together will influence the motion of the object."
+msgstr "Si miras a tu alrededor, es probable que puedas encontrar muchos ejemplos de objetos que interactúan entre sí. Todas estas interacciones pueden clasificarse en tan sólo unos cuantos tipos diferentes de fuerzas. La mayoría de las interacciones que puedes ver se basan en fuerzas eléctricas o gravitacionales. Unas cuantas de las interacciones podrían basarse en fuerzas magnéticas. La mayoría de los objetos están experimentando uno o más de estos distintos tipos de fuerza al mismo tiempo. La forma en que estas fuerzas se combinan entre sí influenciará el movimiento del objeto."
+
+# page 3
+msgid "Checking what you already know about... forces"
+msgstr "Revisando lo que ya sabes acerca de... fuerzas"
+
+msgid "Click on images below where the objects are experiencing forces."
+msgstr "Da clic en las imágenes debajo donde los objetos estén experimentando fuerzas."
+
+msgid "Dog"
+msgstr "Perro"
+
+msgid "Flower Pot"
+msgstr "Maceta para flor"
+
+msgid "Ball"
+msgstr "Pelota"
+
+msgid "Tennis Racket"
+msgstr "Raqueta de Tenis"
+
+msgid "Skydiver"
+msgstr "Paracaidista"
+
+msgid "Swimmer"
+msgstr "Nadador"
+
+msgid "Bulldozer"
+msgstr "Excavadora"
+
+msgid "Bird"
+msgstr "Ave"
+
+msgid "If you clicked on all of the boxes, you're on the right track! Objects are interacting all around us. In fact, objects don't even need to be touching in order to interact with each other. Continue with this module to learn more about Forces!"
+msgstr "Si diste clic en todas las cajas, ¡vas por el camino correcto! Los objetos están interactuando a todo nuestro alrededor. De hecho, los objetos ni siquiera necesitan estar tocándose para poder interactuar entre sí. ¡Continúa con este módulo para aprender más acerca de las Fuerzas!"
+
+msgid "Placing the boxes..."
+msgstr "Colocando las cajas..."
+
+# page 4
+msgid "Reviewing big ideas about... forces"
+msgstr "Revisando ideas importantes acerca de... fuerzas"
+
+msgid "You've been studying force and motion your whole life. From learning to crawl to throwing a ball, everyone builds an understanding of how interactions play a role in everyday events. This can also make it difficult to fully understand how force and motion go together. Forces provide us with a way to explain why some things move, and some things remain at rest. When analyzing force, both the amount or size of the force, and the direction of the force are important. With all the different types of motion you can see and experience, it might seem like there are a wide variety of forces out there. However, scientists that study physics have identified just four basic types of force. We are most familiar with <span class = 'key'> gravitational force </span> and <span class = 'key'> electro-magnetic force</span>. Additionally, the strong nuclear force and weak nuclear force play a role in interactions at the atomic level."
+msgstr ""
+"Has estado estudiando la fuerza y el movimiento toda tu vida. Desde aprender a gatear a lanzar una pelota, todos construimos un entendimiento de cómo las interacciones juegan un papel en los eventos diarios. Esto también puede hacer difícil el entender del todo cómo la fuerza y el movimiento van juntos. La fuerza nos proporciona una forma de explicar cómo es que algunas cosas se mueven y otras permanecen en reposo. Cuando analizamos la fuerza, tanto la cantidad o el tamaño de la fuerza, como la dirección de la fuerza son importantes. Con todos los distintos tipos de movimiento que puedes ver y experimentar, puede parecer que hay una gran variedad de fuerzas allá afuera. Sin embargo, los científicos que estudian la física han identificado tan sólo cuatro tipos básicos de fuerza. Estamos más familiarizados con la <span class='key'>fuerza de gravedad</span> y la <span class='key'>fuerza electromagnética</span>. Adicionalmente, "
+"la fuerza nuclear fuerte y la fuerza nuclear débil juegan un papel en las interacciones al nivel atómico. "
+
+msgid "Massive objects exert a stronger pull than less massive objects."
+msgstr "Los objetos masivos ejercen una atracción más fuerte que otros objetos menos masivos."
+
+msgid "Use a rope to drag an object across a rough surface."
+msgstr "Utiliza una cuerda para arrastrar un objeto a lo largo de una superficie rugosa."
+
+msgid "Press your fingers against the table and they will bend backwards."
+msgstr "Presiona tu dedo contra la mesa y se doblará hacia atrás."
+
+msgid "Rub a balloon in your hair and stick it to the wall."
+msgstr "Frota un globo contra tu cabello y se pegará al muro."
+
+msgid "These events seem quite different, but they can all be explained by electric charge based interactions. Eventually scientists demonstrated a relationship between those forces and the force involved in holding magnets to the refrigerator. They’re all part of the electro-magnetic interaction. Like the gravitational interaction, these electric charge based interactions can draw objects together with attractive forces. Unlike gravitational interaction, forces due to electric charges or magnets can also repel, pushing objects apart. These forces are so strong, they’re responsible for holding objects together and giving them shape. If you play with two magnets from the refrigerator, you can feel an attractive force between them even if they’re not touching each other. The <span class = 'key'>forces </span> can be explained as interaction with the other object’s magnetic field."
+msgstr ""
+"Estos eventos parecen bastante diferentes, pero todos pueden explicarse a través de las interacciones basadas en cargas eléctricas. Finalmente, los científicos demostraron una relación entre dichas fuerzas y la fuerza involucrada en mantener los imanes unidos al refrigerador. Todos son parte de la interacción electromagnética. Como la interacción gravitacional, estas interacciones basadas en cargas eléctricas pueden atraer objetos entre sí con fuerzas de atracción. Al contrario de la interacción gravitacional, las fuerzas debido a cargas eléctricas o magnéticas también pueden repeler, haciendo que los objetos se distancien entre sí. Estas fuerzas son tan intensas que son responsables de mantener a los objetos unidos y de darles forma. Si juegas con dos imanes del refrigerador, puedes sentir una fuerza de atracción entre ellos incluso si no se están tocando entre sí. Las <span class='key'>fuerzas</span> pueden explicarse "
+"como una interacción con el campo magnético del otro objeto."
+
+msgid "Tying a knot..."
+msgstr "Atando un nudo..."
+
+# page 5
+msgid "Which of the following events can be explained by electro-magnetic interaction? <br/> Check <span class=\"blink\">ALL</span> that apply."
+msgstr "¿Cuál de los siguientes eventos puede explicarse por medio de la interacción electromagnética? <br/> Selecciona <span class=\"blink\">TODAS</span> las que aplican."
+
+msgid "A magnet holds a picture to the refrigerator."
+msgstr "Un imán que sostiene una fotografía en el refrigerador."
+
+msgid "Static cling causes a sock to stick to your sweater."
+msgstr "La estática que provoca que un calcetín se pegue a tu suéter."
+
+msgid "Your hand cannot pass through the solid table."
+msgstr "Tu mano no puede pasar a través de una mesa sólida."
+
+msgid "A rock falls towards the Earth's surface."
+msgstr "Una roca cae en dirección a la superficie terrestre."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "You got it! The first three are all examples of electro-magnetic interaction."
+msgstr "¡Acertaste! Las primeras tres, todas son ejemplos de interacción electromagnética."
+
+msgid "Not quite. The first three items are all examples of electro-magnetic interaction: the magnet is having an electro-magnetic interaction with the refrigerator, static cling is based on the interaction of charged particles in the sock and the sweater, and your hand can't pass through the table because forces between charged particles in the table hold it together. However, the rock falls towards the Earth's surface due to a gravitational interaction, not an electro-magnetic one."
+msgstr "No exactamente. Las primeras tres opciones son todas ejemplos de una interacción electromagnética: el imán tiene una interacción electromagnética con el refrigerador, la atracción estática se basa en la interacción de partículas cargadas en el calcetín y el suéter, y tu mano no puede pasar a través de la mesa porque las fuerzas entre las partículas cargadas en la mesa la mantienen unida. Sin embargo, la roca cae hacia la superficie terrestre debido a una interacción gravitacional, no una electromagnética."
+
+# page 6
+msgid "More big ideas about... forces"
+msgstr "Más ideas importantes acerca de... fuerzas"
+
+msgid "Now that you've given some thought to the variety of forces around you, it's time to examine how those interactions can affect the motion of objects. Even if you're not in motion at this moment, you're likely experiencing at least two forces. The Earth is pulling down on you gravitationally, but the surface that you're sitting or standing on is pushing up on you with the same amount of force. You're not floating off into space, and you're not sinking into the surface because these forces are balanced. Another term to describe these <span class = 'key'> balanced forces </span> is equilibrium. An object is in <span class = 'key'> equilibrium </span>if all of the forces acting upon it are balanced."
+msgstr "Ahora que has pensado un poco sobre la variedad de fuerzas a tu alrededor, es hora de examinar cómo dichas interacciones pueden afectar el movimiento de los objetos. Incluso si no estás en movimiento en este momento, es probable que estés experimentando al menos dos fuerzas. La Tierra está atrayéndote gravitacionalmente, pero la superficie sobre la que estás sentado o de pie, de empuja hacia arriba con la misma cantidad de fuerza. No estás flotando hacia el espacio, y no te estás hundiendo en la superficie porque estas fuerzas están balanceadas. Otro término para describir estas <span class='key'>fuerzas balanceadas</span> es equilibrio. Un objeto está en <span class='key'>equilibrio</span> si todas las fuerzas que se ejercen sobre él están balanceadas."
+
+msgid "Just because the forces on an object are balanced, that doesn't mean the object isn't moving. Take the bowling ball in this picture, for example. It's difficult to tell whether the ball is moving or not. That's because, at this moment, the ball is only interacting with Earth gravitationally, and with the floor based on direct contact. Those forces are balanced, so a picture of a ball rolling along the surface looks exactly like a picture of a ball at rest on the surface. Those same interactions are occurring whether the ball is at rest, or is moving. The man is no longer pushing on the ball, so he is no longer interacting with it. He can no longer affect the motion of the ball. The speed of the ball is constant because the forces acting on the ball are balanced. When the ball hits another object, the forces will no longer be balanced, and the speed will no longer be constant."
+msgstr ""
+"Sólo porque las fuerzas sobre un objeto están balanceadas, no significa que el objeto no se esté moviendo. Por ejemplo, mira la bola de boliche en esta imagen. Es difícil decir si la bola se mueve o no. Eso es porque, en este momento, la bola sólo está interactuando con la Tierra gravitacionalmente, y con el suelo basándose en contacto directo. Dichas fuerzas están balanceadas, así que la imagen de una bola que rueda por la superficie luce exactamente igual que una imagen de una bola que está en reposo sobre la superficie. Esas mismas interacciones suceden si la bola está en reposo o en movimiento. El hombre ya no está empujando la bola, así que ya no está interactuando con ella. Ya no puede afectar el movimiento de la bola. La velocidad de la bola es constante porque las fuerzas que actúan sobre la bola están balanceadas. Cuando la bola golpee otro objeto, las fuerzas ya no estarán balanceadas, y la velocidad ya no será "
+"constante."
+
+msgid ""
+"In the Olympic sport of curling, an athlete gives a push to a massive stone, causing it to slide towards the other end of the icy surface. Teammates sweep against the ice with special brooms to limit the amount of friction. The lack of friction means the stone experiences balanced forces, and it moves along the ice at a constant speed. The downward force of gravity and upward force from the surface don't affect the motion of the stone along the ice. The stone doesn't change its speed until it smacks into another stone, or the teammates stop sweeping and allow friction to slow the stone to a stop. The bowling ball and the curling stone do not need a constant push from a person in order to stay in motion on a frictionless surface. They do that naturally because the forces on them are balanced. This tendency for objects experiencing balanced forces to either remain at rest, or to continue moving at a constant speed in a "
+"straight line is known as <span class = 'key'>Newton's First Law of Motion.</span>"
+msgstr ""
+"En el deporte olímpico del curling, un atleta da un empujón a una piedra masiva, provocando que se deslice hacia el otro extremo de la superficie de hielo. Los otros miembros del equipo barren el hielo con escobas especiales para limitar la cantidad de fricción. La falta de fricción provoca que la piedra experimente fuerzas balanceadas, y se mueva a lo largo del hielo a una velocidad constante. La fuerza de la gravedad que la atrae hacia abajo y la fuerza de la superficie hacia arriba no afectan el movimiento de la piedra a lo largo del hielo. La piedra no cambia su velocidad sino hasta que golpea a otra piedra, o los jugadores dejan de barrer y permiten que la fricción disminuya la velocidad de la piedra hasta hacerla detenerse. La bola de boliche y la piedra de curling no necesitan ser impulsados constantemente por una persona para mantenerse en movimiento sobre una superficie sin fricción. Hacen eso naturalmente porque "
+"las fuerzas sobre ellas están balanceadas. Esta tendencia a que los objetos que experimentan fuerzas balanceadas se mantengan en reposo o continúen moviéndose a una velocidad constante en una línea recta se conoce como la <span class='key'>Primera Ley del Movimiento de Newton.</span>"
+
+msgid "Floating into space..."
+msgstr "Flotando en el espacio..."
+
+# page 7
+msgid "Items"
+msgstr "Objetos"
+
+msgid "Forces are balanced"
+msgstr "Las fuerzas están balanceadas"
+
+msgid "Forces are unbalanced"
+msgstr "Las fuerzas no están balanceadas"
+
+msgid "Drag the images below into the correct column to indicate whether they are experiencing balanced or unbalanced forces. Hover your mouse over the images to see the details."
+msgstr "Arrastra las imágenes debajo a la columna correcta para indicar si están experimentando fuerzas equilibradas o desequilibradas. Pasa tu mouse por encima de las imágenes para ver los detalles."
+
+msgid "Answer"
+msgstr "Respuesta"
+
+msgid "Creating human tower..."
+msgstr "Creando una torre humana..."
+
+msgid "A teapot rests on a shelf"
+msgstr "Una tetera reposa sobre un estante"
+
+msgid "A person stands atop a human tower"
+msgstr "Una persona está de pie en la cima de una torre humana"
+
+msgid "A puck slides at constant speed across a frictionless air hockey table"
+msgstr "Un disco se desliza a una velocidad constante a través de una mesa de hockey de aire sin fricción"
+
+msgid "Yes! Objects at rest and objects in motion at a constant speed are all experiencing balanced forces."
+msgstr "¡Sí! Los objetos que están en reposo y los objetos en movimiento a una velocidad constante, todos experimentan fuerzas balanceadas."
+
+msgid "Nope. The tea pot and person standing atop the human tower are at rest, and the puck is sliding at a constant speed across a frictionless table. These are all examples of objects experiencing balanced forces."
+msgstr "Nop. La tetera y la persona que está en la cima de una torre humana están en reposo, y el disco se desliza a una velocidad constante por una mesa sin fricción. Todos estos son ejemplos de objetos que experimentan fuerzas balanceadas."
+
+# page 8
+msgid "What if the floor suddenly started pushing up on you with more force than the earth pulled down? Or what if the earth was pulling down on you harder than the floor was pushing up? Those situations might sound farfetched, but that’s what happens every time you step into an elevator. If you’ve ever ridden in an elevator, you know that there are times in the ride where you feel a bit heavier and times where you feel a bit lighter. These sensations occur because the forces on you are not balanced, and your motion is changing. Changes is motion occur when <span class = 'key'> forces are unbalanced </span>. This means the push or pull is greater in one direction than it is in the opposite direction."
+msgstr "¿Qué pasaría si el suelo repentinamente comenzara a empujarte hacia arriba con más fuerza de la que la Tierra te atrae hacia abajo? ¿O qué pasaría si la Tierra te atrajera hacia abajo con más fuerza de la que el suelo te empuja hacia arriba? Esas situaciones pueden sonar poco probables, pero eso es lo que sucede cada vez que entras en un elevador. Si alguna vez has utilizado un elevador, sabes que hay veces durante el viaje cuando te sientes un poco más pesado/a y otras cuando te sientes más ligero/a. Estas sensaciones ocurren porque las fuerzas sobre ti no están balanceadas y tu movimiento está cambiando. Los cambios en movimiento suceden cuando <span class='key'>las fuerzas no están balanceadas</span>. Esto significa que la atracción o impulso es más fuerte en una dirección que en su dirección opuesta."
+
+msgid ""
+"Unbalanced forces can also help to explain a car that speeds up or slows down. Think about how your body feels in those situations. The greater the difference amongst the forces acting on you, the stronger those sensations associated with speeding up and slowing down. <span class = 'key'>Acceleration</span> is a term used to describe how quickly an object speeds up or slows down. Both a school bus and a racecar are capable of speeding up from 0 to 60 mph. The drag race car can do it in a shorter amount of time, which means that it is capable of a greater acceleration. After the finish line, the driver then needs the car to slow back down in a hurry before it reaches the end of the track. That's why you see parachutes behind the red car. They help the car slow back down to 0 mph in less time. The parachutes make the forces acting on the car even more unbalanced than they would be if the driver tried to stop using only the "
+"brakes."
+msgstr ""
+"Las fuerzas no balanceadas también pueden ayudar a explicar un auto que aumenta o disminuye su velocidad. Piensa acerca de cómo tu cuerpo se siente en esas situaciones. Entre mayor es la diferencia entre las fuerzas que actúan sobre ti, más fuertes son esas sensaciones relacionadas con acelerar y desacelerar. <span class='key'>Aceleración</span> es un término que se utiliza para describir cuán rápido un objeto aumenta o disminuye su velocidad. Tanto un autobús escolar como un auto de carreras son capaces de acelerar de 0 a 60 mph (100 km/h). El auto de carreras lo puede hacer en una cantidad menor de tiempo, lo que significa que es capaz de una aceleración mayor. Al cruzar la meta, el conductor necesita reducir la velocidad del auto rápidamente antes de que llegue al final de la pista. Por eso hay paracaídas detrás del auto rojo. Ayudan a que el auto disminuya su velocidad y regrese a 0 mph en un tiempo menor. Los "
+"paracaídas hacen que las fuerzas que actúan sobre el auto estén incluso más desbalanceadas que si el conductor intentara detenerse utilizando sólo los frenos."
+
+msgid "Another point where you're aware of motion on a car ride is when you're going around a tight corner. You might feel your seat belt strain to hold you to the seat or the door pressing against you. You are experiencing unbalanced forces again. According to Newton's First Law of Motion, the car (and you, the passenger) has a tendency to move in a straight line at a constant speed as long as forces are balanced. In order for motion to take a circular path, an unbalanced force pointing towards the center of the turn is required. For the roller coaster to complete a loop de loop, there must be an unbalanced force directed towards the center of the loop. In this picture, the feet of the riders dangle but you can clearly see a seat underneath each rider. That seat pushes the rider towards the center of the turn, providing the necessary unbalanced force."
+msgstr ""
+"Otro punto en el que estás consciente del movimiento durante un viaje en auto es cuando vas a dar vuelta en una esquina pronunciada. Puedes sentir que el cinturón de seguridad se esfuerza para mantenerte en tu asiento o la puerta presionando contra ti. Estás experimentando fuerzas desbalanceadas de nuevo. De acuerdo a la Primera Ley del Movimiento de Newton, el auto (y tú, el pasajero) tiene una tendencia a moverse en una línea recta a una velocidad constante mientras las fuerzas estén balanceadas. Para que el movimiento tome un camino circular, una fuerza sin balancear que señala hacia el centro del giro es necesaria. Para que la montaña rusa complete una vuelta completa, debe haber una fuerza fuera de balance dirigida hacia el centro del giro circular. En esta imagen, los pies de los pasajeros cuelgan, pero claramente puedes ver un asiento debajo de cada pasajero. Ese asiento empuja al pasajero hacia el centro de la "
+"vuelta, proporcionando la fuerza desbalanceada necesaria."
+
+msgid "Pressing elevator button..."
+msgstr "Presionando el botón del elevador..."
+
+# page 9
+msgid "Standing on a balance beam..."
+msgstr "De pie sobre la viga de equilibrio..."
+
+msgid "A satellite circles the Earth at a constant speed"
+msgstr "Un satélite gira alrededor de la Tierra a una velocidad constante"
+
+msgid "A softball player slides to a stop in the dirt"
+msgstr "Un jugador de softball se desliza sobre el suelo hasta detenerse"
+
+msgid "A bowling ball rolls at a constant speed"
+msgstr "Una bola de boliche rueda a una velocidad constante"
+
+msgid "You got it! The satellite traveling on a curved path and the softball player slowing down are both examples of unbalanced forces."
+msgstr "¡Acertaste! El satélite que viaja sobre un camino curveado y el jugador de softball que reduce su velocidad, ambos son ejemplos de fuerzas desbalanceadas."
+
+msgid "Not quite! The satellite moving in a circular path as it orbits around the earth requires an unbalanced force even if it's moving at a constant speed. The softball player is using a friction interaction with the ground to slow to a stop – this is a type of acceleration and that means forces are unbalanced. The bowling ball moving in a straight line at a constant speed is an example of an object experiencing balanced forces."
+msgstr "¡No exactamente! El satélite que se mueve en un camino circular conforme orbita alrededor de la tierra requiere una fuerza desbalanceada incluso si se mueve a una velocidad constante. El jugador de softball está utilizando una interacción por medio de la fricción con el suelo para disminuir su velocidad hasta detenerse - este es un tipo de aceleración y significa que las fuerzas están desbalanceadas. La bola de boliche que se mueve en una línea recta a una velocidad constante es un ejemplo de un objeto que experimenta fuerzas balanceadas. "
+
+# page 10
+msgid "These ideas about force and motion come together based on something called <span class = 'key'> Newton's Second Law of Motion</span>. This law explains that the acceleration of an object depends on how far the forces are from being balanced, and how much mass the object has. If the forces on an object are just slightly unbalanced, then the acceleration will be relatively small, and the object will take more time to have much of a change in speed. However, that acceleration can be increased by making the object less massive. If the mass of the object is increased, the acceleration will decrease. This type of relationship where increasing the amount of one thing decreases the amount of another thing is called an <span class = 'key'>inverse relationship. </span>"
+msgstr "Estas ideas acerca de fuerza y movimiento se unen basándose en algo llamado la span class='key'>Segunda Ley del Movimiento de Newton</span>. Esta ley explica que la aceleración de un objeto, dependiendo de cuán lejos las fuerzas estén de estar balanceadas, y cuánta masa tiene el objeto. Si las fuerzas en un objeto están sólo ligeramente desbalanceadas, entonces la aceleración será relativamente pequeña, y el objeto tomará más tiempo para tener un cambio notable en su velocidad. Sin embargo, esa aceleración puede incrementarse al hacer al objeto menos masivo. Si la masa del objeto se incrementa, la aceleración disminuirá. Este tipo de relación en la que incrementar la cantidad de una cosa disminuye la cantidad de otra, se conoce como <span class='key'>relación inversa</span>."
+
+msgid ""
+"Force is measured in Newtons (N). One Newton of force is equal to roughly one quarter of a pound. <span class = 'key'>Mass</span> is the other important quantity to consider when determining the acceleration of an object. The metric unit for mass is the kilogram (kg). Consider two children pulling a wagon across a yard. The children and the wagon each have a mass of 40 kg. Each child is capable of pulling on the wagon with a force of 50 N. If the children pull on the wagon in opposite directions, the forces on the wagon will be balanced, and it will remain at rest. If one child pulls the wagon with the 50 N force while the other child watches, the wagon will speed up or accelerate. If one child pulls with 50 N while the other child sits in the wagon, the acceleration will be half as much because the same unbalanced force is acting on the combined 80 kg of mass. If both children pull the empty wagon with 50 N each, in the "
+"same direction, the acceleration of the wagon will be twice as much as it was with just one child pulling the empty wagon because the unbalanced force will now be 100 N."
+msgstr ""
+"La fuerza se mide en Newtons (N). Un Newton de fuerza es igual a aproximadamente un cuarto de una libra. <span class='key'>Masa</span> es la otra cantidad importante a considerar cuando se determina la aceleración de un objeto. La unidad métrica de masa es el kilogramo (kg). Considera dos niños que tiran de un vagón a lo largo de un jardín. Los niños y el vagón cada uno tienen una masa de 40 kg. Cada niño es capaz de tirar del vagón con una fuerza de 50 N. Si los niños tiran del vagón en direcciones opuestas, las fuerzas sobre el vagón serán balanceadas, y permanecerá en reposo. Si un niño tira del vagón con la fuerza de 50 N mientras que el otro niño observa, el vagón acelerará o aumentará su velocidad. Si un niño tira con 50 N mientras que el otro niño se sienta en el vagón, la aceleración será la mitad de intensa porque la misma fuerza desbalanceada está actuando sobre los 80 kg combinados de masa. Si ambos niños tiran "
+"del vagón vacío con 50 N cada uno, en la misma dirección, la aceleración del vagón será dos veces mayor que si sólo un niño estuviese tirando del vagón vacío porque la fuerza desbalanceada ahora será 100 N."
+
+msgid "Pulling a wagon..."
+msgstr "Tirando de un vagón...."
+
+# page 11
+msgid "Drag these boxes into order from greatest acceleration on the left to the least acceleration on the right. <span class='blink'>ALL</span> of the boxes have the same mass, and each arrow represents a force of 10 N in the direction shown."
+msgstr "Arrastra estas cajas y ordénalas de la mayor aceleración a la izquierda a la menor aceleración a la derecha. <span class='blink'>TODAS</span> las cajas tienen la misma masa, y cada flecha representa una fuerza de 10 N en la dirección mostrada."
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+msgid "Yes! C has the greatest unbalanced force, so it would experience the greatest acceleration, B is experiencing balanced forces, so would not have any acceleration."
+msgstr "¡Sí! C tiene la mayor fuerza desbalanceada, así que experimentaría la mayor aceleración, B está experimentando fuerzas balanceadas, así que no tendría ninguna aceleración."
+
+msgid "Nope. You need to take into account the direction of the forces in order to determine the unbalanced force. C has two arrows to the right - that is the greatest unbalanced force, so the greatest acceleration will result. B has one force to the right and the same amount of force to the left, so the forces balance and there wouldn’t be any acceleration."
+msgstr "Nop. Necesitas tomar en cuenta la dirección de las fuerzas para determinar la fuerza desbalanceada. C tiene dos flechas hacia la derecha - ésa es la fuerza desbalanceada más grande, así que resultará en la aceleración más grande. B tiene una fuerza hacia la derecha y la misma cantidad de fuerza hacia la izquierda, así que las fuerzas se balancean y no habría aceleración."
+
+# page 12
+msgid "Using what you now know about... forces... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... fuerzas... para resolver un problema"
+
+msgid "A local university is sponsoring a competition where students at your school will build wooden cars powered by compressed CO<sub>2</sub> cartridges."
+msgstr "Una universidad local está patrocinando una competencia en la que los estudiantes de tu escuela construirán carretas de madera impulsados por cartuchos de CO<sub>2</sub> comprimido."
+
+msgid "Use your understanding of the ways that force and mass can affect motion to list some of the things you will need to keep in mind as you begin the process of building a car that can win the competition. Enter your text in the box below."
+msgstr "Utiliza tu entendimiento de las formas en que la fuerza y masa pueden afectar el movimiento para listar algunas de las cosas que necesitarás mantener en mente mientras comienzas el proceso de construir un auto que pueda ganar la competencia. Introduce el texto en la caja debajo."
+
+msgid "Cutting Wood"
+msgstr "Cortando Madera"
+
+# page 13
+msgid "Summarizing big ideas about... forces"
+msgstr "Resumiendo ideas importantes acerca de... fuerzas"
+
+msgid ""
+"<span class = 'key'>Force </span> is a term used to describe the interaction between two objects. There are different types of force depending upon the circumstances of the interaction. The forces that we see in everyday life are either <span class = 'key'>gravitational </span> or <span class = 'key'>electro-magnetic</span>. Forces have both an amount and direction. <span class = 'key'> Newton's First Law of Motion </span> explains that objects experiencing balanced forces either remain at rest, or move in a straight line at a constant speed. If the force on an object is greater in one direction than it is in the opposite direction, the forces are said to be <span class = 'key'> unbalanced</span>, and the object will accelerate. The amount of acceleration an object experiences will depend on how big the difference in forces is, and how massive the object is. The bigger the unbalanced force, the bigger the acceleration will "
+"be. The bigger the <span class = 'key'>mass</span> of the object, the smaller the acceleration will be."
+msgstr ""
+"<span class='key'>Fuerza</span> es un término utilizado para describir la interacción entre dos objetos. Hay diferentes tipos de fuerza dependiendo de las circunstancias de la interacción. Las fuerzas que vemos en la vida diaria son ya sea <span class='key'>gravitacionales</span> o <span class='key'>electromagnéticas</span>. Las fuerzas tienen tanto una cantidad como una dirección. La <span class='key'>Primera Ley del Movimiento de Newton</span> explica que los objetos que experimentan fuerzas balanceadas permanecerán en reposo o se moverán en una línea recta a una velocidad constante. Si la fuerza sobre un objeto es mayor en una dirección que en su dirección opuesta, se dice que las fuerzas están <span class='key'>desbalanceadas</span>, y el objeto acelerará. La cantidad de aceleración que experimenta un objeto dependerá de cuán grande es la diferencia en fuerzas y cuán masivo es el objeto. Entre más grande es la fuerza "
+"desbalanceada, mayor será la aceleración. Entre mayor es la <span class='key'>masa</span> de un objeto, menor será la aceleración."
+
+# page 14
+msgid "Reviewing key vocabulary related to... forces"
+msgstr "Revisando vocabulario clave relacionado con... fuerzas"
+
+msgid "Force"
+msgstr "Fuerza"
+
+msgid "The mass of an object multiplied by the rate at which the object is accelerated. A push or a pull on an object."
+msgstr "La masa de un objeto multiplicada por la tasa a la cual el objeto acelera. Un impulso o tirón de un objeto."
+
+msgid "Mass"
+msgstr "Masa"
+
+msgid "A basic property of matter relating to its inertia and the effect of gravity upon it.  With respect to gravity, things with more mass will weigh more."
+msgstr "Una propiedad básica de la materia relacionada con su inercia y el efecto de la gravedad sobre ella. Con respecto a la gravedad, las cosas con mayor masa pesarán más."
+
+msgid "Acceleration"
+msgstr "Aceleración"
+
+msgid "The change in an object's speed over a given amount of time.  How much something speeds up or slows down."
+msgstr "El cambio en la velocidad de un objeto durante un periodo de tiempo. Cuánto aumenta o disminuye la velocidad de algo. "
+
+msgid "Newton's First Law"
+msgstr "Primera Ley de Newton"
+
+msgid "An object at rest will stay at rest unless acted upon by some outside force.  Similarly, an object in motion will stay in motion unless acted upon by some outside force. Also known as inertia."
+msgstr "Un objeto en reposo se mantendrá en reposo a menos que actúe una fuerza externa sobre él. De igual manera, un objeto en movimiento se mantendrá en movimiento a menos que una fuerza externa actúe sobre él. También se conoce como inercia."
+
+msgid "Newton's Second Law"
+msgstr "Segunda Ley de Newton"
+
+msgid "The acceleration of an object is directly proportional and in the same direction as the force applied to it. An object is accelerated in the direction of the force applied and in an amount proportional to the force applied."
+msgstr "La aceleración de un objeto es directamente proporcional y en la misma dirección que la fuerza que se aplica sobre él. Un objeto acelera en la dirección de la fuerza aplicada y en la cantidad proporcional a la fuerza aplicada."
+
+msgid "Balanced Forces"
+msgstr "Fuerzas balanceadas"
+
+msgid "When multiple forces are applied to an object in such a way that they balance out and equal to zero. For example, if a weight was pushed equally hard from both sides, the forces would be balanced and the weight would not move."
+msgstr "Cuando múltiples fuerzas se aplican al objeto de manera que se balancean entre sí y dan igual a cero. Por ejemplo, si una pesa se empujara con igual fuerza desde ambos lados, las fuerzas se balancearían y la pesa no se movería."
+
+msgid "Equilibrium"
+msgstr "Equilibrio"
+
+msgid "When opposing forces or actions are balanced so that one is not stronger or greater than the other."
+msgstr "Cuando las fuerzas o acciones opuestas están balanceadas así que ninguna es más fuerte que la otra."
+
+msgid "Unbalanced Forces"
+msgstr "Fuerzas desbalanceadas"
+
+msgid "When multiple forces are applied to an object in such a way that one or more of the forces are greater than the others. For example, if a weight was pushed from opposite sides, but one side was pushed with more force, the forces would be unbalanced."
+msgstr "Cuando múltiples fuerzas se aplican sobre un objeto de manera que una o más de las fuerzas son mayores que las otras. Por ejemplo, si una pesa se empujara desde lados opuestos, pero un lado fuese impulsado con mayor fuerza, las fuerzas estarían desbalanceadas."
+
+msgid "Gravitational Force"
+msgstr "Fuerza gravitacional"
+
+msgid "The force applied to an object due to the attraction of gravity."
+msgstr "La fuerza que se aplica sobre un objeto debido a la atracción de la gravedad."
+
+msgid "Electro-magnetic force"
+msgstr "Fuerza electromagnética"
+
+msgid "The force applied to an object due to magnetism. For example, when a magnet is placed near a piece of iron, the iron is attracted to the magnet."
+msgstr "La fuerza que se aplica a un objeto debido al magnetismo. Por ejemplo, cuando un imán se coloca cerca de una pieza de hierro, el hierro será atraído hacia el imán."
+
+msgid "Inverse Relationship"
+msgstr "Relación inversa"
+
+msgid "As one thing increases, another decreases. For example, as the distance between two magnets increases, the attractive force they apply upon each other decreases."
+msgstr "Conforme una cosa incrementa, otra disminuye. Por ejemplo, conforme la distancia entre dos imanes aumenta, la fuerza de atracción que aplican el uno sobre el otro disminuye."
+
+# page 15
+msgid "Checking what you now know about... forces"
+msgstr "Revisando lo que sabes ahora acerca de... fuerzas"
+
+# page 16
+msgid "Use the pull down menu to indicate whether the object is experiencing balanced or unbalanced forces."
+msgstr "Utiliza el menú desplegable para indicar si un objeto está experimentando fuerzas balanceadas o desbalanceadas."
+
+msgid "A ferry slows down as it approaches a dock."
+msgstr "Un transbordador que disminuye su velocidad al aproximarse a un muelle."
+
+msgid "A basketball arcs towards the hoop."
+msgstr "Una pelota de básquetbol que traza un arco hacia la canasta."
+
+msgid "A hockey puck slides across the ice at a constant speed."
+msgstr "Un disco de hockey que se desliza por el hielo a una velocidad constante."
+
+msgid "A red rock sits motionless atop some other rocks."
+msgstr "Una roca roja que está inmóvil sobre otras rocas."
+
+msgid "Balanced"
+msgstr "Balanceada"
+
+msgid "Unbalanced"
+msgstr "Desbalanceada"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Yes. The ferry is changing speeds, so is the ball, so they experience unbalanced forces. The puck moving at a constant speed and the motionless rock are examples of balanced forces."
+msgstr "Sí. El transbordador está cambiando de velocidad, también la pelota, así que experimentan fuerzas desbalanceadas. El disco que se mueve a una velocidad constante y la roca que no se mueve son ejemplos de fuerzas balanceadas."
+
+msgid "The ferry is slowing down and the ball is changing speeds as it rises and falls, and its path is arced – these things all require an unbalanced force. The puck isn't speeding up or slowing down, and the rock is at rest - that means that the forces are balanced."
+msgstr "El transbordador está reduciendo su velocidad y la pelota está cambiando de velocidades conforme se eleva y cae, y su trayectoria es un arco - todas estas cosas requieren una fuerza desbalanceada. El disco no está aumentando o disminuyendo su velocidad, y la roca está en reposo - eso significa que las fuerzas están balanceadas."
+
+# page 17
+msgid "A large crate is placed on the back of a flatbed truck. As the truck accelerates from rest, the crate stays on the truck because of"
+msgstr "Una caja grande se coloca en la parte trasera de un camión de plataforma. Conforme el camión acelera a partir de estar en reposo, la caja se mantiene sobre el camión debido a"
+
+msgid "A gravitational force"
+msgstr "Una fuerza gravitacional"
+
+msgid "A friction force"
+msgstr "Una fuerza de fricción"
+
+msgid "A force from the truck's engine"
+msgstr "Una fuerza del motor del camión"
+
+msgid "Strong nuclear force"
+msgstr "Fuerza nuclear fuerte"
+
+msgid "Driving a truck..."
+msgstr "Conduciendo un camión..."
+
+msgid "No. Gravitational force is acting in the downward direction, and the truck is moving in a sideways direction."
+msgstr "No. La fuerza gravitacional actúa hacia abajo, y el camión se mueve hacia una dirección a los lados."
+
+msgid "Yes! Friction is the force responsible for preventing the crate from sliding off the truck."
+msgstr "¡Sí! La fricción es la fuerza responsable de prevenir que la caja se deslice y caiga del camión."
+
+msgid "No. The truck's engine is helping the truck to accelerate, but friction is necessary to keep the crate from sliding off the truck."
+msgstr "No. El motor del camión ayuda al camión a acelerar, pero la fricción es necesaria para evitar que la caja se deslice y caiga del camión."
+
+msgid "No. The strong nuclear force acts on particles inside the atom. The crate is much bigger than that, so it must be a different force keeping it on the truck."
+msgstr "No. La fuerza nuclear fuerte actúa sobre las partículas dentro del átomo. La caja es mucho más grande que eso, así que debe haber una fuerza diferente que la mantiene sobre el camión."
+
+# page 18
+msgid "A tow rope pulling on a box gives it a certain amount of acceleration. Doubling the mass of the box, without changing the force in the tow rope, would have what effect on the acceleration?"
+msgstr "Una cuerda de remolque que tira de una caja proporciona una cierta cantidad de aceleración. Duplicar la masa de la caja, sin cambiar la fuerza de la cuerda de remolque, ¿qué efecto tendría sobre la aceleración?"
+
+msgid "The acceleration would double."
+msgstr "La aceleración se duplicaría."
+
+msgid "The acceleration would not change."
+msgstr "La aceleración no cambiaría."
+
+msgid "The acceleration would quadruple."
+msgstr "La aceleración se cuadruplicaría."
+
+msgid "The acceleration would be half as much."
+msgstr "La aceleración disminuiría a la mitad."
+
+msgid "Securing a tow rope..."
+msgstr "Asegurando una cuerda de remolque..."
+
+msgid "Nope. Mass and acceleration have an inverse relationship, and one thing increases, the other thing decreases."
+msgstr "Nop. La masa y aceleración tienen una relación inversa, y si una cosa incrementa, la otra disminuye."
+
+msgid "Nope. Mass and acceleration have an inverse relationship, changing the mass of the object will definitely have an effect on acceleration."
+msgstr "Nop. La masa y aceleración tienen una relación inversa, cambiar la masa del objeto definitivamente tendrá un efecto en la aceleración."
+
+msgid "No. Mass and acceleration have an inverse relationship, increasing the mass will not result in an increase in acceleration."
+msgstr "Nop. La masa y aceleración tienen una relación inversa, incrementar la masa no resultará en un incremento en la aceleración."
+
+msgid "Yes! Mass and acceleration have an inverse relationship, increasing the mass will decrease the acceleration. In this case, doubling the mass will cut the acceleration in half."
+msgstr "¡Sí! La masa y aceleración tienen una relación inversa, incrementar la masa disminuirá la aceleración. En este caso, duplicar la masa disminuirá la aceleración a la mitad."
+
+# page 19
+msgid "One end of a string is attached to a cart and the other end is attached to a weight hanging off a pulley at the edge of a table. The weight is released, and the car accelerates towards the edge of the table. Based on the data below, see if you can determine the size of the unknown mass."
+msgstr "Un extremo de una cuerda se une a una carreta y el otro extremo se une a una pesa que cuelga de una polea a la orilla de una mesa. La pesa se suelta y la carreta acelera hacia la orilla de la mesa. Basándote en los datos debajo, intenta determinar el tamaño de la masa desconocida."
+
+msgid "1.5 kg"
+msgstr "1.5 kg"
+
+msgid "4 kg"
+msgstr "4 kg"
+
+msgid "6 kg"
+msgstr "6 kg"
+
+msgid "10 kg"
+msgstr "10 kg"
+
+msgid "1 Kg"
+msgstr "1 kg"
+
+msgid "10 m/s/s"
+msgstr "10 m/s/s"
+
+msgid "2 Kg"
+msgstr "2 kg"
+
+msgid "5 m/s/s"
+msgstr "5 m/s/s"
+
+msgid "5 Kg"
+msgstr "5 kg"
+
+msgid "2 m/s/s"
+msgstr "2 m/s/s"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "2.5 m/s/s"
+msgstr "2.5 m/s/s"
+
+msgid "Looking at the data..."
+msgstr "Mirando los datos..."
+
+msgid "Nope. The acceleration is between 2 m/s/s and 5 m/s/s, so the mass must be between 2 kg and 5 kg."
+msgstr "Nop. La aceleración es entre 2 m/s/s y 5 m/s/s, así que la masa debe de estar entre 2 kg y 5 kg."
+
+msgid "Yes! The acceleration is between 2 m/s/s and 5 m/s/s, so the mass must be between 2 kg and 5 kg. The unbalanced force appears to be 10 N since 10 divided by 1 is 10 and 10 divided by 5 is 2. 10 divided by 4 would be 2.5!"
+msgstr "¡Sí! La aceleración es entre 2 m/s/s y 5 m/s/s, así que la masa debe de estar entre 2 kg y 5 kg. La fuerza desbalanceada parece ser de 10 N ya que 10 dividido entre 1 es 10 y 10 dividido entre 5 es 2. 10 dividido entre 4 sería 2.5."
+
+msgid "Nope. 5 kg has an acceleration of 2 m/s/s, and increasing mass would decrease acceleration. The unknown mass must be less than 5 kg."
+msgstr "Nop. 5 kg tiene una aceleración de 2 m/s/s, e incrementar la masa disminuiría la aceleración. La masa desconocida debe ser menor a 5 kg."
+
+# page 20
+msgid "Determine the unbalanced force acting on the object in this diagram."
+msgstr "Determina la fuerza desbalanceada que actúa sobre el objeto en este diagrama."
+
+msgid "10 Newtons West"
+msgstr "10 Newtons al Oeste"
+
+msgid "20 Newtons East"
+msgstr "20 Newtons al Este"
+
+msgid "10 Newtons South"
+msgstr "10 Newtons al Sur"
+
+msgid "50 Newtons"
+msgstr "50 Newtons"
+
+msgid "10 Newtons East"
+msgstr "10 Newtons al Este"
+
+msgid "0 Newtons"
+msgstr "0 Newtons"
+
+msgid "10 Newtons North"
+msgstr "10 Newtons al Norte"
+
+msgid "Drawing a diagram..."
+msgstr "Dibujando un diagrama..."
+
+msgid "Nope. The direction of the force matters, so you can't just add the numbers together. The 10 Newtons North balances out the 10 Newtons South."
+msgstr "Nop. La dirección de la fuerza importa, así que no puedes sólo sumar los números. Los 10 Newtons al Norte se equilibran con los 10 Newtons al Sur."
+
+msgid "Yes! The North and South forces balance out, and there are 10 Newtons of force to the East that are unbalanced."
+msgstr "¡Sí! Las fuerzas al Norte y al Sur se equilibran entre sí, y hay 10 Newtons de fuerza al Este que no están balanceados."
+
+msgid "Nope. The forces in the North and South direction balance, but there's more force to the East than to the West. That means the forces here will be unbalanced."
+msgstr "Nop. Las fuerzas en las direcciones Norte y Sur se balancean, pero hay más fuerza al Este que al Oeste. Eso significa que las fuerzas aquí estarán desbalanceadas."
+
+msgid "No. The 10 Newtons to the West will balance out half of the 20 Newton force to the East, that leaves just 10 Newtons East unbalanced."
+msgstr "No. Los 10 Newtons al Oeste balancearán la mitad de los 20 Newtons de fuerza al Este, eso deja sólo 10 Newtons al Este sin balancearse."
+
+# page 21
+msgid "Each of the arrows in the diagrams below represents a force of 10 Newtons in the direction shown. The masses of the boxes are not the same. Drag the diagrams in order from greatest acceleration on the left to least acceleration on the right."
+msgstr "Cada una de las flechas en los diagramas debajo representa una fuerza de 10 Newtons en la dirección mostrada. Las masas de las cajas no son las mismas. Arrastra los diagramas en orden de la aceleración mayor a la izquierda a la menor a la derecha."
+
+msgid "10kg"
+msgstr "10 kg"
+
+msgid "5kg"
+msgstr "5 kg"
+
+msgid "Yes! You have to take into account the unbalanced force and the mass of the object to determine the acceleration."
+msgstr "¡Sí! Tienes que tomar en cuenta la fuerza desequilibrada y la masa de los objetos para determinar la aceleración."
+
+msgid "Nope! C and D both have 20 Newtons of unbalanced force, but C only has 5 kg of mass. 20 Newtons acting on 10 kg is the same ratio as 10 Newtons acting on 5 kg, so D and B are equal. Diagram A only has 10 Newtons acting on 10 kg, so it will have the smallest acceleration."
+msgstr "¡Nop! Tanto C como D tienen 20 Newtons de fuerza desbalanceada, pero sólo C tiene 5 kg de masa. 20 Newtons actuando sobre 10 kg es la misma proporción que 10 Newtons actuando sobre 5 kg, así que D y B son iguales. El diagrama A sólo tiene 10 Newtons que actúan sobre 10 kg, así que tendrá la menor aceleración."
+
+# page 22
+msgid "You've completed the Forces of All Kinds module."
+msgstr "Has completado el módulo de Fuerzas de Todo Tipo."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Unbalanced forces can also help to explain a car that speeds up or slows down. Think about how your body feels in those situations. The greater the difference amongst the forces acting on you, the stronger those sensations associated with speeding up and slowing down. Acceleration is a term used to describe how quickly an object speeds up or slows down. Both a school bus and a race car are capable of speeding up from 0 to 60 mph. The race car can do it in a shorter amount of time, which means that it is capable of a greater acceleration. In order to safely travel through tight corners on the track, the driver needs to be able to slow the car back down in a hurry. The car uses large carbon-fiber brakes in order to rapidly slow back down to a safe speed. In terms of winning or losing a race, slowing down quickly can be just as important as reaching top speed quickly!"
+msgstr ""
+"Las fuerzas no balanceadas también pueden ayudar a explicar un auto que aumenta o disminuye su velocidad. Piensa acerca de cómo tu cuerpo se siente en esas situaciones. Entre mayor es la diferencia entre las fuerzas que actúan sobre ti, más fuertes son esas sensaciones relacionadas con acelerar y desacelerar. Aceleración es un término que se utiliza para describir cuán rápido un objeto aumenta o disminuye su velocidad. Tanto un autobús escolar como un auto de carreras son capaces de acelerar de 0 a 60 mph (100 km/h). El auto de carreras lo puede hacer en una cantidad menor de tiempo, lo que significa que es capaz de una aceleración mayor. Para viajar de manera segura por las esquinas pronunciadas de la pista, el conductor necesita ser capaz de disminuir la velocidad del auto rápidamente. El auto utiliza grandes frenos de fibra de carbono para poder disminuir rápidamente a una velocidad segura. Cuando se trata de ganar o "
+"perder una carrera, ¡disminuir la velocidad rápidamente puede ser tan importante como llegar a la velocidad más alta rápidamente!"

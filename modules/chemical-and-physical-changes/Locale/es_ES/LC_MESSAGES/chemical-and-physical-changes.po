@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "Gira o voltea la caja de abajo hacia arriba o hacia abajo para ajustar tu respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations"
+msgstr "Felicitaciones"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Go Back to Dashboard"
+msgstr "Regresar Para Dashboard"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "Estás listo/a"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Language:"
+msgstr "Idioma:"
+
+# 1.
+msgid "Welcome to the Chemical and Physical Changes module"
+msgstr "Bienvenido/a al módulo de Cambios Físicos y Químicos"
+
+# 2.
+msgid "Thinking about... chemical and physical changes"
+msgstr "Pensando acerca de... cambios físicos y químicos"
+
+msgid "Remember your last birthday when you were blowing the candles out on your birthday cake? That whole experience was made possible by chemical and physical changes in matter!"
+msgstr "¿Recuerdas tu último cumpleaños, cuando estabas soplando para apagar las velas del pastel? ¡Toda esa experiencia fue posible debido a los cambios físicos y químicos en la materia!"
+
+msgid "There's a lot to be learned at your birthday party about how different kinds of matter interact to cause chemical and physical changes in matter. The baking of your birthday cake involves chemical reactions that are good examples of chemical changes in the ingredients that make the cake. The burning of the candles involves both physical changes and chemical changes in the matter that makes up the candles. But the making of the lemonade you drink and making the ice that keeps the lemonade cold are not chemical changes – they are physical changes that happen in the sugar, the water and the lemonade mix that make your lemonade. Let's see what all of this means."
+msgstr "Hay mucho que puedes aprender durante tu fiesta de cumpleaños acerca de cómo los distintos tipos de materia interactúan para provocar cambios físicos y químicos en la materia. El horneado de tu pastel de cumpleaños involucra reacciones químicas que son buenos ejemplos de cambios químicos en los ingredientes que forman al pastel. El quemado de las velas involucra cambios tanto físicos como químicos en la materia que forma las velas. Pero el hacer la limonada que bebes y congelar el hielo que hace que se mantenga fría no son cambios químicos - son cambios físicos que les suceden al azúcar, el agua y el polvo para limonada con la que la preparaste. Veamos lo que esto significa."
+
+# 3.
+msgid "Checking what you know about... chemical and physical changes"
+msgstr "Revisando lo que sabes acerca de... cambios físicos y químicos"
+
+msgid "When the ingredients in the bowl change to become a cake, what do you think is the <span class='blink'>best explanation</span> for what happens?"
+msgstr "Cuando los ingredientes en el tazón cambian para convertirse en pastel, ¿cuál crees que sea la <span class='blink'>mejor explicación</span> para lo que sucede?"
+
+msgid "Stirring the ingredients together causes them to mix and change to make the cake."
+msgstr "Mezclar los ingredientes entre sí provoca que se mezclen y cambien para formar al pastel."
+
+msgid "The chemicals that make up the ingredients automatically combine to make new chemicals in the cake."
+msgstr "Los químicos que forman los ingredientes automáticamente se combinan para crear nuevos químicos en el pastel."
+
+msgid "The heat from the oven causes the chemicals in the ingredients to have a chemical reaction to form new chemicals that make up the cake."
+msgstr "El calor del horno provoca que los químicos en los ingredientes tengan una reacción química para formar nuevos químicos que forman al pastel."
+
+msgid "Cake mixes from the grocery store automatically make cakes when you cook them."
+msgstr "Las mezclas para pastel de la tienda automáticamente crean pasteles cuando los cocinas."
+
+msgid "Simply stirring the ingredients together just makes a mixture of ingredients but not a cake. Even if you let the mixture sit for a long time, you still won't get a cake. The chemicals in the ingredients, like the eggs and milk and sugar, don't automatically combine and change to make the cake. The heat from the oven causes the chemicals that make up the cake ingredients to have a chemical reaction that changes them into new chemicals that make up a cake. These new chemicals give the cake its new properties that are different from those of the ingredients. You can't taste raw eggs or flour or milk anymore. But you can taste cake."
+msgstr "Simplemente mezclar los ingredientes entre sí sólo crea una mezcla de ingredientes pero no un pastel. Incluso si dejas que repose la mezcla por mucho tiempo, no obtendrás un pastel. Los químicos en los ingredientes, como los huevos, leche y azúcar, no se combinan automáticamente y cambian para hacer el pastel. El calor del horno provoca que los químicos que forman a los ingredientes del pastel tengan una reacción química que los convierte en nuevos químicos que forman un pastel. Estos químicos nuevos le dan al pastel sus nuevas propiedades que son distintas de las de sus ingredientes. Ya no puedes sentir el sabor del huevo crudo o harina o leche. Pero puedes sentir el sabor del pastel."
+
+msgid "Baking sweet cakes..."
+msgstr "Horneando pasteles dulces..."
+
+# 4.
+msgid "Reviewing big ideas about... chemical and physical changes"
+msgstr "Revisando ideas importantes acerca de... cambios físicos y químicos"
+
+msgid "Let's start by making lemonade!! There's nothing like a nice big glass of cold lemonade to wash down that delicious birthday cake. Making lemonade for your birthday party is a good example of mixing two or more different substances and getting a new substance that has different <span class='key'>properties</span>. That's what scientists call a <span class='key'>physical change</span>. Let's make some lemonade and see what that means."
+msgstr "¡¡Comencemos preparando limonada!! No hay nada como un fresco vaso grande de limonada fría para pasar ese delicioso pastel de cumpleaños. Hacer limonada para tu fiesta de cumpleaños es un buen ejemplo de mezclar dos o más sustancias diferentes y obtener una nueva sustancia que tiene <span class='blink'>propiedades</span> diferentes. Eso es lo que los científicos llaman un <span class='blink'>cambio físico</span>. Preparemos un poco de limonada y veamos qué significa eso."
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Plus"
+msgstr "más"
+
+msgid "Powdered Lemonade Mix"
+msgstr "Polvo para Limonada"
+
+msgid "Sugar"
+msgstr "Azúcar"
+
+msgid "Equals"
+msgstr "Igual a"
+
+msgid "Lemonade"
+msgstr "Limonada"
+
+msgid "When you mix the lemonade mix with water and sugar, you get a new substance with new properties - lemonade. The lemonade mix by itself is dry and \"lemony\" tasting but bitter. The water by itself is wet but tasteless. And the sugar is dry but sweet. Mix them all together and you get lemonade, which has the properties of all three ingredients combined – wet, lemony-tasting, and sweet – but are different from each of the ingredients by themselves. Lemonade is a good example of a <span class='key'>mixture</span>."
+msgstr "Cuando mezclas la mezcla para limonada con agua y azúcar, obtienes una nueva sustancia con nuevas propiedades - limonada. El polvo para limonada por sí mismo está seco y \"sabe a limón\" , pero está amargo . El agua por sí misma está húmeda pero no tiene sabor. Y el agua está seca pero dulce. Si los mezclas todos juntos, obtienes limonada, que tiene las propiedades de los tres ingredientes combinados - húmeda, sabe a limón y es dulce - pero es distinta de cada uno de los ingredientes por sí mismos. La limonada es un buen ejemplo de una <span class='key'>mezcla</span>."
+
+msgid "A mixture is an example of a physical change because the original ingredients, like the sugar, the water, and the lemonade mix, don't turn into new chemicals – they just mix together. If you simply let the lemonade stand on your table long enough – and it may take a couple of days – the water part of the mixture will eventually <span class='key'>evaporate</span> – which means it goes up into the air and becomes part of the air. Then, if you look in the bottom of the pitcher, you'll see the sugar and the lemonade mix are still there!  It came back!! Well, it was always there, but it was just mixed in with the water. The sugar always stayed sugar, and the lemonade mix stayed lemonade mix. They never changed into anything else. And the water <span class='key'>evaporating</span> – going from liquid to gas – is another example of a <span class='key'>physical change</span>. We'll talk more about that later."
+msgstr "Una mezcla es un ejemplo de un cambio físico porque los ingredientes originales, como el azúcar, el agua y el polvo para limonada, no se convierten en químicos nuevos - sólo se combinan entre sí. Si simplemente dejas que la limonada repose sobre la mesa el tiempo suficiente - y quizá tome un par de días - la parte de agua de la mezcla eventualmente se <span class='key'>evaporará</span> - lo que significa que se integrará al aire. Luego, si miras al fondo de la jarra, ¡verás que el azúcar y el polvo para limonada siguen allí! ¡Regresaron! Bueno, siempre estuvieron allí, pero sólo se habían mezclado con el agua. El azúcar siempre permaneció como azúcar, y el polvo para limonada siempre fue polvo para limonada. Nunca se convirtieron en nada más. Y cuando el agua se <span class='key'>evapora</span> - yendo de líquido a gas - es otro ejemplo de un <span class='key'>cambio físico</span>. Hablaremos de ello más adelante."
+
+msgid "And here's something else that's important about mixing <span class='key'>substances</span> together that causes physical changes. Even though the mixture might have new properties compared to the ingredients, the weight (or mass) of the mixture is always exactly the same as the weight of all the ingredients combined. No new matter is created or none of the matter is destroyed. This idea is called <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science."
+msgstr "Y aquí hay otra cosa que es importante acerca de mezclar <span class='key'>sustancias</span> unas con otras que causa cambios físicos. Aunque la mezcla puede no tener propiedades nuevas a comparación con los ingredientes, el peso (o masa) de la mezcla siempre será la misma que el peso de todos los ingredientes combinados. No se creará nueva materia y ninguna de la materia será destruida. Esta idea se conoce como <span class='key'>Conservación de la Materia</span> y es una de las ideas más importantes en toda la ciencia."
+
+msgid "Extracting lemonade..."
+msgstr "Extrayendo limonada..."
+
+# 5.
+msgid "Question A. When sugar is added to water to sweeten the lemonade, it:"
+msgstr "Pregunta A. Cuando el azúcar se añade al agua para endulzar la limonada, ésta:"
+
+msgid "Disappears."
+msgstr "Desaparece."
+
+msgid "Is still sugar but dissolved in the water."
+msgstr "Es aún azúcar pero está disuelta en agua."
+
+msgid "Reacts with the water to create a new kind of matter."
+msgstr "Reacciona con el agua para crear una nueva clase de materia."
+
+msgid "Reacts with the water to change into something sweet."
+msgstr "Reacciona con el agua para convertirse en algo dulce."
+
+msgid "Question B. When a physical change in matter occurs:"
+msgstr "Pregunta B. Cuando un cambio físico en la materia ocurre:"
+
+msgid "The properties of the matter are changed forever."
+msgstr "Las propiedades de la materia se cambian para siempre."
+
+msgid "The matter can be changed back into its original properties."
+msgstr "La materia puede revertirse a sus propiedades originales."
+
+msgid "New properties of the matter are created that can't be changed back to the original properties."
+msgstr "Nuevas propiedades de la materia son creadas que no pueden revertirse a sus propiedades originales."
+
+msgid "Nothing happens to the properties of the matter."
+msgstr "Nada sucede con las propiedades de la materia."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "No – You can't see the sugar in the lemonade – but it doesn't disappear – it's still in the lemonade making it sweet."
+msgstr "No - No puedes ver el azúcar en la limonada - pero no desaparece - aún está en la limonada, haciendo que sea dulce."
+
+msgid "Yes – the sugar is still sugar but it's dissolved in the water."
+msgstr "Sí - el azúcar aún es azúcar pero está disuelta en el agua."
+
+msgid "No – sugar dissolves in water but stays sugar. It doesn't become a new kind of matter."
+msgstr "No - el azúcar se disuelve en el agua pero sigue siendo azúcar. No se convierte en una clase nueva de materia."
+
+msgid "INo – The sugar was sweet to begin with. It doesn't become sweet by dissolving in the water. In a physical change, many of the original properties don't change.ce"
+msgstr "No - El azúcar ya era dulce desde un inicio. No se vuelve dulce al disolverse en el agua. En un cambio físico, muchas de las propiedades originales no cambian."
+
+msgid "No - In a physical change, many of the original properties don't change. And if they do change, like liquid water turning into ice, the properties can easily be changed back again."
+msgstr "No - En un cambio físico, muchas de las propiedades originales no cambian. Y si cambian, como agua líquida que se convierte en hielo, las propiedades pueden fácilmente revertirse de nuevo."
+
+msgid "Yes - The matter can be changed back into its original properties."
+msgstr "Sí - La materia puede revertirse a sus propiedades originales."
+
+msgid "No – No new properties of matter are created in physical changes that can't be changed back again to the original properties."
+msgstr "No - Ninguna propiedad nueva de la materia se crea en los cambios físicos que no pueda revertirse a sus propiedades originales."
+
+msgid "No – Something can happen to the properties of the matter – like water becoming hard when it freezes. But it can change back to the original water simply by melting."
+msgstr "No - Algo puede suceder con las propiedades de la materia - como el agua endureciéndose cuando se congela. Pero puede revertirse al agua original simplemente derritiéndose."
+
+# 6.
+msgid "Reviewing more big ideas about... chemical and physical changes"
+msgstr "Revisando más ideas importantes acerca de... cambios físicos y químicos"
+
+msgid "Now that we have some tasty lemonade for our party, let's make some ice cubes to keep it cold."
+msgstr "Ahora que ya tenemos un poco de sabrosa limonada para nuestra fiesta, hagamos algunos cubos de hielo para mantenerla fría."
+
+msgid "Ice Cube Tray"
+msgstr "Charola para Cubos de Hielo"
+
+msgid "Freezer"
+msgstr "Congelador"
+
+msgid "Ice"
+msgstr "Hielo"
+
+msgid "Making ice cubes is even easier than making lemonade! All you have to do is add some liquid water to an ice cube tray, put it in the freezer, and wait a couple of hours until it freezes into solid water – called ice. It's called changing states of matter - in this case from liquid to solid. Changing states of matter of substances occur because of changes in temperature. This is another example of a physical change that can happen to a substance. Most substances like water can commonly exist in three different states of matter – solids, liquids, and gas. But what makes water unusual is that it can exist in all three states of matter at temperatures that commonly occur in everyday life on earth."
+msgstr "¡Hacer cubos de hielo es incluso más fácil que preparar limonada! Todo lo que necesitas hacer es añadir un poco de agua líquida a una charola para cubos de hielo, ponerla en el congelador, y esperar un par de horas hasta que se congele en agua sólida - llamada hielo. Se llama cambiar estados de la materia - en este caso de líquido a sólido. Los cambios en el estado de la materia de las sustancias ocurren debido a los cambios de temperatura. Éste es otro ejemplo de un cambio físico que puede sucederle a una sustancia. La mayoría de las sustancias como el agua, pueden existir comúnmente en tres estados diferentes de la materia - sólidos, líquidos y gases. Pero lo que hace que el agua sea inusual es que puede existir en todos los estados de materia en temperaturas que ocurren comúnmente en la vida diaria de la Tierra."
+
+msgid "<span class='key'>Changing states of matter</span> just means changing a substance – like water - from a solid to a liquid or a liquid to a gas – or going the other way - from a gas to a liquid or a liquid to a solid, simply by changing the temperature. In making ice cubes, the water changed its properties from being liquid at room temperature to being cold and solid when it freezes. But it's still water. It didn't change what it is - just some of its properties changed. And - if you just leave the ice alone at room temperature for an hour or so, the ice will melt back to liquid water again– or change from a solid state – ice - into the liquid state - liquid water – all by itself. That means the process of changing states of matter is <span class='key'>reversible</span>. It can go either way."
+msgstr "<span class='key'>Cambiar estados de la materia</span> sólo significa cambiar una sustancia - como el agua - de un sólido a un líquido o de un líquido a un gas - o en reversa - yendo de gas a líquido o de líquido a sólido, simplemente cambiando la temperatura. Al hacer cubos de hielo, el agua cambió sus propiedades de ser líquida a temperatura ambiente a estar fría y sólida cuando se congela. Pero aún es agua. No cambió lo que era - sólo algunas de sus propiedades cambiaron. Y - si sólo dejas el hielo en una temperatura ambiente por una hora más o menos, el hielo se derretirá y volverá a ser agua líquida - o cambiará de un estado sólido - hielo - a un estado líquido - agua líquida - por sí mismo. Esto significa que el proceso de cambiar estados de materia es <span class='key'>reversible</span>. Puede ir en cualquier dirección."
+
+msgid "Most matter can exist in a solid state, liquid state, or gaseous state, depending on the temperature. But sometimes, for some substances like iron, the temperature has to be really hot – like in a really hot furnace to get it to become liquid."
+msgstr "La mayoría de la materia puede existir en estado sólido, estado líquido o estado gaseoso, dependiendo de la temperatura. Pero a veces, para ciertas sustancias como el hierro, la temperatura tiene que ser muy caliente - como un horno realmente caliente para que se conviertan en líquidos."
+
+msgid "Putting ice cubes..."
+msgstr "Colocando cubos de hielo..."
+
+# 7.
+msgid "Question A. Which of the following properties of matter is most important in causing matter to change its state?"
+msgstr "Pregunta A. ¿Cuál de las siguientes propiedades de la materia es la más importante para causar que la materia cambie de estado?"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "Shape"
+msgstr "Forma"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Question B. Which of the following is <span class='blink'>NOT</span> an example of matter changing its state?"
+msgstr "Pregunta B. ¿Cuál de las siguientes <span class='blink'>NO</span> es un ejemplo de la materia cambiando su estado?"
+
+msgid "Any solid substance turning into a liquid"
+msgstr "Cualquier sustancia sólida convirtiéndose en líquida"
+
+msgid "Liquid water freezing"
+msgstr "Agua líquida congelándose"
+
+msgid "Water evaporating"
+msgstr "Agua evaporándose"
+
+msgid "Liquid water getting cold"
+msgstr "El agua líquida enfriándose"
+
+msgid "Changing state of matter..."
+msgstr "Cambiando el estado de la materia..."
+
+msgid "Not really – the size of a substance may change because of a change in state – like liquid water expands and gets bigger when it freezes – but that doesn't cause the water to freeze and change state – it's the result of water freezing."
+msgstr "No realmente - el tamaño de una sustancia puede cambiar debido a un cambio en su estado - como el agua líquida que se expande y crece cuando se congela - pero eso no provoca que el agua se congele y cambie de estado - es el resultado de la congelación del agua."
+
+msgid "Yes – The temperature of any substance normally is the cause of most common substances changing state under normal conditions. For instance, when you cool liquid water to below its freezing point, it changes state to become solid ice."
+msgstr "Sí - La temperatura de cualquier sustancia normalmente es la causa de que las sustancias más comunes cambien de estado bajo condiciones normales. Por ejemplo, cuando enfrías agua líquida por debajo de su punto de congelación, ésta cambia de estado para convertirse en hielo sólido."
+
+msgid "No – The shape of a substance doesn't cause it to change states."
+msgstr "No - La forma de una sustancia no provoca que cambie de estado."
+
+msgid "No – The color of a substance doesn’t cause it to change states. But if a substance is dark-colored, it may absorb sunlight more than if it was a light color. This might heat it up and cause it to melt. But it’s still the temperature increase that causes the melting."
+msgstr "No - El color de una sustancia no provoca que cambie de estado. Pero si una sustancia tiene un color oscuro, puede absorber la luz del sol más que si fuera de un color claro. Esto puede hacer que se caliente y se derrita. Pero aún será el incremento en la temperatura que provocará que se derrita."
+
+msgid "Not quite – substance turning from a solid to a liquid is called melting – which is a change of state."
+msgstr "No exactamente - el que las sustancias pasen de sólidas a líquidas se conoce como fusión - que es un cambio de estado."
+
+msgid "Not quite – water freezing – going from a liquid to a solid - is a change of state."
+msgstr "No exactamente - cuando el agua se congela - pasando de líquida a sólida - es un cambio de estado."
+
+msgid "Not quite – water evaporating – going from a liquid to a gas - is a change of state."
+msgstr "No exactamente - cuando se evapora el agua - pasando de un líquido a un gas - es un cambio de estado."
+
+msgid "Correct – Liquid water getting colder – without freezing is not a change of state. It starts out liquid and is still liquid after it gets colder, so there's no change of state."
+msgstr "Correcto - cuando el agua se enfría sin congelarse no es un cambio de estado. Comienza como un líquido y continúa siendo un líquido después de enfriarse, así que no hay un cambio de estado."
+
+# 8.
+msgid "Now let's think about the cake. Did you happen to watch your mother or someone else make the cake? They added some white powdered flour, some sugar, butter, milk, eggs, and baking powder all together in a big bowl. The recipe calls these \"ingredients\" but scientists think of them as <span class='key'>chemical compounds</span>. It looks like a big mess, doesn't it? Does it look like something you'd want to eat?  But then all the ingredients got mixed together and put in the hot oven to bake. Then what happened? After baking in the oven at about 350 degrees for 30-45 minutes, that big mess in the bowl changed. Out popped a cake that looks and feels and tastes totally different than the ingredients before baking. Look at the ingredients in the bowl, then look at the slice of cake. How do you think the properties of the cake – the taste, the color, the way it feels – are different from the properties of the ingredients? What do you think happened to cause those changes?"
+msgstr "Ahora pensemos acerca del pastel. ¿Observaste cómo tu madre o alguien más preparaba el pastel? Añadieron algo de harina blanca en polvo, algo de azúcar, mantequilla, leche, huevos y polvos para hornear en un gran tazón. La receta los llama \"ingredientes\" pero los científicos piensan en ellos como <span class='key'>compuestos químicos</span>. Parece un desastre, ¿no? ¿Luce como algo que querrías comer? Pero entonces todos los ingredientes se mezclaron y se pusieron en el horno caliente para hornearse. Entonces, ¿qué pasó? Tras hornearlos a alrededor de 350 grados Fahrenheit por alrededor de 30 a 45 minutos, ese desastre en el tazón cambió. Salió un pastel que luce y se siente y sabe totalmente distinto de los ingredientes antes de hornearse. Mira los ingredientes en el tazón, luego mira a la rebanada de pastel. ¿Cómo crees que las propiedades del pastel - el sabor, el color, la forma en que se siente - son distintas de las propiedades de los ingredientes? ¿Qué crees que pasó que provocó esos cambios?"
+
+msgid "Lots of complicated <span class='key'>chemical changes</span> happen when a cake bakes. But let's look at just one chemical change that's really important - how the cake rises."
+msgstr "Muchos complicados <span class='key'>cambios químicos</span> suceden cuando se hornea un pastel. Pero prestemos atención a un sólo cambio químico que es muy importante - cómo se eleva el pastel."
+
+msgid "Sodium bicarbonate"
+msgstr "Bicarbonato de sodio"
+
+msgid "Citric acid"
+msgstr "Ácido cítrico"
+
+msgid "One of the ingredients in the cake is baking powder. Baking powder is composed of two chemical compounds – sodium bicarbonate and a very weak and harmless acid - that react together when heated to make two new chemicals – carbon dioxide gas – CO<sub>2</sub> – plus some water."
+msgstr "Uno de los ingredientes en el pastel es polvo para hornear. El polvo para hornear se compone de dos compuestos químicos - el bicarbonato de sodio y un ácido muy débil e inofensivo - que reaccionan entre sí cuando se calientan para crear dos químicos nuevos - gas de dióxido de carbono - CO<sub>2</sub> - y algo de agua."
+
+msgid "As the cake cooks, the CO<sub>2</sub> gas gets in between the little cake particles and lifts them up and pushes them apart to cause the cake to rise. This reaction is:"
+msgstr "Conforme se cocina el pastel, el gas de CO<sub>2</sub> entra entre las pequeñas partículas de pastel y las levanta y separa lo que provoca que el papel se eleve. Esta reacción es:"
+
+msgid "NaHCO"
+msgstr "NaHCO"
+
+msgid "H+"
+msgstr "H+"
+
+msgid "CO<sub>2"
+msgstr "CO<sub>2</sub>"
+
+msgid "H<sub>2</sub>O"
+msgstr "H<sub>2</sub>O"
+
+msgid "Becomes"
+msgstr "Se convierte en"
+
+msgid "Acid"
+msgstr "Ácido"
+
+msgid "Carbon dioxide"
+msgstr "Dióxido de carbono"
+
+msgid "The big difference between physical changes, like changes of state, and chemical changes, like the baking of the cake, is that in a chemical change or reaction, the change in the substances can't be reversed. In other words, once you make the cake, you can't get back the eggs, and milk, and baking soda."
+msgstr "La gran diferencia entre los cambios físicos, como los cambios de estado, y los cambios químicos, como el hornear un pastel, es que en un cambio o reacción química, el cambio en las sustancias no puede ser revertido. En otras palabras, una vez que preparas el pastel, no puedes recuperar el huevo, leche y bicarbonato de sodio."
+
+msgid "Pre-heating oven..."
+msgstr "Pre-calentando el horno..."
+
+# 9.
+msgid "Question A. Which of the following cake ingredients is <span class='blink'>not</span> a chemical compound?"
+msgstr "Pregunta A. ¿Cuál de los siguientes ingredientes del pastel <span class='blink'>no</span> es un compuesto químico?"
+
+msgid "Egg"
+msgstr "Huevo"
+
+msgid "Baking soda"
+msgstr "Bicarbonato de sodio"
+
+msgid "None of the above"
+msgstr "Ninguno de los anteriores"
+
+msgid "Question B. Which of the following statements are <span class='blink'>false</span> about chemical compounds?"
+msgstr "Pregunta B. ¿Cuáles de las siguientes declaraciones son <span class='blink'>falsas</span> acerca de los compuestos químicos?"
+
+msgid "All chemicals are bad for you so never eat or go near any chemical compounds."
+msgstr "Todos los químicos son malos para ti así que no debes comer o acercarte a ningún compuesto químico."
+
+msgid "Almost everything in the universe is made up of chemical compounds – some of them are bad for you and some of them are good."
+msgstr "Casi todo en el universo está formado por compuestos químicos - algunos de ellos son malos para ti y algunos son buenos."
+
+msgid "Some chemical compounds are necessary for your everyday survival."
+msgstr "Algunos compuestos químicos son necesarios para tu supervivencia diaria."
+
+msgid "It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "Es importante que entiendas ideas acerca de los químicos para que puedas saber cuáles son malos para ti y cuáles son buenos."
+
+msgid "Sorting cake ingredients..."
+msgstr "Clasificando ingredientes de pastel..."
+
+msgid "Not quite – Eggs are made from very complicated chemical compounds."
+msgstr "No exactamente - los huevos están formados de compuestos químicos muy complicados."
+
+msgid "Not quite – Sugar is the chemical C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>  which means it's made up from the elements carbon, hydrogen, and oxygen."
+msgstr "No exactamente - El azúcar es el químico C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> que significa que está formado por los elementos carbono, hidrógeno y oxígeno."
+
+msgid "Not quite – baking soda is Sodium bicarbonate - NaHCO<sub>3</sub>. Even though it's a chemical it's totally safe to have in your cake."
+msgstr "No exactamente - el bicarbonato de sodio es NaHCO<sub>3</sub>. Aunque es un químico es totalmente seguro tenerlo en tu pastel."
+
+msgid "Yes – all of the ingredients your mom puts in your birthday cake are really chemicals."
+msgstr "Sí - todos los ingredientes que tu mamá pone en tu pastel de cumpleaños son químicos."
+
+msgid "Yes – This is a false statement. Not all chemical compounds are bad for you. In fact some are critical to life – like water – which is the chemical compound H<sub>2</sub>O – is critical for your survival."
+msgstr "Sí - Esta declaración es falsa. No todos los compuestos químicos son malos para ti. De hecho, algunos son críticos para la vida - como el agua - que es el compuesto químico H<sub>2</sub>O – y es crítica para tu supervivencia."
+
+msgid "Not quite – This is a true statement - Almost everything in the universe is made up from chemical compounds. Some of them are bad for you and some of them are good."
+msgstr "No exactamente - Ésta es una declaración verdadera - Casi todo en el universo está formado por compuestos químicos. Algunos de ellos son malos para ti y algunos de ellos son buenos."
+
+msgid "Not Quite - This is a true statement. Some chemical compounds are necessary for your everyday survival – like water – which is the chemical compound H<sub>2</sub>O is critical for your survival."
+msgstr "No exactamente - Ésta es una declaración verdadera - Algunos compuestos químicos son necesarios para tu supervivencia diaria - como el agua - que es el compuesto químico H<sub>2</sub>O – y es crítica para tu supervivencia."
+
+msgid "Not quite – This is a true statement - It's important to understand ideas about chemicals so you know which are bad for you and which are good."
+msgstr "No exactamente - Ésta es una declaración verdadera - Es importante entender ideas acerca de los químicos para que sepas cuáles son malos para ti y cuáles son buenos."
+
+# 10.
+msgid "More big ideas about... chemical and physical changes"
+msgstr "Más ideas importantes acerca de... cambios físicos y químicos"
+
+msgid "How about burning the candles on the cake – is that a chemical or a physical change? Well, it turns out it's both!!"
+msgstr "¿Qué hay acerca de las velas que arden sobre el pastel? ¿Es eso un cambio químico o físico? Bueno, ¡resulta que es ambos!"
+
+msgid "The candles are made of wax – which is a chemical compound made of the <span class='key'>elements</span> carbon and hydrogen. A <span class='key'>chemical compound</span> is when two or more different elements – like carbon and hydrogen - combine to form a compound like wax, or when hydrogen and oxygen combine to form a different compound called water."
+msgstr "Las velas están hechas de cera - que es un compuesto químico formado por los <span class='key'>elementos</span> carbono e hidrógeno. Un <span class='key'>compuesto químico</span> es cuando dos o más elementos diferentes - como carbono e hidrógeno - se combinan para formar un compuesto como cera, o cuando el hidrógeno y el oxígeno se combinan para formar un compuesto diferente llamado agua."
+
+msgid "When you light the candles, the heat from the burning candlewick – the string - melts some of the solid wax and turns it into liquid wax. That's a physical change because the change is reversible – which means, if you just let the melted wax cool - it will turn right back into solid wax again. But here's something that's not so obvious – the heat also turns some liquid wax into a gas. That's also a physical change because if you could quickly cool the gas again, it would turn back into liquid and then solid wax."
+msgstr "Cuando enciendes las velas, el calor de la mecha que arde - el pabilo - derrite algo de la cera sólida y la convierte en cera líquida. Ése es un cambio físico porque el cambio es reversible - lo que significa que, si tan sólo dejas que la cera derretida se enfríe - volverá a ser cera sólida de nuevo. Pero aquí hay algo que no es tan obvio - el calor también hace que algo de la cera líquida se convierta en un gas. Ése también es un cambio físico porque si pudieras enfriar el gas rápidamente, también volvería a ser líquida y luego cera sólida."
+
+msgid "But here's the interesting thing – the gas formed by heating the wax immediately has a <span class='key'>chemical reaction</span> with the oxygen in the air to make the flame which generates light and heat. This chemical reaction is what we commonly call “burning” but scientists call combustion. Not only does the chemical reaction create energy in the form of heat and light, but it also changes the methane gas from the wax into carbon dioxide and water vapor gases, which mix with the air around the candle. So the chemical compound from the melted wax, the methane gas, reacts with oxygen from the air and creates heat, light, water vapor and carbon dioxide gas. This is an example of a chemical reaction and <span class='key'>chemical change</span>, which is not <span class='key'>reversible</span>, because if you let the water and carbon dioxide cool or do almost anything else to them, they will not turn back into wax. <br>This is the chemical reaction for the burning (also called combustion) process:"
+msgstr "Pero aquí está lo interesante - el gas formado al calentar la cera inmediatamente tiene una <span class='key'>reacción química</span> con el oxígeno en el aire para crear la flama que genera luz y calor. Esta reacción química es lo que comúnmente conocemos como \"arder\" pero los científicos llaman combustión. No sólo la reacción química crea energía en la forma de calor y luz, sino que también convierte el gas metano de la cera en gases de dióxido de carbono y vapor de agua, que se mezclan con el aire alrededor de la vela. Así que el compuesto químico de la cera derretida, el gas metano, reacciona con el oxígeno en el aire y crea calor, luz, vapor de agua y dióxido de carbono gaseoso. Éste es un ejemplo de una reacción química y de un <span class='key'>cambio químico</span>, que no es <span class='key'>reversible</span>, porque si dejas que el agua y el dióxido de carbono se enfríen o haces casi cualquier otra cosa con ellos, no se convertirán en cera de nuevo. <br>Esta es la reacción química para el proceso de quema (también llamado combustión):"
+
+msgid "CH<sub>4</sub>"
+msgstr "CH<sub>4</sub>"
+
+msgid "O<sub>2</sub>"
+msgstr "O<sub>2</sub>"
+
+msgid "CO<sub>2</sub>"
+msgstr "CO<sub>2</sub>"
+
+msgid "Heat light"
+msgstr "Luz y calor"
+
+msgid "Methane gas"
+msgstr "Gas metano"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+msgid "Energy"
+msgstr "Energía"
+
+msgid "Lighting a candle..."
+msgstr "Encendiendo una vela..."
+
+msgid "Heat and Light"
+msgstr "El calor y la luz"
+
+# 11.
+msgid "Question A. Burning birthday candles is a good example of:"
+msgstr "Pregunta A. Velas de cumpleaños que arden son un buen ejemplo de:"
+
+msgid "Both chemical and physical changes"
+msgstr "Cambios tanto químicos como físicos"
+
+msgid "Chemical reaction"
+msgstr "Reacción química"
+
+msgid "Neither chemical nor physical changes"
+msgstr "Ni cambios físicos ni químicos"
+
+msgid "Physical change"
+msgstr "Cambio físico"
+
+msgid "Question B. When candle wax changes into a gas and burns, it does all of the following except it:"
+msgstr "Pregunta B. Cuando la cera de velas se convierte en gas y arde, hace todas las siguientes excepto:"
+
+msgid "Changes to different gasses."
+msgstr "Cambiar a gases diferentes."
+
+msgid "Becomes wax again."
+msgstr "Convertirse en cera de nuevo."
+
+msgid "Creates heat and light."
+msgstr "Crear calor y luz."
+
+msgid "Correct. When the candle burns, the wax melts then turns into a gas – which are examples of physical changes. Then the gas burns to change into different gasses plus heat and light. This is an example of chemical change."
+msgstr "Correcto. Cuando la vela arde, la cera se derrite y se convierte en un gas - lo que son ejemplos de cambios físicos. Luego el gas arde para convertirse en distintos gases además de calor y luz. Este es un ejemplo de un cambio químico."
+
+msgid "No – because both a chemical reaction or chemical change AND a physical change occur when the wax melts."
+msgstr "No - porque tanto una reacción química o cambio químico Y un cambio físico ocurren cuando se derrite la cera."
+
+msgid "No – because both chemical and physical changes occur."
+msgstr "No - porque tanto cambios físicos como químicos ocurren."
+
+msgid "No – because both physical change AND chemical change occur when the wax burns to change into different gasses plus heat and light."
+msgstr "No - porque cambios físicos Y químicos ocurren cuando la cera se quema para convertirse en distintos gases además de luz y calor."
+
+msgid "Not quite – This is a true statement - when the candle wax changes to a gas you can't see it."
+msgstr "No exactamente - Esta declaración es verdadera - cuando la cera de las velas se convierte en gas no puedes verla."
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it changes to different gasses – carbon dioxide and water."
+msgstr "No exactamente - Esta declaración es verdadera - cuando la cera de las velas arde, se convierte en gases diferentes - dióxido de carbono y agua."
+
+msgid "That's right – this is not a true statement - When candle wax changes into a gas and burns, it does not turn back into wax again."
+msgstr "Así es - esta declaración no es verdadera - Cuando la cera de las velas se convierte en gas y arde, no se convierte en cera de nuevo."
+
+msgid "Not quite – This is a true statement - when the candle wax burns, it creates heat and light."
+msgstr "No exactamente - Esta declaración es verdadera - cuando la cera de las velas arde, crea luz y calor."
+
+# 12
+msgid "Using what you now know about... chemical and physical changes... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... cambios físicos y químicos... para resolver un problema"
+
+msgid "Pretend you are the ruler of a great city in the middle of the desert. You have lots and lots of money from oil wells in your country but no fresh water for your people to drink. There is a seaport in your city but the water there is salt water so you can't drink it."
+msgstr "Finge que eres quien manda sobre una gran ciudad en medio del desierto. Tienes muchísimo dinero debido a pozos petroleros en tu país, pero no tienes agua fresca para que tu gente beba. Hay un puerto marítimo en tu ciudad, pero el agua allí es agua salada, así que no puedes beberla."
+
+msgid "You read about a country far to the north that has lots of water frozen into glaciers. What could you do with the ice from the glaciers to provide fresh water for your city?"
+msgstr "Lees acerca de un país que está en un lugar lejano al norte, que tiene mucha agua congelada en forma de glaciares. ¿Qué podrías hacer con el hielo de los glaciares para proveer de agua fresca a tu ciudad?"
+
+msgid "Searching for sources of water..."
+msgstr "Buscando una fuente de agua..."
+
+# 13
+msgid "Summarizing big ideas about... chemical and physical changes"
+msgstr "Resumiendo ideas importantes acerca de... cambios físicos y químicos"
+
+msgid "All matter – the stuff or substances that everything is made of – has properties that you can see, feel, touch, taste, or hear. These properties might be: how hard the substance is; what color it is; whether it's a solid, liquid or gas; how it tastes; or anything else you can observe with your senses. These are all called <span class='key'>\"properties of matter\"</span>.<br/>"
+msgstr "Toda la materia - las cosas o sustancias que todo está hecho de - tiene propiedades que se pueden ver, sentir, tacto, gusto, o escuchar. Estas propiedades pueden ser: lo difícil es la substancia; de qué color es; si se trata de un sólido, líquido o gas; cómo sabe; o cualquier otra cosa se puede observar con sus sentidos. Estos son llamados <span class = 'key'> \"propiedades de la materia \"</span>. <br/>"
+
+msgid "Sometimes, things you do to matter can change these properties. Like you can heat or cool substances that change them from a solid to a liquid or a gas. This kind of change is called a <span class='key'>change of state</span>. The word \"state\" means: Is it in a solid, liquid, or gaseous, \"state\"? Or you can mix substances together. Mixing water and sugar together changes the properties of both the sugar and the water to make a new substance – a <span class='key'>mixture</span> - called sugar water that is wet and sweet.<br/>"
+msgstr "A veces, las cosas que haces a la materia lata cambia estas propiedades. Como se puede calentar o enfriar las sustancias que les cambian de un sólido a un líquido o un gas. Este tipo de cambio se llama <span class = 'key'> cambio de estado </span>. La palabra \"estado\" significa: Está en un sólido, líquido o gaseoso, \"estado\"? O usted puede mezclar sustancias juntos. Mezclar el agua y el azúcar cambia las propiedades tanto el azúcar y el agua para hacer una nueva sustancia - un <span class = 'key'> mezcla </span> - Llamada agua azucarada que es húmeda y dulce <br/>"
+
+msgid "Both mixtures and changes of state are examples of <span class='key'>physical changes</span> to matter because each of these changes is easily reversible. Heating may change solid water – ice - into liquid water but freezing the liquid water easily reverses the change back to solid water. And adding sugar to water might create sugar water but you can reverse the change and get both the plain water and the sugar back by letting the water evaporate.<br/>"
+msgstr "Ambas mezclas y cambios de estado son ejemplos de <span class = 'key'> cambios físicos </span> a la materia, porque cada uno de estos cambios es fácilmente reversible. El calentamiento puede cambiar compacto de agua - hielo - en agua líquida, pero congelar el agua líquida fácilmente revierte el cambio de nuevo a agua sólida. Y la adición de azúcar al agua podría crear agua con azúcar, pero se puede revertir el cambio y obtener tanto el agua corriente y el azúcar en la espalda dejando que el agua se evapore. <br/>"
+
+msgid "Another kind of change to matter is called <span class='key'>chemical change</span>. This is a little bit different and more complicated than physical change. In chemical change when two or more different substances are mixed together, and sometimes when you also heat them too, they change into totally different substances with new and different properties. This process is called a <span class='key'>chemical reaction</span>. Usually, after a chemical reaction, the new substances produced cannot easily be changed back to the original substances.<br/>"
+msgstr "Otro tipo de cambio a la materia se llama <span class = 'key'> cambio químico </span>. Esto es un poco diferente y más complicado que el cambio físico. En cambio químico cuando dos o más sustancias diferentes se mezclan entre sí, ya veces, cuando también se calienta demasiado, se transforman en totalmente diferentes sustancias con propiedades nuevas y diferentes. Este proceso se denomina <span class = 'key'> reacción química </span>. Por lo general, después de una reacción química, las nuevas sustancias producidas no pueden ser fácilmente cambiados de nuevo a las sustancias originales. <br/>"
+
+msgid "Whenever physical changes or chemical changes happen, no matter what they are, there is one thing that is very important. The weight (mass) of the all the original substances (matter) together is the same as the weight (mass) of all substances (matter)  you end up with. No matter is either created or destroyed. This principle is called the <span class='key'>Conservation of Matter</span> and is one of the most important ideas in all of science.<br/>"
+msgstr "Siempre que los cambios físicos o cambios químicos ocurren, no importa lo que son, hay una cosa que es muy importante. El peso (masa) de las todas las sustancias originales (materia) en conjunto es el mismo que el peso (masa) de todas las sustancias (materia) que terminan con. No importa tampoco se crea ni se destruye. Este principio se denomina <span class = 'key'> Conservación de la Materia </span> y es una de las ideas más importantes de toda la ciencia. <br/>"
+
+# 14
+msgid "Reviewing key vocabulary related to... chemical and physical changes"
+msgstr "Revisando vocabulario clave relacionado con... cambios físicos y químicos"
+
+msgid "Properties of Matter"
+msgstr "Propiedades de la Materia"
+
+msgid "properties of matter"
+msgstr "propiedades de la materia"
+
+msgid "Descriptors about a piece of matter that describe it. For example, an iron wrench is hard, heavy, and gray."
+msgstr "Descriptores acerca de una pieza de materia que la describen. Por ejemplo, una llave de hierro es dura, pesada y gris."
+
+msgid "Change of State"
+msgstr "Cambio de Estado"
+
+msgid "change of state"
+msgstr "cambio de estado"
+
+msgid "A \"state\" of matter is whether it’s a solid, liquid or gas. When matter is heated or cooled, it can \"change state\" from one of these states to another, like water melting changes from a solid state to a liquid state."
+msgstr "Un \"estado\" de la materia es si es un sólido, líquido o gas. Cuando la materia se calienta o enfría, puede \"cambiar de estado\" pasando de uno a otro de estos estados, como cuando el agua se derrite pasando de un estado sólido a un estado líquido."
+
+msgid "mixture"
+msgstr "mezcla"
+
+msgid "Mixture"
+msgstr "Mezcla"
+
+msgid "A mixture is when two substances are mixed together but don’t react chemically to form new chemical compounds. The original substances are still in the mixture and can be changed back to their original form relatively easily. This is called a \"reversible\" change. Dissolving sugar in water is a good example of a mixture."
+msgstr "Una mezcla es cuando dos sustancias se combinan entre sí pero no reaccionan químicamente para formar nuevos compuestos químicos. Las sustancias originales aún están en la mezcla y pueden revertirse a su forma original de manera relativamente fácil. Esto se conoce como cambio \"reversible\". Disolver azúcar en el agua es un buen ejemplo de una mezcla. "
+
+msgid "physical change"
+msgstr "cambio físico"
+
+msgid "Physical Change"
+msgstr "Cambio Físico"
+
+msgid "A physical change is when a substance changes form and no new substances are created from chemical changes. Mixing and changes of state are good examples of physical changes."
+msgstr "Un cambio físico es cuando una sustancia cambia de forma y no se crean nuevas sustancias por cambios químicos. Mezclas y cambios de estado son buenos ejemplos de cambios físicos."
+
+msgid "chemical change"
+msgstr "Cambio Químico"
+
+msgid "Chemical Change"
+msgstr "Cambio Químico"
+
+msgid "When substances mix together but then have a chemical reaction with each other to form new chemical compounds. Burning a candle is a good example of chemical change. Methane gas and oxygen gas react to form new chemical compounds carbon dioxide and water."
+msgstr "Cuando las sustancias se mezclan entre sí pero luego tienen una reacción química la una con la otra para formar nuevos compuestos químicos. Una vela que arde es un buen ejemplo de un cambio químico. Gas metano y oxígeno reaccionan para formar nuevos compuestos químicos, dióxido de carbono y agua."
+
+msgid "chemical reaction"
+msgstr "Reacción Química"
+
+msgid "Chemical Reaction"
+msgstr "Reacción Química"
+
+msgid "When chemical compounds, like methane gas and oxygen gas, react to form new chemical compounds like carbon dioxide and water."
+msgstr "Cuando compuestos químicos, como gas metano y oxígeno, reaccionan para formar nuevos compuestos químicos como dióxido de carbono y agua."
+
+msgid "evaporate"
+msgstr "evaporar"
+
+msgid "Evaporate"
+msgstr "Evaporar"
+
+msgid "When matter goes from the liquid phase to the gaseous phase.  Evaporation is commonly observed with water."
+msgstr "Cuando la materia pasa de su fase líquida a su fase gaseosa. La evaporación se observa comúnmente con el agua."
+
+msgid "conservation of matter"
+msgstr "conservación de la materia"
+
+msgid "Conservation of Matter"
+msgstr "Conservación de la Materia"
+
+msgid "Matter can neither be created, nor destroyed.  The amount of mass at the start of a physical or chemical change is the same as the mass at the end."
+msgstr "La materia no puede ser creada ni destruida. La cantidad de masa al inicio de un cambio físico o químico será la misma que la masa al final."
+
+msgid "chemical compound"
+msgstr "compuesto químico"
+
+msgid "Chemical Compound"
+msgstr "Compuesto Químico"
+
+msgid "Atoms that share electrons in a definite manner and so are deemed as being \"bound\" together.  Some examples include water (H<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>)"
+msgstr "Átomos que comparten electrones de una manera definida y por lo tanto se entienden como que están \"atados\" entre sí. Algunos ejemplos incluyen al agua (H<sub>2</sub>O), dióxido de carbono (CO<sub>2</sub>), metano (CH<sub>4</sub>)"
+
+msgid "reversible"
+msgstr "reversible"
+
+msgid "Reversible"
+msgstr "Reversible"
+
+msgid "A process is reversible if there is a way for everything at the end of the process to be changed back to the way it was beforehand.  For example, phase changes are reversible processes; liquid water that is frozen can be melted again to be liquid, and the same amount of liquid water will be present after melting as before freezing."
+msgstr "Un proceso es reversible si hay una manera en que todo lo que resulta al final del proceso pueda ser cambiado de regreso a como era antes. Por ejemplo, los cambios de fase con procesos reversibles, el agua líquida que se ha congelado puede derretirse de nuevo para ser líquida, y la misma cantidad de agua líquida estará presente tras derretirse que antes de congelarse."
+
+# 15
+msgid "Checking what you now know about… chemical and physical changes"
+msgstr "Revisando lo que sabes ahora acerca de... cambios físicos y químicos"
+
+# 16
+msgid "Scientists think of the term \"matter\" as:"
+msgstr "Los científicos piensan sobre el término \"materia\" como:"
+
+msgid "A. All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr "A. Todas las sustancias y materiales (las \"cosas\") que forman el mundo a tu alrededor."
+
+msgid "B. All of the solid stuff in the universe."
+msgstr "B. Todas las cosas sólidas en el universo."
+
+msgid "C. All of the chemicals that get used in their laboratories."
+msgstr "C. Todos los químicos que se utilizan en los laboratorios."
+
+msgid "D. Everything that you can see around you."
+msgstr "D. Todo lo que puedes ver a tu alrededor."
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "All of the substances and materials (the \"stuff\") that make up the world around you."
+msgstr "Todas las sustancias y materiales (las \"cosas\") que forman el mundo a tu alrededor."
+
+msgid "Correct – All of the “stuff” that makes up the world and even the universe is matter. Some of it you can see – like rocks or dirt - and some of it you cant – like air. But it's all matter."
+msgstr "Correcto - Todas las \"cosas\" que forman el mundo, e incluso el universo, son materia. Algunas de ellas las puedes ver - como las rocas o la tierra - y algunas no puedes - como el aire. Pero todo es materia."
+
+msgid "Not quite – Matter isn't just the solid stuff. Matter can be liquid or gas as well."
+msgstr "No exactamente - la materia no son sólo las cosas sólidas. La materia también puede ser líquida o gaseosa."
+
+msgid "All of the solid stuff in the universe."
+msgstr "Todas las cosas sólidas en el universo."
+
+msgid "All of the chemicals that get used in their laboratories."
+msgstr "Todos los químicos que se utilizan en los laboratorios."
+
+msgid "Not quite – chemicals in the lab are matter but there is a lot more matter in the universe than just chemicals in the lab."
+msgstr "No exactamente - los químicos en el laboratorio son materia, pero hay mucha más materia en el universo que sólo los químicos de laboratorio."
+
+msgid "Everything that you can see around you."
+msgstr "Todo lo que puedes ver a tu alrededor."
+
+msgid "Not quite – matter is not just the stuff you can see. Some matter like air you can't see. And some matter isn't right around you – it can be in outer space on another planet."
+msgstr "No exactamente - la materia no son sólo las cosas que puedes ver. Cierta materia, como el aire, es invisible. Y cierta materia no está justo alrededor tuyo - puede estar en el espacio, en otro planeta."
+
+# 17
+msgid "Properties of matter are:"
+msgstr "Las propiedades de la materia son:"
+
+msgid "A. Anything you can feel when you touch matter."
+msgstr "A. Cualquier cosa que puedas sentir cuando tocas materia."
+
+msgid "B. Anything about matter that you can observe with any of your senses."
+msgstr "B. Cualquier cosa que puedas observar acerca de la materia con cualquiera de tus sentidos."
+
+msgid "C. Only things you can measure about matter."
+msgstr "C. Sólo las cosas que puedes medir acerca de la materia."
+
+msgid "D. Only things you can see."
+msgstr "D. Sólo las cosas que puedes ver."
+
+msgid "Identifying properties of matter..."
+msgstr "Identificando propiedades de la materia..."
+
+msgid "Anything you can feel when you touch matter."
+msgstr "Cualquier cosa que puedas sentir cuando tocas materia."
+
+msgid "Not quite – Some properties of matter you can feel – like how hard or soft something is – but other properties of matter – like how it smells or what color it is require other senses."
+msgstr "No exactamente - puedes sentir algunas propiedades de la materia - como cuán duro o suave es algo - pero otras propiedades de la materia - como su olor o saber de qué color es, requieren de otros sentidos."
+
+msgid "Anything about matter that you can observe with any of your senses."
+msgstr "Cualquier cosa que puedas observar acerca de la materia con cualquiera de tus sentidos."
+
+msgid "Correct – Properties of matter are things about matter that you can observe with any of your senses. And observe doesn't mean just to see. Smelling, feeling, hearing, or tasting a property of a substance is also making an observation about matter."
+msgstr "Correcto - las propiedades de la materia son cosas acerca de la materia que puedes observar con cualquiera de tus sentidos. Y observar no sólo significa ver. Oler, sentir, escuchar o probar una propiedad de la materia son  también hacer una observación acerca de la materia."
+
+msgid "Only things you can measure about matter."
+msgstr "Sólo las cosas que puedes medir acerca de la materia."
+
+msgid "Not quite – Many properties of matter – like weight or hardness - you can measure. But some properties like odor or color can't be measured."
+msgstr "No exactamente - Muchas propiedades de la materia - como el peso o rigidez - son medibles. Pero algunas propiedades como el olor o el color no pueden medirse."
+
+msgid "Only things you can see."
+msgstr "Sólo las cosas que puedes ver."
+
+msgid "Not quite – Some properties of matter you can see – like what color something is – but other properties of matter – like how it smells or what it sounds like require other senses."
+msgstr "No exactamente - puedes ver algunas propiedades de la materia - como de qué color es algo - pero otras propiedades de la materia - como a qué huele o cómo suena, requieren de otros sentidos."
+
+# 18
+msgid "An example of a change in a property of matter that is <span class='blink'>not</span> reversible is:"
+msgstr "Un ejemplo de un cambio en una propiedad de la materia que <span class='blink'>no</span> es reversible es:"
+
+msgid "Freezing water to make ice cubes."
+msgstr "Congelar agua para hacer cubos de hielo."
+
+msgid "Melting butter to pour over popcorn."
+msgstr "Derretir mantequilla para verterla sobre palomitas de maíz."
+
+msgid "Burning wood in a campfire to warm you up."
+msgstr "Quemar leña en una fogata para calentarte."
+
+msgid "Melting ice to change it into liquid water."
+msgstr "Derretir hielo para convertirlo en agua líquida."
+
+msgid "Changing state..."
+msgstr "Cambiando estado..."
+
+msgid "Not quite – Freezing water to make ice cubes can be reversed by warming them up to let the water melt to form liquid water again."
+msgstr "No exactamente - congelar agua para hacer cubos de hielo puede ser revertido al calentarlos para dejar que el agua se derrita y forme agua líquida de nuevo."
+
+msgid "Not quite - Melted butter to pour over popcorn can be changed back to solid butter by putting it in the refrigerator."
+msgstr "No exactamente - la mantequilla derretida para verterla sobre palomitas de maíz puede revertirse a mantequilla sólida al ponerla en el refrigerador. "
+
+msgid "Correct – When you burn wood in a campfire, the solid wood turns into light, heat, and carbon dioxide gas that can’t directly turn back into wood."
+msgstr "Correcto - cuando quemas leña en una fogata, la madera sólida se convierte en luz, calor y gas de dióxido de carbono que no puede convertirse en madera directamente de nuevo."
+
+msgid "Not quite – Melting ice to change it into liquid water can be reversed by freezing the water again to make ice."
+msgstr "No exactamente - derretir hielo para convertirlo en agua líquida puede ser revertido al congelar el agua de nuevo para hacer hielo."
+
+# 19
+msgid "Which of the following statements is <span class='blink'>true</span>? When you mix two substances together, they:"
+msgstr "¿Cuál de las siguientes declaraciones es verdad? Cuando mezclas dos sustancias entre sí, ellas:"
+
+msgid "A. Always combine to make a new substance with new properties."
+msgstr "A. Siempre se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "B. Sometimes combine to make a new substance with new properties."
+msgstr "B. Algunas veces se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "C. Never combine to make a new substance with new properties."
+msgstr "C. Nunca se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "D. Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "D. Siempre se combinan para crear una nueva sustancia con nuevas propiedades y no puede revertirse."
+
+msgid "Selecting true statement..."
+msgstr "Seleccionando una declaración verdadera..."
+
+msgid "Always combine to make a new substance with new properties."
+msgstr "Siempre se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "Not quite – Sometimes when you mix two substances together, they combine to make a new substance with new properties but not always."
+msgstr "No exactamente - algunas veces cuando mezclas dos sustancias entre sí, se combinan para crear una nueva sustancia con nuevas propiedades pero no siempre."
+
+msgid "Sometimes combine to make a new substance with new properties."
+msgstr "Algunas veces se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "Correct – When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "Correcto - cuando mezclas dos sustancias entre sí, a veces se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "Never combine to make a new substance with new properties."
+msgstr "Nunca se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "Not quite - When you mix two substances together, they sometimes combine to make a new substance with new properties."
+msgstr "No exactamente - cuando mezclas dos sustancias entre sí, a veces se combinan para crear una nueva sustancia con nuevas propiedades."
+
+msgid "Always combine to make a new substance with new properties and it cannot be reversed."
+msgstr "Siempre se combinan para crear una nueva sustancia con nuevas propiedades y no puede revertirse."
+
+msgid "Not quite – When you mix two substances together, they sometimes combine to make a new substance with new properties. Sometimes this can be reversed but sometimes it can't."
+msgstr "No exactamente - cuando mezclas dos sustancias entre sí, a veces se combinan para crear una nueva sustancia con nuevas propiedades. Algunas veces esto puede revertirse, pero algunas veces no."
+
+# 20
+msgid "Which is <span class='blink'>not</span> an example of mixing two substances that can be reversed to get the original substances back again?"
+msgstr "¿Cuál <span class='blink'>no</span> es un ejemplo de una mezcla de dos sustancias que puede revertirse para obtener las sustancias originales nuevamente?"
+
+msgid "Mixing M&Ms and peanuts to make trail mix."
+msgstr "Mezclar M&Ms y maní para hacer un surtido rico."
+
+msgid "Mixing sugar into water to get sugar water."
+msgstr "Mezclar azúcar con agua para obtener agua azucarada."
+
+msgid "Mixing milk with your cereal in the morning."
+msgstr "Mezclar leche con tu cereal en la mañana."
+
+msgid "Mixing eggs and milk into the pancake mix and cooking it to make pancakes."
+msgstr "Mezclar leche y huevos con la harina para panqueques y cocinarlos para hacer panqueques."
+
+msgid "Mixing substances..."
+msgstr "Mezclando sustancias..."
+
+msgid "Not quite – Mixing peanuts and M&Ms together is pretty easy to reverse. You just have to pick out all the peanuts or the M&Ms and separate them into two different piles."
+msgstr "No exactamente - mezclar maní y M&Ms entre sí sería fácil de revertir. Sólo tienes que seleccionar todo el maní o los M&Ms y separarlos en dos pilas diferentes."
+
+msgid "Not quite – When you mix sugar and water to get sugar water, you can reverse the process simply by letting the water evaporate. Then you'll get the sugar back in the bottom of the glass and the water is in the atmosphere."
+msgstr "No exactamente - cuando mezclas azúcar y agua para obtener agua azucarada, puedes revertir el proceso simplemente dejando que el agua se evapore. Luego tendrás el azúcar de nuevo en el fondo del vaso y el agua en la atmósfera."
+
+msgid "Not quite. When you mix milk in with your cereal, you can separate the mixture by pouring it through a strainer. Then you get the milk in a glass again and the cereal in the strainer."
+msgstr "No exactamente - cuando mezclas leche con tu cereal, puedes separar la mezcla al pasarla por un colador. Entonces obtienes la leche en un vaso de nuevo y el cereal en el colador."
+
+msgid "Correct – Making pancakes is like making a birthday cake. You mix the ingredients together and heat it to cook and you get a new substance – pancakes – where you can't get the eggs or milk back again."
+msgstr "Correcto - hacer panqueques es como preparar un pastel de cumpleaños. Mezclas los ingredientes entre sí y los calientas para cocinarlos y obtienes una nueva sustancia - panqueques - de la cuál no puedes obtener la leche y huevos de nuevo."
+
+# 21
+msgid "Which of the following is an example of a chemical reaction that creates new substances?"
+msgstr "¿Cuál de las siguientes es un ejemplo de una reacción química que crea nuevas sustancias?"
+
+msgid "A. Mixing eggs, milk and flour to make a birthday cake."
+msgstr "A. Mezclar huevos, leche y harina para hacer un pastel de cumpleaños."
+
+msgid "B. Burning the candles on top of the birthday cake."
+msgstr "B. Hacer arder las velas encima del pastel de cumpleaños."
+
+msgid "C. Adding lemonade mix and sugar to water to make lemonade."
+msgstr "C. Añadir polvo para limonada y azúcar al agua para preparar limonada."
+
+msgid "D. Freezing water to make ice cubes."
+msgstr "D. Congelar agua para hacer cubos de hielo."
+
+msgid "Mixing eggs, milk and flour to make a birthday cake."
+msgstr "Mezclar huevos, leche y harina para hacer un pastel de cumpleaños."
+
+msgid "Not quite – Mixing eggs, milk and flour to make a birthday cake doesn't change any of the substances into new substances. That doesn't happen until the cake is baked."
+msgstr "No exactamente - mezclar huevos, leche y harina para preparar un pastel de cumpleaños no convierte ninguna de las sustancias en otras nuevas. Eso no sucede sino hasta que el pastel se hornea."
+
+msgid "Burning the candles on top of the birthday cake."
+msgstr "Hacer arder las velas encima del pastel de cumpleaños."
+
+msgid "Correct – When you burn the candles on top of the birthday cake, a chemical reaction occurs to create new substances. The candle wax is changed into carbon dioxide and water and heat and light energy are given off."
+msgstr "Correcto - cuando haces arder las velas encima del pastel de cumpleaños, una reacción química ocurre para crear nuevas sustancias. La cera de las velas se transforma en dióxido de carbono y agua y se emana energía calorífica y lumínica."
+
+msgid "Adding lemonade mix and sugar to water to make lemonade."
+msgstr "Añadir polvo para limonada y azúcar al agua para preparar limonada."
+
+msgid "ot quite – When you add lemonade mix and sugar to water to make lemonade, you still have the same sugar and lemon and water – just all mixed together."
+msgstr "No exactamente - cuando añades polvo para limonada y azúcar al agua para preparar limonada, aún tienes la misma azúcar, limón y agua - sólo que todos están mezclados."
+
+msgid "Not quite – When you freeze water to make ice cubes, you still have water but not a new substance."
+msgstr "No exactamente - cuando congelas agua para hacer cubos de hielo, aún tienes agua, no una sustancia nueva."
+
+# 22
+msgid "You've completed the Chemical and Physical Changes module."
+msgstr "Has completado el módulo de Cambios Físicos y Químicos."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."

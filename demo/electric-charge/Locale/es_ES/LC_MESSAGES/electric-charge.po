@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Reproducir"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Mute"
+msgstr "Silencio"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Restaurar pantalla"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Repeat off"
+msgstr "No repetir"
+
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Para reproducir los contenidos multimedia, necesitas actualizar tu navegador a una versión más reciente o actualizar tu"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations"
+msgstr "¡Felicidades"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "¿Estás listo/a, "
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Electric Charge"
+msgstr "Cargas Eléctricas"
+
+msgid "Welcome to the Electric Charge module"
+msgstr "Bienvenido/a al módulo de Cargas Eléctricas"
+
+msgid "Let's begin"
+msgstr "Comencemos"
+
+# 2
+msgid "Thinking about... electric charge"
+msgstr "Pensando acerca de... cargas eléctricas"
+
+msgid "For more than one reason, going down the slide at the playground can be a hair-raising experience. From bolts of lightning to static cling, many things that we see and experience in everyday life are controlled by electric charge. That's because all the objects that you interact with are made up of charged particles. We don't normally notice all of that electric charge because most objects have equal amounts of positive and negative charge. When the charge of an object gets altered, even just a little bit, the effect can be very noticeable."
+msgstr "Por más de una razón, deslizarte por el tobogán en el parque de juegos puede ponerte el pelo de punta. Desde  los relámpagos hasta la adherencia por estática, muchas cosas que vemos y experimentamos en la vida diaria son controladas por las cargas eléctricas Eso sucede porque todos los objetos con los que interactúas están formados por partículas cargadas. Normalmente no notamos toda esa carga eléctrica porque la mayoría de los objetos tienen la misma cantidad de carga positiva que negativa. Cuando la carga de un objeto se altera, incluso sólo un poco, el efecto puede ser muy notable."
+
+msgid "Are you ready, "
+msgstr "¿Estás listo/a,"
+
+# 3
+msgid "Checking what you already know about...  electric charge"
+msgstr "Revisando lo que ya sabes acerca de... cargas eléctricas"
+
+msgid "Which of the following objects contain electric charge? Check <span class='blink'>ALL</span> that apply."
+msgstr "¿Cuál de los siguientes objetos contiene cargas eléctricas? Selecciona <span class='blink'>TODAS</span> las opciones apropiadas."
+
+msgid "A beach ball"
+msgstr "Una pelota de playa"
+
+msgid "A tea kettle"
+msgstr "Una tetera"
+
+msgid "A baby"
+msgstr "Un bebé"
+
+msgid "A dog"
+msgstr "Un perro"
+
+msgid "All objects made of matter contain a mix of charged particles. If you selected all of the items, you're headed in the right direction."
+msgstr "Todos los objetos hechos de materia contienen una mezcla de partículas cargadas. Si seleccionaste todos los elementos, vas en la dirección correcta."
+
+msgid "Looking at the particles..."
+msgstr "Observando las partículas..."
+
+# 4
+msgid "Reviewing big ideas about... electric charge"
+msgstr "Revisando ideas importantes acerca de... cargas eléctricas"
+
+msgid "Click the image to view"
+msgstr "Da clic en la imagen para ver"
+
+msgid "All of the objects that we encounter in everyday life are made up of matter. Matter consists of really small particles called atoms, and those atoms are made up of even smaller particles called <span class='key'>protons</span>, <span class='key'>neutrons</span> and <span class='key'>electrons</span>. Protons carry a positive charge, and electrons carry a negative charge while neutrons carry no charge. There are more protons in the fingernail on your pinky than there are people on the Earth. However high that number may be, there are most likely the exact same number of electrons in that fingernail. Most objects have an equal number of protons and electrons. In other words, most objects are <span class='key'>electrically neutral</span>. Scientists have been studying electricity for far longer than they have known about the atomic particles. That's why they first came up with the terms positive charge and negative charge to describe what we now know as protons and electrons. If an object contains more electrons than protons, the object is said to be negatively charged. If an object contains more protons than electrons, it is said to be positively charged."
+msgstr "Todos los objetos que encontramos en la vida diaria están formados por materia. La materia consiste de partículas realmente pequeñas conocidas como átomos, y esos átomos están formados por partículas incluso más pequeñas conocidas como <span class='key'>protones</span>, <span class='key'>neutrones</span> y <span class='key'>electrones</span>. Los protones llevan una carga positiva, y los electrones llevan una carga negativa, mientras que los neutrones no llevan ninguna carga. Hay más protones en la uña de tu dedo meñique que gente en la Tierra. Sin importar cuán grande sea ese número, lo más probable es que haya exactamente la misma cantidad de electrones en dicha uña. La mayoría de los objetos tienen un número igual de protones y electrones. En otras palabras, la mayoría de los objetos son <span class='key'>eléctricamente neutrales</span>. Los científicos han estudiado la electricidad desde mucho antes de descubrir las partículas atómicas. Por esa razón fue que originalmente crearon los términos carga positiva y carga negativa para describir lo que ahora conocemos como protones y electrones. Si un objeto contiene más electrones que protones, se dice que el objeto está cargado negativamente. Si el objeto contiene más protones que electrones, se dice que está cargado positivamente."
+
+msgid "It turns out that it is relatively easy to change the number of electrons in an object, but extremely difficult to change the number of protons. For this reason, objects typically become charged because they've either gained electrons from some other object, or they've lost electrons to some other object. Scientists refer to a gain of electrons as becoming <span class='key'>negatively charged</span>, and a loss of electrons as becoming <span class='key'>positively charged</span>.  Gaining or losing protons is a much more involved process, and would mean that the material had actually changed to a different element, like turning Oxygen into Carbon."
+msgstr "Resulta que es relativamente fácil cambiar el número de electrones en un objeto, pero extremadamente difícil cambiar el número de protones. Por esta razón, los objetos típicamente se cargan porque han obtenido electrones de otro objeto, o han cedido electrones a otro objeto. Los científicos se refieren a ganar electrones como <span class='key'>cargarse negativamente</span>, y a perder electrones como <span class='key'>cargarse positivamente</span>. Obtener o ceder protones es un proceso mucho más complicado, y significaría que el material realmente se hubiera convertido en otro elemento, como convertir oxígeno en carbono."
+
+msgid "Carrying positive charge..."
+msgstr "Llevando una carga positiva..."
+
+# 5
+msgid "Scientists can use a device called an electroscope to test the charge on an object.  If scientists determine that a plastic rod has a positive charge, the most likely explanation is that..."
+msgstr "Los científicos pueden utilizar un aparato conocido como electroscopio para evaluar la carga de un objeto. Si los científicos determinan que una barra de plástico tiene una carga positiva, la explicación más probable es que..."
+
+msgid "the plastic rod gained some electrons from another object."
+msgstr "la barra de plástico obtuvo algunos electrones de otro objeto."
+
+msgid "the plastic rod lost some electrons to another object."
+msgstr "la barra de plástico cedió algunos electrones a otro objeto."
+
+msgid "the plastic rod gained some protons from another object."
+msgstr "la barra de plástico obtuvo algunos protones de otro objeto."
+
+msgid "the plastic rod lost some protons to another object."
+msgstr "la barra de plástico cedió algunos protones a otro objeto."
+
+msgid "Preparing your first quick check…"
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Nope. If the rod had gained some electrons from another object, it would be negatively charged. Since the rod is positively charged, it must have lost electrons to another object."
+msgstr "Nop. Si la barra hubiese obtenido electrones de otro objeto, se habría cargado negativamente. Ya que la barra tiene una carga positiva, debe haber cedido electrones a otro objeto."
+
+msgid "Nicely done! The rod is positively charged because some of its electrons have gone to another object."
+msgstr "¡Bien hecho! La barra está cargada positivamente porque algunos de sus electrones pasaron a otro objeto."
+
+msgid "Nope. It would take a great deal of energy to gain protons from another object, and that would also fundamentally change the material the rod is made out of. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "Nop. Requeriría una gran cantidad de energía obtener protones de otro objeto, y eso también cambiaría fundamentalmente el material que forma la barra. En este caso, la barra se cargó positivamente al ceder electrones a otro objeto."
+
+msgid "Nope. Losing protons to another object would result in the rod becoming negatively charged. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "Nop. Ceder protones a otro objeto provocaría que la barra se cargara negativamente. En este caso, la barra se cargó positivamente al ceder electrones a otro objeto."
+
+# 6
+msgid "More big ideas about... electric charge"
+msgstr "Más ideas importantes acerca de... cargas eléctricas"
+
+msgid "Neutral objects can gain or lose electrons in a variety of ways. One of the most common is through contact with other materials. Depending on the material an object is made out of, it may either take electrons from other objects, or it might tend to give electrons to other objects. For example, when a balloon is rubbed on human hair, the balloon tends to take electrons from the hair. This leaves the balloon with a negative charge and the hair with a positive charge. This is similar to the way in which you can charge up by shuffling your feet across a carpeted floor, or charge a comb by rubbing it with a silk cloth."
+msgstr "Los objetos neutrales pueden ganar o perder electrones en una variedad de formas. Una de las más comunes es a través del contacto con otros materiales. Dependiendo del material del que está hecho un objeto, puede ya sea tomar electrones de otros objetos o cederles electrones a dichos objetos. Por ejemplo, cuando un globo se frota contra el cabello humano, el globo tiende a tomar electrones del cabello. Esto deja al globo con una carga negativa y al cabello con una carga positiva. Esto es similar a la forma en que puedes cargarte de electricidad al arrastrar tus pies por una alfombra o cargar un peine al frotarlo con un trozo de seda."
+
+msgid "The type of charge an object will take can be determined by consulting a chart called the <span class = 'key'>triboelectric series</span>.  This chart identifies materials by their tendency to either lose electrons or gain electrons, in comparison to other materials.  An object listed near the top of the chart at right tends to lose electrons and become positively charged.  A material listed near the bottom of the chart is more likely to gain electrons and become negatively charged.  For example, if you rubbed a nylon rod with a polyester cloth, the nylon would lose electrons to the polyester resulting in a positive charge for the nylon rod and a negative charge for the polyester.  However, if a neutral piece of polyester was rubbed on a vinyl rod, the polyester would become positively charged, and the vinyl would be negatively charged.  This is because vinyl is located closer to the negative end of the chart and polyester is relatively closer to the positive end."
+msgstr "El tipo de carga que un objeto tomará puede ser determinado consultando una gráfica llamada <span class = 'key'>serie triboeléctrica</span>. Esta gráfica identifica los materiales por su tendencia a ya sea perder o ganar electrones, en comparación con otros materiales. Un objeto listado cerca de la cima de la gráfica tiende a perder electrones y quedar cargado positivamente. Un material listado en la parte inferior de la gráfica tiene más probabilidades de obtener electrones y quedar cargado negativamente. Por ejemplo, si frotas una barra de nylon con una tela de poliéster, el nylon cedería electrones al poliéster lo que resultaría en una carga positiva para el nylon y una carga negativa para el poliéster. Sin embargo, si una pieza neutral de poliéster se frotara contra una barra de vinil, el poliéster se cargaría positivamente, y el vinil se cargaría negativamente. Esto sucede porque el vinil está ubicado más cerca del extremo negativo de la gráfica y el poliéster está relativamente cerca del extremo positivo."
+
+msgid "+ POSITIVE CHARGE"
+msgstr "+ CARGA POSITIVA"
+
+msgid "Air"
+msgstr "Aire"
+
+msgid "Human body"
+msgstr "Cuerpo humano"
+
+msgid "Glass"
+msgstr "Vidrio"
+
+msgid "Human hair"
+msgstr "Cabello humano"
+
+msgid "Nylon"
+msgstr "Nylon"
+
+msgid "Wool"
+msgstr "Lana"
+
+msgid "Aluminum"
+msgstr "Aluminio"
+
+msgid "Paper"
+msgstr "Papel"
+
+msgid "Cotton"
+msgstr "Algodón"
+
+msgid "Iron"
+msgstr "Hierro"
+
+msgid "Wood"
+msgstr "Madera"
+
+msgid "Hard rubber"
+msgstr "Caucho vulcanizado"
+
+msgid "Nickel copper"
+msgstr "Cobre níquel"
+
+msgid "Brass silver"
+msgstr "Plata latón"
+
+msgid "Gold platinum"
+msgstr "Oro platino "
+
+msgid "Artificial silk"
+msgstr "Seda artificial"
+
+msgid "Polystyrene"
+msgstr "Poliestireno"
+
+msgid "Polyester"
+msgstr "Poliéster"
+
+msgid "Polyurethane"
+msgstr "Poliuretano"
+
+msgid "Polyethylene"
+msgstr "Polietileno"
+
+msgid "Polypropylene"
+msgstr "Polipropileno"
+
+msgid "PVC(vinyl)"
+msgstr "PVC (vinil)"
+
+msgid "Silicon"
+msgstr "Silicón"
+
+msgid "- NEGATIVE CHARGE"
+msgstr "- CARGA NEGATIVA"
+
+msgid "Neutral objects can also gain or lose electrons by coming into contact with a charged object. A Van de Graaff generator can be used for this type of charging. Upon turning on the Van de Graaff generator, electrons tend to flow off of the large metal dome, leaving it positively charged. By touching other objects to the metal dome, they too can become positively charged. You may have seen images like the one below of a person's hair standing on end. By touching a Van de Graaff generator, the person, and every hair on their head, becomes positively charged, too! This type of charging by coming into contact with a charged object is called <span class='key'>conduction</span>."
+msgstr "Los objetos neutrales también pueden ganar o perder electrones al entrar en contacto con un objeto cargado. Un generador de Van de Graaff puede ser utilizado para este tipo de carga. Al encender el generador de Van de Graaff, electrones tienden a fluir del domo de metal, dejándolo cargado positivamente. Al tocar otros objetos con el domo metálico, también pueden quedar cargados positivamente. Quizás hayas visto imágenes como la que está debajo, de una persona con los cabellos completamente de punta. Al tocar un generador de Van de Graaff, la persona, y cada cabello de su cabeza, ¡quedan cargados positivamente también! Este tipo de carga al entrar en contacto con un objeto cargado se conoce como <span class='key'>conducción</span>."
+
+msgid "Checking Van de Graaff generator..."
+msgstr "Observando el generador de Van de Graaff..."
+
+# 7
+msgid "Try to determine the charge for an object based on its location on the triboelectric series. Drag the material to the correct column."
+msgstr "Intenta determinar la carga de un objeto basándote en su ubicación en la serie triboeléctrica. Arrastra el material a la columna correcta."
+
+msgid "Object"
+msgstr "Objeto"
+
+msgid "Positive Charge"
+msgstr "Carga Positiva"
+
+msgid "Negative Charge"
+msgstr "Carga Negativa"
+
+msgid "Rubbed Against"
+msgstr "Fricción Contra"
+
+msgid "Studying triboelectric series..."
+msgstr "Estudiando series triboeléctricas..."
+
+msgid "Wool Mittens"
+msgstr "Guantes de Lana"
+
+msgid "Glass Tube"
+msgstr "Tubo de Vidrio"
+
+msgid "PVC Pipe"
+msgstr "Tubería de PVC"
+
+msgid "Cotton Shirt"
+msgstr "Camisa de Algodón"
+
+msgid "You've got it! The glass is located towards the top of the triboelectric series, so it would lose electrons to the wool, resulting in a negative charge for the mittens."
+msgstr "¡Ahí lo tienes! El vidrio está ubicado cerca de la cima de la serie triboeléctrica, así que perdería electrones al frotarse con la lana, resultando en una carga negativa para los guantes."
+
+msgid "Not quite. Glass is closer to the top of the list, and wool is closer to the bottom. This means the glass would become positively charged, and the wool would become negatively charged."
+msgstr "No exactamente. El vidrio está más cerca de la cima de la lista, y la lana está más cerca del fondo. Esto significa que el vidrio se cargaría positivamente, y la lana quedaría cargada negativamente."
+
+msgid "Yes! The cotton is closer to the top of the list, and the vinyl is down towards the bottom end of the list. The relative positions of the items on the list determine the charge they will take."
+msgstr "¡Sí! El algodón está más cerca de la cima de la lista, y el vinil está más abajo, hacia el fondo de la lista. Las posiciones relativas de los objetos en la lista determinan la carga que tomarán."
+
+msgid "Not quite! Vinyl is down towards the bottom, or negative end of the list. Cotton is much closer to the top. This means the cotton would take on a positive charge, and the vinyl would be negatively charged."
+msgstr "¡No exactamente! El vinil está debajo, cerca del fondo o del extremo negativo de la lista. El algodón está mucho más cerca de la cima. Esto significa que el algodón tomaría una carga positiva y que el vinil quedaría cargado negativamente."
+
+# 8
+msgid "Charged objects exert forces on each other. The amount of force depends upon the amount of charge, as well as how close the objects are to each other. The direction of the force depends upon the types of charge involved. When a positively charged object is held near a negatively charged object, the two objects will experience an attractive force that attempts to bring the objects closer together. However, if a positively charged object is held near another positively charged object, both objects will experience a repulsive force that attempts to push the objects farther away from each other. You'll get the same outcome if you attempt to hold two negatively charged objects near each other. This principle is often stated as \"opposites attract, likes repel\". Take a look at the picture of the person touching the Van de Graaff generator. The person, and all of the hairs on her head have become positively charged. Since all of the hairs have the same charge, they are repelling each other, causing them to stand on end."
+msgstr "Los objetos cargados ejercen fuerzas los unos sobre los otros. La cantidad de fuerza depende de la cantidad de carga, así como cuán cerca están los objetos entre sí. La dirección de la fuerza depende del tipo de carga involucrada. Cuando un objeto cargado positivamente se sostiene cerca de un objeto cargado negativamente, ambos objetos experimentarán una fuerza de atracción que intentará acercarlos entre sí. Sin embargo, si un objeto cargado positivamente se sostiene cerca de otro objeto cargado positivamente, ambos objetos experimentarán una fuerza de repulsión que intentará alejar los objetos el uno del otro. Obtendrás el mismo resultado si intentas sostener dos objetos con carga negativa cerca el uno del otro. Este principio se afirma a menudo como \"los opuestos se atraen, los iguales se repelen\". Mira la imagen de la persona tocando el generador de Van de Graaff. La persona, y todos los cabellos de su cabeza han quedado cargados positivamente. Ya que todos los cabellos tienen la misma carga, se repelen entre sí, haciendo que se pongan de punta."
+
+msgid "The force due to electric charge is responsible for holding together all of the objects around you. Charge-based interactions are responsible for the bonds that hold together solid objects like the tables and chairs in your classroom. Without this force, you would simply pass right through your chair and end up on the floor. An easy way to see this force at work is to slowly fill a glass with water. The interactions between the water molecules allow you to actually overfill the glass slightly. The surface tension will hold the molecules together and prevent them from flowing down the sides of the glass."
+msgstr "La fuerza debida a las cargas eléctricas es responsable de mantener unidos todos los objetos que te rodean. Interacciones basadas en cargas son responsables de los lazos que mantienen unidos los objetos sólidos, como las mesas y sillas en el salón de clase. Sin esta fuerza, simplemente pasarías a través de tu silla y terminarías en el suelo. Una manera fácil de ver esta fuerza funcionar, es llenar lentamente un vaso con agua. Las interacciones entre las moléculas de agua de hecho te permiten ligeramente llenar el vaso demasiado. La tensión superficial mantendrá las moléculas unidas y evitará que fluya hacia abajo por los lados del vidrio."
+
+msgid "Opposites attract"
+msgstr "Los opuestos se atraen"
+
+# 9
+msgid "You rub a balloon on your sweater, and the balloon becomes negatively charged. Another object is rubbed on your sweater, and then held near the balloon."
+msgstr "Frotas un globo contra tu suéter, y el globo queda cargado negativamente. Otro objeto se frota contra tu suéter, y luego se sostiene cerca del globo."
+
+msgid "Question A. If the balloon appears to be attracted to the new object, that means that the new object is likely:"
+msgstr "Pregunta A. Si el globo parece estar siendo atraído hacia el nuevo objeto, eso significa que el nuevo objeto probablemente está:"
+
+msgid "Neutral"
+msgstr "Neutral"
+
+msgid "Question B. If the balloon appears to be pushed away by the new object, that means that the new object is likely:"
+msgstr "Pregunta B. Si el globo parece estar siendo rechazado por el nuevo objeto, eso significa que el nuevo objeto probablemente está:"
+
+msgid "Inflating a balloon..."
+msgstr "Inflando un globo..."
+
+msgid "Yes! The object is attracted to the negatively charged balloon, so has a positive charge."
+msgstr "¡Sí! El objeto es atraído hacia el globo cargado negativamente, así que tiene una carga positiva."
+
+msgid "Nope. If the new object was negatively charged, it would repel the balloon. Remember \"likes repel\".'"
+msgstr "Nop. Si el nuevo objeto es atraído hacia el globo cargado negativamente. Recuerda \"cargas iguales se repelen\".'"
+
+msgid "Nope. If the object is attracted to the negatively charged balloon, it is likely positively charged."
+msgstr "Nop. Si el objeto es atraído al globo cargado negativamente, es probable que esté cargado positivamente."
+
+msgid "You've got it! Since the new object pushes away from the negatively charged balloon, it must be negatively charged, just like the balloon."
+msgstr "¡Acertaste! Ya que el nuevo objeto se aleja del globo cargado negativamente, debe estar cargado negativamente, justo como el globo."
+
+msgid "Not quite. If the object is repelled by the negatively charged balloon, then it must have the same negative charge as the balloon."
+msgstr "No exactamente. Si el objeto es repelido por el globo cargado negativamente, entonces debe tener la misma carga negativa que el globo."
+
+msgid "Nope. If the object is pushed away, or repelled, then it is probably charged \"like\" the negatively charged balloon."
+msgstr "Nop. Si el objeto es alejado, o repelido, entonces probablemente está cargado \"similarmente\" al globo cargado negativamente."
+
+# 10
+msgid ""
+"Lightning storms are one of nature’s most dramatic spectacles.  These storms can be both fascinating displays of natural beauty, as well as frightening and dangerous.  A lightning strike can cause severe damage to large objects like forests or homes, and can cause severe injury or death for animals.  Scientists disagree as to the exact method by which the clouds become charged, but it seems that it is likely related to the vertical movement of water droplets within the clouds.  This tends to leave the bottom of the cloud negatively charged, and the upper part of the cloud positively charged.  When the electric charge becomes great enough, a cloud can get rid of the excess charge by sending a stream of electrons to another cloud, or to the ground.  This stream of particles causes the air to give off light, and causes the air to heat up so rapidly that it produces a shockwave that we hear as thunder.  Lightning is a very common occurrence.  At any given moment, there are on average just under 50 lightning strikes per second occurring on Earth.  There’s an old yarn that lightning never strikes the same spot twice, but according to records, the Empire State building was once struck eight times in less than half an hour.  Lightning strikes are so dangerous because they contain a large amount of energy.  Even a small lightning carries enough energy "
+"to light up a 100-Watt light bulb for three days."
+msgstr ""
+"Las tormentas eléctricas son uno de los espectáculos más impresionantes de la naturaleza. Estas tormentas pueden ser tanto muestras fascinantes de belleza natural, así como aterradoras y peligrosas. Un relámpago puede causar graves daños a objetos de gran tamaño como bosques u hogares, y puede causar lesiones graves o la muerte en los animales. Los científicos no están de acuerdo acerca del método exacto por el que las nubes se cargan eléctricamente, pero parece que está probablemente relacionado con el movimiento vertical de gotas de agua dentro de las nubes. Esto tiende a dejar la parte inferior de la nube cargada negativamente, y la parte superior de la nube cargada positivamente. Cuando la carga eléctrica se vuelve lo suficientemente grande, una nube puede deshacerse del exceso de carga mediante el envío de una corriente de electrones a otra nube, o al suelo. Este flujo de partículas hace que el aire emita luz, y provoca que el aire se caliente tan rápidamente que produce una onda de choque que escuchamos como un trueno. Los relámpagos son un fenómeno muy común. En cualquier momento dado, hay un promedio de poco menos de 50 relámpagos por segundo sucediendo en la Tierra. Hay un viejo mito acerca de que un relámpago nunca cae en el mismo lugar dos veces, pero de acuerdo a los registros, el edificio Empire State una vez fue golpeado por "
+"relámpagos ocho veces en menos de media hora. Los relámpagos son tan peligrosos porque contienen una gran cantidad de energía. Incluso un pequeño relámpago transporta la energía suficiente para iluminar una bombilla de 100 vatios durante tres días."
+
+msgid "Another awe-inspiring light show can come, courtesy of the Aurora Borealis (Northern Lights) and the Aurora Australis (Southern Lights). These beautiful displays of color in the night sky are most easily seen in regions near the North or South Pole. The colors are the result of charged particles interacting with the gases in the upper atmosphere. The particles come from the Sun, and as they approach the Earth, they get trapped by the Earth's magnetic field. The magnetic field causes them to circle the Earth in several regions known as the Van Allen Belts. The Earth's magnetic field bends towards the poles, and the particles can spiral down into the upper atmosphere, energizing the atmospheric gases, and producing the brilliant light show."
+msgstr "Puede venir otro espectáculo impresionante de luces, por cortesía de la Aurora Boreal (luces del norte) y la Aurora Austral (luces del sur). Estas hermosas muestras de colores en el cielo nocturno se ven con mayor facilidad en las regiones cercanas al Polo Norte o Sur. Los colores son el resultado de partículas cargadas que interactúan con los gases en la atmósfera exterior. Las partículas provienen del sol, y cuando se acercan a la Tierra, quedan atrapadas por el campo magnético de la Tierra. El campo magnético hace que den vuelta a la Tierra en varias regiones conocidas como los cinturones de Van Allen. El campo magnético de la Tierra se inclina hacia los polos, y las partículas pueden caer en espiral hacia la atmósfera exterior, energizando los gases atmosféricos, y produciendo el impresionante espectáculo de luz."
+
+msgid "Observing lightning..."
+msgstr "Observando los relámpagos..."
+
+# 11
+msgid "Question A. Check <span class='blink'>ALL</span> that apply. The brilliant Northern Lights are the result of gases in the Earth's upper atmosphere interacting with..."
+msgstr "Pregunta A. Marca <span class='blink'>TODAS</span> las que aplican. La increíble Aurora Boreal es el resultado de los gases en la atmósfera exterior de la Tierra interactuando con..."
+
+msgid "Protons"
+msgstr "Protones"
+
+msgid "Electrons"
+msgstr "Electrones"
+
+msgid "Neutrons"
+msgstr "Neutrones"
+
+msgid "Question B. Check <span class='blink'>ALL</span> that apply. The Auroras are most easily seen near..."
+msgstr "Pregunta B. Marca <span class='blink'>TODAS</span> las opciones que aplican. Las Auroras se ven más fácilmente cerca de..."
+
+msgid "North Pole"
+msgstr "Polo Norte"
+
+msgid "South Pole"
+msgstr "Polo Sur"
+
+msgid "Equator"
+msgstr "Ecuador"
+
+msgid "Yes!  Eruptions on the Sun send streams of charged particles in all directions.  Protons and Electrons interact with the Earth’s magnetic field, and produce the Aurora displays."
+msgstr "¡Sí! Erupciones en el sol envían oleadas de partículas cargadas en todas direcciones. Protones y electrones interactúan con el campo magnético de la Tierra y producen la exhibición de Auroras."
+
+msgid "Nope. Neutrons do not carry electric charge, so they don't interact with the Earth's magnetic field."
+msgstr "Nop. Los neutrones no llevan una carga eléctrica, así que no interactúan con el campo magnético de la Tierra."
+
+msgid "Almost! Both electrons and protons are trapped by the Earth's magnetic field. Both charges play a part in the brilliant Auroras."
+msgstr "¡Casi! Tanto los electrones como los protones son atrapados por el campo magnético de la Tierra. Ambas cargas juegan un papel en las increíbles Auroras."
+
+msgid "Nope.  Neutrons do not carry electric charge, so they don’t interact with the Earth’s magnetic field."
+msgstr "Nop. Los neutrones no llevan una carga eléctrica, así que no interactúan con el campo magnético de la Tierra."
+
+msgid "Way to go! The Earth's magnetic field bends towards the surface at the Poles. This results in charged particles spiraling down towards the upper atmosphere and producing the Auroras."
+msgstr "¡Bien hecho! El campo magnético de la Tierra se dobla hacia la superficie en los Polos. Esto resulta en que partículas cargadas caigan en espiral hacia la atmósfera exterior y produzcan las Auroras."
+
+msgid "Nope. The magnetic field lines near the equator run parallel to the Earth's surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "Nop. Las líneas de campos magnéticos cerca del ecuador corren de manera paralela a la superficie terrestre y las partículas cargadas en esa región no llegan a la atmósfera exterior."
+
+msgid "Not quite. The Aurora are visible in both polar regions. In the northern hemisphere, they're called the Aurora Borealis, and in the southern hemisphere they're called the Aurora Australis."
+msgstr "No exactamente. La Aurora es visible en ambas regiones polares. En el hemisferio norte, se llama Aurora Boreal, y en el hemisferio sur se llama Aurora Austral."
+
+msgid "Nope.  The magnetic field lines near the equator run parallel to the Earth’s surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "Nop. Las líneas de campos magnéticos cerca del ecuador corren de manera paralela a la superficie terrestre y las partículas cargadas en esa región no llegan a la atmósfera exterior."
+
+# 12
+msgid "Using what you now know about... electric charge... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... cargas eléctricas... para resolver un problema"
+
+msgid "The local children's museum is planning on conducting a \"hands on\" science show, where school children will be able to conduct their own science investigations to learn about nature. As part of this program, the students will use common materials to investigate electric charge."
+msgstr "El museo infantil local está planeando conducir un espectáculo científico interactivo, donde los niños de la escuela serán capaces de llevar a cabo sus propias investigaciones científicas para aprender acerca de la naturaleza. Como parte de este programa, los estudiantes utilizarán materiales comunes para investigar las cargas eléctricas."
+
+msgid "Human Hair"
+msgstr "Cabello Humano"
+
+msgid "Gold"
+msgstr "Oro"
+
+msgid "The program director has asked you to use your understanding of the triboelectric series to create a list of combinations of materials that can be used to produce positive charged objects and to produce negatively charged objects."
+msgstr "El director del programa te ha pedido que utilices tu entendimiento de la serie triboeléctrica para crear una lista de combinaciones de materiales que pueden ser utilizados para producir objetos cargados positivamente y objetos cargados negativamente."
+
+msgid "Writing a report..."
+msgstr "Escribiendo un reporte"
+
+# 13
+msgid "Summarizing big ideas about... electric charge"
+msgstr "Resumiendo ideas importantes acerca de... cargas eléctricas"
+
+msgid "All of the objects that you see around you are made up of <span class=key>electrons</span>, <span class=key>neutrons</span> and <span class=key>protons</span>. Electrons and protons are the particles that carry electric charge. In most objects, the number of protons and the number of electrons is exactly the same, so those objects are said to be <span class=key>electrically neutral </span>.  Charge can be separated by touching different materials, like silk and vinyl, together and peeling them apart.  Only electrons are exchanged in this way, exchanging protons requires a much greater amount of energy.  Charged particles exert forces on one another with like charge particles pushing away from each other with a repulsive force, and opposite charges attracting.  These forces due to electric charge are responsible for holding together all of the objects that make up the world around you. Several of the most dramatic light shows in nature are based on charged particles. Lightning strikes occur when a large buildup of electrons at the base of a cloud jump to another cloud or to the Earth's surface. The Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) are the result of charged particles interacting with the Earth's magnetic field and energizing gases in the atmosphere, causing beautiful displays of color in the night sky."
+msgstr ""
+"Todos los objetos que ves a tu alrededor están formados por <span class = 'key'>electrones</span>, <span class = 'key'>neutrones</span> y <span class = 'key'>protones</span>. Los electrones y protones son las partículas que tienen cargas eléctricas. En la mayoría de los objetos, el número de protones y el número de electrones es exactamente el mismo, por lo que esos objetos se dice que son <span class = 'key'>eléctricamente neutros</span>. Se puede separar una carga al hacer que diferentes materiales, como la seda y el vinil, se toquen entre sí y luego se separen. Solamente los electrones se intercambian de esta manera, el intercambio de protones requiere una cantidad mucho mayor de energía. Las partículas cargadas ejercen fuerzas unas sobre otras haciendo que las partículas de cargas iguales se empujen para alejarse entre sí con una fuerza repulsiva, y que las cargas opuestas se atraigan. Estas fuerzas debidas a las cargas eléctricas son responsables de mantener unidos todos los objetos que componen el mundo que te rodea. Varios de los espectáculos de luz más impresionantes de la naturaleza se basan en partículas cargadas. Se producen relámpagos y rayos cuando una gran acumulación de electrones en la base de una nube salta a otra nube o hacia la superficie de la Tierra. La Aurora Boreal (luces del norte) y Aurora Austral (luces del sur) son el "
+"resultado de partículas cargadas que interactúan con el campo magnético de la Tierra y energizan los gases en la atmósfera, provocando hermosas muestras de color en el cielo nocturno."
+
+# 14
+msgid "Reviewing key vocabulary related to... electric charge"
+msgstr "Revisando vocabulario clave relacionado con... cargas eléctricas"
+
+msgid "Electron"
+msgstr "Electrón"
+
+msgid "One of the components that make up atoms. Tiny, negatively charged particles that orbit the atom's nucleus."
+msgstr "Uno de los componentes que forman a los átomos. Partículas extremadamente pequeñas, cargadas negativamente que orbitan al núcleo del átomo."
+
+msgid "Proton"
+msgstr "Protón"
+
+msgid "One of the components that make up atoms. Very small, but much larger than an electron. Protons exist inside the nucleus of atoms and possess a positive charge."
+msgstr "Uno de los componentes que forman a los átomos. Muy pequeños, pero mucho más grandes que un electrón. Los protones existen dentro de los núcleos de los átomos  y poseen una carga positiva."
+
+msgid "Neutron"
+msgstr "Neutrón"
+
+msgid "One of the components that make up atoms. Neutrons are similar in size to protons and also exist inside the nucleus of atoms, but they possess no charge."
+msgstr "Uno de los componentes que forman a los átomos. Los neutrones son similares en tamaño a los protones y también existen en los núcleos de los átomos, pero no poseen una carga."
+
+msgid "One of two possible charges. Things that are positively charged are attracted to things that are negatively charged and repel other positively charged things. Protons have a positive charge."
+msgstr "Una de dos posibles cargas. Las cosas que están cargadas positivamente son atraídas por cosas que están cargadas negativamente y repelen otras cosas cargadas positivamente. Los protones tienen una carga positiva."
+
+msgid "One of two possible charges. Things that are negatively charged are attracted to things that are positively charged and repel other negatively charged things. Electrons have a negative charge."
+msgstr "Una de dos posibles cargas. Las cosas que están cargadas negativamente son atraídas por cosas que están cargadas positivamente y repelen otras cosas cargadas negativamente. Los electrones tienen una carga negativa."
+
+msgid "Conduction"
+msgstr "Conducción"
+
+msgid "The movement of electric charge through a material. The ease with which electricity moves through a material is called its conductivity."
+msgstr "El movimiento de carga eléctrica a través de un material. La facilidad con la que electricidad se mueve a través de un material se conoce como conductividad."
+
+msgid "Triboelectric Series"
+msgstr "Serie Triboeléctrica"
+
+msgid "A ranking of various materials based upon the charge they acquire when touched by another material on the series."
+msgstr "Una clasificación de varios materiales basada en la carga que adquieren al ser tocados por otro material en la serie."
+
+# 15
+msgid "Checking what you now know about... electric charge"
+msgstr "Revisando lo que sabes ahora acerca de... cargas eléctricas"
+
+# 16
+msgid "A ping pong ball is tied to a string and then gains some electrons through charging by contact. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces due to the charged spheres will cause ping pong ball to move."
+msgstr "Una pelota de ping pong es atada a una cuerda y luego obtiene algunos electrones al cargarse por contacto. Entonces se cuelga entre dos esferas metálicas: una con una carga positiva y otra con una carga negativa. Elige la flecha que representa la dirección en que las fuerzas actuarán sobre la pelota de ping pong haciendo que se mueva."
+
+msgid "Positively Charged"
+msgstr "Cargado Positivamente"
+
+msgid "Negatively Charged"
+msgstr "Cargado Negativamente"
+
+msgid "Your first quiz question is…"
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Nope.  The ping pong ball has extra electrons, meaning that it carries a negative charge.  It would be repelled by the negatively charged sphere, and attracted to the positively charged sphere."
+msgstr "Nop. La pelota de ping pong tiene electrones adicionales, lo que significa que tiene una carga negativa. Sería repelida por la esfera con carga negativa y atraída hacia la esfera con carga positiva."
+
+msgid "You’ve got it!  The ping pong ball with extra electrons would be repelled or pushed away by the negatively charge sphere, and would be attracted to the positively charge sphere.  This would cause the ping pong ball to move to the left."
+msgstr "¡Acertaste! La pelota de ping pong con electrones adicionales sería repelida o alejada por la esfera con la carga negativa y sería atraída por la esfera con carga positiva. Esto provocaría que la pelota de ping pong se moviera hacia la izquierda."
+
+# 17
+msgid "Another ping pong ball is tied to a string and then loses some electrons through charging by contact, leaving it with more protons than electrons. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces on the ping pong ball will cause it to move."
+msgstr "Otra pelota de ping pong es atada a una cuerda y luego pierde algunos electrones al cargarse por contacto, dejándola con más protones que electrones. Entonces se cuelga entre dos esferas metálicas: una con una carga positiva y otra con una carga negativa. Elige la flecha que representa la dirección en que las fuerzas actuarán sobre la pelota de ping pong haciendo que se mueva."
+
+msgid "Bouncing a ping pong ball..."
+msgstr "Rebotando una pelota de ping pong..."
+
+msgid "Not quite.  The ping pong ball would have a positive charge due to the extra protons, so it would move to the right due to the repulsion from the positively charged sphere and the attraction to the negatively charged sphere."
+msgstr "No exactamente. La pelota de ping pong tendría una carga positiva debido a los protones adicionales, así que se movería a la derecha debido a la repulsión de la esfera cargada positivamente y la atracción hacia la esfera cargada negativamente."
+
+msgid "Correct!  The extra protons on the ping pong ball give it a positive charge.  It would be repelled by the positively charged sphere and attracted to the negatively charged sphere."
+msgstr "¡Correcto! Los protones adicionales en la pelota de ping pong le dieron una carga positiva. Sería repelida por la esfera cargada positivamente y atraída por la esfera cargada negativamente."
+
+# 18
+msgid "Your friend makes the statement that the reason a vinyl coat hanger became negatively charged was that charge was created by rubbing the hanger with a wool sock.  Which of the following statements would be more accurate?"
+msgstr "Tu amigo hace la declaración de que la razón por la cual un gancho para abrigos de vinil quedó cargado negativamente fue que la carga se creó al frotar el gancho con un calcetín de lana. ¿Cuál de las siguientes afirmaciones sería la más precisa?"
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled protons off the hanger."
+msgstr "El gancho de vinil se cargó negativamente porque el calcetín de lana obtuvo protones del gancho."
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock added electrons to the hanger."
+msgstr "El gancho de vinil se cargó negativamente porque el calcetín de lana añadió electrones al gancho."
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled electrons from the hanger"
+msgstr "El gancho de vinil se cargó negativamente porque el calcetín de lana obtuvo electrones del gancho."
+
+msgid "There is nothing wrong with your friend's statement."
+msgstr "No hay nada de malo con la declaración de tu amigo."
+
+msgid "Hanging clothes..."
+msgstr "Colgando ropa..."
+
+msgid "Nope.  It takes a much greater amount of effort to remove protons than it does to add electrons."
+msgstr "Nop. Requiere un esfuerzo mucho más grande quitar protones que añadir electrones."
+
+msgid "Yes!  The hanger became negatively charged because it gained electrons from the wool sock."
+msgstr "¡Sí! El gancho se cargó negativamente porque obtuvo electrones del calcetín de lana."
+
+msgid "Not quite.  If the sock had pulled electrons from the hanger, the hanger would have been left with a positive charge."
+msgstr "No exactamente. Si el calcetín hubiese tomado electrones del gancho, el gancho habría quedado con una carga positiva."
+
+msgid "No.  The charge was already present on the sock and hanger before they were rubbed together.  No charge was created by rubbing, the charged particles were simply exchanged by the objects when they were rubbed together."
+msgstr "No. La carga ya estaba presente en el calcetín y el gancho antes de frotarse entre sí. No se creó ninguna carga por la fricción, las partículas cargadas simplemente se intercambiaron entre los objetos cuando se frotaron entre sí."
+
+# 19
+msgid "While experimenting with different materials, you notice that after rubbing a square of fabric on a rod made out of material A and a rod made out of material B, that the two rods repel each other, indicating that they have ‘like’ electric charges. "
+msgstr "Al experimentar con diversos materiales, notaste que después de frotar un cuadro de tela contra una barra hecha de material A y una barra hecha de material B, ambas barras se repelen entre sí, indicando que tienen cargas eléctricas similares."
+
+msgid "Drag the fabric, material A and material B up or down into their possible positions within the triboelectric series that would explain this outcome."
+msgstr "Arrastra la tela, material A y material B hacia arriba o hacia abajo a sus posibles posiciones dentro de la serie triboeléctrica que explicarían este resultado."
+
+msgid "Silk"
+msgstr "Seda"
+
+msgid "The Square of Fabric"
+msgstr "El Cuadro de Tela"
+
+msgid "The Rod of Material A"
+msgstr "La Barra de Material A"
+
+msgid "The Rod of Material B"
+msgstr "La Barra de Material B"
+
+msgid "Rubbing a fabric..."
+msgstr "Frotando una tela..."
+
+msgid "Correct!  Materials A and B both gained like charges because they both are located closer to the same end of the triboelectric series."
+msgstr "¡Correcto! Los materiales A y B ambos ganaron cargas similares porque ambos están ubicados más cerca del mismo extremo de la serie triboeléctrica."
+
+msgid "Not quite.  Materials A and B are repelling each other because they both have the same charge.  That means they both must be closer to the same end of the chart, and the fabric square is closer to the other end of the chart."
+msgstr "No exactamente. Los materiales A y B se repelen el uno al otro porque ambos tienen la misma carga. Eso significa que ambos deben estar más cerca del mismo extremo de la gráfica y que el cuadro de tela está más cerca del otro extremo de la gráfica."
+
+# 20
+msgid "The different parts of the atom are shown in different colors.   Based on what you are able to see in this image, what would be a true statement about the charge on the material made of atoms like this."
+msgstr "Las distintas partes del átomo se muestran en distintos colores. Basándote en lo que eres capaz de ver en esta imagen, ¿cuál sería una declaración verdadera acerca de la carga en el material hecho de átomos como éste?"
+
+msgid "The material would be positively charged due to the protons in the nucleus."
+msgstr "El material estaría cargado positivamente, debido a los protones en el núcleo."
+
+msgid "The material would be negatively charged due to the electrons surrounding the atom."
+msgstr "El material estaría cargado negativamente, debido a los electrones alrededor del átomo."
+
+msgid "The material would be negatively charged because the neutrons cancel out the protons."
+msgstr "El material estaría cargado negativamente, porque los neutrones cancelan los protones."
+
+msgid "The material would be positively charged due to the difference between the number of protons in the nucleus and the number of electrons surrounding the atom."
+msgstr "El material estaría cargado positivamente, debido a la diferencia entre el número de protones en el núcleo y el número de electrones alrededor del átomo."
+
+msgid "Nucleus"
+msgstr "Núcleo"
+
+msgid "Identifying atom..."
+msgstr "Identificando al átomo..."
+
+msgid "Incorrect.  All atoms contain protons, so that alone would not cause the material to be positively charged."
+msgstr "Incorrecto. Todos los átomos contienen protones, así que sólo eso no provocaría que el material estuviese cargado positivamente."
+
+msgid "Not quite.  All atoms contain electrons, so the fact that this atom is surrounded by electrons is not enough to cause the material to be negatively charged."
+msgstr "No exactamente. Todos los átomos contienen electrones, así que el hecho de que este átomo esté rodeado por electrones no es suficiente para provocar que el material esté cargado negativamente."
+
+msgid "No.  All atoms contain neutrons, but it is the electrons, not the neutrons, that are responsible for balancing out the charge of the protons."
+msgstr "No. Todos los átomos contienen neutrones, pero son los electrones, no los neutrones, que son responsables de balancear la carga de los protones."
+
+msgid "You’ve got it!  The key to the charge on a material is the difference between the number of positively charged protons and negatively charged electrons.  In the image, the atom has only three electrons, and at least four protons, so would make up a positively charged material."
+msgstr "¡Acertaste! La clave para la carga en un material es la diferencia entre el número de protones cargados positivamente y los electrones cargados negativamente. En la imagen, el átomo sólo tiene tres electrones y al menos cuatro protones, así que formaría un material cargado positivamente."
+
+# 21
+msgid "Which of these natural wonders relate to electric charge?"
+msgstr "¿Cuál de las siguientes maravillas naturales se relaciona con las cargas eléctricas?"
+
+msgid "I. The beautiful colors of the Northern Lights"
+msgstr "I. Los hermosos colores de la Aurora Boreal"
+
+msgid "II. The ability of a compass needle to point North"
+msgstr "II. La capacidad de la aguja de una brújula para señalar el Norte"
+
+msgid "III. The intense flash of a Lightning strike"
+msgstr "III. El destello intenso de un relámpago"
+
+msgid "I"
+msgstr "I"
+
+msgid "III"
+msgstr "III"
+
+msgid "I and III"
+msgstr "I y III"
+
+msgid "I. The beautiful colors of the Northern Lights and III. The intense flash of a Lightning strike"
+msgstr "I. Los hermosos colores de la Aurora Boreal y III. El destello intenso de un relámpago"
+
+msgid "I, II, and III"
+msgstr "I, II y III"
+
+msgid "I. The beautiful colors of the Northern Lights, II. The ability of a compass needle to point North and III. The intense flash of a Lightning strike"
+msgstr "I. Los hermosos colores de la Aurora Boreal, II. La capacidad de la aguja de una brújula para señalar el Norte y III. El destello intenso de un relámpago"
+
+msgid "Not quite.  The Northern Lights are caused by charged particles energizing gases in the Earth’s atmosphere, but lightning strikes are also due to charged particles."
+msgstr "No exactamente. La Aurora Boreal es provocada por partículas cargadas que energizan gases en la atmósfera terrestre, pero los relámpagos también se deben a partículas cargadas."
+
+msgid "Not quite.  The bright flash from lightning is caused by a electrons flowing between the sky and the ground, but the Northern Lights are also due to charged particles."
+msgstr "No exactamente. El destello brillante de los relámpagos es provocado por electrones que fluyen entre el cielo y el suelo, pero la Aurora Boreal también se debe a las partículas cargadas."
+
+# 22
+msgid "You’ve got it.  Both of these natural wonders are due to the properties of charged particles."
+msgstr "Acertaste. Estas dos maravillas naturales se deben a las propiedades de las partículas cargadas."
+
+msgid "Both lightning and the Northern Lights are caused by charged particles, but the action of a compass needles is due to magnetic fields."
+msgstr "Tanto los relámpagos como la Aurora Boreal son provocados por partículas cargadas, pero la acción de la aguja de una brújula se debe a los campos magnéticos."
+
+msgid "You've completed the Electric Charge module."
+msgstr "Has completado el módulo de Cargas Eléctricas."
+
+msgid "Go Back to Dashboard"
+msgstr "Ir de regreso al tablero de inicio"

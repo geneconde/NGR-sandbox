@@ -1,0 +1,1545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: how animals respond\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: basam <basam_rj_99@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ar\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read more"
+msgstr "اقرا أكثر"
+
+msgid "How Animals Respond"
+msgstr "كيف تستجيب الحيوانات"
+
+msgid "You answered..."
+msgstr "أنت أجبت..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "More core ideas... about how animals respond"
+msgstr "افكار مهمة اخرى حول موضوع كيف تستجيب الحيوانات"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار قصير رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# 1
+msgid "Welcome to How Animals Respond review"
+msgstr "مرحبا بكم في مراجعة حول كيف تستجيب الحيوانات "
+
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+# 2
+msgid "Thinking about... how animals respond"
+msgstr "التفكير حول... كيف تستجيب الحيوانات"
+
+msgid ""
+"Did you ever wonder how we scream when we are scared and eat when we are "
+"hungry? Did you learn that in school? What about how to solve a math "
+"problem? How did you learn to do that?"
+msgstr ""
+"لم سبق لك أن تساءلت كيف نصرخ عندما نكون خائفين و نأكل عندما نكون جائعين؟ هل "
+"تعلمت ذلك في المدرسة؟ ماذا عن كيفية حل مشكلة الرياضيات؟ كيف تتعلم أن تفعل "
+"ذلك؟"
+
+msgid ""
+"People and animals are able to respond to their environments in some "
+"manner.  When we sense external danger or internal hunger we respond. "
+"Animals have brains or structures that allow them to sense the world around "
+"them, and sometimes even remember and learn as well."
+msgstr ""
+"الناس والحيوانات قادرة على الاستجابة لبيئتهم بطريقة ما. عندما نشعر بخطر "
+"خارجي أو جوع داخلي فإننا نستجيب. الحيوانات لديها أدمغة أو هياكل  تسمح لها "
+"باستشعار العالم من حولها، وأحيانا تذكر وتعلم كذلك."
+
+msgid ""
+"Nerve cells and tissues are similar in all animals, having many structures "
+"in common.  Information is transmitted from place to place using a system of "
+"electricity and chemistry. This information may be used to form complex "
+"networks of neural cells, or even to stimulate muscles to move the organism "
+"in useful ways."
+msgstr ""
+"الخلايا العصبية والأنسجة متشابهة في جميع الحيوانات،فيها العديد من الهياكل "
+"المشتركة. تبث المعلومات من مكان إلى آخر باستخدام نظاما كهربائيا و كيميائيا. "
+"ويمكن استخدام هذه المعلومات لتشكيل شبكات معقدة من الخلايا العصبية، أو حتى "
+"لتحفيز العضلات لتحريك الكائن بطرق مفيدة."
+
+msgid "Are you ready, "
+msgstr "هل انت مستعد؟"
+
+# 3
+msgid "Checking what you already know... about how animals respond"
+msgstr "اختبر ما تعرفه حاليا... حول كيف تستجيب الحيوانات"
+
+msgid ""
+"Click on <span class='blink'>all</span> the changes in the right column you "
+"think the events in the left column are causing."
+msgstr ""
+"انقر على <span class='blink'>جميع</span> التغيرات في العمود الأيمن التي "
+"تعتقد أن الأحداث في العمود الأيسر مسببه لها."
+
+msgid "A child touches his finger to a hot pan, just off the stove."
+msgstr "فالطفل يلمس باصبعه  مقلاة ساخنة، قبالة الموقد."
+
+msgid "A nerve impulse is sent immediately to his brain."
+msgstr "يتم ارسال إشارة عصبية فورا الى دماغه"
+
+msgid "He drifts gently into peaceful slumber."
+msgstr "انه يستطرد برفق في سبات العميق."
+
+msgid "He withdraws his hand, crying out in pain."
+msgstr "انه يسحب يده ، و يبكي من شدة الالم."
+
+msgid "A nerve cell transmits a chemical message to a muscle."
+msgstr "الخلية العصبية ترسل اشارة كيميائية الى العضلة"
+
+msgid "Muscle cells contract, causing a bone to move."
+msgstr "العضلة تنقبض ، مسببة حركة العظم"
+
+msgid "The brain relates the smell to a previous experience."
+msgstr "يرجع الدماغ الرائحة الى الخبرات السابقة"
+
+msgid "The image is interpreted by cells in the front of the brain."
+msgstr "يتم تفسير الصورة في الجزء الامامي للدماغ"
+
+msgid ""
+"An athlete receives a blow to the head, causing him to lose consciousness "
+"for a few minutes."
+msgstr "لاعب ألعاب قوى يتلقى ضربة على الرأس، مما جعله يفقد وعيه لبضع دقائق."
+
+msgid "Part of the brain is compressed."
+msgstr "ينضغط جزء من الدماغ "
+
+msgid "Some memories may be lost or confused."
+msgstr "بعض الذكريات قد تفقد أو تتداخل"
+
+msgid "He is at higher risk for further brain injuries."
+msgstr "فهو عرضة لمزيد من الإصابات في الدماغ."
+
+msgid ""
+"When a nerve cell transmits a chemical message to a muscle, muscle cells "
+"contract, causing a bone to move. When someone receives a blow to their "
+"head, part of their brain is compressed, some memories might be lost or "
+"confused, and the person will be at higher risk for other brain injuries. "
+"When a child touches his finger to a hot pan, a nerve impulse is sent "
+"immediately to his brain, causing him to withdraw his hand. Read on to learn "
+"more about how animals respond."
+msgstr ""
+"عندما تنقل الخلية العصبية رسالة كيميائية إلى العضلات، وتتقلص خلايا العضلات ، "
+"مسببة حركة العظام.  عندما يتلقى شخص ضربة على رأسه، يتم ضغط جزء من الدماغ، "
+"وقد يتم فقدان أو الخلط  في بعض الذكريات ، وسيكون الشخص عرضة لإصابات دماغية "
+"أخرى. وعندما يلمس إصبع الطفل مقلاة ساخنة، يتم إرسال نبضة أعصاب فورا إلى "
+"دماغه، مما يدفعه إلى سحب يده.  تابع القراءة لمعرفة المزيد عن كيفية استجابة "
+"الحيوانات."
+
+msgid "Cold and flu"
+msgstr "البرد و الانفلونزا"
+
+msgid "Wearing oven mitts..."
+msgstr "ارتداء قفازات الفرن...."
+
+# 4
+msgid "Reviewing core ideas... about how animals respond"
+msgstr "مراجعة الافكار الاساسية ...حول كيفية استجابة الحيوانات"
+
+msgid ""
+"Your body has a network that works like the network for cell phones. "
+"Messages are sent and received - from phone to phone, and to and from the "
+"body and the brain. A group of sensitive cells somewhere in your body is "
+"stimulated by something from the outside world. These nerve cells respond by "
+"generating a tiny electrical signal which is sent through a series of very "
+"long nerve fibers to the brain. Once in the brain, the signal is "
+"retransmitted and interpreted by the brain's many regions. The sensation may "
+"be related to sight, sound, smell, taste, or touch."
+msgstr ""
+"داخل جسمك شبكة تعمل مثل شبكة الهواتف المحمولة. يتم إرسال الرسائل واستقبالها "
+"- من هاتف إلى آخر، ومن وإلى الجسم والدماغ. مجموعة من الخلايا الحساسة في مكان "
+"ما في جسمك تحفزها شيئا عن العالم الخارجي. هذه الخلايا العصبية تستجيب عن طريق "
+"توليد إشارة كهربائية صغيرة والتي يتم إرسالها من خلال سلسلة من الألياف "
+"العصبية طويلة جدا إلى الدماغ. مرة واحدة في الدماغ، وإعادة إرسال الإشارات "
+"وتفسرها مناطق في محددة في الدماغ. الإحساس قد يكون ذات صلة بالبصر، أو الصوت "
+"أو الرائحة، أو الطعم، أو اللمس .."
+
+msgid ""
+"A <span class='key'>stimulus</span> is any physical or chemical change that "
+"stimulates the nervous system. After the brain makes sense of the stimulus, "
+"it responds. A <span class='key'>response</span> is an organism's reaction "
+"to a stimulus. The brain responds by creating a memory and often sending a "
+"response signal out to the body. The response works similar to the stimulus, "
+"only in reverse. An electrical signal goes out through nerve fibers to "
+"muscles where it sends a chemical message causing muscle cells to contract."
+msgstr ""
+"و <span class='key'>المثير</span>هو أي تغير فيزيائي أو كيميائي يحفز الجهاز "
+"العصبي. بعد ان يعمل الدماغ الاحساس للمحفزات، فإنه يستجيب. و<span "
+"class='key'>الاستجابة</span>  هو رد فعل الكائن الحي إلى المثير. الدماغ "
+"يستجيب عن طريق إنشاء ذاكرة وغالبا ما يرسل إشارة استجابة إلى الجسم.  "
+"الاستجابة تعمل مماثلة للحافز، فقط في الاتجاه المعاكس. تخرج إشارة كهربائية من "
+"خلال الألياف العصبية إلى العضلات حيث ترسل رسالة كيميائية تساعد خلايا العضلات "
+"على الانقباض."
+
+msgid ""
+"The cells that make up the nervous system are called <span "
+"class='key'>neurons</span>. They are organized into networks known as the "
+"central and peripheral nervous systems. The <span class='key'>central "
+"nervous system</span> is the brain and spinal cord. The <span "
+"class='key'>peripheral nervous system</span> is all of the many nerve cells "
+"throughout the body that connect to the spinal cord. The central nervous "
+"system is responsible for interpreting and responding to stimuli. The "
+"peripheral nervous system is responsible for sensing our environment and "
+"stimulating muscles to act when called upon."
+msgstr ""
+"وتسمى الخلايا التي تشكل الجهاز العصبي <span class='key'> الخلايا العصبية </"
+"span>.  وهي منظمة في شبكات تعرف باسم الأجهزة العصبية المركزية والمحيطية.  "
+"<span class='key'> النظام العصبي المركزي </span> هو الدماغ والحبل الشوكي.  "
+"<span class='key'> النظام العصبي المحيطي </span > هو جميع الخلايا العصبية في "
+"جميع أنحاء الجسم التي تتصل الحبل الشوكي.  الجهاز العصبي المركزي هو المسؤول "
+"عن تفسير المؤثرات والاستجابة لها.  أما الجهاز العصبي المحيطي فهو مسؤول عن "
+"استشعار بيئتنا وتحفيز العضلات للعمل عندما تدعو الحاجة لذلك."
+
+msgid ""
+"The cells of the peripheral nervous system are also divided into two groups."
+msgstr "الخلايا في الجهاز العصبي المحيطي تقسم الى مجموعتين"
+
+msgid ""
+"Those cells that interact with the environment to sense taste, touch, smell, "
+"vision, and sound are called <span class='key'>sensory neurons</span>."
+msgstr ""
+"وتسمى تلك الخلايا التي تتفاعل مع البيئة للإحساس بالذوق، وباللمس وبالشم، "
+"وبالرؤية، وبالصوت <span class='key'> النيورونات العصبية الحسية </span>."
+
+msgid ""
+"The neurons that take information from the brain and stimulate responses "
+"throughout the body are called <span class='key'>motor neurons</span>."
+msgstr ""
+"وتسمى النيورونات التي تأخذ المعلومات من الدماغ وتحفز الاستجابات في مختلف "
+"أنحاء الجسم <span class='key'> النيورونات الحركية </span>."
+
+msgid ""
+"The third type of stimuli our nervous system is sensitive to is called <span "
+"class='key'>electromagnetic stimuli</span>."
+msgstr ""
+"النوع الثالث من مثيرات نظامنا العصبي هي حساسة لما يسمى ب <span class='key'> "
+"المثيرات الكهرومغناطيسية </span>."
+
+msgid "Sight"
+msgstr "النظر"
+
+msgid "Smell"
+msgstr "الشم"
+
+msgid "Touch"
+msgstr "اللمس"
+
+msgid "Taste"
+msgstr "التذوق"
+
+msgid "Hearing"
+msgstr "السمع"
+
+msgid "Adjusting microscope lenses.."
+msgstr "ضبط عدسة المجهر"
+
+# 5
+msgid ""
+"Question A. A muscle is stimulated to contract by which of the following?"
+msgstr "سؤال أ . أي من التالية يحفز العضلات على الانقباض ؟"
+
+msgid "Sensory neuron"
+msgstr "النيورون أو (الخلية العصبية) الحسية"
+
+msgid "Motor neuron"
+msgstr "النيورون (الخلية العصبية) الحركية"
+
+msgid "Sensory neurons"
+msgstr "النيورون أو (الخلية العصبية) الحسية"
+
+msgid "Motor neurons"
+msgstr "النيورون (الخلية العصبية) الحركية"
+
+msgid "Digestive system"
+msgstr "الجهاز الهضمي"
+
+msgid "Dermal layer"
+msgstr "طبقة الجلد"
+
+msgid ""
+"Question B. Cells in the eye are considered to be part of which nervous "
+"system?"
+msgstr "السؤال ب . الخلايا في العين تعتبر من اي نوع من انواع الجهاز العصبي ؟"
+
+msgid "The peripheral system because it includes sensory functions."
+msgstr "الجهاز العصبي المحيطي لانها تحتوي على وظائف حسية."
+
+msgid "The central system because it includes sensory functions."
+msgstr "الجهاز المركزي لانه يتضمن وظائف حسية"
+
+msgid "The mechanical nervous system because it includes muscles."
+msgstr "الجهاز العصبي الحركي لانه يتضمن عضلات"
+
+msgid "The skeletal nervous system because eyes contain no bones."
+msgstr "الجهاز العصبي الهيكلي لان العين لا تحوي عظام"
+
+msgid "Close! But sensory neurons aren’t connected to muscles."
+msgstr ""
+"أنت قريب! ولكن الخلايا العصبية الحسية(النيورونات الحسية) ليست متصلة العضلات."
+
+msgid "Correct! Motor neurons send the signal for muscles to contract."
+msgstr "صحيح! الخلايا العصبية الحركية ترسل إشارة للعضلات لكي تنقبض."
+
+msgid "Sorry. The digestive system has muscles, but doesn’t stimulate them."
+msgstr "آسف. الجهاز الهضمي لديه عضلات، ولكن لا يتم تحفيز هما."
+
+msgid "Nope. The dermal layer is part of the skin."
+msgstr "لا . فطبقة الجلد هي جزء من الجلد"
+
+msgid "Right! Sensory organs belong to the peripheral nervous system."
+msgstr "احسنت ! فاعضاء الاحساس ذات علاقة بالجهاز العصبي المحيطي"
+
+msgid "Sorry. The central nervous system has no sensory cells."
+msgstr "عذرا . فالجهاز العصبي المركزي لا يمتلك خلايا حسية."
+
+msgid "Nope. There is no mechanical nervous system."
+msgstr "لا . ليس هناك جهاز عصبي حركي."
+
+msgid "Incorrect. We don’t have a skeletal nervous system."
+msgstr "غير صحيحة. ليس لدينا جهاز عصبي عظمي"
+
+msgid "Preparing your first quick check!"
+msgstr "التحضير لاول تقويم سريع!"
+
+# 6
+msgid "The nervous system is sensitive to three different types of stimuli."
+msgstr "الجهاز العصبي حساس لثلاثة انواع من المثيرات."
+
+msgid ""
+"<span class='key'>Mechanical stimuli</span> include anything that causes a "
+"sensation of touch, pain, sound, or temperature."
+msgstr ""
+"<span class='key'>المثيرات الميكانيكية</span> تشتمل أي شيء يتسبب في اللمس، "
+"أو الألم، أو الصوت، أو الحرارة."
+
+msgid ""
+"<span class='key'>Chemical stimuli</span> are molecules in our environment "
+"that make us sense taste or smell."
+msgstr ""
+"<span class='key'>المثيرات الكيميائية</span>  هي جزيئات في بيئتنا تجعلنا نحس "
+"التذوق أو الشم."
+
+msgid ""
+"The third type of stimuli our nervous system is sensitive to is <span "
+"class='key'>electromagnetic stimulus</span>."
+msgstr ""
+"النوع الثالث من المثيرات لجهازنا العصبي هي <span class='key'>المثيرات "
+"الكهرومغناطيسية</span>. "
+
+msgid ""
+"Our eyes are able to perceive part of the electromagnetic spectrum, that "
+"portion we call <span class='key'>visible light</span>."
+msgstr ""
+"عيوننا قادرة  على إدراك جزء من الطيف الكهرومغناطيسي، وهذا الجزء نسميه <span "
+"class='key'> الضوء المرئي </span>."
+
+msgid ""
+"Neurons sensitive to touch, pain, and temperature are located over most "
+"parts of our bodies, but some are concentrated in certain structures. A "
+"<span class='key'>receptor</span> is a nerve cell that is sensitive to "
+"chemical stimuli based on shape."
+msgstr ""
+"تقع الخلايا العصبية الحساسة للمس، وللألم، وللحرارة على معظم الأجزاء من "
+"أجسادنا، ولكن تتركز في بعض تركيبات معينة.  <span class='key'>المستقبل</span> "
+"هي الخلايا العصبية التي تعتبر حساسة للمثيرات الكيميائية على أساس الشكل."
+
+msgid ""
+"Temperature receptors are concentrated in the head, while touch receptors "
+"are concentrated in the fingers. Few touch receptors are found in the back, "
+"while pain receptors are distributed fairly evenly throughout the body."
+msgstr ""
+"تتركز مستقبلات الحرارة في الرأس، بينما تتركز مستقبلات اللمس في الأصابع. تم "
+"العثور على عدد قليل من مستقبلات اللمس في الظهر، في حين توزع بالتساوي إلى حد "
+"ما مستقبلات الألم في جميع أنحاء الجسم."
+
+msgid ""
+"Our ears are sensitive to disturbances in the air, water, or solid surfaces "
+"around us."
+msgstr ""
+"لدينا آذان حساسة إلى الاضطرابات في الهواء، والماء، أو السطوح الصلبة من حولنا."
+
+msgid ""
+"Sound is the result of vibrations set up in a substance that are transmitted "
+"from one point to another."
+msgstr ""
+"الصوت هو نتيجة للاهتزازات التي تحدث في المادة و التي تنتشر من نقطة الى اخرى"
+
+msgid ""
+"These vibrations are picked up by our eardrums and then transmitted through "
+"three very small bones and into the fluids of a structure called the cochlea."
+msgstr ""
+"الاهتزازات تلتقط من قبل غشاء الطبلة لدينا و تنتقل عبر ثلاث عظيمات صغيرة جدا "
+"الى سائل يدعى سائل القوقعة "
+
+msgid ""
+"Special touch receptors here transmit the pattern of vibration to the brain "
+"as an electrical signal."
+msgstr ""
+"مستقبلات الاحساس الخاصة تنقل نمط الاهتزاز الى الدماغ على شكل نبضة كهربائية"
+
+msgid "The brain interprets the pattern as sound."
+msgstr "الدماغ يفسر النبضة الى صوت"
+
+msgid ""
+"Smell and taste are both the result of chemical stimulation. The "
+"characteristics of molecules in nature are largely determined by their "
+"shapes."
+msgstr ""
+"الشم والذوق على حد سواء هي نتيجة التحفيز الكيميائي. ويتم تحديد خصائص "
+"الجزيئات في الطبيعة إلى حد كبير من أشكالها."
+
+msgid ""
+"Humans perceive taste thanks to structures on our tongues called <span "
+"class='key'>taste buds</span>."
+msgstr "يدرك البشر الذوق بفضل تركيبات على اللسان تسمى براعم التذوق."
+
+msgid ""
+"Between 2000 and 5000 taste buds are located on a typical person’s tongue. "
+"Each taste bud has 50 - 100 taste receptor cells."
+msgstr ""
+"بين 2000 و 5000 برعم تذوق موجودة على لسان الشخص العادي.  كل برعم تذوق به "
+"50-100 خلية مستقبلة للتذوق."
+
+msgid ""
+"A taste bud is stimulated when molecules fit correctly into open spaces on "
+"the receptor cells."
+msgstr ""
+"تتحفز براعم التذوق عندما تُملأ الجزيئات بشكل صحيح في الفراغات المفتوحة "
+"للخلايا المستقبلة"
+
+msgid ""
+"There are five different sorts of taste: sweet, sour, bitter, salty, and "
+"umami. Most people can associate sweet, sour, bitter, and salty with some "
+"familiar food. Umami, the least well-known, is a flavor associated with "
+"various meats and Asian foods."
+msgstr ""
+"وهناك خمسة أنواع مختلفة من المذاق: الحلو والحامض والمر والمالح، واللاذع. "
+"معظم الناس قادرين على التواصل الحلو والحامض والمر والمالح ومع بعض المواد "
+"الغذائية المألوفة. واللاذعة : هي نكهة معروفة و مرتبطة مع مختلف اللحوم "
+"والأطعمة الآسيوية."
+
+msgid ""
+"Smell receptors work in a similar manner but are concentrated in the nose "
+"and work for molecules suspended in the air."
+msgstr ""
+"مستقبلات الرائحة تعمل بطريقة مشابهة لكنها مركزة في الأنف وتعمل مع الجزيئات "
+"المعلقة في الهواء."
+
+msgid ""
+"Much of what we understand as flavor is actually a combination of taste and "
+"smell combined and interpreted by the brain together."
+msgstr ""
+"بكثير مما نفهمه مثل النكهة هي في الواقع مزيج من الطعم والرائحة مجتمعة "
+"ويفسرها الدماغ معا."
+
+msgid "Mechanical and chemical stimuli"
+msgstr "مثيرات كيميائية و حركية"
+
+# 7
+msgid "Question A. Why do different types of food have different flavors?"
+msgstr "سؤال أ : لماذا نجد  ان الاطعمة المختلفة لها نكهات مختلفة؟"
+
+msgid "All kinds of food are made of molecules with the same shape."
+msgstr "كل انواع الغذاء مصنوعة من جزيئات لها نفس الشكل"
+
+msgid "Food molecules come in many different shapes."
+msgstr "جزيئات الغذاء تاتي بمختلف الاشكال"
+
+msgid "Spicy food often has a strong aroma."
+msgstr "الطعام الحار في كثير من الأحيان له رائحة قوية."
+
+msgid "The electromagnetic spectrum contains all known colors."
+msgstr "امواج الطيف الكهرومغناطيسي تحوي كل الالوان المعروفة"
+
+msgid ""
+"Question B. Why are dogs able to distinguish many more smells than people?"
+msgstr ""
+"السؤال ب. لماذا تستطيع الكلاب تمييز روائح كثيرة ومتعددة أكثر مما يستطيع "
+"الإنسان تمييزه؟"
+
+msgid "Dogs have many fewer smell receptors than people."
+msgstr "للكلاب مستقبلات رائحة أقل بكثير من الناس."
+
+msgid "People have many more smell receptors than dogs."
+msgstr "لدى الناس مستقبلات شم اكثر من الكلاب"
+
+msgid "Dogs have many more smell receptors than people."
+msgstr "لدى الكلاب مستقبلات شم اكثر من الناس."
+
+msgid "Dogs and people have about the same number of smell receptors."
+msgstr "لدى الكلاب و الناس نفس عدد مستقبلات الشم تقريبا ."
+
+msgid ""
+"No. If all food molecules were the same shape, they would all taste the same."
+msgstr "لا. اذا كانت كل جزيئات الطعام لها نفس الشكل، فلا بد ان طعمها متماثل"
+
+msgid "That’s right! Each molecule shape stimulates receptors differently."
+msgstr "هذا صحيح ! كل أشكال المحفزات تستقبل بشكل مختلف"
+
+msgid "While this is often true, it doesn’t directly cause taste differences."
+msgstr "بينما يكون هذا احيانا صحيحا ، فلا يتسبب بشكل مباشر إختلاف الطعم."
+
+msgid "Um... No... We don’t taste colors."
+msgstr "ام... لا.. نحن لا نتذوق الالوان"
+
+msgid "Nope. This would make dogs less sensitive than people."
+msgstr "كلا. وهذا من شأنه جعل الكلاب أقل حساسية من الناس."
+
+msgid "Sorry. This would make people more sensitive than dogs."
+msgstr "اسف ، هذه يجب أن تجعل الناس أكثر حساسية من الكلاب"
+
+msgid "Right! Dogs have many more smell receptors."
+msgstr "صحيح ! لدى الكلاب العديد من مستقبلات الشم."
+
+msgid "Incorrect. We would be about equally sensitive."
+msgstr "غير صحيح . نحن تقريبا متساوين بالحساسية. "
+
+msgid "Slurps and sniffs"
+msgstr "المشروبات و المستنشقات"
+
+# 8
+msgid ""
+"In the movies, Superman had X-ray vision... Crazy? Maybe not as much as it "
+"sounds..."
+msgstr ""
+"في الأفلام، يستطيع سوبرمان رؤية الأشعة السينية ... مجنون؟ ربما ليس كثيرا كما "
+"يبدو ..."
+
+msgid ""
+"X-rays are a part of the electromagnetic spectrum, a wide range of energy "
+"that is emitted by stars, and by many everyday things we take for granted. "
+"Cell phones communicate using radio, a form of electromagnetic radiation. "
+msgstr ""
+"الأشعة السينية هي جزء من الطيف الكهرومغناطيسي، ومجموعة واسعة من الطاقة التي "
+"تنبعث من النجوم، وكثير من الأشياء اليومية التي نتخذها أمرا مفروغا منه. "
+"التواصل بالهواتف المحمولة يستخدم الراديو، هو شكل من أشكال الإشعاع "
+"الكهرومغناطيسي."
+
+msgid ""
+"Television uses another form. We heat our foods using microwaves - yet "
+"another type of electromagnetic radiation. In fact, you are using this "
+"radiation right now as you read this screen. The colors of our visible "
+"spectrum are also a part of the electromagnetic spectrum."
+msgstr ""
+"يَستخدم التلفزيون شكل آخر. نحن نسخن الأطعمة باستخدام موجات الميكرويف - نوع "
+"آخر من الإشعاع الكهرومغناطيسي. في الواقع، كنت تستخدم هذا الإشعاع الآن وأنت "
+"تقرأ هذه الشاشة. ألوان الطيف المرئي لدينا هي أيضا جزء من الطيف "
+"الكهرومغناطيسي."
+
+msgid "Radio waves"
+msgstr "موجات الراديو"
+
+msgid "Microwave"
+msgstr "الميكرويف"
+
+msgid "Infrared"
+msgstr "تحت الحمراء"
+
+msgid "Ultraviolet"
+msgstr "فوق البنفسجية"
+
+msgid "X-Rays"
+msgstr "اشعة اكس"
+
+msgid "Gamma Rays"
+msgstr "اشعة غاما"
+
+msgid "Visible Light"
+msgstr "الضوء المرئي"
+
+msgid ""
+"Our eyes contain four types of light-sensitive sensory neurons. Located in "
+"the <span class='key'>retina</span> (inner surface at the rear of the eye), "
+"they respond to different types of light. <span class='key'>Rods</span> are "
+"neurons that sense brightness. Intense light is perceived as white and dim "
+"light as shades of gray ending in black."
+msgstr ""
+"عيوننا تحتوي على أربعة أنواع من الخلايا العصبية الحسية الحساسة للضوء. تقع في "
+"<span class='key'>الشبكية</span> (السطح الداخلي في الجزء الخلفي من العين)، "
+"إنها تستجيب لأنواع مختلفة من الضوء.  أما <span class='key'> القضبان </span> "
+"فهي الخلايا العصبية التي تستشعر السطوع. ينظر إليه انه بقعة مكثفة من الضوء "
+"الأبيض والقاتم كما لو انها ظلال من الرمادي منتهية بالسواد."
+
+msgid "Hover your mouse on the image to view the different parts of the eye."
+msgstr "مرر الفأرة على الصورة لعرض أجزاء مختلفة من العين."
+
+msgid "Pupil"
+msgstr "بؤبؤ"
+
+msgid "Lens"
+msgstr "عدسات"
+
+msgid "Iris"
+msgstr "قزحية"
+
+msgid ""
+"There are three types of cells called <span class='key'>cones</span>. Each "
+"is sensitive to one of three colors: blue, red, and green. The color image "
+"we see in our minds is the product of an amazingly complex set of "
+"information about the intensities of all different kinds of light entering "
+"our eyes."
+msgstr ""
+"هناك ثلاثة أنواع من الخلايا تسمى <span class='key'>مخاريط </span>.  كل واحد "
+"حساس لواحد من الألوان الثلاثة: الأزرق، والأحمر، والإخضر.  صورة اللون التي "
+"نراها في عقولنا هي نتاج لمجموعة معقدة بشكلٍ مذهل من المعلومات عن شدة جميع "
+"أنواع الضوء التي تدخل عيوننا."
+
+msgid ""
+"Light enters the eye through the pupil. When light is very intense, the iris "
+"responds by expanding, narrowing the pupil opening. This allows less light "
+"to enter the eye, protecting its sensitive sensory neurons."
+msgstr ""
+"يدخل الضوء إلى العين من خلال البؤبؤ. عندما تكون شدة الضوء قوية جدا، وتستجيب "
+"القزحية من خلال توسيع وتضييق فتحة البؤبؤ. وهذا يسمح لأقل ضوء لدخول العين، "
+"ويحمي الخلايا العصبية الحسية الحساسة."
+
+msgid ""
+"The lens focuses a light image on the retina, where rods and cones are "
+"located. Because light passing through a lens is inverted, the image on our "
+"retinas appears to be upside down and backwards."
+msgstr ""
+"العدسة تركز صورة الضوء على شبكية العين، حيث يوجد قضبان ومخاريط..  و بسبب "
+"مرور الضوء من خلال عدسة تكون مقلوبة، تظهر  الصورة على شبكية العين لدينا رأسا "
+"على عقب وإلى الوراء."
+
+msgid ""
+"Our brains are able to take this information, along with all of the color "
+"information, and create an image that makes sense with our surroundings."
+msgstr ""
+"دماغنا يستطيع اخذ هذه المعلومات, مع كل الوان المعلومات و يشكل صورة تشعرنا "
+"بما يحيط حولنا"
+
+msgid ""
+"The ability to see a clear image depends on having the proper distance "
+"between the lens and retina. This distance is called the focal length. A "
+"person whose eye diameter isn't quite as long as normal sees a fuzzy image "
+"because the focal length is too long. He is said to be farsighted."
+msgstr ""
+"القدرة على رؤية صورة نقية تعتمد على امتلاك مسافة كافية بين العدسة و "
+"الشبكية ، هذه المسافة تدعى البعد البؤري .الاشخاص الذين تكون المسافة لديهم "
+"غير مناسبة يرون صورة مشوشة لان البعد البؤري لديهم اكبر ، و هذا يسمى بُعد "
+"النظر."
+
+msgid ""
+"A person whose eye diameter is longer than normal sees a fuzzy image because "
+"the focal length is too short. She is said to be nearsighted. Both of these "
+"conditions are treated with glasses or lenses outside the body, which "
+"correct the focal lengths to form images properly on the retina."
+msgstr ""
+"الشخص الذي له قُطر عين أطول من الطبيعي يرى صورة غير واضحة لأن الطول البؤري "
+"قصير جداً.  ويطلق على مثل هذا الشخص بأنه قصير النظر.  وفي الحالتين تعالج هذه "
+"الظروف بالنظارات أو العدسات خارج الجسم، والذي يصحح الأطوال البؤرية كي تتشكل "
+"صور صحيحة على الشبكية."
+
+msgid "Loading x-ray vision..."
+msgstr "تحميل رؤية أشعة أكس"
+
+# 9
+msgid "Select the statement below to choose answer."
+msgstr "اختر العبارة في الاسفل لاختيار الاجابة"
+
+msgid ""
+"Question A. Which of the following statements is <span class='blink'>NOT</"
+"span> correct about how our eyes sense our surroundings."
+msgstr ""
+"سؤال أ. أي من العبارات التالية <span class='blink'> ليست</span> صحيحة حول "
+"كيف تستشعر اعيننا المحيط حولنا."
+
+msgid "Visible light is part of the electromagnetic spectrum."
+msgstr "الضوء المرئي جزء من الطيف الكهرومغناطيسي"
+
+msgid "Light enters the eye through the pupil."
+msgstr "الضوء يدخل الى العين خلال البؤبؤ"
+
+msgid "Our eyes have rods to sense color and cones to sense intensity."
+msgstr "لأعيننا قضبانا لتحس الالوان و مخاريط لتحس الشدة."
+
+msgid "Our eyes have cones to sense color and rods to sense intensity."
+msgstr "لأعيننا مخاريط تحس الالوان و قضبانا تحس الشدة."
+
+msgid ""
+"Question B. Among people who wear glasses, people who are farsighted have "
+"very different lens shapes than people who are nearsighted. Which statement "
+"best accounts for this difference?"
+msgstr ""
+"سؤال ب. من بين الناس الذين يلبسون النظارات ، هناك فرق بين شكل العدسات التي "
+"يضعها الاشخاص المصابون بطول النظر والتي يضعها المصابون بقصر النظر. ما هي "
+"العبارة التي تعالج بشكل أفضل هذا الفرق؟"
+
+msgid "Farsighted people have eye diameters shorter than nearsighted people."
+msgstr ""
+"الناس الذين عندهم طول نظر  يكون لديهم نصف القطر اقصر من الناس الذين لديهم "
+"قصر نظر."
+
+msgid "Farsighted people have eye diameters longer than nearsighted people."
+msgstr ""
+"الناس الذين عندهم طول نظر  يكون لديهم نصف القطر اكبر من الناس الذين لديهم "
+"قصر نظر."
+
+msgid "Farsighted people have fewer rods than nearsighted people."
+msgstr ""
+"الناس الذين عندهم طول نظر  يكون لديهم قضبان اقل من الناس الذين لديهم قصر نظر."
+
+msgid "Farsighted people have more rods than nearsighted people."
+msgstr ""
+"الناس الذين عندهم طول نظر  يكون لديهم قضبان اكثر  من الناس الذين لديهم قصر "
+"نظر."
+
+msgid "This one is correct. Light is part of the electromagnetic spectrum."
+msgstr "هذا الاختيار صحيح ، الضوء جزء من الطيف الكهرومغناطيسي"
+
+msgid "Try again. Light does enter the eye through the pupil."
+msgstr "حاول مجددا ،الضوء لا يدخل الى العين خلال البؤبؤ"
+
+msgid "Correct. Rods sense intensity and cones sense color."
+msgstr "صحيح، القضبان تحس الشدة و المخاريط تحس اللون."
+
+msgid "No... This is correct. Cones sense color and rods sense intensity."
+msgstr "لا ... هذا صحيح.  المخاريط تحس اللون والعيدان تحس شدة الضوء."
+
+msgid ""
+"You got it! This causes the image to be not properly focused on the retina."
+msgstr "انت حصلت عليه! هذا يتسبب في صورة لا تتركز بشكل صحيح على شبكية العين."
+
+msgid "Nope. People with longer eye diameters are nearsighted."
+msgstr "كلا، الاشخاص الذين لديهم نصف قطر اكبر لديهم قصر نظر"
+
+msgid ""
+"Sorry. Both nearsighted and farsighted people have about the same numbers of "
+"rods."
+msgstr ""
+"اسف ، كلاً من الاشخاص الذين لديهم طول و قصر نظر لديهم نفس العدد من القضبان."
+
+msgid ""
+"Incorrect. Both nearsighted and farsighted people have about the same "
+"numbers of rods."
+msgstr ""
+"غير صحيح ، كلاً من الاشخاص الذين لديهم طول و قصر نظر لديهم نفس العدد من "
+"القضبان"
+
+msgid "Glasses are for eyes"
+msgstr "النظارات للعيون"
+
+# 10
+msgid ""
+"Memories are the stuff of poems and song. They shape our relationships with "
+"other people and the world around us. They can bring on strong feelings; "
+"make us remember tiny details; or they can be hard to hold on to. We form "
+"new memories all the time, and, sometimes, like on test days, we are "
+"challenged to repeat them to solve problems."
+msgstr ""
+"الذكريات هي  القصائد والأغاني. إنها تُشَكِل علاقاتنا مع الآخرين والعالم من "
+"حولنا.  ويمكن أن تجلب  مشاعر قوية؛ تجعلنا نتذكر التفاصيل الصغيرة؛ أو أنها "
+"يمكن أن يكون من الصعب التمسك بها.  نحن نشكل ذكريات جديدة في كل وقت، وأحيانا، "
+"مثل في أيام الاختبار، نحن أمام تحديات لتكرارها لحل المشاكل."
+
+msgid ""
+"But what is a memory, anyway? A useful way to think of a memory is to think "
+"of a pattern."
+msgstr ""
+"ولكن ما هي الذاكرة ؟ على اي حال ، الطريق المستخدمة للتفكير في الذاكرة هي "
+"التفكير في وجود نمط او نموذج"
+
+msgid ""
+"The words printed on a page are a pattern that we recognize as information."
+msgstr "الكلمات التي تُطبَع على صفحة هي نمط لما سجلناه كمعلومات"
+
+msgid ""
+"A video image is actually a pattern of tiny dots on a screen that we "
+"recognize as a picture."
+msgstr ""
+"صورة الفيديو هي في الواقع نمط من نقاط صغيرة على الشاشة التي نسجلها كصورة."
+
+msgid ""
+"A compact disc (CD) or digital video disc (DVD) stores information as a "
+"series of tiny pits that cause light to reflect in a pattern computers can "
+"recognize."
+msgstr ""
+"يخزن القرص المدمج أو قرص الفيديو الرقمي المعلومات كسلسلة من الأجزاء الصغيرة "
+"التي تجعل الضوء ينعكس في نمط حواسيب يمكن ملاحظتها."
+
+msgid ""
+"In our brains, <span class='key'>memories</span> are patterns of connections "
+"between neurons."
+msgstr ""
+"في أدمغتنا، <span class='key'>الذكريات</span> هي أنماط من الوصلات بين "
+"الخلايا العصبية."
+
+msgid ""
+"These memory patterns form when cells communicate with one another. One "
+"nerve cell sends a message to another by releasing chemicals into the space "
+"between. This space is called the <span class='key'>synapse</span>. Whenever "
+"a cell communicates with another cell, their next interaction becomes "
+"quicker and easier. When this communication happens a few times, a temporary "
+"pattern is formed. We call this a <span class='key'>short-term memory</"
+"span>. When the communication happens many times, the pattern lasts a very "
+"long time. This is a <span class='key'>long-term memory</span>."
+msgstr ""
+"تشكل أنماط الذاكرة عندما تتواصل الخلايا مع بعضها.  خلية عصبية واحدة ترسل "
+"رسالة لأخرى بإطلاق الكيماويات في الفضاء الموجود بينها.  هذا الفضاء يسمى "
+"<span class='key'>العقد الدماغية </span>.  حيثما تتواصل خلية مع خلية أخرى، "
+"يكون تواصلهم التالي أسرع وأسهل.  وعندما يحدث هذا التواصل لعدة مرات، يتشكل "
+"نمط مؤقت.  نسمى هذا<span class='key'> ذاكرة قصيرة الأمد </span>.  عندما يحدث "
+"التواصل لمرات متعددة، يبقى النمط لوقت طويل جداً.  هذا ما يسمى <span "
+"class='key'> الذاكرة طويلة الأمد </span>. "
+
+msgid ""
+"So, how do you improve your own memory? Certainly, some people are just "
+"better able to remember details than others, but everyone can learn a few "
+"skills to improve their own memories. Bookstores have entire sections on "
+"memory improvement, and a quick Internet search brings up thousands of hits. "
+"Here are just a few simple tools:"
+msgstr ""
+"لذا، كيف يمكنك تحسين الذاكرة الخاصة بك؟ بالتأكيد، بعض الناس هي أفضل فقط "
+"بالقدرة على تذكر التفاصيل من غيرها، ولكن اي واحد يمكن ان يتعلم بعض المهارات "
+"اللازمة لتحسين ذاكرته. المكتبات لديها أقسام كاملة لتحسين الذاكرة، والبحث "
+"السريع في شبكة الإنترنت لإحضار الآلاف منها. هنا فقط عدد قليل من أدوات بسيطة:"
+
+msgid ""
+"<span class='key'>Chunking</span>: Avoid memorizing lists and random facts, "
+"and find ways to group them together. For example, when you try to remember "
+"a grocery list think of the dairy items together, the fruits together, the "
+"vegetables together, and so on."
+msgstr ""
+"<span class='key'>التجميع </span>تجنب حفظ و تذكر القوائم والحقائق العشوائي، "
+"وإيجاد سبل لتجميعها معا. على سبيل المثال، عند محاولة تذكر قائمة البقالة "
+"التفكير في منتجات الألبان معا، والفواكه معا، والخضار معا، و هكذا."
+
+msgid ""
+"<span class='key'>Imagery</span>: In your mind, think of the things you need "
+"to remember as being in places. Try to 'see' the dairy aisle in your mind. "
+"Try to visualize the produce section and remember where different fruits and "
+"vegetables are located."
+msgstr ""
+"<span class='key'> التصور </span>: في عقلك، فكر في الأشياء التي تحتاج إلى "
+"تذكرها مثل البدء في الاماكن. حاول 'رؤية ممر الالبان في عقلك.  في محاولة "
+"لتصور قسم المنتجات وتذكر مكان الفواكه والخضروات المختلفة."
+
+msgid ""
+"<span class='key'>Practice</span>: Repeat the chunked or imagined "
+"information over and over. Flash cards are handy. Make a set and use them. "
+"Explain the information to a parent or friend. Practice, and practice "
+"frequently."
+msgstr ""
+"<span class='key'> الممارسة </span>: كرر المعلومات المقسمة أو المتصورة مرارا "
+"وتكرارا. بطاقات فلاش هي في متناول الأيدي. اجعلها في مجموعة ثم استخدمها.  "
+"اشرح المعلومات لأحد الوالدين أو الأصدقاء. مارس ، ومارس بشكل مستمر."
+
+msgid ""
+"These tools, and many others, work by strengthening the connections between "
+"cells in the brain. The more often the memory pattern is exercised, the "
+"stronger it becomes, and the easier it is to use later."
+msgstr ""
+"هذه الأدوات، وكثير غيرها، تعمل من خلال تعزيز الاتصالات بين الخلايا في "
+"الدماغ.  في كثير من الأحيان يمارس نمط الذاكرة، ويصبح أقوى، والأسهل هو "
+"لاستخدامها لاحقا."
+
+msgid "Digging through the mind palace..."
+msgstr "حفر خلال قَصر العقل..."
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين "
+
+# 11
+msgid "Question A. A memory may best be thought of as..."
+msgstr "  سؤال أ.أ يعتقد السؤال أن الذاكرة قد تكون افضل"
+
+msgid "An isolated random event."
+msgstr "احداث عشوائية معزولة"
+
+msgid "A pattern of connections between brain cells."
+msgstr "نمط من الوصلات بين خلايا العقل"
+
+msgid "A list of unrelated facts."
+msgstr "قائمة من الحقائق غير المرتبطة"
+
+msgid "The result of a frightening experience."
+msgstr "نتيجة لتجربة مخيفة"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>not</span> a good "
+"study technique to memorize a set of facts."
+msgstr ""
+" سؤال ب. أي مما يلي <span class='blink'>ليست</span> تقنية جيدة لحفظ مجموعة "
+"من الحقائق."
+
+msgid "Chunking"
+msgstr "التجميع"
+
+msgid "Imagery"
+msgstr "التصور"
+
+msgid "Practice"
+msgstr "الممارسة"
+
+msgid "Cramming"
+msgstr "الانتقاء"
+
+msgid "We hope not. Isolated events are hard to remember."
+msgstr "نحن نأمل غير ذلك.  الأحداث المعزولة صعبة التذكر"
+
+msgid "Correct. A memory is a pattern of cellular connections."
+msgstr "صحيح ، الذاكرة هي نمط من التشابكات الخلوية. "
+
+msgid "No... Lists of unrelated facts aren’t very useful."
+msgstr "لا... قوائم من الحقائق غير المرتبطة ليست مفيدة"
+
+msgid "That may result in one type of memory, but not always a useful one."
+msgstr "هذا يمكن ان ينتج في نوع واحد من الذاكرة، ولكن ليس دائما واحدة مفيدة"
+
+msgid "No. Breaking the material into chunks is a good idea."
+msgstr "لا. تفكيك المادة الى مجموعات هي فكرة جيدة"
+
+msgid "Sorry. Creating a complex mental image is an excellent plan."
+msgstr "عذرا، ايجاد صورة عقلية معقدة هي خطة ممتازة"
+
+msgid "Nope. Practice, practice, practice."
+msgstr "لا، الممارسة، الممارسة، الممارسة"
+
+msgid "There you go. Cramming doesn’t work."
+msgstr "أنت هنا ، الإنتقاء لا يعمل."
+
+msgid "Did you remember?"
+msgstr "هل تتذكر؟"
+
+# 12
+msgid "Using what you know... about how animals respond... to solve a problem"
+msgstr "مستخدما ما تعرفه... حول كيف تستجيب الحيوانات.. لحل المشكلة"
+
+msgid "The Situation"
+msgstr "الموقف"
+
+msgid ""
+"Sensory receptors are located all over our bodies. We know that our visual "
+"receptors are located in our eyes, hearing in our ears, and taste on our "
+"tongues. What about the sensation of touch? We sense touch through pressure "
+"sensors. The more pressure sensors that are in an area, the more sensitive "
+"that area is to touch. The relative number of pressure sensors in an area "
+"can be determined by how close two touches can come together and feel like "
+"one touch. The closer two touches can come together and feel like two "
+"touches, the more pressure sensors there are in that area."
+msgstr ""
+"وتقع المستقبلات الحسية في جميع أنحاء أجسادنا. ونحن نعلم أن المستقبلات "
+"البصرية لدينا تقع في أعيننا، والسمع في آذاننا، والذوق على السنتنا. ماذا عن "
+"الإحساس باللمس؟ نشعر باللمس من خلال أجهزة استشعار الضغط. الكثير من اجهزة "
+"تحسس الضغط التي توجد في المنطقة، وأكثر حساسية هذه المنطقة هو للمس. نسبة "
+"اعداد حساسات الضغط في المنطقة يمكن ان يحدد كيف ان لمستين تتحدان مع بعضها "
+"وتشعرك كانها لمسة واحدة ( كأن تكون باصبعين معا ). كلما اقتربت اللمسات فانها "
+"يمكن أن تأتي معا وأشعر بأنها اثنين من اللمسات، ومستشعرات الضغط توجد اكثر في "
+"تلك المنطقة."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"Design a study to map the concentration of pressure points at various "
+"locations on the body (e.g., different fingertips, palm, back of hand, "
+"different toes, bottom of foot, back of neck, etc.). Describe your study and "
+"report your data in a table that lists the areas studied from the most "
+"sensitive to touch to least sensitive to touch."
+msgstr ""
+"صمم دراسة لمتابعة تركيز نقاط الضغط في مواقع مختلفة على الجسم (مثلاً، رؤوس "
+"الأصابع المختلفة، راحة اليد، ظهر اليد، رؤوس أصابع الرجل، أسفل القدم، خلف "
+"الرقبة، وغيرها).  أوصف دراستك وسجل بياناتك في جدول تبين فيه المواقع المدروسة "
+"مجدولة من الأكثر حساسية للمس إلى الأقل حساسية للمس."
+
+msgid "Please type your answer here..."
+msgstr "من فضلك اكتب اجابتك هنا .."
+
+msgid "Please type your answer."
+msgstr "يرجي كتابة اجابتك"
+
+msgid "Pressure sensors"
+msgstr "مستشعرات الضغط"
+
+# 13
+msgid "Summarizing core ideas... about how animals respond"
+msgstr "ملخص اهم الافكار ... حول كيف تستجيب الحيوانات"
+
+msgid ""
+"<span class='key'>Neurons</span> (<span class='key'>nervous system cells</"
+"span>) are organized into networks known as the <span class='key'>central</"
+"span> and <span class='key'>peripheral</span> nervous systems. The central "
+"nervous system is the brain and spinal cord. The peripheral nervous system "
+"is all of the many nerve cells throughout the body that connect to the "
+"spinal cord. The cells of the peripheral nervous system are divided into "
+"<span class='key'>sensory</span> and <span class='key'>motor</span> neurons. "
+"The nervous system is sensitive to three different types of <span "
+"class='key'>stimuli</span>: <span class='key'>mechanical</span>, <span "
+"class='key'>chemical</span>, and <span class='key'>electromagnetic</span> "
+"stimuli. A <span class='key'>receptor</span> is a nerve cell that is "
+"sensitive to chemical stimuli based on shape. Special touch receptors in the "
+"ear transmit the pattern of vibration to the brain as an electrical signal. "
+"The brain interprets the pattern as sound. Smell and taste are both the "
+"result of chemical stimulation. Humans perceive taste thanks to structures "
+"on our tongues called <span class='key'>taste buds</span>. Smell receptors "
+"work much like taste receptors, but are concentrated in the nose, and work "
+"for molecules suspended in the air. Our eyes contain four types of light-"
+"sensitive sensory neurons. Located in the <span class='key'>retina</span>, "
+"they respond to different types of light. <span class='key'>Rods</span> are "
+"neurons that sense brightness. The ability to see a clear image depends on "
+"having the proper distance between the lens and retina called the focal "
+"length. <span class='key'>Memory</span> patterns form when cells communicate "
+"with one another. One nerve cell sends a message to another by releasing "
+"chemicals into the space between called the <span class='key'>synapse</"
+"span>. When this communication happens a few times, a temporary pattern "
+"known as <span class='key'>short-term memory</span> is formed. <span "
+"class='key'>Chunking</span>, <span class='key'>imagery</span>, and <span "
+"class='key'>practice</span> is how one's memory can be improved. These tools "
+"work by strengthening the connections between cells in the brain."
+msgstr ""
+"<span class='key'>النيورونات</span>  (أو <span class='key'> خلايا الجهاز "
+"العصبي</span> ) مرتبة في شبكات معروفة بالأنظمة العصبية <span "
+"class='key'>المركزية</span> و <span class='key'>الطرفية</span>.  النظام "
+"العصبي المركزي هو الدماغ والحبل الشوكي.  خلايا الجهاز العصبي الطرفي هي جميع "
+"الخلايا العصبية الموجودة في الجسم والتي ترتبط بالحبل الشوكي.  خلايا الجهاز "
+"العصبي الطرفي مقسمة إلى نيورونات <span class='key'>حسية</span> و <span "
+"class='key'>حركية</span>.  الجهاز العصبي حساس لثلاثة أنواع مختلفة من <span "
+"class='key'>المثيرات:</span> <span class='key'>الميكانيكية</span>، و <span "
+"class='key'>الكيميائية</span> ، و <span class='key'>كهرومغناطيسية</span>.  "
+"<span class='key'>المُستَقبِل</span> هو خلية عصبية حساسة للمثيرات الكيميائية "
+"إعتماداً على الشكل.  تبث مستقبلات اللمس الخاصة في الأُذن نمط من الإهتزاز إلى "
+"الدماغ كنبضة كهربائية.  الدماغ يفسر النمط كصوت.  الشم والتذوق هما نتاج "
+"التحفيز الكيميائي.  ويدرك الإنسان الطعم بتركيبات على اللسان تسمى <span "
+"class='key'>براعم التذوق</span>.  ومستقبلات الشم تشبه مستقبلات الطعم ولكنها "
+"مركزة في الأنف، وتعمل للجزيئات الموجودة في الهواء.  تحتوي عيوننا على أربعة "
+"نيورونات حسية حساسة للضوء.  وهي موجودة في <span class='key'>الشبكية</span> "
+"وتستجيب لأنواع الضوء المختلفة.  <span class='key'>القضبان</span> وهي "
+"نيورونات تتحسس سطوع الضوء.  فالقدرة على رؤية الصورة تعتمد على إمتلاك المسافة "
+"المناسبة بين العدسات والشبكية والتي تسمى البعد البؤري.  أنماط <span "
+"class='key'>الذاكرة</span> تتشكل عندما تتواصل الخلايا مع بعضها البعض.  خلية "
+"عصبية واحدة ترسل رسالة لأخرى بإطلاق كيماويات في الحيز الموجود بينهما والمسمى "
+"<span class='key'>الوصلات العصبية</span>.  عندما يحدث هذا التواصل لبضع مرات، "
+"ينتج نمط مؤقت معروف باسم<span class='key'> الذاكرة قصيرة الأمد</span>.  "
+"<span class='key'>التجميع</span> و  <span class='key'>التخيل</span> و <span "
+"class='key'>الممارسة</span> هي الكيفية التي تتحسن بها الذاكرة.  كل هذه "
+"الأدوات تعمل بتقوية الوصلات بين الخلايا في الدماغ."
+
+msgid "Putting it all together..."
+msgstr "وضع كل ذلك مع بعضه"
+
+# 14
+msgid "Reviewing key vocabulary... related to how animals respond"
+msgstr "مراجعة المصطلحات المفتاحية... بالرجوع الى كيف تستجيب الحيوانات"
+
+msgid "Central nervous system"
+msgstr "الجهاز العصبي المركزي"
+
+msgid ""
+"The central nervous system is the brain and spinal cord. The central nervous "
+"system is responsible for interpreting and responding to stimuli."
+msgstr ""
+"الجهاز العصبي المركزي هو الدماغ والحبل الشوكي. الجهاز العصبي المركزي هو "
+"المسؤول عن التفسير والاستجابة للمؤثرات."
+
+msgid "Chemical stimulus"
+msgstr "المثير الكيميائي"
+
+msgid ""
+"Chemical stimuli are molecules in our environment that make us sense taste "
+"or smell."
+msgstr ""
+"المثيرات الكيميائية هي جزيئات في المحيط حولنا تعمل على ان نحس بالطعم او "
+"الرائحة"
+
+msgid "Cone"
+msgstr "مخروط"
+
+msgid ""
+"There are three types of cells in the eye called cones. Each cone is "
+"sensitive to one of three colors: blue, red, and green."
+msgstr ""
+"هناك ثلاثة انواع من الخلايا في العين تدعى المخاريط، كل منها حساس لواحد من "
+"الالوان الثلاث التالية : الازرق، و الاحمر ، و الاخضر"
+
+msgid "Electromagnetic stimulus"
+msgstr "المثير الكهرومغناطيسي"
+
+msgid ""
+"Beside mechanical and chemical stimuli, the third type of stimuli our "
+"nervous system is sensitive to is electromagnetic stimulus, which includes "
+"visible light."
+msgstr ""
+"بجانب المثيرات الميكانيكية والكيميائية، هناك نوع ثالث من المثيرات هو نظامنا "
+"العصبي حساس وهو حساس للمثير الكهرومغناطيسي، والذي يتضمن الضوء المرئي."
+
+msgid "Mechanical Stimulus"
+msgstr "المثير الحركي"
+
+msgid ""
+"Mechanical stimuli include anything that causes a sensation of touch, pain, "
+"sound, or temperature."
+msgstr ""
+"المثيرات الحركية تشمل اي شيء يمكنه ان يسبب الاحساس باللمس، أو بالالم، أو "
+"بالصوت، او الحرارة."
+
+msgid "Memory"
+msgstr "الذاكرة"
+
+msgid ""
+"A useful way to think of a memory is to think of a pattern. The words "
+"printed on a page are a pattern that we recognize as information. A video "
+"image is actually a pattern of tiny dots on a screen that we recognize as a "
+"picture. A compact disc (CD) or digital video disc (DVD) stores information "
+"as a series of tiny pits that cause light to reflect in a pattern computers "
+"can recognize. In our brains, memories are patterns of connections between "
+"neurons."
+msgstr ""
+"طريقة مفيدة للتفكير بالذاكرة هو التفكير في نمط.  الكلمات المطبوعة على الصفحة "
+"هي نمط لاحظناه كمعلومات.  صورة الفيديو هي بالفعل نمط لنفاط صغيرة على شاشة "
+"والتي ندركها كصورة.  القرص المدمج أو قرص القيديو الرقمي يخزن معلومات كسلسلة "
+"من النقط الصغيرة التي تجعل الضوء ينعكس في نمط تفهمه الحواسيب.  في أدمغتنا، "
+"الذكريات هي أنماط من الوصلات بين الخلايا العصبية."
+
+msgid ""
+"The neurons that take information from the brain and stimulate responses "
+"throughout the body are called motor neurons."
+msgstr ""
+"وتسمى الخلايا العصبية التي تأخذ المعلومات من الدماغ وتحفز الاستجابات في "
+"مختلف أنحاء الجسم الخلايا العصبية الحركية."
+
+msgid "Neuron"
+msgstr "النيورون (أو الخلية العصبية)"
+
+msgid "Neurons"
+msgstr "النيورون (أو الخلية العصبية)"
+
+msgid ""
+"Neurons are nerve cells. Neurons respond to a stimulus, send a tiny "
+"electrical signal to the brain, and the signal is interpreted by the brain "
+"as a response is generated."
+msgstr ""
+"النيورونات هي خلايا عصبية.  وهي تستجيب للمثير،و ترسل إشارة كهربائية صغيرة "
+"إلى الدماغ، ويتم تفسير الإشارة بواسطة الدماغ كاستجابة يتم توليدها."
+
+msgid "Receptor"
+msgstr "مُستَقبل"
+
+msgid ""
+"Sensory receptors are located all over our bodies. Different sense receptors "
+"are specialized for particular kinds of information, which may be then "
+"processed and integrated by the brain, with some information stored as "
+"memories. Each sense receptor responds to different inputs (electromagnetic, "
+"mechanical, chemical), transmitting them as signals that travel along nerve "
+"cells to the brain."
+msgstr ""
+"وتقع المستقبلات الحسية في جميع أنحاء أجسادنا. المستقبلات الحسية متخصصة "
+"لأنواع معينة من المعلومات، والتي يمكن بعد ذلك معالجتها ودمجها في الدماغ، مع "
+"بعض المعلومات المخزنة على الذاكرة. كل مستقبلات الحس تستجيب لمدخلات مختلفة "
+"(الكهرومغناطيسية والميكانيكية والكيميائية)،وتحيلها كإشارات تنتقل على طول "
+"الخلايا العصبية إلى الدماغ."
+
+msgid "Retina"
+msgstr "الشبكية"
+
+msgid ""
+"Located in the retina (inner surface at the rear of the eye), they respond "
+"to different types of light."
+msgstr ""
+"موجودة في الشبكية ( المنطقة الموجودة خلف العين ) ، تستجيب لانواع مختلفة من "
+"الضوء"
+
+msgid "Rod"
+msgstr "قضيب"
+
+msgid "Rods"
+msgstr "قضيب"
+
+msgid "Rods are neurons that sense brightness."
+msgstr "القضبان هي خلايا عصبية تحس بسطوع الإضاءة."
+
+msgid ""
+"Those cells that interact with the environment to sense taste, touch, smell, "
+"vision, and sound are called sensory neurons."
+msgstr ""
+"الخلايا التي تتفاعل مع المحيط لتحس التذوق،و اللمس، و الرؤية، والصوت تدعى "
+"نيورونات حسية."
+
+msgid "Stimulus"
+msgstr "مثير"
+
+msgid ""
+"A stimulus is something that produces a reaction or a change. Light is a "
+"stimulus that can cause the size of the pupil in your eye to change. "
+"Sometimes rewards are used as a stimulus to cause a desired action or "
+"response. For example, your school may reward students for the numbers of "
+"books read during the school year. This reward can act as a stimulus to get "
+"students to read more books."
+msgstr ""
+"المثير هو الشيء الذي يُنتج ردة الفعل أو التغيير. الضوء هو مثير يمكن أن يتسبب "
+"في تغيير حجم البؤبؤ في العين . أحيانا يتم استخدام المكافآت كمثير لإحداث "
+"الإجراء المطلوب أو الاستجابة. على سبيل المثال، مدرستك قد تكافئ الطلاب لعدد "
+"الكتب التي تمت قرائتها خلال العام الدراسي.  هذه المكافأة يمكن أن تكون بمثابة "
+"مثير للحصول على الطلاب الذين يقرأون المزيد من الكتب."
+
+msgid "Synapse"
+msgstr "الوصلة الدماغية"
+
+msgid ""
+"One nerve cell sends a message to another by releasing chemicals into the "
+"space between.  This space is called the synapse."
+msgstr ""
+"ترسل خلية عصبية رسالة الى اخرى بواسطة إطلاق مادة كيماوية خاصة في الفراغ "
+"بينهما. يسمى هذا الفراغ هذا وصلة دماغية."
+
+msgid "Response"
+msgstr "استجابة"
+
+msgid ""
+"A response is generated in the brain after it receives a tiny electrical "
+"signal from the neurons. The response works like the stimulus, only in "
+"reverse."
+msgstr ""
+"يتم إنشاء استجابة في الدماغ بعد أن يتلقى إشارة كهربائية صغيرة من الخلايا "
+"العصبية. تعمل الاستجابة كمثير، فقط في الاتجاه المعاكس."
+
+msgid "Peripheral nervous system"
+msgstr "الجهاز العصبي المحيطي"
+
+msgid ""
+"The peripheral nervous system is all of the many nerve cells throughout the "
+"body that connect to the spinal cord. The peripheral nervous system is "
+"responsible for sensing our environment and stimulating muscles to act when "
+"called upon."
+msgstr ""
+"الجهاز العصبي المحيطي هو مجموعة  من الخلايا العصبية في جميع أنحاء الجسم "
+"وتتصل بالحبل الشوكي. الجهاز العصبي المحيطي هو المسؤول عن استشعار بيئتنا "
+"وتحفيز العضلات للعمل عندما يستدعي الامر ذلك."
+
+msgid "Visible light"
+msgstr "الضوء المرئي"
+
+msgid ""
+"Our eyes are able to perceive part of the electromagnetic spectrum, that "
+"portion we call visible light."
+msgstr ""
+"عيوننا قادرة على ادراك جزء من الطيف المرئي ، وهذا الجزء نسميه الضوء المرئي."
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+# 15
+msgid "Checking what you now know... about how animals respond"
+msgstr "تأكد مما تعرف... عن كيف تستجيب الحيوانات"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما نعرف الآن"
+
+# 16
+msgid ""
+"Choose the <span class='blink'>incorrect</span> statement from the following."
+msgstr "إختار العبارة <span class='blink'>غير الصحيحة</span> مما يلي."
+
+msgid "Cone cells sense light."
+msgstr "الخلايا المخروطية تحس الضوء."
+
+msgid "Animals are not capable of learned behavior."
+msgstr "الحيوانات ليست قادرة على تعلم السلوك."
+
+msgid "The brain is part of the central nervous system."
+msgstr "الدماغ هو جزء من الجهاز العصبي المركزي."
+
+msgid "Chunking is a memorization technique."
+msgstr "التجميع هي تقنية للتذكر."
+
+msgid "Sorry. Cone cells are sensitive to light."
+msgstr "عذرا ، الخلايا المخروطية حساسة للضوء."
+
+msgid "That’s the one... Many animals certainly are able to learn."
+msgstr "هذه واحدة ...العديد من الحيوانات قادرة على التعلم ."
+
+msgid "This one is true. The brain is part of the central nervous system."
+msgstr "هذا الاختيار صحيح ، الدماغ جزء من الجهاز العصبي المركزي"
+
+msgid "Nope. That’s true. Chunking is grouping similar ideas together."
+msgstr "لا. هذا صحيح، التجميع هو جمع الافكار المتشابهة مع بعضها"
+
+msgid "And the first quiz question is..."
+msgstr "و سؤال الاختبار الاول هو ..."
+
+# 17
+msgid ""
+"Which of the following statements correctly explains the relationship "
+"between rod and cone cells?"
+msgstr "اي من التالية يفسر بشكل صحيح العلاقة بين القضبان و الخلايا المخروطية"
+
+msgid "Rods sense black/white; cones sense color."
+msgstr "القضبان تحس الابيض/ الاسود، المخاريط تحس الالوان"
+
+msgid "Rods sense heat; cones sense sound."
+msgstr "القضبات حساسة للحرارة، حساسة للضوء."
+
+msgid "Rods sense color; cones sense smell."
+msgstr "القضبان حساسة للالوان،المخاريط حساسة للشم"
+
+msgid "Rods sense taste; cones sense color."
+msgstr "القضبان حساسة للتذوق، المخاريط حساسة للالوان"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"ادر او اقلب الصندوق للاسفل و للاعلى لوضع اجابتك ، انقر،وثبت ، و حرك الفأرة "
+"لأعلى أو للأسفل."
+
+msgid ""
+"Yes! Rods and cones are sensitive to different parts of the visible light "
+"spectrum."
+msgstr "نعم! العيدان والمخاريط حساسة لأجزاء مختلفة من الطيف الضوئي المرئي."
+
+msgid "Noooo... Rods and cones have to do with vision."
+msgstr "لاااااااا...القضبان و المخاريط تعمل للرؤية"
+
+msgid "Sorry. Both rods and cones are related to color vision."
+msgstr "عذرا، كلاً من المخاريط و القضبان مرتبطة بلون الرؤية."
+
+msgid "Nope. Taste is chemical. Rods and cones are electromagnetic."
+msgstr "كلا، التذوق عملية كيميائية.  القضبان و المخاريط هي كهرومغناطيسية."
+
+msgid "The rod and the cone"
+msgstr "القضبان و المخاريط"
+
+# 18
+msgid ""
+"Sensory neurons respond to chemical stimuli based upon the substance's..."
+msgstr ""
+"الخلايا العصبية الحسية تستجيب للمؤثرات الكيميائية استنادا إلى المادة..."
+
+msgid "Age"
+msgstr "العمر"
+
+msgid "Color"
+msgstr "اللون"
+
+msgid "Shape"
+msgstr "الشكل"
+
+msgid "Loudness"
+msgstr "الصخابة"
+
+msgid "Incorrect. Age isn’t really key."
+msgstr "غير صحيح، العمر ليس مفتاحا حقيقيا"
+
+msgid "Nope. Color is related to electromagnetic stimuli."
+msgstr "كلا. اللون يرجع الى المثيرات الكهرومغناطيسي."
+
+msgid ""
+"That’s it! A molecule stimulates a response when it matches shapes with a "
+"receptor."
+msgstr "هذا كل شيء! يحفز جزيء الاستجابة عندما يطابق الأشكال مع مستقبل."
+
+msgid "Sorry. Loudness is related to sound."
+msgstr "عذرا، الصخابة مرتبطة بالصوت"
+
+msgid "Responding to stimuli..."
+msgstr "الاستجابة للمثيرات..."
+
+# 19
+msgid ""
+"Which of the following is <span class='blink'>true</span> about sensory "
+"neurons."
+msgstr "أي مما يلي <span class='blink'>صحيحاً</span> عن النيورونات الحسية."
+
+msgid "Sensory neurons are part of the central nervous system."
+msgstr "النيورونات الحسية هي جزء من الجهاز العصبي المركزي"
+
+msgid "Sensory neurons contain memories."
+msgstr "النيورونات الحسية تشتمل على الذاكرات."
+
+msgid "Sensory neurons stimulate muscle contraction."
+msgstr "النيورونات الحسية تحفز انقباض العضلات"
+
+msgid "Sensory neurons are part of the peripheral nervous system."
+msgstr "النيورونات الحسية هي جزء من الجهاز العصبي المحيطي"
+
+msgid "Quiz Question #4 - How did I do?"
+msgstr "سؤال قصير رقم 4 - كيف عملت؟"
+
+msgid ""
+"Sorry. The central nervous system includes the brain and spinal cord only."
+msgstr "عذرا، الجهاز العصبي المركزي يحتوي على الدماغ و الحبل الشوكي فقط."
+
+msgid "Nope. Memories reside in the brain."
+msgstr "كلا، الذكريات تكمن في الدماغ"
+
+msgid "Not that one. Motor neurons stimulate muscles."
+msgstr "ليس هو. النيورونات الحركية تحفز العضلات."
+
+msgid "There you go. Sensory neurons belong to the peripheral nervous system."
+msgstr "ها هي. الخلايا العصبية الحسية تنتمي إلى الجهاز العصبي المحيطي."
+
+msgid "Sensory neurons..."
+msgstr "النيورونات الحسية..."
+
+# 20
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "The use of flashcards to study for exams works because..."
+msgstr "استخدام البطاقات التعليمية لدراسة للامتحانات تنجح بسبب..."
+
+msgid "Practice reinforces the connections between neurons involved in memory."
+msgstr "الممارسة تعزز الروابط بين النيورونات المشاركة في الذاكرة."
+
+msgid "Practice weakens the connections between neurons involved in memory."
+msgstr "الممارسة تضعف الروابط بين النيورونات المشاركة في الذاكرة."
+
+msgid "Memories reside in the peripheral nervous system."
+msgstr "الذاكرة توجد في الجهاز العصبي المحيطي"
+
+msgid "Memories reside in sensory neurons related to vision."
+msgstr "الذاكرة توجد في النيورونات الحسية المرتبطة بالرؤية."
+
+msgid "Correct. Practice strengthens the pattern of neurons."
+msgstr "صحيح، الممارسة تقوي نمط النيورونات الحسية "
+
+msgid "Backwards... Practice makes the connections stronger."
+msgstr "إلى الوراء ...الممارسة تجعل الاتصالات أكثر قوة."
+
+msgid "Sorry. Memories aren’t part of the peripheral nervous system."
+msgstr "عذرا. الذاكرة ليست جزءً من الجهاز العصبي المحيطي"
+
+msgid "Ummm... No. Memories reside in the brain."
+msgstr "أممممم ... لا الذاكرة تكمن في الدماغ"
+
+msgid "Flipping flashcards..."
+msgstr "اقلب الكروت التعليمية"
+
+# 21
+msgid ""
+"Stroke victims often suffer damage to the central nervous system. Which of "
+"the conditions is likely to occur in stroke victims?"
+msgstr ""
+"ضحايا السكتة الدماغية غالبا ما يعانون من تلف في الجهاز العصبي المركزي.  أي "
+"من الأوضاع التي من المرجح أن تحدث عند ضحايا السكتة الدماغية؟"
+
+msgid ""
+"Loss of smell because brain cells are no longer able to make sense of smell "
+"information."
+msgstr ""
+"فقدان الشم بسبب أن خلايا الدماغ لم تعد قادرة على عمل معنى من معلومات الشم."
+
+msgid ""
+"Difficulty speaking because the brain is no longer able to send the proper "
+"messages to muscles."
+msgstr ""
+"صعوبة في الكلام وذلك لأن الدماغ لم يعد قادرا على إرسال الرسائل المناسبة إلى "
+"العضلات."
+
+msgid "Memory loss because memories reside in brain tissue."
+msgstr "فقدان الذاكرة لان الذاكرة تقع في نسيج الدماغ"
+
+msgid ""
+"All of the above. All information must pass through the brain. Any brain "
+"damage is very serious."
+msgstr ""
+"كل ما سبق. كل المعلومات يجب ان تمر من خلال الدماغ. أي تلف في الدماغ هو خطير "
+"جدا."
+
+msgid "True... But not the only correct answer."
+msgstr "صحيح...لكن ليس  الاجابة الوحيدة الصحيحة."
+
+msgid "Correct... But there may be more correct choices."
+msgstr "صحيح ... ولكن قد يكون هناك المزيد من الخيارات الصحيحة."
+
+msgid "Yes! But there could be more right answers."
+msgstr "نعم! ولكن يمكن أن يكون هناك إجابات أكثر صحيحة."
+
+msgid "Well done. Any central nervous system damage is a serious condition."
+msgstr "أحسنت. أي خراب في النظام العصبي المركزي يعتبر وضع خطير."
+
+msgid "The central nervous systema"
+msgstr "الجهاز العصبي المركزي"
+
+msgid "The central nervous systems"
+msgstr "الأجهزة العصبية المركزية"
+
+# 22
+msgid "Congratulations, "
+msgstr "تهانينا"
+
+msgid "You've completed the How Animals Respond review."
+msgstr "انت اكملت مراجعة كيف تستجيب الحيوانات"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك التأكد مما فعلت في التلقويم السريع' وفي  'الأسئلة القصيرة' لهذه "
+"المراجعة من خلال النقر على الزر أدناه."
+
+msgid "How did I do?"
+msgstr "كيف كان أداؤك؟"
+
+msgid "You're done!"
+msgstr "لقد انهيت؟"

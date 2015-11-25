@@ -1,0 +1,1112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Food Chain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-06 17:31+0800\n"
+"PO-Revision-Date: 2014-07-31 19:14+0800\n"
+"Last-Translator: Raina\n"
+"Language-Team: Chi-Jui, Yu-Ling <ask@jigzen.com>\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: zh_TW\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zh_CN\n"
+
+msgid "You got"
+msgstr "你答對了"
+
+msgid "out of 6 correct answers! Review your answers below."
+msgstr "題(總題數為6題)！你的回答列在下方，請檢討一下答案喔！"
+
+msgid "out of 5 correct answers! Review your answers below."
+msgstr "題(總題數為5題)！你的回答列在下方，請檢討一下答案喔！"
+
+msgid "out of 7 correct answers! Review your answers below."
+msgstr "題(總題數為7題)！你的回答列在下方，請檢討一下答案喔！"
+
+msgid "out of 4 correct answers! Review your answers below."
+msgstr "題(總題數為4題)！你的回答列在下方，請檢討一下答案喔！"
+
+# 1
+msgid "Hello!"
+msgstr "嗨！"
+
+# 2
+msgid "Food Chains"
+msgstr "食物鏈"
+
+msgid "Thinking..."
+msgstr "想一想..."
+
+msgid "About Where Things Get Their Food"
+msgstr "生物從哪裡得到它們的食物"
+
+msgid ""
+"People all over the world eat several times a day. Food gives us energy! If "
+"people did not eat, they would not be able to walk, dance, play or even stay "
+"alive. Every animal needs energy from food. Where does food come from?"
+msgstr ""
+"人類一天要吃好多餐，那是因為食物能供給我們能量！如果人類不吃東西，將無法走"
+"路、跳舞、遊玩，或存活。每一種動物都需要從食物獲得能量，那食物究竟是從哪裡來"
+"的呢？"
+
+# 3
+msgid "Food Chains - Checking what you already know"
+msgstr "食物鏈- 你知道嗎?"
+
+msgid "Checking what you already know... about food chains"
+msgstr "看看你了解了多少…關於「食物鏈」"
+
+msgid "GRASS"
+msgstr "草"
+
+msgid "SUN"
+msgstr "太陽"
+
+msgid "FOX"
+msgstr "狐狸"
+
+msgid "RABBIT"
+msgstr "兔子"
+
+msgid "rabbit"
+msgstr "兔子"
+
+msgid ""
+"Look at the pictures and words above. In the boxes below, tap <span "
+"class='red bold blink'>ALL</span> the things on the left that depend <span "
+"class='orange bold'>directly or indirectly</span> on the thing on the right."
+msgstr ""
+"上有四張圖片，它們的生存彼此有些關連。下面有四個題目。請點選<span class='red "
+"bold blink'>所有</span> <span class='orange bold'>「直接」或「間接」</span>從"
+"紅色箭頭右邊物種(體)獲得養份的那些圖樣。(小提示：你可以點一下第一題中間的青"
+"草。對！青草依賴著太陽獲得養份的；另外，左邊的兔子需吃青草，所以它也是「間"
+"接」的從太陽獲得養份的喔！)"
+
+msgid ""
+"Which could <span class='red bold'>NOT</span> be removed without affecting "
+"<span class='green bold'>ALL</span> of the remaining things?"
+msgstr ""
+"下列中有一個只要它<span class='red bold'>消失了</span> ，所有的生物就都會被影"
+"響，你知道是哪一個嗎？"
+
+msgid ""
+"All living things are connected to other living things in some way. Rabbits "
+"couldn't live without grass and other plants and foxes couldn't live without "
+"rabbits and other small animals."
+msgstr ""
+"所有生物的生存都是息息相關的！兔子活著，不能沒有草和其它植物；狐狸活著，不能"
+"沒有兔子或其它小動物。"
+
+msgid ""
+"But all living things on Earth depend directly or indirectly on the <span "
+"class='darkbrown bold'>SUN</span>."
+msgstr ""
+"但，所有生活在地球上的生物都直接或間接的依賴<span class='darkbrown bold'>太陽"
+"</span>而生存。"
+
+msgid ""
+"Let's find out more about how living things are connected in this review."
+msgstr "現在，就讓我們一起來了解生物間是如何關聯在一起的。"
+
+# 4
+msgid "Food Chain - Reviewing Core Ideas"
+msgstr "食物鏈 -核心觀念"
+
+msgid "Reviewing core ideas... about food chains"
+msgstr "核心觀念-食物鏈"
+
+msgid ""
+"All living things are connected by energy. As we eat our hamburger, chicken "
+"and fish, it is important to know we would not be able to eat these food if "
+"plants were not around."
+msgstr ""
+"所有的生物都因為「能量」而建立起關聯的。我們常會吃肉和魚；但我們也要知道，如"
+"果沒有「植物」，我們也不會有肉和魚的。"
+
+msgid ""
+"Plants get <span class='red bold'>energy</span> from the <span class='orange "
+"bold'>sun</span> and they pass that energy through the food that many <span "
+"class='green bold'>animals</span> including cows, chicken, and fish eat. "
+"<span class='purple bold'>Humans</span> get some of their energy from eating "
+"plants and animals."
+msgstr ""
+"植物獲得的<span class='red bold'>能量</span>是從<span class='orange bold'>太"
+"陽</span>而來的。植物因為成為<span class='green bold'>動物</span>的食物，而將"
+"能量傳遞給牛、雞和魚等動物。而<span class='purple bold'>人類</span>則吃植物及"
+"動物來獲得能量。"
+
+msgid ""
+"Biologists study how different living things are connected. Living things "
+"like plants, horses, lions, and humans must have energy to carry out the "
+"functions of life."
+msgstr ""
+"生物學家研究不同生物之間是如何關聯的。所有的生物，如：植物、馬、獅子和人類，"
+"它們都需要能量來維持生命功能。"
+
+msgid "Plants get their energy directly from the sun to make their own food."
+msgstr "「植物」直接從太陽獲得能量，來製造自己的食物。"
+
+msgid "They are called <span class='orange bold'>PRODUCERS</span>."
+msgstr "所以，它們被稱為<span class='orange bold'>生產者</span>。"
+
+msgid ""
+"Other living things such as animals cannot use energy directly from the sun."
+msgstr "「動物」等其它的生物，就沒有辦法直接從太陽獲得能量。"
+
+msgid "They must get their energy from other living things."
+msgstr "它們必須從其它的生物來獲得能量。"
+
+msgid "They are called <span class='green bold'>CONSUMERS</span>."
+msgstr "所以，它們就被稱為<span class='green bold'>消費者</span>."
+
+msgid "turtle"
+msgstr "烏龜"
+
+msgid "panda"
+msgstr "熊貓"
+
+msgid "goat"
+msgstr "山羊"
+
+msgid "squirrel"
+msgstr "松鼠"
+
+msgid "koala"
+msgstr "無尾熊"
+
+msgid ""
+"The consumers that live only by eating producers are called <span "
+"class='orange bold'>HERBIVORES</span>. A turtle and a panda are examples of "
+"a herbivore."
+msgstr ""
+"些動物(消費者)以食用植物為生 的，就稱為<span class='orange bold'>草 食性動物"
+"</span>，也就是說，它們 吃生產者。例如， 烏龜、老鼠和貓熊等等，就是草食性動物"
+"(如上圖)。"
+
+msgid "SNAKE"
+msgstr "蛇"
+
+msgid "snake"
+msgstr "蛇"
+
+msgid "heron"
+msgstr "蒼鷺"
+
+msgid "lion"
+msgstr "獅子"
+
+msgid "bird"
+msgstr "鳥"
+
+msgid "crocodile"
+msgstr "鱷魚"
+
+msgid ""
+"Animals that only eat other animals are called <span class='green "
+"bold'>CARNIVORES</span>. A tiger and a shark are examples of a carnivore."
+msgstr ""
+"只吃動物的就被稱為<span class='green bold'>肉食性動物</span>。例如，獅子和鯊"
+"魚等就是肉食性動物(如上圖)。"
+
+msgid "whale"
+msgstr "鯨魚"
+
+msgid "human"
+msgstr "人類"
+
+msgid "bear"
+msgstr "熊"
+
+msgid "raccoon"
+msgstr "浣熊"
+
+msgid "dog"
+msgstr "狗"
+
+msgid ""
+"If something can eat both plants and animals, they are called <span "
+"class='brown bold'>OMNIVORES</span>. Humans are one example of an omnivore."
+msgstr ""
+"有些動物也吃植物也吃動物，它們就被稱為<span class='brown bold'>雜食性動物</"
+"span>。人類就是雜食性動物的其中之一(如上圖)。"
+
+# 5
+msgid "Food Chain - Quick Check #1"
+msgstr "食物鏈 - 小練習 #1"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Answers"
+msgstr "解答"
+
+msgid ""
+"Let's start your first exercise! Drag and drop the items at the left to the "
+"box that fits its proper characteristics at the right. Hover your mouse on "
+"each picture to know what they are."
+msgstr ""
+"開始第一個練習囉！請以拖拉的方式將左邊的項目移至右邊符合它特性的框內。(如將滑"
+"鼠游標停留在圖片上方，會出現它們的名稱)。"
+
+msgid "producer"
+msgstr "生產者"
+
+msgid "consumer"
+msgstr "消費者"
+
+msgid "decomposer"
+msgstr "分解者"
+
+msgid "herbivore"
+msgstr "草食性動物"
+
+msgid "carnivore"
+msgstr "肉食性生物"
+
+msgid "omnivore"
+msgstr "雜食性動物"
+
+msgid "horse"
+msgstr "馬"
+
+msgid "mouse"
+msgstr "鼠"
+
+msgid "tree"
+msgstr "樹"
+
+msgid "polar bear"
+msgstr "北極熊"
+
+# 6
+msgid "Food Chain - More Core Ideas"
+msgstr "食物鏈-更多的核心觀念"
+
+msgid "More core ideas... about food chains"
+msgstr "更多的核心觀念...關於食物鏈"
+
+msgid ""
+"Living things such as mushrooms or molds are known as <span class='green "
+"bold'>DECOMPOSERS</span>."
+msgstr ""
+"生物中還有一類，叫做<span class='green bold'>分解者</span>。蘑菇或是黴菌等(如"
+"下圖)，都是。"
+
+msgid "mushroom"
+msgstr "蘑菇"
+
+msgid "slug"
+msgstr "蛞蝓"
+
+msgid "earthworm"
+msgstr "蚯蚓"
+
+msgid "bacteria"
+msgstr "細菌"
+
+msgid ""
+"When animals hunt other animals, this is known as <span class='orange "
+"bold'>PREDATION</span>."
+msgstr "會獵捕其他動物的，就稱為<span class='orange bold'>掠食者</span>。"
+
+msgid ""
+"The animal being hunted is the <span class='green bold'>PREY</span> and the "
+"hunter is the <span class='red bold'>PREDATOR</span>."
+msgstr "而，被獵食的動物，就稱為<span class='green bold'>獵物</span>。"
+
+msgid ""
+"The connection between different living things is called a <span "
+"class='green bold'>FOOD CHAIN</span>."
+msgstr ""
+"不同生物之間因為相互食物關係而建立起來的連結，就被稱為<span class='green "
+"bold'>食物鏈</span>。下圖中，植物(花)是毛毛蟲的能量來源，也就是說毛毛蟲會吃植"
+"物(花)；請問，你可以看出這些圖像之間的關係嗎？"
+
+msgid "FLOWER"
+msgstr "植物(花)"
+
+msgid "CATERPILLAR"
+msgstr "毛毛蟲"
+
+msgid "FROG"
+msgstr "青蛙"
+
+msgid "RATTLESNAKE"
+msgstr "響尾蛇"
+
+msgid "HAWK"
+msgstr "鷹"
+
+msgid "hawk"
+msgstr "鷹"
+
+msgid ""
+"In this food chain, the flower is the producer. The others are consumers."
+msgstr ""
+"是的，在這個食物鏈中，只有植物(花)是「生產者」，其它這些動物都是「消費者」。"
+
+msgid ""
+"We can label each consumer based on its place in the food chain. For "
+"example..."
+msgstr "為了區分這些消費者，我們就利用它在食物鏈中的位置來辨別，例如…"
+
+# 7
+msgid "Food Chain - Quick Check #2"
+msgstr "食物鏈 - 小練習 #2"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2 "
+
+msgid ""
+"Look at the food chain below. Tap <span class='red bold blink'>ALL</span> "
+"the numbers below each item that corresponds to its characteristics."
+msgstr ""
+"依據下方的食物鏈圖，請判斷各個圖片中的物種是生產者或幾級的消費者？請在各圖片"
+"下方的數字處，點選正確答案。"
+
+msgid "1=primary consumer"
+msgstr "1=初級消費者"
+
+msgid "2=secondary"
+msgstr "2=次級消費者"
+
+msgid "3=tertiary"
+msgstr "3=三級消費者"
+
+msgid "4=quarternary"
+msgstr "4=四級消費者"
+
+msgid "5=producer"
+msgstr "5=生產者"
+
+msgid "GRASSHOPPER"
+msgstr "蚱蜢"
+
+msgid "FISH"
+msgstr "魚"
+
+msgid "EAGLE"
+msgstr "鷹"
+
+# 8
+msgid "Food Webs - More Core Ideas"
+msgstr "食物網-核心觀念"
+
+msgid "Many times this chain does not fit into a neat line."
+msgstr "食物鏈常並不是簡單的直線狀。"
+
+msgid ""
+"<span class='pink'><em>For example:</em></span> a snake is not the only "
+"thing that eats a mouse, and grass gives energy to many insects and small "
+"animals on earth."
+msgstr ""
+"<span class='pink'><em>例如:</em></span>在地球上，蛇並不是吃老鼠的唯一動物，"
+"狐狸、老鷹也都會吃老鼠；草能提供能量給許多的昆蟲和小動物(右圖中，你可以找到這"
+"些關係嗎？)！"
+
+msgid ""
+"When someone wants to show all of these connections among consumers and "
+"producers, they use a <span class='red bold'>food web</span>. A food web "
+"shows how energy moves through the living things in a <span class='green "
+"bold'>habitat</span> - the environment in which the living things live."
+msgstr ""
+"當有人想要將消費者及生產者之間的關連顯示出來，我們便會使用<span class='red "
+"bold'>食物網</span>(如右圖)。一個食物網可顯示，在一個<span class='green "
+"bold'>棲息地(生物生活的環境)</span>中，能量是如何在生物之間移轉的。"
+
+msgid "Example of a Food Web"
+msgstr "一個食物網的例子"
+
+# 9
+msgid "Food Webs - Quick Check #3"
+msgstr "食物網-小練習 #3"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid ""
+"In the food web shown at the left, how many things <span class='orange "
+"bold'>directly or indirectly</span> provide energy for the <span "
+"class='brown purple'>snake</span>?"
+msgstr ""
+"顯示的食物網中，有多少生物<span class='orange bold'>直接或間接地</span> 提供"
+"能量給 <span class='brown purple'>蛇</span>?"
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "翻轉下方的方盒子，以選擇你的答案。"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "點擊、按住並向上或向下移動滑鼠。"
+
+msgid "If you answered..."
+msgstr "如果你的答案是…"
+
+msgid ""
+"Then you are right! Even though the snake does not eat grass, corn or "
+"grasshoppers, the snake eats things that eat them so the snake gets energy "
+"indirectly from these things too!"
+msgstr ""
+"那麼你答對了！儘管蛇不會吃草、玉米或蚱蜢，但蛇吃的動物會吃它們，所以蛇也是間"
+"接從它們獲得的能量的！"
+
+msgid "Answer"
+msgstr "解答"
+
+# 10
+msgid "Food Chain - Using What You Know"
+msgstr "食物鏈-利用你所知道的"
+
+msgid "Using what you know... about food chains... to solve a problem"
+msgstr "活用所學…關於「食物鏈」…解決問題"
+
+msgid "The Background"
+msgstr "你知道嗎？"
+
+msgid ""
+"Nature maintains a balance among the plants and animals that make up the "
+"food chains in an ecosystem."
+msgstr "大自然常維持著一種動植物的「平衡」，這形成生態系統中的食物鏈。"
+
+msgid "For example:"
+msgstr "例如"
+
+msgid ""
+"If the population of a predator gets too large, there will soon not be "
+"enough of its prey left to feed all the predators. So some of the predators "
+"will either die or must move to another location to maintain a balance."
+msgstr ""
+"在「食物鏈」中，當掠食者的數量太多的話，很快地，獵物的數量將不足以滿足掠食者"
+"的需求。這種情況下，一部分的掠食者可能就要餓死；要不然，它們就需要遷移到其他"
+"地方，以維持掠食者和被獵物之間的平衡。"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid ""
+"You are the park ecologist in your town's new park. As the park ecologist, "
+"you are in charge of keeping the population of rabbits and fox in balance. "
+"You will need to decide how many plants and rabbits to put in the park to "
+"start."
+msgstr ""
+"現在你是國家公園的生態專家，職責之一就是維持公園中兔子和狐狸數量的平衡。你首"
+"先要決定的是，到底要野放多少兔子和狐狸到公園裡面呢？"
+
+msgid ""
+"How would you decide how many rabbits and fox you would place in the park. "
+"In the text box provided, describe the things you would have to consider so "
+"that there are enough rabbits to maintain both a stable rabbit and fox "
+"population."
+msgstr ""
+"要如何決定，才能既有足夠的兔子並能維持兔子和狐狸之間數量的平衡呢？請在下面的"
+"文字框中，寫下你可能會考慮的一些因素。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+# 11
+msgid "Food Chain - Summarize Core Ideas"
+msgstr "食物鏈-核心觀念總結"
+
+msgid "Summarizing core ideas... about food chains"
+msgstr "核心觀念總結…關於「食物鏈」..."
+
+msgid ""
+"A <span class='red bold'>food chain</span> shows the movement of energy "
+"through living things."
+msgstr ""
+"<span class='red bold'>食物鏈</span>：可以顯示能量在生物之間的轉移的情況。"
+
+msgid ""
+"<span class='green bold'>Producers</span> such as grasses, vegetables and "
+"fruits get their energy directly from the sun and change it into food that "
+"they then use themselves and other living things."
+msgstr ""
+"<span class='green bold'>生產者</span>：像草、蔬菜、水果等都是；它們可以直接"
+"吸收陽光的能量並轉換成養分，提供自身或其他生物使用。"
+
+msgid ""
+"<span class='purple bold'>Consumers</span> such as birds, fish, and people "
+"cannot use energy directly from the sun to make their own food. Instead, "
+"consumers get their energy indirectly from the sun by eating producers or "
+"other consumers."
+msgstr ""
+"<span class='purple bold'>消費者</span>：像鳥、魚和人類等，它們無法直接使用陽"
+"光的能量製造養分，相對地他們透過捕食生產者而間接使用到陽光的能量。"
+
+msgid ""
+"The place of all living things in the food chain depends on how they get "
+"their <span class='orange bold'>food or energy</span>."
+msgstr ""
+"在食物鏈中，生物的角色是根據它們獲得<span class='orange bold'>食物或能量</"
+"span>的角色而區分的。"
+
+# 12
+msgid "Food Chain - Reviewing Key Vocabulary"
+msgstr "食物鏈 - 複習關鍵詞"
+
+msgid "Reviewing key vocabulary related to... food chains"
+msgstr "食物鏈... 複習關鍵詞"
+
+msgid ""
+"Plants are called nature's producers because they use sunlight to produce "
+"food for themselves and for other animals to eat. Producers are important to "
+"every living thing."
+msgstr ""
+"植物被稱為自然界的「生產者」，因為他們利用陽光製造養分提供自身和其他動物使"
+"用。生產者對所有生物都是重要的。"
+
+msgid ""
+"A carnivore is an animal that feeds only on meat. A polar bear is the "
+"largest land carnivore. It eats mainly fish and seals, even your pet cat or "
+"dog is a carnivore. Birds such as eagles, hawks, and falcons are also "
+"carnivores. There are even some carnivorous plants, such as the Venus "
+"flytrap, which eats insects."
+msgstr ""
+"「肉食性生物」是僅食用肉類的生物。北極熊則為陸地上體型最大的肉食性動物，他們"
+"主要的食物為魚及海豹。就連你的寵物貓、狗也是一種肉食性動物。鳥類像是老鷹或隼"
+"也屬於肉食性動物。更特別的是還有些肉食性植物像是捕蠅草，依靠昆蟲提供養分。"
+
+msgid ""
+"A consumer is someone or something that uses things up. You might also hear "
+"the term consumer used to mean a person who buys things at a store. This is "
+"because people use the things that they buy."
+msgstr ""
+"「消費者」指的是使用或消耗物品的動物，它們會吃植物或動物。有時候消費者這個名"
+"詞用來稱呼在商店中買東西的人，這是因為人們會使用他們所購買的物品。"
+
+msgid ""
+"To decompose means to break down into simpler forms or components. Items "
+"that have decomposed no longer look the way they used to."
+msgstr ""
+"「分解」指的是拆解成更小或簡單的形式或元素。物品被分解後外觀也和之前不一樣"
+"了。"
+
+msgid ""
+"When living things die, they decompose or are changed into simpler and "
+"different forms. However, these new forms do not disappear. They become part "
+"of the soil and provide food for other living things. For example, "
+"earthworms eat fallen leaves or dead grasses that have started to decompose."
+msgstr ""
+"當生物死亡，他們被「分解」成其他更簡單的形式。不過這些新的產物並不會消失，它"
+"們會轉化為土壤的一部分並提供養分給其他生物。舉例來說，蚯蚓即是攝取落葉及凋亡"
+"的草分解時所供給的養分。"
+
+msgid "prey"
+msgstr "獵物"
+
+msgid ""
+"Animals that are hunted and eaten by other animals are called prey. Prey "
+"animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals that are weak "
+"or sick make easier prey for the animals that hunt them."
+msgstr ""
+"被其他動物獵食的動物稱為「獵物」。獵物常常擁有特殊的顏色、外型，以便可以融入"
+"環境之中，不易被發現。但當獵物虛弱或生病時，就比較容易被掠食者所獵捕了。"
+
+msgid "predator"
+msgstr "掠食者"
+
+msgid ""
+"Animals that hunt, attack, and eat other animals are called predators. "
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"會獵食其他動物的，就是「掠食者」。掠食者包含：蝨子、老虎、和鯊魚等。就連狗、"
+"貓，其實也是屬於掠食者；只不過因為人類會餵食它們，所以它們也就不在自己去獵捕"
+"了。野生世界的掠食者必須要有好的捕獵技巧，否則它們將無法獲得足夠的食物。"
+
+msgid "food web"
+msgstr "食物網"
+
+msgid ""
+"A food web shows you which living things eat which other living things. Food "
+"webs are very helpful for learning about the feeding relationships between "
+"living things that share space. For example, you would look at a jungle food "
+"web to see what living things eat other living things in a jungle."
+msgstr ""
+"「食物網」是用來表示生物之間互相捕食的關係的網狀圖。食物網能幫助我們了解棲息"
+"在同一個地區的生物間，它們的捕食關係。例如，你可以從一個森林的食物網圖，就可"
+"以知道這森林中生物的食物關係。"
+
+msgid ""
+"A food web shows the names of different living things and has arrows that "
+"point from each living thing being eaten to the living thing that is eating "
+"it."
+msgstr ""
+"「食物網」中，可以看到各個不同生物的名稱；還可以看到，不同生物之間用「箭號」"
+"連接。箭的連線符號：起始處代表的是食物；箭頭處代表的是掠食者，向圖中的獅子旁"
+"邊有許多箭頭，代表它會吃這些不同的食物。"
+
+msgid "habitat"
+msgstr "棲息地 "
+
+msgid ""
+"A habitat is a place where a plant or animal lives. A forest is one type of "
+"habitat that covers a large part of Earth. A rainforest is a specific type "
+"of habitat that has many trees. It is a good habitat for animals such as "
+"birds, bats, and monkeys."
+msgstr ""
+"「棲息地」是一個動物或植物生長或生活的地方。森林是一種類型的棲息地，它覆蓋地"
+"球一大部分的陸地。熱帶雨林是一種特定類型的棲息地，它有很多樹木，是鳥類、蝙蝠"
+"和猴子等等動物的良好棲息地。"
+
+msgid ""
+"Because there is much water in the rainforest, it is a good habitat for many "
+"plants. Plants living in this type of habitat grow to be very large and have "
+"very big leaves."
+msgstr ""
+"豐沛的水量，是熱帶雨林成為良好的植物棲息地的原因。生活在這種類型棲息地的植物"
+"一般都非常高大，葉子也特別的寬大。"
+
+# 13
+msgid "Food Chain - Checking What You Now Know"
+msgstr "食物鏈-確認了解"
+
+msgid "Checking what you now know... about food chains"
+msgstr "看看你現在了解了多少…關於「食物鏈」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "以下六（6）題小測驗會幫助你了解：你現在知道什麼，你仍然需要學習什麼！"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵！"
+
+# 14
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid ""
+"Activate <span class='red bold blink'>ALL</span> the buttons that describe "
+"each living thing in the first column."
+msgstr ""
+"請點選<span class='red bold blink'>所有能夠正確描述</span>左邊各個動植物圖片"
+"的按鈕。(複選)"
+
+msgid "makes own<br/>food"
+msgstr "從太陽<br/>自製食物"
+
+msgid "gets food<br/>from<br/>producers"
+msgstr "從生產者<br/>獲得食物"
+
+msgid "is a<br/>herbivore"
+msgstr "是<br/>草食性"
+
+msgid "is a<br/>carnivore"
+msgstr "是<br/>肉食性"
+
+msgid "is an<br/>omnivore"
+msgstr "是<br/>雜食性"
+
+msgid "ants"
+msgstr "螞蟻"
+
+msgid "mice"
+msgstr "鼠"
+
+msgid "cactus"
+msgstr "仙人掌"
+
+msgid "bushes"
+msgstr "灌木叢"
+
+msgid "cougar"
+msgstr "美洲獅"
+
+# 15
+msgid "Food Chain - Quiz Question #2"
+msgstr "食物鏈 - 小測驗 #2"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"the images that trace the energy in each case. Tap the images again to "
+"deselect."
+msgstr ""
+"請依據下方彩色圖的食物鏈資料，回答下面的四個題目(請點選題目中的所有的食物來"
+"源； 單點擊就可選取、再點選擊可取消。<span class='red bold blink'>複選，請記"
+"得要包括食物的食物喔！</span>)。"
+
+msgid ""
+"Where does the <span class='darkyellow'>tertiary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<span class='darkyellow'>三級</span> 消費者，<br/>是從哪些生物得到能量的？"
+
+msgid ""
+"Where does the <span class='darkgreen'>secondary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<span class='darkgreen'>二級</span> 消費者，<br/>是從哪些生物得到能量的？"
+
+msgid ""
+"Where does the <span class='pink'>quaternary</span> consumer<br/>get its "
+"energy?"
+msgstr "<span class='pink'>四級</span> 消費者，<br/>是從哪些生物得到能量的？"
+
+msgid ""
+"Where does the <span class='darkorange'>primary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<span class='darkorange'>初級</span> 消費者，<br/>是從哪些生物得到能量的？"
+
+# 16
+msgid "Food Chain - Quiz Question #3"
+msgstr "食物鏈-小測驗 #3"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"appropriate answers for each question. Tap the images again to deselect."
+msgstr ""
+"看看下面的食物鏈並點擊每個問題中<span class='red bold blink'>所有</span>適當"
+"的選項 。再次點擊圖像則為取消。"
+
+msgid "CORN"
+msgstr "玉米"
+
+msgid "MOUSE"
+msgstr "鼠"
+
+msgid "OWL"
+msgstr "貓頭鷹"
+
+msgid "Identify the <span class='darkorange'>secondary</span> consumers."
+msgstr "請點選<span class='darkorange'>二級</span> 消費者。"
+
+msgid "Identify the <span class='darkgreen'>herbivores</span>."
+msgstr "請點選<span class='darkgreen'>草食性</span>動物。"
+
+msgid "Identify the <span class='darkyellow'>producers</span>."
+msgstr "請點選 <span class='darkyellow'>生產者</span>。"
+
+msgid "Identify the <span class='pink'>consumers</span>."
+msgstr "請點選<span class='pink'>消費者</span>。"
+
+# 17
+msgid "Food Chain - Quiz Question #4"
+msgstr "食物鏈 - 小測驗 #4"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid ""
+"Click the image to select your answer to this question: Animals that feed on "
+"plants and animals are known as... ?"
+msgstr "請問，以植物和動物為食物的動物被稱作甚麼呢？(單選，點擊圖片作答)"
+
+msgid "Herbivores"
+msgstr "草食性動物"
+
+msgid "Dinosaurs"
+msgstr "恐龍"
+
+msgid "Carnivores"
+msgstr "肉食性動物"
+
+msgid "Omnivores"
+msgstr "雜食性動物"
+
+msgid "HERBIVORES"
+msgstr "草食性動物"
+
+msgid "DINOSAURS"
+msgstr "恐龍"
+
+msgid "CARNIVORES"
+msgstr "肉食性動物"
+
+msgid "OMNIVORES"
+msgstr "雜食性動物"
+
+msgid "You got it right!"
+msgstr "你答對了！"
+
+msgid "Animals that feed on plants and animals are known as Omnivores."
+msgstr "以植物和動物為食物的動物被稱為雜食性動物。"
+
+msgid "Nope!"
+msgstr "不是喔！"
+
+msgid "A carnivore is an animal that only eats other animals, not plants."
+msgstr "肉食性動物只吃其它動物，而不吃植物。"
+
+msgid "Sorry."
+msgstr "抱歉！"
+
+msgid "A herbivore is an animal that only eat plants, not other animals."
+msgstr "草食性動物只吃植物，不吃其它動物。"
+
+msgid "Not quite."
+msgstr "不完全是。"
+
+msgid "Some dinosaurs used to eat only plants, some ate only animals."
+msgstr " 有些恐龍只吃植物，有些只吃動物。"
+
+# 18
+msgid "Food Chain - Quiz Question #5"
+msgstr "食物鏈 - 小測驗 #5"
+
+msgid "Nope! Plants are not considered prey."
+msgstr "不！植物不被視為獵物。"
+
+msgid "a bee getting a nectar from a flower"
+msgstr "蜜蜂從花朵得到花蜜"
+
+msgid "Nope! Carrots are plants and not considered prey."
+msgstr "不對！胡蘿蔔是植物，而不是獵物。"
+
+msgid "a rabbit feeding on a carrot"
+msgstr "兔子以胡蘿蔔為食物"
+
+msgid "You are correct!"
+msgstr "你答對囉！"
+
+msgid "a lion hunting a zebra"
+msgstr "獅子獵捕斑馬"
+
+msgid ""
+"Nope! A mushroom is not considered a predator nor is tree bark considered "
+"prey."
+msgstr "不！蘑菇不是掠食者，樹皮也不是獵物！"
+
+msgid "a mushroom feeding on a tree bark"
+msgstr "蘑菇以樹皮為食物"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Which of the following is an example of a predator-prey relationship?"
+msgstr "下面哪一個例子是掠食者和被掠食者之間關係"
+
+msgid "You answered..."
+msgstr "請的回答是..."
+
+msgid "A"
+msgstr "A"
+
+msgid "B"
+msgstr "B"
+
+msgid "C"
+msgstr "C"
+
+msgid "D"
+msgstr "D"
+
+# 19
+msgid "Food Chain - Quiz Question #6"
+msgstr "食物鏈 - 小測驗 #6"
+
+msgid "Decomposers only eat dead plants and animals."
+msgstr "分解者只吃死掉的植物或動物。"
+
+msgid "Decomposers don't hunt or eat other living things."
+msgstr "分解者不能獵食或是吃其它生物。"
+
+msgid "Only plants can make energy from the sun."
+msgstr "只有植物可以從陽光獲得能量。"
+
+msgid "D. to feed on dead material"
+msgstr "D. 以死亡的物質為食"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Which role does a decomposer play in a food chain?"
+msgstr "在食物鏈中，分解者扮演的是哪一種角色呢？"
+
+msgid "to consume living plants"
+msgstr "以活的植物為食物的消費者"
+
+msgid "to hunt herbivores"
+msgstr "獵捕草食性動物為食的消費者"
+
+msgid "to make its own food from the sun"
+msgstr "從陽光製造出自己食物"
+
+msgid "to feed on dead material"
+msgstr "以死亡的物質為食物"
+
+msgid "Then you are correct!"
+msgstr "你答對囉！"
+
+msgid ""
+"Decomposers are consumers because they feed off the living things that die."
+msgstr "分解者也是消費者，因為它們以死掉的生物作為食物。"
+
+# 20
+msgid "End of Review"
+msgstr "單元結束！"
+
+msgid "Congratulations"
+msgstr "恭喜您！"
+
+msgid "You've completed this Food Chains review."
+msgstr "你已經完成「食物鏈」單元的學習了！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz' questions for this "
+"review by clicking the button below."
+msgstr "透過點擊下方的按鈕，你可以看到你在「小測驗」和「測驗問題」的表現。"
+
+msgid "Go to dashboard"
+msgstr "請到功能表"
+
+msgid "How did I do?"
+msgstr "我答的如何呢？"
+
+# Transitions
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "我們準備開始囉"
+
+msgid "Next part coming up!"
+msgstr "想一想，食物從哪裡來呢?"
+
+msgid "Wait for it... wait for it..."
+msgstr "請稍等…"
+
+msgid "Preparing your first quick check!"
+msgstr "請準備你的第一次小練習！"
+
+msgid "Guess what's next?"
+msgstr "猜猜看，接下來是什麼？"
+
+msgid "Loading in 5,4,3,2...."
+msgstr "載入中 5、4、3、2..."
+
+msgid "Spiders are weaving the webs!"
+msgstr "生物間也有網狀的關係！你知道嗎！"
+
+msgid "Another quick check on the way!"
+msgstr "另一個小練習來囉！"
+
+msgid "Walking to sunny meadows..."
+msgstr "散步到陽光草原..."
+
+msgid "Putting it all together..."
+msgstr "總結一下哦..."
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗，題目是..."
+
+msgid "A quiz question on food chains..."
+msgstr "一個食物鏈的小測驗題..."
+
+msgid "Let's do another one!"
+msgstr "讓我們來做下一題吧！"
+
+msgid "Isn't this exciting?"
+msgstr "這不是很有趣嗎？"
+
+msgid "Last two!"
+msgstr "還剩兩題而已囉！"
+
+msgid "Almost over, almost over"
+msgstr "差不多快結束了！"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# edited/new texts========================================
+msgid "Please select your answers."
+msgstr "請作答"
+
+msgid "Please select your answer."
+msgstr "請作答"
+
+# 1
+#. asset: welcome-to-the-food-chain-review-lets-get-started
+msgid "Welcome to the Food Chains review"
+msgstr "歡迎您來到「食物鏈」章節"
+
+msgid "Start"
+msgstr "開始"
+
+# 6
+msgid ""
+"the caterpillar is the <span class='orange bold'>primary consumer</span>"
+msgstr "毛毛蟲就稱作是<span class='orange bold'>初級消費者</span>"
+
+msgid "<span class='gray small'>(primary means 'first')</span>"
+msgstr ""
+"<span class='gray small'>(所謂'初級'就是'第一級'的意思。因為它是直接以「生產"
+"者(也就是植物)」為食物)</span>"
+
+msgid "the frog is the <span class='purple bold'>secondary consumer</span>"
+msgstr "青蛙是<span class='purple bold'>次級消費者</span>"
+
+msgid "<span class='gray small'>(secondary means 'second')</span>"
+msgstr ""
+"<span class='gray small'>('次級' 就是'二級'的意思，它們以一級消費者為食物)</"
+"span>"
+
+msgid "the snake is the <span class='red bold'>tertiary consumer</span>"
+msgstr "蛇是<span class='red bold'>三級消費者</span>"
+
+msgid "<span class='gray small'>(tertiary means 'third')</span>"
+msgstr "<span class='gray small'>(三級消費者，以二級消費者為食物)</span>"
+
+msgid "and the hawk is the <span class='brown bold'>quaternary consumer</span>"
+msgstr "而老鷹就是 <span class='brown bold'>第四級消費者</span>"
+
+msgid "<span class='gray small'>(quaternary means 'fourth')</span>"
+msgstr "<span class='gray small'>('第四級消費者'以第三級消費者為食物)</span>"
+
+# 10
+msgid "Hunting to survive..."
+msgstr "獵捕為生...平衡才能永續..."
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案…"
+
+msgid "Your task"
+msgstr "你的任務…"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid ""
+"You are the park ecologist in your town's new park. As the park ecologist, "
+"you are in charge of keeping the population of rabbits and fox in balance. "
+"You will need to decide how many rabbits and fox to put in the park to start."
+msgstr ""
+"你現在是公園的生態專家。你的職責之一就是維持公園中兔子和狐狸數量的平衡。你首"
+"先會要考慮到底要種植多少植物並野放多少兔子到公園裡。"
+
+# 12
+msgid "Words and explanations"
+msgstr "名詞和解釋…"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read more"
+msgstr "繼續閱讀"
+
+msgid "Check answer"
+msgstr "檢查答案"

@@ -1,0 +1,951 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plate tectonics\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Go Back to Dashboard"
+msgstr "回到主選單"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回（上一個）"
+
+msgid "Read More"
+msgstr "閱讀更多（延伸閱讀）"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案（複選）"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速測驗#1"
+
+msgid "Quick Check #2"
+msgstr "快速測驗#2"
+
+msgid "Quick Check #3"
+msgstr "快速測驗#3"
+
+msgid "Quick Check #4"
+msgstr "快速測驗#4"
+
+msgid "Please check your answers."
+msgstr "請確認你的答案"
+
+msgid "How did I do?"
+msgstr "我應該怎麼做？"
+
+msgid "You answered..."
+msgstr "你回答了……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請上下翻轉或旋轉下方的方塊來設置你的答案。點擊，按住滑鼠上下移動（拖曳）。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住滑鼠並上下移動來轉動方塊和選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "點選左、右鍵頭來瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡以開始輸入你的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答接下來的六個考驗問題可以讓你知道你已經了解什麼，還有需要進一步學習哪些內容。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當你準備好了，請點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "考驗問題#1"
+
+msgid "Quiz Question #2"
+msgstr "考驗問題#2"
+
+msgid "Quiz Question #3"
+msgstr "考驗問題#3"
+
+msgid "Quiz Question #4"
+msgstr "考驗問題#4"
+
+msgid "Quiz Question #5"
+msgstr "考驗問題#5"
+
+msgid "Quiz Question #6"
+msgstr "考驗問題#6"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以點擊下方的按鈕來確認在這次的複習中' 快速測驗' 與' 考驗問題' 表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "到儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎？"
+
+msgid "Preparing your first quick check..."
+msgstr "準備好你的第一次快速測驗……"
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的最後一次快速測驗？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備開始你的最後一次考驗問題？"
+
+msgid "Putting it all together..."
+msgstr "把他們都放在一起……"
+
+msgid "Words and explanations"
+msgstr "單字與解釋"
+
+msgid "Let's check what you now know"
+msgstr "來看看你知道了什麼"
+
+msgid "And the first quiz question is..."
+msgstr "接著第一個考驗問題是……"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+msgid "Plate Tectonics"
+msgstr "板塊構造"
+
+# 1
+msgid "Welcome to the Plate Tectonics module"
+msgstr "歡迎來到板塊構造的複習"
+
+# 2
+msgid "Thinking about... plate tectonics"
+msgstr "想想看……板塊構造"
+
+msgid ""
+"Maps are fun to look at. They can help you find out where you are, where you're going, and what you're going to find when you get "
+"there. See if you can find your state on the map below."
+msgstr "地圖看起來很有趣。他們可以幫助你找出你在哪裡、你要去哪裡和當你抵達後你要找尋什麼。找找看你的州在下面地圖的哪裡。"
+
+msgid ""
+"Lots of people plan their summer vacations using maps. Some people like to go to the mountains and go backpacking or mountain "
+"biking. Other people like to go to the beach and go surfing or play beach volleyball. Where would you like to go for a vacation this "
+"coming summer? And what would you like to do? Can you find on the map the beach or mountain closest to your state? Did you know that "
+"the reason there are mountains and beaches is because plate tectonics have slowly but surely ripped continents apart and crashed "
+"them back together to create some of the best places in the world to go on summer vacations? Thank you, plate tectonics!!"
+msgstr ""
+"很多人用地圖來計畫他們的暑假。有些人喜歡到山上當背包客或是騎越野自行車。其他人喜歡到海灘衝浪或是打沙灘排球。你會想要在即將來臨的暑假"
+"去哪裡？你會想做什麼？你可以在地圖上找出你你國家最近的海灘或是山脈嗎？你曾知道那些山脈和海灘是因為板塊構造緩慢的將大陸版塊分離並重新"
+"將他們推擠在一起，才能創造出這些在世界上暑假的絕佳去處。感謝你，板塊構造！"
+
+# 3
+msgid "Checking what you know about... plate tectonics"
+msgstr "確認你瞭解有關於……板塊構造"
+
+msgid "In the United States, major earthquakes and volcanoes occur:"
+msgstr "在美國，主要的地震和火山爆發發生："
+
+msgid "Equally spaced all over the country."
+msgstr "平均在所有的地區。"
+
+msgid "Mostly in the southern earthquake zone near Texas and Florida."
+msgstr "大多發生在南部的地震區，接近德州與佛羅里達州。"
+
+msgid "In the mid-west near Chicago and Minneapolis."
+msgstr "在中西部，接近芝加哥與明尼阿波利斯。"
+
+msgid "In a zone that runs along the West Coast."
+msgstr "在西部沿岸的地區。"
+
+msgid ""
+"Earthquakes and volcanoes aren't spread out equally across the United States. Sometimes, but not very often, states in the middle of "
+"the country, like Kansas or Nebraska or Illinois might get minor earthquakes that hardly do any damage. But the majority of "
+"earthquakes and volcanoes, especially the big ones, occur near the west coast in California, Washington, and Oregon."
+msgstr ""
+"地震和火山爆發並不會平均的散布在整個美國。有時候，但不是很常的，在國家中部的各州，像是堪薩斯州或內布拉斯加州或伊利諾伊州可能會有次級"
+"的地震但是幾乎不會造成破壞。但是主要的地震與火山爆發，特別是嚴重的，發生在西岸的加州、華盛頓州和奧勒岡州。"
+
+msgid "Duck, cover and hold"
+msgstr "沉降，覆蓋和握住"
+
+# 4a
+msgid "Reviewing big ideas about... plate tectonics"
+msgstr "回顧有關的核心概念……板塊構造"
+
+msgid ""
+"There are all kinds of maps that show all kinds of things about the land. Maps can provide important and useful information about "
+"the geography of an area. Many of the maps we commonly use show streets and highways, cities and towns. A good example is the map "
+"below that shows the major cities and highways in the state of Colorado. If you wanted to take a trip from Denver to Durango, which "
+"route would you choose? There's more than one way to get there, isn't there? Which route do you think is best?"
+msgstr ""
+"有各種不同的地圖呈現出各種不同的陸地。地圖可以提供各個地區重要且有用的地質資訊。很多我們一般在使用得地圖是呈現街道、高速公路、城市與"
+"城鎮。下方的地圖是一個好的例子，它呈現出科羅拉多州主要的城市與高速公路。如果你想要從丹佛市到杜蘭戈市，你會選擇哪一個路線？有不只一種"
+"可以到那裡的方法，不是嗎？你認為哪一個路線是最好的？"
+
+# 4b
+msgid "There are other kinds of maps that are used for other purposes too. Hover on the images to know more."
+msgstr "有其他種類的地圖用於其他的目的。觀看圖案來瞭解更多。"
+
+msgid "Some maps in the newspaper show what the weather is every day."
+msgstr "有些在報紙裡的地圖呈現出每天的天氣。"
+
+msgid "Some show where different kinds of landform features occur - like lakes, rivers, coasts, mountains, and plains."
+msgstr "有些呈現出各種的的地形特色，像是湖泊、河流、海岸、山脈與平原。"
+
+msgid "Other maps show climate zones."
+msgstr "其他地圖呈現出氣候區。"
+
+msgid ""
+"The middle map above is a geography map that shows the major mountains, rivers, coasts, and plains in the United States. Can you "
+"find where you live on the map? What is the closest mountain or the closest ocean to where you live?"
+msgstr ""
+"上方中間的地圖是一個地質圖，它呈現出美國主要的山脈、河流、海岸與平原。你可以找出你住在地圖的哪裡嗎？哪裏是離你住處最近的山脈或是海洋"
+"呢？"
+
+msgid "Reading a compass..."
+msgstr "看指南針……"
+
+# 5a
+msgid "Question A. On the map below, most of the biggest river systems occur in the:"
+msgstr "問題A. 在下方地圖中，最大的河流系統大多出現在："
+
+msgid "Rocky Mountains"
+msgstr "洛磯山脈"
+
+msgid "Great Plains"
+msgstr "大平原"
+
+msgid "Appalachian Mountains"
+msgstr "阿帕拉契山脈"
+
+msgid "Coastal Plain"
+msgstr "沿海平原"
+
+msgid "Click to enlarge image"
+msgstr "點擊以放大圖示"
+
+msgid "Question B. Maps can show all of the following except:"
+msgstr "問題B. 地圖可以呈現的不包含下列哪一項："
+
+msgid "How everybody feels today."
+msgstr "今天大家的心情如何。"
+
+msgid "Where there are rivers and lakes."
+msgstr "河流與湖泊在哪裡。"
+
+msgid "Streets in your town or city."
+msgstr "你的城鎮或城市中的街道。"
+
+msgid "How long the coastline is."
+msgstr "海岸線有多長。"
+
+msgid "Question C. Maps can be best used to help you:"
+msgstr "問題C. 地圖最能夠幫助你："
+
+msgid "Plan a route to travel."
+msgstr "規劃旅遊路線圖。"
+
+msgid "Decide where the nicest people live."
+msgstr "判斷出哪裡居住著最友善的人們。"
+
+msgid "Plan what to do when you grow up."
+msgstr "規劃你長大後要做什麼。"
+
+msgid "All of the above."
+msgstr "以上皆是。"
+
+# 5b
+msgid "No - It's difficult to find any major rivers on the map in the Rocky Mountains."
+msgstr "否 - 難以在地圖中找到洛磯山脈中任何主要的河流。"
+
+msgid ""
+"Yes - You can see that the Great Plains area of the Midwest has several major river systems including the Mississippi, Missouri, and "
+"Ohio River systems."
+msgstr "是 - 你可以看到中西部的大平原區有一些主要的河流系統包含了密西西必、密蘇里和俄亥俄河流系統。"
+
+msgid "No - It's difficult to find any major rivers on the map in the Appalachian Mountains."
+msgstr "否 - 很難在地圖上找到阿帕拉契山脈中任何主要的河流。"
+
+msgid ""
+"No - There are some major rivers in the Coastal Plain area but they are actually the rivers from the Great Plains emptying into the "
+"sea."
+msgstr "否 - 有一些主要的河流在海岸平原區，但是它們其實從大平原注入海的河流。"
+
+msgid "Yes - Maps don't show how people feel."
+msgstr "是 - 地圖並不能呈現出人們的感受。"
+
+msgid "No - Maps can show where there are rivers and lakes."
+msgstr "否 - 地圖可以呈現出河流與湖泊的位置。"
+
+msgid "No - Maps can show where there are streets and rivers in your town."
+msgstr "否 - 地圖可以呈現出你的城鎮中的街道與河流的位置。"
+
+msgid "No - Maps can show how long the coastline is."
+msgstr "否 - 地圖可以呈現出海岸線的長度。"
+
+msgid "Yes - You can look at a map to see roads and towns that help you plan a route to get where you want to go."
+msgstr "是 - 你可以從地圖出看到道路與城鎮以幫助你規劃想要到達地方的路線。"
+
+msgid "Not quite - Nice people live everywhere, so there are no maps to decide where to find them."
+msgstr "不完全 - 友善的人住在每個地方，所以沒有地圖可以判斷出哪裡可以找到他們。"
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with "
+"that."
+msgstr "否 - 規劃你長大後要做什麼是依據你的興趣和你的專長。地圖並不能幫你這些。"
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with "
+"that. And, nice people live everywhere so there are no maps to decide where to find them."
+msgstr ""
+"否 - 規劃你想長大要做什麼是依據你的興趣和你的專長。地圖並不能幫你這些。而且，友善的人住在每個地方，所以沒有地圖可以判斷出哪裡可以找到"
+"他們。"
+
+# 6a
+msgid "More big ideas about... plate tectonics"
+msgstr "更多有關...板塊構造"
+
+msgid "Reviewing more core ideas about... plate tectonics"
+msgstr "複習更多相關的核心想法……板塊構造"
+
+msgid ""
+"The earth's major landform features, such as volcanoes, mountains, rivers, and coasts can be shown on <span class='key'>maps</span> "
+"so we can try and make sense out of the <span class='key'>patterns</span> they form."
+msgstr "地球上的主要地形特色，像是火山、山脈、河流和海岸可以被呈現在地圖上，所以我們可以試著去意義化他們所形成的樣子。"
+
+msgid ""
+"This map shows the locations of most of the major volcanoes (red dots) in the United States. When these locations are shown on a map "
+"like this, it is easy to see a pattern of where the <span class='key'>volcanoes</span> are in the United States. First of all, they "
+"are all located in the western US and they are all located in a general north-south trend that roughly runs along the west coast."
+msgstr ""
+"這個地圖呈現出美國大多是主要火山（紅點）的位置。當這些位置用這樣的方式呈現在地圖上時，可以很容易地看出美國的火山位置圖。首先，他們全"
+"都座落於美國西部且它們一般位於西部沿岸是南北走向。"
+
+msgid ""
+"This map shows occurrences of major <span class='key'>earthquakes</span> (black dots) in the United States. How does the pattern of "
+"earthquakes shown on this map compare to the locations of volcanoes on the previous map? You're right. Most of the volcanoes and "
+"many of the earthquakes generally run north and south band and which is roughly parallel to the Pacific coast in the western part of "
+"the North American continent. But unlike volcanoes, a number of earthquakes are found in the central and eastern parts of the United "
+"States."
+msgstr ""
+"這個地圖呈現美國主要發生地震（黑點）的地點。比較在這個地圖中呈現的地震圖樣與先前地圖中的火山位置。你是對的。大多數的火山與很多地震一"
+"般發生在西部北美大陸太平洋沿岸的南北地帶。但是不同於火山，有一些地震會出現在美國中部與東部。"
+
+msgid "Analyzing seismic waves..."
+msgstr "分析地震波……"
+
+# 7a
+msgid "Question A. On the map below, most of the volcanoes in Western United States occur:"
+msgstr "問題A. 在下方的地圖裡，在美國西部的多數火山出現在："
+
+msgid "Along the Pacific Coast"
+msgstr "沿著太平洋海岸"
+
+msgid "In the Rocky Mountains"
+msgstr "在洛磯山脈裡"
+
+msgid "Clumped in just one small area in California"
+msgstr "集中在加州的一個小區域"
+
+msgid "Parallel to the Pacific Coast but a little inland"
+msgstr "與太平洋海岸平行並包含一部分內陸"
+
+msgid "Question B. The pattern of earthquakes (black dots) shown on the map below:"
+msgstr "問題B. 下方地圖呈現地震（黑點）的圖樣："
+
+msgid "Is exactly like the pattern of volcanoes on the map in question A above."
+msgstr "與問題A中的火山地圖圖樣很相似。"
+
+msgid "Is similar to the pattern of volcanoes on the map in question A above but has earthquakes over a greater area."
+msgstr "與問題A中的火山地圖圖樣很相似，但是地震的區域較大。"
+
+msgid "Shows earthquakes occur only in the western United States."
+msgstr "呈現地震只發生在美國西部。"
+
+msgid "Monitoring volcanic earthquakes..."
+msgstr "監測火山地震……"
+
+msgid "Shows earthquakes occurring in Florida."
+msgstr "呈現地震發生在佛羅里達州。"
+
+# 7b
+msgid "Not quite - The red dots that represent volcanoes occur parallel to the pacific coast but not right on the coast."
+msgstr "不完全 - 紅點呈現出火山位置與太平洋沿岸平行但不是出現在海岸線上。"
+
+msgid "Not quite - The red dots that represent volcanoes occur near the pacific coast."
+msgstr "不完全 - 紅點呈現出火山爆發發生在接近太平洋海岸的位置。"
+
+msgid "Not quite - The red dots that represent volcanoes occur all along the pacific coast - not just in California."
+msgstr "不完全 - 紅點呈現出火山沿著太平洋海岸 - 不只在加州。"
+
+msgid ""
+"Yes! You can see on the map that the red dots representing volcanoes occur all along the pacific coast - not right on the coast - "
+"but rather a little bit inland away from the coast."
+msgstr "是的！你可以看到地圖上的紅點呈現出在太平洋沿岸 - 不是在海岸線上-但是是有一點內陸，與海岸線有一些距離。"
+
+msgid ""
+"Not exactly - The pattern of earthquakes shown on question A map is similar to the pattern near the pacific coast but the black dots "
+"representing earthquakes occur all over Western United States as well."
+msgstr "不完全 - 問題A地圖所呈現的地震圖樣與太平洋沿岸的圖案很相似，但是黑點也呈現出地震發生在整個美國西部。"
+
+msgid ""
+"Yes - The red dots that represent volcanoes occur near the pacific coast and the black dots representing earthquakes occur mostly "
+"near the pacific coast too - but also all over most of the rest of the United States."
+msgstr "是 - 紅點呈現出火山出現在在太平洋沿岸且黑點呈現出地震也大多發生在太平洋沿岸，但是也出現在美國的其他地方。"
+
+msgid ""
+"Not quite - Most of the earthquakes occur in Western United States but you can see on the map that some earthquakes (represented by "
+"the black dots) occur in Eastern United States as well."
+msgstr "不完全 - 大多數的地震發生在美國西部，但是你可以看到地圖上有一些地震（由黑點顯示）也發生在美國東部。"
+
+msgid "No - There are no black dots on the map in Florida, which means there are no earthquakes in Florida."
+msgstr "否 - 地圖上沒有黑點出現在佛羅里達州，這表示佛羅里達州沒有地震。"
+
+# 8a
+msgid ""
+"Scientists explain these patterns of mountains, volcanoes, and earthquakes by an idea called <span class='key'>plate tectonics</"
+"span>. The diagram below shows how the whole surface of the earth, including the continents and oceans, are all sitting on what "
+"geologists call <span class='key'>tectonic plates</span>."
+msgstr ""
+"科學家解釋這些山脈、火山與地震的分佈圖樣是板塊構造的概念。下方的示意圖呈現出整個地球表面，包含大陸與海洋，它們都是座落在地理學家所稱"
+"的板塊構造上。"
+
+msgid ""
+"These plates are like huge pieces of a jigsaw puzzle with the continents and oceans sitting on top of them. And they move around the "
+"earth very, very slowly, pulling away from each other and bumping into each other. This causes some very interesting and important "
+"things to happen on the earth - like mountains, volcanoes, and earthquakes."
+msgstr ""
+"這些板塊就像是上方是大陸與海洋的一塊大拼圖。而且在地球上非常非常緩慢地移動，拉離開彼此又撞擊在一起。這會造成在地球上一些很有趣且重要"
+"的事情 - 像是山脈、火山與地震。"
+
+msgid "Eurasian Plate"
+msgstr "歐亞板塊"
+
+msgid "North American Plate"
+msgstr "北美板塊"
+
+msgid "Pacific Plate"
+msgstr "太平洋板塊"
+
+msgid "Philippine Plate"
+msgstr "菲律賓板塊"
+
+msgid "Indo-Australian Plate"
+msgstr "印澳板塊"
+
+msgid "Fiji Plate"
+msgstr "富士板塊"
+
+msgid "Coco's Plate"
+msgstr "科克斯板塊"
+
+msgid "Antartic Plate"
+msgstr "南極板塊"
+
+msgid "Carribbean Plate"
+msgstr "加勒比板塊"
+
+msgid "South American Plate"
+msgstr "南美板塊"
+
+msgid "Arabian Plate"
+msgstr "阿拉伯板塊"
+
+msgid "African Plate"
+msgstr "非洲板塊"
+
+msgid "Scotia Plate"
+msgstr "蘇格蘭板塊"
+
+msgid "Nazca Plate"
+msgstr "納斯卡板塊"
+
+# 8b
+msgid "Volcanoes"
+msgstr "火山"
+
+msgid "Continental Crust"
+msgstr "大陸地殼"
+
+msgid "Magma"
+msgstr "岩漿"
+
+msgid "Lithosphere"
+msgstr "岩石圈"
+
+msgid "Asthenosphere"
+msgstr "軟流圈"
+
+msgid "Trench"
+msgstr "海溝"
+
+msgid "Oceanic Crust"
+msgstr "海洋地殼"
+
+msgid ""
+"Sometimes when one plate bumps into another it causes one of the plates to get pushed under the other plate. Like if a small car "
+"crashes into the back of a big semi-truck, the small car might get pushed under the truck. This is called <span "
+"class='key'>subduction</span> when tectonic plates do it. A <span class='key'>subduction zone</span>, where the Pacific tectonic "
+"plate was pushed and dragged under the North American tectonic plate in California millions of years ago, caused the volcanoes in "
+"California. And in Washington and Oregon this process is still going on right now! That's why there are active volcanoes in "
+"Washington and Oregon but the volcanoes in California are dormant."
+msgstr ""
+"有時候一個板塊會撞擊另一個板塊造成其中一個板塊推擠到另一個的下方。就像是一小車從後方撞進一台中型卡車，而小車可能會擠進卡車下方。當板"
+"塊構造發生這樣時稱為隱沒。一個隱沒帶，數百萬年前在加州太平洋構造板塊推擠並拖曳到北美構造板塊之下，造就了加州的火山。而且在華盛頓與奧"
+"勒岡州這樣的過程正在進行著。這就是為什麼在華盛頓和奧勒岡州的火山還在活動而加州的火山已經休眠了。"
+
+msgid ""
+"The <span class='key'>subduction</span> process causes the <span class='key'>ocean plate</span> to rub against the <span "
+"class='key'>continental plate</span> and the friction between them causes the rocks to heat up and melt until finally - boom!! - a "
+"volcano erupts. Try rubbing your hands together quickly and see how they heat up. That's friction! The same thing happens to heat "
+"the plates when they rub together - but it just happens very slowly."
+msgstr ""
+"隱沒的過程造成海洋板塊磨擦到大陸板塊且兩者之間的磨擦會造成岩石的溫度上升並熔化直到最後 - 爆炸!! 火山噴發。試著將你的手放在一起並快速"
+"的摩擦並看看它們是如何升溫的。那就是磨擦！同樣的事情發生在板塊互相磨擦時的升溫，只是發生得非常緩慢。"
+
+msgid "Moving very slowly..."
+msgstr "移動的非常緩慢……"
+
+# 9a
+msgid "Question A. The whole earth is divided into tectonic plates. These plates are:"
+msgstr "問題A. 整個地球被分為幾個板塊構造。這些板塊構造是："
+
+msgid "continents and oceans on them and the plates can move on the earth's surface."
+msgstr "大陸和海洋在它們之上，而且板塊可以在地球表面移動。"
+
+msgid "just continents on them and the plates are solid and never move."
+msgstr "只有大陸在他們上面且板塊是固體所以從不會移動。"
+
+msgid "oceans on them and the plates move back and forth with the tide."
+msgstr "海洋在他們上面且板塊會隨著潮汐前後移動。"
+
+msgid "oceans on them and the plates never move at all."
+msgstr "海洋在他們上面且板塊從不會移動。"
+
+msgid "Question B. Heat generated from the tectonic plates rubbing up against each other during subduction causes..."
+msgstr "問題B. 板塊構造隱沒作用互相摩擦所產生的熱會造成……"
+
+msgid "California to be warmer than other states."
+msgstr "加州比其他州來的溫暖。"
+
+msgid "Rocks to melt and form volcanoes."
+msgstr "岩石熔化和火山生成。"
+
+msgid "Global warming."
+msgstr "全球暖化。"
+
+msgid "Big waves to surf on."
+msgstr "可以衝浪的大海浪。"
+
+# 9b
+msgid ""
+"Very good - tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the earth's "
+"surface."
+msgstr "非常好 - 板塊構造是由大陸板塊和海洋板塊所構成，它們可以在整個地球表面上滑行和移動。"
+
+msgid ""
+"Not quite - The tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the "
+"earth's surface."
+msgstr "不完全 - 板塊構造是由大陸板塊和海洋板塊所構成，它們可以在整個地球表面上滑行和移動。"
+
+msgid ""
+"Not really - The tectonic plates are made up of both continental and oceanic plates and the forces that move them are from deep "
+"within the earth that have nothing to do with the tides."
+msgstr "不完全 - 板塊構造是由大陸板塊和海洋板塊所構成，由地球深處的力量來迫使他們移動，與潮汐無關。"
+
+msgid "Not really - Plate tectonics and subduction cause heating effects inside the earth not on the surface."
+msgstr "不完全 - 板塊構造和隱沒作用造成地球內部的增溫效應而非在表面。"
+
+msgid ""
+"Yes - Plate tectonics and subduction cause heating effects inside the earth that can melt rocks under the earth's surface and cause "
+"volcanoes."
+msgstr "是 - 板塊構造和隱沒作用造成地球內部的增溫效應可以讓地表下方的岩石熔化並造成火山。"
+
+# 10a
+msgid "Using what you now know about... plate tectonics... to solve a problem"
+msgstr "運用你知道相關的知識……板塊構造……來解決問題"
+
+msgid ""
+"Pretend you were a multimillionaire and you were going to build the biggest, most beautiful and expensive house you could possibly "
+"imagine. And you could build it anywhere in the United States that you wanted."
+msgstr "假裝你是超級百萬富翁然後你想要建造一座你能夠想像最大、最美和最昂貴的房子。你可以在美國的任何的一個地方建造它。"
+
+# 10b
+msgid ""
+"Use your knowledge about plate tectonics to describe where in the United States you would build the house - and why - to minimize "
+"the chance it could be destroyed by natural disasters like earthquakes and volcanoes. What maps would you use to decide where to "
+"build?"
+msgstr ""
+"運用你有關板塊構造的知識並描述你會在美國的哪裡建造你的房子 - 為什麼 - 讓大自然所帶來災害造成破壞的機率降到最低，像是地震和火山爆發。"
+"你會用什麼樣的地圖來決定建造的位置？"
+
+msgid "Looking at the map..."
+msgstr "看看地圖……"
+
+# 11
+msgid "Summarizing big ideas about... plate tectonics"
+msgstr "總結相關的核心概念……板塊構造"
+
+msgid ""
+"<span class='key'>Maps</span> are really important. They can show valuable information like weather or where volcanoes are located. "
+"They can cover geographic areas as big as the United States or the world, or as local as your neighborhood. The information on maps "
+"can be extremely helpful in planning what to wear to school today or where to live when you grow up. One kind of information that "
+"can be found on maps is the location of <span class='key'>earthquakes</span> and <span class='key'>volcanoes</span> in the United "
+"States. The <span class='key'>pattern</span> of the locations of these natural phenomena show that they are mostly found along the "
+"western boundary of the country in a line roughly parallel to the West Coast. This information might be useful in planning projects "
+"that require protection from natural disasters."
+msgstr ""
+"地圖真的很重要。它們可以呈現重要的訊息像是氣候或是火山的位置。它們可以覆蓋的地理區域可以像美國或是世界一樣大，也可以是你鄰近的地方。"
+"地圖上的資訊可以非常有助於你去規劃今天去學校要穿什麼或是你長大後要住在哪裡。其中一種地圖上的資訊是美國地震與火山的位置。這些自然現象"
+"的位置圖呈現出他們大多被發現在國家西部沿岸大致地與西海岸平行成為一條線。這些資訊對於計畫保護免於自然災難是實用的。"
+
+msgid ""
+"One of the most important ideas ever to come out of geology and maps is the theory of <span class='key'>plate tectonics</span>. "
+"Scientists came up with this idea based on geological and geographical data they plotted on maps. These data show patterns of "
+"earthquakes, mountains and volcanoes, which led them to believe that the crust under the oceans and continents of the earth are "
+"divided up into many pieces like a huge jigsaw puzzle. They called these pieces <span class='key'>tectonic plates</span>. And, "
+"incredibly, these plates could move around on the surface of the earth and pull apart from each other or crash into each other. "
+"These movements cause earthquakes to happen, volcanoes to erupt, and mountains to be formed."
+msgstr ""
+"其中一項出自於地質學與地圖的重要概念理論是板塊構造。科學家的這些概念是出自於地質與地圖上繪製地質資訊的基礎。這些資料呈現出地震、山脈"
+"與火山的圖樣，讓他們相信在地球海洋與大陸下方的地殼被分為很多片，就像是巨大的拼圖。他們稱這些碎片為板塊構造。且很神奇的是，這些板塊可"
+"以在地球的表面移動且可以互相分離或是撞擊在一起。這些運動造成地震、火山爆發和山脈的形成。"
+
+# 12
+msgid "Reviewing key vocabulary related to... plate tectonics"
+msgstr "複習主要的相關詞彙……板塊構造"
+
+msgid ""
+"When two tectonic plates meet and if one plate is more dense than the other, it may be pulled down into the mantle. The process is "
+"called subduction. This can push the other plate up, as well as melt the material of the plate that is being subducted."
+msgstr ""
+"當兩個板塊相遇，且如果有一個板塊的密度大於另一個，他就有可能被拉進地幔。這個過程被稱為隱沒。這可以拉起其他的板塊，且可以熔化掉板塊潛"
+"入的物質。"
+
+msgid ""
+"An image showing the physical characteristics of a location. Maps are generally two-dimensional, but the images may be displayed in "
+"a way that shows a third dimension as well, such as in a topographical map."
+msgstr "一個圖像顯示出位置的地理特性。一般地圖是二維的，但是圖像也可以被呈現程三維的方式，像是地形圖。"
+
+msgid ""
+"Any system that repeats in a predictable way. A pattern can be as simple as counting numbers, or as complex as weather, so long as "
+"there are repeating, predictable phenomena present."
+msgstr "每一種系統是可以預測其重複出現的。模式可以像計數一樣簡單也可以像天氣一樣複雜，只要他們可以重複，現象就可被預測。"
+
+msgid ""
+"A solid piece of the earth's crust floating on top of the mantle. The earth is covered in these plates, and they fit together like "
+"pieces of a puzzle. Geologic activity such as volcanism and earthquakes are common where the plates meet."
+msgstr ""
+"一片地球的固態地殼浮在地幔之上。地球被這些板塊覆蓋，而且他們彼此吻合像是一塊拼圖。地質活動像是火山活動和地震在板塊相遇之處是常見的。"
+
+msgid ""
+"A tear or hole in the earth's crust that allows lava, ash, and gases to escape from a magma chamber located below the surface. "
+"Volcanoes are common at tectonic plate boundaries, such as Mount St. Helens in Washington, U.S.A. but can also occur in the middle "
+"of plates, such as the islands of Hawai'i in the Pacific Ocean."
+msgstr ""
+"一個地殼上的撕裂處或是孔洞都會讓岩漿、灰塵與氣體自地表下方的岩漿庫溢出。火山一般出現在板塊構造的邊緣，像是美國華盛頓州的聖海倫斯火"
+"山，但是也可能出現在板塊中央，像是太平洋中的夏威夷島。"
+
+msgid ""
+"The release of tensional strain caused by two tectonic plates meeting. This release of energy causes the ground to shake and move "
+"around the area of the release."
+msgstr "由兩個板塊構造的相遇來造成張力的釋放。這個能量釋放會造成地面搖動和區域的移動。"
+
+msgid ""
+"The theory that the earth is covered with fragmented pieces of crust floating on top of a plastic mantle. (Note that the mantle "
+"isn't the same kind of plastic like a plastic toy - but rather, hot rock that very slowly flows like \"plastic\") These fragments "
+"can move slowly over time, explaining the change in the position of Earth's continents over the span of its history."
+msgstr ""
+"這個理論是地球是由彈性的地幔上的零散地殼碎片所覆蓋著。（註記，地幔不是一種像是塑膠玩具的塑膠，而是，高溫岩石非常緩慢的流動像是塑膠）"
+"這些碎片會隨著時間移動，解釋跨越地球歷史大陸位置的變化。"
+
+msgid ""
+"The part of a tectonic plate made out of  \"oceanic crust\". Oceanic crust is generally much thinner and more dense than continental "
+"crust, allowing for oceans to form on top of it."
+msgstr "板塊構造其中一部分是由海洋地殼組成。海洋地殼一般比大陸地殼較薄且密度較高，讓海洋可以在上方生成。"
+
+msgid ""
+"The part of a tectonic plate made out of  \"continental crust\". Continental crust is generally much thicker and less dense than "
+"oceanic crust."
+msgstr "板塊構造其中一部分是由大陸地殼組成。大陸地殼一般較海洋地殼厚且密度較低。"
+
+msgid "Subduction"
+msgstr "隱沒"
+
+msgid "Map"
+msgstr "地圖"
+
+msgid "Pattern"
+msgstr "圖樣"
+
+msgid "Tectonic Plate"
+msgstr "板塊構造"
+
+msgid "Volcano"
+msgstr "火山"
+
+msgid "Earthquake"
+msgstr "地震"
+
+msgid "Oceanic Crust Plate"
+msgstr "海洋地殼板塊"
+
+msgid "Continental Crust Plate"
+msgstr "大陸地殼板塊"
+
+# 13
+msgid "Checking what you now know about... plate tectonics"
+msgstr "檢測你知道哪些相關的知識……板塊構造"
+
+# 14a
+msgid "The main purpose of maps is to be:"
+msgstr "地圖的主要目的是："
+
+msgid "Beautiful to hang on the wall"
+msgstr "被漂亮的掛在牆上"
+
+msgid "Useful in showing important information"
+msgstr "呈現實用的重要資訊"
+
+msgid "Interesting to look at"
+msgstr "看起來很有趣"
+
+msgid "Colorful"
+msgstr "繽紛的"
+
+# 14b
+msgid "Not really - Maps can be beautiful and look great up on the wall but that's not their main purpose."
+msgstr "不完全 - 地圖很漂亮且掛在牆上很好看，但是沒有主要的功能目的。"
+
+msgid "Yes - The main purpose of maps is to show useful information to help us make decisions and figure things out."
+msgstr "是 - 地圖的主要目的是呈現實用的資訊來幫助我們做決定和解決問題。"
+
+msgid "Not really - Maps can be interesting and fun to look at but that's not their main purpose."
+msgstr "不完全 - 地圖很有趣看起來很歡樂，但是沒有主要的功能目的。"
+
+msgid "Not really - Maps can be colorful and beautiful to look at but that's not their main purpose."
+msgstr "不完全 - 地圖看起來繽紛且漂亮，但是沒有主要的功能目的。"
+
+# 15a
+msgid "Which of the following maps would be <span class='blink'>best</span> for planning a cross-country road trip route?"
+msgstr "接下來的地圖中哪一個最適合用來計畫跨國旅遊路線？"
+
+msgid "Daily weather map"
+msgstr "每日天氣圖"
+
+msgid "City map of Manhattan, Kansas"
+msgstr "堪薩斯州曼哈頓城市地圖"
+
+msgid "Hardiness zones for planting flowers map"
+msgstr "抗寒區花卉栽植圖"
+
+msgid "National Highway map"
+msgstr "全國高速公路圖"
+
+# 15b
+msgid "Packing for road-trip..."
+msgstr "為公路旅行打包……"
+
+msgid ""
+"Not quite - A weather map can be helpful in planning a cross-country road trip to help you avoid bad weather, but is there an even "
+"better map to help you plan your trip?"
+msgstr "不完全 - 天氣圖可以幫助你在規劃跨國公路旅行時避免壞天氣，但是有更好的地圖來幫助你規劃你的旅行嗎？"
+
+msgid ""
+"Not really - A city Map of Manhattan Kansas might help a little if you happen to be going through Kansas as part of your trip but "
+"wouldn't help in planning the whole cross country trip."
+msgstr "不完全 - 堪薩斯州曼哈頓城市地圖可以小部分幫助你在堪薩斯州的旅行，但是沒辦法幫你計畫整個跨國的旅行。"
+
+msgid "Not really - A hardiness map for planting flowers would be of no help in planning a cross-country road trip."
+msgstr "不完全 - 抗寒區花卉栽植圖沒辦法幫你計畫跨國旅行。"
+
+msgid "Yes - A highway map of the United States would definitely be the best map to help in planning a cross-country road trip."
+msgstr "是 - 美國高速公路圖確實是最佳幫你計畫跨國公路旅行的地圖。"
+
+# 16a
+msgid ""
+"From this map of the plates that make up the Earth's crust, which of the following statements is <span class='blink'>not</span> true?"
+msgstr "這個地圖上的板塊構成地球上的地殼，下面的哪一個敘述是不正確的："
+
+msgid "The Pacific Plate is almost all ocean."
+msgstr "太平洋板塊幾乎都是海洋。"
+
+msgid "The North American plate is part land and part ocean."
+msgstr "北美板塊有一部分是陸地一部分是海洋。"
+
+msgid "The African Plate is all land."
+msgstr "非洲板塊都是陸地。"
+
+msgid "The Caribbean Islands are part of their own little plate."
+msgstr "加勒比群島是他們自己小板塊上的一部分。"
+
+# 16b
+msgid "Playing with jigsaw puzzles..."
+msgstr "玩拼圖"
+
+msgid ""
+"Yes - This is NOT a TRUE statement. The African plate is a combination of the continent of Africa and part of the Atlantic Ocean."
+msgstr "是 - 這不是一個正確的敘述。非洲板塊是由非洲大陸與部分大西洋所組成。"
+
+msgid ""
+"Not really - This is a TRUE statement. The Pacific plate is almost all ocean, with the exception of some small islands in the middle."
+msgstr "不完全 - 這是一個正確的敘述。太平洋板塊幾乎是海洋除了中間有一些小島。"
+
+msgid ""
+"Not really - This is a TRUE statement. The North American Plate is part land - the continent of North America - and part ocean - the "
+"eastern half of the Atlantic Ocean."
+msgstr "不完全 - 這是一個正確的敘述。北美板塊一部分是陸地 - 北美大陸 - 部分海洋 - 大西洋東半。"
+
+msgid "Not really - This is a TRUE statement. The Caribbean Islands are on their own little plate."
+msgstr "不完全 - 這是一個正確的敘述。加勒比群島在他們自己的小板塊之上。"
+
+# 17a
+msgid ""
+"The map below shows the major plates that make up the earth's surface, and the arrows show the relative directions of each of the "
+"plates as they move relative to each other. From this map the following can be said to be true."
+msgstr "下方的地圖呈現組成地球表面的主要板塊，箭頭表示各個板塊之間相互移動方向的關係。根據這張地圖接下來的敘述可以是正確的。"
+
+msgid "The Caribbean Plate is moving towards Africa."
+msgstr "加勒比板塊正向著非洲移動。"
+
+msgid "The Australian Plate is moving away from the Philippine plate."
+msgstr "澳洲板塊正遠離菲律賓板塊。"
+
+msgid "The Arabian plate is moving towards the Indian plate."
+msgstr "阿拉伯板塊正向著印度板塊移動。"
+
+msgid "The African Plate is moving away from the South American plate."
+msgstr "非洲板塊正遠離南美板塊。"
+
+# 17b
+msgid "Yes - the South American and African plates are moving away from each other."
+msgstr "是 - 南美與非洲板塊正相互遠離。"
+
+msgid "Not really - The Caribbean plate is moving away from Africa."
+msgstr "不完全 - 加勒比海板塊正遠離非洲板塊。"
+
+msgid "Not really - The Arabian plate and the Indian plate are both moving in the same direction."
+msgstr "不完全 - 阿拉伯版塊與印度板塊的移動方向是一樣的。"
+
+msgid "Not really - The Australian plate is moving towards the Philippine plate."
+msgstr "不完全 - 澳洲板塊正向著菲律賓板塊移動。"
+
+msgid "Clicking to see the image..."
+msgstr "點擊觀看圖片……"
+
+# 18a
+msgid ""
+"The diagram below illustrates an oceanic plate crashing into and going under a continental plate, forming a subduction zone that "
+"causes volcanoes. From the map below, which of the following plate boundaries would most likely form a subduction zone like this?"
+msgstr "下方的示意圖說明了海洋板塊撞進大陸板塊下方時，形成隱沒帶會造成火山。從下方的地圖，哪一個板塊邊界最像是形成了隱沒帶？"
+
+msgid "South American and African"
+msgstr "南美與非洲"
+
+msgid "Pacific and North American"
+msgstr "太平洋與北美"
+
+msgid "Nazca and South American"
+msgstr "納斯卡與南美"
+
+msgid "North American and Eurasian"
+msgstr "北美與歐亞"
+
+# 18b
+msgid "Going under a continental plate..."
+msgstr "走向大陸板塊之下……"
+
+msgid "Not really - the South American and African plates are moving away from each other, which couldn't form a subduction zone."
+msgstr "不完全 - 南美與非洲板塊互相移動遠離彼此，這不會生成隱沒帶。"
+
+msgid "No - The Pacific and North American plates are sliding sideways past each other."
+msgstr "否 - 太平洋與北美板塊正從側邊滑過彼此。"
+
+msgid "Yes - the South American and Nazca plates are moving towards each other, which could form a subduction zone."
+msgstr "是 - 南美與納斯卡板塊正向比次的方向移動，這會形成隱沒帶。"
+
+msgid "Not really - The North American and Eurasian plates are moving away from each other."
+msgstr "不完全 - 北美與歐亞板塊正移動遠離彼此。"
+
+# 19a
+msgid ""
+"The diagram below shows a series of maps that represent how the continental plates have moved during the past 200 million years. "
+"Which of the following statements is <span class='blink'>not</span> true based on what you can see on the maps?"
+msgstr "下方的這個示意圖呈現一系列的地圖表徵了過去兩億年來大陸板塊的移動。下方的敘述中哪一個可以從你看到的地圖中發現是錯誤的？"
+
+msgid "200 million years ago, the continents were all bunched up in one large continent called Pangea."
+msgstr "兩億年前，大陸全都聚集成一個大陸稱為盤古大陸。"
+
+msgid "The continents have drifted apart for the past 200 million years."
+msgstr "大陸在過去的兩億年漂移分開。"
+
+msgid "The continents will all start to move back together again soon."
+msgstr "很快的大陸會開始回到在一起的樣貌。"
+
+msgid "South America and Africa were once joined together."
+msgstr "南美與非洲曾經是在一起的。"
+
+# 19b
+msgid "No - The map shows that this is a true statement."
+msgstr "否 - 這個地圖呈現出真實的描述。"
+
+msgid ""
+"Yes - This statement is NOT true. This map doesn't tell us anything about if or when the continents might all move back towards each "
+"other again."
+msgstr "是 - 這個敘述不是真實的。這個地圖並沒有告訴我們有關如何與何時大陸會移動回原來的相對位置。"
+
+# 20
+msgid "You've completed the Plate Tectonics module."
+msgstr "你已經完成板塊構造的複習。"
+
+msgid "Click on the image to enlarge it."
+msgstr "點擊圖案以放大。"

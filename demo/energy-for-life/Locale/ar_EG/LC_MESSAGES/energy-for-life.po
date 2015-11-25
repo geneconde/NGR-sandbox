@@ -1,0 +1,1216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Energy for life\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار سريع رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختار"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "هيا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Bathing under the sun..."
+msgstr "الاستحمام تحت الشمس..."
+
+msgid "Releasing energy..."
+msgstr "اطلاق الطاقة."
+
+msgid "Preparing your first quick check..."
+msgstr "استعد للتحقق من تقويمك السريع الأول..."
+
+msgid "Searching for food..."
+msgstr "البحث عن الطعام..."
+
+msgid "Roles and relationships"
+msgstr "الأدوار والعلاقات."
+
+msgid "Burning fossil fuels..."
+msgstr "عملية حرق الوقود الأحفوري ..."
+
+msgid "Ready for your last quick check?"
+msgstr "أمستعد لتقويمك السريع والأخير؟"
+
+msgid "Analyzing the events..."
+msgstr "تحليل الأحداث ..."
+
+msgid "Putting it all together..."
+msgstr "جمع كل شيء مع بعضه البعض"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الاول هو..."
+
+msgid "Digging coal..."
+msgstr "حفر الفحم."
+
+msgid "Network of food relationship..."
+msgstr "شبكة من العلاقات الغذائية ..."
+
+msgid "Pumping fuel for ignition..."
+msgstr "ضخ الوقود للاشتعال .."
+
+msgid "Studying photosynthesis..."
+msgstr "دراسة عملية التمثيل الضوئي ..."
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال في الاختبار؟"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Energy for Life"
+msgstr "الطاقة من أجل الحياة"
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Energy for Life review"
+msgstr "مرحبا بكم في مراجعة الطاقة من أجل الحياة."
+
+# 2
+msgid "Thinking about... energy for life"
+msgstr "التفكير ب ... الطاقة من أجل الحياة."
+
+msgid ""
+"Our cars need energy. Our homes need energy. We need energy for our phones "
+"and computers. When we run out of energy ourselves, we eat to get more "
+"energy. It takes energy to power the atmosphere and cause weather. Even "
+"plants need energy."
+msgstr ""
+"سياراتنا تحتاج الى طاقة.  بيوتنا تحتاج الى طاقة.  ونحن نحتاج إلى الطاقة "
+"لهواتفنا وأجهزة الكمبيوتر.  وعندما تنفذ طاقتنا نأكل للحصول على المزيد من "
+"الطاقة.  نحتاج للطاقة لتشغيل الغلاف الجوي ولحدوث الطقس.  حتى النباتات تحتاج "
+"إلى الطاقة."
+
+msgid ""
+"Where to get some? The answer is above us every day, even when we can't see "
+"it because of clouds. It's the sun. Think about how everything somehow gets "
+"energy from the sun. It's all linked together."
+msgstr ""
+"أين يمكن الحصول على بعض من الطاقة ؟ الجواب هو ما هو فوقنا كل يوم، لا نستطيع "
+"حتى أن نراها بسبب الغيوم.  انها الشمس.  فكر في أن كل شيء يستمد طاقته بطريقة "
+"أو بأخرى من الشمس. انها كلها مرتبطة مع بعضها البعض."
+
+# 3
+msgid "Checking what you know... about energy for life"
+msgstr "تأكد مما تعرف ... عن الطاقة في الحياة."
+
+msgid "Click on the statement that is <span class='blink'>incorrect</span>"
+msgstr " اضغط على العبارة <span class='blink'>غير الصحيحة</span> ."
+
+msgid "Click on the statement that is <span class='blink'>correct</span>."
+msgstr "انقر على البيان الذي هو <span class='blink'> الصحيح </span>."
+
+msgid "The earth gets heat from the sun."
+msgstr "تستمد الأرض حرارتها من الشمس."
+
+msgid "Light from the sun is absorbed by objects on earth."
+msgstr "يتم امتصاص الضوء من  الشمس بواسطة الكائنات الحية على الأرض."
+
+msgid "Absorbed light usually increases the energy in an object."
+msgstr "الضوء الممتص عادة يزيد من الطاقة في الأشياء."
+
+msgid "All of the above."
+msgstr "كل مما ذكر أعلاه."
+
+msgid ""
+"The light from the sun is reflected or absorbed by objects on earth. If an "
+"object absorbs sunlight, its energy increases. Continue with the lesson and "
+"review how the sun supplies plants with energy and how all living things "
+"depend on that for energy."
+msgstr ""
+"ينعكس الضوء من الشمس أو تمتصه الكائنات على الأرض.  اذا امتص الشيء او الكائن "
+"ضوء الشمس فهذا يزيد من طاقته.  أكمل الدرس و راجع كيف تمد الشمس الكائنات "
+"بالطاقة للنباتات وكيف أن كل الكائنات الحية  تعتمد على الطاقة."
+
+# 4
+msgid "Reviewing core ideas... about energy for life"
+msgstr "مراجعة الأفكار الأساسية ... حول الطاقة في الحياة."
+
+msgid ""
+"We get the energy we need for everything we do in life from the sun. Much of "
+"that energy is reflected into space, but some is trapped in the leaves of "
+"green plants.  In those leaves, a process called <span class=\"key"
+"\">photosynthesis</span> converts the active, kinetic energy of light into "
+"the stored potential energy of chemical bonds."
+msgstr ""
+"نحصل على الطاقة التي نحتاجها لكل ما نقوم به في الحياة من الشمس.   ينعكس جزء "
+"كبير من هذه الطاقة على الفضاء ولكن بعض هذه الطاقة ينحصر في اوراق النباتات "
+"الخضراء.  في هذه الاوراق، عملية تسمى <span class=\"key\">التمثيل الضوئي</"
+"span> تحول الطاقة الحركية النشطة من الضوء إلى الطاقة الكامنة المخزنة للروابط "
+"الكيميائية."
+
+msgid ""
+"Photosynthesis converts air and water into sugar and oxygen in the part of a "
+"plant cell that is actually green. The green structure is called a <span "
+"class=\"key\">chloroplast</span>, and is found mostly in leaves and stems.  "
+"It contains a green chemical called <span class=\"key\">chlorophyll</span> "
+"which is able to absorb energy from the sun.  Oxygen is also made as a waste "
+"product of photosynthesis."
+msgstr ""
+"التمثيل الضوئي يحول الهواء والماء إلى سكر وأكسجين في جزء من الخلية النباتية "
+"التي هي في الواقع خضراء.  ويسمى البناء الأخضر <span class=\"key"
+"\">البلاستيدات الخضراء</span>، وتوجد معظمها في الأوراق والسيقان.  وهي تحتوي "
+"على مادة كيميائية خضراء تسمى <span class=\"key\">الكلوروفيل</span> وهي قادرة "
+"على امتصاص الطاقة من الشمس.  ويعتبر الأكسجين كمنتج  للمخلفات من التمثيل "
+"الضوئي."
+
+msgid "Sunlight Light Energy"
+msgstr "اشعة الشمس هي طاقة ضوئية."
+
+msgid "Oxygen"
+msgstr "الأكسجين"
+
+msgid "Glucose"
+msgstr "الجلوكوز "
+
+msgid "Carbon Dioxide"
+msgstr "ثاني اكسيد الكربون"
+
+msgid "Root"
+msgstr "جذر"
+
+msgid "Water"
+msgstr "مياه"
+
+msgid "Minerals"
+msgstr "معادن"
+
+msgid ""
+"The key thing to remember is that energy from the sun is used to combine "
+"atoms into a sugar molecule. That energy is stored in the chemical bonds "
+"holding the atoms together.  As long as the sugar molecules are together in "
+"some form, the energy will remain stored.  The oxygen released as well is a "
+"waste product of photosynthesis, but is vital for other life processes in "
+"all plants and animals."
+msgstr ""
+"الامر الاساسي هو أن نتذكر أن الطاقة من الشمس تستخدم لتجمع الذرات في جزيء "
+"السكر.  يتم تخزين تلك الطاقة في الروابط الكيميائية التي تجمع الذرات معا.  "
+"طالما أن جزيئات السكر مترابطة بشكل ما، فإن الطاقة تبقى مخزنة. الأكسجين يحرر "
+"ايضا المخلفات من عملية التمثيل الضوئي، وهذا أمر حيوي للعمليات الأخرى في "
+"الحياة بالنسبة للنباتات والحيوانات كلها."
+
+msgid ""
+"What about living things who can't capture the sun's energy through "
+"photosynthesis, like people? Other living things eat. Most of our energy "
+"comes from the sugars and starches in our diets. <span class='key'>Starches</"
+"span> are actually long chains of simple sugar molecules, bonded together.  "
+"When they are broken down into simple sugars, they can enter cells, where "
+"the chemical bonds holding their atoms together, are broken apart. The "
+"energy that was once holding atoms to one another is then released and used "
+"to power the cell's life processes."
+msgstr ""
+"ماذا عن الأشياء التي لا تستطيع التقاط الطاقة الشمسية من خلال عملية التمثيل "
+"الضوئي، مثل البشر.  الكائنات الحية الأخرى تأكل.  معظم طاقتنا تأتي من "
+"السكريات والنشويات في وجباتنا الغذائية.  <span class='key'> النشويات</span>  "
+"هي في الواقع سلاسل طويلة من جزيئات السكر البسيطة، المرتبطة مع بعضها.  عندما "
+"تنكسر الى سكريات بسيطة فهي تدخل الى الخلايا، حيث تنكسر الروابط الكيميائية "
+"التي تربط الذرات معا.  الطاقة التي كان تربط الذرات مع بعضها البعض تحرر  "
+"وتستخدم لتشغيل العمليات الحيوية للخلية."
+
+msgid "Starchy foods: bread, potatoes, pasta, rice"
+msgstr "الأطعمة النشوية: الخبز والبطاطس والمعكرونة والأرز"
+
+msgid ""
+"The first stage of respiration happens as soon as sugar enters the cell. It "
+"only releases a little energy, but it provides the raw materials for the two "
+"other stages. They both occur in a cellular structure called a "
+"mitochondrion. Both animals and plants have mitochondria in all of their "
+"cells. Through another complex set of reactions, the bonds holding the "
+"carbon, hydrogen, and oxygen atoms of sugar are broken and rearranged to "
+"produce carbon dioxide and water. The energy that remains is used by the "
+"cell."
+msgstr ""
+"المرحلة الأولى من التنفس تحدث بمجرد أن يدخل السكر إلى الخلية.  وهي تطلق "
+"القليل من الطاقة فقط، ولكنها توفر المواد الخام للمرحلتين اللاحقتين.  كلاهما "
+"يحدثان في بناء خلوي يسمى الحبيبات الخيطية.  ففي جميع خلايا الحيوانات "
+"والنباتات توجد الميتوكوندريا.  ومن خلال مجموعة معقدة من التفاعلات الأخرى، "
+"تتكسر الروابط التي تربط ذرات الكربون، والهيدروجين، و الأكسجين الموجودة في "
+"السكر ويعاد ترتيبها لإنتاج ثاني أكسيد الكربون والماء.  وتستخدم الطاقة "
+"المتبقية بواسطة الخلية."
+
+msgid ""
+"While the process is simple on the surface, many factors combine to "
+"determine just how our body processes work together to give us the energy we "
+"need when we need it."
+msgstr ""
+"ي حين أن العملية بسيطة على السطح، تتحد العديد من العوامل لتحدد كيف تعمل "
+"العمليات الحيوية في أجسامنا مع بعضها البعض لتعطينا الطاقة التي نحتاجها عندما "
+"نكون بحاجة إليها."
+
+msgid ""
+"So when we run out of energy, we feel hungry and eat.  After we eat, we feel "
+"better - thanks to the energy we've taken in. This is because our food is "
+"broken apart and digested, and absorbed by our digestive systems."
+msgstr ""
+"اذا عندما تنفذ منا الطاقة، نشعر بالجوع ونأكل.  وبعد الأكل نشعر بالتحسن  بفضل "
+"الطاقة .  هذا لأن طعامنا يتكسر وينهضم. ويمتصه جهازنا الهضمي."
+
+msgid ""
+"The small building blocks of our food molecules are then transported to "
+"cells all over our bodies by the circulatory system. This process of energy "
+"release is called <span class=\"key\">cellular respiration</span>, and "
+"requires oxygen to occur. Like photosynthesis, cellular respiration is a "
+"complex, many-stepped process which can be summarized fairly simply.  Sugar "
+"is broken down, using oxygen, to release energy and form carbon dioxide and "
+"water."
+msgstr ""
+"الجزيئات الصغيرة من قطع الغذاء تنقل الى الخلايا في كل جسمنا عن طريق الدورة "
+"الدموية.  وتسمى عملية تحرير الطاقة ب <span class=\"key\">التنفس الخلوي</"
+"span> وهي تتطلب وجود الأكسجين لتحدث.  مثلها كمثل عملية التمثيل الضوئي ، "
+"التنفس الخلوي  عملية معقدة، وهي عملية متعددة الخطوات والتي يمكن أن تتلخص "
+"بشكل بسيط..  يتم تكسير السكر ، وذلك باستخدام الأكسجين، لإطلاق الطاقة وتكوين "
+"ثاني أكسيد الكربون والماء. "
+
+# 5
+msgid ""
+"Question A. Which of the following statements is <span class=\"blink\">true</"
+"span> regarding photosynthesis?"
+msgstr ""
+"السؤال أ. أي من العبارات التالية <span class=\"blink\">صحيح</span> بالنسبة "
+"لعملية التمثيل الضوئي؟"
+
+msgid "Photosynthesis occurs only in animal cells."
+msgstr "يحدث التمثيل الضوئي فقط في الخلايا الحيوانية....."
+
+msgid "Energy is stored in the chemical bonds of sugars."
+msgstr "يتم تخزين الطاقة في الروابط الكيميائية من السكريات."
+
+msgid "Carbon dioxide is released into the air."
+msgstr "يتم اطلاق ثاني أكسيد الكربون في الهواء."
+
+msgid "Sugars are consumed for energy release."
+msgstr "يتم استهلاك السكريات لتحريرالطاقة."
+
+msgid ""
+"Question B. Which of the following is the name of the process in which "
+"energy is released from sugar?"
+msgstr ""
+"السؤال ب.  أي مما يلي هو اسم العملية التي يتم تحرير الطاقة  فيها من السكر؟"
+
+msgid "Cellular respiration"
+msgstr "التنفس الخلوي"
+
+msgid "Photosynthesis"
+msgstr "التركيب الضوئي"
+
+msgid "Metabolism"
+msgstr "الأيض"
+
+msgid "Light reactions"
+msgstr "التفاعلات الضوئية "
+
+msgid "Sorry. Animal cells can't do photosynthesis."
+msgstr "آسف. الخلايا الحيوانية لا يمكنها القيام بعملية التمثيل الضوئي."
+
+msgid ""
+"Yes! Energy is stored in the bonds holding carbon, hydrogen, and oxygen "
+"atoms in sugar molecules."
+msgstr ""
+"نعم! يتم تخزين الطاقة في الروابط الحاملة لذرات الكربون، الهيدروجين والأكسجين "
+"الى جزيئات سكرية."
+
+msgid "It's the other way. Carbon dioxide is taken from the air."
+msgstr "على  العكس ، يؤخذ ثاني أكسيد الكربون من الهواء."
+
+msgid "Nope. This is where energy is stored in sugar."
+msgstr "كلا.  هنا تخزن الطاقة في السكر."
+
+msgid "That's right! Respiration releases the stored power of the sun."
+msgstr "هذا صحيح! التنفس يحرر الطاقة المخزنة من الشمس."
+
+msgid "Umm... No.  It's the other one...."
+msgstr "مممممم...لا، انها الأخرى..."
+
+msgid "Not unrelated. But not the best answer."
+msgstr "ليس انها غير مرتبطة. ولكنها ليست الاجابة الافضل."
+
+msgid "Don't think this term showed up in this review..."
+msgstr "لا تظن بان هذا المصطلح موجود في هذه المراجعة..."
+
+# 6
+msgid "More core ideas... about energy for life"
+msgstr "المزيد من الافكار الاساسية ... حول الطاقة في الحياة."
+
+msgid ""
+"All living things need food and all living things are food. The "
+"relationships between producers and consumers in a complex plant/animal "
+"community are extremely complicated and not at all obvious. Hover your mouse "
+"over each image to view more information."
+msgstr ""
+"كل الكائنات الحية تحتاج إلى المواد الغذائية وجميع الكائنات الحية هي غذاء.  "
+"العلاقات بين المنتجات والمستهلكات في مجتمع النبات / الحيوان معقدة  للغاية "
+"وليست واضحة على الإطلاق.  مرر الفأرة فوق كل صورة لعرض المزيد من المعلومات."
+
+msgid ""
+"We think of green plants as <span class=\"key\">producers</span>. They use "
+"some of the sugar produced during photosynthesis to power their own cells, "
+"and the rest is stored in the form of carbohydrates, proteins, and fat."
+msgstr ""
+" نحن نفكر في النباتات الخضراء <span class=\"key\">كمنتجات</span>.   فهي "
+"تستخدم بعض من السكر المنتج خلال عملية التمثيل الضوئي لتقوية الخلايا الخاصة "
+"بها، ويتم تخزين الباقي على شكل كربوهيدرات، وبروتينات، ودهون."
+
+msgid ""
+"<span class=\"key\">Consumers</span> eat producers, digesting the plant "
+"compounds and using them for energy and for building their own "
+"carbohydrates, proteins, and fats."
+msgstr ""
+" <span class=\"key\">المستهلكات</span> تأكل المنتجات .  تهضم المركبات "
+"النباتية وتستخدم للحصول على الطاقة وبناء الكربوهيدرات الخاصة بها، "
+"والبروتينات، والدهون."
+
+msgid ""
+"First-order consumers, also called <span class=\"key\">herbivores</span>, "
+"eat only plant material.  Second-order consumers eat other consumers."
+msgstr ""
+"المستهلكات من الدرجة الأولى ، تسمى <span class=\"key\">آكلات الأعشاب (أو "
+"الحيوانات العاشبة)</span>  ، وتأكل المواد النباتية فقط..  أما المستهلكات من "
+"الدرجة الثانية  فتأكل المستهلكات الآخرى."
+
+msgid ""
+"Animals that eat only other animals are called <span class=\"key"
+"\">carnivores</span>."
+msgstr ""
+"تسمى الحيوانات التي تأكل حيوانات أخرى فقط تسمى<span class=\"key\">آكلات "
+"اللحوم</span> ."
+
+msgid ""
+"Animals that eat both plants and animals are called <span class=\"key"
+"\">omnivores</span>."
+msgstr ""
+"وتسمى الحيوانات التي تأكل النباتات والحيوانات على حد سواء <span class=\"key"
+"\">القارتات</span> "
+
+msgid ""
+"A direct sequence of producer being eaten by first order consumer which is "
+"then eaten by a second-order consumer is called a <span class=\"key\">food "
+"chain</span>."
+msgstr ""
+"يطلق على التسلسل المباشر للمنتجات التي يتم أكلها من قبل مستهلكات من الدرجة "
+"الأولى والتي يتم أكلها بواسطة مستلكات من الدرجة الثانية ب <span class=\"key"
+"\">السلسلة الغذائية</span>."
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by bacteria and fungi. This diverse group of organisms, called <span "
+"class=\"key\">decomposers</span>, also go to work on the waste matter "
+"dropped by animals.  They use the nonliving material for food, releasing "
+"some carbon dioxide back into the air and breaking it down into its simplest "
+"parts.  This process turns the dead plant or animal back into soil which can "
+"then be used for new plant growth.  The released carbon dioxide is also "
+"reused for photosynthesis."
+msgstr ""
+"عندما يموت شيء حي ولم يستهلك  من قبل حيوان، يستهلك بواسطة البكتيريا "
+"والفطريات.  هذه مجموعة متنوعة من الكائنات الحية، وتسمى <span class=\"key"
+"\">المحللات</span> ، وتعمل على تحليل الفضلات من الحيوانات.  إنها تستخدم "
+"المواد غير الحية للغذاء واطلاق بعض ثاني أكسيد الكربون إلى الهواء وتقسمها إلى "
+"أجزاء بسيطة.  هذه العملية تحول النباتات أو الحيوانات الميتة مرة أخرى إلى "
+"تربة والتي يمكن ان تستخدم بعد ذلك لنمو النبات الجديد.  يتم إعادة استخدام "
+"ثاني أكسيد الكربون المنبعث أيضا لعملية التمثيل الضوئي."
+
+msgid ""
+"Over a span of years, the same atoms and molecules may cycle back and forth "
+"between different types of plants and animals over and over.  Every time "
+"they are combined to make a bigger molecule, energy is stored in the "
+"chemical bonds that hold them together.  Every time they are broken apart, "
+"that same energy is released to provide energy for life processes."
+msgstr ""
+"على مر  السنوات، نفس الذرات والجزيئات يمكن تدويرها بين أنواع مختلفة من "
+"النباتات والحيوانات مرارا وتكرارا.  في كل مرة يتم دمجهما لتكوين جزيء أكبر، "
+"يتم تخزين الطاقة في الروابط الكيميائية التي تربطها مع بعضها.  في كل مرة يتم "
+"تكسيرها، يتم تحرير نفس الطاقة لإعطاء طاقة لعمليات الحياة."
+
+msgid ""
+"Under certain circumstances, decomposers may not be available to fully break "
+"dead matter apart.  If the circumstances are just right, that matter may be "
+"preserved, keeping its complex carbon-based molecules mostly intact. When "
+"plant materials are preserved in this way, and then compressed beneath many "
+"layers of rock, <span class=\"key\">coal</span> is produced. When ocean "
+"microorganisms face similar conditions, the resulting product is crude oil, "
+"or <span class=\"key\">petroleum</span>."
+msgstr ""
+"في ظل ظروف معينة، قد لا تتوفر المحللات لتكسر المادة الميتة تماما .  إذا كانت "
+"الظروف ملائمة، يمكن الحفاظ على هذه المادة، وحفظ جزيئاتها المعتمدة الكربون "
+"المعقد لحفظها سليمة.  عندما يتم حفظ المواد النباتية بهذه الطريقة ومن ثم "
+"ضغطها تحت عدة طبقات من الصخر ، ينتج <span class=\"key\">الفحم</span>.  عندما "
+"تواجه الكائنات الحية الدقيقة في المحيطات ظروف مماثلة، الناتج يكون النفط "
+"الخام، أو <span class=\"key\">البترول</span>."
+
+msgid "Large offshore oil rig drilling for petroleum"
+msgstr "عملية بحرية ضخمة لحفر آبار النفط."
+
+msgid "Fossil leaves"
+msgstr "أوراق شجر أحفورية."
+
+msgid "Coal mining site"
+msgstr "موقع التنقيب عن الفحم."
+
+# 7
+msgid ""
+"Question A. Plants are generally understood to play which role in the "
+"ecosystem?"
+msgstr " السؤال أ.  أي دور تلعبه النباتات في النظام البيئي عموما؟"
+
+msgid "Producers"
+msgstr "المنتجات."
+
+msgid "First-order consumers"
+msgstr "المستهلكات من الدرجة الأولى."
+
+msgid "Herbivores"
+msgstr "الحيوانات العاشبة"
+
+msgid "Decomposers"
+msgstr "المحللات"
+
+msgid ""
+"Question B. Which of the following illustrates the complex set of "
+"relationships in a plant/animal community?"
+msgstr ""
+"السؤال ب. أي من التالي يوضح مجموعة معقدة من العلاقات في مجتمع النبات / "
+"الحيوان؟"
+
+msgid "Food pyramid"
+msgstr "الهرم الغذائي."
+
+msgid "Temperature graph"
+msgstr "الرسم البياني لدرجة الحرارة"
+
+msgid "Food web"
+msgstr "الشبكة الغذائية."
+
+msgid "Periodic table"
+msgstr "الجدول الدوري"
+
+msgid "Correct! Producers gather solar energy in photosynthesis."
+msgstr "صحيح!  تجمع المنتجات الطاقة الشمسية في عملية التمثيل الضوئي."
+
+msgid "No. Consumers eat plants."
+msgstr "لا، المستهلكات تأكل النباتات."
+
+msgid "Sorry. Herbivores eat plants."
+msgstr "آسف. الحيوانات العاشبة تأكل النباتات."
+
+msgid "Nope. Decomposers break down dead material."
+msgstr "كلا. المحللات تكسر المواد الميتة."
+
+msgid "Not quite. The pyramid may be useful in meal planning, though."
+msgstr ""
+"ليس تماما.  بالرغم من ذلك فأن الهرم الغذائي قد يكون مفيدا في تنظيم الوجبات."
+
+msgid "Ummm... Not related to plant/animal relationships."
+msgstr "مممم.. غير مرتبطة بعلاقات النبات / الحيوان."
+
+msgid "Yes! Food webs illustrate complex plant/animal relationships."
+msgstr "نعم! توضح الشبكات الغذائية توضح علاقات النبات / الحيوان المعقدة."
+
+msgid "Not quite. The periodic table is a tool for chemistry."
+msgstr "ليس تماما. الجدول الدوري هو أداة للكيمياء."
+
+# 8
+msgid ""
+"Coal and petroleum are considered to be <span class=\"key\">fossil fuels</"
+"span>, because they are the remains of living organisms, millions of years "
+"old. <span class=\"key\">Coal</span> was the fuel for the industrial "
+"revolution, providing the vast amounts of energy required to power the steel "
+"mills and steam engines.  Steady wages, new products, and higher "
+"concentrations of people led to dramatic upward shifts in the standards of "
+"living of people all over the world."
+msgstr ""
+"يعتبر البترول والفحم من أنواع <span class=\"key\">الوقود الأحفوري</span> ، "
+"لأنها  بقايا الكائنات الحية، والتي عمرها ملايين السنين.  كان <span class="
+"\"key\">الفحم </span> الوقودا للثورات الصناعية، ويوفر كميات كبيرة من الطاقة "
+"اللازمة لتشغيل مصانع الصلب والمحركات البخارية. الأجور ثابتة، والمنتجات "
+"الجديدة، والتركيز العالي من البشر  قاد إلى تحولات دراماتيكية تصاعدية في "
+"مستويات معيشة الناس في جميع أنحاء العالم."
+
+msgid ""
+"<span class='key'>Petroleum</span> was the fuel for another industrial "
+"revolution at the beginning of the Twentieth Century. Automobiles and "
+"airplanes required the concentration of a lot of energy in a small package "
+"to speed up travel and make it available to common people; petroleum was "
+"just the ticket."
+msgstr ""
+"كان <span class='key'> البترول </span>  وقودا لثورة صناعية أخرى في بداية "
+"القرن العشرين.  السيارات والطائرات تتطلب تركيز الكثير من الطاقة في مجموعة "
+"صغيرة لتسريع السفر وجعله متاحاً لعامة الناس؛ فالنفط هو مجرد تذكرة."
+
+msgid ""
+"We still use huge amounts of coal and petroleum around the world, but we are "
+"beginning to understand the long-term costs of using these resources. Fossil "
+"fuels take a very long time to form, much longer than they take to use up. "
+"Even though new supplies of coal and oil are still being found, the time "
+"required for them to form makes it inevitable that we will eventually run "
+"out. Here's how the system works."
+msgstr ""
+"نحن لا نزال نستخدم كميات هائلة من الفحم والبترول في جميع أنحاء العالم، ولكن "
+"بدأنا نفهم التكاليف من استخدام هذه الموارد  على المدى الطويل.  فالوقود "
+"الأحفوري يستغرق وقتا طويلا جدا ليتشكل، أطول بكثير من استخدامه.  على الرغم من "
+"وجود  كميات جديدة من النفط والفحم  فان الوقت المطلوب لها لتتشكل يجعلها حتمية "
+"أنها في النهاية ستنضب.  وهذا توضيح لكيف يعمل هذا النظام."
+
+msgid ""
+"Burning fossil fuels releases vast amounts of carbon dioxide into the "
+"atmosphere. This carbon dioxide was originally trapped by photosynthesis "
+"millions of years ago and stored as living material. When that material was "
+"converted into coal and petroleum, it was stored indefinitely below ground. "
+"Now, this stored carbon is being returned to the atmosphere at rates far "
+"faster than when it was removed. This has led to changes in climate patterns "
+"because carbon dioxide absorbs solar energy, heating the atmosphere."
+msgstr ""
+"حرق الوقود الأحفوري يطلق كميات هائلة من ثاني أكسيد الكربون في الغلاف الجوي.  "
+"منذ ملايين السنين  حوصر ثاني أكسيد الكربون من التمثيل الضوئي  وخزن كمادة "
+"حية.  وحولت  تلك المواد إلى الفحم والنفط، وخزنت  تحت سطح الأرض إلى أجل غير "
+"مسمى. الآن، يرجع هذا الكربون المخزن في الغلاف الجوي بمعدلات أسرع بكثير عما "
+"كان عليه عندما تمت إزالته.  وقد أدى ذلك إلى تغييرات في أنماط المناخ لأن ثاني "
+"أكسيد الكربون يمتص الطاقة الشمسية، مدفئا الغلاف الجوي."
+
+msgid ""
+"One possible solution to the problem of using up fossil fuels is to make "
+"fuels using solar energy to remove carbon and produce new fuels. That's what "
+"photosynthesis does. It uses the sun's energy to remove carbon dioxide from "
+"the air and make molecules of sugar."
+msgstr ""
+"أحد الحلول الممكنة لمشكلة استنضاب الوقود الأحفوري هو باستخدام الطاقة الشمسية "
+"لإزالة الكربون وإنتاج أنواع جديدة من الوقود.  هذا ما تقوم  به عملية التمثيل "
+"الضوئي. إنه يستخدم طاقة الشمس لإزالة ثاني أكسيد الكربون من الهواء  ويقوم "
+"بعمل  جزيئات السكر."
+
+# 9
+msgid "Question A. Coal is a fossil fuel made up mostly of..."
+msgstr "السؤال أ. الفحم هو الوقود الأحفوري والذي يتكون في معظمه من ..."
+
+msgid "Dinosaur remains"
+msgstr "رفاة الديناصور"
+
+msgid "Marine fossils"
+msgstr "الأحفوريات البحرية"
+
+msgid "Plant material"
+msgstr "المواد النباتية"
+
+msgid "Preserved insects"
+msgstr "الحشرات المحفوظة"
+
+msgid "Question B. The energy stored in fossil fuels came originally from..."
+msgstr "السؤال ب. الطاقة المخزنة في الوقود الأحفوري جاءت أصلا من ..."
+
+msgid "The sun"
+msgstr "الشمس"
+
+msgid "Waterfalls"
+msgstr "الشلالات"
+
+msgid "Volcanoes"
+msgstr "البراكين"
+
+msgid "Dinosaurs"
+msgstr "الديناصورات."
+
+msgid ""
+"Not dinosaurs... Even though some oil companies use them in advertising."
+msgstr "ليست الديناصورات ... حتى أن بعض شركات النفط تستخدمها في الدعاية."
+
+msgid "Close... Marine fossils are the source for petroleum."
+msgstr "جواب قريب ... الأحافير البحرية هي مصدر للبترول"
+
+msgid "That's right! Slabs of coal often include impressions of leaves."
+msgstr "هذا صحيح! وغالبا ما تشمل ألواح الفحم علامات من أوراق الشجر."
+
+msgid "Sorry. Coal isn't from insects."
+msgstr "اسف، الفحم ليس من الحشرات ."
+
+msgid "That's right! Coal and petroleum are the remains of living things."
+msgstr "هذا صحيح! الفحم والنفط هي بقايا كائنات حية."
+
+msgid "Sorry... Waterfalls don't make fossil fuels."
+msgstr "آسف ... الشلالات لا تصنع الوقود الأحفوري."
+
+msgid "Um... no. Volcanoes would actually burn fuels away."
+msgstr "مممم ... لا. أن البراكين تحرق الوقود كاملاً."
+
+msgid "Not dinosaurs, even though they may have left fossils."
+msgstr "ليست الديناصورات، على الرغم من أنها قد تركت أحافير."
+
+# 10
+msgid "Using what you know... about energy for life... to solve a problem"
+msgstr "استخدم ما تعرفه ... عن الطاقة من أجل الحياة ... لحل مشكلة ما."
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"The burning of fossil fuels has saved people lots of time and labor while "
+"raising living standards around the world. But burning fossil fuels "
+"contributes to global warming and is dangerous for the future. Many people "
+"argue that the United States should not take action to reduce its use of "
+"fossil fuels unless all other countries around the world reduce their use of "
+"fossil fuels as well. They argue that any changes made only by the US will "
+"be insignificant."
+msgstr ""
+"حرق الوقود الأحفوري قد انقذ الكثيرمن الناس من الوقت والجهد في حين ارتفعت "
+"مستويات المعيشة في جميع أنحاء العالم.  لكن حرق الوقود الاحفوري يساهم في "
+"الاحتباس الحراري العالمي والذي يشكل خطرا على المستقبل. كثيراً من الناس يقولون "
+"ان الولايات المتحدة لا ينبغي أن تتخذ إجراءات للحد من استخدامها للوقود "
+"الأحفوري ما لم تخفض جميع البلدان استخدامها للوقود الأحفوري أيضاً.  ويجادلون "
+"بأن أية تغييرات يتم إجراؤها من قبل الولايات المتحدة سوف يكون لها أهمية عالية."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid ""
+"Prepare some \"talking points\" (things that people might say) for people on "
+"both sides of the issue. Use the headings, \"Reasons why the US should cut "
+"back on the use of fossil fuels\" and \"Reasons why the US should not cut "
+"back on the use of fossil fuels\" to organize your talking points.  Enter or "
+"cut and paste your talking points in the text box provided."
+msgstr ""
+"حضر بعض \"نقاط الحديث\" (الأشياء التي قد يقولها الناس) لاشخاص لهم اراء "
+"مختلفة بالقضية.   واستخدم العناوين،.. \"أسباب وجوب الولايات المتحدة تقليص "
+"استخدام الوقود الأحفوري\" و \"أسباب عدم  وجوب الولايات المتحدة تقليص استخدام "
+"الوقود الأحفوري\" لتنظيم نقاط الحوار الخاص بك.  أدخل أو قص وألصق نقاط الحوار "
+"الخاصة بك في مربع النص الموجود."
+
+# 11
+msgid "Summarizing core ideas... about energy for life"
+msgstr "تلخيص الأفكار الأساسية ... حول الطاقة من أجل الحياة"
+
+msgid ""
+"In green plants, a process called <span class='key'>photosynthesis</span> "
+"captures light energy and stores it in the chemical bonds of sugars.  These "
+"sugars may be used directly by the plant or by other living things, or they "
+"may be converted into a variety of energy storage molecules. These molecules "
+"may be used later. Organisms that capture solar energy are called <span "
+"class='key'>producers</span>. Organisms which use the energy stored by "
+"plants are called <span class='key'>consumers</span>. Each set of "
+"relationships between producers, consumers, and their physical environments "
+"is called a <span class='key'>food web</span>. When plants and animals die, "
+"their bodies decompose, releasing the stored energy. Sometimes, the bodies "
+"do not completely decompose and the stored energy may be converted into "
+"substances which may remain underground for millions of years. <span "
+"class='key'>Coal</span> is the product of the incomplete decomposition of "
+"plant material. Oil and natural gas are the products of a similar process in "
+"ocean organisms. The fact that these products are the remains of living "
+"things millions of years old is why they are called <span class='key'>fossil "
+"fuels</span>."
+msgstr ""
+"في النباتات الخضراء،  عملية تسمى <span class=\"key\">التركيب الضوئي</span> "
+"تلتقط الطاقة الضوئية وتخزنها في الروابط الكيميائية في السكريات.  ويمكن "
+"استخدام هذه السكريات مباشرة من قبل النباتات أو الكائنات الحية الأخرى، أو أنه "
+"يمكن تحويلها إلى مجموعة متنوعة من جزيئات تخزين الطاقة.  ويمكن استخدام هذه "
+"الجزيئات في وقت لاحق. الكائنات الحية التي تلتقط الطاقة الشمسية تسمى <span "
+"class=\"key\">المنتجات</span>.  ويطلق على الكائنات الحية التي تستخدم الطاقة "
+"المخزونة من النباتات <span class=\"key\"> المستهلكات</span>.  وتسمى كل "
+"مجموعة من العلاقات بين المنتجات والمستهلكات وبيئاتها المادية ب <span class="
+"\"key\">الشبكة الغذائية</span> .  عندما تموت النباتات والحيوانات، وتتحلل "
+"أجسادها، تنطلق الطاقة المخزنة.  في بعض الأحيان، لا تتحلل الأجسام تماما ويمكن "
+"تحويل الطاقة المخزونة في المواد التي قد تبقى تحت الأرض لملايين السنين.  "
+"<span class=\"key\">الفحم </span> هو نتاج تحلل غير كامل من المواد النباتية.  "
+"النفط والغاز الطبيعي هما نتاج عملية مماثلة في الكائنات الحية في المحيطات.  "
+"والحقيقة أن هذه المنتجات هي بقايا كائنات حية عمرها ملايين السنوات ولهذا "
+"السبب يطلق عليها <span class=\"key\">الوقود الأحفوري</span> ."
+
+msgid "Reviewing key vocabulary related to... the energy for life"
+msgstr "مراجعة المفردات الأساسية ذات الصلة ... بالطاقة في  للحياة"
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"التمثيل الضوئي، العملية التي من خلالها تحصل المنتجات  مثل النباتات على "
+"طاقتها، وتستخدم الطاقة الضوئية لتحويل ثاني أكسيد الكربون والماء إلى الأكسجين "
+"والسكر."
+
+msgid "Chloroplast"
+msgstr "البلاستيدات الخضراء"
+
+msgid ""
+"Photosynthesis occurs in the part of a plant cell that is actually green, a "
+"structure called a chloroplast. Chloroplast organelles are found mostly in "
+"leaves and stems, and contain a green pigment chemical called chlorophyll "
+"which is able to absorb energy from the sun."
+msgstr ""
+"يحدث التمثيل الضوئي في جزء من خلية نباتية التي هي في الواقع خضراء، التركيب "
+"يسمى بلاستيدات الخضراء.  البلاستيدات هذه هي عضيات معظمها في الأوراق "
+"والسيقان، وتحتوي على مادة كيميائية تسمى الكلوروفيل ذات الصبغة الخضراء التي "
+"هي قادرة على امتصاص الطاقة من الشمس."
+
+msgid "Chlorophyll"
+msgstr "الكلوروفيل"
+
+msgid ""
+"Within the chloroplast organelle of plant leaves and stems is a green "
+"pigment called chlorophyll, which is able to absorb energy from the sun. "
+"Thus, chlorophyll is essential in photosynthesis."
+msgstr ""
+"داخل عضية البلاستيدات الخضراء من أوراق النبات والسيقان  صبغة خضراء تسمى "
+"الكلوروفيل، والتي هي قادرة على امتصاص الطاقة من الشمس.  وبالتالي، الكلوروفيل "
+"أمر أساسي في عملية التمثيل الضوئي."
+
+msgid "Starch"
+msgstr "النشا"
+
+msgid ""
+"Most of our energy comes from the sugars and starches in our diets. Starches "
+"are actually long chains of simple sugar molecules, bonded together."
+msgstr ""
+"معظم طاقتنا تأتي من السكريات والنشويات في وجباتنا الغذائية.  النشويات في "
+"الحقيقة سلاسل طويلة من جزيئات السكر بسيطة، ومرتبطة مع بعضها."
+
+msgid ""
+"Cellular respiration is a complex, many-stepped process in which energy is "
+"released through the breaking down of sugar and use of oxygen. Cellular "
+"respiration releases energy and forms carbon dioxide and water."
+msgstr ""
+"التنفس الخلوي هو عملية  معقدة كثيرة  الخطوات التي يتم تحريرالطاقة بها من "
+"خلال تحطيم السكر واستخدام الأوكسجين.  التنفس الخلوي يطلق الطاقة ويشكل ثاني "
+"أكسيد الكربون والماء."
+
+msgid "Producer"
+msgstr "منتج"
+
+msgid ""
+"Green plants, and some other organisms in nature, are producers. Instead of "
+"consuming other organisms, producers use the process of photosynthesis to "
+"produce the energy they need to power their own cells."
+msgstr ""
+"النباتات الخضراء، وبعض الكائنات الحية الأخرى في الطبيعة، تعتبر منتجة.  بدلا "
+"من استهلاك الكائنات الحية الأخرى، تستخدم المنتجات عملية التمثيل الضوئي "
+"لإنتاج الطاقة التي يحتاجون إليها لتشغيل خلايا خاصة بهم."
+
+msgid "Consumer"
+msgstr "مستهلك"
+
+msgid ""
+"Consumers are organisms that cannot produce their own energy through "
+"photosynthesis and, thus, eat producers. They digest the plant compounds and "
+"use them for energy and for building their own carbohydrates, proteins, and "
+"fats. A bison, tiger, and people are examples of consumers."
+msgstr ""
+"المستهلكات هي الكائنات الحية التي لا يمكن أن تنتج الطاقة الخاصة بها من خلال "
+"عملية التمثيل الضوئي، وبالتالي تأكل المنتجات.  وهي تهضم المركبات النباتية "
+"وتستخدمها للحصول على الطاقة وبناء الكربوهيدرات ، والبروتينات، والدهون الخاصة "
+"بها.  والثور،و النمر، والبشر هي أمثلة على المستهلكات."
+
+msgid "Herbivore"
+msgstr "عاشب"
+
+msgid ""
+"An herbivore is a type of consumer; herbivores eat only plants. Elephants, "
+"giraffes, and deer are examples of herbivores."
+msgstr ""
+"عاشب هو نوع من المستهلكات؛ الحيوانات العاشبة تأكل النباتات فقط . الفيلة "
+"والزرافات والغزلان هي أمثلة من الحيوانات العاشبة."
+
+msgid "Carnivore"
+msgstr "أكلة اللحوم"
+
+msgid ""
+"A carnivore is a type of consumer; carnivores eat only meat. Cats, dogs, and "
+"crocodiles are examples of carnivores."
+msgstr ""
+"وآكلات اللحوم هو نوع من المستهلكات؛   الحيوانات آكلة اللحوم تأكل اللحوم "
+"فقط .  فالقطط، والكلاب، والتماسيح أمثلة من آكلات اللحوم."
+
+msgid "Omnivore"
+msgstr "القارت (آكل النبات والحيوان)"
+
+msgid ""
+"An omnivore is a type of consumer; omnivores eat both plants and meat. "
+"Bears, birds, and people are examples of omnivores."
+msgstr ""
+"القارت هو نوع من أنواع المستهلكات ؛ القارتات تأكل كل من النباتات واللحوم.  "
+"الدببة والطيور والبشر هي أمثلة على القارتات."
+
+msgid "Food chain"
+msgstr "سلسلة غذائية"
+
+msgid ""
+"A direct sequence of producer organisms being eaten by consumer organisms "
+"such as herbivores, which are then eaten by second-order consumers such as "
+"omnivores and carnivores, is called a food chain."
+msgstr ""
+"هناك تسلسل مباشر من المنتجات التي تؤكل بواسطة المستهلكات مثل الحيوانات "
+"العاشبة، والتي تؤكل من قبل المستهلكات من الدرجة الثانية مثل القارتات وآكلات "
+"اللحوم، تسمى سلسلة غذائية."
+
+msgid "Decomposer"
+msgstr "محلل"
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by a group of organisms called decomposers. Bacteria and fungi are "
+"two main types of decomposers, which also go to work on the waste matter "
+"dropped by animals."
+msgstr ""
+"عندما يموت كائن حي ولم يُستَهلك بواسطة حيوان، فإنه يستهلك عن طريق  مجموعة من "
+"الكائنات تسمى المحللات.  البكتيريا والفطريات نوعان رئيسيان من المحللات، التي "
+"تعيش على فضلات الحيوانات."
+
+msgid "Coal"
+msgstr "فحم"
+
+msgid ""
+"When plant materials are preserved in such a way that their complex carbon-"
+"based molecules are kept mostly intact, and then compressed beneath many "
+"layers of rock, coal is produced. Coal is an example of a fossil fuel."
+msgstr ""
+"عندما تحفظ المواد النباتية بطريقة تجعل جزيئات الكربون المعقدة سليمة "
+"ومحفوظة.  ومن ثم تضغط  تحت عدة طبقات من الصخور، يتم إنتاج الفحم.  الفحم هو "
+"مثال على الوقود الأحفوري."
+
+msgid "Petroleum"
+msgstr "البترول"
+
+msgid ""
+"When ocean microorganisms are preserved in such a way that their complex "
+"carbon-based molecules are kept mostly intact, and then compressed beneath "
+"many layers of rock, crude oil, or petroleum, is produced. Petroleum is an "
+"example of a fossil fuel."
+msgstr ""
+"عندما تحفظ الكائنات الدقيقة بطريقة تجعل جزيئات الكربون المعقدة سليمة ، ومن "
+"ثم تضغط  تحت عدة طبقات من الصخور، ويتم إنتاج النفط الخام أو البترول.  "
+"البترول هو مثال على الوقود الأحفوري."
+
+msgid "Fossil Fuels"
+msgstr "الوقود الأحفوري."
+
+msgid ""
+"Coal and petroleum are considered to be fossil fuels because they are the "
+"remains of living organisms, which are called fossils. Fossil fuels are "
+"considered to be a nonrenewable resource."
+msgstr ""
+"يعتبر الفحم والبترول من الوقود الأحفوري لأنه من بقايا الكائنات الحية، والتي "
+"تسمى أحافير.  يعتبر الوقود الأحفوري  موردا غير متجدداً."
+
+# 13
+msgid "Checking what you now know... about energy for life"
+msgstr "تأكد مما تعرف عن ... الطاقة في الحياة."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+# 14
+msgid ""
+"Which of the following is the name of the process in which green plants "
+"convert solar energy into chemical bond energy?"
+msgstr ""
+"أي من التالي هو اسم العملية التي تحول فيها النباتات الخضراء الطاقة الشمسية "
+"إلى طاقة رابطة كيميائية؟"
+
+msgid "Glycolysis"
+msgstr "هدم السكر"
+
+msgid "No! Respiration is part of the story, but not this part of the story."
+msgstr "لا! التنفس هو جزء من القصة، ولكن ليس هذا الجزء من القصة."
+
+msgid "Yes! Photosynthesis captures and stores energy from the sun."
+msgstr "نعم! التمثيل الضوئي يلتقط ويخزن الطاقة من الشمس."
+
+msgid "Hmmm.... Does this word appear in this review?"
+msgstr "مممم .... هل تَظهر هذه الكلمة في هذه المراجعة؟"
+
+msgid "It's related..... But not the answer."
+msgstr "إنها مرتبطة ..لكنها ليست الجواب."
+
+# 15
+msgid ""
+"Click on the statement about coal and petroleum that is <span class=\"blink"
+"\">incorrect</span>. Rotate or flip the 3D box below either up or down to "
+"set your answer."
+msgstr ""
+"انقر على العبارة <span class=\"blink\">غير الصحيحة</span> عن الفحم "
+"والبترول . دَوِر او اقلب الصندوق ثلاثي الأبعاد أدناه إما لأعلى أو لأسفل لتحديد "
+"الإجابة."
+
+msgid "Coal and petroleum are important fuel resources."
+msgstr "الفحم والبترول هما مصادر وقود هامة."
+
+msgid "There is an unlimited supply of them for years to come."
+msgstr "هناك امداد غير محدد منها لسنوات قادمة."
+
+msgid "Burning them has negative side effects for the environment."
+msgstr "حرقهم له آثار جانبية سلبية على البيئة."
+
+msgid "They are extracted through deep wells and mines."
+msgstr "يتم استخلاصها من خلال الآبار العميقة والمناجم."
+
+msgid "Click, hold and drag up or down"
+msgstr "انقر، وامسك ومرر لأعلى أو لأسفل."
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"ادر او اقلب الصندوق للاسفل و للاعلى لوضع اجابتك ، انقر،وثبت ، و حرك الفأرة "
+"لأعلى أو للأسفل."
+
+msgid "No, a great deal of coal and petroleum are used for energy."
+msgstr "لا، يتستخدم الكثير من الفحم والنفط للحصول على الطاقة."
+
+msgid "That's right. Both coal and petroleum have limited supplies."
+msgstr "هذا صحيح.  كل من الفحم والبترول بها امداد محدود."
+
+msgid ""
+"Sorry, there are many negative side effects from burning coal and petroleum."
+msgstr ""
+"آسف ، هناك العديد من الآثار الجانبية السلبية الناجمة عن حرق الفحم والبترول."
+
+msgid "Nope. Many wells and mines are very deep indeed."
+msgstr "كلا.  في الواقع العديد من الآبار والمناجم عميقة جدا."
+
+# 16
+msgid ""
+"Based on the food web, which of these is <span class=\"blink\">not</span> a "
+"consumer?"
+msgstr ""
+"بناءً على الشبكة الغذائية، أي من التالي <span class=\"blink\">ليس</span>  "
+"مستهلكاً؟"
+
+msgid "Eagle"
+msgstr "نسر"
+
+msgid "Sparrow"
+msgstr "عصفور"
+
+msgid "Rabbit"
+msgstr "أرنب"
+
+msgid "Grasshopper"
+msgstr "جندب"
+
+msgid "Grass"
+msgstr "عشب"
+
+msgid "Nope. The eagle is the top consumer in this web."
+msgstr "كلا. النسر هو أكبر مستهلك في هذه الشبكة."
+
+msgid "Nope. Sparrows eat grasshoppers."
+msgstr "كلا.  العصافير تأكل الجنادب."
+
+msgid "Nope. Grasshopper eat grass."
+msgstr "كلا.  الجنادب تأكل الأعشاب."
+
+msgid "That's right. The grass is the foundation of this web."
+msgstr "هذا صحيح. العشب هو أساس هذه الشبكة."
+
+# 17
+msgid ""
+"Look at the pictures below. In which case do you think coal would be used as "
+"fuel? Click the picture to select your answer."
+msgstr ""
+"إلق نظرة على الصور أدناه.  في أي حالة تعتقد أن الفحم يجب استخدامه كوقود؟ "
+"انقر فوق الصورة لتحديد جوابك."
+
+msgid "Car"
+msgstr "سيارة"
+
+msgid "Flame from a gas range."
+msgstr "لهب من موقد غاز."
+
+msgid "Airplane"
+msgstr "طائرة."
+
+msgid "Large factory"
+msgstr "مصنع كبير."
+
+msgid "Incorrect. Coal would be very heavy for a car to use."
+msgstr "غير صحيح.  الفحم سيكون ثقيلا جدا لتستخدمه سيارة."
+
+msgid "Nope. The flame comes from a gas range."
+msgstr "لا ,اللهب يأتي من موقد غاز."
+
+msgid "An airplane? Not likely – coal is very heavy."
+msgstr "طائرة؟ ليس من المرجح - الفحم ثقيل جدا."
+
+msgid "There you go. A large factory may well use coal."
+msgstr "صحيح .  قد يستخدم مصنع كبير  الفحم."
+
+# 18
+msgid ""
+"Choose the <span class=\"blink\">correct</span> statement. Rotate or flip "
+"the 3D box below either up or down to set your answer."
+msgstr ""
+"اختر المفهوم  <span class=\"blink\">الصحيح</span> . أدر أو اقلب الصندوق "
+"ثلاثي الأبعاد أدناه إما لأعلى أو لأسفل لتحديد الإجابة."
+
+msgid "All living things perform photosynthesis."
+msgstr "جميع الكائنات الحية تقوم بعملية التمثيل الضوئي."
+
+msgid "Only animals make use of cellular respiration."
+msgstr "فقط الحيوانات تستفيد من التنفس الخلوي."
+
+msgid "Mitochondria are the location of photosynthesis."
+msgstr "الميتوكوندريا هي موقع التمثيل الضوئي."
+
+msgid "Both plants and animals perform cellular respiration."
+msgstr "كل من النباتات والحيوانات تقوم بالتنفس الخلوي."
+
+msgid "Sorry. Photosynthesis is a green plant thing."
+msgstr "آسف. التمثيل الضوئي هو  نبات أخضر."
+
+msgid "This confuses lots of people. Both plants and animals use respiration."
+msgstr "هذا يربك الكثير من الناس . كلاً من النباتات والحيوانات تتنفس."
+
+msgid ""
+"The exact opposite. Mitochondria are the location of cellular respiration."
+msgstr "على العكس تماما. الميتوكوندريا هي مكان التنفس الخلوي."
+
+msgid "Correct! Plants and animals both use cellular respiration."
+msgstr "صحيح! النباتات والحيوانات على حد سواء تستخدم التنفس الخلوي."
+
+# 19
+msgid ""
+"Click on <span class=\"blink\">all</span> the changes that you think the "
+"events are causing."
+msgstr ""
+"انقر على  <span class=\"blink\">جميع</span>  التغييرات التي تعتقد أن الأحداث "
+"قد تسببت بها."
+
+msgid "Green plants absorb solar energy."
+msgstr "النباتات الخضراء تمتص الطاقة الشمسية."
+
+msgid "Oxygen is used and carbon dioxide is generated."
+msgstr "الأكسجين يستخدم وثاني أكسيد الكربون ينتج."
+
+msgid "Sugar and oxygen are manufactured."
+msgstr "يتم تصنيع السكر والأكسجين."
+
+msgid "Energy is converted into forms used by all living things."
+msgstr "يتم تحويل الطاقة إلى أشكال تستخدم من قبل جميع الكائنات الحية."
+
+msgid "Stored carbon reserves are burned as fuel."
+msgstr "يتم حرق احتياطيات الكربون المخزنة كوقود."
+
+msgid "Carbon dioxide stored long ago is released into the atmosphere."
+msgstr "يتم تحرير ثاني أكسيد الكربون المخزن منذ فترة طويلة في الغلاف الجوي"
+
+msgid "Oxygen and starch are produced."
+msgstr "يتم انتاج الأكسجين والنشا."
+
+msgid "Energy for electricity, heat, and transportation is released."
+msgstr "يتم تحرير الطاقة لتوليد الكهرباء والحرارة."
+
+msgid "Cells consume sugar and oxygen."
+msgstr "الخلايا تستهلك السكر والأكسجين."
+
+msgid "Energy is stored for use by higher organisms."
+msgstr "يتم تخزين الطاقة لاستخدامها من قبل الكائنات الأعلى."
+
+msgid "Cells release the energy they need for life."
+msgstr "الخلايا تحرر الطاقة التي تحتاج إليها من أجل الحياة."
+
+msgid "Chemical bonds are broken and energy is released."
+msgstr " يتم كسر الروابط الكيميائية ويتم تحرير الطاقة."
+
+# 20
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid "You've completed the Energy for Life review."
+msgstr "لقد أتممت مراجعة الطاقة من أجل الحياة."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكن التحقق مما قدمته في (الاختبار السريع) و (الاسئلة القصيرة) لهذه المراجعة "
+"من خلال النقر على الزر أدناه."

@@ -1,0 +1,43 @@
+#animation {
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+	margin-top: 10px;
+}
+
+#rotate {
+	animation: rotatewheel 2s linear 0s infinite;
+	-webkit-animation: rotatewheel 2s linear 0s infinite;
+	-moz-animation: rotatewheel 2s linear 0s infinite;
+}
+
+@keyframes rotatewheel {
+	from { transform: rotate(-360deg); }
+	to { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes rotatewheel {
+	from { -webkit-transform: rotate(-360deg); }
+	to { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes rotatewheel {
+	from { -moz-transform: rotate(-360deg); }
+	to { -moz-transform: rotate(360deg); }
+}
+
+@keyframes moveBG {
+	from { right: -3000px; }
+	to { right: 920px; }
+}
+
+@-webkit-keyframes moveBG {
+	from { right: -3000px; }
+	to { right: 920px; }
+}
+
+@-moz-keyframes moveBG {
+	from { right: -3000px; }
+	to { right: 920px; }
+}

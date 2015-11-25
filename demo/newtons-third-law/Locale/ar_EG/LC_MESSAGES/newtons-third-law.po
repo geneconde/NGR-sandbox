@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "تقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "تقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "تقويم سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "تقويم سريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Play"
+msgstr "شغَل"
+
+msgid "Pause"
+msgstr "وقف مؤقت"
+
+msgid "Stop"
+msgstr "توقف"
+
+msgid "Mute"
+msgstr "صامت"
+
+msgid "Unmute"
+msgstr "غير صامت"
+
+msgid "Max volume"
+msgstr "أعلى صوت"
+
+msgid "Full screen"
+msgstr "شاشة كامل"
+
+msgid "Restore screen"
+msgstr "استعادة الشاشة"
+
+msgid "Repeat"
+msgstr "كرر"
+
+msgid "Repeat off"
+msgstr ""
+
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "لتشغيل الوسائط ستحتاج إما إلى تحديث المتصفح للنسخة الأخيرة أو تحديث "
+
+msgid "Flash plugin"
+msgstr "أدخل الفلاش"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر، وثبت الفأرة وحركها للأعلى وللأسفل كي تُدَوِّر الصندوق وتختار إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الوضع"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "الواجب المطلوب منك "
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "اجب عن اسئلة الاختيار التالية و عددها ( 6 ) حيث تعطيك فكرة عما تعرفه و ما تريد ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على الزر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "السؤال القصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr " السؤال القصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "السؤال القصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "السؤال القصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "السؤال القصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "السؤال القصير رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبرووووووووووك"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك على التقويم السريع والأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "التحضير لاول تقويم سريع!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد للتقويم  السريع الأخير"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال سريع ؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها ... "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال سريع هو ..."
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Welcome to the Newton's Third Law module"
+msgstr "مرحبا بكم في وحدة قانون نيوتن الثالث ،"
+
+msgid "Newton's Third Law"
+msgstr "قانون نيوتن الثالث "
+
+# 2
+msgid "Thinking about... Newton's Third Law"
+msgstr "التفكير ... بقانون نيوتن الثالث"
+
+msgid "Objects all around you are interacting with one another. These interactions can cause objects to stay still, or they can affect the object in ways that can be identified by looking for patterns in the object's motion. Often, objects are experiencing interactions with several other things at the same time. These interactions can be described based on different types of forces. Forces can be really small, like the weight of a butterfly resting on your shoulder, or they can be huge like the thrust from a rocket carrying astronauts into space."
+msgstr "تتفاعل الأشياء من حولك مع بعضها البعض.  ويمكن لهذه التفاعلات ان تجعل الأشياء ثابتة، أو يمكنها التأثير عليها بطرق يمكن تحديدها عن طريق البحث في أنماط حركة الشيء.  وبالعادة تختبر تفاعلات الأشياء  مع العديد من الأشياء الأخرى في نفس الوقت.  ويمكن وصف هذه التفاعلات حسب أنواع مختلفة من القوى. ويمكن للقوى أن تكون صغيرة، مثل وزن فراشة تستريح على كتفك، أو يمكن أن تكون ضخمة كاندفاع الصاروخ الذي يحمل رواد الفضاء إلى الفضاء."
+
+# 3
+msgid "Checking what you already know about... Newton's Third Law"
+msgstr "تحقق مما تعرف مسبقا عن ... قانون نيوتن الثالث "
+
+msgid "Which of these forces are occurring in the photo of the child on the swing?"
+msgstr "أي من هذه القوى موجودة في صورة الطفل على الأرجوحة؟"
+
+msgid "The woman pulling back on the swing."
+msgstr "رجوع المرأة للخلف على الأرجوحة"
+
+msgid "The swing pulling forward on the woman."
+msgstr "الأرجوحة تسحب المرأة للأمام"
+
+msgid "The child pulling down on the swing."
+msgstr "الطفل ينزل عن الأرجوحة"
+
+msgid "The swing pulling up on the child."
+msgstr "الأرجوحة ترفع الطفل أعلى"
+
+msgid "Playing at the park..."
+msgstr "اللعب في الحديقة..."
+
+msgid "If you checked all the boxes, you're heading in the right direction. If objects are interacting, they are exerting forces on each other."
+msgstr "إذا فحصت جميع الصناديق،فأنت تسير في الاتجاه الصحيح. إذا كانت الكائنات تتفاعل، فهي تؤثر بقوة على بعضها البعض."
+
+# 4
+msgid "Reviewing big ideas about... Newton's Third Law"
+msgstr "مراجعة الأفكار الكبيرة حول... قانون نيوتن الثالث "
+
+msgid "<span class='key'>Forces</span> are most easily thought of as a push or a pull, but objects don’t need to be in motion in order to be experiencing forces. Even when objects are sitting perfectly still, they are likely to be experiencing forces from any other objects that they are in contact with. Contact between objects is one of the clearest indicators that forces are present. Look at the interaction between the boys and the trampoline in the image below. Not only are the boys experiencing a force from the trampoline, keeping them from falling to the ground, but the trampoline is experiencing a force from the boys, causing it to stretch underneath them."
+msgstr "يمكن التفكير بأغلبية القوى أنها قوة دفع او سحب، ولكن ليس من الضروري أن تتحرك الأشياء لكي تكون تحت تأثير قوى معينة.  حتى عندما تكون  ساكنة تماما، فمن المرجح أنها تواجه قوى من أي شيء تلامسه.  التلامس بين الأشياء هو واحد من المؤشرات الأوضح التي توجدها القوى.. أنظر الى التفاعل بين الأولاد والترامبولين في الصورة أدناه.  ليس الأولاد فقط من يواجهون القوة من الترامبولين لتمكنهم من عدم السقوط، ولكن الترامبولين يواجه قوة من الأولاد، الأمر الذي أدى الى أن يتمدد من تحتهم."
+
+msgid "Although we don't notice it quite so easily, a similar interaction is occurring between this flower pot and table. The table is preventing the flower pot from crashing into the ground below, and the flower pot is causing the boards in the table to bend ever so slightly underneath it."
+msgstr "على الرغم من أننا لا نلاحظ ذلك بسهولة، هنالك تفاعل مشابه يحدث بين إناء الزهور والطاولة. الطاولة تمنع إناء الزهور من التحطم، وإناء الزهور يجعل ألواح الطاولة تنثني بخفة تحته."
+
+msgid "This idea that any time objects are interacting with each other, they exert paired forces on one another is known as <span class='key'>Newton's Third Law</span> of motion. The discovery of this law is credited to Sir Isaac Newton, a well-known physicist from 17th century England."
+msgstr "هذه الفكرة تبين أن الأشياء تتفاعل مع بعضها البعض في أي وقت،وتؤثر الأشياء على بعضها البعض في القوى المشتركة وهذا ما يعرف بقانون نيوتن الثالث للحركة.  و يعود الفضل في اكتشاف هذا القانون الى السيد اسحاق نيوتن، عالم الفيزياء المعروف من القرن ال17 في انجلترا."
+
+msgid "Jumping on trampoline..."
+msgstr "القفز على الترامبولين..."
+
+# 5
+msgid "Identify <span class='blink'>ALL</span> of the interactions occurring in this photo of a rock climber."
+msgstr "حدد كل التفاعلات التي تحدث في هذه الصورة لتسلق الصخور."
+
+msgid "The woman and the cable"
+msgstr "المرأة والسلك"
+
+msgid "The woman and the rocks"
+msgstr "المرأة والصخور"
+
+msgid "The woman and the metal stake"
+msgstr "المرأة والمشبك المعدني"
+
+msgid "I only"
+msgstr " 1  فقط"
+
+msgid "II only"
+msgstr " 2  فقط"
+
+msgid "III only"
+msgstr "3  فقط"
+
+msgid "I, II and III"
+msgstr "1 و 2 و 3"
+
+msgid "Close. The woman is grasping the cable with her hand, so there's definitely an interaction occurring there, but she’s also in contact with a few other objects in the photo."
+msgstr "لقد اقتربت من الاجابة.  تمسك المرأة السلك في يدها، لذا لا بد من وجود تفاعل أكيد بينهما، لكنها أيضا تلامس عدد قليل من الأشياء الأخرى في الصورة."
+
+msgid "Not quite. She's in contact with several other objects in addition to the rocks."
+msgstr "ليس تماما. إنها تلامس العديد من الأشياء الأخرى بالإضافة إلى الصخور."
+
+msgid "Nope. She's definitely pulling on the stake, but there are a few other objects that she’s interacting with in the photo."
+msgstr "كلا.  إنها تسحب المشبك المعدني بالتأكيد، ولكن هناك عدد قليل من الأشياء الأخرى التي تلامسها في الصورة."
+
+msgid "You've got it! She's grasping the cable in one hand, pulling on the metal stake with another, and using her feet to push off the rock surface."
+msgstr "لقد أصبت! إنها تمسك السلك في يدها، وتسحب المشبك المعدني بأخرى وتستخدم قدميها لتدفع نفسها بعيدا عن سطح الصخور."
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير تقويمك السريع الاول!"
+
+# 6
+msgid "More big ideas about... Newton's Third Law"
+msgstr "المزيد من الأفكار الكبيرة حول ... قانون نيوتن الثالث"
+
+msgid "Striking a ball..."
+msgstr "ضرب الكرة ..."
+
+# 7
+msgid "If the skater in the red jacket pushes on the skater in the blue jacket, which of the following will happen?"
+msgstr "إذا دفع المتزلج ذو السترة الحمراء المتزلج ذي السترة الزرقاء، أي من التالي سيحدث؟"
+
+msgid "The skater in the blue jacket will go backwards."
+msgstr " المتزلج في السترة الزرقاء سوف يرجع للوراء."
+
+msgid "The skater in the red jacket will go backwards."
+msgstr " المتزلج في السترة الحمراء سوف يرجع للوراء."
+
+msgid "Nothing, the skaters won't move."
+msgstr "لا شيء، لن يتحرك المتزلجين"
+
+msgid "Both skaters will move away from each other."
+msgstr "سيتحرك كل من المتزلجين بعيدا عن الآخر"
+
+msgid "Not quite. The skater in the blue jacket will go backwards due to the force from the skater in the red jacket. However, due to paired forces, the skater in the red jacket will also end up going backwards."
+msgstr "ليس تماما، سيرجع المتزلج في السترة الزرقاء  للوراء بفضل القوة من المتزلج في السترة الحمراء. ولكن نظرا للقوى المشتركة، في نهاية المطاف المتزلج في السترة الحمراء سيرجع إلى الوراء."
+
+msgid "Not quite. The skater in the red jacket will go backwards, but the force pair will also result in the skater in the blue jacket going backwards."
+msgstr "ليس تماما، المتزلج في السترة الحمراء سوف يرجع للوراء لكن القوة المقترنة سوف تجعل المتزلج في السترة الزرقاء يرجع للوراء أيضا."
+
+msgid "No. The slippery ice will make it very easy for forces to change the motion of the two skaters."
+msgstr "كلا، الجليد الزلق سوف يسهل للقوى تغيير حركة المتزلجين الاثنين."
+
+msgid "You've got it!  Both skaters will experience forces due to this interaction, and the result will be that they both move backwards."
+msgstr "لقد أصبت!  سوف يجرب كلا المتزلجين القوى بسبب هذا التفاعل، وستكون النتيجة أن يرجع كلاهما إلى الوراء."
+
+# 8
+msgid "Pushing slowly..."
+msgstr "الدفع ببطء ... "
+
+msgid "Not only do forces always come in pairs, but the sizes of the two forces will always be equal. This can be tough to see because force is not the only thing that affects how much an object’s motion will change. The <span class='key'>mass</span> of the object determines how much the motion will change for a particular amount of force.  Mass is measured in kilograms (kg) and is simply a measure of how much matter makes up an object. It’s easy to push the empty shopping cart when you first get to the grocery store, but as the cart fills up with groceries, it becomes more massive.  When the cart is full, it becomes harder to change the cart’s motion. It’s harder to get the cart to start moving, harder to stop it once it's in motion, and harder to get it to go around corners. <span class='key'>Acceleration</span> is a term used to describe how quickly an object’s motion changes. For a certain amount of force, an object with more mass will have less acceleration, and an object with less mass will have a greater acceleration."
+msgstr "ليست القوى فقط ما يأتي بشكل مشترك، بل إن أحجام القوتين يكون دائما متساويا.  وهذا من الصعب مشاهدته لأن القوى ليست الوحيدة التي تؤثر على مدى تغيير حركة الشيء.  كتلة الشيء تحدد مقدار الحركة المتغيرة لقدر معين من القوة.  ويتم قياس الكتلة بالكيلوغرام وهو ببساطة قياس لمقدار المادة الموجودة في الشيء.  من السهل دفع عربة التسوق الفارغة عند الوصول الى محل البقالة، ولكن كلما امتلأت العربة بمواد البقالة كلما أصبحت كبيرة ويصبح من الصعب تغيير حركتها، ويصعب توقيفها عندما تتحرك ، ويصعب تحريكها عند الزوايا.  التسارع هو مصطلح يستخدم لوصف مدى سرعة التغييرات في حركة الشيء.  لقدر معين من القوة،يكون تسارع كتلة الشيءالكبيرة أقل، و يكون تسارع كتلة  الشيءالصغيرةأكبر."
+
+msgid "When two objects interact, they put equal forces on each other, but their accelerations will also depend upon their masses. If one of the objects is two times more massive than the other, the more massive object will experience half as much acceleration as the lighter object. This can make it difficult to understand that the forces they put on each other are always equal in size. Did you know that when you jump off the ground, you push down on the earth with the same amount of force that it pushes up on you?  This might be hard to believe because we don’t see the earth move. The reason for that is not a difference in forces but a huge difference between your mass and the mass of the earth. If the two objects involved in an interaction have the same amount of mass, it’s easy to see that the forces they exert on each other are equal size because the accelerations will be the same size, too!"
+msgstr "عندما يتفاعل شيئان معا، فهما يؤثران بقوى متساوية على بعضهما البعض، ولكن سيعتمد  تسارعهما على كتلتهما.  إذا كان أحد الأشياء اضخم بمرتين من الآخر، فسوف يختبرالشيء الاضخم نصف التسارع الذي سيختبره الشيء الأخف وزنا.  وهذا يجعل استيعاب القوة التي يتبادلانها والمتساوية في الحجم صعبا جدا.  هل تعلم أنه عند القفز من فوق الأرض، انت تقوم بدفع نفس المقدار من القوة التي دفعتها الى أعلى.من الصعب تصديق هذا الشيء لأننا لا نرى الارض تتحرك.  السبب في ذلك ليس الفرق في القوى ولكن الفرق الكبير بين كتلتك وكتلة الأرض.  إذا كان لدى الشيئين المتشاركين في التفاعل  نفس الكتلة، فإنه من السهل أن نرى أن القوى التي تؤثر على بعضها البعض  متساوية بالمقدار لأن التسارع سيكون نفس المقدار، أيضا!"
+
+msgid "Calculating mass..."
+msgstr "حساب الكتلة ..."
+
+# 9
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it. Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience. Arrange the images left to right from the greatest to the least movement."
+msgstr " تقفز أحداهما داخل الماء وتلاحظ أن القارب يتحرك في الاتجاه المعاكس عندما قفزت من أمامه.  صنف الحالات التالية على أساس حجم التسارع، أو التغير في الحركة، التي سيتعرض لها القارب.  رتب الصور من اليسار إلى اليمين من الأكثر الى الأقل حركة."
+
+msgid "A) One boater jumps off the front, while the other boater remains seated."
+msgstr "أ. سائق القارب يقفز من أمام القارب، بينما يبقى الآخر  جالسا."
+
+msgid "B) Both boaters jump off the front of the boat."
+msgstr "ب, يقفز كلاهما من أمام القارب"
+
+msgid "C) One boater jumps off of an empty boat."
+msgstr " ج. يقفز أحد سائقي القوارب خارج القارب الفارغ."
+
+msgid "D) One boater jumps off the front, while the other boater jumps off the back at the same time."
+msgstr "ج. يقفز أحد سائقي القوارب من مقدمة القارب بينما يقفز الآخر من الخلف بنفس الوقت."
+
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it.  Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience.  Arrange the images left to right from the greatest to the least movement."
+msgstr " تقفز أحداهما داخل الماء وتلاحظ أن القارب يتحرك في الاتجاه المعاكس عندما قفزت من أمامه .  رتب الحالات التالية على أساس مقدار التسارع، أو التغير في الحركة، التي سيتعرض لها القارب.  رتب الصور من اليسار إلى اليمين من الأكثر الى الأقل حركة."
+
+msgid "You’ve got it!  With both boaters jumping in the same direction, the greatest amount of force will be combining to act on the boat.  When the boaters jump in opposite directions, their forces cancel, resulting in no change in motion for the boat."
+msgstr "لقد أصبت! عند قفز سائقي القوارب في نفس الاتجاه،سيتم جمع أكبر قدر من القوى لتحريك القارب. عندما يقفز كلاهما في اتجاهين متعاكسين،تلغى قواهم، مما يؤدي إلى عدم حدوث تغيير في حركة المركب."
+
+msgid "Not quite.  When the two boaters jump in the same direction, their forces will combine to result in a large change in motion for the empty boat.  With only one person jumping off the boat, the change in motion would be less, and in the situation where the boaters jump in opposite directions, their forces would cancel and the boat wouldn’t move."
+msgstr "ليس تماما.  عندما يقفز كل من سائقي القوارب بنفس الاتجاه، سيتم جمع أكبر قدر من القوى لتحريك القارب.  عندما يقفز أحدهما عن القارب سيكون التغيير في الحركة أقل، وفي الحالة التي يقفز فيها كلاهما باتجاهين متعاكسين، فإن قواهم تلغى ولا يتحرك القارب."
+
+msgid "Looking at the water..."
+msgstr "عند النظر إلى الماء ..."
+
+# 10
+msgid "Forces are paired for moving objects, too! In order for you to be able to walk down the hallway at school, your feet push backwards on the floor while the floor pushes forward on you. When a bicyclist skids to a stop, the road puts a force on the bike, but the bike also puts a force on the road. In an elevator, the floor pushes upwards on you while you push downwards on it."
+msgstr "تقترن القوى معا للأجسام المتحركة ، أيضا! لتتمكن من السير في ردهة  المدرسة، تضغط قدميك على الأرض  إلى الوراء بينما تدفعك الأرض إلى الأمام.  عندما يتوقف راكب دراجة هوائية عند منحدر، تضع الطريق قوة على الدراجة، ولكن الدراجة تضع قوة على الطريق أيضا . في المصعد، تدفعك الأرض للأعلى  بينما أنت تدفع إلى الأسفل."
+
+msgid "It can be difficult to get a car moving on a snowy road. The slippery snow can make it difficult for the car to push against the road with enough force to start moving without spinning the tires. It's also difficult to get a moving car to stop suddenly in those conditions!"
+msgstr "قد يكون من الصعب جعل سيارة تتحرك على طريق ثلجي.  الثلج الزلق يمكن أن يجعل دفع السيارة على الطريق صعبا والتي لها قوة كافية للبدء في التحرك دون  تدوير عجلات السيارة.  كما انه من الصعب أن تجعل سيارة متحركة   أن تتوقف فجأة في مثل هذه الظروف."
+
+msgid "For a helicopter to move, the blades on the helicopter push down on the air, and the air pushes up on the helicopter. By changing the amount of force, the helicopter can move up, down, or just hover in place. In this picture, you can see how the air pushed down by the blades on the helicopter ends up making waves in the water."
+msgstr "لجعل طائرة مروحية تتحرك،شفرات المروحية تدفع الهواء للأسفل ، والهواء يدفع المروحية للأعلى.  بتغيير مقدار القوة، يمكن لطائرة الهليكوبتر أن تتحرك أعلى أو أسفل، أو أن تحوم فقط في المكان.  في هذه الصورة، يمكنك أن ترى  الهواء المدفوع من قبل شفرات المروحية تنتهي بتكوين موجات على المياه."
+
+msgid "Did you know that people used to be skeptical about the ability to launch rockets into space beyond the earth's atmosphere? They were concerned that the lack of air would make it impossible for the rockets to exert forces in order to control their orbital paths. It turns out that rockets take advantage of Newton's Third Law force pairs by pushing the burning rocket fuel backwards. The other part of that force pair is the force of the burning rocket fuel pushing forward on the rocket, allowing the rocket to change its motion."
+msgstr "هل تعلم أن الشك كان يراود الناس  حول إمكانية إطلاق الصواريخ إلى الفضاء خارج الغلاف الجوي للأرض؟ وكان يساورهم القلق من عدم وجود الهواء والذي يجعل قوى الصواريخ مستحيلة من أجل السيطرة على مساراتها المدارية.  لقد تبين أن الصواريخ تستفيد  من قانون  نيوتن الثالث للقوة المقترنة عن طريق دفع وقود الصواريخ المحروق إلى الوراء. أما الجزء الآخر من هذه القوى هو الوقود المحترق من الصاروخ والذي يدفع الصاروخ للأمام، مما يتيح للصاروخ تغيير حركته."
+
+msgid "Pushing forward..."
+msgstr "الدفع للأمام ..."
+
+# 11
+msgid "Sailboats depend on wind to push against the sails and move the boat forward. On a day without any wind, a sailor decides to try to get the boat moving by attaching a large fan to the boat in order to push air into the sails. Considering the force pairs involved in this situation, what is the most likely outcome for the boat?"
+msgstr "المراكب الشراعية تعتمد على الرياح للدفع ضد الأشرعة و تحريك القارب إلى الأمام.  يقرر بحار في يوم لا يوجد فيه رياح تحريك القارب عن طريق ربط مروحة كبيرة في القارب لدفع الهواء إلى الأشرعة.  وبالنظر إلى القوى المقترنة والمرتبطةفي هذه الحالة، ما هي النتيجة الأكثر احتمالا أن تحصل للقارب؟"
+
+msgid "The air will push against the sails, moving the boat forward."
+msgstr "سوف يدفع الهواء ضد الأشرعة، محركا القارب إلى الأمام."
+
+msgid "The air will push back against the fan, moving the boat backwards."
+msgstr "سوف يندفع الهواء ضد المروحة، محركا القارب الى الخلف"
+
+msgid "The boat won’t move due to the forward force on the sails and the backwards force against the fan."
+msgstr "لن يتحرك القارب نتيجة القوة الأمامية على الأشرعة والقوة الخلفية ضد المروحة."
+
+msgid "The force against the sails will be greater than the force on the fan, so the boat will still move forward."
+msgstr "إن القوة ضد الأشرعة ستكون أكبر من القوة على المروحة، وبالتالي فإن القارب سيبقى متحركا للأمام."
+
+msgid "Not quite. The air will push forward against the sails, but it will also push backwards against the fan. Those interactions will cancel out and the boat won't move."
+msgstr "ليس تماما. الهواء سوف يندفع الى الأمام ضد الاشرعة، ولكن الهواء سيندفع أيضا إلى الوراء ضد المروحة. وسوف تلتغي هذه التفاعلات ولن يتحرك القارب."
+
+msgid "Almost. The air will push the fan backwards, but it will also push forward against the sails. Those interactions will cancel each other out, and the boat won't move."
+msgstr "تقريبا.  سيتم دفع الهواء للمروحة إلى الوراء، ولكنه سيدفع الهواء إلى الأمام ضد الاشرعة أيضا .  ستلغي هذه التفاعلات بعضها البعض، ولن يتحرك القارب."
+
+msgid "You've got it. In any interaction, forces are paired. So when the fan pushes the air forward, the air pushes the fan backwards. That backwards push against the fan cancels out the forward push against the sails."
+msgstr "لقد أصبت.  في أي تفاعل كان، يتم إقران القوى مع بعضها البعض.  فعندما تدفع المروحة الهواء إلى الأمام، يدفع الهواء المروحة إلى الوراء.  ودفع الهواء إلى الوراء  سيلغي دفع الهواء للأمام ضد الأشرعة."
+
+msgid "Nope. If anything, the force pushing back against the fan will be slightly greater. Most likely, the forward force of the air against the sails cancels out the backwards force of the air against the fan, and the boat won't move."
+msgstr "لا.  أي شيء تدفعه القوة الى الخلف ضد المروحة سوف يكون أكبر قليلا. وعلى الأرجح ، قوة الهواء المندفعة إلى الأمام ضد الأشرعة سوف تلغي قوة الدفع إلى الوراء ضد المروحة، والقارب لن يتحرك."
+
+# 12
+msgid "Using what you now know about... Newton's Third Law... to solve a problem"
+msgstr "استخدم ما تعرفه الآن عن... قانون نيوتن الثالث.. لحل مشكلة"
+
+msgid "Your neighbor needs some help setting up a clothesline for drying clothes. Use your understanding of paired forces to help plan and design a system for setting up the clothesline for your neighbor."
+msgstr "يحتاج جارك بعض المساعدة ليصنع حبل لتجفيف الملابس.  استخدم ما تعرف عن القوى المقترنة مع بعضها للمساعدة في تخطيط وتصميم نظام لإعداد حبل الغسيل لجارك."
+
+msgid "What are some of the important considerations that must go into the design? How will you make certain that the clothesline will be able to support the clothes? Please answer in the space provided."
+msgstr "ما هي بعض الاعتبارات الهامة التي يجب أن تدخل في التصميم؟ كيف سيتم التأكد من أن حبل الغسيل سيكون قادرا على دعم الملابس؟ الرجاء الإجابة في المكان المخصص."
+
+msgid "Hanging clothes..."
+msgstr "تعليق ملابس..."
+
+# 13
+msgid "Summarizing big ideas about... Newton's Third Law"
+msgstr "تلخيص الأفكار الكبيرة حول... قانون نيوتن الثالث "
+
+msgid "For any interaction between objects, the <span class='key'>forces</span> the objects put on each other will be of the same size and in opposite directions. Often stated as 'For every action, there is an equal and opposite reaction,' this is known as <span class='key'>Newton's Third Law</span> of motion. To put it another way, there are no isolated forces in nature; forces always come in pairs. When you push on the ground to walk, there is a corresponding force that the ground puts on you. When you use a hammer to pound a nail into a board, the nail also puts a force back on the hammer. When a rocket pushes burning fuel backwards, there is a force in the forward direction to move the rocket. However, paired forces don't guarantee that the changes in motion for the two objects will be paired. The <span class='key'>acceleration</span> of an object is also based on how massive the object is. For an object that is ten times as massive, the acceleration will be ten times smaller even though the forces the two objects experience are the same. If the two objects involved in the interaction are similar in <span class='key'>mass</span>, then it is likely that you will see similar changes in motion."
+msgstr "عند وجود أي تفاعل بين الاشياء، فإن القوة التي تؤثر بها هذه الأشياء على بعضها البعض تكون من نفس الحجم وفي اتجاهين متعاكسين.  ومذكورة غالبا باسم 'لكل فعل رد فعل مساو له في المقدار ومعاكس له بالإتجاه، وهو ما يعرف بقانون نيوتن الثالث للحركة.  وبعبارة أخرى، لا توجد قوى معزولة في الطبيعة؛ القوى دائما تأتي بأزواج.  فعندما تضغط على الأرض للمشي، هناك قوة مقابلة من الأرض تؤثر بها عليك.  وعند استخدام مطرقة لتثبيت مسمار على لوحة، يضع المسمار القوة على المطرقة أيضا.  وعندما يدفع الصاروخ الوقود المحروق إلى الوراء، توجد هناك قوة أمامية لتحريك الصواريخ.  كما أن القوى المقترنة لا تضمن اقتران التغيرات في حركة الشيئين.  يعتمد تسارع الشيء أيضا على مدى ضخامته  وسيكون تسارع الشيء أصغر بحوالي عشرة أضعاف للشيء الذي تبلغ ضخامته أكثر بعشرة أضعاف، بالرغم من أن القوى التي أثرت على الشيئين متساوية.  فإذا كانت كتلة الشيئين المشاركين في التفاعل متساوية،فمن المرجح انك سوف ترى تغييرات مماثلة في الحركة."
+
+# 14
+msgid "Reviewing key vocabulary related to... Newton's Third Law"
+msgstr "استعراض المفردات الرئيسية ذات الصلة... بالقانون الثالث لنيوتن"
+
+msgid "Force"
+msgstr "قوة"
+
+msgid "A force occurs anytime there is an interaction between two objects.  Both the size and the direction of the force will determine how that force affects the motion of the objects."
+msgstr "تحدث القوة في أي وقت تتفاعل به الاشياء،  الحجم واتجاه القوة سوف يحددان كيفية تأثير تلك القوة على حركة الأشياء."
+
+msgid "Acceleration"
+msgstr "التسارع"
+
+msgid "Acceleration is how quickly an object changes speed.  If an object is speeding up or slowing down, it is accelerating."
+msgstr "التسارع هو التغير في سرعة الشيء.  إذا كان الشيء يُسِرِع أو يتباطأ، فإنه يتسارع."
+
+msgid "Mass"
+msgstr "كتلة"
+
+msgid "A measure of an object’s inertia as well as the effect gravity has upon it. An object with more mass will require more force to accelerate it and will feel a greater force of gravity upon it."
+msgstr "مقياس القصور الذاتي للشيءبالإضافة إلى تأثير الجاذبية عليه.  كلما ازدادت كتلة الشيء، كلما احتاج للمزيد من القوة كي يتسارع، وسوف يشعر بقوة أكبر من الجاذبية عليه."
+
+msgid "For every action, there is an equal and opposite reaction. When a force is applied to an object, that object applies the exact same amount of force back on whatever applied it in the exact opposite direction. So if a person was to push a boulder across a field, the boulder would push back with the same force that the person pushed it with."
+msgstr "لكل فعل يوجد رد فعل معاكس  ومساو .  عند تؤثر قوة على شيء ما، يؤثر هذا الشيء بنفس مقدار القوة مرة أخرى في الاتجاه المعاكس تماما.  حتى اذا دفع شخص صخرة عبر الحقل، ستقوم الصخرة بالدفع مرة أخرى بنفس القوة التي دفعها الشخص."
+
+# 15
+msgid "Checking what you now know about... Newton's Third Law"
+msgstr "تحقق مما تعرف مسبقاً عن... القانون الثالث لنيوتن"
+
+# 16
+msgid "Newton's Third Law of paired forces is true..."
+msgstr "قانون نيوتن الثالث للقوى المقترنة صحيح ..."
+
+msgid "only when objects are the same size."
+msgstr "فقط عندما تكون الأشياء بنفس الحجم."
+
+msgid "only when objects are at rest."
+msgstr "فقط عندما تكون الأشياء ساكنة"
+
+msgid "only when objects move at a constant speed."
+msgstr "فقط عند تحريك الأشياء بسرعة ثابتة."
+
+msgid "any time two objects interact with one another."
+msgstr " أي وقت يتفاعل فيه شيئين مع بعضها البعض."
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الاول في اختبارك القصير هو .."
+
+msgid "Nope. Forces are always paired, in any interaction, regardless of the size of the objects involved."
+msgstr "كلا.  يتم إقران القوى دائما، في أي تفاعل، بغض النظر عن حجم الاشياء المعنية."
+
+msgid "Nope. Forces are always paired even if the objects involved are in motion."
+msgstr "كلا.  القوى دائما ما تكون مقترنة حتى ولو كانت الأشياء المرتبطة بها تتحرك."
+
+msgid "Nope. Forces are always paired even if the objects are speeding up or slowing down."
+msgstr "كلا.  القوى دائما ما تكون مقترنة حتى لو كانت الأشياء مسرعة أو في تباطؤ."
+
+msgid "You've got it. According to Newton's Third Law, forces are always paired anytime two objects interact."
+msgstr "لقد أصبت.  وفقا لقانون نيوتن الثالث، يتم إقران القوى دائما في أي وقت تتفاعل به هذه الأشياء."
+
+# 17
+msgid "Compare the two forces mentioned for the following situations. Use >, = or < signs to show how the forces compare to each other."
+msgstr "قارن بين القوتين المذكورتين للحالات التالية. استخدم الإشارات >، =  أو <  لإظهار مدى مقارنة القوى مع بعضها البعض."
+
+msgid "The force the hammer puts on the nail."
+msgstr "القوة التي تؤثر بها المطرقة على المسمار."
+
+msgid "The force of the hand on the valleyball."
+msgstr "قوة اليد على كرة الطائرة."
+
+msgid "The force of the feet on the diving board."
+msgstr "قوة القدمين على متن لوح الغطس"
+
+msgid "The force the nail puts on the hammer."
+msgstr "القوة التي يؤثر بها المسمار على المطرقة"
+
+msgid "The force of the diving board on the feet."
+msgstr "القوة التي يؤثر بها لوح الغطس على القدمين"
+
+msgid "The force the volleyball puts on the hand."
+msgstr "القوة التي تؤثر بها  كرة الطائرة على اليد."
+
+msgid "Comparing forces..."
+msgstr "مقارنة القوى"
+
+msgid "You've got it. Forces are always paired, so in all of the interactions shown, both objects experience the same amount of force."
+msgstr "لقد أصبت.  القوى دائما مُشْتَرَكَة و لذلك تظهر في كل التفاعلات،  كلا الشيئين يتأثران بنفس القدر من القوة."
+
+msgid "Not quite. Any time two objects interact, the forces that they exert on each other will be equal in size."
+msgstr "ليس تماما.  أي وقت  يتلامس شيئين، فإن القوى التي يؤثرات بها على بعضهم البعض ستكون متساوية في الحجم."
+
+# 18
+msgid "Choose the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "اختر السهم ذا الحجم والاتجاه المناسب لتمثيل القوى التالية في هذه الحالة."
+
+msgid "The force of the man pushing on the car:"
+msgstr "قوة الرجل الذي يدفع السيارة:"
+
+msgid "The force of the car pushing back on the man:"
+msgstr "قوة السيارة التي تدفع الرجل الى الوراء :"
+
+msgid "Aiming arrow..."
+msgstr "تصويب السهم ... "
+
+msgid "You've got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "لقد أصبت!  فعندما يؤثر شيئان بقوة على بعضهما البعض، تكون تلك القوى مساوية الحجم ومعكوسة في الاتجاه."
+
+msgid "Nope. The forces are equal in size and opposite in direction, but the man puts a force on the car that is towards the left, and the car puts a force on the man which is towards the right."
+msgstr "كلا.  القوى متساوية في الحجم ومتعاكسة في الاتجاه، يضع الرجل قوته على السيارة  باتجاه اليسار، والسيارة تضع قوتها على الرجل باتجاه اليمين."
+
+msgid "Nope.  Even though the man and car are quite different in size, the forces that they put on each other will be equal in size, and opposite in direction."
+msgstr "كلا.  على الرغم من أن الرجل والسيارة مختلفان تماما في الحجم،الا أن القوى التي يؤثرات بها على بعضهم البعض ستكون متساوية في الحجم، ومتعاكسة في الاتجاه."
+
+# 19
+msgid "Rank these situations based on how quickly the wagon’s motion would change from rest. Arrange the images left to right from the greatest to the least movement."
+msgstr "صنف هذه الحالات بناء على مدى سرعة حركة العربة والتي ستتغير من حالة السكون.  رتب الصور من اليسار إلى اليمين من الأكثر الى الاقل حركة."
+
+msgid "A) A wagon with one dog is pulled by one boy"
+msgstr "أ) عربة مع كلب واحد يجرها ولد واحد"
+
+msgid "B) A wagon with two dogs is pulled by one boy"
+msgstr "ب) عربة مع كلبين يجرها ولد واحد"
+
+msgid "C) A wagon with one dog is pulled by two boys"
+msgstr "ج) عربة مع كلب واحد يجرها ولدان"
+
+msgid "D) An empty wagon  is pulled by two boys"
+msgstr "د) عربة فارغة يجرها ولدان"
+
+msgid "Pulling a wagon..."
+msgstr "جر عربة ..."
+
+msgid "You’ve got it! The combined forces of the two boys will cause a large change in motion for one dog. The boy trying to accelerate two dogs on his own will have the least change in motion."
+msgstr "لقد أصبت! القوى المشتركة من الولدان سوف تغير حركة الكلب بشكل كبير.  محاولة الولد أن يسارع اثنين من الكلاب من تلقاء نفسه سوف  ينتج تغيير في الحركة.."
+
+msgid "Not quite. The combined forces of two boys pulling will be greater than the force of one boy pulling on his own, but the mass of two dogs in the wagon will resist the change in motion greater than the mass of one dog in the wagon, and an empty wagon will provide the least resistance to a change in motion."
+msgstr "ليس تماما. القوى المشتركة من الولدين الذين يجرون ستكون أكبر من قوة ولد  واحد يجر من تلقاء نفسه، ولكن كتلة اثنين من الكلاب في عربة ستقاوم التغيير في الحركة أكبر من كتلة  كلب واحد في العربة، والعربة الفارغة سوف توفر أقل قدر من المقاومة لكي يتم التغيير في الحركة."
+
+# 20
+msgid "Select the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "اختر السهم بالحجم والاتجاه المناسب لتمثيل القوى التالية في هذا الوضع."
+
+msgid "Force of the hammer on the nail"
+msgstr "قوة المطرقة على المسمار"
+
+msgid "Force of the nail on the hammer"
+msgstr "قوة المسمار على المطرقة"
+
+msgid "Studying forces..."
+msgstr "دراسة القوى..."
+
+msgid "Not quite.  The forces are equal in size and opposite in direction, but the hammer puts a force on the nail in a downward direction, and the nail puts a force on the hammer in an upward direction."
+msgstr "ليس تماما. القوة متساوية في الحجم ومتعاكسة في الاتجاه، ولكن المطرقة تضع القوة على المسمار باتجاه سفلي، والمسمار يضع القوة على المطرقة باتجاه علوي."
+
+msgid "You got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "لقد أصبت!  أي وقت يضع شيئين قواهما على بعضهما البعض، تكون تلك القوى بنفس الحجم ومعكوسة في الاتجاه."
+
+msgid "Nope. Even though we tend to focus on the force of the hammer hitting the nail, the nail also puts a force on the hammer. That's the force that stops the motion of the hammer. Without that force, you’d have to use the muscles in your arm to stop the hammer with every swing. You'd wear yourself out pretty quickly, if that was the case."
+msgstr "كلا.  على الرغم من أننا نميل إلى التركيز على قوة المطرقة التي تضرب المسمار،يضع  المسمار أيضا قوته على المطرقة.  هذه هي القوة التي توقف حركة المطرقة.  بدون هذه القوة،  قد تستخدم عضلات ذراعك لوقف المطرقة مع كل حركة. سوف تتعب نفسك بسرعة ، إذا كان هذا هو الحال."
+
+# 21
+msgid "Your friend is having a hard time understanding how to apply Newton's Third Law of paired forces. As an example, he describes a horse pulling a cart. He claims that it would be impossible for the horse to move the cart forward if the horse and cart are putting the same amount of force on each other. Which of the following statements would be more in line with Newton's Third Law of paired forces?"
+msgstr "صديقك يجد صعوبة في فهم كيفية تطبيق قانون نيوتن الثالث للقوى المشتركة.  وكمثال على ذلك، هو يصف حصان يجر عربة.  ويدعي أنه سيكون من المستحيل على الحصان تحريك العربة إلى الأمام إذا كان الحصان والعربة يضعان  نفس القدر من القوة على بعضهما البعض.  أي من العبارات التالية ستكون أكثر توافقا مع قانون نيوتن الثالث للقوى المشتركة؟"
+
+msgid "To move forward, the horse puts a force on the cart which is larger than the force the cart puts on the horse."
+msgstr "للمضي قدما، يؤثر الحصان بقوته على العربة التي هي أكبر من القوة التي تؤثر بها العربة على الحصان."
+
+msgid "To move forward, the horse must put a force on the cart which is greater than the weight of the cart."
+msgstr "للمضي قدما، على الحصان أن  يؤثر بقوة على العربة و هي أكبر من وزن العربة."
+
+msgid "To move forward, the horse and cart put forces on each other which are equal in size."
+msgstr "للمضي قدما، يؤثر الحصان والعربة  بقوة على بعضهما البعض تكون متساوية في الحجم."
+
+msgid "To move forward, for a brief time the force of the horse on the cart is greater than the force of the cart on the horse."
+msgstr "للمضي قدما، ولفترة قصيرة تأثير قوة الحصان على العربة أكبر من تأثير قوة العربة على الحصان."
+
+msgid "Nope. It's impossible for the horse to put more force on the cart than the cart puts on the horse. Those forces are paired, so they’ll be the same size every time."
+msgstr "كلا.  يستحيل على الحصان أن يؤثر بقوة على العربة أكثر من قوة العربة على الحصان. ستكون هذه القوى مشتركة بنفس الحجم في كل مرة. "
+
+msgid "Nope. The force we think of as weight acts in a downward direction, the pull of the horse acts in a sideways direction. The cart can actually be moved with a force much smaller than the weight of the cart."
+msgstr "كلا.  القوة التي نعتبرها كوزن ، تعمل في الاتجاه السفلي، وجر الحصان يعمل في الاتجاه الجانبي.  ويمكن نقل العربة باستخدام قوة أصغر بكثير من وزن العربة."
+
+msgid "Yes!  The forces that the cart and the horse put on each other will be the same size.  The horse is able to get things moving by pushing off against the ground with a lot of force."
+msgstr "نعم! ستظل القوى التي تؤثر بها كل من العربة والحصان على بعضهما البعض نفس الحجم.  الحصان قادر على جعل الأشياء تتحرك عن طريق الدفع ضد الأرض باستخدام الكثير من القوة."
+
+msgid "Not quite.  The forces that the cart and the horse put on each other are paired, so even if the horse tries to increase the force that it puts on the cart, the paired force that the cart puts on the horse will always increase to match it!"
+msgstr "ليس تماما.  القوة التي تضعها العربة والحصان على بعضهما البعض هي قوة مشتركة، حتى إذا حاول الحصان زيادة القوة التي يضعها على العربة، فالقوة المشتركة التي تضعها العربة على الحصان ستزداد دائما لتجاريها!"
+
+# 22
+msgid "You've completed the Newton's Third Law module."
+msgstr " لقد أكملت وحدة قانون نيوتن الثالث ."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "يمكنك التحقق كيف أجبت على الاختبارات السريعة' و 'الأسئلة القصيرة' لهذه الوحدة من خلال النقر على الزر أدناه."

@@ -1,0 +1,773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "选择"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Pause"
+msgstr "休息"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Mute"
+msgstr "无声"
+
+msgid "Unmute"
+msgstr "取消静音"
+
+msgid "Max volume"
+msgstr "最大音量"
+
+msgid "Full screen"
+msgstr "全屏"
+
+msgid "Restore screen"
+msgstr "恢复屏幕"
+
+msgid "Repeat"
+msgstr "重复"
+
+msgid "Repeat off"
+msgstr "重复关"
+
+msgid "Update Required"
+msgstr "更新所需"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "播放的媒体你要么需要更新您的浏览器到最新版本或更新您的"
+
+msgid "Flash plugin"
+msgstr "闪光插件"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通过下面的幻灯片浏览点击左右箭头。"
+
+msgid "The Situation"
+msgstr "现状"
+
+msgid "The Scenario"
+msgstr "该方案"
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任务"
+
+msgid "The Problem"
+msgstr "问题"
+
+msgid "Your Assignment"
+msgstr "你的任务"
+
+msgid "Close me!"
+msgstr "密我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations"
+msgstr "恭喜！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉..."
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Ready for your last quiz question?"
+msgstr "准备好你的最后测验的问题吗？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# page 1
+msgid "Making Sound"
+msgstr ""
+
+msgid "Welcome to the Making Sound module"
+msgstr ""
+
+# page 2
+msgid "Thinking about... making sound"
+msgstr ""
+
+msgid "What do vocal cords, headphones playing music, and school bells have in common? They all make sound. All these objects vibrate or move to and fro.  Different kinds of vibrations make different kinds of sound."
+msgstr ""
+
+# page 3
+msgid "Checking what you know about... making sound"
+msgstr ""
+
+msgid "Click on <span class='blink'>ALL</span> of the items below that make correct statements about sound."
+msgstr ""
+
+msgid "Sound must have a material to travel through, such as air or water."
+msgstr ""
+
+msgid "Sound is produced by vibrating objects."
+msgstr ""
+
+msgid "Sound is a form of energy transfer."
+msgstr ""
+
+msgid "All of the above are correct."
+msgstr ""
+
+msgid "For sound waves to travel, they must have a material to move through. Sound waves travel through air, but they can also travel through water and solid materials like wood or metal. When a vibrating object causes the air around it to vibrate, sound is produced. The sound carries energy, and when that energy reaches your ears, it causes your eardrum to move back and forth. Check out the rest of this review to learn more about making sound!"
+msgstr ""
+
+msgid "Traveling through air..."
+msgstr ""
+
+# page 4
+msgid "Reviewing big ideas about... making sound"
+msgstr ""
+
+msgid "<span class='key'>Sound</span> is a form of <span class='key'>energy</span>. Sounds are made when the matter in solids, liquids or gases is made to move or vibrate up and down or to and fro. For example, a hummingbird uses energy to move its wings to fly. The very fast movement or <span class='key'>vibration</span> of the wings causes the air around the wings to vibrate and make a \"humming\" sound. Crickets make their \"chirping\" sound by rubbing their upper and lower wings against each other and causing the air vibrate to make the sounds you hear on a warm summer's night."
+msgstr ""
+
+msgid "Scientists use the term <span class='key'>medium</span> to describe the matter that sound travels through. Without a medium, there is no sound. One way to describe what happens when the matter in solids, liquids or gases vibrates to make sound is to think about what would happen if you dangled a \"slinky\" from your hand and moved your hand up and down. The coils in the slinky move up and down, giving the slinky a bobbing-type motion. If you held the slinky on a flat surface and pulled it back and let go, it would also move back and forth, to and fro. When matter in solids, liquids or gases is made to move or vibrate, the matter moves like the slinky!"
+msgstr ""
+
+msgid "What makes sounds different? How matter vibrates or moves back and forth determines what the sound will be like. Scientists describe how matter moves back and forth as sound waves and use graphs like the one shown here to represent different sound waves. <span class='key'>Sound waves</span> are called <span class='key'>longitudinal waves</span>. These are the type of wave produced by moving the slinky back and forth in a direction parallel to the slinky. This is similar to the way sound is produced when a stereo speaker pushes and pulls on the air in front of it."
+msgstr ""
+
+msgid "Identifying types of waves..."
+msgstr ""
+
+# page 5
+msgid "Which of these pieces of evidence supports the claim that light waves are different from sound waves?"
+msgstr ""
+
+msgid "Light can travel through the empty vacuum of space from the Sun to the Earth."
+msgstr ""
+
+msgid "Light waves have different frequencies, which we see as different colors."
+msgstr ""
+
+msgid "The speed of light is dependent upon the medium it is travelling through."
+msgstr ""
+
+msgid "Light waves can bounce off of objects."
+msgstr ""
+
+msgid "You've got it! Light waves differ from sound waves because light can travel through empty space, but sound needs a material, also known as a medium, to travel through."
+msgstr ""
+
+msgid "Nope. Sound waves also have different frequencies that we hear as different notes."
+msgstr ""
+
+msgid "Nope. Sound waves and light waves both have different speeds depending on the characteristics of the materials they are travelling through."
+msgstr ""
+
+msgid "Nope. Light waves can bounce, or reflect off of objects, but sound waves can, too!  That's why you hear an echo when sound bounces off of the wall of a building or canyon."
+msgstr ""
+
+# page 6
+msgid "More big ideas about... making sound"
+msgstr ""
+
+msgid "The <span class='key'>pitch</span> of a sound is described in terms of how many sound waves are made in a period of time. The number of sound waves that are made in a second is referred to as the <span class='key'>frequency</span> or pitch of the sound. The faster something vibrates, the higher the pitch of a sound. In the image below, the top slinky shows waves with a higher frequency. They would be produced by an object that is vibrating more rapidly than the object producing the waves in the bottom slinky. In the time period shown in this image, only two compressions are visible in the bottom slinky, while you can see four compressions in the top image."
+msgstr ""
+
+msgid "The sound of thunder and the buzz of a mosquito are different in another important way. The rumble of thunder is much louder than the buzz of a mosquito. The <span class='key'>loudness</span> of a sound depends on how much <span class='key'>energy</span> goes in to making the sound. For example, thunder is produced when large amounts of air are made to vibrate in large waves. The sound made by a mosquito is very quiet because the tiny wings move only a small amount of air. Looking at the image of the slinkys below, both waves have the same frequency. You can see the same number of compressions in each slinky. They differ in terms of the energy travelling along the slinky. It takes more energy to cause the spring to bunch up and spread out in the top slinky, and less energy to move the slinky in the bottom image. Similarly, the loudness of a sound is determined by how much the pressure in the air changes as the sound wave passes through it."
+msgstr ""
+
+msgid "Light and sound waves"
+msgstr ""
+
+# page 7
+msgid "Connect the wave to the sentence that best describes it."
+msgstr ""
+
+msgid "A"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "D"
+msgstr ""
+
+msgid "This wave has the longest wavelength."
+msgstr ""
+
+msgid "This wave has the least energy."
+msgstr ""
+
+msgid "This wave has the same frequency as wave C."
+msgstr ""
+
+msgid "This wave has the shortest wavelength."
+msgstr ""
+
+msgid "Wavelength and frequency"
+msgstr ""
+
+msgid "You've got it! B and C have the same wavelength, and therefore same frequency, but C is the least energetic as shown by the minimal stretching and compression of the slinky, A has the shortest distance between compressions, and D has the greatest distance between compressions."
+msgstr ""
+
+msgid "Not quite! B and C have the same wavelength, and therefore same frequency, but C is the least energetic as shown by the minimal stretching and compression of the slinky, A has the shortest distance between compressions, and D has the greatest distance between compressions."
+msgstr ""
+
+# page 8
+msgid "Sound moves through air at over three soccer fields per second. Air, water, steel and wood are examples of different media (which is plural of medium). Without a medium to vibrate, there can be no sound! That means you can hear sounds underwater but not in outer space."
+msgstr ""
+
+msgid "How fast sound travels in a material depends on how tightly the material is packed and how elastic or stretchy the material is. The following table lists the speed of sound in various materials:"
+msgstr ""
+
+msgid "Data Table: Speed of Sound in Different Media"
+msgstr ""
+
+msgid "Meduim"
+msgstr ""
+
+msgid "Speed in feet per second"
+msgstr ""
+
+msgid "Air at 59°F"
+msgstr ""
+
+msgid "Aluminum"
+msgstr ""
+
+msgid "Brick"
+msgstr ""
+
+msgid "Distilled water at 77°F"
+msgstr ""
+
+msgid "Glass"
+msgstr ""
+
+msgid "Seawater at 77°F"
+msgstr ""
+
+msgid "Steel"
+msgstr ""
+
+msgid "Wood (maple)"
+msgstr ""
+
+msgid "Those speeds might look pretty fast, but they're pretty slow compared to another type of wave. Light waves carry energy at over 670,000,000 miles per hour. At that speed, light can travel from the moon to Earth in just over one second. By comparison, light travels through air a million times faster than sound. That's why you see the flash of lightning before you hear the crack of the thunder, or see a batter knock a baseball deep into the outfield before you hear the crack of the bat. During a thunderstorm, you can determine how far you are from the lightning by counting the seconds between when you see the flash, and when you hear the thunder. Sound travels close to one mile in five seconds. So if you divide the seconds between the flash and the thunder by five, you'll know how many miles away the lightning hit."
+msgstr ""
+
+msgid "HUMAN EAR"
+msgstr ""
+
+msgid "Ear Canal"
+msgstr ""
+
+msgid "Malleus"
+msgstr ""
+
+msgid "Incus"
+msgstr ""
+
+msgid "Stapes"
+msgstr ""
+
+msgid "Pinna"
+msgstr ""
+
+msgid "Ear Drum"
+msgstr ""
+
+msgid "Eustachian Tube"
+msgstr ""
+
+msgid "Most of the time, we hear sounds that travel through air. Sound waves in the air make our ear drums (the thin covering inside your ears) vibrate and the ear drum then causes tiny bones in your ear (the smallest bones in our bodies) to vibrate. Nerves in your ears then send a message to your brain about the sound you are hearing. So ears are specialized body parts designed to receive sound."
+msgstr ""
+
+msgid "Swinging a bat..."
+msgstr ""
+
+# page 9
+msgid "During a thunderstorm, you notice that you hear thunder eight seconds after you saw the flash from the lightning. Given that sound travels one mile in five seconds, this means the distance between you and the lightning strike was most likely..."
+msgstr ""
+
+msgid "less than a mile away"
+msgstr ""
+
+msgid "exactly one mile away"
+msgstr ""
+
+msgid "between one and two miles away"
+msgstr ""
+
+msgid "more than five miles away"
+msgstr ""
+
+msgid "Studying sound waves..."
+msgstr ""
+
+msgid "Nope. Sound can travel one mile in five seconds, so if it took eight seconds to hear, it must be more than a mile away."
+msgstr ""
+
+msgid "Not quite. If it took five seconds exactly, then the lightning was probably one mile away."
+msgstr ""
+
+msgid "Yep! Between five and ten seconds means that the lightning was probably between one and two miles away."
+msgstr ""
+
+msgid "Nope. Sound travels one mile in five seconds. If it was more than five miles away, you wouldn't have heard the thunder for about 25 seconds after you saw the flash."
+msgstr ""
+
+# page 10
+msgid "Different sounds made by different things, for example, guitars, violins, drums, flutes and tubas, make different patterns of waves with different distances between them. Plucking, banging, whispering and yelling are all vibrations in the air, but these sounds are all very different. This is because the thickness and length of things and the temperature of the surroundings that sound travels through affect the speed of sound. For instance, a tuba is much thicker and larger than a flute so the tuba makes a low-pitched sound and the flute makes a high-pitched sound. The low-pitched tuba sound has big gaps between waves and the high-pitched flute has waves that are bunched together or shorter. Loud sounds have more <span class='key'>molecules</span> moving and more energy than soft sounds. So a thicker guitar string will make louder, deeper sounds than a thinner, skinnier guitar string which will make a higher sound."
+msgstr ""
+
+msgid "The different instruments in the orchestra produce different sounds by different methods. The string instruments, such as violin, viola, cello and bass, produce sound by causing strings to vibrate. The hollow wooden bodies of those instruments, along with the different string lengths, produce distinctive sounds. The clarinets, saxophones, oboes and bassoons are all woodwind instruments that make use of a thin vibrating piece of wood, known as a reed, to create their sounds. The bright sounds of the brass instruments, the trumpet, French horn and coronet, are created by vibrating the lips while blowing air into the mouthpiece. Even when they're playing the same musical note, it is possible to tell these instruments apart based on their unique combination of different frequencies of sound waves. Engineers can use computers to mimic these sounds. By analyzing the mix of different frequencies in a note, the engineers can produce realistic sounding imitations of actual instruments. It is even possible to use computers to correct the notes sung by a human voice."
+msgstr ""
+
+msgid "Watching an orchestra..."
+msgstr ""
+
+# page 11
+msgid "Use the pull down menu to select the word that will make the sentence correct."
+msgstr ""
+
+msgid "Musical instruments produce different notes by creating sound waves of different"
+msgstr ""
+
+msgid "speeds"
+msgstr ""
+
+msgid "amplitude"
+msgstr ""
+
+msgid "frequency"
+msgstr ""
+
+msgid "woodwind"
+msgstr ""
+
+msgid "brass"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid " instruments include violin, and cello."
+msgstr ""
+
+msgid " instruments produce sound by vibrating a thin, wooden reed."
+msgstr ""
+
+msgid "The combination of sound waves of different "
+msgstr ""
+
+msgid "amplitudes"
+msgstr ""
+
+msgid "frequencies"
+msgstr ""
+
+msgid " are the key to creating realistic imitations of musical instruments with computers."
+msgstr ""
+
+msgid "You've got it! The pitch of a musical note, as well as the distinctive sound produced by each instrument, are due to the frequencies of the sound waves they produce. Violins and cellos are string instruments, while woodwinds like the clarinet, produce sound by vibrating a wooden reed."
+msgstr ""
+
+msgid "Not quite! The pitch of a musical note, as well as the distinctive sound produced by each instrument, are due to the frequencies of the sound waves they produce. Violins and cellos are string instruments, while woodwinds like the clarinet, produce sound by vibrating a wooden reed."
+msgstr ""
+
+# page 12
+msgid "Using what you know about... making sound... to solve a problem"
+msgstr ""
+
+msgid "Your classmates decide to attempt to measure the speed of sound by standing at the edge of the playground while banging some wooden blocks together and listening for the sound waves to bounce back to them (the echo off of the building)."
+msgstr ""
+
+msgid "In the box below, describe the equipment they would need, the measurements they would need to make, and how they would use those measurements to calculate the speed of sound."
+msgstr ""
+
+msgid "Measuring speed..."
+msgstr ""
+
+# page 13
+msgid "Summarizing big ideas about... making sound"
+msgstr ""
+
+msgid "There are a great many sources of <span class='key'>sound</span>. Familiar kinds include the vibration of a person's vocal cords, vibrating strings (piano, violin), a vibrating column of air (trumpet, flute), and vibrating solids (a door when someone knocks). Changing how fast something vibrates changes the <span class='key'>pitch</span> of the sound. Increasing how much energy is put into make the sound increases the sound's <span class='key'>loudness</span>. <span class='key'>Vibrations</span> in materials set up wave-like motions in the materials. <span class='key'>Medium</span> is the matter that sound travels through. Sound cannot travel in a vacuum. The medium does not need to be air; sound can travel through metal, wood, stone, glass, water and many other substances - sound travels through many of those materials faster than it travels through air. The more <span class='key'>molecules</span> packed together in a medium, the louder the sound it will make when disturbed. The thickness and length of things make different sounds. The thicker a guitar string, the deeper the sound; the skinnier the string, the higher the sound."
+msgstr ""
+
+# page 14
+msgid "Reviewing key vocabulary related to... making sound"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "A wave carrying energy through a solid, liquid or gas."
+msgstr ""
+
+msgid "Vibration"
+msgstr ""
+
+msgid "When something moves back and forth in a regular pattern, it is said to vibrate.  Vibrations can disturb gas, liquid, or solid phase molecules to produce sound waves."
+msgstr ""
+
+msgid "Loudness"
+msgstr ""
+
+msgid "Also called amplitude or volume. Sounds are said to be louder when the molecules vibrating are moving farther with each vibration."
+msgstr ""
+
+msgid "Pitch"
+msgstr ""
+
+msgid "Also called frequency. The number of times an object vibrates per second affects how we perceive the sound. Higher pitches vibrate more quickly, while lower pitches vibrate more slowly."
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "The material through which a sound wave travels. A medium can be a solid, liquid or gas."
+msgstr ""
+
+msgid "Molecules"
+msgstr ""
+
+msgid "Atoms chemically bonded together. Molecules make up all matter in the universe."
+msgstr ""
+
+msgid "Frequency"
+msgstr ""
+
+msgid "Also called pitch in the context of sound. Frequency is the number of times something happens per second."
+msgstr ""
+
+msgid "Sound Wave"
+msgstr ""
+
+msgid "Vibrations moving through a medium. Many organisms and devices can detect and interpret these vibrations as sounds."
+msgstr ""
+
+msgid "Longitudinal Wave"
+msgstr ""
+
+msgid "A wave where the displacement of molecules is in the same direction that the wave moves."
+msgstr ""
+
+msgid "Energy"
+msgstr ""
+
+msgid "The property of objects that can be transferred or changed in form, but not created nor destroyed."
+msgstr ""
+
+# page 15
+msgid "Checking what you now know about... making sound"
+msgstr ""
+
+# page 16
+msgid "Which of the following does not produce sound waves?"
+msgstr ""
+
+msgid "Church bell ringing"
+msgstr ""
+
+msgid "Cell phone ringing"
+msgstr ""
+
+msgid "Window blinds in the wind"
+msgstr ""
+
+msgid "A statue in the park"
+msgstr ""
+
+msgid "Your first quiz question is..."
+msgstr ""
+
+msgid "No. A ringing bell definitely produces sound waves."
+msgstr ""
+
+msgid "Nope. You hear a cell phone ringing because of the sound waves it produces."
+msgstr ""
+
+msgid "Nope. Window blinds flapping in the wind will vibrate, and that makes sound waves."
+msgstr ""
+
+msgid "Yes. A statue in the park doesn't vibrate, so it doesn't produce any sound waves."
+msgstr ""
+
+# page 17
+msgid "Your friend makes the claim that sound waves travel faster during the day time because sound travels slower in the dark. Which of the following observations do not support your friend's argument?"
+msgstr ""
+
+msgid "A) "
+msgstr ""
+
+msgid "The echo in the school gymnasium takes the same time with the lights on as it does with the lights off."
+msgstr ""
+
+msgid "B) "
+msgstr ""
+
+msgid "The temperature of the air is usually cooler at night than it is during the day."
+msgstr ""
+
+msgid "C) "
+msgstr ""
+
+msgid "Sound travels at different speeds in different materials."
+msgstr ""
+
+msgid "D) "
+msgstr ""
+
+msgid "A and B, but not C"
+msgstr ""
+
+msgid "Day or night?"
+msgstr ""
+
+msgid "Close! This certainly does not support your friend's claim, but there were other observations that also disagreed with them."
+msgstr ""
+
+msgid "Close! Temperature is another variable that impacts the speed of sound, but there were other observations that disagreed with your friend's claim."
+msgstr ""
+
+msgid "Nope. Your friend is making a claim about the speed of sound in one material, air, being different during the day and night."
+msgstr ""
+
+msgid "Yes! Both A and B are observations that do not support your friend's claim."
+msgstr ""
+
+# page 18
+msgid "When comparing the sound of a tuba to that of a flute, you observe that the tuba sounds louder. Click on the statement below that supports that observation."
+msgstr ""
+
+msgid "The Tuba moves more air molecules than the flute."
+msgstr ""
+
+msgid "The note from the flute has a higher frequency."
+msgstr ""
+
+msgid "The note from the tuba has a longer wavelength."
+msgstr ""
+
+msgid "The note from the tuba travels at a higher speed."
+msgstr ""
+
+msgid "Playing musical instruments..."
+msgstr ""
+
+msgid "Yes! The tuba is moving the air more, and that is why it sounds louder."
+msgstr ""
+
+msgid "Nope. The higher frequency means that the flute has a higher pitch, but not necessarily a louder sound."
+msgstr ""
+
+msgid "Nope. The longer wavelength means that the note will be lower in pitch, but not necessarily a louder sound."
+msgstr ""
+
+msgid "Nope. The sound from both instruments travel at the same speed."
+msgstr ""
+
+# page 19
+msgid "Lightning strikes 10 miles away from you. How much time passes between when you see the lightning flash and you hear the thunder?"
+msgstr ""
+
+msgid "10 seconds"
+msgstr ""
+
+msgid "5 seconds"
+msgstr ""
+
+msgid "2 seconds"
+msgstr ""
+
+msgid "1 second"
+msgstr ""
+
+msgid "Looking at the lightning..."
+msgstr ""
+
+msgid "You've got it! Sound travels 1 mile every 5 seconds, so if the lightning strikes two miles away, it will take you 10 seconds to hear the thunder."
+msgstr ""
+
+msgid "Not quite. Sound travels 1 mile every 5 seconds, so if it only took 5 seconds to hear the thunder, the lightning strike was only 5 miles away."
+msgstr ""
+
+msgid "Nope. Sound takes 5 seconds to travel 1 mile. 2 seconds is not enough time for the thunder to reach you from 2 miles away."
+msgstr ""
+
+msgid "Nope. Sound takes 5 seconds to travel 1 mile. It'll take more time to reach you from 2 miles away."
+msgstr ""
+
+# page 20
+msgid "Click <span class='blink'>ALL</span> the instruments that make sound by causing the air molecules around them to vibrate."
+msgstr ""
+
+msgid "Double Bass"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "Trumpet"
+msgstr ""
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Cleaning instruments..."
+msgstr ""
+
+msgid "You've got it! All these instruments make musical sounds by causing the air molecules around them to vibrate."
+msgstr ""
+
+msgid "Not quite! The other instruments also make sound by causing the air around them to vibrate."
+msgstr ""
+
+# page 21
+msgid "Based on the speed of sound in the materials listed in the table to the right, drag the items listed on the left into order, with the material where sound would have the fastest speed on top, and the material where sound would have the slowest speed on the bottom."
+msgstr ""
+
+msgid "Oak (Wood)"
+msgstr ""
+
+msgid "Titanium (Metal)"
+msgstr ""
+
+msgid "Air at 50°F"
+msgstr ""
+
+msgid "Seawater at 90°F"
+msgstr ""
+
+msgid "Ready for your last question?"
+msgstr ""
+
+msgid "Yes! Sound tends to travel fastest in materials where the atoms are packed tightly together, and moves slowly in materials in which the atoms are able to move around more easily."
+msgstr ""
+
+msgid "Nope. The top item should be the material in which sound would have the highest speed. Titanium is a metal, like Aluminum and Steel, so it will likely have a higher speed of sound than the others."
+msgstr ""
+
+msgid "Not quite. Based on the chart, sound seems to travel fastest through metals, followed by wood, then seawater and sound moves slowest through the air."
+msgstr ""
+
+msgid "You've completed the Making Sound module."
+msgstr ""
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr ""

@@ -1,0 +1,1076 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一篇"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Quick Check #5"
+msgstr "快速檢測#5"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案。"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "將下方的方框向上或向下旋轉以設置您的答案。擊點、按住或是上下移動您的游標。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點左邊及右邊的箭頭以瀏覽下方的頁面？"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案……"
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選“下一步”。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations"
+msgstr "恭喜你！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“快速檢測”與“測驗題”中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入儀錶板"
+
+msgid "Let's begin"
+msgstr "讓我們開始吧"
+
+msgid "Are you ready"
+msgstr "準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把它們綜合起來……"
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "和第一個測驗題為…"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Welcome to the Specialized Cells module"
+msgstr "歡迎來到「特化細胞」模組"
+
+msgid "Specialized Cells"
+msgstr "特化細胞"
+
+msgid "Thinking about... specialized cells"
+msgstr "思考有關「特化細胞」之定義"
+
+msgid "Watch this...."
+msgstr "請看……"
+
+msgid "Scary? Well, it might be if you were a bacterium instead of a person. All living things are made of cells. Cells are responsible for all of the complex processes that keep all living things alive. Some of the processes are simple, and can be performed by simple cells. Others are much more complicated, and must be handled by cells that are highly specialized to handle complex chemical and structural problems. Sound pretty complex? That's OK. In this module, we'll focus on the cells most familiar to us - human cells."
+msgstr "如果你是一隻細菌而不是人，會感到害怕嗎？所有的生物都是由細胞所組成的。細胞負責維持所有生物生存之複雜過程。有些過程簡單，可通過簡單的細胞來進行。有些要複雜得多，且必須由高度專業化的細胞來處理負責雜的化學與結構問題。聽起來如此複雜嗎？在這個模組中，我們將重點著重於我們最熟悉的細胞－人類細胞。"
+
+msgid "Checking what you already know about... specialized cells"
+msgstr "檢視有關於你所知道的……「特化細胞」。"
+
+msgid "Arrange the responses in the right column to match the things happening in the left column."
+msgstr "排列右欄中的反應與左列中發生的事情進行配對。"
+
+msgid "Bacteria begin to reproduce in a wound."
+msgstr "細菌開始在傷口繁殖。"
+
+msgid "A person touches a hot pan."
+msgstr "一個人觸摸一只熱鍋。"
+
+msgid "Sensory neurons send an electrical message to the brain."
+msgstr "感覺神經元發送電信息傳遞給大腦。"
+
+msgid "Sperm fertilizes an egg cell."
+msgstr "精子讓卵細胞受精。"
+
+msgid "White blood cells begin to divide and reproduce."
+msgstr "白血球開始分裂和繁殖。"
+
+msgid "All living things are made up of cells that have special structures and functions. The human body is made of many different types of cells and combinations of cells, each with its own specialized function. Special human cells are involved in everything from reproduction to fighting infections to feeling pain. Knowing about cell structure and function will help you better understand how your body works."
+msgstr "所有的生物都是由具有特殊結構與功能的細胞組成。人體是由許多不同類型的細胞和細胞組合所組成的，每個都有其專門的功能。特化之人體細胞參與了從繁殖、抵抗感染至感覺疼痛的一切事情。了解關於細胞結構與功能將有助於您更了解身體的運作。"
+
+msgid "Looking at cells..."
+msgstr "來瞧瞧這些細胞……"
+
+msgid "A new embryo begins to form."
+msgstr "一個新的胚胎開始形成。"
+
+msgid "Studying human cells..."
+msgstr "研究人體細胞……"
+
+msgid "Complex organisms, like people, are made up of many systems, each responsible for a set of functions needed to keep the organism alive. Some examples of human systems include the muscular system, the nervous system and the reproductive system. Our immune system is very closely related to our circulatory system."
+msgstr "如人類般複雜的有機體是由許多系統組成，每個系統負責一套維持生物體生存的功能。關於人類系統的一些例子包括肌肉系統、神經系統和生殖系統。我們的免疫系統和我們的循環系統有密切的關係。"
+
+msgid "Reviewing big ideas about... specialized cells"
+msgstr "回顧有關「特化細胞」之大概念"
+
+msgid "Each of these systems is composed of many different types of <span class='key'>cells</span>, all working together to accomplish the system's functions. Large collections of cells working together are called <span class='key'>tissues</span>. Sets of different tissues are often combined to form structures called <span class='key'>organs</span>. A <span class='key'>system</span> is a set of organs, all working together to complete a set of vital functions."
+msgstr "每個系統是由許多不同類型且共同完成系統功能的細胞組成。大量的細胞集合在一起運作稱之為組織。幾套不同的組織合併成的結構稱之為器官。系統為一整套共同完成重要功能之器官。"
+
+msgid "Every cell in an organ system is alive. It must perform its own vital functions in order for it to cooperate with other cells to keep the organism alive. Every cell has its own membrane, separating itself from its environment. Nearly every cell has a <span class=key>nucleus</span>, containing the DNA information necessary for it to make the proteins it needs to do its job. Most cells are capable of reproducing when necessary, and some cells even have the ability to acquire, store and process information from the world around them."
+msgstr "在器官的每一個細胞皆是活的。它必須執行自己重要的功能，使它與其他細胞合作，維持生物的生命。每個細胞都有自己的細胞膜，將自己與外界環境分離。幾乎所有細胞都有一個細胞核，細胞核中包含了細胞運作所需蛋白質之DNA訊息。大部分的細胞在必要時能夠生殖，有些細胞甚至有從周圍世界獲取、儲存和處裡周圍訊息的能力。"
+
+msgid "HUMAN CELLS"
+msgstr "人體細胞"
+
+msgid "Columnar epithelial cells"
+msgstr "柱狀上皮細胞"
+
+msgid "White blood cells"
+msgstr "白血球細胞"
+
+msgid "Red blood cells"
+msgstr "紅血球細胞"
+
+msgid "Smooth muscle cells"
+msgstr "平滑肌細胞"
+
+msgid "Which of the following sequences is correct, from smallest part to largest part?"
+msgstr "以下從最小至最大，哪項順序是正確的？"
+
+msgid "Organ, tissue, system, cell"
+msgstr "器官、組織、系統、細胞"
+
+msgid "Cell, tissue, organ, system"
+msgstr "細胞、組織、器官、系統"
+
+msgid "Cell, organ, system, tissue"
+msgstr "細胞、器官、系統、組織"
+
+msgid "Organ, cell, system, tissue"
+msgstr "器官、細胞、系統、組織"
+
+msgid "Choose the structures listed below that are common to most cells. Drag them into the empty boxes."
+msgstr "選擇以下所列大多數細胞共同結構之選項。將其拖曳至空格中。"
+
+msgid "Reset"
+msgstr "重設"
+
+msgid "Membrane"
+msgstr "細胞膜"
+
+msgid "DNA"
+msgstr "DNA"
+
+msgid "Reproduction"
+msgstr "生殖"
+
+msgid "Nucleus"
+msgstr "細胞核"
+
+msgid "No. Cells are actually the smallest parts."
+msgstr "否。細胞為最小單位。"
+
+msgid "Sorry. Reproduction is a function, not a structure."
+msgstr "抱歉。生殖是一種功能，非結構。"
+
+msgid "That's right! Cells are grouped into tissues, which are grouped into organs, which are grouped into systems."
+msgstr "沒錯！細胞組成組織，組織組成器官，器官組成系統。"
+
+msgid "Sorry. Systems are the largest groups."
+msgstr "抱歉。系統為最大的群體。"
+
+msgid "Sorry. Cells are the smallest parts."
+msgstr "抱歉。細胞為最小單位。"
+
+msgid "Contracting and relaxing muscle..."
+msgstr "收縮和放鬆肌肉……"
+
+msgid "More big ideas about... specialized cells"
+msgstr "更多有關「特化細胞」之大概念"
+
+msgid "Movement. It's something all humans do, although maybe not quite with the same grace and power as this gymnast. Movement requires the interactions of many body systems. The skeletal system must provide support for the body. The nervous system must sense the outside world, process the information, and then deliver instructions to the muscular system to execute complex movements. And the circulatory system must ensure the supply of nutrients and oxygen needed by the body to expend such energy."
+msgstr "運動。這是所有人都會做的事情，雖然不如體操選手般優雅且有力。運動需要許多身體系統的相互作用。骨骼系統必須支撐身體。神經系統必須感應外部世界、處裡訊息與傳遞指令於肌肉系統以執行複雜的動作。而且循環系統必須確保人體所需的營養和氧氣的供給。"
+
+msgid "The muscular system is most directly responsible for movement. Its highly specialized cells move bones, propel food through the digestive system, and provide power to the circulatory system. The cells of the muscular system are of three major types: skeletal, smooth and cardiac."
+msgstr "肌肉系統是最直接負責我們身體的運動。其高度特化的細胞移動骨頭，通過消化系統推動食物，並且提供循環系統力量。肌肉系統的細胞主要的三種類型：骨骼肌、平滑肌和心肌。"
+
+msgid "Cardiac muscle"
+msgstr "心肌"
+
+msgid "Smooth muscle"
+msgstr "平滑肌"
+
+msgid "Skeletal muscle"
+msgstr "骨骼肌"
+
+msgid "All muscle cells contain protein fibers capable of contracting and relaxing when properly stimulated. The stimulation comes in the form of an impulse that is both chemical and electrical in nature. When stimulated, muscle fibers contract, shortening the length of each muscle cell. Since muscle cells are connected to one another, or through tendons, to bone, some type of movement occurs."
+msgstr "所有肌肉細胞含有蛋白質纖維，接受適當刺激時有收縮與舒張的能力。接受的刺激是以脈衝的形式呈現，即化學與電信號的性質。受刺激時，肌肉纖維收縮，縮短每個肌細胞的長度。因為肌肉細胞彼此相連接至骨頭或通過肌腱至骨頭發生運動。"
+
+msgid "Skeletal muscles are attached to bones, some moving and some nonmoving. When the cells of a muscle contract, one of the bones moves. Skeletal muscle cells contain very long protein fibers called actin and myosin, which appear as light and dark bands. As a way to strengthen connections between fibers, skeletal muscles often merge, resulting in tubular cells with multiple nuclei and many energy-releasing <span class='key'>mitochondria</span>. Skeletal muscle is controlled consciously by the nervous system."
+msgstr "骨骼肌附著於骨骼，有些移動，有些不移動。當肌肉收縮，其中一個骨頭移動。骨骼肌細胞中含有很長的蛋白質纖維稱為肌動蛋白與肌凝蛋白，其出現為亮帶與暗帶。以此來加強纖維之間的連接，骨骼肌經常合併，導致管狀細胞有多個核和許多釋放能量的線粒體。骨骼肌是由神經系統有意識地控制。"
+
+msgid "Food is moved through the digestive system, and pressure is maintained in the circulatory system using smooth muscles. They lack the dark and light bands of skeletal muscle. Sometimes whole sheets of muscle lose their cell membranes and become a single unit having many nuclei. This type of muscle operates to coordinate complex processes like digestion. Smooth muscle is controlled by the autonomic nervous system outside voluntary control."
+msgstr "食物是通過消化系統移動，且靠平滑肌使循環系統中的壓力維持。它們缺乏骨骼肌的暗帶與亮帶。有時候整片肌肉失去其細胞膜和變成具有多核的單元。此種類型的肌肉運行以協調複雜的過程，如消化。平滑肌是隨意控制，由自主神經系統控制。"
+
+msgid "Blood is propelled through the circulatory system when the heart beats or contracts. The heart is made of cardiac muscle and resembles skeletal muscle but its cells generally contain only three nuclei. They are also not attached to bones, but to each other, so that when the muscles contract, so does the heart as a whole. Like smooth muscle, cardiac muscle is controlled by the autonomic nervous system."
+msgstr "當心臟跳動或收縮時，血液被推進至循環系統。心臟是由心肌和類似骨骼肌的細包組成，但其細胞通常只含有三個細胞核。它們也不會附著到骨頭，但彼此連接，這樣當肌肉收縮時，心臟即為一個整體。如平滑肌一樣，心肌由自主神經系統的控制。"
+
+msgid "Identifying types of muscles..."
+msgstr "辨識肌肉的類型……"
+
+msgid "Muscle cells are capable of doing which of the following?"
+msgstr "肌肉細胞能夠做下列哪一項呢？"
+
+msgid "They can extend."
+msgstr "可以延長。"
+
+msgid "They can contract."
+msgstr "可以收縮。"
+
+msgid "They can digest food."
+msgstr "可以消化食物。"
+
+msgid "They can excrete enzymes."
+msgstr "可以分泌酵素。"
+
+msgid "Drag the muscle types into the proper boxes."
+msgstr "拖動肌肉類型成為適當的形狀。"
+
+msgid "Muscle Type"
+msgstr "肌肉的型式"
+
+msgid "Conscious Control"
+msgstr "隨意控制"
+
+msgid "Subconscious Control"
+msgstr "潛意識控制"
+
+msgid "Smooth"
+msgstr "平滑肌"
+
+msgid "Cardiac"
+msgstr "心肌"
+
+msgid "Skeletal"
+msgstr "骨骼肌"
+
+msgid "Smooth muscle is found in organs and blood vessels. It is not consciously controlled."
+msgstr "平滑肌發現於器官和血管中。它是非隨意控制。"
+
+msgid "Smooth muscle is found in organs and blood vessels. It is subconsciously controlled."
+msgstr "平滑肌發現於器官和血管中。它是受潛意識控制。"
+
+msgid "Cardiac muscle makes up the heart. It functions independently of our thoughts."
+msgstr "心肌組成了心臟。它的功能獨立，不受我們意識控制。"
+
+msgid "Skeletal muscle is under conscious control, and moves bones."
+msgstr "骨骼肌是隨意控制移動骨頭。"
+
+msgid "Great job! Smooth and cardiac muscles operate even when we're not thinking about them. Skeletal muscles work when we want them to."
+msgstr "太棒了！平滑肌與心肌即使我們沒有想到，它們依然運作。骨骼肌是我們希望它們運作，它們才會運作。"
+
+msgid "Not quite! Smooth muscle is found in organs and blood vessels and is not consciously controlled. Cardiac muscle makes up the heart and functions independently of our thoughts. Thus, only skeletal muscle should be under conscious control as it moves bones."
+msgstr "不太對！平滑肌發現於器官和血管中且它是非隨意控制。心肌組成了心臟，它的功能獨立，不受我們意識控制。因此，只有骨骼肌移動骨頭時需意識控制。"
+
+msgid "Using a cellphone..."
+msgstr "使用手機……"
+
+msgid "Right now, you're using some sort of electrical device. Maybe it's a computer, maybe a tablet, or even a phone. But you are seeing this image, thinking about what is written, and then responding by touching a screen or moving a mouse."
+msgstr "你每天都使用各種電子設備。電腦、平板電腦甚至是手機。但你現在看著這張圖片，想想看上面寫的是什麼，並且透過觸控螢幕或是滑鼠做出回應。"
+
+msgid "The device you are using is an electrical system. It takes your mouse or keyboard direction, transmits it across the Internet, and then displays the response on a screen. This takes electricity, a way of sending a signal long distances at the speed of light."
+msgstr "你正在使用的裝置是種電力系統。它需要你的滑鼠或是鍵盤在網路上傳達指令，並且在螢幕上顯示出來。這需要電力，一種以光速傳達長距離訊號的方法。"
+
+msgid "The very same thing is happening in your body as you read this. Information is taken in by your eyes and transmitted to your brain. The brain processes the information, and then sends a response to your fingers. This all happens so quickly because your nervous system is an electrical system as well."
+msgstr "當你正在讀這段文字時同樣的事也發生在你身上。訊息透過你的眼睛傳達到你的到大腦。而大腦處裡訊息之後傳達指令給手指。這發生的非常迅速因為你的神經系統也是種電力系統。"
+
+msgid "Cell body"
+msgstr "細胞本體"
+
+msgid "Dendrite"
+msgstr "樹突"
+
+msgid "Axon"
+msgstr "軸突"
+
+msgid "Mitochondrion"
+msgstr "粒線體"
+
+msgid "Myelin sheath"
+msgstr "髓鞘"
+
+msgid "Node of ranvier"
+msgstr "蘭氏結"
+
+msgid "Schwann cell"
+msgstr "許旺細胞"
+
+msgid "Synapse"
+msgstr "突觸"
+
+msgid "Axon terminal"
+msgstr "軸突末梢"
+
+msgid "Nerve cells, known as <span class=key>neurons</span>, are capable of processing and transmitting information through a series of electrical and chemical processes. They can form complex networks by connecting to many other cells. The connections are called synapses. Most nerve cells include a cell body, <span class=key>dendrites</span>, and an <span class=key>axon</span>. The cell body contains the nucleus and other organelles. A cell may have many dendrites which serve to bring information to the cell body. Each neuron has a single axon, a very long (sometimes up to 1 meter) structure, which allows the cell to send information to other nerve cells at great distances."
+msgstr "神經細胞，稱為神經元，能夠通過一系列電和化學的過程處理和傳送信息。它們通過連接到許多其它細胞形成複雜的網絡。連接是所謂的突觸。大多數神經細胞包括細胞本體、樹突和軸突。細胞本體含有細胞核和其他胞器。一個細胞單元有許多用來將訊息傳遞給細胞本體的樹突。每個神經元都有單一個很長的（有時高達一米）軸突，使得細胞能夠傳遞訊息給很遠的細胞。"
+
+msgid "Sensory neurons are cells that detect and transmit information from the five senses. They are located throughout the body, and include mechanical receptors for pressure, pain and temperature; chemical receptors for taste and smell; auditory receptors for sound; and photoreceptors for vision. Sensory neurons send information to the <span class=key>central nervous system (CNS)</span>."
+msgstr "感覺神經元細胞是偵測和傳遞來自五感的訊息。它們分別位於整個身體，包括壓力、疼痛和溫度的機械受體；味覺和嗅覺的化學感受器；聲音的聽覺感受器；視覺的光感受器。感覺神經元發送訊息致中樞神經系統（CNS）。"
+
+msgid "The central nervous system consists of the brain and spinal cord. CNS neurons, also known as interneurons, connect to both sensory and motor neurons, as well as to many other CNS neurons. These connections allow sensory input to be evaluated, and an appropriate response sent out to the body."
+msgstr "中樞神經系統由大腦和脊髓組成。CNS神經元也被稱為中間神經元，同時連接感覺和運動神經元，以及許多其他CNS神經元。這些連結使感覺訊號輸入進行評估，和做出適當的身體反應。"
+
+msgid "That response depends upon motor neurons. These cells, located in the spinal cord receive information from CNS cells and transmit electrical signals, through their axons, to muscles. These signals stimulate movement."
+msgstr "該反應取決於運動神經元。這些細胞位於脊髓，透過軸突接收來自中樞神經系統細胞的訊息和傳輸電訊號於肌肉。這些信號刺激運動。"
+
+msgid "What is a major difference between axons and dendrites?"
+msgstr "軸突與樹突之間最主要的差異是什麼？"
+
+msgid "Axons bring information to the cell body; dendrites send information away."
+msgstr "軸突將信息傳送給細胞本體；樹突則是發送訊息出去。"
+
+msgid "Axons take information away from the cell body; dendrites bring information in."
+msgstr "軸突提取訊息離開細胞本體；樹突則是將訊息帶進細胞本體。"
+
+msgid "Axons are usually much shorter than dendrites."
+msgstr "軸突通常比樹突短得多。"
+
+msgid "Dendrites are usually much longer than axons."
+msgstr "樹突通常比軸突長得多。"
+
+msgid "Which of the following is a correct pathway for information?"
+msgstr "以下哪一項是正確的訊息傳導路徑？"
+
+msgid "motor neuron ---> sensory neuron ---> interneuron"
+msgstr "運動神經元--->感覺神經元--->中間神經元"
+
+msgid "sensory neuron ---> motor neuron ---> interneruron"
+msgstr "感覺神經元--->運動神經元--->中間神經元"
+
+msgid "interneuron ---> sensory neuron ---> motor neuron"
+msgstr "中間神經元--->感覺神經元--->運動神經元"
+
+msgid "sensory neuron ---> interneuron ---> motor neuron"
+msgstr "感覺神經元--->中間神經元--->運動神經元"
+
+msgid "Nope. Dendrites gather information; axons transmit it away."
+msgstr "不！樹突收集信息；軸突送出訊息。"
+
+msgid "Right! Dendrites bring information to the cell body. Axons send it on to other nerve cells."
+msgstr "對！樹突將信息傳給細胞體。軸突發送訊息給其他神經細胞。"
+
+msgid "Sorry. Axons are much longer."
+msgstr "抱歉。軸突要長得多。"
+
+msgid "No. Motor neurons would be the last to receive information."
+msgstr "不。運動神經元會是最後接收訊息的。"
+
+msgid "Sorry. Dendrites are much shorter."
+msgstr "抱歉。樹突要短得多。"
+
+msgid "Sorry. Motor neurons would be the last to receive information."
+msgstr "抱歉。運動神經元會是最後接收訊息的。"
+
+msgid "Nope. Sensory neurons receive information first."
+msgstr "不。感覺神經元是第一個接收信息的。"
+
+msgid "That's right! Sensory neurons send information to interneurons where it is processed and sent to motor neurons."
+msgstr "正確的！感覺神經元發送訊息至中間神經元那兒處裡，並再發送至運動神經元。"
+
+msgid "Hearing pulse..."
+msgstr "聽力脈衝……"
+
+msgid "A beating heart. To many people, it's the ultimate symbol of life. Our beating hearts power our circulatory systems. The circulatory system moves cells around the body to transport gases and fight infection."
+msgstr "跳動的心。對於許多人來說，這是他們的生命象徵。我們的心跳驅動我們的循環系統，循環系統輸送細胞的全身輸送身體所需的氣體及對抗感染。"
+
+msgid "Red blood cells are some of the simplest, yet most highly specialized cells in the human body. They are responsible for carrying oxygen from the lungs to the tissues where it is needed to keep other cells alive.  Once the oxygen is delivered, <span class='key'>red blood cells</span> are responsible for moving cells' carbon dioxide waste to the lungs, where it can be expelled from the body.  Once complete, the cycle repeats."
+msgstr "紅血球在人體中是最簡單也是高度特化的細胞。他們負責從肺輸送氧氣到需要的器官，維持細胞的生命。一旦將氧氣送達，紅血球就必須負責將二氧化碳運輸到肺部將他排出身體。完成之後則繼續這個循環。"
+
+msgid "Red blood cells are formed from stem cells in bone marrow. As they mature, their internal structures disintegrate, leaving them as disk-shaped bags of hemoglobin surrounded by cell membrane. Hemoglobin is the red protein that is able to carry oxygen to the tissues and carbon dioxide to the lungs. Red cells' small size and smooth shape allow them to travel into the smallest spaces in the body."
+msgstr "紅血球細胞是由骨髓裡的幹細胞而來。隨著逐漸成熟，它們的內部結構瓦解，使它們形成裡面有血紅素的圓盤袋狀的樣子，外面有細胞膜包圍。血紅素是可以將氧氣運輸到其他組織並且帶回二氧化碳到肺部的紅蛋白。紅血球的體積很小，而且是流線的造型，可以讓它們在身體裡最小的空間中穿梭。"
+
+msgid "White blood cells, or <span class=key>lymphocytes</span>, come in many varieties. They vary a great deal in appearance and function, but are all related to the immune system. Each cell type performs a specific function or targets a specific type of outside threat. The table below summarizes the different functions of white blood cells."
+msgstr "白血球或稱淋巴細胞，有許多種類。它們在外觀和功能上有很大差異，但它們都屬於免疫系統。每種細胞擁有特定的功能或是針對特定類型的外來威脅。下表總結了白血球的各種不同功能。"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Targets"
+msgstr "目標"
+
+msgid "Lifespan"
+msgstr "生存期限"
+
+msgid "Monocytes (mature monocytes are called macrophages)"
+msgstr "單核細胞（成熟的單核細胞被稱為巨噬細胞）"
+
+msgid "bacteria, viruses, cancer cells"
+msgstr "細菌、病毒、癌細胞"
+
+msgid "hours to days"
+msgstr "數小時至數天"
+
+msgid "Eosinophils"
+msgstr "嗜酸性粒細胞"
+
+msgid "large parasites"
+msgstr "大型寄生蟲"
+
+msgid "8-12 days"
+msgstr "8-12天"
+
+msgid "T-lymphocytes (form in bone marrow; mature in thymus gland)"
+msgstr "T淋巴細胞（骨髓中形成；胸腺中成熟）"
+
+msgid "specific disease agents (T-cells store information for making antibodies)"
+msgstr "特定病原體（T細胞儲存訊息用於製備抗體）"
+
+msgid "weeks to years"
+msgstr "數週至數年"
+
+msgid "B-lymphocytes"
+msgstr "B淋巴細胞"
+
+msgid "specific disease agents (B-cells make antibodies)"
+msgstr "特定病原體（B細胞產生抗體）"
+
+msgid "weeks"
+msgstr "幾週"
+
+msgid "bacteria, fungi"
+msgstr "細菌、真菌"
+
+msgid "Basophils"
+msgstr "嗜鹼性粒細胞"
+
+msgid "inflammatory responses"
+msgstr "發炎反應"
+
+msgid "CLOSE ME!"
+msgstr "關閉！"
+
+msgid "The Elements of Blood"
+msgstr "血液的成分"
+
+msgid "Erythrocytes"
+msgstr "紅血球"
+
+msgid "Eosinophil"
+msgstr "嗜酸性粒細胞"
+
+msgid "Platelets"
+msgstr "血小板"
+
+msgid "Lymphocyte"
+msgstr "淋巴細胞"
+
+msgid "Neutrophil"
+msgstr "中性粒細胞"
+
+msgid "Neutrophils"
+msgstr "中性粒細胞"
+
+msgid "Red cells or white cells?"
+msgstr "紅血球或白血球？"
+
+msgid "What is one advantage of red blood cells' shape and size?"
+msgstr "紅血球細胞的形狀與大小的優點是什麼？"
+
+msgid "Red cells are able to enter the smallest spaces in the body."
+msgstr "紅血球細胞可以進入身體最小的空間。"
+
+msgid "Red cells are able to make large quantities of antibodies."
+msgstr "紅血球可以產生大量的抗體。"
+
+msgid "Red cells can rapidly fill and clot breaks in arteries."
+msgstr "紅血球能迅速填充和凝結受損的動脈。"
+
+msgid "Red cells are better able to store information about viruses."
+msgstr "紅血球有能力儲存有關病毒的訊息。"
+
+msgid "White blood cells perform many functions related to immunity. Select the incorrect statement from the list below."
+msgstr "白血球進行許多有關免疫的功能。選擇下列不正確的句子。"
+
+msgid "Destroy invading bacteria."
+msgstr "消滅入侵的細菌。"
+
+msgid "Manufacture antibodies."
+msgstr "製造抗體。"
+
+msgid "Carry oxygen and carbon dioxide."
+msgstr "攜帶氧氣和二氧化碳。"
+
+msgid "Identify disease agents."
+msgstr "辨識病原體。"
+
+msgid "Destroy dangerous fungi."
+msgstr "消滅具危險性真菌。"
+
+msgid "Yeah! Red cells' small size and smooth exterior enable them to reach the smallest spaces in the body."
+msgstr "對！紅血球的小尺寸和光滑的表面使它們能夠到達體內中最小的空間。"
+
+msgid "Sorry. Red cells don't make antibodies."
+msgstr "抱歉。紅血球不產生抗體。"
+
+msgid "No. Red cells don't form clots."
+msgstr "不。紅血球無法形成血栓。"
+
+msgid "Nope. Red cells don't store information."
+msgstr "不。紅血球不能存儲信息。"
+
+msgid "White blood cells do destroy invading bacteria."
+msgstr "白血球消滅入侵的細菌。"
+
+msgid "White blood cells do manufacture antibodies."
+msgstr "白血球製造抗體。"
+
+msgid "That's right! Oxygen and carbon dioxide are carried by red blood cells."
+msgstr "正確！氧氣與二氧化碳是由紅血球攜帶。"
+
+msgid "White blood cells do identify disease agents."
+msgstr "白血球識別病原體。"
+
+msgid "White blood cells do destroy dangerous fungi."
+msgstr "白血球摧毀具危險性的真菌。"
+
+msgid "Deployment of an embreyo..."
+msgstr "胚胎的發展……"
+
+msgid "All people have a lot in common. One thing we all have in common is that we look a lot like our mothers and fathers. None of us is an exact copy of either one of them, but we share many of their characteristics. Offspring are the products of both of their parents. When a pair of cells merges, one from the mother and one from the father, an embryo is formed. Under the right circumstances, that <span class=key>embryo</span> develops into a fetus and, much later, a baby is born."
+msgstr "所有的人都有許多共同點。有一件我們共同擁有的事，就是我們看起來都很像我們的父親與母親。我們當中沒有任何一個人是父母精確的副本，但是我們共享了許多他們的特點。子代皆為父母的產物。當一對細胞融合，一個來自母親，一個來自父親，一個胚胎便就此形成了。在正常情況下，胚胎發育成胎兒，接著一個嬰兒出生。"
+
+msgid "This seems like a simple process until we consider cell structures. The information that gives all organisms their inherited characteristics is carried on cellular structures called <span class=key>chromosomes</span>. Chromosomes are made of DNA and are found in a cell's nucleus."
+msgstr "在我們思考到細胞結構前，這似乎是一個簡單的過程。帶給所有生物遺傳特徵訊息的細胞結構稱為染色體。染色體是由DNA組成，且位於細胞核中。"
+
+msgid "The cells that carry this information are called <span class='key'>sex cells</span> or <span class='key'>gametes</span>. Female gametes are <span class='key'>eggs</span>. Male gametes are <span class='key'>sperm</span>. The small cells in the illustration are sperm cells. Sperm are made in testes, and consist of a head, a mid piece, and a tail. The head carries a half set of the father's chromosomes. The mid piece contains mitochondria capable of releasing large amounts of energy. The tail uses that energy to propel the sperm forward until it encounters an egg cell."
+msgstr "攜帶此信息的細胞被稱為生殖細胞或配子。雌配子為卵。雄配子稱為精子。圖示中的細胞為精子細胞。精子在睪丸中製成，包括一個頭部、中節及尾部。頭部帶有半套來自父親的染色體。中節含有能夠釋放出大量能量的線粒體。尾部使用能量來推動精子前向運動，直到遇到一個卵細胞。"
+
+msgid "As the image shows, egg cells are much larger than sperm cells. Egg cells are produced in <span class='key'>ovaries</span>, and contain a half set of the mother's chromosomes as well as a large store of food for the development of an embryo after <span class='key'>fertilization</span>. While males are able to produce millions of sperm cells each day, females usually produce only a single egg cell each month during their reproductive years."
+msgstr "如圖像顯示，卵細胞比精子細胞大得多。卵細胞在卵巢產生，包含半套母親的染色體以及受精後提供胚胎發育的食物儲存場。男生每天可以產生數以百萬計的精子細胞，女性在生育年齡期間通常每個月只產生一個卵細胞。"
+
+msgid "FERTILIZATION"
+msgstr "受精"
+
+msgid "Acrosome"
+msgstr "頂體"
+
+msgid "Sperm nucleus"
+msgstr "精子細胞核"
+
+msgid "Cortical granules"
+msgstr "皮質顆粒"
+
+msgid "Egg nucleus"
+msgstr "卵核"
+
+msgid "Cytoplasm of ovum"
+msgstr "卵子的細胞質"
+
+msgid "Zona Pellucida"
+msgstr "透明帶"
+
+msgid "Follicle Cell"
+msgstr "濾泡細胞"
+
+msgid "First polar body"
+msgstr "第一極體"
+
+msgid "What is a key feature sperm and egg cells have in common?"
+msgstr "精子細胞與卵子細胞關鍵的共同點是什麼？"
+
+msgid "Both types of cells are very large."
+msgstr "這兩種類型的細胞均非常大。"
+
+msgid "Both types of cells have half sets of chromosomes."
+msgstr "這兩種類型的細胞有半套染色體。"
+
+msgid "Both types of cells have tails."
+msgstr "這兩種類型的細胞有尾巴。"
+
+msgid "Both types of cells are produced by males."
+msgstr "這兩種類型的細胞是由男性產生。"
+
+msgid "Question B. Choose the correct statement."
+msgstr "問題B.選擇正確的句子。"
+
+msgid "Egg cells have complete sets of chromosomes; sperm cells have none."
+msgstr "卵細胞擁有全套的染色體；精子細胞沒有。"
+
+msgid "Sperm cells and egg cells are both made by female parents."
+msgstr "精子細胞和卵細胞都由母親製成。"
+
+msgid "Sperm cells are male gametes and egg cells are female gametes."
+msgstr "精子是雄性配子而卵子細胞是雌配子。"
+
+msgid "Gametes differ very little from other types of cells."
+msgstr "配子細胞與其他類型細胞相差不大。"
+
+msgid "Sorry. Egg cells are quite large but sperm cells are very small."
+msgstr "抱歉。卵細胞相當大，但精子細胞非常小。"
+
+msgid "Correct! Both types of cells only have half sets of chromosomes."
+msgstr "正確！這兩種類型的細胞都只具有半套染色體。"
+
+msgid "Nope. Only sperm cells have tails."
+msgstr "不。只有精子細胞有尾巴。"
+
+msgid "No. Sperm cells are male gametes."
+msgstr "不。精子細胞是雄性配子。"
+
+msgid "Nope. Both types of cells have half sets of chromosomes."
+msgstr "不。這兩種類型的細胞都只具有半套染色體。"
+
+msgid "Incorrect. Sperm are made by males; eggs are made by females"
+msgstr "不正確。精子是由男性製成；卵子是由女性製成。"
+
+msgid "That's right! Sperm are made by males; eggs are made by females."
+msgstr "沒錯！精子是由男性製成；卵子是由女性製成。"
+
+msgid "Not really. Gametes are highly specialized cells."
+msgstr "不盡然。配子是高度特化的細胞。"
+
+msgid "Solving a mystery..."
+msgstr "解決一個謎團……"
+
+msgid "Using what you know about... specialized cells... to solve a problem"
+msgstr "利用你知道關於「特化細胞」的知識來解決問題"
+
+msgid "In the 1980s, a new disorder appeared in which otherwise healthy adults began to suffer severe illnesses related to unusual diseases to which most people are immune. Careful investigations showed that the affected patients had been exposed to these odd diseases in the past and had no particular problems. It seemed as though the ill patients had somehow lost immunity they had already acquired."
+msgstr "在1980年代，一種新的疾病出現，原本健康的成年人開始得到這些不尋常的疾病，且大多數的人開始有免疫力。調查顯示，這些受到影響的病人在過去已經接觸這些奇怪的疾病了，且也沒有特別的問題。這似乎是重症患者在某種程度上失去了後天的免疫力。"
+
+msgid "WHITE BLOOD CELLS"
+msgstr "白血球"
+
+msgid "Lymposite"
+msgstr "淋巴細胞"
+
+msgid "Basophil"
+msgstr "嗜鹼性粒細胞"
+
+msgid "Eosinphil"
+msgstr "嗜酸性粒細胞"
+
+msgid "Monocyte"
+msgstr "單核細胞"
+
+msgid "Neuron"
+msgstr "神經元"
+
+msgid "Imagine yourself as a medical researcher. Explain what part of the immune system you would investigate first to solve the mystery and explain why you chose that system."
+msgstr "想像一下，自己是一個醫學研究人員。為了解開這個謎團，解釋一下你先調查的免疫系統是哪一部分，並解釋你為什麼選擇該系統？"
+
+msgid "Summarizing ideas about... specialized cells"
+msgstr "總結關於「特化細胞」的概念"
+
+msgid "All living things are made of <span class='key'>cells</span>. Some cells are very large. Some cells are very small. Some are simple and some are extremely complex. Just as living things are amazingly diverse, so are the cells they are made of."
+msgstr "所有生物都是由細胞組成的。有些細胞非常大。有些細胞極小。有些是簡單，有些極其複雜。正如生物是令人驚訝地多樣化，而它們是由細胞所組成。"
+
+msgid "Even within individual organisms, the diversity of cells is remarkable. In humans, as in other species, different types of cells are highly specialized in order to perform very specific functions. Working together, these cells are assembled into tissues. <span class='key'>Tissues</span> are, in turn, assembled into <span class='key'>organs</span>, and organs are grouped into <span class='key'>systems</span> to perform the necessary functions of life."
+msgstr "即便在生物個體，細胞的差異是顯著的。在人類中，一如在其他物種，不同類型的細胞高度特化是為了執行非常特定的功能。通過合作，這些細胞被組合成組織。再來，組織組合成器官，且各種器官被歸類成系統來進行日常生活的必要功能。"
+
+msgid "Different systems are made of different types of cells, all sharing some of the same characteristics, but each having unique features that help it do its job. Some examples of specialized systems in humans are muscular, digestive, nervous, circulatory and reproductive."
+msgstr "不同的系統是由不同類型的細胞組成，全部一起分享一些相同的特徵，但每個都具有獨一無二的功能幫助它完成其工作。一些人類特化系統的例子包含肌肉、消化、神經、循環系統和生殖。"
+
+msgid "Skeletal muscle cells are attached to bones and move the bones when they contract. Smooth muscle cells are found in the digestive tract and in many glands. When they contract, food is moved through the digestive process and substances are passed out of glands as needed. Cardiac muscle cells make up the heart and propel blood throughout the circulatory system."
+msgstr "骨骼肌細胞附著於骨骼且當收縮時移動骨頭。平滑肌細胞可見於消化道內和在許多腺體內。當它們收縮時，食物被運送通過消化道，有物質從所需要用到的腺體中分泌出來。心肌細胞組成心臟，能推送血液至循環系統。"
+
+msgid "Sensory nerve cells detect such environmental information as touch, temperature, pain, heat, taste, smell, sound and light. They transmit this information to the brain where interneurons interpret them based on the way they relate to patterns already formed by experiences. Motor <span class='key'>neurons</span> then send messages to muscles causing movement."
+msgstr "感覺神經細胞偵測環境信息，包括觸摸、溫度、痛覺、熱、味覺、嗅覺、聲音和光。它們將此信息傳遞到大腦，中間神經元根據過往的經驗模式來解釋它們。接著運動神經元將信息發送給肌肉產生運動。"
+
+msgid "Cells of the circulatory systems are either red or white. Red blood cells carry oxygen from the lungs to body tissues, and carbon dioxide from body tissues to the lungs. White blood cells are much larger than red cells and make up the body's immune system. <span class='key'>Lymphocytes</span> protect against specific types of bacteria and viruses. Other white cells respond to many other types of threats, but not to specific disease agents."
+msgstr "循環系統的細胞為紅血球或白血球。紅血球從肺部攜帶氧氣至身體組織，從身體的組織攜帶二氧化碳至肺部。白血球比紅血球大得多，構成人體的免疫系統。淋巴細胞防禦特定類型的細菌和病毒。其它的白血球對於其它類型的威脅作出反應，而不是特定的病原體。"
+
+msgid "Reproductive cells are known as gametes. Female gametes, called <span class='key'>egg cells</span>, are made in ovaries. Male gametes, or sperm, are made in testes. Both types of sex cells have only a half set of chromosomes, one of each type. When they merge at fertilization, a new embryo has a complete set of chromosomes."
+msgstr "生殖細胞被稱為配子。雌配子，或稱卵子，由卵巢製成。雄配子，或稱精子，由睾丸製成。兩種類型的性細胞都具有一組染色體中的一半。當它們受精融合，一個具有完整染色體的新胚胎生成。"
+
+msgid "Cell"
+msgstr "細胞"
+
+msgid "A unit making up organisms. An organism can be made of one cell, or many cells, but all living things are made of cells."
+msgstr "一個單位構成的生物體。一個細胞構成一個生物體或是多個細胞構成一個生物體，但所有生物都是由細胞所構成。"
+
+msgid "Egg Cells"
+msgstr "卵細胞"
+
+msgid "A cell used in reproduction. Egg cells only contain half as many chromosomes as normal cells, and require genetic material from another cell to grow into a new organism."
+msgstr "一個細胞被賦予生殖的作用。卵細胞只含有正常細胞中一半的染色體，生成新的生物體，須來自其他細胞的遺傳物質。"
+
+msgid "Embryo"
+msgstr "胚胎"
+
+msgid "A fertilized egg cell grows into an embryo. Embryos can then continue to grow into a new organism as cells divide and specialize."
+msgstr "受精的卵細胞生長成胚胎。隨著細胞分裂和特化，胚胎繼續生長成一個新的生物體。"
+
+msgid "LYMPHOCYTE"
+msgstr "淋巴細胞"
+
+msgid "The cells that fight off infections in an organism. It is also known as \"White blood cells\"."
+msgstr "對抗外來感染生物體的細胞。它也稱為白血球。"
+
+msgid "MITOCHONDRION"
+msgstr "粒線體"
+
+msgid "The part of a cell where molecules are converted so that the cell might use their energy. Sometimes called the \"power plant\" of the cell."
+msgstr "是細胞中的一部分，在這裡使分子轉換，使細胞能使用能量。有時被稱作為細胞的「發電廠」。"
+
+msgid "NUCLEU"
+msgstr "細胞核"
+
+msgid "The center of a cell that contains its DNA, or genetic material."
+msgstr "細胞的中心，含有DNA或遺傳物質。"
+
+msgid "NEURON"
+msgstr "神經元"
+
+msgid "The cells of the brain and nervous system that transfer electrical signals throughout an organism's body. Also known as brain and nerve cells."
+msgstr "腦與神經系統的細胞，透過生物個體傳送電訊號。也被稱為大腦和神經細胞。"
+
+msgid "Organ"
+msgstr "器官"
+
+msgid "A collection of cells within an organism that work together to do a specific function. Examples include the heart, lungs, stomach and liver."
+msgstr "在生物體中細胞集合在一起，共同執行特定的功能。例如心臟、肺、胃和肝臟。"
+
+msgid "System"
+msgstr "系統"
+
+msgid "A collection of organs and tissues that work together to do a collection of related tasks and functions. Examples include the cardiovascular system, the nervous system and the digestive system."
+msgstr "系統是由具有一共同功能的相關器官所組成，共同執行相關功能與任務。例如心血管系統、神經系統和消化系統。"
+
+msgid "Tissue"
+msgstr "組織"
+
+msgid "A type of cell that is specialized for a specific task. Examples include skin cells, muscle and cartilage."
+msgstr "組織是由一種細胞組成，且執行特殊的功能。包括皮膚細胞、肌肉與軟骨。"
+
+msgid "Checking what you now know about... specialized cells"
+msgstr "檢視你現在所了解的「特化細胞」"
+
+msgid "Skeletal muscle cells differ from cardiac cells and smooth muscle cells in that..."
+msgstr "骨骼肌細胞與心臟細胞和平滑肌細胞之差別在於……"
+
+msgid "they move blood through the circulatory system when they contract."
+msgstr "當它們收縮時，它們將血液移動通過循環系統。"
+
+msgid "they move food through the digestive system."
+msgstr "它們將食物移動通過消化系統。"
+
+msgid "they transmit information about odors to the brain."
+msgstr "它們傳送氣味信息至大腦。"
+
+msgid "Sorry. Cardiac cells move blood through the circulatory system."
+msgstr "抱歉。心臟細胞將血液移動通過循環系統。"
+
+msgid "That's right! Skeletal muscle cells are attached to the bones they move."
+msgstr "正確！骨骼肌細胞連接到移動的骨頭。"
+
+msgid "Nope. Food is moved through the digestive system by smooth muscle."
+msgstr "不。食物由平滑肌移動通過消化系統。"
+
+msgid "No. Sensory neurons transmit information to the brain."
+msgstr "不。感覺神經元將信息傳送至大腦。"
+
+msgid "Wrong"
+msgstr "錯誤"
+
+msgid "they are attached to the bones they move when they contract."
+msgstr "它們連結至骨頭，當收縮即移動骨頭。"
+
+msgid "Flipping the box..."
+msgstr "翻轉方框……"
+
+msgid "What is a major function of dendrites?"
+msgstr "樹突的主要功能為何？"
+
+msgid "A. Provide connections to other nerve cells."
+msgstr "A. 提供連接至其他神經細胞。"
+
+msgid "B. Their contracting motion helps to propel blood."
+msgstr "B. 它們的收縮協助推動血液。"
+
+msgid "C. Make connections between bone and muscle."
+msgstr "C. 骨頭與肌肉之間的連接。"
+
+msgid "D. Provide protection against bacterial threats."
+msgstr "D. 提供保護，防止細菌威脅。"
+
+msgid "Correct! The many dendrites of nerve cells allow them to form networks with other nerve cells."
+msgstr "正確！神經細胞的樹突與其他神經細胞形成網路。"
+
+msgid "Provide connections to other nerve cells."
+msgstr "提供連接其它神經細胞。"
+
+msgid "Their contracting motion helps to propel blood."
+msgstr "它們的收縮協助推動血液。"
+
+msgid "Sorry. Muscle cells are able to contract."
+msgstr "抱歉。肌肉細胞能夠收縮。"
+
+msgid "Make connections between bone and muscle."
+msgstr "骨頭與肌肉之間的連接。"
+
+msgid "No. Tendons connect muscles to bones."
+msgstr "不。肌腱連接肌肉及骨頭。"
+
+msgid "Provide protection against bacterial threats."
+msgstr "提供保護，防止細菌的威脅。"
+
+msgid "Oops. White blood cells make up the immune system."
+msgstr "喔！白血球組成免疫系統。"
+
+msgid "Drag each of the following statements into the proper category."
+msgstr "將下列敘述拖曳至適當的類別。"
+
+msgid "Statement"
+msgstr "敘述"
+
+msgid "Correct"
+msgstr "正確"
+
+msgid "Incorrect"
+msgstr "不正確"
+
+msgid "Axons connect nerve cells to other distant nerve cells."
+msgstr "軸突連接其他遠處的神經細胞。"
+
+msgid "Red blood cells are much larger than white blood cells."
+msgstr "紅血球比白血球大得多。"
+
+msgid "Muscle cells may have<br>many nuclei."
+msgstr "肌肉細胞可以有多個核。"
+
+msgid "Gametes have complete sets of chromosomes."
+msgstr "配子擁有全套的染色體。"
+
+msgid "Great job! Correct statements: Axons connect nerve cells to other distant nerve cells. Muscle cells may have many nuclei. Incorrect: Red blood cells are much larger than white blood cells. Gametes have complete sets of chromosomes."
+msgstr "太棒了！正確敘述：軸突連接其他遠處的神經細胞。肌肉細胞可以有多個核。不正確敘述：紅血球比白血球大得多。配子擁有全套的染色體。"
+
+msgid "Differentiating cells..."
+msgstr "細胞分化……"
+
+msgid "Sperm cells differ from egg cells in that...."
+msgstr "精子細胞與卵細胞的不同為……"
+
+msgid "Sperm cells form in female ovaries; egg cells in male testes."
+msgstr "精子細胞由雌性卵巢生成；卵細胞由雄性睪丸生成。"
+
+msgid "Sperm cells have complete sets of chromosomes; egg cells do not."
+msgstr "精子細胞有全套的染色體；卵細胞沒有。"
+
+msgid "Sperm cells have half sets of chromosomes; egg cells do not."
+msgstr "精子細胞有半套染色體；卵細胞沒有。"
+
+msgid "Sperm cells are formed in male testes; egg cells in female ovaries."
+msgstr "精子細胞由雄性睪丸生成;卵細胞由雌性卵巢生成。"
+
+msgid "Incorrect. Sperm cells form in testes; egg cells form in ovaries."
+msgstr "不正確。精子細胞由雄性睪丸生成;卵細胞由雌性卵巢生成。"
+
+msgid "No. Both types of cells have half sets of chromosomes."
+msgstr "不。這兩種類型的細胞皆含半套染色體。"
+
+msgid "Sorry. Both types of cells have half sets of chromosomes."
+msgstr "抱歉。這兩種類型的細胞皆含半套染色體。"
+
+msgid "Yes! Sperm cells form in testes; egg cells form in ovaries."
+msgstr "是的！精子細胞由雄性睪丸生成；卵細胞由雌性卵巢生成。"
+
+msgid "Researching Chromosomes..."
+msgstr "研究染色體……"
+
+msgid "An important advantage to the chromosome content of sperm and eggs is..."
+msgstr "有關精子與卵子染色體含量的重要優勢是……"
+
+msgid "Both types of cells can reproduce outside the body."
+msgstr "這兩種類型的細胞皆可以在體外繁殖。"
+
+msgid "When sperm and egg merge, the embryo has a half set of chromosomes."
+msgstr "當精子與卵子融合，胚胎有半套染色體。"
+
+msgid "When sperm and egg merge, the embryo has a full set of chromosomes."
+msgstr "當精子與卵子融合，胚胎有全套染色體。"
+
+msgid "Neither cell type is formed outside the body."
+msgstr "兩種細胞皆不在體外生成。"
+
+msgid "No. Neither cell type is able to reproduce."
+msgstr "不。兩種細胞類型皆不能體外繁殖。"
+
+msgid "Incorrect. The new embryo has a full set of chromosomes."
+msgstr "不正確。新的胚胎擁有全套染色體。"
+
+msgid "That's right! The new embryo has a full set of chromosomes."
+msgstr "正確！新的胚胎擁有全套染色體。"
+
+msgid "Sorry. Both types of cells form inside the body."
+msgstr "抱歉。兩種類型之細胞在身體內部形成。"
+
+msgid "Nervous system"
+msgstr "神經系統"
+
+msgid "Digestive system"
+msgstr "消化系統"
+
+msgid "Respiratory system"
+msgstr "呼吸系統"
+
+msgid "Skeletal system"
+msgstr "骨骼系統"
+
+msgid "Nope. The nervous system has no smooth muscle."
+msgstr "不。神經系統沒有平滑肌。"
+
+msgid "That's right! Smooth muscle propels food through the digestive system."
+msgstr "正確！平滑肌推進食物通過消化系統。"
+
+msgid "Sorry. The respiratory system uses skeletal muscle to power breathing."
+msgstr "抱歉。呼吸系統使用骨骼肌提供呼吸的力量。"
+
+msgid "Incorrect. The skeletal system is related to skeletal muscles."
+msgstr "不正確。骨骼系統關係到骨骼肌。"
+
+msgid "You've completed the Specialized Cells module."
+msgstr "你已經完成了「特化細胞」模組。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "您可以點擊下面按鈕查看本模組之“快速檢測”與“測驗題”。"
+
+msgid "Correct or incorrect?"
+msgstr "正確或不正確？"
+
+msgid "Your first quiz question is..."
+msgstr "第一個測驗題……"
+
+msgid "Reviewing key vocabulary related to... specialized cells"
+msgstr "回顧「特化細胞」之關鍵詞彙"
+
+msgid "Preparing your first quick check..."
+msgstr "準備第一個快速檢測……"
+
+msgid "Question B."
+msgstr "問題B"
+
+msgid "Question A."
+msgstr "問題A"
+
+msgid "That's correct! Membrane, DNA and Nucleus are structures while Reproduction is a function."
+msgstr "正確！細胞膜、DNA和細胞核是構造，然而生殖是一種功能。"
+
+msgid "Sorry. Muscle cells can't actually extend, only relax."
+msgstr "抱歉。肌肉細胞實際上並不能延展，只能放鬆。"
+
+msgid "Nope. Muscles don't digest food."
+msgstr "不。肌肉不消化食物。"
+
+msgid "Sorry. Muscles don't excrete enzymes."
+msgstr "抱歉。肌肉不分泌酵素。"
+
+msgid "Axons and dendrites..."
+msgstr "軸突和樹突……"
+
+msgid "Click to view the Table"
+msgstr "點擊查看表格"
+
+msgid "Every individual receives a copy of each kind of chromosome from each parent. That means that all normal cells have two copies of each bit of inherited information."
+msgstr "每一個體皆接受來自父母的染色體副本。表示所有正常的細胞皆有兩個遺傳信息的副本。"

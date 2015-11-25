@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plate tectonics\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التحقق السريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التحقق السريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "التحقق السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التحقق السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر وثبت وحرك الماوس صعودا وهبوطا لتدوير الصندوق وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال الاختبار رقم 6"
+
+msgid "Congratulations"
+msgstr "مبرووووووووووك"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للتحقق السريع والأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid " Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Go to dashboard "
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل انت مستعد؟"
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد لأخر تحقق السريع؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت مستعد لاخر سؤال قصير ؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها ... "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Plate Tectonics"
+msgstr "الصفائح التكتونية"
+
+# 1
+msgid "Welcome to the Plate Tectonics module"
+msgstr "اهلا بك في مراجعة الصفائح التكتونية"
+
+# 2
+msgid "Thinking about... plate tectonics"
+msgstr "التفكير بالصفائح التكتونية"
+
+msgid ""
+"Maps are fun to look at. They can help you find out where you are, where you're going, and what you're going to find when you get there. "
+"See if you can find your state on the map below."
+msgstr ""
+"الخرائط ممتعة عند النظر اليها. ويمكن أن تساعدك على معرفة موقعك، أو المكان الذي أنت ذاهب إليه، وماذا ستجد عند وصولك. انظر الى الخارطة "
+"أدناه واعرف في ما اذا تمكنت من العثور على دولتك."
+
+msgid ""
+"Lots of people plan their summer vacations using maps. Some people like to go to the mountains and go backpacking or mountain biking. "
+"Other people like to go to the beach and go surfing or play beach volleyball. Where would you like to go for a vacation this coming "
+"summer? And what would you like to do? Can you find on the map the beach or mountain closest to your state? Did you know that the reason "
+"there are mountains and beaches is because plate tectonics have slowly but surely ripped continents apart and crashed them back together "
+"to create some of the best places in the world to go on summer vacations? Thank you, plate tectonics!!"
+msgstr ""
+"يخطط الكثير من الناس عطلاتهم الصيفية باستخدام الخرائط..  يحب أن يذهب بعض الناس إلى الجبال أو المشي أو ركوب الدراجات الجبلية.  آخرون "
+"يحبون الذهاب إلى الشاطئ و ركوب الأمواج أو لعب الكرة الطائرة الشاطئية.  أين تريد أن تذهب لقضاء عطلة الصيف القادم؟ وماذا تريد أن تفعل؟ هل "
+"تستطيع العثور على خريطة الشاطئ أو الجبل الأقرب إلى دولتك؟ هل تعلم أن سبب وجود الجبال والشواطئ هو لأن الصفائح التكتونية وببطء مزقت "
+"القارات،وحطمتها وأعادتها مع بعضها لتشكل أفضل الأماكن في العالم للذهاب في عطلة الصيف؟ شكرا لك أيتها الصفائح التكتونية !!"
+
+# 3
+msgid "Checking what you know about... plate tectonics"
+msgstr "التأكد من مدى معرفتك... بالصفائح التكتونية "
+
+msgid "In the United States, major earthquakes and volcanoes occur:"
+msgstr "في الولايات المتحدة، تحدث زلازل وبراكين ضخمة :"
+
+msgid "Equally spaced all over the country."
+msgstr "متباعدة بشكلٍ متساوي في جميع أنحاء البلاد."
+
+msgid "Mostly in the southern earthquake zone near Texas and Florida."
+msgstr "معظمها في المنطقة التي ضربها الزلزال جنوبا بالقرب من تكساس وفلوريدا."
+
+msgid "In the mid-west near Chicago and Minneapolis."
+msgstr "في منطقة الغرب الأوسط بالقرب من شيكاغو و مينيابوليس."
+
+msgid "In a zone that runs along the West Coast."
+msgstr "في المنطقة التي تمتد على طول الساحل الغربي."
+
+msgid ""
+"Earthquakes and volcanoes aren't spread out equally across the United States. Sometimes, but not very often, states in the middle of the "
+"country, like Kansas or Nebraska or Illinois might get minor earthquakes that hardly do any damage. But the majority of earthquakes and "
+"volcanoes, especially the big ones, occur near the west coast in California, Washington, and Oregon."
+msgstr ""
+"لا تنتشر الزلازل والبراكين من بالتساوي في جميع أنحاء الولايات المتحدة. في بعض الأحيان، ولكن ليس في كثير من الأحيان، تحدث في وسط البلاد، "
+"مثل كانساس أو نبراسكا أو إيلينوي و قد تحصل فيها  الزلازل الصغيرة التي بالكاد تحدث أي ضرر.  ولكن الغالبية من الزلازل والبراكين، وخاصة "
+"الكبيرة منها، تحدث بالقرب من الساحل الغربي في ولاية كاليفورنيا وواشنطن وأوريغون."
+
+msgid "Duck, cover and hold"
+msgstr "اختبئ واحتمي وتثبت"
+
+# 4a
+msgid "Reviewing big ideas about... plate tectonics"
+msgstr "مراجعة الأفكار الأساسية حول ... الصفائح التكتونية"
+
+msgid ""
+"There are all kinds of maps that show all kinds of things about the land. Maps can provide important and useful information about the "
+"geography of an area. Many of the maps we commonly use show streets and highways, cities and towns. A good example is the map below that "
+"shows the major cities and highways in the state of Colorado. If you wanted to take a trip from Denver to Durango, which route would you "
+"choose? There's more than one way to get there, isn't there? Which route do you think is best?"
+msgstr ""
+"هناك كل الأنواع من الخرائط التي تبين كل الاشياء عن الأرض.  يمكن للخرائط تقديم معلومات مهمة ومفيدة عن جغرافية المنطقة.  نحن نستخدم العديد "
+"من الخرائط  والتي عادة لإظهار الشوارع والطرق السريعة والمدن والبلدات. وخير مثال على ذلك هي الخريطة أدناه والتي تظهر المدن الرئيسية "
+"والطرق السريعة في ولاية كولورادو. إذا كنت تريد أن تذهب في رحلة من دنفر الى دورانجو، أي طريق ستختار؟ هناك أكثر من طريق للوصول إلى هناك،"
+"أليس كذلك؟ أي الطريقين برأيك هي الأفضل؟"
+
+# 4b
+msgid "There are other kinds of maps that are used for other purposes too. Hover on the images to know more."
+msgstr "وهناك أنواع أخرى من الخرائط  تستخدم لأغراض أخرى أيضا. مرر الفأرة على الصور لمعرفة المزيد."
+
+msgid "Some maps in the newspaper show what the weather is every day."
+msgstr "بعض الخرائط في الصحيفة تظهر  الطقس كل يوم."
+
+msgid "Some show where different kinds of landform features occur - like lakes, rivers, coasts, mountains, and plains."
+msgstr "تظهر بعض الخرائط حدوث أنواع مختلفة من التضاريس المميزة  - مثل البحيرات  والأنهار والسواحل والجبال والسهول."
+
+msgid "Other maps show climate zones."
+msgstr "الخرائط الاخرى تظهر المناطق المناخية."
+
+msgid ""
+"The middle map above is a geography map that shows the major mountains, rivers, coasts, and plains in the United States. Can you find "
+"where you live on the map? What is the closest mountain or the closest ocean to where you live?"
+msgstr ""
+"الخارطة التي في الوسط أعلاه هي خريطة الجغرافيا التي تظهر الجبال والأنهار والسواحل والسهول الكبرى في الولايات المتحدة.  هل يمكنك العثور "
+"على المكان الذي تعيش فيه على الخريطة؟ ما هو أقرب جبل أو أقرب محيط للمكان الذي تعيش فيه؟"
+
+msgid "Reading a compass..."
+msgstr "قراءة البوصلة ..."
+
+# 5a
+msgid "Question A. On the map below, most of the biggest river systems occur in the:"
+msgstr "السؤال أ: على الخريطة أدناه معظم أكبر الأنظمة النهرية تحدث في:"
+
+msgid "Rocky Mountains"
+msgstr "جبال روكي"
+
+msgid "Great Plains"
+msgstr "السهول العظمى"
+
+msgid "Appalachian Mountains"
+msgstr "جبال الأبلاش"
+
+msgid "Coastal Plain"
+msgstr "السهل الساحلي"
+
+msgid "Click to enlarge image"
+msgstr "أنقر لتكبير الصورة"
+
+msgid "Question B. Maps can show all of the following except:"
+msgstr "السؤال ب: الخرائط يمكن أن تظهر كل ما يلي ما عدا:"
+
+msgid "How everybody feels today."
+msgstr "كيف يشعر الجميع اليوم."
+
+msgid "Where there are rivers and lakes."
+msgstr "مكان توجد الأنهار والبحيرات."
+
+msgid "Streets in your town or city."
+msgstr "الشوارع في بلدتك أو المدينة."
+
+msgid "How long the coastline is."
+msgstr "ما هو طول الساحل "
+
+msgid "Question C. Maps can be best used to help you:"
+msgstr "السؤال ج:   أفضل استخدام للخرائط يمكن أن يساعدك:"
+
+msgid "Plan a route to travel."
+msgstr "تخطيط طريق السفر."
+
+msgid "Decide where the nicest people live."
+msgstr "تقرير أين يعيش الناس الألطف"
+
+msgid "Plan what to do when you grow up."
+msgstr "التخطيط لما تريد القيام به عندما تكبر."
+
+msgid "All of the above."
+msgstr "كل ما ذكر"
+
+# 5b
+msgid "No - It's difficult to find any major rivers on the map in the Rocky Mountains."
+msgstr "لا - من الصعب العثور على أي أنهار رئيسية على خريطة في جبال روكي."
+
+msgid ""
+"Yes - You can see that the Great Plains area of the Midwest has several major river systems including the Mississippi, Missouri, and "
+"Ohio River systems."
+msgstr ""
+"نعم - يمكنك أن ترى أن منطقة السهول الكبرى في الغرب الأوسط فيها العديد من أنظمة الأنهار الرئيسية بما في ذلك ولاية ميسيسيبي وميسوري، "
+"وأنظمة نهر أوهايو."
+
+msgid "No - It's difficult to find any major rivers on the map in the Appalachian Mountains."
+msgstr "لا - من الصعب العثور على أي أنهار رئيسية على الخريطة في جبال الأبلاش."
+
+msgid ""
+"No - There are some major rivers in the Coastal Plain area but they are actually the rivers from the Great Plains emptying into the sea."
+msgstr "لا - هناك بعض الأنهار الرئيسية في منطقة السهل الساحلي لكنها في الواقع أنهار من السهول العظمى وتصب في البحر."
+
+msgid "Yes - Maps don't show how people feel."
+msgstr "نعم - الخرائط لا تظهر كيف يشعر الناس."
+
+msgid "No - Maps can show where there are rivers and lakes."
+msgstr "لا - يمكن للخرائط أن تظهر مكان وجود الأنهار والبحيرات."
+
+msgid "No - Maps can show where there are streets and rivers in your town."
+msgstr "لا - يمكن للخرائط أن تظهر مكان وجود الشوارع والأنهار في بلدتك."
+
+msgid "No - Maps can show how long the coastline is."
+msgstr "لا - يمكن للخرائط أن تظهر  طول الساحل ."
+
+msgid "Yes - You can look at a map to see roads and towns that help you plan a route to get where you want to go."
+msgstr "نعم - يمكنك النظر إلى الخريطة لمعرفة الطرق والبلدات التي تساعدك على تخطيط طريق ما للوصول الى حيث تريد الذهاب."
+
+msgid "Not quite - Nice people live everywhere, so there are no maps to decide where to find them."
+msgstr "ليس تماما - يعيش الاشخاص اللطفاء في كل مكان، ولذلك لا توجد خرائط لتحديد مكان العثور عليهم."
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with that."
+msgstr "لا - التخطيط لما تريد القيام به عندما تكبر يعتمد على ما انت مهتما به وما انت جيد فيه. لا يمكن أن تساعدك الخرائط في ذلك."
+
+msgid ""
+"No - Planning what to do when you grow up depends on what you're interested in and what you're good at. Maps can't help you with that. "
+"And, nice people live everywhere so there are no maps to decide where to find them."
+msgstr ""
+"لا - التخطيط لما تريد القيام به عندما تكبر يعتمد على ما انت مهتما به وما انت جيد فيه. لا يمكن أن تساعدك الخرائط  في ذلك.  و يعيش الاشخاص "
+"اللطفاء في كل مكان، ولذلك لا توجد خرائط لتحديد مكان العثور عليهم"
+
+# 6a
+msgid "Reviewing more big ideas about... plate tectonics"
+msgstr "مراجعة المزيد من الأفكار الأساسية حول ... الصفائح التكتونية"
+
+msgid "More big ideas about... plate tectonics"
+msgstr "المزيد من الأفكار الكبيرة حول ... الصفائح التكتونية"
+
+msgid ""
+"The earth's major landform features, such as volcanoes, mountains, rivers, and coasts can be shown on <span class='key'>maps</span> so "
+"we can try and make sense out of the <span class='key'>patterns</span> they form."
+msgstr ""
+"سمات التضاريس الرئيسية للأرض، مثل البراكين والجبال والأنهار والسواحل يمكن عرضها على <span class='key'>الخرائط </span>حتى نتمكن من معرفة "
+"ما هو منطقي من <span class='key'>الأنماط</span> التي تشكلها."
+
+msgid ""
+"This map shows the locations of most of the major volcanoes (red dots) in the United States. When these locations are shown on a map "
+"like this, it is easy to see a pattern of where the <span class='key'>volcanoes</span> are in the United States. First of all, they are "
+"all located in the western US and they are all located in a general north-south trend that roughly runs along the west coast."
+msgstr ""
+"هذه الخريطة تظهر مواقع معظم البراكين الكبرى (النقاط الحمراء) في الولايات المتحدة.  عندما يتم عرض هذه المواقع على خريطة تشبهها، فمن السهل "
+"أن نرى نمطاً لمكان وجود <span class='key'>البراكين</span> في الولايات المتحدة.  أولا وقبل كل شيء، فهي كلها تقع في غرب الولايات المتحدة، "
+"وتقع جميعها في الاتجاه العام بين الشمال والجنوب الذي يمتد على طول الساحل الغربي تقريبا."
+
+msgid ""
+"This map shows occurrences of major <span class='key'>earthquakes</span> (black dots) in the United States. How does the pattern of "
+"earthquakes shown on this map compare to the locations of volcanoes on the previous map? You're right. Most of the volcanoes and many of "
+"the earthquakes generally run north and south band and which is roughly parallel to the Pacific coast in the western part of the North "
+"American continent. But unlike volcanoes, a number of earthquakes are found in the central and eastern parts of the United States."
+msgstr ""
+"هذه الخريطة تبين حدوث  <span class='key'>الزلازل </span> الرئيسية (النقاط السوداء) في الولايات المتحدة. كيف يمكن مقارنة أشكال الزلازل "
+"التي تظهر على هذه الخريطة مع أماكن حدوث البراكين على الخريطة السابقة؟ أنت على حق. معظم البراكين وكثير من الزلازل تتكون  شمالا وجنوبا  "
+"وهي موازية  لساحل المحيط الهادئ تقريبا في الجزء الغربي من قارة أمريكا الشمالية. ولكن على عكس البراكين، تم العثور على عدد من الزلازل في "
+"الأجزاء الوسطى والشرقية من الولايات المتحدة."
+
+msgid "Analyzing seismic waves..."
+msgstr "تحليل الموجات الاهتزازية ..."
+
+# 7a
+msgid "Question A. On the map below, most of the volcanoes in Western United States occur:"
+msgstr "السؤال أ: على الخريطة أدناه،تحدث معظم البراكين في غرب الولايات المتحدة الأمريكية :"
+
+msgid "Along the Pacific Coast"
+msgstr "على امتداد ساحل المحيط الهادئ"
+
+msgid "In the Rocky Mountains"
+msgstr "في جبال روكي"
+
+msgid "Clumped in just one small area in California"
+msgstr "تجمعت فقط في منطقة واحدة صغيرة في ولاية كاليفورنيا"
+
+msgid "Parallel to the Pacific Coast but a little inland"
+msgstr "موازية لساحل المحيط الهادئ ولكنها داخلية اكثر "
+
+msgid "Question B. The pattern of earthquakes (black dots) shown on the map below:"
+msgstr "السؤال ب: شكل الزلازل (النقاط السوداء) التي تظهر على الخريطة أدناه:"
+
+msgid "Is exactly like the pattern of volcanoes on the map in question A above."
+msgstr "هو بالضبط مثل شكل البراكين على الخريطة في السؤال أ أعلاه."
+
+msgid "Is similar to the pattern of volcanoes on the map in question A above but has earthquakes over a greater area."
+msgstr "يشبه نمط البراكين على الخريطة في السؤال (أ) أعلاه ولكن الزلازل فيها موجودة  على مساحة أكبر."
+
+msgid "Shows earthquakes occur only in the western United States."
+msgstr "يبين حدوث زلازل  في غرب الولايات المتحدة فقط."
+
+msgid "Monitoring volcanic earthquakes..."
+msgstr "مراقبة الزلازل البركانية ..."
+
+msgid "Shows earthquakes occurring in Florida."
+msgstr "يبين الزلازل التي تحدث في ولاية فلوريدا."
+
+# 7b
+msgid "Not quite - The red dots that represent volcanoes occur parallel to the pacific coast but not right on the coast."
+msgstr "ليس تماما - النقاط الحمراء التي تمثل البراكين تحدث موازية لساحل المحيط الهادئ ولكن ليست على الساحل تماما."
+
+msgid "Not quite - The red dots that represent volcanoes occur near the pacific coast."
+msgstr "ليس تماما - النقاط الحمراء التي تمثل البراكين تحدث بالقرب من ساحل المحيط الهادئ."
+
+msgid "Not quite - The red dots that represent volcanoes occur all along the pacific coast - not just in California."
+msgstr "ليس تماما - النقاط الحمراء التي تمثل البراكين تحدث على طول ساحل المحيط الهادئ - وليس  في ولاية كاليفورنيا فقط."
+
+msgid ""
+"Yes! You can see on the map that the red dots representing volcanoes occur all along the pacific coast - not right on the coast - but "
+"rather a little bit inland away from the coast."
+msgstr ""
+"نعم! يمكنك ان ترى النقط الحمراء  على الخريطة و التي تمثل البراكين التي تحدث على طول ساحل المحيط الهادئ - ليست تماما على الساحل - بل "
+"بالأحرى بعيدة قليلا عن المناطق  الداخلية من الساحل."
+
+msgid ""
+"Not exactly - The pattern of earthquakes shown on question A map is similar to the pattern near the pacific coast but the black dots "
+"representing earthquakes occur all over Western United States as well."
+msgstr ""
+"ليس بالضبط - شكل الزلازل المبين في السؤال أ  مشابه للشكل القريب من ساحل المحيط الهادئ ولكن النقط السوداء التي تمثل الزلازل تحدث كذلك في "
+"جميع أنحاء غرب الولايات المتحدة ."
+
+msgid ""
+"Yes - The red dots that represent volcanoes occur near the pacific coast and the black dots representing earthquakes occur mostly near "
+"the pacific coast too - but also all over most of the rest of the United States."
+msgstr ""
+"نعم - النقاط الحمراء التي تمثل البراكين تحدث بالقرب من ساحل المحيط الهادئ والنقاط السوداء التي تمثل الزلازل تحدث في الغالب بالقرب من "
+"ساحل المحيط الهادئ أيضاً - ولكن أيضا في أغلب باقي مناطق الولايات المتحدة."
+
+msgid ""
+"Not quite - Most of the earthquakes occur in Western United States but you can see on the map that some earthquakes (represented by the "
+"black dots) occur in Eastern United States as well."
+msgstr ""
+"ليس تماما - معظم الزلازل تحدث في غرب الولايات المتحدة الأمريكية ولكن يمكنك أن ترى على الخارطة أن بعض الزلازل (وتمثلها النقط السوداء) "
+"تحدث في شرقي الولايات المتحدة أيضا."
+
+msgid "No - There are no black dots on the map in Florida, which means there are no earthquakes in Florida."
+msgstr "لا - لا يوجد نقط سوداء على الخريطة في ولاية فلوريدا مما يعني عدم وجود زلازل في ولاية فلوريدا."
+
+# 8a
+msgid ""
+"Scientists explain these patterns of mountains, volcanoes, and earthquakes by an idea called <span class='key'>plate tectonics</span>. "
+"The diagram below shows how the whole surface of the earth, including the continents and oceans, are all sitting on what geologists call "
+"<span class='key'>tectonic plates</span>."
+msgstr ""
+"يشرح العلماء هذه الأشكال من الجبال والبراكين، والزلازل بواسطة الفكرة المسمية <span class='key'>الصفيحة التكتونية</span>. ويوضح الرسم "
+"البياني الوارد أدناه كيف أن كل سطح الأرض ، بما في ذلك القارات والمحيطات،كلها تقع على ما يسميه علماء الجيولوجيا <span class='key'>الصفائح "
+"التكتونية</span> ."
+
+msgid ""
+"These plates are like huge pieces of a jigsaw puzzle with the continents and oceans sitting on top of them. And they move around the "
+"earth very, very slowly, pulling away from each other and bumping into each other. This causes some very interesting and important "
+"things to happen on the earth - like mountains, volcanoes, and earthquakes."
+msgstr ""
+"هذه اللوحات هي مثل قطع ضخمة من الأحجية المتقاطعة بالقارات والمحيطات الموضوعة فوقها.  و تتحرك حول الأرض ببطء شديد جدا، وتسحب بعيدا عن "
+"بعضها البعض، وتتصادم مع بعضها البعض.  هذا يسبب بعض الأمور المثيرة للاهتمام  والمهمة التي تحدث على الأرض - مثل الجبال والبراكين والزلازل."
+
+msgid "Eurasian Plate"
+msgstr "الصفيحة الاوراسية"
+
+msgid "North American Plate"
+msgstr "صفيحة أمريكا الشمالية"
+
+msgid "Pacific Plate"
+msgstr "صفيحة المحيط الهادئ"
+
+msgid "Philippine Plate"
+msgstr "صفيحة الفلبين"
+
+msgid "Indo-Australian Plate"
+msgstr "الصفيحة الاسترالية-الهندية"
+
+msgid "Fiji Plate"
+msgstr "صفيحة فيجي"
+
+msgid "Coco's Plate"
+msgstr "صفيحة جزر كوكو"
+
+msgid "Antartic Plate"
+msgstr "صفيحة القطب الجنوبي"
+
+msgid "Carribbean Plate"
+msgstr "صفيحة البحر الكاريبي"
+
+msgid "South American Plate"
+msgstr "صفيحة أمريكا الجنوبية"
+
+msgid "Arabian Plate"
+msgstr "صفيحة المنطقة العربية"
+
+msgid "African Plate"
+msgstr "صفيحة أفريقيا"
+
+msgid "Scotia Plate"
+msgstr "صفيحة سكوتيا"
+
+msgid "Nazca Plate"
+msgstr "صفيحة نازكا"
+
+# 8b
+msgid "Volcanoes"
+msgstr "البراكين"
+
+msgid "Continental Crust"
+msgstr "القشرة القارية"
+
+msgid "Magma"
+msgstr "المواد المنصهرة"
+
+msgid "Lithosphere"
+msgstr "الغلاف الصخري"
+
+msgid "Asthenosphere"
+msgstr "غلاف موري"
+
+msgid "Trench"
+msgstr "خندق"
+
+msgid "Oceanic Crust"
+msgstr "قشرة المحيط"
+
+msgid ""
+"Sometimes when one plate bumps into another it causes one of the plates to get pushed under the other plate. Like if a small car crashes "
+"into the back of a big semi-truck, the small car might get pushed under the truck. This is called <span class='key'>subduction</span> "
+"when tectonic plates do it. A <span class='key'>subduction zone</span>, where the Pacific tectonic plate was pushed and dragged under "
+"the North American tectonic plate in California millions of years ago, caused the volcanoes in California. And in Washington and Oregon "
+"this process is still going on right now! That's why there are active volcanoes in Washington and Oregon but the volcanoes in California "
+"are dormant."
+msgstr ""
+"أحيانا عندما تصطدم صفيحة بأخرى فهي تتسبب بدفع إحدى الصفائح تحت الثانية.  كما لو تحطمت سيارة صغيرة في الجزء الخلفي من شاحنة كبيرة ، "
+"السيارة الصغيرة قد يتم دفعها تحت الشاحنة. وهذا ما يسمى <span class='key'>الاندساس</span> عندما تفعل الصفائح التكتونية ذلك.  منطقة <span "
+"class='key'>الاندساس</span> هي حيث تم دفع صفيحة المحيط الهادئ التكتونية وجرها تحت صفيحة أمريكا الشمالية التكتونية في ولاية كاليفورنيا "
+"منذ ملايين السنين وتسببت بحدوث البراكين في ولاية كاليفورنيا.  وفي واشنطن وأوريغون هذه العملية لا تزال مستمرة حتى الآن! هذا هو سبب وجود "
+"البراكين النشطة في واشنطن وأوريغون ولكن البراكين في كاليفورنيا هي في سبات عميق."
+
+msgid ""
+"The <span class='key'>subduction</span> process causes the <span class='key'>ocean plate</span> to rub against the <span "
+"class='key'>continental plate</span> and the friction between them causes the rocks to heat up and melt until finally - boom!! - a "
+"volcano erupts. Try rubbing your hands together quickly and see how they heat up. That's friction! The same thing happens to heat the "
+"plates when they rub together - but it just happens very slowly."
+msgstr ""
+"عملية الاندساس</span> تسبب في جعل <span class='key'>صفيحة المحيط</span> تحتك <span class='key'>بالصفيحة القارية</span>، و الاحتكاك "
+"بينهما يسبب تسخين الصخور وتذوب حتى النهاية - ثم تنفجر !! - ويثور البركان.  حاول فرك يديك معا بسرعة ولاحظ كيف تسخن.  هذا هو الاحتكاك! "
+"ويحدث الشيء نفسه عند تسخين الصفائح عندما تحتك معا - لكنه يحدث فقط ببطء شديد."
+
+msgid "Moving very slowly..."
+msgstr "تحرك ببطء شديد"
+
+# 9a
+msgid "Question A. The whole earth is divided into tectonic plates. These plates are:"
+msgstr "السؤال أ: تنقسم كل الأرض إلى صفائح تكتونية. هذه الصفائح هي:"
+
+msgid "continents and oceans on them and the plates can move on the earth's surface."
+msgstr "القارات والمحيطات الموجودة عليها والصفائح يمكن  أن تتحرك على سطح الأرض."
+
+msgid "just continents on them and the plates are solid and never move."
+msgstr "القارات الموجودة عليها والصفائح صلبة ولا تتحرك أبدا."
+
+msgid "oceans on them and the plates move back and forth with the tide."
+msgstr " تتحرك المحيطات الموجودة عليها والصفائح ذهابا وإيابا مع المد والجزر."
+
+msgid "oceans on them and the plates never move at all."
+msgstr "المحيطات الموجودة عليه والصفائح لا تتحرك على الإطلاق."
+
+msgid "Question B. Heat generated from the tectonic plates rubbing up against each other during subduction causes..."
+msgstr " السؤال ب: الحرارة المتولدة من احتكاك الصفائح التكتونية بعضها ببعض خلال حدوث الاندساس."
+
+msgid "California to be warmer than other states."
+msgstr " تكون كاليفورنيا أكثر دفئا من الدول الأخرى."
+
+msgid "Rocks to melt and form volcanoes."
+msgstr "تذوب الصخور و تشكل البراكين."
+
+msgid "Global warming."
+msgstr "الاحتباس الحراري"
+
+msgid "Big waves to surf on."
+msgstr "موجات كبيرة للركوب عليها"
+
+# 9b
+msgid ""
+"Very good - tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the earth's "
+"surface."
+msgstr "جيد جدا - تتكون الصفائح التكتونية  من كل من الصفائح القارية والمحيطية والتي تنزلق وتتحرك في جميع أنحاء سطح الأرض."
+
+msgid ""
+"Not quite - The tectonic plates are made up of both continental and oceanic plates that all slide and move around all over the earth's "
+"surface."
+msgstr "ليس تماما- تتكون الصفائح التكتونية  من كل من الصفائح القارية والمحيطية والتي تنزلق وتتحرك في جميع أنحاء سطح الأرض."
+
+msgid ""
+"Not really - The tectonic plates are made up of both continental and oceanic plates and the forces that move them are from deep within "
+"the earth that have nothing to do with the tides."
+msgstr ""
+"ليس حقا - الصفائح التكتونية  تتكون من كل من الصفائح القارية والمحيطية والقوى التي تحرك كلاهما من أعماق الأرض ولا علاقة لها بالمد والجزر ."
+
+msgid "Not really - Plate tectonics and subduction cause heating effects inside the earth not on the surface."
+msgstr "ليس حقا - الصفائح التكتونية  والاندساس يتسببان بتأثيرات الحرارة داخل الأرض وليس على السطح."
+
+msgid ""
+"Yes - Plate tectonics and subduction cause heating effects inside the earth that can melt rocks under the earth's surface and cause "
+"volcanoes."
+msgstr " نعم. الصفائح التكتونية والاندساس يتسببان بتأثيرات الحرارة داخل الأرض والتي يمكن أن تذوب الصخور تحت سطح الأرض وتسبب البراكين."
+
+# 10a
+msgid "Using what you now know about... plate tectonics... to solve a problem"
+msgstr "استخدام ما تعرفه الآن حول ...الصفائح التكتونية ... من أجل حل مشكلة"
+
+msgid ""
+"Pretend you were a multimillionaire and you were going to build the biggest, most beautiful and expensive house you could possibly "
+"imagine. And you could build it anywhere in the United States that you wanted."
+msgstr ""
+"تظاهر بأنك من أصحاب الملايين وانك ذاهب لبناء أجمل وأغلى  بيت ممكن أن تتخيله.  هل يمكن ان نبنيه في أي مكان نريده في الولايات المتحدة ا"
+
+# 10b
+msgid ""
+"Use your knowledge about plate tectonics to describe where in the United States you would build the house - and why - to minimize the "
+"chance it could be destroyed by natural disasters like earthquakes and volcanoes. What maps would you use to decide where to build?"
+msgstr ""
+"استخدم معلوماتك عن الصفائح التكتونية لوصف مكان في الولايات المتحدة ترغب ببناء المنزل عليه - ولماذا -لتقليص احتمالية دماره من الكوارث "
+"الطبيعية مثل الزلازل والبراكين. ما الخرائط التي ستستخدمها لتحديد مكان البناء؟"
+
+msgid "Looking at the map..."
+msgstr "النظر الى الخريطة"
+
+# 11
+msgid "Summarizing big ideas about... plate tectonics"
+msgstr "تلخيص الأفكار الأساسية حول ... الصفائح التكتونية"
+
+msgid ""
+"<span class='key'>Maps</span> are really important. They can show valuable information like weather or where volcanoes are located. They "
+"can cover geographic areas as big as the United States or the world, or as local as your neighborhood. The information on maps can be "
+"extremely helpful in planning what to wear to school today or where to live when you grow up. One kind of information that can be found "
+"on maps is the location of <span class='key'>earthquakes</span> and <span class='key'>volcanoes</span> in the United States. The <span "
+"class='key'>pattern</span> of the locations of these natural phenomena show that they are mostly found along the western boundary of the "
+"country in a line roughly parallel to the West Coast. This information might be useful in planning projects that require protection from "
+"natural disasters."
+msgstr ""
+" <span class='key'>الخرائط</span>  هامة جدا.  ويمكن أن تُظهر معلومات قيمة مثل أحوال الطقس أو مواقع وجود البراكين.  ويمكن أن تغطي مناطق "
+"جغرافية كبيرة مثل الولايات المتحدة أو العالم، أو محلية مثل حيك المجاور. المعلومات على الخرائط يمكن أن تكون مفيدة للغاية في التخطيط لما "
+"تريد أن تلبس أو أين تريد العيش عندما تكبر.  نوع واحد من المعلومات يمكن العثور عليها في الخرائط وهو <span class='key'>موقع  الزلازل</"
+"span>  و <span class='key'>البراكين</span> في الولايات المتحدة.  <span class='key'>نمط</span> مواقع هذه الظواهر الطبيعية تبين  في الغالب "
+"أنها موجودة على طول الحدود الغربية للبلاد في خط موازٍ تقريبا بلساحل الغربي.  قد تكون هذه المعلومات مفيدة في تخطيط المشاريع التي تتطلب "
+"الحماية من الكوارث الطبيعية."
+
+msgid ""
+"One of the most important ideas ever to come out of geology and maps is the theory of <span class='key'>plate tectonics</span>. "
+"Scientists came up with this idea based on geological and geographical data they plotted on maps. These data show patterns of "
+"earthquakes, mountains and volcanoes, which led them to believe that the crust under the oceans and continents of the earth are divided "
+"up into many pieces like a huge jigsaw puzzle. They called these pieces <span class='key'>tectonic plates</span>. And, incredibly, these "
+"plates could move around on the surface of the earth and pull apart from each other or crash into each other. These movements cause "
+"earthquakes to happen, volcanoes to erupt, and mountains to be formed."
+msgstr ""
+"واحدة من أهم الأفكار على الإطلاق للخروج من الجيولوجيا والخرائط هي نظرية <span class='key'>الصفائح التكتونية</span>. وجاء العلماء مع هذه "
+"الفكرة على أساس البيانات الجيولوجية والجغرافية التي رسموها على الخرائط. وتُظهر هذه البيانات أنماط الزلازل والجبال والبراكين، والتي أدت "
+"بهم إلى الاعتقاد بأن القشرة تحت محيطات وقارات الأرض مقسمة إلى العديد من القطع مثل أحجية ضخمة.  وقد سميت هذه القطع <span "
+"class='key'>الصفائح التكتونية</span> . وبشكل لا يصدق، هذه الصفائح يمكن أن تتحرك على سطح الأرض وتسحب بعيدا عن بعضها البعض أو تصطدم مع "
+"بعضها البعض.  هذه الحركات تسبب حدوث الزلازل، واندلاع البراكين، وتشكل الجبال."
+
+# 12
+msgid "Reviewing key vocabulary related to... plate tectonics"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ... بالصفائح التكتونية"
+
+msgid ""
+"When two tectonic plates meet and if one plate is more dense than the other, it may be pulled down into the mantle. The process is "
+"called subduction. This can push the other plate up, as well as melt the material of the plate that is being subducted."
+msgstr ""
+"عندما تلتقي اثنتين من الصفائح التكتونية، و كانت كثافة صفيحة أكثر من الأخرى، يمكن أن تسحب إلى داخل الغلاف.  وتسمى هذه العملية الاندساس.  "
+"وهذا يمكنه دفع الصفيحة الثانية إلى الأعلى، وكذلك إذابة المواد من الصفيحة التي تم سحبها إلى أسفل."
+
+msgid ""
+"An image showing the physical characteristics of a location. Maps are generally two-dimensional, but the images may be displayed in a "
+"way that shows a third dimension as well, such as in a topographical map."
+msgstr ""
+"صورة تُظهر الخصائص الفيزيائية للموقع.  الخرائط عادة ما تكون ثنائية الأبعاد، ولكن قد يتم عرض الصور بطريقة يظهر البعد الثالث أيضا، كما هو "
+"الحال في الخريطة الطوبوغرافية."
+
+msgid ""
+"Any system that repeats in a predictable way. A pattern can be as simple as counting numbers, or as complex as weather, so long as there "
+"are repeating, predictable phenomena present."
+msgstr ""
+"أي نظام يمكن أن يتكرر بطريقة يمكن التنبؤ بها.  ويمكن أن يكون الشكل بسيط مثل أرقام العد، أو معقدة مثل الطقس، طالما تتكرر يمكن التنبؤ بها."
+
+msgid ""
+"A solid piece of the earth's crust floating on top of the mantle. The earth is covered in these plates, and they fit together like "
+"pieces of a puzzle. Geologic activity such as volcanism and earthquakes are common where the plates meet."
+msgstr ""
+"قطعة صلبة من القشرة الأرضية العائمة على الجزء العلوي من غلاف الأرض.  والأرض مغطاة بهذه الصفائح، وأنها تتوافق مع بعضها البعض مثل قطعة "
+"الأحجية.  النشاط الجيولوجي مثل البراكين والزلازل شائعة حيث تلتقي الصفائح."
+
+msgid ""
+"A tear or hole in the earth's crust that allows lava, ash, and gases to escape from a magma chamber located below the surface. Volcanoes "
+"are common at tectonic plate boundaries, such as Mount St. Helens in Washington, U.S.A. but can also occur in the middle of plates, such "
+"as the islands of Hawai'i in the Pacific Ocean."
+msgstr ""
+"تمزق أو ثقب في القشرة الأرضية الذي يسمح للحمم والرماد والغازات بالخروج من حجرة المواد المنصهرة الموجودة تحت سطح الأرض.  البراكين شائعة "
+"على حدود الصفائح التكتونية، مثل جبل سانت هيلين في واشنطن، الولايات المتحدة الأمريكية ويمكن أن تحدث أيضا في وسط هذه الصفائح  كما هو الحال "
+"في جزر هاواي في المحيط الهادئ."
+
+msgid ""
+"The release of tensional strain caused by two tectonic plates meeting. This release of energy causes the ground to shake and move around "
+"the area of the release."
+msgstr "خروج الضغط الموجود ينتج من إلتقاء صفيحتين تكتونيتين.  خروج هذه الطاقة يسبب زعزعة الأرض وتحركها في جميع أنحاء المنطقة ."
+
+msgid ""
+"The theory that the earth is covered with fragmented pieces of crust floating on top of a plastic mantle. (Note that the mantle isn't "
+"the same kind of plastic like a plastic toy - but rather, hot rock that very slowly flows like \"plastic\") These fragments can move "
+"slowly over time, explaining the change in the position of Earth's continents over the span of its history."
+msgstr ""
+"النظرية هي ان الارض مغطاة بقطع مجزأة من القشرة عائمة على الغلاف البلاستيكي. (لاحظ أن الغلاف ليس هو النوع نفسه من البلاستيك مثل لعبة من "
+"البلاستيك - بل بالأحرى صخور ساخنة تتدفق ببطء شديد مثل  \"البلاستيك \") ويمكن لهذه الأجزاء التحرك ببطء على مر الزمن موضحا تغيير مواقع "
+"قارات كوكب الأرض على مدى تاريخها."
+
+msgid ""
+"The part of a tectonic plate made out of  \"oceanic crust\". Oceanic crust is generally much thinner and more dense than continental "
+"crust, allowing for oceans to form on top of it."
+msgstr ""
+"جزء من الصفيحة التكتونية مكون من  \"القشرة المحيطية \".  القشرة المحيطية عموما أرق بكثير وأكثر كثافة من قشرة القارات، مما يسمح للمحيطات "
+"لأن تتكون فوقها."
+
+msgid ""
+"The part of a tectonic plate made out of  \"continental crust\". Continental crust is generally much thicker and less dense than oceanic "
+"crust."
+msgstr "جزء من الصفيحة التكتونية مكون من   \"القشرة القارية \" . القشرة القارية عموما أسمك بكثير وأقل كثافة من القشرة المحيطية."
+
+msgid "Subduction"
+msgstr "الاندساس"
+
+msgid "Map"
+msgstr "خريطة"
+
+msgid "Pattern"
+msgstr "نمط"
+
+msgid "Tectonic Plate"
+msgstr "صفيحة تكتونية"
+
+msgid "Volcano"
+msgstr "بركان"
+
+msgid "Earthquake"
+msgstr "زلزال"
+
+msgid "Oceanic Crust Plate"
+msgstr "قشرة صفيحة محيطية"
+
+msgid "Continental Crust Plate"
+msgstr "قشرة صفيحة قارية"
+
+# 13
+msgid "Checking what you now know about... plate tectonics"
+msgstr "التحقق من مدى معرفتك.. بالصفائح التكتونية"
+
+# 14a
+msgid "The main purpose of maps is to be:"
+msgstr "والغرض الرئيسي من الخرائط أن تكون:"
+
+msgid "Beautiful to hang on the wall"
+msgstr "جميلة كي تعلق على الحائط"
+
+msgid "Useful in showing important information"
+msgstr "مفيدة في عرض المعلومات الهامة"
+
+msgid "Interesting to look at"
+msgstr "مثيرة للاهتمام عند النظر اليها"
+
+msgid "Colorful"
+msgstr "ملونة"
+
+# 14b
+msgid "Not really - Maps can be beautiful and look great up on the wall but that's not their main purpose."
+msgstr "ليس حقا-الخرائط يمكن أن تكون جميلة وتبدو رائعة حتى على الجدار ولكن ليس هذا هو الغرض الرئيسي منها."
+
+msgid "Yes - The main purpose of maps is to show useful information to help us make decisions and figure things out."
+msgstr "نعم-الغرض الرئيسي من الخرائط إظهار معلومات مفيدة لمساعدتنا في اتخاذ القرارات ومعرفة الأشياء."
+
+msgid "Not really - Maps can be interesting and fun to look at but that's not their main purpose."
+msgstr "ليس حقا-خرائط يمكن أن تكون مثيرة للاهتمام وممتعة للنظر اليها ولكن ليس هذا هو الغرض الرئيسي منها."
+
+msgid "Not really - Maps can be colorful and beautiful to look at but that's not their main purpose."
+msgstr "ليس حقا-يمكن أن تكون الخرائط ملونة وجميلة عند النظر اليها ولكن ليس هذا هو الغرض الرئيسي منها."
+
+# 15a
+msgid "Which of the following maps would be <span class='blink'>best</span> for planning a cross-country road trip route?"
+msgstr "أي من الخرائط التالية سيكون <span class='blink'>الأفضل</span>  لتخطيط مسار رحلة عبر البلاد؟"
+
+msgid "Daily weather map"
+msgstr "خريطة الطقس اليومية"
+
+msgid "City map of Manhattan, Kansas"
+msgstr "خريطة مدينة مانهاتن، كانساس"
+
+msgid "Hardiness zones for planting flowers map"
+msgstr "خريطة تبين مناطق زراعة الزهور"
+
+msgid "National Highway map"
+msgstr "خريطة الطريق السريع الوطنية"
+
+# 15b
+msgid "Packing for road-trip..."
+msgstr "حزم الحقائب لرحلة على الطريق..."
+
+msgid ""
+"Not quite - A weather map can be helpful in planning a cross-country road trip to help you avoid bad weather, but is there an even "
+"better map to help you plan your trip?"
+msgstr ""
+"ليس تماما - يمكن لخريطة الطقس أن تكون مفيدة في التخطيط لرحلة على الطريق عبر البلاد للمساعدة في تجنب سوء الأحوال الجوية، ولكن هل هناك "
+"خريطة أفضل لمساعدتك على تخطيط رحلتك؟"
+
+msgid ""
+"Not really - A city Map of Manhattan Kansas might help a little if you happen to be going through Kansas as part of your trip but "
+"wouldn't help in planning the whole cross country trip."
+msgstr ""
+"ليس حقا -ربما تساعدك خريطة مدينة مانهاتن كنساس  قليلا إذا حدث ومررت  بكانساس كجزء من رحلتك لكنها لن تساعد في التخطيط لرحلة عبر البلاد "
+"كلها."
+
+msgid "Not really - A hardiness map for planting flowers would be of no help in planning a cross-country road trip."
+msgstr "ليس حقا -الخريطة التي تبين مناطق زراعة الزهور لا يمكن أن تساعد في التخطيط لرحلة على الطريق عبر البلاد."
+
+msgid "Yes - A highway map of the United States would definitely be the best map to help in planning a cross-country road trip."
+msgstr "نعم - من شأن خارطة الطريق السريع للولايات المتحدة أن تكون أفضل خريطة للمساعدة في التخطيط لرحلة على الطريق عبر البلاد."
+
+# 16a
+msgid ""
+"From this map of the plates that make up the Earth's crust, which of the following statements is <span class='blink'>not</span> true?"
+msgstr "ومن خريطة الصفائح التي تشكل القشرة الأرضية ، أي من العبارات التالية <span class='blink'>ليست</span>  صحيحة؟"
+
+msgid "The Pacific Plate is almost all ocean."
+msgstr "صفيحة المحيط الهادئ  هي كل  المحيط. تقريبا."
+
+msgid "The North American plate is part land and part ocean."
+msgstr "جزء من صفيحة أمريكا الشمالية هي من الأرض وجزء منها من المحيط."
+
+msgid "The African Plate is all land."
+msgstr "الصفيحة الأفريقية هي منطقة يابسة."
+
+msgid "The Caribbean Islands are part of their own little plate."
+msgstr "جزر الكاريبي هي جزء من صفيحتنا الصغيرة."
+
+# 16b
+msgid "Playing with jigsaw puzzles..."
+msgstr "اللعب بالأحاجي"
+
+msgid "Yes - This is NOT a TRUE statement. The African plate is a combination of the continent of Africa and part of the Atlantic Ocean."
+msgstr "نعم- هذه ليست عبارة صحيحة. الصفيحة الافريقية تجمع بين قارة إفريقيا وجزء من المحيط الأطلسي."
+
+msgid ""
+"Not really - This is a TRUE statement. The Pacific plate is almost all ocean, with the exception of some small islands in the middle."
+msgstr "ليس حقا - هذه العبارة صحيحة. صفيحة المحيط الهادئ هي تقريبا كل المحيط، باستثناء بعض الجزر الصغيرة في الوسط."
+
+msgid ""
+"Not really - This is a TRUE statement. The North American Plate is part land - the continent of North America - and part ocean - the "
+"eastern half of the Atlantic Ocean."
+msgstr ""
+"ليس حقا - هذه العبارة صحيحة. صفيحة أمريكا الشمالية هي  جزء من اليابسة - قارة أمريكا الشمالية - وجزء من المحيط - النصف الشرقي من المحيط "
+"الأطلسي."
+
+msgid "Not really - This is a TRUE statement. The Caribbean Islands are on their own little plate."
+msgstr "ليس حقا- هذه العبارة صحيحة. جزر الكاريبي هي جزء من صفيحتنا الصغيرة ."
+
+# 17a
+msgid ""
+"The map below shows the major plates that make up the earth's surface, and the arrows show the relative directions of each of the plates "
+"as they move relative to each other. From this map the following can be said to be true."
+msgstr ""
+"توضح الخريطة أدناه الصفائح الرئيسية التي تشكل سطح الأرض، وتظهر الأسهم الاتجاهات النسبية لكل الصفائح لأنها تتحرك باتجاه بعضها البعض.  ومن "
+"هذه الخريطة يمكن أن يكون التالي صحيحا."
+
+msgid "The Caribbean Plate is moving towards Africa."
+msgstr "صفيحة الكاريبي تتحرك نحو أفريقيا."
+
+msgid "The Australian Plate is moving away from the Philippine plate."
+msgstr "الصفيحة الاسترالية تتحرك بعيدا عن الصفيحة الفلبينية."
+
+msgid "The Arabian plate is moving towards the Indian plate."
+msgstr "الصفيحة العربية تتحرك باتجاه الصفيحة الهندية."
+
+msgid "The African Plate is moving away from the South American plate."
+msgstr "الصفيحة الأفريقية تتحرك بعيدا عن صفيحة أمريكا الجنوبية."
+
+# 17b
+msgid "Yes - the South American and African plates are moving away from each other."
+msgstr "نعم - تتحرك صفائح  أمريكا الجنوبية وأفريقيا بعيدا عن بعضها البعض."
+
+msgid "Not really - The Caribbean plate is moving away from Africa."
+msgstr "ليس حقا - صفيحة الكاريبي تتحرك بعيدا عن أفريقيا."
+
+msgid "Not really - The Arabian plate and the Indian plate are both moving in the same direction."
+msgstr "ليس حقا -كل من الصفيحة العربية والصفيحة الهندية يتحرك بنفس الاتجاه."
+
+msgid "Not really - The Australian plate is moving towards the Philippine plate."
+msgstr "ليس حقا - الصفيحة الاسترالية تسير نحو الصفيحة الفلبينية."
+
+msgid "Clicking to see the image..."
+msgstr "انقر لترى الصورة ..."
+
+# 18a
+msgid ""
+"The diagram below illustrates an oceanic plate crashing into and going under a continental plate, forming a subduction zone that causes "
+"volcanoes. From the map below, which of the following plate boundaries would most likely form a subduction zone like this?"
+msgstr ""
+"ويوضح الرسم البياني أدناه الصفيحة المحيطية وهي تصطدم وتتوجه تحت الصفيحة القارية، مشكلة منطقة اندساس تُسبب البراكين. من الخريطة أدناه، أي "
+"من حدود الصفائح التالية على الأرجح تشكل منطقة اندساس؟"
+
+msgid "South American and African"
+msgstr "أمريكا الجنوبية وأفريقيا"
+
+msgid "Pacific and North American"
+msgstr "المحيط الهادئ وأمريكا الشمالية"
+
+msgid "Nazca and South American"
+msgstr "نازكا وأمريكا الجنوبية"
+
+msgid "North American and Eurasian"
+msgstr "أمريكا الشمالية وأوراسيا"
+
+# 18b
+msgid "Going under a continental plate..."
+msgstr "التوجه تحت الصفيحة القارية ..."
+
+msgid "Not really - the South American and African plates are moving away from each other, which couldn't form a subduction zone."
+msgstr "ليس حقا - صفائح  أمريكا الجنوبية وأفريقيا تتحركان بعيدا عن بعضهما البعض، ولا يمكنهما تشكيل منطقة اندساس."
+
+msgid "No - The Pacific and North American plates are sliding sideways past each other."
+msgstr "لا -  صفائح المحيط الهادئ وأمريكا الشمالية تنزلقان بشكل جانبي عكس بعضهما البعض."
+
+msgid "Yes - the South American and Nazca plates are moving towards each other, which could form a subduction zone."
+msgstr "نعم - صفائح أمريكا الجنوبية ونازكا تتحركان باتجاه بعضهما البعض، ويمكن أن تشكلان منطقة اندساس."
+
+msgid "Not really - The North American and Eurasian plates are moving away from each other."
+msgstr "ليس حقا - صفائح أمريكا الشمالية وأوراسيا يتحركان بعيدا عن بعضها البعض."
+
+# 19a
+msgid ""
+"The diagram below shows a series of maps that represent how the continental plates have moved during the past 200 million years. Which "
+"of the following statements is <span class='blink'>not</span> true based on what you can see on the maps?"
+msgstr ""
+"ويوضح الرسم البياني أدناه سلسلة من الخرائط التي تمثل كيف تحركت الصفائح القارية خلال 200 مليون سنة ماضية.  أي من العبارات التالية <span "
+"class='blink'>ليست</span> صحيحة استنادا لما يمكن رؤيته على الخرائط؟"
+
+msgid "200 million years ago, the continents were all bunched up in one large continent called Pangea."
+msgstr "قبل 200 مليون سنة، كانت القارات متزاحمة في قارة واحدة كبيرة تسمى بانجيا."
+
+msgid "The continents have drifted apart for the past 200 million years."
+msgstr "وقد انجرفت القارات بعيدا في المئتي مليون سنة الماضية."
+
+msgid "The continents will all start to move back together again soon."
+msgstr "سوف تبدأ كل القارات في التحرك معا مرة أخرى في وقت قريب."
+
+msgid "South America and Africa were once joined together."
+msgstr "أمريكا الجنوبية وأفريقيا كانتا متلاستقتان مع بعضهما."
+
+# 19b
+msgid "No - The map shows that this is a true statement."
+msgstr "لا - تُظهر الخارطة أن هذه عبارة صحيحة."
+
+msgid ""
+"Yes - This statement is NOT true. This map doesn't tell us anything about if or when the continents might all move back towards each "
+"other again."
+msgstr "نعم - هذه العبارة غير صحيحة.  هذه الخريطة لا تخبرنا شيئا حول فيما إذا أو متى يمكن للقارات أن تتحرك باتجاه بعضها البعض مرة أخرى."
+
+# 20
+msgid "You've completed the Plate Tectonics module."
+msgstr "لقد أكملت مراجعة الصفائح التكتونية."
+
+msgid "Click on the image to enlarge it."
+msgstr "أنقر على الصورة لتكبيرها"

@@ -1,0 +1,1053 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回（上一個）"
+
+msgid "Read More"
+msgstr "閱讀更多（延伸閱讀）"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案（複選）。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案。"
+
+msgid "Quick Check #1"
+msgstr "快速測驗#1"
+
+msgid "Quick Check #2"
+msgstr "快速測驗#2"
+
+msgid "Quick Check #3"
+msgstr "快速測驗#3"
+
+msgid "Quick Check #4"
+msgstr "快速測驗#4"
+
+msgid "Please check your answers."
+msgstr "請確認你的答案。"
+
+msgid "How did I do?"
+msgstr "我應該怎麼做？"
+
+msgid "You answered..."
+msgstr "你回答了……"
+
+msgid "select"
+msgstr "選擇"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr "請上下旋轉或翻動下方的方塊來設置你的答案。點擊，按住並上下移動滑鼠。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住滑鼠並上下移動來轉動方塊和選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "點選左、右鍵頭來瀏覽下方的頁面。"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡以開始輸入你的答案……"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"回答接下來的六個考驗問題可以讓你知道你已經了解什麼，還有需要進一步學習哪些內"
+"容。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當你準備好了，請點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "考驗問題#1"
+
+msgid "Quiz Question #2"
+msgstr "考驗問題#2"
+
+msgid "Quiz Question #3"
+msgstr "考驗問題#3"
+
+msgid "Quiz Question #4"
+msgstr "考驗問題#4"
+
+msgid "Quiz Question #5"
+msgstr "考驗問題#5"
+
+msgid "Quiz Question #6"
+msgstr "考驗問題#6"
+
+msgid "Congratulation"
+msgstr "恭喜"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"你可以點擊下方的按鈕來確認在這次的複習中“快速測驗”與“考驗問題”表現得如何。"
+
+msgid "Go to dashboard"
+msgstr "到儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎"
+
+msgid "Preparing your first quick check!"
+msgstr "準備好你的第一次快速測驗！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的最後一次快速測驗？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備開始你的最後一次考驗問題？"
+
+msgid "Putting it all together..."
+msgstr "把它們都放在一起……"
+
+msgid "Words and explanations"
+msgstr "單字與解釋"
+
+msgid "Let's check what you now know"
+msgstr "來看看你知道了什麼"
+
+msgid "And the first quiz question is..."
+msgstr "接著第一個考驗問題是……"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "Welcome to the Structure and Properties of Matter module"
+msgstr "歡迎來到物質的結構與特性模組"
+
+# 2
+msgid "Thinking about... the structure and properties of matter"
+msgstr "想想看有關……物質的結構與特性"
+
+msgid ""
+"You know what's really fun? Slime – that's what!! Slime is some cool stuff "
+"you can make so you can play tricks on your friends and gross out your "
+"family."
+msgstr ""
+"你知道什麼是很有趣的嗎？史萊姆－就是這個！！史萊姆是你可以做很酷的其中一種東"
+"西，所以你可以去戲弄你的朋友和嚇你的家人。"
+
+msgid ""
+"Slime is easy to make out of easy to find ingredients you can get at the "
+"supermarket. There are a bunch of different recipes for how to make slime. "
+"Search on Google for \"slime images\" and \"slime on youtube\" and you'll "
+"get all kinds of great ideas on how to make slime and play pranks on your "
+"friends."
+msgstr ""
+"可以在超市中輕易取得的材料來製作史萊姆。有很多不同製作史萊姆的配方。在google"
+"上搜尋史萊姆圖片和youtube上搜尋史萊姆，你會得到各種不同很棒的點子來製作史萊姆"
+"或對朋友惡作劇的方法。"
+
+msgid ""
+"The reason why slime is so much fun to play tricks with is because it's "
+"stuff with certain properties.  It's runny, icky, gooey and green, and of "
+"course, slimy. But it's also safe and easily washable – just the kind of "
+"properties that make it fun to \"slime\" your friends without hurting them "
+"or ruining their clothes. \"Stuff\" is called matter by scientists. So let's "
+"look at more kinds of matter and their properties."
+msgstr ""
+"拿史萊姆來惡作劇會如此有趣的原因是因為這個東西有一些特定的性質。它是水水、噁"
+"心、糊糊還有當然很黏滑。但是它也是安全且易清洗的－這樣的特性讓你可以“史萊"
+"姆”你的朋友而不會傷到他們或毀了他們的衣服。東西被科學家稱為物質。所以讓我們再"
+"多看看其他種類的物質以及它們的特性。"
+
+# 3
+msgid "Checking what you know about... the structure and properties of matter"
+msgstr "檢查看看你知道多少有關……物質的結構與特性"
+
+msgid ""
+"Which of the following do you think is <span class=\"blink\">not</span> "
+"matter – the \"stuff\" that makes up the universe?"
+msgstr "你覺得下列哪一個不是物質－建構起宇宙的東西？"
+
+msgid "Rocks"
+msgstr "岩石"
+
+msgid "Sunlight"
+msgstr "陽光"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid ""
+"Matter is anything that has mass and takes up space. Most people know that "
+"rocks, dirt, snow and water are matter because they can see and feel them. "
+"Sometimes people think that air isn't matter because they can't see it – "
+"it's invisible - and they can't feel its weight because they're so used to "
+"it pressing down on them every day. But air is matter because it takes up "
+"space and has mass – you can feel it when the wind blows and it pushes upon "
+"airplane wings to keep them in the air. The only one of these choices that "
+"isn't matter is sunlight – because sunlight is energy - which doesn't have "
+"mass or take up space."
+msgstr ""
+"物質是任何具有質量且佔有空間的東西。多數人知道岩石、灰塵、雪和水都是物質，因"
+"為他們可以被看見被感受。有時候人們會認為空氣不是一種物質，因為它們不能被看見"
+"－它是眼睛看不到的－而且他們無法感覺到它的重量因為他們每天已經習慣受到被空氣"
+"壓著。但是空氣是一種物質，因為它佔有空間也有重量－你可以在風起和空氣撐起機翼"
+"將它們維持在空中時感受到空氣。唯一一個在選項中不是物質的是陽光－因為陽光是能"
+"量－是沒有質量也不佔據空間。"
+
+msgid "Identifying properties of matter..."
+msgstr "界定物質的特性……"
+
+# 4
+msgid "Reviewing big ideas about... the structure and properties of matter"
+msgstr "複習相關的主要概念……物質的結構與特性"
+
+msgid ""
+"All the \"stuff\" that you see or feel or use in your daily life is <span "
+"class='key'>matter</span>. The wood that makes up your house is matter. The "
+"food and water you eat and drink is matter. The metal that makes up your car "
+"is matter. But there's also a lot of matter you don't feel or see or smell "
+"or use. The air that you breathe is matter even if you can't see it! Matter "
+"is all the \"stuff\" that makes up the earth and the entire universe. The "
+"way scientists define matter is that matter is anything that has mass and "
+"takes up space."
+msgstr ""
+"所有在你日常生活中可以看見、感受或是使用的東西都是物質。建造你房屋的木材是物"
+"質。你所吃的食物和你喝的水是物質。製作你車子的金屬是物質。但是也有很多物質是"
+"你無法感覺或看見或聞到或是使用。你所呼吸的空氣是物質就算你沒辦法看見它。物質"
+"是所有建構出地球及整個宇宙的東西。科學家定義物質的方法是指任何具有質量且佔有"
+"空間的東西。"
+
+msgid ""
+"There are different kinds of matter based on their properties. <span "
+"class='key'>Properties</span> are something about matter that you can "
+"observe to describe the matter and identify it. And it's these properties "
+"that make different kinds of matter useful to us for different purposes. For "
+"instance, most matter that we call metal has the property of being hard and "
+"strong and is useful to make structures like tall buildings and bridges and "
+"cars and trucks. Wood is a kind of matter that has the property of being "
+"hard and strong but soft enough to hammer a nail through. So, because of "
+"these properties, it is useful to build houses. Other matter, such as water, "
+"has the property of being either a solid, liquid, or gas at different "
+"temperatures. That's an important property of matter that scientists call a "
+"\"state\" of matter. There are many kinds of matter with many different "
+"properties and many different uses."
+msgstr ""
+"依據特性，有很多不同種類的物質。特性是一些有關物質讓你可以藉由觀察描述或是用"
+"來辨識它。舉例來說，多數被我們稱為金屬的物質擁有的特性是堅硬且強韌，對於構造"
+"來說是很實用的像是高樓、橋樑、車子和卡車。木頭是一種物質擁有堅硬又強韌但是柔"
+"軟到可以用錘子將釘子敲進去。所以因為有這些特性，它在建造房屋時很實用。其他的"
+"物質，像是水，擁有的特質是在不同的溫度下可以是液體、固體或是氣體。那是一種很"
+"重要的物質特性，被科學家稱為物質的“相”。還有很多不同的物質擁有很多不同的特性"
+"與很多不同的用途。"
+
+msgid "Drinking water..."
+msgstr "喝水……"
+
+# 5
+msgid ""
+"Question A. Which of the following substances is <span class='blink'>not</"
+"span> matter?"
+msgstr "問題A. 請問下列哪一項不是物質？"
+
+msgid "Light"
+msgstr "光"
+
+msgid "Wood"
+msgstr "木頭"
+
+msgid "Steel"
+msgstr "鋼"
+
+msgid "Food"
+msgstr "食物"
+
+msgid ""
+"Question B. Which of the following statements about matter are <span "
+"class='blink'>true</span>?"
+msgstr "問題B. 下列哪一個對物質的描述是正確的？"
+
+msgid "You can see all matter."
+msgstr "你可以看到所有物質。"
+
+msgid "You can smell all matter."
+msgstr "你可以聞到所有物質。"
+
+msgid "All matter has properties."
+msgstr "所有的物質都有特性。"
+
+msgid "All matter is helpful to people."
+msgstr "所有的物質都對人類是有幫助的。"
+
+msgid "Preparing your first quick check…"
+msgstr "準備好你的第一個快速測驗……"
+
+msgid "Nope! Wood is matter because it has mass and takes up space."
+msgstr "否！木頭是物質因為它具有質量也佔有空間。"
+
+msgid "No! Steel is matter because it has mass and takes up space."
+msgstr "不！鋼是物質因為它具有質量也佔有空間。"
+
+msgid "Thats wrong! Food is matter because it has mass and takes up space."
+msgstr "那是錯誤的！食物是物質因為它具有質量也佔有空間。"
+
+msgid ""
+"Correct! Light is NOT matter because it has no mass and doesn't take up "
+"space."
+msgstr "答對了！光不是物質，因為它沒有質量也不佔有空間。"
+
+msgid "False! You can't see ALL matter – like you can't see air."
+msgstr "錯了！你不能看見所有的物質－就像是你看不見空氣。"
+
+msgid ""
+"False! You can't smell ALL matter – like you can't smell glass and water. "
+"But maybe your dog can or cat can smell some things you can't."
+msgstr ""
+"錯了！你不能看見所有的物質－就像是你聞不到玻璃和水。但是你的狗或貓可能可以聞"
+"到你所聞不到的一些東西。"
+
+msgid ""
+"True! All matter does have properties. Sometimes their properties are "
+"different from each other, but all matter has some kind of properties."
+msgstr ""
+"正確！所有的物質都擁有特性。有時候它們彼此之間的特性並不相同，但是所有的物質"
+"都會有一些特性。"
+
+msgid ""
+"False! Virtually all matter has some kind of use – but some of the uses are "
+"bad for people – like poison - so they are not helpful."
+msgstr ""
+"錯了！事實上所有的物質都有一些用途－但是有一些的用途是對人有害的－像是毒物－"
+"所以它們是沒有助益的。"
+
+# 6
+msgid "More big ideas about... the structure and properties of matter"
+msgstr "回顧更多相關的主要概念……物質的結構與特性"
+
+msgid ""
+"\"Matter can neither be created nor destroyed but can change forms\" is one "
+"of the most important things about nature that scientists have ever figured "
+"out. What this means is that matter can never just disappear into "
+"nothingness even if it seems like it does. One way matter changes forms is "
+"that it can change states from <span class='key'>solid</span> to <span "
+"class='key'>liquid</span> or from liquid to <span class='key'>gas</span>. "
+"These are called <span class='key'>states of matter</span>."
+msgstr ""
+"物質無法被創造或是毀滅，但是可以改變型態，這是科學家無法理解的大自然的其中一"
+"項最重要的事。這個的意思是物質不會消失變為無形，雖然有時候看起來是這樣。其中"
+"一項物質改變型態的方式是它改變相，從固體到液體或是從液體到氣體。這些都稱為物"
+"質的相。"
+
+msgid ""
+"For instance, if you leave a puddle of water on the bathroom floor after you "
+"take a shower - even though your mother told you to make sure you clean it "
+"up - the next day, when she checks your bathroom, the puddle of water is "
+"gone!! Did it magically disappear? Did some bathroom wizard come in and "
+"destroy the water to save you from your mom being mad at you? It seems like "
+"it, doesn't it? But the water didn't get<br> destroyed – it just evaporated "
+"all by itself. This means it changed from the liquid state of water on the "
+"floor to the gaseous state of water in the air."
+msgstr ""
+"舉例來說，無果你在洗完澡之後在浴室留下一灘水，雖然你媽會告訴你要確實地將它整"
+"理乾淨－在隔天，當她檢查你的浴室時，那一灘水已經不見了！！它真的像魔法一般消"
+"失了嗎？是有一些浴室魔法師進來然後幫你摧毀這些水好讓你可以免於媽媽的責備嗎？"
+"看起來像是這樣，不是嗎？但是水並沒有被摧毀－它只是自己蒸發了。這表示它從在地"
+"板上液態的水轉變成在空氣中氣態的水。"
+
+msgid ""
+"It changed from having the property of you being able to see it and feel it "
+"as a liquid to the property of being invisible as gaseous water. And - this "
+"is important! - if you had weighed the water in the puddle and it weighed 1 "
+"ounce, after it <span class='key'>evaporated</span>, the air in your "
+"bathroom weighs 1 ounce more. The 1 ounce of water still weighs 1 ounce! "
+"It's just 1 ounce of gaseous water in your bathroom air instead of 1 ounce "
+"of liquid water in a puddle on the floor. The mass of liquid water didn't "
+"change even though you couldn't see it anymore! You could tell that's true "
+"if you could figure out a way to weigh your bathroom air – something to "
+"think about!"
+msgstr ""
+"它的特性從你可以看到可以感受到的液態轉變為看不見的特性的氣態水。還有－這非常"
+"重要－如果你有秤那一灘水的重量，它會重1盎司，在它蒸發之後，你浴室中的空氣會增"
+"重1盎司。1盎斯重的水還是維持1盎司的重量。只是你浴室中1盎司的氣態水取代了原本"
+"在地上1盎司的一灘液態水。就算你已經看不到了，但是液態水的質量依然沒有改變！如"
+"果你可以找出如何秤你浴室空氣重量的方法你會說這是正確的－試著想想看吧！"
+
+msgid "4 ounces"
+msgstr "4盎司"
+
+msgid "A little bit more than 4 ounces"
+msgstr "比4盎司要再多一些"
+
+msgid "5 ounces"
+msgstr "5盎司"
+
+msgid "A little bit less than 5 ounces"
+msgstr "比5盎司要再多一些"
+
+msgid "6 ounces"
+msgstr "6盎司"
+
+msgid "Looking for traces..."
+msgstr "要看過程……"
+
+# 7
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> a state "
+"of matter:"
+msgstr "問題A. 下列哪一項不是物質的狀態（相）："
+
+msgid "Solid"
+msgstr "固體"
+
+msgid "Shiny"
+msgstr "光亮"
+
+msgid "Liquid"
+msgstr "液體"
+
+msgid "Gas"
+msgstr "氣體"
+
+msgid "Question B. When a substance like water evaporates:"
+msgstr "問題B. 當一個物質像是水蒸發："
+
+msgid "It disappears and doesn't exist anymore."
+msgstr "它會消失而且就不存在了。"
+
+msgid ""
+"It changes to a gas and loses enough weight so it can float with the air."
+msgstr "它會變為氣體且會失去足夠的重量好讓它可以漂浮在空中。"
+
+msgid "It doesn't change weight at all, it just becomes part of the air."
+msgstr "它完全不會改變重量，它只是變成了空氣的一部分。"
+
+msgid ""
+"No! When water evaporates, it seems to disappear because you can't see it "
+"anymore, but it still exists and is mixed in with the atmosphere."
+msgstr ""
+"不！當水蒸發時，它看起來像消失了是因為你再也看不到它了，但是它還是存在而且混"
+"合到大氣之中了。"
+
+msgid ""
+"Nope! It does change into a gas – water vapor – but it still has the same "
+"mass and weight as it did before."
+msgstr "不對！它轉變成氣體－水蒸氣－但是它還是擁有跟之前一樣的質量和重量。"
+
+msgid ""
+"Wrong answer! – It does change into a gas – water vapor – but it doesn't "
+"lose any weight - it still has the same mass and weight as it did before."
+msgstr ""
+"錯誤的答案！－它轉變成氣體－水蒸氣－但是它並沒有減少任何重量－它還是擁有跟之"
+"前一樣的質量和重量。"
+
+msgid ""
+"Correct! The water doesn't lose any weight – evaporation means that the "
+"liquid water breaks down into individual water molecules and each one is "
+"light enough to disperse into the air."
+msgstr ""
+"答對了！水並沒有減少任何重量－蒸發表示液態水分解成一個個的水分子，而每一個都"
+"輕到可以分散到空氣之中。"
+
+msgid "Nope! Solid  is a state of matter."
+msgstr "錯了！固體不是一種物質的狀態。"
+
+msgid "Correct! Shiny  is not  one of the three states of matter."
+msgstr "答對了！光亮不是物質三相的的其中一種。"
+
+msgid "Wrong answer! Liquid  is a state of matter."
+msgstr "錯誤的答案！液體是一種物質的狀態。"
+
+msgid "No! Gas  is a state of matter."
+msgstr "不對！氣體是一種物質的狀態。"
+
+msgid "Evaporating water..."
+msgstr "水蒸發……"
+
+# 8
+msgid ""
+"All matter is made up of millions of little particles that are too small to "
+"see with the naked eye... even too small to see with ordinary microscopes. "
+"These particles are called <span class='key'>atoms</span>. You can think of "
+"them as the building blocks of matter – kind of like Legos. Each Lego block "
+"is like an individual atom. And just like Legos, there are many, many "
+"different sizes and kinds of atoms that can be combined to build many "
+"different kinds of matter with different properties. If you build an object "
+"with just one kind of Lego block, that's like nature building matter with "
+"just one kind of atom – so you get a kind of matter called an  <span "
+"class='key'>element</span> - like oxygen, or carbon, or iron. But if you "
+"start combining different kinds of Lego blocks - different sizes or shaped "
+"blocks - that's like nature combining different kinds of atoms together to "
+"form <span class='key'>compounds</span> - which are matter made of two or "
+"more different kinds of atoms."
+msgstr ""
+"所有的物質都是由數百萬個粒子所構成，它們因為太小而無法直接用眼睛看到……有的甚"
+"至小到一般顯微鏡也無法看到。這些粒子被稱為原子。你可以把它們想像成是建造物質"
+"的磚塊－就像是一種樂高一樣。每一塊樂高就像是一個獨立的原子。就像是樂高一樣，"
+"那有很多，很多不同大小和種類的原子可以結合建構出很多不同種類且擁有不同特性的"
+"物質。如果你建構一種物體只用單一種的樂高磚，這樣就像是在大自然中只用單一種原"
+"子來建構物質－所以你可以得到一種物質被稱為元素－像是氧氣，或碳，或鐵。但是如"
+"果你開始結合不同的樂高磚－不同大小或不同形狀的磚塊－這就像是大自然中將不同種"
+"類的原子結合在一起形成化合物－是由兩種或是以上不同種類原子所構成的物質。"
+
+msgid "Hover your mouse on the images to see the details."
+msgstr "用你的滑鼠停留在圖片上以檢視更詳細的內容。"
+
+msgid ""
+"There are different kinds of Lego building blocks just like there are many "
+"different kinds of atoms - the building blocks of matter."
+msgstr ""
+"有很多不同種類的樂高建造磚頭，就像是有很多不同種類的原子－物質的建造磚頭。"
+
+msgid "Building matter from just one kind of atom makes an element."
+msgstr "只用一種原子來建造物質會成為一種元素。"
+
+msgid ""
+"Building matter from two or more different kinds of atom makes a compound."
+msgstr "使用兩種或以上的原子來建造物質會成為一種化合物。"
+
+msgid ""
+"Most of the matter we see or touch or even eat is made of compounds. Some "
+"examples of compounds are water - H<sub>2</sub>O - which means it has two "
+"atoms of the element hydrogen for every atom of oxygen; or salt – NaCl – "
+"which has one atom of sodium for every one atom of chlorine; or sugar - "
+"C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> – which is made of the elements "
+"carbon, hydrogen, and oxygen. It's important to know that when you look at "
+"one grain of sugar or one drop of water, they are made up of millions of "
+"invisible building blocks called atoms."
+msgstr ""
+"大多數我們所看見、接觸甚至吃的物質都是由化合物所組成。一些化合物的例子像是水"
+"－H2O－這表示水的每一個氧原子就會擁有有兩個氫原子；或是鹽－NaCl－這表示它的每"
+"一個氯原子就會擁有一個鈉原子；或是糖－C6H12O6－這是由碳、氫和氧的元素所構成。"
+"一個很重要你必須知道的是當你在看一粒糖或是一滴水，它們都是由數百萬看不見稱為"
+"原子的建構磚塊所組成。"
+
+msgid "Building blocks..."
+msgstr "建構磚塊……"
+
+# 9
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> a "
+"compound?"
+msgstr "問題A. 下列哪一項不是化合物？"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>not</span> an "
+"element?"
+msgstr "問題B. 下列哪一項不是元素？"
+
+msgid "Iron"
+msgstr "鐵"
+
+msgid "Oxygen"
+msgstr "氧"
+
+msgid "Salt"
+msgstr "鹽"
+
+msgid ""
+"No! Sugar is a compound molecule C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> "
+"consisting of several atoms of the elements Carbon, Hydrogen and Oxygen."
+msgstr "不！糖是一種化合分子C6H12O6由數種元素原子組成有碳、氫合氧。"
+
+msgid "Nope! Water is a compound H2O of the elements Hydrogen and Oxygen."
+msgstr "不對！水是H2O化合物是由氫和氧元素組成。"
+
+msgid ""
+"Wrong answer! Salt is a compound NaCl of the two elements Sodium (Na) and "
+"Chlorine (Cl)."
+msgstr "錯誤的答案！鹽是NaCl化合物是由兩個鈉元素(Na)和一個氯元素(Cl)組成。"
+
+msgid ""
+"Correct – Sugar is a compound molecule consisting of several atoms of the "
+"elements Carbon, Hydrogen and Oxygen."
+msgstr "答對了！糖是化合物分子由不同元素的原子組成，包含碳、氫和氧。"
+
+msgid "Correct! Oxygen is an element."
+msgstr "答對了！氧是一種元素。"
+
+msgid "No! Iron is an element."
+msgstr "不對！鐵是一種元素。"
+
+msgid "Nope! Hydrogen is an element."
+msgstr "不！氫是一種元素。"
+
+msgid "Wrong answer! Oxygen is an element."
+msgstr "錯誤的答案！氧是一種元素。"
+
+# 10
+msgid ""
+"Using what you now know about... the structure and properties of matter... "
+"to solve a problem"
+msgstr "運用你所知的相關內容……物質的構造與特性……來解決一個問題"
+
+msgid ""
+"Your friend didn't understand the difference between atoms and molecules and "
+"how they make up elements and compounds."
+msgstr "你的朋友不明白原子與分子之間的差異還有它們如何組成元素與化合物。"
+
+msgid "How would you use Legos to demonstrate the idea?"
+msgstr "你會怎麼運用樂高來展示這個概念？"
+
+msgid "Playing lego..."
+msgstr "玩樂高……"
+
+# 11
+msgid "Summarizing big ideas about... the structure and properties of matter"
+msgstr "歸納相關主要的概念……物質的結構與特性"
+
+msgid ""
+"Everything that makes up the earth and the universe is made up of <span "
+"class='key'>matter</span> - whether you can see it or not. There are lots of "
+"different kinds of matter with lots of different <span "
+"class='key'>properties</span>. Some of those properties make the matter "
+"useful for us. All matter is made up of tiny invisible particles called "
+"<span class='key'>atoms</span> and molecules. If the matter is made up of "
+"just one kind of atom, it's called an <span class='key'>element</span>. If "
+"the matter is made up of two or more different kinds of atoms, the matter is "
+"called a <span class='key'>compound</span>. Even the tiniest bit of matter "
+"you can see – like a grain of sand or sugar, or even a speck of dust – is "
+"still made up of millions of atoms or molecules."
+msgstr ""
+"所有建構出地球與宇宙的東西是物質－無論你能不能看到它。有很多不同種類擁有不同"
+"特性的物質。其中有一些物質的特性對我們是很實用的。所有的物質都是由稱為原子或"
+"分子這些看不見很微小的粒子所組成。如果物質只由一種原子所組成，這稱為元素。如"
+"果物質是由兩種或以上不同的原子所組成，這種物質稱為化合物。就算是你可以看到最"
+"微小的物質－像是一粒砂或糖，甚至是一點灰塵－它依然都是由數百萬個原子或分子所"
+"組成。"
+
+msgid "Na +"
+msgstr "Na +"
+
+msgid "Cl -"
+msgstr "Cl -"
+
+msgid "NaCl"
+msgstr "NaCl"
+
+msgid "Water Molecule"
+msgstr "水分子"
+
+msgid "H"
+msgstr "H"
+
+msgid "O"
+msgstr "O"
+
+# 12
+msgid ""
+"Reviewing key vocabulary related to... the structure and properties of matter"
+msgstr "複習相關的關鍵字……物質的結構與特性"
+
+msgid "Atom"
+msgstr "原子"
+
+msgid ""
+"The basic unit of matter. An atom consists of a central nucleus surrounded "
+"by electrons."
+msgstr "物質的基本單位。一個原子是由中心的原子核與其周圍的電子所組成。"
+
+msgid "Matter"
+msgstr "物質"
+
+msgid ""
+"Anything that has mass and takes up space. Atoms combine to comprise "
+"matter.  That is, matter is everything that is made up of atoms. Examples "
+"would include people, planets, air, water and stars."
+msgstr ""
+"任何具有質量佔有空間的東西。原子的結合構成物質。那是指，物質是所有由原子所組"
+"成的任何東西。例子中也包含人類、行星、空氣、水和星星。"
+
+msgid "Compound"
+msgstr "化合物"
+
+msgid ""
+"A substance made up of two or more different kinds of atoms. Compounds can "
+"be formed or broken up in chemical reactions. Examples include water, carbon "
+"dioxide and salt."
+msgstr ""
+"一種物質由兩種或以上不同種類的原子所構成。化合物可以透過化學作用來形成或是分"
+"解。例子包含水、二氧化碳與鹽。"
+
+msgid "Element"
+msgstr "元素"
+
+msgid ""
+"An element is a pure sample of one type of atom. Examples could include "
+"gases like hydrogen, oxygen, and helium, or a solid piece of iron or copper."
+msgstr ""
+"元素是單一種原子的單純樣本。例子包含氣體像是氫氣、氧氣與氦氣，或是一塊固體如"
+"鐵或銅。"
+
+msgid "Properties of Matter"
+msgstr "物質的特性"
+
+msgid ""
+"Descriptors about a piece of matter that describe it. For example, an iron "
+"wrench is hard, heavy and gray."
+msgstr "請描述一塊物質。舉例來說，一個鐵板手是堅硬的、沈重的且是灰色的。"
+
+msgid "Evaporate"
+msgstr "蒸發"
+
+msgid ""
+"When matter goes from the liquid phase to the gaseous phase. Evaporation is "
+"commonly observed with water."
+msgstr "當物質從液態轉變為氣態。一般可以觀察到水蒸發。"
+
+msgid "State of Matter"
+msgstr "物質的狀態"
+
+msgid ""
+"Whether something is currently a solid, a liquid, or a gas. This can change "
+"as heat and or pressure are applied to the matter."
+msgstr ""
+"任何東西在現在是固體、液體或是氣體。這是可以透過對物質提供熱或壓力來改變的。"
+
+msgid ""
+"One of the states of matter that keep their shape unless pushed or pulled by "
+"an outside force. Solids have molecules closely packed together with little "
+"room for motion. Examples include ice and metals."
+msgstr ""
+"其中一種物質的狀態可以讓它們保持形狀，除非有推或拉的外力。固體在運動時分子被"
+"緊密包覆在小小的空間中。例子包含冰和金屬。"
+
+msgid ""
+"One of the states of matter that take the shape of the container that holds "
+"them. Liquids have molecules that are somewhat less closely packed, allowing "
+"them some room to move and interact. Examples include water and mercury."
+msgstr ""
+"物質狀態的外形會與盛裝它們的容器相同。液體的分子不是被包覆的那麼緊密，讓它們"
+"可以有一些空間可以移動和互動。例子有水和水銀。"
+
+msgid ""
+"One of the states of matter that will expand into the atmosphere unless "
+"constrained by a closed container. Gas phase molecules are very spread apart "
+"and can essentially move freely. Examples include water vapor (steam), "
+"carbon dioxide and helium."
+msgstr ""
+"其中一種物質的狀態會擴散到大氣之中，除非用密閉的容器來將它限制住。氣態的分子"
+"是非常分散且基本上是自由的移動。例子有水蒸氣（蒸氣），二氧化碳與氦氣。"
+
+# 13
+msgid ""
+"Checking what you now know about... the structure and properties of matter"
+msgstr "檢查你所知道有關……物質的結構與特性"
+
+# 14
+msgid ""
+"Here is a diagram that represents one particle (one molecule) of water, "
+"H<sub>2</sub>O. Which of the following statements about water is correct?"
+msgstr ""
+"這裏有一個示意圖顯示了一個水的粒子（一個分子），H2O。下列哪一項對水的敘述是正"
+"確的？"
+
+msgid "Hydrogen"
+msgstr "氫氣"
+
+msgid "One of these particles makes up each drop of water."
+msgstr "一個這樣的粒子組成一滴水。"
+
+msgid "These particles are very small but big enough to see with a microscope."
+msgstr "這些粒子非常微小但是大到足夠用顯微鏡來觀察。"
+
+msgid ""
+"The hydrogen atoms are too small to see but you can see the oxygen atoms."
+msgstr "氫原子太小而看不到，但是你可以看到氧原子。"
+
+msgid ""
+"The whole water particle (molecule) is too small to see and it takes "
+"millions of them to make one water drop."
+msgstr ""
+"整個水的粒子（分子）是太小而看不到的，而且它需要數百萬個才能組成一滴水。"
+
+msgid "Wrong answer! A water droplet is made of millions of water molecules."
+msgstr "錯誤的答案！一滴水滴是由數百萬個水分子所組成。"
+
+msgid ""
+"Nope! These molecules (individual particles) of water are very small and too "
+"small to see with the naked eye, or even with a microscope."
+msgstr ""
+"不！這些水分子（獨立的粒子）都非常的微小，小到無法用肉眼看見，甚至用顯微鏡也"
+"一樣。"
+
+msgid ""
+"No! Both the hydrogen and oxygen atoms are too small to see. Even the whole "
+"water molecule is too small to see with the naked eye, or even with a "
+"microscope."
+msgstr ""
+"錯了！氫和氧原子都是太小而看不見的。就算是整個水分子也很小，小到無法用肉眼看"
+"見，甚至用顯微鏡也一樣。"
+
+msgid ""
+"Correct! The whole water particle (molecule) is too small to see and it "
+"takes millions of them to make one water drop."
+msgstr ""
+"答對了！整個水粒子（分子）太小而看不見，且它是要數百萬個才能組成一滴水。"
+
+msgid "Your first quiz question is…"
+msgstr "你的第一個問題考驗是……"
+
+# 15
+msgid ""
+"Think about riding your bike. Match the properties of matter from the first "
+"column to the matter you use in the second column when you ride your bike."
+msgstr ""
+"想想你騎乘腳踏車。當你在騎你的腳踏車時，請配對第一欄的物質特性到第二欄你所運"
+"用的物質。"
+
+msgid "Hard and strong"
+msgstr "堅硬且強韌"
+
+msgid "Soft, tough, flexible"
+msgstr "軟、硬、有彈性"
+
+msgid "Waterproof and soft"
+msgstr "防水且柔軟"
+
+msgid "Soft and warm"
+msgstr "柔軟且溫暖"
+
+msgid "Flexible and tough"
+msgstr "有彈性且硬"
+
+msgid "Parts of Bike and Rider"
+msgstr "腳踏車與騎士的部分"
+
+msgid "Bike tire"
+msgstr "腳踏車輪胎"
+
+msgid "Shirt"
+msgstr "襯衫"
+
+msgid "Bike frame"
+msgstr "腳踏車框架"
+
+msgid "Bike seat"
+msgstr "腳踏車座椅"
+
+msgid "Girl's skin"
+msgstr "女孩的皮膚"
+
+msgid "Riding a bike..."
+msgstr "騎乘一台腳踏車……"
+
+msgid ""
+"Correct! The bike frame needs to be heard and strong to support the rider; "
+"the girl’s skin needs to be soft to touch, flexible to move and tough so it "
+"doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry "
+"and soft to be comfortable; the shirt needs to be soft and warm to be "
+"comfortable and keep you warm; and the bike tire needs to be flexible and "
+"tough."
+msgstr ""
+"答對了！腳踏車的框架需要是堅硬且強韌的才能支稱住騎士；女孩的肌膚需要是柔軟可"
+"觸，有彈性的移動且強韌才不會很容易被割傷；腳踏車座椅需要是防水才能保持乾燥且"
+"柔軟才會舒適；衣服需要是柔軟且溫暖才能感覺舒服且保暖；還有腳踏車輪胎需要有彈"
+"性且堅硬。"
+
+msgid ""
+"Wrong! The bike frame needs to be heard and strong to support the rider; the "
+"girl’s skin needs to be soft to touch, flexible to move and tough so it "
+"doesn’t get cut easily; the bike seat needs to be waterproof to keep it dry "
+"and soft to be comfortable; the shirt needs to be soft and warm to be "
+"comfortable and keep you warm; and the bike tire needs to be flexible and "
+"tough."
+msgstr ""
+"錯了！腳踏車的框架需要是堅硬且強韌的才能支稱住騎士；女孩的肌膚需要是柔軟可"
+"觸，有彈性的移動且強韌才不會很容易被割傷；腳踏車座椅需要是防水才能保持乾燥且"
+"柔軟才會舒適；衣服需要是柔軟且溫暖才能感覺舒服且保暖；還有腳踏車輪胎需要有彈"
+"性且堅硬。"
+
+# 16
+msgid ""
+"Here are five common objects that you see every day. What is the property of "
+"the matter that makes up these objects that is common to all of them?"
+msgstr ""
+"這裡有五種你每天都會看到很平凡的物體？請問什麼樣的特性是這這些物體組成中所共"
+"同擁有的？"
+
+msgid "Soft"
+msgstr "柔軟"
+
+msgid "Smell"
+msgstr "味道"
+
+msgid "Yellow"
+msgstr "黃色"
+
+msgid "Nope! The penny, glass and pencil aren’t soft."
+msgstr "不！硬幣、玻璃和鉛筆都不是柔軟的。"
+
+msgid ""
+"Correct! all of these objects have the property of being solid – not liquid "
+"or gas."
+msgstr "答對了！這些所有的物體都有固體的特性－不是液體或氣體。"
+
+msgid ""
+"No. Only the hotdog, and maybe, the shirt if you haven’t washed it recently, "
+"have smell as a property."
+msgstr "不！只有熱狗，或許，衣服，如果你不是很常洗它，它可能會有味道的特性。"
+
+msgid "No! Only the penny and glass are shiny."
+msgstr "不！只有硬幣跟玻璃是閃亮的。"
+
+msgid "Not right. Only the pencil is yellow…and the mustard on the hotdog."
+msgstr "不對。只有鉛筆是黃色的……還有熱狗上的芥末。"
+
+# 17
+msgid ""
+"What is the property of the matter that makes up the window that makes it "
+"<span class='blink'>different</span> from all of the other objects?"
+msgstr "什麼樣的物質特性讓窗戶的組成與其他所有的物體不同？"
+
+msgid "Transparent"
+msgstr "透明度"
+
+msgid "Colored"
+msgstr "顏色（有色的）"
+
+# 18
+msgid ""
+"If you were to take 1 ounce of sugar and add it to 4 ounces of Kool-Aid and "
+"stir it really well so you couldn’t see the sugar at all anymore, the final "
+"weight of the Kool-Aid would be..."
+msgstr ""
+"如果你拿1盎司的糖加到4盎司的Kool-Aid（Kool-Aid果汁）裡並完整地攪拌，那你就不"
+"會再看到任何的糖，那最後Kool-Aid的重量會是……"
+
+msgid "Making a cold juice..."
+msgstr "製作冰涼的果汁……"
+
+msgid ""
+"No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND "
+"the weight of the sugar (1 ounce) = 5 ounces."
+msgstr "不！最後的重量包含Kool-Aid的重量 (4盎司)和糖的重量(1盎司) = 5盎司。"
+
+msgid ""
+"Nope! The final weight includes both the weight of the Kool-Aid (4 ounces) "
+"AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr ""
+"否！最後的重量包含Kool-Aid的重量 (4盎司)和糖的全部重量(1盎司) = 5盎司。"
+
+msgid ""
+"Correct! The final weight includes both the weight of the Kool-Aid (4 "
+"ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr ""
+"答對了！最後的重量包含Kool-Aid的重量 (4盎司)和糖的全部重量(1盎司) = 5盎司。"
+
+msgid ""
+"Wrong answer! The final weight includes both the weight of the Kool-Aid (4 "
+"ounces) AND the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr ""
+"錯誤的答案！最後的重量包含Kool-Aid的重量 (4盎司)和糖的全部重量(1盎司) = 5盎"
+"司。"
+
+msgid ""
+"No! The final weight includes both the weight of the Kool-Aid (4 ounces) AND "
+"the full weight of the sugar (1 ounce) = 5 ounces."
+msgstr ""
+"不對！最後的重量包含Kool-Aid的重量 (4盎司)和糖的全部重量(1盎司) = 5盎司。"
+
+# 19
+msgid ""
+"Which of the following statements is <span class='blink'>NOT</span> true "
+"about the similarities of how atoms build molecules and Lego blocks build "
+"objects."
+msgstr ""
+"下列的敘述中關於原子建構分子與樂高磚建造物體的方式的相似處，有哪些是錯誤的？"
+
+msgid "Both come in different sizes."
+msgstr "都是來自不同的大小。"
+
+msgid "Both can attach to each other."
+msgstr "都可以相互附著。"
+
+msgid "Both can combine to make different shapes."
+msgstr "都可以結合成為不同的形狀。"
+
+msgid "Both are too small to see."
+msgstr "都是太小而看不見。"
+
+msgid ""
+"Not quite. This is a true statement. Both Lego blocks and atoms come in "
+"different sizes."
+msgstr "不完全。這是一個正確的敘述。樂高磚與原子都有不同的大小。"
+
+msgid ""
+"Not quite. This is a true statement. Both Lego blocks and atoms can attach "
+"to each other."
+msgstr "不完全。這是一個正確的敘述。樂高磚和原子都可以相互附著。"
+
+msgid ""
+"Not quite. This is a true statement. Both Lego blocks and atoms can combine "
+"to make different shapes."
+msgstr "不完全。這是一個正確的敘述。樂高磚和原子都可以結合成不同的形狀。"
+
+msgid ""
+"Correct! This is not a true statement. Atoms are too small to see but you "
+"can definitely see Lego blocks."
+msgstr ""
+"答對了！這是一個正確的敘述。原子因為太小而看不見但是你絕對可以看見樂高磚。"
+
+# 20
+msgid "You've completed the Structure and Properties of Matter module."
+msgstr "你已經完成物質分子的結構與特性。"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for "
+"this module by clicking the button below."
+msgstr "你可以點擊下方的按鈕來檢查你在快速測驗與問題考驗中表現得如何。"

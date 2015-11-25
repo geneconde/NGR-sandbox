@@ -1,0 +1,1259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FoodChain\n"
+"POT-Creation-Date: 2013-09-06 17:31+0800\n"
+"PO-Revision-Date: 2014-10-16 11:32+0800\n"
+"Last-Translator: Raina\n"
+"Language-Team: Ibrahim Al-Momani,Jim Shymansky,Jigzen's Computer Services "
+"<ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: ar\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# 1
+msgid "Hello!"
+msgstr "مرحباً!"
+
+msgid "Welcome to the Food Chains review"
+msgstr "أهلاً وسهلاً بكم في مراجعة السلسلة الغذائية"
+
+# 2
+msgid "Food Chains"
+msgstr "السلاسل الغذائية"
+
+msgid "Thinking..."
+msgstr "...فكر"
+
+msgid "About Where Things Get Their Food"
+msgstr ".كيف تحصل الكائنات الحية على غذائها"
+
+msgid ""
+"People all over the world eat several times a day. Food gives us energy! If "
+"people did not eat, they would not be able to walk, dance, play or even stay "
+"alive. Every animal needs energy from food. Where does food come from?"
+msgstr ""
+"يأكل الناس حول العالم عدة مرات في اليوم.  فالغذاء يعطينا طاقة! إذا لم يأكل "
+"الناس الطعام، فلن يتمكنوا من المشي أو اللعب أو البقاء على قيد الحياة.  كل "
+"حيوان يحتاج طاقة من الطعام.  من أين يأتي الطعام؟"
+
+# 3
+msgid "Food Chains - Checking what you already know"
+msgstr "السلاسل الغذائية - تأكد مما تعرفه "
+
+msgid "Checking what you already know... about food chains"
+msgstr "تأكد  مما تعرف ... عن السلاسل الغذائية."
+
+msgid "GRASS"
+msgstr "عشب"
+
+msgid "SUN"
+msgstr "شمس"
+
+msgid "FOX"
+msgstr "ثعلب"
+
+msgid "RABBIT"
+msgstr "أرنب"
+
+msgid "rabbit"
+msgstr "أرنب"
+
+msgid ""
+"Look at the pictures and words above. In the boxes below, tap <span "
+"class='red bold blink'>ALL</span> the things on the left that depend <span "
+"class='orange bold'>directly or indirectly</span> on the thing on the right."
+msgstr ""
+"أنظر إلى الصور والكلمات الموجودة في الأعلى. في المربعات الموجودة في الأسفل، "
+"ضع <span class='red bold blink'>جميع</span>الأشياء الموجودة في اليسار والتي "
+"تعتمد <span class='orange bold'>بشكلٍ مباشر أو غير مباشر</span> على الشيء "
+"الموجود في اليمين."
+
+msgid ""
+"Which could <span class='red bold'>NOT</span> be removed without affecting "
+"<span class='green bold'>ALL</span> of the remaining things?"
+msgstr ""
+"أي منها <span class='red bold'></span>لا</span> يمكن إزالتها بدون التأثير "
+"على <span class='green bold'>جميع</span> الأشياء المتبقية؟"
+
+msgid ""
+"All living things are connected to other living things in some way. Rabbits "
+"couldn't live without grass and other plants and foxes couldn't live without "
+"rabbits and other small animals."
+msgstr ""
+"ترتبط جميع الكائنات الحية بالأشياء الحية الأخرى بطريقة معينة. الأرانب لا "
+"تستطيع ان تعيش دون العشب والنباتات الأخرى، والثعالب لا تستطيع ان تعيش دون "
+"الأرانب والحيوانات الصغيرة الأخرى."
+
+msgid ""
+"But all living things on Earth depend directly or indirectly on the <span "
+"class='darkbrown bold'>SUN</span>."
+msgstr ""
+"ولكن كل الكائنات الحية على الأرض تعتمد بشكلٍ مباشر أو بشكلٍ غير مباشر على "
+"<span class='darkbrown bold'>الشمس</span>. "
+
+msgid ""
+"Let's find out more about how living things are connected in this review."
+msgstr "دعونا نعرف المزيد عن كيف ترتبط الكائنات الحية في هذه المراجعة"
+
+# 4
+msgid "Food Chain - Reviewing Core Ideas"
+msgstr "السلسلة الغذائية - مراجعة الأفكار الأساسية"
+
+msgid "Reviewing core ideas... about food chains"
+msgstr "مراجعة الأفكار الأساسية ... حول السلاسل الغذائية"
+
+msgid ""
+"All living things are connected by energy. As we eat our hamburger, chicken "
+"and fish, it is important to know we would not be able to eat these food if "
+"plants were not around."
+msgstr ""
+"ترتبط جميع الكائنات الحية عن طريق الطاقة. ونحن نأكل الهمبرغر والدجاج "
+"والأسماك، فمن المهم أن نعرف أننا لن نتمكن من أكل هذه الأغذية إذا لم يكن هناك "
+"نباتات من حولنا\"."
+
+msgid ""
+"Plants get <span class='red bold'>energy</span> from the <span class='orange "
+"bold'>sun</span> and they pass that energy through the food that many <span "
+"class='green bold'>animals</span> including cows, chicken, and fish eat. "
+"<span class='purple bold'>Humans</span> get some of their energy from eating "
+"plants and animals."
+msgstr ""
+".تحصل النباتات على<span class='red bold'>الطاقة</span> من <span "
+"class='orange bold'>الشمس</span> وتُمَرِر هذه الطاقة من خلال الطعام الذي تأكله "
+"<span class='green bold'>الحيوانات</span>بما في ذلك لحوم البقر والدجاج "
+"والسمك الذي نأكله.  ويحصل <span class='purple bold'>البشر</span>على بعض من "
+"الطاقة بأكل النباتات والحيوانات \"."
+
+msgid ""
+"Biologists study how different living things are connected. Living things "
+"like plants, horses, lions, and humans must have energy to carry out the "
+"functions of life."
+msgstr ""
+".يدرس علماء الأحياء كيف ترتبط الكائنات الحية مع بعضها.  فالكائنات الحية "
+"كالنباتات، والخيول، والأسود، والبشر يجب أن يكون عندها طاقة كي تتمكن من "
+"الاستمرار بالحياة"
+
+msgid "Plants get their energy directly from the sun to make their own food."
+msgstr "تحصل النباتات على الطاقة من الشمس حتى تصنع غذائها."
+
+msgid "They are called <span class='orange bold'>PRODUCERS</span>."
+msgstr " تسمى <span class='orange bold'>منتجات</span>."
+
+msgid ""
+"Other living things such as animals cannot use energy directly from the sun."
+msgstr ".كائنات حية أخرى مثل الحيوانات لا تستطيع أن تستخدم الطاقة من الشمس"
+
+msgid "They must get their energy from other living things."
+msgstr ".يجب أن تحصل على طاقتها من الكائنات الحية الأخرى"
+
+msgid "They are called <span class='green bold'>CONSUMERS</span>."
+msgstr "وتسمى <span class='green bold'>مستهلكات</span>."
+
+msgid "turtle"
+msgstr "سلحفاة"
+
+msgid "panda"
+msgstr "باندا"
+
+msgid "goat"
+msgstr "خاروف"
+
+msgid "squirrel"
+msgstr "سنجاب"
+
+msgid "koala"
+msgstr "دب الكاوالا"
+
+msgid ""
+"The consumers that live only by eating producers are called <span "
+"class='orange bold'>HERBIVORES</span>. A turtle and a panda are examples of "
+"a herbivore."
+msgstr ""
+".المستهلكات التي تعيش على أكل المُنْتِجات تسمى <span class='orange bold'>آكلات "
+"النبات</span>.  فالسلحفاة والباندا هي أمثلة على آكلات النبات"
+
+msgid "SNAKE"
+msgstr "أفعى"
+
+msgid "snake"
+msgstr "أفعى"
+
+msgid "heron"
+msgstr "مالك الحزين "
+
+msgid "lion"
+msgstr "أسد"
+
+msgid "bird"
+msgstr "عصفور"
+
+msgid "crocodile"
+msgstr "تمساح"
+
+msgid ""
+"Animals that only eat other animals are called <span class='green "
+"bold'>CARNIVORES</span>. A tiger and a shark are examples of a carnivore."
+msgstr ""
+"الحيوانات التي تأكل حيوانات أخرى فقط تسمى  <span class='green bold'>آكلات "
+"اللحوم</span>.  فالنمر وسمكة القرش هي أمثلة على آكلات اللحوم."
+
+msgid "whale"
+msgstr "حوت"
+
+msgid "human"
+msgstr "إنسان"
+
+msgid "bear"
+msgstr "دب"
+
+msgid "raccoon"
+msgstr "راكون"
+
+msgid "dog"
+msgstr "كلب"
+
+msgid ""
+"If something can eat both plants and animals, they are called <span "
+"class='brown bold'>OMNIVORES</span>. Humans are one example of an omnivore."
+msgstr ""
+"أما الكائنات الأخرى التي تأكل النباتات والحيوانات تسمى <span class='brown "
+"bold'</span>القارتات</span>(آكلات اللحوم والنبات).  البشر هم أمثلة على "
+"القارتات."
+
+# 5
+msgid "Food Chain - Quick Check #1"
+msgstr "السلاسل الغذائية - إختبار سريع رقم 1 "
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1                                 "
+
+msgid "Answers"
+msgstr "الإجابات"
+
+msgid "You got"
+msgstr "أنت حصلت على"
+
+msgid "out of 6 correct answers! Review your answers below."
+msgstr "من أصل 6 إجابات صحيحة! راجع إجاباتك في الأسفل."
+
+msgid ""
+"Let's start your first exercise! Drag and drop the items at the left to the "
+"box that fits its proper characteristics at the right. Hover your mouse on "
+"each picture to know what they are."
+msgstr ""
+"دعنا نبدأ أول تمرين! اسحب الصورة الموجودة في الشكل وضعها في المربع المناسب "
+"حسب نوعها.  حرك الفأرة على الصورة لتعرف ما هي."
+
+msgid "producer"
+msgstr "منتج"
+
+msgid "consumer"
+msgstr "مستهلك"
+
+msgid "decomposer"
+msgstr "محلل"
+
+msgid "herbivore"
+msgstr "آكل نبات"
+
+msgid "carnivore"
+msgstr "آكل لحوم"
+
+msgid "omnivore"
+msgstr "قارت"
+
+msgid "horse"
+msgstr "حصان"
+
+msgid "mouse"
+msgstr "فأر"
+
+msgid "tree"
+msgstr "شجرة"
+
+msgid "polar bear"
+msgstr "دب قطبي"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+# 6
+msgid "Food Chain - More Core Ideas"
+msgstr "السلسلة الغذائية - المزيد من الأفكار الأساسية"
+
+msgid "More core ideas... about food chains"
+msgstr "أفكار إضافية ... حول السلاسل الغذائية"
+
+msgid ""
+"Living things such as mushrooms or molds are known as <span class='green "
+"bold'>DECOMPOSERS</span>."
+msgstr ""
+"الكائنات الحية مثل المشروم والفطريات تعرف <span class='green "
+"bold'>بالمحللات</span>."
+
+msgid "mushroom"
+msgstr " فطر              "
+
+msgid "slug"
+msgstr "حلزون "
+
+msgid "earthworm"
+msgstr "دودة الأرض"
+
+msgid "bacteria"
+msgstr "بكتيريا"
+
+msgid ""
+"When animals hunt other animals, this is known as <span class='orange "
+"bold'>PREDATION</span>."
+msgstr ""
+"عندما يَصطاد حيوان حيوانات أخرى، نسمي ذلك <span class='orange bold'>إفتراس</"
+"span>."
+
+msgid ""
+"The animal being hunted is the <span class='green bold'>PREY</span> and the "
+"hunter is the <span class='red bold'>PREDATOR</span>."
+msgstr ""
+"الحيوان الذي يُصطاد يسمى  <span class='green bold'>فريسة</span> والحيوان الذي "
+"يَصطاد يسمى <span class='red bold'>مُفْتَرِس</span>."
+
+msgid ""
+"The connection between different living things is called a <span "
+"class='green bold'>FOOD CHAIN</span>."
+msgstr ""
+"ويطلق على العلاقة بين الكائنات الحية المختلفة <span class='green "
+"bold'>السلسلة الغذائية</span>."
+
+msgid "FLOWER"
+msgstr "زهرة"
+
+msgid "CATERPILLAR"
+msgstr "فراشة"
+
+msgid "FROG"
+msgstr "ضفدع"
+
+msgid "RATTLESNAKE"
+msgstr "أفعى الجلجلة"
+
+msgid "HAWK"
+msgstr "صقر"
+
+msgid "hawk"
+msgstr "صقر"
+
+msgid ""
+"In this food chain, the flower is the producer. The others are consumers."
+msgstr ""
+"في هذا السلسلة الغذائية، النبته هي المنتج.  وبقية الكائنات الحية هي مستهلكات"
+
+msgid ""
+"We can label each consumer based on its place in the food chain. For "
+"example..."
+msgstr ""
+"...ويمكن أن نميز كل مستهلك بناءً على مكانه في السلسلة الغذائية.  على سبيل "
+"المثال"
+
+msgid ""
+"the caterpillar is the <span class='orange bold'>primary consumer</span>"
+msgstr "الفراشة هي <span class='orange bold'> مستهلك أولي </span>"
+
+msgid "<span class='gray small'>(primary means 'first')</span>"
+msgstr "<span class='gray small'>(أولي مشتقة من أول)</span>"
+
+msgid "the frog is the <span class='purple bold'>secondary consumer</span>"
+msgstr "الضفدع هو <span class='purple bold'>مستهلك ثانوي</span>"
+
+msgid "<span class='gray small'>(secondary means 'second')</span>"
+msgstr "<span class='gray small'>ثانوي مشتقة من ثاني)</span>"
+
+msgid "the snake is the <span class='red bold'>tertiary consumer</span>"
+msgstr "الأفعى هي  <span class='red bold'>مستهلك ثلاثي</span>"
+
+msgid "<span class='gray small'>(tertiary means 'third')</span>"
+msgstr "<span class='gray small'>(ثلاثي مشتقة من ثالث)</span>"
+
+msgid "and the hawk is the <span class='brown bold'>quaternary consumer</span>"
+msgstr "والصقر هو  <span class='brown bold'>مستهلك رباعي</span>"
+
+msgid "<span class='gray small'>(quaternary means 'fourth')</span>"
+msgstr "<span class='gray small'>(رباعي مشتقة من رابع)</span>"
+
+# 7
+msgid "Food Chain - Quick Check #2"
+msgstr " السلاسل الغذائية - إختبار سريع رقم 2 "
+
+msgid "Quick Check #2"
+msgstr "اختبار سريع رقم 2 "
+
+msgid ""
+"Look at the food chain below. Tap <span class='red bold blink'>ALL</span> "
+"the numbers below each item that corresponds to its characteristics."
+msgstr ""
+".أنظر إلى السلسلة الغذائية في الأسفل. ضع <span class='red bold blink'>جميع</"
+"span>الأرقام تحت كل من الصور التي تتوافق مع خصائصها"
+
+msgid "1=primary consumer"
+msgstr "1=أولي"
+
+msgid "2=secondary"
+msgstr "2=ثانوي"
+
+msgid "3=tertiary"
+msgstr "3=ثلاثي"
+
+msgid "4=quarternary"
+msgstr "4=رباعي"
+
+msgid "5=producer"
+msgstr "5=المنتج"
+
+msgid "out of 5 correct answers! Review your answers below."
+msgstr "من أصل 5 إجابات صحيحة! تأكد من إجاباتك أدناه."
+
+msgid "GRASSHOPPER"
+msgstr "جندب"
+
+msgid "FISH"
+msgstr "سمكة"
+
+msgid "EAGLE"
+msgstr "نسر"
+
+# 8
+msgid "Food Webs - More Core Ideas"
+msgstr "الشبكات الغذائية - المزيد من الأفكار الأساسية"
+
+msgid "Many times this chain does not fit into a neat line."
+msgstr "في كثير من الأحيان سلسلة معينة لا تشكل خطاً مستقيماً."
+
+msgid ""
+"<span class='pink'><em>For example:</em></span> a snake is not the only "
+"thing that eats a mouse, and grass gives energy to many insects and small "
+"animals on earth."
+msgstr ""
+" <span class='pink'><em>على سبيل المثال:</em></span> الأفعى ليست الحيوان "
+"الوحيد الذي يأكل الفأر. وكذلك الحال فإن العشب يعطي الكثير من الطاقة لحشرات "
+"متعددة وحيوانات صغيرة أخرى على الأرض."
+
+msgid ""
+"When someone wants to show all of these connections among consumers and "
+"producers, they use a <span class='red bold'>food web</span>. A food web "
+"shows how energy moves through the living things in a <span class='green "
+"bold'>habitat</span> - the environment in which the living things live."
+msgstr ""
+"عندما يرغب شخص ما في أن يستعرض كل العلاقات بين المستهلكات والمنتجات، فإنه "
+"يستخدم <span class='red bold'>شبكة الغذاء</span>.  تظهر الشبكة الغذائية كيف "
+"تسير الطاقة خلال الكائنات الحية في <span class='green bold'>المَسْكَن</span> - "
+"البيئة التي تعيش فيها الكائنات الحية."
+
+msgid "Example of a Food Web"
+msgstr "مثال على شبكة غذائية "
+
+# 9
+msgid "Food Webs - Quick Check #3"
+msgstr "الشبكات الغذائية - إختبار سريع رقم 3 "
+
+msgid "Quick Check #3"
+msgstr "إختبار سريع رقم 3"
+
+msgid ""
+"In the food web shown at the left, how many things <span class='orange "
+"bold'>directly or indirectly</span> provide energy for the <span "
+"class='brown purple'>snake</span>?"
+msgstr ""
+"في الشبكة الغذائية الموجودة في اليسار، كم عدد الأشياء التي تعطي <span "
+"class='orange bold'>بشكلٍ مباشر أو غير مباشر</span> طاقة إلى <span "
+"class='brown purple'>الأفعى</span>؟ "
+
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr "اقلب أو دور الصندوق في الأسفل إما للأسفل أو للأعلى لتضع إجابتك."
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "أنقر، ثبت المؤشر وحركه إلى الأعلى أو إلى الأسفل."
+
+msgid "If you answered..."
+msgstr "...إذا كانت إجابتك"
+
+msgid ""
+"Then you are right! Even though the snake does not eat grass, corn or "
+"grasshoppers, the snake eats things that eat them so the snake gets energy "
+"indirectly from these things too!"
+msgstr ""
+"فإنها صحيحة!  بالرغم من أن الأفعى لا تأكل العشب، أو الذرة أو الجنادب، ولكن "
+"الأقعى تأكل الأشياء التي تتغذى عليها.  وبالتالي فإن الأفعى تحصل على الطاقة "
+"بطريقة غير مباشرة من هذه الأشياء أيضاً!"
+
+msgid "Answer"
+msgstr "الإجابة"
+
+# 10
+msgid "Food Chain - Using What You Know"
+msgstr "السلسلة الغذائية - استخدم ما تعرف."
+
+msgid "Using what you know... about food chains... to solve a problem"
+msgstr "استخدم ما تعرف ... حول السلاسل الغذائية... كي تحل مشكلة"
+
+msgid "The Background"
+msgstr "الخلفية  "
+
+msgid ""
+"Nature maintains a balance among the plants and animals that make up the "
+"food chains in an ecosystem."
+msgstr ""
+"تحافظ الطبيعة على توازن بين النباتات والحيوانات التي تكون السلاسل الغذائية "
+"في اي نظام بيئي."
+
+msgid "For example:"
+msgstr "على سبيل المثال:"
+
+msgid ""
+"If the population of a predator gets too large, there will soon not be "
+"enough of its prey left to feed all the predators. So some of the predators "
+"will either die or must move to another location to maintain a balance."
+msgstr ""
+" إذا أصبح عدد الكائنات المفترسة كبير جداً، فلن يكون هناك من الفرائس ما يكفي "
+"لتغذية جميع الكائنات المُفتَرسة.  وبالتالي بعض هذه الكائنات المفترسة إما يموت "
+"أو يغادر إلى مكان آخر حتى يحافظ على التوازن."
+
+msgid "Your Assignment"
+msgstr "الواجب المطلوب منك:"
+
+msgid ""
+"You are the park ecologist in your town's new park. As the park ecologist, "
+"you are in charge of keeping the population of rabbits and fox in balance. "
+"You will need to decide how many rabbits and fox to put in the park to start."
+msgstr ""
+"أنت المشرف البيئي على حديقة طبيعية في بلدتك.  كمشرفومن مسؤولياتك أن تحافظ "
+"على التوازن بين أعداد الأرانب والثعالب.ستحتاج أن تقرر كم عدد الأرانب "
+"والثعالب التي يجب أن تبدأ فيها."
+
+msgid ""
+"How would you decide how many rabbits and fox you would place in the park. "
+"In the text box provided, describe the things you would have to consider so "
+"that there are enough rabbits to maintain both a stable rabbit and fox "
+"population."
+msgstr ""
+"وستحتاج أن تقرر أيضاً كم عدد الأرانب والثعالب التي يجب أن تضعها في الحديقة.  "
+"في المربع الموجود في الأسفل، أعطي وصفاً للأشياء التي يجب أن تأخذها بالإعتبار "
+"بحيث يكون هناك عدد كافٍ من الأرانب لتحافظ على التوازن بين أعداد الأرانب "
+"والثعالب."
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك ... "
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Hunting to survive..."
+msgstr "الصيد للبقاء على قيد الحياة"
+
+# 11
+msgid "Food Chain - Summarize Core Ideas"
+msgstr "السلسلة الغذائية - تلخيص الأفكار الأساسية"
+
+msgid "Summarizing core ideas... about food chains"
+msgstr "تلخيص الأفكار الأساسية... حول السلاسل الغذائية"
+
+msgid ""
+"A <span class='red bold'>food chain</span> shows the movement of energy "
+"through living things."
+msgstr ""
+"تُظْهِر <span class='red bold'>السلسلة الغذائية</span> كيفية سريات الطاقة خلال "
+"الكائنات الحية."
+
+msgid ""
+"<span class='green bold'>Producers</span> such as grasses, vegetables and "
+"fruits get their energy directly from the sun and change it into food that "
+"they then use themselves and other living things."
+msgstr ""
+"<span class='green bold'>المنتجات</span> كالأعشاب، والخضروات، والفواكه تحصل "
+"على الطاقة مباشرة من الشمس وتحولها إلى غذاء مستخدمة فيما بعض من هذه الأعشاب "
+"أو من الكائنات الحية الأخرى."
+
+msgid ""
+"<span class='purple bold'>Consumers</span> such as birds, fish, and people "
+"cannot use energy directly from the sun to make their own food. Instead, "
+"consumers get their energy indirectly from the sun by eating producers or "
+"other consumers."
+msgstr ""
+"<span class='purple bold'>المستهلكات</span>كالطيور، والأسماك، والبشر لا "
+"تستطيع استخدام الطاقة مباشرة من الشمس كي تصنع غذائها. وبدلاً من ذلك، تحصل "
+"المستهلكات على الطاقة من الشمس بأكل المنتجات أو بأكل المستهلكات الأخرى."
+
+msgid ""
+"The place of all living things in the food chain depends on how they get "
+"their <span class='orange bold'>food or energy</span>."
+msgstr ""
+"يعتمد موقع جميع الكائنات الحية في السلسلة الغذائية على كيفية حصولها على "
+"<span class='orange bold'>الغذاء أو الطاقة</span>."
+
+# 12
+msgid "Food Chain - Reviewing Key Vocabulary"
+msgstr "السلسلة الغذائية - مراجعة المفردات الرئيسية"
+
+msgid "Reviewing key vocabulary related to... food chains"
+msgstr "مراجعة المصطلحات المرتبطة...  بالسلاسل الغذائية"
+
+msgid "Food Chain"
+msgstr "السلسلة الغذائية"
+
+msgid ""
+"A food chain is similar to a food web in that it shows the interactions "
+"between prey and predators in an ecosystem. However, unlike a food web which "
+"shows multiple interactions between prey and predators, a food chain shows "
+"just one linear \"ladder\" of interactions, and not all that are in an "
+"ecosystem."
+msgstr ""
+"لسلسلة الغذائية مشابهة لشبكة الغذاء في انها تُظهر التفاعلات بين الفريسة "
+"والمفترسات في النظام البيئي. ولكن، على عكس الشبكة الغذائية، التي تُظهر "
+"تفاعلات متعددة بين الفريسة والحيوانات المفترسة، تُظهر السلسلة الغذائية سُلَم "
+"خطي واحد من التفاعلات، ولا تُظهر جميع العلاقات الموجودة في النظام البيئي."
+
+msgid "Food Web"
+msgstr "شبكة غذائية"
+
+msgid "Producer"
+msgstr "منتج"
+
+msgid ""
+"Producers are organisms that use the sun's energy through photosynthesis."
+msgstr ""
+"المنتجات هي الكائنات التي تستخدم طاقة الشمس من خلال عملية التمثيل الضوئي."
+
+msgid ""
+"Plants get their energy directly from the sun to make their own food. So "
+"they are called producers."
+msgstr ""
+"تحصل النباتات على الطاقة مباشرة من الشمس لصنع المواد الغذائية الخاصة بها.  "
+"لذلك يطلق عليها المنتجات."
+
+msgid "Consumer"
+msgstr "مستهلك"
+
+msgid ""
+"Consumers are organisms that cannot produce their own energy from the sun "
+"for food; they must consume other organisms."
+msgstr ""
+"المستهلكات هي الكائنات الحية التي لا يمكن أن تصنع الطاقة الخاصة بها من الشمس "
+"كي تتغذى؛ وإنما يجب أن تستهلك كائنات لحية أخرى."
+
+msgid ""
+"Living things such as animals cannot use energy from the sun for food. They "
+"must get their energy from other living things. So they are called consumers."
+msgstr ""
+"الكائنات الحية مثل الحيوانات التي لا يمكن أن تستخدم طاقة الشمس لإنتاج "
+"الغذاء. وإنما يجب أن تحصل على طاقتها من الكائنات الحية الأخرى. ولذلك يطلق "
+"عليها المستهلكات."
+
+msgid "Herbivore"
+msgstr "آكل نبات"
+
+msgid ""
+"Herbivores are creatures that eat only producers, such as plants and algae, "
+"for food."
+msgstr ""
+"الكائنات الحية مثل الحيوانات التي لا يمكن أن تستخدم طاقة الشمس لإنتاج "
+"الغذاء، وإنما يجب أن تحصل على طاقتها من الكائنات الحية الأخرى.  لذلك تسمى "
+"مستهلكات."
+
+msgid "Because it only eats plants, an elephant is an example of an herbivore."
+msgstr "لأنه يأكل النباتات فقط، يعتبر الفيل مثال لأكلات الأعشاب."
+
+msgid "Carnivore"
+msgstr "آكل لحوم"
+
+msgid "A carnivore is an organism that feeds only on meat."
+msgstr "أكل اللحوم هو كائن حي يتغذى فقط على اللحوم."
+
+msgid ""
+"A polar bear is the largest land carnivore. It eats mainly fish and seals. "
+"Even your pet cat or dog is a carnivore. Birds such as eagles, hawks, and "
+"falcons are also carnivores. There are even some carnivorous plants, such as "
+"the Venus flytrap, which eats insects."
+msgstr ""
+"الدب القطبي هو أكبر أكلة اللحوم الأرض. يأكل أساسا الأسماك والأختام. حتى القط "
+"حيوان أليف أو كلب هو أكلة اللحوم. الطيور مثل النسور والصقور بأنواعها هي أيضا "
+"حيوانات آكلة لحوم . بل هناك بعض النباتات آكلة اللحوم، مثل فينوس صائدة "
+"الذباب، والتي تأكل الحشرات."
+
+msgid "Decomposer"
+msgstr "محلل"
+
+msgid ""
+"Decomposers, such as fungi, are consumers that feed off of living things "
+"that die."
+msgstr "المحللات مثل الفطريات، هي مستهلكات تتغذى على الكائنات الحية التي تموت."
+
+msgid ""
+"Living things such as mushrooms or molds are known as decomposers, because "
+"they feed off of dead organisms."
+msgstr ""
+"الكائنات الحية مثل فطر المشروم أو العفن تعرف كمحللات، لأنها تتغذى على "
+"الكائنات الميتة."
+
+msgid "Predation"
+msgstr "إفتراس"
+
+msgid "When animals hunt other animals, this is known as predation."
+msgstr "عندما تصطاد حيوانات تصطاد حيوانات أخرى، وهو ما يعرف الافتراس."
+
+msgid ""
+"In predation, the creature being hunted is the prey and the hunter is the "
+"predator."
+msgstr "في الافتراس، الكائن الذي يجري اصطياده هو الفريسة والصياد هو المفترس."
+
+msgid "Predator"
+msgstr "مفترس"
+
+msgid "Animals that hunt, attack, and eat other animals are called predators."
+msgstr ""
+"الحيوانات التي تضطاد، وتهجم على غيرها من الحيوانات وتأكلها تسمى حيوانات "
+"مفترسة."
+
+msgid ""
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"المفترسات تشتمل على الأسود والنمور، وأسماك القرش . الكلاب والقطط هي أيضا "
+"حيوانات مفترسة، ولكن الناس يعطيهم الطعام حتى لا تحتاج أن تصطاد.  الحيوانات "
+"المفترسة التي تعيش في البرية يجب أن تكون ما هرة في الصيد، أو أنها لن تجد  "
+"طعام لتأكل."
+
+msgid "Prey"
+msgstr "فريسة"
+
+msgid "Animals that are hunted and eaten by other animals are called prey."
+msgstr "الحيوانات التي تُصطاد وتُؤكَل من قبل حيوانات أخرى تسمى فرائس."
+
+msgid ""
+"Prey animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals make easier "
+"prey for the animals that hunt them."
+msgstr ""
+"لحيوانات الجارحة غالبا ما يكون لها علامات خاصة تساعدها على أن تنسجم مع "
+"محيطها بحيث تكون أكثر صعوبة للعثور عليها.  الحيوانات الضعيفة أو المريضة تكون "
+"فريسة سهلة للحيوانات التي تصطادها."
+
+msgid ""
+"Plants are called nature's producers because they use sunlight to produce "
+"food for themselves and for other animals to eat. Producers are important to "
+"every living thing."
+msgstr ""
+"تسمى النباتات بالمنتجات الطبيعية لأنها تستخدم ضوء الشمس لتنتج طعام لنفسها "
+"ولبقية الحيوانات.  والمنتجات مهمة لكل كائن حي."
+
+msgid ""
+"A carnivore is an animal that feeds only on meat. A polar bear is the "
+"largest land carnivore. It eats mainly fish and seals, even your pet cat or "
+"dog is a carnivore. Birds such as eagles, hawks, and falcons are also "
+"carnivores. There are even some carnivorous plants, such as the Venus "
+"flytrap, which eats insects."
+msgstr ""
+"آكل اللحوم هو حيوان يتغذى فقط على اللحوم.  الدب القطبي هو أكبر آكل لحوم "
+"بري.  حتى الكلاب والقطط هي آكلة لحوم.  الطيور مثل النسور، والصقور هي أيضاً "
+"آكلات لحوم.  هناك أيضاً آكلات لحوم من النباتات مثل النبات صائد الحشرات الذي "
+"يأكل الحشرات."
+
+msgid ""
+"A consumer is someone or something that uses things up. You might also hear "
+"the term consumer used to mean a person who buys things at a store. This is "
+"because people use the things that they buy."
+msgstr ""
+"المُسْتَهلِك هو الكائن الذي يستهلك الأشياء.  ويمكنك أيضاً أن تسمع مصطلح مستهلك "
+"للشخص الذي يشتري الأشياء من الدكان.  والسبب هو أن الناس تستهلك الأشياء التي "
+"يشترونها."
+
+msgid ""
+"To decompose means to break down into simpler forms or components. Items "
+"that have decomposed no longer look the way they used to."
+msgstr ""
+"يتحلل يعني يتكسر إلى أشكال أصغر أو إلى مكونات.  الأشياء التي تتحلل لن تبدو "
+"بالشكل الذي كانت عليه. "
+
+msgid ""
+"When living things die, they decompose or are changed into simpler and "
+"different forms. However, these new forms do not disappear. They become part "
+"of the soil and provide food for other living things. For example, "
+"earthworms eat fallen leaves or dead grasses that have started to decompose."
+msgstr ""
+" عندما تموت الأشياء، تتحلل أو تتغير إلى أشكال مختلفة أصغر حجماً.  ومع ذلك، "
+"هذه الأشكال الجديدة  لا تختفي.  وهي تصبح جزء من التربة وتصبح طعاماً لكائنات "
+"حية أخرى.  على سبيل المثال، تأكل دودة الأرض اوراق الشجر المتساقطة أو الأعشاب "
+"الميتة التي بدأت بالتحلل."
+
+msgid "prey"
+msgstr "فريسة"
+
+msgid ""
+"Animals that are hunted and eaten by other animals are called prey. Prey "
+"animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals that are weak "
+"or sick make easier prey for the animals that hunt them."
+msgstr ""
+"الحيوان الذي يُصطاد ويؤكل بواسطة حيوانات أخرى يسمى فريسة.  الفرائس الحيوانية "
+"عادة ما يكون بها علامات خاصة تساعدها على التخفي في المحيط الذي تعيش به بحيث "
+"يكون من الصعب إيجادها.  الحيوانات الضعيفة أو المريضة تكون فريسة أسهل "
+"للحيوانات التي تفترسها."
+
+msgid "predator"
+msgstr "مفترس"
+
+msgid ""
+"Animals that hunt, attack, and eat other animals are called predators. "
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"الحيوانات التي تصيد وتأكل الحيوانات الأخرى تسمى مُفترسة.  الحيوانات المُفترِسة "
+"تشمل  الأسود والنمور وأسماك القرش.  الكلاب والقطط هي أيضاً حيوانات مُفترِسة، "
+"لكن الناس يعطوها طعام بحيث لا تحتاج أن تصطاد.  الحيوانات المُفترسِة التي تعيش "
+"في البرية.  المُفترسِات يجب أن تكون قادرة على الصيد بشكلٍ جيد، أو أنها لن تجد "
+"الطعام كي تأكل."
+
+msgid "food web"
+msgstr "شبكة غذائية"
+
+msgid ""
+"A food web shows you which living things eat which other living things. Food "
+"webs are very helpful for learning about the feeding relationships between "
+"living things that share space. For example, you would look at a jungle food "
+"web to see what living things eat other living things in a jungle."
+msgstr ""
+"تظهر الشبكة الغذائية الكائنات الحية التي تأكل كائنات حية أخرى.  الشبكات "
+"الغذائية تساعد في تحسين فهم كيف تكون علاقات التغذية بين الأشياء الحية التي "
+"تشترك معها بالمكان.  على سبيل المثال، يمكنك النظر لشبكة غذاء في غابة لترى ما "
+"تأكله بعض الحيوانات من حيوانات أخرى في الغابة."
+
+msgid ""
+"A food web shows the names of different living things and has arrows that "
+"point from each living thing being eaten to the living thing that is eating "
+"it."
+msgstr ""
+"وتظهر شبكة الغذاء أسماء مختلف الأشياء الحية وفيها أسهم تشير لكل كائن حي يؤكل "
+"من حيوانات أخرى"
+
+msgid "habitat"
+msgstr "مَسكَن "
+
+msgid ""
+"A habitat is a place where a plant or animal lives. A forest is one type of "
+"habitat that covers a large part of Earth. A rainforest is a specific type "
+"of habitat that has many trees. It is a good habitat for animals such as "
+"birds, bats, and monkeys."
+msgstr ""
+"المَسْكَن هو المكان الذي يعيش فيه حيوان أو نبات.  الغابة هي نوع من أنواع "
+"المساكن تغطي جزءً كبيراً من الأرض.  الغابة المطيرة هي نوع محدد من المساكن فيها "
+"الكثير من الأشجار.  وهي مسكن جيد للحيوانات مثل العصافير، والوطاويط، والقرود"
+
+msgid ""
+"Because there is much water in the rainforest, it is a good habitat for many "
+"plants. Plants living in this type of habitat grow to be very large and have "
+"very big leaves."
+msgstr ""
+"لأن هناك الكثير من المياه في الغابات المطيرة، تعتبر مساكن جيدة للكثير من "
+"النباتات. النباتات التي تعيش في هذا النوع من المساكن تنمو لتكون كبيرة جدا "
+"ولها أوراق كبيرة ايضاً."
+
+# 13
+msgid "Checking what you now know... about food chains"
+msgstr "تأكد مما تعرف ... عن السلاسل الغذائية"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "فيما يلي 6 أسئلة قصيرة ستعطيك فكرة عما تعرف الآن وماذا تحتاج أن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "أضغط على زر بعد عندما تكون مستعداً. "
+
+# 14
+msgid "Quiz Question #1"
+msgstr "السؤال رقم 1"
+
+msgid "out of 7 correct answers! Review your answers below."
+msgstr "من أصل 7 إجابات صحيحة! مراجعة إجاباتك أدناه"
+
+msgid ""
+"Activate <span class='red bold blink'>ALL</span> the buttons that describe "
+"each living thing in the first column."
+msgstr ""
+"فَعِّل <span class='red bold blink'>جميع</span> الأزرار التي تصف كل كائن حي في "
+"العمود الأول"
+
+msgid "makes own<br/>food"
+msgstr "يصنع <br/>غذائه بنفسه     "
+
+msgid "gets food<br/>from<br/>producers"
+msgstr "يحصل على الطعام <br/>من<br/> المنتج"
+
+msgid "is a<br/>herbivore"
+msgstr "a<br/>آكل نبات"
+
+msgid "is a<br/>carnivore"
+msgstr "<br/>آكل اللحوم"
+
+msgid "is an<br/>omnivore"
+msgstr "<br/>قارت"
+
+msgid "ants"
+msgstr "نمل"
+
+msgid "mice"
+msgstr "فئران"
+
+msgid "cactus"
+msgstr "صَبَّار "
+
+msgid "bushes"
+msgstr "شجيرات "
+
+msgid "cougar"
+msgstr "أسد امريكي"
+
+# 15
+msgid "Food Chain - Quiz Question #2"
+msgstr "السلسلة الغذائية - السؤال رقم 2"
+
+msgid "Quiz Question #2"
+msgstr "السؤال رقم 2"
+
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"the images that trace the energy in each case. Tap the images again to "
+"deselect."
+msgstr ""
+"أنظر إلى السلسلة الغذائية واضغط على <span class='red bold blink'>جميع</"
+"span>الصور التي تتبع الطاقة في كل حالة.  إضغط الشاشات مرة أخرى لإلغاء "
+"الاختيار الأول."
+
+msgid "out of 4 correct answers! Review your answers below."
+msgstr "من أصل 4 إجابات صحيحة! راجع إجاباتك أدناه"
+
+msgid ""
+"Where does the <span class='darkyellow'>tertiary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"من أين يأتي <br/>المستهلك <span class='darkyellow'>الثلاثي</span> بالطاقة؟"
+
+msgid ""
+"Where does the <span class='darkgreen'>secondary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"من أين يأتي <br/>المستهلك <span class='darkgreen'>الثانوي</span> بالطاقة؟"
+
+msgid ""
+"Where does the <span class='pink'>quaternary</span> consumer<br/>get its "
+"energy?"
+msgstr "من أين يأتي <br/>المستهلك <span class='pink'>الرباعي</span> بالطاقة؟"
+
+msgid ""
+"Where does the <span class='darkorange'>primary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"من أين يأتي <br/>المستهلك <span class='darkorange'>الأولي</span> بالطاقة؟"
+
+# 16
+msgid "Food Chain - Quiz Question #3"
+msgstr "السلسلة الغذائية - السؤال رقم 3"
+
+msgid "Quiz Question #3"
+msgstr "السؤال رقم 3"
+
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"appropriate answers for each question. Tap the images again to deselect."
+msgstr ""
+"أنظر إلى السلسلة الغذائية في الأسفل واضغط على <span class='red bold "
+"blink'>جميع</span> الصور المناسبة كإجابات لكل سؤال. إضغط على الصور مرة أخرى "
+"لإلغاء الأمر."
+
+msgid "CORN"
+msgstr "ذرة"
+
+msgid "MOUSE"
+msgstr "فأر"
+
+msgid "OWL"
+msgstr "بومة"
+
+msgid "Identify the <span class='darkorange'>secondary</span> consumers."
+msgstr "حدد المستهكات <span class='darkorange'>الثانوية</span>."
+
+msgid "Identify the <span class='darkgreen'>herbivores</span>."
+msgstr "حدد <span class='darkgreen'>آكلات النبات</span>."
+
+msgid "Identify the <span class='darkyellow'>producers</span>."
+msgstr "حدد <span class='darkyellow'>المنتجات</span>."
+
+msgid "Identify the <span class='pink'>consumers</span>."
+msgstr "حدد <span class='pink'>المستهلكات</span>."
+
+# 17
+msgid "Food Chain - Quiz Question #4"
+msgstr "السلسلة الغذائية - السؤال رقم 4"
+
+msgid "Quiz Question #4"
+msgstr "السؤال رقم 4"
+
+msgid ""
+"Click the image to select your answer to this question: Animals that feed on "
+"plants and animals are known as... ?"
+msgstr ""
+"إضغط على الصورة لتختار إجابتك للسؤال التالي: تسمى الحيوانات التي تتغذى على "
+"النباتات والحيونات ...؟ "
+
+msgid "Herbivores"
+msgstr "آكلات الأعشاب"
+
+msgid "Dinosaurs"
+msgstr "ديناصورات"
+
+msgid "Carnivores"
+msgstr "آكلات اللحوم"
+
+msgid "Omnivores"
+msgstr "قارتات"
+
+msgid "HERBIVORES"
+msgstr "آكلات النبات"
+
+msgid "DINOSAURS"
+msgstr "ديناصورات"
+
+msgid "CARNIVORES"
+msgstr "آكلات اللحوم"
+
+msgid "OMNIVORES"
+msgstr "قارتات"
+
+msgid "You got it right!"
+msgstr "!هذا صحيح"
+
+msgid "Animals that feed on plants and animals are known as Omnivores."
+msgstr "الحيوانات التي تتغذى على النباتات والحيوانات الأخرى معروفة بالقارتات."
+
+msgid "Nope!"
+msgstr "لاااااا!"
+
+msgid "A carnivore is an animal that only eats other animals, not plants."
+msgstr ""
+"آكل اللحوم هو الحيوان الذي لا يأكل إلا الحيوانات، ولا يأكل النبات مطلقاً."
+
+msgid "Sorry."
+msgstr "للأسف."
+
+msgid "A herbivore is an animal that only eat plants, not other animals."
+msgstr "آكل النبات هو حيوان لا يأكل إلا النبات، ولا يأكل الحيوانات الأخرى."
+
+msgid "Not quite."
+msgstr "ليس صحيحاً."
+
+msgid "Some dinosaurs used to eat only plants, some ate only animals."
+msgstr " بعض الديناصورات كانت تأكل النبات فقط، وبعضها كان يأكل الحيوانات فقط."
+
+# 18
+msgid "Food Chain - Quiz Question #5"
+msgstr "السلسلة الغذائية - السؤال رقم 5"
+
+msgid "Nope! Plants are not considered prey."
+msgstr "لااااا! النبات لا يعتبر فريسة."
+
+msgid "a bee getting a nectar from a flower"
+msgstr ".تحصل نحلة على الرحيق من زهرة"
+
+msgid "Nope! Carrots are plants and not considered prey."
+msgstr ".لا! الجزر عبارة عن نبات ولا يعتبر فريسة"
+
+msgid "a rabbit feeding on a carrot"
+msgstr "أرنب يتغذى على جزرة."
+
+msgid "You are correct!"
+msgstr "!إجابتك صحيحة"
+
+msgid "a lion hunting a zebra"
+msgstr "أسد يصطاد حمار وحشي "
+
+msgid ""
+"Nope! A mushroom is not considered a predator nor is tree bark considered "
+"prey."
+msgstr ".لااااا! لا يعتبر الفطر مفترس ولا يعتبر لحاء الشجرة فريسة"
+
+msgid "a mushroom feeding on a tree bark"
+msgstr "فطر يتغذى على لحاء شجرة"
+
+msgid "Quiz Question #5"
+msgstr "السؤال رقم 5"
+
+msgid "Which of the following is an example of a predator-prey relationship?"
+msgstr "أي من الآتي يعتبر مثالاً للعلاقة بين الفريسة والمفترس؟ "
+
+msgid "You answered..."
+msgstr "... إجابتك هي  "
+
+msgid "A"
+msgstr "أ"
+
+msgid "B"
+msgstr "ب"
+
+msgid "C"
+msgstr "ج"
+
+msgid "D"
+msgstr "د"
+
+# 19
+msgid "Food Chain - Quiz Question #6"
+msgstr "السلسلة الغذائية - السؤال رقم 6"
+
+msgid "Decomposers only eat dead plants and animals."
+msgstr ". تأكل المحللات نباتات وحيوانات ميتة فقط "
+
+msgid "Decomposers don't hunt or eat other living things."
+msgstr ".لا تصطاد المحللات ولا تأكل كائنات حية أخرى"
+
+msgid "Only plants can make energy from the sun."
+msgstr ".النبات فقط يستطيع صنع الطاقة من الشمس"
+
+msgid "D. to feed on dead material"
+msgstr "د. كي يتغذى على مواد ميتة"
+
+msgid "Quiz Question #6"
+msgstr "السؤال رقم 6"
+
+msgid "Which role does a decomposer play in a food chain?"
+msgstr " أي دور يلعب مُحَلِلْ في سلسلة غذائية؟   "
+
+msgid "to consume living plants"
+msgstr " ليستهلك النباتات الحية"
+
+msgid "to hunt herbivores"
+msgstr "ليصطاد آكلات النبات "
+
+msgid "to make its own food from the sun"
+msgstr " ليصنع غذائه من الشمس "
+
+msgid "to feed on dead material"
+msgstr "ليتغذى على مواد ميتة"
+
+msgid "Then you are correct!"
+msgstr "!فهي صحيحة"
+
+msgid ""
+"Decomposers are consumers because they feed off the living things that die."
+msgstr ""
+".المحللات هي عبارة عن مستهلكات لأنها تتغذى على الكائنات الحية التي تموت"
+
+# 20
+msgid "End of Review"
+msgstr "نهاية المراجعة"
+
+msgid "Congratulations"
+msgstr "مبروك،"
+
+msgid "You've completed this Food Chains review."
+msgstr "أكملت هذه المراجعة للسلسلة الغذائية"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz' questions for this "
+"review by clicking the button below."
+msgstr ""
+".بإمكانك التأكد كيف كانت إجابتك على الأسئلة السريعة لهذه المراجعة بالنقر على "
+"الزر في الأسفل"
+
+msgid "Go To Dashboard"
+msgstr "إذهب إلى اللوحة المخططة "
+
+msgid "How did I do?"
+msgstr "كيف كان أداؤك؟"
+
+# Transitions
+msgid "Let's begin!"
+msgstr "!دعنا نبدأ"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد يا؟"
+
+msgid "Next part coming up!"
+msgstr "!الجزء التالي سيظهر حالاً"
+
+msgid "Wait for it... wait for it..."
+msgstr "...إنتظر حتى يظهر... إنتظر حتى يظهر"
+
+msgid "Preparing your first quick check!"
+msgstr "!التحضير لأول إختبار"
+
+msgid "Guess what's next?"
+msgstr "إحزر ما التالي؟"
+
+msgid "Loading in 5,4,3,2...."
+msgstr "...جاري التحميل  5، 4 ، 3 ، 2"
+
+msgid "Spiders are weaving the webs!"
+msgstr "!عناكب تغزل الشبكات"
+
+msgid "Another quick check on the way!"
+msgstr "!إختبار سريع آخر بطريقه إليك"
+
+msgid "Walking to sunny meadows..."
+msgstr "...إمشي إلى المروج المشمسة"
+
+msgid "Putting it all together..."
+msgstr "...ضعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف"
+
+msgid "And the first quiz question is..."
+msgstr "...وأول سؤال سريع هو"
+
+msgid "A quiz question on food chains..."
+msgstr "...سؤال سريع عن السلاسل الغذائية"
+
+msgid "Let's do another one!"
+msgstr "...دعنا نعمل واحد آخر"
+
+msgid "Isn't this exciting?"
+msgstr "أليس هذا ممتعاً؟"
+
+msgid "Last two!"
+msgstr "آخر إثنين!"
+
+msgid "Almost over, almost over"
+msgstr "إنتهى تقريباً، إنتهى تقريباً"
+
+msgid "You're done!"
+msgstr "لقد أنهيت!"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read more"
+msgstr "إقرأ المزيد"
+
+msgid "Check answer"
+msgstr "تأكد من الإجابة"

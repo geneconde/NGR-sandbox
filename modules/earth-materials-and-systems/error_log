@@ -1,0 +1,18 @@
+[20-Jun-2014 02:04:58 America/Denver] PHP Parse error:  syntax error, unexpected 'Blue' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/2.php on line 87
+[20-Jun-2014 02:05:01 America/Denver] PHP Parse error:  syntax error, unexpected 'Blue' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/2.php on line 87
+[20-Jun-2014 02:06:26 America/Denver] PHP Parse error:  syntax error, unexpected 'Blue' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/5.php on line 262
+[20-Jun-2014 02:06:30 America/Denver] PHP Parse error:  syntax error, unexpected 'Blue' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/5.php on line 262
+[20-Jun-2014 02:13:43 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/5.php on line 287
+[20-Jun-2014 03:40:47 America/Denver] PHP Parse error:  syntax error, unexpected 'stuff' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/14.php on line 122
+[20-Jun-2014 03:41:16 America/Denver] PHP Parse error:  syntax error, unexpected 'stuff' (T_STRING) in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/earth-materials/14.php on line 122
+[24-Jun-2014 09:56:10 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[24-Jun-2014 23:38:17 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[30-Jun-2014 08:50:07 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[30-Jun-2014 20:04:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-Jul-2014 01:18:59 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[03-Jul-2014 00:28:04 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[15-Jul-2014 04:38:52 America/Denver] PHP Fatal error:  Call to undefined function echo_() in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/earth-materials-and-systems/5.php on line 318
+[15-Jul-2014 04:38:56 America/Denver] PHP Fatal error:  Call to undefined function echo_() in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/earth-materials-and-systems/5.php on line 318
+[15-Jul-2014 04:39:02 America/Denver] PHP Fatal error:  Call to undefined function echo_() in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/earth-materials-and-systems/5.php on line 318
+[28-Jul-2014 22:44:14 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/earth-materials-and-systems/6.php on line 7
+[05-Dec-2014 04:31:25 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17

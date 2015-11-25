@@ -1,0 +1,189 @@
+{
+ "words": [
+  [
+   "scary?", 
+   0, 
+   1
+  ], 
+  [
+   "well,", 
+   1, 
+   1.5
+  ],
+  [
+   "it", 
+   1.6, 
+   1.7
+  ],
+  [
+   "might be", 
+   1.8, 
+   2
+  ],
+  [
+   "if", 
+   2.1, 
+   2.3
+  ],
+  [
+   "you were", 
+   2.3, 
+   2.5
+  ],
+  [
+   "a bacterium", 
+   2.6, 
+   3.1
+  ],
+  [
+   "instead of a person.", 
+   3.2, 
+   4.5
+  ],
+  [
+   "All", 
+   4.7, 
+   5
+  ],
+  [
+   "living things", 
+   5.2, 
+   5.5
+  ],
+  [
+   "are", 
+   5.6, 
+   5.8
+  ],
+  [
+   "made of cells.", 
+   5.9, 
+   7
+  ],
+  [
+   "Cells are responsible", 
+   7.5, 
+   8.7
+  ],
+  [
+   "for all of", 
+   8.7, 
+   9
+  ],
+  [
+   "the complex processes", 
+   9.2, 
+   10.5
+  ],
+  [
+   "that keep", 
+   10.7, 
+   11
+  ],
+  [
+   "all living things alive", 
+   11.1, 
+   12.8
+  ],
+  [
+   "Some of the processes", 
+   12.9, 
+   14.2
+  ],
+  [
+   "are simple,", 
+   14.3, 
+   15.5
+  ],
+  [
+   "and can be", 
+   15.4, 
+   16
+  ],
+  [
+   "performed by simple cells.", 
+   16.2, 
+   17.9
+  ],
+  [
+   "Others", 
+   18, 
+   18.3
+  ],
+  [
+   "are much more complicated,", 
+   18.4, 
+   20.1
+  ],
+  [
+   "and must be", 
+   20.2, 
+   21
+  ],
+  [
+   "handled by cells", 
+   21.1, 
+   21.9
+  ],
+  [
+   "that are highly", 
+   22, 
+   23
+  ],
+  [
+   "specialized to handle", 
+   23.1, 
+   24
+  ],
+  [
+   "complex chemical", 
+   24.1, 
+   25.5
+  ],
+  [
+   "and", 
+   25.6, 
+   26
+  ],
+  [
+   "structural problems", 
+   26.1, 
+   27.8
+  ],
+  [
+   "Sound pretty complex?", 
+   27.9, 
+   29.5
+  ],
+  [
+   "That’s OK.", 
+   29.6, 
+   30.5
+  ],
+  [
+   "In this module,", 
+   30.6, 
+   31
+  ],
+  [
+   "we’ll focus", 
+   31.1, 
+   32.5
+  ],
+  [
+   "on the cells", 
+   32.6, 
+   33.5
+  ],
+  [
+   "most familiar to us", 
+   33.6, 
+   35
+  ],
+  [
+   "human cells.", 
+   35.1, 
+   36
+  ]
+ ]
+}

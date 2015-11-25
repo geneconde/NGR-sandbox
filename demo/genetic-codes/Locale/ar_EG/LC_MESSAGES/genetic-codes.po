@@ -1,0 +1,1520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genetic Codes\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+# Global
+msgid "Genetic Codes "
+msgstr "الشيفرات  الوراثية"
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Read More"
+msgstr "اقراء المزيد"
+
+msgid "Check Answer"
+msgstr "تحقق من الإجابة"
+
+msgid "Close me!"
+msgstr "أغلقني!"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار قصير رقم 4"
+
+msgid "Quick Check #5"
+msgstr "اختبار قصير رقم 5"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف عملت؟"
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Genetic Codes"
+msgstr "شيفرات الوراثية"
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك"
+
+msgid "Putting it all together..."
+msgstr "جمعها مع بعضها..."
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف حالياً"
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول ..."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدير الصندوق وحدد إجابتك."
+
+# 14
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+# 1
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Welcome to the Genetic Codes review"
+msgstr "أهلا بكم في مراجعة الشيفرة الوراثية"
+
+# 2
+msgid "Thinking about... genetic codes"
+msgstr "فكر في... الشيفرات الوراثية"
+
+msgid ""
+"The first thing most people think about when they see a new baby is who she "
+"or he looks like... Does she have her mother's nose? Her father's eyes? Does "
+"he seem to resemble a grandfather who passed away many years ago? Some "
+"people think these observations are silly, that each new person is unique. "
+"But they're not silly. We resemble our family members for a reason. We share "
+"something very important–the information that makes us what we are–our "
+"genetic codes."
+msgstr ""
+"أول سؤال يخطر على بال أي شخص عندما يرى مولود جديد هو من يشبه...  هل أنفه "
+"يشبه أنف والدته؟ هل عيناه مثل والديه؟ هل يشبه جده الذي توفي منذ سنين عدة؟ "
+"يعتقد بعض الناس أن هذه الملاحظات سخيفة، لأن كل إنسان جديد لديه شكل خاص به.  "
+"نحن نشبه افراد عائلاتنا لسبب ما .  و نتشارك في شيء مهم- المعلومات التي "
+"تشكلنا يطلق عليها اسم الشيفرات الوراثية."
+
+# 3
+msgid "Checking what you know... about genetic codes"
+msgstr "تحقق من ما تعرفه ... حول الشيفرات الوراثية"
+
+msgid ""
+"Click in the right column the most likely outcomes determined by the events "
+"shown in the left column."
+msgstr ""
+"أنقر على العمود في الجهة اليمنى والذي  تتحدد نتائجه على الأغلب من خلال "
+"الأحداث الظاهرة في العامود في الجهة اليسرى."
+
+msgid "Two parents contribute to the genetic makeup of children."
+msgstr "يساهم كلا الأبوين في التركيب الجيني لأطفالهم"
+
+msgid "Children always look most like their fathers."
+msgstr "دائما يشبه الأطفال أبائهم."
+
+msgid "Children always look most like their mothers."
+msgstr "دائما يشبه الأطفال أماهاتهم."
+
+msgid "Children inherit characteristics from both parents."
+msgstr "يرث الأطفال صفات من كلا الوالدين."
+
+msgid ""
+"A child inherits one gene for ear shape from one parent, and a different "
+"gene for ear shape from the other parent."
+msgstr ""
+"يرث الطفل جين واحد لشكل الأذن من أحد الوالدين، ويرث جين أخر لشكل الأذن "
+"الأخرى من الوالد الأخر. "
+
+msgid "The child has two different ear shapes."
+msgstr "لدى الطفل شكل أذنين مختلفين عن بعضهما البعض."
+
+msgid "The child's ears are shaped like that of one of the parents only."
+msgstr "تشبه أذن الطفل أذن أحد والديه فقط."
+
+msgid "The child is born without ears."
+msgstr "يولد الطفل من دون أذنين."
+
+msgid ""
+"Children inherit about half of their characteristics from each parent. Two "
+"parents contribute to the genetic makeup of children. In the case of a trait "
+"such as ear shape, a child inherits one gene from one parent and a different "
+"gene for ear shape from the other parent. While we inherit traits from both "
+"parents, only one may show itself at a time. Read on to learn more about "
+"genetic codes and how traits are passed on."
+msgstr ""
+"يرث الأطفال تقريبا نصف صفاتهم من والديهم.  يساهم كلا الأبوين في التركيب "
+"الجيني لأطفالهم.  بخصوص السمات  مثل شكل الأذن، يرث الطفل جين واحد من كلا "
+"الوالدين ليحدد شكل الأذن. بينما نرث السمات من كلا الوالدين، واحدة فقط يمكن "
+"أن تظهر في كل مرة.  إقرا المزيد لتتعلم أكثر عن الشيفرة الجينية وكيف تنتقل "
+"السمات إلينا."
+
+msgid "Inheriting characteristics..."
+msgstr "توريث الصفات..."
+
+msgid "Reviewing core ideas... about genetic codes"
+msgstr "مراجعة الأفكار الرئيسية... حول الشيفرات الوراثية"
+
+msgid ""
+"Living things reproduce in two ways.  One, called <span class='key'>asexual "
+"reproduction</span>, involves only a single parent. The other way, called "
+"<span class='key'>sexual reproduction</span>, requires both a male and a "
+"female parent."
+msgstr ""
+"تتكاثر الكائنات الحية بطريقتين هما.  <span class='key'>التكاثر اللاجنسي</"
+"span>، والذي يتضمن أحد الوالدين.  والطريقة الأخرى <span class='key'>التكاثر "
+"الجنسي</span> والذي يتطلب والد ذكر و والدة أنثى."
+
+msgid ""
+"Asexual reproduction occurs in all types of living things because it is the "
+"process plants and animals use to grow.  Each new individual begins life as "
+"a single cell.  This cell then divides over and over until the new organism "
+"reaches its full size.  As life goes on, some of the cells continue to "
+"reproduce as needed to repair damage and cope with environmental changes."
+msgstr ""
+"يدخل التكاثر اللاجنسي في معظم الكائنات الحية حيث تستخدمها الحيوانات "
+"والنباتات في التكاثر.  تبدأ الكائنات الحية جميعها بخلية واحدة.  حيث تنقسم "
+"الخلية مرات عدة إلى أن يصل الكائن الحي إلى حجمه الطبيعي.  بينما تستمر "
+"الحياة، تستمر بعض الخلايا في التكاثر لإصلاح أي ضرر والتكيف مع تغيرات البيئية."
+
+msgid ""
+"Asexual reproduction of individual cells is called <span "
+"class='key'>mitosis</span>.  It is summarized in the picture to the right."
+msgstr ""
+"يسمى التكاثر اللاجنسي للخلايا الفردية بالإنقسام <span class='key'>الفتيلي</"
+"span> . والذي تم تلخيصه في الصورة على اليمين."
+
+msgid ""
+"Sometimes whole organisms reproduce asexually.  In the produce aisle, you "
+"will notice that all the Gala apples look the same, and so do all the "
+"Jonathan and Golden Delicious. These are fruits of plants that can only be "
+"reproduced by asexual reproduction. Asexual reproduction allows for exact "
+"duplication of a parent: perfect copies - no changes.  This is great for "
+"agriculture, but not always great in nature.  Sometimes conditions change "
+"and species need to change along with them."
+msgstr ""
+"بعض الأحيان تتكاثر  الكائنات جميعها لاجنسيا.  في ممر المنتجات النباتية، "
+"ستلاحظ أن جميع تفاح جالا يشبه بعضه البعض، وكذلك الحال مع جميع تفاح جوناثان "
+"والتفاح الأصفر.  هذا الأنواع من التفاح تتكاثر فقط لاجنسيا.  ينتج  التكاثر "
+"اللاجنسي نسخة مشابهة تماما للأصل-بدون أي تغيرات. يعد هذا الأمر عظيم للزراعة "
+"ولكن ليس  دائما عظيم للطبيعة.  بعض الأحيان تتغير الظروف ويتطلب من الأنواع "
+"بأن تتغير أيضا."
+
+msgid "Gala apples"
+msgstr "تفاح جالا"
+
+msgid "Golden delicious apples"
+msgstr "التفاح الأصفر لذيذ الطعم"
+
+msgid "Jonathan apples"
+msgstr "تفاح جوناثان"
+
+msgid "Royal gala apples"
+msgstr "تفاح جالا الملكي"
+
+msgid ""
+"Sexual reproduction allows offspring to receive information from two "
+"different parents.  That information may be the same or it may be "
+"different.  In this way, each generation contains new combinations of genes, "
+"some of which may allow individuals to survive and reproduce more often than "
+"others. In some cases, sexual reproduction allows a species to survive in "
+"difficult times."
+msgstr ""
+"يسمح التكاثر الجنسي بأن تتلقى الذرية معلومات من ابوين مختلفين.  من الممكن أن "
+"تتشابه هذه المعلومات ومن الممكن أن تختلف.  يحتوي كل جيل على تركيبات جينية "
+"جديدة ، وقد يسمح البعض منها الأشخاص بالبقاء على قيد الحياة وعلى الإنتاج أكثر "
+"من غيرها.  في بعض الحالات، يسمح التكاثر الجنسي للأنواع بالنجاة في أوقات "
+"صعبة.  "
+
+msgid "Receiving information..."
+msgstr "تلقي المعلومات..."
+
+# 5
+msgid ""
+"Question A. Which of the following is an advantage of sexual reproduction?"
+msgstr "السؤال أ. أي من التالي يعد ميزة للتكاثر الجنسي؟"
+
+msgid "All members of a generation are exactly the same."
+msgstr "يتشابه جميع أفراد الجيل."
+
+msgid "Many different combinations of traits are possible in each generation."
+msgstr "من المتوقع حدوث إختلاف في مزيج الصفات في كل جيل."
+
+msgid "Species survival is less likely when new genetic combinations occur."
+msgstr "تقل إحتمالية بقاء الأنواع على قيد الحياة عند حدوث تركيبة وراثية."
+
+msgid "Males often consume much more food than females."
+msgstr "يحتاج عادة الذكور إلى غذاء أكثر من الإناث."
+
+msgid ""
+"Question B. Click on the <span class='blink'>incorrect</span> statement "
+"about asexual reproduction."
+msgstr ""
+"السؤال ب. أنقر على العبارة <span class='blink'>الخاطئة</span> حول التكاثر "
+"اللاجنسي."
+
+msgid "Asexual reproduction leads to an exact duplication of a parent."
+msgstr "يؤدي التكاثر اللاجنسي إلى إنجاب نسخ طبق الأصل عن الوالد."
+
+msgid "Asexual reproduction of individual cells is called mitosis."
+msgstr "يسمى التكاثر اللاجنسي للخلايا الفردية بالإنقسام الفتيلي. "
+
+msgid "Asexual reproduction allows a species to survive in difficult times."
+msgstr "يساعد التكاثر اللاجنسي الأنواع على العيش ضمن الأوقات الصعبة."
+
+msgid "Asexual reproduction occurs in all types of living things."
+msgstr "يحدث التكاثر اللاجنسي في جميع أنواع الكائنات الحية."
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير أول اختبار سريع لك..."
+
+msgid "No...  that's a characteristic of asexual reproduction."
+msgstr "لا... هذه خاصية للتكاثر اللاجنسي"
+
+msgid "Correct. New combinations are the key."
+msgstr "صحيح. التركيبات الجديدة هي المفتاح."
+
+msgid "Backwards....  Survival is more likely with new combinations."
+msgstr ""
+"الرجوع إلى الخلف... على الأغلب أن يكون البقاء على قيد الحياة مع وجود تركيبات "
+"جديدة."
+
+msgid "Males often do consume more resources, but that's not an advantage."
+msgstr "يستهلك عادة الذكور موارد كثيرة، ولكن هذا ليس امتيازا."
+
+msgid ""
+"No, asexual reproduction does lead to an exact duplication of the parent. "
+"The parent cell divides over and over until the duplicate reaches its full "
+"size."
+msgstr ""
+"لا، ينتج عن التكاثر اللاجنسي نسخ مشابهة عن الأصل.  تنقسم الخلايا الأصل مرات "
+"عدة إلى أن تصل إلى حجمها الكامل."
+
+msgid ""
+"No, this is true. Mitosis is the division of a parent cell that results in "
+"cells each the same as the parent."
+msgstr ""
+"لا، هذا صحيح. الإنقسام الفتيلي هو انقسام خلايا الأب والتي تمتلك خلايا مطابقة "
+"لخلايا الأب. "
+
+msgid ""
+"Yes, this statement is incorrect. Sexual reproduction does not help species "
+"adapt or survive in difficult times, it does allow variety."
+msgstr ""
+"نعم، هذه العبارة غير صحيحة.  لا يساعد التكاثر الجنسي الأنواع على النجاة أو "
+"التكيف في الأوقات الصعبة، بل  تسمح بالتنوع."
+
+msgid ""
+"No, some living things reproduce only asexually, and all living things use "
+"this method to grow."
+msgstr ""
+"لا، تتكاثر بعض الكائنات الحية فقط لاجنسيا، وجميع الكائنات الحية تستخدم هذه "
+"الطريقة للنمو."
+
+# 6
+msgid "More core ideas... about genetic codes"
+msgstr "المزيد من الأفكار الرئيسية... حول الشيفرا الوراثية"
+
+msgid ""
+"<span class='key'>Heredity</span> is how traits are passed from parents to "
+"offspring, or from one generation to the next.  People have been using the "
+"few simple rules of heredity for thousands of years. New varieties of "
+"horses, cattle, dogs, and birds were produced by choosing useful traits and "
+"breeding the animals that had them."
+msgstr ""
+"<span class='key'>الوراثة</span> هي كيفية انتقال السمات من الأهل إلى الذرية، "
+"أو من جيل إلى أخر.  استخدم الناس و لألاف السنين قواعد بسيطة وقليلة حول "
+"الوراثة.  تم انتاج أصناف جديدة من الخيول والمواشي والكلاب والعصافير من خلال "
+"إختيار الصفات الجيدة وتكثير الحيوانات التي تمتلكها .  "
+
+msgid ""
+"The first person to state the rules in a simple form was Gregor Mendel. He "
+"saw patterns in his lifelong observations of plants and animals, and carried "
+"out experiments for years. Mendel proposed his rules of inheritance which "
+"were based on bits of information, which later came to be called <span "
+"class='key'>genes</span>."
+msgstr ""
+"أول شخص قام بوضع القواعد البسيطة هو جريجور مندل.  من خلال ملاحظاته وتجاربه "
+"التي قام بها على مدي حياته رأى أسلوباً محدداً في حياة النباتات والحيوانات  .  "
+"طرح مندل قواعده حول الوارثة والتي كانت تستند على معلومات قليلة، والتي أطلق "
+"عليها فيما بعد اسم <span class='key'> جينات </span>."
+
+msgid ""
+"One rule, called <span class='key'>segregation</span>, states that each "
+"individual receives half of its genetic information from each parent, or two "
+"genes for each trait.  That individual then passes along only half of its "
+"information to any offspring.  Mendel's observation was that the information "
+"from parents is recombined, or mixed up, each generation.  Each parent "
+"passes along only one gene for each trait, and there is no way to predict "
+"which gene it is."
+msgstr ""
+"أطلق على القاعدة الأولى اسم <span class='key'>العزل</span> ، والتي تنص على "
+"أن كل فرد يتلقى نصف معلوماته الوراثية من كل والد، أو نوعان من الجينات لكل "
+"لسمة.  ثم  يمرر هذا الشخص فقط نصف المعلومات لأي نسل جديد. كانت ملاحظة ماندل "
+"تنص على أن المعلومات التي تصل من الأباء قد تكون معادة أو ممزوجة في كل جيل.  "
+"يعطي كل والد جين واحد فقط لكل سمة، ومن المستحيل التنبؤ بالجين المعطى."
+
+msgid "Examples of genes you got from your parents/grandparents:"
+msgstr "من الأمثلة على الجينات التي تحصل عليها من الأباء/ الأجداد:"
+
+msgid "Eye color"
+msgstr "لون العين"
+
+msgid "Hair color and texture"
+msgstr "ملمس ولون الشعر"
+
+msgid "Height"
+msgstr "الطول"
+
+msgid ""
+"Another of Mendel's observations was that some traits are able to \"disappear"
+"\" in one generation and \"reappear\" in a later generation.  He proposed "
+"that some traits were always expressed, and could cause others to be "
+"hidden.  Those hidden traits could then reappear at later times.  Mendel "
+"called traits that could be hidden <span class='key'>recessive</span>, and "
+"those traits which show up whenever their gene is present <span "
+"class='key'>dominant</span>."
+msgstr ""
+"ملاحظات اخرى لمندل كانت ان بعض السمات قادرة على \" الاختفاء\" في احد "
+"الاجيال  و\" معاودة الظهور\" في جيل لاحق. و اقترح ان بعض السمات تكون دائما "
+"ظاهرة وقد تتسبب لصفات اخرى بالاختفاء.  هذه الصفات المخفية قد تظهر في اوقات "
+"لاحقة.  سمى مندل الصفات التي قد تختفي <span class='key'>متنحية</span>.  وتلك "
+"التي قد تظهر وقتما تكون جيناتها حاضرة <span class='key'>سائدة</span>."
+
+msgid ""
+"A third observation is that the inheritance of any gene doesn't change the "
+"inheritance of any other gene.  More simply put, the gene someone inherits "
+"from their mother for nose shape doesn't do anything to influence which gene "
+"she inherits for her hair color.  This is called <span "
+"class='key'>independent assortment</span>. This independence allows us to "
+"make predictions about the combinations of traits in generations not yet "
+"born.  A mathematician named Punnet showed that it's a lot like "
+"multiplication."
+msgstr ""
+"تنص  الملاحظة الثالثة على أن وراثة أي جين لا يغير في وراثة جين أخر.  "
+"وببساطة، إن جين شكل الأنف الذي ورثه شخص ما من والدته لا يؤثر على جين لون "
+"الشعر الذي سوف يرثه نفس الشخص.  يطلق على هذه <span class='key'>التشكيلة "
+"المستقلة</span>.  يسمح لنا هذا الإستقلال بتوقع  تركيبات الصفات لأجيال لم "
+"تولد بعد.  وقد وصف عالم الرياضيات بانيت هذه الملاحظة بعمايات الضرب."
+
+msgid ""
+"The image above illustrates the inheritance pattern of peapod color.  "
+"Capital letters are used to show which trait is dominant, and lower case to "
+"show the recessive. In this case, a dominant yellow parent mated with a "
+"recessive green parent. The combinations in their offspring show equal "
+"numbers of green and yellow peapods."
+msgstr ""
+"تظهر الصورة في الأعلى نمط وراثة اللون الأخضر. يظهر الحرف الأكبر الصفات "
+"المسيطرة، والحرف الصغير الصفات المتنحية.  في هذه الحالة، سوف يتم تزاوج "
+"الوالدين حيث يحمل أحدهما جين مسيطر وهو الأصفر ويحمل الأخر الجين المتنحي وهو "
+"الأخضر.  التركيبات في ذريتهم تظهر أعداد متساوية من اللون الأخضر واللون "
+"الأصفر. "
+
+msgid "Passing on traits..."
+msgstr "تمرير الصفات..."
+
+# 7
+msgid ""
+"Question A. Which of the following statements is <span "
+"class='blink'>correct</span>?"
+msgstr "السؤال أ. أي من الجمل التالية <span class='blink'>صحيحة</span>؟"
+
+msgid "Most offspring look like their mothers."
+msgstr "تشبه معظم الذريات أمهاتها."
+
+msgid "Most offspring look like their fathers."
+msgstr "تشبه معظم الذريات أبائها."
+
+msgid "The father determines more than half of an offspring's genes."
+msgstr "يحدد الأب أكثر من نصف جينات أطفاله."
+
+msgid "Offspring inherit genes equally from each parent."
+msgstr "يرث الأطفال الجينات من الأباء بالتساوي."
+
+msgid ""
+"Question B. Click on the <span class='blink'>best</span> use for a Punnett "
+"Square."
+msgstr ""
+"السؤال ب. أنقر على <span class='blink'>أفضل</span> استخدام  لمربع بانيت."
+
+msgid "Deciding how much water to give pea plants and similar vegetables."
+msgstr "تقرير كمية الماء اللازم إعطائه لنبات البازيلاء والخضراوات المشابهة."
+
+msgid ""
+"Predicting what the offspring will look like when mating plants and animals."
+msgstr "التنبؤ بشكل الذرية عند تزاوج النباتات والحيوانات."
+
+msgid "Determining the size and shape of chromosomes in a cell."
+msgstr "يحدد شكل وحجم الكروموسومات في الخلية."
+
+msgid ""
+"Deciding what time of year is best to plant pea plants and similar "
+"vegetables."
+msgstr "يحدد الوقت الأفضل من السنة لزراعة نبات البازيلاء والخضروات المتشابهة."
+
+msgid "Using Punnett Square..."
+msgstr "استخدام مربع بانيت ..."
+
+msgid "Sorry. Mothers only contribute about half of the genetic info."
+msgstr "للأسف. تساهم الأمهات بحوالي نصف المعلومات الوراثية."
+
+msgid "Nope. Fathers don't contribute any more than mothers."
+msgstr "لا. لايساهم الأباء أكثر من الأمهات."
+
+msgid "Nope. Think about Mendel's segregation idea."
+msgstr "لا. فكر في فكرة العزل لماندل. "
+
+msgid "That's right! Mendel called this segregation."
+msgstr "هذا صحيح، أطلق ماندل على هذا اسم العزل."
+
+msgid ""
+"No, the Punnett Square is based on genetic independent assortment which "
+"makes predictions about the combinations of traits in generations to come."
+msgstr ""
+"لا، يعتمد مربع بانيت على التشكيلة الوراثية المستقلة والذي يجعل من توقعات مزج "
+"الصفات في الأجيال أمر حقيقي. "
+
+msgid ""
+"Correct, the Punnett Square will help make predictions about the "
+"combinations of traits in generations of plants and animals."
+msgstr ""
+"صحيح، يساعد مربع بانيت على وضع  توقعات حول مزج الصفات في أجيال النباتات "
+"والحيوانات."
+
+msgid ""
+"No, the Punnett Square is a visual summary of what could happen when genes "
+"combine for a certain trait."
+msgstr ""
+"لا، مربع بانيت عبارة عن تلخيص مرئي لما ممكن أن يحد ث عندما تتحد الجينات "
+"لتشكيل صفة ما."
+
+msgid ""
+"No, the Punnett Square will not predict the best time of year to plant "
+"something; it will help predict the possible genetic combination of the next "
+"generation."
+msgstr ""
+" لا، يمكننا توقع  ما هو أنسب وقت في السنة لزراعة النباتات باستخدام مربع "
+"بانيت، بل يمكننا من التنبؤ بالتركيبة الوراثية المحتملة للجيل القادم."
+
+# 8
+msgid ""
+"Observations of reproducing cells along with breeding experiments led "
+"scientists to conclude that genes are located on structures visible to "
+"microscopes called <span class='key'>chromosomes</span>. To understand more "
+"about chromosomes and genes, we turn to DNA."
+msgstr ""
+"قادت التجارب التي قام بها العلماء بالتزامن مع ملاحظة إنتاج الخلايا إلى "
+"استنتاج ان الخلايا موجودة في هياكل مرئية بواسطة المجهر ويطلق عليها اسم <span "
+"class='key'>كروموسومات </span>.  لتتعلم أكثر حول الكروموسومات والجينات، "
+"علينا أن ننتقل إلى الحمض النووي . "
+
+msgid ""
+"<span class='key'>DNA</span> stands for deoxyribonucleic acid. DNA is "
+"similar to a computer program for your body- blueprints on how to build it. "
+"Almost every cell in your body has a complete set of DNA in it. DNA is in "
+"the nucleus of the cells. It's arranged in a spiral shape called a double "
+"helix, and it comes in long strands called chromosomes."
+msgstr ""
+" <span class='key'>الحمض النووي (دي.إن.ايه)</span> هي اختصار لكلمة الحمض "
+"النووي الريبوزي المنقوص الأكسجين.  يمكننا تشبيه الحمض النووي في جسمك مثل "
+"برنامج الحاسوب. يوجد تقريبا لكل خلية في جسمك مجموعة كاملة من الأحماض "
+"النووية.  حيث يوجد في نواة الخلية.  رتبت بشكل لولبي يطلق عليها اسم اللوب "
+"المزدوج، ويأتي على شكل سلاسل طويلة تسمى كروموسومات."
+
+msgid ""
+"Each strand of DNA contains millions of pairs of molecules called bases. "
+"There are four chemicals that pair up with each other in DNA. The base pairs "
+"can combine in different ways, making different sequences. The order of the "
+"sequences is like a code. Each section of DNA codes for a different trait, "
+"your eye color or height for instance. Each one of these small DNA sections "
+"is called a <span class='key'>gene</span>. Genes provide information that "
+"causes an organism to display a certain trait."
+msgstr ""
+"كل حبل من الحمض النووي يحتوي على ملايين الأزواج من الجزيئات التي تسمى "
+"قواعد.  هنال أربع أنواع من المواد الكيمايئية تتزاوج مع الأحماض النووية.  "
+"يمكن للأزواج أن تتصل مع بعضها البعض بطرق مختلفة، وتكوين سلاسل مختلفة. يشبه "
+"ترتيب السلاسل الشيفرة. يتبع كل قسم من الأحماض النووية لصفة مختلفة,مثل لون "
+"العينين أو الطول. يطلق على كل قسم من هذه الأقسام الصغيرة اسم جين. يوفر الجين "
+"المعلومات اللازمة لظهور صفة ما على الكائن الحي."
+
+msgid "DNA Double Helix"
+msgstr "الحمض النووي الحلزوني المزدوج"
+
+msgid "Base Pairs"
+msgstr "أزواج أساسية"
+
+msgid ""
+"The idea that genes controlled the characteristics of living things was very "
+"powerful. It led to the development of modern food crops and improvements in "
+"animal production.  It also made many human conditions more understandable "
+"and predictable."
+msgstr ""
+"كانت فكرة أن الجينات هي التي تسيطر على خصائص الكائنات الحية القوية جدا.  أدى "
+"هذا إلى تطور في المحاصيل الغذائية الحديثة وتحسينات في مجال الإنتاج الحيوي.  "
+"وأدت إلى جعل العديد من ظروف الإنسان مفهومة ومتوقعة."
+
+msgid ""
+"All chromosomes are made of DNA. Proteins are large molecules made of "
+"building blocks called <span class='key'>amino acids</span>. Each gene "
+"determines the structure of a single protein.  Since organisms are made of "
+"many different proteins, there are many different genes to code for each "
+"one.  Sometimes, proteins even work with other proteins, so it may take more "
+"than one gene to actually determine a specific trait."
+msgstr ""
+"تتكون جميع الكروموسومات من أحماض نووية.  البروتينات هي جزيئات كبيرة مصنوعة "
+"من لبنات أساسية تسمى <span class='key'>الأحماض الأمينية</span> .  يحدد كل "
+"جين هيكل بروتين واحد. بما إن الكائنات الحية مكونة من بروتينات مختلفة، يوجد "
+"العديد من الجينات المختلفة لرمز كل واحدة منها.  بعض الأحيان، تعمل البروتينات "
+"مع بروتينات أخرى، لذلك قد تأخذ أكثر من جين واحد لتحدد صفة معينة."
+
+msgid "Adjusting microscope..."
+msgstr "ضبط المجهر..."
+
+# 9
+msgid "Question A. Each gene is responsible for the production of..."
+msgstr "السؤال أ. كل جين مسؤول عن إنتاج..."
+
+msgid "A single protein."
+msgstr "بروتين واحد"
+
+msgid "Many different proteins."
+msgstr " عدة بروتينات مختلفة"
+
+msgid "A single chromosome."
+msgstr "كروموسوم واحد"
+
+msgid "Half of all chromosomes."
+msgstr "نصف كمية  الكروموسومات"
+
+msgid ""
+"Question B. Place the following in order from smallest to largest. Sort the "
+"items by dragging them upwards or downwards."
+msgstr ""
+"السؤال ب. رتب التالي من الأكبر إلى الأصغر.   رتب العناصر من خلال سحبها "
+"للأعلى أو الأسفل."
+
+msgid "Base pair"
+msgstr "أزواج أساسية"
+
+msgid "Chromosome"
+msgstr "كروموسوم"
+
+msgid "DNA molecule"
+msgstr "جزيء الحمض النووي  دي. إن. إيه."
+
+msgid "Identifying gene..."
+msgstr "تحديد الجين..."
+
+msgid "That's right! Remember: one gene, one protein."
+msgstr "هذا صحيح! تذكر: جين واحد، بروتين واحد."
+
+msgid "No. Too complicated. Many proteins need many genes."
+msgstr "لا. إنها معقدة كثيرا.  بروتينات كثيرة تحتاج إلى جينات كثيرة."
+
+msgid "Sorry. Chromosomes are combinations of many genes."
+msgstr "للأسف.  إن الكروموسومات عبارة عن امتزاج العديد من الجينات"
+
+msgid "Way too much! Scale it back."
+msgstr "بعيد جدا! أعد حساباتك مجددا."
+
+msgid ""
+"No, the smallest of the three is a base pair which makes up the DNA helix, "
+"and DNA molecules make up chromosomes."
+msgstr ""
+"لا، أصغر واحدة من بين الثلاث هي أزواج أساسية والتي يتكون منها شريط الحمض "
+"النووي ، و جزيئات الحمض النووي تُكون الكروموسومات."
+
+msgid ""
+"Correct. Base pairs are part of DNA, and DNA molecules make up chromosomes."
+msgstr ""
+"صحيح.  تعد الأزواج الأساسية جزء من الحمض النووي، وتنتج جزيئات الحمض النووي "
+"الكروموسومات."
+
+# 10
+msgid ""
+"Now that you know about chromosomes, let's go back to Mendel's law of "
+"segregation. It states that individuals receive half of their genetic "
+"information from each parent.  This creates a problem when you consider that "
+"every cell of every organism has two different sets of chromosomes, one from "
+"the male parent and one from the female.  The problem is that only one set "
+"can be passed along to the next generation. Somehow, only half of the total "
+"chromosomes can be passed on to offspring."
+msgstr ""
+"الآن أنت تعرف عن الكروموسومات، لنعد إلى قانون العزل لمانديل .  يحصل الأفراد "
+"على نصف المعلومات الجينية من أحد الأباء.  وهذا يخلق مشكلة عندما تفكر في أن "
+"كل خلية من خلايا الكائن الحي لديه مجموعتين مختلفتين من الكروموسومات، واحدة "
+"من الشريك الذكر والأخرى من الشريك الأنثى.  وتكمن المشكلة في أنه يمكن تمرير "
+"مجموعة احد الأباء فقط إلى الجيل الأخر.  بطريقة ما، فقط نصف عدد الكروموسومات "
+"يمكن أن ينتقل إلى الأجيال الجديدة.  "
+
+msgid ""
+"Nature's solution to this problem is sex cells.  As a group, sex cells are "
+"called <span class='key'>gametes</span>.  Male gametes are <span "
+"class='key'>sperm cells</span>.  Female gametes are <span class='key'>egg "
+"cells</span>.  All gametes have only one copy of each different type of "
+"chromosome."
+msgstr ""
+"الحل الطبيعي لهذه المشكلة هو الخلايا الجنسية.  كمجموعة،يطلق على الخلايا "
+"الجنسية اسم <span class='key'> الأمشاج </span>.  يطلق على الأمشاج الذكرية "
+"اسم <span class='key'>حيوانات منوية</span>، والأمشاج الأنثوية ب <span "
+"class='key'>البويضات </span>. لكل نوع مختلف من الكروموسومات يوجد نسخة واحدة "
+"فقط من الأمشاج."
+
+msgid ""
+"Gametes are formed from normal cells containing two copies of each "
+"chromosome.  The chromosome number is cut in half in a process called <span "
+"class='key'>meiosis</span>.  Cells divide twice in meiosis.  In the first "
+"division, chromosomes are sorted to produce cells containing only one of "
+"each type.  In the second division, chromosomes that have already copied "
+"themselves break apart, producing sex cells with one of each chromosome type."
+msgstr ""
+"تتكون الأمشاج من خلايا عادية تحتوي على نسختين من كل كروموسوم. يقل عدد "
+"الكروموسومات إلى النصف خلال عملية يطلق عليها اسم <span class='key'>انقسام "
+"إختزالي </span>.  تنقسم الخلايا إلى النصف.  في  الإنقسام الأول، يتم تخزين "
+"الكروموسومات لإنتاج خلايا تحتوي على نوع واحد  من الأنواع.  في المرحلة "
+"الثانية، تنكسر الكروموسومات التي نسخت نفسها إلى أجزاء،منتجة خلايا جنسية لكل "
+"نوع من أنواع الكروموسومات."
+
+msgid ""
+"Meiosis is the mechanism in cells that allows segregation to work.  Genes "
+"are located on chromosomes, and meiosis is the process that sorts the "
+"chromosomes.  Every sex cell contains a random assortment of an organism's "
+"chromosomes.  Some were inherited from its mother, others from its father.  "
+"Meiosis sorts them randomly.  In this way, new combinations of chromosomes "
+"and the genes they carry occur every generation. These new genetic "
+"combinations help a species to be prepared for any new set of environmental "
+"conditions that may come along in the future."
+msgstr ""
+"الإنقسام الإختزالي عبارة عن آلية تحدث  في الخلايا والتي تسمح بحدوث انفصال.  "
+"توجد الجينات في الكروموسومات، يتم في الإنقسام الإختزالي فرز الكروموسومات.  "
+"تحتوي كل خلية جنسية على تشكيلة عشوائية من كروموسومات الكائن الحي. يتم وراثة "
+"بعضها من الأم, والبعض الأخر من الأب.  يفرزها الإنقسام الإختزالي بطريقة "
+"عشوائية.  في هذه الحالة، فان تركيبات الكروموسومات والجينات الجديدة التي "
+"يحملها تحدث في كل جيل.  إن التركيبات الوراثية الجديدة تساعد الأنواع على "
+"التأقلم مع الظروف البيئية التي من الممكن أن تحدث في المستقبل."
+
+msgid "Meiosis"
+msgstr "إنقسام إختزالي"
+
+msgid "meiosis"
+msgstr "إنقسام إختزالي"
+
+msgid "Studying Mendel's law..."
+msgstr "دراسة قانون مانديل..."
+
+# 11
+msgid ""
+"Question A. Which of the following is <span class='blink'>not true</span> "
+"about meiosis?"
+msgstr ""
+"السؤال أ. أي من التالي <span class='blink'>غير صحيح</span> بخصوص الإنقسام "
+"الإختزالي؟"
+
+msgid "Sex cells contain half the normal number of chromosomes."
+msgstr "تحتوي الخلايا الجنسية على نصف عدد الكروموسومات الطبيعي."
+
+msgid "Sex cells contain the normal number of chromosomes."
+msgstr "تحتوي الخلايا الجنسية على العدد الطبيعي للكروموسومات."
+
+msgid "Sex cells contain twice the normal number of chromosomes."
+msgstr "تحتوي الخلايا الجنسية على ضعف عدد الكروموسومات الطبيعي."
+
+msgid "Sex cells contain three times the normal number of chromosomes."
+msgstr "تحتوي الخلايا الجنسية على ثلاثة أضعاف عدد الكروموسومات الطبيعي."
+
+msgid ""
+"Question B. Complete the sentence by selecting the <span "
+"class='blink'>correct</span> answer."
+msgstr ""
+"السؤال ب. أكمل الجمل التالية باختيار <span class='blink'> الإجابة الصحيحة</"
+"span>."
+
+msgid "Genes are located on chromosomes, and"
+msgstr "تقع الجينات في الكروموسومات، و"
+
+msgid "select"
+msgstr "إختار"
+
+msgid "mitosis"
+msgstr "إنقسام فتيلي"
+
+msgid "Mitosis"
+msgstr "إنقسام فتيلي"
+
+msgid "fertilization"
+msgstr "إخصاب "
+
+msgid "Fertilization"
+msgstr "إخصاب "
+
+msgid "meiosis and mitosis"
+msgstr "إنقسام إختزالي وفتيلي"
+
+msgid ""
+"is the process that sorts the chromosomes.  It is the mechanism in cells "
+"that allows segregation to work."
+msgstr ""
+"هي العملية التي يتم بواسطتها ترتيب كروموسومات.  الآلية التي تحدث  في الخلايا "
+"والتي تسمح بحدوث إنفصال."
+
+msgid "Separating cells..."
+msgstr "فصل الخلايا...\" "
+
+msgid "That's right! Fertilization produces one normal cell."
+msgstr "هذا صحيح! ينتج من الإخصاب  خلية طبيعية واحدة."
+
+msgid ""
+"Nope. Sex cells with the normal number would produce a new individual with "
+"twice the number."
+msgstr "لا. يمكن للخلايا الجنسية الطبيعية أن تنتج أفراد جدد ضعف العدد."
+
+msgid "Sorry. That's way too many chromosomes."
+msgstr "عفواً. ذلك الكثير من الكروموسومات."
+
+msgid "Think again...  Meiosis is a process which reduces chromosome number."
+msgstr "فكر مجددا... يقل عدد الكروموسومات أثناء الإنقسام الإختزالي. "
+
+msgid ""
+"Correct. Meiosis is cell division that results in cells with half the "
+"chromosome number of the parent cell."
+msgstr ""
+"صحيح. الإنقسام الإختزالي هو عبارة عن إنقسام يحدث في الخلايا مع نصف عدد "
+"الكروموسومات في الخلية الأم."
+
+msgid ""
+"No, mitosis is cell division that results in cells with the same as the "
+"parent."
+msgstr ""
+"لا، الإنقسام الإنفصالي هو عبارة عن إنقسام يحدث في الخلايا دون حدوث أي تغير "
+"في خلايا الأم."
+
+msgid "No, fertilization is the union of sperm and egg cells."
+msgstr "لا, الإخصاب هو إتحاد الحيوانات المنوية مع البويضات."
+
+msgid ""
+"No, sorting of chromosomes is done through meiosis. Meiosis is cell division "
+"that results in cells with half the chromosome number of the parent cell."
+msgstr ""
+"لا، يتم فرز الكروموسومات خلال الإنقسام الإختزالي. الإنقسام الإختزالي هو "
+"عبارة عن إنقسام يحدث في الخلايا مع نصف عدد الكروموسومات في الخلية الأم."
+
+# 12
+msgid ""
+"Meiosis is a very reliable process, but, very rarely, mistakes occur.  It's "
+"possible for the chromosomes to not sort perfectly.  When that happens, some "
+"sex cells may be formed with too few or too many chromosomes.  The presence "
+"of an extra chromosome 21 causes a condition known as Down's Syndrome.  "
+"Down's patients have some physical and learning differences from other "
+"people, but can live long, happy lives.  The presence of other extra "
+"chromosomes has more complicated consequences."
+msgstr ""
+"يعد الإنقسام الإختزالي من العمليات الموثوقة حيث نسبة حدوث الأخطاء قليلة "
+"جدا.  من المحتمل عدم إفراز الكروموسومات بشكل صحيح.  عندما يحدث ذلك، تنتج بعض "
+"الخلايا الجنسية بعدد قليل أو عدد كبير من الكروموسومات.  إن  ظهور نسخة إضافية "
+"للكروموسوم 21 يؤدي إلى حدوث متلازمة داون.  إن الأشخاص الذين يعانون من هذه "
+"المتلازمة تكون لديهم عيوب خلقية وصعوبات في التعلم، ولكن يمكنهم العيش طويلا "
+"وبسعادة.  إن ظهور نسخة إضافية لكروموسومات أخرى يؤدي إلى عواقب وخيمة مختلفة."
+
+msgid ""
+"In addition to abnormalities in chromosomes, sometimes there are genetic "
+"mutations. Mutations are differences in genes.  <span class='key'>Mutations</"
+"span> cause variations that make organisms differ from one another. At the "
+"most basic level, mutations are just tiny changes in genes located on "
+"chromosomes. If only one base is changed, the change in the protein produced "
+"may be minor, or there may be no change at all. This is how the simple "
+"variation we see in nature happens. The difference between red hair and "
+"brown hair is a letter change in a gene. The difference between being tall "
+"or short is a few changes in the letters of a few genes."
+msgstr ""
+"بالإضافة إلى حدوث شذوذ  في الكروموسوم، يوجد بعض الأحيان طفرات وراثية.  تختلف "
+"الطفرات عن الجينات.  تسبب <span class='key'> الطفرات </span> الجينية "
+"إختلافات مما يجعل الكائنات الحية تختلف عن بعضها البعض. على المستوى البسيط، "
+"إن الطفرات عبارة عن تغيرات صغيرة في الجينات الموجودة في الكروموسومات.  إذا "
+"تم تغيير أساس واحد فقط، فإن التغيرات في إنتاج البروتين تكون بسيطة، أو من "
+"الممكن عدم حدوث أي تغير على الإطلاق.  هكذا تحدث التغيرات البسيطة في "
+"الطبيعة.  الفرق بين الشعر الأحمر والشعر البني هو تغير حرف في الجينات. الفرق "
+"بين أن تكون طويلا أو قصير هو حدوث تغيرات بسيطة في حروف بعض الجينات."
+
+msgid "mutation"
+msgstr "طفرة"
+
+msgid "DNA with mutations"
+msgstr "حمض نووي مع طفرات"
+
+msgid ""
+"Sometimes, however, a base may be left out completely; or a new base may be "
+"inserted.  This causes a shift in how cells read out the DNA code.  A "
+"protein may start out normally, but, from the mutation site onward, every "
+"three-base sequence is changed.  In this case, the protein formed will "
+"hardly resemble the normal version.  Whatever that protein is supposed to do "
+"in an organism won't get done because the proper molecule isn't made.  The "
+"actual product may even be poisonous, or cause an inherited disease."
+msgstr ""
+"بعض الأحيان، يتم استبعاد قاعدة كاملة، أو يمكن وضع قاعدة جديدة، هذا يسبب تغير "
+"في كيفية قراءة  الخلايا للحمض النووي.  قد يبدأ عمل البروتين بشكل طبيعي، لكن،"
+"ابتداءا من  موقع حدوث الطفرة وإلى الأمام، يتم تغير تسلسل كل ثلاث قواعد.  في "
+"هذه الحالة،  فإن البروتين الذي انتج لن  يشبه النسخة الطبيعية.  لن يقوم "
+"البروتين بعمله بشكل طبيعي -بغض النظر عن طبيعة عمله- وذلك لأنه لم يتم إنتاج "
+"الجزيء الصحيح.  قد يكون المنتج سام أو ممكن أن يسبب أمراض وراثية."
+
+msgid ""
+"But remember, even though mutation is sometimes scary, it's not bad.  Every "
+"difference we see in nature is due to mutation.  Every unique characteristic "
+"of every living thing is caused by changes at the DNA-level.  Mutations give "
+"all living things the ability to adapt to their environments.  It's "
+"impossible to predict all of the changes that will ever occur on Earth.  "
+"When those changes happen, some mutations will protect living things from "
+"harm, while others will make them more vulnerable."
+msgstr ""
+"لكن تذكر، على الرغم من ان حدوث طفرة أمر مخيف، ولكن ليست دائما سيئة.  كل "
+"الإختلافات التي نراها في الطبيعة سببها الطفرات.  كل خاصية فريدة من نوعها في "
+"الكائن الحي سببها تغير في مستوى الحمض النووي. تساعد الطفرات الكائنات الحية "
+"على التأقلم مع البيئة.  إنه من المستحيل التنبؤ بجميع التغيرات التي ممكن أن "
+"تحدث على سطح الأرض. عندما تحدث هذه التغيرات، تحمي بعض الطفرات الكائن الحي من "
+"الضرر، والبعض الأخر سوف يجعلها أكثر عرضةً للألم."
+
+msgid "Cats with different eye colors"
+msgstr "قطط بألوان عين مختلفة"
+
+msgid "Albino peacock"
+msgstr "الطاووس الأبيض"
+
+msgid "Wild melanistic aspid viper"
+msgstr "أفعى برية سامة ذات جلد أسود"
+
+msgid "Changing sequence..."
+msgstr "تغيير التسلسل..."
+
+# 13
+msgid ""
+"Question A. Click on the <span class='blink'>incorrect</span> statement."
+msgstr "السؤال أ. أنقر على العبارة <span class='key'> غير الصحيحة</span>."
+
+msgid "Mutations can be from small changes in genes located on chromosomes."
+msgstr ""
+"يمكن أن تكون الطفرات من تغيرات بسيطة في الجينات واقعة على الكروموسومات."
+
+msgid "Mutations can be due to the insertion or omission of a base compound."
+msgstr "ممكن أن يكون سبب الطفرات حدوث إضافة أو نزع لمركب قاعدة."
+
+msgid "Mutations are only when sex cells have too few or too many chromosomes."
+msgstr ""
+"تحدث الطفرات فقط عندما يكون عدد الكروموسومات في الخلايا الجنسية أكثر قليلا "
+"أو أقل قليلا."
+
+msgid ""
+"Mutations give all living things the ability to adapt to their environments."
+msgstr "تسمح الطفرات لجميع الكائنات الحية بالتأقلم مع بيئاتها."
+
+msgid ""
+"Question B. Part of a gene sequence is ....AATTAGTTTAAA....  Which of the "
+"following is likely the most dangerous mutation?"
+msgstr ""
+"سؤال ب . جزء من التسلسل الجيني ...AATTAGTTTAAA....اي من التالي يعد من أخطر "
+"الطفرات؟   "
+
+msgid "Change the first T to an A."
+msgstr "تغيير أول T إلى A."
+
+msgid "Delete the second T."
+msgstr "حذف T الثانية."
+
+msgid "Change the second A to a G."
+msgstr "تغيير A الثانية إلى G."
+
+msgid "Change the third T to a G."
+msgstr "تغيير T الثالثة إلى G."
+
+msgid ""
+"No, this is possible. When just one base is changed, the change in the "
+"protein produced may be minor."
+msgstr ""
+"لا ، من الممكن حصول ذلك.  عندما يتغير أساس واحد فقط، فإن التغير الذي يحدث "
+"بالبروتين قد يكون طفيف."
+
+msgid ""
+"No, this is possible. If a base is added in or taken out, the entire "
+"sequence will be thrown off and the resulting protein will not do what it's "
+"supposed to."
+msgstr ""
+"لا، هذا ممكن الحدوث . إذا تم إضافة أساس أو نزع أساس، فإنه سوف يحدث تغير في "
+"التسلسل كاملاً ولن يقوم البروتين بعمله."
+
+msgid ""
+"Correct. Although having an extra chromosome 21 causes Down's Syndrome, and "
+"other similar mutations- this is not the only way genetic mutations occur."
+msgstr ""
+"صحيح. على الرغم من وجود نسخة إضافية من كروموسوم 21 والذي يسبب حدوث متلازمة "
+"داون، وحدوث طفرات مماثلة- فلا تعد هذه هي الطريقة الوحيدة التي تحدث بها "
+"الطفرات الوراثية."
+
+msgid ""
+"No, this is true. When changes in the environment happen, some mutations "
+"will protect living things from harm, while others will make them more "
+"vulnerable."
+msgstr ""
+"لا. هذا صحيح. عندما يحدث تغير في البيئة، تحمي بعض الطفرات الكائن الحي من "
+"الأذى، والبعض الأخر يجعلها عرضة للأذى."
+
+msgid "Nope. Changing one letter probably isn't a big deal."
+msgstr "لا. لا يعتبر تغير حرف بالأمر الهام."
+
+msgid ""
+"Correct, that's the one.  Every part of the protein from that point on "
+"changes."
+msgstr "صحيح، ذلك هو الواحد . كل جزء من البروتين في هذه معرض للتغيرات."
+
+msgid "Single change? Usually not a problem."
+msgstr "تغير واحد؟ ليس بالأمر الخطير"
+
+msgid "Not likely.  A simple change like that usually doesn't cause problems."
+msgstr "ليس تماما. تغير بسيط مثل هذا لا يسبب مشكلات."
+
+# 14
+msgid "Using what you know... about genetic codes... to solve a problem"
+msgstr "استخدم ما تعرفه... عن الشيفرة الوراثية... لحل مشكلة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid ""
+"You have learned a lot about how genetics determine the characteristics of "
+"offspring, so you are thinking about opening a business called \"Design a "
+"Puppy.\" Your business idea is to let people decide what they would like "
+"their dog to look like by looking at different dogs that you will have in "
+"your kennels."
+msgstr ""
+"تعلمت كثيرا عن كيفة تحديد الجينات لصفات لأجيال القادمة، وأنت تفكر الأن بأن "
+"تفتح مشروعك الخاص وتسميه \"صمم جروا\" الهدف من المشروع هو أن تجعل الأشخاص "
+"يحددون شكل كلابهم وذلك من خلال النظر إلى كلاب مختلفة والتي توجد في بيوت "
+"كلابك."
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid ""
+"You need to write a business plan that explains how you can predict what a "
+"puppy will look like so that you can borrow some money to open your "
+"business. Include in your plan how sure you can be that your prediction of "
+"what a puppy will look like will be accurate. Enter your business plan in "
+"the text box provided."
+msgstr ""
+"عليك كتابة خطة عمل توضح فيها كيف يمكن أن تتوقع شكل الكلب لتحدد المال اللازم "
+"لمشروعك.  وعلى الخطة أن تتضمن مدى ثقتك بأن الكلب سوف يشبه تماما الكلب "
+"الأصلي. أدخل خط العمل في صندوق النص."
+
+msgid "Counting dogs..."
+msgstr "تعداد الكلاب..."
+
+# 15
+msgid "Summarizing core ideas... about genetic codes"
+msgstr "تلخيص الأهداف الأساسية... حول الشيفرات الوراثية"
+
+msgid ""
+"All living things are what they are because of information carried in each "
+"cell. The information is stored in a simple code in one or more complex "
+"molecules called <span class='key'>DNA</span>."
+msgstr ""
+"جميع الكائنات الحية على ما هي عليه بسبب المعلومات التي تحملها.  يتم تخزين "
+"المعلومات في شيفرة بسيطة والموجودة في واحد أو أكثر من الجزيئات المعقدة والتي "
+"يطلق عليها <span class='key'> الحمض النووي (دي. إن. إيه)</span>."
+
+msgid ""
+"Specific pieces of DNA which provide information for particular "
+"characteristics are called <span class='key'>genes</span>. Each gene "
+"provides information that allows a cell to make one special protein.  Each "
+"organism makes thousands of different proteins, and there is a gene "
+"responsible for providing the information to make each one.   It's possible "
+"for some plants and animals to reproduce by dividing and having each new "
+"part become a separate organism. That's called <span class='key'>asexual "
+"reproduction</span>, and each offspring is an exact duplicate of the "
+"parent.  When organisms have separate male and female parents, the "
+"reproduction is called <span class='key'>sexual</span>, and the offspring is "
+"similar, but not identical, to both parents. Sometimes, the information "
+"carried by DNA can be copied incorrectly or changed by some environmental "
+"problem.  This often leads to changes in the proteins for which a gene "
+"codes. These changes sometimes bring forth new characteristics in the "
+"organism, but may also lead to illness or death."
+msgstr ""
+"يطلق على أجزاء محددة من الحمض النووي والتي تكون مسؤولة عن صفات معينة اسم "
+"<span class='key'> الجين </span> .  كل  جين مسؤول عن توفير معلومات والتي "
+"تسمح للخلية بصنع بروتين واحد خاص.  كل كائن حي يقوم بصنع ألاف البروتينات "
+"المختلفة، وهنالك جين مسؤول عن توفير المعلومات لتكوين كل واحدة.  من الممكن "
+"للنباتات والحيوانات التكاثر من خلال إنقسام ويصبح كل كائن حي منفصل عن الأخر.  "
+"هذا ما يسمى <span class='key'> بالتكاثر اللاجنسي </span> .  ويكون كل كائن حي "
+"جديد نسخة طبق الأصل عن الأم. عندما يكون للكائن الحي أم وأب منفصلين، يكون "
+"<span class='key'> التكاثر جنسي </span> بحيث يكون النسل الجديد نسخة مشابهة "
+"للأباء ولكن غير متطابقين.  بعض الأحيان يمكن أن يحمل الحمض النووي المعلومات "
+"ويقوم بنسخها بطريقة غير صحيحة أو تتغير بسبب مشكلة بيئية.  هذا عادة يؤدي إلى "
+"حدوث تغير في البروتينات التي لها جينات.  قد تحمل هذه التغيرات بعض الأحيان "
+"صفات جديدة للكائن الحي، وقد تقود إلى أمراض أو إلى الموت.  "
+
+# 16
+msgid "Reviewing key vocabulary related to... genetic codes"
+msgstr "مراجعة المفردات الأساسية التي لها علاقة .... بالشيفرات الوراثية."
+
+msgid "Asexual reproduction"
+msgstr "تكاثر لاجنسي"
+
+msgid "Segregation"
+msgstr "العزل"
+
+msgid "Heredity"
+msgstr "الوراثة"
+
+msgid ""
+"Asexual reproduction is a way of producing offspring that involves only one "
+"parent. There is no combining of a female sex cell with a male sex cell."
+msgstr ""
+"التكاثر اللاجنسي هو طريقة يتم خلالها تكاثر أنسال جديدة من خلال وجود أب "
+"واحد.  لا يوجد إندماج بين الخلايا الذكرية والأنثوية."
+
+msgid ""
+"Asexual reproduction is the primary means of reproduction for many single-"
+"celled living things such as bacteria. Many plants and fungi also reproduce "
+"asexually, but asexual reproduction is not common among multicellular living "
+"things."
+msgstr ""
+"ينتشر التكاثر اللاجنسي في الكائنات وحيدة الخلية مثل البكتيريا.  هنالك العديد "
+"من النباتات والفطريات التي تتكاثر لاجنسيا، إن التكاثر اللاجنسي غير منتشر بين "
+"الكائنات عديدة الخلايا. "
+
+msgid "Sexual reproduction"
+msgstr "التكاثر الجنسي"
+
+msgid ""
+"In sexual reproduction, sperm from the male is united with an egg from the "
+"female creating a fertilized egg. Once its place is secure, it develops into "
+"a fetus and then into an infant, ready for birth."
+msgstr ""
+"التكاثر الجنسي، يتم التكاثر الجنسي باتحاد الحيوانات المنوية الذكرية "
+"والبويضات الأنثوية.  حيث يتطور من جنين ومن ثم إلى رضيع، ومن ثم يستعد إلى "
+"الولادة."
+
+msgid ""
+"Like animals, plants also reproduce sexually—the egg and sperm are produced "
+"in the flowers of flowering plants."
+msgstr ""
+"تتكاثر الحيوانات والنباتات جنسيا- يتم إنتاج البويضات والحيوانات المنوية في "
+"الزهور من النباتات المزهرة."
+
+msgid ""
+"Mitosis is the cell division process by which cells reproduce asexually. One "
+"\"parent\" cell will duplicate its DNA and divide into two identical "
+"\"daughter\" cells, each possessing half of their parent's DNA; this is "
+"mitosis."
+msgstr ""
+"الإنقسام الفتيلي (الاختزالي) هو عملية يتم من خلالها تكاثر الخلايا لاجنسيا.  "
+"سوف يتم مضاعفة الحمض النووي لخلية أحد الأباء وانقسامها إلى نصفين متشابهين "
+"\"خلايا البنت\"،   كل نصف يحتوي على حمض نووي الأباء، هذا ما يسمى بالإنقسام "
+"الفتيلي.  "
+
+msgid ""
+"Heredity is the passing on of physical traits from parents to offspring "
+"through DNA in the process of sexual reproduction. Heredity is how traits "
+"are passed from one generation to the next."
+msgstr ""
+"الوراثة هي عبور الصفات الجسدية للأباء من خلال الأحماض النووية ويتم ذلك من "
+"خلال التكاثر الجنسي. الوراثة هي كيف يتم إنتقال الصفات من جيل إلى أخر."
+
+msgid "Heredity can be tracked using a chart called a pedigree."
+msgstr "يمكن تتبع الوراثة من خلال استخدام الرسم البياني يسمى شجرة النسب."
+
+msgid ""
+"In heredity, segregation is the rule that each individual receives half of "
+"its genetic information from each parent, or two genes for each trait."
+msgstr ""
+"في الوراثة، يحصل كل فرد أثناء عملية الفصل على نصف  المعلومات الجينية من كلا "
+"الأوين، أو على جينين لكل صفة."
+
+msgid "Independent Assortment"
+msgstr "تشكيلة مستقلة"
+
+msgid ""
+"In heredity, independent assortment is the rule that the gene someone "
+"inherits from their mother for a trait, such as nose shape, doesn't do "
+"anything to influence which gene she inherits for her hair color.  "
+"Independent assortment allows us to make predictions about the combinations "
+"of traits in generations not yet born."
+msgstr ""
+"في  الوراثة، التشكيلة المستقلة هي القاعدة التي يتم من خلالها وراثة جين لصفة "
+"ما من أمهاتهم، مثل شكل الأنف، لا يؤثر على جين لون الشعر. تسمح لنا التشكيلة "
+"المستقلة بالتنبؤ بمزج الصفات للأجيال التي لم تولد بعد.  "
+
+msgid "Recessive Trait"
+msgstr "صفات متنحية"
+
+msgid ""
+"In heredity, a recessive trait is a physical characteristic that can be "
+"\"hidden\"; that is, a person can carry a gene for a trait, but it can be "
+"masked by another (dominant) trait. Recessive traits can be passed on and "
+"show up in future generations."
+msgstr ""
+"في الوراثة، الصفات المتنحية هي عبارة عن سمات جسدية ممكن أن تكون مخبأة، يمكن "
+"للإنسان أن يحمل جين صفات معينة، لكن من الممكن أن تكون مخبأة من خلال "
+"صفة(سائدة) .  يمكن للصفات المتنحية أن تظهر في أجيال أخرى. "
+
+msgid "Dominant Trait"
+msgstr "صفة سائدة"
+
+msgid ""
+"In heredity, a dominant trait is a physical characteristic that is expressed "
+"even when only one gene allele coding for the trait is present. Dominant "
+"traits can \"mask\" recessive traits, which are gene alleles for a trait "
+"that are not expressed when covered by the dominant trait for that physical "
+"characteristic."
+msgstr ""
+"في الوراثة، الصفات السائدة هي عبارة عن صفات جسدية التي يعبر عنها حتى عندما "
+"يكون جين allele للصفات موجود. يمكن أن تكون الصفات السائدة \"مخبأة\" في "
+"الصفات المتنحية.  حيث لا يتم التعبير عن جينات allele عندما تكون مخبأة "
+"بالصفات السائدة لهذه الصفة الجسدية."
+
+msgid ""
+"DNA is found in structures called chromosomes, which are tightly-packed "
+"strands of DNA held together by proteins. Each chromosome's DNA contains "
+"volumes of specific information that codes for the structures and functions "
+"of the body."
+msgstr ""
+"يوجد الحمض النووي على هيئة كروموسومات، والتي تكون مترابطة مع بعضها بواسطة "
+"بروتينات.  كل كروموسومات الأحماض النووية تحتوي على معلومات محدة لهيكل ووظائف "
+"الجسم."
+
+msgid "DNA"
+msgstr "الحمض النووي (دي. إن. إيه)"
+
+msgid ""
+"DNA, short for deoxyribonucleic acid, is the molecule of living organisms, "
+"found in the nucleus of their cells, which contains volumes and volumes of "
+"information. DNA functions as a blueprint, with a 4-letter alphabet acting "
+"as a code system for making proteins, which are essential for an organism's "
+"structures and functions."
+msgstr ""
+"الحمض النووي (دي. إن. إيه)، هو إختصار لكلمة الحمض النووي الريبوزي المنقوص "
+"الأكسجين، موجود في جزيئات الكائنات الحية، والذي يحتوي على معلومات كبيرة.  "
+"يمكننا تشبيه عمل الحمض النووي (دي. إن. إيه) بمخطط، إن الحروف الهجائية "
+"الأربعة تعمل مثل شيفرة لتكوين البروتونات والتي تعد ضرورية لبناء الكائن الحي "
+"ووظائفه. "
+
+msgid "Gene"
+msgstr "الجين"
+
+msgid ""
+"A gene is a section of DNA that has information that specifically codes for "
+"the making of a certain physical trait. Chromosomes have many genes on them."
+msgstr ""
+"يعتبر الجين جزء من الحمض النووي (دي. إن. إيه) والتي تحتوي على معلومات لتكوين "
+"سمة جسدية محددة.  تحتوي الكروموسومات على العديد من الجينات."
+
+msgid "Amino Acids"
+msgstr "الأحماض الأمينية"
+
+msgid ""
+"Amino acids are the building blocks of proteins, which are the \"workers\" "
+"of the body, essential for the body's structures and functions. There are "
+"about 20 different amino acids."
+msgstr ""
+"الأحماض الأمينية هي عبارة عن اللبنات الأساسية للبروتين، وهي عبارة عن عمال "
+"الجسم، والبروتينات ضرورية لهيكل الجسم ووظائفه.  يوجد في الجسم قرابة عشرين "
+"حمض أميني مختلف."
+
+msgid "Gametes"
+msgstr "الأمشاج"
+
+msgid ""
+"Gametes are the reproductive cells of the body. Male gametes are sperm "
+"cells; female gametes are egg cells.  All gametes have only one copy of each "
+"different type of chromosome."
+msgstr ""
+"الأمشاج هي عبارة عن الخلايا التناسلية في الجسم.  تسمى عند الذكور بالحيوانات "
+"المنوية، وعند الإناث بالبويضات.  كل مشج لديه نسخة واحدة فقط  لكل نوع من "
+"الكروموسومات المختلفة."
+
+msgid "Sperm cells"
+msgstr "الخلايا المنوية"
+
+msgid ""
+"Sperm cells are male reproductive cells. Sperm cells have only one copy of "
+"each different type of chromosome."
+msgstr ""
+"الخلايا المنوية هي عبارة عن الخلايا الجنسية الذكرية.  للخلايا المنوية نسخة "
+"واحدة فقط لكل نوع كروموسوم ."
+
+msgid "Egg cells"
+msgstr "خلايا البويضات"
+
+msgid ""
+"Egg cells are female reproductive cells. Egg cells have only one copy of "
+"each different type of chromosome."
+msgstr ""
+"البويضات هي عبارة عن الخلايا الجنسية الأنثوية.  للبويضات نسخة واحدة فقط لكل "
+"نوع كروموسوم ."
+
+msgid ""
+"Meiosis is the process in which gametes, or reproductive cells, have their "
+"chromosome number cut in half as the cell divides twice.  In the first "
+"division of meiosis, chromosomes are sorted to produce cells containing only "
+"one of each type.  In the second division of meiosis, chromosomes that have "
+"already copied themselves break apart, producing sex cells with one of each "
+"chromosome type."
+msgstr ""
+"الإنقسام الإختزالي هو العملية التي يحدث فيها انقسام منصف للكروموسومات في "
+"الأمشاج، أو في الخلايا التناسلية.  في الإنقسام الإختزالي الأول يتم تخزين "
+"الكروموسومات لإنتاج خلايا تحتوي على نوع واحد فقط .  في الإنقسام الثاني تنقسم "
+"الخلايا التي نسخت نفسها منتجة خلايا جنسية بنوع واحد من أنواع الكروموسومات."
+
+msgid "Mutation"
+msgstr "الطفرة"
+
+msgid ""
+"Mutations are small changes that occur in the DNA that carries the "
+"information that makes living things what they are.  Mutations are rare, but "
+"if inherited, over time can have an effect on a population."
+msgstr ""
+"الطفرة هي عبارة عن تغيرات بسيطة في الحمض النووي الذي يحتوي على المعلومات.  "
+"إن حدوث الطفرات يعد بالأمر النادر، لكن إذا تم توريثها سوف تؤثر مع مرور الوقت "
+"على المجتمع"
+
+# 17
+msgid "Checking what you now know... about genetic codes"
+msgstr "تحقق من معلوماتك حول... الشيفرات الوراثية"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"الإجابة على 6 أسئلة قصيرة سيعطيك فكرة عن ما تعرف حالياً وما عليك أن تدرس."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر زر لاحق عندما تكون مستعداً"
+
+# 18
+msgid ""
+"Which of the following offspring probably had parents BB and bb? (B being a "
+"dominant trait, and b being a recessive trait.)"
+msgstr ""
+" اي من الاجيال التالية لديها ابوين BB و bb   ؟  ( B هي السمة السائدة، و  b   "
+"هي السمة المتنحية). "
+
+msgid "Can't tell from the information given"
+msgstr "لا يمكنك معرفة ذلك من خلال المعلومات المعطاة"
+
+msgid "Look again...  One gene from each parent..."
+msgstr "أنظر مرة أخرى... جين واحد من كل والد"
+
+msgid "Right! B from BB and b from bb."
+msgstr "صحيح! B من BB و b من bb. "
+
+msgid "No... How could it get bb from a BB parent?"
+msgstr "  لا ....كيف يمكن الحصول على bb من والد سمته  BB   ؟"
+
+msgid "Sorry. You can't tell. Try again."
+msgstr "أسف.  لا يمكنك أن تعرف.  جرب مرة أخرى"
+
+# 19
+msgid "An advantage of sexual reproduction is..."
+msgstr "الفائدة من التكاثر اللاجنسي هي ..."
+
+msgid "New gene combinations appear each generation."
+msgstr "ظهور مزيج جينات جديد  في كل جيل."
+
+msgid "No new gene combinations appear."
+msgstr "لا يظهر مزيج جينات جديدة في الجيل "
+
+msgid "Males put on showy mating displays."
+msgstr "يتم عرض تزاوج الذكور"
+
+msgid "Bird parents build large nests to protect eggs."
+msgstr "يبني أباء العصافير أعشاش كبيرة لحماية أطفالهم."
+
+msgid "Preparing for changes..."
+msgstr "التحضير للتغيرات ..."
+
+msgid ""
+"Correct, and that's a big deal! These new combinations make living things "
+"ready for unforeseen environmental changes."
+msgstr ""
+"صحيح، وهذا أمر مهم! هذا المزيج الجديد يجعل الكائنات الحية جاهزة لتغيرات غير "
+"متوقعة في البيئة."
+
+msgid "Sorry, The exact opposite... Read it again."
+msgstr "لا، العكس تماما... اقرأ مرة أخرى."
+
+msgid "Some males do put on displays, but it's not always an advantage."
+msgstr "يتم إظهار بعض الذكور، ولكن لا تعد هذه فائدة."
+
+msgid ""
+"Umm... This might be true for birds, but it doesn't apply to other plants "
+"and animals."
+msgstr ""
+"مممم ... يمكن أن يكون هذا صحيح بالنسبة للطيور، لكن لا يمكن تطبيق ذلك على "
+"النباتات والحيوانات."
+
+# 20
+msgid "Choose the statement most consistent with Mendel's idea of segregation."
+msgstr "اختر الإجابة التي تتلائم مع فكرة مانديل للعزل."
+
+msgid "Offspring inherit most of their mother's genes."
+msgstr "ترث الذرية معظم الجينات من أمهاتها."
+
+msgid "Offspring inherit none of their father's genes."
+msgstr "لا ترث الذرية أي الجينات من أبائها."
+
+msgid "Offspring inherit genes equally from both parents."
+msgstr "ترث الذرية الجينات بالتساوي من والديهم."
+
+msgid "Offspring inherit most of their father's genes."
+msgstr "ترث الذرية معظم الجينات من أبائها."
+
+msgid "Combining chromosomes..."
+msgstr "الجمع بين الكروموسومات ..."
+
+msgid "Nope. Dad is important too."
+msgstr "لا. الأب مهم أيضا."
+
+msgid "Nope.... Dad plays an important role."
+msgstr "لا. يلعب الأب دور مهم."
+
+msgid "That's right! Half of inheritance comes from each parent."
+msgstr "هذا صحيح! نصف االوراثة تأتي من كلا الأبوين."
+
+msgid "No. Mom is just as important."
+msgstr "لا. الأم مهمة أيضا."
+
+# 21
+msgid ""
+"Look at the image on the right and select the correct term for the object it "
+"is illustrating."
+msgstr "أنظر إلى الصورة على اليمين واختار المصطلح الصحيح  للكائن مع التوضيح."
+
+msgid "Select"
+msgstr "اختار"
+
+msgid "Cell"
+msgstr "خلية"
+
+msgid "Nucleus"
+msgstr "النواة"
+
+msgid "Cell, chromosome and DNA..."
+msgstr "خلية، كروموسوم وحمض نووي (دي. إن. إيه) ..."
+
+msgid ""
+"Not quite. The whole organism shown is called a cell, the central section is "
+"the nucleus, inside of which are chromosomes. DNA is the molecule found in "
+"the nucleus and a gene is a section of DNA."
+msgstr ""
+"ليس تماما، يسمى الكائن الحي كله بالخلية.  والجزء الأوسط يسمى بالنواة، وفي "
+"الداخل الكروموسومات. الحمض النووي هو جزيء موجود داخل النواة والجين هو جزء من "
+"الحمض النووي (دي. إن. إيه)."
+
+msgid ""
+"Great! The whole organism shown is called a cell, the central section is the "
+"nucleus, inside of which are chromosomes."
+msgstr ""
+"رائع! يسمى الكائن الحي كله بالخلية.  والجزء الأوسط يسمى بالنواة، وفي الداخل "
+"الكروموسومات. "
+
+# 22
+msgid "The process which results in sex cells is called..."
+msgstr "تسمى العملية التي تنتج من الخلايا الجنسية...."
+
+msgid "Boom!  That's the one!"
+msgstr "صحيح! هذه هي الإجابة الصحية!"
+
+msgid "Sorry!  It sounds similar..."
+msgstr "لا! تبدو مشابهة..."
+
+msgid "Sort of, but no.  What KIND of cell division?"
+msgstr "نوعا ما، لكن لا.  ما هو نوع إنقسام الخلية؟"
+
+msgid "Nope. That's when sex cells combine."
+msgstr "لا. هذا عندما تندمج الخلايا الجنسية."
+
+msgid "Dividing cells..."
+msgstr "خلايا مقسمة ..."
+
+msgid "Cell division"
+msgstr "إنقسام الخلية"
+
+# 23
+msgid ""
+"Which of the following matings would most likely produce around three "
+"dominant offspring for every recessive?"
+msgstr ""
+"أي من التزاوج التالي ينتج منه على الأغلب ثلاثة  ذريات سائدة لكل ذرية "
+"متنحية؟  "
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت جاهز لإختبارك الأخير؟"
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك في آخر إختبار سريع ؟."
+
+msgid "Hmmm....  Where would the recessive gene come from?"
+msgstr "ممم.... من أين يأتي الجين المتنحي؟"
+
+msgid "Let's see... Where did you get the dominant gene?"
+msgstr "لنرى... من أين تحصل على الجين السائد؟"
+
+msgid "Bingo! The offspring would be AA, Aa, Aa and aa."
+msgstr "بنقووووووه! ستكون الذرية AA، Aa، Aa ، و aa. "
+
+msgid "Are you sure? How can these parents produce a recessive offspring?"
+msgstr "هل أنت متأكذ؟ كيف يمكن لهؤلاء الأباء بانتاج ذريات متنحية؟"
+
+# 24
+msgid "You've completed the Genetic Codes review."
+msgstr "لقد أتمتت مراجعة الشيفرة الوراثية."
+
+msgid "You're done!"
+msgstr "لقد أنهيت!"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيف عملت في التقويم السريع وفي الأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل."
+
+msgid "Congratulations"
+msgstr "تهانينا"

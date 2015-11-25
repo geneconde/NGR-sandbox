@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التقويم السريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "تقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "تقويم سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التقويم السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Play"
+msgstr "شغَل"
+
+msgid "Pause"
+msgstr "وقف مؤقت"
+
+msgid "Stop"
+msgstr "توقف"
+
+msgid "Mute"
+msgstr "صامت"
+
+msgid "Unmute"
+msgstr "غير صامت"
+
+msgid "Max volume"
+msgstr "أعلى صوت"
+
+msgid "Full screen"
+msgstr "وضع الشاشة بالكامل"
+
+msgid "Restore screen"
+msgstr "استعادة الشاشة"
+
+msgid "Repeat"
+msgstr "كرر"
+
+msgid "Repeat off"
+msgstr "إيقاف التكرار"
+
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "لتشغيل الوسائط ستحتاج إما إلى تحديث المتصفح للنسخة الأخيرة أو تحديث ...."
+
+msgid "Flash plugin"
+msgstr "أدخل الفلاش "
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر، وثبت الفأرة وحركها للأعلى وللأسفل كي تُدَوِّر الصندوق وتختار إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة ستعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Congratulations"
+msgstr "مبروك"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وللأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير تقويمك السريع الاول!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد لاخر اختبار سريع؟ "
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال قصير ؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "You're done!"
+msgstr "لقد انتهيت!"
+
+# 1
+msgid "Electric Charge"
+msgstr "شحنة كهربائية"
+
+msgid "Welcome to the Electric Charge module"
+msgstr "مرحبا بكم في وحدة الشحنة الكهربائية"
+
+msgid "Let's begin"
+msgstr "دعنا نبدأ!"
+
+# 2
+msgid "Thinking about... electric charge"
+msgstr "التفكير.. بالشحنة الكهربائية"
+
+msgid "For more than one reason, going down the slide at the playground can be a hair-raising experience. From bolts of lightning to static cling, many things that we see and experience in everyday life are controlled by electric charge. That's because all the objects that you interact with are made up of charged particles. We don't normally notice all of that electric charge because most objects have equal amounts of positive and negative charge. When the charge of an object gets altered, even just a little bit, the effect can be very noticeable."
+msgstr "لأكثر من سبب واحد، الانزلاق في الملعب على الزلاقة يمكن أن يكون تجربة يتوقف لها الشعر.  من مغالق البرق إلى الكهرباء الساكنة، يتم التحكم بالعديد من الأشياء التي نراها ونختبرها في الحياة اليومية من خلال الشحنة الكهربائية. وهذا لأن جميع الأجسام التي يمكنك التفاعل معها مكونة من جسيمات مشحونة.  نحن عادة لا نلاحظ كل تلك الشحنات الكهربائية لأن معظم الأجسام فيها كميات متساوية من الشحنات الموجبة والسالبة.  عندما يحصل تغيير فيها ولو حتى قليل، يمكن أن يكون التأثير ملحوظا جدا."
+
+msgid "Are you ready, "
+msgstr "هل أنت مستعد،"
+
+# 3
+msgid "Checking what you already know about...  electric charge"
+msgstr "تحقق مما كنت تعرفه سابقا عن..الشحنة الكهريائية"
+
+msgid "Which of the following objects contain electric charge? Check <span class='blink'>ALL</span> that apply."
+msgstr "أي من الأجسام التالية تحتوي على شحنة كهربائية؟ تحقق من <span class='blink'>جميع</span> ما ينطبق عليها ذلك"
+
+msgid "A beach ball"
+msgstr "كرة الشاطئ"
+
+msgid "A tea kettle"
+msgstr "إبريق الشاي"
+
+msgid "A baby"
+msgstr "طفل"
+
+msgid "A dog"
+msgstr "كلب"
+
+msgid "All objects made of matter contain a mix of charged particles. If you selected all of the items, you're headed in the right direction."
+msgstr "تحتوي كافة الأجسام المكونة من مواد على مزيج من الجسيمات المشحونة.  إذا قمت بتحديد كافة العناصر، فأنت في الاتجاه الصحيح."
+
+msgid "Looking at the particles..."
+msgstr "البحث في الجزيئات..."
+
+# 4
+msgid "Reviewing big ideas about... electric charge"
+msgstr "استعراض أفكار كبيرة حول.. الشحنة الكهربائية"
+
+msgid "Click the image to view."
+msgstr "انقر فوق الصورة لعرضها."
+
+msgid "All of the objects that we encounter in everyday life are made up of matter. Matter consists of really small particles called atoms, and those atoms are made up of even smaller particles called <span class='key'>protons</span>, <span class='key'>neutrons</span> and <span class='key'>electrons</span>. Protons carry a positive charge, and electrons carry a negative charge while neutrons carry no charge. There are more protons in the fingernail on your pinky than there are people on the Earth. However high that number may be, there are most likely the exact same number of electrons in that fingernail. Most objects have an equal number of protons and electrons. In other words, most objects are <span class='key'>electrically neutral</span>. Scientists have been studying electricity for far longer than they have known about the atomic particles. That's why they first came up with the terms positive charge and negative charge to describe what we now know as protons and electrons. If an object contains more electrons than protons, the object is said to be negatively charged. If an object contains more protons than electrons, it is said to be positively charged."
+msgstr "جميع الأجسام التي نصادفها كل يوم مكونة من مواد.  تتكون المواد من جزيئات صغيرة جدا تسمى الذرات، و تلك الذرات تتكون من جسيمات أصغر تسمى  <span class=key>البروتونات</span>،و <span class=key>النيوترونات</span> و <span class=key>الإلكترونات</span>.  البروتونات تحمل شحنة موجبة والإلكترونات تحمل شحنة سالبة بينما النيوترونات لا تحمل أي شحنة.  وهناك الكثير من البروتونات على الظفر أكثر من الناس على الأرض.  ومع ارتفاع هذا العدد ، فعلى الأرجح هناك العدد الدقيق نفسه من الإلكترونات في الظفر.  معظم الكائنات لديها عدد متساو من البروتونات والإلكترونات. وبعبارة أخرى، فإن معظم الأجسام <span class=key>متعادلة كهربائيا</span>.  فقد كان العلماء يدرسون الكهرباء لفترة أطول بكثير مما كانوا يعرفون عن الجسيمات الذرية.  لهذا السبب جاؤوا بمصطلحات الشحنة الموجبة والشحنة السالبة لوصف ما نعرفه الآن باسم البروتونات والإلكترونات.  إذا كان الجسم يحتوي الإلكترونات أكثر من البروتونات، تصبح شحنة الجسم سالبة. وإذا كان الجسم يحتوي على  البروتونات أكثر من الإلكترونات،تصبح شحنة الجسم موجبة."
+
+msgid "It turns out that it is relatively easy to change the number of electrons in an object, but extremely difficult to change the number of protons. For this reason, objects typically become charged because they've either gained electrons from some other object, or they've lost electrons to some other object. Scientists refer to a gain of electrons as becoming <span class='key'>negatively charged</span>, and a loss of electrons as becoming <span class='key'>positively charged</span>.  Gaining or losing protons is a much more involved process, and would mean that the material had actually changed to a different element, like turning Oxygen into Carbon."
+msgstr "تبين أنه من السهل نسبيا إحداث تغيير في عدد الإلكترونات في الجسم، ولكن من الصعب للغاية تغيير عدد البروتونات. لهذا السبب،  عادة تصبح الأجسام مشحونة لأنها قد اكتسبت إما الإلكترونات من على جسم آخر، أو أنها قد فقدت الإلكترونات على جسم آخر.  يشير العلماء إلى كسب الإلكترونات كأن تصبح <span class='key'>مشحونة سلبا</span>، وفقدان الإلكترونات كأن تصبح <span class='key'>مشحونة إيجابا</span>.  كسب أو فقدان البروتونات هي عملية مرتبطة أكثر من ذلك بكثير ، وذلك يعني أن المواد قد تغيرت بالفعل إلى عنصر مختلف، مثل تحول الأكسجين إلى الكربون."
+
+msgid "Carrying positive charge..."
+msgstr "حمل شحنة موجبة"
+
+# 5
+msgid "Scientists can use a device called an electroscope to test the charge on an object.  If scientists determine that a plastic rod has a positive charge, the most likely explanation is that..."
+msgstr "يمكن للعلماء استخدام جهاز يسمى الكشاف الكهربائي لاختبار الشحنة على الجسم.  اذا قرر العلماء أن القضيب البلاستيكي يحتوي على شحنة موجبة، فالتفسير الأكثر احتمالا هو أن ..."
+
+msgid "the plastic rod gained some electrons from another object."
+msgstr "القضيب البلاستيكي اكتسب  بعض الإلكترونات من جسم آخر."
+
+msgid "the plastic rod lost some electrons to another object."
+msgstr "القضيب البلاستيكي فقد بعض الإلكترونات إلى جسم آخر."
+
+msgid "the plastic rod gained some protons from another object."
+msgstr "القضيب البلاستيكي اكتسب بعض البروتونات من جسم آخر."
+
+msgid "the plastic rod lost some protons to another object."
+msgstr "القضيب البلاستيكي فقد بعض البروتونات إلى جسم آخر."
+
+msgid "Preparing your first quick check…"
+msgstr "التحضر لأول إختبار سريع!"
+
+msgid "Nope. If the rod had gained some electrons from another object, it would be negatively charged. Since the rod is positively charged, it must have lost electrons to another object."
+msgstr "كلا. إذا كان القضيب قد اكتسب بعض الإلكترونات من جسم آخر، فستكون شحنته سالبة.  وطالما شحنة القضيب موجبة، فبالتأكيد قد خسر الإلكترونات في جسم آخر."
+
+msgid "Nicely done! The rod is positively charged because some of its electrons have gone to another object."
+msgstr "تم باتقان! شُحن القضيب بشحنات موجبة لأن بعض من الإلكرونات الموجودة فيه ذهبت إلى جسم آخر."
+
+msgid "Nope. It would take a great deal of energy to gain protons from another object, and that would also fundamentally change the material the rod is made out of. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "كلا. سوف يستغرق الكثير من الطاقة للحصول على البروتونات من جسم آخر، وهذا قد يُحدث تغيير جذري في المواد المصنوع منها القضيب.  في هذه الحالة، أصبحت شحنة القضيب موجبة عن طريق فقدان الإلكترونات إلى جسم آخر."
+
+msgid "Nope. Losing protons to another object would result in the rod becoming negatively charged. In this case, the rod became positively charged by losing electrons to another object."
+msgstr "كلا. فقدان البروتونات إلى جسم آخر يؤدي إلى أن تصبح شحنة القضيب سالبة.  في هذه الحالة، أصبحت شحنة القضيب موجبة عن طريق فقدان الإلكترونات إلى جسم آخر."
+
+# 6
+msgid "More big ideas about... electric charge"
+msgstr "المزيد من الأفكار الكبيرة حول ... الشحنة الكهربائية"
+
+msgid "Neutral objects can gain or lose electrons in a variety of ways. One of the most common is through contact with other materials. Depending on the material an object is made out of, it may either take electrons from other objects, or it might tend to give electrons to other objects. For example, when a balloon is rubbed on human hair, the balloon tends to take electrons from the hair. This leaves the balloon with a negative charge and the hair with a positive charge. This is similar to the way in which you can charge up by shuffling your feet across a carpeted floor, or charge a comb by rubbing it with a silk cloth."
+msgstr "يمكن للأجسام المتعادلة كهربائياً كسب أو فقدان الإلكترونات بمختلف الطرق.  واحدة من الطرق الاكثر شيوعا هي من خلال الاتصال مع غيرها من المواد.  اعتمادا على المواد التي يتكون منها الجسم، قد تأخذ إما الإلكترونات من الأجسام الأخرى، أو أنها قد تميل إلى إعطاء الإلكترونات إلى أجسام أخرى.  على سبيل المثال، عندما يفرك بالون على شعر البشر، البالون يميل إلى أخذ الإلكترونات من الشعر.  هذا يترك البالون مع شحنة سالبة والشعر مع شحنة موجبة.  وهذا يشبه الطريقة التي تقوم بها بجر قدميك على أرضيات مفروشة بالسجاد، أو شحن المشط عن طريق فركه بقطعة قماش من الحرير."
+
+msgid "The type of charge an object will take can be determined by consulting a chart called the <span class = 'key'>triboelectric series</span>.  This chart identifies materials by their tendency to either lose electrons or gain electrons, in comparison to other materials.  An object listed near the top of the chart at right tends to lose electrons and become positively charged.  A material listed near the bottom of the chart is more likely to gain electrons and become negatively charged.  For example, if you rubbed a nylon rod with a polyester cloth, the nylon would lose electrons to the polyester resulting in a positive charge for the nylon rod and a negative charge for the polyester.  However, if a neutral piece of polyester was rubbed on a vinyl rod, the polyester would become positively charged, and the vinyl would be negatively charged.  This is because vinyl is located closer to the negative end of the chart and polyester is relatively closer to the positive end."
+msgstr "يمكن تحديد نوع الشحنة التي سيأخذها الجسم  عن طريق الرجوع الى الرسم البياني والذي  يسمى <span class = 'key'>سلسلة الاحتكاك بالتكهرب</span> .  هذا المخطط يحدد المواد التي تميل إما إلى فقد الإلكترونات أو كسب الإلكترونات، بالمقارنة مع غيرها من المواد. الجسم المدرج بالقرب من أعلى الرسم البياني على اليمين يميل إلى فقدان الإلكترونات ويصبح موجب الشحنة.  المواد المدرجة بالقرب من أسفل الرسم البياني هي أكثر عرضة لاكتساب الإلكترونات وتصبح سالبة الشحنة.  على سبيل المثال، إذا كنت تفرك قضيب النايلون بقطعة قماش من البوليستر، فإن النايلون يفقد الإلكترونات إلى البوليستر مما يؤدي إلى شحنة موجبة لقضيب النايلون وشحنة سالبة للبوليستر. ومع ذلك، إذا كنت تفرك قطعة من البوليستر على قضيب الفينيل فالبوليستر سوف يصبح موجب الشحنة، وسوف يكون الفينيل سالب الشحنة.  وذلك لأن الفينيل يقع أقرب الى الشحنة السالبة في نهاية الرسم البياني والبوليستر هو أقرب نسبيا إلى نهاية الشحنة الموجبة."
+
+msgid "+ POSITIVE CHARGE"
+msgstr "+  شحنة موجبة"
+
+msgid "Air"
+msgstr "الهواء"
+
+msgid "Human body"
+msgstr "جسم الإنسان"
+
+msgid "Glass"
+msgstr "الزجاج"
+
+msgid "Human hair"
+msgstr "شعر البشر"
+
+msgid "Nylon"
+msgstr "النايلون"
+
+msgid "Wool"
+msgstr "الصوف"
+
+msgid "Aluminum"
+msgstr "الومنيوم"
+
+msgid "Paper"
+msgstr "الورق"
+
+msgid "Cotton"
+msgstr "القطن"
+
+msgid "Iron"
+msgstr " الحديد "
+
+msgid "Wood"
+msgstr "الخشب"
+
+msgid "Hard rubber"
+msgstr "المطاط الصلب"
+
+msgid "Nickel copper"
+msgstr "النيكل والنحاس"
+
+msgid "Brass silver"
+msgstr "النحاس الأصفر والفضة"
+
+msgid "Gold platinum"
+msgstr "الذهب والبلاتين"
+
+msgid "Artificial silk"
+msgstr "الحرير الاصطناعي"
+
+msgid "Polystyrene"
+msgstr "البوليسترين"
+
+msgid "Polyester"
+msgstr "البوليستر"
+
+msgid "Polyurethane"
+msgstr "البولي يوريثين"
+
+msgid "Polyethylene"
+msgstr "البولي ايثيلين"
+
+msgid "Polypropylene"
+msgstr "بولي بروبيلين"
+
+msgid "PVC(vinyl)"
+msgstr "بولي كلوريد الفينيل (الفينيل)"
+
+msgid "Silicon"
+msgstr "السيليكون"
+
+msgid "- NEGATIVE CHARGE"
+msgstr "- شحنة سالبة"
+
+msgid "Neutral objects can also gain or lose electrons by coming into contact with a charged object. A Van de Graaff generator can be used for this type of charging. Upon turning on the Van de Graaff generator, electrons tend to flow off of the large metal dome, leaving it positively charged. By touching other objects to the metal dome, they too can become positively charged. You may have seen images like the one below of a person's hair standing on end. By touching a Van de Graaff generator, the person, and every hair on their head, becomes positively charged, too! This type of charging by coming into contact with a charged object is called <span class='key'>conduction</span>."
+msgstr "يمكن للأجسام المحايدة كسب أو فقدان الإلكترونات عند اتصالها مع جسم مشحون. و يمكن استخدام مولد فان دي غراف لهذا النوع من الشحن.  وعند تشغيل مولد فان دي غراف، تميل الإلكترونات  إلى التدفق خارج قبة معدنية كبيرة، مما يجعلها موجبة الشحنة.  عن طريق لمس أشياء أخرى للقبة المعدنية، فإنها أيضا يمكن أن تصبح موجبة الشحنة.  ولعلك لاحظت الصور مثل الموجودة أدناه لشعر الشخص الذي يقف في الخلف.  عن طريق لمس مولد فان دي غراف فإن الشخص، وكل شعرة على رأسه سوف يصبح موجب الشحنة، أيضا! ويسمى هذا النوع من الشحن عن طريق ملامسة الجسم المشحون <span class = 'key'>الشحن بالتوصيل</span>."
+
+msgid "Checking Van de Graaff generator..."
+msgstr "التحقق من مولد فان دي غراف "
+
+# 7
+msgid "Try to determine the charge for an object based on its location on the triboelectric series. Drag the material to the correct column."
+msgstr "حاول تحديد الشحنة  استنادا على موقعها في سلسلة التكهرب بالاحتكاك . اسحب المواد إلى العمود الصحيح."
+
+msgid "Object"
+msgstr "جسم"
+
+msgid "Positive Charge"
+msgstr " شحنة موجبة"
+
+msgid "Negative Charge"
+msgstr "شحنة سالبة"
+
+msgid "Rubbed Against"
+msgstr "فرك باتجاه  عكسي"
+
+msgid "Studying triboelectric series..."
+msgstr "دراسة سلسلة التكهرب بالاحتكاك"
+
+msgid "Wool Mittens"
+msgstr "قفازات الصوف"
+
+msgid "Glass Tube"
+msgstr "انبوب الزجاج"
+
+msgid "PVC Pipe"
+msgstr "انبوب بولي كلوريد الفينيل"
+
+msgid "Cotton Shirt"
+msgstr "قميص قطن"
+
+msgid "You've got it! The glass is located towards the top of the triboelectric series, so it would lose electrons to the wool, resulting in a negative charge for the mittens."
+msgstr "لقد أصبت! موقع الزجاج هو نحو الجزء العلوي من سلسلة التكهرب بالاحتكاك، لذلك سوف تفقد الإلكترونات إلى الصوف، مما يؤدي إلى حدوث شحنة سالبة للقفازات."
+
+msgid "Not quite. Glass is closer to the top of the list, and wool is closer to the bottom. This means the glass would become positively charged, and the wool would become negatively charged."
+msgstr "ليس تماما. الزجاج هو أقرب إلى الجزء العلوي من القائمة، والصوف هو أقرب إلى الأسفل. وهذا يعني ان الزجاج تصبح شحنته موجبة، وسوف تصبح شحنة الصوف سالبة."
+
+msgid "Yes! The cotton is closer to the top of the list, and the vinyl is down towards the bottom end of the list. The relative positions of the items on the list determine the charge they will take."
+msgstr "نعم! القطن هو أقرب إلى الجزء العلوي من القائمة، والفينيل إلى الجزء السفلي من القائمة. الأوضاع النسبية للعناصر المدرجة على اللائحة تحدد الشحنة التي ستتخذها."
+
+msgid "Not quite! Vinyl is down towards the bottom, or negative end of the list. Cotton is much closer to the top. This means the cotton would take on a positive charge, and the vinyl would be negatively charged."
+msgstr "ليس تماما! الفينيل يكون في الأسفل ، أو  الشحنات السالبة الأخيرة  من القائمة. القطن هو أقرب بكثير إلى أعلى القائمة. وهذا يعني أن القطن يأخذ شحنة موجبة، والفينيل سوف يحصل على شحنة سالبة."
+
+# 8
+msgid "Charged objects exert forces on each other. The amount of force depends upon the amount of charge, as well as how close the objects are to each other. The direction of the force depends upon the types of charge involved. When a positively charged object is held near a negatively charged object, the two objects will experience an attractive force that attempts to bring the objects closer together. However, if a positively charged object is held near another positively charged object, both objects will experience a repulsive force that attempts to push the objects farther away from each other. You'll get the same outcome if you attempt to hold two negatively charged objects near each other. This principle is often stated as \"opposites attract, likes repel\". Take a look at the picture of the person touching the Van de Graaff generator. The person, and all of the hairs on her head have become positively charged. Since all of the hairs have the same charge, they are repelling each other, causing them to stand on end."
+msgstr "الأجسام المشحونة تؤثر بقوة على الأخرى.  كمية القوة تعتمد على كمية الشحنة، وكذلك مدى قرب الأجسام إلى بعضها البعض.  اتجاه القوة يعتمد على نوع الشحنة . عند حمل جسم شحنته موجبة  بالقرب من جسم شحنته سالبة، فإن الجسمين سوف يتأثران بقوة جذب تقرب الجسمين معا . ولكن، إذا تم حمل جسم ذو شحنة موجبة بالقرب من جسم آخر موجب الشحنة، كل الاجسام سوف تتعرض لقوة طاردة والتي تحاول دفع الأشياء بعيدا عن بعضها البعض. سوف تحصل على نفس النتيجة إذا حاولت حمل جسمين لهما شحنة سالبة بالقرب من بعضهما البعض.  وغالبا ما ذكر هذا المبدأ بأنه اجتذاب الأضداد، وتنافر المتشابهة . الق نظرة على صورة شخص يلمس مولد فان دي غراف هذاالشخص، وجميع الشعر على رأسه موجب الشحنة.  بما أن جميع الشعر له نفس الشحنة، فهم يصدون بعضهما البعض، مما يتسبب في وقوفهم بالنهاية."
+
+msgid "The force due to electric charge is responsible for holding together all of the objects around you. Charge-based interactions are responsible for the bonds that hold together solid objects like the tables and chairs in your classroom. Without this force, you would simply pass right through your chair and end up on the floor. An easy way to see this force at work is to slowly fill a glass with water. The interactions between the water molecules allow you to actually overfill the glass slightly. The surface tension will hold the molecules together and prevent them from flowing down the sides of the glass."
+msgstr "القوة الناتجة عن الشحنة الكهربائية هي المسؤولة عن تماسك جميع الأجسام من حولك. التفاعلات القائمة على الشحنة هي المسؤولة عن الروابط التي تثبت  الأجسام الصلبة معا مثل الطاولات والكراسي في صفك. بدون هذه القوة،سوف تمر ببساطة من على الكرسي وينتهي بك الأمر على الأرض. طريقة سهلة لنرى هذه القوة في العمل هو ملء كوب من الماء ببطئ. التفاعلات بين جزيئات الماء ستسمح بأن يفيض الكوب قليلا. فإن التوتر السطحي يحمل الجزيئات معا، ويمنعها من التدفق أسفل جانبي الزجاج."
+
+msgid "Opposites attract"
+msgstr "جذب الأضداد"
+
+# 9
+msgid "You rub a balloon on your sweater, and the balloon becomes negatively charged. Another object is rubbed on your sweater, and then held near the balloon."
+msgstr "انت تقوم بفرك بالون بسترتك، و تصبح شحنة البالون سالبة، تقوم بفرك شيء آخر بنفس سترتك، ويبقى بالقرب من البالون."
+
+msgid "Question A. If the balloon appears to be attracted to the new object, that means that the new object is likely:"
+msgstr "السؤال أ. إذا تبين بأن البالون ينجذب إلى الجسم الجديد، هذا يعني أن الجسم الجديد من المرجح أن يكون:"
+
+msgid "Neutral"
+msgstr "متعادل"
+
+msgid "Question B. If the balloon appears to be pushed away by the new object, that means that the new object is likely:"
+msgstr "السؤال ب. إذا تبين أن البالون تم دفعه بعيدا عن طريق الجسم الجديد، هذا يعني أن الكائن الجديد من المرجح أن يكون:"
+
+msgid "Inflating a balloon..."
+msgstr "نفخ البالون"
+
+msgid "Yes! The object is attracted to the negatively charged balloon, so has a positive charge."
+msgstr "نعم! ينجذب الجسم إلى البالون ذا الشحنة السالبة ، وكذلك الشحنة الموجبة."
+
+msgid "Nope. If the new object was negatively charged, it would repel the balloon. Remember \"likes repel\"."
+msgstr "كلا.  إذا كانت شحنة الجسم الجديد سالبة، فإنه سيدفع البالون بعيداً.  تذكر أن  الشحنات المتشابهة تتنافر"
+
+msgid "Nope. If the object is attracted to the negatively charged balloon, it is likely positively charged."
+msgstr "كلا.  إذا انجذب جسم إلى بالون سالب الشحنة، من المرجح أن تكون الشحنة  موجبة ."
+
+msgid "You've got it! Since the new object pushes away from the negatively charged balloon, it must be negatively charged, just like the balloon."
+msgstr "لقد أصبت! بما أن الجسم الجديد يندفع بعيدا عن البالون ذا  الشحنة السالبة، لا بد أن يكون مشحون سلبا، تماما مثل البالون."
+
+msgid "Not quite. If the object is repelled by the negatively charged balloon, then it must have the same negative charge as the balloon."
+msgstr "ليس تماما. إذا تم دفع الجسم بواسطة البالون سالب الشحنة بعيداً، لابد أن يكون له نفس الشحنة السالبة مثل البالون."
+
+msgid "Nope. If the object is pushed away, or repelled, then it is probably charged \"like\" the negatively charged balloon."
+msgstr "كلا. إذا تم دفع الجسم بعيدا، أو صده، فربما عندها يكون البالون سالب الشحنة."
+
+# 10
+msgid "Lightning storms are one of nature’s most dramatic spectacles.  These storms can be both fascinating displays of natural beauty, as well as frightening and dangerous.  A lightning strike can cause severe damage to large objects like forests or homes, and can cause severe injury or death for animals.  Scientists disagree as to the exact method by which the clouds become charged, but it seems that it is likely related to the vertical movement of water droplets within the clouds.  This tends to leave the bottom of the cloud negatively charged, and the upper part of the cloud positively charged.  When the electric charge becomes great enough, a cloud can get rid of the excess charge by sending a stream of electrons to another cloud, or to the ground.  This stream of particles causes the air to give off light, and causes the air to heat up so rapidly that it produces a shockwave that we hear as thunder.  Lightning is a very common occurrence.  At any given moment, there are on average just under 50 lightning strikes per second occurring on Earth.  There’s an old yarn that lightning never strikes the same spot twice, but according to records, the Empire State building was once struck eight times in less than half an hour.  Lightning strikes are so dangerous because they contain a large amount of energy.  Even a small lightning carries enough energy to light up a 100-Watt light bulb for three days."
+msgstr "العواصف الرعدية هي واحدة من المشاهدات الأكثر دراماتيكية في الطبيعة. ويمكن لكل هذه العواصف أن تكون رائعة من روائع جمال الطبيعة ، وكذلك مخيفة وخطيرة.  يمكن أن يسبب البرق  أضرارا بالغة في الأجسام الكبيرة مثل الغابات والمنازل، ويمكن أن يسبب إصابة شديدة أو الموت للحيوانات.  يختلف العلماء حول الطريقة التي تصبح بها الغيوم مشحونة بالضبط، ولكن يبدو أنه من المرجح أنها متعلقة بحركة رأسية من قطرات الماء في السحب. هذا يميل إلى ترك الجزء السفلي من السحابة سالب الشحنة، والجزء العلوي من السحابة موجب الشحنة.  عندما تصبح الشحنة الكهربائية كبيرة بما فيه الكفاية، يمكن للسحابة أن تتخلص من الشحن الزائد عن طريق إرسال تيار الإلكترونات إلى سحابة أخرى، أو على الأرض.  هذا تيار من الجسيمات يتسبب في جعل الهواء يعطي ضوءا، ويتسبب في تسخين الهواء بسرعة كبيرة بحيث ينتج عنه حدوث الهزة الارضية التي نسمعها كالرعد.  البرق هو شائع الحدوث جدا.  في أي لحظة هناك متوسط بأن حوالي 50 صاعقة تحدث على الارض في الثانية . هناك حكاية قديمة مفادها ان البرق لا يضرب نفس المكان مرتين، ولكن وفقا للسجلات، مبنى امباير ستيت ضرب حوالي ثماني مرات في أقل من نصف ساعة.  الصواعق تكون خطيرة جدا لأنها تحتوي على كمية كبيرة من الطاقة.  حتى البرق الصغير يحمل ما يكفي من الطاقة ليضيء لمبة بقوة 100 واط لمدة ثلاثة أيام."
+
+msgid "Another awe-inspiring light show can come, courtesy of the Aurora Borealis (Northern Lights) and the Aurora Australis (Southern Lights). These beautiful displays of color in the night sky are most easily seen in regions near the North or South Pole. The colors are the result of charged particles interacting with the gases in the upper atmosphere. The particles come from the Sun, and as they approach the Earth, they get trapped by the Earth's magnetic field. The magnetic field causes them to circle the Earth in several regions known as the Van Allen Belts. The Earth's magnetic field bends towards the poles, and the particles can spiral down into the upper atmosphere, energizing the atmospheric gases, and producing the brilliant light show."
+msgstr "ضوء مذهل آخر يمكن أن يأتي بفضل الشفق القطبي (الشفق القطبي الشمالي) واوستريلز أورورا (الأنوار الجنوبية).  وتعتبر هذه العروض الجميلة اللون ليلا في السماء هي  الأكثر سهولة أن تحدث في المناطق القريبة من القطب الشمالي أو الجنوبي. الألوان هي نتيجة تفاعل الجسيمات المشحونة مع الغازات الموجودة في الغلاف الجوي العلوي. الجسيمات تأتي من الشمس، كما أنها تقترب من الأرض، وتحاصر من قبل المجال المغناطيسي للأرض. المجال المغناطيسي يسبب لهم للدوران حول الأرض في عدة مناطق تعرف باسم أحزمة فان ألن. المجال المغناطيسي للأرض ينحني نحو القطبين، ويمكن للجزيئات أن تهبط  بشكل لولبي أسفل الغلاف الجوي العلوي، منشطا الغازات في الغلاف الجوي، منتجا عرض الضوء اللامع."
+
+msgid "Observing lightning..."
+msgstr "مراقبة البرق ..."
+
+# 11
+msgid "Question A. Check <span class='blink'>ALL</span> that apply. The brilliant Northern Lights are the result of gases in the Earth's upper atmosphere interacting with..."
+msgstr "السؤال أ. تحقق من  <span class='blink'>جميع</span> ما ينطبق. الأضواء الشمالية الرائعة هي نتيجة الغازات في الغلاف الجوي العلوي للأرض المتفاعلة مع ..."
+
+msgid "Protons"
+msgstr "البروتونات"
+
+msgid "Electrons"
+msgstr "الإلكترونات"
+
+msgid "Neutrons"
+msgstr "النيوترونات"
+
+msgid "Question B. Check <span class='blink'>ALL</span> that apply. The Auroras are most easily seen near..."
+msgstr "السؤال ب. تحقق من <span class='blink'>كل</span> ما ينطبق. الشفق هو اكثر سهولة أن يُرى قرب..."
+
+msgid "North Pole"
+msgstr "القطب الشمالي"
+
+msgid "South Pole"
+msgstr "القطب الجنوبي"
+
+msgid "Equator"
+msgstr "خط الاستواء"
+
+msgid "Yes!  Eruptions on the Sun send streams of charged particles in all directions.  Protons and Electrons interact with the Earth’s magnetic field, and produce the Aurora displays."
+msgstr "نعم! الانفجارات  التي تحدث على الشمس ترسل تيارات من الجسيمات المشحونة في كل الاتجاهات.  تتفاعل البروتونات والإلكترونات مع المجال المغناطيسي للأرض، وتنتج أضواء الشفق."
+
+msgid "Nope. Neutrons do not carry electric charge, so they don't interact with the Earth's magnetic field."
+msgstr "كلا. النيوترونات لا تحمل شحنة كهربائية، حتى أنها لا تتفاعل مع المجال المغناطيسي للأرض."
+
+msgid "Almost! Both electrons and protons are trapped by the Earth's magnetic field. Both charges play a part in the brilliant Auroras."
+msgstr "تقريبا! كل من الإلكترونات والبروتونات محاصران عن طريق الحقل المغناطيسي للأرض.  كلا الشحنتين  تلعبان دورا في ظهور الشفق الرائع."
+
+msgid "Nope.  Neutrons do not carry electric charge, so they don’t interact with the Earth’s magnetic field."
+msgstr "كلا. النيوترونات لا تحمل شحنة كهربائية، حتى أنها لا تتفاعل مع المجال المغناطيسي للأرض."
+
+msgid "Way to go! The Earth's magnetic field bends towards the surface at the Poles. This results in charged particles spiraling down towards the upper atmosphere and producing the Auroras."
+msgstr "أحسنت! المجال المغناطيسي للأرض ينحني نحو السطح في القطبين. وهذا يؤدي إلى جسيمات مشحونة بشكل تصاعدي نحو الغلاف الجوي العلوي وتكون الشفق."
+
+msgid "Nope. The magnetic field lines near the equator run parallel to the Earth's surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "كلا. تسير خطوط الحقل المغناطيسي بالقرب من خط الاستواء  بشكل مواز لسطح الأرض، والجسيمات المشحونة في تلك المنطقة لا تصل إلى الغلاف الجوي العلوي."
+
+msgid "Not quite. The Aurora are visible in both polar regions. In the northern hemisphere, they're called the Aurora Borealis, and in the southern hemisphere they're called the Aurora Australis."
+msgstr "ليس تماما. يكون الشفق مرئيا في كل المناطق القطبية. في نصف الكرة الشمالي،ويسمى بالشفق القطبي، وفي نصف الكرة الجنوبي  يسمى بالشفق القطبي الجنوبي."
+
+msgid "Nope.  The magnetic field lines near the equator run parallel to the Earth’s surface, and charged particles in that region do not reach the upper atmosphere."
+msgstr "كلا. تسير خطوط الحقل المغناطيسي بالقرب من خط الاستواء  بشكل مواز لسطح الأرض، والجسيمات المشحونة في تلك المنطقة لا تصل إلى الغلاف الجوي العلوي."
+
+# 12
+msgid "Using what you now know about... electric charge... to solve a problem"
+msgstr "استخدام  ما تعرفه الآن حول ... الشحنة الكهربائية ... من أجل حل مشكلة"
+
+msgid "The local children's museum is planning on conducting a \"hands on\" science show, where school children will be able to conduct their own science investigations to learn about nature. As part of this program, the students will use common materials to investigate electric charge."
+msgstr "يخطط متحف الأطفال المحلي إجراء عرض للعلوم، حيث سيكون أطفال المدارس قادرين على إجراء تحقيقات العلوم الخاصة بهم للتعرف على الطبيعة.  كجزء من هذا البرنامج، سيقوم الطلاب باستخدام مواد مشتركة للتحقيق في الشحنة الكهربائية."
+
+msgid "Human Hair"
+msgstr "شعر الانسان"
+
+msgid "Gold"
+msgstr "الذهب "
+
+msgid "The program director has asked you to use your understanding of the triboelectric series to create a list of combinations of materials that can be used to produce positive charged objects and to produce negatively charged objects."
+msgstr " طلب منك مدير البرنامج استخدام فهمك لسلسلة التكهرب الثلاثية بالاحتكاك لإنشاء قائمة من مزيج من المواد التي يمكن استخدامها لإنتاج الأجسام ذات الشحنة الموجبة  وإنتاج الأجسام ذات الشحنة السالبة."
+
+msgid "Writing a report..."
+msgstr "كتابة تقرير ..."
+
+# 13
+msgid "Summarizing big ideas about... electric charge"
+msgstr "تلخيص الأفكار الكبيرة حول ... الشحنة الكهربائية"
+
+msgid "All of the objects that you see around you are made up of <span class=key>electrons</span>, <span class=key>neutrons</span> and <span class=key>protons</span>. Electrons and protons are the particles that carry electric charge. In most objects, the number of protons and the number of electrons is exactly the same, so those objects are said to be <span class=key>electrically neutral </span>.  Charge can be separated by touching different materials, like silk and vinyl, together and peeling them apart.  Only electrons are exchanged in this way, exchanging protons requires a much greater amount of energy.  Charged particles exert forces on one another with like charge particles pushing away from each other with a repulsive force, and opposite charges attracting.  These forces due to electric charge are responsible for holding together all of the objects that make up the world around you. Several of the most dramatic light shows in nature are based on charged particles. Lightning strikes occur when a large buildup of electrons at the base of a cloud jump to another cloud or to the Earth's surface. The Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) are the result of charged particles interacting with the Earth's magnetic field and energizing gases in the atmosphere, causing beautiful displays of color in the night sky."
+msgstr "كل الأجسام التي تراها حولك مكونة من <span class = 'key'>إلكترونات،و <span class = 'key'>نيوترونات و <span class = 'key'>بروتونات.   الالكترونات و البروتونات هي الجزيئات التي تحمل الشحنة الكهربائية.  في معظم الأجسام، عدد البروتونات وعدد الإلكترونات هو نفسه تماما، لذلك يقال إن هذه الأجسام <span class = 'key'>متعادلة كهربائيا.  يمكن فصل الشحنة عن طريق لمس مواد مختلفة، مثل الحرير والفينيل، معا وفصلهما عن بعض.  الإلكترونات هي الوحيدة التي تستبدل بهذه الطريقة، تبادل البروتونات يتطلب قدرا أكبر من الطاقة.  الجسيمات المشحونة تمارس القوة على بعضها البعض بدفع شحنة الجزيئات المتشابهة بعيدا عن بعضها البعض باستخدام  قوة طاردة، والشحنات المتضادة تنجذب معا.  هذه القوى و بسبب الشحنة الكهربائية هي المسؤولة عن ثبات جميع الأجسام التي تشكل العالم من حولك.  العديد من البرامج الأكثر دراماتيكية في ضوء الطبيعة تقوم على الجسيمات المشحونة.  تحدث الصواعق عند تراكم عدد من الإلكترونات في قاعدة السحابة قافزة الى سحابة أخرى أو إلى سطح الأرض.  أورورا بورياليس (الشفق القطبي الشمالي) وأورورا اوستريلز (الأنوار الجنوبية) هي نتيجة تفاعل الجسيمات المشحونة مع المجال المغناطيسي للأرض و تنشيط الغازات في الغلاف الجوي، مما يتسبب في عرض ألوان جميلة في المساء."
+
+# 14
+msgid "Reviewing key vocabulary related to... electric charge"
+msgstr "مراجعة المفردات الأساسية ذات الصلة ... بالشحنة الكهربائية"
+
+msgid "Electron"
+msgstr "إلكترون"
+
+msgid "One of the components that make up atoms. Tiny, negatively charged particles that orbit the atom's nucleus."
+msgstr "واحدة من المكونات التي تشكل الذرات.  الجسيمات الصغيرة ذات الشحنة السالبة هي التي تدور حول نواة الذرة."
+
+msgid "Proton"
+msgstr "بروتون"
+
+msgid "One of the components that make up atoms. Very small, but much larger than an electron. Protons exist inside the nucleus of atoms and possess a positive charge."
+msgstr "واحدة من المكونات التي تشكل الذرات. صغيرة جدا، ولكن أكبر بكثير من الإلكترون. وتوجد البروتونات داخل نواة الذرات وتمتلك شحنة موجبة."
+
+msgid "Neutron"
+msgstr "نيوترون"
+
+msgid "One of the components that make up atoms. Neutrons are similar in size to protons and also exist inside the nucleus of atoms, but they possess no charge."
+msgstr "واحدة من المكونات التي تشكل الذرات. النيوترونات مماثلة في الحجم إلى البروتونات وتوجد أيضا داخل نواة الذرات، ولكن لا تمتلك أي شحنة."
+
+msgid "One of two possible charges. Things that are positively charged are attracted to things that are negatively charged and repel other positively charged things. Protons have a positive charge."
+msgstr "واحدة من شحنتين محتملتين.  تنجذب الأشياء الموجبة الشحنة إلى الأشياء السالبة الشحنة وتتنافر أجسام أخرى موجبة الشحنة. البروتونات لها شحنة موجبة."
+
+msgid "One of two possible charges. Things that are negatively charged are attracted to things that are positively charged and repel other negatively charged things. Electrons have a negative charge."
+msgstr "واحدة من شحنتين محتملتين. تنجذب الأشياء السالبة الشحنة إلى الأشياء الموجبة الشحنة وتتنافر أجسام أخرى سالبة الشحنة.  البروتونات لها شحنة سالبة."
+
+msgid "Conduction"
+msgstr "التوصيل"
+
+msgid "The movement of electric charge through a material. The ease with which electricity moves through a material is called its conductivity."
+msgstr "حركة الشحنة الكهربائية عبر مادة.  ويطلق على السهولة التي ينتقل الكهرباء لها من خلال مواد بالتوصيل."
+
+msgid "Triboelectric Series"
+msgstr " سلسلة التكهرب الثلاثي بالاحتكاك"
+
+msgid "A ranking of various materials based upon the charge they acquire when touched by another material on the series."
+msgstr " مواد مختلفة مرتبة استنادا إلى الشحنة التي يكتسبونها عند لمسها من قبل مادة أخرى في هذه السلسلة."
+
+# 15
+msgid "Checking what you now know about... electric charge"
+msgstr "التحقق مما تعرفه الآن حول ... الشحنة الكهربائية"
+
+# 16
+msgid "A ping pong ball is tied to a string and then gains some electrons through charging by contact. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces due to the charged spheres will cause ping pong ball to move."
+msgstr " كرة بينج بونج مرتبطة بسلسلة ثم تكتسب بعد ذلك بعض الإلكترونات من خلال شحنها عن طريق الاتصال.  ثم تصبح مرتبطة بين نطاق المعادن: واحدة ذات شحنة موجبة والأخرى ذات شحنة سالبة. اختر السهم الذي يمثل الاتجاه و بسبب الأجواء المشحونة والتي ستسببها القوى، سوف يسبب تحرك كرة البينج بونج."
+
+msgid "Positively Charged"
+msgstr "مشحون ايجابا"
+
+msgid "Negatively Charged"
+msgstr "مشحون سلبا"
+
+msgid "Your first quiz question is…"
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "Nope.  The ping pong ball has extra electrons, meaning that it carries a negative charge.  It would be repelled by the negatively charged sphere, and attracted to the positively charged sphere."
+msgstr "كلا.  لدى كرة البينج بونج إلكترونات إضافية، وهذا يعني أنها تحمل شحنة سالبة. سيتم صدها من قبل مجال الشحنة السالبة ، وسيتم جذبها  إلى مجال الشحنة السالبة."
+
+msgid "You’ve got it!  The ping pong ball with extra electrons would be repelled or pushed away by the negatively charge sphere, and would be attracted to the positively charge sphere.  This would cause the ping pong ball to move to the left."
+msgstr "لقد أصبت! ان كرة بينغ بونغ التي تحتوي على إلكترونات إضافية يتم صدها أو دفعها بعيدا عن طريق مجال الشحنة السالبة ، ويتم جذبها إلى مجال الشحنة الموجبة.  وهذا من شأنه أن يسبب انتقال كرة بينغ بونغ  إلى اليسار."
+
+# 17
+msgid "Another ping pong ball is tied to a string and then loses some electrons through charging by contact, leaving it with more protons than electrons. It is then dangled in between two metal spheres: one with a positive charge and the other with a negative charge. Choose the arrow that represents the direction that the forces on the ping pong ball will cause it to move."
+msgstr "ترتبط كرة بينغ بونغ  أخرى إلى سلسلة ثم تفقد بعض الإلكترونات من خلال الشحن عن طريق الاتصال، تاركا إياها مع مزيد من البروتونات أكثر من الإلكترونات.  ثم تتدلى بين مجالي المعادن: واحدة ذات شحنة موجبة والأخرى ذات شحنة سالبة. اختر السهم الذي يمثل الاتجاه الذي تسببه القوة على كرة البينغ بونغ لتجعلها  تتحرك."
+
+msgid "Bouncing a ping pong ball..."
+msgstr "ارتداد كرة البينج بونج ..."
+
+msgid "Not quite.  The ping pong ball would have a positive charge due to the extra protons, so it would move to the right due to the repulsion from the positively charged sphere and the attraction to the negatively charged sphere."
+msgstr "ليس تماما.  لدى كرة البينج بونج شحنة موجبة بسبب البروتونات الإضافية، لذلك ستتحرك إلى اليمين بسبب النفور من مجال الشحنة الموجبة والجذب إلى مجال الشحنة السالبة."
+
+msgid "Correct!  The extra protons on the ping pong ball give it a positive charge.  It would be repelled by the positively charged sphere and attracted to the negatively charged sphere."
+msgstr "صحيح! البروتونات الاضافية على كرة بينغ بونغ تعطيها شحنة موجبة.  من الممكن ان يتم صدها من قبل مجال الشحنة الموجبة وجذبها إلى مجال الشحنة السالبة."
+
+# 18
+msgid "Your friend makes the statement that the reason a vinyl coat hanger became negatively charged was that charge was created by rubbing the hanger with a wool sock.  Which of the following statements would be more accurate?"
+msgstr "صديقك قدم عبارة تفيد بأن السبب وراء جعل شماعات معطف الفينيل  مشحونة سلبا هو فرك الشماعة بجورب من الصوف. أي من العبارات التالية ستكون أكثر دقة؟"
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled protons off the hanger."
+msgstr "أصبحت شماعات معطف الفينيل سالبة الشحنة لأن جورب الصوف سحب البروتونات خارج الشماعة."
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock added electrons to the hanger."
+msgstr "أصبحت شماعات معطف الفينيل سالبة الشحنة لأن جورب  الصوف أضاف إلكترونات إلى الشماعة."
+
+msgid "The vinyl coat hanger became negatively charged because the wool sock pulled electrons from the hanger"
+msgstr "أصبحت شماعات معطف الفينيل سالبة الشحنة لأن جورب الصوف أضاف إلكترونات إلى الشماعة."
+
+msgid "There is nothing wrong with your friend's statement."
+msgstr "ليس هناك خطأ في عبارة صديقك"
+
+msgid "Hanging clothes..."
+msgstr "تعليق الملابس..."
+
+msgid "Nope.  It takes a much greater amount of effort to remove protons than it does to add electrons."
+msgstr "كلا. تستغرق قدرا أكبر من الجهد لإزالة البروتونات منه إضافة الإلكترونات."
+
+msgid "Yes!  The hanger became negatively charged because it gained electrons from the wool sock."
+msgstr "نعم! أصبحت الشماعة مشحونة سلبا لأنها اكتسبت إلكترونات من جورب الصوف."
+
+msgid "Not quite.  If the sock had pulled electrons from the hanger, the hanger would have been left with a positive charge."
+msgstr "ليس تماما.  إذا سحب جورب الالكترونات من شماعات، فقد تترك الشماعات بشحنة موجبة."
+
+msgid "No.  The charge was already present on the sock and hanger before they were rubbed together.  No charge was created by rubbing, the charged particles were simply exchanged by the objects when they were rubbed together."
+msgstr "كلا. كانت الشحنة موجودة  بالفعل على الجورب والشماعات قبل أن يفركا معا. لا تتكون أي شحنة عن طريق الفرك، الجسيمات المشحونة تتبادل عن طريق فرك الاجسام معا ببساطة."
+
+# 19
+msgid "While experimenting with different materials, you notice that after rubbing a square of fabric on a rod made out of material A and a rod made out of material B, that the two rods repel each other, indicating that they have ‘like’ electric charges. "
+msgstr "أثناء إجراء التجارب مع مواد مختلفة، لاحظت أنه بعد فرك قطعة من القماش على قضيب مصنوع من مادة أ وقضيب مصنوع من مادة ب، أن كلا القضبان تتنافر، مشيرا إلى أن لديهما شحنات إلكترونية متشابهة."
+
+msgid "Drag the fabric, material A and material B up or down into their possible positions within the triboelectric series that would explain this outcome."
+msgstr "اسحب النسيج، والمواد أ و ب أعلى أو أسفل إلى مواضعها المحتملة ضمن سلسلة التكهرب بالاحتكاك التي من شأنها أن تفسر هذه النتيجة."
+
+msgid "Silk"
+msgstr "الحرير"
+
+msgid "The Square of Fabric"
+msgstr "قطعة من النسيج"
+
+msgid "The Rod of Material A"
+msgstr "قضيب المادة أ"
+
+msgid "The Rod of Material B"
+msgstr "قضيب المادة ب"
+
+msgid "Rubbing a fabric..."
+msgstr "فرك النسيج ..."
+
+msgid "Correct!  Materials A and B both gained like charges because they both are located closer to the same end of the triboelectric series."
+msgstr "صحيح! المواد أ و ب اكتسبت شحنات متشابهة على حد سواء لأن كلاهما يقعان أقرب لنفس نهاية سلسلة التكهرب بالاحتكاك."
+
+msgid "Not quite.  Materials A and B are repelling each other because they both have the same charge.  That means they both must be closer to the same end of the chart, and the fabric square is closer to the other end of the chart."
+msgstr "ليس تماما. المواد ا و ب يصدان بعضهما البعض لأن لديهما نفس الشحنة.  وهذا يعني أن كلاهما يجب أن يكون أقرب إلى نفس النهاية من الرسم البياني، و النسيج هو أقرب إلى الطرف الآخر من الرسم البياني."
+
+# 20
+msgid "The different parts of the atom are shown in different colors.   Based on what you are able to see in this image, what would be a true statement about the charge on the material made of atoms like this."
+msgstr "وتظهر الأجزاء المختلفة للذرة بألوان مختلفة.  بناءً على ما كنت قادرا على رؤيته في هذه الصورة، ما الذي من شأنه أن يكون عبارة صحيحة عن هذه الشحنة للمادة والمصنوعة من ذرات مثل هذه."
+
+msgid "The material would be positively charged due to the protons in the nucleus."
+msgstr "سيتم شحن المواد إيجابيا بسبب البروتونات الموجودة في النواة."
+
+msgid "The material would be negatively charged due to the electrons surrounding the atom."
+msgstr "سيتم شحن المواد  سلبا بسبب الإلكترونات المحيطة بالذرة."
+
+msgid "The material would be negatively charged because the neutrons cancel out the protons."
+msgstr "سيتم شحن المادة سلبا لأن النيوترونات تلغي البروتونات."
+
+msgid "The material would be positively charged due to the difference between the number of protons in the nucleus and the number of electrons surrounding the atom."
+msgstr "سيتم شحن المواد إيجابيا نظرا إلى الاختلاف بين عدد البروتونات في النواة وعدد الإلكترونات المحيطة بالذرة."
+
+msgid "Nucleus"
+msgstr "النواة"
+
+msgid "Identifying atom..."
+msgstr "تحديد الذرة ..."
+
+msgid "Incorrect.  All atoms contain protons, so that alone would not cause the material to be positively charged."
+msgstr "غير صحيح.  جميع الذرات تحتوي على البروتونات، لذلك الذرات وحدها لا تتسبب بجعل المواد مشحونة ايجابا."
+
+msgid "Not quite.  All atoms contain electrons, so the fact that this atom is surrounded by electrons is not enough to cause the material to be negatively charged."
+msgstr "ليس تماما.  جميع الذرات تحتوي على إلكترونات، وبالتالي فإن حقيقة أن  الذرة تحيط بها إلكترونات غير كاف للتسبب في شحن المواد سلبا."
+
+msgid "No.  All atoms contain neutrons, but it is the electrons, not the neutrons, that are responsible for balancing out the charge of the protons."
+msgstr "كلا.  جميع الذرات تحتوي على النيوترونات، ولكنها الإلكترونات، وليست النيوترونات، المسؤولة عن توازن الشحنة من البروتونات."
+
+msgid "You’ve got it!  The key to the charge on a material is the difference between the number of positively charged protons and negatively charged electrons.  In the image, the atom has only three electrons, and at least four protons, so would make up a positively charged material."
+msgstr "لقد أصبت! إن مفتاح الشحنة الموجودة على المادة هي الفرق بين عدد البروتونات موجبة الشحنة والإلكترونات سالبة الشحنة.  في الصورة، للذرة ثلاثة فقط من الإلكترونات، وأربعة على الأقل من البروتونات، لذلك تشكل مادة موجبة الشحنة."
+
+# 21
+msgid "Which of these natural wonders relate to electric charge?"
+msgstr "أي من هذه العجائب الطبيعية ترتبط بالشحنة الكهربائية."
+
+msgid "I. The beautiful colors of the Northern Lights"
+msgstr "1. ألوان جميلة من الشفق القطبي الشمالي"
+
+msgid "II. The ability of a compass needle to point North"
+msgstr "2. قدرة إبرة البوصلة على أن تشير إلى الشمال"
+
+msgid "III. The intense flash of a Lightning strike"
+msgstr "3. ومضة مكثفة لضربة البرق"
+
+msgid "I"
+msgstr "1"
+
+msgid "III"
+msgstr "3"
+
+msgid "I and III"
+msgstr " 1 و 3"
+
+msgid "I. The beautiful colors of the Northern Lights and III. The intense flash of a Lightning strike"
+msgstr "1. ألوان جميلة من الشفق القطبي الشمالي والثالث.  ومضة مكثفة لضربة البرق"
+
+msgid "I, II, and III"
+msgstr "1 و 2 و 3"
+
+msgid "I. The beautiful colors of the Northern Lights, II. The ability of a compass needle to point North and III. The intense flash of a Lightning strike"
+msgstr "1. ألوان جميلة من الشفق القطبي الشمالي، 2. قدرة إبرة البوصلة أن تشير الى الشمال و 3. ومضة مكثفة لضربة البرق"
+
+msgid "Not quite.  The Northern Lights are caused by charged particles energizing gases in the Earth’s atmosphere, but lightning strikes are also due to charged particles."
+msgstr "ليس تماما. يحدث الشفق القطبي الشمالي عن طريق جسيمات مشحونة تنشط الغازات في الغلاف الجوي للأرض، ولكن الصواعق أيضا تحدث بسبب الجسيمات المشحونة."
+
+msgid "Not quite.  The bright flash from lightning is caused by a electrons flowing between the sky and the ground, but the Northern Lights are also due to charged particles."
+msgstr "ليس تماما. وتحدث الومضة الساطعة من البرق من قبل الإلكترونات المتدفقة بين السماء والأرض، ولكن الشفق القطبي الشمالي يحدث أيضا بسبب الجسيمات المشحونة."
+
+# 22
+msgid "You’ve got it.  Both of these natural wonders are due to the properties of charged particles."
+msgstr "لقد أصبت. كل من هذه العجائب الطبيعية تحدث بسبب خصائص الجسيمات المشحونة."
+
+msgid "Both lightning and the Northern Lights are caused by charged particles, but the action of a compass needles is due to magnetic fields."
+msgstr "يحدث كل من البرق والضوء القطبي الشمالي بسبب جسيمات مشحونة، ولكن طريقة عمل إبرة البوصلة يحدث بسبب المجالات المغناطيسية."
+
+msgid "You've completed the Electric Charge module."
+msgstr "لقد أكملت وحدة الشحنة الكهربائية."
+
+msgid "Go Back to Dashboard"
+msgstr "العودة إلى اللوحة التوجيهية"

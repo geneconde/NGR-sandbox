@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Reproducir"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Mute"
+msgstr "Silencio"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Restaurar pantalla"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Repeat off"
+msgstr "No repetir"
+
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "Para reproducir los contenidos multimedia, necesitas actualizar tu navegador a una versión más reciente o actualizar tu"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "Navega entre las diapositivas debajo dando clic en las flechas de izquierda y derecha."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "Contestar las siguientes seis (6) preguntas de evaluación te dará una idea acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready"
+msgstr "Estás listo/a"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Welcome to the Newton's Third Law module"
+msgstr "Bienvenido/a al módulo de la Tercera Ley de Newton,"
+
+msgid "Newton's Third Law"
+msgstr "Tercera Ley de Newton"
+
+# 2
+msgid "Thinking about... Newton's Third Law"
+msgstr "Pensando acerca de... la Tercera Ley de Newton"
+
+msgid "Objects all around you are interacting with one another. These interactions can cause objects to stay still, or they can affect the object in ways that can be identified by looking for patterns in the object's motion. Often, objects are experiencing interactions with several other things at the same time. These interactions can be described based on different types of forces. Forces can be really small, like the weight of a butterfly resting on your shoulder, or they can be huge like the thrust from a rocket carrying astronauts into space."
+msgstr "Todos los objetos a tu alrededor interactúan entre sí. Estas interacciones pueden provocar que los objetos se mantengan inmóviles o pueden afectar al objeto de manera que pueden ser identificados buscando patrones en el movimiento del objeto. Con frecuencia, los objetos están experimentando interacciones con varias otras cosas al mismo tiempo. Estas interacciones se pueden describir basándonos en distintos tipos de fuerzas. Las fuerzas pueden ser muy pequeñas, como el peso de una mariposa que se posa en tu hombro, o pueden ser enormes como el impulso de un cohete que lleva astronautas al espacio."
+
+# 3
+msgid "Checking what you already know about... Newton's Third Law"
+msgstr "Revisando lo que ya sabes acerca de... la Tercera Ley de Newton"
+
+msgid "Which of these forces are occurring in the photo of the child on the swing?"
+msgstr "¿Cuál de estas fuerzas se están produciendo en la foto del niño en el columpio?"
+
+msgid "The woman pulling back on the swing."
+msgstr "La mujer tirando del columpio hacia atrás"
+
+msgid "The swing pulling forward on the woman."
+msgstr "El columpio tirando de la mujer hacia adelante."
+
+msgid "The child pulling down on the swing."
+msgstr "El niño tirando del columpio hacia abajo."
+
+msgid "The swing pulling up on the child."
+msgstr "El columpio levantando al niño hacia arriba."
+
+msgid "Playing at the park..."
+msgstr "Jugando en el parque..."
+
+msgid "If you checked all the boxes, you're heading in the right direction. If objects are interacting, they are exerting forces on each other."
+msgstr "Si marcaste todas las casillas, vas en la dirección correcta. Si los objetos están interactuando, están ejerciendo fuerza los unos sobre los otros."
+
+# 4
+msgid "Reviewing big ideas about... Newton's Third Law"
+msgstr "Revisando ideas importantes acerca de... la Tercera Ley de Newton"
+
+msgid "<span class='key'>Forces</span> are most easily thought of as a push or a pull, but objects don’t need to be in motion in order to be experiencing forces.  Even when objects are sitting perfectly still, they are likely to be experiencing forces from any other objects that they are in contact with.  Contact between objects is one of the clearest indicators that forces are present.  Look at the interaction between the boys and the trampoline in the image below.  Not only are the boys experiencing a force from the trampoline, keeping them from falling to the ground, but the trampoline is experiencing a force from the boys, causing it to stretch underneath them."
+msgstr "Es más fácil pensar acerca de las fuerzas como algo que empuja o tira de algo más, pero los objetos no necesitan estar en movimiento para estar experimentando fuerzas. Incluso cuando los objetos están completamente inmóviles, es probable que estén experimentando las fuerzas de otros objetos con los cuales están en contacto. El contacto entre objetos es una de las indicaciones más claras de que hay fuerzas presentes. Mira las interacciones entre los niños y el trampolín de la imagen de abajo. No sólo los niños experimentan una fuerza del trampolín, que evita que se caigan al suelo, sino que el trampolín está experimentando fuerza de los niños, haciendo que se estire debajo de ellos."
+
+msgid "Although we don't notice it quite so easily, a similar interaction is occurring between this flower pot and table. The table is preventing the flower pot from crashing into the ground below, and the flower pot is causing the boards in the table to bend ever so slightly underneath it."
+msgstr "Aunque no lo notamos tan fácilmente, una interacción similar se está produciendo entre esta maceta y la mesa. La mesa está impidiendo que la maceta se estrelle contra el suelo y la maceta provoca que las tablas de la mesa se doblen muy ligeramente debajo de ella."
+
+msgid "This idea that any time objects are interacting with each other, they exert paired forces on one another is known as <span class='key'>Newton's Third Law</span> of motion. The discovery of this law is credited to Sir Isaac Newton, a well-known physicist from 17th century England."
+msgstr "Esta idea de que cada vez que los objetos están interactuando unos con otros, ejercen fuerzas en pares el uno sobre el otro se conoce como la Tercera Ley del Movimiento de Newton. El descubrimiento de esta ley se le atribuye a Sir Isaac Newton, un físico muy reconocido de la Inglaterra del siglo XVII."
+
+msgid "Jumping on trampoline..."
+msgstr "Saltando en un trampolín..."
+
+# 5
+msgid "Identify <span class='blink'>ALL</span> of the interactions occurring in this photo of a rock climber."
+msgstr "Identifica TODAS las interacciones que están ocurriendo en la foto de esta escaladora de rocas."
+
+msgid "The woman and the cable"
+msgstr "I. La mujer y el cable"
+
+msgid "The woman and the rocks"
+msgstr "II. La mujer y las rocas"
+
+msgid "The woman and the metal stake"
+msgstr "III. La mujer y la estaca de metal."
+
+msgid "I only"
+msgstr "Solamente I"
+
+msgid "II only"
+msgstr "Solamente II"
+
+msgid "III only"
+msgstr "Solamente III"
+
+msgid "I, II and III"
+msgstr "I, II y III"
+
+msgid "Close. The woman is grasping the cable with her hand, so there's definitely an interaction occurring there, but she’s also in contact with a few other objects in the photo."
+msgstr "Cerca. La mujer está sosteniendo el cable con su mano, así que definitivamente hay una interacción allí, pero también está en contacto con otros objetos en la foto."
+
+msgid "Not quite. She's in contact with several other objects in addition to the rocks."
+msgstr "No exactamente. Ella está en contacto con otros objetos además de las rocas."
+
+msgid "Nope. She's definitely pulling on the stake, but there are a few other objects that she’s interacting with in the photo."
+msgstr "Nop. Ella definitivamente tira de la estaca, pero hay otros objetos con los que está interactuando en la foto."
+
+msgid "You've got it! She's grasping the cable in one hand, pulling on the metal stake with another, and using her feet to push off the rock surface."
+msgstr "¡Ahí lo tienes! Está sosteniendo el cable con una mano, tirando de la estaca de metal con otra y utilizando sus pies para empujar la superficie de rocas."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera evaluación rápida..."
+
+# 6
+msgid "More big ideas about... Newton's Third Law"
+msgstr "Más ideas importantes acerca de... la Tercera Ley de Newton"
+
+msgid "Striking a ball..."
+msgstr "Golpeando una pelota..."
+
+# 7
+msgid "If the skater in the red jacket pushes on the skater in the blue jacket, which of the following will happen?"
+msgstr "Si el patinador de la chaqueta roja empuja al patinador de la chaqueta azul, ¿qué pasará?"
+
+msgid "The skater in the blue jacket will go backwards."
+msgstr "El patinador de la chaqueta azul irá hacia atrás."
+
+msgid "The skater in the red jacket will go backwards."
+msgstr "El patinador de la chaqueta roja irá hacia atrás."
+
+msgid "Nothing, the skaters won't move."
+msgstr "Nada, los patinadores no se moverán."
+
+msgid "Both skaters will move away from each other."
+msgstr "Ambos patinadores se alejarán uno del otro."
+
+msgid "Not quite. The skater in the blue jacket will go backwards due to the force from the skater in the red jacket. However, due to paired forces, the skater in the red jacket will also end up going backwards."
+msgstr "No exactamente. El patinador de la chaqueta azul irá hacia atrás debido a la fuerza del patinador de la chaqueta roja. Sin embargo, debido a las fuerzas pares, el patinador de la chaqueta roja también irá hacia atrás."
+
+msgid "Not quite. The skater in the red jacket will go backwards, but the force pair will also result in the skater in the blue jacket going backwards."
+msgstr "No exactamente. El patinador de la chaqueta roja irá hacia atrás , pero debido al par de fuerzas, el patinador de la chaqueta roja también irá hacia atrás."
+
+msgid "No. The slippery ice will make it very easy for forces to change the motion of the two skaters."
+msgstr "No. El hielo resbaladizo hará que sea muy fácil que las fuerzas cambien el movimiento de ambos patinadores."
+
+msgid "You've got it!  Both skaters will experience forces due to this interaction, and the result will be that they both move backwards."
+msgstr "¡Acertaste! Ambos patinadores experimentarán fuerzas debido a esta interacción, y el resultado será que ambos se moverán hacia atrás."
+
+# 8
+msgid "Pushing slowly..."
+msgstr "Empujando lentamente..."
+
+msgid "Not only do forces always come in pairs, but the sizes of the two forces will always be equal.  This can be tough to see because force is not the only thing that affects how much an object’s motion will change. The <span class='key'>mass</span> of the object determines how much the motion will change for a particular amount of force.  Mass is measured in kilograms (kg) and is simply a measure of how much matter makes up an object.  It’s easy to push the empty shopping cart when you first get to the grocery store, but as the cart fills up with groceries, it becomes more massive.  When the cart is full, it becomes harder to change the cart’s motion.  It’s harder to get the cart to start moving, harder to stop it once it's in motion, and harder to get it to go around corners. <span class='key'>Acceleration</span> is a term used to describe how quickly an object’s motion changes.  For a certain amount of force, an object with more mass will have less acceleration, and an object with less mass will have a greater acceleration."
+msgstr "No sólo las fuerzas siempre vienen en pares, sino que el tamaño de ambas fuerzas siempre será igual. Esto puede ser difícil de ver porque la fuerza no es la única cosa que afecta cómo se cambia el movimiento de un objeto. La masa del objeto determina cuánto cambiará el movimiento a partir de una cantidad particular de fuerza. La masa se mide en kilogramos (kg) y es simplemente una medida de cuánta materia forma a un objeto. Es fácil empujar el carrito de la compra vacío cuando apenas llegas a la tienda, pero conforme el carrito se llena con víveres, obtiene más masa. Cuando el carrito está lleno, se vuelve más difícil cambiar su movimiento. Es más difícil hacer que el carrito comience a moverse, más difícil hacer que se detenga una vez que está en movimiento, y más difícil hacer que gire al llegar a una esquina. Aceleración es un término que se utiliza para describir cuán rápido cambia el movimiento de un objeto. Para cierta cantidad de fuerza, un objeto con más masa tendrá menos aceleración y un objeto con menos masa tendrá una mayor aceleración."
+
+msgid "When two objects interact, they put equal forces on each other, but their accelerations will also depend upon their masses. If one of the objects is two times more massive than the other, the more massive object will experience half as much acceleration as the lighter object. This can make it difficult to understand that the forces they put on each other are always equal in size. Did you know that when you jump off the ground, you push down on the earth with the same amount of force that it pushes up on you?  This might be hard to believe because we don’t see the earth move. The reason for that is not a difference in forces but a huge difference between your mass and the mass of the earth. If the two objects involved in an interaction have the same amount of mass, it’s easy to see that the forces they exert on each other are equal size because the accelerations will be the same size, too!"
+msgstr "Cuando dos objetos interactúan, aplican fuerzas iguales uno sobre el otro, pero su aceleración también dependerá de sus masas. Si uno de los objetos es dos veces más masivo que el otro, el objeto con más masa experimentará la mitad de la aceleración del objeto más ligero. Esto puede hacer difícil entender que las fuerzas que aplican el uno sobre el otro siempre son iguales en tamaño. ¿Sabías que cuando saltas, estás empujando a la Tierra con la misma fuerza con la que ella te empuja hacia arriba? Esto puede ser difícil de creer porque no vemos a la Tierra moverse. La razón de ello no es una diferencia en las fuerzas que ejercen entre ustedes, sino una enorme diferencia entre tu masa y la masa de la Tierra. Si ambos objetos involucrados en una interacción tienen la misma cantidad de masa, es fácil ver que las fuerzas que ejercen el uno sobre el otro son iguales en tamaño porque las aceleraciones serán del mismo tamaño también."
+
+msgid "Calculating mass..."
+msgstr "Calculando la masa..."
+
+# 9
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it. Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience. Arrange the images left to right from the greatest to the least movement."
+msgstr "Una persona que salta al agua desde un bote se da cuenta de que el bote se mueve en dirección opuesta cuando salta desde el frente. Organiza las siguientes situaciones basándote en el tamaño de la aceleración, o el cambio en el movimiento, que experimentaría el bote. Organiza las imágenes de izquierda a derecha desde el mayor al menor movimiento."
+
+msgid "One boater jumps off the front, while the other boater remains seated."
+msgstr "Un navegante salta desde el frente, mientras que el otro navegante permanece sentado."
+
+msgid "Both boaters jump off the front of the boat."
+msgstr "Ambos navegantes saltan desde el frente del bote."
+
+msgid "One boater jumps off of an empty boat."
+msgstr "Un navegante salta desde un bote vacío."
+
+msgid "One boater jumps off the front, while the other boater jumps off the back at the same time."
+msgstr "Un navegante salta desde el frente, mientras que el otro navegante salta desde la parte trasera al mismo tiempo."
+
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it.  Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience.  Arrange the images left to right from the greatest to the least movement."
+msgstr "Una persona que salta al agua desde un bote se da cuenta de que el bote se mueve en dirección opuesta cuando salta desde el frente. Organiza las siguientes situaciones basándote en el tamaño de la aceleración, o el cambio en el movimiento, que experimentaría el bote. Organiza las imágenes de izquierda a derecha desde el mayor al menor movimiento."
+
+msgid "You’ve got it!  With both boaters jumping in the same direction, the greatest amount of force will be combining to act on the boat.  When the boaters jump in opposite directions, their forces cancel, resulting in no change in motion for the boat."
+msgstr "¡Correcto!  Cuando ambos navegantes saltan en la misma dirección, la mayor cantidad de fuerza se combinará y actuará sobre el bote.  Cuando los navegantes saltan en direcciones opuestas, sus fuerzas se cancelan, lo que hace que no haya ningún cambio en el movimiento del bote."
+
+msgid "Not quite.  When the two boaters jump in the same direction, their forces will combine to result in a large change in motion for the empty boat.  With only one person jumping off the boat, the change in motion would be less, and in the situation where the boaters jump in opposite directions, their forces would cancel and the boat wouldn’t move."
+msgstr "No exactamente.  Cuando ambos navegantes saltan en la misma dirección, sus fuerzas se combinarán y resultarán en un cambio importante sobre el movimiento del bote vacío.  Cuando una sola persona salta del bote, el cambio en el movimiento será menor, y en la situación en que los navegantes saltan en direcciones opuestas, sus fuerzas se cancelarán y el bote no se moverá."
+
+msgid "Looking at the water..."
+msgstr "Mirando el agua..."
+
+# 10
+msgid "Forces are paired for moving objects, too! In order for you to be able to walk down the hallway at school, your feet push backwards on the floor while the floor pushes forward on you. When a bicyclist skids to a stop, the road puts a force on the bike, but the bike also puts a force on the road. In an elevator, the floor pushes upwards on you while you push downwards on it."
+msgstr "¡Las fuerzas también se emparejan para mover objetos! Para que tú seas capaz de caminar por el pasillo en la escuela, tus pies deben empujar hacia atrás el piso mientras que el piso te empuja hacia adelante. Cuando un ciclista derrapa hasta detenerse, el camino ejerce una fuerza sobre la bicicleta, pero la bicicleta también ejerce una fuerza sobre el camino. En el ascensor, el suelo te empuja hacia arriba, mientras tú lo empujas hacia abajo."
+
+msgid "It can be difficult to get a car moving on a snowy road. The slippery snow can make it difficult for the car to push against the road with enough force to start moving without spinning the tires. It's also difficult to get a moving car to stop suddenly in those conditions!"
+msgstr "Puede ser difícil conseguir que un automóvil se mueva en un camino cubierto de nieve. La nieve resbaladiza puede dificultar que el auto empuje la carretera con la suficiente fuerza como para empezar a moverse sin hacer que las ruedas giren inútilmente. ¡También es difícil conseguir que un auto en movimiento se detenga de repente en esas condiciones!"
+
+msgid "For a helicopter to move, the blades on the helicopter push down on the air, and the air pushes up on the helicopter. By changing the amount of force, the helicopter can move up, down, or just hover in place. In this picture, you can see how the air pushed down by the blades on the helicopter ends up making waves in the water."
+msgstr "Para que un helicóptero se mueva, las aspas del helicóptero empujan el aire hacia abajo y el aire empuja el helicóptero hacia arriba. Cuando cambiamos la cantidad de fuerza, el helicóptero se puede mover hacia arriba, hacia abajo o simplemente flotar en el mismo punto. En esta imagen, puedes ver cómo el aire que es empujado hacia abajo por las aspas del helicóptero crea olas en el agua."
+
+msgid "Did you know that people used to be skeptical about the ability to launch rockets into space beyond the earth's atmosphere? They were concerned that the lack of air would make it impossible for the rockets to exert forces in order to control their orbital paths. It turns out that rockets take advantage of Newton's Third Law force pairs by pushing the burning rocket fuel backwards. The other part of that force pair is the force of the burning rocket fuel pushing forward on the rocket, allowing the rocket to change its motion."
+msgstr "¿Sabías que las personas no creían que serían posible lanzar cohetes al espacio, más allá de la atmósfera terrestre? Pensaban que la falta de aire haría imposible que los cohetes crearan fuerza suficiente para controlar sus órbitas. Resulta que los cohetes aprovechan la Tercera Ley de Newton con las fuerzas pares para empujar el combustible de cohete ardiente hacia atrás. La otra parte de ese par de fuerzas es la fuerza del combustible ardiente del cohete que empuja al cohete hacia adelante, permitiendo que el cohete cambie su movimiento."
+
+msgid "Pushing forward..."
+msgstr "Empujando hacia adelante..."
+
+# 11
+msgid "Sailboats depend on wind to push against the sails and move the boat forward. On a day without any wind, a sailor decides to try to get the boat moving by attaching a large fan to the boat in order to push air into the sails. Considering the force pairs involved in this situation, what is the most likely outcome for the boat?"
+msgstr "Los botes de vela dependen de que el viento empuje a sus velas e impulse el bote hacia adelante. En un día sin viento en absoluto, un marinero decide intentar hacer que el bote se mueva utilizando un gran ventilador para empujar las velas con aire. Considerando los pares de fuerza en esta situación, ¿qué es lo más probable que le suceda al bote?"
+
+msgid "The air will push against the sails, moving the boat forward."
+msgstr "El aire empujará las velas, haciendo que el bote se mueva hacia adelante."
+
+msgid "The air will push back against the fan, moving the boat backwards."
+msgstr "El aire empujará en contra del ventilador, haciendo que el bote se mueva hacia atrás."
+
+msgid "The boat won’t move due to the forward force on the sails and the backwards force against the fan."
+msgstr "El bote no se moverá debido a la fuerza hacia adelante sobre las velas, y la fuerza hacia atrás sobre el ventilador."
+
+msgid "The force against the sails will be greater than the force on the fan, so the boat will still move forward."
+msgstr "La fuerza contra las velas será mayor que la fuerza sobre el ventilador, así que el bote se moverá de todas formas."
+
+msgid "Not quite. The air will push forward against the sails, but it will also push backwards against the fan. Those interactions will cancel out and the boat won't move."
+msgstr "No exactamente. El aire empujará las velas hacia adelante, pero también empujará el ventilador hacia atrás. Esas interacciones se cancelarán entre sí, y el bote no se moverá."
+
+msgid "Almost. The air will push the fan backwards, but it will also push forward against the sails. Those interactions will cancel each other out, and the boat won't move."
+msgstr "Casi. El aire empujará el ventilador hacia atrás, pero también empujará las velas hacia adelante. Esas interacciones se cancelarán entre sí, y el bote no se moverá."
+
+msgid "You've got it. In any interaction, forces are paired. So when the fan pushes the air forward, the air pushes the fan backwards. That backwards push against the fan cancels out the forward push against the sails."
+msgstr "Acertaste. En cualquier interacción, las fuerzas van en pares. Así que cuando el ventilador empuja el aire hacia adelante, el aire empuja al ventilador hacia atrás. Ese impulso hacia atrás sobre el ventilador, cancela el empuje hacia adelante sobre las velas."
+
+msgid "Nope. If anything, the force pushing back against the fan will be slightly greater. Most likely, the forward force of the air against the sails cancels out the backwards force of the air against the fan, and the boat won't move."
+msgstr "Nop. En dado caso, la fuerza que empuja el ventilador hacia atrás será ligeramente mayor. Lo más probable será que la fuerza del aire hacia adelante sobre las velas cancelará la fuerza hacia atrás del aire sobre el ventilador, y el bote no se moverá."
+
+# 12
+msgid "Using what you now know about... Newton's Third Law... to solve a problem"
+msgstr "Utilizando lo que sabes ahora acerca de... la Tercera Ley de Newton... para resolver un problema"
+
+msgid "Your neighbor needs some help setting up a clothesline for drying clothes. Use your understanding of paired forces to help plan and design a system for setting up the clothesline for your neighbor."
+msgstr "Tu vecino necesita ayuda para instalar un cable para colgar ropa para que se seque. Utiliza lo que entiendes acerca de las fuerzas pares para ayudar a planear y diseñar un sistema para instalar el cable para ropa de tu vecino."
+
+msgid "What are some of the important considerations that must go into the design? How will you make certain that the clothesline will be able to support the clothes? Please answer in the space provided."
+msgstr "¿Cuáles son algunas consideraciones importantes que deben tomarse en cuenta para el diseño? ¿Cómo te asegurarás de que el cable podrá sostener la ropa? Por favor, responde en el espacio debajo."
+
+msgid "Hanging clothes..."
+msgstr "Colgando ropa..."
+
+# 13
+msgid "Summarizing big ideas about... Newton's Third Law"
+msgstr "Resumiendo ideas importantes acerca de... la Tercera Ley de Newton"
+
+msgid "For any interaction between objects, the <span class='key'>forces</span> the objects put on each other will be of the same size and in opposite directions. Often stated as 'For every action, there is an equal and opposite reaction,' this is known as <span class='key'>Newton's Third Law</span> of motion. To put it another way, there are no isolated forces in nature; forces always come in pairs. When you push on the ground to walk, there is a corresponding force that the ground puts on you. When you use a hammer to pound a nail into a board, the nail also puts a force back on the hammer. When a rocket pushes burning fuel backwards, there is a force in the forward direction to move the rocket. However, paired forces don't guarantee that the changes in motion for the two objects will be paired. The <span class='key'>acceleration</span> of an object is also based on how massive the object is. For an object that is ten times as massive, the acceleration will be ten times smaller even though the forces the two objects experience are the same. If the two objects involved in the interaction are similar in <span class='key'>mass</span>, then it is likely that you will see similar changes in motion."
+msgstr "Para cualquier interacción entre objetos, las fuerzas que los objetos se aplican entre sí será del mismo tamaño y en direcciones opuestas. Con frecuencia expresada como 'Para cada acción, hay una reacción idéntica y en sentido opuesto,' ésta es la Tercera Ley del movimiento de Newton. Para decirlo de otra manera, no hay fuerzas aisladas en la naturaleza; las fuerzas siempre vienen en pares. Cuando empujas el suelo para caminar, hay una fuerza correspondiente que el suelo aplica sobre ti. Cuando utilizas un martillo para clavar un clavo en una tabla, el clavo también aplica fuerza sobre el martillo. Cuando un cohete expulsa combustible ardiente hacia atrás, hay una fuerza hacia adelante para mover al cohete. Sin embargo, las fuerzas pares no garantizan que los cambios en movimiento de los dos objetos serán idénticos. La aceleración de un objeto también se basa en cuán masivo es dicho objeto. En un objeto que es diez veces más masivo, la aceleración será diez veces más pequeña, aun cuando las fuerzas que ambos objetos experimentan sean la misma. Si los dos objetos involucrados en la interacción son similares en masa, entonces es probable que veas cambios similares en el movimiento."
+
+# 14
+msgid "Reviewing key vocabulary related to... Newton's Third Law"
+msgstr "Revisando vocabulario clave relacionado con... la Tercera Ley de Newton"
+
+msgid "Force"
+msgstr "Fuerza"
+
+msgid "A force occurs anytime there is an interaction between two objects.  Both the size and the direction of the force will determine how that force affects the motion of the objects."
+msgstr "Una fuerza ocurre cuando hay una interacción entre dos objetos. Tanto el tamaño y la dirección de la fuerza determinarán cómo esa fuerza afecta el movimiento de los objetos."
+
+msgid "Acceleration"
+msgstr "Aceleración"
+
+msgid "Acceleration is how quickly an object changes speed.  If an object is speeding up or slowing down, it is accelerating."
+msgstr "Aceleración es cuán rápido un objeto cambia de velocidad. Si un objeto está aumentando su velocidad, o disminuyéndola, entonces está acelerando."
+
+msgid "Mass"
+msgstr "Masa"
+
+msgid "A measure of an object’s inertia as well as the effect gravity has upon it. An object with more mass will require more force to accelerate it and will feel a greater force of gravity upon it."
+msgstr "Una medida de la inercia de un objeto así como del efecto que la gravedad tiene sobre él. Un objeto con más masa requerirá más fuerza para acelerar y sentirá una mayor fuerza de gravedad sobre él."
+
+msgid "For every action, there is an equal and opposite reaction. When a force is applied to an object, that object applies the exact same amount of force back on whatever applied it in the exact opposite direction. So if a person was to push a boulder across a field, the boulder would push back with the same force that the person pushed it with."
+msgstr "Para cada acción, hay una reacción idéntica en sentido opuesto. Cuando una fuerza se aplica a un objeto, dicho objeto aplica la misma cantidad de fuerza de vuelta al objeto que le aplicó la fuerza en la dirección exactamente opuesta. Así que si una persona empujara una piedra a través de un campo, la piedra empujaría de regreso a la persona con la misma fuerza."
+
+# 15
+msgid "Checking what you now know about... Newton's Third Law"
+msgstr "Revisando lo que sabes ahora acerca de... la Tercera Ley de Newton"
+
+# 16
+msgid "Newton's Third Law of paired forces is true..."
+msgstr "La Tercera Ley de Newton sobre las fuerzas pares es verdadera..."
+
+msgid "only when objects are the same size."
+msgstr "sólo cuando los objetos tienen el mismo tamaño."
+
+msgid "only when objects are at rest."
+msgstr "sólo cuando los objetos están en reposo."
+
+msgid "only when objects move at a constant speed."
+msgstr "sólo cuando los objetos se mueven a una velocidad constante."
+
+msgid "any time two objects interact with one another."
+msgstr "siempre que dos objetos interactúan el uno con el otro."
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Nope. Forces are always paired, in any interaction, regardless of the size of the objects involved."
+msgstr "Nop. Las fuerzas siempre están emparejadas, en cualquier interacción, sin importar el tamaño de los objetos involucrados."
+
+msgid "Nope. Forces are always paired even if the objects involved are in motion."
+msgstr "Nop. Las fuerzas siempre están emparejadas, incluso si los objetos involucrados están en movimiento."
+
+msgid "Nope. Forces are always paired even if the objects are speeding up or slowing down."
+msgstr "Nop. Las fuerzas siempre están emparejadas, incluso si los objetos involucrados están aumentando o disminuyendo su velocidad."
+
+msgid "You've got it. According to Newton's Third Law, forces are always paired anytime two objects interact."
+msgstr "Acertaste. De acuerdo a la Tercera Ley de Newton, las fuerzas siempre están emparejadas cuando dos objetos interactúan."
+
+# 17
+msgid "Compare the two forces mentioned for the following situations. Use >, = or < signs to show how the forces compare to each other."
+msgstr "Compara las dos fuerzas mencionadas en las siguientes situaciones. Utiliza los signos >, = o < para mostrar cómo se comparan las fuerzas entre sí."
+
+msgid "The force the hammer puts on the nail."
+msgstr "La fuerza que el martillo aplica sobre el clavo."
+
+msgid "The force of the hand on the valleyball."
+msgstr "La fuerza que la mano aplica sobre el balón."
+
+msgid "The force of the feet on the diving board."
+msgstr "La fuerza de los pies sobre el trampolín de clavados."
+
+msgid "The force the nail puts on the hammer."
+msgstr "La fuerza que el clavo aplica sobre el martillo."
+
+msgid "The force of the diving board on the feet."
+msgstr "La fuerza del trampolín de clavados sobre los pies."
+
+msgid "The force the volleyball puts on the hand."
+msgstr "La fuerza que el balón aplica sobre la mano."
+
+msgid "Comparing forces..."
+msgstr "Comparando fuerzas..."
+
+msgid "You've got it. Forces are always paired, so in all of the interactions shown, both objects experience the same amount of force."
+msgstr "Acertaste. Las fuerzas siempre están emparejadas, entonces en todas las situaciones mostradas, ambos objetos experimentan la misma cantidad de fuerza."
+
+msgid "Not quite. Any time two objects interact, the forces that they exert on each other will be equal in size."
+msgstr "No exactamente. Cada vez que dos objetos interactúan, las fuerzas que ejercen el uno sobre el otro serán iguales en tamaño."
+
+# 18
+msgid "Choose the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "Elige la flecha en la dirección y tamaño apropiados para representar las siguientes fuerzas en esta situación."
+
+msgid "The force of the man pushing on the car:"
+msgstr "La fuerza del hombre empujando el carro:"
+
+msgid "The force of the car pushing back on the man:"
+msgstr "La fuerza del carro empujando al hombre:"
+
+msgid "Aiming arrow..."
+msgstr "Apuntando una flecha..."
+
+msgid "You've got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "¡Ahí lo tienes! Siempre que dos objetos aplican fuerza el uno sobre el otro, esas fuerzas son del mismo tamaño y van en dirección opuesta."
+
+msgid "Nope. The forces are equal in size and opposite in direction, but the man puts a force on the car that is towards the left, and the car puts a force on the man which is towards the right."
+msgstr "Nop. Las fuerzas son iguales en tamaño y opuestas en dirección, pero el hombre aplica una fuerza sobre el carro que va a la izquierda, y el carro aplica una fuerza sobre el hombre que va hacia la derecha."
+
+msgid "Nope.  Even though the man and car are quite different in size, the forces that they put on each other will be equal in size, and opposite in direction."
+msgstr "Nop.  Aunque el hombre y el carro son bastante diferentes en tamaño, las fuerzas que aplican sobre el otro serán iguales en tamaño y en sentido contrario."
+
+# 19
+msgid "Rank these situations based on how quickly the wagon’s motion would change from rest. Arrange the images left to right from the greatest to the least movement."
+msgstr "Ordena estas situaciones basándote en cuán rápidamente el movimiento del vagón cambiaría a partir de estar en descanso. Organiza las imágenes de izquierda a derecha desde el mayor hasta el menor movimiento."
+
+msgid "A wagon with one dog is pulled by one boy"
+msgstr "Un niño tirando de un vagón con un perro"
+
+msgid "A wagon with two dogs is pulled by one boy"
+msgstr "Un niño tirando de un vagón con dos perros"
+
+msgid "A wagon with one dog is pulled by two boys"
+msgstr "Dos niños tirando de un vagón con un perros"
+
+msgid "An empty wagon  is pulled by two boys"
+msgstr "Dos niños tirando de un vagón vacío"
+
+msgid "Pulling a wagon..."
+msgstr "Tirando de un vagón..."
+
+msgid "You’ve got it! The combined forces of the two boys will cause a large change in motion for one dog. The boy trying to accelerate two dogs on his own will have the least change in motion."
+msgstr "¡Acertaste! Las fuerzas combinadas de los dos niños provocarán un gran cambio en el movimiento para un perro. Con un sólo niño tratando de acelerar a dos perros él solo, tendría el menor cambio en el movimiento."
+
+msgid "Not quite. The combined forces of two boys pulling will be greater than the force of one boy pulling on his own, but the mass of two dogs in the wagon will resist the change in motion greater than the mass of one dog in the wagon, and an empty wagon will provide the least resistance to a change in motion."
+msgstr "No del todo. Las fuerzas combinadas de dos niños tirando será mayor que la fuerza de un niño tirando por su cuenta, pero la masa de dos perros en el vagón resistirá más a un cambio en el movimiento que la masa de un perro en el vagón, y un vagón vacío proporcionará la menor resistencia a un cambio en el movimiento."
+
+# 20
+msgid "Select the arrow of the appropriate size and direction to represent the following forces in this situation."
+msgstr "Elige la flecha en la dirección y tamaño apropiados para representar las siguientes fuerzas en esta situación."
+
+msgid "Force of the hammer on the nail"
+msgstr "La fuerza del martillo sobre el clavo"
+
+msgid "Force of the nail on the hammer"
+msgstr "La fuerza del clavo sobre el martillo"
+
+msgid "Studying forces..."
+msgstr "Estudiando fuerzas..."
+
+msgid "Not quite.  The forces are equal in size and opposite in direction, but the hammer puts a force on the nail in a downward direction, and the nail puts a force on the hammer in an upward direction."
+msgstr "No exactamente. Las fuerzas son iguales en tamaño y van en direcciones opuestas, pero el martillo aplica una fuerza sobre el clavo en dirección hacia abajo, y el clavo aplica una fuerza sobre el martillo en una dirección hacia arriba."
+
+msgid "You got it! Anytime two objects put forces on each other, those forces are the same size and opposite in direction."
+msgstr "¡Acertaste! Siempre que dos objetos aplican fuerzas el uno sobre el otro, dichas fuerzas son del mismo tamaño y en dirección opuesta."
+
+msgid "Nope. Even though we tend to focus on the force of the hammer hitting the nail, the nail also puts a force on the hammer. That's the force that stops the motion of the hammer. Without that force, you’d have to use the muscles in your arm to stop the hammer with every swing. You'd wear yourself out pretty quickly, if that was the case."
+msgstr "Nop. A pesar de que solemos enfocarnos en la fuerza del martillo al golpear el clavo, el clavo también aplica fuerza sobre el martillo. Ésa es la fuerza que detiene el movimiento del martillo. Sin esa fuerza, tendrías que utilizar los músculos de tu brazo para detener el martillo cada vez. Te cansarías muy rápidamente, si ese fuera el caso."
+
+# 21
+msgid "Your friend is having a hard time understanding how to apply Newton's Third Law of paired forces. As an example, he describes a horse pulling a cart. He claims that it would be impossible for the horse to move the cart forward if the horse and cart are putting the same amount of force on each other. Which of the following statements would be more in line with Newton's Third Law of paired forces?"
+msgstr "Tu amigo está teniendo dificultades para comprender cómo aplicar la Tercera Ley de Newton de las fuerzas pares. Como ejemplo, describe un caballo tirando de un carro. Afirma que sería imposible que el caballo moviera el carro hacia adelante si el caballo y el carro están poniendo la misma cantidad de fuerza el uno sobre el otro. ¿Cuál de las siguientes afirmaciones sería más acorde con la Tercera Ley de Newton de las fuerzas en pares?"
+
+msgid "To move forward, the horse puts a force on the cart which is larger than the force the cart puts on the horse."
+msgstr "Para avanzar, el caballo aplica una fuerza sobre el carro que es mayor a la fuerza que el carro aplica sobre el caballo."
+
+msgid "To move forward, the horse must put a force on the cart which is greater than the weight of the cart."
+msgstr "Para avanzar, el caballo debe aplicar una fuerza sobre el carro que sea mayor que el peso del carro."
+
+msgid "To move forward, the horse and cart put forces on each other which are equal in size."
+msgstr "Para avanzar, el caballo y el carro aplican fuerzas la una sobre la otra, que son iguales en tamaño."
+
+msgid "To move forward, for a brief time the force of the horse on the cart is greater than the force of the cart on the horse."
+msgstr "Para avanzar, por un tiempo breve, la fuerza del caballo sobre el carro es mayor que la fuerza del carro sobre el caballo."
+
+msgid "Nope. It's impossible for the horse to put more force on the cart than the cart puts on the horse. Those forces are paired, so they’ll be the same size every time."
+msgstr "Nop. Es imposible que el caballo aplique más fuerza sobre el carro que la que el carro aplica sobre el caballo. Esas fuerzas están emparejadas, por lo que serán del mismo tamaño cada vez."
+
+msgid "Nope. The force we think of as weight acts in a downward direction, the pull of the horse acts in a sideways direction. The cart can actually be moved with a force much smaller than the weight of the cart."
+msgstr "Nop. La fuerza en la que pensamos como peso, actúa hacia abajo, la fuerza del caballo actúa en una dirección lateral. En realidad, el carro puede ser movido con una fuerza mucho más pequeña que el peso del carro."
+
+msgid "Yes!  The forces that the cart and the horse put on each other will be the same size.  The horse is able to get things moving by pushing off against the ground with a lot of force."
+msgstr "¡Sí! Las fuerzas que el carro y el caballo aplican el uno sobre el otro serán del mismo tamaño. El caballo es capaz de hacer que las cosas se muevan empujando contra el suelo con mucha fuerza."
+
+msgid "Not quite.  The forces that the cart and the horse put on each other are paired, so even if the horse tries to increase the force that it puts on the cart, the paired force that the cart puts on the horse will always increase to match it!"
+msgstr "No exactamente. Las fuerzas que la carreta y el caballo ejercen sobre el otro están emparejadas, así que incluso si el caballo intenta incrementar la fuerza que pone sobre el carro, la fuerza par que el carro pone sobre el caballo siempre incrementará para igualarla."
+
+# 22
+msgid "You've completed the Newton's Third Law module."
+msgstr "Has completado el módulo de la Tercera Ley de Newton."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de Evaluación' de este módulo dando clic en el botón de abajo."

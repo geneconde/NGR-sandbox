@@ -1,0 +1,1208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ecosystem-interactions\n"
+"POT-Creation-Date: 2013-09-06 17:31+0800\n"
+"PO-Revision-Date: 2014-07-15 20:14+0800\n"
+"Last-Translator: Raina\n"
+"Language-Team: James Shymansky, <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: ar\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Globals
+msgid "How did I do?"
+msgstr "كيف ابليت؟"
+
+msgid "Ecosystems Interactions"
+msgstr "تفاعلات النظام البيئي"
+
+msgid "More core ideas... about ecosystems interactions"
+msgstr "المزيد من االافكار الرئيسية حول تفاعلات النظام البيئي"
+
+msgid "You answered..."
+msgstr "انت اجبت"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "Check Answer"
+msgstr "تفقد الاجابة"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Read More"
+msgstr "اقرا اكثر"
+
+msgid "Please select your answers."
+msgstr "لو سمحت انتقي اجاباتك"
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please type your answer."
+msgstr "لو سمحت اطبع اجابتك"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Close me!"
+msgstr "!تمنعني"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"دور او اقلب الصندوق في الاسفل اما فوق او تحت لتثبت اجابتك. انقر فوق, امسك "
+"واسحب الفارة لفوق او للاسفل"
+
+# 1
+msgid "Start"
+msgstr "ابدا"
+
+msgid "Welcome to the Ecosystems Interactions review"
+msgstr "اهلا بكم في مراجعة تفاعلات النظام البيئي"
+
+msgid "Let's begin"
+msgstr "لنبدا"
+
+# 2
+msgid "Thinking about... ecosystems interactions"
+msgstr "التفكير ب ... تفاعلات النظام البيئي"
+
+msgid ""
+"Think about your family. There are people in your family of different ages "
+"and with different jobs. Even though you do your own things every day and "
+"may even have your own bedrooms, you all live together and interact with "
+"each other every day. Now think about a pond, a desert, or a forest. They "
+"are called ecosystems. Now read the first sentences about your family again "
+"and think about how a family is like an ecosystem."
+msgstr ""
+"التغكير بالعائلة. هناك اناس في عائلتك باعمار مختلفة و بوضائف مختلفةبالرغم من "
+"انك تقوم باعمالك الخاصة كل يوم او ربما لديك غرفة نومك الخاصة,انتم جميعكم "
+"تعيشون معا و تتفاعلون مع بعضكم البعض كل يوم"
+
+msgid "Are you ready"
+msgstr "هل انتم جاهزون"
+
+# 3
+msgid "Checking what you know... about ecosystems interactions"
+msgstr "فحص ما تعرفونه.... عن تفاعلات النظام البيئي"
+
+msgid "Read the following statements and decide if they are true or false."
+msgstr "اقرا العبارات التالية و قرر ما اذا هي صحيحة ام خاطئة"
+
+msgid "Statement"
+msgstr "عبارة "
+
+msgid "True"
+msgstr "صحيح"
+
+msgid "False"
+msgstr "خاطئ"
+
+msgid "Ecosystems are simply a collection of organisms."
+msgstr "الانظمة البيئية هي ببساطة مجموعة متعضيات"
+
+msgid "Ecosystems don't change; they stay the same over time."
+msgstr "الانظمة البيئية لا تتغير: تبقى كما هى عبر الزمن"
+
+msgid "Species that live together in an ecosystem need to get along."
+msgstr "الانواع التي تعيش معا في نظام بيئي تحتاج لان تنسجم"
+
+msgid "Some species may disappear with no effect on an ecosystem."
+msgstr "بعض الانواع قد تختفي دون ان تاثر على النظام البيئي"
+
+msgid ""
+"Ecosystems include not just the organisms but also the interactions among "
+"the organisms and between the organisms and their physical environment. All "
+"organisms are important within an ecosystem even though some may compete for "
+"resources and feed on one another. After going through this review come back "
+"and see if you would answer any of the true/false statements differently."
+msgstr ""
+"الانظمة البيئية لا تتضمن فقط المتعضيات بل ايضا التفاعلات فيما بينها ب "
+"التفاعلات بين المتعضيات و بيئتها المادية. كل المتعضيات مهمة في داخل النظام "
+"البيئي على الرغم من ان البعض قد يتنافس من اجل الموارد و يتغذى على بعضه البعض"
+
+msgid "Working together..."
+msgstr "الععمل معا"
+
+# 4
+msgid "Reviewing core ideas... about ecosystems interactions"
+msgstr "مراجعة الافكار الرئيسية .... حول تفاعلات النظام البيئي"
+
+msgid ""
+"This desert is an <span class=\"key\">ecosystem</span>. It is made up of "
+"living and non-living things that interact with each other. A desert does "
+"not get a lot of rain, but it gets a lot of sun. So the plants and animals "
+"that live in a desert adapt to be able to survive these conditions."
+msgstr ""
+"هذه الصحراء هي نظام بيئي. انها مكونة من اشياء حية و غير حية تتفاعل مع بعضها "
+"البعض. الصحراء لا تحصل على الكثير من المطر, ولكنها تحصل على الكثري من اشعة "
+"الشمس. ولذلك النباتات و الحيوانات التي تعيش هناك تتكيف لتكون قادرة على "
+"النجاة في تلك الظروفا"
+
+msgid ""
+"Animals and plants survive and live in a desert ecosystem by <span class="
+"\"key\">adapting</span> to the desert. Over time the kind of cactus best "
+"suited to live in a desert continue to grow and reproduce while other kinds "
+"of cactus eventually disappear. Cacti (more than one cactus) store water in "
+"their stems to help them survive the lack of rain. Kangaroo rats sleep "
+"underground where it is cooler and look for food during the night when the "
+"sun goes down. Owls hunt at night after the sun goes down, often catching "
+"kangaroo rats."
+msgstr ""
+"الحيوانات و النباتات التي تنجو و تعيش في نظام بيئة الصحراء تتكيف مع الصحراء. "
+"عبر الزمن نوع الصبار الاكثر ملائمة للعيش في الصحراء يستمر في النمو و اعادة "
+"الانتاج بينما هناك انواع من الصبار تختفي في النهاية.اشجار الصبار ( اكثر من "
+"صبارة واحدة) تخزن الماء في سيقانها لتساعدها على النجاة من نقص الامطار. جرذان "
+"الكنغر تنام تحت الارض حيث المكان ابرد وتبحث عن الطعام خلال الليل عندما تغرب "
+"الشمس .البوم يصطاد في الليل بعد غروب الشمس , في العادة تمسك بجرذان الكنغر"
+
+msgid ""
+"A <span class=\"key\">healthy ecosystem</span> is one of which many species "
+"are able to meet their needs for life over a long period of time.  All "
+"species need food, water, and other resources. Some even depend upon one "
+"another. <span class=\"key\">Predators</span> depend upon their prey species "
+"for food.  <span class=\"key\">Prey</span> species depend upon other "
+"predators to control their numbers. If either type is removed from an area, "
+"all living things in the area suffer. Prey species reproduce uncontrollably "
+"and begin to die as their food sources run out. Predators begin to die off "
+"quickly because their food is gone."
+msgstr ""
+"النظام البئي الصحي هو اللذي تكون فيه عدة انواع قادرة تلبية احتياجات الحياة "
+"الخاصة بها على مدى فترة زمنية طويلة . كل الاانواع تحتاج للغذاء و الماء و "
+"مصادر اخرى. حتى ان البعض منها يعتمد على بعضه االبعض. المفترسات تعتمد على "
+"فرائسها للغذاء. الفرائس تعتمد على المفترسات الاخرى من اجل السيطرة على "
+"اعدادها.  اذا انتقل احد الانواع من المنطقة كل الانواع الاخرى في المنطقة سوف "
+"تعاني. الفرائس تتكاثر بشكل لا يمكن السيطرة عليه ثم تبدا بالموت حالما "
+"تنفذمصادر غذائها . و المفترسات تبدا بالموت بسرعة لان غذائها قد تلاشى"
+
+msgid "Walking on the desert..."
+msgstr "المشي في الصحراء"
+
+# 5
+msgid "Quick Check #1"
+msgstr "فحص سريع #1"
+
+msgid "Question A. What is an ecosystem?"
+msgstr "السؤال أ.ما هة النظام البيئي"
+
+msgid ""
+"An un-natural unit consisting of plants, animals, and microorganisms in an "
+"area functioning together and interacting with the environment."
+msgstr ""
+"الوحدة الغير طبيعية تتكون من نباتات , و حيوانات و عضيات صغيرة في منطقة "
+"معينة  تعمل مع بعضها و تتفاعل مع البيئة"
+
+msgid ""
+"A natural unit consisting of plants, animals, and microorganisms in an area "
+"functioning together and interacting with the environment."
+msgstr ""
+"الوحدة  طبيعية تتكون من نباتات , و حيوانات و عضيات صغيرة في منطقة معينة  "
+"تعمل مع بعضها و تتفاعل مع البيئة"
+
+msgid ""
+"An un-natural unit consisting of plants, animals, and microorganisms in an "
+"area not functioning together or interacting with the environment."
+msgstr ""
+"الوحدة الغير طبيعية تتكون من نباتات , و حيوانات و عضيات صغيرة في منطقة "
+"معينة  تعمل مع بعضها او تتفاعل مع البيئة"
+
+msgid ""
+"A natural unit consisting of plants, animals, and microorganisms in an area "
+"not functioning together or interacting with the environment."
+msgstr ""
+"الوحدة  طبيعية تتكون من نباتات , و حيوانات و عضيات صغيرة في منطقة معينة لا  "
+"تعمل مع بعضها او تتفاعل مع البيئة"
+
+msgid "Question B. What non-living things might be in an ecosystem?"
+msgstr "السؤال ب. ماذا يمكن ان تكون الاشياء غير الحية في النظام البيئي؟"
+
+msgid "Mammals and insects"
+msgstr "ثديات و حشرات"
+
+msgid "Fungi and plants"
+msgstr "فطريات و نباتات"
+
+msgid "Rocks and soil"
+msgstr "صخور و تربة"
+
+msgid "Bacteria and other microbes"
+msgstr "بكتيريا  و ميكروبات اخرى"
+
+msgid ""
+"Not quite! An ecosystem is a natural unit of living things interacting "
+"together and with the environment."
+msgstr ""
+"ليس تماما ! وحدة  طبيعية من اشياء حية تتفاعل مع بعضها و تتفاعل مع البيئة !"
+
+msgid ""
+"Correct! Within an ecosystem all kinds of living and non-living interact and "
+"exist together."
+msgstr ""
+"صحيح ! داخل النظام البيئي كل الاشياء الحية وغير الحية تتفاعل و توجد مع بعضها"
+
+msgid ""
+"Nope! An ecosystem is a natural unit of living things interacting together "
+"and with the environment. If the parts of an ecosystem did not work together "
+"it really wouldn't be a system."
+msgstr ""
+"غير صحيح ! وحدة  طبيعية من اشياء حية تتفاعل مع بعضها و داخل البيئة . اذا لم "
+"تعمل اجزاء النظام البيئي معا فلن تكون نظام فعلا"
+
+msgid ""
+"Not quite! An ecosystem is a natural unit of living things- but living and "
+"non-living things function and interact with each other within the ecosystem."
+msgstr ""
+"ليس تماما!وحدة  طبيعية من اشياء حية  ولكن الاشياء الحية وغير الحية تعمل و "
+"تتفاعل مع بعضها  داخل البيئة"
+
+msgid ""
+"Nope! Mammals and insects can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"لا! الثديات و الحشرات يمكن ان تكون جزا من النظام البيئي , ولكنها اشياء حية . "
+"الصخور و التربة امثلة على الاجزاء غير الحية للنظام البئيئ "
+
+msgid ""
+"Nope! Fungi and plants can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"لا ! الفطريات و النباتات يمكن ان تكون جزء من النظام البيئي ولكنها اشياء حية  "
+"الصخور و التربة امثلة على الاجزاء غير الحية للنظام البئيئ  "
+
+msgid ""
+"Correct! Rocks and soil would be considered non-living parts of an "
+"ecosystem. The non-living and living components of an ecosystem are always "
+"interacting with each other, for example, when a plant is growing in soil."
+msgstr ""
+" صحيح ! يمكن اعتبار الصخور و التربة كاجزاء غير حية للنظام البيئي. المكونات "
+"الحية وغير الحية للنظام البيئي تتفاعل دائما مع بعضها , على سبيل المثال عندما "
+"تنمو النباتات في التربة"
+
+msgid ""
+"Nope! Bacteria and microbes can be part of an ecosystem, but they are living "
+"things. Rocks and soil are examples of non-living parts of an ecosystem."
+msgstr ""
+"لا ! البكتيريا و الميكروبات يمكن ان تكون اجزاء للنظان البيئي  ولكنها اشياء "
+"حية . الصخور و التربة امثلة على الاجزاء غير الحية للنظام البيئي"
+
+msgid "Ready for your first quick check?"
+msgstr "هل انتم جاهزون لفحصكم الاول؟"
+
+# 6
+msgid ""
+"People can change or affect ecosystems in many different ways. In fact, "
+"almost everything humans have done throughout history has somehow changed "
+"different ecosystems. People cut down trees to make space in a forest.  They "
+"plant trees to create shade in a grassland.  They plant crops and make space "
+"for the animals we need for food."
+msgstr ""
+"يمكن للناس ان تغيير أو تؤثر على النظم البيئي في العديد من الطرق المختلفة. في "
+"الواقع، تقريبا كل ما فعله  البشر   على مر التاريخ قد غير بطريقة أو بأخرى "
+"النظم البيئيةالمختلفة. قطع الناس الأشجار  لجعل مساحة في غابة. زرعوا الأشجار "
+"لخلق الظل في المراعي. ازرعوا المحاصيل وافسحوا المجال للحيوانات اللتي نحتاجها "
+"للغذاء"
+
+msgid ""
+"One example of how people changed an ecosystem is the case of Yellowstone "
+"National Park, a preserved area. Around it, people built roads, fought "
+"forest fires, and built campgrounds and lodges.  As more people began to "
+"visit this park, a decision was made to eliminate large predators, like "
+"mountain lions and wolves, by hunting them to extinction within the park."
+msgstr ""
+"أحد الأمثلة عن كيفية تغير الناس للنظام البيئي هو حالة حديقة يلوستون الوطنية، "
+"وهي منطقة محمية من حوله،  بني الناس الطرق، و حاربوا حرائق الغابات، وبنيت "
+"المخيمات والنزل. حالما بدأ المزيد من الناس بزيارة هذه الحديقة، تم اتخاذ قرار "
+"للقضاء على الحيوانات المفترسة الكبيرة، مثل الاسود والذئاب الجبلية، من خلال "
+"صيدها للانقراض داخل الحديقة."
+
+msgid ""
+"Over many years, the park changed; going from a forest filled with large "
+"trees and open spaces to one filled with shrubs and dead wood. The elk herd "
+"grew so rapidly that animals began to die due to a lack of food. Park "
+"managers eventually decided to make an attempt to return the park to its "
+"natural state."
+msgstr ""
+"على مدى سنوات عديدة، تغيرت الحديقة؛  من غابة مليئة بالأشجار الكبيرة "
+"والمساحات المفتوحة إلى واحدة مليئة الشجيرات والخشب الميت. نما قطيع الأيائل "
+"بسرعة كبيرة بحيث بدأت الحيوانات بالموت بسبب نقص الغذاء. قرر مديرو الحديقة في "
+"نهاية المطاف إلى محاولة جعل الحديقة تعود إلى حالته الطبيعية."
+
+msgid ""
+"People can also make indirect effects on ecosystems by burning fossil fuels "
+"like coal and oil, which can cause air and water pollution. This affects "
+"species that depend on these natural resources (air, soil, and water) and "
+"that can lead to a change in an ecosystem as well."
+msgstr ""
+"يمكن للناس أيضا عمل اثار غير مباشرة على النظم البيئي عن طريق حرق الوقود "
+"الاحفوري مثل الفحم والنفط، والتي يمكن أن يتسبب في تلوث الهواء والماء. هذا "
+"يؤثر على الأنواع التي تعتمد على هذه الموارد الطبيعية (الهواء والتربة "
+"والمياه) والتي يمكن أن تؤدي إلى تغيير في النظام بيئي كذلك."
+
+msgid "Burning fossil fuels..."
+msgstr "احراق الوقود الاحفوري"
+
+# 7
+msgid "Quick Check #2"
+msgstr "فحص سريع#2"
+
+msgid ""
+"Question A. Check <span class=\"blink\">all</span> the ways farming "
+"practices that are intended to increase crop production can be bad for the "
+"ecosystem."
+msgstr ""
+"السؤال أ. تفحص طرق التي تمارسها الزراعة التي تهدف إلى زيادة إنتاج المحاصيل "
+"يمكن أنتكون سيئة للنظام البيئي"
+
+msgid "Nutrients may be taken from the soil."
+msgstr "يمكن أن تؤخذ العناصر الغذائية من التربة."
+
+msgid "Nearby streams can become polluted."
+msgstr "يمكن أن تصبح لمجاري المائية القريبة ملوثة."
+
+msgid "Grass fires may occur more frequently."
+msgstr "قد تتكرر حرائق الاعشاب اكثر"
+
+msgid "Habitats for some animals may be destroyed."
+msgstr "قد تدمر مساكن بعض الحيوانات"
+
+msgid ""
+"Question B. Which statement is an example of a living thing interacting with "
+"a non-living thing?"
+msgstr "السؤال ب. أي عبارة هي مثال على شيء حي يتفاعل مع شيء غير الحية؟"
+
+msgid "A beaver cutting down trees."
+msgstr "قندس يقطع الاشجار"
+
+msgid "A prairie dog living under soil."
+msgstr "كلب البراري يعيش تحت التربة"
+
+msgid "A plant and fungus living together."
+msgstr "النبات والفطريات التي تعيش معا"
+
+msgid "A flower that is pollinated by a bee."
+msgstr "زهرة  يتم تلقيحها عن طريق النحل."
+
+msgid "Plowing soil..."
+msgstr "حراثة التربة"
+
+msgid ""
+"Correct! These are all things people do that can affect the species living "
+"in an ecosystem. If we use the soil over and over without taking care of it, "
+"or empty chemicals into streams, we will impact the ecosystem in the worst "
+"way."
+msgstr ""
+"صحيح! هذه هي كل الأشياء  التي يفعلها الناس و يمكن أن تؤثر على أنواع الكائنات "
+"الحية في النظام البيئي. إذا استخدمنا التربة مرارا وتكرارا دون العناية بها، "
+"أو المواد الكيميائية المفرغة في الجداول، سوف نؤثر على النظام االبيئي في أسوأ "
+"طريقة."
+
+msgid ""
+"Think again! (a) is one of the effects--people change the soil they use. If "
+"the soil is used over and over to grow crops and no fertilizer is added to "
+"it, the natural nutrients in the soil will be severely reduced. (b) is also "
+"one of the effects--farmers use chemicals to help plants grow faster and "
+"kill plants and bugs that try to eat the plants they are growing. Rain can "
+"wash a lot of these chemicals into the river and pollute the water. (c) a "
+"fire every so often can actually be good for an ecosystem because it allows "
+"new plants to grow. (d) is also bad for the ecosystem because when tree and "
+"other vegetation are cut down to make room for a farm, many animals may lose "
+"what they need to survive."
+msgstr ""
+"فكر مرة أخرى! (أ) هي واحدة من الآثار - الناستؤثر على التربة التي يستخدمونها. "
+"إذا تم استخدام التربة مرارا وتكرارا لزراعة المحاصيل وعدم إضافة أية الأسمدة "
+"إليها، سيتم تخفيض المغذيات الطبيعية في التربة بشدة. (ب) هي أيضا واحدة من "
+"الآثار - المزارعين يستخدمون المواد الكيميائية لمساعدة النباتات لتنمو بشكل "
+"أسرع وقتل النباتات والحشرات التي تحاول أكل النباتات التي تنمو. المطر يمكن أن "
+"يغسل الكثير من هذه المواد الكيميائية في النهر وتلوث المياه. (ج) النار بين "
+"الحين والآخر يمكن أن تكون في الواقع جيدة لنظام بيئي لأنها تسمح لنباتات جديدة "
+"بالنمو. (د) هو أيضا سيئ للنظام البيئي لأنه عندما يتم قطع الأشجار وغيرها من "
+"النباتات لإفساح المجاللمزرعة، قد تفقد العديد من الحيوانات ما يحتاجوناليه "
+"للبقاء على قيد الحياة."
+
+msgid ""
+"Not quite! Trees are living things. The way beavers cut down trees and build "
+"dams changes the ecosystem a lot. They create ponds and offer protection to "
+"many animals."
+msgstr ""
+"ليس تماما! الأشجارهي كائنات حية. الطريقة التي تقطع بها القنادس الأشجار وبناء "
+"السدود يغير النظام البيئي كثيرا. لأنها تخلق البرك وتوفر الحماية لكثير من "
+"الحيوانات."
+
+msgid ""
+"Correct! The soil keeps the prairie dog safe, and they dig tunnels helping "
+"the water to get everywhere in the soil."
+msgstr ""
+"صحيح! التربة تحافظ على الكلب البري آمن، وهي تحفر الأنفاق  التي تساعد الماء "
+"للوصول على كل مكان في التربة."
+
+msgid ""
+"Not quite! A plant and fungus can live together in a way that they both can "
+"benefit, but both are living things."
+msgstr ""
+"ليس تماما! النبات والفطريات يمكن أن تعيش معا في الطريقة التي يمكن أن تستفيد  "
+"بها كلاهما، ولكنهما كائنات الحية."
+
+msgid ""
+"Not quite! Bees pollinate flowers and the interaction results in more "
+"flowers and food for the bee, but both are living things."
+msgstr ""
+"ليس تماما! النحل يلقح الزهور ونتائج التفاعل في زهور اكثر وغذاء للنحل، لكن "
+"كلاهما كائنات الحية."
+
+# 8
+msgid ""
+"How do animals adapt to live in different ecosystems? Some animals adapt to "
+"different habitats, and some animals do well just the way they are. It "
+"depends on the species and on the ecosystem. An adaptation is a change in "
+"the body structure, processes or behavior of a specie that has evolved over "
+"a period of generations. All surviving species have adapted to different "
+"climates and conditions over the years. For example, animals that live in "
+"cold climates have thick fur, and animals that live in warm climates have "
+"bodies that help them stay cool. Animals also adapt in different ways to "
+"help them find food in their habitat. For example, a snake that lives in the "
+"desert that eats small animals would probably have a hard time staying warm "
+"and finding food in an arctic environment."
+msgstr ""
+"كيف تتكيف الحيوانات على العيش في النظم البيئية المختلفة؟ بعض الحيوانات تتكيف "
+"مع مواطن مختلفة، وبعض الحيوانات تحسن صنعا تماما كما هي. ذلك يعتمد على "
+"الأنواع وعلى النظام البيئي. التكيف هو تغيير في بنية الجسم، العمليات أو "
+"السلوك للانواع التي تطورت على مدى اجيال. وقد تكيفت كل الأنواع الحية لمناخات "
+"وظروف مختلفة على مر السنين. على سبيل المثال، الحيوانات التي تعيش في المناخات "
+"الباردة لديهم الفراء السميك، والحيوانات التي تعيش في المناخات الحارة لها "
+"الهيئات التي تساعدها على البقاء باردة. الحيوانات تتكيف أيضا بطرق مختلفة "
+"لمساعدتهم في العثور على الغذاء في بيئتها. على سبيل المثال، فإن الثعابين التي "
+"تعيش في الصحراء و تأكل الحيوانات الصغيرة ربما تجد صعوبة في البقاء دافئة "
+"وإيجاد الطعام  في بيئة القطب الشمالي."
+
+msgid ""
+"Parrots were brought to the Hawaiian Islands as pets and were either "
+"released or escaped. Hawaii turns out to be excellent habitat for parrots "
+"and they have reproduced in the wild. Unfortunately, many native Hawaiian "
+"birds have difficulty competing with parrots for food and are nearing "
+"extinction. Plants or animals living in wild spaces outside their native "
+"ranges, such as these parrots now found in Hawaii, are known as <span class="
+"\"key\">invasive species</span>. Invasive species create problems for native "
+"species either by preying upon the natives for food, or by out-competing "
+"them for food and other resources."
+msgstr ""
+"تم جلب الببغاوات إلى جزر هاواي كحيوانات أليفة وإما اطلقت أو هربت. هاواي "
+"تتحول لتصبح موطن  ممتاز للببغاوات التي تتكاثر في البرية. للأسف، الكثير من "
+"طيور هاواي الأصليين يجدون صعوبة في التنافس مع الببغاوات على الغذاء  و توشك "
+"على الانقراض. النباتات أو الحيوانات التي تعيش في الأماكن البرية خارج "
+"نطاقاتها الأم، مثل هذه الببغاوات توجد الآن في هاواي، والمعروفة باسم <span "
+"class='key'> الأنواع الغازية </span>. الأنواع الغازية خلقت مشاكل للأنواع "
+"الأصلية إما عن طريق الافتراس على المواطنين للغذاء، أو المنافسة لهم على "
+"الغذاء والموارد الأخرى."
+
+msgid "Adapting to environment..."
+msgstr "التكيف مع البيئة"
+
+# 9
+msgid "Quick Check #3"
+msgstr "فحص سريع # 3"
+
+msgid "Question A. Why do adaptations become common in populations?"
+msgstr "سؤال أ . لماذا اصبح التكيف شائعا بين السكان؟"
+
+msgid "Adaptations make it harder for animals to survive."
+msgstr "التكيف يزيد صعوبة البقاء بانسبة للحيوانات"
+
+msgid "Only animals are able to adapt."
+msgstr "فقط الحيوانات قادرة على التكيف"
+
+msgid "Only plants are able to adapt."
+msgstr "فقط النباتات قادرة على التكيف"
+
+msgid "Adaptations make it easier for animals to survive."
+msgstr "التكيف يسهل البقاء بالنسبة للحيوانات"
+
+msgid ""
+"Question B. Which of the following would <span class=\"blink\">NOT</span> be "
+"a problem created by an invasive species?"
+msgstr "اي من التالية قد لا تكون مشكلة اوجدتها الطيور الغازية سؤال ب."
+
+msgid "A. Creating new habitat for native species."
+msgstr "A. ابتكار مواطن جديدة للانواع الاصلية"
+
+msgid "B. Preying upon native species."
+msgstr "B. افتراس الانواع الاصلية"
+
+msgid "C. Competing with native species."
+msgstr "C. التنافس مع الانواع الاصلية"
+
+msgid "D. Over-populating the habit."
+msgstr "D. زيادة اعداد سكان الموطن"
+
+msgid "Feeding wild birds..."
+msgstr "تغذية الطيور البرية"
+
+msgid "Nope! Adaptations make survival easier."
+msgstr "لا! التكيف يسهل البقاء"
+
+msgid "Nope! All living things are able to adapt to changing environments."
+msgstr "لا! كل الكائنات الحية قادرة على التكيف مع البيئات المتغيرة"
+
+msgid ""
+"Correct! In the desert, the owl stays cool by hunting for its prey at night."
+msgstr "صحيح! في الصحراء الببغاء المفترسة تبقى باردة عن طريق صيد فريستها ليلا"
+
+msgid ""
+"That's the one! New habitat would be great if invasive species created it. "
+"They don't."
+msgstr ""
+"هذا هو ! الموطن الجديد قد يكون رائعا اذا صنعته الانواع الغازية اليس كذلك"
+
+msgid "Not quite! Invasive species often prey upon natives."
+msgstr "ليس تماما!غالبا ما تتغذى الانواع الغازية على الاصلية"
+
+msgid "Sorry. Invasive species often out-compete natives."
+msgstr "اسف. الانواع الغازية غالبا تنافس الاصلية"
+
+msgid ""
+"Nope! Without predators, invasive species would increase rapidly in "
+"population."
+msgstr "لا! بدون المفترسة , الاانواع الغازية قد تتزايد بسرعة بين السكان"
+
+# 10
+msgid ""
+"Ecosystems come in different sizes. They can be as small as a puddle or as "
+"large as the Earth itself. Any group of living and nonliving things "
+"interacting with each other can be considered as an ecosystem. An ecosystem "
+"is made up of a habitat, where things live; and a community, the animals and "
+"plants who live there. A habitat is the natural home or environment of an "
+"animal, plant, or other organism."
+msgstr ""
+"النظم البيئية تأتي في أحجام مختلفة. يمكن أن تكون صغيرة مثل بركة أو كبيرة مثل "
+"الأرض نفسها. أي مجموعة من الأشياء غير الحية التي تعيش وتتفاعل مع بعضها البعض "
+"ويمكن اعتباره  نظام بيئي. ويتكون النظام البيئي يتكون من المواطن، حيث تعيش "
+"الأشياء؛ والمجتمع، والحيوانات والنباتات التي تعيش هناك. والمواطن الطبيعية هي "
+"موطن أو بيئة حيوان، نبات، أو غيرها من الكائنات الحيه."
+
+msgid ""
+"In a habitat, plants and animals interact and rely on each other. In Africa, "
+"one of the largest trees and one of the tiniest insects rely completely on "
+"each other for survival. The sycamore fig tree supports an entire ecosystem, "
+"consisting of birds, snakes, insects, monkeys and elephants."
+msgstr ""
+"كبر الأشجار و واحدة من أصغر الحشرات تعتمد تماما على بعضها البعض من أجل "
+"البقاء. شجرة الجميز التين يدعم النظام البيئي بأكمله، ويتألف من الطيور "
+"والثعابين والحشرات والقرود والفيلة."
+
+msgid ""
+"The picture at the right that looks like fruits is actually a set of "
+"flowers. They can only be pollinated by a tiny wasp that brings along pollen "
+"from another fig tree. Over a period of weeks, the wasp eggs hatch and begin "
+"to develop through a series of life stages, using the inside of the "
+"developing fruit as food."
+msgstr ""
+"الصورة في الجهة اليمنى والتي تبدو مثل الفواكه هي في الواقع مجموعة من الزهور. "
+"لا يمكن أن تلقح الا بواسطة دبور صغير تحضر حبوب اللقاح من شجرة التين آخرى. "
+"على مدى فترة من الأسابيع، يفقس بيض الدبور ويبدء في التطور من خلال سلسلة من "
+"مراحل الحياة، وذلك باستخدام ما بداخل  الفاكهة النامية كغذاء."
+
+msgid ""
+"The sycamore fig is also the center of a larger system involving many other "
+"creatures.  When the fruit ripens a wide variety of animals come to feed. "
+"Monkeys harvest and eat the fruits, as do elephants and bats. Some birds "
+"even use the tree for shelter, grey hornbills building nests in hollow "
+"spaces in the trunk. Hollow spaces are also used by bees as a shelter for "
+"hives. The sycamore fig further supports its ecosystem by forming fruits "
+"several times each year. If there are a few trees in an area, nourishing "
+"food will always be available. This entire complex system depends upon the "
+"interaction between a tree and a wasp. If either is lost, the whole system "
+"collapses."
+msgstr ""
+"التين الجميز هي أيضا مركز نظام أكبر تنطوي على العديد من المخلوقات الأخرى. "
+"عندما تنضج ثمرة مجموعة واسعة من الحيوانات تأتي لتغذية. القرود و الحصاد وأكل "
+"الفواكه، كما تفعل الفيلة والخفافيش. بعض الطيور حتى تستخدم الشجرة كالمأوى، "
+"طائر البوقير الرمادي يبني اعشاشه في مساحات جوفاء في الجذع. وتستخدم الفراغات "
+"أيضا من قبل النحل كملجأ للخلايا. يدعم التين الجميزنظامه البيئي اكثر من خلال "
+"تشكيل الفواكه عدة مرات كل عام. إذا كان هناك عدد قليل من الأشجار في المنطقة، "
+"الطعام المغذي سوف يكون متاحة دائما. هذا النظام المجمع بأكمله يعتمد على "
+"التفاعل بين شجرة والد بور. إذا فقد احدها، ينهار النظام باكله."
+
+msgid "Setting up turtle habitat..."
+msgstr "انشاء موطن السلاحف"
+
+# 11
+msgid "Quick Check #4"
+msgstr "فحص سريع #4"
+
+msgid "Question A. What is a beaver's habitat?"
+msgstr "سؤال ا. ما هو موطن القندس ؟"
+
+msgid "The number of beavers in a given area."
+msgstr "عدد القنادس في منطقة معطاة"
+
+msgid "The streams of North America."
+msgstr "ينابيع شمال اميريكا"
+
+msgid "The plants that beavers eat."
+msgstr "النبات الذي ياكله القندس"
+
+msgid "The tail of a beaver."
+msgstr "ذيل القندس"
+
+msgid ""
+"Question B. Which of the following animals does not use the sycamore fig as "
+"a food source?"
+msgstr "أي من الحيوانات التالية لا يستخدم التين الجميز كمصدر للغذاء ؟ سؤال ب."
+
+msgid "Monkeys"
+msgstr "القردة"
+
+msgid "Elephants"
+msgstr "الفيلة"
+
+msgid "Bats"
+msgstr "الخفافيش"
+
+msgid "Bees"
+msgstr "النحل"
+
+msgid "Ready for your last quick check?"
+msgstr "جاهزون لاخر فحص سريع؟"
+
+msgid ""
+"Nope! The beaver's habitat is where the animal lives - streams of North "
+"America."
+msgstr "كلا! موطن القندس هو حيث يعيش الحيوان - ينابيع أمريكا الشمالية."
+
+msgid ""
+"Correct! Beavers live in lodges created from branches and mud. They build "
+"their lodges after they build dams and create a pond."
+msgstr ""
+"صحيح! القنادس يعيش في النزل التي تم إنشاؤها من الفروع والطين. يبنون النزل "
+"الخاصة بهم بعد بناء السدود وإنشاء بركة."
+
+msgid ""
+"Nope! The beaver's habitat is where the animal lives – plants are only part "
+"of their habitat."
+msgstr "لا! مواطن القندس حيث تعيش الحيوانات- النبات هو فقط جزء من موطنها"
+
+msgid ""
+"Nope! The beaver's tail is an adaptation - streams of North America are its "
+"habitat."
+msgstr "لا! ذيل القندس هو تكيف- ينابيع شمال اميركا هي موطنها"
+
+msgid "Nope! Monkeys eat the fig fruits."
+msgstr "لا! القردة تاكل فاكهة التين"
+
+msgid "Not quite! Elephants love figs."
+msgstr "ليس تماما ! الفيلة تحب التين"
+
+msgid "Not bats. Bats even eat figs upside down!"
+msgstr " ليست الخفافيش . الخفافيش تاكل التين راسا على عقب"
+
+msgid "Correct! Bees don't eat figs, they build hives in hollow spaces."
+msgstr "صحيح ! النحل لا باكل التين"
+
+# 12
+msgid ""
+"Using what you know... about ecosystems interactions... to solve a problem"
+msgstr "باستخدام ما تعرف... عن تفاعلات النظام البيئي ..لحل المشكلة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"When people move into an area, they can't help but immediately begin to make "
+"changes.  They need food and a place to live.  They like to live in "
+"communities with other people.  They each have their own sense of what is "
+"useful and attractive.  The pictures below show examples of how different "
+"landscapes looked before and since people arrived."
+msgstr ""
+"عند انتقال الناس إلى منطقة، فإنهم لا يمكن أن يساعدوا ولكن على الفور يبدؤون "
+"في إجراء تغييرات. يحتاجون الى طعام ومكان للعيش فيه. أنهم يحبون في العيش في "
+"المجتمعات مع أشخاص آخرين. أنهم يتمتلكون  حسهم الخاص حول ما هو مفيد وجذاب "
+"لهم. تظهر الصور أدناه أمثلة لكيف كانت تبدو المناظر الطبيعية المختلفة قبل "
+"ومنذ وصول الناس."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"The historical society in your town has hired you to prepare a report on "
+"what the town area may have looked like before people settled there. Take a "
+"walk around your neighborhood and make some notes in the space below about "
+"how you think your own community looks now and how it may have looked before "
+"people settled there."
+msgstr ""
+" المجتمع التاريخي في بلدتك وقد استأجرك لكي  تعد تقريرا عن ما كانت تبدو عليه "
+"المدينة قبل استقرار الناس  هناك. تمشى حول منطقتكم وخذ الملاحظات في المكان "
+"المخصص أدناه حول ما تعتقد ان مدينتكم تبدو عليه الآن، وكيفكانت تبدو قبل "
+"استقرار الناس هناك."
+
+msgid "Please type your answer here..."
+msgstr "الرجاء طباعة اجابتك هنا"
+
+msgid "Looking at the old pictures..."
+msgstr "النظر للصور القديمة"
+
+# 13
+msgid "Summarizing core ideas... about ecosystems interactions"
+msgstr "تلخيص الافكار الرئيسية حول تفاعلات النظام البيئي"
+
+msgid ""
+"An <span class=\"key\">ecosystem</span> is made up of living and non-living "
+"things that interact with each other. Animals and plants survive and live in "
+"their ecosystem by <span class=\"key\">adapting</span> to its conditions. In "
+"a <span class=\"key\">healthy ecosystem</span> many species are able to meet "
+"their needs (food, water, and other resources) for life over a long period "
+"of time.   People can change ecosystems in many different ways. The changes "
+"affect species that depend on the natural resources (air, soil, and water) "
+"in the ecosystem. Some animals need to adapt to their habitat over time, and "
+"some <span class=\"key\">invasive species</span> do not. Plants or animals "
+"living in wild spaces outside their native ranges are known as <span class="
+"\"key\">invasive species</span>.  Ecosystems come in different sizes. An "
+"ecosystem is made up of a habitat, where things live; and a community, the "
+"animals and plants who live there. A habitat is the natural home or "
+"environment of an animal, plant, or other organism. In a habitat, plants and "
+"animals interact and rely on each other."
+msgstr ""
+" النظام البيئي  يتكون من الكائنات الحية وغير الحية  التي تتفاعل مع بعضها "
+"البعض. الحيوانات والنباتات تبقى حية  و تعيش في النظام البيئي من خلال التكيف "
+"مع ظروفها  في نظام بيئي صحي  .  العديد من الأنواع قادرون على تلبية "
+"احتياجاتهم (الغذاء والمياه و الموارد الأخرى ) للحياة على مدى فترة طويلة من "
+"الزمن. يمكن للناس تغيير النظم البيئية في العديد من الطرق المختلفة . تؤثر "
+"التغييرات على الأنواع التي تعتمد على الموارد الطبيعية (الهواء والتربة "
+"والمياه) في النظام البيئي . بعض الحيوانات تحتاج إلى التكيف مع بيئتها عبر  "
+"مرور الوقت و بعض الانواع الغازية لا تفعل. انبات او الحيوان في المساحات "
+"البرية خارج سلاسلهم الاصلية يعرفون باسم الانواع الغازية . النظم البيئية "
+"باحجام مختلفة . النظام البيئي مكون من موطن حيث تعيش الكائنات و مجتمع وهو "
+"الحيوانات و النباتات التي تعيش هناك . الموطن هو البيت او البيئة الطبيعية "
+"للحيوان او النبات او اي كائن عضوي اخر . في الموطن النبات و الحيوان يتفاعلان "
+"و يعتمدان على بعضهما."
+
+msgid "Putting it all together..."
+msgstr "اجمعها معا"
+
+# 14
+msgid "Reviewing key vocabulary related to... ecosystems interactions"
+msgstr "مراجعة المصطلحات الرئيسية المتعلقة بتفاعلات النظام البيئي"
+
+msgid "Ecosystem"
+msgstr "النظام البيئي"
+
+msgid ""
+"An ecosystem is all the living and non-living things in a given place. An "
+"ecosystem can be as large as a forest or as small as a rotting log. There "
+"are both land and water ecosystems."
+msgstr ""
+"النظام البيئي هو كل الأشياء الحية وغير الحية في مكان معين. النظام البيئي "
+"يمكن أن يكون كبير مثل الغابات أو صغير مثل حطبة متعفنة.  وهناك النظم البيئية "
+"للأراضي والمياه على حد سواء."
+
+msgid ""
+"Ponds, rivers, lakes, and oceans are all examples of water ecosystems. A "
+"pond ecosystem contains not only water, but living organisms such as fish, "
+"plants, insects, frogs, and turtles. Common land ecosystems include forests, "
+"deserts, and grassy meadows."
+msgstr ""
+"البرك والأنهار والبحيرات والمحيطات كلها أمثلة على النظم البيئية للمياه.  "
+"يحتوي النظام البيئي في بركة ليس فقط على المياه ، بل على الكائنات الحية مثل "
+"الأسماك والنباتات والحشرات والضفادع، والسلاحف.  وتشمل النظم البيئية البرية "
+"المشتركة الغابات والصحارى، والمروج العشبية."
+
+msgid "Adapt"
+msgstr "تكيف"
+
+msgid ""
+"To say that something has adapted means that it fits in with its "
+"surroundings. Some living things change slowly over time in order to adapt "
+"to their surroundings. Adapting helps living things to stay alive. If living "
+"things didn't have the ability to adapt, they would disappear forever."
+msgstr ""
+"للقول ان شيء قد تكيف يعني انه تناسب مع محيطه.  بعض الكائنات الحية تتغير ببطءٍ "
+"مع الزمن من اجل التكيف مع محيطها.  التكيف يساعد الكائنات للبقاء حية . اذا "
+"كان الكائن ليس لديه القدرة على التكيف فسوف يختفي للابد"
+
+msgid ""
+"A thick coat of fur is an example of how some animals, such as polar bears, "
+"have become adapted to the cold. A polar bear's white color is another way "
+"in which polar bears are adapted to their surroundings. The color of a polar "
+"bear allows it to blend in with the snow. This makes it easy for them to "
+"sneak up on the animals that they hunt for food."
+msgstr ""
+"معطف من الفراء الكثيف هو مثال على كيف أن بعض الحيوانات، مثل الدببة القطبية، "
+"أصبحت تتكيف مع البرد. اللون الأبيض للدب القطبي هو طريقة أخرى التي يتم تكييف "
+"الدببة القطبية  بها مع المناطق المحيطة .  لون الدببة القطبية يسمح لها لكي "
+"تنسجم مع الثلج. وهذا يجعل من السهل بالنسبة لهم التسلل  إلى الحيوانات التي "
+"يصيدونها من أجل الغذاء."
+
+msgid "Healthy ecosystem"
+msgstr "النظام البيئي الصحي"
+
+msgid ""
+"A healthy ecosystem is an ecosystem in which many species are able to meet "
+"their needs for life over a long period of time."
+msgstr ""
+"والنظام البيئي الصحي هو نظام بيئي فيه العديد من الأنواع القادرة على تلبية "
+"احتياجاتها من الحياة على مدى فترة طويلة من الزمن."
+
+msgid ""
+"A 400-year old deciduous forest that has remained relatively stable is an "
+"example of a healthy ecosystem."
+msgstr "غابة قديمة عمرها 400 سنة ظلت مستقرة نسبيا هي مثال على نظام بيئي صحي."
+
+msgid "Predator"
+msgstr "مفترس"
+
+msgid ""
+"Animals that hunt, attack, and eat other animals are called predators. "
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"الحيوانات التي تستطاد، وتهاجم، وتأكل الحيوانات الأخرى تسمى الحيوانات "
+"المفترسة. وتشمل الحيوانات المفترسة الأسود والنمور، وأسماك القرش. الكلاب "
+"والقطط هي أيضا حيوانات مفترسة، ولكن الناس يعطيها الطعام لذلك ليس عليها "
+"الصيد.  الحيوانات المفترسة التي تعيش في البرية يجب أن تكون صيادة ماهرة، أو "
+"أنها لن تجد الطعام لتاكل "
+
+msgid "Prey"
+msgstr "فريسة"
+
+msgid ""
+"Animals that are hunted and eaten by other animals are called prey. Prey "
+"animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals that are weak "
+"or sick make easier prey for the animals that hunt them."
+msgstr ""
+"وتسمى الحيوانات التي تُصاد وتؤكل من قبل الحيوانات الأخرى فريسة. الفرائس غالبا "
+"ما تحمل علامات خاصة تساعدهم  على الانسجام مع محيطها بحيث تكون أكثر صعوبة في "
+"العثور عليها. الحيوانات  الضعيفة أو المريضة تكون فريسة أسهل للحيوانات التي "
+"تصطادها"
+
+msgid "Invasive species"
+msgstr "الأنواع المُجتاحة"
+
+msgid ""
+"Invasive species are plants or animals living in wild spaces outside their "
+"native ranges."
+msgstr ""
+"الأنواع المُجتاحة من النباتات أو الحيوانات التي تعيش في الأماكن البرية خارج "
+"مناطقها الأصلية."
+
+msgid ""
+"Invasive species create problems for native species either by preying upon "
+"the natives for food, or by out-competing them for food and other resources."
+msgstr ""
+"الأنواع المُجتاحة تخلق مشاكل للأنواع الأصلية إما عن طريق افتراسها للأغذية، أو "
+"منافستها على الغذاء والموارد الأخرى"
+
+msgid "Words and explanations"
+msgstr "كلمات و تفسيرات"
+
+# 15
+msgid "Checking what you now know... about ecosystems interactions"
+msgstr "التأكد مما تعرف الآن ...حول تفاعلات النظام البيئي"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"الإجابة على ستة (6) أسئلة للاختبار التالي تعطيك فكرة عن ما تعرفه الآن وما "
+"اذا كنت لا تزال بحاجة إلى دراسته."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر الزر التالي عندما تكون جاهزا"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نفحص ما تعرفه الان"
+
+# 16
+msgid "Quiz Question #1"
+msgstr "سؤال قصير 1"
+
+msgid "Do ecosystems have a certain size?"
+msgstr "هل لدى النظم البيئية حجم محدد؟"
+
+msgid "Yes, 10 square miles"
+msgstr "نعم , 10 ميل مربع"
+
+msgid "Yes, 100 square miles"
+msgstr "نعم، 100 ميل مربع"
+
+msgid "No, ecosystems do not have a certain size"
+msgstr "لا ليس لها حجم محدد"
+
+msgid "Your first quiz question is..."
+msgstr "سؤال امتحانك القصير الاول هو"
+
+msgid ""
+"Nope! There is no specific size for an ecosystem. The entire earth can be an "
+"ecosystem, and the pond near your school is also an ecosystem. It depends on "
+"what you are focusing on."
+msgstr ""
+"كلا! ليس هناك حجم معين للنظام البيئي.  كامل الأرض يمكن أن تكون النظام "
+"البيئي، والبركة بالقرب من مدرستك هي أيضا نظام بيئي.  و ذلك يعتمد على ماذا "
+"تركز."
+
+msgid ""
+"Correct! There is no specific size for an ecosystem. Depending on which "
+"interactions you are studying, the entire earth can be an ecosystem, and so "
+"can a small pond."
+msgstr ""
+"صحيح! ليس هناك حجم معين للنظام البيئي.  اعتمادا على اي التفاعلات كنت تدرس، "
+"يمكن أن تكون كامل الأرض نظام بيئي واحد، وحتى يمكن لبركة صغيرة أن تكون نظاماً "
+"بيئاً واحداً."
+
+# 17
+msgid "Quiz Question #2"
+msgstr " سؤال قصير 2"
+
+msgid "Click on <span class=\"blink\">all</span> the examples of an ecosystem."
+msgstr "انقر على <span class='blink'>جميع </span>الامثلة لنظم بيئي."
+
+msgid "Pond"
+msgstr "بركة"
+
+msgid "Forest"
+msgstr "غابة"
+
+msgid "Niche"
+msgstr "جحر"
+
+msgid "Grassland"
+msgstr "ارض عشبية"
+
+msgid "Having healthy interactions..."
+msgstr "الحصول على نظام بيئي صحي ..."
+
+msgid ""
+"Correct! A pond, forest, and grassland are all ecosystems. Different animals "
+"live in each ecosystem with their own environment and interactions."
+msgstr ""
+"صحيح! البركة، و الغابات، والمراعي جميعها نظم بيئية.  حيوانات مختلفة تعيش في "
+"كل واحد من هذه النظم البيئية مع بيئتهم الخاصة والتفاعلات المختلفة."
+
+msgid ""
+"Not quite! A pond, forest, and grassland are all ecosystems. Different "
+"animals live in each ecosystem with their own environment and interactions. "
+"A niche is not an ecosystem. A niche is how an organism responds to the "
+"environment."
+msgstr ""
+"ليس تماما ! البركة و الغابة و الارض العشبية كلها انظمة بيئية.  حيوانات "
+"مختلفة تعيش في كل نظام بيئي مع بيئتها و تفاعلاتها الخاصة . الجحر ليس نظاما "
+"بيئيا بل هو كيف يستجيب الكائن لبيئته"
+
+# 18
+msgid "Quiz Question #3"
+msgstr "سؤال قصير 3"
+
+msgid "Predators are important to their prey because:"
+msgstr "المفترسون مهمون بالنسبة لفرائسهم بسبب:"
+
+msgid "A. Predators serve as food for their prey."
+msgstr "A. المفترسون هم غذاء لفرائسهم"
+
+msgid "B. Predators seldom consume prey for food."
+msgstr "B. نادرا ما يستهلك المفترسون فرائسهم كغذاء"
+
+msgid "C. Predators hide from their prey to avoid being eaten."
+msgstr "C. المفترسون يختبؤون من فرائسهم لتفادي ان يؤكلوا"
+
+msgid "D. Predators kill and eat prey, helping to control the prey population."
+msgstr "D. اكل المفترس للفريسة يساعد على السيطرة على ضبط أعداد الفرائس"
+
+msgid "Hunting for food..."
+msgstr "الصيد من اجل الغذاء..."
+
+msgid "It's the other way around... prey are the food."
+msgstr "انه على العكس ...الفريسة هي الطعام"
+
+msgid "Nope! Predators always consume prey for food."
+msgstr "لا! المفترس دائما يستهلك الفريسة كغذاء"
+
+msgid "It's the other way around... prey usually hide from predators."
+msgstr "على العكس الفريسة عادة تختبيء من المفترس"
+
+msgid "You got it! Without predators, prey population skyrocket."
+msgstr "لقد فهمتها!  بدون المفترسين اعداد الفرائس تصبح كبيرة جداً"
+
+# 19
+msgid "Quiz Question #4"
+msgstr "سؤال قصير 4"
+
+msgid ""
+"What can you infer about a camel from the fact that it can easily live in "
+"the desert?"
+msgstr ""
+"ماذا يمكن أن نستنتج عن الجمل حول حقيقة أنه يمكن أن يعيش بسهولة في الصحراء؟"
+
+msgid "It must be a very large animal."
+msgstr "لا بد من ان يكون حيوان كبير جدا"
+
+msgid "It must eat only cacti."
+msgstr "لا بد وانه ياكل الصبار فقط "
+
+msgid "It must have a small habitat."
+msgstr "لا بد وان لديه موطن صغير"
+
+msgid "It must survive on little water."
+msgstr "لا بد وانه يحيا على كمية قليلة من الماء"
+
+msgid "Riding a camel..."
+msgstr "ركوب الجمل"
+
+msgid ""
+"Nope! Actually, animals that are smaller than a camel can also do well in "
+"the desert."
+msgstr ""
+"كلا! في الواقع، يمكن الحيوانات التي هي أصغر من الجمل أن تبلي جيدا في الصحراء "
+"أيضا ."
+
+msgid ""
+"Not quite! Some animals are carnivores and eat other animals. Cacti have "
+"adapted to survive in the desert, but that does not necessarily mean animals "
+"have to eat them."
+msgstr ""
+"ليس تماما! بعض الحيوانات و آكلات اللحوم تأكل الحيوانات الأخرى. ولقد تكيف "
+"الصبار للبقاء على قيد الحياة في الصحراء، ولكن هذا لا يعني بالضرورة أن "
+"الحيوانات تأكل منها."
+
+msgid "Nope! A camel's habitat is the entire desert, not such a small habitat."
+msgstr "لا ! موطن الجمل هو كل الصحراء وليس فقط جزء صغير منها"
+
+msgid ""
+"Correct! The fact that a camel can thrive in the desert means it has adapted "
+"somehow to survive on little water."
+msgstr ""
+"صحيح! حقيقة أن الجمال يمكن أن تعيش في الصحراء يعني أنها تكيفت بطريقة أو "
+"بأخرى من أجل البقاء على قيد الحياة بشرب القليل من الماء."
+
+# 20
+msgid "Quiz Question #5"
+msgstr "سؤال قصير 5"
+
+msgid ""
+"When humans interact with natural systems, it's common for unexpected "
+"consequences to occur. Which of the following is the best explanation?"
+msgstr ""
+"عندما يتفاعل  البشر مع النظم الطبيعية، فإنه من الشائع وجود العواقب غير "
+"المتوقعة الحدوث. أي من التالية هو أفضل تفسير؟"
+
+msgid "Humans seldom consider all possible outcomes before making decisions."
+msgstr "البشر نادرا ما يأخذون بالإعتبار جميع العواقب قبل أن يتخذون القرارات. "
+
+msgid ""
+"Humans always completely understand an ecosystem before we begin to change "
+"it."
+msgstr "البشر دائما يفهمون النظام البيئي قبل أن يبدؤون في تغييره"
+
+msgid "Humans always consider all possible outcomes before making decisions."
+msgstr "البشر دائما ما ينظرون إلى جميع النتائج المحتملة قبل اتخاذ القرارات."
+
+msgid "Nature is a simple system with few hard-to-understand relationships."
+msgstr "الطبيعة هي نظام بسيط مع قليل من العلاقات التي يصعب فهمها."
+
+msgid "Interacting with nature..."
+msgstr "التفاعل مع الطبيعة"
+
+msgid ""
+"Correct! Humans accidentally cause problems when we consider only positive "
+"outcomes of our decisions."
+msgstr ""
+"صحيح! يتسبب  البشر بمشاكل عن طريق الخطأ عندما نرى نتائج إيجابية فقط من "
+"قراراتنا."
+
+msgid "Nope! Very few ecosystems are completely understood."
+msgstr "لا! عدد قليل من الانظمة البيئية مفهومة بشكلٍ كامل"
+
+msgid "Not quite! It's hard to consider all possible outcomes."
+msgstr "ليس تماما! من الصعب اخذ كل النواتج بعين الاعتبار"
+
+msgid "Think again! Nature is more complex than people understand."
+msgstr "فكر مجددا! الطبيعة اكثر تعقيدا مما يعتقد الناس."
+
+# 21
+msgid "Quiz Question #6"
+msgstr "سؤال قصير 6"
+
+msgid ""
+"Reindeer were first introduced on St. Paul Island, Alaska in 1910.  The "
+"island had few mammals and no predators.  The graph on the right below shows "
+"the changes in the St. Paul reindeer population between 1910 and 1950. Which "
+"of the following statements <span class='blink'>best</span> explains why the "
+"curve peaks between 1935 and 1940?"
+msgstr ""
+" غزال الرنة تم عرضه لأول مرة على جزيرة سانت بول، ولاية ألاسكا في عام 1910.  "
+"وكان في  الجزيرة عدد قليل من الثدييات ولا يوجدحيوانات مفترسة. الرسم البياني "
+"أعلاه يبين التغيرات في أعداد غزلان الرنة في سانت بول بين 1910 و 1950.أي من "
+"العبارات التالية <span class='blink'>أفضل</span> بان يفسر سبب قمم المنحنى "
+"بين عامي 1935 و 1940؟"
+
+msgid "Predators caught more and more deer."
+msgstr "الحيوانات المفترسة صادت أكثر وأكثر الغزلان."
+
+msgid "Young deer found abundant food sources."
+msgstr "عثرت الغزلان الصغيرة على مصادر غذاء وفيرة."
+
+msgid "Severe winters destroyed deer shelters."
+msgstr "دمرت قسوة الشتاء ملاجئ الغزلان."
+
+msgid "The deer were unable to find many mates."
+msgstr "لم يتمكنوا من العثور على العديد من رفيقات الغزلان."
+
+msgid "Take the last quiz question!"
+msgstr "خذ اخر سؤال قصير! "
+
+msgid ""
+"Not really... if more deer were caught and killed, there would be a decrease "
+"in the population, not an increase."
+msgstr ""
+"ليس دقيقاً ... اذا ما تم اصطياد أكثر الغزلان وقتلها، فمن الممكن أن يكون هناك "
+"انخفاض في أعدادها ، وليس زيادة."
+
+msgid ""
+"Correct! Young deer managed to find a lot of food, so they grew in "
+"population over those years. That food source may not have lasted after 1940."
+msgstr ""
+"صحيح! تتمكن الغزلان الصغيرة من العثور على الكثير من الغذاء، لذلك زادت "
+"أعدادها على مدى تلك السنوات.  ومع أن نفس مصدر الغذاء لم يستمر بعد عام 1940."
+
+msgid ""
+"Not really... if deer shelters were destroyed, it would lead to deer dying "
+"in the severe winters. This would decrease the deer population."
+msgstr ""
+"ليس دقيقاً... إذا تم تدمير ملاجئ الغزلان، فإن ذلك سيؤدي لموتها في قسوة "
+"الشتاء. وهذا من شأنه تقليل أعداد الغزلان."
+
+msgid ""
+"Not really... if deer couldn't find mates, they wouldn't have more "
+"offspring. This would make the deer population stay the same until the old "
+"deer died."
+msgstr ""
+"ليست دقيقاً... إذا لم تجد الغزلان رفاق للتزاوج معها، فإنها لن تتمكن من "
+"التكاثر.  هذا من شأنه أن يجعل عدد الغزلان ببقى ثابتاً حتى تموت الغزلان "
+"القديمة."
+
+# 22
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "You've completed the Ecosystems Interactions review."
+msgstr "لقد اكملت مراجعة تفاعلات النظام البيئي"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك التحقق كيف عملت في التقويم السريع' و في 'الأسئلة القصيرة' لهذه "
+"المراجعة من خلال النقر على الزر أدناه..."
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى اللوحة المخططة"
+
+msgid "You're done!"
+msgstr "لقد انتهيت"

@@ -1,0 +1,141 @@
+#animation {
+	background: url(../assets/2/bg.jpg);
+	background-size: 100% 100%;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.particle{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#eyeballs{
+	position: absolute;
+	width: 3%;
+	height: 2.3%;
+	top: 61%;
+	left: 48%;
+	-webkit-animation: eyeballs 3s linear 0s infinite alternate;
+	-moz-animation: eyeballs 3s linear 0s infinite alternate;
+	animation: eyeballs 3s linear 0s infinite alternate;
+}
+
+#particle-1a {
+	-webkit-animation: moveToLeft1 20s linear 0s infinite;
+	-moz-animation: moveToLeft1 20s linear 0s infinite;
+	animation: moveToLeft1 20s linear 0s infinite;
+}
+
+#particle-1b {
+	-webkit-animation: moveToLeft2 20s linear 0s infinite;
+	-moz-animation: moveToLeft2 20s linear 0s infinite;
+	animation: moveToLeft2 20s linear 0s infinite;
+}
+
+#particle-2a {
+	-webkit-animation: moveToRight1 20s linear 0s infinite;
+	-moz-animation: moveToRight1 20s linear 0s infinite;
+	animation: moveToRight1 20s linear 0s infinite;
+}
+
+#particle-2b {
+	-webkit-animation: moveToRight2 20s linear 0s infinite;
+	-moz-animation: moveToRight2 20s linear 0s infinite;
+	animation: moveToRight2 20s linear 0s infinite;
+}
+
+#particle-1a, #particle-1b{
+	background: url(../assets/2/particles-1.png);
+	background-size: 100% 100%;
+}
+
+#particle-2a, #particle-2b{
+	background: url(../assets/2/particles-2.png);
+	background-size: 100% 100%;
+}
+
+
+
+@-webkit-keyframes moveToLeft1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+@-moz-keyframes moveToLeft1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+@keyframes moveToLeft1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+
+
+@-webkit-keyframes moveToLeft2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+@-moz-keyframes moveToLeft2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+@keyframes moveToLeft2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+
+
+@-webkit-keyframes moveToRight1 {
+	from { left: -100%; }
+	to { left: 0%; }
+}
+
+@-moz-keyframes moveToRight1 {
+	from { left: -100%; }
+	to { left: 0%; }
+}
+
+@keyframes moveToRight1 {
+	from { left: -100%; }
+	to { left: 0%; }
+}
+
+
+@-webkit-keyframes moveToRight2 {
+	from { left: 0%; }
+	to { left: 100%; }
+}
+
+@-moz-keyframes moveToRight2 {
+	from { left: 0%; }
+	to { left: 100%; }
+}
+
+@keyframes moveToRight2 {
+	from { left: 0%; }
+	to { left: 100%; }
+}
+
+
+@-webkit-keyframes eyeballs {
+	from { left: 48%; }
+	to { left: 49%; }
+}
+
+@-moz-keyframes eyeballs {
+	from { left: 48%; }
+	to { left: 49%; }
+}
+
+@keyframes eyeballs {
+	from { left: 48%; }
+	to { left: 49%; }
+}

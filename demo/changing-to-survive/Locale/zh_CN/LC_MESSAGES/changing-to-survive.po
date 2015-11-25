@@ -1,0 +1,927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Changing to Survive\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我答得如何呢？"
+
+msgid "You answered..."
+msgstr "你的答案是..."
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請旋轉或翻轉下面的方框，以選擇你的答案。點擊、按住並上下移動滑鼠。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住並上下移動滑鼠來旋轉框框，然後選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "情境"
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need "
+"to study."
+msgstr "回答以下6小題，可以了解哪些是你已經知道的，而哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵！"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Congratulations, "
+msgstr "恭喜您！"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "請點擊下面的按鍵，查看你在「小測驗」和「小練習」中的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Go Back to Dashboard"
+msgstr "回到主選單"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎,"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小測驗囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好要做最後的一個小測驗了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好要做最後一個小練習了嗎?"
+
+msgid "Putting it all together..."
+msgstr "整理一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在所學會的"
+
+msgid "And the first quiz question is..."
+msgstr "你的第一次小測驗的問題是......"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Changing to Survive"
+msgstr "改變和生存"
+
+msgid "Welcome to the Changing to Survive module, "
+msgstr "歡迎來到「改變與生存」單元，"
+
+# 2
+msgid "Thinking about... changing to survive"
+msgstr "想一想，關於..「改變與生存」"
+
+msgid ""
+"Have you ever heard an older person tell you about days gone by? \"All of this area used to be a farm; there were "
+"no skyscrapers when I was growing up.\" The location has changed so much over the years that a person can barely "
+"tell it is the same place."
+msgstr ""
+"你常聽到年長的人說這些話麼？...「以前...如何...又如何...」、 「咦？這裡整片原都是農地，我小時候這裡一個大樓都沒有"
+"的...」....、「喲，這裡這幾年來變化這麼大，幾乎都認不出來是同一個地方了！...」。"
+
+msgid ""
+"Think about the earth, do you think it has changed over billions of years? What could have caused some of those "
+"changes? What about the life forms on earth? Could they have changed as well?"
+msgstr ""
+"讓我們再想一想「地球」，你覺得它數十億年來有改變嗎？是什麼原因造成這些改變的？地球上的各種生命形式呢，它們是不是也"
+"有了改變呢？"
+
+# 3
+msgid "Checking what you know... about changing to survive"
+msgstr "看看你了解多少…關於「改變與生存」"
+
+msgid ""
+"Click on <span class='red blink'>all</span> the changes in the left column most probably determined by events in "
+"the right column."
+msgstr "右邊圖片會造成<span class='red blink'>哪些</span>改變或影響。(複選)"
+
+msgid "1. Massive volcanic eruption"
+msgstr "1. 大規模火山噴發"
+
+msgid "Local extinction of many nearby populations of plants and animals."
+msgstr "許多附近的動植物會面臨區域性的滅絕。"
+
+msgid "Rapid population growth in plants and animals living near the volcano."
+msgstr "生活在火山附近的動植物數量會迅速增長。"
+
+msgid "Changes in living conditions in areas affected by the eruption."
+msgstr "火山爆發影響的地區發生了生活條件的變化。"
+
+msgid "2. Expansion of cities into the surrounding areas"
+msgstr "2. 城市越來越擴張到周邊區域"
+
+msgid "Increase in plant and animal habitat."
+msgstr "動植物的棲息地增加。"
+
+msgid "Decrease in plant and animal habitat."
+msgstr "動植物的棲息地減少。"
+
+msgid "Increase in local species extinction."
+msgstr "更多本地物種的滅絕。"
+
+msgid ""
+"The blast from a massive volcanic eruption and its after-effects will have profound local impacts. The nearby "
+"plants and animals will have a tough time surviving at all. Dramatic changes in living conditions will occur in "
+"areas near the eruption."
+msgstr ""
+"大規模的火山噴發和隨後的效應將深遠影響附近地區，附近的動植物在生存上將經歷一段艱難的時期，附近的生活條件也將產生急"
+"劇變化。"
+
+msgid ""
+"Expansion of cities into the surrounding areas will lead to a decrease in plant and animal habitat and increase "
+"in local species extinction."
+msgstr "城市擴張到周邊區域會導致動植物棲息地減少並讓本地物種的滅絕的可能性增高。"
+
+msgid "Flowing lava..."
+msgstr "流動的岩漿..."
+
+# 4
+msgid "Reviewing big ideas... about changing to survive"
+msgstr "回顧核心觀念...關於「改變與生存」"
+
+msgid ""
+"The world as we know it today is changing, and it has been changing for a long time. It's often hard to accept "
+"the changes that have occurred in Earth's history. We find fish fossils thousands of miles from any modern ocean, "
+"and thousands of feet up on the tops of mountains. We find the remains of tropical animals in areas that endure "
+"harsh winters. Observations like these ammonites found in the Himalayas are tough to put together with the world "
+"we know each day."
+msgstr ""
+"我們今天所知道的地球在變化當中，事實上長期以來它都是變動不斷的。人們往往很難感受到這些地球歷史的變化和我們到底有甚"
+"麼關聯。因為，我們發現的魚類化石距離現代的海洋可能有千哩之遙或在數千公尺的山巔；我們發現的熱帶動物遺骸可能是在酷寒"
+"之地。當我們觀察著喜馬拉雅山上的菊石化石，實在很難和我們每天所知的世界聯想在一起。"
+
+msgid "Fossil of prehistoric fish"
+msgstr "魚類化石"
+
+msgid "Fish fossil"
+msgstr "魚類化石"
+
+msgid "Ammonite"
+msgstr "菊石化石(古代的頭足類動物，現已滅絕)"
+
+msgid "Fossilized ammonite"
+msgstr "菊石化石"
+
+msgid ""
+"The key is that Earth is very, very old. A good estimate of the age of the earth is 4.5 billion years. Most of "
+"that time, Earth was a planet without life. Only during the past 500 million years has life emerged and evolved "
+"into the variety of plants and animals we see today."
+msgstr ""
+"地球的歷史非常、非常久遠。據較準確的估計，地球的年齡為4.5億年。在大多數的時間，地球是個沒有生命的行星，僅在過去的5"
+"億年間開始有生命出現，並逐漸演變為我們今天看到的各種植物和動物。"
+
+msgid ""
+"<span class='key'>Fossils</span> tell us things about how life has changed from the simple organisms that "
+"inhabited our planet hundreds of millions of years ago, to the complex array of life we see today. They show us "
+"life forms no longer present on Earth. Fossils tell us what animals lived in which parts of the world, and can "
+"even give us solid clues about how they moved around as conditions changed. For example, the structures of their "
+"backs and hips let us know whether they walked on four legs, two legs, swam, or even flew."
+msgstr ""
+"<span class='key'>化石</span>告訴著我們，地球上的生命如何從幾億年前的簡單生物體演變成今日我們所見到的複雜生命世界"
+"的故事。化石向我們展示那些在地球上不再存在的生命形式；化石也告訴著我們，動物曾生活在世界的哪個地方；化石甚至提供當"
+"環境改變時有關物種遷移的有力線索。從化石中可觀察到包括背部和臀部的結構等等，這可以讓我們知道牠們是用四條腿或兩條腿"
+"走路、游泳、甚至飛行的。"
+
+msgid ""
+"In 2004, the fossil remains of a half-fish, half-amphibian were found. This fossil confirmed theories about how "
+"land-dwelling four-limbed animals evolved from their fish ancestors. The animal shown in the middle is an example "
+"that bridges the gap between two quite different animals."
+msgstr ""
+"2004年，發現一個半魚半兩棲動物的化石，這塊化石證實了陸生四肢動物是從牠們魚類祖先進化來的理論。[※上圖，左邊是魚類、"
+"右邊是兩棲類，中間部分的這種動物就是半魚半兩棲動物，銜接起兩類完全不同的動物演化的過程。]"
+
+msgid ""
+"We often think of fossils as only belonging to extinct types of plants and animals. In many cases, modern "
+"versions of fossil species still exist. Limestone is a type of rock made when the shells of ocean shellfish fill "
+"up with sand and mud after they die. The types of fossils found in limestone found thousands of miles from any "
+"ocean are very similar to the corals and shellfish living in oceans today. When we combine evidence from many "
+"fossils from various locations, we can even come up with explanations for some of the dramatic events of Earth "
+"history."
+msgstr ""
+"我們通常認為的化石只屬於已滅絕的植物和動物，但其實很多化石中的生物到今天都還是存在的。有一種岩石稱作「石灰石」，它"
+"是海洋珊瑚、貝類等死了後被泥沙填埋所形成的。人們在離海洋數千英哩的石灰岩中發現的化石和今天生活在海中的珊瑚和貝類依"
+"然非常相似。所以，當集合不同地點的化石證據，我們甚至可以解釋地球歷史上的一些重大事件。"
+
+msgid "Fossil ammonites in limestone rock"
+msgstr "在石灰岩中的菊石化石"
+
+msgid "Studying Earth's history..."
+msgstr "研究地球的歷史..."
+
+# 5
+msgid "Question A. Fossils <span class='blink'>do not</span> offer clues about which of the following?"
+msgstr "問題 A. 化石<span class='blink'>無法提供</span>以下哪一項線索？"
+
+msgid "The way climate for some locations has changed over time."
+msgstr "有些地區的氣候已經隨著時間而改變。"
+
+msgid "How climate will change in the near-future."
+msgstr "氣候在不久的將來將如何變化。"
+
+msgid "Eating habits of extinct animals."
+msgstr "已滅絕動物的飲食習慣。"
+
+msgid "Chemical characteristics of ancient oceans."
+msgstr "古代海洋的化學性質。"
+
+msgid ""
+"Question B. Consider the following observation: \"The types of fossils found in limestone thousands of miles from "
+"any ocean are very similar to the corals and shellfish living in oceans today.\" Click on <span "
+"class='blink'>all</span> the statements that help explain the observation."
+msgstr ""
+"問題B. 有一個觀察的敘述如下：「這種化石從距離海洋千哩以外的石灰岩中發現，和今天生活在海中的珊瑚和貝類依然非常相"
+"似」。請問下列何者是對這一個觀察的<span class='blink'>合理解釋</span>。[複選]"
+
+msgid "That a flood moved living things all around."
+msgstr "因為洪水的關係讓生物四處移動。"
+
+msgid "That fossils move around."
+msgstr "化石四處移動。"
+
+msgid "That the earth is changing."
+msgstr "因為地球正在發生變化。"
+
+msgid "That fossils help explain earth's history."
+msgstr "因為化石有助於解釋地球的歷史。"
+
+msgid "Nope. Fossils offer pretty good clues about past climate change."
+msgstr "不對喔！化石給過去的氣候變遷提供了相當不錯的線索。"
+
+msgid "Correct. Fossils can't tell us much about near-term climate change."
+msgstr "正確。化石沒辦法告訴我們太多有關未來的短期氣候變化。"
+
+msgid "Sorry. Tooth structure tells a lot about eating habits."
+msgstr "抱歉，不對喔！牙齒的結構能告訴我們很多有關飲食的習慣。"
+
+msgid "Nope. The chemical composition of fossils tells a lot about the chemistry of ancient oceans."
+msgstr "不對喔！化石的化學成分能告訴我們很多關於古代海洋的化學成分。"
+
+msgid "Correct. The earth is changing and the changes that happened before are documented by fossils."
+msgstr "正確。地球不斷在改變，化石會記錄下來之前發生的一些變化。"
+
+msgid ""
+"Fossils do not move around themselves. The earth we see today is not the same way it was millions and billions of "
+"years ago. It changed and is changing; fossils help us see this."
+msgstr ""
+"化石本身不會四處移動。我們今天看到的地球，和百萬年前或幾十億年前並不一樣。它改變了，化石能幫助我們看到這改變的痕"
+"跡。"
+
+# 6
+msgid "More big ideas... about changing to survive"
+msgstr "更多的核心觀念...關於「改變與生存」"
+
+msgid ""
+"Over the course of more than 4 billion years of earth history, living things have changed enough to account for "
+"all of the diversity of the life we see on our planet now, and all of the life we have evidence for in the past."
+msgstr ""
+"在過去40多億年地球歷史的長河中，生物所經歷的改變，已足以說明今日地球上所看到的生命多樣性以及過去生命的存在證據。"
+
+msgid ""
+"<span class='key'>Evolution</span> happens because changes, called mutations, sometimes occur in the DNA that "
+"carries the information that makes living things what they are. There are different forms of change: natural "
+"selection, artificial selection, sexual selection, and punctuated equilibrium. <span class='key'>Natural "
+"selection</span> is when some organisms survive and reproduce more often than others, and their characteristics "
+"are passed along, and the population becomes more like them over time."
+msgstr ""
+"<span class='key'>進化</span>起因於生物內在的改變，也就是起因於「突變」，突變有時會發生在細胞中那攜帶信息以決定生"
+"物種類和型態的DNA上。造成變化的原因包括：「天擇」、「人擇」、「性擇」和「斷續平衡」。所謂 <span class='key'>天擇</"
+"span>，是指某一些生物存活和繁衍的機會比別的物種多，使得它們的特徵能延續下去，隨著時間的推移，物種族群中的多數就會"
+"變得和它們更加類似。"
+
+msgid "The Albino Eastern Gray Kangaroo shows an example of color mutation in animals"
+msgstr "圖右是白化症的袋鼠，是動物顏色突變的一個例子"
+
+msgid ""
+"In <span class='key'>sexual selection</span>, one sex (usually females) chooses their mates for reasons unique to "
+"each species. <span class='key'>Punctuated equilibrium</span> is usually associated with natural disasters. When "
+"a disaster like a volcanic eruption or meteorite impact occurs, which members of a population survive is largely "
+"a matter of luck. The traits passed into later generations are those belonging to the survivors. <span "
+"class='key'>Artificial selection</span> is when humans are involved in choosing which plants or animals can mate "
+"and form later generations. Artificial selection is the basis of modern forms of agriculture."
+msgstr ""
+"所謂<span class='key'>性擇</span>，則是某一性別（通常是雌性）基於物種需求下而進行選擇伴侶的一種行為。所謂 <span "
+"class='key'>斷續平衡</span>，指的是，生物在長期未改變後突然快速進化的現象。這些快速進化常在環境發生大規模變化後發"
+"生，例如當像火山噴發或隕石撞擊這類災難發生時，在生物族群中個體的生存主要就是運氣的問題，能夠傳給下一代的遺傳性狀便"
+"來自於那些倖存者。 "
+
+msgid ""
+"Selective breeding based on some favored characteristics is an example of artificial selection. For many "
+"generations, farmers have allowed only the most productive plants and animals to reproduce. The strongest bulls "
+"are mated with cows that produce the most milk. Tall, vigorous corn plants are mated with those that are tolerant "
+"of drought."
+msgstr ""
+"所謂<span class='key'>人擇</span>，指的是人類參與選擇哪些植物或動物可以交配繁殖後代的過程。人們基於對某些特徵的喜"
+"好而對生物進行選擇性地育種，世世代代以來，農民都只讓最有生產力的植物和動物進行繁殖，例如：讓最強壯的公牛與產奶最多"
+"的奶牛交配，或讓高大健壯的玉米和那些能耐乾旱的玉米配種；「人擇」是現代農業形式的基礎。"
+
+msgid "The Chihuahua and Great Dane show the different sizes of dogs. This is an example of selective breeding."
+msgstr "「吉娃娃狗」和「大丹狗」是兩種不同大小的狗。這是選擇性育種的一個例子。"
+
+msgid "Evolution of living things"
+msgstr "生物的演變"
+
+# 7
+msgid "Question A. The image illustrates a part of which form of change?"
+msgstr "問題A. 請問這圖片說明的是哪一種形式的改變呢？"
+
+msgid "Natural Selection"
+msgstr "天擇"
+
+msgid "Natural selection"
+msgstr "天擇"
+
+msgid "Sexual selection"
+msgstr "性擇"
+
+msgid "Punctuated equilibrium"
+msgstr "斷續平衡"
+
+msgid "Artificial selection"
+msgstr "人擇"
+
+msgid "Question B. Life has existed on Earth for about how long?"
+msgstr "問題B. 生命在地球上大概已經存在多久？"
+
+msgid "Between 4 and 5 "
+msgstr "大約有，4到5 "
+
+msgid "hundred million"
+msgstr "億"
+
+msgid "hundred thousand"
+msgstr "十萬"
+
+msgid "thousand"
+msgstr "千"
+
+msgid "hundred"
+msgstr "百"
+
+msgid "years."
+msgstr "年之間。"
+
+msgid "Counting the age of Earth..."
+msgstr "計算地球的年齡..."
+
+msgid "Yes! The white fish eaten by the bird don't reproduce."
+msgstr "沒錯！如果白色的魚比較容易被發現，那麼被鳥吃掉的白魚就無法再繁衍了。"
+
+msgid "Nope. There's nothing in the image related to the selection of mates."
+msgstr ""
+"不對喔！這張圖片和選擇配偶沒有甚麼關係。如果白色的魚比較容易被發現，那麼被鳥吃掉的白魚就無法再繁衍了，這應該是屬於"
+"「天擇」。"
+
+msgid "Sorry... Being captured is a disaster for the fish, but this is an everyday occurrence."
+msgstr ""
+"不對喔！... 圖片中的捕捉行為雖然是魚的災難，但這是每天都在上演的，而不是突然的大災變。這裡，如果白色的魚比較容易被"
+"發現，那麼被鳥吃掉的白魚就無法再繁衍了，這應該是屬於「天擇」。"
+
+msgid "Nope. Artificial selection involved people."
+msgstr ""
+"不對喔！「人擇」是指有人類的參與。這裡，如果白色的魚比較容易被發現，那麼被鳥吃掉的白魚就無法再繁衍了，這應該是屬於"
+"「天擇」。"
+
+msgid "Correct. Life has existed on Earth for a bit more than hundreds of millions years."
+msgstr "正確。生命在地球上存在已有好幾億年了。"
+
+msgid "Nope. It's older than that."
+msgstr "不對喔！生物出現的歷史比那還長。"
+
+msgid "Sorry. Much, much older."
+msgstr "不對喔！遠比這還更早。"
+
+msgid "Um... no. Have a look at the options again."
+msgstr "嗯... 不對。請再看一次其他選項。"
+
+# 8
+msgid ""
+"We mentioned <span class='key'>mutations</span> are small changes that occur in the DNA carrying the information "
+"that makes living things what they are. Mutations are rare, but over time they have an effect. An inherited "
+"mutation can go three ways: it can either have no effect on a living thing, or have a harmful effect on it, or in "
+"the best case, it can give it a competitive advantage. Through natural selection a living thing will either go on "
+"to reproduce and pass on its mutation to the next generation, or die and the mutation disappears."
+msgstr ""
+"我們在別的單元提到<span class='key'>突變</span>是發生在細胞中那攜帶信息以決定生物種類和型態的DNA上的微小改變。突變"
+"是罕見的，但會隨著時間而影響到整個物種。遺傳突變對生物而言：可能是毫無影響、或有害的、或可賦予競爭優勢──是有益的。"
+"突變後的各種物種分別透過「天擇」，也許可以繼續繁殖並把突變的基因傳給下一代，也許無法生存而使得這突變的基因不復存"
+"在。"
+
+msgid ""
+"Let's look at three mutations: neutral, helpful, and harmful. Hover your mouse over each image to view more "
+"information."
+msgstr "讓我們來看看三種突變：中性(沒有影響)的突變、有利的突變、有害的突變。[※把游標停在圖片上就可查看更多資料。]"
+
+msgid ""
+"The mutated gene in Siamese cats causes the kittens to be white when born, and to develop patches of color on "
+"their face, paws, and tail later on."
+msgstr "在暹羅貓身上的突變基因會讓剛出生的小貓是白色的，之後牠們才會分別在臉、腳爪、和尾巴上長出有顏色的斑點。"
+
+msgid ""
+"The mutated gene in tigers causes them to have stripes. A long time ago, the tigers with this gene were able to "
+"blend in with the habitat and be more successful at hunting for food. This mutated gene was passed on to their "
+"offspring."
+msgstr ""
+"老虎的突變基因使牠們有斑紋。很久以前，有這種基因的老虎能和棲息地的環境融為一體，以能更成功地獵捕到食物。這個突變基"
+"因能夠傳給後代。"
+
+msgid ""
+"The mutated gene in Manx cats causes many kittens to die within their first year if the gene is inherited from "
+"both parents. If they get the gene from only one parent, then the kittens survive, but many have stumpy tails or "
+"no tails."
+msgstr ""
+"馬恩島貓，是一種尾巴很短或根本就不見了的突變貓種。如果父和母都是馬恩島貓，會導致許多小貓在出生後第一年內就死亡；"
+"但，如果牠們的基因只來自父母一方的話，小貓會存活下來，但是有許多貓的尾巴會變得很短或根本沒有尾巴。"
+
+msgid ""
+"In the right circumstances, any kind of variation can be an important factor in the survival of a population of "
+"organisms. The key to survival can be something obvious, or something much harder to see at first. Sometimes, "
+"what seems like a disadvantage in normal times turns out to be an advantage in difficult situations."
+msgstr ""
+"在適當的情況下，任何一種變異可以成為生物體在族群中存活的重要因素。生存的關鍵有可能是顯而易見的，也有可能是無法馬上"
+"就看到的；ㄧ些在平時看來是劣勢的因素，在艱難的的情況下卻也可能會變成優勢。"
+
+msgid "Sickled Cells"
+msgstr "鐮狀型紅血球細胞"
+
+msgid "Normal Red Blood Cells"
+msgstr "正常紅血球細胞"
+
+msgid ""
+"In the 1940s, doctors discovered that people who carried sickle cell trait, a condition that could lead to a "
+"disorder in their children, were much more likely to survive malaria than other people. Malaria, a disease "
+"carried by mosquitoes, kills more than a million people each year. Sickle cell patients have inherited a slightly "
+"different form of the blood protein hemoglobin from their parents. The different form is caused by a tiny change "
+"in the DNA carrying the hemoglobin code. In this case, potentially life-threatening condition can also be the key "
+"to survival."
+msgstr ""
+"在1940年代，醫生發現，那些具有鐮狀細胞而可能會導致他們孩子生病的人，卻比其他人在瘧疾中更能存活。瘧疾是由蚊子傳染的"
+"疾病，每年造成超過百萬人死亡。鐮狀細胞病患從父母那邊，遺傳到一種形狀和常人略微不同的血紅蛋白。這種不同，是在DNA中"
+"決定血紅蛋白密碼的一個微小的變化引起的。我們可以看到有時候，一種潛在威脅生命的因素，也可以是未來一個生存的關鍵。"
+
+msgid "Identifying inherited mutation..."
+msgstr "辨識遺傳突變..."
+
+# 9
+msgid "Question A. The variations involved in evolution must be inherited because:"
+msgstr "問題A. 與「進化」相關的變化必須源自於遺傳，這是因為："
+
+msgid "They must be passed into later generations to be important."
+msgstr "它們必須要能傳給下一代才能顯示其重要性。"
+
+msgid "They must not be passed into later generations to be important."
+msgstr "它們不需傳給下一代來顯示其重要性。"
+
+msgid "They must be unique to one individual only."
+msgstr "它們只需留存在某一個個體上。"
+
+msgid "They must have occurred in both parents to matter."
+msgstr "它們一定要父和母身上都要有這變異，才能遺傳下去。"
+
+msgid "Question B. Click on the <span class='blink'>incorrect</span> statement about mutations and evolution."
+msgstr "問題B. 請點選下列有關「突變」和「進化」的<span class='blink'>錯誤</span>敘述。"
+
+msgid "Mutations are random errors in DNA."
+msgstr "突變是一種DNA內部的隨機錯誤。"
+
+msgid "Mutations can be neutral, helpful, or harmful."
+msgstr "突變可能是有害的、有利的、或中性的。"
+
+msgid "Mutations occur to increase survival of a certain species."
+msgstr "突變增加物種的存活機率。"
+
+msgid "The effects of all mutations are not yet known."
+msgstr "有些突變的影響仍然是未知的。"
+
+msgid "Correct! It only changes a population if a trait is passed along."
+msgstr "正確！如果那個性狀能繼續遺傳下去，物種的族群才會改變。"
+
+msgid "Sorry... If a trait isn't passed along, the population doesn't change."
+msgstr "抱歉，不對喔！......如果性狀沒有遺傳下去，族群就不會有改變。"
+
+msgid "No... The trait must be passed along to many individuals."
+msgstr "不... 突變的性狀必須要能在許多個體間傳遞，才能使物種得到進化。"
+
+msgid "Nope. Inheritance can come from either or both parents."
+msgstr "不對喔！遺傳可以來自父母單方或雙方。"
+
+msgid "No, the statement is correct. Mutations are random genetic mistakes."
+msgstr "不，這個敘述是正確的！突變是基因的隨機錯誤。"
+
+msgid "No, the statement is correct. Mutations can go these three ways."
+msgstr "不，這個敘述是正確的！突變可以有這三種。"
+
+msgid ""
+"Correct, the statement is false. Mutations occur randomly, some of them lead to the survival of a certain "
+"species, and some of them do not."
+msgstr "正確，這個敘述是錯的！基因突變是隨機發生的，其中一些確實能幫助物種生存，但也有一些反而有害它們的生存。"
+
+msgid ""
+"No, the statement is correct. The effects of mutations are visible under different circumstances. Every time "
+"conditions change, mutations show their impact."
+msgstr "不，這個敘述是正確的。突變的影響有時候是需在不同情況下才會顯現，所以有些突變的影響，現在仍然還並不清楚。"
+
+# 10
+msgid "Using what you know... about changing to survive... to solve a problem"
+msgstr "活用所學... 有關「改變與生存」...... 來回答問題"
+
+msgid ""
+"You are a scientist working on a cloning project. Cloning is extracting DNA from an animal or plant, and "
+"inserting it into another cell to create an exact copy of the original living thing. You are part of a team, "
+"cloning an animal that is used as a protein source for humans. You begin to question the impact of the research "
+"you are doing."
+msgstr ""
+"你是一個科學家，正在進行一個基因複製計畫。「複製」是萃取動物或植物的DNA並植入另一個細胞，以製造出和原本生物完全相"
+"同的複製生物。你是團隊的一分子，要去複製一種被用來作為人類蛋白質來源的動物，不過你開始質疑這研究可能造成的衝擊。"
+
+msgid ""
+"Using what you now know about artificial selection and the importance of having a variety of animals and plants, "
+"list three concerns you have with this project. Your teammates might argue that there are benefits to spreading "
+"superior genes. What issues would you bring up when stating your concerns? Type them into the textbox below."
+msgstr ""
+"活用你所知有關「人擇」和「動植物多樣性」的知識，請：1. 說明進行這一個計劃的「利與弊」2. 提出三個「這研究可能造成的"
+"問題」。(請在下框內輸入你的答案)。"
+
+msgid "Scientist in the laboratory..."
+msgstr "在實驗室的科學家..."
+
+# 11
+msgid "Summarizing big ideas... about changing to survive"
+msgstr "總結核心觀念......有關「改變與生存」"
+
+msgid ""
+"During the past 500 million years, life on earth has emerged and evolved into the variety of plants and animals "
+"we see today. <span class='key'>Fossils</span> tell us things about how life has changed from the simple "
+"organisms that inhabited our planet a long time ago, to the complex array of life we see today. When we combine "
+"evidence from many fossils from various locations, we can even come up with explanations for some of the dramatic "
+"events of Earth history. <span class='key'>Evolution</span> happens because of genetic mutations. <span "
+"class='key'>Mutations</span> are random errors that occur in the DNA that carries the information that makes "
+"living things what they are. There are different forms of change: <span class='key'>natural selection</span>, "
+"<span class='key'>artificial selection</span>, <span class='key'>sexual selection</span>, and <span "
+"class='key'>punctuated equilibrium</span>. Mutations are rare. An inherited mutation can have one of three "
+"outcomes. It can have no effect on the living thing; it can have a harmful effect; or it may give it a "
+"competitive advantage. Through natural selection, the living thing may either reproduce and pass its mutation to "
+"the next generation, or it may die and the mutation disappears. Sometimes, what seems like a disadvantage in "
+"normal times turns out to be an advantage in difficult situations."
+msgstr ""
+"在過去的5億年間，地球上的生命已經出現，並演化成我們今天看到的各種植物和動物。 <span class='key'>化石</span>告訴著"
+"我們，地球上的生命如何從幾億年前的簡單生物體演變成今日我們所見到的複雜生命世界的一個故事。當我們從不同地點集合許多"
+"化石證據，我們甚至可以解釋地球歷史上的某些重大事件。 <span class='key'>進化</span>的發生是因為基因突變。 <span "
+"class='key'>突變</span>是一種生物內在的隨機錯誤，有時會發生在細胞中那攜帶信息以決定生物型態的DNA上。變化有不同型"
+"式：<span class='key'>「天擇」</span>，<span class='key'>「人擇」</span>，<span class='key'>性擇</span>和<span "
+"class='key'>斷續平衡</span>。突變是罕見的。一個遺傳突變可能會有下列三種的結果的其中之一。它可以對中性的、 有害"
+"的、 或者可能帶給它競爭優勢，是有益的。透過「天擇」，有些生物可經由繁衍把突變基因傳遞給下一代，但也有其他生物被淘"
+"汰死亡後突變就消失了。有時候平時看來是劣勢的因素，在艱難的的情況下卻也可能變成優勢。"
+
+# 12
+msgid "Reviewing key vocabulary... related to... changing to survive"
+msgstr "複習重要詞彙......「改變與生存」"
+
+msgid ""
+"Natural selection is the changing of inherited characteristics of a population of organisms to reflect the "
+"greater survival and reproduction of certain members of the population."
+msgstr "「天擇」是生物族群的遺傳特徵的變化，以反映了族群中為何某些成員有更大的生存和繁殖機會。"
+
+msgid ""
+"Artificial selection occurs when humans get involved in the survival and reproduction of the individual members "
+"of a population."
+msgstr "「人擇」，指得是人類插手參與了某一物種中個體的生存與繁殖。"
+
+msgid "In sexual selection, one sex (usually females) chooses their mates for reasons unique to each species."
+msgstr "所謂的「性擇」，則是某一性別（通常是雌性）基於物種需求下而進行選擇伴侶的一種行為。"
+
+msgid "Phyletic Gradualism"
+msgstr "親緣漸變說(演化是逐漸改變的一種學說)"
+
+msgid "Morphology"
+msgstr "形態的改變(生物物種型態的演化)"
+
+msgid "Time"
+msgstr "演化的時間"
+
+msgid "Punctuated Equilibrium"
+msgstr "斷續平衡學說(演化有時快、有時慢的一種學說)"
+
+msgid ""
+"Punctuated equilibrium states that organisms sometimes evolve quickly, in \"growth spurts\", after going "
+"unchanged for long periods of time. These growth spurts occur following major environmental changes."
+msgstr ""
+"斷續平衡指的是，生物在長期未改變後突然快速進化的現象；這些快速進化常在環境發生巨大變化後發生。[※：圖中有兩種演化速"
+"率的學說。圖上方表示演化是慢慢「逐步發展」；圖下方表示演化是「斷續平衡」，有時停滯、有時快速]"
+
+msgid "Mutation"
+msgstr "突變"
+
+msgid ""
+"Mutations are small changes that occur in the DNA that carries the information that makes living things what they "
+"are.  Mutations are rare, but if inherited, over time can have an effect on a population."
+msgstr ""
+"「突變」，是一種生物內在的改變，它發生在細胞中那攜帶信息以決定生物種類和型態的DNA上。突變是罕見的，但如果遺傳給後"
+"代，可能隨著時間的推移而影響到整個物種。"
+
+# 13
+msgid "Checking what you now know... about changing to survive"
+msgstr "看看你現在了解多少…關於「改變與生存」"
+
+# 14
+msgid ""
+"Click on the <span class='blink'>correct</span> statements about the changes most likely caused by gradual "
+"climate change."
+msgstr "下列何者<span class='blink'>最有可能</span>是因氣候逐漸變遷所造成的? "
+
+msgid "Increase in the numbers of individuals able to tolerate the climate differences."
+msgstr "能耐受氣候變遷的物種個體數量增加。"
+
+msgid "Local extinction of individuals unable to tolerate the climate differences."
+msgstr "無法忍受氣候變遷的物種個體的滅絕。"
+
+msgid "Changes in the plants and animals inhabiting a particular area."
+msgstr "這一區域中植物和動物的改變。"
+
+msgid "All of the above"
+msgstr "以上皆是。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是..."
+
+msgid ""
+"Not quite.  Any plants or animals unable to tolerate climate changes will have difficulty surviving. Climate "
+"changes are likely to cause changes in local plants and animals."
+msgstr "不完全是。任何無法忍受氣候變化的植物或動物將難以生存，氣候變化也很可能會改變當地的植物和動物。"
+
+msgid ""
+"Not quite. Survivors must be able to tolerate changes in climate. Climate changes are likely to cause changes in "
+"local plants and animals."
+msgstr "不完全是。倖存者必須能夠耐受氣候變化。氣候變化很可能會改變當地的植物和動物。"
+
+msgid ""
+"Survivors must be able to tolerate changes in climate.  Any plants or animals unable to tolerate climate changes "
+"will have difficulty surviving."
+msgstr "倖存者必須能夠耐受氣候變化。任何無法忍受氣候變化的植物或動物將難以生存。"
+
+msgid ""
+"Correct. Survivors must be able to tolerate changes in climate.  Any plants or animals unable to tolerate climate "
+"changes will have difficulty surviving. Climate changes are likely to cause changes in local plants and animals."
+msgstr ""
+"正確。倖存者必須能夠耐受氣候變化。任何無法忍受氣候變化的植物或動物將難以生存。氣候變化很可能會改變當地的植物和動"
+"物。"
+
+# 15
+msgid "When a fish fossil is found in the rocks on a mountaintop, we can conclude that..."
+msgstr "當一個魚類化石在山頂上的岩石被發現，我們可以得出下列的哪一項結論..."
+
+msgid "Conditions on Earth seldom change."
+msgstr "地球上的情況很少發生變化。"
+
+msgid "Earth is less than 50 thousand years old."
+msgstr "地球不到50萬年的歷史。"
+
+msgid "The rocks that are now part of the mountain formed on a seafloor."
+msgstr "現在那些在山上的岩石，可能是由海床形成的。"
+
+msgid "A natural disaster is soon to occur."
+msgstr "自然災害即將發生。"
+
+msgid "Digging fossil fuels..."
+msgstr "挖掘化石燃料..."
+
+msgid "Correct! Fish fossil for where fish live."
+msgstr "正確！魚類化石中的魚可能居住在海裡，所以這山頂以前可能是海床。"
+
+msgid "No, all animals reproduce. Otherwise they would be extinct."
+msgstr "不，所有動物都需要繁衍。否則，他們將會消失。"
+
+msgid "Sorry. The fish fossil doesn't really say much about the age of the planet."
+msgstr "抱歉，不對喔！魚類化石並沒有真正解釋到很多有關地球年齡的事情。"
+
+msgid "Nope. The fossil gives no hints about disasters."
+msgstr "不對喔！化石從來沒有暗示過災難將會發生。"
+
+# 16
+msgid "Which of the following is important in artificial selection?"
+msgstr "下列哪一項在屬於「人擇」？"
+
+msgid "Populations produce too many offspring to survive."
+msgstr "生物族群繁殖出太多的後代，以至於無法存活。"
+
+msgid "Humans select which parents will reproduce."
+msgstr "人類選擇動植物的親代進行它們的繁殖。"
+
+msgid "There is a competition for survival."
+msgstr "有生存的競爭。"
+
+msgid "Natural disasters occur every few million years."
+msgstr "每幾百萬年就會有一次天災。"
+
+msgid "Selecting different traits..."
+msgstr "選擇不同的性狀..."
+
+msgid "Yes! That's the key. Humans are involved."
+msgstr "沒錯！這是答案，因為人類參與了。"
+
+msgid "True, but not a part of artificial selection."
+msgstr "正確，但不是「人擇」的一部分。"
+
+msgid "Nope. While true, it's really a part of natural selection."
+msgstr "不對喔！雖然這敘述的內容是對的，但這是「天擇」。"
+
+msgid "Sorry.  This is a key for punctuated equilibrium."
+msgstr "抱歉，不對喔！這有可能導致的是「斷續平衡」。"
+
+# 17
+msgid "Which of the following might be most closely associated with a period of punctuated equilibrium?"
+msgstr "下列哪項可能和一個階段的斷續平衡有最密切的關聯？"
+
+msgid "Massive volcanic eruption"
+msgstr "大規模的火山噴發"
+
+msgid "Construction of new housing developments"
+msgstr "新的住宅建設開發"
+
+msgid "Regular changes of seasons"
+msgstr "規律的季節變化"
+
+msgid "Farmers saving seed for the following growing season"
+msgstr "農民選擇並留存種子以備未來種植季節使用"
+
+msgid "Preparing for evolutionary change..."
+msgstr "準備進化與改變..."
+
+msgid "That's the one. Natural disasters sometimes force rapid change."
+msgstr "答對了，就是這個選項！自然災害有時會迫使生物進化快速發生。"
+
+msgid "Probably not.... This can cause changes, but probably slow ones."
+msgstr "應該不是！.... 這也會導致進化，但可能是很緩慢的。"
+
+msgid "Nope. Seasonal change happens every year."
+msgstr "不對喔！季節變化每年都在發生。"
+
+msgid "This is a normal part of artificial selection."
+msgstr "這是「人擇」的一部分。"
+
+# 18
+msgid ""
+"Penguins have developed webbed feet and stunted wings over time. Which of the following statements are incorrect "
+"about these mutations?"
+msgstr "隨著時間的推移，企鵝已經發展成腳蹼和短小的翅膀。以下敘述何者 <span class='blink'>錯誤</span>？"
+
+msgid "The penguins' mutations are useless on land."
+msgstr "企鵝的突變在陸地上毫無用處。"
+
+msgid "These mutations are useful for escaping predators."
+msgstr "這些突變對於逃避天敵很有用。"
+
+msgid "The usefulness of these mutations depends on the environment."
+msgstr "這些突變的實用性取決於環境。"
+
+msgid "These mutations will help the penguins survive in any environment."
+msgstr "這些突變將有助於企鵝在任何環境下生存。"
+
+msgid "Penguins playing in cold water..."
+msgstr "企鵝在寒冷的水中嬉戲......"
+
+msgid "Actually, the short wings and webbed feet help penguins stay warm and walk on snow and ice."
+msgstr "其實，短翅和腳蹼能幫助企鵝在冰雪中保持溫暖以及行走。"
+
+msgid "Sorry. The webbed feet and stubby wings make penguins powerful swimmers."
+msgstr "抱歉，不對喔！腳蹼和短翅都能讓企鵝成為游泳健將。"
+
+msgid "This is actually true. All mutations are useful or not useful, depending on the environment."
+msgstr "其實這是對的！突變是否有用，要由環境來決定。"
+
+msgid "Correct! Neither of these mutations would be helpful in a desert, or in many other places."
+msgstr "正確！這些突變只在部分環境有用；例如它們在沙漠或其他許多地方，都是無用的。"
+
+# 19
+msgid ""
+"The following is a simplified diagram of the evolution of species. Fill in the blanks by selecting the correct "
+"phrases from the drop down boxes."
+msgstr "下面是大自然中物種進化過程的簡圖。請從上到下依據物種進化發生的先後順序，點選各個合適的詞彙。"
+
+msgid "Genetic variation"
+msgstr "基因的多樣性(基因變異)"
+
+msgid "Helpful mutation"
+msgstr "有利的突變"
+
+msgid "Neutral mutation"
+msgstr "中性的突變"
+
+msgid "Inherited mutation"
+msgstr "遺傳的突變"
+
+msgid ""
+"Correct! Inherited mutation creates genetic variation, which acted on by natural selection leads to evolution of "
+"species."
+msgstr "正確！遺傳突變創造了基因的多樣性，在天擇的作用下，這基因變異會導致物種的演化。"
+
+msgid ""
+"Not quite! Inherited mutation creates genetic variation, which acted on by natural selection leads to evolution "
+"of species."
+msgstr "不大對喔！遺傳突變創造了基因的多樣性，在天擇的作用下，這基因變異會導致物種的演化。"
+
+# 20
+msgid "You've completed the Changing to Survive module."
+msgstr "你已經完成了...「改變與生存」單元。"

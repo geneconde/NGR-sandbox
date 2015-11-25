@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar_EG\n"
+"X-Generator: Poedit 1.7.4\n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "تقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التقويم السريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "القويم السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التقويم السريع رقم 4"
+
+msgid "Quick Check #5"
+msgstr "سريع تحقق رقم 5"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Play"
+msgstr "شغَل"
+
+msgid "Pause"
+msgstr "وقف مؤقت"
+
+msgid "Stop"
+msgstr "توقف"
+
+msgid "Mute"
+msgstr "صامت"
+
+msgid "Unmute"
+msgstr "غير صامت"
+
+msgid "Max volume"
+msgstr "أعلى صوت"
+
+msgid "Full screen"
+msgstr "وضع الشاشة بالكامل"
+
+msgid "Restore screen"
+msgstr "استعادة الشاشة"
+
+msgid "Repeat"
+msgstr "كرر"
+
+msgid "Repeat off"
+msgstr "إيقاف التكرار"
+
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "لتشغيل الوسائط ستحتاج إما إلى تحديث المتصفح لنسخة الأخيرة أو تحديث"
+
+msgid "Flash plugin"
+msgstr "برنامج الفلاش المساعد"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر فوق، وثبت وحرك الفأرة أعلى وأسفل لتدوير المربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "السؤال القصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للتقويم السريع وللأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير التقويم السريع الأول!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد للتقويم الأخير السريع؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت مستعد لسؤال الاختبار الاخير؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها ... "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "How Light Behaves"
+msgstr "كيف يسلك الضوء"
+
+msgid "Welcome to the How Light Behaves module"
+msgstr "مرحبا بكم في وحدة كيف يسلك الضوء."
+
+# 2
+msgid "Thinking about... how light behaves"
+msgstr "التفكير ... كيف يبسلك الضوء"
+
+msgid "When you walk into your dark bedroom at night, you usually turn on a light. With a light on, you can see everything from your red pillow on the chair to the blue blanket on the bed. But what is light? What happens when that light is turned on? How does that light help you see? This module is all about light and how it behaves."
+msgstr "عندما تمشي في غرفة مظلمة في الليل، يمكنك تشغيل  الضوء.  عند تشغيل الضوء، يمكنك أن ترى كل شيء من وسادتك الحمراء على الكرسي الى البطانية الزرقاء على السرير.  ولكن ما هو الضوء؟ ماذا يحدث عندما يتم تشغيل الضوء؟ كيف يمكن أن يساعدك الضوء على الرؤية؟ هذه الوحدة هي كل شيء يتحدث عن الضوء وكيفية عمله."
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+# 3
+msgid "Checking what you know about... how light behaves"
+msgstr "التحقق مما تعرفه عن...كيف يسلك الضوء"
+
+msgid "The drawing shows how your room might look after turning on a light at night. Arrange the sequence to show where the light comes from and where it ends up in order for you to be able to see the pillows on the bed."
+msgstr "ويبين الرسم كيف قد تبدو غرفتك بعد تشغيل الضوء في الليل. رتب التسلسل لإظهار من أين يأتي الضوء ومن أين ينتهي لتكون قادراً على رؤية الوسائد على السرير."
+
+msgid "Ceiling light"
+msgstr "ضوء السقف"
+
+msgid "Eyes"
+msgstr "العيون"
+
+msgid "Pillows on the bed"
+msgstr "الوسائد على السرير"
+
+msgid "If all of the arrows you have drawn start at the light, you are on the right track. We see things by the light bouncing from or coming from them. Our eyes donât send out any light! Continue to check out more things about how light behaves."
+msgstr "إذا كان كل من الأسهم التي رسمتها تبدأ من الضوء، فأنت على الطريق الصحيح.  نحن نرى الأشياء من الضوء المرتد  أو القادم منها.  عيوننا لا ترسل أي ضوء! واصل التحقق في الكثير من الأشياء عن كيف يسلك الضوء."
+
+msgid "If the path you've chosen starts at the light, you are on the right track. We see things by the light bouncing from or coming from them. Our eyes don't send out any light! Continue this review to learn more about how light behaves."
+msgstr "إذا كان المسار الذي قمت باختياره يبدأ  من الضوء، فأنت على الطريق الصحيح.  نحن نرى الأشياء من الضوء المرتد  أو القادم منها.  عيوننا لا ترسل أي ضوء! واصل الاستعراض لمعرفة المزيد حول كيف يسلك الضوء. "
+
+msgid "Turning on the lights..."
+msgstr "تشغيل الأضواء ..."
+
+# 4
+msgid "Reviewing big ideas about... how light behaves"
+msgstr "استعراض أفكار كبيرة حول ... كيف يسلك الضوء"
+
+msgid "All light travels in straight lines from a source, such as a lamp, a candle or the Sun. Unlike sound waves that need a material to carry the wave, light waves can travel through empty space. But when light reaches or shines on an object, any or all three of the following things can happen:"
+msgstr " يسافر الضوء في خطوط مستقيمة من المصدر، مثل المصباح، الشمعة أو الشمس.  على عكس الموجات الصوتية التي تحتاج إلى مادة للقيام بالموجة، يمكن لموجات الضوء السفر من خلال مساحة فارغة.  ولكن عندما يصل الضوء أو يضيء على جسم ما، يمكن أن يحدث واحد أو ثلاثة من الأمور التالية:"
+
+msgid "a. The object or material <span class='key'>absorbs</span> some or most of the light,"
+msgstr "أ. الجسم أو المادة <span class = 'key'>يمتص</span>  بعض أو معظم الضوء،"
+
+msgid "b. Some of the light can bounce off or be <span class='key'>reflected</span>, or"
+msgstr "ب. جزء من الضوء <span class='key'>يرتد</span>، أو"
+
+msgid "c. Some of the light can pass through or be <span class='key'>transmitted</span>"
+msgstr "ج.جزء من الضوء يمر أو  </span>ينتقل<span class='key'>"
+
+msgid "White light"
+msgstr "الضوء الأبيض"
+
+msgid "White light Reflected"
+msgstr "الضوء الأبيض المنعكس"
+
+msgid "White surface"
+msgstr "سطح أبيض"
+
+msgid "No light Reflected"
+msgstr "لا ينعكس الضوء"
+
+msgid "Black surface"
+msgstr "سطح أسود"
+
+msgid "Red light Reflected"
+msgstr "الضوء الأحمر المنعكس"
+
+msgid "Red surface"
+msgstr "سطح أحمر"
+
+msgid "A material or object that absorbs or reflects all of the light that shines on it is called <span class='key'>opaque</span>. When light shines on an opaque object, a <span class='key'>shadow</span> is formed on the other side of the object. But not all the light has to be absorbed or reflected to create a shadow. So shadows aren't all necessarily black. For example, a clear glass of water can also cast a shadow. Try it!"
+msgstr "المادة أو الجسم الذي يمتص أو يعكس  كل الضوء الذي بسطع عليه يسمى <span class='key'>معتم</span>.  عندما يضيء الضوء على جسم معتم، يتم تشكيل <span class='key'>الظل</span>  على الجانب الآخر من الجسم. ولكن ليس من الضروري أن يتم امتصاص الضوء كله او انعكاسه لتكوين الظل.  لذا ليست بالضرورة أن تكون جميع الظلال سوداء . على سبيل المثال، زجاجة مياه  نقية يمكن أيضا أن تلقي بظلالها. جرب ذلك!"
+
+msgid "Travelling in straight lines..."
+msgstr "السفر في خطوط مستقيمة..."
+
+# 5
+msgid "Look at the pictures below of objects and shadows made with light from the Sun. Match the object with its shadow by dragging the shadow images up or down."
+msgstr "انظروا إلى الصور أدناه للأجسام والظلال المكونة من اشعة الشمس عن طريق الضوء.  قم بتوصيل الجسم مع ظله عن طريق سحب صور الظل أعلى أو أسفل."
+
+msgid "Funny Hat"
+msgstr "قبعة مضحكة"
+
+msgid "Toy Rake"
+msgstr "مشط البستان"
+
+msgid "Basket"
+msgstr "سلة"
+
+msgid "Look at the objects and shadows made by light from the Sun below. Match the object with its shadow by dragging the images up or down."
+msgstr "انظر إلى الأجسام والظلال التي كونها الضوء من الشمس أدناه.  طابق الجسم بظله بسحب الصور أعلى أو أسفل."
+
+msgid "Preparing your first quick check..."
+msgstr "حضر لأول إختبار سريع!"
+
+msgid "Well done! The shadows that are formed will share common features with the objects. The shadow of the rake will have lines of light and dark; the shadow of the funny hat will show the pointy features of the hat; and the shadow of the basket will have a long dark arc because of the basket handle."
+msgstr "أحسنت! سوف يكون للظلال التي يتم تشكيلها سمات مشتركة مع الأجسام. ظل مشط البستان سيكون له خطوط من الضوء والظلام؛ ظل القبعة المضحكة سوف تظهر ملامحه مدببة؛ وسوف يكون لظل السلة قوس داكن وطويل  بسبب يد السلة."
+
+msgid "Look again. The shadows formed by the objects will share common features with the objects. Do the shadows in your matches look similar to the objects in the photos?"
+msgstr "ابحث مرة أخرى. الظلال التي تشكلت بفضل الظلال سوف يكون لها سمات مشتركة مع الاجسام.  هل الظلال في مطابقاتك تبدو مشابهة للأجسام الموجودة في الصور؟"
+
+# 6
+msgid "Some materials are highly reflective. When light strikes these materials, nearly all of the light bounces off. The reflectors on a bicycle are designed so that light coming from a car's headlights will bounce straight back off of the reflectors, making the bicycle visible to the driver of the car. During the first Moon landing, the Apollo 11 astronauts placed a similar reflector on the Moon's surface. Scientists on Earth were then able to bounce light off of these reflectors straight back to Earth, allowing for very exact measurements of the distance between Earth and Moon."
+msgstr "بعض المواد تكون عاكسة بدرجة كبيرة،عندما يسقط الضوء على هذه المواد، يرتد كل الضوء تقريبا . تم تصميم عاكسات على الدراجة بحيث أن الضوء القادم من المصابيح الأمامية للسيارة سوف يرتد بشكل مستقيم من على العاكسات، مما يجعل الدراجة مرئية لسائق السيارة. خلال أول هبوط على القمر، وضعت مركبة الفضاء أبولو 11 عاكس مماثل على سطح القمر. استطاع بعدها العلماء أن يعكسوا الضوء من على العاكسات مباشرة إلى الأرض، والسماح لقياسات دقيقة جدا من المسافة بين الأرض والقمر."
+
+msgid "<span class='key'>Mirrors</span> are another example of reflectors. A mirror can be any shiny surface that reflects most of the light. You can see yourself or other things in a flat mirror because the light that bounces off you or other things bounces off the mirror in straight lines back to your eyes. If the surface of a mirror is curved, the light bounces off in different directions and can make things look closer, farther or just plain funny!"
+msgstr "</span> المرايا<span class='key'> هي مثال آخر للعاكسات. المرآة ممكن أن تكون أي سطح لامع يعكس معظم الضوء.  يمكنك ان ترى تفسك أو أشياء اخرى في مرآة مسطحة لأن الضوء الذي يرتد عنك أو عن الأشياء يرتد أيضا عن المرآة في خطوط مستقيمة إلى عينيك.  اذا كان سطح المرآة محدبا، يرتد الضوء في اتجاهات مختلفة وتجعل الأشياء تبدو أقرب، أبعد  أو مضحكة!"
+
+msgid "Things look normal when light reflects off of flat mirrors."
+msgstr "الأمور تبدو طبيعية عندما ينعكس الضوء من على المرايا المسطحة."
+
+msgid "People can look really silly when light reflects off of curved mirrors."
+msgstr "يمكن أن يبدو الناس مضحكين حقاً عندما ينعكس الضوء من المرايا المنحنية."
+
+msgid "Bouncing lights..."
+msgstr "أضواء مرتدة ... "
+
+# 7
+msgid "Arrange the sequence to show how light has to travel for the person on the bottom of the bunk bed to see the cat sitting on the top of the bunk bed in the mirror."
+msgstr "رتب التسلسل لإظهار كيف يسافر الضوء للشخص في الجزء السفلي من السرير  لرؤية القط الذي يجلس على رأس سرير بطابقين مرتفع في المرآة."
+
+msgid "Cat on top of bunk bed"
+msgstr "قطة فوق سرير بطابقين"
+
+msgid "Lamp beside the mirror"
+msgstr "مصباح بجانب المرآة"
+
+msgid "Man on bottom of bunk bed"
+msgstr "رجل أسفل سرير مرتفع"
+
+msgid "Mirror facing the bunk bed "
+msgstr "مرآة مقابل سرير مرتفع"
+
+msgid "Looking at the cat..."
+msgstr "النظر إلى القطة..."
+
+# 8
+msgid "Great! Light rays first have to reflect (bounce) off the cat, travel to the mirror, and reflect (bounce) off the mirror to person's eye."
+msgstr "عظيم! يجب أن ترتد الأشعة الضوئية عن القطة اولا،ثم تسافر إلى المرآة، وتنعكس من على المرآة إلى عين الشخص"
+
+msgid "Nope! The light rays have to first shine on the cat, then bounce off the cat, travel to the mirror and bounce off the mirror to the person's eye."
+msgstr "كلا! يجب على الأشعة الضوئية أن تسطع على القطة أولا، ثم ترتد عن القطة، وتسافر إلى المرآة وترتد من على  المرآة إلى عين الشخص."
+
+msgid "Light absorption plays an important role in the colors of the objects you see all around you. For you to see a red apple, the apple must reflect red light while absorbing the other colors of light. Ripe bananas look yellow because they reflect yellow light and absorb the other colors."
+msgstr "امتصاص الضوء يلعب دورا هاما في ألوان الأجسام التي تراها من حولك. ولتستطيع رؤية تفاحة حمراء، يجب أن تعكس التفاحة الضوء الأحمر في حين تمتص الألوان الأخرى للضوء. الموزة الناضجة تبدو صفراء لأنها تعكس الضوء الأصفر وتمتص الألوان الأخرى."
+
+msgid "The colors of light an object absorbs and reflects can explain why things can look different when different colored lights shine on them."
+msgstr "الوان الضوء التي يمتصها الجسم ويعكسها يمكن أن تفسر لماذا يمكن أن تبدو الأمور مختلفة عندما تسطع أضواء ملونة مختلفة عليها."
+
+msgid "Blue, red, yellow cubes under a yellow lamp"
+msgstr "مكعبات زرقاء، و حمراء، و صفراء تحت مصباح أصفر"
+
+msgid "Blue, red, yellow cubes under a blue lamp"
+msgstr "مكعبات زرقاء، و حمراء،  و صفراء تحت مصباح أزرق"
+
+msgid "Blue, red, yellow cubes under a standard desk lamp source"
+msgstr "مكعبات زرقاء، و حمراء، و صفراء تحت مصباح مكتبي "
+
+msgid "Blue, red, yellow cubes under a red lamp"
+msgstr "مكعبات زرقاء، وحمراء، وصفراء تحت مصباح أحمر"
+
+msgid "Black or dark objects absorb more light than white or light colored objects. A material heats up when it absorbs light. The more light that something absorbs, the hotter it gets. This explains why it is not a good idea to walk barefooted on a blacktop or asphalt covered road on a sunny summer day and why buildings in warmer climates have windows that act like mirrors to reflect the sunlight and keep the rooms inside cooler."
+msgstr "الأجسام السوداء أو الداكنة تمتص مزيدا من الضوء من الأجسام الملونة، أو البيضاء أو الخفيفة اللون.  ترتفع درجة حرارة المادة عندما تمتص الضوء.  وكلما كان امتصاص الضوء أكبر كلما زادت درجة حرارة المادة. وهذا ما يفسر لماذا أنها ليست فكرة جيدة أن تمشي حافي القدمين على الأسفلت أو على الطريق في يوم صيفي مشمس ولماذا تكون نوافذ المباني في المناطق ذات المناخ الأكثر دفئا تعمل عمل المرايا لتعكس أشعة الشمس ولتحافظ على الغرف في الداخل لتكون أكثر برودة."
+
+msgid "You may have seen solar panels on a home or business. These panels change the energy from light to generate electricity for the appliances in a home, or to reduce the amount of money a business has to pay the utility company each month."
+msgstr "ربما قد رأيت الألواح الشمسية على منزل ما أو في العمل.  هذه اللوحات تغير الطاقة من الضوء لتوليد الكهرباء للأجهزة في المنزل، أو لتقليل المال على الشركات والتي يجب أن تدفعها الشركة كفائدة كل شهر."
+
+msgid "Blue, red or yellow?"
+msgstr "الأزرق أو الأحمر أو الأصفر؟"
+
+# 9
+msgid "A Strawberry"
+msgstr "فراولة"
+
+msgid "A Glass of Orange Juice"
+msgstr "كأس من عصير البرتقال"
+
+msgid "The Lead in a Pencil"
+msgstr "الرصاص في قلم الرصاص"
+
+msgid "<select>"
+msgstr "اختر"
+
+msgid "Click on the color of light reflected by the objects shown below."
+msgstr "انقر على لون الضوء المنعكس من الأجسام المبينة أدناه."
+
+msgid "red"
+msgstr "أحمر"
+
+msgid "orange"
+msgstr "برتقالي"
+
+msgid "yellow"
+msgstr "أصفر"
+
+msgid "green"
+msgstr "أخضر"
+
+msgid "blue"
+msgstr "أزرق"
+
+msgid "purple"
+msgstr "أرجواني"
+
+msgid "all of the above"
+msgstr "كل ما سبق"
+
+msgid "none"
+msgstr "لايوجد"
+
+msgid "Click on the color of light reflected by the things listed below."
+msgstr "انقر على لون الضوء المنعكس من الأجسام المبينة أدناه."
+
+msgid "Reflecting light..."
+msgstr "انعكاس اللضوء"
+
+msgid "You've got it! A ripe strawberry looks red because it reflects red light; a glass of orange juice looks orange because it reflects orange light; and the lead from a pencil looks black because it doesn't reflect any light."
+msgstr "لقد أصبت! تبدو الفراولة الناضجة حمراء لأنها تعكس الضوء الأحمر. يبدو كوب من عصير البرتقال برتقالي اللون لأنه يعكس الضوء البرتقالي. والرصاص من قلم الرصاص يبدو أسود لأنه لا يعكس أي ضوء."
+
+msgid "Not quite! A ripe strawberry looks red because it reflects red light; a glass of orange juice looks orange because it reflects orange light; and the lead from a pencil looks black because it doesn't reflect any light."
+msgstr "ليس تماما! تبدو الفراولة الناضجة حمراء لأنها تعكس الضوء الأحمر. يبدو كوب من عصير البرتقال  برتقالي اللون لأنه يعكس الضوء البرتقالي. والرصاص من قلم الرصاص يبدو أسود لأنه لا يعكس أي ضوء."
+
+# 10
+msgid "More big ideas about... how light behaves"
+msgstr "المزيد من الأفكار الكبيرة ... حول كيف يسلك الضوء "
+
+msgid "Some materials not only absorb and reflect light but they also <span class='key'>transmit</span> or let some or most light pass through. Materials that let most light pass straight through are called <span class='key'>transparent</span>. The glass windows on most cars are transparent, allowing the driver a clear view of any objects near the car. Other transparent materials absorb most colors of light while allowing only one color of light to pass through. A red material lets only red light pass through; a blue material lets only blue light pass through, and so on."
+msgstr "بعض المواد لا تمتص وتعكس الضوء فحسب ولكنها <span class='key'>تمرر</span> أو تنقل أو تسمح لبعض أو معظم الضوء بالمرور أيضا.  وتسمى المواد التي تسمح لمعظم الضوء بالمرور بشكل مباشر <span class='key'> شفافة</span>.  النوافذ الزجاجية في معظم السيارات شفافة، مما يسمح للسائق رؤية واضحة للأجسام القريبة من السيارة.  المواد الشفافة الأخرى تمتص معظم ألوان الضوء في حين يسمح للون واحد فقط من الضوء بالمرور.  المواد الحمراء تتيح للضوء الأحمر فقط بالمرور،المادة الزرقاء تسمح للضوء الأزرق فقط بالمرور، وهكذا."
+
+msgid "Materials that let just some of the light pass through are called <span class='key'>translucent</span>. These materials change the path that light takes on the way through them, making it tough to clearly see objects on the other side of the material. That's why it can be difficult for airplanes to take off and land in foggy weather, or for the driver of a car to see through a frost covered windshield on a cold day. Remember though that opaque things don't transmit any light!"
+msgstr "وتسمى المواد التي تسمح فقط لبعض من الضوء بالمرور <span class='key'>شيه شفافة</span>.  هذه المواد تغير المسار الذي يأخذه الضوء من خلالها، مما يجعله صعوبة في أن نرى الأجسام بوضوح للجانب الآخر من هذه المادة.  هذا هو السبب وراء صعوبة إقلاع وهبوط الطائرات في الطقس الغائم، أو  أن يرى سائق سيارة من خلال الزجاج الأمامي المغطى بالصقيع في يوم بارد. تذكر أنه على الرغم من أن الأجسام المعتمة لا تنقل أي ضوء!"
+
+msgid "Absorbing light..."
+msgstr "امتصاص الضوء"
+
+# 11
+msgid "How would you describe the things below in how well they transmit light?"
+msgstr "كيف يمكنك وصف الاشياء أدناه من حيث مدى نقلها للضوء بشكل جديد؟"
+
+msgid "Clean lake"
+msgstr "بحيرة نظيفة"
+
+msgid "Foggy morning"
+msgstr "صباح ضبابي"
+
+msgid "Wooden door"
+msgstr "باب خشبي"
+
+msgid "transparent"
+msgstr "شفاف"
+
+msgid "translucent"
+msgstr "شبه شفاف"
+
+msgid "opaque"
+msgstr "مُعتم"
+
+msgid "Different transmission..."
+msgstr "إرسال مختلف ..."
+
+msgid "Way to go! Water in a clean lake is transparent, allowing all light to pass through it; a morning fog is translucent, allowing only some light through; you can't see anything through a wooden door because it is opaque, the door doesn't allow any light to pass through it."
+msgstr "أحسنت، تكون المياه في البحيرة النظيفة شفافة سامحة  لكل الضوء بالمرور من خلالها؛ يكون الضباب في الصباح نصف شفاف، سامحا فقط لبعض الضوء بالمرور من خلاله؛ لا يمكنك مشاهدة أي شيء من خلال باب خشبي لأنه معتم، والباب لا يسمح بأي ضوء بالمرور من خلاله."
+
+msgid "Not quite. Water in a clean lake is transparent, allowing all light to pass through it; a morning fog is translucent, allowing only some light through; you can't see anything through a wooden door because it is opaque, the door doesn't allow any light to pass through it."
+msgstr "ليس تماما، تكون المياه في البحيرة النظيفة شفافة سامحة  لكل الضوء بالمرور من خلالها؛ يكون الضباب في الصباح نصف شفاف، سامحا فقط لبعض الضوء بالمرور من خلاله؛ لا يمكنك مشاهدة أي شيء من خلال باب خشبي لأنه معتم، والباب لا يسمح بأي ضوء بالمرور من خلاله."
+
+# 12
+msgid "Finally, when light passes from one material to another material, the light can change direction or bend. Scientists call this bending <span class='key'>refraction</span>. For example, when light passes at an angle from air into water or from water into air, the light refracts. This bending of light can cause objects to look odd, like the straw in this glass of water."
+msgstr "وأخيراً، عندما يمر الضوء من مادة واحدة إلى مادة أخرى، يمكن أن يتغير اتجاه الضوء أو ينحني، يسمي العلماء  هذا الانحناء ب <span class='key'>الإنكسار</span>.  على سبيل المثال، عندما يمر الضوء بزاوية من الهواء إلى الماء أو من الماء إلى الهواء، ينكسر الضوء. يمكن أن يسبب هذا الانحناء في الضوء ان تبدو الأجسام غريبة مثل القشة في هذا الكوب من الماء."
+
+msgid "Because the light is changing directions when passing from water into the air, objects beneath the surface of the water can appear to be slightly out of place. For example, this fish appears to be closer to the surface than it actually is due to the way the light is changing direction on the way to the person 's eyes."
+msgstr " لأن الضوء يغير في اتجاهاته عندما يمر من الماء الى الهواء، يمكن أن تظهر الأجسام تحت سطح الماء في غير مكانها. على سبيل المثال، تبدو  هذه السمكة  أقرب إلى السطح مماهي عليه في الواقع بسبب التغيير في اتجاه الضوء في مرورة إلى العين."
+
+msgid "A rainbow of color is produced when sunlight passes through raindrops in the air at the proper angle. The different colors of light refract different amounts upon entering and exiting the rain drop, changing the direction of red light the least and blue and violet light the most. The result is the separation of colors we see as a rainbow."
+msgstr "يتكون قوس قزح  عندما يمر ضوء الشمس خلال قطرات المطر في الهواء عند الزاوية الصحيحة. تكسرالألوان المختلفة من الضوء بكميات مختلفة عند الدخول والخروج داخل قطرة المطر، مغيرة الاتجاه الأحمر للضوء بشكل أقل والضوء الأزرق والبنفسجي أكثر.  والنتيجة هي فصل الألوان التي نراها كقوس قزح."
+
+msgid "Knowing how light refracts can be used to help us see things more clearly. You may have classmates that wear glasses to help them see. Eyeglasses or contacts have special lenses made of glass or plastic. The <span class='key'>lenses</span> are made to refract light as it passes through them. A nearsighted person's eyes focus light too \"near\" to the back of the eye. They need a lens that spreads the light out a bit. A farsighted person's eyes focus light too \"far\" behind the back of the eye. They need a lens that focuses the light closer. This helps a person wearing eyeglasses to see more clearly."
+msgstr "معرفة كيف ينكسر الضوء يمكن استخدامه لمساعدتنا في رؤية الأشياء أكثر وضوحا. قد يكون لديك زملاء دراسة يرتدون النظارات لمساعدتهم على الرؤية. النظارات أو العدسات اللاصقة فيها عدسات مصنوعة من الزجاج أو البلاستيك. <span class='key'>العدسات</span> مصنوعة لتكسر الضوء عند مروره من خلالها.  عيون الشخص قصير النظر يسلط فيه الضوء بشكل قريب جدا الى الجزء الخلفي من العين. وهم يحتاجون إلى العدسة التي توزع الضوء خارجا قليلا. عيون الشخص البعيد النظر يركز فيه الضوء بعيدا خلف الجزء الخلفي من العين. انهم بحاجة الى العدسة التي تركز الضوء بشكل أقرب. وهذا يساعد الشخص  الذي يرتدي النظارات على الرؤية بشكل أكثر وضوحا."
+
+msgid "Looking at the rainbow..."
+msgstr "النظر إلى قوس قزح ..."
+
+# 13
+msgid "Seeing isn't always believing. Artists are able to create a wide variety of images these days with the help of computers. These computer-generated images can be works of art that would be impossible to achieve with cameras alone. Unfortunately, they can also result in unnatural images that don't portray nature correctly. Given that refraction bends different colors of light by different amounts, changing the direction of red light the least, and blue and violet light the most, look at the images below and drag them into the correct column to show which ones got the science right and which ones got it wrong."
+msgstr "رؤية الأشياء لا يعني تصديقها. الفنانون قادرون على إنشاء مجموعة متنوعة من الصور هذه الايام بمساعدة أجهزة الكمبيوتر. ويمكن لهذه الصور بواسطة الحاسوب أن تكون أعمال فنية يستحيل الحصول عليها باستخدام الكاميرات وحدها. لسوء الحظ، يمكن أن تُنتج صور غير طبيعية التي لا تصور الطبيعة بشكل صحيح.  لأنها تعطي الانكسارات المنحنية ألوان مختلفة من الضوء بنسب مختلفة، مغيرة اتجاه الضوء الأحمر على الأقل، والضوء الأزرق والبنفسجي أكثر، انظر الى الصور أدناه واسحبها إلى العمود الصحيح لإظهار أي منها صحيحة علميا وأيها غير صحيحة."
+
+msgid "Items"
+msgstr "أصناف"
+
+msgid "Got it Right!"
+msgstr "لقد أصبت!"
+
+msgid "Got it Wrong!"
+msgstr "لقد أخطأت!"
+
+msgid "Prism 1"
+msgstr "المنشور 1"
+
+msgid "Prism 2"
+msgstr "المنشور 2"
+
+msgid "Prism 3"
+msgstr "المنشور 3"
+
+msgid "Prism 4"
+msgstr "المنشور 4"
+
+msgid "Answer"
+msgstr "الإجابة"
+
+msgid "Checking what you now know about... how light behaves"
+msgstr "فحص ما تعرفه الآن ...كيف يسلك الضوء"
+
+# 14
+msgid "Using what you now know about... how light behaves... to solve a problem"
+msgstr "استخدام ما تعرفه الآن عن ... كيف يسلك الضوء ... لحل مشكلة"
+
+msgid "You're an engineer working for a company in charge of designing a heating system for a swimming pool. You decide to use sunlight to heat up the water by pumping the water from the pool through a bunch of tubes that will run across the roof of the pool building."
+msgstr "انت مهندسا تعمل لحساب شركة مسؤولة عن تصميم نظام تدفئة لحمام سباحة.  قررت استخدام أشعة الشمس لتسخين المياه عن طريق ضخ المياه من البركة من خلال مجموعة من الأنابيب التي سيتم تشغيلها عبر سطح مبنى حمام السباحة."
+
+msgid "Using what you know about the absorption and reflection of light, describe the characteristics of the tubes you would use for the system."
+msgstr "باستخدام ما تعرفه عن امتصاص وانعكاس الضوء، صف خصائص الأنابيب التي ستستخدم للنظام."
+
+msgid "Looking for a heat source..."
+msgstr "البحث عن مصدر حرارة..."
+
+# 15
+msgid "Summarizing big ideas about... how light behaves"
+msgstr "تلخيص الأفكار الكبيرة حول ... كيفي يسلك الضوء"
+
+msgid "Light is one kind of <span class='key'>energy</span>. When light shines on an object, it can be <span class='key'>reflected</span> (bounced off), <span class='key'>transmitted</span> (passed through) or <span class='key'>absorbed</span> (not reflected or transmitted). <span class='key'>Transparent</span> materials transmit most light and reflect and absorb some. <span class='key'>Translucent</span> materials transmit some light and reflect and absorb some. <span class='key'>Opaque</span> materials absorb and reflect light but transmit none. When you see a solid object, the color you see is the color of the light being reflected by the object. A blue car is blue because blue light is reflecting off the car while the other colors of light are being absorbed. If light can pass from one material to another material, it can be <span class='key'>refracted</span>. When light is refracted, it changes its direction. This can happen when light passes at an angle from air into water or from water into air. <span class='key'>Lenses</span> use refraction to help people see more clearly. Solar panels can be used to change light energy into heat and electrical energy."
+msgstr "الضوء نوع واحد من <span class='key'>الطاقة</span>.  عندما يسطع الضوء على جسم ما، فإنه يمكن أن يتم <span class='key'>ينعكس (يرتد)</span>، أو <span class='key'>يمر</span> (ينتقل) أو <span class='key'>يُمتص</span> (لا ينعكس أو ينتقل).  المواد <span class='key'>الشفافة</span> تنقل معظم الضوء وتعكس وتمتص بعضه.  المواد  <span class='key'>شبه الشفافة</span> تمرر بعض الضوء وتعكس وتمتص بعضه. المواد <span class='key'>المعتمة</span> تمتص وتعكس الضوء، ولكن لا تمرر شيء.  عندما ترى جسم صلب، فإن اللون الذي تراه هو لون الضوء الذي ينعكس من خلال الجسم.  السيارة الزرقاء لونها أزرق لأن الضوء الأزرق ينعكس من السيارة في حين يتم امتصاص الألوان الأخرى للضوء.  إذا يمكن للضوء أن يمر من مادة واحدة إلى مادة أخرى، و يمكن أن ينكسر.  عندما ينكسر الضوء، فإنه يغير اتجاهه.  هذا يمكن أن يحدث عندما يمر الضوء عند زاوية من الهواء إلى الماء أو من الماء إلى الهواء.  تستخدم <span class='key'>العدسات</span>  الانكسار لمساعدة الناس على الرؤية بشكل أكثر وضوحا.  يمكن أن تُستخدم الألواح الشمسية لتغيير الطاقة الضوئية إلى حرارة وطاقة كهربائية. "
+
+# 16
+msgid "Reflected"
+msgstr "مُنعكس"
+
+msgid "Refracted"
+msgstr "مُنكسر"
+
+msgid "Absorbed"
+msgstr "مُمتص"
+
+msgid "Transmitted"
+msgstr "مُمرر"
+
+msgid "No. If the light had been reflected by the prism, it would have bounced off the surface of the prism."
+msgstr "لا، إذا انعكس الضوء بالمنشور، فإنه سيكون قد ارتد عن سطح المنشور."
+
+msgid "Correct. The light bent upon moving from the surrounding air into the glass, and it changed direction again when moving from the glass back into the surrounding air."
+msgstr "صحيح. الضوء انحنى عند الانتقال من الهواء المحيط الى الزجاج، وغير الاتجاه مرة أخرى عند الانتقال من الزجاج مرة أخرى في الهواء المحيط."
+
+msgid "No. If the light had been absorbed by the prism, it would have remained within the prism rather than passing through the prism and exiting through the opposite side."
+msgstr "لا، إذا تم امتصاص الضوء عن طريق المنشور،  فإنه سيتعين عليه أن يظل ضمن المنشور بدلاً من المرور من خلال المنشور وخروجه من الجانب الآخر."
+
+msgid "Not quite. If the light had simply been transmitted, it would have passed through without separating into different colors."
+msgstr "ليس تماما. إذا انتقل الضوء ببساطة، سيكون قد مر دون أن يُفصل إلى ألوان مختلفة."
+
+# 18
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو ... "
+
+msgid "Ms. Thomas used a special piece of glass called a prism and a flashlight to show how a rainbow is made. The rainbow produced is an example of light being:"
+msgstr "السيدة توماس استخدمت قطعة خاصة من الزجاج تدعى المنشور ومصباح يدوي لإظهار كيفية تكون قوس المطر.  قوس المطر هو مثال للضوء الذي:"
+
+msgid "Reviewing key vocabulary related to... how light behaves"
+msgstr "عرض المفردات الرئيسية المتصلة ب ... كيف يسلك الضوء"
+
+msgid "Reflection"
+msgstr "انعكاس"
+
+msgid "When a light wave changes direction when it hits a different type of media and stays in the media it was in before. Visible light reflects off mirrors to stay in the air."
+msgstr "عندما تقوم موجه الضوء بتغيير الاتجاه عندما تصل إلى نوع مختلف من الأوساط وتبقى في الوسط الذي كانت فيه قبل ذلك.  ينعكس الضوء المرئي من المرايا ليبقى في الهواء."
+
+msgid "Refraction"
+msgstr "انكسار "
+
+msgid "When a light wave changes direction when it hits a different type of media and moves into the new media. Visible light is often refracted when it hits water from the air, or moves from water into the air."
+msgstr "عندما تقوم موجه الضوء بتغيير الاتجاه عندما تصل إلى نوع مختلف من الأوساط وتنتقل في وسط جديد.  غالبا ما ينكسر الضوء المرئي عندما يضرب الماء من الهواء، أو ينتقل من الماء الى الهواء."
+
+msgid "Absorption"
+msgstr "امتصاص"
+
+msgid "A wavelength of light hits the electron of an atom and transfers its energy to it. This will generally excite the electron to a higher energy state."
+msgstr "الطول الموجي للضوء يضرب الإلكترون من الذرة وينقل الطاقة اليها.  هذا سوف يثير الإلكترون الى حالة طاقة أعلى."
+
+msgid "Lens"
+msgstr "عدسات "
+
+msgid "Something that refracts light converging or diverging it. Examples include lenses in glasses and lenses in a microscope."
+msgstr "شيء يقوم بكسر الضوء القريب أو البعيد منه . والأمثلة تشمل عدسات النظارات وعدسات المجهر."
+
+msgid "Transmission"
+msgstr "مرور (انتقال)"
+
+msgid "Light energy that is absorbed by an electron and then released. A given electron can only absorb and transmit certain wavelengths of light."
+msgstr "الطاقة الضوئية التي يتم امتصاصها من قبل إلكترون ومن ثم تطلق. يمكن للإلكترون امتصاص ونقل بعض الأطوال الموجية للضوء."
+
+msgid "chemical"
+msgstr "كيميائي"
+
+msgid "Transparent"
+msgstr "شفاف"
+
+msgid "When light travels through something without being absorbed or reflected. May also be called \"see-through\".  Examples can include water and glass."
+msgstr "عندما يسافر الضوء من خلال شيء دون أن يتم امتصاصه أو انعكاسه. يمكن أيضا أن يسمى شفافاً.  يمكن أن تشمل الأمثلة الماء والزجاج."
+
+msgid "Translucent"
+msgstr "شبه شفاف"
+
+msgid "When some, but not all, light travels through an object without being absorbed or reflected. Translucent things can be seen through but are not completely clear."
+msgstr "عندما يمر بعض الضوء ، ولكن ليس كله، من خلال جسم دون أن يتم امتصاصه أو انعكاسه.  يمكن أن تُرى الأشياء نصف شفافة ولكن ليست واضحة تماما."
+
+msgid "Opaque"
+msgstr "مُعتم"
+
+msgid "Something that cannot be seen through. It either absorbs or reflects light."
+msgstr "شيء لا يمكن رؤيته . فهو إما أن يَمتَص أو يَعكس الضوء."
+
+msgid "Shadow"
+msgstr "الظل"
+
+msgid "An absence of light in an area due to it being blocked by an object. People cast shadows when in a room with visible light."
+msgstr "غياب الضوء في منطقة بسبب حجزه بواسطة جسم معين. يشكل الناس الظل عندما يكونون في غرفة بها ضوء مرئي."
+
+# 19
+msgid "You are using a mirror to help you get ready for school. Arrange the words in order to show the path the light travels so that you can see yourself in the mirror."
+msgstr "أنت تستخدم المرآة لمساعدتك على الاستعداد للمدرسة. رتب الكلمات لإظهار المسار الذي يسافر فيه الضوء حتى تستطيع أن ترى نفسك في المرأة."
+
+msgid "eyes"
+msgstr "عيون"
+
+msgid "mirror"
+msgstr "مرآة"
+
+msgid "face"
+msgstr "وجْه"
+
+msgid "light"
+msgstr "إضاءة"
+
+msgid "Looking at the mirror..."
+msgstr "النظر في المرأة ... "
+
+msgid "Yes. The light has to initially travel from a source to your face before reflecting off of your face and travelling to the mirror and then reflecting off of the mirror and traveling to your eyes, allowing you to see your own face."
+msgstr "نعم. في البداية لا بد من أن يمر الضوء من مصدر ما ومن ثم على وجهك قبل أن ينعكس من على وجهك ويمر إلى المرآة ثم ينعكس من المرآة ثم يمر إلى عينيك، سامحا لك أن ترى وجهك."
+
+msgid "Not quite. Light must travel from the source to your face, where it is reflected and then travels to the mirror, where it is again reflected before finally travelling to your eyes."
+msgstr "ليس تماما. يجب أن يمر الضوء من المصدر إلى وجهك،حيث ينعكس ومن ثم يمر إلى المرآة، حيث ينعكس مرة أخرى قبل المرور إلى عينيك اخيراً."
+
+# 20
+msgid "If you put a red car in a room with a blue light bulb on the ceiling, what car color would you see?"
+msgstr "إذا قمت بوضع سيارة حمراء في غرفة مع مصباح أزرق على السقف، ما لون السيارة التي ستراها؟"
+
+msgid "Red"
+msgstr "أحمر"
+
+msgid "Blue"
+msgstr "أزرق"
+
+msgid "Black"
+msgstr "أسود"
+
+msgid "Green"
+msgstr "أخضر"
+
+msgid "Putting blue light..."
+msgstr "وضع الضوء الأزرق ..."
+
+msgid "No, the light bulb in the ceiling only emits blue light. There is no red light available to reflect off of the car."
+msgstr "لا، تبعث اللمبة في السقف الضوء الأزرق فقط. ليس هناك ضوء أحمر متوفر لينعكس خارج السيارة."
+
+msgid "No, the light bulb does emit blue light, but a red car reflects red light, and absorbs all other colors of light. The blue light would be absorbed by the car's surface."
+msgstr "لا، اللمبة لا تبعث الضوء الأزرق، ولكن تعكس السيارة الحمراء الضوء الأحمر، وتمتص جميع الألوان الأخرى للضوء. يتم امتصاص الضوء الأزرق بواسطة سطح السيارة."
+
+msgid "Yes, the light bulb on the ceiling emits blue light, but the paint on the car absorbs blue light. This would result in the car appearing black in this scenario."
+msgstr "نعم، اللمبة الموجودة على السقف تبعث الضوء الأزرق، ولكن الطلاء على السيارة يمتص الضوء الأزرق. هذا من شأنه أن يؤدي إلى أن تظهر السيارة سوداء في هذا السيناريو."
+
+msgid "No, the light bulb on the ceiling emits blue light, but a red car reflects only red light while absorbing all other colors."
+msgstr "لا، اللمبة الموجودة على السقف تبعث الضوء الأزرق، ولكن تعكس السيارة الحمراء الضوء الأحمر فقط بينما تمتص كل الألوان الأخرى."
+
+# 21
+msgid "It's difficult to identify the objects on the other side of this window because the water on the glass is making the window:"
+msgstr "من الصعب التعرف على الأشياء في الطرف الآخر من هذه النافذة لأن الماء على الزجاج يجعل النافذة:"
+
+msgid "Cleaning glass windows..."
+msgstr "تنظيف النوافذ الزجاجية ..."
+
+msgid "Not quite. If the window was dry, it would most likely be transparent, allowing all the light to travel straight through it."
+msgstr "ليس تماما. إذا كانت النافذة جافة، فمن المرجح أن تكون شفافة، مما يتيح لجميع الضوء الانتقال مباشرة من خلالها."
+
+msgid "Way to go! The water on the window is causing slight changes to the path light takes through it, making the objects on the other side of the glass look fuzzy."
+msgstr "أحسنت! يسبب الماء على النافذة تغييرات طفيفة في مسار الضوء الذي يتخذه من خلالها، مما يجعل الأجسام في الجانب الآخر من الزجاج تبدو غير واضحة."
+
+msgid "Nope. If the glass was opaque, none of the light coming from the other side would make it through. You wouldn't be able to see anything."
+msgstr "كلا. إذا كان الزجاج معتم، فإن أيا من الضوء القادم من الجانب الآخر سيجعله يمر. لن تكون قادرا على رؤية أي شيء."
+
+# 22
+msgid "An experienced spear fisher knows not to aim the spear directly at the place where the fish appears to be in the water. This is because light travelling from the fish to the eyes of the spear fisher is _____________ at the surface of the water."
+msgstr "صياد السمك المحترف بصيد الرمح لا يصوب الرمح مباشرة في المكان الذي تظهر الأسماك فيها في الماء.  وذلك لأن الضوء الذي يمر من الأسماك إلى عيون الصياد  _____________ على سطح الماء."
+
+msgid "reflected"
+msgstr "منعكس"
+
+msgid "refracted"
+msgstr "منكسر"
+
+msgid "absorbed"
+msgstr "ممتص"
+
+msgid "Hunting fish..."
+msgstr "صيد الأسماك "
+
+msgid "Nope. If the light was reflected at the surface of the water, it would bounce and stay below the surface. The spear fisher wouldn't be able to see the fish at all."
+msgstr "كلا. إذا تم انعكاس الضوء على سطح الماء، فإنه سيرتد ويبقى تحت سطح الماء. لن يكون الصياد قادرا على رؤية الأسماك على الإطلاق."
+
+msgid "Yep! The light changes direction as it moves from the water into the air. This bending of light is known as refraction, and it makes the fish appear to be closer to the surface than it actually is."
+msgstr "نعم! يتغير اتجاه الضوء عندما ينتقل من الماء إلى الهواء. ويعرف هذا الانحناء للضوء بالانكسار، ويجعل الأسماء تظهر لتكون أقرب إلى السطح مما هي عليه في الواقع."
+
+msgid "No. If the light was absorbed by the water, none of it would reach the eyes of the spear fisher."
+msgstr "لا. إذا تم امتصاص الضوء من الماء، لا شيء منه سيصل إلى عيون صياد السمك."
+
+# 23
+msgid "A periscope is used to \"see around corners\". Arrange the sequence to show how light travels in order for the tricycle to be seen by the person using the periscope."
+msgstr "يستخدم المنظار للرؤية بمنطقة الزوايا. رتب التسلسل لاظهار كيف يمر الضوء ليستطيع الشخص الذي يستخدم المنظار أن يرى الدراجة الثلاثية العجلات."
+
+msgid "periscope"
+msgstr "منظار"
+
+msgid "person's eye"
+msgstr "عين الشخص"
+
+msgid "sun"
+msgstr "شمس"
+
+msgid "bicycle"
+msgstr "دراجة هوائية"
+
+msgid "Fantastic! The light must first come from the Sun and then bounce off the tricycle before bouncing off of the mirrors in the periscope and arriving at the eye of the person."
+msgstr "رائع! يجب أن يأتي الضوء أولا من الشمس ومن ثم يرتد عن الدراجة ثلاثية العجلات قبل أن يرتد من على المرايا في المنظار ومن ثم يصل الى عين الشخص."
+
+# 24
+msgid "Nope. First, it must come from the Sun, then it is reflected by the tricycle before bouncing off the mirrors in the periscope and arriving at the eye of the person."
+msgstr "كلا. أولا، يجب أن يأتي من الشمس، ومن ثم ينعكس من الدراجة ثلاثية العجلات قبل أن يرتد عن المرايا في المنظار ومن ثم يصل الى عين الشخص."
+
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "You've completed the How Light Behaves module."
+msgstr "لقد أكملت وحدة كيف يسلك الضوء."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع و الأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go Back to Dashboard"
+msgstr "العودة إلى اللوحة التوجيهية"
+
+msgid "Not quite! An image can look real, but people can use science to determine whether or not that's the case. In this example, a couple of the images show the violet light changing direction the least, and the red light changing direction the most. That's not how it works in nature!"
+msgstr "ليس تماما! الصورة يمكن أن تبدو حقيقية، ولكن يمكن أن يستخدام الناس العلم لتحديد ما إذا كان هذا هو الحال أم لا. في هذا المثال، صورتين يظهر فيهما تغيير اتجاه الضوء البنفسجي بأقل صورة، والضوء الأحمر يغير اتجاهه بصورة أكبر.  لايعمل هكذا في الطبيعة!"
+
+msgid "Way to go! The images that show the red light bending the least and the violet light bending the most have got the science right."
+msgstr "أحسنت! الصور التي تُظهر الضوء الأحمر ينحني أقل والضوء البنفسجي ينحني أكثر قد عرف العلوم بشكل صحيح."

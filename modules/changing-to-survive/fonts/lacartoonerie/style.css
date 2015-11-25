@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'laCartoonerieRegular';
+    src: url('lacartoonerie.eot');
+    src: url('lacartoonerie.eot') format('embedded-opentype'),
+         url('lacartoonerie.woff') format('woff'),
+         url('lacartoonerie.ttf') format('truetype'),
+         url('lacartoonerie.svg#laCartoonerieRegular') format('svg');
+}

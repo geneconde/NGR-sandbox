@@ -1,0 +1,1142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: behaviors\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.7.5\n"
+
+# Global
+msgid "Behaviors"
+msgstr "行為"
+
+msgid "More big ideas... about behaviors"
+msgstr "關於「行為」... 更多的核心觀念"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "You answered..."
+msgstr "答案是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我答得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎，"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在學會的"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Start"
+msgstr "讓我們開始吧"
+
+msgid "The Situation"
+msgstr "情況"
+
+msgid "The Scenario"
+msgstr "情境..."
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6小題，可以了解哪些是你已經知道的，而哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好時，就請按下一步..."
+
+msgid "Congratulations, "
+msgstr "恭喜您！"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this "
+"module by clicking the button below."
+msgstr "請點擊下面的按鍵，查看你在「小測驗」和「小練習」中的表現。"
+
+# 1
+msgid "Welcome to the Behaviors module,"
+msgstr "歡迎來到「行為」單元"
+
+# 2
+msgid "Thinking about... behaviors"
+msgstr "想一想...關於「行為」"
+
+msgid ""
+"Have you ever thought about the 'why' behind your behavior? Like, why do you "
+"have to learn some things, while other things seem to come naturally or "
+"without thinking? Have you ever wondered just how much of your behavior is "
+"due to what you have learned and how much of it you did not have to learn "
+"because it was already part of you from birth? What about the behaviors of "
+"other living things? Can animals learn too?"
+msgstr ""
+"你曾否想過，「是什麼」讓你有這個行為的？還有，為什麼有些事情你得要學才會? 而有"
+"些就好像是自然而然或不假思索地就發生了？你曾否好奇，究竟有多少行為必須來自於學"
+"習？而又有多少是根本不需要去學習，是從出生時它就已經是你的一部分？其他生物的行"
+"為呢？動物會學習嗎？"
+
+# 3
+msgid "Checking what you know... about behaviors"
+msgstr "關於「行為」，看看你了解多少......"
+
+msgid ""
+"Look at the behaviors listed below. Click on the ones you think you were able "
+"to do when you were born."
+msgstr "看看下面列出的行為。點擊那些你覺得出生時就會做的。"
+
+msgid "Ride a bicycle"
+msgstr "騎自行車"
+
+msgid "Breathe"
+msgstr "呼吸"
+
+msgid "Read"
+msgstr "閱讀"
+
+msgid "Tie your shoes"
+msgstr "繫鞋帶"
+
+msgid "Blink your eyes"
+msgstr "眨眼睛"
+
+msgid "Remember"
+msgstr "記得事情"
+
+msgid "Throw a ball"
+msgstr "丟球"
+
+msgid ""
+"You were able to breathe, blink your eyes, and remember when you were born. "
+"No one actually taught you how to do those things. On the other hand, you had "
+"to learn how to tie your shoes, ride a bicycle, and throw a ball. How are "
+"these activities different? Continue with the module to find out."
+msgstr ""
+"你一出生，你就會呼吸、眨眼睛、你也會記得事情，事實上並沒有人教你怎麼做那些事"
+"情；可是，你必須去學如何繫鞋帶、騎自行車和丟球。它們之間有什麼不同？請繼續這個"
+"單元，你將會找到答案......"
+
+msgid "Breathing air..."
+msgstr "呼吸......"
+
+# 4
+msgid "Reviewing big ideas... about behaviors"
+msgstr "複習核心觀念... 關於「行為」"
+
+msgid ""
+"<span class='key'>Behavior</span> is the way that a living thing acts and "
+"reacts when exposed to different situations. We call a specific situation a "
+"<span class='key'>stimulus</span> and how a living thing reacts, a <span "
+"class='key'>response</span>. When scientists study behavior, they are looking "
+"at the response of an organism to different stimuli. Here's a simple "
+"illustration. Think about what you would do if you attempted to warm your "
+"hands over a campfire, but got too close to the flames. If the heat of the "
+"flame caused you pain, your immediate response would most likely be to pull "
+"your hand back very quickly. This response is your behavior."
+msgstr ""
+"<span class='key'>行為</span>是生物接觸到不同狀況時，所做出的行動和反應的方"
+"式。我們把特定的狀況，稱為<span class='key'>刺激</span>；把生物如何作出應對，"
+"稱為<span class='key'>反應</span>。當科學家研究「行為」時，他們會看一個生物體"
+"對於不同刺激的反應。下面是一個簡單的例子：想想，當你手放在營火上取暖但不小心離"
+"火太近時，你會怎麼做？如果火的高溫讓你覺得疼痛，你最有可能的反應就是把手縮回"
+"來。這種「反應」就是你的「行為」。"
+
+msgid ""
+"Behaviors can be divided into two: <span class='key'>innate</span> - present "
+"from birth; and <span class='key'>learned</span> - developed after birth. "
+"Some behaviors may be a mixture of both."
+msgstr ""
+"「行為」可以分為兩種：<span class='key'>天生行為</span> ，就是出生時就存在的行"
+"為，又叫做「本能行為」；以及<span class='key'>習得行為</span>，就是出生之後才"
+"發展出來的行為。有一些行為可能是兩者的混合。"
+
+msgid ""
+"Innate behaviors include <span class='key'>reflexes</span> and <span "
+"class='key'>instincts</span>. Reflexes are simple and automatic responses to "
+"an external stimulus. For example, when the doctor hits your knee with a "
+"rubber mallet, your leg jerks in response. This movement does not require any "
+"thought on your part."
+msgstr ""
+"「天生行為」包括<span class='key'>反射</span>和<span class='key'>本能</span>。"
+"「反射」是對外部「刺激」的一種簡單的自動「反應」。例如，當醫生用橡膠錘輕敲你的"
+"膝蓋，你的腿會產生反射動作。這個動作不需要你的任何思考。"
+
+msgid ""
+"Instincts are more complex behavior patterns than reflexes. For example, once "
+"sea turtles hatch from their nests in the sand, they instinctively move "
+"towards the water where they are safer. This instinct is triggered by the "
+"turtles' response to brightness. Because the open ocean is naturally brighter "
+"than the land, the sea turtles head toward the water. Like reflexes, "
+"instincts are present at birth and these abilities are inherited, or "
+"physically passed from parents to offspring through the DNA."
+msgstr ""
+"「本能」是比「反射」更複雜的行為模式。例如，海龜一旦從沙灘上的巢孵化，牠們會本"
+"能地走向水中，因為那裡比較安全。這種本能是由於海龜對亮光的「反應」而觸發的，海"
+"龜會朝著水前進，是因為外海原本就比陸地明亮。「本能」和「反射」一樣，都是在出生"
+"時就已經具備了，而這些能力是來自遺傳或藉由父母的DNA遺傳給下一代。"
+
+msgid "Developing behavior..."
+msgstr "行為發展..."
+
+# 5
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> an "
+"example of a stimulus-response interaction?"
+msgstr ""
+"問題A. 以下哪一項<span class='blink'>不是</span>「刺激」─「反應」交互作用的例"
+"子？"
+
+msgid "A dog barking at the mail carrier."
+msgstr "一隻狗狂吠郵遞員"
+
+msgid "Stubbing your toe and wincing in pain."
+msgstr "腳趾踢到時會痛，你會把腳縮回來。"
+
+msgid "A person jogging on a warm evening."
+msgstr "一個人在溫暖的夜晚慢跑。"
+
+msgid "A skunk spraying an approaching coyote."
+msgstr "一隻臭鼬對著接近牠的郊狼噴出臭氣。"
+
+msgid ""
+"Question B. Laws in areas near beaches do not allow bright lights when turtle "
+"eggs are hatching on the beaches. What do you think is the reason for this "
+"law?"
+msgstr ""
+"問題B. 有一些地區的法律規定，不允許海灘附近的人家在海龜孵化期間開明亮的燈光。"
+"你覺得為什麼會有這項規定?"
+
+msgid "The lights may cause the eggs not to open."
+msgstr "這些燈會導致龜卵無法孵化。"
+
+msgid "The lights may attract the turtles away from the water."
+msgstr "這些燈會誤導海龜離開水域。"
+
+msgid "The lights may attract turtle predators."
+msgstr "這些燈會引來海龜的天敵。"
+
+msgid "The lights may overheat the turtle eggs."
+msgstr "這些燈會使海龜卵過熱。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個快速檢查..."
+
+msgid ""
+"No, the mail carrier approaching the house is the stimulus and the dog "
+"barking is the response."
+msgstr "不對喔！郵差接近房子是「刺激」；狗叫則是「反應」。"
+
+msgid ""
+"No, stubbing your toe and experiencing pain is the stimulus, and wincing is "
+"the response."
+msgstr "不對喔！踢到腳趾時會覺得痛是「刺激」；縮腳則是「反應」。"
+
+msgid ""
+"Correct. This is not a stimulus-response example. A specific situation is a "
+"stimulus and how a living thing reacts a response."
+msgstr ""
+"正確。這不是一個「刺激」─「反應」的例子。特定的狀況是一種刺激，生物如何作出應"
+"對是一種反應。"
+
+msgid ""
+"No, the coyote approaching is the stimulus, and the skunk's response is to "
+"spray the coyote."
+msgstr "不對喔！郊狼的接近是一種「刺激」，而臭鼬的「反應」就是向郊狼噴臭氣。"
+
+msgid ""
+"No, once they hatch, the sea turtles respond to the brightness of the sea and "
+"move toward the safe water. Bright lights may attract and mislead turtles "
+"away from the water."
+msgstr ""
+"不對喔！牠們一孵化後，海龜會對大海的亮度有「反應」並走向安全的水域。亮光可能會"
+"誤導海龜離開水域。"
+
+msgid ""
+"Correct. Having bright lights on the beach could be dangerous and misleading "
+"for the newly-hatched sea turtles."
+msgstr "正確。海灘上的明亮燈光對於剛孵出的海龜可能是危險和誤導。"
+
+msgid ""
+"No, once they hatch, they respond to brightness of the sea and move toward "
+"the safe water. Bright lights may attract and mislead turtles away from the "
+"water."
+msgstr ""
+"不對喔！一孵化後，牠們會對大海的亮度有「反應」並走向安全的水域。亮光可能誤導海"
+"龜離開水域。"
+
+msgid ""
+"No, once they hatch, the sea turtles respond to brightness of the sea and "
+"move toward the safe water. Bright lights may attract and mislead turtles "
+"away from the water."
+msgstr ""
+"不對喔！牠們一旦孵化，海龜會對大海的亮度有「反應」並走向安全的水域。亮光可能會"
+"誤導海龜離開水域。"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+# 6
+msgid ""
+"Unlike innate behavior, <span class='key'>learned behaviors</span> are "
+"behaviors which are developed through experience - by living and interacting "
+"with the environment. For example, when you cross a street, you look in all "
+"directions to make sure that there are no moving vehicles coming. A family "
+"member most likely explained to you how to check for oncoming traffic, or "
+"perhaps you watched and imitated them as they showed you. You were not born "
+"knowing how to cross a street safely, but you learned the behavior. Once you "
+"learned this behavior in crossing streets, you were able to show or teach a "
+"younger sister or brother the behavior as well."
+msgstr ""
+"不同於「天生行為」，<span class='key'>習得行為</span>是指由經驗發展出的行為，"
+"它來自生活中與環境的互動。例如，過馬路時，你會看看各個方向以確認沒有任何行進中"
+"的車輛接近，這可能是家中的人跟你解釋怎麼觀察迎面而來的車輛，也可能是他們做給你"
+"看時你邊看邊模仿到的。你並不是天生就懂得如何安全地過馬路，但你學會了這個行為。"
+"一旦你學會了過馬路，你也能教給弟弟妹妹。"
+
+msgid ""
+"Other examples of learned behaviors in humans include reading, helping "
+"someone, playing music, and riding a bicycle. These are all behaviors which "
+"require you to learn through being taught by others, either directly or "
+"indirectly through observing them, by doing them yourself, or a combination "
+"of these. Once you learn a new behavior, it is not usually forgotten. You now "
+"possess a memory of how to do it."
+msgstr ""
+"其他人類的「習得行為」包括閱讀、幫助別人、演奏音樂和騎自行車。這些都需要你直接"
+"或間接觀察別人，被教導，或自己去做、或者綜合以上而學習到。一旦你學會了一個新的"
+"行為，它通常不會被遺忘，那也就是你已經擁有該怎麼做這些事情的記憶了。"
+
+msgid ""
+"An important feature of learned behaviors is that they are not passed onto "
+"the next generation through physical means. In other words, they are not "
+"<span class='key'>genetically-inherited</span>. This means that although you "
+"have learned to cross a road safely, your children will not be born with that "
+"knowledge or ability. They will have to learn the behavior, just as you had "
+"to learn it. This differs from innate reflexes and instincts, which are "
+"passed on from one generation to the next through the genetic means of "
+"inheritance."
+msgstr ""
+"「習得行為」的一個重要特徵是，它們不會遺傳給下一代。換言之，它們並不是透過"
+"<span class='key'>基因遺傳</span>而得到的。這也就是說，雖然你已經學會了安全過"
+"馬路，你的孩子並不會天生就有那種知識或能力，他們需要去學習這項行為，就像當年你"
+"必須學習這些知識和能力一樣。這和天生存在基因並可從上一代延續到下一代的「反射」"
+"和「本能」是不同的。"
+
+msgid "Interacting with environment..."
+msgstr "互動與環境..."
+
+# 7
+msgid ""
+"Question A. From the list provided, mark <span class='blink'>all</span> the "
+"learned behaviors."
+msgstr "問題A. 下列中，那些是<span class='blink'>「習得行為」</span>。(複選)"
+
+msgid "Coughing"
+msgstr "咳嗽"
+
+msgid "Sneezing"
+msgstr "打噴嚏"
+
+msgid "Crying"
+msgstr "哭"
+
+msgid "Skate boarding"
+msgstr "溜滑板"
+
+msgid "Question B. Which of the following is an innate behavior in humans?"
+msgstr "問題B. 以下哪些是人類的「天生行為」？"
+
+msgid "Talking"
+msgstr "說話"
+
+msgid "Walking"
+msgstr "走路"
+
+msgid "Thinking"
+msgstr "思考"
+
+msgid "Sharing"
+msgstr "分享"
+
+msgid "Identifying different behaviors..."
+msgstr "分辨不同的行為..."
+
+msgid ""
+"Correct! Coughing, sneezing and crying are all innate behaviors. Newborns can "
+"do all of these without help. Walking, skate boarding, and singing are "
+"learned behaviors. They need to be taught directly or indirectly, and will "
+"not be passed down to the next generation."
+msgstr ""
+"正確！咳嗽、打噴嚏、哭泣都是「天生行為」，就算是嬰兒，不必任何協助下都會這些行"
+"為。走路、溜滑板、唱歌是「習得行為」，這些需要直接或間接地指導，並不會遺傳給下"
+"一代。"
+
+msgid ""
+"Not quite. Coughing, sneezing, and crying are all innate behaviors. Newborns "
+"can do all of these without help. Walking, skate boarding, and singing are "
+"learned behaviors. They need to be taught directly or indirectly, and will "
+"not be passed down to the next generation."
+msgstr ""
+"不完全是。咳嗽、打噴嚏、哭泣都是「天生行為」，就算是嬰兒，不必任何協助下都會這"
+"些行為。走路、溜滑板、唱歌是「習得行為」，這些需要直接或間接地指導，並不會遺傳"
+"給下一代。"
+
+msgid ""
+"No, talking is a learned behavior. People cannot do it when they are born and "
+"they cannot pass on the ability to the next generation."
+msgstr ""
+"不對喔！說話是一種「習得行為」。人出生時不會說話，人不能直接把這能力遺傳給下一"
+"代。"
+
+msgid ""
+"No, walking is a learned behavior. Humans have to learn to walk, which "
+"usually happens in stages. This ability is not genetically-inherited."
+msgstr ""
+"不對喔！走路是一個「習得行為」。人都要學走路，這通常要一步步來，這種能力不是來"
+"自基因遺傳。"
+
+msgid ""
+"Correct. Thinking is innate to humans. However, critical and higher level "
+"thinking can be taught and strategies can be learned."
+msgstr ""
+"正確。思考是人類的「天生行為」。不過，一些思辨能力和較高層次的思考是可以藉由被"
+"傳授而且一些策略是可以學習而來的。"
+
+msgid ""
+"No, sharing is an activity that must be taught. Some people are not aware of "
+"its social importance and they never learn to share."
+msgstr ""
+"不對喔！分享是學習而來的。有些人不知道它的社會上的重要性，他們從來沒有學會要分"
+"享。"
+
+# 8
+msgid ""
+"Learned behavior is often dependent on both inherited traits and the "
+"characteristics of the environment the animal lives in. For example, every "
+"bird has a number of specific songs which characterize the type of bird it "
+"is. A robin's song is different from a catbird's song, which is different "
+"from a cardinal's song. Each bird is born able to sing, but each bird has to "
+"be taught to sing their song. They have to hear it and learn it."
+msgstr ""
+"「習得行為」往往和遺傳性狀(特徵)和動物生活的環境有關係。例如，每一種鳥都有特有"
+"的鳥曲來代表牠們的種類。知更鳥的鳥曲和貓鵲不同、也和紅雀不同。雖然每隻鳥天生就"
+"能鳴叫，但牠們都需要被教導特有的鳴叫方式；也就是說，每隻鳥都必須聽、還要去學。"
+"[※請聆聽右邊影片中的鳥曲]"
+
+msgid "A robin sings while perched on the roof."
+msgstr "屋頂上知更鳥的鳥曲"
+
+msgid ""
+"In the wild savanna environment, a lion must learn how to hunt in order to "
+"survive. While a cub is helpless at first, by three months, its mother has "
+"introduced it to eating meat. Over the next seven months, it will watch its "
+"mother hunt and gradually learn hunting small animals itself. These skills "
+"will not be perfected for another one or two years because hunting is a "
+"complex behavior to master."
+msgstr ""
+"在野生的稀樹草原環境，獅子為了生存必須學會如何狩獵。幼崽在一開始是無法自己存活"
+"的，從第三個月起牠的母親就會開始讓牠吃肉。在接下來的七個月內，牠會看母親如何狩"
+"獵並逐步學會自己獵捕小動物。這些技能無法在一兩年就變為成熟，因為狩獵是一種不易"
+"掌握的複雜行為。"
+
+msgid ""
+"Most learned behavior is related to survival needs such as finding food, "
+"avoiding predators or other dangers, reproduction, or social interaction. But "
+"if learned behaviors are not inherited by an animal's offspring, what is the "
+"advantage to learning new behaviors? The answer is that it is likely that "
+"learning new behaviors allows a population of animals to survive in a wider "
+"variety of environments and situations. If an animal survives longer, it can "
+"increase its chances for reproduction."
+msgstr ""
+"大部分的「習得行為」都和生物生存的需要有關：例如，尋找食物、躲避捕食者或其它危"
+"險、繁殖、或社會互動等等。不過，「習得行為」是沒辦法遺傳的，那麼去學習一些新行"
+"為有甚麼好處呢？這答案就是：學習新行為可使動物能在更多樣的環境和情況下生存，這"
+"讓動物能活得越久並增加牠繁衍後代的機率。"
+
+msgid "Bears learning how to catch fish"
+msgstr "熊學習如何捉魚"
+
+msgid "Cow playing with her child"
+msgstr "牛在和牠們的幼崽玩"
+
+msgid "Cat licking his feet"
+msgstr "貓在舔自己的腳掌"
+
+msgid "Learning new behavior..."
+msgstr "學習新的行為..."
+
+# 9
+msgid ""
+"Question A. Mark <span class='blink'>all</span> of the following that "
+"contribute to learned behavior."
+msgstr ""
+"問題A. 選出下列<span class='blink'>所有</span>有助於「習得行為」的選項。"
+
+msgid "Environment"
+msgstr "環境"
+
+msgid "Survival Needs"
+msgstr "生存的需求"
+
+msgid "Reflexes"
+msgstr "反射"
+
+msgid "Inherited Traits"
+msgstr "遺傳性狀"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>not</span> a "
+"characteristic behavior of birds that increases their likelihood of "
+"reproduction?"
+msgstr ""
+"問題B. 下列哪一項<span class='blink'>不是</span>幫助鳥類繁殖的特徵行為？"
+
+msgid "Singing"
+msgstr "鳴叫"
+
+msgid "Eye color"
+msgstr "眼睛的顏色"
+
+msgid "Catching food"
+msgstr "捕捉食物"
+
+msgid "Feather demonstration"
+msgstr "展現羽毛"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後的一個小練習了嗎？"
+
+msgid ""
+"Great! Learned behavior depends on the environment the animal lives in, "
+"survival needs, and inherited traits. In the case of a bird, learning to sing "
+"is a behavior important for survival. The bird has inherited the ability to "
+"sing. And depending on the kind of bird it is, it will pick up clues from the "
+"environment and learn to sing the song it needs for its survival."
+msgstr ""
+"太棒了！「習得行為」和動物的生活環境、生存需要、和遺傳性狀有關。在鳥類中，學習"
+"鳴叫是一種生存的重要行為。鳥雖然遺傳了鳴叫的能力，但不同的鳥類還會從環境中學習"
+"到有助於牠生存的鳥曲鳴叫方式。"
+
+msgid ""
+"Not quite. Learned behavior depends on the environment the animal lives in, "
+"survival needs, and inherited traits. In the case of a bird, learning to sing "
+"is a behavior important for survival. The bird has inherited the ability to "
+"sing. And depending on the kind of bird it is, it will pick up clues from the "
+"environment and learn to sing the song it needs for its survival."
+msgstr ""
+"不完全是。「習得行為」和動物的生活環境、生存需要、和遺傳性狀有關。在鳥類中，學"
+"習鳴叫是一種生存的重要行為。鳥雖然遺傳了鳴叫的能力，但不同的鳥類還會從環境中學"
+"習到有助於牠生存的鳥曲鳴叫方式。"
+
+msgid ""
+"No, being able to sing is an important quality that would increase the "
+"likelihood of reproduction for birds."
+msgstr "不對喔！對鳥類而言，鳴叫是增加繁殖機會的重要能力。"
+
+msgid ""
+"Correct. The color of a bird's eyes is less important compared to its ability "
+"to sing, catch food, and attract mates by feather demonstrations."
+msgstr ""
+"正確。和鳴叫、捕捉食物、和藉展示羽毛來吸引配偶等等相較下，鳥類眼睛的顏色比較不"
+"是那麼重要。"
+
+msgid "No, finding food is a survival skill that would increase mating chances."
+msgstr "不對喔！尋找食物是一種生存技能，會增加交配的機會。"
+
+msgid ""
+"No, birds compete for the chance to mate. Feather demonstrations are one way "
+"they do this."
+msgstr "不對喔！鳥類要競爭交配的機會，展現羽毛是一種方式。"
+
+# 10
+msgid "Using what you know... about behaviors... to solve a problem"
+msgstr "活用所學…關於「行為」」...解答問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"You have been called in to provide some training to test and sharpen the "
+"reflexes of a team that is going on a special mission to rescue some "
+"hostages. Being able to grab things quickly is one area of reflexes that is "
+"especially important in this mission."
+msgstr ""
+"你被請來訓練一個「人質營救小組」以提升他們的「反射」能力。在他們的任務中，快速"
+"捉住東西的能力，非常重要。"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"Your assignment is to design or research one or more activities which can be "
+"used first to test the \"grab-reflex\" of team members and then be used by "
+"the team members to help them improve their grab-reflex. In the box provided "
+"explain how each grab-reflex activity works."
+msgstr ""
+"你的任務是設計一個能測試“抓取反射能力”的活動，以測試團隊成員並用來幫助他們提高"
+"快速抓住東西的反射動作。請在框中解釋你的測試活動的方式。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Please type your answer here..."
+msgstr "請在下方輸入你答案"
+
+msgid "Training for special mission..."
+msgstr "訓練特殊任務小組..."
+
+# 11
+msgid "Summarizing big ideas... about behaviors"
+msgstr "總結核心觀念...關於「行為」！"
+
+msgid ""
+"All living things respond to the <span class='key'>stimuli</span> in their "
+"environment. These responses, called <span class='key'>behaviors</span>, can "
+"be separated into those that are innate (present at birth) and those that are "
+"learned. <span class='key'>Innate behaviors</span> include reflexes and "
+"instincts. <span class='key'>Reflexes</span> are automatic responses to a "
+"stimulus such as immediately pulling your hand back from touching a hot "
+"stove. <span class='key'>Instincts</span> are more complex behavior patterns "
+"than reflexes, but they too are <span class='key'>inherited</span> and not "
+"learned. <span class='key'>Learned behaviors</span> are behaviors which are "
+"developed through the experience of living and interacting with the "
+"environment. These behaviors are difficult to forget once they are learned, "
+"but they are not passed to the next generation by inheritance. They must be "
+"relearned by the next generation."
+msgstr ""
+"所有生物在環境中，都會對<span class='key'>刺激</span>有所「反應」。這些反應，"
+"稱為<span class='key'>行為</span>。行為可分為兩類，一類是「天生行為」（出生時"
+"即展現），另一類為「習得行為」。 <span class='key'>天生行為</span>包括「反射」"
+"和「本能」； <span class='key'>反射</span>是對刺激的自動反應，像是你的手碰到熱"
+"的爐子時會馬上縮回； <span class='key'>本能</span>是比反射更複雜的行為模式，但"
+"它們也都是 <span class='key'>來自遺傳</span> ，而不是學習而來的。 <span "
+"class='key'>習得行為</span>是指通過生活經驗與環境的互動發展而出來的行為，這些"
+"行為一旦學會就不容易忘記，但他們不會經由遺傳而傳遞給下一代，它們必須由下一代重"
+"新學習。"
+
+msgid "Putting it all together..."
+msgstr "整理一下......"
+
+# 12
+msgid "Reviewing key vocabulary related to... behaviors"
+msgstr "複習重要名詞......關於「行為」"
+
+msgid "Behavior"
+msgstr "行為"
+
+msgid "Response"
+msgstr "反應"
+
+msgid "Inherited behavior"
+msgstr "遺傳行為"
+
+msgid "Genetically-inherited"
+msgstr "基因性遺傳"
+
+msgid ""
+"The way that an animal responds to its environment is called behavior. An "
+"animal's behavior or action, often changes in response to changes in its "
+"environment."
+msgstr ""
+"動物對於環境的反應稱為「行為」。動物的行為或動作，經常是隨著環境的改變而變化。"
+
+msgid ""
+"Behavior is not limited to just one individual. Animals can change their "
+"behavior as a group, too. For example, a flock of birds may not fly south for "
+"the winter as early as they normally would if an area is experiencing "
+"unusually warm temperatures. Or, a group of deer that normally travels on one "
+"path to find food may change their behavior and find another route if the "
+"path is flooded or blocked."
+msgstr ""
+"行為並不只發生在個體身上；動物群體也會有牠們的行為的。例如，氣候異常的溫暖時，"
+"鳥群可能不會如常地飛往南方過冬；路徑淹水或阻斷時，鹿群也會改變行為另找途徑尋找"
+"食物。"
+
+msgid ""
+"A stimulus is something that produces a reaction or a change. Light is a "
+"stimulus that can cause the size of the pupil in your eye to change."
+msgstr ""
+"「刺激」是一種會造成反應或變化的東西。例如，光線是一種可以引起眼中瞳孔改變大小"
+"的一種刺激。"
+
+msgid ""
+"Sometimes a reward is used as a stimulus to cause a desired action or "
+"response. For example, your school may reward students for the number of "
+"books read during the school year. This reward can act as a stimulus to get "
+"the students to read more books."
+msgstr ""
+"有時，獎勵會被當作是引起動作或反應的「刺激」。例如，你學校也許會獎勵學生在學年"
+"內讀完一定數量的書，這個獎勵就是可以作為讓學生多讀點書的「刺激」。"
+
+msgid ""
+"A response is generated in the brain after it receives a tiny electrical "
+"signal from the neurons. Response works like stimulus, only in reverse."
+msgstr ""
+"「反應」，是身體的神經元送出一個微小信號給大腦之後所產生的 。「反應」和「刺"
+"激」的作用方式相同，只不過方向相反。"
+
+msgid ""
+"Innate behaviors are behaviors present at birth. Innate behaviors include "
+"reflexes and instincts. An example of an innate behavior is stretching."
+msgstr ""
+"「天生行為」是在出生時即展現的行為，例如，伸懶腰。天生行為包括「反射」和「本"
+"能」。"
+
+msgid ""
+"An instinct is a behavior that a creature is born with and is thus unlearned. "
+"It helps the creature to survive. The communication of wolves through howling "
+"is an example of an instinct."
+msgstr ""
+"「本能」是生物與生俱來的並不是習得而來，它有助於生物的生存。例如，狼以嚎叫，互"
+"相溝通。"
+
+msgid ""
+"Inherited behaviors are behaviors which are physically passed on from "
+"generation to generation through the DNA. Not all behavior is inherited "
+"behavior, although some are. An example of inherited behavior is a lion's "
+"behavior of roaring."
+msgstr ""
+"「遺傳行為」，是經由DNA一代傳一代的行為。有些行為來自遺傳，但有的並不是。遺傳"
+"行為的一個例子就是獅子會吼叫。"
+
+msgid ""
+"Unlike inherited behavior which is passed on through the DNA in reproduction, "
+"learned behaviors are behaviors which are developed through experience - by "
+"living and interacting with other organisms and with the environment. "
+"Examples of learned behaviors in humans include reading, sharing, helping "
+"others, playing music, and riding a bicycle."
+msgstr ""
+"「習得行為」，是通過生活和與其它生物以及環境的互動經驗中發展出的行為 -。人類的"
+"習得行為，包括：閱讀、分享、幫助別人、演奏音樂、和騎自行車等。它不像遺傳行為可"
+"透過DNA經遺傳傳遞。"
+
+msgid ""
+"A reflex is a genetically-inherited behavior that is involuntarily triggered "
+"by a stimulus. Reflexes are not learned. They are present from birth. For "
+"example, babies possess the grasp reflex, by which they hold onto objects."
+msgstr ""
+"「反射」是一種透過基因遺傳的行為，它是由「刺激」引發的非自主性行為。反射無法習"
+"得，它們是在出生時即展現的。例如，嬰兒時就有，「握持反射動作」，也就是說他們不"
+"自主地會緊緊地抓住東西。"
+
+msgid ""
+"Something that is genetically-inherited is passed on through reproduction, "
+"through the DNA. Innate behaviors such as reflexes and instincts are "
+"genetically-inherited by offspring from their parents. Physical "
+"characteristics are also genetically-inherited, such as the horns of the "
+"rhinoceros."
+msgstr ""
+"「基因性遺傳」，就是透過生殖，也就是DNA所傳遞的遺傳。「天生行為」，如「反射」"
+"和「本能」都是透過基因性遺傳從他們父母遺傳給下一代。身體外觀的特徵也是來自遺"
+"傳，例如犀牛的角就是。"
+
+# 13
+msgid "Checking what you now know... about behaviors"
+msgstr "看看你現在了解多少…關於「行為」"
+
+# 14
+msgid ""
+"Crows are black-colored birds with excellent hearing, and typically live for "
+"six to seven years. Some crows in Japan open hard-shelled nuts by dropping "
+"them in front of moving cars. Which of the following is a learned behavior?"
+msgstr ""
+"烏鴉是一種具有良好聽力的黑鳥，通常能活到六至七歲。在日本的一些烏鴉會將堅果丟在"
+"行駛的車輛前。請問下列哪一項是「習得行為」？"
+
+msgid "Living six to seven years"
+msgstr "活到六至七歲"
+
+msgid "Having black feathers"
+msgstr "有黑色的羽毛"
+
+msgid "Dropping nuts in front of cars"
+msgstr "在汽車前丟下堅果"
+
+msgid "Having excellent hearing"
+msgstr "具有良好的聽力"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是..."
+
+msgid ""
+"No, living 6 - 7 years is just the average age of that type of crow in that "
+"area."
+msgstr "不對喔！活到6 - 7歲只是住在該地區烏鴉的平均數值，這不是「習得行為」。"
+
+msgid ""
+"No, having black feathers is inherited and part of the bird's innate behavior."
+msgstr "不對喔！有黑色的羽毛是遺傳，這不是「習得行為」。"
+
+msgid ""
+"Correct. The crows \"learned\" that dropping nuts in front of cars will open "
+"them. Their offspring will learn this from observing their parents, not from "
+"the DNA."
+msgstr ""
+"正確。烏鴉“學習到”在車輛前丟下堅果就能把殼打開。牠們的後代從觀察父母學習到這種"
+"行為，而不是從DNA。"
+
+msgid ""
+"No, having excellent hearing is inherited and part of the bird's innate "
+"behavior."
+msgstr "不對喔！具有良好的聽力是來自遺傳，這不是「習得行為」。"
+
+# 15
+msgid ""
+"Which of the following statements is <span class='blink'>not</span> true "
+"regarding learned behavior?"
+msgstr "以下關於「習得行為」的敘述，哪一項是<span class='blink'>錯誤的</span>？"
+
+msgid "Learned behaviors are not inherited from parents."
+msgstr "「習得行為」並非遺傳自父母。"
+
+msgid ""
+"Animals learn by observation and through experiences with their environment."
+msgstr "動物會從觀察以及環境中的經驗來學習。"
+
+msgid "There are survival advantages to learned behavior."
+msgstr "「習得行為」能帶來生存優勢。"
+
+msgid ""
+"Being colorblind (being unable to visually distinguish between green and red "
+"colors from birth) is an example of a learned behavior."
+msgstr "色盲（即從出生起在視覺上就無法分辨綠色和紅色）是一種「習得行為」。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer"
+msgstr "點擊，按住並上下移動滑鼠來旋轉框框，然後選擇你的答案。"
+
+msgid "Studying behavior..."
+msgstr "研究行為......"
+
+msgid ""
+"No, even if your parents learned how to ride a bicycle, the behavior is not "
+"passed onto you. You had to learn how to ride a bicycle yourself."
+msgstr ""
+"不是這選項，這敘述是正確的！即使你的父母學會了如何騎自行車，這項行為也不能直接"
+"移轉到你身上。你必須自己學會如何騎自行車。"
+
+msgid ""
+"No, animals do learn by observing their parents and experiencing things "
+"themselves. Different animals stay with their parents for different periods "
+"of time until they are independent."
+msgstr ""
+"不是這選項，這敘述是正確的！動物透過觀察父母和經歷的事情來自己學習，不同種的動"
+"物留在父母身邊的時間長短不一，大部分則會留到牠們自己能夠獨立。"
+
+msgid ""
+"No, the advantage of learned behavior is that the offspring can learn "
+"different behaviors which might come in handy in situations needed to survive."
+msgstr ""
+"不是這選項，這敘述是正確的！「習得行為」的優點是後代可以學習到不同的行為，而這"
+"可能在求生存時，派上用場。"
+
+msgid ""
+"Correct. This is false because being colorblind is an inherited trait, not "
+"something you can learn."
+msgstr ""
+"選對了，這是錯誤的敘述！因為色盲是一種遺傳性狀，不是一種你可以學習的行為。"
+
+# 16
+msgid ""
+"Complete the sentence by selecting the <span class='blink'>correct</span> "
+"terms."
+msgstr "選擇<span class='blink'>正確的專有名詞</span>來完成下列句子。"
+
+msgid "Behaviors can be divided into those which are,"
+msgstr "行為可以分為："
+
+msgid "innate"
+msgstr "天生行為"
+
+msgid "learned"
+msgstr "習得行為"
+
+msgid "reflexes"
+msgstr "反射"
+
+msgid "instincts"
+msgstr "本能"
+
+msgid "meaning they are present from"
+msgstr "，是在生物出生時就已經存在；"
+
+msgid "birth, and those that are,"
+msgstr "；另一種是，"
+
+msgid "or must be developed after birth."
+msgstr "，是是在出生後才發展出來的。"
+
+msgid "Innate behaviors are related to survival needs and include"
+msgstr "「天生行為」都與生存需要相關，它包括"
+
+msgid "and"
+msgstr "和"
+
+msgid "Selecting answers..."
+msgstr "選擇解答"
+
+msgid ""
+"Correct. There are innate and learned behaviors. Innate are those behaviors "
+"which are not taught and have to do with survival skills. They include "
+"reflexes (automatic responses to stimulus) and instincts. Other behaviors are "
+"learned from parents or through hands-on experience."
+msgstr ""
+"正確。行為可以分為：「天生行為」和「習得行為」。天生行為，是在生物出生時就已經"
+"存在，而且都與生存技能相關；它們包括「反射」（即：對「刺激」的自動「反應」）和"
+"「本能」。其它的行為是經由父母或者通過實際操作經驗學習而來的，稱為「習得行"
+"為」。"
+
+msgid ""
+"Not quite. There are innate and learned behaviors. Innate are those behaviors "
+"which are not taught and have to do with survival skills. They include "
+"reflexes (automatic responses to stimulus) and instincts. Other behaviors are "
+"learned from parents or through hands-on experience."
+msgstr ""
+"不完全是。行為可以分為：「天生行為」和「習得行為」。天生行為，是在生物出生時就"
+"已經存在，而且都與生存技能相關；它們包括「反射」（即：對「刺激」的自動「反"
+"應」）和「本能」。其它的行為是經由父母或者通過實際操作經驗學習而來的，稱為「習"
+"得行為」。"
+
+# 17
+msgid ""
+"Many horses can walk within five minutes of being born. Given this fact, what "
+"is walking considered in horses?"
+msgstr ""
+"有許多馬可以在出生五分鐘之內就開始「行走」。請問，「行走」對於馬來說是一種？"
+
+msgid "Stimulus"
+msgstr "刺激"
+
+msgid "Reflex"
+msgstr "反射"
+
+msgid "Innate behavior"
+msgstr "天生行為"
+
+msgid "Learned behavior"
+msgstr "習得行為"
+
+msgid "Looking at the behavior pattern..."
+msgstr "看看這個行為模式..."
+
+msgid ""
+"No, walking is not a specific situation that causes a response. It is an "
+"innate behavior in this animal."
+msgstr ""
+"不對喔！走路不是一種會導致「反應」的特定狀況。這是這種動物的「天生行為」。"
+
+msgid ""
+"No, reflexes are simple and automatic responses to an external stimulus. The "
+"ability to walk is innate behavior, just not a reflex."
+msgstr ""
+"不對喔！「反射」是對於外界「刺激」的一種簡單自動的「反應」。行走的能力是「天生"
+"行為」，不是一種反射動作。"
+
+msgid ""
+"Correct. Walking within five minutes of birth shows this behavior to be "
+"innate and instinctual."
+msgstr "正確。出生五分鐘之內就能走路，這種行為是與生俱來的「本能」。"
+
+msgid ""
+"No, walking for humans is a learned behavior, but for horses it is an innate "
+"behavior."
+msgstr ""
+"不對喔！對人類而言，走路是一種後天「習得行為」，但對於馬是一種「天生行為」。"
+
+# 18
+msgid ""
+"Are these behaviors instinct, reflex, or learned? Hover your mouse on the "
+"texts to view an image."
+msgstr ""
+"請問這些行為是「本能」、「反射」或者是「習得行為」？請將游標停在文字上來查看圖"
+"像。"
+
+msgid "Instinct"
+msgstr "本能的"
+
+msgid "Learned"
+msgstr "習得的"
+
+msgid "A pet cuddling with its owner."
+msgstr "寵物靠到主人懷裡"
+
+msgid "A pet going to its mother for milk."
+msgstr "動物靠近母親要喝乳汁"
+
+msgid "A child being potty trained."
+msgstr "小孩學習上廁所"
+
+msgid "A woman quickly moves her hand away from heat."
+msgstr "她很快地把手從火上移開"
+
+msgid "A student looks both ways before crossing the street."
+msgstr "學生過馬路前會左右查看"
+
+msgid "A child screams when frightened."
+msgstr "小孩受驚嚇時尖叫"
+
+msgid "A baby cries when it wants its parents' attention."
+msgstr "嬰孩哭叫以獲得父母注意"
+
+msgid "Recently born birds know when to migrate."
+msgstr "初生小鳥知道何時需遷徙"
+
+msgid "Instinct, reflex or learned?"
+msgstr "哪個是「本能」、「反射」或「習得」呢？"
+
+msgid "ANSWER"
+msgstr "解答"
+
+msgid ""
+"Correct! An animal will instinctively go to its mother for milk, but it "
+"learned to go to its human owner for cuddling. Other animals might have "
+"\"learned\" not to go near humans based on their experience. Screaming is "
+"another example in which if it is done without thinking, out of fear, it is a "
+"reflex. But if a person learns that screaming will lead to more parental "
+"attention, it is no longer considered a reflex."
+msgstr ""
+"正確！動物會本能地靠近母親要喝乳汁。動物卻要學習去讓主人抱牠，或者根據牠們的經"
+"驗“學習”不要去靠近人類。尖叫，是另一個來自恐懼而非來自思考的例子，它是一種「反"
+"射」動作。但是，如果一個人學會用尖叫來引起父母的注意，它就不再被認為是一種反射"
+"動作。"
+
+msgid ""
+"Not quite. An animal will instinctively go to its mother for milk, but it "
+"learned to go to its human owner for cuddling. Other animals might have "
+"\"learned\" not to go near humans based on their experience. Screaming is "
+"another example in which if it is done without thinking, out of fear, it is a "
+"reflex. But if a person learns that screaming will lead to more parental "
+"attention, it is no longer considered a reflex."
+msgstr ""
+"不完全是。動物會本能地靠近母親要喝乳汁。動物卻要學習去讓主人抱牠，或者根據牠們"
+"的經驗“學習”不要去靠近人類。尖叫，是另一個來自恐懼而非來自思考的例子，它是一種"
+"「反射」動作。但是，如果一個人學會用尖叫來引起父母的注意，它就不再被認為是一種"
+"反射動作。"
+
+# 19
+msgid ""
+"On the first attempt, a mouse takes 20 minutes to complete a maze. By the "
+"fourth time, the same mouse takes only 12 minutes to finish the maze. What "
+"does this show?"
+msgstr ""
+"第一次嘗試時，小老鼠需要20分鐘才能走完迷宮。到了第四次，這隻小老鼠只需12分鐘即"
+"可走完迷宮。這說明了什麼？"
+
+msgid ""
+"The mouse did not have sharp instincts the first time completing the maze."
+msgstr "小老鼠在第一次走迷宮時，沒有敏銳的本能。"
+
+msgid "The mouse wanted to complete the maze to make the scientist happy."
+msgstr "小老鼠要讓科學家高興，所以才走完迷宮。"
+
+msgid "The mouse had excellent reflexes the third time the maze was completed."
+msgstr "小老鼠在第三次走完迷宮時，具有較好的反射能力。"
+
+msgid ""
+"The mouse experienced the maze and had the ability to learn new behaviors."
+msgstr "小老鼠走完迷宮後，有了能力去學習新行為。"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好最後一個小測驗的問題了嗎？"
+
+msgid ""
+"No, the mouse traveled through the maze based on its instinct, but needed "
+"more experience to learn how to get to the end."
+msgstr ""
+"不對喔！雖然小老鼠基於本能通過迷宮，不過牠需要更多的經驗來學習如何抵達終點。"
+
+msgid ""
+"No, the statements show no sign of this behavior. It shows the animal's "
+"ability to learn new behaviors."
+msgstr ""
+"不對喔！文中的描述沒有顯示任何這種行為的跡象。它顯示了動物學習新行為的能力。"
+
+msgid ""
+"No, reflexes are automatic responses to a stimulus. Going from 20 to 12 "
+"minutes in four tries shows the animal's ability to learn new behaviors."
+msgstr ""
+"不對喔！「反射」是對「刺激」的自動「反應」。小老鼠嘗試了四次，時間就從20分鐘縮"
+"短到12分鐘，這顯示了動物學習新行為的能力。"
+
+msgid ""
+"Correct. Through trial and error the animal learned how to get to the maze in "
+"a faster way, that is why the time reduced from 20 to 12 minutes."
+msgstr ""
+"正確。通過嘗試錯誤，小老鼠可以學會要怎樣用更快的方式通過迷宮，這也就是為什麼所"
+"需的時間會從20分鐘減少到12分鐘。"
+
+# 20
+msgid "You've completed the Behaviors module."
+msgstr "你已經完成了「行為」單元。"

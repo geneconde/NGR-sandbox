@@ -1,0 +1,1513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genetic Codes\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: zh\n"
+
+# Global
+msgid "Genetic Codes "
+msgstr "遺傳密碼"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+# 14
+msgid "Words and explanations"
+msgstr "單詞和解釋"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Genetic Codes review"
+msgstr "歡迎來到「遺傳密碼」單元"
+
+# 2
+msgid "Thinking about... genetic codes"
+msgstr "想一想...關於「遺傳密碼」"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+msgid ""
+"The first thing most people think about when they see a new baby is who she "
+"or he looks like... Does she have her mother's nose? Her father's eyes? Does "
+"he seem to resemble a grandfather who passed away many years ago? Some "
+"people think these observations are silly, that each new person is unique. "
+"But they're not silly. We resemble our family members for a reason. We share "
+"something very important–the information that makes us what we are–our "
+"genetic codes."
+msgstr ""
+"大多數人看到新生兒的第一件事，就是會想到，長得像誰？有著母親的鼻子？父親的眼"
+"睛嗎？他看起來像去世多年的長輩？有些人認為，這樣的觀察是蠢蠢的，因為每個嬰兒"
+"都是獨一無二的；但其實這些觀察的人們並不傻，家人彼此相似是有原因的，因為家人"
+"間共享一些很重要的東西：那，就是讓我們長成我們樣子的信息，我們稱之為「遺傳密"
+"碼」。"
+
+# 3
+msgid "Checking what you know... about genetic codes"
+msgstr "看看你了解了多少...關於「遺傳密碼」"
+
+msgid ""
+"Click in the right column the most likely outcomes determined by the events "
+"shown in the left column."
+msgstr "左欄是敘述，請在右欄點擊左邊敘述可能造成的結果。"
+
+msgid "Two parents contribute to the genetic makeup of children."
+msgstr "父親和母親對孩子的基因，都有貢獻。"
+
+msgid "Children always look most like their fathers."
+msgstr "孩子們看起來總是大部分像爸爸。"
+
+msgid "Children always look most like their mothers."
+msgstr "孩子們看起來總是大部分像媽媽。"
+
+msgid "Children inherit characteristics from both parents."
+msgstr "孩子們從爸爸和媽媽兩邊，都會遺傳到他們的特點。"
+
+msgid ""
+"A child inherits one gene for ear shape from one parent, and a different "
+"gene for ear shape from the other parent."
+msgstr "一個小孩他耳朵形狀的基因，一個遺傳自父親，另一個遺傳自母親。"
+
+msgid "The child has two different ear shapes."
+msgstr "這小孩兩個耳朵形狀不同。"
+
+msgid "The child's ears are shaped like that of one of the parents only."
+msgstr "這小孩耳朵形狀，只會像爸爸的；或者只會像媽媽的。"
+
+msgid "The child is born without ears."
+msgstr "這孩子生下來就沒有耳朵。"
+
+msgid ""
+"Children inherit about half of their characteristics from each parent. Two "
+"parents contribute to the genetic makeup of children. In the case of a trait "
+"such as ear shape, a child inherits one gene from one parent and a different "
+"gene for ear shape from the other parent. While we inherit traits from both "
+"parents, only one may show itself at a time. Read on to learn more about "
+"genetic codes and how traits are passed on."
+msgstr ""
+"孩子會遺傳到父母雙方各約一半的特徵，父母對孩子基因的組成都有貢獻。以耳朵來"
+"說，孩子從父親和母親那邊各遺傳到一個基因；不過只有父親或母親中的一個基因能夠"
+"被顯現出來，所以孩子耳朵形狀只會像爸爸的；或者只會像媽媽的。請繼續閱讀，以了"
+"解更多關於「遺傳密碼」，以及「性狀(遺傳特性)」是如何傳遞。"
+
+msgid "Inheriting characteristics..."
+msgstr "遺傳特徵..."
+
+msgid "Reviewing core ideas... about genetic codes"
+msgstr "複習核心觀念...關於「遺傳密碼」"
+
+msgid ""
+"Living things reproduce in two ways.  One, called <span class='key'>asexual "
+"reproduction</span>, involves only a single parent. The other way, called "
+"<span class='key'>sexual reproduction</span>, requires both a male and a "
+"female parent."
+msgstr ""
+"生物之所以能夠不斷地繁衍，是因為它們可以由親代(例如父親或母親)產生子代(例如，"
+"子女)，然後代代相傳。「生物繁殖」有兩種方式：一種是<span class='key'>無性生殖"
+"</span>，它只需要單一個親代就可以進行；另一種，則是<span class='key'>有性生殖"
+"</span>，這就需要有雌、雄親代共同參與了。"
+
+msgid ""
+"Asexual reproduction occurs in all types of living things because it is the "
+"process plants and animals use to grow.  Each new individual begins life as "
+"a single cell.  This cell then divides over and over until the new organism "
+"reaches its full size.  As life goes on, some of the cells continue to "
+"reproduce as needed to repair damage and cope with environmental changes."
+msgstr ""
+"一部分的動植物以「無性生殖」來繁殖後代，這些生物包括香菇、馬鈴薯、細菌等等，"
+"它們都可以不必透過雌雄交配就可以直接進行生殖產生後代。所有生物體中的「細胞分"
+"裂」也是透過「無性生殖」的過程，動植物生長的過程中，每一個個體都是以單細胞開"
+"始，然後隨著細胞一遍又一遍分裂，生物體才慢慢長大為成體。"
+
+msgid ""
+"Asexual reproduction of individual cells is called <span "
+"class='key'>mitosis</span>.  It is summarized in the picture to the right."
+msgstr ""
+"細胞的無性生殖是以一種稱為<span class='key'>有絲分裂</span>的過程來進行的。"
+"[請參考右圖，順時針方向代表著「有絲分裂」進行的順序和從一個細胞進行「無性生"
+"殖」成為兩個相同細胞的過程]"
+
+msgid ""
+"Sometimes whole organisms reproduce asexually.  In the produce aisle, you "
+"will notice that all the Gala apples look the same, and so do all the "
+"Jonathan and Golden Delicious. These are fruits of plants that can only be "
+"reproduced by asexual reproduction. Asexual reproduction allows for exact "
+"duplication of a parent: perfect copies - no changes.  This is great for "
+"agriculture, but not always great in nature.  Sometimes conditions change "
+"and species need to change along with them."
+msgstr ""
+"有時候，我們利用無性生殖來生產整個生物體。在超市蔬果區，你會發現，所有的嘎啦"
+"種的蘋果看起來幾乎是一樣的(它都帶紅斑點條紋，請參考右圖)、所有的僑納森種的蘋"
+"果(紅綠色)、黃金冠種的蘋果(一種黃綠色的蘋果)也都各是一樣的。這些都是可以僅藉"
+"由「無性生殖」來進行繁殖的植物果實。無性生殖可以精確複製親代的特徵，以產生完"
+"美相近的子代的複製品。這對農業是好的，但在大自然來說，卻不一定。因為，有時候"
+"環境改變，物種還是必須配合改變，這樣才比較容易繼續生存。"
+
+msgid "Gala apples"
+msgstr "嘎拉種的蘋果"
+
+msgid "Golden delicious apples"
+msgstr "黃金冠種的蘋果"
+
+msgid "Jonathan apples"
+msgstr "喬納森種的蘋果"
+
+msgid "Royal gala apples"
+msgstr "皇家嘎拉種的蘋果"
+
+msgid ""
+"Sexual reproduction allows offspring to receive information from two "
+"different parents.  That information may be the same or it may be "
+"different.  In this way, each generation contains new combinations of genes, "
+"some of which may allow individuals to survive and reproduce more often than "
+"others. In some cases, sexual reproduction allows a species to survive in "
+"difficult times."
+msgstr ""
+"「有性生殖」時，子代可以從兩個不同的雌、雄親代中遺傳到信息。這遺傳來的信息可"
+"能是彼此相同或不同的，如此，每一子代中都可含有新的基因組合，這些新基因組合中"
+"有些可以讓個體更能生存和繁殖。因此，有時候，有性生殖可以幫助一個物種在惡劣環"
+"境中生存下來。"
+
+msgid "Receiving information..."
+msgstr "接收信息..."
+
+# 5
+msgid ""
+"Question A. Which of the following is an advantage of sexual reproduction?"
+msgstr "問題A. 下面的敘述中，何者是有性生殖的優點？"
+
+msgid "All members of a generation are exactly the same."
+msgstr "同一代的所有的個體都是完全一樣的。"
+
+msgid "Many different combinations of traits are possible in each generation."
+msgstr "在同一代的個體間能具有許多不同性狀的組合。"
+
+msgid "Species survival is less likely when new genetic combinations occur."
+msgstr "當新的基因組合可以出現時，物種比較不可能生存下去。"
+
+msgid "Males often consume much more food than females."
+msgstr "男性通常會消耗比女性更多的食物。"
+
+msgid ""
+"Question B. Click on the <span class='blink'>incorrect</span> statement "
+"about asexual reproduction."
+msgstr "問題B. 請點選關於無性生殖的<span class='blink'>錯誤</span>敘述。"
+
+msgid "Asexual reproduction leads to an exact duplication of a parent."
+msgstr "無性生殖能精確地複製親代。"
+
+msgid "Asexual reproduction of individual cells is called mitosis."
+msgstr "細胞的無性生殖被稱為有絲分裂。"
+
+msgid "Asexual reproduction allows a species to survive in difficult times."
+msgstr "無性生殖能使一個物種在艱困變動環境中代代生存。"
+
+msgid "Asexual reproduction occurs in all types of living things."
+msgstr "無性生殖可以在所有種類的生物中發現。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個小練習！"
+
+msgid "No...  that's a characteristic of asexual reproduction."
+msgstr "不是這個選項，這敘述是正確的。......這就是無性生殖的特性。"
+
+msgid "Correct. New combinations are the key."
+msgstr "正確。形成新的基因組合，是關鍵。"
+
+msgid "Backwards....  Survival is more likely with new combinations."
+msgstr "不對喔！相反的....有了新的基因組合，會比較可能生存下去。"
+
+msgid "Males often do consume more resources, but that's not an advantage."
+msgstr "不對喔！雖然男性經常吃得比較多，但是有性生殖的優勢無關。"
+
+msgid ""
+"No, asexual reproduction does lead to an exact duplication of the parent. "
+"The parent cell divides over and over until the duplicate reaches its full "
+"size."
+msgstr ""
+"選錯喔，這敘述是正確的！無性生殖可精準複製親代。親代細胞一遍又一遍分裂，直到"
+"複製程序到達極限。"
+
+msgid ""
+"No, this is true. Mitosis is the division of a parent cell that results in "
+"cells each the same as the parent."
+msgstr ""
+"選錯喔，這敘述是正確的！有絲分裂就是親代細胞的分裂，使得子代細胞與其親代一"
+"樣。"
+
+msgid ""
+"Yes, this statement is incorrect. Sexual reproduction does not help species "
+"adapt or survive in difficult times, it does allow variety."
+msgstr ""
+"選對了，這個敘述是錯誤的！「有性生殖」才是較能幫助物種適應並使物種在艱困時期"
+"生存的；因為，「有性生殖」可以產生新的基因組合，產生新型態的生物。"
+
+msgid ""
+"No, some living things reproduce only asexually, and all living things use "
+"this method to grow."
+msgstr ""
+"選錯喔，這敘述是正確的！雖然只有一部分生物的繁殖後代是採用「無性生殖」，但是"
+"所有生物都要使用「細胞分裂」來成長。"
+
+# 6
+msgid "More core ideas... about genetic codes"
+msgstr "更多核心觀念...關於「遺傳密碼」"
+
+msgid ""
+"<span class='key'>Heredity</span> is how traits are passed from parents to "
+"offspring, or from one generation to the next.  People have been using the "
+"few simple rules of heredity for thousands of years. New varieties of "
+"horses, cattle, dogs, and birds were produced by choosing useful traits and "
+"breeding the animals that had them."
+msgstr ""
+"<span class='key'>遺傳</span>就是，生物的「性狀(遺傳的特徵)」從親代(例如父母)"
+"傳遞到子代(例如子女)和後代的過程。數千年來，人們都在使用一些有關遺傳的簡單知"
+"識以選擇具有有用性狀的動植物來繁殖後代，人類藉由這方法，已經培育出許多新品種"
+"的馬、牛、狗和鳥類等等。"
+
+msgid ""
+"The first person to state the rules in a simple form was Gregor Mendel. He "
+"saw patterns in his lifelong observations of plants and animals, and carried "
+"out experiments for years. Mendel proposed his rules of inheritance which "
+"were based on bits of information, which later came to be called <span "
+"class='key'>genes</span>."
+msgstr ""
+"孟德爾，是第一個將遺傳規律用簡單的方式敘述出來的人。他畢生觀察動植物的模式，"
+"並進行了多年實驗。孟德爾提出，遺傳規則是由「遺傳因子」所決定的。而他所提出的"
+"一些遺傳規律，後來也被稱為「孟德爾遺傳法則」；而他所謂的「遺傳因子」，被後人"
+"稱作<span class='key'>基因</span>。"
+
+msgid ""
+"One rule, called <span class='key'>segregation</span>, states that each "
+"individual receives half of its genetic information from each parent, or two "
+"genes for each trait.  That individual then passes along only half of its "
+"information to any offspring.  Mendel's observation was that the information "
+"from parents is recombined, or mixed up, each generation.  Each parent "
+"passes along only one gene for each trait, and there is no way to predict "
+"which gene it is."
+msgstr ""
+"孟德爾遺傳法則，主要包括幾個定律，第一個是<span class='key'>分離律</span>，即"
+"一個性狀(例如耳朵的形狀等)是由兩個而且相互成對的遺傳因子所決定，在產生子代"
+"時，父或母的成對遺傳因子會都先進行「分離」，然後，子代從兩個親代各獲得一半的"
+"遺傳因子。孟德爾也發現，父、母的遺傳因子會進行重新組合；意即對某一個性狀的遺"
+"傳，父或母都只各提供一個遺傳因子，至於子代得到的是父的哪一個和母的哪一個因"
+"子，則都有可能而無法預測的。這種遺傳過程代代相傳，當這一個個體長大再進行生殖"
+"時，也只能把它一半的遺傳因子傳給它的後代。"
+
+msgid "Examples of genes you got from your parents/grandparents:"
+msgstr "你從你的父母/祖父母得到基因的例子："
+
+msgid "Eye color"
+msgstr "眼睛的顏色"
+
+msgid "Hair color and texture"
+msgstr "頭髮的顏色和紋理"
+
+msgid "Height"
+msgstr "身高"
+
+msgid ""
+"Another of Mendel's observations was that some traits are able to \"disappear"
+"\" in one generation and \"reappear\" in a later generation.  He proposed "
+"that some traits were always expressed, and could cause others to be "
+"hidden.  Those hidden traits could then reappear at later times.  Mendel "
+"called traits that could be hidden <span class='key'>recessive</span>, and "
+"those traits which show up whenever their gene is present <span "
+"class='key'>dominant</span>."
+msgstr ""
+"孟德爾也發現一個有趣的現象：有些性狀在某一代會\"消失\"，但之後又可能會\"重現"
+"\"。於是，他提出：性狀總是表現出「顯性」的那一面，而使相對的性狀被“隱藏”起"
+"來，但這些隱藏的性狀還是有可能在以後“重現”。孟德爾稱這些會被隱藏的特徵，叫做"
+"<span class='key'>隱性</span>；那些會被顯示出來的特徵為<span class='key'>顯性"
+"</span>。"
+
+msgid ""
+"A third observation is that the inheritance of any gene doesn't change the "
+"inheritance of any other gene.  More simply put, the gene someone inherits "
+"from their mother for nose shape doesn't do anything to influence which gene "
+"she inherits for her hair color.  This is called <span "
+"class='key'>independent assortment</span>. This independence allows us to "
+"make predictions about the combinations of traits in generations not yet "
+"born.  A mathematician named Punnet showed that it's a lot like "
+"multiplication."
+msgstr ""
+"孟德爾根據他的發現也提出另一項定律，叫做<span class='key'>獨立分配律</span>，"
+"這指的是：一個基因的遺傳情況並不會受到其它基因的遺傳情形的影響。舉例來說，我"
+"們所遺傳到髮色基因的情況並不會受到我們到底遺傳到哪一種鼻子形狀的基因所影響。"
+"這種獨立分配性質，使我們能夠對具有不同特徵組合的各種後代的可能性進行預測，一"
+"個名為龐尼特的數學家指出，這有些像是數學上的“交叉相乘”一般。"
+
+msgid ""
+"The image above illustrates the inheritance pattern of peapod color.  "
+"Capital letters are used to show which trait is dominant, and lower case to "
+"show the recessive. In this case, a dominant yellow parent mated with a "
+"recessive green parent. The combinations in their offspring show equal "
+"numbers of green and yellow peapods."
+msgstr ""
+"上面的表格，就是龐氏的類似交叉相乘的棋盤方格，這可運用來顯示後遺傳的可能模"
+"式。在這個例子中，有兩種豆子進行雜交，一是有黃色豆莢的親代(位在表的左方)、另"
+"一則是有綠色豆莢的親代(表的上方)。根據前面提到的「分離定律」，親代的遺傳分子"
+"會分離再重新組合；也就是黃色豆莢的親代中的兩個遺傳因子，即大Y和小y(大寫Y代表"
+"顯性、小寫y代表隱性)和綠色豆莢的親代的小y和小y，進行分離再重新組合，就形成了"
+"表內四種可能性。從表的結果，我們可看出兩種豆子的親代雜交時，子代的各種遺傳因"
+"子的組合；而且由這個例子(Yy 對 yy的配對)，可發現子代裡黃色和綠色豆莢的數量的"
+"機率，正好各是一半。"
+
+msgid "Passing on traits..."
+msgstr "遺傳特質..."
+
+# 7
+msgid ""
+"Question A. Which of the following statements is <span "
+"class='blink'>correct</span>?"
+msgstr "問題A. 下列敘述中，何者是<span class='blink'>正確的</span>？"
+
+msgid "Most offspring look like their mothers."
+msgstr "大多數後代看起來像母親，不像父親。"
+
+msgid "Most offspring look like their fathers."
+msgstr "大多數後代看起來像父親，不像母親。"
+
+msgid "The father determines more than half of an offspring's genes."
+msgstr "父親決定後代一半以上的基因。"
+
+msgid "Offspring inherit genes equally from each parent."
+msgstr "後代從父母遺傳約等量的基因。"
+
+msgid ""
+"Question B. Click on the <span class='blink'>best</span> use for a Punnett "
+"Square."
+msgstr ""
+"問題B. 龐氏的棋盤方格，在生物科學上，<span class='blink'>最可能</span>運用"
+"來，"
+
+msgid "Deciding how much water to give pea plants and similar vegetables."
+msgstr "決定給豌豆或蔬菜加多少水。"
+
+msgid ""
+"Predicting what the offspring will look like when mating plants and animals."
+msgstr "植物和動物交配時，預測後代的情況。"
+
+msgid "Determining the size and shape of chromosomes in a cell."
+msgstr "在細胞裡確定染色體的大小和形狀。"
+
+msgid ""
+"Deciding what time of year is best to plant pea plants and similar "
+"vegetables."
+msgstr "決定一年中何時是最佳種植豌豆及類似蔬菜的時間。"
+
+msgid "Using Punnett Square..."
+msgstr "使用龐尼特氏棋盤方格..."
+
+msgid "Sorry. Mothers only contribute about half of the genetic info."
+msgstr "不對喔！母親只貢獻約一半的遺傳因子。"
+
+msgid "Nope. Fathers don't contribute any more than mothers."
+msgstr "不對喔！父親貢獻的遺傳因子不比母親多。"
+
+msgid "Nope. Think about Mendel's segregation idea."
+msgstr "不對喔！想想孟德爾的分離定律。"
+
+msgid "That's right! Mendel called this segregation."
+msgstr "這是正確的！這是孟德爾的分離定律。"
+
+msgid ""
+"No, the Punnett Square is based on genetic independent assortment which "
+"makes predictions about the combinations of traits in generations to come."
+msgstr ""
+"不對喔！龐氏棋盤方格是基於基因的獨立分配所構成的，這可以預測後代性狀的組合情"
+"況。"
+
+msgid ""
+"Correct, the Punnett Square will help make predictions about the "
+"combinations of traits in generations of plants and animals."
+msgstr ""
+"正確，龐氏棋盤方格是基於基因的獨立分配所構成的，這可以預測後代性狀的組合情"
+"況。"
+
+msgid ""
+"No, the Punnett Square is a visual summary of what could happen when genes "
+"combine for a certain trait."
+msgstr "不對喔！龐氏棋盤方格，是一個將所有可能發生的性狀組合表示出來的表格。"
+
+msgid ""
+"No, the Punnett Square will not predict the best time of year to plant "
+"something; it will help predict the possible genetic combination of the next "
+"generation."
+msgstr ""
+"不對喔！龐氏棋盤方格無法預測一年中何時是最佳種植的時機；但它有助於預測下一代"
+"的可能的遺傳組合。"
+
+# 8
+msgid ""
+"Observations of reproducing cells along with breeding experiments led "
+"scientists to conclude that genes are located on structures visible to "
+"microscopes called <span class='key'>chromosomes</span>. To understand more "
+"about chromosomes and genes, we turn to DNA."
+msgstr ""
+"科學家們在育種實驗中，觀察細胞複製並認識到，「基因」位於<span class='key'>染"
+"色體</span>中。而，如果我們要對染色體和基因有更多的了解，就應該要去了解DNA。"
+
+msgid ""
+"<span class='key'>DNA</span> stands for deoxyribonucleic acid. DNA is "
+"similar to a computer program for your body- blueprints on how to build it. "
+"Almost every cell in your body has a complete set of DNA in it. DNA is in "
+"the nucleus of the cells. It's arranged in a spiral shape called a double "
+"helix, and it comes in long strands called chromosomes."
+msgstr ""
+"「細胞(※如圖左上的球體)」中，有「細胞核(※如圖左上細胞內部的構造)」；細胞核裡"
+"面有「染色體(※如圖右上的褐色物體)」，在一般體細胞中染色體是成對存在，圖中可看"
+"出是由一條類似「>」形狀和另一條「<」形狀的染色體，組成圖中「X」形狀的「一對」"
+"染色體；「染色體」則是由一大團的「DNA(※如圖下方所示)」所纏繞而組成。所謂"
+"<span class='key'>DNA</span>就是「去氧核糖核酸」這種化學物質的簡稱，DNA儲存著"
+"生物體的「遺傳密碼」。DNA是非常長的長鏈分子，一般情況下，兩股成為一對，形成"
+"「雙螺旋結構」(※如右圖中)。在細胞中，雙螺旋的DNA非常緊密的纏繞在一起而形成的"
+"「染色體」是細胞中的重要物質，染色體則位在細胞核內。生物體內的細胞幾乎都有完"
+"整的DNA。"
+
+msgid ""
+"Each strand of DNA contains millions of pairs of molecules called bases. "
+"There are four chemicals that pair up with each other in DNA. The base pairs "
+"can combine in different ways, making different sequences. The order of the "
+"sequences is like a code. Each section of DNA codes for a different trait, "
+"your eye color or height for instance. Each one of these small DNA sections "
+"is called a <span class='key'>gene</span>. Genes provide information that "
+"causes an organism to display a certain trait."
+msgstr ""
+"DNA就像是一大串的計算機程式，它儲存的資訊就像是我們生物體各種生殖和發育成長的"
+"藍圖。一股DNA分子的主鏈上，還均勻鍵結著由四種「鹼基」，分別是A, T, G, C。這些"
+"A, T, G, C的鹼基，則一個一個分別連接到DNA的主鏈上。當兩股DNA成雙螺旋結構(※如"
+"圖中2所示)時，彼此所含的鹼基相互吸引成對，而成為像是階梯的橫桿一樣，這幫助兩"
+"股DNA固定為雙螺旋結構外，這幾百萬「鹼基對」的順序其實就像是「密碼」一般。一些"
+"鹼基對(或者說是雙螺旋狀旋梯上的一小段)就可以代表了生物體的一種不同性狀，例"
+"如，眼睛的顏色、身高等等；這些含有少數一些鹼基對的小的DNA片段，就稱為<span "
+"class='key'>基因</span>，基因提供生物體性狀的信息，所以說「基因」決定「性狀」"
+"也決定了生物的遺傳和成長的方式。"
+
+msgid "DNA Double Helix"
+msgstr "DNA的雙螺旋結構。(由兩條主鏈形成)"
+
+msgid "Base Pairs"
+msgstr "鹼基對。(兩條主鏈上有百萬對的鹼基對)"
+
+msgid ""
+"The idea that genes controlled the characteristics of living things was very "
+"powerful. It led to the development of modern food crops and improvements in "
+"animal production.  It also made many human conditions more understandable "
+"and predictable."
+msgstr ""
+"人類運用基因來控制生物特徵，具有極大功能，它不僅促使現代糧食作物科技和畜牧業"
+"的發展，這概念也讓有關人類健康、生殖等狀況，更容易被了解和被預測。"
+
+msgid ""
+"All chromosomes are made of DNA. Proteins are large molecules made of "
+"building blocks called <span class='key'>amino acids</span>. Each gene "
+"determines the structure of a single protein.  Since organisms are made of "
+"many different proteins, there are many different genes to code for each "
+"one.  Sometimes, proteins even work with other proteins, so it may take more "
+"than one gene to actually determine a specific trait."
+msgstr ""
+"前面提到，「基因」決定「性狀」；其實，「基因」是透過去組成不同的「蛋白質」來"
+"決定生物的「性狀」的。我們知道，生物體是由許多不同的蛋白質所組成，而每個基因"
+"就以特定的「密碼」來代表著了某一種蛋白質。當生物體中的某一個性狀須由不同的蛋"
+"白質來表現，這時候，就需要由多段基因來決定各種蛋白質的結合方式，以表現特殊的"
+"生物性狀；當一個生物體需要多種蛋白質來構成時，那麼一樣會有多段基因分別決定需"
+"要那些蛋白質來結合，並在合適的時間用合適的方式，來組成這一個生物體。"
+
+msgid "Adjusting microscope..."
+msgstr "調整顯微鏡..."
+
+# 9
+msgid "Question A. Each gene is responsible for the production of..."
+msgstr "問題A. 一個基因負責..."
+
+msgid "A single protein."
+msgstr "一種蛋白質的產生。"
+
+msgid "Many different proteins."
+msgstr "許多不同的蛋白質的產生。"
+
+msgid "A single chromosome."
+msgstr "一個染色體的產生。"
+
+msgid "Half of all chromosomes."
+msgstr "一半染色體的產生。"
+
+msgid ""
+"Question B. Place the following in order from smallest to largest. Sort the "
+"items by dragging them upwards or downwards."
+msgstr "問題B. 請依據下列三者的大小，從最小排到最大。請利用拖動排出正確答案。"
+
+msgid "Base pair"
+msgstr "鹼基對"
+
+msgid "Chromosome"
+msgstr "染色體"
+
+msgid "DNA molecule"
+msgstr "DNA分子"
+
+msgid "Identifying gene..."
+msgstr "確定基因..."
+
+msgid "That's right! Remember: one gene, one protein."
+msgstr "這是正確的！記住囉！一個基因，一種蛋白質。"
+
+msgid "No. Too complicated. Many proteins need many genes."
+msgstr "不對喔！太複雜了。要組成許多不同的蛋白質就需要許多不同的基因。"
+
+msgid "Sorry. Chromosomes are combinations of many genes."
+msgstr "不對喔！一個染色體是由許多基因所組合的。"
+
+msgid "Way too much! Scale it back."
+msgstr "不對喔！一個染色體是由許多基因所組合的。"
+
+msgid ""
+"No, the smallest of the three is a base pair which makes up the DNA helix, "
+"and DNA molecules make up chromosomes."
+msgstr ""
+"不對喔！這三個中，最小的是「鹼基對」，它幫忙構成「DNA」的雙螺旋結構；然後"
+"「DNA」再組成為「染色體」。"
+
+msgid ""
+"Correct. Base pairs are part of DNA, and DNA molecules make up chromosomes."
+msgstr ""
+"正確。這三個中，最小的是「鹼基對」，它幫忙構成「DNA」的雙螺旋結構；然後"
+"「DNA」再組成為「染色體」。"
+
+# 10
+msgid ""
+"Now that you know about chromosomes, let's go back to Mendel's law of "
+"segregation. It states that individuals receive half of their genetic "
+"information from each parent.  This creates a problem when you consider that "
+"every cell of every organism has two different sets of chromosomes, one from "
+"the male parent and one from the female.  The problem is that only one set "
+"can be passed along to the next generation. Somehow, only half of the total "
+"chromosomes can be passed on to offspring."
+msgstr ""
+"現在，我們知道了有「染色體」這種物質的存在後，讓我們再重新來看一次孟德爾的"
+"「分離律」，因為這當中還有一些問題需要釐清。例如，這過程是怎麼進行的？還有，"
+"生物是如何才可以將他父母雙方的基因隨機而且均衡的遺傳給後代呢？"
+
+msgid ""
+"Nature's solution to this problem is sex cells.  As a group, sex cells are "
+"called <span class='key'>gametes</span>.  Male gametes are <span "
+"class='key'>sperm cells</span>.  Female gametes are <span class='key'>egg "
+"cells</span>.  All gametes have only one copy of each different type of "
+"chromosome."
+msgstr ""
+"自然界是用「生殖細胞」來解決這個問題的。生殖細胞又被稱為是<span class='key'>"
+"配子</span>。雄配子就是<span class='key'>精子細胞</span>、雌配子就是<span "
+"class='key'>卵細胞</span>。所有的配子都只有「一套」染色體中。"
+
+msgid ""
+"Gametes are formed from normal cells containing two copies of each "
+"chromosome.  The chromosome number is cut in half in a process called <span "
+"class='key'>meiosis</span>.  Cells divide twice in meiosis.  In the first "
+"division, chromosomes are sorted to produce cells containing only one of "
+"each type.  In the second division, chromosomes that have already copied "
+"themselves break apart, producing sex cells with one of each chromosome type."
+msgstr ""
+"生物體中一般細胞都是「體細胞」，內含兩套染色體。「配子」是從含染色體的「體細"
+"胞」形成，所以「配子」只含有一套染色體。這種染色體數目減半的過程，稱為<span "
+"class='key'>減數分裂</span>(※右圖：減數分裂的步驟圖)。「減數分裂」過程細胞會"
+"分裂兩次。在第一次分裂時，染色體排序使細胞只能含有每種性狀之一半基因。在第二"
+"次分裂時，複製的染色體分離，而產生具有每個性狀一半基因染色體生殖細胞。"
+
+msgid ""
+"Meiosis is the mechanism in cells that allows segregation to work.  Genes "
+"are located on chromosomes, and meiosis is the process that sorts the "
+"chromosomes.  Every sex cell contains a random assortment of an organism's "
+"chromosomes.  Some were inherited from its mother, others from its father.  "
+"Meiosis sorts them randomly.  In this way, new combinations of chromosomes "
+"and the genes they carry occur every generation. These new genetic "
+"combinations help a species to be prepared for any new set of environmental "
+"conditions that may come along in the future."
+msgstr ""
+"細胞中的減數分裂使得孟德爾的「分離律」順利運作。基因位於染色體上，透過減數分"
+"裂將染色體上的基因重新整理排序，讓每一個生殖細胞的染色體中能隨機平均分配到來"
+"自父和母的基因。如此，基因和染色體的新組合能不斷遺傳到每一代，為下一代未來的"
+"各種環境條件做因應的準備。"
+
+msgid "Meiosis"
+msgstr "減數分裂"
+
+msgid "meiosis"
+msgstr "減數分裂"
+
+msgid "Studying Mendel's law..."
+msgstr "研究孟德爾定律..."
+
+# 11
+msgid ""
+"Question A. Which of the following is <span class='blink'>not true</span> "
+"about meiosis?"
+msgstr ""
+"問題A. 以下有關「減數分裂」的敘述，何者<span class='blink'>錯誤</span>？"
+
+msgid "Sex cells contain half the normal number of chromosomes."
+msgstr "生殖細胞中染色體的數量只有一般體細胞的一半。"
+
+msgid "Sex cells contain the normal number of chromosomes."
+msgstr "生殖細胞中染色體和一般體細胞相同。"
+
+msgid "Sex cells contain twice the normal number of chromosomes."
+msgstr "生殖細胞中染色體的數量是一般體細胞的兩倍。"
+
+msgid "Sex cells contain three times the normal number of chromosomes."
+msgstr "生殖細胞中染色體的數量是一般體細胞的三倍。"
+
+msgid ""
+"Question B. Complete the sentence by selecting the <span "
+"class='blink'>correct</span> answer."
+msgstr "問題B. 請點選<span class='blink'>正確的名詞</span>以完成下列句子。"
+
+msgid "Genes are located on chromosomes, and"
+msgstr "基因位於染色體上，透過"
+
+msgid "select"
+msgstr "請點選"
+
+msgid "mitosis"
+msgstr "有絲分裂"
+
+msgid "fertilization"
+msgstr "受精"
+
+msgid "meiosis and mitosis"
+msgstr "減數分裂和有絲分裂"
+
+msgid "Mitosis"
+msgstr "有絲分裂"
+
+msgid "Fertilization"
+msgstr "受精"
+
+msgid "Meiosis and Mitosis"
+msgstr "減數分裂和有絲分裂"
+
+msgid ""
+"is the process that sorts the chromosomes.  It is the mechanism in cells "
+"that allows segregation to work."
+msgstr ""
+"的過程，來將染色體上的基因重新整理排序，讓每一個生殖細胞的染色體中能隨機平均"
+"分配到來自父和母的基因。"
+
+msgid "Separating cells..."
+msgstr "分離細胞..."
+
+msgid "That's right! Fertilization produces one normal cell."
+msgstr ""
+"這是正確的！如此，受精過程中精子、卵子結合後，染色體還會回到正常體細胞數目，"
+"以產生一個正常的細胞。"
+
+msgid ""
+"Nope. Sex cells with the normal number would produce a new individual with "
+"twice the number."
+msgstr ""
+"不對喔！生殖細胞的染色體數量如果和體細胞染色體數量一樣，那精子和卵子結合後得"
+"到的後代不就會有原來親代的兩倍染色體了嗎？這是不應該發生的。"
+
+msgid "Sorry. That's way too many chromosomes."
+msgstr "不對喔！染色體太多了。"
+
+msgid "Think again...  Meiosis is a process which reduces chromosome number."
+msgstr "再想想......減數分裂是一個減少的染色體數目過程喔！"
+
+msgid ""
+"Correct. Meiosis is cell division that results in cells with half the "
+"chromosome number of the parent cell."
+msgstr ""
+"正確。減數分裂是細胞分裂的過程，可以使得生殖細胞只有體細胞一半的染色體數目。"
+
+msgid ""
+"No, mitosis is cell division that results in cells with the same as the "
+"parent."
+msgstr "不對喔！有絲分裂指的是由親代細胞產生一模一樣子代細胞的過程。"
+
+msgid "No, fertilization is the union of sperm and egg cells."
+msgstr "不對喔！「受精」是精子和卵細胞的結合。"
+
+msgid ""
+"No, sorting of chromosomes is done through meiosis. Meiosis is cell division "
+"that results in cells with half the chromosome number of the parent cell."
+msgstr ""
+"不對喔！染色體排序是通過減數分裂完成。減數分裂是細胞分裂，結果在細胞與親代細"
+"胞一半的染色體數目。"
+
+# 12
+msgid ""
+"Meiosis is a very reliable process, but, very rarely, mistakes occur.  It's "
+"possible for the chromosomes to not sort perfectly.  When that happens, some "
+"sex cells may be formed with too few or too many chromosomes.  The presence "
+"of an extra chromosome 21 causes a condition known as Down's Syndrome.  "
+"Down's patients have some physical and learning differences from other "
+"people, but can live long, happy lives.  The presence of other extra "
+"chromosomes has more complicated consequences."
+msgstr ""
+"「減數分裂」是一種非常穩定可靠的過程，不過極少情況下也會有所失誤，這可能造成"
+"染色體內排序不當或染色體太多或太少的問題。例如，有一種「唐氏症」就是由於在人"
+"體23對染色體中的的第21對染色體上產生變異而增生了一條染色體，唐氏症患者在生理"
+"和學習上和其他人有些差異，但他們也能幸福安然生活；不過還有其他的疾病，也是由"
+"染色體變異造成而引發不同的疾病和更嚴重的問題。"
+
+msgid ""
+"In addition to abnormalities in chromosomes, sometimes there are genetic "
+"mutations. Mutations are differences in genes.  <span class='key'>Mutations</"
+"span> cause variations that make organisms differ from one another. At the "
+"most basic level, mutations are just tiny changes in genes located on "
+"chromosomes. If only one base is changed, the change in the protein produced "
+"may be minor, or there may be no change at all. This is how the simple "
+"variation we see in nature happens. The difference between red hair and "
+"brown hair is a letter change in a gene. The difference between being tall "
+"or short is a few changes in the letters of a few genes."
+msgstr ""
+"除前述「染色體異常」外，生物體更常發生的是<span class='key'>基因突變</span>，"
+"也就是基因有了不同[※圖左，是正常染色體上DNA上的鹼基排列情形；圖右是突變後的"
+"DNA]，這會使得生物體之間彼此不同。最小程度的「突變」，可能是染色體上面的基因"
+"有了微小的變化[※圖中，DNA的鹼基突變處，表示如褐色)。科學家已經知道，每連續的"
+"三個鹼基，稱為鹼基組，代表著要組合某一種特定的胺基酸，所以當基因上面一個「鹼"
+"基」被改變，造成的可能只是在蛋白質上的一點胺基酸的小改變，或者根本沒有甚麼影"
+"響，我們在自然界常看到很多這些變化，例如，人體紅色和棕色頭髮之間的差別就只是"
+"在基因上一個字母(A, T, G, C中的一個鹼基)的替換而已；此外，這變化也可能稍再大"
+"一些，例如是基因上幾個字母的變化，這會造成人體的高矮不同。"
+
+msgid "mutation"
+msgstr "突變"
+
+msgid "DNA with mutations"
+msgstr "突變後的DNA"
+
+msgid ""
+"Sometimes, however, a base may be left out completely; or a new base may be "
+"inserted.  This causes a shift in how cells read out the DNA code.  A "
+"protein may start out normally, but, from the mutation site onward, every "
+"three-base sequence is changed.  In this case, the protein formed will "
+"hardly resemble the normal version.  Whatever that protein is supposed to do "
+"in an organism won't get done because the proper molecule isn't made.  The "
+"actual product may even be poisonous, or cause an inherited disease."
+msgstr ""
+"然而，有時候突變影響非常嚴重。例如，當一個原本的鹼基突然消失或者一個新鹼基被"
+"插入，這會導致DNA密碼的大範圍的位移，這使得突變位點開始，原本三個、三個一組的"
+"鹼基組順序徹底被改變，細胞解讀鹼基組代表的胺基酸會產生一連串的錯誤，進而組成"
+"的蛋白質也都不同了。在這種情況下，所形成的蛋白質不僅無法進行原本蛋白質的功"
+"能，甚至可能對生物體是有毒的具有嚴重遺傳性疾病的。"
+
+msgid ""
+"But remember, even though mutation is sometimes scary, it's not bad.  Every "
+"difference we see in nature is due to mutation.  Every unique characteristic "
+"of every living thing is caused by changes at the DNA-level.  Mutations give "
+"all living things the ability to adapt to their environments.  It's "
+"impossible to predict all of the changes that will ever occur on Earth.  "
+"When those changes happen, some mutations will protect living things from "
+"harm, while others will make them more vulnerable."
+msgstr ""
+"但我們需要牢牢記得：即使這些變異有時是可怕的，但「突變」並非總是不好的。我們"
+"在自然界中看到的每一種差異都是來自突變，生物體的每一種特點也是透過在DNA突變所"
+"造成的。我們無法預測地球環境未來的變遷，「突變」有可能讓生物在變遷中更容易受"
+"到傷害，但是，有些「突變」卻能帶給萬物和它的後代適應新環境的能力，保護生物免"
+"受傷害或滅絕。"
+
+msgid "Cats with different eye colors"
+msgstr "突變後兩眼不同顏色的貓"
+
+msgid "Albino peacock"
+msgstr "突變的白子化孔雀"
+
+msgid "Wild melanistic aspid viper"
+msgstr "突變的黑子化毒蛇"
+
+msgid "Changing sequence..."
+msgstr "改變順序..."
+
+# 13
+msgid ""
+"Question A. Click on the <span class='blink'>incorrect</span> statement."
+msgstr "問題A. 下列敘述何者<span class='blink'>錯誤</span>。"
+
+msgid "Mutations can be from small changes in genes located on chromosomes."
+msgstr "「突變」可以是發生在染色體上基因的的微小變化。"
+
+msgid "Mutations can be due to the insertion or omission of a base compound."
+msgstr "「突變」可能是由於DNA上面的某些「鹼基」的插入或遺漏所造成。"
+
+msgid "Mutations are only when sex cells have too few or too many chromosomes."
+msgstr "「突變」全都是由於生殖細胞上具有太多或太少的染色體所造成的。"
+
+msgid ""
+"Mutations give all living things the ability to adapt to their environments."
+msgstr "「突變」能給予萬物適應新環境的能力。"
+
+msgid ""
+"Question B. Part of a gene sequence is ....AATTAGTTTAAA....  Which of the "
+"following is likely the most dangerous mutation?"
+msgstr ""
+"問題B. 一個基因序列中一部分的鹼基順序是.... AATTAGTTTAAA....。請問下列哪一項"
+"可能是最危險的突變？"
+
+msgid "Change the first T to an A."
+msgstr "第一個 T 變成 A。"
+
+msgid "Delete the second T."
+msgstr "第二個 T 被刪除。"
+
+msgid "Change the second A to a G."
+msgstr "第二個 A 變成 G。"
+
+msgid "Change the third T to a G."
+msgstr "第三個 T 變成 G。"
+
+msgid ""
+"No, this is possible. When just one base is changed, the change in the "
+"protein produced may be minor."
+msgstr ""
+"不是這個選項喔，這敘述是正確的！例如，當僅有一個鹼基發生改變，產生的蛋白質的"
+"變化可能不會那麼的大。"
+
+msgid ""
+"No, this is possible. If a base is added in or taken out, the entire "
+"sequence will be thrown off and the resulting protein will not do what it's "
+"supposed to."
+msgstr ""
+"不是這個選項喔，這敘述是正確的。如果在突變中插入或遺漏了鹼基，整個序列將被全"
+"部弄亂且由這個突變後的錯誤DNA所產生的蛋白質將無法進行原本的功能。"
+
+msgid ""
+"Correct. Although having an extra chromosome 21 causes Down's Syndrome, and "
+"other similar mutations- this is not the only way genetic mutations occur."
+msgstr ""
+"正確。雖然例如唐氏綜合症是由第21對染色體多出了一部分染色體結構所造成，但這種"
+"類似的生殖細胞上太多或太少的染色體產生的突變，並不是造成突變發生的唯一原因。"
+"想一想，是不是還有鹼基的插入和遺漏，也會造成突變呢？"
+
+msgid ""
+"No, this is true. When changes in the environment happen, some mutations "
+"will protect living things from harm, while others will make them more "
+"vulnerable."
+msgstr ""
+"不是這個選項喔，這敘述是正確的。當環境的變化發生，一些突變將保護生物免受傷"
+"害，但也有一些突變會讓它們更容易受到傷害。"
+
+msgid "Nope. Changing one letter probably isn't a big deal."
+msgstr ""
+"不對喔！一個字母(鹼基)的替換比較不會有非常大影響。倒是，當第二個T這一個鹼基被"
+"刪除，後面的所有字母(鹼基)都會往前移一個位置造成整個鹼基串大的變動。我們知道"
+"三個鹼基一起就代表要求著一種特定的胺基酸，而且一連串的氨基酸就組合成一種特定"
+"的蛋白質。在本例中原來順序.... AATTAGTTTAAA...中，假設從左到右第一組(AAT)代表"
+"呼叫甲胺基酸、接著第二組(TAG)代表呼叫乙胺基酸、然後第三組(TTT)則為呼叫丙胺基"
+"酸；但因為第二個T被刪除，原來順序變成.... AATAGTTTAAA....... ，也就是除了原來"
+"的第一組的(AAT)還是一樣外，第二組已經變成了(AGT)、第三組也變成(TTA)，也就是從"
+"改變點之後的氨基酸全部都會呼叫錯誤，形成的蛋白質當然也不是原來真正需要的蛋白"
+"質，所以說，「鹼基」的遺漏或刪除的突變，對生物體的影響非常的大。"
+
+msgid ""
+"Correct, that's the one.  Every part of the protein from that point on "
+"changes."
+msgstr ""
+"正確，就是這個選項！當第二個T這一個鹼基被刪除，後面的所有字母(鹼基)都會往前移"
+"一個位置造成整個鹼基串大的變動。我們知道三個鹼基一起就代表要求著一種特定的胺"
+"基酸，而且一連串的氨基酸就組合成一種特定的蛋白質。在本例中原來順序.... "
+"AATTAGTTTAAA...中，假設從左到右第一組(AAT)代表呼叫甲胺基酸、接著第二組(TAG)代"
+"表呼叫乙胺基酸、然後第三組(TTT)則為呼叫丙胺基酸；但因為第二個T被刪除，原來順"
+"序變成.... AATAGTTTAAA....... ，也就是除了原來的第一組的(AAT)還是一樣外，第二"
+"組已經變成了(AGT)、第三組也變成(TTA)，也就是從改變點之後的氨基酸全部都會呼叫"
+"錯誤，形成的蛋白質當然也不是原來真正需要的蛋白質，所以說，「鹼基」的遺漏或刪"
+"除的突變，對生物體的影響非常的大。"
+
+msgid "Single change? Usually not a problem."
+msgstr ""
+"不對喔！單一個字母(鹼基)的改變？通常不會造成大的問題。倒是，當第二個T這一個鹼"
+"基被刪除，後面的所有字母(鹼基)都會往前移一個位置造成整個鹼基串大的變動。我們"
+"知道三個鹼基一起就代表要求著一種特定的胺基酸，而且一連串的氨基酸就組合成一種"
+"特定的蛋白質。在本例中原來順序.... AATTAGTTTAAA...中，假設從左到右第一組(AAT)"
+"代表呼叫甲胺基酸、接著第二組(TAG)代表呼叫乙胺基酸、然後第三組(TTT)則為呼叫丙"
+"胺基酸；但因為第二個T被刪除，原來順序變成.... AATAGTTTAAA....... ，也就是除了"
+"原來的第一組的(AAT)還是一樣外，第二組已經變成了(AGT)、第三組也變成(TTA)，也就"
+"是從改變點之後的氨基酸全部都會呼叫錯誤，形成的蛋白質當然也不是原來真正需要的"
+"蛋白質，所以說，「鹼基」的遺漏或刪除的突變，對生物體的影響非常的大。"
+
+msgid "Not likely.  A simple change like that usually doesn't cause problems."
+msgstr ""
+"不對喔！單一個字母(鹼基)的改變？通常不會造成大的問題。倒是，當第二個T這一個鹼"
+"基被刪除，後面的所有字母(鹼基)都會往前移一個位置造成整個鹼基串大的變動。我們"
+"知道三個鹼基一起就代表要求著一種特定的胺基酸，而且一連串的氨基酸就組合成一種"
+"特定的蛋白質。在本例中原來順序.... AATTAGTTTAAA...中，假設從左到右第一組(AAT)"
+"代表呼叫甲胺基酸、接著第二組(TAG)代表呼叫乙胺基酸、然後第三組(TTT)則為呼叫丙"
+"胺基酸；但因為第二個T被刪除，原來順序變成.... AATAGTTTAAA....... ，也就是除了"
+"原來的第一組的(AAT)還是一樣外，第二組已經變成了(AGT)、第三組也變成(TTA)，也就"
+"是從改變點之後的氨基酸全部都會呼叫錯誤，形成的蛋白質當然也不是原來真正需要的"
+"蛋白質，所以說，「鹼基」的遺漏或刪除的突變，對生物體的影響非常的大。"
+
+msgid "Ready for your last quick check?"
+msgstr "准备好你的最后快速检查？"
+
+msgid "Quick Check #5"
+msgstr "快速检查＃5"
+
+# 14
+msgid "Using what you know... about genetic codes... to solve a problem"
+msgstr "利用你知道的...關於遺傳密碼......解決問題"
+
+msgid "The Scenario"
+msgstr "情況"
+
+msgid ""
+"You have learned a lot about how genetics determine the characteristics of "
+"offspring, so you are thinking about opening a business called \"Design a "
+"Puppy.\" Your business idea is to let people decide what they would like "
+"their dog to look like by looking at different dogs that you will have in "
+"your kennels."
+msgstr ""
+"你已經學到了很多關於遺傳學如何決定後代的特徵，所以你正在考慮開個公司叫做\"設"
+"計小狗\"。你的經營想法是讓客人看你狗窩裡的很多狗，然後他們自己可以選擇心目中"
+"小狗寵物的特徵。"
+
+msgid "Your Assignment"
+msgstr "您的任務"
+
+msgid ""
+"You need to write a business plan that explains how you can predict what a "
+"puppy will look like so that you can borrow some money to open your "
+"business. Include in your plan how sure you can be that your prediction of "
+"what a puppy will look like will be accurate. Enter your business plan in "
+"the text box provided."
+msgstr ""
+"因為你需要籌措資金來開始你的生意，所以你需要寫一個商業計畫書，來說明 1. 為什"
+"麼你能預測小狗的樣子，還有 2. 你的預測準確度會有多高呢。請在下框中輸入你的商"
+"業計劃書。"
+
+msgid "Counting dogs..."
+msgstr "數一數，好多狗..."
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Dividing cells..."
+msgstr "分裂细胞..."
+
+msgid "Cell division"
+msgstr "细胞分裂"
+
+# 15
+msgid "Summarizing core ideas... about genetic codes"
+msgstr "總結核心觀念...關於「遺傳密碼」"
+
+msgid ""
+"All living things are what they are because of information carried in each "
+"cell. The information is stored in a simple code in one or more complex "
+"molecules called <span class='key'>DNA</span>."
+msgstr ""
+"各種生物之所以長成各自的型態，是因為不同種類生物的細胞中都攜帶著不同的信息。"
+"這些信息以一連串的簡單代碼方式，儲存在一個或多個稱為<span class='key'>DNA</"
+"span>的複雜分子中。"
+
+msgid ""
+"Specific pieces of DNA which provide information for particular "
+"characteristics are called <span class='key'>genes</span>. Each gene "
+"provides information that allows a cell to make one special protein.  Each "
+"organism makes thousands of different proteins, and there is a gene "
+"responsible for providing the information to make each one.   It's possible "
+"for some plants and animals to reproduce by dividing and having each new "
+"part become a separate organism. That's called <span class='key'>asexual "
+"reproduction</span>, and each offspring is an exact duplicate of the "
+"parent.  When organisms have separate male and female parents, the "
+"reproduction is called <span class='key'>sexual</span>, and the offspring is "
+"similar, but not identical, to both parents. Sometimes, the information "
+"carried by DNA can be copied incorrectly or changed by some environmental "
+"problem.  This often leads to changes in the proteins for which a gene "
+"codes. These changes sometimes bring forth new characteristics in the "
+"organism, but may also lead to illness or death."
+msgstr ""
+"DNA分子中指定生物體特徵的片段，被稱為<span class='key'>基因</span>，DNA分子中"
+"有許多的基因。一種基因負責製造出一種蛋白質，一般而言，一個生物體體內常需做出"
+"數以千計的不同蛋白質。某些植物和動物可以藉由分割並在各分割的部分產生新的組"
+"織，並都各成為一個獨立的生物體，這就是所謂的<span class='key'>無性生殖</"
+"span>，這讓每個後代都是精確的複製物。此外，當生物體有雄性和雌性，這種繁衍就是"
+"所謂<span class='key'>有性生殖</span>，這種繁殖方式，後代與親代會有類似但不完"
+"全相同。有時，DNA攜帶的信息可能複製錯誤或因為一些環境問題而改變，這基因密碼的"
+"「突變」會導致不同的蛋白質產生；有時候這可為生物帶來新的特徵，但也可能導致疾"
+"病或死亡。"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+# 16
+msgid "Reviewing key vocabulary related to... genetic codes"
+msgstr "複習重要詞彙...關於「遺傳密碼」"
+
+msgid "Asexual reproduction"
+msgstr "無性生殖"
+
+msgid "Heredity"
+msgstr "遺傳"
+
+msgid "Segregation"
+msgstr "分離律"
+
+msgid ""
+"Asexual reproduction is a way of producing offspring that involves only one "
+"parent. There is no combining of a female sex cell with a male sex cell."
+msgstr ""
+"「無性生殖」是由單一性別的親代繁殖後代的一種方式，這不必透過雌、雄生殖細胞的"
+"結合。"
+
+msgid ""
+"Asexual reproduction is the primary means of reproduction for many single-"
+"celled living things such as bacteria. Many plants and fungi also reproduce "
+"asexually, but asexual reproduction is not common among multicellular living "
+"things."
+msgstr ""
+"無性生殖是許多單細胞生物，如細菌繁殖的主要手段。許多植物和真菌也能進行無性生"
+"殖，但無性生殖在多細胞生物中並不普遍。"
+
+msgid "Sexual reproduction"
+msgstr "有性生殖"
+
+msgid ""
+"In sexual reproduction, sperm from the male is united with an egg from the "
+"female creating a fertilized egg. Once its place is secure, it develops into "
+"a fetus and then into an infant, ready for birth."
+msgstr ""
+"「有性生殖」，雄性親代的精子與雌性親代的卵子結合成一個受精卵，一旦安全著床，"
+"將發展成胚胎，準備誕生成為嬰兒(子代)。"
+
+msgid ""
+"Like animals, plants also reproduce sexually—the egg and sperm are produced "
+"in the flowers of flowering plants."
+msgstr "像動物一樣，植物也會進行有性生殖，開花植物的花中會產生卵子和精子。"
+
+msgid ""
+"Mitosis is the cell division process by which cells reproduce asexually. One "
+"\"parent\" cell will duplicate its DNA and divide into two identical "
+"\"daughter\" cells, each possessing half of their parent's DNA; this is "
+"mitosis."
+msgstr ""
+"「有 絲分裂」是無性生殖中細胞分裂的過程。一個“母”細胞會複製它的DNA並 分裂成兩"
+"個相同的“子”細胞。"
+
+msgid ""
+"Heredity is the passing on of physical traits from parents to offspring "
+"through DNA in the process of sexual reproduction. Heredity is how traits "
+"are passed from one generation to the next."
+msgstr ""
+"「遺傳」是有性生殖過程中透過DNA把親代的身體特徵傳給後代。可以透過遺傳傳給後代"
+"的特徵就稱為「性狀」。"
+
+msgid "Heredity can be tracked using a chart called a pedigree."
+msgstr "遺傳可以使用一種稱為「譜系」的表來進行追蹤。"
+
+msgid ""
+"In heredity, segregation is the rule that each individual receives half of "
+"its genetic information from each parent, or two genes for each trait."
+msgstr ""
+"遺傳學中的「分離律」，指的是每一個子代從兩個親代各獲得一半的遺傳因子；也就"
+"是，對某一個性狀的遺傳，父或母都只各提供一半的遺傳因子。"
+
+msgid "Independent Assortment"
+msgstr "獨立分配"
+
+msgid ""
+"In heredity, independent assortment is the rule that the gene someone "
+"inherits from their mother for a trait, such as nose shape, doesn't do "
+"anything to influence which gene she inherits for her hair color.  "
+"Independent assortment allows us to make predictions about the combinations "
+"of traits in generations not yet born."
+msgstr ""
+"遺傳學中的「獨立分配律」，指的是一個基因的遺傳情況並不會受到其它基因的遺傳情"
+"形的影響。舉例來說，我們所遺傳到髮色基因的情況並不會受到我們到底遺傳到哪一種"
+"鼻子形狀的基因所影響。這種獨立分配性質，使我們能夠對具有不同特徵組合的各種後"
+"代的可能性進行預測，"
+
+msgid "Recessive Trait"
+msgstr "隱性性狀"
+
+msgid ""
+"In heredity, a recessive trait is a physical characteristic that can be "
+"\"hidden\"; that is, a person can carry a gene for a trait, but it can be "
+"masked by another (dominant) trait. Recessive traits can be passed on and "
+"show up in future generations."
+msgstr ""
+"遺傳學中所謂「隱性性狀」，是指可以“隱藏”的生理特徵；也就是說，一個人可以攜帶"
+"這種「隱性基因」特徵，但這特徵卻會被另一種「顯性基因」特徵所屏蔽。隱性性狀在"
+"某一代可能\"消失\"，但在後代時可能又會“重現”。"
+
+msgid "Dominant Trait"
+msgstr "顯性性狀"
+
+msgid ""
+"In heredity, a dominant trait is a physical characteristic that is expressed "
+"even when only one gene allele coding for the trait is present. Dominant "
+"traits can \"mask\" recessive traits, which are gene alleles for a trait "
+"that are not expressed when covered by the dominant trait for that physical "
+"characteristic."
+msgstr ""
+"遺傳學中所謂「顯性性狀」，是指縱使在基因對中僅有一個這種性狀的基因存在時，也"
+"會顯現出的生理特徵；這種顯性基因的性狀會“掩蓋”隱性基因的性狀。"
+
+msgid ""
+"DNA is found in structures called chromosomes, which are tightly-packed "
+"strands of DNA held together by proteins. Each chromosome's DNA contains "
+"volumes of specific information that codes for the structures and functions "
+"of the body."
+msgstr ""
+"DNA可以在染色體中被發現，DNA的長鏈由一些蛋白質幫忙固定而緊密纏繞並存在於染色"
+"體中。每個染色體中的DNA中含有大量有關生物體結構和功能的特定信息(密碼)。"
+
+msgid "DNA"
+msgstr "去氧核糖核酸"
+
+msgid ""
+"DNA, short for deoxyribonucleic acid, is the molecule of living organisms, "
+"found in the nucleus of their cells, which contains volumes and volumes of "
+"information. DNA functions as a blueprint, with a 4-letter alphabet acting "
+"as a code system for making proteins, which are essential for an organism's "
+"structures and functions."
+msgstr ""
+"DNA，就是「去氧核糖核酸」，生物體內一種化學物質的簡稱，它存在於細胞核中的染色"
+"體，用以儲存非常大量的「遺傳密碼」。 DNA分子就如同生物體生長的藍圖，它用所連"
+"接的數百萬個的四種鹼基(A, T, G, C)排列組合成“密碼”，以指導生物體生成結構上和"
+"功能上所需要的各種不同的蛋白質。"
+
+msgid "Gene"
+msgstr "基因"
+
+msgid ""
+"A gene is a section of DNA that has information that specifically codes for "
+"the making of a certain physical trait. Chromosomes have many genes on them."
+msgstr ""
+"「基因」是DNA長鏈中可以代表生物體的一種不同性狀的小片段。DNA或染色體上有非常"
+"多的基因存在。"
+
+msgid "Amino Acids"
+msgstr "氨基酸"
+
+msgid ""
+"Amino acids are the building blocks of proteins, which are the \"workers\" "
+"of the body, essential for the body's structures and functions. There are "
+"about 20 different amino acids."
+msgstr ""
+"「氨基酸」是蛋白質的組成部分，它好像是體內的“工人”，是人體的結構和功能不可或"
+"缺的。人體內有大約20種不同的氨基酸。"
+
+msgid "Gametes"
+msgstr "配子"
+
+msgid ""
+"Gametes are the reproductive cells of the body. Male gametes are sperm "
+"cells; female gametes are egg cells.  All gametes have only one copy of each "
+"different type of chromosome."
+msgstr ""
+"「配子」是生物體的生殖細胞。雄配子是精子細胞；雌配子是卵細胞。一般的體細胞有"
+"兩套染色體，但所有的配子有只有一套染色體。"
+
+msgid "Sperm cells"
+msgstr "精子細胞"
+
+msgid ""
+"Sperm cells are male reproductive cells. Sperm cells have only one copy of "
+"each different type of chromosome."
+msgstr ""
+"「精子細胞」是男性生殖細胞。一般的體細胞有兩套染色體，但精子只有一套染色體。"
+
+msgid "Egg cells"
+msgstr "卵細胞"
+
+msgid ""
+"Egg cells are female reproductive cells. Egg cells have only one copy of "
+"each different type of chromosome."
+msgstr ""
+"「卵細胞」是女性生殖細胞。一般的體細胞有兩套染色體，但卵細胞只有一套染色體。"
+
+msgid ""
+"Meiosis is the process in which gametes, or reproductive cells, have their "
+"chromosome number cut in half as the cell divides twice.  In the first "
+"division of meiosis, chromosomes are sorted to produce cells containing only "
+"one of each type.  In the second division of meiosis, chromosomes that have "
+"already copied themselves break apart, producing sex cells with one of each "
+"chromosome type."
+msgstr ""
+"「減數分裂」是體細胞形成「配子(也就是生殖細胞)」的過程，這過程中染色體數目減"
+"半。「減數分裂」過程細胞會分裂兩次，其中在第一次分裂時，染色體排序使細胞只能"
+"含有每種性狀之一半基因；在第二次分裂時，複製的染色體分離，而僅剩半數染色體，"
+"這生成的生殖細胞僅能決定一半性狀。"
+
+msgid "Mutation"
+msgstr "突變"
+
+msgid ""
+"Mutations are small changes that occur in the DNA that carries the "
+"information that makes living things what they are.  Mutations are rare, but "
+"if inherited, over time can have an effect on a population."
+msgstr ""
+"「突變」是發生在攜帶信息DNA上的變化。突變是罕見的，但在遺傳時，可能對整個種群"
+"會有影響。"
+
+# 17
+msgid "Checking what you now know... about genetic codes"
+msgstr "看看你現在了解了多少...關於「遺傳密碼」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+# 18
+msgid ""
+"Which of the following offspring probably had parents BB and bb? (B being a "
+"dominant trait, and b being a recessive trait.)"
+msgstr ""
+"父母的基因分別為BB和bb，請問他們的小孩可能具有的是下列哪一種基因？（B是顯性、"
+"b是隱性）"
+
+msgid "Can't tell from the information given"
+msgstr "不能從提供的資料中得知"
+
+msgid "Look again...  One gene from each parent..."
+msgstr "不對喔！請再看看......子代會從父母雙方各得到一個基因..."
+
+msgid "Right! B from BB and b from bb."
+msgstr "沒錯！ 從BB得到B，從bb得到 b 。"
+
+msgid "No... How could it get bb from a BB parent?"
+msgstr "不對喔！...bb中需要有b，那怎麼有辦法從具有BB 的父母中得到呢？"
+
+msgid "Sorry. You can't tell. Try again."
+msgstr "不對喔！是你不能確定喔！請再試一次。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+# 19
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "点击，按住并滑动鼠标上下旋转的框中，然后选择你的答案。"
+
+msgid "An advantage of sexual reproduction is..."
+msgstr "有性生殖的一個優點是..."
+
+msgid "New gene combinations appear each generation."
+msgstr "每一代都會有新的基因組合。"
+
+msgid "No new gene combinations appear."
+msgstr "沒有新的基因組合出現。"
+
+msgid "Males put on showy mating displays."
+msgstr "雄性動物有艷麗的求偶展示。"
+
+msgid "Bird parents build large nests to protect eggs."
+msgstr "鳥類築大型的巢以保護它們的卵。"
+
+msgid "Preparing for changes..."
+msgstr "準備更改..."
+
+msgid ""
+"Correct, and that's a big deal! These new combinations make living things "
+"ready for unforeseen environmental changes."
+msgstr "正確，而且這是一個大事情！這些新的組合，使生物能因應不可預見環境變化。"
+
+msgid "Sorry, The exact opposite... Read it again."
+msgstr "不對喔！正好相反......請再讀一遍。"
+
+msgid "Some males do put on displays, but it's not always an advantage."
+msgstr "有些雄性動物確實會有求偶展示；但它並不是有性生殖的優勢。"
+
+msgid ""
+"Umm... This might be true for birds, but it doesn't apply to other plants "
+"and animals."
+msgstr "嗯......不對喔！這在鳥類確實會築巢保護卵；但它並不是有性生殖的優勢。"
+
+# 20
+msgid "Choose the statement most consistent with Mendel's idea of segregation."
+msgstr "請選擇下列中與孟德爾「分離律」最一致的敘述。"
+
+msgid "Offspring inherit most of their mother's genes."
+msgstr "後代繼承母親的大部分基因。"
+
+msgid "Offspring inherit none of their father's genes."
+msgstr "後代並沒有繼承父親的基因。"
+
+msgid "Offspring inherit genes equally from both parents."
+msgstr "後代繼承父母雙方約各一半的基因。"
+
+msgid "Offspring inherit most of their father's genes."
+msgstr "後代繼承母親的大部分基因。"
+
+msgid "Combining chromosomes..."
+msgstr "結合染色體..."
+
+msgid "Nope. Dad is important too."
+msgstr "不對喔！爸爸也很重要。"
+
+msgid "Nope.... Dad plays an important role."
+msgstr "不對喔....爸爸也很重要喔。"
+
+msgid "That's right! Half of inheritance comes from each parent."
+msgstr "正確！約一半的遺傳，各來自父母雙方。"
+
+msgid "No. Mom is just as important."
+msgstr "不對喔！媽媽也同樣重要。"
+
+# 21
+msgid ""
+"Look at the image on the right and select the correct term for the object it "
+"is illustrating."
+msgstr "看右圖，並選擇正確的詞彙。"
+
+msgid "Select"
+msgstr "請選擇"
+
+msgid "Cell"
+msgstr "細胞"
+
+msgid "Nucleus"
+msgstr "細胞核"
+
+msgid "Cell, chromosome and DNA..."
+msgstr "細胞、染色體和DNA..."
+
+msgid ""
+"Not quite. The whole organism shown is called a cell, the central section is "
+"the nucleus, inside of which are chromosomes. DNA is the molecule found in "
+"the nucleus and a gene is a section of DNA."
+msgstr ""
+"不完全對喔！圖中左上角的球形代表的是細胞；細胞內是細胞核；細胞核內有染色體。 "
+"DNA是在染色體內的化學分子，兩條DNA長鏈會以雙螺旋狀存在；DNA長鏈中的小片段如代"
+"表著某種生物體的性狀，就是基因。"
+
+msgid ""
+"Great! The whole organism shown is called a cell, the central section is the "
+"nucleus, inside of which are chromosomes."
+msgstr ""
+"太棒了！圖中左上角的球形代表的是細胞；細胞內是細胞核；細胞核內有染色體。"
+
+# 22
+msgid "The process which results in sex cells is called..."
+msgstr "產生生殖細胞的過程，被稱為..."
+
+msgid "Boom!  That's the one!"
+msgstr "對了！就是這個！"
+
+msgid "Sorry!  It sounds similar..."
+msgstr "不對喔！這聽起來很像..."
+
+msgid "Sort of, but no.  What KIND of cell division?"
+msgstr "有點像，但不是。什麼樣的分裂呢？"
+
+msgid "Nope. That's when sex cells combine."
+msgstr "不對喔！這指的是生殖細胞的結合。"
+
+# 23
+msgid ""
+"Which of the following matings would most likely produce around three "
+"dominant offspring for every recessive?"
+msgstr ""
+"下列四種交配方式，哪一個所產生的後代，具顯性特徵和隱性特徵的比例是3:1呢？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "Hmmm....  Where would the recessive gene come from?"
+msgstr "嗯....不對喔！這樣的話，隱性基因要從哪裡來？"
+
+msgid "Let's see... Where did you get the dominant gene?"
+msgstr "不對喔！這樣的話，顯性基因要從哪裡來？"
+
+msgid "Bingo! The offspring would be AA, Aa, Aa and aa."
+msgstr ""
+"讚！這些後代的基因將是AA，Aa，Aa和aa；前三個因為都有大寫的A，代表有顯性的基因"
+"存在，所以會表現出顯性特徵，只有最後一個(aa)表現出隱性特徵。"
+
+msgid "Are you sure? How can these parents produce a recessive offspring?"
+msgstr "你確定嗎？這些父母怎麼有可能產生隱性的後代？"
+
+# 24
+msgid "You've completed the Genetic Codes review."
+msgstr "你已經完成了「遺傳密碼」的單元。"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在\"小練習\"和\"小測驗\"的表現了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"

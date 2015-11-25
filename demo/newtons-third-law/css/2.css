@@ -1,0 +1,103 @@
+
+#animation {
+	float:right;
+	animation: animation 3s linear 0s infinite alternate;
+	-webkit-animation: animation 3s linear 0s infinite alternate;
+	-moz-animation: animation 3s linear 0s infinite alternate;
+}
+
+@-webkit-keyframes animation {
+	0% { left: 60px; }
+	100%{ left: 50px; }
+}
+@-moz-keyframes animation {
+	0% { left: 60px; }
+	100%{ left: 50px; }
+}
+
+@keyframes animation {
+	0% { left: 60px; }
+	100%{ left: 50px; }
+}
+
+#yellow {
+	float:right;
+	animation: yfight 3s linear 0s infinite alternate;
+	-webkit-animation: yfight 3s linear 0s infinite alternate;
+	-moz-animation: yfight 3s linear 0s infinite alternate;
+}
+
+@-webkit-keyframes yfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+@-moz-keyframes yfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+
+@keyframes yfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+	
+#blue {
+	float:right;
+	animation: bfight 3s linear 0s infinite alternate;
+	-webkit-animation: bfight 3s linear 0s infinite alternate;
+	-moz-animation: bfight 3s linear 0s infinite alternate;
+}
+
+@-webkit-keyframes bfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+@-moz-keyframes bfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+
+@keyframes bfight {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+
+#hands {
+	float:right;
+	animation: hands 3s linear 0s infinite alternate;
+	-webkit-animation: hands 3s linear 0s infinite alternate;
+	-moz-animation: hands 3s linear 0s infinite alternate;
+}
+
+@-webkit-keyframes hands {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+
+@-moz-keyframes hands {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}
+
+@keyframes hands {
+	0% { width: 110%; height: 100%; }
+	25% { width: 105%; height: 100%; }
+	60% { width: 100%; height: 100%; }
+	100%{ width: 105%; height: 100%; }
+}

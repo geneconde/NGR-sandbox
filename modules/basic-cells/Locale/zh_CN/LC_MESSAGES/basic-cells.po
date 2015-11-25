@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "快速檢查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速檢查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速檢查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速檢查＃4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+msgid "select"
+msgstr "選擇"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"請上下翻轉骰子來選擇你的答案。你可以點擊、按住，然後將滑鼠移動向上或向下。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並滑動鼠標上下旋轉的框中，然後選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "通過下面的幻灯片瀏覽點擊左右箭頭。"
+
+msgid "The Situation"
+msgstr "现狀"
+
+msgid "The Scenario"
+msgstr "該方案"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問题"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"回答下列六個問題六，將會給你一個你現在所知道的想法，以及你仍然需要學習的是甚"
+"麼。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了，點擊下一步按鈕。"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Congratulations"
+msgstr "恭喜！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Go to dashboard"
+msgstr "進入儀表板"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Preparing your first quick check!"
+msgstr "準備進入你第一個檢查囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你最後的快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後測驗的問题了嗎？"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+msgid "And the first quiz question is..."
+msgstr "小測驗的第一個題目即將出現..."
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+# 1
+msgid "Basic Cells"
+msgstr "基本細胞"
+
+msgid "Welcome to the Basic Cells module"
+msgstr "歡迎進入基本細胞單元"
+
+# 2
+msgid "Thinking about... basic cells"
+msgstr "想一想關於---基本細胞"
+
+msgid "Congratulations! You're alive!"
+msgstr "恭喜你！你還活著！"
+
+msgid ""
+"No, that's not meant to be funny. Being alive is a great accomplishment. "
+"Think for a moment about what has to happen for you to be able to read and "
+"think about these words."
+msgstr ""
+"不，那不表示說是有趣的。活著是一種很好的成果。想一想，對你來說，能讀能思考這"
+"些名詞會有那些事會發生。"
+
+msgid "Your body must use energy taken in from the foods you eat."
+msgstr "你的身體必須使用從你所吃進的食物中所含的能量。"
+
+msgid ""
+"Releasing that energy requires oxygen from the air you breathe in and "
+"produces carbon dioxide waste that you must breathe out."
+msgstr ""
+"釋放能時，需要你從空氣中所吸入的氧，並且會產生二氧化碳廢物，是你所必須呼出體"
+"外的。"
+
+msgid ""
+"The chemical contents of your food must be broken down into simpler "
+"substances and rearranged and rebuilt into the structures you depend on for "
+"living."
+msgstr ""
+"你的食物中的化學成分必須被分解成簡單的物質，並且重新組合及建造成為你維生所需"
+"要的結構。"
+
+msgid ""
+"The food and oxygen you take in must be circulated around your body, while "
+"the waste your body produces must be transported and removed."
+msgstr ""
+"你攝入的食物和氧必須被循環送到全身，而你的身體產生的廢物必須被送出去排除掉。"
+
+msgid ""
+"We're just scratching the surface here, but this is pretty important stuff. "
+"This list could go on and on for a long time - thanks to many very "
+"specialized processes that occur in living things."
+msgstr ""
+"我們正在抓取這個表面，但這是很重要的東西。這個表單能持續一段長的時間--由於有"
+"許多發生在生物體內的特別過程。"
+
+msgid ""
+"For now, let's stick with the basics. All living processes need a place to "
+"happen, and for all living things humans know about, that place is a cell."
+msgstr ""
+"現在，讓我們探討基礎，所有的生命的過程都需要一個發生的地方，對所有的生物而"
+"言，就人類所知道的，這個地方是一個細胞。"
+
+msgid ""
+"<span class='key'>Cells</span> are the smallest things that can be called "
+"living. Most are so small they can't be seen without microscopes. A few are "
+"so large you can hold them in your hand, and many are so tiny that only "
+"special microscopic methods can make them visible."
+msgstr ""
+"細胞是生命的最小單位。許多細胞是很小的，除非使用顯微鏡，否則看不到。有一些是"
+"大的，能讓你將它們握在手掌中，有許多是微小的，只有用顯微技術才能讓他們被看"
+"見。"
+
+msgid ""
+"All cells must perform all of the functions of living things. That's a lot "
+"happening in a small package. This means that cells must be simple yet "
+"incredibly sophisticated at the same time."
+msgstr ""
+"所有細胞必須完成生物體的所有功能。那表示許多事都發生在一個小包裝裡面。這代表"
+"細胞必定是簡單的，但同時是難以置信的複雜。"
+
+# 3
+msgid "Checking what you now know about... basic cells"
+msgstr "測驗一下你現在所知道的基本細胞"
+
+msgid ""
+"Arrange the items on the right to match up with the results on the left. "
+"Drag the boxes up and down."
+msgstr "將右側的項目與左側的結果連連看。請將這些框格向上向下拖曳。"
+
+msgid "Cells increase in size until they burst"
+msgstr "細胞增加它的大小，直到破裂"
+
+msgid "Cells shrivel up and die"
+msgstr "細胞乾枯並且死亡"
+
+msgid "Green structures in plant cells move around inside the cells."
+msgstr "植物細胞中的綠色構造在細胞中移動"
+
+msgid "Placing cells under a strong light source"
+msgstr "將細胞放在一個強的光源下"
+
+msgid "Placing cells in distilled water"
+msgstr "將細胞放在蒸餾水中"
+
+msgid "Placing cells in salt water"
+msgstr "將細胞放在鹽水中"
+
+msgid ""
+"Cells have many structures that help them perform the jobs that keep them "
+"alive. All cells are separated from the nonliving world by membranes. The "
+"membranes allow some substances to cross but serve as a barrier to others. "
+"Water moves back and forth across the membrane to help keep it in balance "
+"with its environment. Plant cells have special structures called <span "
+"class='key1'>chloroplasts</span> which absorb energy from light and use it "
+"to make food."
+msgstr ""
+"細胞有許多構造能夠完成維持他們生存的工作。所有的細胞以膜和無生命的世界隔開。"
+"膜允許一些物質通過，但是卻阻止其他物質。水在膜的內外進出移動來幫助維持細胞和"
+"外界的平衡。植物細胞有特別的構造，稱作葉綠體，能夠吸收並使用光來製造食物。"
+
+msgid "Observing cells..."
+msgstr "觀察細胞--"
+
+# 4
+msgid "Reviewing big ideas about... basic cells"
+msgstr "瀏覽有關細胞的主要想法"
+
+msgid ""
+"Cells come in two major types depending on their complexity. Prokaryotes are "
+"cells that have no major internal structures. These cell types include "
+"bacteria and archaea. Eukaryotes have a variety of internal structures and "
+"include protists, plants, animals, and fungi."
+msgstr ""
+"細胞依據它們的複雜度，有兩種主要的型態。原核細胞並沒有主要的內在構造。這些細"
+"胞型態包括細菌及古細菌。真核細胞有各式各樣的內在構造，真核細胞生物包括原生生"
+"物、植物、動物及真菌。"
+
+msgid ""
+"The simplest living things are very small single cells called <span "
+"class='hl'>prokaryotes</span>.  The two types, archaea and bacteria, look "
+"much alike, but have very different internal chemistries. Prokaryotes are "
+"usually only 1-2 microns in size.  A micron is .001 millimeter, so that’s "
+"very, very small.  Using special techniques, our most powerful light "
+"microscopes can view bacteria and archaea clearly."
+msgstr ""
+"最簡單的生物是非常小的單細胞生物，稱作原核生物。兩種形式：古細菌和細菌，看起"
+"來相似，但非常不同的內部化學組成。原核生物的大小經常是只有1至2微米。使用特別"
+"的技術，具高效能的光學顯微鏡能清晰地看到細菌及古細菌。"
+
+msgid ""
+"Archaea are a most diverse set of organisms living in environments as "
+"different as mud, fresh water, oceans, and the digestive systems of animals. "
+"Some archaea are found inside geysers and even near volcanic vents in the "
+"ocean floor."
+msgstr ""
+"古細菌是一群很多樣的生物，生存在各樣的環境，例如泥中，淡水中，海水中，以及在"
+"動物的消化系統中。有些古細菌生存在極熱的環境中，甚至是在靠近海底火山口處。"
+
+msgid ""
+"Bacteria are common everywhere, from the tops of the highest mountains to "
+"the bottoms of the deepest caves. They live on and inside plants and "
+"animals. Some cause illness but many are also important in all types of food "
+"processing. Bacteria turn milk into yogurt and cheese; meat into some types "
+"of sausage; and cabbage into sauerkraut and kimchi."
+msgstr ""
+"細菌在各地都有，從最高的山頂，到最深的山谷底部。它們依賴植物及動物生存。有些"
+"會導致疾病，但是許多在所有類型的食物處理過程中，有著重要的角色。細菌將牛奶轉"
+"變成優格及乳酪，將肉類轉變成香腸，以及將包心菜變成泡菜。"
+
+msgid ""
+"All other living things are made of cells called <span "
+"class='hl'>eukaryotes</span>.  Eukaryotic cells are much larger than "
+"prokaryotes and may exist as individual cells or as parts of complex "
+"organisms.  All plants, animals, and fungi are made of eukaryotic cells."
+msgstr ""
+"所有其他的生物是由真核細胞所組成。真核細胞比原核細胞大，可以以單細胞的型式存"
+"在，或是成為複雜個體的一部分。所有的植物、動物和真菌是由真核細胞所組成。"
+
+msgid ""
+"It’s hard to make blanket statements about what all cells have in common, "
+"but one feature all have is a membrane. <span class='hl'>Cell membranes</"
+"span> separate the living interior of cells from the rest of their "
+"environments. Membranes regulate what goes into and out of cells and provide "
+"protection for cells’ interior chemistry."
+msgstr ""
+"要做一個有關細胞的綜合性陳述是困難的，但是有一個大家都擁有的特徵是膜。細胞膜"
+"將細胞的內部和周圍的環境區隔開來。膜調節哪些可以進出，並保護細胞內的化學狀"
+"態。"
+
+msgid ""
+"While we often think of cell membranes as simply thin layers covering the "
+"outside of cells, they are actually much more complex and highly specialized "
+"to perform their functions. This layer also includes many different types of "
+"molecules made of proteins and sugars that function to move substances "
+"through the membrane and to help cells respond to changes in their "
+"environments."
+msgstr ""
+"然而我們經常將細胞膜想成是在包在細胞外圍的簡單而薄層狀結構，它們實際上是比這"
+"更複雜，並且高度特殊化的完成它們的功能。這層結構包含許多不同的分子，由蛋白質"
+"及醣所組成，具有運輸物質進出細胞膜以及幫助細胞對環境做反應的功能。"
+
+msgid ""
+"Substances made of very small particles are able to flow through cell "
+"membranes without difficulty. They simply pass through the tiny openings "
+"between individual molecules. This process is called <span "
+"class='hl'>diffusion</span>, which occurs any time substances flow from "
+"areas of high concentration to areas of low concentration. A special type of "
+"diffusion is called <span class='hl'>osmosis</span>. Osmosis is the "
+"diffusion of water across a cell membrane."
+msgstr ""
+"由非常小的粒子所組成的物質，能通過細胞膜，而無任何困難。它們能輕易地通過個別"
+"分子之間的小孔。這個過程稱作為擴散，可在任何時間裡，由高濃度向低濃度區域流"
+"動。一種特別的擴散型式稱作為滲透。滲透是水經由細胞膜的擴散。"
+
+msgid "Passing through membrane..."
+msgstr "通過細胞膜..."
+
+# 5
+msgid "Question A. Cell membranes are made of which of the following?"
+msgstr "問題A. 細胞膜是由下列何者所組成？"
+
+msgid "Solid bits of woody fibers and a few fatty acids"
+msgstr "固態而少量的木質纖維及一些脂肪酸"
+
+msgid "Many fatty molecules with a few proteins and sugars"
+msgstr "許多脂肪酸分子連結著一些蛋白質及醣類"
+
+msgid "Proteins, sugars and woody fibers"
+msgstr "蛋白質，醣類及木質纖維"
+
+msgid "Sugars and woody fibers only"
+msgstr "只有醣類及木質纖維"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>NOT</span> a "
+"difference between prokaryotes and eukaryotes?"
+msgstr "問題B. 下列哪一項不是原核生物與真核生物之間的差異？"
+
+msgid "Prokaryotes are much smaller than eukaryotes."
+msgstr "原核生物比真核生物小很多"
+
+msgid "Eukaryotes do not have nuclei."
+msgstr "真核生物沒有細胞核"
+
+msgid "Bacteria are all prokaryotes."
+msgstr "細菌都是原核生物"
+
+msgid "Eukaryotes are generally much simpler cells than prokaryotes."
+msgstr "真核生物中的細胞，一般來說，比原核生物的細胞來得簡單"
+
+msgid "Preparing your first quick check…"
+msgstr "準備你第一回的立即回饋"
+
+msgid "Sorry. There’s no wood in cell membranes"
+msgstr "很抱歉！在細胞膜中沒有木質"
+
+msgid "Yes! The fatty molecules form a double layer."
+msgstr "是的！脂質分子形成雙層結構。"
+
+msgid "Proteins and sugars...Yes. Woody fibers...No."
+msgstr "蛋白質和醣類...答對。 木質纖維，錯！"
+
+msgid "Nope. Just a few sugars and no woody fibers in the membrane."
+msgstr "不對！在膜上只有一些醣類，而且沒有木質纖維。"
+
+msgid "Nope. Prokaryotes are much smaller than eukaryotes."
+msgstr "不對！原核生物比真核生物要小很多。"
+
+msgid "Sorry. Nuclei are important parts of eukaryotic cells."
+msgstr "抱歉！細胞核是真核細胞中的重要部分。"
+
+msgid "Actually,  bacteria are prokaryotes."
+msgstr "實際上，細菌是原核生物。"
+
+msgid ""
+"That’s the one. Eukaryotes are actually much more complex than prokaryotes."
+msgstr "就是這個答案！真核生物確實是比原核生物複雜多了。"
+
+# 6
+msgid "More big ideas about… basic cells"
+msgstr "更多的想法...關於基本的細胞"
+
+msgid ""
+"Just as our bodies have <span class='hl'>organs</span> and <span "
+"class='hl'>systems</span> to perform the functions that keep us alive, our "
+"cells also have parts that work together to do the work of living. The "
+"structures, present in all eukaryotes, are called organelles. Some show up "
+"in nearly all kinds of cells, while others are present only in some kinds of "
+"special cells."
+msgstr ""
+"就像我們的身体器官和系统完成讓我們活着的功能，我們的细胞也有能在一起合作的各"
+"個部分使得我們能活著，這些構造出現在所有的真核細胞中，被稱作為胞器。有些胞器"
+"在所有的細胞都可見到，但有的只出現在一些特殊的细胞中。"
+
+msgid "Animal Cell"
+msgstr "動物细胞"
+
+msgid "Plant Cell"
+msgstr "植物细胞"
+
+msgid ""
+"Nearly all cells have a nucleus. The <span class='key'>nucleus</span> is "
+"home to structures made of DNA called chromosomes. Chromosomes carry the "
+"information needed to make every part of every living thing. This "
+"information is used by organelles, called ribosomes, to build the proteins "
+"that make up all living things."
+msgstr ""
+"幾乎所有细胞都有细胞核。细胞核是由DNA組成的染色體所在的地方。染色體携带用來製"
+"造生物體每個部位所需的訊息。此信息被一種叫做核醣體的胞器用來製作組成生物體的"
+"蛋白質。"
+
+msgid ""
+"Some proteins make up structures, and some are enzymes. Enzymes act on other "
+"molecules; some to make them bigger, and others to break them apart. After "
+"we eat, our food is broken down into simple molecules before it is absorbed "
+"into our cells. Energy is released when organelles called <span "
+"class='key'>mitochondria</span> break simple sugars into molecules of carbon "
+"dioxide and water. This energy-releasing process is known as <span "
+"class='key'>cellular respiration</span>."
+msgstr ""
+"一些蛋白質组成構造，還有一些是酶。酶作用在其他的分子上 ；一些是會使它們變大，"
+"另有一些則將它們分解。我們吃食物後，食物在被吸收進入細胞前會被分解成簡單的分"
+"子。當粒線體將單醣分解成二氧化碳分子及水分子時，能量會釋出。這個能量釋放的過"
+"程被稱為细胞呼吸作用。"
+
+msgid ""
+"In green plants, organelles called <span class='hl'>chloroplasts</span> "
+"absorb light energy and use it to combine parts of water and carbon dioxide "
+"molecules to make a simple sugar called glucose. This process, called <span "
+"class='hl'>photosynthesis</span>, also produces extra molecules of oxygen, "
+"which are released by the cell."
+msgstr ""
+"在绿色的植物，叫做葉绿體的胞器吸收光能並使用它將水和二氧化碳分子結合，製造成"
+"一種稱為葡萄糖的單醣。這個過程，叫做光合作用，也產生了氧分子，回由細胞中釋放"
+"出來。"
+
+msgid "Cells working together..."
+msgstr "细胞在一起工作......"
+
+# 7
+msgid "Question A. The cell nucleus is important because..."
+msgstr "A問题A:细胞核是重要的，因為......"
+
+msgid "It absorbs energy from sunlight."
+msgstr "它可以吸收来自太陽的能源。"
+
+msgid "It releases energy from food."
+msgstr "它可以從食物釋放出能量。"
+
+msgid "It carries information to control the cell."
+msgstr "它攜帶著控制細胞的訊息。"
+
+msgid "It controls what enters or leaves the cell."
+msgstr "它控制著甚麼可以進出細胞。"
+
+msgid "Question B. Both plant and animal cells contain mitochondria because:"
+msgstr "問題B: 動植物細胞都含有粒線體，因為..."
+
+msgid "All cells must use energy to stay alive."
+msgstr "所有細胞壁必須使用能量來維持生命。"
+
+msgid "Only animal cells absorb energy from the sun."
+msgstr "只有動物細胞吸收來自太陽的能量。"
+
+msgid "All cells must absorb solar energy."
+msgstr "所有細胞必須吸收太陽能。"
+
+msgid "Mitochondria contain chlorophyll."
+msgstr "粒線體包含葉綠素"
+
+msgid "Studying nucleus..."
+msgstr "研究細胞核"
+
+msgid "No. Chloroplasts absorb energy."
+msgstr "不！葉綠體吸收能量。"
+
+msgid "Sorry. Mitochondria release energy."
+msgstr "抱歉！粒線體釋放能量。"
+
+msgid "Yes! The nucleus carries information."
+msgstr "是的！細胞核攜帶訊息。"
+
+msgid "Nope. Membranes control what enters or leaves cells."
+msgstr "不對！膜控制甚麼能進出細胞。"
+
+msgid "A. All cells must use energy to stay alive."
+msgstr "A. 所有細胞必須使用能量來維持生命。"
+
+msgid "That’s right! All cells must use energy."
+msgstr "這是對的！所有的細胞必須使用能量。"
+
+msgid "B. Only animal cells absorb energy from the sun."
+msgstr "B. 只有動物細胞從太陽吸收能量。"
+
+msgid "Sorry. Chloroplasts absorb solar energy."
+msgstr "抱歉！葉綠體吸收太陽能。"
+
+msgid "C. All cells must absorb solar energy."
+msgstr "C. 所有的細胞必須吸收太陽能。"
+
+msgid "No. Only plant cells absorb solar energy."
+msgstr "不！只有植物細胞吸收太陽能。"
+
+msgid "D. Mitochondria contain chlorophyll."
+msgstr "D. 粒線體包含葉綠素。"
+
+msgid "Nope. Chloroplasts contain chlorophyll."
+msgstr "不對！葉綠體包含葉素素。"
+
+# 8
+msgid ""
+"As we said before, cell membranes are responsible for keeping a cell in a "
+"sort of balance with its environment. Whatever changes occur outside a cell, "
+"the membrane has the job of controlling what enters and leaves. The membrane "
+"isn’t solid. It’s a constantly changing structure made of millions of fatty "
+"molecules that form two layers, pointing their heads in opposite directions. "
+"A wide variety of different proteins float among the fatty molecules, "
+"allowing the cell to interact with other cells and serving as pathways for "
+"many substances to enter or leave the cell."
+msgstr ""
+"正如我們先前所說，細胞膜負責保持一個細胞和它的環境間的平衡。無論細胞外發生甚"
+"麼改變，膜扮演著控制甚麼可以進出細胞的角色。膜不是固定的，而是一直改變的構"
+"造、由許多脂肪分子所組成的兩層結構，兩層的脂肪分子的頭這端是朝向彼此的。有許"
+"多不同的蛋白質在脂肪結構上流動，讓細胞和其他細胞互動，並形成通道使許多物質能"
+"進出細胞。"
+
+msgid ""
+"Diffusion and osmosis move small molecules, such as water, across the "
+"membrane, always from areas where they are concentrated to areas of lesser "
+"concentration. Sometimes, though, it’s necessary for larger molecules to "
+"enter or leave the cell, regardless of concentration or whether they are "
+"small enough to move through on their own."
+msgstr ""
+"擴散與滲透運送如水般的小分子通過膜，總是從較高濃度的區域到低濃度的區域。有"
+"時，它可以讓大分子進出細胞，而無關乎濃度或是他們是否夠小到能讓自己通過。"
+
+msgid ""
+"Some membrane proteins are able to use energy to change their shapes, "
+"capturing other molecules and pulling them through the membrane. They are "
+"called pump proteins, and this type of movement is called active transport."
+msgstr ""
+"一些膜上的蛋白質能使用能來改變它的形狀，獲得其他分子並拉動他它們經過細胞膜。"
+"它們被稱作幫浦蛋白質，這是一種主動運輸的形式。"
+
+msgid ""
+"Other proteins, called carrier proteins, fold in the shape of tubes, "
+"allowing some large molecules to diffuse through the membrane. This type of "
+"transport, requiring no energy, is called facilitated diffusion."
+msgstr ""
+"其他蛋白質，稱作攜帶蛋白質，摺疊成管狀，讓一些大分子能擴散通過膜。這種運輸的"
+"形式，需要能，稱作促進式擴散。"
+
+msgid "Protein channel"
+msgstr "蛋白質通道"
+
+msgid "Globular protein"
+msgstr "球蛋白"
+
+msgid "Glycoprotein"
+msgstr "醣蛋白"
+
+msgid "Carbohydrate"
+msgstr "醣類"
+
+msgid "Hydrophilic head"
+msgstr "親水端"
+
+msgid "Phospholipid bilayer"
+msgstr "磷脂雙層結構"
+
+msgid "Phospholipid molecule"
+msgstr "磷脂分子"
+
+msgid "Cholesterol"
+msgstr "膽固醇"
+
+msgid "Glycolipid"
+msgstr "醣脂類"
+
+msgid "Peripheral protein"
+msgstr "周圍蛋白質"
+
+msgid "Integral protein"
+msgstr "整體蛋白質"
+
+msgid "Filaments of cytoskeleton"
+msgstr "細胞骨架的細絲"
+
+msgid "Alpha-helix protein"
+msgstr "α鏈蛋白質"
+
+msgid "Hydrophobic tails"
+msgstr "忌水端"
+
+msgid "Surface protein"
+msgstr "表面蛋白質"
+
+msgid "balancing the environment..."
+msgstr "平衡周圍環境--"
+
+# 9
+msgid ""
+"Question A.  Which of the following structures is found in cell membranes?"
+msgstr "問題A：下列你一個構造被發現在細胞膜上？"
+
+msgid "Chlorophyll"
+msgstr "葉綠素"
+
+msgid "Nucleus"
+msgstr "細胞核"
+
+msgid "Ribosomes"
+msgstr "核醣體"
+
+msgid "Carrier Protein"
+msgstr "載體蛋白質"
+
+msgid ""
+"Question B. What is the major difference between passive and active "
+"transport?"
+msgstr "問題B：甚麼是被動和主動運輸間的主要差別？"
+
+msgid "Passive transport requires energy; active transport does not."
+msgstr "被動運輸需要能量；主動運輸則不需要。"
+
+msgid "Active transport requires energy, passive transport does not."
+msgstr "主動運輸需要能量；被動運輸則不需要。"
+
+msgid "Passive transport always moves material out of the cell."
+msgstr "被動運輸總是將物質運出細胞外。"
+
+msgid "Active transport always moves material out of the cell."
+msgstr "主動運輸總是將物質運出細胞外。"
+
+msgid "Question A. The European languages are members of the same family."
+msgstr "問題A.  歐洲的語言是同一個語系。"
+
+msgid "Passive and active transport?"
+msgstr "主動和被動運輸？"
+
+msgid "No. Chlorophyll is found in chloroplasts."
+msgstr "不，葉綠素在葉綠體中被發現。"
+
+msgid "Not this one. The nucleus is in the center of the cell."
+msgstr "不是這一個！細胞核是在細胞的中央位置。"
+
+msgid "Sorry, ribosomes make proteins but not in the membrane."
+msgstr "抱歉！核醣體製造蛋白質，但不在膜上面。"
+
+msgid ""
+"That’s right! Carrier proteins help control what enters or leaves the cell."
+msgstr "那是對的！攜帶蛋白質幫助控制哪些可以進出細胞。"
+
+msgid "Nope. Active transport requires energy. Passive transport does not."
+msgstr "不對。主動運輸需要能量。被動運輸不需要。"
+
+msgid "Right! Active transport requires energy. Passive transport does not."
+msgstr "没錯！主動運輸需要能量。被動運輸不需要。"
+
+msgid ""
+"Sorry. Active or passive transport may move materials into or out of the "
+"cell."
+msgstr "抱歉。主動或被動運輸可運送物質進出细胞。"
+
+msgid ""
+"Not this one. Active or passive transport may move materials into or out of "
+"the cell."
+msgstr "不是這個！主動或被動運輸可以運送物質進出細胞。"
+
+# 10
+msgid "There are four different types of eukaryotes."
+msgstr "有四種真核細胞的形式。"
+
+msgid ""
+"Fungi have cells much like plant cells, except that their <span "
+"class='key'>cell walls</span> are made of molecules called chitins and "
+"glucans. Fungal cells do not have chloroplasts, so they must rely on other "
+"living things for their energy needs. Fungi are considered to be decomposers "
+"because they help to break down dead organisms."
+msgstr ""
+"真菌有類似植物一樣的細胞，除了它們的細胞壁是由幾丁質和葡聚醣外。真菌細胞沒有"
+"葉綠體，所以它們必須倚賴其他生物獲得它們的能量來源。真菌被認為是分解者，因為"
+"它們能幫助分解死亡的生物體。"
+
+msgid ""
+"<span class='hl'>Animal cells</span> lack rigid cell walls. This gives them "
+"great flexibility and allows them to interact with surrounding cells in a "
+"wide variety of ways. Animal cells also lack chloroplasts, making them "
+"dependent upon plants for energy."
+msgstr ""
+"動物細胞沒有細胞壁。這讓它們有大的彈性並允許它們以更多種的方式和周圍的細胞互"
+"動。動物細胞也沒有葉綠體，這讓它們依靠植物或的能量。"
+
+msgid ""
+"Plant cells are enclosed by rigid membranes made of cellulose. Most people "
+"know cellulose as wood, paper, or cotton. These and other products are made "
+"from plant material. Plant cells may also have chloroplasts which capture "
+"energy from the sun. Chloroplasts turn this energy into sugars which provide "
+"energy for plants and for all other types of life."
+msgstr ""
+"植物細胞被堅硬的膜所包住，這是由纖維素組成的。許多人們知道纖維素有木頭、紙"
+"張、或棉。這些和其他的產物是從植物物質所製造而來的。植物細胞也可含有夜鷺體，"
+"能夠獲得來自太陽的能量。葉綠體將這個能量轉換成糖，能供應能量給植物以及其他形"
+"式的生物。"
+
+msgid ""
+"Protists exist as single cells or as groups of identical cells. Protists are "
+"extremely diverse. Some are very similar to plants, while others resemble "
+"animals. Some float in water, while others move under their own power. Some "
+"capture energy from the sun using photosynthesis, while others capture and "
+"digest other cells. Some can even seem to grow to resemble more complex "
+"organisms at various times in their lives."
+msgstr ""
+"原生生物以單細胞或是一群相同的細胞方式存在。原生生物相當的多樣，有一些是和植"
+"物相近，然而有些則像動物。有一些浮在水上，然而有一些能藉自己的能力移動。一些"
+"進行光合作用從太陽獲得能量，然而其他的則捕捉並消化別的細胞。一些甚至能在它們"
+"的生物歷程中長大成像是較複雜的生物體一樣。"
+
+msgid "Identifying eukaryote..."
+msgstr "辨別真核生物..."
+
+# 11
+msgid ""
+"Question A. Chloroplasts are <span class='blink'>most often</span> found in "
+"what types of cells?"
+msgstr "問題A: 葉綠體是最常在哪些細胞中發現？"
+
+msgid "Animal Cells"
+msgstr "動物细胞"
+
+msgid "Prokaryotes"
+msgstr "原核生物"
+
+msgid "Fungi"
+msgstr "真菌"
+
+msgid "Plant Cells"
+msgstr "植物細胞"
+
+msgid ""
+"Question B. Which structures are found in plant cells but <span "
+"class='blink'>not</span> in animal cells?"
+msgstr "問題B.哪些結構被發現在植物细胞，但不在動物细胞中？"
+
+msgid "Cell walls and cell membranes"
+msgstr "細胞膜和細胞壁"
+
+msgid "Chloroplasts and cell walls"
+msgstr "葉綠體和細胞膜"
+
+msgid "Mitochondria and cell membranes"
+msgstr "粒線體和細胞膜"
+
+msgid "Mitochondria and chloroplasts"
+msgstr "粒線體和葉綠體"
+
+msgid "Looking at different cells..."
+msgstr "看一下不同的細胞..."
+
+msgid "Sorry, animal cells can’t make their own food."
+msgstr "抱歉！動物細胞不能製造他們自己的食物。"
+
+msgid "No. Prokaryotes have no organelles."
+msgstr "不！原核生物沒有胞器。"
+
+msgid "Not these. Fungi depend on other organisms for food."
+msgstr "不是這一些。真菌依賴其他的生物得到食物。"
+
+msgid "That’s right! Chloroplasts are found in green plant cells."
+msgstr "這是對的！葉綠體在綠色植物細胞中發現。"
+
+msgid "Sorry. All cells have membranes."
+msgstr "不對！所有的細胞有膜。"
+
+msgid "Yes! Chloroplasts and cell walls are found only in plants."
+msgstr "是的！葉綠體及細胞壁只在植物細胞中發現。"
+
+msgid "No. Most eukaryotes have mitochondria and cell membranes."
+msgstr "不！大多的原核生物有粒線體及細胞膜。"
+
+msgid ""
+"All complex cells have mitochondria, but only plant cells have chloroplasts."
+msgstr "所有複雜的細胞有粒線體，但只有植物細胞有葉綠體。"
+
+# 12
+msgid "Close!"
+msgstr "關閉"
+
+msgid ""
+"Many plants and animals are large and complex enough to need special groups "
+"of cells that can perform important functions. These groups of specialized "
+"cells, called <span class='hl'>tissues</span>, work together on such tasks "
+"as digestion, reproduction, protection, and even responding to environmental "
+"changes."
+msgstr ""
+"許多植物及動物是夠大的以及複雜到需要特別的一群細胞來完成重要的功能。這群特殊"
+"的細胞，稱為組織，在一起工作，例如：消化，生殖，保護，以及甚至是回應環境的改"
+"變。"
+
+msgid ""
+"These specialized tissues are often grouped together into structures called "
+"<span class='key'>organs</span>. A common example is the leaf of a green "
+"plant. A leaf is  made up of many tissues, all important to helping it "
+"complete its job: gathering solar energy and storing it in a form nearly all "
+"living things can use. Some leaf tissues protect it. Others allow air to "
+"flow into and out of the leaf. Some transport water and food, while another "
+"provides storage space. A very important set of cells actually carries on "
+"photosynthesis, making sugar from carbon dioxide and water."
+msgstr ""
+"這些分化的組織經常聚集再一起成為稱作器官的構造。一種普通的例子是綠色植物的葉"
+"子。一片葉子是由許多組織所組成的，全部都對完成它的工作是重要的: 蒐集太陽能以"
+"及用幾乎所有生物都能使用的的形式貯存能量。其他則允許空氣能進出葉片。有的則運"
+"送水及食物，而其他提供了貯存的空間。一組非常重要的細胞確實讓光合作用進行，將"
+"二氧化碳和水製造成糖。"
+
+msgid "Click to enlarge"
+msgstr "點選一下以增大"
+
+msgid ""
+"In many cases, organs are even grouped together into systems.  The human "
+"digestive system includes many different types of tissues. Some make "
+"digestive enzymes, some move food through the system, while others absorb "
+"and store food. These tissues make up such organs as the stomach, liver, "
+"pancreas, and intestines. Animal food processing requires that all of these "
+"tissues, in all of these organs, work smoothly as a unit."
+msgstr ""
+"在許多情况下，器官甚至组合成系统。人体消化系统包括許多不同類型的组織。一些製"
+"造消化酶，一些通過該系统運送食物，而其他吸收和储存食物。這些组織構成了如器官"
+"如胃，肝，胰腺和腸。動物食品處理過程中需要所有這些组織的，在所有這些器官，顺"
+"利地作為一個单元在工作。"
+
+msgid ""
+"This complex system breaks down complicated fat, carbohydrate, and protein "
+"molecules into their smallest parts, which can then be reassembled in cells "
+"to build the fats, carbohydrates, and proteins required by humans. Other "
+"human systems also involve many organs made up of many tissues to do their "
+"jobs. These systems of tissues organized into organs, organized further into "
+"systems, work in all types of plants and animals."
+msgstr ""
+"這複雜的系統分解複雜的脂肪、醣類，以及蛋白質分子成為小分子，在之後能在細胞中"
+"重組成為人類所需要的脂肪、醣類及蛋白質。其他人類的系統包括許多器官，由許多組"
+"織所組成來完成它們的工作。這些組織組合成為器官，再成為系統，在所有的動物及植"
+"物中工作。"
+
+msgid "Tissues grouped together..."
+msgstr "细胞聚集在一起......"
+
+# 13
+msgid "Quick Check #5"
+msgstr "快速檢查＃5"
+
+msgid "Question A. Similar cells, performing the same function, are called:"
+msgstr "問題A. 相類似的細胞來完成相同的功能，稱作："
+
+msgid "Systems"
+msgstr "系統"
+
+msgid "Tissues"
+msgstr "組織"
+
+msgid "Organs"
+msgstr "器官"
+
+msgid "Gametes"
+msgstr "配子"
+
+msgid ""
+"Question B. Which of the following structures specializes in building more "
+"complex molecules from simpler building blocks?"
+msgstr "問題B. 下列哪一項特別用來從簡單的單位來製造較複雜的分子？"
+
+msgid "Chloroplasts"
+msgstr "葉綠體"
+
+msgid "Mitochondra"
+msgstr "粒線體"
+
+msgid "Golgi body"
+msgstr "高基氏體"
+
+msgid "Cell wall"
+msgstr "細胞壁"
+
+msgid "Nope. Systems are collections of organs."
+msgstr "不是，系統是一群器官的集合。"
+
+msgid "That’s it! Specialized cells are grouped into tissues."
+msgstr "是這個！分化的細胞聚集在一起成為組織。"
+
+msgid "No. Organs are collections of tissues."
+msgstr "不，器官是由組織聚集合而成。"
+
+msgid "Sorry, gametes are one type of specialized cell."
+msgstr "抱歉！配子是一種特別的細胞。"
+
+msgid "Winner! Chloroplasts use carbon dioxide and water to make sugar."
+msgstr "赢了！葉绿體使用二氧化碳和水來製造糖。"
+
+msgid "No. Mitochondria actually break more complex molecules down."
+msgstr "不，粒線體實際上打破複雜的分子。"
+
+msgid "Sorry. The Golgi is involved in protein processing."
+msgstr "抱歉。高爾基是参與蛋白質的製造過程。"
+
+msgid "Not this one. Cell walls specialize in protection."
+msgstr "不是這一個！細胞壁能夠保護。"
+
+# 14
+msgid "Using what you know about... basic cells... to solve a problem"
+msgstr "使用你關於基本细胞的知識......來解决一個問題"
+
+msgid ""
+"Bacteria cause illness because they produce chemicals called toxins that "
+"cause body tissue to break down, much like digestive enzymes. As the number "
+"of bacteria infecting a person grows, so does the amount of toxin produced. "
+"As a consequence, the infected person gets sicker and sicker."
+msgstr ""
+"細菌導致疾病，因為它們產生化學物質稱作毒素，能使身體組織分解，很像是消化酵素"
+"一樣。當感染人的細菌增長，毒素也增加。結果使得被感染的人病況加重。"
+
+msgid ""
+"Imagine yourself as a medical researcher.  You have a number of drugs that "
+"may help to cure people of bacterial infections.  The following shows how "
+"each drug works."
+msgstr ""
+"想像你自己是一個醫學研究者，你有許多藥能幫助治療生病的人。下列顯示每一種藥的"
+"效用："
+
+msgid "Drug A. Stimulates the production of chlorophyll in plant cells."
+msgstr "藥物A. 促進植物細胞產生葉綠素"
+
+msgid "Drug B. Interferes with cell wall production in prokaryotes."
+msgstr "藥物B. 干擾原核生物的細胞壁產生。"
+
+msgid "Drug C. Interferes with cell reproduction in eukaryotes."
+msgstr "藥物C. 干擾真核生物的細胞繁殖。"
+
+msgid "Drug D. Interferes with protein production in eukaryotes."
+msgstr "藥物D. 干擾真核生物的蛋白質產生。"
+
+msgid ""
+"You may choose one of the drugs to investigate further. Which will you begin "
+"with and why?"
+msgstr "你可以選擇一種藥物來做探查。哪一個是你先要進行的？為什麼？"
+
+msgid "Conducting research..."
+msgstr "進行研究..."
+
+# 15
+msgid "Summarizing big ideas... about basic cells"
+msgstr "總結有關細胞的主要想法"
+
+msgid ""
+"<span class='key'>Prokaryotes</span>, like bacteria, are very small <span "
+"class='key'>cells</span> with little in the way of complex inner structures. "
+"<span class='key'>Eukaryotes</span> are usually larger and contain "
+"structures called organelles which perform specific functions. Plants, "
+"animals, protists and fungi are all made from eukaryotic cells."
+msgstr ""
+"原核生物，譬如細菌，是非常小的細胞，有很複雜的內部構造。真核生物是經常較大"
+"的，且包含胞器的的構造，在其中能完成特定的功能。植物、動物、原生生物和真菌都"
+"是由真核細胞所組成的。"
+
+msgid ""
+"All cells have a layered membrane which regulates what can enter or leave "
+"the cell. Some molecules are small enough to pass through membranes by <span "
+"class='key'>diffusion</span>. The diffusion of water through a membrane is "
+"called <span class='key'>osmosis</span>. Other larger molecules must be "
+"moved through membranes using proteins embedded in the fatty layers. This "
+"process requires energy and is called active transport. Plant cells' "
+"membranes are surrounded by a rigid <span class='key'>cell wall</span> which "
+"also provides protection and support."
+msgstr ""
+"所有的細胞有多層的膜，能調節哪些能進出細胞。一些分子是夠小道能藉擴散通過細胞"
+"膜。經過膜的擴散稱作為滲透。其他大的分子必須藉著包在脂肪層中的蛋白質通過膜。"
+"這個過程需要能量，被稱作為主動運輸。植物細胞的膜被堅硬的細胞壁所包圍，提供了"
+"保護及支持的作用。"
+
+msgid ""
+"The <span class='key'>nucleus</span> is an organelle which protects a cell's "
+"DNA information. That information is used by ribosomes to make protein. "
+"<span class='key'>Chloroplasts</span> absorb solar energy and use it to make "
+"simple sugars. <span class='key'>Mitochondria</span> release energy from "
+"sugar and convert it into forms cells can use in their life processes."
+msgstr ""
+"細胞核是一個胞器，保護了細胞中所攜帶的DNA訊息。這個訊息被用來製造蛋白質。葉綠"
+"體吸收太陽能並且使用它來製造單醣。粒線體講糖的能量釋放出來，並轉換成為細胞維"
+"持生命過程所需的形式。"
+
+msgid ""
+"In complex organisms, cells joined together to perform a single task are "
+"called <span class='key'>tissues</span>. Tissues working together are called "
+"<span class='key'>organs</span>, and groups of organs cooperating on the "
+"same job are called <span class='key'>systems</span>."
+msgstr ""
+"在複雜的生物體中，許多細胞集合在一起來執行一個工作，稱作為組織。許多組織在一"
+"起工作，稱作為器官。一群器官一起坐同一個工作，稱作為系統。"
+
+# 16
+msgid "Reviewing key vocabulary related to... basic cells"
+msgstr "看一下和基本細胞有關的關鍵字..."
+
+msgid "Cell"
+msgstr "細胞"
+
+msgid "Basic unit of life enclosed by a membrane."
+msgstr "由膜所包圍形成的生命基本構造。"
+
+msgid "Cell Membrane"
+msgstr "細胞膜"
+
+msgid "Double layer of fats and proteins enclosing a cell."
+msgstr "包在細胞外由脂質與蛋白質構成的雙層構造。"
+
+msgid "Diffusion"
+msgstr "擴散"
+
+msgid ""
+"Movement of any material from areas of high concentration to areas of low "
+"concentration."
+msgstr "任何物質從高濃度至低濃度區域的運動。"
+
+msgid "Cell Wall"
+msgstr "細胞壁"
+
+msgid "Rigid cellulose structure located outside plant cell membranes."
+msgstr "堅硬的纖維素結構位在植物細胞膜外的細胞壁。"
+
+msgid "Chloroplast"
+msgstr "葉綠體"
+
+msgid "Organelle containing chlorophyll; site of photosynthesis."
+msgstr "胞器包含葉綠素；是光合作用發生的地方。"
+
+msgid "Eukaryote"
+msgstr "真核生物"
+
+msgid "Complex cell with a nucleus."
+msgstr "複雜的細胞有細胞核"
+
+msgid "Organelle containing chromosomes."
+msgstr "胞器包含染色體"
+
+msgid "Organ"
+msgstr "器官"
+
+msgid "Collection of tissues performing a specialized function."
+msgstr "一群組織完成特定的功能"
+
+msgid "Mitochondrion"
+msgstr "粒線體"
+
+msgid "Organelle in which cellular respiration occurs."
+msgstr "在胞器中會發生呼吸作用。"
+
+msgid "Osmosis"
+msgstr "滲透"
+
+msgid "Diffusion of water across a selectively permeable membrane."
+msgstr "水經過選擇滲透性的膜擴散"
+
+msgid "System"
+msgstr "系統"
+
+msgid "Collection of organs performing similar functions."
+msgstr "一群器官完成相同的功能"
+
+msgid "Prokaryote"
+msgstr "原核生物"
+
+msgid "Smallest type of living cell."
+msgstr "最小的生物細胞"
+
+msgid "Tissue"
+msgstr "組織"
+
+msgid "Collection of cells performing similar functions."
+msgstr "一群細胞完成相似的功能"
+
+# 18
+msgid "What feature most distinguishes prokaryotes from eukaryotes?"
+msgstr "甚麼特徵最能區分原核生物和真核生物？"
+
+msgid "Prokaryotes have nuclei, while eukaryotes do not."
+msgstr "原核生物有細胞核，然而真核生物則沒有。"
+
+msgid "Prokaryotes have cell membranes, while eukaryotes do not."
+msgstr "原核生物有細胞膜，但真核生物沒有。"
+
+msgid "Eukaryotes have nuclei, while prokaryotes do not."
+msgstr "真核生物有細胞核，但是原核生物沒有。"
+
+msgid "Eukaryotes have cell walls, while prokaryotes do not."
+msgstr "真核生物有細胞壁，但原核生物沒有。"
+
+msgid "Your first quiz question is…"
+msgstr "第一個小考題目即將出現..."
+
+msgid "Sorry. Eukaryotes have nuclei."
+msgstr "抱歉！真核生物有細胞核。"
+
+msgid "No. All cells have membranes."
+msgstr "不！所有的細胞都有細胞膜。"
+
+msgid "Yes! Eukaryotes have nuclei."
+msgstr "是的！真核生物有細胞核。"
+
+msgid "Not this one. Prokaryotes do have cell walls."
+msgstr "不是這一個！原核生物有細胞壁。"
+
+# 19
+msgid ""
+"Large molecules are sometimes passed across membranes through the use of:"
+msgstr "大分子有時藉著甚麼通過膜："
+
+msgid "Carrier Proteins"
+msgstr "載體蛋白質"
+
+msgid "Mitochondria"
+msgstr "粒線體"
+
+msgid "Lysosomes"
+msgstr "溶解體"
+
+msgid "Enumerating substances..."
+msgstr "列舉出物質.."
+
+msgid "No. Chloroplasts are organelles."
+msgstr "不！葉綠體是胞器。"
+
+msgid ""
+"That's it... Carrier proteins help move large molecules into and out of "
+"cells."
+msgstr "這是它...攜帶蛋白質幫助大分子進出細胞。"
+
+msgid "Sorry. Mitochondria are organelles inside cells."
+msgstr "抱歉！粒線體是細胞內的胞器。"
+
+msgid "Not this one. Lysosomes are organelles."
+msgstr "不是這一項！溶解體是胞器。"
+
+# 20
+msgid "Cell membranes are composed of which of the following substances?"
+msgstr "細胞膜是由下列何物質所組成？"
+
+msgid "Fats and proteins"
+msgstr "脂肪和蛋白質"
+
+msgid "Proteins and carbohydrates"
+msgstr "蛋白質和醣類"
+
+msgid "Carbohydrates and simple sugars"
+msgstr "醣類及單醣"
+
+msgid "Simple sugars and proteins"
+msgstr "單醣和蛋白質"
+
+msgid "Passing across membranes..."
+msgstr "通過細胞膜..."
+
+msgid "Correct! Cell membranes are made from fats and proteins."
+msgstr "正確！細胞膜是由脂肪和蛋白質組成。"
+
+msgid "Sorry. Fats are the most common type of molecule in membranes."
+msgstr "抱歉！脂肪是細胞膜中最常見的成分。"
+
+msgid "No. Fats and proteins make up membranes."
+msgstr "不是！脂肪和蛋白質構成細胞膜。"
+
+msgid "Not these. Fats and proteins make up membranes."
+msgstr "不是這些！脂肪和蛋白質組成細胞膜。"
+
+# 21
+msgid "Which of the following statements is true about osmosis?"
+msgstr "下列哪一個與滲透有關的敘述是正確的？"
+
+msgid "Water flows from low concentration to high concentration."
+msgstr "水從低濃度流動到高濃度"
+
+msgid "Sugars flow across a membrane."
+msgstr "糖通過膜流動"
+
+msgid "Water diffuses across a membrane."
+msgstr "水經過膜擴散"
+
+msgid "Proteins use energy to move water."
+msgstr "蛋白質運用能量來移動水"
+
+msgid "Knowing about osmosis..."
+msgstr "知道關於滲透..."
+
+msgid "No. Osmosis involves membranes."
+msgstr "不，滲透牽涉到膜。"
+
+msgid "Sorry. Osmosis is water only."
+msgstr "抱歉！滲透只牽涉到水。"
+
+msgid "Thats it! Osmosis involves water and membranes."
+msgstr "是這一個！滲透牽涉到水及膜。"
+
+msgid "Nope. No energy is used."
+msgstr "不是！不需要用到能量。"
+
+# 22
+msgid "How is active transport different from diffusion?"
+msgstr "主動運輸和擴散有何不同？"
+
+msgid "Active transport uses energy. Diffusion does not."
+msgstr "主動運輸使用能。 擴散則無。"
+
+msgid "Active transport moves water from high to low concentration."
+msgstr "主動運輸將水從高濃度至低濃度區域運送。"
+
+msgid "Diffusion uses carrier proteins to move sugar."
+msgstr "擴散用到攜帶蛋白質運送糖。"
+
+msgid "Active transport does not involve cell membranes."
+msgstr "主動運輸不牽涉到細胞膜。"
+
+msgid "Selecting correct answer..."
+msgstr "選擇正確答案..."
+
+msgid "Correct. Active transport uses energy."
+msgstr "正確，主動運輸需要能量。"
+
+msgid "No. Diffusion moves water from high to low concentration."
+msgstr "不，擴散是水從高濃度至低濃度區域的流動。"
+
+msgid "Sorry. Diffusion does not use carrier proteins."
+msgstr "很抱歉。擴散不使用载體蛋白質。"
+
+msgid "Incorrect. Active transport involves membranes."
+msgstr "不正確。主動運輸涉及到膜。"
+
+# 23
+msgid "What is the major function of ribosomes?"
+msgstr "核糖體的主要功能是什麼？"
+
+msgid "Store information."
+msgstr "儲存信息。"
+
+msgid "Release energy."
+msgstr "釋放能量。"
+
+msgid "Capture energy from the sun."
+msgstr "吸收来自太陽的能量。"
+
+msgid "Make proteins."
+msgstr "製造蛋白质。"
+
+msgid "No. Information is stored in the nucleus."
+msgstr "不對！訊息被儲存在細胞核。"
+
+msgid "Nope. Chloroplasts capture solar energy."
+msgstr "不對！葉綠體吸收太陽能。"
+
+msgid "Yes! Ribosomes are responsible for making protein."
+msgstr "是的！核醣體的功能是製造蛋白質。"
+
+# 24
+msgid "You've completed the Basic Cells module."
+msgstr "你已經完成了基本細胞單元了。"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for "
+"this module by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在“小練習”和“小測驗”的表現了！"
+
+msgid "Sunlight"
+msgstr "阳光"
+
+msgid "Cuticle"
+msgstr "表皮"
+
+msgid "Xylem"
+msgstr "木质部"
+
+msgid "Phloem"
+msgstr "韧皮部"
+
+msgid "Stoma"
+msgstr "气孔"
+
+msgid "Veins"
+msgstr "纹"
+
+msgid "Carbon Dioxide"
+msgstr "二氧化碳"
+
+msgid "Oxygen"
+msgstr "氧"
+
+msgid "Spongy mesophyll"
+msgstr "海绵组织"
+
+msgid "Palisade mesophyll"
+msgstr "栅栏叶肉"
+
+msgid "Epidermis"
+msgstr "表皮"
+
+msgid "Oral Cavity"
+msgstr "口腔"
+
+msgid "Mouth"
+msgstr "口"
+
+msgid "Submaxillary and"
+msgstr "颌下腺和"
+
+msgid "Sublingual Glands"
+msgstr "舌下腺"
+
+msgid "Liver"
+msgstr "肝"
+
+msgid "Gall Bladder"
+msgstr "胆"
+
+msgid "Duodenum"
+msgstr "十二指肠"
+
+msgid "Transverse Colon"
+msgstr "横结肠"
+
+msgid "Ascending Colon"
+msgstr "升结肠"
+
+msgid "Lleum(Small Intestine)"
+msgstr "Lleum （小肠）"
+
+msgid "Caecum"
+msgstr "盲人"
+
+msgid "Vermiform Appendix"
+msgstr "阑尾"
+
+msgid "Parotid Gland"
+msgstr "腮腺"
+
+msgid "Pharnyx"
+msgstr "咽"
+
+msgid "Oesophagus"
+msgstr "食道"
+
+msgid "Stomach"
+msgstr "胃"
+
+msgid "Pancreas"
+msgstr "胰腺"
+
+msgid "Jejunum"
+msgstr "空肠"
+
+msgid "Descending Colon"
+msgstr "降结肠"
+
+msgid "Rectum"
+msgstr "直肠"
+
+msgid "Anus"
+msgstr "肛门"

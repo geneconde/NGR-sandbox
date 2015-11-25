@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: human environmental impact\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team: ask@jigzen.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.8.3\n"
+
+# Common Translations
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "التقويم السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التقويم السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل  للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر ،امسك وحرك الفأرة صعودا وهبوطا لتدوير المربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة "
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "واجبك هو "
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "السؤال القصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr " السؤال القصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "السؤال القصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "السؤال القصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "السؤال القصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "السؤال القصير رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك على التقويم السريع والأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى اللوحة التوجيهية."
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير أول تقويم سريع"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد للتقويم الأخير ؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "أمستعد لسؤالك القصير الأخير؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها ... "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو...  "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# Human Environmental Impact PO File
+# 1
+msgid "Human Environmental Impact"
+msgstr "الأثر البيئي البشري"
+
+msgid "Welcome to the Human Environmental Impact module"
+msgstr "مرحبا بكم في وحدة الأثر البيئي البشري"
+
+msgid "Checking what you know about... human environmental impact"
+msgstr "التأكد مما تعرفه عن ... الأثر البيئي البشري"
+
+msgid "When people do things that change the environment, like destroying a field to build a new mall, what do you think happens to the animals that live in the field?"
+msgstr "عندما يقوم الناس بأشياء تغير من البيئة، كتدمير حقل لبناء مركز تجاري جديد، ما الذي سيحدث للحيوانات التي تعيش في هذا الحقل برأيك؟"
+
+msgid "If there's no other field in the area, they just move to the woods close by."
+msgstr "إن لم يكن هناك حقل آخر في المنطقة، فهم سينتقلون الى الغابة القريبة منه."
+
+msgid "They change their eating and housing habits and live wherever they can."
+msgstr "يغيرون عادات الأكل والسكن ويعيشون أينما كانوا."
+
+msgid "They live at the mall."
+msgstr "يعيشون في المركز التجاري."
+
+msgid "If there isn't a similar habitat near the mall, the plants and animals may die."
+msgstr "إذا لم تكن هناك بيئة مشابهة بالقرب من المركز التجاري، قد تموت الحيوانات والنباتات."
+
+msgid "When people change the environment by building a mall, a school, or a housing development, they affect all of the living things that used to live in the natural environment - plants and animals - in many ways. Some big strong animals, like a deer or coyote, might move to a new home if they can find one nearby. But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall but that's because they get trapped in there and can't find their way out."
+msgstr "عندما يغير الناس البيئة من خلال بناء مركز تجاري، مدرسة، أو تطوير سكني، فإنها تؤثر على جميع الكائنات الحية التي كانت تعيش في البيئة الطبيعية -النباتات والحيوانات-بعدة نواح.  بعض الحيوانات القوية الكبيرة، مثل الغزال أو الذئب، قد تنتقل إلى موطن جديد اذا استطاعت العثور عليه في مكان قريب.  ولكن حيوانات أخرى، مثل الأسماك أو الضفادع، قد تموت فقط لأنها لا تستطيع التنقل.  في بعض الأحيان يمكنك أن ترى عدداً قليلاً من الطيور داخل المركز التجاري وهذا لأنها تحاصر هناك ولن تتمكن من العثور على طريقها للخروج."
+
+msgid "But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall, but that's because they get trapped in there and can't find their way out."
+msgstr "لكن حيوانات أخرى، مثل الأسماك أو الضفادع، قد تموت فقط لأنها لا تستطيع التنقل. في بعض الأحيان يمكنك أن ترى عدد قليل من الطيور داخل المركز التجاري وهذا لأنها تحاصر هناك ولن تتمكن من العثور على طريقها للخروج."
+
+msgid "Migrating animals..."
+msgstr " الحيوانات المهاجرة  "
+
+msgid "Reviewing big ideas about... human environmental impact"
+msgstr "مراجعة الأفكار الكبيرة حول ... الأثر البيئي البشري"
+
+msgid "Reviewing key vocabulary related to... human environmental impact"
+msgstr "مراجعة المفردات المرتبطة ب ...الأثر البيئي البشري"
+
+msgid "Changing for the better..."
+msgstr "التغيير نحو الأفضل ..."
+
+msgid "Question A. Which of the following activities you do every day has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "السؤال أ. أي من الأنشطة التالية تقوم به كل يوم <span class='blink'>ليس </span> له أي تأثير سلبي على البيئة؟"
+
+msgid "Eating breakfast"
+msgstr "تناول وجبة الإفطار"
+
+msgid "Going to school"
+msgstr "الذهاب إلى المدرسة"
+
+msgid "Watching TV"
+msgstr "مشاهدة التلفزيون"
+
+msgid "None of the above"
+msgstr "لا شيء مما سبق"
+
+msgid "Question B. For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "السؤال ب. لكل مثال من تأثير الإنسان على البيئة في المبين في الصف العلوي، اسحب النقطة من تلك الصورة إلى النقطة على الصورة في الصف السفلي والتي تتناسب مع البيئة الطبيعية التي تأثرت."
+
+msgid "Shipping Port"
+msgstr "ميناء الشحن"
+
+msgid "Hydroelectric Dam Generator"
+msgstr "مولد سد الطاقة الكهرومائية "
+
+msgid "Clear-Cut Logging"
+msgstr " قطع الأشجار"
+
+msgid "Farm"
+msgstr "مزرعة"
+
+msgid "Forest"
+msgstr "غابة"
+
+msgid "Coastline"
+msgstr "ساحل"
+
+msgid "Meadow or Field"
+msgstr "مرج أو حقل"
+
+msgid "River"
+msgstr "نهر"
+
+msgid "Reset"
+msgstr "إعادة"
+
+msgid "Question A. Which of the following activities you do everyday has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "السؤال أ. أي من الأنشطة التالية تفعله كل يوم <span class='blink'>ليس</span> له أي تأثير سلبي على البيئة؟"
+
+msgid "Question B. For each example of a natural environment in the top row, drag from the dot on the image to a dot on an image in the bottom row that shows what the impact on that natural environment might be to meet human needs."
+msgstr "السؤال ب. لكل مثال من البيئة الطبيعية في الصف العلوي، اسحب من النقطة على الصورة إلى النقطة على الصورة في الصف السفلي الذي يظهر  تأثير البيئة الطبيعية لتلبية الاحتياجات البشرية."
+
+msgid "Preparing your first quick check…"
+msgstr "تحضير تقويمك السريع الاول!"
+
+msgid "Wrong - Eating breakfast requires farms to make your food – cereal, eggs, and bacon, whatever you eat. And these farms had to change whatever habitat existed before it became a farm, so farms have a great environmental impact to make food for us."
+msgstr "خطأ - تناول وجبة إفطارك تتطلب صنع المزارع لغذائك- الحبوب، البيض، واللحم المقدد،و مهما كنت تأكل.  وكان لا بد لهذه المزارع أن تغير المواطن الموجودة قبل أن تصبح مزرعة، لذا، المزارع لها تأثير بيئي كبير في صنع غذائنا."
+
+msgid "Wrong - Going to school is a big one. It requires transportation such as a car or a bus – which requires fuel like gasoline and oil. And the school was built from lots of materials from the environment – like your house – but even more. Then the environment, where the school is located, had to be destroyed to make room for the school."
+msgstr "خطأ - الذهاب إلى المدرسة له أثر  كبير. إنه يتطلب وسائل نقل مثل السيارة أو الحافلة - و الذي يتطلب الوقود مثل الجازولين والنفط.  وقد بنيت المدرسة من الكثير من المواد الموجودة في البيئة - مثل بيتك - و أكثر من ذلك.  كان لا بد من تدمير البيئة، حيث تقع المدرسة، لإفساح المجال لبناء المدرسة."
+
+msgid "Wrong - Watching TV requires electricity that usually comes from burning fossil fuel or damming rivers. An exception might be if your house uses solar powered electricity. But even then, you're probably watching TV in your house which required wood and other materials to build it that were taken from the environment."
+msgstr "خطأ - مشاهدة التلفزيون تتطلب الكهرباء وعادة ما يكون مصدرها حرق الوقود الأحفوري أو بناء سدود الأنهار.  ممكن أن يكون بيتك استثناءً اذ ا كان يستخدم الطاقة الشمسية.  حتى عند مشاهدة التلفزيون في منزلك و الذي يتطلب الخشب وغيره من المواد والتي أخذت من البيئة لبنائه. "
+
+msgid "Right!! Actually - all of a student's daily activities have some negative effect on the environment."
+msgstr "صحيح !! في الواقع - يكون للطالب بعض التأثير السلبي على البيئة في كل نشاطاته اليومية "
+
+msgid "You got it! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "لقد أصبت! موانئ الشحن تتطلب وجود ساحل أو بحيرة كبيرة على ساحل البحر . السد الكهرمائي يتطلب سد أعلى النهر  لتخزين المياه التي سوف تسقط وتمر من خلال المولدات في السد لتوليد الكهرباء.  قطع الأشجار  يحدث في البيئة الطبيعية للغابات. المزارع عادة ما تكون نتيجة الحراثة واستبدال البيئات الطبيعية في الحقول والمروج."
+
+msgid "Not quite! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "ليس تماما! موانئ الشحن تتطلب وجود ساحل أو بحيرة كبيرة على ساحل البحر . السد الكهرمائي يتطلب سد أعلى النهر  لتخزين المياه التي سوف تسقط وتمر من خلال المولدات في السد لتوليد الكهرباء.  قطع الأشجار  يحدث في البيئة الطبيعية للغابات.  المزارع عادة ما تكون نتيجة الحراثة واستبدال البيئات الطبيعية في الحقول والمروج."
+
+msgid "Reviewing big core ideas about... human environmental impact"
+msgstr "مراجعة الأفكار الكبيرة حول ... الأثر البيئي البشري"
+
+msgid "Humans are part of the environment too. We're animals like the deer, the birds, and the fish. But we're different from most animals. Animals in the wild only take what they need from the environment to survive, but humans take more than what they need just to survive. They often take as much as they can get, not only to survive, but also to exploit the environment to be comfortable and make money. Whatever resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment – which then can have negative impacts on us as well – because we're part of the environment.  "
+msgstr "البشر هم جزء من البيئة أيضا.  فنحن حيوانات مثل الغزلان والطيور، والأسماك. ولكننا نختلف عن معظم الحيوانات.  الحيوانات في البرية تأخذ ما تحتاجه فقط من البيئة للبقاء على قيد الحياة، ولكن البشر يأخذون أكثر مما يحتاجون للبقاء على قيد الحياة.  هم غالبا ما يأخذون أكبر قدر يمكنهم الحصول عليه، ليس فقط من أجل البقاء، ولكن أيضا لاستغلال البيئة و للراحة وكسب المال.  مهما كانت الموارد التي نستخدمها من البيئة تجعل حياتنا أفضل وأكثر راحة فهي يمكن أن يكون لها أيضا آثار سلبية على البيئة - أو التي بدورها سيكون لها تأثير سلبي علينا - لأننا جزء من البيئة"
+
+msgid ""
+"Water is just one example of how humans impact the environment. Almost all living things need water to survive. But most animals in the wild just take small sips of water from streams and lakes every day to meet their needs. But what are some things humans do beyond their simple daily requirements of satisfying their thirst? First of all, we put big dams across rivers to generate electricity. We also put dams up to create reservoirs to supply water for big cities and to make lakes for boating, swimming, and fishing. People also use water for more than just drinking. We use it to take showers, wash our clothes, and water our lawns. And, many big farms and ranches that produce all the food we eat use lots and lots of water to irrigate (water) their crops and livestock (animals). All of these human activities greatly impact the environment. The dams turn the rivers into lakes, which affects the survival of plants and animals in the river. And the "
+"clothes washing, lawn watering, and farm irrigation use extra water and sometimes pollute local water sources with detergents and fertilizers, changing the quantity and quality of the available water."
+msgstr ""
+"الماء هو مجرد مثال واحد من البشر عن كيفية تأثير البشر على البيئة.  كل الكائنات الحية تقريبا تحتاج إلى الماء من أجل البقاء.  لكن معظم الحيوانات في البرية تأخذ رشفات صغيرة فقط من الماء من الجداول والبحيرات كل يوم لتلبية احتياجاتها.  ولكن ما هي بعض الأشياءالتي يفعل البشر أكثر من احتياجاتهم اليومية البسيطة لتلبية عطشهم؟ أولا وقبل كل شيء، وضعنا السدود الكبيرة عبر الأنهار لتوليد الكهرباء.  ووضعنا أيضا السدود  لإنشاء خزانات لتوفير المياه للمدن الكبيرة وجعل منطقة البحيرات منطقة لركوب الزوارق والسباحة وصيد الأسماك.  يستخدم الناس المياه لأكثر من مجرد الشرب.  نستخدمها للاستحمام، وغسل ملابسنا، ولري العشب .  والعديد من المزارع والمناطق الريفية الكبيرة المنتجة لكل الطعام الذي نأكله تستهلك الكثير والكثير من المياه لري (سقي) محاصيلهم والمواشي (الحيوانات).  كل هذه الأنشطة البشرية تؤثر بشكل كبير على البيئة.  السدود تحول الأنهار الى بحيرات، مما يؤثر على بقاء النباتات والحيوانات في النهر على قيد الحياة.  وغسل الملابس وسقي العشب، واستخدام المزارع للمياه الزائدة "
+"وأحيانا تلوث مصادر المياه المحلية مع المنظفات والأسمدة، مغيرة كمية ونوعية المياه المتوفرة."
+
+msgid "But here's the good news. Humans are intelligent. We can make choices on how we live and what we do to the environment to minimize our impact on it."
+msgstr "ها هي الأخبار الجيدة.  البشر أذكياء.  يمكننا أن نختار كيف نعيش وماذا نفعل للبيئة للحد من تأثيرنا عليها."
+
+msgid "Identifying impacts on environments..."
+msgstr "تحديد الآثار المترتبة على البيئات ... "
+
+msgid "Question A. What is the <span class='blink'>best</span> statement about the relationships between humans, wild animals, and the environment?"
+msgstr "السؤال أ. ما هي <span class='blink'>أفضل</span>  عبارة حول العلاقات بين البشر، والحيوانات البرية، والبيئة؟"
+
+msgid "Wild animals and humans are all part of the global environment and impact the natural environment equally."
+msgstr "الحيوانات البرية والبشر كلها جزء من البيئة العالمية وتؤثر على البيئة الطبيعية على حد سواء."
+
+msgid "Humans are more important than wild animals, and the environment is there to make us comfortable."
+msgstr "البشر هم أكثر أهمية من الحيوانات البرية، والبيئة موجودة لتوفير الراحة لنا."
+
+msgid "Humans are smarter than wild animals so they impact the environment less."
+msgstr "البشر هم أكثر ذكاء من الحيوانات البرية  لذا هم يؤثرون على بيئة بشكل أقل."
+
+msgid "Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "الحيوانات البرية تأخذ ما تحتاجه فقط من البيئة للبقاء على قيد الحياة، ولكن يأخذ البشر اكثر مما يحتاجون للبقاء على قيد الحياة حتى أنهم يؤثرون على البيئة أكثر من الحيوانات البرية."
+
+msgid "Question B. The <span class='blink'>most</span> important purpose for bodies of water to fulfill the most basic human needs is for:"
+msgstr "السؤال ب. الهدف <span class='blink'>الأهم</span>  للمسطحات المائية لتلبية احتياجات الإنسان الأساسية هو:"
+
+msgid "Rivers to generate electricity."
+msgstr "توليد الأنهار  للكهرباء."
+
+msgid "Places to go fishing and swimming."
+msgstr "أماكن للذهاب للصيد والسباحة."
+
+msgid "Sources of drinking water."
+msgstr "مصادر مياه الشرب."
+
+msgid "Sources for baths, showers, and doing laundry."
+msgstr "مصادر الحمامات، ودشات الاستحمام، وغسل الملابس."
+
+msgid "Clicking to answer..."
+msgstr "انقر للإجابة ... "
+
+msgid "No - Wild animals and humans don't impact the environment equally."
+msgstr "لا - الحيوانات البرية والبشر لا يؤثران على البيئة بنفس المستوى."
+
+msgid "No - The environment is not there just to make humans comfortable. It's there to support the survival of all living things equally."
+msgstr "لا - البيئة ليست موجودة فقط لراحة البشر، بل لدعم بقاء جميع الكائنات الحية على حد سواء."
+
+msgid "No - Humans are smarter than animals in some ways but they still impact the environment more than all other animals."
+msgstr "لا - البشر هم أكثر ذكاء من الحيوانات في بعض النواحي لكنهم ما زالوا  يؤثرون على البيئة أكثر من جميع الحيوانات الأخرى."
+
+msgid "Yes - Humans do take more from the environment than they need just to survive."
+msgstr "نعم -يستخدم البشر أكثر مما يحتاجون من البيئة للبقاء على قيد الحياة."
+
+msgid "No - Electricity is important but it's not the most important because humans could survive without it."
+msgstr "لا - الكهرباء مهمة لكنها ليست الأهم لأن البشر يستطيعون العيش بدونها."
+
+msgid "No - Fishing and swimming are fun but not critical to our needs."
+msgstr "لا - صيد السمك والسباحة ممتعة ولكنها ليست مهمة لتلبية احتياجاتنا."
+
+msgid "Yes - We can't live without drinking water."
+msgstr "نعم - لا يمكننا العيش بدون شرب الماء."
+
+msgid "No - We can live without baths and laundry."
+msgstr "لا - يمكننا العيش دون الاستحمام وغسيل الملابس."
+
+msgid "Reviewing more big ideas about... human environmental impact"
+msgstr "مراجعة المزيد من الأفكار الكبيرة حول ...   الأثر البيئي البشري"
+
+msgid ""
+"The burning of fossil fuels is another example of how the resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment - which then can have negative impacts on us as well. For instance, we burn coal to make electricity and we burn gasoline to run our cars. Coal and gasoline are examples of \"<span class='key'>fossil fuels</span>\" because they're formed in the ground from the remains of dead plants from millions of years ago. Electricity and cars are hugely important in making our lives more comfortable. Can you imagine living in the dark and walking everywhere you had to go? But burning these fossil fuels can also have a very negative impact on the environment - and on you! Most scientists that study climates have strong evidence to believe that one of the by-products of burning fossil fuels is a powerful pollutant - <span class='key'>carbon dioxide</span> "
+"(CO<sub>2</sub>) - which is causing the earth to heat up, producing heat waves of record high temperatures, wildfires, and more powerful storms."
+msgstr "حرق الوقود الأحفوري هو مثال آخر على كيفية أن الموارد المستخدمة من البيئة والتي تجعلنا أكثر راحة وتجعل حياتنا أفضل، يمكن أن يكون لها أيضا آثار سلبية على البيئة وعندها يمكن أن يكون لها تأثيرات سلبية علينا أيضا. على سبيل المثال، نحن نحرق الفحم لتوليد الكهرباء ونحرق الوقود لتشغيل سياراتنا. الفحم والبنزين هي أمثلة على الوقود الأحفوري لأنها تتشكل في الأرض من بقايا النباتات الميتة من منذ ملايين السنين.  الكهرباء والسيارات هي في غاية الاهمية لجعل حياتنا أكثر راحة.  هل يمكنك أن تتخيل العيش في الظلام وتمشي في كل مكان عليك الذهاب إليه؟ لكن حرق <span class='key'>الوقود الأحفوري</span> هذا يمكن أن يكون له أيضا آثار سلبية جدا على البيئة  وعليك! معظم العلماء الذين يدرسون المناخ لديهم أدلة قوية للاعتقاد بأن واحدة من المنتجات الثانوية الناتجة من حرق الوقود الأحفوري هي ملوثات قوية. <span class='key'> ثاني أكسيد الكربون</span> (CO<sub>2</sub>) والذي يسبب ارتفاع درجة حرارة الأرض، ينتج موجات حرارية عالية قياسيا، وحرائق غابات،  والكثير من العواصف القوية."
+
+msgid "<span class='key'>Pollutants</span> are any new substances, or extra abnormal amounts of naturally occurring substances, that are introduced by human activities into the air, water, or earth. So even though there are benefits for you from burning fossil fuels for electricity and transportation, there may also be some very harmful impacts to the environment from the carbon dioxide (CO<sub>2</sub>) gas pollutants produced from this human activity."
+msgstr "<span class='key'>الملوثات</span> هي أي مواد جديدة، أو كميات غير طبيعية إضافية من المواد التي تحدث بشكل طبيعي، والتي تنتج بفعل الأنشطة البشرية في الهواء أو الماء أو الأرض. على الرغم من أن هناك فوائد لك من حرق الوقود الأحفوري لتوليد الكهرباء والمواصلات، قد يكون هناك بعض الآثار الضارة جدا على البيئة من ثاني أكسيد الكربون (CO<sub>2</sub>) و ملوثات الغاز المنتجة من هذا النشاط الإنساني ."
+
+msgid "But humans are smart! Both individually and as a society, there are things we can do to minimize the harmful impact we have on the environment by changing our behavior. It's a matter of being knowledgeable about the impact of humans on the environment and then making informed decisions on how to deal with the impact."
+msgstr "لكن البشر أذكياء! سواء على المستوى الفردي أو كمجتمع، هناك أمور يمكننا القيام بها لتقليل الآثار الضارة على البيئة من خلال تغيير سلوكنا. انها مسألة تتعلق بمدى معرفة تأثير البشر على البيئة ومن ثم اتخاذ قرارات مدروسة حول طريقة التعامل مع هذه التاثيرات."
+
+msgid "Producing heat waves..."
+msgstr "إنتاج موجات حرارية"
+
+msgid "Which of the following substances introduced into the environment would generally be considered pollutants? Check yes or no for all of the examples."
+msgstr "أي من المواد التالية التي أدخلت على البيئة تعتبر من الملوثات؟ ضع نعم أو لا لجميع الأمثلة."
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Carbon dioxide (CO<sub>2</sub>) that humans exhale into the air as a normal part of breathing."
+msgstr "يعتبر ثاني أكسيد الكربون (CO<sub>2</sub>) الذي يخرجه البشر كزفير في الهواء جزءا طبيعيا من التنفس."
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "هذا ليس ملوثا لأن البشر هم جزء من البيئة وتنفسهم هو جزء من ما يحدث بشكل طبيعي.  ولكن ماذا إذا كانت مدينة فيها عدد هائل من البشر مثل نيويورك أو طوكيو؟ انظر البند التالي أدناه."
+
+msgid "Methane gas (CH<sub>4</sub>) that farm cows fart after eating grass."
+msgstr "غاز الميثان  (CH<sub>4</sub>)  هو الغاز الذي تخرجه الأبقار على شكل ريح بعد أكل العشب."
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "نعم، لأن الأبقار الموجودة في المزرعة، وخاصة مزرعة كبيرة تحتوي آلاف الأبقار، إضافة المزيد من غاز الميثان على البيئة من شأنه أن يكون طبيعيا في حقل طبيعي أو في الغابة ذات عدد قليل من الحيوانات."
+
+msgid "Warm water discharged into a cold river from the cooling of a power plant."
+msgstr "المياه الدافئة تصرف في أحد الأنهار الباردة من محطة توليد الكهرباء."
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "نعم.  إذا كانت درجة حرارة الماء من النهر عادة باردة وساخنة أو حتى يضاف إليها ماء دافئ ، فهذه تصبح من الملوثات.  وتسمى التلوث الحراري."
+
+msgid "Carbon dioxide (CO<sub>2</sub>) from burning coal in an electric power plant."
+msgstr "ثاني أكسيد الكربون (CO<sub>2</sub>) ينتج من حرق الفحم في محطة لتوليد الطاقة الكهربائية."
+
+msgid "This was discussed in the review."
+msgstr "وقد نوقش هذا في المراجعة."
+
+msgid "Fertilizers that farmers put on a field to grow better crops."
+msgstr "الأسمدة التي يضعها المزارعون في الحقل لزراعة محاصيل أفضل."
+
+msgid "Yes because farmers put nitrate and phosphate fertilizers on their fields to help make the crops grow faster and bigger. Some of it sometimes gets into the water around the farm and raises the nitrates and phosphates above normal, so it’s a pollutant."
+msgstr "نعم لأن المزارعين وضعوا النترات والفوسفات والأسمدة في حقولهم للمساعدة في جعل المحاصيل تنمو بشكل أسرع وأكبر.  بعض ما يحصل أحيانا في الماء من حول المزرعة يرفع النترات والفوسفات فوق المعدل الطبيعي، لذلك فهي من الملوثات."
+
+msgid "Oil that gets spilled into the ocean from an oil tanker cargo ship."
+msgstr "النفط الذي يتسرب إلى المحيط من سفينة الشحن الناقلة للنفط"
+
+msgid "Yes!"
+msgstr "نعم!"
+
+msgid "Detergent from your dishwasher or clothes washer that gets into rivers."
+msgstr "المنظفات من غسالة صحونك أو غسالة الملابس والتي تنتهي بالأنهار."
+
+msgid "Detergent or soap from your family’s laundry sometimes gets into the water around your house, so it’s a pollutant."
+msgstr "المنظفات أو الصابون من غسيل عائلتك يدخل أحيانا في المياه حول منزلك، لذلك فهي من الملوثات."
+
+msgid "Methane gas (CH<sub>4</sub>) that deer fart after eating grass."
+msgstr "غاز الميثان (CH<sub>4</sub>)  هو الغاز الذي تخرجه الأبقار على شكل ريح بعد أكلها للعشب."
+
+msgid "Deer farts in the woods are a normal and natural part of nature."
+msgstr "تطلق الغزلان الريح في الغابات وهذا جزء طبيعي وعادي في الطبيعة."
+
+msgid "Fertilizers from your lawn that run off into a local stream, river, or lake."
+msgstr "الأسمدة من عشب حديقتك و التي تجري داخل تيارات الماء المحلية وفي  النهر، أو البحيرة."
+
+msgid "Yes, this is a pollutant. Just because it’s your lawn doesn’t mean it doesn’t have the same effect as a farm."
+msgstr "نعم، انها ملوثة.  فقط كونه العشب الخاص بحديقتك، لا يعني أنه ليس لديه نفس التأثير  كالمزرعة."
+
+msgid "Studying harmful chemicals..."
+msgstr "دراسة المواد الكيميائية الضارة ..."
+
+msgid "More big ideas about... human environmental impact"
+msgstr "المزيد من الأفكار الكبيرة حول ... الأثر البيئي البشري"
+
+msgid ""
+"So let's get back to how you can become an EcoKid Super Ranger hero. It's pretty easy to understand but challenging to do. First, you have to understand one big idea, and that is humans can change the way they do things - their behavior - to minimize their impact on the environment. If you know what the impact on the environment is for the things you do, then you can change what you do to lessen the impact. For instance, if you know that driving a car causes air pollution, including the \"greenhouse gas\" CO<sub>2</sub> that may be causing <span class='key'>global climate change</span>, then - and here's the challenging part - you can change your behavior to use a car less to get you where you need to go. You could walk, ride your bike, ask your parents to start a carpool with your friends, or ride a bus to wherever you're going if it's safe. All of these things cut down on the number of miles each car is driven so it cuts down on the amount of "
+"pollutants the car gives off. PLUS!! Your parents save money on gas. And if you really want to save gas, you could talk to your parents about getting a <span class='key'>hybrid</span> electric car. These are things that you personally can do with your parents and your friends. But if you want to be a real EcoKid Super Ranger, the greatest positive impact you can have is by getting your whole community involved and thinking about all the possible things your school or community can do to help the environment. Then you really would be a superhero!!!"
+msgstr ""
+"دعونا نعود إلى كيف أن تصبح فتى البيئة البطل.  من السهل جدا أن نفهم ولكن التحدي يكمن في عمل الشيء.  أولا،عليك أن تفهم فكرة واحدة كبيرة، وهي أن البشر يغيرون الطريقة التي يفعلون بها الأشياء- سلوكهم - لتقليل تأثيرها على البيئة.  لو كنت تعلم أن تأثير ذلك على البيئة هو بسبب الأشياء التي تقوم بها،  يمكنك وقتها تغيير ما تقوم به لتقليل هذا التأثير.  على سبيل المثال، إذا كنت تعرف أن قيادة السيارة تسبب تلوث الهواء، و غازات الاحتباس الحراري CO<sub>2</sub> التي تسبب <span class='key'>تغير المناخ العالمي</span> وهنا يكمن التحدي يمكنك عندها تغيير سلوكك لاستخدام سيارتك بشكل أقل عند ذهابك أينما تريد.  يمكنك أن تمشي، تركب دراجتك الهوائية، تطلب من والديك البدء بتوصيل أصدقائك بالسيارة، أو ركوب الحافلة إلى أي مكان تريد الذهاب إليه إذا كانت آمنة.  كل هذه الأشياء تخفض عدد الأميال التي تسوقها السيارة لذا فهي تقلل من الملوثات التي تخرج من السيارة.  إضافة إلى ذلك! يوفر والديك المال باستخدام الغاز.  وإن كنت حقا تريد انقاذ الغاز، يمكنك أن تتحدث إلي والديك للحصول على <span "
+"class='key'>سيارة كهربائية </span> . وهذه هي الأشياء التي يمكنك شخصيا القيام بها مع والديك وأصدقائك. ولكن إذا كنت تريد أن تكون بطلا حقيقيا فالأثر الإيجابي الحقيقي الأكبر للبيئة يمكن أن يكون مشاركة المجتمع كله والتفكير في كل الأشياء الممكن أن تقوم بها مدرستك أو المجتمع  لمساعدة البيئة.  عندها سوف تكون بطل خارق."
+
+msgid "Driving a car..."
+msgstr "قيادة السيارة ..."
+
+msgid "Question A. Which of the following <span class='blink'>would not</span> be a good thing to do to help cut down on the use of gasoline that causes CO<sub>2</sub> pollution into the atmosphere?"
+msgstr "السؤال أ. أي مما يلي <span class='blink'>لن يكون</span> أمرا جيدا للقيام به للمساعدة في تقليل استخدام الجازولين والذي يسبب التلوث  CO<sub>2</sub>  في الغلاف الجوي؟"
+
+msgid "Walk or ride your bike to school instead of having your parents drive you."
+msgstr "المشي أو ركوب دراجتك إلى المدرسة بدلا من أن يضطر والديك لتوصيلك"
+
+msgid "Take a bus to the mall instead of having your parents drive you."
+msgstr "خذ حافلة إلى المركز التجاري بدلا من أن يضطر والديك لتوصيلك"
+
+msgid "Ask your parents to set up a neighborhood carpool to take other kids in your neighborhood to school instead of everyone driving separately."
+msgstr "اطلب من والديك تجهيز سيارة لتوصيل الطلاب الصغار في منطقتك إلى المدرسة بدلا من أن يقوم الجميع بالقيادة بشكل منفرد."
+
+msgid "Ask your parents to get a big 4-wheel drive SUV so you look cool getting dropped off at school."
+msgstr "اطلب من والديك أن يشتروا سيارة دفع رباعي كبيرة، لتظهر بشكل رائع عند توصيلك إلى المدرسة."
+
+msgid "Question B. To have the <span class='blink'>greatest</span> positive impact on your environment, you could:"
+msgstr "السؤال ب. للحصول على التأثير الإيجابي <span class='blink'>الأعظم</span>  في بيئتك . بإمكانك أن:"
+
+msgid "Make personal choices to change your daily behavior to minimize your impact on the environment."
+msgstr "اتخذ خيارات شخصية لتغيير السلوك اليومي لتقليل تأثيرها على البيئة."
+
+msgid "Work with your classmates at your school to organize projects to change how your school uses natural resources that impact the environment."
+msgstr "العمل مع زملائك في المدرسة لتنظيم المشاريع لتغيير كيفية استخدام مدرستك للموارد الطبيعية التي تؤثر على البيئة."
+
+msgid "Help to organize a neighborhood drive to recycle plastic soda bottles."
+msgstr "المساعدة على تنظيم حملة  لاعادة تدوير الزجاجات البلاستيكية للصودا في الحي."
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood and school to change how your community impacts the environment."
+msgstr "تعلم قدر الإمكان عن كيفية  تأثير البشر على البيئة على الصعيد العالمي، ولكن اعمل على المستوى المحلي في مجتمعك، الحي والمدرسة لتغيير كيفية تأثير مجتمعك على البيئة."
+
+msgid "Question A. Which of the following things could you do that <span class='blink'>would not</span> cut down on pollution of CO<sub>2</sub> into the atmosphere? You could:"
+msgstr "السؤال أ. أي من الأمور التالية يمكنك عملها، والتي <span class='blink' لن تساعد </span> في خفض التلوث ب CO<sub>2</sub> في الغلاف الجوي؟ يمكنك أن:"
+
+msgid "Not Really - That would be a great thing to walk or ride a bike because you would cut down on CO<sub>2</sub> gas given off from burning gasoline that's needed for driving a car to school."
+msgstr "ليس حقا - سيكون ذلك شيء عظيم أن تمشي أو تركب الدراجة لأنك سوف تخفض من غاز CO<sub>2</sub> المنبعث من احتراق الجازولين المطلوب لقيادة السيارة إلى المدرسة."
+
+msgid "Not quite – the bus still needs gasoline or diesel fuel but it carries a lot of people instead of just a few like a car does so for each person traveling less fuel is needed per person."
+msgstr "ليس تماما - الحافلة لا تزال بحاجة وقود الجازولين أو الديزل لكنها تحمل الكثير من الناس بدلا من حمل عدد قليل مثل السيارة، لذا كلما قل تنقل الشخص، كلما نقص استهلاك الوقود."
+
+msgid "Not quite – carpooling is like riding a bus – but on a smaller scale. The car still uses fuel but it carries more people so less fuel is needed for each person."
+msgstr "ليس تماما -التوصيل بالسيارة هو مثل ركوب الحافلة  ولكن على نطاق أصغر.  لا تزال السيارة تستخدم الوقود لكنها تحمل المزيد من الناس لذلك هي تحتاج كمية أقل من الوقود لكل شخص."
+
+msgid "Correct – this is NOT a good thing to do to help the environment. Big 4-wheel drive SUVs are cool but they usually use a lot of gasoline that gives off CO<sub>2</sub>."
+msgstr "صحيح - هذا ليس شيئا جيدا لمساعدة البيئة. السيارات ذات محرك الدفع الرباعي الكبيرة رائعة، لكنها  تستهلك الكثير من الوقود عادة و الذي ينتج ثاني أكسيد الكربون CO<sub>2</sub> ."
+
+msgid "Yes, making personal choices to change your impact is an important first step but there is an even better way to have the greatest impact."
+msgstr "نعم،اتخاذ القرارات الشخصية لتغيير تأثيرك على البيئة هي خطوة أولى مهمة ولكن هناك وسيلة أفضل و لها الأثر الأعظم."
+
+msgid "Yes, organizing projects at your school is a great place to have a bigger positive impact on the environment, but you can think even bigger than that."
+msgstr "نعم، تنظيم المشاريع في مدرستك هي أفضل مكان ليكون لك التأثير الإيجابي الأكبر على البيئة، لكن باستطاعتك أن تفكر بشكل أكبر من ذلك بعد."
+
+msgid "Yes, organizing a recycling drive in your neighborhood is a great thing to do for the environment but what about all the other neighborhoods in your community?"
+msgstr "نعم، تنظيم حملة إعادة التدوير في حيك هو شيء عظيم تفعله للبيئة ولكن ماذا عن الأحياء الأخرى في مجتمعك؟"
+
+msgid "YES!!! Understanding all the ways humans affect the global environment and then using that knowledge to impact your whole community is a very powerful way to have the greatest impact on your environment!!"
+msgstr "نعم! فهم كل الطرق البشرية التي تؤثر على البيئة العالمية ثم استخدام هذه المعرفة لتؤثر على المجتمع كله هي وسيلة قوية للغاية ليكون لها الأثر الأعظم على بيئتك."
+
+msgid "Using what you now know about... human environmental impact... to solve a problem"
+msgstr "استخدام ما تعرفه الآن حول ... الأثر البيئي البشري... لحل مشكلة"
+
+msgid "There is a really bad smell in your neighborhood from a river close by that is affecting you, your friends and your family. What could it be? How do you find out what it is? What is causing it?"
+msgstr "هناك رائحة سيئة جدا في منطقتكم من نهر قريب وتؤثر عليك وعلى أصدقائك وعائلتك. ماذا يمكن أن تكون؟ كيف يمكنك أن  تعرف ما هي؟ وماذا تسبب؟"
+
+msgid "Write a short paragraph telling what specific action you could take to help solve and/or lessen the impact of this problem. What would you personally change about your habits and behavior? What could your school or community do? How could you personally help your community to take action?"
+msgstr "اكتب فقرة قصيرة تتحدث فيها عن الإجراءات المحددة التي ستتخذها للمساعدة في حل و / أو التقليل من تأثير هذه المشكلة.  ما الذي ستقوم بتغييره بشكل شخصي في عاداتك وسلوكك؟ ماذا يمكن أن تفعل مدرستك أو مجتمعك؟ كيف يمكنك أن تساعد مجتمعك شخصيا باتخاذ الإجراءات؟"
+
+msgid "Changing bad habits..."
+msgstr "تغيير العادات السيئة ..."
+
+msgid "Summarizing big ideas about... human environmental impact"
+msgstr "تلخيص الأفكار الكبيرة حول ... الأثر البيئي البشري"
+
+msgid "The earth's <span class='key'>environment</span> is very important because it can provide healthy air, water, food and land for all the living things on earth to survive. But because there are so many people on earth, and because all of these people use the environment to survive and try to live comfortably, humans can have a great impact on the environment that might be harmful. This <span class='key'>impact</span> can destroy parts of the environment so that many people don't have the healthy air, water, food and land they need to survive."
+msgstr "<span class='key'>بيئة </span> الارض مهمة جدا لأنها يمكن أن توفر الهواء الصحي والمياه والغذاء والأراضي لجميع الكائنات الحية على الأرض للبقاء على قيد الحياة.  ولكن لأن هناك عدد كبير من الناس على الأرض، ولأن جميع هؤلاء الناس يستخدمون البيئة للبقاء على قيد الحياة ويحاولون العيش براحة،يمكن أن يكون للبشر تأثير كبير على البيئة و الذي قد يكون ضارا.  هذا <span class='key'>التأثير </span>يمكن أن يدمر أجزاء من البيئة بحيث أنه  ليس لدى الكثير من الناس هواء صحي،ماء، غذاء والأراضي التي يحتاجون إليها من أجل البقاء على قيد الحياة."
+
+msgid "Clearing land for farms and housing developments can destroy fields and woods and add <span class='key'>pollutants</span> to the water; driving cars and generating electricity adds pollutants to the air; factories that make the things we use every day can add pollutants to the water. But the good news is that humans are smart and can understand how they negatively impact the environment and how that negatively impacts them in return."
+msgstr "تطهير الأرض للمزارع والتطويرات السكنية يمكن أن يدمر الحقول والغابات ويضيف <span class='key'>الملوثات</span> إلى الماء؛ قيادة السيارات وتوليد الكهرباء يضيف الملوثات إلى الهواء.  يمكن للمصانع التي تصنع الأشياء التي نستخدمها كل يوم تضيف الملوثات إلى المياه.  ولكن الخبر السار هو أن البشر أذكياء ويمكنهم استيعاب تأثيرهم السلبي على البيئة وكيف تؤثر عليهم سلبا  بالمقابل."
+
+msgid "There are lots of scientists that investigate the environment to understand what people are doing to hurt it and what we can do to help. These understandings can cause humans to change their behavior so they lessen their negative impact on the environment. If we didn't understand our impact and how to change it, it's possible that we might totally ruin some, or all, of the earth's environment so we couldn't survive."
+msgstr "هناك الكثير من العلماء الذين يحققون في البيئة لفهم ما يفعله الناس لايذائها وما يمكننا القيام به للمساعدة.  ويمكن لهذا الفهم أن يؤدي إلى تغيير البشر لسلوكهم بحيث يقلل من تأثيرها السلبي على البيئة.  إذا  لم نفهم تأثيرنا وكيفية تغييره، فمن الممكن أن ندمر بعض، أو كل، من بيئة الأرض، لذا لن نبقى على قيد الحياة."
+
+msgid "Checking what you now know about... human environmental impact"
+msgstr "التأكد مما تعرفه عن ... الأثر البيئي البشري"
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the image to the bottom row that shows the human impact necessary to provide the resources for the product. Some items have multiple answers."
+msgstr "لكل عنصر  والمبين في الصف العلوي , والذي تستخدمه في حياتك اليومية، قم بتوصيل الصورة من الصف السفلي الذي يظهر التأثير البشري الضروري لتوفير الموارد للمنتج. بعض البنود لها أجوبة متعددة."
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the dot on that image to the dot on the image in the bottom row that shows the human impact necessary to provide the resources for the product."
+msgstr "لكل عنصر مبين في الصف العلوي التي تستخدمها في حياتك اليومية، قم بتوصيل النقطة على الصورة إلى النقطة على الصورة في الصف السفلي الذي يظهر التأثير البشري الضروري لتوفير الموارد للمنتج."
+
+msgid "House"
+msgstr "البيت"
+
+msgid "TV"
+msgstr "التلفزيون"
+
+msgid "Food"
+msgstr "الغذاء"
+
+msgid "Car"
+msgstr "السيارة"
+
+msgid "Bicycle"
+msgstr "الدراجة هوائية"
+
+msgid "Mine"
+msgstr "منجم"
+
+msgid "Oil Well Field"
+msgstr "حقل نفط"
+
+msgid "Clear-cut Logging"
+msgstr " قطع الأشجار"
+
+msgid "Your first quiz question is…"
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid ""
+"That’s correct! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come "
+"from mines that dig these metals out of the ground."
+msgstr "هذا صحيح! عموما، المنزل يتطلب الخشب الذي يتم قطعه من غابات البيئة الطبيعية وتأثير الإنسان هو غابة خالية من الأشجار.  <br/>أجهزة التلفزيون تتطلب الكهرباء التي تأتي عادة من الطاقة الكهرومائية أو بعض المصادر لتوليد الكهربائية الأخرى. البيئات الطبيعية المتأثرة هي الأنهار لتوفير الطاقة لمولدات الطاقة الكهرومائية.  ومن  الأمثلة على نتاج تأثير الإنسان على البيئة هي السدود الضخمة عبر الأنهار.  يتطلب <br/> الطعام المكونات الغذائية مثل الحبوب للفطائر، أو الخضار أو اللحوم.  وعادة ما تزرع هذه المكونات في المزارع.  إن التأثير البشري هو أن المزارع استبدلت الحقول الطبيعية والغابات. تحتاج <br/> السيارات للوقود الذي يأتي من النفط، لتعمل. يمكن العثور النفط في الأرض تحت أي بيئة طبيعية تقريبا. تأثير الإنسان على هذه البيئات الطبيعية هو تطوير حقل ضخ النفط على سطح الأرض.  وتصنع معظم <br/> الدراجات من أنواع مختلفة من المعادن مثل الحديد والكروم وغيرها."
+
+msgid ""
+"Nope! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come from mines "
+"that dig these metals out of the ground."
+msgstr "هذا صحيح! بشكل عام، يتطلب بناء البيت الكثير من الخشب والذي يتم قطعه من غابات البيئة الطبيعية وتأثير الإنسان هو وجود غابة خالية من الأشجار.  <br/>أجهزة التلفزيون تتطلب الكهرباء التي تأتي عادة من الطاقة الكهرومائية أو بعض المصادر لتوليد  الطاقة الكهربائية الأخرى. البيئات الطبيعية المتأثرة هي الأنهار لتوفر الطاقة لمولدات الطاقة الكهرومائية.  ومن  الأمثلة على نتاج تأثير الإنسان على البيئة هي السدود الضخمة عبر الأنهار.  يتطلب <br/> الطعام المكونات الغذائية مثل الحبوب للفطائر، أو الخضار أو اللحوم.  وعادة ما تزرع هذه المكونات في المزارع.  إن التأثير البشري هو أن المزارع استبدلت الحقول الطبيعية والغابات.  تحتاج <br/> السيارات للوقود المستخرج من النفط، لتعمل.  يمكن العثور على النفط في الأرض تحت أي بيئة طبيعية تقريبا.  تأثير الإنسان على هذه البيئات الطبيعية هو تطوير حقل ضخ النفط على سطح الأرض. وتصنع معظم <br/> الدراجات من أنواع مختلفة من المعادن مثل الحديد والكروم وغيرها.  هذه المعادن تأتي من المناجم التي تستخرج هذه المعادن من باطن الأرض."
+
+msgid "Thinking about... human environmental impact"
+msgstr "التفكير  ب ... الأثر البيئي البشري"
+
+msgid "Everybody loves superheroes who save the world. There's Superman, Wonder Woman, Batman, Robin, Wolverine, and lots of other superheroes everybody reads about in comic books and sees in the movies. Do you want to be a superhero and save the world? YOU CAN!! You can become an Eco-Kid Super Ranger!! What are Eco-Kid Super Rangers you ask? Well, they're superheroes that disguise themselves as ordinary kids just like you. But they're not ordinary! They're really smart kids who know that what everybody does every day is affecting the earth and in some places destroying the environment. But Eco-Kid Super Rangers know what those things are and what we can all do to help lessen the impact of everyday living in modern society on the environment."
+msgstr "الكل يحب الأبطال الخارقين الذين ينقذون العالم.  هناك سوبرمان، والمرأة العجيبة، باتمان وروبين، وولفيرين، والكثير من الأبطال الخارقين الآخرين الذين يقرأ عنهم الجميع في الكتب المصورة، ويراهم في الأفلام.  هل تريد أن تكون بطلا خارقا وتنقذ العالم؟ بإمكانك ذلك!! يمكنك أن تصبح طفلا حارسا صديقا للبيئة  !! من هم الأطفال أصدقاء وحراس البيئة؟ حسنا، انهم الأبطال الخارقين الذين يتنكرون كالأطفال العاديين مثلك.  لكنهم ليسو عاديين! انهم الاطفال الأذكيا ء الذين يعرفون أن ما يفعله الجميع  كل يوم يؤثر على الأرض وفي بعض الأماكن يدمرون البيئة.  ولكن الأطفال أصدقاء وحراس البيئة  يعرفون ما هي تلك الأشياء وما يمكننا أن نفعل  لنساعد على التقليل من تأثير الحياة اليومية في المجتمع الحديث على البيئة."
+
+msgid "Do YOU want to be an Eco-Kid Super Ranger hero? If you do, then think about all the things you do or use in your life every day - like driving in a car, eating your food, living in your house. And think about where all the stuff comes from that helps you live the comfortable lifestyle you live. Now think about what effect getting all that stuff has on the earth's environment. Then, and here's the important part, think about how you can change your lifestyle, and that of your friends and family, to lessen your impact on the earth – and then do it! See, you really can be a superhero who saves the world."
+msgstr "هل تريد أن تكون بطلا خارقا صديقا وحارسا للبيئة؟ إن أردت،فكر في جميع الأشياء التي تقوم بها أو تستخدمها في حياتك يومية - مثل قيادة السيارة، وتناول طعامك، و العيش في منزلك. وفكر من أين تأتي كل الاشياء التي تساعدك في العيش حياة مريحة كالتي تعيشها الآن. فكر في تأثير الحصول على جميع الاشياء التي لديك من بيئة الأرض.  وبعد ذلك يكمن الجزء المهم، فكر في كيفية تغيير نمط حياتك، وذلك عن طريق أصدقائك وعائلتك، للتخفيف من تأثيرك على الأرض - ثم افعله! هل ترى، أنت حقا يمكن ان تكون البطل الذي ينقذ العالم."
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "For each example of human impact on the environment shown in the bootom row, connect the image to the top row onto the picture of the original natural environment that was impacted. Some items have multiple answers."
+msgstr "لكل مثال على تأثير الإنسان على البيئة ، مبين في الصف السفلي، قم بتوصيل الصورة إلى الصف العلوي على صورة البيئة الطبيعية و الأصلية التي تأثرت. بعض البنود لها أجوبة متعددة."
+
+msgid "For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "السؤال ب. لكل مثال عن تأثير الإنسان على البيئة المبين في الصف العلوي، اسحب النقطة من تلك الصورة إلى النقطة على الصورة في الصف السفلي والتي تتناسب مع البيئة الطبيعية التي تأثرت."
+
+msgid "Effects of human impact"
+msgstr "الآثار البيئية البشرية"
+
+msgid "Not quite! Can you make additional connections? Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "ليس تماما! هل يمكنك عمل روابط إضافية؟ موانئ الشحن تتطلب وجود شريط ساحلي على ساحل البحر أو البحيرة الكبيرة.  سد الطاقة الكهرمائية يتطلب وجود نهر لسد و إنشاء خزان لتخزين المياه التي ستسقط عبر المولدات في سد توليد الكهرباء.  قطع الأشجار وجعل الغابة خالية يحدث في بيئة الغابات الطبيعية . المزارع عادة ما تكون نتيجة الحراثة والاستعاضة عن البيئات الطبيعية من الحقول والمروج."
+
+msgid "Which of the following statements about humans and the environment is <span class='blink'>NOT true</span>?"
+msgstr "أي من العبارات التالية <span class='blink'>غير </span> صحيح حول البشر والبيئة ؟"
+
+msgid "Human activities can have both a positive and a negative impact on the environment."
+msgstr "ويمكن للأنشطة البشرية على حد سواء أن تكون إيجابية ولها تأثير سلبي على البيئة."
+
+msgid "Not everything humans put into the environment is a pollutant."
+msgstr "ليس كل شيء يضعه البشر في البيئة هو ملوث."
+
+msgid "The purpose of the environment is to provide resources to make people's lives more comfortable and productive."
+msgstr "الغرض من البيئة هو توفير الموارد اللازمة لجعل حياة الناس أكثر راحة وإنتاجا."
+
+msgid "Humans are part of the environment so anything we do to impact the environment impacts us too."
+msgstr "البشر هم جزء من البيئة لذا فان أي شيء نقوم به للتأثير على البيئة يؤثر بنا أيضا."
+
+msgid "Interacting with environment..."
+msgstr "التفاعل مع البيئة ..."
+
+msgid "Not really - This is a TRUE statement. Human activities can have a negative impact on the environment when pollution occurs but humans can also have a positive impact on the environment when they clean up pollution or change their activities so that they don't pollute."
+msgstr "ليس حقا. ويمكن لأنشطة الإنسان أن تؤثر سلبا على البيئة عند حدوث التلوث ولكن يمكن أن يؤثر البشر تأثيرا إيجابيا على البيئة عندما يقومون بالتخلص من  التلوث أو تغيير أنشطتهم بحيث لا يحدثون تلوث."
+
+msgid "Not really - This is a TRUE statement. Not everything humans put into the environment is a pollutant. For instance, when we compost our waste food to create organic fertilizer, it actually helps the plants in the environment rather than hurting them."
+msgstr "ليس حقا - هذه عبارة صحيحة. ليس كل شيء يضعه البشر في البيئة ملوث. على سبيل المثال، عندما تختلط  فضلات طعامنا لإنشاء الأسمدة العضوية، هي في الواقع تساعد  النباتات في البيئة بدلا من إيذائها."
+
+msgid "Correct. This is NOT a TRUE statement. The environment is part of nature. It is neither there to help or hurt humans. Its purpose is not to make our lives more comfortable. We are part of nature and the environment and we should live in harmony with it to best ensure our long-term survival."
+msgstr "صحيح.  هذه ليست عبارة صحيحة. البيئة هي جزء من الطبيعة.  هي ليست موجودة لتؤذي أو تساعد البشر.  والغرض منها عدم جعل حياتنا أكثر راحة.  نحن جزء من الطبيعة والبيئة، ونحن يجب أن نعيش بانسجام معها لضمان البقاء على قيد الحياة على المدى الطويل."
+
+msgid "Not really - This is a TRUE statement. Humans are part of the environment like all of the other animals on earth. But human activities impact the environment much greater than all the other animals so we have to be very careful about what we do because anything we do to the environment can come back to affect us too. For instance, if we have millions of people in a city flushing their toilets into a lake, like in the old days, people using the lake for drinking water and fishing would get sick."
+msgstr "ليس حقا - هذه عبارة صحيحة. - البشر هم جزء من البيئة مثل جميع الحيوانات الأخرى على الأرض. ولكن الأنشطة البشرية تؤثر على البيئة أكثر بكثير من جميع الحيوانات الأخرى لذلك علينا أن نكون حذرين جدا حول ما نقوم به لأن أي شيء نقوم به للبيئة يمكن أن يعود بالأثر علينا أيضا. على سبيل المثال، إذا كان  الملايين من الناس في مدينة يدفقون الماء في المراحيض الخاصة بهم في البحيرة، كما كان الحال قديما، عند استخدام البحيرة لشرب المياه والصيد سيمرض الناس."
+
+msgid "Which of the following activities you do every day has the <span class='blink'>least</span> negative effect on the environment?"
+msgstr "أي من الأنشطة التالية تفعله كل يوم له أقل تأثير سلبي على البيئة؟"
+
+msgid "Sleeping"
+msgstr "النوم"
+
+msgid "Eliminating pollution..."
+msgstr "القضاء على التلوث ..."
+
+msgid "Correct - Sleeping has very little effect on the environment - except if you're sleeping in a comfortable heated or air conditioned house because it impacts the environment to build, heat and air-condition the house. So even sleep has some impact."
+msgstr "صحيح- النوم له تأثير قليل جدا على البيئة - إلا إذا كنت نائما في منزل مريح دافئ أو مكيف لأنه يؤثر على البيئة عند بناء وتكييف المنزل.  إذن النوم لديه بعض التأثير."
+
+msgid "Not really - Going to school impacts the environment because the school is a big building that is built using resources from the environment and is heated and cooled as well. And, if you drive or take a bus to school, that takes resources from the environment - resources to build and power the car or bus."
+msgstr "لا حقا - الذهاب الى المدرسة يؤثر على البيئة لأن المدرسة هي عبارة عن مبنى كبير التي تم إنشاؤها باستخدام موارد البيئة ويتم تدفأتها وتبريدها كذلك. وإذا كنت تسوق أو تأخذ الحافلة إلى المدرسة، والتي تأخذ الموارد من البيئة - الموارد للبناء ولتشغيل السيارة أو الحافلة."
+
+msgid "Not really - Eating breakfast means that a farm probably was necessary to provide your food, and farms impact the environment as well."
+msgstr "ليس حقا - تناول وجبة الإفطار يعني أنه من الضروري أن توفر المزرعة طعامك، والمزارع تؤثر على البيئة أيضا."
+
+msgid "Not really - Watching TV impacts the environment because it requires electricity that comes from coal, nuclear or hydroelectric power plants."
+msgstr "ليس حقا - مشاهدة التلفاز تؤثر على البيئة لأنها تتطلب الكهرباء التي تأتي من الفحم، ومحطات الطاقة النووية أو الطاقة الكهرومائية."
+
+msgid "What is the best statement about the relationships between humans, wild animals, and the environment?"
+msgstr "ما هي أفضل عبارة حول العلاقات بين البشر، والحيوانات البرية، والبيئة؟"
+
+msgid "Not really - As far as nature and the environment are concerned, humans and other animals are all equal parts of the environment."
+msgstr "ليس حقا - وبقدر عناية الطبيعة والبيئة، فالبشر والحيوانات الأخرى كلها أجزاء متساوية من البيئة."
+
+msgid "Correct - Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "صحيح- الحيوانات البرية تأخذ فقط ما تحتاجه من البيئة للبقاء على قيد الحياة، ولكن يأخذ البشر  أكثر من حاجتهم للبقاء على قيد الحياة حتى أنهم يؤثرون على البيئة أكثر من الحيوانات البرية."
+
+msgid "Not really - Actually, it's almost the opposite. Humans are smarter than other animals and they use that intelligence to use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "ليس حقا - في الواقع، انها تقريبا عكس ذلك. البشر هم أكثر ذكاء من الحيوانات الأخرى، وهم يستخدمون ذكاءهم لاستخدام البيئة  ليرتاحوا والذي يؤثر على البيئة أكثر مما يؤثر على الحيوانات."
+
+msgid "Not really - Humans use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "ليس حقا - يستخدم البشر البيئة ليرتاحوا مما يؤثر على البيئة أكثر مما يؤثر على الحيوانات."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجاباتك في التحققات السريعة وعلى أسئلة الإختبار لهذه الوحدة  بالنقر على الزر في الأسفل. "
+
+msgid "To have the greatest positive impact on your environment. You could:"
+msgstr "لتحصل على أكبر تأثير إيجابي على بيئتك. يمكنك:"
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "تعلم قدر ما تستطيع عن كيفية تأثير البشر على البيئة على الصعيد العالمي، ولكن اعمل محليا في مجتمعك، الحي، والمدرسة، واستخدم هذه المعرفة لتقليل تأثير مجتمعك  على البيئة."
+
+msgid "Creating impact..."
+msgstr "إيجاد تأثير ..."
+
+msgid "Not quite - Making personal choices to change your daily behavior to minimize your impact on the environment is an excellent thing to do to help the environment - but there may be even more you can do."
+msgstr "ليس تماما - اتخاذ الخيارات الشخصية لتغيير سلوكك اليومي للتقليل من التأثير على البيئة هو شيء ممتاز  - ولكن قد يكون هناك المزيد لتقوم به."
+
+msgid "Learn as much as you can about how humans impact the environment globally but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "تعلم قدر ما تستطيع عن كيفية تأثير البشر على البيئة على الصعيد العالمي ولكن اعمل محليا في مجتمعك، الحي، والمدرسة، واستخدم هذه المعرفة للتقليل من تأثير مجتمعك على البيئة."
+
+msgid "Correct - Knowledge is power. The more you know about the global environment the better you can act locally to minimize how you and your community impact the environment."
+msgstr "صحيح - المعرفة قوة.  كلما كنت تعرف  عن البيئة العالمية أكثر  كلما كان أفضل لك أن تعمل محليا للتقليل من تأثير مجتمعك على البيئة."
+
+msgid "Not Quite - Working with your classmates to do school projects to help the environment is an excellent thing to do - but there may be even more you can do."
+msgstr "ليس تماما - العمل مع زملائك للقيام بالمشاريع المدرسية لمساعدة البيئة هو شيء ممتاز - ولكن قد يكون هناك المزيد لتقوم به."
+
+msgid "Not Quite - Organizing a neighborhood drive to recycle plastic soda bottles is an excellent thing to do - but there may be even more you can do."
+msgstr "ليس تماما - أن اقوم بتنظيم حملة في الحي لإعادة تدوير زجاجات الصودا البلاستيكية هو شيء ممتاز - ولكن قد يكون هناك المزيد لتقوم به."
+
+msgid "People in modern society like to live comfortably. We like to eat well; have a car to drive to where ever we need to go; have a comfortable house or apartment that's warm and dry; have a nice clothes to wear that keeps us cool in the summer and warm in the winter. And we like electricity that allows us to power our lights and our TV's. But where does all of that stuff come from to keep us comfortable?"
+msgstr "يريد ان يعيش الناس براحة في المجتمع المعاصر. نود أن نتناول الطعام بشكل جيد؛ نمتلك سيارة لسياقتها أينما نريد الذهاب؛ أن يكون لديك منزل أو شقة مريحة دافئة وجافة؛ وملابس جميلة نرتديها لنشعر بالبرودة في الصيف وبالدفء في فصل الشتاء.  والكهرباء التي تسمح بإنارة الاضواء وتشغيل التلفزيون.  ولكن من أين تأتي كل هذه الاشياء لإبقائنا مرتاحين؟ انها تأتي من بيئة الأرض - . الطعام الذي نأكله يأتي من المزارع والمناطق الريفية التي كانت عبارة عن حقول طبيعية وغابات. الكهرباء تأتي من احتراق الفحم أو من سدود الأنهار."
+
+msgid "It comes from from the earth's environment - that's where. The food we eat comes from farms and ranches that used to be natural fields and woods. The electricity comes from burning coal or from damming rivers. The gasoline that powers our cars comes from oil wells we drill deep down into the earth. And most of our houses are made from wood that comes from cutting trees in the forest. All of these things that make us comfortable comes from human activity impacts the natural environment. The <span class='key'>environment</span> is just another name for earth's systems all working together - the air, water, and all the living things. When we change or take something from the environment, we have an environmental <span class='key'>impact</span> - which means we change something in one or all of the earth's systems. Usually this change is bad. And sometimes the impact human activity has on the environment is not good for the environment or for us."
+msgstr "الجازولين الذي يقوم بتشغيل سياراتنا مصدره آبار النفط التي نحفرها عميقا في الأرض.  ومعظم بيوتنا مصنوعة من الخشب الذي يأتي من قطع الأشجار في الغابات. كل هذه الأشياء التي تجعلنا نشعر بالراحة تأتي من النشاط البشري الذي يؤثر على بيئة الطبيعية. <span class='key'>البيئة</span> هي مجرد اسم آخر لأنظمة الأرض والتي تعمل مع بعضها - الهواء والماء والأرض وكل الكائنات الحية.  عندما نغير أو تأخذ شيئا من البيئة، تحدث <span class='key'>تأثايرات</span> بيئية فهي تتغير - وهذا يعني أننا نغير شيء في نظام واحد أو كل أنظم"

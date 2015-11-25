@@ -1,0 +1,1586 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Food Chain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed, 02 Oct 2013 15:11:35 +0100\n"
+"PO-Revision-Date: 2014-10-16 11:42+0800\n"
+"Last-Translator: Katie Juehring\n"
+"Language-Team: Katie Juehring\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Loco-Tagged: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. asset: 1-primary-consumer
+msgid "1=primary consumer"
+msgstr "1= consumidor primario"
+
+#. asset: 2-secondary
+msgid "2=secondary"
+msgstr "2= secundario"
+
+#. asset: 3-tertiary
+msgid "3=tertiary"
+msgstr "3= terciario"
+
+#. asset: 4-quarternary
+msgid "4=quarternary"
+msgstr "4= cuaternario"
+
+#. asset: 5-producer
+msgid "5=producer"
+msgstr "5= productor"
+
+#. asset: A
+msgid "A"
+msgstr "A"
+
+#. asset: Answer
+msgid "Answer"
+msgstr "Respuesta"
+
+#. asset: Answers
+msgid "Answers"
+msgstr "Respuestas"
+
+#. asset: B
+msgid "B"
+msgstr "B"
+
+#. asset: C
+msgid "C"
+msgstr "C"
+
+#. asset: CARNIVORES
+msgid "CARNIVORES"
+msgstr "CARNÍVOROS"
+
+#. asset: CATERPILLAR
+msgid "CATERPILLAR"
+msgstr "ORUGA"
+
+#. asset: CORN
+msgid "CORN"
+msgstr "MAIZ"
+
+#. asset: Carnivores
+msgid "Carnivores"
+msgstr "Carnívoros"
+
+#. asset: Congratulations
+msgid "Congratulations"
+msgstr "Felicitaciones"
+
+#. asset: D
+msgid "D"
+msgstr "D"
+
+#. asset: DINOSAURS
+msgid "DINOSAURS"
+msgstr "DINOSAURIOS"
+
+#. asset: Dinosaurs
+msgid "Dinosaurs"
+msgstr "Dinosaurios"
+
+#. asset: EAGLE
+msgid "EAGLE"
+msgstr "ÁGUILA"
+
+#. asset: FISH
+msgid "FISH"
+msgstr "PEZ"
+
+#. asset: FLOWER
+msgid "FLOWER"
+msgstr "FLOR"
+
+#. asset: FOX
+msgid "FOX"
+msgstr "ZORRO"
+
+#. asset: FROG
+msgid "FROG"
+msgstr "RANA"
+
+#. asset: GRASS
+msgid "GRASS"
+msgstr "HIERBA"
+
+#. asset: GRASSHOPPER
+msgid "GRASSHOPPER"
+msgstr "SALTAMONTES"
+
+#. asset: HAWK
+msgid "HAWK"
+msgstr "HALCÓN"
+
+#. asset: HERBIVORES
+msgid "HERBIVORES"
+msgstr "HERBÍVOROS"
+
+#. asset: Herbivores
+msgid "Herbivores"
+msgstr "Herbívoros"
+
+#. asset: MOUSE
+msgid "MOUSE"
+msgstr "RATÓN"
+
+#. asset: OMNIVORES
+msgid "OMNIVORES"
+msgstr "OMNÍVOROS"
+
+#. asset: OWL
+msgid "OWL"
+msgstr "LECHUZA"
+
+#. asset: Omnivores
+msgid "Omnivores"
+msgstr "Omnívoros"
+
+#. asset: RABBIT
+msgid "RABBIT"
+msgstr "CONEJO"
+
+#. asset: RATTLESNAKE
+msgid "RATTLESNAKE"
+msgstr "SERPIENTE DE CASCABEL"
+
+#. asset: SNAKE
+msgid "SNAKE"
+msgstr "SERPIENTE"
+
+#. asset: SUN
+msgid "SUN"
+msgstr "SOL"
+
+#. asset: Sorry.
+msgid "Sorry."
+msgstr "¡Lo siento!"
+
+#. asset: Thinking...
+msgid "Thinking..."
+msgstr "Pensando..."
+
+#. asset: a-bee-getting-a-nectar-from-a-flower
+msgid "a bee getting a nectar from a flower"
+msgstr "una abeja recibiendo néctar de una flor"
+
+#. asset: a-carnivore-is-an-animal-that-feeds-only-on-meat-a
+msgid ""
+"A carnivore is an animal that feeds only on meat. A polar bear is the "
+"largest land carnivore. It eats mainly fish and seals, even your pet cat or "
+"dog is a carnivore. Birds such as eagles, hawks, and falcons are also "
+"carnivores. There are even some carnivorous plants, such as the Venus "
+"flytrap, which eats insects."
+msgstr ""
+"Un carnívoro es un animal que se alimenta sólo de carne. Un oso polar es el "
+"carnívoro más grande de la tierra. Se alimenta principalmente de peces y "
+"focas. Incluso su perro o gato es un carnívoro. Pájaros como halcones y "
+"águilas también son carnívoros. Hay incluso algunas plantas carnívoras, "
+"tales como la Venus atrapamoscas, que come insectos. "
+
+#. asset: a-carnivore-is-an-animal-that-only-eats-other-anim
+msgid "A carnivore is an animal that only eats other animals, not plants."
+msgstr "Un carnívoro es un animal que sólo come otros animales, no plantas."
+
+#. asset: a-consumer-is-someone-or-something-that-uses-thing
+msgid ""
+"A consumer is someone or something that uses things up. You might also hear "
+"the term consumer used to mean a person who buys things at a store. This is "
+"because people use the things that they buy."
+msgstr ""
+"Un consumidor es alguien o algo que usa las cosas. Usted puede también "
+"escuchar al consumidor término solía decir a una persona que compra las "
+"cosas en una tienda. Esto es porque la gente usa las cosas que compran."
+
+#. asset: a-food-chain-shows-the-movement-of-energy-through-
+msgid ""
+"A <span class='red bold'>food chain</span> shows the movement of energy "
+"through living things."
+msgstr ""
+"Una <span class='red bold'>cadena alimentaria</span> muestra el movimiento "
+"de energía de los seres vivos."
+
+#. asset: a-food-web-shows-the-names-of-different-living-thi
+msgid ""
+"A food web shows the names of different living things and has arrows that "
+"point from each living thing being eaten to the living thing that is eating "
+"it."
+msgstr ""
+"Una red alimentaria muestra los nombres de los diferentes seres vivos y "
+"tiene flechas que señalan de cada criatura comida a la criatura que lo come. "
+
+#. asset: a-food-web-shows-you-which-living-things-eat-which
+msgid ""
+"A food web shows you which living things eat which other living things. Food "
+"webs are very helpful for learning about the feeding relationships between "
+"living things that share space. For example, you would look at a jungle food "
+"web to see what living things eat other living things in a jungle."
+msgstr ""
+"Una red alimentaria demuestra que los seres vivos comen que otros seres "
+"vivos. Redes alimentarias son muy útiles para aprender sobre las relaciones "
+"entre los seres vivos que comparten espacio de alimentación. Por ejemplo, se "
+"puede ver en la selva la red alimentaria a ver qué seres vivos comen otros "
+"seres vivos en la selva."
+
+#. asset: a-habitat-is-a-place-where-a-plant-or-animal-lives
+msgid ""
+"A habitat is a place where a plant or animal lives. A forest is one type of "
+"habitat that covers a large part of Earth. A rainforest is a specific type "
+"of habitat that has many trees. It is a good habitat for animals such as "
+"birds, bats, and monkeys."
+msgstr ""
+"Un hábitat es un lugar donde una planta o animal vive. Un bosque es un tipo "
+"de hábitat que cubre una gran parte de la tierra. Una selva tropical es un "
+"tipo específico de hábitat que tiene muchos árboles. Es un buen hábitat para "
+"animales como monos, aves y murciélagos."
+
+#. asset: a-herbivore-is-an-animal-that-only-eat-plants-not-
+msgid "A herbivore is an animal that only eat plants, not other animals."
+msgstr "Un herbívoro es un animal lo que sólo come plantas, no otros animales."
+
+#. asset: a-lion-hunting-a-zebra
+msgid "a lion hunting a zebra"
+msgstr "un león cazar una cebra"
+
+#. asset: a-mushroom-feeding-on-a-tree-bark
+msgid "a mushroom feeding on a tree bark"
+msgstr "una seta que se alimenta de corteza del árbol"
+
+#. asset: a-quiz-question-on-food-chains
+msgid "A quiz question on food chains..."
+msgstr "Una pregunta del cuestionario en las cadenas alimentarias..."
+
+#. asset: a-rabbit-feeding-on-a-carrot
+msgid "a rabbit feeding on a carrot"
+msgstr "un conejo que se alimenta de una zanahoria"
+
+#. asset: about-where-things-get-their-food
+msgid "About Where Things Get Their Food"
+msgstr "Sobre dónde las cosas consiguen su comida"
+
+#. asset: all-living-things-are-connected-by-energy-as-we-ea
+msgid ""
+"All living things are connected by energy. As we eat our hamburger, chicken "
+"and fish, it is important to know we would not be able to eat these food if "
+"plants were not around."
+msgstr ""
+"Todos los seres vivientes están conectados por energía. Mientras comemos "
+"nuestra hamburguesa, pollo y pescado, es importante saber que no puede comer "
+"estos alimentos si las plantas no existían."
+
+#. asset: all-living-things-are-connected-to-other-living-th
+msgid ""
+"All living things are connected to other living things in some way. Rabbits "
+"couldn't live without grass and other plants and foxes couldn't live without "
+"rabbits and other small animals."
+msgstr ""
+"Todos los seres vivos están conectados a otros seres vivos de alguna "
+"manera.  Los conejos no podían vivir sin la hierba y otras plantas y los "
+"zorros no podían vivir sin conejos y otros animales pequeños."
+
+#. asset: almost-over-almost-over
+msgid "Almost over, almost over"
+msgstr "casi terminado, casi terminado"
+
+#. asset: and-the-first-quiz-question-is
+msgid "And the first quiz question is..."
+msgstr "y la primera pregunta del cuestionario es..."
+
+#. asset: and-the-hawk-is-the-quaternary-consumer-quaternary
+#. asset: animals-that-are-hunted-and-eaten-by-other-animals
+msgid ""
+"Animals that are hunted and eaten by other animals are called prey. Prey "
+"animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals that are weak "
+"or sick make easier prey for the animals that hunt them."
+msgstr ""
+"Los animales que son cazados y comidos por otros animales son llamados "
+"presa.  Presas animales suelen tener marcas especiales que les ayudan a "
+"mezclarse con sus alrededores de modo que son más difíciles de encontrar. "
+"Los animales que son débiles o enfermos que más fácil presa de los animales "
+"que cazan."
+
+#. asset: animals-that-feed-on-plants-and-animals-are-known-
+msgid "Animals that feed on plants and animals are known as Omnivores."
+msgstr ""
+"Los animales que se alimentan de las plantas y los animales son conocidos "
+"como omnívoros."
+
+#. asset: animals-that-hunt-attack-and-eat-other-animals-are
+msgid ""
+"Animals that hunt, attack, and eat other animals are called predators. "
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"Los animales que cazan, atacan y comen otros animales se denominan "
+"depredadores. Depredadores incluyen leones, tigres y tiburones. Perros y "
+"gatos son también depredadores, pero la gente les doy comida así no tienen "
+"que cazar. Los depredadores que viven en la naturaleza tienen que ser buenos "
+"cazadores, o no tienen para comer."
+
+#. asset: animals-that-only-eat-other-animals-are-called-car
+msgid ""
+"Animals that only eat other animals are called <span class='green "
+"bold'>CARNIVORES</span>. A tiger and a shark are examples of a carnivore."
+msgstr ""
+"Los animales que se alimentan sólo de otros animales se llaman <span "
+"class='green bold'>CARNÍVORO</span>. Un tigre y un tiburón son ejemplos de "
+"un carnívoro."
+
+#. asset: another-quick-check-on-the-way
+msgid "Another quick check on the way!"
+msgstr "¡otra comprobación rápida en el camino!"
+
+#. asset: ants
+msgid "ants"
+msgstr "hormigas"
+
+#. asset: are-you-ready
+msgid "Are you ready"
+msgstr "¿Estás listo"
+
+#. asset: bacteria
+msgid "bacteria"
+msgstr "bacteria"
+
+#. asset: bear
+msgid "bear"
+msgstr "oso"
+
+#. asset: because-there-is-much-water-in-the-rainforest-it-i
+msgid ""
+"Because there is much water in the rainforest, it is a good habitat for many "
+"plants. Plants living in this type of habitat grow to be very large and have "
+"very big leaves."
+msgstr ""
+"Porque hay mucha agua en la selva, es un buen hábitat para muchas plantas. "
+"Crecen las plantas que viven en este tipo de hábitat a ser muy grande y "
+"tiene hojas muy grandes."
+
+#. asset: biologists-study-how-different-living-things-are-c
+msgid ""
+"Biologists study how different living things are connected. Living things "
+"like plants, horses, lions, and humans must have energy to carry out the "
+"functions of life."
+msgstr ""
+"Los biólogos estudían cómo los seres vivos están conectados.  Los seres "
+"vivos como plantas, caballos, leones y los seres humanos deben tener la "
+"energía para llevar a cabo las funciones de la vida."
+
+#. asset: bird
+msgid "bird"
+msgstr "pájaro"
+
+#. asset: bushes
+msgid "bushes"
+msgstr "arbustos"
+
+#. asset: but-all-living-things-on-earth-depend-directly-or-
+msgid ""
+"But all living things on Earth depend directly or indirectly on the <span "
+"class='darkbrown bold'>SUN</span>."
+msgstr ""
+"Pero todos los seres vivos en la Tierra dependen directamente o "
+"indirectamente en el <span class='darkbrown bold'>SOL</span>."
+
+#. asset: cactus
+msgid "cactus"
+msgstr "cactus"
+
+#. asset: carnivore
+msgid "carnivore"
+msgstr "carnívoro"
+
+#. asset: checking-what-you-already-know-about-food-chains
+msgid "Checking what you already know... about food chains"
+msgstr "Comprobando lo que ya sabes...sobre cadenas alimentarias"
+
+#. asset: checking-what-you-now-know-about-food-chains-and-f
+msgid "Checking what you now know... about food chains and food webs"
+msgstr ""
+"Controlar lo que sabes...sobre cadenas alimentarias y las redes alimentarias."
+
+msgid "Checking what you now know... about food chains"
+msgstr "Revisando lo que sabes ahora... sobre cadenas alimenticias"
+
+#. asset: click-hold-and-slide-mouse-up-or-down
+msgid "Click, hold and slide mouse up or down."
+msgstr "Haga clic, mantenga y deslice el ratón hacia arriba o hacia abajo."
+
+#. asset: click-the-image-to-select-your-answer-to-this-ques
+msgid ""
+"Click the image to select your answer to this question: Animals that feed on "
+"plants and animals are known as... ?"
+msgstr ""
+"Haga clic en la imagen para seleccionar su respuesta a esta pregunta: ¿Los "
+"Animales que se alimentan de plantas y animales se conocen como...?"
+
+#. asset: click-the-next-button-when-you-are-ready
+msgid "Click the NEXT button when you are ready."
+msgstr "Haga clic en el botón PRÓXIMO cuando esté listo."
+
+#. asset: click-the-view-image-button-at-the-lower-left-area
+msgid ""
+"Click the 'View Image' button at the lower left area of the screen. Refer to "
+"this picture and activate <span class='red bold blink'>ALL</span> the "
+"buttons that describe each living thing in the first column."
+msgstr ""
+"<div class=\"row\">\n"
+"<div class=\"span5\">\n"
+"<div id=\"microsoft_translation_result\" lang=\"es-x-mtfrom-en\">Haga clic "
+"en el bot&oacute;n 'View Image' en la zona inferior izquierda de la "
+"pantalla. Se refieren a este cuadro y activar todos los botones que "
+"describen cada ser viviente en la primera columna.</div>\n"
+"</div>\n"
+"<div class=\"span2\">\n"
+"<div id=\"microsoft_translation_audio\">&nbsp;</div>\n"
+"</div>\n"
+"<div>&nbsp;</div>\n"
+"</div>\n"
+"<div class=\"row\">&nbsp;</div>"
+
+#. asset: close-me
+msgid "Close me!"
+msgstr "¡ciérreme!"
+
+#. asset: consumer
+msgid "consumer"
+msgstr "consumidor"
+
+#. asset: consumers-such-as-birds-fish-and-people-cannot-use
+msgid ""
+"<span class='purple bold'>Consumers</span> such as birds, fish, and people "
+"cannot use energy directly from the sun to make their own food. Instead, "
+"consumers get their energy indirectly from the sun by eating producers or "
+"other consumers."
+msgstr ""
+"<span class='purple bold'> consumidores</span> como pájaros, peces y la "
+"gente no pueden utilizar energía directamente del sol para hacer su propia "
+"comida. En cambio, los consumidores obtienen su energía indirectamente del "
+"sol por el consumo de los productores u otros consumidores."
+
+#. asset: cougar
+msgid "cougar"
+msgstr "puma"
+
+#. asset: crocodile
+msgid "crocodile"
+msgstr "cocodrilo"
+
+#. asset: d-to-feed-on-dead-material
+msgid "D. to feed on dead material"
+msgstr "D.   alimentarse de material muerto"
+
+#. asset: decomposer
+msgid "decomposer"
+msgstr "descomponedores"
+
+#. asset: decomposers-are-consumers-because-they-feed-off-th
+msgid ""
+"Decomposers are consumers because they feed off the living things that die."
+msgstr ""
+"Descomponedores son consumidores porque se alimentan de los seres vivientes "
+"que mueren."
+
+#. asset: decomposers-dont-hunt-or-eat-other-living-things
+msgid "Decomposers don't hunt or eat other living things."
+msgstr "Descomponedores no cazar o comer otros seres vivos."
+
+#. asset: decomposers-only-eat-dead-plants-and-animals
+msgid "Decomposers only eat dead plants and animals."
+msgstr "Descomponedores sólo comen animales y plantas muertas."
+
+#. asset: dog
+msgid "dog"
+msgstr "perro"
+
+#. asset: earthworm
+msgid "earthworm"
+msgstr "gusano"
+
+#. asset: end-of-review
+msgid "End of Review"
+msgstr "Final de revisión"
+
+#. asset: example-of-a-food-web
+msgid "Example of a Food Web"
+msgstr "Ejemplo de una red de alimentación"
+
+#. asset: food-chain-checking-what-you-now-know
+msgid "Food Chain - Checking What You Now Know"
+msgstr "Cadena Alimentaria - Controlar lo que sabes"
+
+#. asset: food-chain-more-core-ideas
+msgid "Food Chain - More Core Ideas"
+msgstr "Cadena Alimentaria- Más Idéas Principales"
+
+#. asset: food-chain-quick-check-1
+msgid "Food Chain - Quick Check #1"
+msgstr "Cadena Alimentaria- Comprobación Rápida #1"
+
+#. asset: food-chain-quick-check-2
+msgid "Food Chain - Quick Check #2"
+msgstr "Cadena Alimentaria- Comprobación Rápida #2"
+
+#. asset: food-chain-quiz-question-2
+msgid "Food Chain - Quiz Question #2"
+msgstr "Cadena Alimentaria - Pregunta del Cuestionario #2"
+
+#. asset: food-chain-quiz-question-3
+msgid "Food Chain - Quiz Question #3"
+msgstr "Cadenas Alimentarias - Preguntas del Cuestionario #3"
+
+#. asset: food-chain-quiz-question-4
+msgid "Food Chain - Quiz Question #4"
+msgstr "Cadena Alimentaria - Preguntas del Cuestionario #4"
+
+#. asset: food-chain-quiz-question-5
+msgid "Food Chain - Quiz Question #5"
+msgstr "Cadena Alimentaria - Pregunta del Cuestionario #5"
+
+#. asset: food-chain-quiz-question-6
+msgid "Food Chain - Quiz Question #6"
+msgstr "Cadena Alimentaria - Pregunta del Cuestionario #6"
+
+#. asset: food-chain-reviewing-core-ideas
+msgid "Food Chain - Reviewing Core Ideas"
+msgstr "Cadena Alimentaria - Revisar Ideas Principales"
+
+#. asset: food-chain-reviewing-key-vocabulary
+msgid "Food Chain - Reviewing Key Vocabulary"
+msgstr "Cadena Alimentaria - Revisión de Vocabulario Importante"
+
+#. asset: food-chain-summarize-core-ideas
+msgid "Food Chain - Summarize Core Ideas"
+msgstr "Cadena Alimentaria - Resumir Ideas Principales"
+
+#. asset: food-chain-using-what-you-know
+msgid "Food Chain - Using What You Know"
+msgstr "Cadena Alimentaria- Utilizando lo que sabes"
+
+#. asset: food-chains
+msgid "Food Chains"
+msgstr "Cadenas Alimentarias"
+
+#. asset: food-chains-checking-what-you-already-know
+msgid "Food Chains - Checking what you already know"
+msgstr "Cadenas alimentarias- comprobando lo que ya sabes"
+
+#. asset: food-web
+msgid "food web"
+msgstr "una red alimentaria"
+
+#. asset: food-webs-more-core-ideas
+msgid "Food Webs - More Core Ideas"
+msgstr "Las Redes Alimantarias- Más Ideas Principales"
+
+#. asset: food-webs-quick-check-3
+msgid "Food Webs - Quick Check #3"
+msgstr "Las Redes Alimentarias- Comprobación Rápida #3"
+
+#. asset: for-example
+msgid "For example:"
+msgstr "Por ejemplo:"
+
+#. asset: for-example-a-snake-is-not-the-only-thing-that-eat
+msgid ""
+"<span class='pink'><em>For example:</em></span> a snake is not the only "
+"thing that eats a mouse, and grass gives energy to many insects and small "
+"animals on earth."
+msgstr ""
+"<span class='pink'><em>Por ejemplo:</em></span> una serpiente no es lo único "
+"que se come un ratón y hierba da energía a muchos insectos y pequeños "
+"animales en la tierra."
+
+#. asset: gets-food-from-producers-13cbf8491739940ae11e7591c
+msgid "gets food<br/>from<br/>producers"
+msgstr "recibe<br/>comida de<br/>productores"
+
+#. asset: go-to-dashboard
+msgid "Go To Dashboard"
+msgstr "Vaya al panel de control"
+
+#. asset: goat
+msgid "goat"
+msgstr "cabra"
+
+#. asset: guess-whats-next
+msgid "Guess what's next?"
+msgstr "¿adivine qué es siguiente?"
+
+#. asset: habitat
+msgid "habitat"
+msgstr "hábitat"
+
+#. asset: hawk
+msgid "hawk"
+msgstr "halcón"
+
+#. asset: hello
+msgid "Hello!"
+msgstr "¡Hola!"
+
+#. asset: herbivore
+msgid "herbivore"
+msgstr "herbívoro"
+
+#. asset: heron
+msgid "heron"
+msgstr "garza"
+
+#. asset: horse
+msgid "horse"
+msgstr "caballo"
+
+#. asset: how-did-i-do
+msgid "How Did I Do?"
+msgstr "¿Cómo hice?"
+
+#. asset: how-would-you-decide-how-many-rabbits-and-fox-you-
+msgid ""
+"How would you decide how many rabbits and fox you would place in the park. "
+"In the text box provided, describe the things you would have to consider so "
+"that there are enough rabbits to maintain both a stable rabbit and fox "
+"population."
+msgstr ""
+"¿Cómo decidiría cuántos conejos y zorros colocarías en el parque?  En el "
+"cuadro de texto, describen las cosas que tendrías que considerar que hay "
+"suficientes conejos para mantener una población de conejo y zorro ambos "
+"estable. "
+
+#. asset: human
+msgid "human"
+msgstr "ser humano"
+
+#. asset: identify-the-consumers-9c969b48256040f87d2afb3aa66
+msgid "Identify the <span class='pink'>consumers</span>."
+msgstr "<p>Identifique los <span class='pink'>consumidores</span>.</p>"
+
+#. asset: identify-the-herbivores-dc05523ffd8a541a69853a6c02
+msgid "Identify the <span class='darkgreen'>herbivores</span>."
+msgstr ""
+"<p><span>Identifique los <span class='darkgreen'>herb&iacute;voros</span>.</"
+"span></p>"
+
+#. asset: identify-the-producers-3975cb639e0926fad646d6d547c
+msgid "Identify the <span class='darkyellow'>producers</span>."
+msgstr ""
+"<p><span>Identifique los <span class='darkyellow'>productores</span>.</"
+"span></p>"
+
+#. asset: identify-the-secondary-consumers-520bd6d752e883be7
+msgid "Identify the <span class='darkorange'>secondary</span> consumers."
+msgstr ""
+"<p><span>Identifique los consumidores <span class='darkorange'>secundarios</"
+"span>.</span></p>"
+
+#. asset: if-something-can-eat-both-plants-and-animals-they-
+msgid ""
+"If something can eat both plants and animals, they are called <span "
+"class='brown bold'>OMNIVORES</span>. Humans are one example of an omnivore."
+msgstr ""
+"Si algo puede comer plantas y animales se llaman <span class='brown "
+"bold'>OMNÍVOROS</span>. Los seres humanos son un ejemplo de un omnívoro."
+
+#. asset: if-the-population-of-a-predator-gets-too-large-the
+msgid ""
+"If the population of a predator gets too large, there will soon not be "
+"enough of its prey left to feed all the predators. So some of the predators "
+"will either die or must move to another location to maintain a balance."
+msgstr ""
+"Si la población de un depredador se pone demasiado grande, pronto no habrá "
+"suficiente de sus presas para alimentar a todos los depredadores. Algunos de "
+"los depredadores se o morir o deben moverse a otro lugar para mantener un "
+"equilibrio."
+
+#. asset: if-you-answered
+msgid "If you answered..."
+msgstr "Si contestaste..."
+
+#. asset: in-the-food-web-shown-at-the-left-how-many-things-
+msgid ""
+"In the food web shown at the left, how many things <span class='orange "
+"bold'>directly or indirectly</span> provide energy for the <span "
+"class='brown purple'>snake</span>?"
+msgstr ""
+"En la red de alimentación se muestra a la izquierda, cuántas cosas <span "
+"class='orange bold'>directa o indirectamente</span> proporcionar energía "
+"para la <span class='brown purple'>serpiente</span>?"
+
+#. asset: in-this-food-chain-the-flower-is-the-producer-the-
+msgid ""
+"In this food chain, the flower is the producer. The others are consumers."
+msgstr ""
+"En este cadena alimentaria, la flor es el productor.  Los otros son los "
+"consumidores."
+
+#. asset: is-a-carnivore-a10e9ba43d0ca0581cc8fca79b0b6d7b
+msgid "is a<br/>carnivore"
+msgstr "es un<br/>carnívoro"
+
+#. asset: is-a-herbivore-21871ce3baa7cb5e3a89a10678a55053
+msgid "is a<br/>herbivore"
+msgstr "es un<br/>herbívoro"
+
+#. asset: is-an-omnivore-f51933cc8d8ddff4694f347db5dba687
+msgid "is an<br/>omnivore"
+msgstr "es un<br/>omnívoro"
+
+#. asset: isnt-this-exciting
+msgid "Isn't this exciting?"
+msgstr "¿No es divertido?"
+
+#. asset: koala
+msgid "koala"
+msgstr "el koala"
+
+#. asset: last-two
+msgid "Last two!"
+msgstr "¡Últimos dos!"
+
+#. asset: lets-begin
+msgid "Let's begin!"
+msgstr "¡Vamos a empezar!"
+
+#. asset: lets-check-what-you-now-know
+msgid "Let's check what you now know"
+msgstr "Vamos a comprobar lo que sabes"
+
+#. asset: lets-do-another-one
+msgid "Let's do another one!"
+msgstr "¡Vamos a hacer otro!"
+
+#. asset: lets-find-out-more-about-how-living-things-are-con
+msgid ""
+"Let's find out more about how living things are connected in this review."
+msgstr ""
+"Vamos a encontrar más informacíon acerca de cómo están conectados los seres "
+"vivos en esta revisíon."
+
+#. asset: lets-start-your-first-exercise-drag-and-drop-the-i
+msgid ""
+"Let's start your first exercise! Drag and drop the items at the left to the "
+"box that fits its proper characteristics at the right. Hover your mouse on "
+"each picture to know what they are."
+msgstr "¡Vamos a empezar tu primer ejercicio!"
+
+#. asset: lion
+msgid "lion"
+msgstr "léon"
+
+#. asset: living-things-such-as-mushrooms-or-molds-are-known
+msgid ""
+"Living things such as mushrooms or molds are known as <span class='green "
+"bold'>DECOMPOSERS</span>."
+msgstr ""
+"Los seres vivos como chamiñónes o moldes son conocidos como <span "
+"class='green bold'>DESCOMPONEDORES</span>."
+
+#. asset: loading-in-5-4-3-2
+msgid "Loading in 5,4,3,2...."
+msgstr "carga en 5, 4, 3, 2...."
+
+#. asset: look-at-the-food-chain-below-and-tap-all-appropria
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"appropriate answers for each question. Tap the images again to deselect."
+msgstr ""
+"Mira a la cadena alimentaria abajo y toca <span class='red bold "
+"blink'>TODAS</span> las respuestas correctas para cada pregunta. Toca las "
+"im&aacute;genes de nuevo para anular la selecci&oacute;n</span></span></p>"
+
+#. asset: look-at-the-food-chain-below-and-tap-all-the-image
+msgid ""
+"Look at the food chain below and tap <span class='red bold blink'>ALL</span> "
+"the images that trace the energy in each case. Tap the images again to "
+"deselect."
+msgstr ""
+"Mira la cadena alimentaria abajo y toca <span class='red bold blink'>TODAS</"
+"span> las im&aacute;genes que remontan la energ&iacute;a en cada caso. &nbsp;"
+"<span>Toca las im&aacute;genes de nuevo para anular la selecci&oacute;n."
+
+#. asset: look-at-the-food-chain-below-tap-all-the-numbers-b
+msgid ""
+"Look at the food chain below. Tap <span class='red bold blink'>ALL</span> "
+"the numbers below each item that corresponds to its characteristics."
+msgstr ""
+"Mire a la cadena alimentaria abajo. Toque <span class='red bold "
+"blink'>TODOS</span> los números debajo de cada elemento que corresponde a "
+"sus propiedades."
+
+#. asset: look-at-the-pictures-and-words-above-in-the-boxes-
+msgid ""
+"Look at the pictures and words above. In the boxes below, tap <span "
+"class='red bold blink'>ALL</span> the things on the left that depend <span "
+"class='orange bold'>directly or indirectly</span> on the thing on the right."
+msgstr ""
+"Mira las fotos y las palabras arriba.  En los cuadros abajos, toque <span "
+"class='red bold blink'>TODOS</span> las cosas a la izquierda que depende "
+"<span class='orange bold'>directa o indirectamente</span> "
+
+#. asset: makes-own-food-e08bf5e7feb6872cc4d8170e166eda20
+msgid "makes own<br/>food"
+msgstr "hace<br/>propios<br/>alimentos"
+
+#. asset: many-times-this-chain-does-not-fit-into-a-neat-lin
+msgid "Many times this chain does not fit into a neat line."
+msgstr " Muchas veces esta cadena no cabe en una línea ordenada."
+
+#. asset: mice
+msgid "mice"
+msgstr "ratones"
+
+#. asset: more-core-ideas-about-food-chains
+msgid "More core ideas... about food chains"
+msgstr "Más idéas principales...sobre cadenas alimentarias"
+
+#. asset: mouse
+msgid "mouse"
+msgstr "ratón"
+
+#. asset: mushroom
+msgid "mushroom"
+msgstr "champiñón"
+
+#. asset: nature-maintains-a-balance-among-the-plants-and-an
+msgid ""
+"Nature maintains a balance among the plants and animals that make up the "
+"food chains in an ecosystem."
+msgstr ""
+"La naturaleza mantiene un equilibria entre las plantas y los animales que "
+"conforman las cadenas alimetarias en un ecosistema. "
+
+#. asset: next-part-coming-up
+msgid "Next part coming up!"
+msgstr "Siguiente parte próximamente"
+
+#. asset: nope
+msgid "Nope!"
+msgstr "¡No es corecto!"
+
+#. asset: nope-a-mushroom-is-not-considered-a-predator-nor-i
+msgid ""
+"Nope! A mushroom is not considered a predator nor is tree bark considered "
+"prey."
+msgstr ""
+"¡No es corecto! Una seta no se considera un depredador tampoco la corteza "
+"del árbol se considera la presa."
+
+#. asset: nope-carrots-are-plants-and-not-considered-prey
+msgid "Nope! Carrots are plants and not considered prey."
+msgstr "¡Lo siento! Las zanahorias son las plantas y no se consideran presa."
+
+#. asset: nope-plants-are-not-considered-prey
+msgid "Nope! Plants are not considered prey."
+msgstr "¡Lo siento! Las plantas no son consideradas presa."
+
+#. asset: not-quite
+msgid "Not quite."
+msgstr "No completamente."
+
+#. asset: omnivore
+msgid "omnivore"
+msgstr "omnívoro"
+
+#. asset: only-plants-can-make-energy-from-the-sun
+msgid "Only plants can make energy from the sun."
+msgstr "Solamente las plantas pueden hacer la energía del sol."
+
+#. asset: other-living-things-such-as-animals-cannot-use-ene
+msgid ""
+"Other living things such as animals cannot use energy directly from the sun."
+msgstr ""
+"Otros seres vivos como los animales no pueden usar energía directamente del "
+"sol."
+
+#. asset: out-of-4-correct-answers-review-your-answers-below
+msgid "out of 4 correct answers! Review your answers below."
+msgstr "¡de 4 respuestas correctas! Examine sus respuestas abajo."
+
+#. asset: out-of-5-correct-answers-review-your-answers-below
+msgid "out of 5 correct answers! Review your answers below."
+msgstr ""
+"<p>de cinco respuestas correctas! &nbsp;Revise sus respuestas abajo.</p>"
+
+#. asset: out-of-6-correct-answers-review-your-answers-below
+msgid "out of 6 correct answers! Review your answers below."
+msgstr "de las 6 respuestas correctas! Revise sus respuestas abajo."
+
+#. asset: out-of-7-correct-answers-review-your-answers-below
+msgid "out of 7 correct answers! Review your answers below."
+msgstr "De las 7 respuestas correctas! Revise sus respuestas más abajo."
+
+#. asset: panda
+msgid "panda"
+msgstr "panda"
+
+#. asset: people-all-over-the-world-eat-several-times-a-day-
+msgid ""
+"People all over the world eat several times a day. Food gives us energy! If "
+"people did not eat, they would not be able to walk, dance, play or even stay "
+"alive. Every animal needs energy from food. Where does food come from?"
+msgstr ""
+"Gente por todo el mundo se come varios veces del dia.  ¡Comida nos da "
+"energia!  Si no se come, no se puede caminar, bailar, jugar o ser vivo.  "
+"Cada animal se necesita energia que viene de la comida.  ¿De donde viene la "
+"comida?"
+
+#. asset: plants-are-called-natures-producers-because-they-u
+msgid ""
+"Plants are called nature's producers because they use sunlight to produce "
+"food for themselves and for other animals to eat. Producers are important to "
+"every living thing."
+msgstr ""
+"Las plantas se llaman los productores de la naturaleza porque usan la luz "
+"del sol para producir alimentos para sí mismos y a otros animales comer. "
+" Los productores son importantes para cada uno de los seres vivos."
+
+#. asset: plants-get-energy-from-the-sun-and-they-pass-that-
+msgid ""
+"Plants get <span class='red bold'>energy</span> from the <span class='orange "
+"bold'>sun</span> and they pass that energy through the food that many <span "
+"class='green bold'>animals</span> including cows, chicken, and fish eat. "
+"<span class='purple bold'>Humans</span> get some of their energy from eating "
+"plants and animals."
+msgstr ""
+"Las plantas obtienen <span class='red bold'>energia</span> del <span "
+"class='orange bold'>sun</span> y pasan esa energía a través de la comida que "
+"muchos <span class='green bold'>animales</span> como vacas, pollos y pescado "
+"comen.  <span class='purple bold'>Los Seres Humanos</span> consiguen algunos "
+"de su energía de comer plantas y animales."
+
+#. asset: plants-get-their-energy-directly-from-the-sun-to-m
+msgid "Plants get their energy directly from the sun to make their own food."
+msgstr ""
+"Las plantas obtienen su energía directamente del sol para hacer su propia "
+"comida."
+
+#. asset: polar-bear
+msgid "polar bear"
+msgstr "oso polar"
+
+#. asset: predator
+msgid "predator"
+msgstr "depredador"
+
+#. asset: preparing-your-first-quick-check
+msgid "Preparing your first quick check!"
+msgstr "!Preparación de la primer comprobación rápido!"
+
+#. asset: prey
+msgid "prey"
+msgstr "presa"
+
+#. asset: producer
+msgid "producer"
+msgstr "productor"
+
+#. asset: producers-such-as-grasses-vegetables-and-fruits-ge
+msgid ""
+"<span class='green bold'>Producers</span> such as grasses, vegetables and "
+"fruits get their energy directly from the sun and change it into food that "
+"they then use themselves and other living things."
+msgstr ""
+"<span class='green bold'>Productores</span> como hierbas, verduras y frutas "
+"obtienen su energía directamente del sol y convertirla en alimentos que "
+"luego utilizan ellos mismos y otros de los seres vivos."
+
+#. asset: putting-it-all-together
+msgid "Putting it all together..."
+msgstr "juntándolo todo..."
+
+#. asset: quick-check-1
+msgid "Quick Check #1"
+msgstr "Comprobación Rápida #1"
+
+#. asset: quick-check-2
+msgid "Quick Check #2"
+msgstr "Comprobación Rápida #2"
+
+#. asset: quick-check-3
+msgid "Quick Check #3"
+msgstr "Comprobación Rápida #3"
+
+#. asset: quiz-question-1
+msgid "Quiz Question #1"
+msgstr "Pregunta del cuestionario #1"
+
+#. asset: quiz-question-2
+msgid "Quiz Question #2"
+msgstr "Pregunta del Cuestionario #2"
+
+#. asset: quiz-question-3
+msgid "Quiz Question #3"
+msgstr "Preguntas del Cuestionario #3"
+
+#. asset: quiz-question-4
+msgid "Quiz Question #4"
+msgstr "Preguntas del Cuestionario #4"
+
+#. asset: quiz-question-5
+msgid "Quiz Question #5"
+msgstr "Pregunta del Cuestionario #5"
+
+#. asset: quiz-question-6
+msgid "Quiz Question #6"
+msgstr "Pregunta del Cuestionario #6"
+
+#. asset: rabbit
+msgid "rabbit"
+msgstr "conejo"
+
+#. asset: raccoon
+msgid "raccoon"
+msgstr "mapache"
+
+#. asset: reviewing-core-ideas-about-food-chains
+msgid "Reviewing core ideas... about food chains"
+msgstr "Revisión de ideas principales...sobre cadenas alimentarias"
+
+#. asset: reviewing-key-vocabulary-related-to-food-chains
+msgid "Reviewing key vocabulary related to... food chains"
+msgstr ""
+"Revisión de vocabulario importante relacionado con... cadenas alimentarias"
+
+#. asset: rotate-or-flip-the-3d-box-below-either-up-or-down-
+msgid "Rotate or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"Girar o voltear el cuadro 3D abajo o arriba o abajo para ajustar tu "
+"respuesta."
+
+#. asset: slug
+msgid "slug"
+msgstr "caracol"
+
+#. asset: snake
+msgid "snake"
+msgstr "serpiente"
+
+#. asset: some-dinosaurs-used-to-eat-only-plants-some-ate-on
+msgid "Some dinosaurs used to eat only plants, some ate only animals."
+msgstr ""
+"Algunos dinosaurios comían sólo plantas, algunos comían solamente los "
+"animales."
+
+#. asset: spiders-are-weaving-the-webs
+msgid "Spiders are weaving the webs!"
+msgstr "¡las arañas están tejiendo la redes!"
+
+#. asset: squirrel
+msgid "squirrel"
+msgstr "ardilla"
+
+#. asset: summarizing-core-ideas-about-food-chains
+msgid "Summarizing core ideas... about food chains"
+msgstr "Resumiendo ideas principales...sobre cadenas alimentarias."
+
+#. asset: the-animal-being-hunted-is-the-prey-and-the-hunter
+msgid ""
+"The animal being hunted is the <span class='green bold'>PREY</span> and the "
+"hunter is the <span class='red bold'>PREDATOR</span>."
+msgstr ""
+"El animal cazado es la <span class='green bold'>PRESA</span> y el cazador es "
+"el <span class='red bold'>DEPREDADOR</span>."
+
+#. asset: the-background
+msgid "The Background"
+msgstr "El Fondo"
+
+#. asset: the-connection-between-different-living-things-is-
+msgid ""
+"The connection between different living things is called a <span "
+"class='green bold'>FOOD CHAIN</span>."
+msgstr ""
+"La conexión entre los diferentes seres vivos se llama una <span class='green "
+"bold'>CADENA ALIMENTARIA</span>."
+
+#. asset: the-consumers-that-live-only-by-eating-producers-a
+msgid ""
+"The consumers that live only by eating producers are called <span "
+"class='orange bold'>HERBIVORES</span>. A turtle and a panda are examples of "
+"a herbivore."
+msgstr ""
+"los consumidores que viven solamente por comer los productores están "
+"llamados <span class='orange bold'>HERBíVOROS</span>. Una tortuga y un oso "
+"panda son ejemplos de un herbívoro."
+
+#. asset: the-following-six-6-quiz-questions-will-give-you-a
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Los seis (6) preguntas siguientes de la prueba le dará una idea de lo que ya "
+"sabe y lo que aún hay que estudiar."
+
+#. asset: the-frog-is-the-secondary-consumer-secondary-means
+#. asset: the-place-of-all-living-things-in-the-food-chain-d
+msgid ""
+"The place of all living things in the food chain depends on how they get "
+"their <span class='orange bold'>food or energy</span>."
+msgstr ""
+"El lugar de todos los seres vivos en la cadena alimentaria depende de cómo "
+"consiguen <span class='orange bold'> alimentos o energía</span>."
+
+#. asset: the-snake-is-the-tertiary-consumer-tertiary-means-
+#. asset: then-you-are-correct
+msgid "Then you are correct!"
+msgstr "¡Entonces tienes razón!"
+
+#. asset: then-you-are-right-even-though-the-snake-does-not-
+msgid ""
+"Then you are right! Even though the snake does not eat grass, corn or "
+"grasshoppers, the snake eats things that eat them so the snake gets energy "
+"indirectly from these things too!"
+msgstr ""
+"¡Entonces tiene razón! ¡Aunque la serpiente no come hierba, maíz o "
+"saltamontes, la serpiente come cosas que los comen así la serpiente obtiene "
+"la energía indirectamente de estas cosas también!"
+
+#. asset: they-are-called-consumers-d653428b7a84dcc26cfab9fe
+msgid "They are called <span class='green bold'>CONSUMERS</span>."
+msgstr "Se llaman <span class='green bold'>CONSUMIDORES</span>."
+
+#. asset: they-are-called-producers-e5ba656e8e662c1f055e70fb
+msgid "They are called <span class='orange bold'>PRODUCERS</span>."
+msgstr "Se llaman <span class='orange bold'>PRODUCTORES</span>."
+
+#. asset: they-must-get-their-energy-from-other-living-thing
+msgid "They must get their energy from other living things."
+msgstr "Debe obtener su energía de otros seres vivos."
+
+#. asset: to-consume-living-plants
+msgid "to consume living plants"
+msgstr "consumir plantas vivas"
+
+#. asset: to-decompose-means-to-break-down-into-simpler-form
+msgid ""
+"To decompose means to break down into simpler forms or components. Items "
+"that have decomposed no longer look the way they used to."
+msgstr ""
+"Para descomponer significa dividir en formas más simples o componentes. Los "
+"artículos que se han descompuesto ya no miran la manera que lo hacían antes."
+
+#. asset: to-feed-on-dead-material
+msgid "to feed on dead material"
+msgstr " alimentarse de material muerto"
+
+#. asset: to-hunt-herbivores
+msgid "to hunt herbivores"
+msgstr "cazar herbívoros"
+
+#. asset: to-make-its-own-food-from-the-sun
+msgid "to make its own food from the sun"
+msgstr "hacer su propia comida del sol"
+
+#. asset: tree
+msgid "tree"
+msgstr "arbol"
+
+#. asset: turtle
+msgid "turtle"
+msgstr "tortuga"
+
+#. asset: using-what-you-know-about-food-chains-to-solve-a-p
+msgid "Using what you know... about food chains... to solve a problem"
+msgstr ""
+"Utilizando lo que sabes...sobre cadenas alimentarias...para  resolver un "
+"problema"
+
+#. asset: wait-for-it-wait-for-it
+msgid "Wait for it... wait for it..."
+msgstr "espérelo...  espérelo..."
+
+#. asset: walking-to-sunny-meadows
+msgid "Walking to sunny meadows..."
+msgstr "caminando a prados soleados..."
+
+#. asset: we-can-label-each-consumer-based-on-its-place-in-t
+msgid ""
+"We can label each consumer based on its place in the food chain. For "
+"example..."
+msgstr ""
+"Podemos poner etiqueta a cada consumidor basado en su lugar en la cadena "
+"alimentaria. Por ejemplo..."
+
+#. asset: whale
+msgid "whale"
+msgstr "ballena"
+
+#. asset: when-animals-hunt-other-animals-this-is-known-as-p
+msgid ""
+"When animals hunt other animals, this is known as <span class='orange "
+"bold'>PREDATION</span>."
+msgstr ""
+"Cuando animales cazan otros animales, esto se conoce como <span "
+"class='orange bold'>DEPREDACIÓN</span>."
+
+#. asset: when-living-things-die-they-decompose-or-are-chang
+msgid ""
+"When living things die, they decompose or are changed into simpler and "
+"different forms. However, these new forms do not disappear. They become part "
+"of the soil and provide food for other living things. For example, "
+"earthworms eat fallen leaves or dead grasses that have started to decompose."
+msgstr ""
+"Cuando las cosas mueren, se descomponen o se cambian en las formas más "
+"simples y diferentes. Sin embargo, estas nuevas formas no desaparecen. Se "
+"convierten en parte del suelo y proporcionan alimento para otros seres "
+"vivos. Por ejemplo, los gusanos comen hojas caídas o hierbas muertas que han "
+"empezado a descomponerse."
+
+#. asset: when-someone-wants-to-show-all-of-these-connection
+msgid ""
+"When someone wants to show all of these connections among consumers and "
+"producers, they use a <span class='red bold'>food web</span>. A food web "
+"shows how energy moves through the living things in a <span class='green "
+"bold'>habitat</span> - the environment in which the living things live."
+msgstr ""
+"Cuando alguien quiere mostrar todas estas conexiones entre productores y "
+"consumidores, utilizan una <span class='red bold'>red de alimentación</"
+"span>. Una red alimentaria muestra cómo se mueve la energía a través de los "
+"seres vivientes en un <span class='green bold'>hábitat</span> - el ambiente "
+"en que viven los seres vivientes."
+
+#. asset: where-does-the-primary-consumer-get-its-energy-797
+msgid ""
+"Where does the <span class='darkorange'>primary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<p><span>&iquest;De d&oacute;nde saca su energ&iacute;a al consumidor <span "
+"class='darkorange'>primario</span>?</span></p>"
+
+#. asset: where-does-the-quaternary-consumer-get-its-energy-
+msgid ""
+"Where does the <span class='pink'>quaternary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<p><span>&iquest;De d&oacute;nde saca su energ&iacute;a al consumidor <span "
+"class='pink'>cuaternario</span>?</span></p>"
+
+#. asset: where-does-the-secondary-consumer-get-its-energy-8
+msgid ""
+"Where does the <span class='darkgreen'>secondary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<p><span>&iquest;De d&oacute;nde saca su energ&iacute;a al consumidor <span "
+"class='darkgreen'>secundaria<span>?</span></p>"
+
+#. asset: where-does-the-tertiary-consumer-get-its-energy-ad
+msgid ""
+"Where does the <span class='darkyellow'>tertiary</span> consumer<br/>get its "
+"energy?"
+msgstr ""
+"<p>&iquest;De d&oacute;nde saca su energ&iacute;a al consumidor <span "
+"class='darkyellow'>terciario</span>?</p>"
+
+#. asset: which-could-not-be-removed-without-affecting-all-o
+msgid ""
+"Which could <span class='red bold'>NOT</span> be removed without affecting "
+"<span class='green bold'>ALL</span> of the remaining things?"
+msgstr ""
+"¿Cuál <span class='red bold'>NO</span> se podía quitar sin afectar <span "
+"class='green bold'>TODAS</span> las demás cosas?"
+
+#. asset: which-of-the-following-is-an-example-of-a-predator
+msgid "Which of the following is an example of a predator-prey relationship?"
+msgstr ""
+"¿Cuál de los siguientes es un ejemplo de una relación depredador-presa?"
+
+#. asset: which-role-does-a-decomposer-play-in-a-food-chain
+msgid "Which role does a decomposer play in a food chain?"
+msgstr "¿Qué papel desempeña un descomponedores en una cadena alimenticia?"
+
+#. asset: you-answered
+msgid "You answered..."
+msgstr "Has respondido"
+
+#. asset: you-are-correct
+msgid "You are correct!"
+msgstr "¡Tienes razón!"
+
+#. asset: you-are-the-park-ecologist-in-your-towns-new-park-
+#. asset: you-can-check-how-you-did-on-the-quick-check-and-q
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz' questions for this "
+"review by clicking the button below."
+msgstr ""
+"Puede comprobar cómo lo has hecho en la \"Comprobación rápida\" y "
+"\"Preguntas de cuestionario\" para este revisión haciendo clic en el botón "
+"de abajo."
+
+#. asset: you-got
+msgid "You got"
+msgstr "¡Tienes"
+
+#. asset: you-got-it-right
+msgid "You got it right!"
+msgstr "¡Tienes razón!"
+
+#. asset: your-assignment
+msgid "Your Assignment"
+msgstr "Su Asignación"
+
+#. asset: youre-done
+msgid "You're done!"
+msgstr "¡Buen trabajo! Estás acabado!"
+
+#. asset: youve-completed-this-food-chain-review
+msgid "You've completed this Food Chains review."
+msgstr "Has completado esta revisión de la cadena alimentaria."
+
+# edited/new texts========================================
+msgid "How did I do?"
+msgstr "¿Cómo hice?"
+
+msgid "Please select your answers."
+msgstr "Por favor seleccione sus respuestas"
+
+msgid "Please select your answer."
+msgstr "Por favor seleccione sus respuestas"
+
+# 1
+#. asset: welcome-to-the-food-chain-review-lets-get-started
+msgid "Welcome to the Food Chains review"
+msgstr "la bienvenido(a) a la revisión de la cadena alimentaria"
+
+msgid "Start"
+msgstr "Comience"
+
+# 6
+msgid ""
+"the caterpillar is the <span class='orange bold'>primary consumer</span>"
+msgstr "La oruga es el <span class='orange bold'> principal consumidor</span>"
+
+msgid "<span class='gray small'>(primary means 'first')</span>"
+msgstr "<span class='gray small'>(principal significa 'primero')</span>"
+
+msgid "the frog is the <span class='purple bold'>secondary consumer</span>"
+msgstr "La rana es el <span class='purple bold'> consumidor secundario</span>"
+
+msgid "<span class='gray small'>(secondary means 'second')</span>"
+msgstr "<span class='gray small'>(secundario significa 'el segundo')</span>"
+
+msgid "the snake is the <span class='red bold'>tertiary consumer</span>"
+msgstr "la serpiente es el <span class='red bold'>consumidor terciario</span>"
+
+msgid "<span class='gray small'>(tertiary means 'third')</span>"
+msgstr "<span class='gray small'>(terciario significa 'el tercero'</span>"
+
+msgid "and the hawk is the <span class='brown bold'>quaternary consumer</span>"
+msgstr ""
+"y el halcón es el <span class='brown bold'>consumidor cuaternario</span>"
+
+msgid "<span class='gray small'>(quaternary means 'fourth')</span>"
+msgstr "<span class='gray small'>(cuaternario significa 'cuarta')</span>"
+
+# 10
+msgid "Hunting to survive..."
+msgstr "La caza para sobrevivir"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haga clic aquí para empezar a escribir su respuesta..."
+
+msgid "Your task"
+msgstr "Su tarea"
+
+msgid "Please type your answer."
+msgstr "Por favor escriba su respuesta."
+
+msgid ""
+"You are the park ecologist in your town's new park. As the park ecologist, "
+"you are in charge of keeping the population of rabbits and fox in balance. "
+"You will need to decide how many rabbits and fox to put in the park to start."
+msgstr ""
+"Usted es el ecólogo del parque en el parque nuevo de su ciudad. Como el "
+"ecólogo del parque, usted está a cargo de mantener la población de conejos y "
+"zorros en equilibrio. Usted tendrá que decidir el número de conejos y zorros "
+"para poner en el parque para comenzar."
+
+# 12
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Food Chain"
+msgstr "cadena alimentaria"
+
+msgid ""
+"A food chain is similar to a food web in that it shows the interactions "
+"between prey and predators in an ecosystem. However, unlike a food web which "
+"shows multiple interactions between prey and predators, a food chain shows "
+"just one linear \"ladder\" of interactions, and not all that are in an "
+"ecosystem."
+msgstr ""
+"Una cadena alimenticia es similar a una red alimenticia ya que muestra las "
+"interacciones entre las presas y los depredadores en un ecosistema. Sin "
+"embargo, al contrario de una red alimenticia que muestra múltiples "
+"interacciones entre presa y depredador, una cadena alimenticia muestra sólo "
+"una \"escalera\" linear de interacciones, y no todas las que existen en el "
+"ecosistema."
+
+msgid "Food Web"
+msgstr "una red alimentaria"
+
+msgid "Producer"
+msgstr "productor"
+
+msgid ""
+"Producers are organisms that use the sun's energy through photosynthesis."
+msgstr ""
+"Los productores son organismos que utilizan la energía solar a través de la "
+"fotosíntesis."
+
+msgid ""
+"Plants get their energy directly from the sun to make their own food. So "
+"they are called producers."
+msgstr ""
+"Las plantas obtienen su energía directamente del sol para crear su propio "
+"alimento. Así que se conocen como productoras."
+
+msgid "Consumer"
+msgstr "consumidor"
+
+msgid ""
+"Consumers are organisms that cannot produce their own energy from the sun "
+"for food; they must consume other organisms."
+msgstr ""
+"Los consumidores son organismos que no pueden producir su propia energía a "
+"partir del sol para alimentarse; deben consumir a otros organismos."
+
+msgid ""
+"Living things such as animals cannot use energy from the sun for food. They "
+"must get their energy from other living things. So they are called consumers."
+msgstr ""
+"Los seres vivos como los animales no pueden utilizar energía del sol para "
+"alimentarse. Deben obtener su energía de otros seres vivos. Así que se les "
+"conoce como consumidores."
+
+msgid "Herbivore"
+msgstr "Herbívoros"
+
+msgid ""
+"Herbivores are creatures that eat only producers, such as plants and algae, "
+"for food."
+msgstr ""
+"Los herbívoros son criaturas que sólo comen productores, como plantas y "
+"algas, para alimentarse."
+
+msgid "Because it only eats plants, an elephant is an example of an herbivore."
+msgstr "Ya que sólo come plantas, un elefante es un ejemplo de un herbívoro."
+
+msgid "Carnivore"
+msgstr "Carnívoros"
+
+msgid "A carnivore is an organism that feeds only on meat."
+msgstr "Un carnívoro es un organismo que sólo se alimenta de carne."
+
+msgid ""
+"A polar bear is the largest land carnivore. It eats mainly fish and seals. "
+"Even your pet cat or dog is a carnivore. Birds such as eagles, hawks, and "
+"falcons are also carnivores. There are even some carnivorous plants, such as "
+"the Venus flytrap, which eats insects."
+msgstr ""
+"El oso polar es el carnívoro terrestre más grande. Se alimenta "
+"principalmente de peces y focas. Incluso tu perro o gato es carnívoro. Las "
+"aves como las águilas y halcones también son carnívoras. Incluso hay plantas "
+"carnívoras, como la Venus atrapamoscas, que se alimenta de insectos."
+
+msgid "Decomposer"
+msgstr "descomponedores"
+
+msgid ""
+"Decomposers, such as fungi, are consumers that feed off of living things "
+"that die."
+msgstr ""
+"Los descomponedores, como los hongos, son consumidores que se alimentan de "
+"seres vivos que han muerto."
+
+msgid ""
+"Living things such as mushrooms or molds are known as decomposers, because "
+"they feed off of dead organisms."
+msgstr ""
+"Los seres vivos como las setas o el moho se conocen como descomponedores, "
+"porque se alimentan de organismos muertos."
+
+msgid "Predation"
+msgstr "depredación"
+
+msgid "When animals hunt other animals, this is known as predation."
+msgstr ""
+"Cuando los animales cazan a otros animales, se conoce como depredación."
+
+msgid ""
+"In predation, the creature being hunted is the prey and the hunter is the "
+"predator."
+msgstr ""
+"En la depredación, la criatura que es cazada es la presa y el cazador es el "
+"depredador."
+
+msgid "Predator"
+msgstr "Depredador"
+
+msgid "Animals that hunt, attack, and eat other animals are called predators."
+msgstr ""
+"Los animales que cazan, atacan y comen a otros animales se conocen como "
+"depredadores."
+
+msgid ""
+"Predators include lions, tigers, and sharks. Dogs and cats are also "
+"predators, but people give them food so they don't have to hunt. Predators "
+"that live in the wild have to be good hunters, or they will not have food to "
+"eat."
+msgstr ""
+"Los depredadores incluyen a los leones, tigres y tiburones. Los perros y los "
+"gatos también son depredadores, pero las personas les dan alimento así que "
+"no necesitan cazar. Los depredadores que viven en la naturaleza necesitan "
+"ser buenos cazadores, o no tendrán alimento para comer."
+
+msgid "Prey"
+msgstr "Presa"
+
+msgid "Animals that are hunted and eaten by other animals are called prey."
+msgstr ""
+"Los animales que son cazados y comidos por otros animales se conocen como "
+"presas."
+
+msgid ""
+"Prey animals often have special markings that help them blend in with their "
+"surroundings so that they are more difficult to find. Animals make easier "
+"prey for the animals that hunt them."
+msgstr ""
+"Los animales presa con frecuencia tienen marcas especiales que les ayudan a "
+"mezclarse con su entorno para que sean más difíciles de encontrar. Los "
+"animales que se encuentran enfermos o débiles son presas más fáciles para "
+"los animales que los cazan."
+
+# 14
+msgid ""
+"Activate <span class='red bold blink'>ALL</span> the buttons that describe "
+"each living thing in the first column."
+msgstr ""
+" Activar <span class='red bold blink'>TODOS</span> los botones que describen "
+"cada cosa viviente de la primera columna."
+
+msgid "Go to dashboard"
+msgstr "Vaya al panel de control"
+
+msgid "Back"
+msgstr "Volver"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Check answer"
+msgstr "Verificar respuesta"

@@ -1,0 +1,1316 @@
+# msgid ""
+msgid ""
+msgstr ""
+"Project-Id-Version: chinese\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "ا繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "选择"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# Preloader
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉 ..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備開始你的第一個小練習？"
+
+msgid "Putting it all together..."
+msgstr "總結一下哦..."
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+msgid "Identifying the zone of life on earth..."
+msgstr "地 球上生物的分布…"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備進行你的最後一個小練習？"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Start"
+msgstr "開始"
+
+msgid "Biodiversity"
+msgstr "生物多样性"
+
+msgid "Welcome to the Biodiversity Review"
+msgstr "歡迎來到「生物多樣性」單元"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+# 2
+msgid "Thinking about... biodiversity"
+msgstr "想一想...關於「生物多樣性」"
+
+msgid ""
+"Biodiversity describes the variety of species found in different places "
+"around the earth. But have you ever thought about why there are so many "
+"kinds of the same plants and animals? Are they all really necessary? Around "
+"170 years ago in Ireland, farmers grew only one kind of potato - the lumper "
+"potato. It was a good source of nutrition and it fed many people at low "
+"cost. Things were great until a fungus came and entire fields of potatoes "
+"were gone within days. Since there was only one kind of potato, and all the "
+"crops were identical, Ireland experienced a horrible famine. One out of "
+"every eight people died in three years. Relying on a single food crop is "
+"very risky.  If many different crops were grown, then it is unlikely that "
+"any single disease or event could cause such a tragedy. Biodiversity is how "
+"the earth is prepared for different changes, and how plants and animals "
+"survive over generations."
+msgstr ""
+"「生物多樣性」是用來代表，地球某一個區域內生物不同的程度。請問你想過，為什麼"
+"同名稱的生物卻總有這麼多的種類呢？它們全都是必要的嗎？大約170年前在愛爾蘭，農"
+"民只種植一種的馬鈴薯。它是營養的良好來源，可以用低的成本來餵飽很多人。這一切"
+"都這麼美好，直到一種真菌在這裡出現，農地中的馬鈴薯在幾天之內就全都毀了！這是"
+"因為，那裡當時只種著一種馬鈴薯，所有的農作物都是相同的。這樣，愛爾蘭經歷了一"
+"場可怕的飢荒，三年中每八人就有一人死亡。所以，依靠單種的糧食作物是非常危險"
+"的；如果那時候種植著多種的作物，單種的疾病或事件就不太可能造成這樣的悲劇。"
+"「生物多樣性」可以說是地球為了因應變化所作的準備，也是動植物能一代代生存下去"
+"的奧秘。"
+
+msgid ""
+"Different animal and plant species are found in Earth's many ecosystems. You "
+"will learn about Earth's biomes and what we are doing to maintain "
+"biodiversity in this review."
+msgstr ""
+"我們在地球上的許多生態系統中可以發現各種不同種類的動植物。您在本單元中，將了"
+"解地球的生物群落和我們是如何做以維持生物多樣性的。"
+
+msgid "Are you ready, "
+msgstr "你準備好了, "
+
+# 3
+msgid "Checking what you know... about biodiversity"
+msgstr "看看你了解了多少...關於「生物多樣性」"
+
+msgid "Click on <span class=\"blink\">ALL</span> the correct statements below."
+msgstr "請點擊<span class=\"blink\">所有</span>下面正確的敘述。"
+
+msgid "Changes in biodiversity can influence humans' resources."
+msgstr "生物多樣性的改變會影響人類的資源。"
+
+msgid "Plants and animals can only live in certain habitats."
+msgstr "動植物只能生活在特定的棲息地。"
+
+msgid ""
+"Temperature is the only factor that determines where plants and animals "
+"survive the best."
+msgstr "氣溫是決定動植物生存地點的唯一因素。"
+
+msgid ""
+"Different animal and plant species are found in Earth's many ecosystems."
+msgstr "不同的動植物物種在地球上的許多生態系統中被發現。"
+
+msgid ""
+"Plants and animals survive best in the habitat that suits them. However, "
+"some of them will adapt over generations, and some them will not survive in "
+"a new habitat. Temperature is an important factor, as well as the amount of "
+"rainfall an area gets. The different combinations of the two factors create "
+"unique circumstances for living things. Continue with this review to learn "
+"about biomes and biodiversity."
+msgstr ""
+"動植物在適合自己的棲息地中，生長的最好。然而，當它們遷移到新的棲息地，有一部"
+"分透過幾個世代的調適後能生存下來，但也有的就無法存活了。氣溫是一個重要的因"
+"素，降雨量也是，這兩個因素的組成形成生物獨特的生活環境。請您繼續本單元，以了"
+"解生物群落和生物多樣性。"
+
+msgid "Conducting ecological sampling..."
+msgstr "實行生態採樣..."
+
+# 4
+msgid "Reviewing core ideas... about biodiversity"
+msgstr "回顧核心觀念...關於生物多樣性"
+
+msgid ""
+"<span class=\"key\">Biomes</span> are the unique plant/animal communities "
+"determined by local <span class=\"key\">climate</span> conditions. <span "
+"class=\"key\">Rainforests</span>, <span class=\"key\">grasslands</span>, and "
+"<span class=\"key\">deserts</span> are all examples of biomes. Every "
+"location on Earth has a unique pattern of yearly temperature and rainfall. "
+"Some places are warm all year. Some have hot and cold seasons. Some places "
+"are always dry, while others have rainfall nearly every day. The particular "
+"patterns of temperature and rainfall averages over the course of each year "
+"determine which plants and animals can live in a place."
+msgstr ""
+"<span class=\"key\">生物群落</span>指的是，由當地的<span class=\"key\">氣候</"
+"span>條件所影響造成的，一群一起生存動植物的總體。<span class=\"key\">雨林</"
+"span>、<span class=\"key\">草原</span>和<span class=\"key\">沙漠</span>都是生"
+"物群落的例子。地球上不同地點都有獨特的年降雨量和氣溫形態；有些地方是終年溫"
+"暖、有些地方有炎熱和寒冷的季節、一些地方總是乾燥、有些地方卻是幾乎天天下雨。"
+"每年，當地的氣溫和降雨的模式，會決定哪些動植物可以在這一個地方生存。"
+
+msgid "Rainforest"
+msgstr "熱帶雨林"
+
+msgid "Grassland"
+msgstr "草原"
+
+msgid "Desert"
+msgstr "沙漠"
+
+msgid ""
+"A tropical rainforest is a place where it is always warm and rain falls "
+"nearly every day.  A desert may be warm or cold, but has very little "
+"rainfall. Regions that have warm summers and cold winters are said to be "
+"<span class=\"key\">temperate</span>. Grasslands may be tropical or "
+"temperate, but always have less rain than rainforests and more rain than "
+"deserts. For every possible combination of rain and temperature, a plant "
+"community exists. These are biomes."
+msgstr ""
+"「熱帶雨林」是一個幾乎終年溫暖而且天天下雨的地方。「沙漠」則有可能是溫暖或寒"
+"冷的，但它很少降雨。<span class=\"key\">溫帶</span>，則有著溫暖的夏天和寒冷的"
+"冬天。「草原」可以處在熱帶或溫帶，不過它的降雨比熱帶雨林少、比沙漠來的多。每"
+"一種降雨和氣溫條件的組合，會使得某一些的動植物聚集生長在一起，這就形成了「生"
+"物群落」。"
+
+msgid ""
+"Every biome has special features and combinations of living things that "
+"occur nowhere else. A single tree in a tropical rainforest may be home to "
+"hundreds of insect <span class=\"key\">species</span>. When biologists "
+"capture and identify all of the insects found on one tree, it's common to "
+"find new species, never before seen."
+msgstr ""
+"每一個生物群落都具特色而且它的生物組合也會和它處不同。在熱帶雨林中的一棵樹可"
+"能是數百種昆蟲的的家。當生物學家捕抓並識別一棵樹中的各種昆蟲時，經常可以找到"
+"從未發現的新<span class=\"key\">物種</span>。"
+
+msgid "Tropical rainforest"
+msgstr "熱帶雨林"
+
+msgid "Tropical rainforest river"
+msgstr "熱帶雨林的河流"
+
+msgid "Cactus in cold desert"
+msgstr "寒冷沙漠的仙人掌"
+
+msgid "Snow covered desert"
+msgstr "白雪覆蓋的沙漠"
+
+msgid ""
+"The <span class=\"key\">tundra</span> biome most often occurs in the very "
+"far north, where temperatures are very cold, and most water shows up as "
+"snow. When the snow melts in summer, grasses and many flowers emerge, "
+"followed by a hardy set of animals. Tundra also shows up near the tops of "
+"tall mountains where the living conditions are so harsh large plants can't "
+"survive."
+msgstr ""
+"<span class=\"key\">苔原</span>生物群落，最常出現在遙遠的北方，那裡的氣溫非常"
+"冷，大多數水都以冰雪的形式存在。當夏天雪融化，許多花草就會出現，緊接著的是適"
+"應力強的動物群。「苔原」還會出現在高大山脈頂端，那裡的生活條件很嚴苛，大型植"
+"物是無法生存的。"
+
+msgid ""
+"A biome that features many large needled trees goes by two names: <span "
+"class=\"key\">taiga</span> and <span class=\"key\">boreal forest</span>. It "
+"features many large needled trees. This community also supports very large "
+"mammals like moose, elk, and bears. Some of the oldest, largest trees in the "
+"world are found in this biome."
+msgstr ""
+"有一種生物群落可以有許多大型針葉樹生存，它被稱作<span class=\"key\">泰卡</"
+"span>或是<span class=\"key\">北方針葉林</span>。這個群落還會有著很多非常大型"
+"的哺乳動物，像：麋鹿、駝鹿和熊。一些世界上最古老、最大的樹就是在這個生物群落"
+"中被發現。"
+
+msgid "Tundra Biome"
+msgstr "苔原生物群落"
+
+msgid "Tundra on top of mountains"
+msgstr "山脈頂部的苔原"
+
+msgid "Taiga / Boreal Forest"
+msgstr "泰加/北方針葉林"
+
+msgid "Taiga / Boreal forest during winter"
+msgstr "泰加/北方針葉林的冬季"
+
+msgid "Looking for a unique pattern..."
+msgstr "尋找一個獨特的模式..."
+
+# 5
+msgid ""
+"Question A. Which of the following events would be <span class=\"blink"
+"\">least</span> expected in a tropical rainforest?"
+msgstr "問題A. 下列哪一項<span class=\"blink\">最不可能</span>出現在熱帶雨林？"
+
+msgid "During the winter, trees lose their leaves and plants stop growing."
+msgstr "在冬季，樹葉掉光，植物停止生長。"
+
+msgid "Large trees that support complex communities of birds and insects."
+msgstr "大樹可以提供鳥類和昆蟲群體生存的條件。"
+
+msgid "Human settlers cut down and burn large areas of trees for farmland."
+msgstr "早期移居的人類為了要開闢農田，會砍伐和燒毀大片樹木。"
+
+msgid ""
+"Heavy thunderstorms that occur nearly every day during the rainy season."
+msgstr "雨季期間幾乎每天都有大雷雨。"
+
+msgid ""
+"Question B. Which of the following pairs of names actually refer to the same "
+"plant community? Rotate or flip the 3D box below either up or down to set "
+"your answer."
+msgstr ""
+"問題B. 下面的哪一組名稱實際上是指相同的植物群落？請旋轉或翻轉下方的3D方塊，來"
+"選擇你的答案。"
+
+msgid "Desert and grassland"
+msgstr "「沙漠」和「草原」"
+
+msgid "Taiga and boreal forest"
+msgstr "「泰加」和「北方針葉林」"
+
+msgid "Tropical rainforest and temperate desert"
+msgstr "「熱帶雨林」和「溫帶沙漠」"
+
+msgid "Tundra and taiga"
+msgstr "「苔原」和「泰加」"
+
+msgid "Click, hold and drag up or down"
+msgstr "點選、按住並同時上下滑動滑鼠"
+
+msgid ""
+"Correct! The growing conditions are the same year-round in a rainforest."
+msgstr "你答對了，這敘述是錯誤的！熱帶雨林的生長條件，全年相同。"
+
+msgid "Nope. Rainforests are full of large trees with lots of animals."
+msgstr "不對喔，這敘述是正確的！雨林是擁有很多大樹，跟很多的動物。"
+
+msgid "Nope. People actually do \"slash and burn\" many rainforest trees."
+msgstr "不對喔，這敘述是正確的！有些人確實砍伐和燒毀大片樹林。"
+
+msgid ""
+"Nope. Periods of daily rain is a characteristic of all tropical rainforests."
+msgstr "不對喔，這敘述是正確的！幾乎天天下雨是所有熱帶雨林的特徵。"
+
+msgid "Sorry, grasslands get way more rain than deserts."
+msgstr "不對喔！草原比沙漠得到多得多的雨水。"
+
+msgid "Yes! Taiga and boreal forest are pretty much the same."
+msgstr "沒錯！「泰加」和「北方針葉林」是相同的。"
+
+msgid "No... These two couldn't be much more different."
+msgstr "不對喔！這兩個是不同的。"
+
+msgid "Not this time. Tundra has no trees. Taiga is full of trees."
+msgstr "不是這樣喔！苔原沒有樹，但針葉林則是長滿了樹。"
+
+# 6
+msgid "More core ideas... about biodiversity"
+msgstr "更多核心觀念...關於「生物多樣性」"
+
+msgid ""
+"<span class='key'>Biodiversity</span> is the term used to refer to the "
+"collection of different plant and animal communities within their natural "
+"environments. Biodiversity describes the variety of species found in Earth's "
+"<span class='key'>ecosystems</span>. These plant and animal communities are "
+"the result of natural factors such as temperature and precipitation as well "
+"as the actions of people. Some plants and animals only survive well in "
+"certain habitats with the temperature and rainfall conditions that suit "
+"them. Think of a polar bear on the beach, how long do you think it would "
+"survive? Some animals migrate or move to a <span class='key'>habitat</span> "
+"that suits them; sometimes permanently, sometimes temporarily."
+msgstr ""
+"<span class=\"key\">生物多樣性</span>是用來指不同的動植物群落在其自然環境中的"
+"集合。「生物多樣性」描述，在地球上某一個<span class=\"key\">生態系統</span>中"
+"發現各種生物物種的情形。這些動植物群落是由於自然因素：如氣溫、降水，以及人類"
+"行為而產生的結果。一些動植物只在某些適合它們的氣溫和降雨條件的棲息地下生存良"
+"好。想想如果北極熊在海灘上，你認為它能生存多久？有些動物遷移或移居到適合它們"
+"的<span class=\"key\">棲息地</span>；這，有時是永久的、有時是暫時的。"
+
+msgid "Polar bear in cold climate"
+msgstr "北極熊在寒冷氣候中"
+
+msgid "Camel in a desert"
+msgstr "駱駝在沙漠中"
+
+msgid "Penguins in cold climate"
+msgstr "企鵝在寒帶中"
+
+msgid "Meerkats in warm climate"
+msgstr "在貓鼬在溫暖氣候中"
+
+msgid "Sheep migrating to new pasture"
+msgstr "羊遷移到新的草原"
+
+msgid "Migrating snow geese"
+msgstr "雪鵝的遷移"
+
+msgid ""
+"Other animals are able to create their own habitats. Ants, bees, and "
+"termites are examples of insects that build complex hives and hills. These "
+"insects live in highly ordered societies that include members who specialize "
+"in such tasks as food gathering, defense, and reproduction."
+msgstr ""
+"有一些動物能夠建立自己的棲息地，例如，螞蟻、蜜蜂和白蟻就是昆蟲類中的例子，它"
+"們能夠建造複雜的蜂巢和土堆。這些昆蟲生活在非常有次序的社會結構中，它們的某些"
+"成員會專門執行某些任務，例如採集食物、防禦和繁殖。"
+
+msgid ""
+"Most bees construct hives inside other enclosed structures, such as hollow "
+"trees, old buildings, or even boxes placed by humans for the bees to use. A "
+"single hive may house as many as 1500 bees. Ants and termites burrow into "
+"the ground to construct vast mazes to house and protect their colonies. The "
+"hills consist of a great many rooms and chambers connected by tunnels. Ant "
+"and termite colonies may be home to anywhere from a few hundred to more than "
+"a million insects each."
+msgstr ""
+"大部分蜜蜂將蜂巢築在其它封閉結構體裡面，如樹洞、老建築，甚至是人類放置以供蜜"
+"蜂使用的箱子，一個蜂巢可以容納多達1500隻蜜蜂。而螞蟻和白蟻則鑽入地下，構建龐"
+"大的迷宮提供居住與保護。蟻丘具有許多房間和洞室，它們透過隧道互相連接，這可以"
+"是從幾百到超過百萬隻螞蟻或白蟻的家。"
+
+msgid "Ant nest on a tree in a tropical rainforest"
+msgstr "熱帶雨林樹上的蟻窩"
+
+msgid "Bees in honeycomb box placed by a human"
+msgstr "人造蜂窩箱聚集的蜜蜂"
+
+msgid "Termites in an old house"
+msgstr "老房子裡的白蟻"
+
+msgid "Sand anthill in a desert"
+msgstr "沙漠中的蟻丘"
+
+msgid ""
+"Some animals not only construct homes for themselves, they build homes for "
+"others. <span class=\"key\">Coral</span> are small ocean creatures that make "
+"hard shells for themselves. Unlike many other shellfish, coral attach "
+"themselves to hard surfaces in warm seawater. Over a period of many years, "
+"large colonies of coral grow enough to form <span class=\"key\">reefs</"
+"span>, large underwater structures that are the home to many kinds of sea "
+"life."
+msgstr ""
+"有些動物不僅為自己，也為其它物種建立家園。 <span class=\"key\">珊瑚</span>是"
+"小型海洋生物，它們自己會長成堅硬的外殼。珊瑚不像許多其它貝類，珊瑚會依附在溫"
+"暖的海水中的堅硬表面上。在多年過後，珊瑚群落生長夠多時，就成為了<span class="
+"\"key\">礁</span>，礁是大型的海底構造，也是許多種海洋生物的家。"
+
+msgid "Monarch butterfly migrating..."
+msgstr "帝王蝶遷徙..."
+
+# 7
+msgid ""
+"Question A. Click on <span class=\"blink\">all</span> of the following that "
+"are advantages enjoyed by animals like ants, termites, and bees that build "
+"large structures to house their colonies?"
+msgstr ""
+"問題A. 以下哪些是螞蟻、白蟻和蜜蜂建造大型居所以作為棲息地的優點？請點選<span."
+"class=\"blink\">所有正確</span>答案(複選)。"
+
+msgid "Protection from possible predators"
+msgstr "提供保護，以免受掠食者侵襲"
+
+msgid "Protection from extreme weather"
+msgstr "提供保護，以免極端天氣的侵害"
+
+msgid "Protection for developing young"
+msgstr "提供保護，以養育下一代"
+
+msgid "Protection from volcanic eruptions"
+msgstr "提供保護，以免受火山噴發影響"
+
+msgid "Question B. What is one advantage enjoyed by animals that build hives?"
+msgstr "問題B. 下列哪一項，是蜜蜂建築蜂巢的好處？"
+
+msgid "Protection from predators"
+msgstr "提供保護，以不被掠食者獵食。"
+
+msgid "Easy movement from place to place"
+msgstr "方便從一個地方遷移到另一個地方"
+
+msgid "Locations close to food sources"
+msgstr "位置接近食物的來源"
+
+msgid "Protection from prey species"
+msgstr "提供保護，以不被獵物獵食。"
+
+msgid "Investigating the beehive..."
+msgstr "探討蜂箱..."
+
+msgid ""
+"Correct. Hives and hills do provide protection from predators and extreme "
+"weather. They also provide protection for their young. The extreme heat of "
+"volcanoes will destroy the hive or hill."
+msgstr ""
+"正確。蜂巢和蟻丘都是提供保護，使得不受掠食者和極端天氣的影響。它也為下一代提"
+"供保護。火山的高溫會破壞蜂巢或土堆。"
+
+msgid ""
+"Not quite. Hives and hills provide protection from predators and extreme "
+"weather. They also provide protection for their young. However, the extreme "
+"heat of volcanoes will destroy the hive or hill."
+msgstr ""
+"不完全是喔！蜂巢和蟻丘都是提供保護，使得不受掠食者和極端天氣的影響。它也為下"
+"一代提供保護。不過，火山的極高溫度還是會毀掉蜂巢或土堆的。"
+
+msgid "Yes! Hives are built in places that are hard for predators to attack."
+msgstr "沒錯！蜂巢是建立在那些掠食者不易攻擊到的地方。"
+
+msgid "No... Hives can't move..."
+msgstr "不對喔！蜂巢不會移動......"
+
+msgid "Probably not. A good place for a hive may or may not be near food."
+msgstr "可能不是喔！一個適合建築蜂巢的好地方，有時候不一定會鄰近食物來源。"
+
+msgid "Sorry. Prey species are food sources, not threats."
+msgstr "不對喔！獵物是食物來源，而不是威脅。"
+
+# 8
+msgid ""
+"When humans interact with nature, we assume the responsibilities for "
+"managing resources, plants, and animals.  Managing nature is a complex task, "
+"especially as we continue to learn more about how natural systems work. "
+"Sometimes our plans work well. Sometimes, they don't work as well. "
+"Hopefully, we learn from mistakes and improve our management techniques."
+msgstr ""
+"當人類與自然互動，我們承擔著一些管理資源和動植物的責任。但是當我們了解越多關"
+"於自然系統運作的奧秘時，我們越認識到管理大自然是一項非常複雜的工作。有時候，"
+"我們的計劃運作的不錯；但有時候，卻是不行。我們希望，能從錯誤中學習，並提高我"
+"們的管理能力。"
+
+msgid ""
+"An interesting example has been the way forest fires have been managed in "
+"the United States. At one time, all fires were fought immediately. It turns "
+"out that fire is an important part of the life of forests. Fires set by "
+"lightning burn through forests every few years and clear away shrubs and "
+"dry, dead brush. The ash fertilizes the soil. Removal of shrubs allows young "
+"trees to have the sunlight they need for growth. Some types of trees even "
+"need the high temperatures of a fire to open their cones and allow the seeds "
+"to drop. So now, some fires are allowed to burn, and some are even set on "
+"purpose."
+msgstr ""
+"一個向自然學習的有趣的例子是森林火災。在美國，有一定的方式來管理森林火災。在"
+"以前，他們努力要立刻鋪滅所有的火災，但事實證明，火災是森林生命的一個重要的必"
+"要部分。每隔幾年閃電會引起森林火災，因此，灌木和一些乾燥、死掉的灌木叢等得以"
+"被清除，留下的植物灰燼則可提供養分滋潤土壤；去除掉灌木叢還可使幼樹得到成長所"
+"需的陽光；有些種類的樹木甚至需要火的高溫來打開自己的球果才能讓種子掉落。所"
+"以，現在，一些火災是會被放任燃燒的，甚至有時候，還是在控制下故意被引燃的。"
+
+msgid ""
+"Another way scientists are learning about the earth and all the interactions "
+"that take place in it is by conducting experiments in <span class=\"key"
+"\">Biosphere 2</span>. A large man-made environment called Biosphere 2 is "
+"sealed off from the outside world. It is intended to help us understand the "
+"needs of people if they were to travel to other planets. Biosphere 2 takes "
+"in solar energy and uses it to grow plants and animals; recycle water, "
+"oxygen, and waste; and provide the power needed to operate the facility."
+msgstr ""
+"另一個科學家們用來學習地球和其中所有物種相互作用的方法，是藉由像<span class="
+"\"key\">生物圈2號</span>這樣的實驗。所謂「生物圈2號」是一個與外界隔絕的大型人"
+"造環境。它的目的，是幫助我們了解人類如果前往其它星球時可能的需求。「生物圈2"
+"號」使用太陽能，讓動植物生長、去回收水、氧氣和廢物並提供設施運作所需的所有能"
+"量。"
+
+msgid ""
+"Biosphere 2 supports six different biomes: the desert, marsh, ocean, "
+"rainforest, savannah, and thorn scrub. The desert biome illustrates life in "
+"the world's dry, arid regions. The marsh biome includes both grassy and "
+"forest wetlands. The ocean biome duplicates the environment of a Caribbean "
+"Sea coral reef. The rainforest biome is divided into segments, each "
+"simulating a different kind of plant community commonly found in wet forests "
+"around the world. Scientists study the interactions between people and their "
+"surrounding environments in these biomes."
+msgstr ""
+"「生物圈2號」包括著六種不同的生物群落：沙漠、沼澤、海洋、雨林、草原，和荊棘灌"
+"叢。「沙漠」生物群落試著說明生命在世界上乾燥、不毛地區的情形；「沼澤」生物群"
+"落包括草地和森林濕地；「海洋」生物群落複製一個加勒比海珊瑚礁的環境；「熱帶雨"
+"林」生物群落劃分成區塊，每個區塊模擬在世界各地的潮濕森林中擁有的不同類型的植"
+"物群落。科學家研究在這些生物群落中，人們和他們的周圍環境之間的相互作用。"
+
+msgid "Removing shrub stumps..."
+msgstr "移除灌木樹叢..."
+
+# 9
+msgid ""
+"Question A. Our ideas about forest fires have changed in the United States "
+"over the years. We now know that..."
+msgstr "問題A. 我們對森林火災的觀念已經改變了。我們現在知道..."
+
+msgid "Fires can be good for the health of a forest."
+msgstr "火災對森林的健康可以是有幫助的。"
+
+msgid "Fires destroy the soil and prevent new trees from growing."
+msgstr "火災破壞土壤，防止新的樹木成長。"
+
+msgid "Fires need to be extinguished as soon as they are spotted."
+msgstr "火災被發現時需要儘快撲滅。"
+
+msgid "Fires reduce the number of tourists who visit areas that have burned."
+msgstr "火災會使的未來到這森林區的遊客減少"
+
+msgid ""
+"Question B. What primary source do Biosphere 2 and Earth use for energy?"
+msgstr "問題B. 「生物圈2號」與我們地球的主要能量來源是？"
+
+msgid "Batteries"
+msgstr "電池"
+
+msgid "Nuclear Power"
+msgstr "核電"
+
+msgid "The Sun"
+msgstr "太陽"
+
+msgid "Gasoline"
+msgstr "汽油"
+
+msgid ""
+"That's right. Small fires rid forests of dead, dry materials that can lead "
+"to bigger fires if allowed to build up."
+msgstr ""
+"答對了！小火災可以燒掉枯死或已乾掉的物質，以避免越積越多，而有造成更大的火災"
+"的危險。"
+
+msgid "Not true. A young healthy forest needs a few fires."
+msgstr "事實並非如此。一個年輕健康的森林是需要一些火災的。"
+
+msgid ""
+"Not always. Sometimes forest managers actually start small fires to get rid "
+"of some of the dead, dry debris in a forest."
+msgstr ""
+"並非總是如此喔！有時，森林管理者會利用小火災去除一些在森林中死了或是乾燥的廢"
+"物。"
+
+msgid ""
+"Not true. Even areas that have suffered large, destructive fires begin to "
+"grow new trees and plants that attract tourists."
+msgstr ""
+"事實並非如此。即使是遭受了大面積的、大破壞性的大火之後，也會長出新的樹木和植"
+"物而吸引遊客。"
+
+msgid "Not this one. Earth is a bit big for batteries."
+msgstr "不是這一個選項。地球太大了，電池不夠使用的。"
+
+msgid "Sorry. While Earth may generate some nuclear power, Biosphere does not."
+msgstr "不對喔！雖然地球可能會利用到一些核電，但「生物圈2號」沒有喔！"
+
+msgid "There you go. Solar power provides energy for both."
+msgstr "答對了！太陽能發電為兩者都提供能量。"
+
+msgid "No... Neither Earth nor Biosphere uses gasoline."
+msgstr "不對！無論是地球或「生物圈2號」都不使用汽油。"
+
+# 10
+msgid "Using what you know... about biodiversity... to solve a problem"
+msgstr "運用你所知道......關於「生物的多樣性」......解決問題"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid ""
+"A certain park supports a complex plant and animal community that may be "
+"summarized in the food web at the right."
+msgstr "某公園具有一個複雜的動植物群落，這可以歸納成右邊的食物網。"
+
+msgid ""
+"Many park users have expressed fear of wolves and want them separated from "
+"children and pets. Park rangers disagree, saying wolves are an essential "
+"part of the park's ecosystem. Park managers are considering whether to "
+"remove all wolves from the park."
+msgstr ""
+"許多公園遊客表示，他們怕狼，並要求將狼和遊客的小孩與寵物隔開；但公園巡護員並"
+"不同意，說狼是生態系統的重要部分。所以公園主管們正在思考「要」或「不要」從公"
+"園中移走所有的狼。"
+
+msgid "Bear"
+msgstr "熊"
+
+msgid "Wolf"
+msgstr "狼"
+
+msgid "Deer"
+msgstr "鹿"
+
+msgid "Red Fox"
+msgstr "紅狐"
+
+msgid "Bee"
+msgstr "蜜蜂"
+
+msgid "Skunk"
+msgstr "臭鼬"
+
+msgid "Birds"
+msgstr "鳥類"
+
+msgid "Mice"
+msgstr "老鼠"
+
+msgid "Rabbit"
+msgstr "兔子"
+
+msgid "Toad"
+msgstr "蟾蜍"
+
+msgid "Insects"
+msgstr "昆蟲"
+
+msgid "Blossoms"
+msgstr "花"
+
+msgid "Nuts"
+msgstr "堅果"
+
+msgid "Bark Oak"
+msgstr "橡樹皮"
+
+msgid "Leaves"
+msgstr "葉子"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid ""
+"You have been asked by the park managers to make a prediction about what "
+"might happen if wolves are removed. Use the space below to list all the "
+"things in the park that will be directly and indirectly affected if all the "
+"wolves are removed. Also write a brief explanation whether you think wolf "
+"removal is a good idea or not."
+msgstr ""
+"公園主管們提出一個問題，「如果狼被移除，你想可能會造成那些情況呢？」。請使用"
+"下面的空白處，寫下：1. 當所有的狼都被移除時， 可能造成公園裡的各種直接和間接"
+"影響(請條列表示)；還有，2. 你覺得移除全部的狼，「是」還是「不是」一個好主意"
+"呢？(請簡要敘述)。"
+
+msgid "Understanding the food web..."
+msgstr "了解食物網..."
+
+# 11
+msgid "Summarizing core ideas... about biodiversity"
+msgstr "總結核心觀念...關於「生物多樣性」"
+
+msgid ""
+"<span class=\"key\">Biomes</span> are the unique plant/animal communities "
+"determined by local climate conditions.  The patterns of temperature and "
+"rainfall averages over the course of each year determine which plants and "
+"animals can live in a place. The <span class=\"key\">tundra</span> biome "
+"most often occurs in the very far north, where temperatures are very cold, "
+"and most water shows up as snow. A biome that features many large needled "
+"trees goes by two names: <span class=\"key\">taiga</span> and <span class="
+"\"key\">boreal forest</span>. Some animals are able to create their own "
+"habitats. Ants, bees, and termites are examples of insects that build "
+"complex hives and hills. Some animals not only construct homes for "
+"themselves, they build homes for others. <span class=\"key\">Coral</span> "
+"make hard shells for themselves. Over a period of many years, large colonies "
+"of coral grow enough to form <span class=\"key\">reefs</span>. When humans "
+"interact with nature, we assume the responsibilities for managing resources, "
+"plants, and animals. To learn even more about the interactions between "
+"people and their surrounding environments, scientists have built a large man-"
+"made environment called <span class=\"key\">Biosphere 2</span>. Biosphere 2 "
+"supports six different biomes: the desert, marsh, ocean, rainforest, "
+"savannah, and the thorn scrub biome."
+msgstr ""
+"<span class=\"key\">生物群落</span>是指一些生存在一起的動植物的總體，這是由當"
+"地氣候條件所形成的。每年，當地的氣溫和降雨的模式，會決定哪些動植物可以在這一"
+"個地方生存。<span class=\"key\">苔原</span>生物群落，最常發生在很遙遠的北方，"
+"那裡的氣溫非常冷，大多數水都以冰雪的形式存在。有一種生物群落具有許多大型針狀"
+"葉樹，它有兩個名稱： <span class=\"key\">泰加</span>或<span class=\"key\">北"
+"方針葉林</span> 。有些動物能夠建立自己的棲息地，例如，螞蟻、蜜蜂和白蟻就是昆"
+"蟲類中的例子。此外，有些動物不僅為自己，也為其它物種建立家園，例如， <span "
+"class=\"key\">珊瑚</span>自己會長成堅硬的外殼，在多年過後，珊瑚群落生長夠多"
+"時，就成為了<span class=\"key\">礁</span>，礁成了許多其它物種的家園。當人類與"
+"自然互動，我們承擔著一些管理資源和動植物的責任，為了要了解更多的關於人及其周"
+"圍環境之間的相互作用，科學家們構建了一個名為<span class=\"key\">生物圈二號</"
+"span>的大型人造環境，「生物圈2號」包括著六種不同的生物群落：沙漠、沼澤、海"
+"洋、雨林、草原，和荊棘灌叢。"
+
+# 12
+msgid "Reviewing key vocabulary related to... biodiversity"
+msgstr "複習重要名詞...關於「生物多樣性」..."
+
+msgid ""
+"Biodiversity describes the variety of species found in Earth's terrestrial "
+"and oceanic ecosystems."
+msgstr "「生物多樣性」描述，在地球上某一個生態系統中發現各種生物物種的情形。"
+
+msgid ""
+"The completeness or integrity of an ecosystem's biodiversity is often used "
+"as a measure of its health."
+msgstr "一個生態系統的完整性或多元性，常被用來作為測量生態系統健康情形的指標。"
+
+msgid "Biome"
+msgstr "生物群落"
+
+msgid ""
+"A biome is a particular ecosystem that is defined by the climate and "
+"geography of its location and by the plants, animals, and organisms living "
+"there. There are many different types of biomes. Terrestrial biomes are "
+"ecosystems that are on land. The tundra is an example of a terrestrial "
+"biome. In the tundra, you will find very cold temperatures and the plant "
+"life consists of vegetation such as shrubs and grasses that are low to the "
+"ground. There are very few trees, if any at all. An aquatic biome is an "
+"ecosystem that exists under the water. A coral reef is an example of an "
+"aquatic biome that exists in shallow, tropical waters near the equator. "
+"Coral reefs are characterized by a great diversity of marine life. The "
+"picture above shows a desert. A desert is another type of biome."
+msgstr ""
+"「生物群落」是一種生態系統，由當地的氣候和地理位置以及生活在那裡的生物而構"
+"成。生物群落有許多不同類型，「陸地生物群落」是一種陸地上的生態系統，而苔原是"
+"陸地生物群落的一個例子。在「苔原」，你會發現那裡環境氣溫極低，存在的植物主要"
+"包含如灌木和一些低矮的草，那裏縱使有樹木，也是極為稀少。「水生生物群落」是存"
+"在水底下的生態系統，「珊瑚礁」是一種水生生物群落的一個例子，它存在於赤道附近"
+"熱帶水域的淺海處，珊瑚礁的特點是海洋生物種類繁多。上圖顯示著「沙漠」，沙漠也"
+"是另一種類型的生物群落。"
+
+msgid "Climate"
+msgstr "氣候"
+
+msgid ""
+"Climate refers to the weather in specific places over a long period of time."
+msgstr "「氣候」指的是，在特定的地方，一段較長時期天氣的平均狀況。"
+
+msgid ""
+"When thinking about the climate of a place, scientists look at different "
+"things, such as the amount of rain and snow, temperature, the number of "
+"sunny and cloudy days, and wind activity. The scientists look at weather "
+"information that has been collected over a long period of time to learn "
+"about the climate of an area."
+msgstr ""
+"當要了解一個地方的氣候時，科學家會觀察不同的事項，比如：降雨量、降雪量、氣"
+"溫、晴天和陰雨天數，以及風的情況等等。科學家們藉由收集到長時間的天氣資訊，來"
+"了解一個地區的氣候。"
+
+msgid "Ecosystem"
+msgstr "生態系統"
+
+msgid ""
+"An ecosystem is all the living and non-living things in a given place. An "
+"ecosystem can be as large as a forest or as small as a rotting log. There "
+"are both land and water ecosystems."
+msgstr ""
+"「生態系統」是指在某一個地方的所有生物和非生物。一個生態系統可以大到像一個森"
+"林或小到如一個腐爛的木頭。有「陸地」和「水生」的生態系統。"
+
+msgid ""
+"Ponds, rivers, lakes, and oceans are all examples of water ecosystems. A "
+"pond ecosystem contains not only water, but living organisms such as fish, "
+"plants, insects, frogs, and turtles. Common land ecosystems include forests, "
+"deserts, and grassy meadows."
+msgstr ""
+"池塘、河流、湖泊和海洋都是「水生生態系統」的例子。池塘生態系統不僅包含水，還"
+"有生物如魚類、植物、昆蟲、青蛙和烏龜。常見的「陸地生態系統」包括森林、沙漠和"
+"草原。"
+
+msgid "Habitat"
+msgstr "棲息地"
+
+msgid ""
+"A habitat is a place where a plant or animal lives. A forest is one type of "
+"habitat that covers a large part of Earth. A rainforest is a specific type "
+"of habitat that has many trees. It is a good habitat for animals such as "
+"birds, bats, and monkeys."
+msgstr ""
+"「棲息地」是某一種植物或動物生長或居住的地方。森林是一種類型的棲息地，它覆蓋"
+"地球很大一部分。熱帶雨林是一種特定類型的棲息地，它有很多樹木，對很多動物，如"
+"鳥類，蝙蝠和猴子來說，是一個很好的棲息地。"
+
+msgid ""
+"Because there is much water in the rainforest, it is a good habitat for many "
+"plants. Plants living in this type of habitat grow to be very large and have "
+"very big leaves."
+msgstr ""
+"因為在熱帶雨林水份很多，對很多植物來說這是一個良好的棲息。生活在這種類型棲息"
+"地的植物生長的非常巨大，有非常大的葉子。"
+
+msgid "Species"
+msgstr "物種"
+
+msgid ""
+"A species is a very specific kind of living thing. Plants and animals of the "
+"same species are able to breed together to produce more plants and animals "
+"of the same species. The species that a living thing belongs to is "
+"identified based on all of its characteristics. The species of a living "
+"thing can tell you what other living things it is related to."
+msgstr ""
+"「物種」指的是，某一種特定的生物。同種的動植物彼此能夠交配以產生後代。一個生"
+"物所屬的物種是根據它所有特性來鑑定。當我們知道某一個生物的物種，我們也可知道"
+"它和其它生物之間可能的關係。"
+
+msgid "Tundra"
+msgstr "苔原"
+
+msgid ""
+"The tundra biome most often occurs in the very far north, where temperatures "
+"are very cold, and most water shows up as snow."
+msgstr ""
+"「苔原生物群落」最常出現在很遙遠的北方，那裡的氣溫非常冷，大多數水都是以冰雪"
+"的狀態存在。"
+
+msgid ""
+"Tundra shows up near the tops of tall mountains where the living conditions "
+"are so harsh large plants can't survive."
+msgstr ""
+"「苔原」出現在高大山脈頂端的附近，那裡的生活條件很嚴苛，大型植物是無法生存"
+"的。"
+
+msgid "Taiga"
+msgstr "針葉樹林地帶"
+
+msgid ""
+"A biome that features many large needled trees goes by two names: taiga and "
+"boreal forest."
+msgstr "「泰卡」或者又稱為「北方針葉林」，是許多大型針葉樹生存的一種生物群落。"
+
+msgid ""
+"This community also supports very large mammals like moose, elk, and bears. "
+"Some of the oldest, largest trees in the world are found in the taiga biome."
+msgstr ""
+"這個群落還會有著很多非常大型的哺乳動物，像：麋鹿、駝鹿和熊。一些世界上最古"
+"老、最大的樹就是在這個生物群落中被發現。"
+
+msgid "Boreal forest"
+msgstr "北方針葉林"
+
+msgid ""
+"This community also supports very large mammals like moose, elk, and bears.  "
+"Some of the oldest, largest trees in the world are found in the boreal "
+"forest biome."
+msgstr ""
+"這個群落還會有著很多非常大型的哺乳動物，像：麋鹿、駝鹿和熊。一些世界上最古"
+"老、最大的樹就是在這個生物群落中被發現。。"
+
+msgid "Temperate"
+msgstr "氣候溫和"
+
+msgid ""
+"Regions that have warm summers and cold winters, located between the tropics "
+"and polar regions, are said to be temperate."
+msgstr ""
+"「溫帶氣候區」，有著溫暖的夏天和寒冷的冬天。它是處在熱帶和極地地區之間的區"
+"域，氣候被認為是較溫和的。"
+
+msgid ""
+"Grasslands may be tropical or temperate, but always have less rain than "
+"rainforests and more rain than deserts."
+msgstr ""
+"「草原」可能處在熱帶或溫帶氣候區中。這一區的降雨量一定比熱帶雨林少，但比沙漠"
+"區多。"
+
+msgid ""
+"Grasslands are a biome that may be tropical or temperate, but always have "
+"less rain than rainforests and more rain than deserts."
+msgstr ""
+"「草原區」是一種可能位在熱帶或溫帶氣候區的生物群落，它的降雨比熱帶雨林少、比"
+"沙漠來的多。"
+
+msgid "Rainforests, deserts, and grasslands are all examples of biomes."
+msgstr "熱帶雨林、沙漠和草原都是生物群落的例子。"
+
+msgid ""
+"A tropical rainforest is a place where it is always warm and rain falls "
+"nearly every day."
+msgstr "「熱帶雨林」是一個幾乎終年溫暖而且天天下雨的地方。"
+
+msgid "Rainforests, grasslands, and deserts are all examples of biomes."
+msgstr "「熱帶雨林」、「草原」、「沙漠」都是生物群落的例子。"
+
+msgid ""
+"A desert is a place that may be warm or cold, but has very little rainfall."
+msgstr "「沙漠」地區有可能是溫暖或是寒冷的，但它很少降雨。"
+
+msgid ""
+"Deserts may be tropical or temperate, but they always receive very little "
+"rainfall."
+msgstr "沙漠可能是熱帶或溫帶，但它們總是得到很少的降雨量。"
+
+msgid "Biosphere"
+msgstr "生物圈"
+
+msgid "The biosphere is the collection of all of Earth's ecosystems."
+msgstr "「生物圈」指的是，所有地球生態系統的總合。"
+
+msgid ""
+"All life on Earth, in all of the unique biomes, is contained within the "
+"biosphere."
+msgstr "地球上所有各生物群落中的所有的生命，都屬於一個「生物圈」。"
+
+msgid "Biosphere 2"
+msgstr "「生物圈2號」"
+
+msgid ""
+"In an effort to learn even more about the interactions between people and "
+"their surrounding environments, scientists have built a large man-made "
+"environment called Biosphere 2. It is intended to help us understand the "
+"needs of people if they were to travel to other planets."
+msgstr ""
+"「生物圈2號」，那是一個科學家為了要學習更多關於人類和周遭所有物種相互作用的方"
+"式，所建立的一個人造環境。它的目的，是幫助我們了解人類如果前往其它星球時可能"
+"的需求。"
+
+msgid ""
+"Sealed off from the outside world, Biosphere 2 takes in solar energy and "
+"uses it to grow plants and animals; recycle water, oxygen, and waste; and "
+"provide the power needed to operate the facility. Biosphere 2 supports six "
+"different biomes."
+msgstr ""
+"「生物圈2號」是一個和外界完全隔離的環境，它只使用太陽能，讓動植物生長、去回收"
+"水、氧氣和廢物並提供設施運作所需的所有能量。「生物圈2號」裡面包括著六種不同的"
+"生物群落。"
+
+# 13
+msgid "Checking what you now know... about biodiversity"
+msgstr "看看你了解了多少...關於「生物多樣性」"
+
+# 14
+msgid ""
+"Which of the following is <span class='blink'>least likely</span> to help "
+"determine the type of biome that will define a particular location?"
+msgstr ""
+"下列哪些選項是<span class=\"blink\">最不可能</span>用來決定某一個地點可能具有"
+"的生物群落？"
+
+msgid "Distance from the equator"
+msgstr "從赤道的距離"
+
+msgid "Waterfowl migration patterns"
+msgstr "水鳥遷徙模式"
+
+msgid "Average annual rainfall"
+msgstr "年平均降水量"
+
+msgid "Average annual temperature"
+msgstr "年平均氣溫"
+
+msgid "No.... Distance from the equator is related to temperature patterns."
+msgstr "不是這個選項喔，這是正確的敘述！跟赤道的距離和與氣溫的形態會有相關。"
+
+msgid ""
+"Correct. Migration patterns don't determine biomes; they are determined by "
+"biomes."
+msgstr ""
+"你選對了，這是錯誤的敘述！遷移模式不會決定生物群落；應該反過來，是生物群落決"
+"定遷移模式。"
+
+msgid "Sorry. Rainfall patterns determine biomes."
+msgstr "不是這個選項喔，這是正確的敘述！降雨形態會決定生物的群落。"
+
+msgid "Nope. Temperature patterns determine biomes."
+msgstr "不是這個選項喔，這是正確的敘述！氣溫形態會決定的生物群落。"
+
+# 15
+msgid ""
+"Click on <span class=\"blink\">all</span> the reasons for doing a lengthy "
+"and expensive project as Biosphere 2?"
+msgstr ""
+"為什麼科學家要進行這一個耗時又昂貴的「生物圈2號」計畫呢？請點擊<span class="
+"\"blink\">所有可能的原因</span>。"
+
+msgid "Biosphere could become an important source of food."
+msgstr "生物圈可能成為重要的食物來源。"
+
+msgid "Biosphere lets us experiment with climate conditions."
+msgstr "生物圈讓我們能在控制的氣候條件下，進行實驗。"
+
+msgid "Biosphere could become an important source of water."
+msgstr "生物圈可能成為水的重要來源。"
+
+msgid "Biosphere lets us study interactions between people and nature."
+msgstr "生物圈讓我們可以研究人與自然之間的相互作用。"
+
+msgid ""
+"Correct. Biosphere 2 does let us see how changing conditions impact biomes "
+"as well as how people and nature interact. The Biosphere isn't nearly large "
+"enough to provide much food and it doesn't actually produce any new water."
+msgstr ""
+"答對了！「生物圈2號」可以讓我們了解條件的改變是如何影響生物群落，以及人類與自"
+"然之間如何相互作用。生物圈並沒有大到足以提供更多的食物，實際上它也並不是要去"
+"產生新的水源。"
+
+msgid ""
+"Biosphere 2 does allow experimentation with climate conditions, but see if "
+"there are any other correct choices."
+msgstr ""
+"「生物圈2號」確實可以進行氣候條件的試驗，但請看看有沒有其它正確的選項。"
+
+msgid ""
+"Biosphere 2 does allow us to observe interactions between people and nature, "
+"but see if there are any other correct choices."
+msgstr ""
+"「生物圈2號」確實可讓我們觀察人類與自然之間的互動，但請看看有沒有其它正確的選"
+"項。"
+
+msgid ""
+"Not quite, Biosphere 2 does let us see how changing conditions impact biomes "
+"as well as how people and nature interact. The Biosphere isn't nearly large "
+"enough to provide much food and it doesn't actually produce any new water."
+msgstr ""
+"不大對喔！「生物圈2號」可以讓我們了解條件的改變是如何影響生物群落，以及人類與"
+"自然之間如何相互作用。生物圈並沒有大到足以提供更多的食物，實際上它也並不是要"
+"去產生新的水源。"
+
+# 16
+msgid ""
+"What has been a major change in forest management over the decades? Rotate "
+"or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"請問，在過去幾十年中，森林管理方面有什麼重要的變化？請您上下翻轉下方3D方塊，"
+"選擇答案。"
+
+msgid "All forest fires are fought immediately."
+msgstr "現在，所有的森林火災都要立即撲滅。"
+
+msgid "Forest fires are never fought at all."
+msgstr "森林火災，從來不被撲滅的。"
+
+msgid "Forest fires caused by lightning are ignored."
+msgstr "雷電引起的森林火災會讓它自然延燒，不會撲滅它。"
+
+msgid "Some fires are allowed to burn to improve the forest."
+msgstr "有的火災會讓它自然延燒，它可以使森林得到益處。"
+
+msgid "Conducting a sustainable forest management..."
+msgstr "落實永續森林的經營..."
+
+msgid "No. Fighting all fires is an old policy."
+msgstr "不對喔！撲滅所有火災是一個舊的作法。"
+
+msgid "Not this one. We certainly fight forest fires."
+msgstr "不對喔！我們還是會進行滅火的。"
+
+msgid "No. Lightning is part of nature, but can't be ignored."
+msgstr ""
+"不對喔！閃電是大自然的一部分，但並不是閃電引起的火災，我們就一定讓它自然延"
+"燒。"
+
+msgid "Yes. Some fires are allowed to burn and some are even set."
+msgstr "答對了！有的火災是可以被允許燃燒，有些甚至是有計畫的點火。"
+
+# 17
+msgid ""
+"Look at the chart at the right side below and click on the statement you "
+"think is correct."
+msgstr "看右側圖表，點擊您認為是正確的敘述。"
+
+msgid "Temperate Deciduous Forest"
+msgstr "溫帶落葉林"
+
+msgid ""
+"The amount of annual rainfall is the most important factor in classifying "
+"biomes."
+msgstr "年降雨量是區分生物群落的的最重要因素。"
+
+msgid ""
+"The grassland and taiga biomes have the same amount of annual rainfall, so "
+"they are very similar in plant and animal life."
+msgstr ""
+"草原和泰加(北方針葉林)的生物群落具有相同的年降雨量，所以它們的動植物生態非常"
+"相似。"
+
+msgid "Grasslands have less rain than rainforests and more rain than deserts."
+msgstr "草原比熱帶雨林的雨水少；但比沙漠多。"
+
+msgid ""
+"The desert and tundra biomes have the same amount of annual rainfall, so "
+"they are very similar in plant and animal life."
+msgstr "沙漠和苔原生物群落年降雨量相同，所以它們的動植物的生命形態非常相似。"
+
+msgid "Making a rain gauge..."
+msgstr "製作雨量計..."
+
+msgid ""
+"Not quite, rainfall is important. But temperature is also a factor, and the "
+"different combinations of both are what provide various biomes."
+msgstr ""
+"不完全對喔！降雨量是很重要，沒錯；但是，氣溫也是一個因素。這兩者的不同的組合"
+"造成生物群落的不同。"
+
+msgid ""
+"No, the grassland and taiga biomes are only similar in rainfall, not in "
+"temperature. Long, cold winters, and short, mild, wet summers are typical of "
+"the taiga biome. Whereas the grassland has a more temperate climate."
+msgstr ""
+"不對喔！草原和泰加(北方針葉林)只有在降雨量相近，但氣溫卻不同。草原有著溫和的"
+"氣候；而泰加(北方針葉林)卻有著漫長寒冷的冬天和短暫溫濕的夏季。"
+
+msgid ""
+"Correct, the green bar (60 cm) is between the blue (180 cm) and the yellow "
+"(20 cm) bars."
+msgstr "正確！綠色條（60公分）介於藍色（180公分）和黃色（20公分）條之間。"
+
+msgid ""
+"No, no, the desert and tundra biomes are only similar in rainfall, not in "
+"temperature. The desert is extremely hot and the tundra is extremely cold."
+msgstr ""
+"不，不是喔！沙漠和苔原生物群落也只是降雨量相近；氣溫則未必相近。沙漠有的非常"
+"熱，苔原一定是非常寒冷。"
+
+msgid "Centimeters of Rainfall per Year"
+msgstr "每年降雨厘米"
+
+msgid "Centimeters"
+msgstr "厘米"
+
+# 18
+msgid "What is an advantage to controlled burning in forests?"
+msgstr "森林管理單位有時會在控制下焚燒森林，請問這樣的好處是？"
+
+msgid "The fires help shrubby trees to compete with bigger tree species."
+msgstr "能幫助灌木叢和較大的樹木競爭成長。"
+
+msgid "The fires help shrubby trees fill the space between big trees."
+msgstr "能幫助灌木樹去填滿大樹與大樹之間的空間。"
+
+msgid "The fires remove shrubby trees that provide fuel for fires."
+msgstr "能燒除灌木樹，如果不先燒除，這些可能就是未來火災的燃料。"
+
+msgid "The fires remove shrubby trees that kill bigger tree species."
+msgstr "能燒除會造成大樹死亡的那些灌木樹叢。"
+
+msgid "Protecting the forest from large fire..."
+msgstr "保護森林不被大火波及..."
+
+msgid "Nope! Buildup of small, shrubby trees is a risk, not an advantage."
+msgstr "不！讓低雜的灌木樹叢增多是一種風險，並不是好處。"
+
+msgid ""
+"Not this one. Filling up the forest with shrubby trees adds fuel for fires."
+msgstr "不是這一個喔！灌木樹叢充斥著森林時，等於增加了火災的燃料。"
+
+msgid "Yes. Removing these removes a lot of the fuel that feeds fires."
+msgstr "答對了！去除這些灌木樹叢就等於移除了未來火災的燃料。"
+
+msgid "No. Such competition is not a problem for the forest."
+msgstr "不對喔！這種競爭關係是自然的，我們並不認為這在森林裡會是問題。"
+
+# 19
+msgid ""
+"Warming seawater is making coral survival less and less likely. Why is this "
+"a problem for ocean biomes? Rotate or flip the 3D box below either up or "
+"down to set your answer."
+msgstr ""
+"海水變暖使珊瑚的生存越來越艱難。為什麼這是海洋生物群落的一個問題呢？請上下翻"
+"轉下方3D方塊，作答。"
+
+msgid "Coral is the food supply of many species of fish."
+msgstr "珊瑚是許多魚類食物來源。"
+
+msgid "Many species make coral reefs their homes."
+msgstr "許多物種是以珊瑚礁作為家園。"
+
+msgid "Coral is used by artists and home decorators."
+msgstr "珊瑚是藝術家和家居裝飾的物品。"
+
+msgid "Coral reefs can sometimes be seen from space."
+msgstr "珊瑚礁有時可以從太空中看到。"
+
+msgid "No. Many species live in the coral reefs but don't eat them."
+msgstr "不對喔！許多物種生活在珊瑚礁中，但不會吃珊瑚。"
+
+msgid "Correct. Coral reefs support many ocean animal species."
+msgstr "答對了！珊瑚礁提供多種海洋動物生存的支持條件。"
+
+msgid "Nope! It is illegal to collect or even disturb coral reefs."
+msgstr "不對喔！採集甚至擾亂珊瑚礁都是非法的行為。"
+
+msgid ""
+"No. The fact that some coral reefs can be seen from space shows just how "
+"important they are."
+msgstr "不對喔！從太空可以看到地球上的一些珊瑚礁是事實，但這和題目比較無關。"
+
+# 20
+msgid "You've completed the Biodiversity review."
+msgstr "你已經完成了「生物多樣性」的學習單元。"
+
+msgid "Congratulations, "
+msgstr "恭喜你囉, "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現..."

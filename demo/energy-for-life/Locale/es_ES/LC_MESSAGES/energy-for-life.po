@@ -1,0 +1,1300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: energy-for-life\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzman <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Check Answer"
+msgstr "Revisar la respuesta"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr ""
+"Navega entre las diapositivas debajo dando clic en las flechas de izquierda "
+"y derecha"
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Click here to start typing your answer..."
+msgstr "Da clic aquí para empezar a escribir tu respuesta..."
+
+# Preloader
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "Estás listo/a,"
+
+msgid "Bathing under the sun..."
+msgstr "Dándose un baño de sol..."
+
+msgid "Releasing energy..."
+msgstr "Liberando energía..."
+
+msgid "Preparing your first quick check..."
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Searching for food..."
+msgstr "Buscando comida..."
+
+msgid "Roles and relationships"
+msgstr "Roles y relaciones"
+
+msgid "Burning fossil fuels..."
+msgstr "Quemando combustibles fósiles..."
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Analyzing the events..."
+msgstr "Analizando los eventos..."
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "Your first quiz question is..."
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Digging coal..."
+msgstr "Extrayendo carbón..."
+
+msgid "Network of food relationship..."
+msgstr "Red de relaciones alimentarias..."
+
+msgid "Pumping fuel for ignition..."
+msgstr "Bombeando combustible para la ignición..."
+
+msgid "Studying photosynthesis..."
+msgstr "Estudiándo la fotosíntesis..."
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+msgid "Energy for Life"
+msgstr "Energía para la Vida"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"Girar o voltear el cuadro de abajo hacia arriba o hacia abajo para ajustar "
+"su respuesta."
+
+# 1
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Welcome to the Energy for Life review"
+msgstr "Bienvenido/a a la Revisión de Energía para la Vida"
+
+# 2
+msgid "Thinking about... energy for life"
+msgstr "Pensando acerca de... energía para la vida"
+
+msgid ""
+"Our cars need energy. Our homes need energy. We need energy for our phones "
+"and computers. When we run out of energy ourselves, we eat to get more "
+"energy. It takes energy to power the atmosphere and cause weather. Even "
+"plants need energy."
+msgstr ""
+"Nuestros autos necesitan energía. Nuestros hogares necesitan energía. "
+"Nosotros necesitamos energía para nuestros teléfonos y computadoras. Cuando "
+"nos quedamos sin energía nosotros mismos, comemos para obtener más energía. "
+"Requiere energía el mantener la atmósfera y ocasionar el clima. Incluso las "
+"plantas necesitan energía."
+
+msgid ""
+"Where to get some? The answer is above us every day, even when we can't see "
+"it because of clouds. It's the sun. Think about how everything somehow gets "
+"energy from the sun. It's all linked together."
+msgstr ""
+"¿Dónde obtenerla? La respuesta está encima de nosotros cada día, incluso "
+"cuando no la podemos ver debido a las nubes. Es el sol. Piensa acerca de "
+"cómo todo de cierta forma obtiene energía del sol. Todo está unido entre sí."
+
+# 3
+msgid "Checking what you know... about energy for life"
+msgstr "Revisando lo que sabes... acerca de energía para la vida"
+
+msgid "Click on the statement that is <span class='blink'>correct</span>."
+msgstr "Da clic en la frase que es <span class=\"blink\">correcta</span>."
+
+msgid "The earth gets heat from the sun."
+msgstr "La Tierra obtiene calor del sol."
+
+msgid "Light from the sun is absorbed by objects on earth."
+msgstr "La luz del sol es absorbida por objetos en la Tierra."
+
+msgid "Absorbed light usually increases the energy in an object."
+msgstr "La luz absorbida usualmente incrementa la energía en un objeto."
+
+msgid "All of the above."
+msgstr "Todas las anteriores."
+
+msgid ""
+"The light from the sun is reflected or absorbed by objects on earth. If an "
+"object absorbs sunlight, its energy increases. Continue with the lesson and "
+"review how the sun supplies plants with energy and how all living things "
+"depend on that for energy."
+msgstr ""
+"La luz del sol es reflejada o absorbida por objetos en la Tierra. Si un "
+"objeto absorbe luz solar, su energía incrementa. Continúa con la lección y "
+"revisa cómo el sol provee a las plantas de energía y cómo todos los seres "
+"vivos dependen de ello para obtener energía."
+
+# 4
+msgid "Reviewing core ideas... about energy for life"
+msgstr "Revisando ideas clave... acerca de energía para la vida"
+
+msgid ""
+"We get the energy we need for everything we do in life from the sun. Much of "
+"that energy is reflected into space, but some is trapped in the leaves of "
+"green plants.  In those leaves, a process called <span class=\"key"
+"\">photosynthesis</span> converts the active, kinetic energy of light into "
+"the stored potential energy of chemical bonds."
+msgstr ""
+"Obtenemos la energía necesaria para todas las cosas que hacemos en la vida "
+"del sol. Mucha de esa energía se refleja al espacio, pero parte de ella "
+"queda capturada en las hojas de las plantas verdes. En esas hojas, un "
+"proceso llamado  <span class=\"key\">fotosíntesis</span> convierte la "
+"energía activa, kinética de la luz en energía potencial almacenada en "
+"vínculos químicos."
+
+msgid ""
+"Photosynthesis converts air and water into sugar and oxygen in the part of a "
+"plant cell that is actually green. The green structure is called a <span "
+"class=\"key\">chloroplast</span>, and is found mostly in leaves and stems.  "
+"It contains a green chemical called <span class=\"key\">chlorophyll</span> "
+"which is able to absorb energy from the sun.  Oxygen is also made as a waste "
+"product of photosynthesis."
+msgstr ""
+"La fotosíntesis convierte el aire y agua en azúcar y oxígeno en la parte de "
+"la célula vegetal que es genuinamente verde. La estructura verde se llama "
+"<span class=\"key\">cloroplasto</span>, y se encuentra principalmente en las "
+"hojas y los tallos. Contiene un químico verde llamado <span class=\"key"
+"\">clorofila</span> que es capaz de absorber energía del sol. El oxígeno "
+"también es generado como un desecho de la fotosíntesis."
+
+msgid "Sunlight Light Energy"
+msgstr "Energía Lumínica de la Luz Solar"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+msgid "Glucose"
+msgstr "Glucosa"
+
+msgid "Carbon Dioxide"
+msgstr "Dióxido de Carbono"
+
+msgid "Root"
+msgstr "Raíz"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Minerals"
+msgstr "Minerales"
+
+msgid ""
+"The key thing to remember is that energy from the sun is used to combine "
+"atoms into a sugar molecule. That energy is stored in the chemical bonds "
+"holding the atoms together.  As long as the sugar molecules are together in "
+"some form, the energy will remain stored.  The oxygen released as well is a "
+"waste product of photosynthesis, but is vital for other life processes in "
+"all plants and animals."
+msgstr ""
+"Lo más importante que debemos recordar es que la energía del sol se utiliza "
+"para combinar átomos para crear una molécula de azúcar. Esa energía es "
+"almacenada en los vínculos químicos que mantienen a los átomos unidos. "
+"Mientras las moléculas de azúcar estén unidas de alguna forma, la energía se "
+"mantendrá acumulada. El oxígeno liberado también es un producto de desecho "
+"de la fotosíntesis, pero es vital para otros procesos de vida en todas las "
+"plantas y animales."
+
+msgid ""
+"What about living things who can't capture the sun's energy through "
+"photosynthesis, like people? Other living things eat. Most of our energy "
+"comes from the sugars and starches in our diets. <span class='key'>Starches</"
+"span> are actually long chains of simple sugar molecules, bonded together.  "
+"When they are broken down into simple sugars, they can enter cells, where "
+"the chemical bonds holding their atoms together, are broken apart. The "
+"energy that was once holding atoms to one another is then released and used "
+"to power the cell's life processes."
+msgstr ""
+"¿Qué sucede con los seres vivos que no pueden capturar la energía del sol a "
+"través de la fotosíntesis, como las personas? Otros seres vivos comen. La "
+"mayoría de nuestra energía viene de los azúcares y almidones en nuestras "
+"dietas.  <span class=\"key\">Los almidones</span> son en realidad cadenas "
+"largas de moléculas simples de azúcar, unidas unas a otras. Cuando se "
+"descomponen en azúcares simples, pueden entrar a las células, donde los "
+"vínculos químicos que mantienen unidos a sus átomos, se rompen. La energía "
+"que una vez mantenía los átomos unidos entre sí entonces se libera y se "
+"utiliza para proporcionar energía a los procesos de vida celular."
+
+msgid "Starchy foods: bread, potatoes, pasta, rice"
+msgstr "Comidas con almidón: pan, patatas, pasta, arroz"
+
+msgid ""
+"So when we run out of energy, we feel hungry and eat.  After we eat, we feel "
+"better - thanks to the energy we've taken in. This is because our food is "
+"broken apart and digested, and absorbed by our digestive systems."
+msgstr ""
+"Así que cuando se nos acaba la energía, sentimos hambre y comemos. Después "
+"de comer, nos sentimos mejor - gracias a la energía que hemos consumido. "
+"Esto sucede porque nuestra comida se descompone y digiere, y es absorbida "
+"por nuestros sistemas digestivos."
+
+msgid ""
+"The small building blocks of our food molecules are then transported to "
+"cells all over our bodies by the circulatory system. This process of energy "
+"release is called <span class=\"key\">cellular respiration</span>, and "
+"requires oxygen to occur. Like photosynthesis, cellular respiration is a "
+"complex, many-stepped process which can be summarized fairly simply.  Sugar "
+"is broken down, using oxygen, to release energy and form carbon dioxide and "
+"water."
+msgstr ""
+"Los pequeños bloques de construcción en las móleculas de nuestros alimentos "
+"entonces son transportados a células de todo nuestro cuerpo por medio del "
+"sistema circulatorio. Este proceso de liberación de energía se llama <span "
+"class=\"key\">respiración celular</span>, y requiere de oxígeno para "
+"ocurrir. Como la fotosíntesis, la respiración celular es un proceso "
+"complejo, de muchos pasos que puede ser resumido de forma bastante simple. "
+"El azúcar se descompone, utilizando el oxígeno, para liberar energía y "
+"formar dióxido de carbono y agua."
+
+msgid ""
+"The first stage of respiration happens as soon as sugar enters the cell. It "
+"only releases a little energy, but it provides the raw materials for the two "
+"other stages. They both occur in a cellular structure called a "
+"mitochondrion. Both animals and plants have mitochondria in all of their "
+"cells. Through another complex set of reactions, the bonds holding the "
+"carbon, hydrogen, and oxygen atoms of sugar are broken and rearranged to "
+"produce carbon dioxide and water. The energy that remains is used by the "
+"cell."
+msgstr ""
+"La primera etapa de la respiración sucede tan pronto como entra azúcar a la "
+"célula. Sólo libera un poco de energía, pero provee los materiales crudos "
+"para las otras dos etapas. Ambas ocurren en una estructura celular llamada "
+"mitocondria. Tanto los animales como las plantas tienen mitocondrias en "
+"todas sus células. A través de otra compleja serie de reacciones, los "
+"vínculos que mantienen los átomos de carbono, hidrógeno y oxígeno en el "
+"azúcar se rompen y reorganizan para producir dióxido de carbono y agua. La "
+"energía que queda es utilizada por la célula."
+
+msgid ""
+"While the process is simple on the surface, many factors combine to "
+"determine just how our body processes work together to give us the energy we "
+"need when we need it."
+msgstr ""
+"Mientras que el proceso es simple en la superficie, muchos factores se "
+"combinan para determinar cómo los procesos de nuestro cuerpo trabajan juntos "
+"para darnos la energía que necesitamos cuando la necesitamos."
+
+msgid "Mitochondria"
+msgstr "Las mitocondrias"
+
+# 5
+msgid ""
+"Question A. Which of the following statements is <span class=\"blink\">true</"
+"span> regarding photosynthesis?"
+msgstr ""
+"Pregunta A. ¿Cuál de las siguientes declaraciones es <span class=\"blink"
+"\">cierta</span> con respecto a la fotosíntesis?"
+
+msgid "Photosynthesis occurs only in animal cells."
+msgstr "La fotosíntesis ocurre únicamente en células animales."
+
+msgid "Energy is stored in the chemical bonds of sugars."
+msgstr "La energía se acumula en los vínculos químicos de los azúcares."
+
+msgid "Carbon dioxide is released into the air."
+msgstr "Se libera dióxido de carbono en el aire."
+
+msgid "Sugars are consumed for energy release."
+msgstr "Se consumen azúcares para liberar energía."
+
+msgid ""
+"Question B. Which of the following is the name of the process in which "
+"energy is released from sugar?"
+msgstr ""
+"Pregunta B. ¿Cuál de los siguientes es el nombre del proceso en el que se "
+"libera energía de los azúcares?"
+
+msgid "Cellular respiration"
+msgstr "Respiración celular"
+
+msgid "Photosynthesis"
+msgstr "Fotosíntesis"
+
+msgid "Metabolism"
+msgstr "Metabolismo"
+
+msgid "Light reactions"
+msgstr "Reacciones lumínicas"
+
+msgid "Sorry. Animal cells can't do photosynthesis."
+msgstr ""
+"Lo siento. Las células animales no pueden llevar a cabo la fotosíntesis."
+
+msgid ""
+"Yes! Energy is stored in the bonds holding carbon, hydrogen, and oxygen "
+"atoms in sugar molecules."
+msgstr ""
+"¡Sí! La energía se acumula en los vínculos que mantienen a los átomos de "
+"carbono, hidrógeno y oxígeno unidos en las moléculas de los azúcares."
+
+msgid "It's the other way. Carbon dioxide is taken from the air."
+msgstr "Es del modo opuesto. Se toma dióxido de carbono del aire."
+
+msgid "Nope. This is where energy is stored in sugar."
+msgstr "Nop. Aquí es donde la energía se acumula en los azúcares."
+
+msgid "That's right! Respiration releases the stored power of the sun."
+msgstr "¡Así es! La respiración libera el poder acumulado del sol."
+
+msgid "Umm... No.  It's the other one...."
+msgstr "Umm... No. Es la otra..."
+
+msgid "Not unrelated. But not the best answer."
+msgstr "No es irrelevante. Pero no es la mejor respuesta."
+
+msgid "Don't think this term showed up in this review..."
+msgstr "No creo que este término haya aparecido en la revisión..."
+
+# 6
+msgid "More core ideas... about energy for life"
+msgstr "Más ideas clave... acerca de energía para la vida"
+
+msgid ""
+"All living things need food and all living things are food. The "
+"relationships between producers and consumers in a complex plant/animal "
+"community are extremely complicated and not at all obvious. Hover your mouse "
+"over each image to view more information."
+msgstr ""
+"Todos los seres vivos necesitan alimento y todos los seres vivos son "
+"alimento. Las relaciones entre productores y consumidores en una comunidad "
+"compleja de plantas y animales son sumamente complicadas y no del todo "
+"obvias. Pasa tu mouse sobre cada imagen para ver más información."
+
+msgid ""
+"We think of green plants as <span class=\"key\">producers</span>. They use "
+"some of the sugar produced during photosynthesis to power their own cells, "
+"and the rest is stored in the form of carbohydrates, proteins, and fat."
+msgstr ""
+"Pensamos en las plantas verdes como <span class=\"key\">productoras</span>. "
+"Ellas utilizan algo de la energía producida durante la fotosíntesis en sus "
+"propias células, y el resto se acumula en forma de carbohidratos, proteínas "
+"y grasa."
+
+msgid ""
+"<span class=\"key\">Consumers</span> eat producers, digesting the plant "
+"compounds and using them for energy and for building their own "
+"carbohydrates, proteins, and fats."
+msgstr ""
+"<span class=\"key\">Los consumidores</span> comen productores, digiriendo "
+"los compuestos de la planta y utilizándolos como energía y para construir "
+"sus propios carbohidratos, proteínas y grasas."
+
+msgid ""
+"First-order consumers, also called <span class=\"key\">herbivores</span>, "
+"eat only plant material.  Second-order consumers eat other consumers."
+msgstr ""
+"Los consumidores de primer orden, también llamados <span class=\"key"
+"\">herbívoros</span>, sólo comen material vegetal. Los consumidores de "
+"segundo orden comen a otros consumidores."
+
+msgid ""
+"Animals that eat only other animals are called <span class=\"key"
+"\">carnivores</span>."
+msgstr ""
+"Los animales que sólo comen otros animales se llaman <span class=\"key"
+"\">carnívoros</span>."
+
+msgid ""
+"Animals that eat both plants and animals are called <span class=\"key"
+"\">omnivores</span>."
+msgstr ""
+"Los animales que comen tanto plantas como animales se llaman <span class="
+"\"key\">omnívoros</span>."
+
+msgid ""
+"A direct sequence of producer being eaten by first order consumer which is "
+"then eaten by a second-order consumer is called a <span class=\"key\">food "
+"chain</span>."
+msgstr ""
+"Una secuencia directa de productores siendo comidos por consumidores de "
+"primer orden que luego son comidos por consumidores de segundo orden se "
+"llama <span class=\"key\">cadena alimenticia</span>."
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by bacteria and fungi. This diverse group of organisms, called <span "
+"class=\"key\">decomposers</span>, also go to work on the waste matter "
+"dropped by animals.  They use the nonliving material for food, releasing "
+"some carbon dioxide back into the air and breaking it down into its simplest "
+"parts.  This process turns the dead plant or animal back into soil which can "
+"then be used for new plant growth.  The released carbon dioxide is also "
+"reused for photosynthesis."
+msgstr ""
+"Cuando un ser vivo muere y no es consumido por un animal, es consumido en su "
+"lugar por bacterias y hongos. Este diverso grupo de organismos, llamados "
+"<span class=\"key\">descomponedores</span>, también trabajan en los desechos "
+"expulsados por los animales.  Utilizan el material no vivo como alimento, "
+"liberando algo de dióxido de carbono en el aire y descomponiéndolo en sus "
+"partes más simples. Este proceso convierte las plantas y animales muertos en "
+"tierra que puede entonces ser utilizada por nuevas plantas para crecer. El "
+"dióxido de carbono liberado también es reutilizado para la fotosíntesis."
+
+msgid ""
+"Over a span of years, the same atoms and molecules may cycle back and forth "
+"between different types of plants and animals over and over.  Every time "
+"they are combined to make a bigger molecule, energy is stored in the "
+"chemical bonds that hold them together.  Every time they are broken apart, "
+"that same energy is released to provide energy for life processes."
+msgstr ""
+"A lo largo de años, los mismos átomos y moléculas pueden pasar entre "
+"distintos tipos de plantas y animales una y otra vez. Cada vez que se "
+"combinan para crear una molécula más grande, energía se acumula en los "
+"vínculos químicos que las mantienen unidas. Cada vez que se desintegran, esa "
+"misma energía es liberada para proveer de energía a los proceso de vida."
+
+msgid ""
+"Under certain circumstances, decomposers may not be available to fully break "
+"dead matter apart.  If the circumstances are just right, that matter may be "
+"preserved, keeping its complex carbon-based molecules mostly intact. When "
+"plant materials are preserved in this way, and then compressed beneath many "
+"layers of rock, <span class=\"key\">coal</span> is produced. When ocean "
+"microorganisms face similar conditions, the resulting product is crude oil, "
+"or <span class=\"key\">petroleum</span>."
+msgstr ""
+"Bajo ciertas circunstancias, los descomponedores pueden no estar disponibles "
+"para descomponer del todo la materia muerta. Si las circunstancias son las "
+"correctas, la materia puede ser preservada, manteniendo sus moléculas "
+"complejas basadas en carbono casi intactas. Cuando el material vegetal se "
+"preserva de esta forma, y luego se comprime bajo muchas capas de roca, se "
+"produce <span class=\"key\">carbón</span>. Cuando microorganismos oceánicos "
+"encuentran condiciones similares, el producto resultante es el <span class="
+"\"key\">petróleo</span> crudo."
+
+msgid "Large offshore oil rig drilling for petroleum"
+msgstr "Gran plataforma petrolífera extrayendo petróleo"
+
+msgid "Fossil leaves"
+msgstr "Hojas fósiles"
+
+msgid "Coal mining site"
+msgstr "Mina de carbón"
+
+# 7
+msgid ""
+"Question A. Plants are generally understood to play which role in the "
+"ecosystem?"
+msgstr ""
+"Pregunta A. ¿Cuál es el principal papel de las plantas en el ecosistema?"
+
+msgid "Producers"
+msgstr "Productores"
+
+msgid "First-order consumers"
+msgstr "Consumidores de primer orden"
+
+msgid "Herbivores"
+msgstr "Herbívoros"
+
+msgid "Decomposers"
+msgstr "Descomponedores"
+
+msgid ""
+"Question B. Which of the following illustrates the complex set of "
+"relationships in a plant/animal community?"
+msgstr ""
+"Pregunta B. ¿Cuál de las siguientes ilustra el grupo complejo de relaciones "
+"en una comunidad de plantas y animales?"
+
+msgid "Food pyramid"
+msgstr "Pirámide alimenticia"
+
+msgid "Temperature graph"
+msgstr "Gráfica de temperatura"
+
+msgid "Food web"
+msgstr "Red alimentaria"
+
+msgid "Periodic table"
+msgstr "Tabla periódica"
+
+msgid "Correct! Producers gather solar energy in photosynthesis."
+msgstr ""
+"¡Correcto! Los productores obtienen energía solar por medio de la "
+"fotosíntesis."
+
+msgid "No. Consumers eat plants."
+msgstr "No. Los consumidores comen plantas."
+
+msgid "Sorry. Herbivores eat plants."
+msgstr "Lo siento. Los herbívoros comen plantas."
+
+msgid "Nope. Decomposers break down dead material."
+msgstr "Nop. Los descomponedores descomponen material muerto."
+
+msgid "Not quite. The pyramid may be useful in meal planning, though."
+msgstr ""
+"No exactamente. La pirámide puede ser útil para planear tu alimentación, sin "
+"embargo."
+
+msgid "Ummm... Not related to plant/animal relationships."
+msgstr "Ummm... No se relaciona a las relaciones entre plantas y animales."
+
+msgid "Yes! Food webs illustrate complex plant/animal relationships."
+msgstr ""
+"¡Sí! Las redes alimentarias ilustran relaciones complejas entre plantas y "
+"animales."
+
+msgid "Not quite. The periodic table is a tool for chemistry."
+msgstr "No exactamente. La tabla periódica es una herramienta para la química."
+
+# 8
+msgid ""
+"Coal and petroleum are considered to be <span class=\"key\">fossil fuels</"
+"span>, because they are the remains of living organisms, millions of years "
+"old. <span class=\"key\">Coal</span> was the fuel for the industrial "
+"revolution, providing the vast amounts of energy required to power the steel "
+"mills and steam engines.  Steady wages, new products, and higher "
+"concentrations of people led to dramatic upward shifts in the standards of "
+"living of people all over the world."
+msgstr ""
+"El carbón y el petróleo se consideran <span class=\"key\">combustibles "
+"fósiles</span>, porque son los restos de organismos vivos de hace millones "
+"de años. <span class=\"key\">El carbón</span> fue el combustible de la "
+"revolución industrial, proveyendo las vastas cantidades de energía "
+"necesarias para dar poder a los motores de vapor y fábricas de acero. "
+"Salarios constantes, nuevos productos y mayor concentración de personas "
+"llevaron a dramáticas alzas en los estándares de vida de las personas de "
+"todo el mundo."
+
+msgid ""
+"<span class='key'>Petroleum</span> was the fuel for another industrial "
+"revolution at the beginning of the Twentieth Century. Automobiles and "
+"airplanes required the concentration of a lot of energy in a small package "
+"to speed up travel and make it available to common people; petroleum was "
+"just the ticket."
+msgstr ""
+"El <span class='key'>petróleo</span> fue el combustible para otra revolución "
+"industrial al inicio del Siglo XX. Los automóviles y aviones necesitaban a "
+"concentración de mucha  energía en un pequeño para acelerar los viajes y "
+"hacerlos disponibles para la gente común, ¡el petróleoera justo lo que se "
+"necesitaba!"
+
+msgid ""
+"We still use huge amounts of coal and petroleum around the world, but we are "
+"beginning to understand the long-term costs of using these resources. Fossil "
+"fuels take a very long time to form, much longer than they take to use up. "
+"Even though new supplies of coal and oil are still being found, the time "
+"required for them to form makes it inevitable that we will eventually run "
+"out. Here's how the system works."
+msgstr ""
+"Aún utilizamos enormes cantidades de carbón y petróleo alrededor del mundo, "
+"pero estamos comenzando a entender los costos a largo plazo de utilizar "
+"estos recursos. Los combustibles fósiles toman un largo tiempo para "
+"formarse, mucho más tiempo del que tardan en ser consumidos. Aunque aún se "
+"encuentran nuevas fuentes de carbón, el tiempo requerido para que se formen "
+"hace inevitable que eventualmente se acaben. Aquí está cómo funciona el "
+"sistema:"
+
+msgid ""
+"Burning fossil fuels releases vast amounts of carbon dioxide into the "
+"atmosphere. This carbon dioxide was originally trapped by photosynthesis "
+"millions of years ago and stored as living material. When that material was "
+"converted into coal and petroleum, it was stored indefinitely below ground. "
+"Now, this stored carbon is being returned to the atmosphere at rates far "
+"faster than when it was removed. This has led to changes in climate patterns "
+"because carbon dioxide absorbs solar energy, heating the atmosphere."
+msgstr ""
+"Quemar combustibles fósiles libera grandes cantidades de dióxido de carbono "
+"en la atmósfera. Este dióxido de carbono estaba originalmente atrapado por "
+"la fotosíntesis hace millones de años y se acumuló como material vivo. "
+"Cuando ese material se convirtió en carbón y petróleo, se conservó "
+"indefinidamente bajo el suelo. Ahora, este carbono acumulado regresa a la "
+"atmósfera a una velocidad mucho más rápida que cuando fue removido. Esto ha "
+"llevado a que haya cambios en los patrones del clima porque el dióxido de "
+"carbono absorbe energía solar, calentando la atmósfera."
+
+msgid ""
+"One possible solution to the problem of using up fossil fuels is to make "
+"fuels using solar energy to remove carbon and produce new fuels. That's what "
+"photosynthesis does. It uses the sun's energy to remove carbon dioxide from "
+"the air and make molecules of sugar."
+msgstr ""
+"Una solución posible al problema de utilizar combustibles fósiles es crear "
+"combustibles utilizando energía solar para remover el carbono y producir "
+"nuevos combustibles. Eso es lo que hace la fotosíntesis. Utiliza la energía "
+"del sol para remover dióxido de carbono del airea y crear moléculas de "
+"azúcar."
+
+# 9
+msgid "Question A. Coal is a fossil fuel made up mostly of..."
+msgstr ""
+"Pregunta A. El carbón es un combustible fósil hecho principalmente de..."
+
+msgid "Dinosaur remains"
+msgstr "Restos de dinosaurios"
+
+msgid "Marine fossils"
+msgstr "Fósiles marinos"
+
+msgid "Plant material"
+msgstr "Material vegetal"
+
+msgid "Preserved insects"
+msgstr "Insectos preservados"
+
+msgid "Question B. The energy stored in fossil fuels came originally from..."
+msgstr ""
+"Pregunta B. La energía almacenada en los combustibles fósiles vino "
+"originalmente de..."
+
+msgid "The sun"
+msgstr "El sol"
+
+msgid "Waterfalls"
+msgstr "Cascadas"
+
+msgid "Volcanoes"
+msgstr "Volcanes"
+
+msgid "Dinosaurs"
+msgstr "Dinosaurios"
+
+msgid ""
+"Not dinosaurs... Even though some oil companies use them in advertising."
+msgstr ""
+"No los dinosaurios... Aunque algunas compañías petroleras los utilizan en su "
+"publicidad."
+
+msgid "Close... Marine fossils are the source for petroleum."
+msgstr "Casi... Los fósiles marinos son la fuente del petróleo."
+
+msgid "That's right! Slabs of coal often include impressions of leaves."
+msgstr ""
+"¡Así es! Los bloques de carbón con frecuencia incluyen impresiones de hojas."
+
+msgid "Sorry. Coal isn't from insects."
+msgstr "Lo siento. El carbón no viene de los insectos."
+
+msgid "That's right! Coal and petroleum are the remains of living things."
+msgstr "¡Así es! El carbón y el petróleo son los restos de seres vivos."
+
+msgid "Sorry... Waterfalls don't make fossil fuels."
+msgstr "Lo siento... Las cascadas no crean combustibles fósiles."
+
+msgid "Um... no. Volcanoes would actually burn fuels away."
+msgstr "Um... no. Los volcanes en realidad quemarían combustibles."
+
+msgid "Not dinosaurs, even though they may have left fossils."
+msgstr "No los dinosaurios, aunque hayan podido dejar fósiles."
+
+# 10
+msgid "Using what you know... about energy for life... to solve a problem"
+msgstr ""
+"Utilizando lo que sabes... acerca de energía para la vida... para resolver "
+"un problema"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid ""
+"The burning of fossil fuels has saved people lots of time and labor while "
+"raising living standards around the world. But burning fossil fuels "
+"contributes to global warming and is dangerous for the future. Many people "
+"argue that the United States should not take action to reduce its use of "
+"fossil fuels unless all other countries around the world reduce their use of "
+"fossil fuels as well. They argue that any changes made only by the US will "
+"be insignificant."
+msgstr ""
+"El quemar combustibles fósiles ha ahorrado a las personas mucho tiempo y "
+"trabajo al tiempo que ha elevado los estándares de vida alrededor del mundo. "
+"Pero quemar combustibles fósiles contribuye al calentamiento global y es "
+"peligroso para el futuro. Muchas personas opinan que los Estados Unidos no "
+"deberían tomar acciones para reducir el uso de combustibles fósiles a menos "
+"que todos los otros países del mundo reduzcan el uso de combustibles fósiles "
+"también. Dicen que cualquier cambio hecho sólo por los EU será "
+"insignificante."
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid ""
+"Prepare some \"talking points\" (things that people might say) for people on "
+"both sides of the issue. Use the headings, \"Reasons why the US should cut "
+"back on the use of fossil fuels\" and \"Reasons why the US should not cut "
+"back on the use of fossil fuels\" to organize your talking points.  Enter or "
+"cut and paste your talking points in the text box provided."
+msgstr ""
+"Prepara algunos “puntos de debate” (cosas que las personas puedan decir) "
+"para las personas en ambas posiciones del tema. Utiliza los encabezados, "
+"“Razones por las que EU debería reducir el uso de combustibles fósiles” y "
+"“Razones por las que EU no debería reducir el uso de combustibles fósiles” "
+"para organizar tus puntos de debate. Introduce o copia y pega tus puntos de "
+"debate en el campo para texto designado."
+
+# 11
+msgid "Summarizing core ideas... about energy for life"
+msgstr "Resumiendo ideas clave... acerca de energía para la vida."
+
+msgid ""
+"In green plants, a process called <span class='key'>photosynthesis</span> "
+"captures light energy and stores it in the chemical bonds of sugars.  These "
+"sugars may be used directly by the plant or by other living things, or they "
+"may be converted into a variety of energy storage molecules. These molecules "
+"may be used later. Organisms that capture solar energy are called <span "
+"class='key'>producers</span>. Organisms which use the energy stored by "
+"plants are called <span class='key'>consumers</span>. Each set of "
+"relationships between producers, consumers, and their physical environments "
+"is called a <span class='key'>food web</span>. When plants and animals die, "
+"their bodies decompose, releasing the stored energy. Sometimes, the bodies "
+"do not completely decompose and the stored energy may be converted into "
+"substances which may remain underground for millions of years. <span "
+"class='key'>Coal</span> is the product of the incomplete decomposition of "
+"plant material. Oil and natural gas are the products of a similar process in "
+"ocean organisms. The fact that these products are the remains of living "
+"things millions of years old is why they are called <span class='key'>fossil "
+"fuels</span>."
+msgstr ""
+"En las plantas verdes, un proceso llamado <span class=\"key\">fotosíntesis</"
+"span> captura energía lumínica y la almacena en los vínculos químicos de los "
+"azúcares. Estos azúcares pueden ser utilizados directamente por la planta o "
+"por otros seres vivos, o pueden ser convertidos en una variedad de moléculas "
+"de almacenaje de energía. Estas moléculas pueden ser utilizadas más tarde. "
+"Los organismos que capturan energía solar se llaman <span class=\"key"
+"\">productores</span>.  Los organismos que utilizan la energía almacenada "
+"por las plantas se llaman <span class=\"key\">consumidores</span>. Cada "
+"grupo de relaciones entre productores, consumidores y sus ambientes físicos "
+"se llama <span class=\"key\">red alimentaria</span>. Cuando las plantas y "
+"animales mueren, sus cuerpos se descomponen, liberando la energía acumulada. "
+"Algunas veces, los cuerpos no se descomponen completamente, y la energía "
+"almacenada puede convertirse en sustancias que pueden permanecer bajo tierra "
+"por millones de años. <span class=\"key\">El carbón</span> es el producto de "
+"la descomposición incompleta de material vegetal. El petróleo y gas natural "
+"son productos de un proceso similar en organismos oceánicos. El hecho de que "
+"estos productos sean los restos de seres vivos de millones de años de edad "
+"es la razón por la cuál se llaman <span class=\"key\">combustibles fósiles</"
+"span>."
+
+msgid "Reviewing key vocabulary related to... the energy for life"
+msgstr "Revisando vocabulario clave relacionado con... energía para la vida."
+
+msgid ""
+"Photosynthesis, the process by which producers such as plants obtain their "
+"energy, uses light energy to convert carbon dioxide and water into sugar and "
+"oxygen."
+msgstr ""
+"Fotosíntesis, el proceso por el cual los productores como las plantas "
+"obtienen su energía, utiliza energía lumínica para convertir dióxido de "
+"carbono y agua en azúcar y oxígeno."
+
+msgid "Chloroplast"
+msgstr "Cloroplasto"
+
+msgid ""
+"Photosynthesis occurs in the part of a plant cell that is actually green, a "
+"structure called a chloroplast. Chloroplast organelles are found mostly in "
+"leaves and stems, and contain a green pigment chemical called chlorophyll "
+"which is able to absorb energy from the sun."
+msgstr ""
+"La fotosíntesis ocurre en la parte de la célula vegetal que es "
+"verdaderamente verde, una estructura llamada cloroplasto. Los organelos "
+"cloroplastos se encuentran principalmente en las hojas y tallos y contienen "
+"un pigmento químico verde llamado clorofila que es capaz de absorber energía "
+"del sol."
+
+msgid "Chlorophyll"
+msgstr "Clorofila"
+
+msgid ""
+"Within the chloroplast organelle of plant leaves and stems is a green "
+"pigment called chlorophyll, which is able to absorb energy from the sun. "
+"Thus, chlorophyll is essential in photosynthesis."
+msgstr ""
+"Dentro del organelo cloroplasto de las hojas y tallos de las plantas, hay un "
+"pigmento verde llamado clorofila, que es capaz de absorber energía del sol. "
+"Por lo tanto, la clorofila es esencial en la fotosíntesis."
+
+msgid "Starch"
+msgstr "Almidón"
+
+msgid ""
+"Most of our energy comes from the sugars and starches in our diets. Starches "
+"are actually long chains of simple sugar molecules, bonded together."
+msgstr ""
+"La mayor parte de nuestra energía proviene de los azúcares y almidones en "
+"nuestras dietas. Los almidones son en realidad largas cadenas de moléculas "
+"simples de azúcar, unidas unas a otras."
+
+msgid ""
+"Cellular respiration is a complex, many-stepped process in which energy is "
+"released through the breaking down of sugar and use of oxygen. Cellular "
+"respiration releases energy and forms carbon dioxide and water."
+msgstr ""
+"La respiración celular es un proceso complejo, de muchos pasos, en el que la "
+"energía se libera a través de la descomposición de azúcares y el uso de "
+"oxígeno. La respiración celular libera energía y forma dióxido de carbono y "
+"agua."
+
+msgid "Producer"
+msgstr "Productor"
+
+msgid ""
+"Green plants, and some other organisms in nature, are producers. Instead of "
+"consuming other organisms, producers use the process of photosynthesis to "
+"produce the energy they need to power their own cells."
+msgstr ""
+"Las plantas verdes y algunos otros organismos en la naturaleza son "
+"productores. En vez de consumir otros organismos, los productores utilizan "
+"el proceso de la fotosíntesis para producir la energía que necesitan para "
+"sus células."
+
+msgid "Consumer"
+msgstr "Consumidor"
+
+msgid ""
+"Consumers are organisms that cannot produce their own energy through "
+"photosynthesis and, thus, eat producers. They digest the plant compounds and "
+"use them for energy and for building their own carbohydrates, proteins, and "
+"fats. A bison, tiger, and people are examples of consumers."
+msgstr ""
+"Los consumidores son organismos que no pueden producir su propia energía a "
+"través de la fotosíntesis, y que, por lo tanto, comen productores. Ellos "
+"digieren los compuestos de la planta y los utilizan como energía y para "
+"crear sus propios carbohidratos, proteínas y grasas. Un bisonte, un tigre y "
+"una persona son ejemplos de consumidores."
+
+msgid "Herbivore"
+msgstr "Herbívoro"
+
+msgid ""
+"An herbivore is a type of consumer; herbivores eat only plants. Elephants, "
+"giraffes, and deer are examples of herbivores."
+msgstr ""
+"Un herbívoro es un tipo de consumidor; los herbívoros comen sólo plantas. "
+"Elefantes, jirafas y ciervos son ejemplos de herbívoros."
+
+msgid "Carnivore"
+msgstr "Carnívoro"
+
+msgid ""
+"A carnivore is a type of consumer; carnivores eat only meat. Cats, dogs, and "
+"crocodiles are examples of carnivores."
+msgstr ""
+"Un carnívoro es un tipo de consumidor; los carnívoros sólo comen carne. "
+"Gatos, perros y cocodrilos son ejemplos de carnívoros."
+
+msgid "Omnivore"
+msgstr "Omnívoro"
+
+msgid ""
+"An omnivore is a type of consumer; omnivores eat both plants and meat. "
+"Bears, birds, and people are examples of omnivores."
+msgstr ""
+"Un omnívoro es un tipo de consumidor; los omnívoros comen tanto plantas como "
+"carne. Los osos, aves y personas son ejemplos de omnívoros."
+
+msgid "Food chain"
+msgstr "Cadena alimenticia"
+
+msgid ""
+"A direct sequence of producer organisms being eaten by consumer organisms "
+"such as herbivores, which are then eaten by second-order consumers such as "
+"omnivores and carnivores, is called a food chain."
+msgstr ""
+"Una secuencia directa de organismos productores comidos por organismos "
+"consumidores como los herbívoros, que son entonces comidos por consumidores "
+"de segundo orden como los omnívoros y carnívoros, se llama cadena "
+"alimenticia. "
+
+msgid "Decomposer"
+msgstr "Descomponedor"
+
+msgid ""
+"When a living thing dies and is not consumed by an animal, it is consumed "
+"instead by a group of organisms called decomposers. Bacteria and fungi are "
+"two main types of decomposers, which also go to work on the waste matter "
+"dropped by animals."
+msgstr ""
+"Cuando un ser vivo muere y no es consumido por un animal, es consumido en su "
+"lugar por un grupo de organismos llamados descomponedores. Las bacterias y "
+"hongos son dos tipos principales de descomponedores, que también trabajan en "
+"los desechos expulsados por los animales."
+
+msgid "Coal"
+msgstr "Carbón"
+
+msgid ""
+"When plant materials are preserved in such a way that their complex carbon-"
+"based molecules are kept mostly intact, and then compressed beneath many "
+"layers of rock, coal is produced. Coal is an example of a fossil fuel."
+msgstr ""
+"Cuando materiales vegetales se preservan de forma que sus moléculas "
+"complejas basadas en carbono se mantienen casi intactas, y luego se "
+"comprimen bajo muchas capas de roca, se produce carbón. El carbón es un "
+"ejemplo de combustible fósil."
+
+msgid "Petroleum"
+msgstr "Petróleo"
+
+msgid ""
+"When ocean microorganisms are preserved in such a way that their complex "
+"carbon-based molecules are kept mostly intact, and then compressed beneath "
+"many layers of rock, crude oil, or petroleum, is produced. Petroleum is an "
+"example of a fossil fuel."
+msgstr ""
+"Cuando los microorganismos oceánicos se preservan de forma que sus moléculas "
+"complejas basadas en carbono se mantienen casi intactas, y luego se "
+"comprimen bajo muchas capas de roca, se produce el petróleo crudo. El "
+"petróleo es un ejemplo de combustible fósil."
+
+msgid "Fossil Fuels"
+msgstr "Combustibles Fósiles"
+
+msgid ""
+"Coal and petroleum are considered to be fossil fuels because they are the "
+"remains of living organisms, which are called fossils. Fossil fuels are "
+"considered to be a nonrenewable resource."
+msgstr ""
+"El carbón y el petróleo se consideran combustibles fósiles porque son los "
+"restos de organismos vivos, que son llamados fósiles. Los combustibles "
+"fósiles se consideran un recurso no renovable."
+
+# 13
+msgid "Checking what you now know... about energy for life"
+msgstr "Revisando lo que sabes ahora... acerca de energía para la vida"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestar las siguientes seis (6) preguntas de evaluación te dará una idea "
+"acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Da clic en el botón de SIGUIENTE cuando estés listo/a."
+
+# 14
+msgid ""
+"Which of the following is the name of the process in which green plants "
+"convert solar energy into chemical bond energy?"
+msgstr ""
+"¿Cuál de los siguientes es el nombre del proceso por el que las plantas "
+"verdes convvierten energía solar en energía de vínculos químicos?"
+
+msgid "Glycolysis"
+msgstr "Glicólisis."
+
+msgid "No! Respiration is part of the story, but not this part of the story."
+msgstr ""
+"¡No! La respiración celular es parte de la historia, pero no esta parte de "
+"la historia."
+
+msgid "Yes! Photosynthesis captures and stores energy from the sun."
+msgstr "¡Sí! La fotosíntesis captura y acumula la energía del sol."
+
+msgid "Hmmm.... Does this word appear in this review?"
+msgstr "Mmm.... ¿Acaso aparece esta palabra en la revisión?"
+
+msgid "It's related..... But not the answer."
+msgstr "Está relacionado... Pero no es la respuesta."
+
+# 15
+msgid ""
+"Which of the following statement about coal and petroleum is <span "
+"class='blink'>incorrect</span>?"
+msgstr ""
+"¿Cuál de las siguientes declaraciones sobre el carbón y el petróleo no es "
+"correcta?"
+
+msgid ""
+"Click on the statement about coal and petroleum that is <span class=\"blink"
+"\">incorrect</span>. Rotate or flip the 3D box below either up or down to "
+"set your answer."
+msgstr ""
+"Da click en la declaración acerca del carbón y petróleo que es <span class="
+"\"blink\">incorrecta</span>. Gira o voltea la caja 3D de abajo hacia arriba "
+"o hacia abajo para seleccionar tu respuesta."
+
+msgid "Coal and petroleum are important fuel resources."
+msgstr "El carbón y el petróleo son recursos de combustible importantes."
+
+msgid "There is an unlimited supply of them for years to come."
+msgstr "Hay una reserva ilimitada de ellos para años venideros."
+
+msgid "Burning them has negative side effects for the environment."
+msgstr "Quemarlos tiene efectos secundarios negativos para el ambiente."
+
+msgid "They are extracted through deep wells and mines."
+msgstr "Son extraídos a través de minas y pozos profundos."
+
+msgid "Click, hold and drag up or down"
+msgstr "Da clic, sostiene y arrastra hacia arriba o hacia abajo"
+
+msgid "No, a great deal of coal and petroleum are used for energy."
+msgstr ""
+"No, una gran cantidad de carbón y petróleo son utilizados como energía."
+
+msgid "That's right. Both coal and petroleum have limited supplies."
+msgstr ""
+"Así es. Tanto el carbón como el petróleo existen en reservas limitadas."
+
+msgid ""
+"Sorry, there are many negative side effects from burning coal and petroleum."
+msgstr "Lo siento, hay muchos efectos negativos de quemar carbón y petróleo."
+
+msgid "Nope. Many wells and mines are very deep indeed."
+msgstr "Nop. Muchos pozos y minas son muy profundos."
+
+# 16
+msgid ""
+"Based on the food web, which of these is <span class=\"blink\">not</span> a "
+"consumer?"
+msgstr ""
+"Basándote en la red alimentaria, ¿cuál de los siguientes <span class=\"blink"
+"\">no</span> es un consumidor?"
+
+msgid "Eagle"
+msgstr "Águila"
+
+msgid "Sparrow"
+msgstr "Gorrión"
+
+msgid "Rabbit"
+msgstr "Conejo"
+
+msgid "Grasshopper"
+msgstr "Saltamontes"
+
+msgid "Grass"
+msgstr "Pasto"
+
+msgid "Nope. The eagle is the top consumer in this web."
+msgstr "Nop. El águila es el consumidor de más alto nivel en esta red."
+
+msgid "Nope. Sparrows eat grasshoppers."
+msgstr "Nop. El gorrión come saltamontes."
+
+msgid "Nope. Grasshopper eat grass."
+msgstr "Nop. El saltamontes come pasto."
+
+msgid "Nope. Rabbits eat grass."
+msgstr "Nop. Los conejos comen pasto."
+
+msgid "That's right. The grass is the foundation of this web."
+msgstr "Así es. El pasto es la base de esta red."
+
+# 17
+msgid ""
+"Look at the pictures below. In which case do you think coal would be used as "
+"fuel? Click the picture to select your answer."
+msgstr ""
+"Mira las imágenes de abajo. ¿En cuál caso crees que el carbón se utilizaría "
+"como combustible? Da clic sobre la imagen para seleccionar tu respuesta."
+
+msgid "Car"
+msgstr "Auto"
+
+msgid "Flame from a gas range."
+msgstr "Llama de una línea de gas."
+
+msgid "Airplane"
+msgstr "Avión"
+
+msgid "Large factory"
+msgstr "Fábrica grande"
+
+msgid "Incorrect. Coal would be very heavy for a car to use."
+msgstr ""
+"Incorrecto. El carbón sería muy pesado como para que lo utilizara un auto."
+
+msgid "Nope. The flame comes from a gas range."
+msgstr "Nop. La llama viene de una línea de gas."
+
+msgid "An airplane? Not likely – coal is very heavy."
+msgstr "¿Un avión? No es probable – el carbón es muy pesado."
+
+msgid "There you go. A large factory may well use coal."
+msgstr "Ahí lo tienes. Una fábrica grande puede utilizar carbón."
+
+# 18
+msgid ""
+"Choose the <span class=\"blink\">correct</span> statement. Rotate or flip "
+"the 3D box below either up or down to set your answer."
+msgstr ""
+"Elige la declaración <span class=\"blink\">correcta</span>. Gira o voltea la "
+"caja 3D de abajo ya sea hacia arriba o hacia abajo para elegir tu respuesta."
+
+msgid "All living things perform photosynthesis."
+msgstr "Todos los seres vivos llevan a cabo la fotosíntesis."
+
+msgid "Only animals make use of cellular respiration."
+msgstr "Sólo los animales utilizan la respiración celular."
+
+msgid "Mitochondria are the location of photosynthesis."
+msgstr "Las mitocondrias son el lugar donde se realiza la fotosíntesis."
+
+msgid "Both plants and animals perform cellular respiration."
+msgstr "Tanto las plantas como los animales realizan respiración celular."
+
+msgid "Sorry. Photosynthesis is a green plant thing."
+msgstr "Lo siento. La fotosíntesis es algo que ocurre en las plantas verdes."
+
+msgid "This confuses lots of people. Both plants and animals use respiration."
+msgstr ""
+"Esto confunde a muchas personas. Tanto las plantas como los animales "
+"utilizan la respiración celular."
+
+msgid ""
+"The exact opposite. Mitochondria are the location of cellular respiration."
+msgstr ""
+"Exactamente lo opuesto. Las mitocondrias son el lugar en donde se lleva a "
+"cabo la respiración celular."
+
+msgid "Correct! Plants and animals both use cellular respiration."
+msgstr ""
+"¡Correcto! Tanto las plantas como los animales utilizan la respiración "
+"celular."
+
+# 19
+msgid ""
+"Click on <span class=\"blink\">all</span> the changes that you think the "
+"events are causing."
+msgstr ""
+"Da clic en <span class=\"blink\">todos</span> los cambios que tú creas que "
+"los eventos han causado."
+
+msgid "Green plants absorb solar energy."
+msgstr "Las plantas verdes absorben energía solar."
+
+msgid "Oxygen is used and carbon dioxide is generated."
+msgstr "Se utiliza el oxígeno y se genera el dióxido de carbono."
+
+msgid "Sugar and oxygen are manufactured."
+msgstr "Se crean azúcar y oxígeno."
+
+msgid "Energy is converted into forms used by all living things."
+msgstr ""
+"La energía se convierte en formas utilizadas por todos los seres vivos."
+
+msgid "Stored carbon reserves are burned as fuel."
+msgstr "Las reservas de carbono acumulado se queman como combustible."
+
+msgid "Carbon dioxide stored long ago is released into the atmosphere."
+msgstr ""
+"El dióxido de carbono, acumulado hace mucho, se libera en la atmósfera."
+
+msgid "Oxygen and starch are produced."
+msgstr "Se producen oxígeno y almidón."
+
+msgid "Energy for electricity, heat, and transportation is released."
+msgstr "La energía para la electricidad, calor y transporte es liberada."
+
+msgid "Cells consume sugar and oxygen."
+msgstr "Las células consumen azúcar y oxígeno."
+
+msgid "Energy is stored for use by higher organisms."
+msgstr "La energía es acumulada para ser utilizada por organismos superiores."
+
+msgid "Cells release the energy they need for life."
+msgstr "Las células liberan la energía que necesitan para vivir."
+
+msgid "Chemical bonds are broken and energy is released."
+msgstr "Los vínculos químicos se rompen y se libera energía."
+
+# 20
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de "
+"Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "You've completed the Energy for Life review."
+msgstr "Has completado la revisión de Energía para la Vida."

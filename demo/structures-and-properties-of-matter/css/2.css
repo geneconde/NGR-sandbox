@@ -1,0 +1,90 @@
+
+		#top {
+			-webkit-animation: one 1s infinite alternate;
+			animation: one 1s infinite alternate;
+			-moz-animation: one 1s infinite alternate;
+		}	
+		
+		#mid{
+			-webkit-animation: one 1.1s infinite alternate;
+			animation: one 1.1s infinite alternate;
+			-moz-animation: one 1.1s infinite alternate;
+		}
+		
+		#bot{
+			-webkit-animation: one 1.2s infinite alternate;
+			animation: one 1.2s infinite alternate;
+			-moz-animation: one 1.2s infinite alternate;
+		}
+		
+		.eyes {
+			-webkit-animation: eyes 2s infinite alternate;
+			animation: eyes 2s infinite alternate;
+			-moz-animation: eyes 2s infinite alternate;
+		}
+		#right {
+			-webkit-animation: r 1.3s infinite alternate;
+			animation: r 1.3s infinite alternate;
+			-moz-animation: r 1.3s infinite alternate;
+		}
+		#left {
+			-webkit-animation: l 1s infinite alternate;
+			animation: l 1s infinite alternate;
+			-moz-animation: l 1s infinite alternate;
+		}
+		
+		
+		@-webkit-keyframes one {
+			0% { height: 200px; top: 5px; width: 260px; right: 0px; }
+			100% { height: 215px; top: 1px; width: 250px; right: 5px; }
+		}
+		@keyframes one {
+			0% { height: 200px; top: 5px; }
+			100% { height: 215px; top: 1px; }
+		}
+		@-moz-keyframes one {
+			0% { height: 200px; top: 5px; }
+			100% { height: 215px; top: 1px; }
+		}
+		
+		
+		@-webkit-keyframes eyes {
+			0% { top: 0px; }
+			100% {top: 3px; }
+		}
+		@keyframes eyes {
+			0% { top: 0px; }
+			100% {top: 3px; }
+		}
+		@-moz-keyframes eyes {
+			0% { top: 0px; }
+			100% {top: 3px; }
+		}
+		
+		
+		@-webkit-keyframes l {
+			0% { top: 0px; height: 100px; }
+			100% {top: 7px; height: 94px; }
+		}
+		@keyframes l {
+			0% { top: 0px; height: 100px; }
+			100% {top: 7px; height: 94px; }
+		}
+		@-moz-keyframes l {
+			0% { top: 0px; height: 100px; }
+			100% {top: 7px; height: 94px; }
+		}
+		
+		
+		@-webkit-keyframes r {
+			0% { top: 0px; height: 137px; }
+			100% {top: 10px; height: 130px; }
+		}
+		@-webkit-keyframes r {
+			0% { top: 0px; height: 137px; }
+			100% {top: 10px; height: 130px; }
+		}
+		@-webkit-keyframes r {
+			0% { top: 0px; height: 137px; }
+			100% {top: 10px; height: 130px; }
+		}

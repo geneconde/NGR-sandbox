@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: human environmental impact\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team: ask@jigzen.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Read More"
+msgstr "更多資訊"
+
+msgid "Check Answer"
+msgstr "對答案"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案(可複選)"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案"
+
+msgid "Quick Check #1"
+msgstr "快速檢測#1"
+
+msgid "Quick Check #2"
+msgstr "快速檢測#2"
+
+msgid "Quick Check #3"
+msgstr "快速檢測#3"
+
+msgid "Quick Check #4"
+msgstr "快速檢測#4"
+
+msgid "Please check your answers."
+msgstr "請核對您的答案"
+
+msgid "How did I do?"
+msgstr "我應該如何？"
+
+msgid "You answered..."
+msgstr "您的回答..."
+
+msgid "select"
+msgstr "選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "將下方的方框向上或向下旋轉以設置您的答案。擊點、按住或是上下移動您的游標"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "擊點左邊及右邊的箭頭以瀏覽下方的頁面"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "您的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "擊點此處開始輸入您的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選＂下一步＂。"
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid "Congratulations, "
+msgstr "恭喜你！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“ 快速檢測”與“測驗題”中的答案。"
+
+msgid "Go to dashboard"
+msgstr "進入儀表板"
+
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "準備好了嗎？"
+
+msgid "Preparing your first quick check!"
+msgstr "準備開始你第一個快速檢測！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Putting it all together..."
+msgstr "把他們綜合起來..."
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid "And the first quiz question is..."
+msgstr "和第一個測驗題為..."
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# Human Environmental Impact PO File
+# 1
+msgid "Human Environmental Impact"
+msgstr "人類對環境的影響"
+
+msgid "Welcome to the Human Environmental Impact module"
+msgstr "歡迎來到「人類對環境的影響」的模組"
+
+msgid "Checking what you know about... human environmental impact"
+msgstr "看看你了解多少有關人類與環境的影響"
+
+msgid "When people do things that change the environment, like destroying a field to build a new mall, what do you think happens to the animals that live in the field?"
+msgstr "當人們改變原來的自然環境，像是剷平土地蓋新的購物中心，你覺得原來居住在這片土地上的動物們會受到什麼影響？"
+
+msgid "If there's no other field in the area, they just move to the woods close by."
+msgstr "如果附近沒有其他可居住土地，牠們就會移居附近的樹林之中。"
+
+msgid "They change their eating and housing habits and live wherever they can."
+msgstr "他們改變他們的飲食習慣及居住習性並盡可能的生存下來。"
+
+msgid "They live at the mall."
+msgstr "牠們移居至商場裡。"
+
+msgid "If there isn't a similar habitat near the mall, the plants and animals may die."
+msgstr "如果在商場裡沒有類似牠們原有的棲息地，這些動植物可能就會死亡。"
+
+msgid "When people change the environment by building a mall, a school, or a housing development, they affect all of the living things that used to live in the natural environment - plants and animals - in many ways. Some big strong animals, like a deer or coyote, might move to a new home if they can find one nearby. But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall but that's because they get trapped in there and can't find their way out."
+msgstr "當人類設立購物中心、學校或是開發住宅區改變環境，在許多層面影響了原本居住在此自然環境的一切 - 無論動物或是植物。有些像是鹿或狼等的大型動物，如果牠們可以在附近找得到的話，可能會遷移建立一個新家。但像是魚或是青蛙等小型動物因為無法移居，可能就此死亡。有時候你會看到有些鳥在商場內，只因牠們找不到出去的路所以被困在裡面。"
+
+msgid "But other animals, like fish or frogs, might just die because they can't move. Sometimes you can see a few birds inside the mall, but that's because they get trapped in there and can't find their way out."
+msgstr "但像是魚或是青蛙等小型動物因為無法移居，可能就此死亡。有時候你會看到有些鳥在商場內，只因牠們找不到出去的路所以被困在裡面。"
+
+msgid "Migrating animals..."
+msgstr "遷移的動物..."
+
+msgid "Reviewing big ideas about... human environmental impact"
+msgstr "回顧有關...「人類對環境的影響」的核心概念"
+
+msgid "Changing for the better..."
+msgstr "改變為了更好..."
+
+msgid "Question A. Which of the following activities you do every day has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "問題A. 以下哪項你每日從事的活動，對環境無不良影響？"
+
+msgid "Eating breakfast"
+msgstr "吃早餐"
+
+msgid "Going to school"
+msgstr "上學"
+
+msgid "Watching TV"
+msgstr "看電視"
+
+msgid "None of the above"
+msgstr "以上皆非"
+
+msgid "Question B. For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "問題B. 在第一行中所顯示人類對環境影響的例子，把圖像拖曳至底部以配對被影響的自然環境。"
+
+msgid "Shipping Port"
+msgstr "船舶港口"
+
+msgid "Hydroelectric Dam Generator"
+msgstr "水力發電大壩"
+
+msgid "Clear-Cut Logging"
+msgstr "伐木砍伐"
+
+msgid "Farm"
+msgstr "農莊"
+
+msgid "Forest"
+msgstr "森林"
+
+msgid "Coastline"
+msgstr "海岸線"
+
+msgid "Meadow or Field"
+msgstr "牧場"
+
+msgid "River"
+msgstr "河流"
+
+msgid "Reset"
+msgstr "重設"
+
+msgid "Question A. Which of the following activities you do everyday has <span class='blink'>no</span> negative effect on the environment?"
+msgstr "問題A. 以下哪項你每日從事的活動，對環境無不良影響？"
+
+msgid "Question B. For each example of a natural environment in the top row, drag from the dot on the image to a dot on an image in the bottom row that shows what the impact on that natural environment might be to meet human needs."
+msgstr "問題B. 在第一行中所顯示人類對環境影響的例子，把圖像拖曳至底部以配對被影響的自然環境。"
+
+msgid "Preparing your first quick check…"
+msgstr "準備開始第一個快速檢查..."
+
+msgid "Wrong - Eating breakfast requires farms to make your food – cereal, eggs, and bacon, whatever you eat. And these farms had to change whatever habitat existed before it became a farm, so farms have a great environmental impact to make food for us."
+msgstr "錯 - 吃早餐需要農場來製造食物 - 無論你吃的任何東西，包含麥片、雞蛋與培根。農場不得不改變原有的棲息地，為了製造食物給人們，農場對環境有很大的影響。"
+
+msgid "Wrong - Going to school is a big one. It requires transportation such as a car or a bus – which requires fuel like gasoline and oil. And the school was built from lots of materials from the environment – like your house – but even more. Then the environment, where the school is located, had to be destroyed to make room for the school."
+msgstr "錯 - 上學就是一個最大的環境影響例子。上學需要交通運輸工具，如汽車或公共汽車，這些都需要燃料，如汽油和油。且建造一間學校，需要來許多取自於環境中的材料 - 就好比你的房子。接著，學校要置於一個環境中，勢必要摧毀這個環境以挪出空間來建造學校。"
+
+msgid "Wrong - Watching TV requires electricity that usually comes from burning fossil fuel or damming rivers. An exception might be if your house uses solar powered electricity. But even then, you're probably watching TV in your house which required wood and other materials to build it that were taken from the environment."
+msgstr "錯 - 看電視需要電力，而電力來自於燃燒化石燃料或河流建築的水壩，除非你的房子使用太陽能發電，但即使是如此，你要在你的屋子裡看電視，這屋子建造的材料都取自於環境中！"
+
+msgid "Right!! Actually - all of a student's daily activities have some negative effect on the environment."
+msgstr "正確的！事實上 - 所有學生的日常生活皆對環境造成負面的影響。"
+
+msgid "You got it! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "答對了！航運港口需要海岸線或是較大的湖泊。水力發電大壩需要一條河截流創造一個水庫以蓄水，接著水向下流過大壩中的發電機以產生電力。砍伐發生在森林自然環境中，農場往往是翻耕犁地的結果，把自然環境變成了田野和草原。"
+
+msgid "Not quite! Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "不完全正確！航運港口需要海岸線或是較大的湖泊。水力發電大壩需要一條河截流創造一個水庫以蓄水，接著水向下流過大壩中的發電機以產生電力。砍伐發生在森林自然環境中，農場往往是翻耕犁地的結果，把自然環境變成了田野和草原。"
+
+msgid "Reviewing big core ideas about... human environmental impact"
+msgstr "回顧有關...「人類對環境的影響」的核心概念"
+
+msgid "Humans are part of the environment too. We're animals like the deer, the birds, and the fish. But we're different from most animals. Animals in the wild only take what they need from the environment to survive, but humans take more than what they need just to survive. They often take as much as they can get, not only to survive, but also to exploit the environment to be comfortable and make money. Whatever resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment – which then can have negative impacts on us as well – because we're part of the environment.  "
+msgstr "人類也是環境的一部分。我們人類就是動物，如鹿、鳥和魚。但是我們和大多數動物不同。野生的動物只需要從環境中取得生存所需要的，但人類往往取得更多，不僅是為了要生存，同時也利用環境使自己舒適和賺得更多的錢。不論這些資源使我們更加舒適和使我們生活過得更好，這些都對環境造成負面的影響，反過來也會對我們人類造成影響，因為我們也是屬於環境的一部分。"
+
+msgid ""
+"Water is just one example of how humans impact the environment. Almost all living things need water to survive. But most animals in the wild just take small sips of water from streams and lakes every day to meet their needs. But what are some things humans do beyond their simple daily requirements of satisfying their thirst? First of all, we put big dams across rivers to generate electricity. We also put dams up to create reservoirs to supply water for big cities and to make lakes for boating, swimming, and fishing. People also use water for more than just drinking. We use it to take showers, wash our clothes, and water our lawns. And, many big farms and ranches that produce all the food we eat use lots and lots of water to irrigate (water) their crops and livestock (animals). All of these human activities greatly impact the environment. The dams turn the rivers into lakes, which affects the survival of plants and animals in the river. And the "
+"clothes washing, lawn watering, and farm irrigation use extra water and sometimes pollute local water sources with detergents and fertilizers, changing the quantity and quality of the available water."
+msgstr "人類是如何影響環境的？「水」就是一個例子。幾乎所有生物都需要水才能生存。不過，大多數的野生動物每天只需從河流和湖泊取得一小口的水來滿足他們的需求。但是人類做出了哪些事情，超越了簡單的日常所需只為了滿足他們的渴望？首先，我們為了發電而攔截了河川建造大壩，且把大壩建築高建造水庫以供應大城市用水，建造湖泊得以划船、游泳和釣魚。人類使用水，不僅僅拿來飲用，也拿來洗澡、洗衣服與澆水。以及，許多大農場和牧場生產我們所吃的食物，必須使用大量的水來灌溉(水)作物及畜養畜生(動物)。所有這些人類的活動大大影響環境，大壩把河流變成了湖泊，這會影響河流的植物和動物的生存；洗衣服、澆水與農業灌溉使用了大量的水，清潔劑與化學肥料汙染當地的水源，改變了可用水的量和品質。"
+
+msgid "But here's the good news. Humans are intelligent. We can make choices on how we live and what we do to the environment to minimize our impact on it."
+msgstr "但有個好消息，人類是聰明的。我們可以選擇該如何生活和做什麼可以把對環境的影響降至最低。"
+
+msgid "Identifying impacts on environments..."
+msgstr "辨別對環境的影響..."
+
+msgid "Question A. What is the <span class='blink'>best</span> statement about the relationships between humans, wild animals, and the environment?"
+msgstr "問題A. 下列哪些有關人類、野生動物與環境之間關係的陳述是最好的？"
+
+msgid "Wild animals and humans are all part of the global environment and impact the natural environment equally."
+msgstr "野生動物與人類皆是地球環境的一部分，同樣地影響自然環境。"
+
+msgid "Humans are more important than wild animals, and the environment is there to make us comfortable."
+msgstr "人類比野生動物來的重要，環境使我們感到舒適。"
+
+msgid "Humans are smarter than wild animals so they impact the environment less."
+msgstr "人類比野生動物更聰明，所以人類影響環境較少。"
+
+msgid "Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "野生的動物只需要從環境中取得生存所需要的，但人類往往取得更多，所以人類對環境的影響遠高於野生動物。"
+
+msgid "Question B. The <span class='blink'>most</span> important purpose for bodies of water to fulfill the most basic human needs is for:"
+msgstr "問題B. 積滿水以滿足人類最基本的需求之最重要目的為："
+
+msgid "Rivers to generate electricity."
+msgstr "河流發電。"
+
+msgid "Places to go fishing and swimming."
+msgstr "釣魚和游泳的地方。"
+
+msgid "Sources of drinking water."
+msgstr "飲用水的來源。"
+
+msgid "Sources for baths, showers, and doing laundry."
+msgstr "沐浴、淋浴和洗衣服的來源。"
+
+msgid "Clicking to answer..."
+msgstr "點擊作答..."
+
+msgid "No - Wild animals and humans don't impact the environment equally."
+msgstr "錯 - 野生動物和人類同樣地都不會影響環境。"
+
+msgid "No - The environment is not there just to make humans comfortable. It's there to support the survival of all living things equally."
+msgstr "錯 - 環境的存在不只是讓人類生活舒適，它的存在支持著所有生物的生存。"
+
+msgid "No - Humans are smarter than animals in some ways but they still impact the environment more than all other animals."
+msgstr "錯 - 人類在某些方面是比動物來的聰明，但是人類對環境的影響是高於其他動物的。"
+
+msgid "Yes - Humans do take more from the environment than they need just to survive."
+msgstr "對 - 人類從環境中取得的資源往往超過基本生存所需。"
+
+msgid "No - Electricity is important but it's not the most important because humans could survive without it."
+msgstr "錯 - 電力很重要，但是不是最重要的，因為人類沒有它，依然能夠生存。"
+
+msgid "No - Fishing and swimming are fun but not critical to our needs."
+msgstr "錯 - 釣魚和游泳很有趣，但不是我們重要的需求。"
+
+msgid "Yes - We can't live without drinking water."
+msgstr "對 - 我們生活中不可能不喝水。"
+
+msgid "No - We can live without baths and laundry."
+msgstr "錯 - 我們生活中可以不需要洗澡和洗衣服。"
+
+msgid "Reviewing more big ideas about... human environmental impact"
+msgstr "回顧有關...「人類對環境的影響」的核心概念"
+
+msgid ""
+"The burning of fossil fuels is another example of how the resources we use from the environment to make us more comfortable and make our lives better can also have negative impacts on the environment - which then can have negative impacts on us as well. For instance, we burn coal to make electricity and we burn gasoline to run our cars. Coal and gasoline are examples of \"<span class='key'>fossil fuels</span>\" because they're formed in the ground from the remains of dead plants from millions of years ago. Electricity and cars are hugely important in making our lives more comfortable. Can you imagine living in the dark and walking everywhere you had to go? But burning these fossil fuels can also have a very negative impact on the environment - and on you! Most scientists that study climates have strong evidence to believe that one of the by-products of burning fossil fuels is a powerful pollutant - <span class='key'>carbon dioxide</span> "
+"(CO<sub>2</sub>) - which is causing the earth to heat up, producing heat waves of record high temperatures, wildfires, and more powerful storms."
+msgstr "化石燃料的燃燒是我們從環境取得資源以使我們更舒適、生活更好的另一個很好的例子，這不僅造成了環境負面的影響，對我們人類也是，例如：我們燃收煤炭來發電；燃燒汽油來發動汽車。煤炭和汽油都是“化石燃料”的例子，他們是由地表上死亡的植物遺跡經過數百萬年後所形成的。為使我們的生活更舒適，電力和汽車是極為重要的。你能想像生活在黑暗之中嗎？但是燃燒這些化石燃料，對於環境和人類造成極大的負面影響。大多數研究氣候的科學家有證據認為燃燒化石燃料後產生的副產物“二氧化碳”是造成地球升溫、產生創紀錄的高溫、森林火災與更為猛烈的風暴之最大汙染源。"
+
+msgid "<span class='key'>Pollutants</span> are any new substances, or extra abnormal amounts of naturally occurring substances, that are introduced by human activities into the air, water, or earth. So even though there are benefits for you from burning fossil fuels for electricity and transportation, there may also be some very harmful impacts to the environment from the carbon dioxide (CO<sub>2</sub>) gas pollutants produced from this human activity."
+msgstr "汙染物是新的、額外存在且異常的天然物質，是經由人類活動而進入空氣、水和大地之中。所以，即使為了使用電與運輸而燃燒化石燃料對人是有益處的，但這些因人類活動而產生的汙染物“二氧化碳”氣體對環境是非常有害的。"
+
+msgid "But humans are smart! Both individually and as a society, there are things we can do to minimize the harmful impact we have on the environment by changing our behavior. It's a matter of being knowledgeable about the impact of humans on the environment and then making informed decisions on how to deal with the impact."
+msgstr "但是，人類是聰明的！不論是一個個體和一個社會，我們可以做的，就是改變我們的行為，盡量減少我們對環境的傷害。人類對於環境的影響是個非常博學的議題，透過這些我們必須做出對於環境最好的決定。"
+
+msgid "Producing heat waves..."
+msgstr "產生高溫熱浪..."
+
+msgid "Which of the following substances introduced into the environment would generally be considered pollutants? Check yes or no for all of the examples."
+msgstr "哪些物質跑到環境中會被人為是汙染物質？檢查所有例子是否為汙染物質。"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Carbon dioxide (CO<sub>2</sub>) that humans exhale into the air as a normal part of breathing."
+msgstr "二氧化碳(CO2)呼出至空氣中是人類呼吸時正常的一部分。"
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "二氧化碳呼出至空氣中是人類呼吸時正常的一部分。這樣二氧化碳(CO2)就不是汙染物質，因為人類是環境的一部分且呼吸也是自然發生的現象。但如果是人類所居住的大城市像紐約或東京產生的二氧化碳呢？讓我們繼續看下去。"
+
+msgid "Methane gas (CH<sub>4</sub>) that farm cows fart after eating grass."
+msgstr "牧場的牛吃草後放屁所產生的甲烷(CH4)。"
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "是，因為牛在農場上，尤其是一個有成千上萬牛隻的大農場上，排放至環境中的甲烷量比在正常的自然田野或樹林的少數動物還多。"
+
+msgid "Warm water discharged into a cold river from the cooling of a power plant."
+msgstr "溫水經過電廠的冷卻最後排放至寒冷的河流。"
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "是，如果正常的河水溫度通常是冷的，熱水甚至溫水被加入，那就是一個汙染物，就是所謂的熱汙染。"
+
+msgid "Carbon dioxide (CO<sub>2</sub>) from burning coal in an electric power plant."
+msgstr "二氧化碳(CO2)的產生來自電廠燃燒煤炭。"
+
+msgid "This was discussed in the review."
+msgstr "這些是在回顧中被討論過。"
+
+msgid "Fertilizers that farmers put on a field to grow better crops."
+msgstr "化學肥料是農民施在土地上，為了作物生長得更好。"
+
+msgid "Yes because farmers put nitrate and phosphate fertilizers on their fields to help make the crops grow faster and bigger. Some of it sometimes gets into the water around the farm and raises the nitrates and phosphates above normal, so it’s a pollutant."
+msgstr "是，因為農民施硝酸鹽和磷酸鹽肥料於他們的田地，以使莊稼長得更快、更大。"
+
+msgid "Oil that gets spilled into the ocean from an oil tanker cargo ship."
+msgstr "油從一艘油輪洩入海洋。"
+
+msgid "Yes!"
+msgstr "是的！"
+
+msgid "Detergent from your dishwasher or clothes washer that gets into rivers."
+msgstr "清潔劑從你的洗碗機或洗衣機流進河流。"
+
+msgid "Detergent or soap from your family’s laundry sometimes gets into the water around your house, so it’s a pollutant."
+msgstr "清潔劑或肥皂有時會從你家的洗衣機進入房子周遭的水域，這是一個汙染物。"
+
+msgid "Methane gas (CH<sub>4</sub>) that deer fart after eating grass."
+msgstr "鹿吃草後放屁所產生的甲烷(CH4)。"
+
+msgid "Deer farts in the woods are a normal and natural part of nature."
+msgstr "鹿在樹林裡放的屁自然是大自然中的一部分。"
+
+msgid "Fertilizers from your lawn that run off into a local stream, river, or lake."
+msgstr "草地上的肥料流入當地的溪流或湖泊。"
+
+msgid "Yes, this is a pollutant. Just because it’s your lawn doesn’t mean it doesn’t have the same effect as a farm."
+msgstr "是，這是一種汙染物。你的草坪並不意味著它不具有和農場一樣的影響。"
+
+msgid "Studying harmful chemicals..."
+msgstr "學習有害化學物質..."
+
+msgid "More big ideas about... human environmental impact "
+msgstr "更多有關...「人類對環境的影響」的大概念"
+
+msgid ""
+"So let's get back to how you can become an EcoKid Super Ranger hero. It's pretty easy to understand but challenging to do. First, you have to understand one big idea, and that is humans can change the way they do things - their behavior - to minimize their impact on the environment. If you know what the impact on the environment is for the things you do, then you can change what you do to lessen the impact. For instance, if you know that driving a car causes air pollution, including the \"greenhouse gas\" CO<sub>2</sub> that may be causing <span class='key'>global climate change</span>, then - and here's the challenging part - you can change your behavior to use a car less to get you where you need to go. You could walk, ride your bike, ask your parents to start a carpool with your friends, or ride a bus to wherever you're going if it's safe. All of these things cut down on the number of miles each car is driven so it cuts down on the amount of "
+"pollutants the car gives off. PLUS!! Your parents save money on gas. And if you really want to save gas, you could talk to your parents about getting a <span class='key'>hybrid</span> electric car. These are things that you personally can do with your parents and your friends. But if you want to be a real EcoKid Super Ranger, the greatest positive impact you can have is by getting your whole community involved and thinking about all the possible things your school or community can do to help the environment. Then you really would be a superhero!!!"
+msgstr "因此，讓我們回到你如何成為一個超級生態小遊俠。其實很容易，但是非常具有挑戰性。首先，你比必須要了解一個大的概念，那就是人類可以改變他們做事的方法和行為，把對環境的影響降至最低。如果你知道做什麼事情是對環境有影響的，那麼你可以改變你的做法以減輕衝擊。舉例來說，如果你知道駕駛汽車會造成空氣的汙染，包括“溫室氣體”二氧化碳可能會導致全球氣候的改變，那麼 - 這裡有一個具挑戰性的部分 - 你可以改變你使用車子的方式，不論到哪裡盡量減少使用車子。你能走路、騎腳踏車、你可要求你的父母開始與朋友共乘或搭乘公共汽車平安到達你想去的地方。這些所減少的里程數因而減少了車輛排放出來的汙染。加上!! 你的父母也省下了油錢。如果你真的想省油，你可以跟父母談談，買一台油電混和車。這些都是你個人與父母和朋友可以做的事情。但是，如果你想成為一個真正的超級生態小遊俠，最偉大正面影響就是讓整個社區參與和思考所有可能可以做且幫助環境的事情。那麼你真的會成為一個超級英雄！"
+
+msgid "Driving a car..."
+msgstr "開車..."
+
+msgid "Question A. Which of the following <span class='blink'>would not</span> be a good thing to do to help cut down on the use of gasoline that causes CO<sub>2</sub> pollution into the atmosphere?"
+msgstr "問題A. 下列哪一件事情是不會幫助降低汽油的使用量，造成空氣中二氧化碳的汙染。"
+
+msgid "Walk or ride your bike to school instead of having your parents drive you."
+msgstr "步行或騎自行車上學代替父母開車接送。"
+
+msgid "Take a bus to the mall instead of having your parents drive you."
+msgstr "坐公車到商場而不是讓你的父母開車送你。"
+
+msgid "Ask your parents to set up a neighborhood carpool to take other kids in your neighborhood to school instead of everyone driving separately."
+msgstr "向你的父母提出建立一個社區共乘計畫，接送鄰居的小孩一起上學代替每個人單獨駕駛。"
+
+msgid "Ask your parents to get a big 4-wheel drive SUV so you look cool getting dropped off at school."
+msgstr "跟你父母要一台四輪傳動的休旅車，這樣你早上到學校時就會看起來很帥。"
+
+msgid "Question B. To have the <span class='blink'>greatest</span> positive impact on your environment, you could:"
+msgstr "問題B. 對我們的環境產生最大的正面影響。你可以："
+
+msgid "Make personal choices to change your daily behavior to minimize your impact on the environment."
+msgstr "你個人選擇改變你每天的行為，盡量減少你對環境的影響。"
+
+msgid "Work with your classmates at your school to organize projects to change how your school uses natural resources that impact the environment."
+msgstr "與你的同班同學一起組織一個如何運用自然資源影響環境的計畫來改變學校。"
+
+msgid "Help to organize a neighborhood drive to recycle plastic soda bottles."
+msgstr "協助組織一個社區行動，去回收塑料飲料瓶。"
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood and school to change how your community impacts the environment."
+msgstr "關於人類怎麼影響全球自然環境是學無止盡的，但在你的社區、鄰里甚至學校做出行動，就可以改變你們當地對於環境的影響。"
+
+msgid "Question A. Which of the following things could you do that <span class='blink'>would not</span> cut down on pollution of CO<sub>2</sub> into the atmosphere? You could:"
+msgstr "問題A. 為減少二氧化碳在大氣中的汙染，以下哪些事情你可以做的？你可以："
+
+msgid "Not Really - That would be a great thing to walk or ride a bike because you would cut down on CO<sub>2</sub> gas given off from burning gasoline that's needed for driving a car to school."
+msgstr "不正確 - 步行與騎腳踏車上學是一件很好的事情，因為你可以減少開車燃燒汽油所產生的二氧化碳。"
+
+msgid "Not quite – the bus still needs gasoline or diesel fuel but it carries a lot of people instead of just a few like a car does so for each person traveling less fuel is needed per person."
+msgstr "不完全正確 - 巴士依然會消耗汽油或柴油，但他可以載更多乘客，而不是像汽車只能載少數乘客，所以搭乘巴士每個人消耗的燃料是相對減少的。"
+
+msgid "Not quite – carpooling is like riding a bus – but on a smaller scale. The car still uses fuel but it carries more people so less fuel is needed for each person."
+msgstr "不完全正確 - 共乘就像是搭乘巴士，但只是規模比較小。汽車還是會消耗石油，但載越多人，一個人所耗的燃料就越少，就能越妥善運用石油資源。"
+
+msgid "Correct – this is NOT a good thing to do to help the environment. Big 4-wheel drive SUVs are cool but they usually use a lot of gasoline that gives off CO<sub>2</sub>."
+msgstr "正確 - 這並不是一件有助於環境的事情。四輪傳動的休旅車很酷沒錯，但是使用大量的汽油且排出大量CO2。"
+
+msgid "Yes, making personal choices to change your impact is an important first step but there is an even better way to have the greatest impact."
+msgstr "是，你個人選擇改變你的影響是重要的第一步，但有更好的方法來產生最大的影響。"
+
+msgid "Yes, organizing projects at your school is a great place to have a bigger positive impact on the environment, but you can think even bigger than that."
+msgstr "是，在學校組織一個計畫是非常好的，對環境有更大的正面影響，但你能想到比這更大的。"
+
+msgid "Yes, organizing a recycling drive in your neighborhood is a great thing to do for the environment but what about all the other neighborhoods in your community?"
+msgstr "是，在你的社區組織一個回收行動對環境是非常好的，但對於在附近的其他社區呢？"
+
+msgid "YES!!! Understanding all the ways humans affect the global environment and then using that knowledge to impact your whole community is a very powerful way to have the greatest impact on your environment!!"
+msgstr "是!!!了解所有的人類影響全球環境的方式，然後用這些知識來影響你的社區，對你的環境而言是最強而有力的方法!!"
+
+msgid "Using what you now know about... human environmental impact... to solve a problem"
+msgstr "使用你知道有關於「人類對環境的影響」來解決問題。"
+
+msgid "There is a really bad smell in your neighborhood from a river close by that is affecting you, your friends and your family. What could it be? How do you find out what it is? What is causing it?"
+msgstr "在你的鄰里附近的河邊傳來不好的味道，影響到你、朋友以及家人。那是甚麼呢？你該如何找出它呢？是什麼原因造成的？"
+
+msgid "Write a short paragraph telling what specific action you could take to help solve and/or lessen the impact of this problem. What would you personally change about your habits and behavior? What could your school or community do? How could you personally help your community to take action?"
+msgstr "寫一篇短文陳述你可以採取哪些具體措施，以幫助解決和/或減輕此問題的影響。你會親自改變你的生活的哪些習慣和行為？你的學校或社區可以做些什麼？你會如何幫助你的社區採取行動？"
+
+msgid "Changing bad habits..."
+msgstr "改變不良的生活習慣..."
+
+msgid "Summarizing big ideas about... human environmental impact"
+msgstr "總結有關「人類對環境的影響」大概念"
+
+msgid "The earth's <span class='key'>environment</span> is very important because it can provide healthy air, water, food and land for all the living things on earth to survive. But because there are so many people on earth, and because all of these people use the environment to survive and try to live comfortably, humans can have a great impact on the environment that might be harmful. This <span class='key'>impact</span> can destroy parts of the environment so that many people don't have the healthy air, water, food and land they need to survive."
+msgstr "地球的環境是非常重要的，因為他為了地球上所有的生物提供賴以維生的空氣、水、食物及土地。但是有很多人生存在地球上為了生存及活的舒適使用自然資源，人類對環境的影響可能造成很大的影響。這些影響會破壞環境的一部分，使很多人損失賴以生存的健康空氣、水、食物及土地。"
+
+msgid "Clearing land for farms and housing developments can destroy fields and woods and add <span class='key'>pollutants</span> to the water; driving cars and generating electricity adds pollutants to the air; factories that make the things we use every day can add pollutants to the water. But the good news is that humans are smart and can understand how they negatively impact the environment and how that negatively impacts them in return."
+msgstr "為了建造農場和住宅開發而開墾土地，破壞了田野和森林，也污染了水源；開車和發電增加了空氣中的污染物；工廠製造我們每天使用的東西會造成水汙染。但好消息是人類能了解自己對環境造成的負面影響，及這些影響最後還是會回到自己身上。"
+
+msgid "There are lots of scientists that investigate the environment to understand what people are doing to hurt it and what we can do to help. These understandings can cause humans to change their behavior so they lessen their negative impact on the environment. If we didn't understand our impact and how to change it, it's possible that we might totally ruin some, or all, of the earth's environment so we couldn't survive."
+msgstr "有很多科學家著手調查環境，了解人類做了什麼傷害了它和可以做些什麼幫助它。這些理解可引起人類改變自己的行為，因而減少對環境的負面影響。如果我們不明白我們的影響及該如何改變，很有可能我們會自己毀掉地球的某些，甚至全部的地球環境，讓我們無法生存。"
+
+msgid "Checking what you now know about... human environmental impact"
+msgstr "檢測你現在所知道有關「人類對環境的影響」是什麼？"
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the image to the bottom row that shows the human impact necessary to provide the resources for the product. Some items have multiple answers."
+msgstr "在第一行中所示你日常生活中所會使用的項目，請上下連接配對這些產品為了帶給人類資源而產生的必要影響。有些項目有多個答案。"
+
+msgid "For each item shown in the top row that you use in your everyday life, connect the dot on that image to the dot on the image in the bottom row that shows the human impact necessary to provide the resources for the product."
+msgstr "最上排為你日常生活中所會使用的每一個項目，請上下連接配對這些產品為了帶給人類資源而產生的必要影響。"
+
+msgid "House"
+msgstr "房子"
+
+msgid "TV"
+msgstr "電視"
+
+msgid "Food"
+msgstr "食物"
+
+msgid "Car"
+msgstr "車"
+
+msgid "Bicycle"
+msgstr "腳踏車"
+
+msgid "Mine"
+msgstr "礦"
+
+msgid "Oil Well Field"
+msgstr "油井"
+
+msgid "Clear-cut Logging"
+msgstr "伐木砍伐"
+
+msgid "Your first quiz question is…"
+msgstr "你的第一個測驗問題是..."
+
+msgid ""
+"That’s correct! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come "
+"from mines that dig these metals out of the ground."
+msgstr "正確的！一般來說，一間房屋所需的木材來自於森林自然環境且人類帶來的影響就是森林砍伐。電視所需要的電力來自於水力發電或一些其它來源。自然環境備受衝擊的是河流提供水力發電機能量的來源。像是由此產生的人為影響是橫跨河流的是大水壩。食物需要的成分像煎餅的五穀類、蔬菜或肉類等。這些成分通常都由農場生產而來。人類的影響是農場取代了自然田野和樹林。汽車需要來自石油的汽油才能運行，石油可以被發現於大部分自然環境的地底下。人類對自然環境的影響是在地表發展油田抽油機。大多的腳踏車是由不同的金屬，例如：鐵、鉻和其他的金屬製成。這些金屬來自於從地底下開採的礦產。"
+
+msgid ""
+"Nope! Generally, a house requires wood that is logged from a forest natural environment and the human impact is a clear-cut forest. <br/>TVs require electricity that usually comes from hydroelectricity or some other electrical generating source. The natural environments impacted are rivers to provide power for hydroelectric generators. Examples of the resulting human impact are huge dams across rivers. <br/>Food requires ingredients like grain for pancakes, or vegetables or meat. These ingredients are usually grown on farms. The human impact is that farms replaced natural fields and woods. <br/>Cars require gasoline, which comes from oil, to run. Oil can be found underground below almost any natural environment. The human impact on these natural environments is the development of an oil-pumping field on the surface of the earth. <br/>Most bicycles are made from different kinds of metals like iron, chrome and others. These metals come from mines "
+"that dig these metals out of the ground."
+msgstr "不對耶！一般來說，一間房屋所需的木材來自於森林自然環境且人類帶來的影響就是森林砍伐。電視所需要的電力來自於水力發電或一些其它來源。自然環境備受衝擊的是河流提供水力發電機能量的來源。像是由此產生的人為影響是橫跨河流的是大水壩。食物需要的成分像煎餅的五穀類、蔬菜或肉類等。這些成分通常都由農場生產而來。人類的影響是農場取代了自然田野和樹林。汽車需要來從石油而來的汽油才能運行，石油可以被發現於大部分自然環境的地底下。人類對自然環境的影響是在地表發展油田抽油機。大多的腳踏車是由不同的金屬，例如：鐵、鉻和其他的金屬製成。這些金屬都來自從地底下開採的礦產業而來。"
+
+msgid "Thinking about... human environmental impact"
+msgstr "想想...有關「人類對環境的影響」"
+
+msgid "Everybody loves superheroes who save the world. There's Superman, Wonder Woman, Batman, Robin, Wolverine, and lots of other superheroes everybody reads about in comic books and sees in the movies. Do you want to be a superhero and save the world? YOU CAN!! You can become an Eco-Kid Super Ranger!! What are Eco-Kid Super Rangers you ask? Well, they're superheroes that disguise themselves as ordinary kids just like you. But they're not ordinary! They're really smart kids who know that what everybody does every day is affecting the earth and in some places destroying the environment. But Eco-Kid Super Rangers know what those things are and what we can all do to help lessen the impact of everyday living in modern society on the environment."
+msgstr "每個人都喜歡拯救世界的超級英雄。神力女超人、蝙蝠俠、羅賓、金剛狼和許多其他的超級英雄，這些都是每個人在漫畫和電影中知道的。你想成為超級英雄拯救世界嗎？你可以!!你可以成為一個超級生態小遊俠!!你問什麼是超級生態小遊俠？超級英雄們把自己偽裝成像你一樣的普通孩子，但他們並不平凡！他們是很聰明的孩子，知道每個人每天做些什麼正在影響著地球和否些地方破壞生態環境。超級生態小遊俠知道，什麼樣的東西和我們都可以做些什麼以幫助減少在現代社會中日常生活對環境的影響。"
+
+msgid "Do YOU want to be an Eco-Kid Super Ranger hero? If you do, then think about all the things you do or use in your life every day - like driving in a car, eating your food, living in your house. And think about where all the stuff comes from that helps you live the comfortable lifestyle you live. Now think about what effect getting all that stuff has on the earth's environment. Then, and here's the important part, think about how you can change your lifestyle, and that of your friends and family, to lessen your impact on the earth – and then do it! See, you really can be a superhero who saves the world."
+msgstr "你想成為一個超級生態小遊俠嗎？如果你願意，想想你每天生活中所做的事情和使用的東西–像是駕駛一輛車子、吃東西、住在你的屋子裡，和想想所有的東西都來自於幫助你過更舒適的生活。現在想想這所有的東西對環境帶來什麼樣的影響？接著很重要的部分，想想你以及你的朋友和家人可以怎麼改變你們的生活方式來減少對地球的影響，並且做到這一點！ 你看，你真的可以成為一個超級英雄拯救世界。"
+
+msgid "Are you ready"
+msgstr "你準備好了嗎？"
+
+msgid "For each example of human impact on the environment shown in the bootom row, connect the image to the top row onto the picture of the original natural environment that was impacted. Some items have multiple answers."
+msgstr "下排中為每一個人為對環境影響的例子，請連結至上方圖片上，認為影響了那些原有的自然環境。"
+
+msgid "For each example of human impact on the environment shown in the top row, drag the dot from that image to the dot on the image in the bottom row that will match the natural environment that was impacted."
+msgstr "下排中為每一個人為對環境影響的例子，把該圖的點拖曳至下排配對被受影響的自然環境。"
+
+msgid "Effects of human impact"
+msgstr "人為影響的效果"
+
+msgid "Not quite! Can you make additional connections? Shipping ports require a coastline on the seacoast or a large lake. Hydroelectric dam requires a river to dam up to create a reservoir to store water that will fall through the generators in the dam producing electricity. Logging and clear cutting happen in the forest natural environment. Farms are usually the result of plowing and replacing the natural environments of fields and meadows."
+msgstr "不完全正確！你能做其他的連線嗎？航運港口需要海岸線或是較大的湖泊。水力發電大壩需要一條河截流創造一個水庫以蓄水，接著水向下流過大壩中的發電機以產生電力。砍伐發生在森林自然環境中，農場往往是翻耕犁地的結果，把自然環境變成了田野和草原。"
+
+msgid "Which of the following statements about humans and the environment is <span class='blink'>NOT true</span>?"
+msgstr "下列何者有關於人類與環境的句子是錯誤的？"
+
+msgid "Human activities can have both a positive and a negative impact on the environment."
+msgstr "人類活動對於環境可以有正面和負面的影響。"
+
+msgid "Not everything humans put into the environment is a pollutant."
+msgstr "不是人類所做的每一件事情都帶給環境汙染。"
+
+msgid "The purpose of the environment is to provide resources to make people's lives more comfortable and productive."
+msgstr "環境的宗旨是提供資源，使人類過得更舒適豐富。"
+
+msgid "Humans are part of the environment so anything we do to impact the environment impacts us too."
+msgstr "人類也是環境的一部分，所以我們所做的影響環境的事情，最後也會影響到我們自己。"
+
+msgid "Interacting with environment..."
+msgstr "和環境互動..."
+
+msgid "Not really - This is a TRUE statement. Human activities can have a negative impact on the environment when pollution occurs but humans can also have a positive impact on the environment when they clean up pollution or change their activities so that they don't pollute."
+msgstr "不正確 - 這句話是對的。當出現汙染的時候，人類活動會對環境造成負面的影像，但是當他們清理收拾這些汙染物或是為了不造成污染而改變他們的活動方式，這對環境還說就是正面的影響。"
+
+msgid "Not really - This is a TRUE statement. Not everything humans put into the environment is a pollutant. For instance, when we compost our waste food to create organic fertilizer, it actually helps the plants in the environment rather than hurting them."
+msgstr "不正確 - 這句話是對的。不是人類所做的每一件事情都帶給環境汙染。例如，我們把回收的食物聚集起來變成有機肥料，實際上是有助於環境中植物生長，而不是傷害它。"
+
+msgid "Correct. This is NOT a TRUE statement. The environment is part of nature. It is neither there to help or hurt humans. Its purpose is not to make our lives more comfortable. We are part of nature and the environment and we should live in harmony with it to best ensure our long-term survival."
+msgstr "正確 - 這句話是錯誤的。環境是大自然的一部份，它們既不是用來幫助人類也不會傷害人類，它們的目的也不是為了讓人類生活更舒適。我們也是自然環境的一部分，我們應該與它和諧共存，以確保我們可以長久生存。"
+
+msgid "Not really - This is a TRUE statement. - Humans are part of the environment like all of the other animals on earth. But human activities impact the environment much greater than all the other animals so we have to be very careful about what we do because anything we do to the environment can come back to affect us too. For instance, if we have millions of people in a city flushing their toilets into a lake, like in the old days, people using the lake for drinking water and fishing would get sick."
+msgstr "不正確 - 這句話是對的。人類像其他地球上的動物一樣是環境中的一部分，但是人類活動對環境的影響遠高於其他動物，所以我們必須非常注意我們所做的事情，因為我們對環境做的事情，也會反過來影響到我們自己。舉例來說，如果有數百萬人在城市中把廁所的水沖至湖泊，就像從前一樣，人們飲用湖水和釣魚而生病。"
+
+msgid "Which of the following activities you do every day has the <span class='blink'>least</span> negative effect on the environment?"
+msgstr "下列哪項你每天做的活動對環境的負面影響最小？"
+
+msgid "Sleeping"
+msgstr "睡覺"
+
+msgid "Eliminating pollution..."
+msgstr "去除污染..."
+
+msgid "Correct - Sleeping has very little effect on the environment - except if you're sleeping in a comfortable heated or air conditioned house because it impacts the environment to build, heat and air-condition the house. So even sleep has some impact."
+msgstr "正確 - 睡覺對環境的影響非常小，除非你睡在一個舒適有冷熱空調的屋子裡，因為搭建一個這樣的屋子會影響環境，因此即使是睡覺都會有一定的影響。"
+
+msgid "Not really - Going to school impacts the environment because the school is a big building that is built using resources from the environment and is heated and cooled as well. And, if you drive or take a bus to school, that takes resources from the environment - resources to build and power the car or bus."
+msgstr "不正確 - 上學會影響環境，因為學校是一個利用環境資源所建造的一個大建築物，加上如果你開車或者坐公車上學，這需要來自自然資源的材料和電力去打造車子。"
+
+msgid "Not really - Eating breakfast means that a farm probably was necessary to provide your food, and farms impact the environment as well."
+msgstr "不正確 - 吃早餐意味著農場必須提供你食物，且農場影響環境。"
+
+msgid "Not really - Watching TV impacts the environment because it requires electricity that comes from coal, nuclear or hydroelectric power plants."
+msgstr "不正確 - 看電視會影響環境，因為需要電力，而電力還自於煤炭、核能或水力發電廠。"
+
+msgid "What is the best statement about the relationships between humans, wild animals, and the environment?"
+msgstr "下列哪些有關人類、野生動物與環境之間關係的陳述是最好的？"
+
+msgid "Not really - As far as nature and the environment are concerned, humans and other animals are all equal parts of the environment."
+msgstr "不正確 - 至於自然和環境而言，人類和動物皆為環境的一部分。"
+
+msgid "Correct - Wild animals take just what they need from the environment to survive, but humans take more than they need just to survive so they impact the environment more than wild animals."
+msgstr "正確 - 野生的動物只需要從環境中取得生存所需要的，但人類往往取得更多，所以人類對環境的影響遠高於野生動物。"
+
+msgid "Not really - Actually, it's almost the opposite. Humans are smarter than other animals and they use that intelligence to use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "不正確 - 事實上幾乎是相反的。人類比其他動物更聰明，人類會使用智慧來利用環境，使自己過得更舒適，對於環境的影響遠高於其他動物。"
+
+msgid "Not really - Humans use the environment to make themselves comfortable which impacts the environment more than other animals."
+msgstr "不正確 - 人類會使用智慧來利用環境，使自己過得更舒適，對於環境的影響遠高於其他動物。"
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "你可以通過擊點下方按鈕，檢查你在“快速檢測”與“測驗題”中的成績。"
+
+msgid "To have the greatest positive impact on your environment. You could:"
+msgstr "對我們的環境產生最大的正面影響。你可以："
+
+msgid "Learn as much as you can about how humans impact the environment globally, but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "關於人類怎麼影響全球自然環境是學無止盡的，但在你的社區、鄰里甚至學校做出行動，就可以改變你們當地對於環境的影響。"
+
+msgid "Creating impact..."
+msgstr "建立影響..."
+
+msgid "Not quite - Making personal choices to change your daily behavior to minimize your impact on the environment is an excellent thing to do to help the environment - but there may be even more you can do."
+msgstr "不完全正確 - 你個人選擇改變你每天的行為，盡量減少你對環境的影響對於幫助環境來說是件很好的事情，但還有更多是你可以做的。"
+
+msgid "Learn as much as you can about how humans impact the environment globally but act locally in your community, neighborhood, and school, and use that knowledge to minimize how you and your community impact the environment."
+msgstr "關於人類怎麼影響全球自然環境是學無止盡的，但在你的社區、鄰里甚至學校做出行動，就可以改變你們當地對於環境的影響。"
+
+msgid "Correct - Knowledge is power. The more you know about the global environment the better you can act locally to minimize how you and your community impact the environment."
+msgstr "正確 - 知識就是力量。你越了解全球環境越有助於你在你的社區、鄰里甚至學校做出行動，就可以改變你們當地對於環境的影響。"
+
+msgid "Not Quite - Working with your classmates to do school projects to help the environment is an excellent thing to do - but there may be even more you can do."
+msgstr "不正確 - 與你的同班同學一起組織一個計劃來幫助環境是一件很棒的事情，但還有更多是你可以做的。"
+
+msgid "Not Quite - Organizing a neighborhood drive to recycle plastic soda bottles is an excellent thing to do - but there may be even more you can do."
+msgstr "不正確 - 組織一個社區回收行動回收塑膠飲料瓶是一件很好的事情，但還有更多是你可以做的。"
+
+msgid "Not really - This is a TRUE statement. Humans are part of the environment like all of the other animals on earth. But human activities impact the environment much greater than all the other animals so we have to be very careful about what we do because anything we do to the environment can come back to affect us too. For instance, if we have millions of people in a city flushing their toilets into a lake, like in the old days, people using the lake for drinking water and fishing would get sick."
+msgstr "不正確 - 這句話是對的。人類像其他地球上的動物一樣是環境中的一部分，但是人類活動對環境的影響遠高於其他動物，所以我們必須非常注意我們所做的事情，因為我們對環境做的事情，也會反過來影響到我們自己。舉例來說，如果有數百萬人在城市中把廁所的水沖至湖泊，就像從前一樣，人們飲用湖水和釣魚而生病。"
+
+msgid "People in modern society like to live comfortably. We like to eat well; have a car to drive to where ever we need to go; have a comfortable house or apartment that's warm and dry; have a nice clothes to wear that keeps us cool in the summer and warm in the winter. And we like electricity that allows us to power our lights and our TV's. But where does all of that stuff come from to keep us comfortable?"
+msgstr "在現代社會中人們喜歡舒適的生活。我們喜歡吃好的；開車到我們任何想去的地方；有 舒適的房子；一年四季有漂亮的衣服可以穿。我們喜歡用電，讓我們可以使用燈和電視，但是這些真的能讓我們感到舒適嗎？"
+
+msgid "It comes from from the earth's environment - that's where. The food we eat comes from farms and ranches that used to be natural fields and woods. The electricity comes from burning coal or from damming rivers. The gasoline that powers our cars comes from oil wells we drill deep down into the earth. And most of our houses are made from wood that comes from cutting trees in the forest. All of these things that make us comfortable comes from human activity impacts the natural environment. The <span class='key'>environment</span> is just another name for earth's systems all working together - the air, water, and all the living things. When we change or take something from the environment, we have an environmental <span class='key'>impact</span> - which means we change something in one or all of the earth's systems. Usually this change is bad. And sometimes the impact human activity has on the environment is not good for the environment or for us."
+msgstr "- 這正是來自於地球。我們所吃的食物來自於曾經是天然的田野和樹林的農場與牧場。電力來自燃燒煤炭或修建水壩河流；來自深鑿入地底油井的汽油，以驅動車子；我們大部分居住的房子是用木頭建造的，而木頭來自於砍伐森林中的樹木。所有讓我們感到舒適的人類活動皆影響了自然環境，「環境」只是地球系統共同運作的另一個代名詞 - 包括空氣、水、土地與所有生活的事物。當人類改變自然環境或是從中奪取一些東西，這就是「人類對環境的影響」，代表著我們改變了地球自然生態的一部分。這種改變往往是負面的，而且有些造成影響，無論對自然或是我們自身都是非常不好的。"

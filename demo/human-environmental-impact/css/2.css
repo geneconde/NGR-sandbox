@@ -1,0 +1,20 @@
+@-webkit-keyframes animate {
+	from { background-image: url(../assets/2/bg1.png); } 
+	to { background-image: url(../assets/2/bg2.png); } 
+}
+
+@-moz-keyframes animate {
+	from { background-image: url(../assets/2/bg1.png); } 
+	to { background-image: url(../assets/2/bg2.png); } 
+}
+
+@keyframes animate {
+	from { background-image: url(../assets/2/bg1.png); } 
+	to { background-image: url(../assets/2/bg2.png); } 
+}
+
+#animation {
+	-webkit-animation: animate 4s linear 0s infinite alternate;
+		-moz-animation: animate 4s linear 0s infinite alternate;
+		animation: animate 4s linear 0s infinite alternate;
+}

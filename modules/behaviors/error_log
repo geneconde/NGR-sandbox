@@ -1,0 +1,12 @@
+[19-May-2014 06:20:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[19-May-2014 07:53:39 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 04:41:38 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 05:08:00 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 05:21:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 07:44:45 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 08:20:09 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[20-May-2014 11:50:39 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[22-May-2014 02:57:23 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[27-Jul-2014 22:59:01 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/behaviors/14.php on line 8
+[05-Dec-2014 04:31:07 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[10-Mar-2015 02:47:44 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/behaviors/1.php on line 7

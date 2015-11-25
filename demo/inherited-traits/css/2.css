@@ -1,0 +1,46 @@
+
+#wand {
+	animation: wand 3.5s infinite alternate;
+	-webkit-animation: wand 3.5s infinite alternate;
+	-moz-animation: wand 3.5s infinite alternate;
+}
+
+#spark {
+	animation: spark 3.5s infinite alternate;
+	-webkit-animation: spark 3.5s infinite alternate;
+	-moz-animation: spark 3.5s infinite alternate;
+}
+
+#rarm {
+	animation: rarm 3.5s infinite alternate;
+	-webkit-animation: rarm 3.5s infinite alternate;
+	-moz-animation: rarm 3.5s infinite alternate;
+}
+
+@keyframes wand {
+}
+
+@-webkit-keyframes wand {
+	0% { -webkit-transform: rotate(0deg); }
+	65% { -webkit-transform: rotate(0deg); }
+	80% { -webkit-transform: rotate(-48deg); }
+	100% { -webkit-transform: rotate(-48deg); }
+}
+
+@-moz-keyframes wand {
+}
+
+@-webkit-keyframes rarm {
+	0% { -webkit-transform: rotate(0deg); }
+	50% { -webkit-transform: rotate(25deg); }
+	100% { -webkit-transform: rotate(0deg); }
+}
+
+@-webkit-keyframes spark {
+	0% { -webkit-transform: rotate(0deg); opacity: 0; }
+	20% { -webkit-transform: rotate(0deg); opacity: 0; }
+	79% { -webkit-transform: rotate(180deg); opacity: 0; bottom: 135px; right: 185px; width: 20px; }
+	80% { -webkit-transform: rotate(180deg); opacity: .5; bottom: 135px; right: 185px; width: 20px; }
+	85% { -webkit-transform: rotate(180deg); opacity: .5; bottom: 86px; right: 146px; width: 120px; }
+	100% { -webkit-transform: rotate(360deg); opacity: 1; bottom: 86px; right: 146px; width: 120px; }
+}

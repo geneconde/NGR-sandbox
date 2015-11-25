@@ -1,0 +1,1489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Natural Hazards\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ar\n"
+
+# 1
+msgid "Natural Hazards"
+msgstr "الأخطار الطبيعية"
+
+msgid "Welcome to the Natural Hazards review"
+msgstr "أهلاً وسهلاً بكم في مراجعة الأخطار الطبيعية"
+
+msgid "start"
+msgstr "إبدأ"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+# 2
+msgid "Daily News"
+msgstr "الأخبار اليومية"
+
+msgid "Thinking about... Natural Hazards"
+msgstr "التفكير ب ... الأخطار الطبيعية"
+
+msgid "California home teeters on edge of cliff after landslide"
+msgstr "بعض سكان المنازل في كاليفورنيا على حافة الهاوية بعد إنزلاق أرضي"
+
+msgid "Superstorm Hurricane Sandy Hits East Coast of the United States"
+msgstr "الإعصار العملاق ساندي يضرب الخليج الشرقي للولايات المتحدة"
+
+msgid "North Dakota residents exhausted from multiple floods"
+msgstr "سكان داكوتا الشمالية يتنفسوا الصعداء بعد فيضانات متكررة."
+
+msgid ""
+"North Dakota, California, New York - it seems like no matter where you live "
+"there are some kinds of natural hazards you have to know about and be "
+"careful of. This doesn’t mean that nature is bad. Nature is just nature. But "
+"floods, and hurricanes and landslides are all a natural part of well nature. "
+"We have to understand where, how, and why these things happen; and how we "
+"can stay safe when they do. Do any natural hazards occur frequently near "
+"where you live?"
+msgstr ""
+"داكوتا الشمالية، كاليفورنيا، نيويورك- يبدو أن المشكلة ليست في أين تعيش فهناك "
+"بعض الأخطار الطبيعية التي عليك أن تعرفها وتأخذ حذرك منها.  هذا لا يعني بأن "
+"الطبيعة سيئة.  فالطبيعة هي طبيعة فقط..  لكن الفيضانات، والأعاصير والانزلاقات "
+"الأرضية هي جميعها جزء من الطبيعة الجميلة.  علينا أن نفهم أين، وكيف، ولماذا "
+"تحدث هذه الأشياء؛ وكيف يمكننا أن نبقى بأمان عندما تحدث.  هل تحدث الأخطار "
+"الطبيعية بشكلٍ متكرر في المنطقة التي تعيش بها؟"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد"
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Check answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Next"
+msgstr "لاحق"
+
+# 3
+msgid "Checking what you know... about natural hazards"
+msgstr "تأكد مما تعرف ... عن الأخطار الطبيعية."
+
+msgid "Which of the following statements are true?"
+msgstr "أي من العبارات التالية صحيح؟"
+
+msgid ""
+"Natural disasters happen very rarely and these events are just the bad luck "
+"of the people that are affected."
+msgstr ""
+"الكوارث الطبيعية تحدث بشكلٍ نادر جداً وهذه الأحداث هي فقط حظ سيء للناس الذين "
+"يتأثرون بها."
+
+msgid "Hazards are random in both time and place and just bad luck."
+msgstr "الأخطار عشوائية في زمن ومكان حدوثها وهي فقط حظ عاثر."
+
+msgid ""
+"A 30-year, 100-year, or 500-year flood means that these are set time "
+"intervals between flooding events."
+msgstr ""
+"30 عام أو 100 عام أو 500 عام يعني أن هذه هي مجموعة من الفترات الزمنية بين "
+"الفيضانات."
+
+msgid ""
+"Floods are rare, atypical, almost unnatural events rather than normal river "
+"behavior."
+msgstr "الفيضانات هي أحداث نادرة، وغير منتظمة أكثر منها سلوك طبيعي للنهر."
+
+msgid "None of the above are true."
+msgstr "كل ما سبق صحيح."
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid ""
+"None of the above statements are correct. Natural disasters happen all the "
+"time around the world."
+msgstr ""
+"ولا واحدة من العبارات السابقة صحيحة.  تحدث الكوارث الطبيعية في جميع الأوقات "
+"حول العالم."
+
+msgid "Natural hazards are not caused by bad luck."
+msgstr "الأخطار الطبيعية غير ناتجة عن سوء الحظ."
+
+msgid ""
+"Continue with the review and read about natural disasters and natural "
+"hazards and how scientists study them."
+msgstr ""
+"تابع المراجعة وإقرأ عن الكوارث والأخطار الطبيعية وكيف يدرسها العلماء.  "
+
+msgid "How often do they happen?"
+msgstr "كم مرة بالعادة تحدث؟"
+
+# 4
+msgid "Reviewing core ideas... about natural hazards"
+msgstr "مراجعة الأفكار الرئيسية ... عن الأخطار الطبيعية"
+
+msgid ""
+"Natural hazards are dangers that come from nature; threatening life, health, "
+"property, and the environment."
+msgstr ""
+"الأخطار الطبيعية هي الأخطار التي تأتي من الطبيعة، وتهدد الحياة، والممتلكات ، "
+"والبيئة."
+
+msgid ""
+"There are many different kinds of natural hazards. Some natural hazards are "
+"related to the weather, like <span class='key'>lightning</span>, <span "
+"class='key'>hurricanes</span>, and <span class='key'>tornadoes</span>."
+msgstr ""
+"هناك العديد من الأنواع المختلفة من الأخطار الطبيعية.  بعض الأخطار الطبيعية "
+"مرتبط بالطقس مثل  <span class='key'>البرق</span>،و <span "
+"class='key'>والأعاصير</span>، و  <span class='key'>والزوابع</span>."
+
+msgid ""
+"Some are related to just geology; like <span class='key'>earthquakes</span> "
+"and <span class='key'>volcanoes</span>."
+msgstr ""
+"بعضها مرتبط بالجيولوجيا مثل  <span class='key'>الهزات الأرضية</span> و  "
+"<span class='key'>البراكين</span>."
+
+msgid ""
+"Many <span class='key'>natural hazards</span> and <span "
+"class='key'>disasters</span> are the result of combinations of weather and "
+"landscapes in certain areas. A landscape is the shape and features of the "
+"land."
+msgstr ""
+"العديد من <span class='key'>الأخطار الطبيعية</span> و <span "
+"class='key'>الكوارث</span> تنتج عن أسباب متعددة مشتركة مثل الطقس و  طبيعة "
+"الأرض في مناطق معينة.  والمقصود بطبيعة الأرض هو شكل وخصائص سطح الأرض.  "
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid ""
+"For instance, California gets a lot of <span class='key'>wildfires</span> "
+"because of a combination of hot dry windy weather with lots of trees and "
+"bushes and rolling hills."
+msgstr ""
+"على سبيل المثال، تحصل كاليفورنيا على الكثير من <span class='key'>الحرائق</"
+"span> بسبب الطقس الجاف والحار والكثير الرياح وبسبب الكثير من الأشجار "
+"والشجيرات والتلال المتموجة."
+
+msgid ""
+"North Dakota gets <span class='blue'>flooding</span> almost every spring "
+"because of lots of rain and snow melting into a narrow river in a low flat "
+"river valley."
+msgstr ""
+"يحدث في داكوتا الشمالية  <span class='blue'>فيضانات</span> في معظم فصول "
+"الربيع بسبب الكثير من الأمطار وإنصهار الثلوج في نهر ضيق يصب في وادٍ مسطحٍ "
+"منخفض. "
+
+msgid ""
+"The good news is that <span class='key'>meteorologists</span>, who are "
+"weather scientists, do their best to tell us ahead of time about weather "
+"related natural hazards. This is called <span class='key'>forecasting</"
+"span>; it is another name for predicting the weather. They use all kinds of "
+"tools, their knowledge about weather, and past events that happened in the "
+"region to help people prepare for natural hazards."
+msgstr ""
+"الأخبار الجيدة هي أن <span class='key'>راصدي الجو</span> وهم علماء في الطقس، "
+"يقومون بأفضل ما عندهم ليقولوا لنا مسبقاً عن الأخطار الطبيعية.  هذا ما يسمى "
+"<span class='key'>التنبؤ الجوي</span>, وهو مشابه لتوقع الحالة الجوية.  هم "
+"يستخدمون جميع أنواع الأدوات، ومعرفتهم عن الطقس، والأحداث السابقة التي حدثت "
+"في المنطقة تساعد الناس في التحضير للأخطار الطبيعية."
+
+msgid ""
+"Meteorologists might forecast heavy rains and snowmelt. This will warn "
+"people to prepare for a natural flood hazard. Then the community fills sand "
+"bags to help build temporary dams to help protect houses and businesses in "
+"cities along rivers where flooding is predicted."
+msgstr ""
+"يمكن للراصدين الجويين أن يتنبأوا بالأمطار الغزيرة وبإنصهار الجليد.  هذا "
+"سيحمس الناس كي يحضروا لأخطار الفيضان الطبيعية.  فيعبيء الناس أكياس الرمل "
+"للمساعدة  في بناء سدود لتساعدهم في حماية بيوتهم  وأعمالهم في المدن الواقعة "
+"على جانب النهر حيث يتوقع الفيضان."
+
+msgid "Planning for emergencies..."
+msgstr "التخطيط للطواريء"
+
+# 5
+msgid "Question A. Lightning, hurricanes, and tornadoes are a result of..."
+msgstr "سؤال ا. البرق، والأعاصير والزوابع كلها تنتيج عن ..."
+
+msgid "Geological Features"
+msgstr "الخصائص الجيولوجية"
+
+msgid "Weather"
+msgstr "الطقس"
+
+msgid "Weather and geological features combined"
+msgstr "الخصائص الجيولوجية والجوية مع بعضها"
+
+msgid "Landscape Features"
+msgstr "خصائص سطح الأرض"
+
+msgid ""
+"Question B. An example of a natural hazard that is a result of both weather "
+"and landscape is..."
+msgstr "السؤال ب. مثال لكارثة طبيعية تنتج عن الطقس وسطح الأرض مع بعضها هو ..."
+
+msgid "Volcano"
+msgstr "البركان"
+
+msgid "Volcanoes"
+msgstr "البراكين"
+
+msgid "Earthquake"
+msgstr "الهزة الأرضية"
+
+msgid "Flood"
+msgstr "فيضان"
+
+msgid "How did I do?"
+msgstr "كيف عملت؟"
+
+msgid "You answered..."
+msgstr "إجابتك هي ..."
+
+msgid "Preparing your first quick check!"
+msgstr "حضر أول تقويم سريع قمت به!"
+
+msgid "Please select your answers."
+msgstr "يرجى إختيار إجاباتك."
+
+msgid "Please select your answer."
+msgstr "يرجى إختيار إجاباتك."
+
+msgid "Correct. These natural hazards are related to weather."
+msgstr "صحيح. الأخطار الطبيعية مرتبطة بالجو."
+
+msgid "No. Earthquakes and volcanoes are related to geology."
+msgstr "لا. الهزات الأرضية والبراكين مرتبطة بالجيولوجيا."
+
+msgid ""
+"No. Wildfires and floods are related to a combination of weather and geology."
+msgstr ""
+"لا. الحياة البرية والفيضانات مرتبطة بعوامل جوية وجيولوجية مع بعضها البعض."
+
+msgid "Not quite. Lightning, hurricanes, and tornadoes are related to weather."
+msgstr "ليس تماماً. البرق، والأعاصير والزوابع البحرية مرتبطة بالجو."
+
+msgid ""
+"You got it right! A flood is a result of rain and snow (weather) and the "
+"features of the land that it is trying to go into (landscape)."
+msgstr ""
+"لقد كنت محقاً! الفيضان هو نتيجة عن الشتاء والثلج (طقس) وخصائص الأرض وهي تأتي "
+"ضمن طبيعة الأرض."
+
+msgid "No. Hurricanes are related to weather, not geological factors."
+msgstr "لا.  الزوابع مرتبطة بالطقس وليست مرتبطة بعوامل جيولوجية."
+
+msgid "No. Volcanoes are related to geological factors, not weather."
+msgstr "لا. البراكين مرتبطة بعوامل جيولوجية وليست جوية."
+
+msgid "No. Earthquakes are related to geological factors, not weather."
+msgstr "لا. الهزات الأرضية مرتبطة بعوامل جيولوجية وليست جوية."
+
+# 6
+msgid "More core ideas... about natural hazards"
+msgstr "أفكار رئيسية أكثر...حول الأخطار الطبيعية"
+
+msgid ""
+"Natural hazards have been happening throughout history and they will "
+"continue to happen in the future. Here are some examples of natural "
+"phenomena that can be hazards if they affect people."
+msgstr ""
+"الأخطار الطبيعية حدثت وتحدث في جميع الأزمان وستستمر بالحدوث في المستقبل.  "
+"هنا بعض الأمثلة لظواهر طبيعية يمكن أن تكون أخطار إذا أثرت على الناس."
+
+msgid ""
+"A big difference between now and the past is that scientists have made great "
+"progress in studying and learning about the natural hazards and their causes "
+"and this knowledge can help communities prepare for them to save lives and "
+"decrease property damage."
+msgstr ""
+"فرق كبير بين الحاضر والماضي وهو أن العلماء بذلوا جهداً كبيراً في دراسة وفهم "
+"الأخطار الطبيعية وأسبابها ويمكن لمثل هذه المعرفة أن تساعد المجتمعات في "
+"التحضير لأنفسهم وإنقاذ حياتهم وتقليل تدمير ممتلكاتهم."
+
+msgid ""
+"To keep us safe, it is important to study the science of the natural "
+"phenomena that cause these hazards so we can understand them and predict "
+"when and where they might happen and cause trouble for people."
+msgstr ""
+"كي يحافظوا على سلامتنا، من المهم دراسة علوم الظواهر الطبيعية التي تسبب هذه "
+"الأخطار بحيث نستطيع فهمها والتنبؤ بزمان ومكان حدوثها والمشكلات التي يمكن أن "
+"تنتج عنها."
+
+msgid ""
+"<span class='key'>Geologists</span> are scientists that study the science of "
+"the solid parts of the earth made out of rocks and soil but also study the "
+"water in rivers and lakes too."
+msgstr ""
+"<span class='key'>علماء الجيولوجيا</span> هم علماء يدرسون علم الأجزاء الصلبة "
+"من الأرض المكونة من الصخور والتراب ويدرسون المياه في الأنهار وفي البحيرات "
+"أيضاً."
+
+msgid ""
+"<span class='key'>Climatologists</span> and <span "
+"class='key'>Meteorologists</span> are scientists that study the atmosphere "
+"to understand climate and weather."
+msgstr ""
+"<span class='key'>علماء المناخ</span> و <span class='key'>الراصدون الجويون</"
+"span> هم علماء يدرسون المحيط الجوي لفهم المناخ والطقس."
+
+msgid ""
+"Scientists are limited as to which natural hazards they can forecast. "
+"However, the more science advances, the more tools and technology are "
+"created to help monitor and forecast what is going on in nature."
+msgstr ""
+"العلماء محددين لأي أخطار طبيعية يمكن أن يتنبأوا بها.  ومع هذا، كلما تقدم "
+"العلم. كلما استحدثت أدوات وتكنولوجيا للمساعدة في المراقبة والتنبؤ بما يحدث "
+"في الطبيعة. "
+
+msgid ""
+"But all of these scientists have to understand the whole earth together as "
+"one big system – the rocks, the water, the atmosphere, the ice, and all the "
+"living things on earth – in order to really know how it all works."
+msgstr ""
+"لكن على جميع هؤلاء العلماء أن يفهموا جميع مكونات الأرض مع بعضها كنظام كبير "
+"واحد؛ الصخور، والماء، والمحيط الجوي، والجليد، وجميع الكائنات الحية على الأرض "
+"لكي يعرفوا فعلاً كيف ستعمل مع بعضها البعض."
+
+msgid ""
+"Let’s look at one particular natural hazard and how the earth is one big "
+"system."
+msgstr "دعنا ننظر إلى خطر طبيعي محدد وكيف هي الأرض نظام كبير واحد."
+
+msgid ""
+"A <span class='key'>tsunami</span> is a huge wave. The word tsunami actually "
+"means \"harbor wave\" in Japanese. When an earthquake occurs or volcano "
+"erupts under water, it can trigger a tsunami. These massive waves travel "
+"very fast. When they hit land, they slow down but increase in height."
+msgstr ""
+" <span class='key'>التسونامي</span> هو موجة ضخمة.  وكلمة تسونامي تعني موجة "
+"بحرية باللغة اليابانية.  وعندما يحدث زلزال أو يثور بركان تحت الماء، فإن من "
+"الممكن أن يتسبب ذلك في تسونامي. هذه الموجات الهائلة تسير بسرعة كبيرة جداً، "
+"وعندما تصل إلى الأرض، فإنها تبطئ ولكن يزيد ارتفاعه."
+
+msgid ""
+"The waves hit and flood everything, destroying homes and other buildings. "
+"After a tsunami, it’s hard to keep things dry and clean, and it’s often hard "
+"to access clean water."
+msgstr ""
+"تضرب الموجات وتُفيض كل شيء، مدمرة المنازل والعمارات الأخرى.  بعد التسونامي، "
+"من الصعب أن تبقي كل شيء جاف ونظيف، وعادة ما يكون من الصعب الوصول إلى الماء "
+"النظيف."
+
+msgid ""
+"That’s why in addition to all the casualties, many diseases usually spread "
+"and cause even more problems after a tsunami."
+msgstr ""
+"لهذا السبب بالإضافة إلى جميع الضحايا، وكثير من الأمراض عادة ما تنتشر وتسبب "
+"المزيد من المشاكل بعد التسونامي."
+
+msgid ""
+"Scientists cannot predict tsunamis because they cannot forecast earthquakes."
+msgstr ""
+"لا يستطيع العلماء التنبؤ بالتسونامي لأنهم لا يستطيعون التنبؤ بالهزات الأرضية."
+
+msgid ""
+"But scientists monitor large earthquakes that might cause a tsunami to "
+"forecast tsunami arrival times and wave heights through the use of computer "
+"modelling."
+msgstr ""
+"لكن العلماء يراقبون الهزات الأرضية الضخمة التي يمكن أن تسبب التسونامي كي "
+"يتنبؤوا بوقت وصول التسونامي وإرتفاع الأمواج باستخدام النمذجة الحاسوبية."
+
+msgid ""
+"This is how studying the science of all these natural events of the earth "
+"becomes important to the safety of mankind."
+msgstr ""
+"هذا هو السبب وراء أهمية دراسة جميع الأحداث الطبيعية للأرض لحماية بني البشر."
+
+msgid "Studying rock and soil samples..."
+msgstr "دراسة عينات تربة وصخور..."
+
+# 7
+msgid "Question A. What causes tsunamis?"
+msgstr "السؤال أ. ما سبب حدوث موجات تسونامي؟"
+
+msgid "Volcanic activity"
+msgstr "النشاط البركاني"
+
+msgid "Explosions on land"
+msgstr "المتفجرات المستخدمة على الأرض"
+
+msgid "Underwater earthquakes"
+msgstr "الهزات الأرضية تحت الماء"
+
+msgid "Sudden change in temperature"
+msgstr "تغير الحرارة المفاجئ"
+
+msgid ""
+"Question B. Click on <span class='red bold blink'>ALL</span> the correct "
+"statements below."
+msgstr ""
+"سؤال ب. انقر على <span class='red bold blink'> جميع</span> العبارات الصحيحة "
+"في الأسفل. "
+
+msgid "Scientists can predict all natural hazards."
+msgstr "يمكن أن يتنبأ العلماء بجميع الأخطار الطبيعية."
+
+msgid ""
+"Scientists study natural events to understand them and predict when and "
+"where they might happen."
+msgstr "يدرس العلماء الأحداث الطبيعية كي يفهموها ويتنبؤوا بمكان وزمان حدوثها."
+
+msgid "Climatologists and meteorologists study climate and weather."
+msgstr "علماء الطقس والراصدون الجويون يدرسون الطقس والمناخ."
+
+msgid "Geologists make sure natural hazards are avoided."
+msgstr "علماء الجيولوجيا يتأكدون من أن الكوارث الطبيعية يمكن تجاوزها."
+
+msgid ""
+"You got it right! Scientists know that earthquakes and volcanic activity "
+"underwater trigger tsunamis."
+msgstr ""
+"لقد حصلت على الفكرة الصحيحة! يعرف العلماء أن الهزات الأرضية والنشاط البركاني "
+"تحت الماء يتسبب بموجات تسونامي."
+
+msgid "Not quite. Volcanic activity that is underwater can cause a tsunamis."
+msgstr "ليس صحيحاً. النشاط البركاني الذي يحدث تحت الماء يمكن أن يسبب تسونامي."
+
+msgid ""
+"Not quite. Only volcanic activity that is underwater can cause tsunami. "
+"Volcanoes on land don’t cause tsunamis."
+msgstr ""
+"ليس صحيحاً. النشاط البركاني الذي يحدث تحت الماء فقط يمكن أن يسبب تسونامي.  "
+"البراكين على اليابسة لا تسبب تسونامي."
+
+msgid ""
+"No. Earthquakes or volcanoes that erupt under water can cause a tsunami."
+msgstr "لا. الهزات الأرضية والبراكين التي تقذف حماها تسبب موجات تسونامي"
+
+msgid "No. Underwater earthquakes or volcanoes can cause a tsunami."
+msgstr "لا. الهزات الأرضية أو البراكين يمكن أن تتسبب بموجات تسونامي."
+
+msgid "Question B. Click on ALL the correct statements below."
+msgstr "السؤال ب. انقر على جميع العبارات الصحيحة في الأسفل."
+
+msgid ""
+"Correct! Climatologists study the climate, and meterologists study the "
+"weather. Many scientists study natural events to better understand why, how, "
+"and when they occur. They hope to be able to predict them."
+msgstr ""
+"صحيح! علماء الطقس يدرسون الطقس، والراصدون الجويون يدرسون المناخ.  العديد من "
+"العلماء يدرسون الأحداث الطبيعية كي يفهموا بشكلٍ أفضل لماذا، وكيف، ومتى "
+"ستحدث.  هم يأملون أن يتمكنوا من التنبؤ بها."
+
+msgid ""
+"Not quite! Scientists cannot predict all natural hazards. Although they "
+"study natural disasters and work hard to be able to predict them (not avoid "
+"them) someday."
+msgstr ""
+"ليس صحيحاً! لا يستطيع العلماء التنبؤ بالكوارث الطبيعية.  بالرغم من أنهم "
+"يعملون بجد كي يكونوا قادرين على التنبؤ بها (وليس تجنبها) في يومٍ ما."
+
+msgid "Checking weather conditions..."
+msgstr "التأكد من الظروف الجوية"
+
+# 8
+msgid ""
+"Meteorologists are limited as to which natural hazards they can forecast. "
+"However, the more science advances, the more tools and technology are "
+"created to help monitor and forecast what is going on in nature."
+msgstr ""
+"الراصدون الجويون محددين بالأخطار الطبيعية التي يتمكنوا من التنبؤ بها.  ومع "
+"ذلك، كلما تقدم العلم، كلما استحدثت أدوات وتكنولوجيا جديدة  للمساعدة في "
+"مراقبة والتنبؤ لما يحدث في الطبيعة."
+
+msgid "There are many natural hazards that humans can’t get rid of or avoid."
+msgstr ""
+"هناك الكثير من الأخطار الطبيعية التي لا يستطيع البشر التخلص منها أو تجنبها."
+
+msgid "Some of these are:"
+msgstr "بعض منها ما يلي: "
+
+msgid "Landslide"
+msgstr "الإنزلاق الأرضي"
+
+msgid "Avalanche"
+msgstr "الإنهيار الثلجي"
+
+msgid "Tornado"
+msgstr "الزوابع"
+
+msgid "Wildfire"
+msgstr "حرائق الغابات"
+
+msgid "Drought"
+msgstr "الجفاف"
+
+msgid "Blizzard"
+msgstr "العاصفة الثلجية"
+
+msgid "Tsunami"
+msgstr "التسونامي"
+
+msgid "Heat Wave"
+msgstr "الأمواج الحارة"
+
+msgid ""
+"After understanding the science of natural phenomena that cause natural "
+"hazards, there are many things humans can do to avoid or minimize their "
+"impacts."
+msgstr ""
+"بعد فهم العِلم وراء الظاهرة الطبيعية التي تسبب الأخطار الطبيعية هناك العديد "
+"من الأشياء يمكن للناس القيام بها لتجنب أو تقليل تأثيراتها."
+
+msgid ""
+"For instance, if scientists understand that in certain parts of the country, "
+"dry hot winds will occur during certain parts of the year, then there are "
+"actions a family can take to protect themselves and their homes and "
+"belongings."
+msgstr ""
+"على سبيل المثال، إذا كان العلماء فهموا أنه في مناطق معينة سيكون هناك رياح "
+"دافئة و حارة في أوقات معينة من السنة، فسيكون هناك إجراءات يمكن أن تتخذها "
+"الأسرة لحماية أنفسهم ومنازلهم وممتلكاتهم.  ويمكن لشخص أن يتخلص من كل الأشجار "
+"القريبة من المنزل حتى لا تنتشر النار فيها وتصل من خلالها الى المنزل. و إجراء "
+"آخر يمكن أن يكون ببناء المنزل من المواد التي لا تحترق بسهولة بالنار - مثل "
+"السقف المعدني والطوب أو الجدران الحجرية."
+
+msgid ""
+"It is suggested to people to prepare themselves for earthquakes in these "
+"ways:"
+msgstr "ويحث الناس على تحضير أنفسهم للهزات الأرضية بهذه الطرق."
+
+msgid "<span class='red bold blink'>Click</span> an item to show image."
+msgstr "<span class='red bold blink'>انقر</span>  على عنصر لإظهار الصورة."
+
+msgid "Get a fire extinguisher."
+msgstr "احصل على طفاية حريق"
+
+msgid "Have an extra water supply."
+msgstr "وفر مصدر ماء إضافي"
+
+msgid "Have an emergency plan."
+msgstr "حضر خطة طوارئ"
+
+msgid "Have a first-aid kit ready."
+msgstr "وفر مجموعة إسعافات أولية."
+
+msgid "Secure large or valuable items."
+msgstr "أمن الأشياء القيمة أو الكبيرة."
+
+msgid "Know the &#34;drop-cover-hold&#34; drill."
+msgstr "إعرف تمرين &#34; خذ الأرض - تغطى - وإبقى هادئاً&#34; ."
+
+msgid ""
+"Similar actions and preparedness are important for floods, or tornadoes, "
+"hurricanes, or almost any of the other natural hazards."
+msgstr ""
+"أعمال مشابهة وتحضيرات مهمة للفيضانات، أو الزوابع ، أو الأعاصير، أو معظم "
+"الأخطار الطبيعية."
+
+msgid ""
+"But most importantly, when you are warned to <span class='key'>evacuate</"
+"span> your home – which means to leave it - because of any of the natural "
+"hazards: pay attention and act quickly."
+msgstr ""
+"ولكن الأهم من ذلك، عندما يتم تحذيرك لإخلاء منزلك - مما يعني الخروج منه - "
+"بسبب أي من الأخطار الطبيعية: إيلاء الاهتمام والتحرك بسرعة."
+
+msgid ""
+"These are some things that people and communities can do to protect "
+"themselves and lessen the impact of these hazards."
+msgstr ""
+"هذه بعض الأشياء التي يجب على الأفراد والمجتمعات أن يقوموا بها لحماية أنفسهم "
+"وتقليل تأثير هذه الأخطار."
+
+msgid "Securing first-aid kits..."
+msgstr "أمن مجموعة إسعافات أولية ..."
+
+msgid ""
+"But some natural hazards like earthquakes are still not understood well "
+"enough by scientists to give an accurate warning for a time and place for it "
+"to occur."
+msgstr ""
+"لكن هناك بعض الأخطار الطبيعية مثل الهزات  الأرضية ما زالت غير مفهومة بشكلٍ "
+"جيد من قِبَل العلماء كي تعطي تحذير دقيق لزمن ولمكان حدوثها."
+
+# 9
+msgid ""
+"Question A. Which of the following would be a good strategy to protect your "
+"family if an <span class='red bold blink'>immediate</span> wildfire threat "
+"was coming near your home within several hours?"
+msgstr ""
+"السؤال أ.  أي مما يلي يمكن أن يكون إستراتيجية جيدة لحماية عائلتك من تهديد "
+"حريق في الغابة بدأ يسير بجانب منزلك ويتوقع أن تصلك خلال ساعات؟"
+
+msgid "Take shelter in your basement"
+msgstr "إتخذ تسوية البيت ملجأً"
+
+msgid "Stand on the roof of your house with a garden hose and spray the fire"
+msgstr "قف على سقف منزلك ببربيش ماء وإبدأ برش الماء على الحريق"
+
+msgid "Evacuate as soon as possible"
+msgstr "إخلي المكان بأسرع ما يمكن"
+
+msgid "Start chopping down the trees near your house"
+msgstr "إبدأ بقطع الأشجار المحيطة بمنزلك"
+
+msgid ""
+"Question B. Click on <span class='red bold blink'>ALL</span> the things you "
+"could do to protect your home from an <span class='red bold blink'>eventual</"
+"span> wildfire threat if you lived in an area where wildfires were fairly "
+"common."
+msgstr ""
+"السؤال ب.  انقر على <span class='red bold blink'>جميع</span> الأشياء التي "
+"يجب أن تعملها لحماية منزلك من تهديد حريقة غابة محتومٌ عليك إذا كنت تعيش بمكان "
+"يكون به حرق الغابات بشكل متكرر."
+
+msgid "Clear-cut the trees and brush near your house."
+msgstr "إقطع الأشجار ونظف بشكلٍ جيد حول بيتك"
+
+msgid "Put a steel roof on your house."
+msgstr "ضع سقف فولاذ على منزلك."
+
+msgid "Get a new fire extinguisher."
+msgstr "احصل على طفاية حريق جديدة."
+
+msgid "Build the walls of your house out of brick or stone."
+msgstr "إبني الجدران لبيتك من القرميد أو الحجارة."
+
+msgid ""
+"Correct. With enough notice, you can get far away from your home and the "
+"wildfire."
+msgstr ""
+"صحيح.  بتحذير طويل، بإمكانك الوصول إلى مكان بعيد عن بيتك وتجنب حريقة الغابات."
+
+msgid "No."
+msgstr "لا."
+
+msgid "Not quite."
+msgstr "ليس صحيحاً"
+
+msgid ""
+"Not really, this is a good long term solution, but not when there is an "
+"immediate threat."
+msgstr ""
+"ليس واقعياً، هذا حل جيد ولمدة طويلة الأمد ، لكن ليس مناسباً في حال وجود تهديد "
+"مباشر."
+
+msgid ""
+"Question B. Click on ALL the things you could do to protect your home from "
+"an eventual wildfire threat if you lived in an area where wildfires were "
+"fairly common."
+msgstr ""
+"السؤال ب. انقر على جميع الأشياء التي يمكنك القيام بها لحماية منزلك الذي يقع "
+"بمنطقة يحدث فيها حرائق غابات بشكلٍ مستمر. "
+
+msgid ""
+"Correct! If moving out of the area.... all of these statements are good "
+"choices... to protect your home from a potential wildfire. If there is an "
+"immediate wildfire threat coming near your home, evacuation would be the "
+"best choice."
+msgstr ""
+"صحيح! إذا كنت ستخرج من المنطقة .... جميع هذه العبارات يمكن أن تكون خيارات "
+"جيدة ... لحماية منزلك من النار في الغابة المجاورة. إذا كان هناك تهديد فوري "
+"في الغابة الموجودة بالقرب من منزلك، فإن الإخلاء يكون الخيار الافضل."
+
+msgid ""
+"Not quite. If moving out of the area.... all of these statements are good "
+"choices... to protect your home from a potential wildfire. If there is an "
+"immediate wildfire threat coming near your home, evacuation would be the "
+"best choice."
+msgstr ""
+" ليس تماما. إذا كنت ستخرج من المنطقة .... جميع هذه العبارات يمكن أن تكون "
+"خيارات مناسبة ... لحماية منزلك من الحريق في الغابة المجاورة. إذا كان هناك "
+"تهديد فوري في الغابة الموجودة بالقرب من منزلك، فإن الإخلاء يكون الخيار "
+"الافضل."
+
+msgid ""
+"Not quite. If moving out the area that usually has wildfires is not an "
+"option, all of these statements are good choices to protect your home from a "
+"potential wildfire. You can probably think of more things to do to protect "
+"yourself and your home from a potential wildfire as well."
+msgstr ""
+"ليس تماما. إذا لم يكن الخروج من المنطفة التي عادة ما يكون بها حرائق خياراً، "
+"فإن كل هذه العبارات هي خيارات مناسبة لحماية منزلك من حرائق الغابات "
+"المحتملة.  إذا كان هناك تهديداً مباشراً من حريق غابة يقترب من منزلك، فإن "
+"الإخلاء يكون الخيار الافضل. "
+
+msgid ""
+"Correct. If moving out the area that usually has wildfires is not an option, "
+"all of these statements are good choices to protect your home from a "
+"potential wildfire. If there is an immediate wildfire threat coming near "
+"your home, evacuation would be the best choice."
+msgstr ""
+"صحيح! إذا لم يكن الخروج من المنطفة التي عادة ما يكون بها حرائق خياراً ، فإن "
+"كل هذه العبارات تمثل خيارات جيدة لحماية منزلك من حرائق الغابات المحتملة.  "
+"إذا كان هناك تهديداً مباشراً من حريق غابة يقترب من منزلك، فإن الإخلاء يكون "
+"الخيار الافضل. "
+
+msgid "Stocking food in basement..."
+msgstr "تخزين مواد غذائية في التسوية ..."
+
+# 10
+msgid "Using what you know... about natural hazards... to solve a problem"
+msgstr "استخدم ما تعرف ... عن الأخطار الطبيعية...لحل مشكلة."
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid ""
+"When you grow up, where would the perfect place be for you to live and have "
+"your dream house? What natural hazards do you think might be in that place?"
+msgstr ""
+"عندما كبرت، أين يمكن أن يكون المكان الأنسب كي تعيش ويكون لديك المنزل الذي "
+"كنت تحلم به؟ ما الأخطار الطبيعية التي تعتقد أن من الممكن أن تحدث في ذلك "
+"المكان؟"
+
+msgid "Your Task"
+msgstr "مهمتك"
+
+msgid ""
+"Now describe what features you would design into your a house to best "
+"protect yourself and your family from being harmed by those natural hazards."
+msgstr ""
+"صِف ما الميزات التي يجب أن تأخذها في تصميم منزلك كي تحمي نفسك وعائلتك من "
+"الأذى الناتج عن هذه الأخطار الطبيعية."
+
+msgid ""
+"You are a landscape architect working on a project to build a home for an "
+"important person in a private area without any other buildings. You are to "
+"investigate the geological conditions of three different areas to choose the "
+"best location for your client."
+msgstr ""
+"هب أنك مهندس مساحة تعمل في مشروع لبناء منزل لشخص مهم في منطقة خاصة بدون أي "
+"بنايات أخرى حولك.  وعليك أن تتحقق من الظروف الجيولوجية لثلاث مناطق مختلفة كي "
+"تختار أفضل موقع لزبونك."
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"What natural hazards do you think might be in that place (you can choose "
+"from the list of natural hazards mentioned in the previous sections)?"
+msgstr ""
+"ما الأخطار الطبيعية التي تعتقد أن عليك أن تفكر بها في ذلك المكان (بإمكانك "
+"الإختيار من قائمة الأخطار الطبيعية التي ذكرت في أقسام سابقة)؟"
+
+msgid ""
+"Make a report to take your client including three areas that would offer "
+"privacy along with the possible natural hazards of the area. Describe what "
+"features you would design into the house to best protect your client from "
+"being harmed by those natural hazards."
+msgstr ""
+"إعمل تقرير لزبونك متضمناً المواقع الثلاثة التي يمكن أن تحافظ على الخصوصية "
+"آخذاً بالإعتبار الأخطار الطبيعية للمنطقة.  صف السمات التي يمكن أن تأخذها "
+"بالإعتبار في تصميم المنزل كي توفر أفضل حماية لزبونك من أن يتأذى من هذه "
+"الأخطار الطبيعية."
+
+msgid "Click here to start typing your answer..."
+msgstr "إضغط هنا كي تبدأ بطباعة إجابتك..."
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك."
+
+msgid "Drawing blueprints..."
+msgstr "رسم مخططات البناء ..."
+
+# 11
+msgid "Summarizing core ideas... about natural hazards"
+msgstr "تلخيص الأفكار الرئيسية... عن الأخطار الطبيعية"
+
+msgid ""
+"Natural hazards are natural phenomena that can potentially cause harm to "
+"humans. If they are very, very big and cause lots of damages and hurt or "
+"kill lots of people, they are called <span class='key'>natural disasters</"
+"span>. Scientists study these natural hazards and are able to predict when "
+"and where most of them will occur with enough accuracy to give people a "
+"chance to protect their families and property. Scientists can tell how "
+"likely it is for natural hazards to occur in certain places at certain "
+"times. For instance scientists – like <span class='key'>climatologists</"
+"span> – know that hurricanes are generally most likely to occur during the "
+"summer months in the Gulf of Mexico and along the Atlantic coast of the "
+"United States. So if you live in those areas you would need to be aware that "
+"a hurricane is a possibility in the summer and you should live in a house "
+"built to be able to withstand a hurricane. Then, another type of scientist – "
+"a <span class='key'>meteorologist</span> or weatherman – might predict a "
+"week or so ahead of time that a big hurricane is expected to hit a certain "
+"area – like Nags Head North Carolina – on August 21st. Then people in Nags "
+"Head would know to board up their house and evacuate the area before the "
+"hurricane hit."
+msgstr ""
+"الأخطار الطبيعية هي ظواهر طبيعية يمكن أن تتسبب بأ ضرار للإنسان. إذا كانت "
+"كبيره جدا جدا وتسببت بالكثير من الأضرار والأذى أو قتل الكثير من الناس ، يطلق "
+"عليها <span class='key'>كوارث طبيعية</span>.  قام العلماء بدراسة هذه المخاطر "
+"الطبيعية وأصبحوا  قادرين على التنبؤ بمتى وأين ستحدث غالباً بشكلٍ دقيق نسبياً "
+"بما يكفي لإعطاء الناس فرصة لحماية أسرهم وممتلكاتهم . ويمكن للعلماء معرفة "
+"المكان المرجح  لأن تحدث به الأخطار الطبيعية و الأوقات المحددة لحدوثها. فعلى "
+"سبيل المثال ، العلماء مثل <span class='key'>علماء الطقس</span> يعرفون أن "
+"الأعاصير عادة ما تكون الأكثر احتمالا لأن تحدث خلال أشهر الصيف في خليج "
+"المكسيك و على طول ساحل المحيط الأطلسي للولايات المتحدة. لذلك إذا كنت تعيش في "
+"تلك المناطق وكنت بحاجة إلى أن تعرف أن هناك احتمال لحدوث أعاصير في الصيف ، "
+"يجب أن تبني منزلك بحيث يكون قادراُ على الصمود في وجه الأعاصير.  وهناك نوع آخر "
+"من العلماء  وهم  <span class='key'>الراصدون الجويون</span> أو رجال الطقس – "
+"يمكن أن يتنبأوا بمدة أسبوع أو نحو ذلك قبل الموعد المحدد لحدوث الإعصار الكبير "
+"والذي من المتوقع أن يضرب منطقة معينة كما حدث في ناجز هيد نورث كارولينا - يوم "
+"21 أغسطس .  وبناءً عليه يمكن للناس في ناجز هيد سحب منازلهم و إخلاء المنطقة "
+"قبل أن يضرب الإعصار ."
+
+msgid "Putting it all together..."
+msgstr "ضعها مع بعضها ..."
+
+# 12
+msgid "Reviewing key vocabulary related to... natural hazards"
+msgstr "مراجعة المفردات المرتبطة ب ... الأخطار الطبيعية"
+
+msgid "Natural hazard"
+msgstr "الخطر الطبيعي"
+
+msgid ""
+"Natural hazards are dangers that come from nature; threatening life, health, "
+"property, and the environment. There are many different kinds of natural "
+"hazards. Some natural hazards are related to the weather, like lightning, "
+"hurricanes, and tornadoes.  Some are related to just geology; like "
+"earthquakes and volcanoes. Many natural hazards and disasters are the result "
+"of combinations of weather and landscapes in certain areas."
+msgstr ""
+"الأخطار الطبيعية هي أخطار تأتي من الطبيعة؛ تهدد الحياة والصحة والملكيات "
+"والبيئة.  هناك الكثير من أنواع الأخطار الطبيعية.  بعض الأخطار الطبيعية "
+"مرتبطة بالجو مثل البرق والزوابع والأعاصير.  وبعضها مرتبط بالجيولوجيا؛ مثل "
+"الهزات الأرضية والبراكين.  والعديد من الكوارث والأخطار الطبيعية تنتج عن مزيج "
+"من العوامل الجوية وطبيعة الأرض في بعض المناطق."
+
+msgid "Close me!"
+msgstr "أغلقني"
+
+msgid "Landscape"
+msgstr "طبيعة الأرض"
+
+msgid "A landscape is the shape and features of the land."
+msgstr " طبيعة الأرض هو شكل وخصائص الأرض."
+
+msgid "Geologist"
+msgstr "جيولوجي"
+
+msgid ""
+"Geologists are scientists that study the science of the solid parts of the "
+"earth made out of rocks and soil but also study the water in rivers and "
+"lakes too. Climatologists and meteorologists are scientists that study the "
+"atmosphere to understand climate and weather."
+msgstr ""
+"الجيولوجيون هم علماء يدرسون علم الأجزاء الصلبة من الأرض المكون من الصخور "
+"والتربة ويدرسون أيضاً الماء في الأنهار والبحيرات.  علماء الطقس والراصدون "
+"الجويون هم علماء يدرسون المحيط الجوي لفهم الطقس والمناخ."
+
+msgid "Meteorologist"
+msgstr "راصد جوي"
+
+msgid ""
+"Climatologists and meteorologists are scientists that study the atmosphere "
+"to understand climate and weather."
+msgstr ""
+"الراصدون الجويون وعلماء الطقس هم علماء يدرسون المحيط الجوي لفهم الطقس "
+"والمناخ."
+
+msgid "Climatologist"
+msgstr "عالم الطقس"
+
+msgid "Forecasting"
+msgstr "التنبؤ الجوي"
+
+msgid ""
+"Forecasting is, in meteorology, predicting the weather using scientific "
+"instruments."
+msgstr "التنبؤ الجوي هو التنبؤ بحالة الجو بإستخدام الأدوات العلمية."
+
+msgid ""
+"A volcano is a place on the surface of Earth where hot, liquid rock comes up "
+"from deep inside Earth. Some volcanoes have hot, liquid rock flowing out of "
+"them all the time. Other volcanoes are quiet for many years, but they are "
+"still volcanoes. Not all volcanoes look the same. Some volcanoes look like "
+"mountains. Others are flat or look like shallow holes."
+msgstr ""
+"البركان هو مكان على سطح الأرض يخرج منه الصخور السائلة والحارة من عمق الأرض.  "
+"بعض البراكين فيها صخور سائلة ساخنة تتطاير منها في جميع الأوقات.  براكين أخرى "
+"هادئة لعدة سنوات، لكنها ما زالت براكين.  لا تتشابة جميع البراكين.  فبعض "
+"البراكين تشبه الجبال.  وأخرى مسطحة أو تظهر مثل الحفر الضحلة."
+
+msgid ""
+"A drought is a lack of rainfall that lasts a long time. A drought is really "
+"bad for farmers. People must use less water when there is a drought. They "
+"are supposed to use it only for drinking, cooking, and cleaning. They are "
+"not supposed to water their lawns or wash their cars during a drought. Some "
+"places, such as deserts, are always in a drought because they never get much "
+"rain."
+msgstr ""
+"الجفاف هو عدم تساقط المياه لفترة طويلة.  الجفاف هو في الواقع سيء للمزارعين.  "
+"ويجب على الناس أن يستخدموا ماء أقل عندما يكون هناك جفاف.  وفي حال حدوث جفاف "
+"فمن المفترض أن تستخدم المياه للشرب والطبخ والتنظيف.  وليس من المفترض أن "
+"يسقوا حدائقهم أو يغسلوا سياراتهم خلال فترة الجفاف.  بعض المناطق، مثل "
+"الصحاري، تكون دائماً جافة لأنها لم تحصل على كمية المياه اللازمة طوال الحياة."
+
+msgid "Evacuate"
+msgstr "الإخلاء"
+
+msgid "Natural disaster"
+msgstr "كارثة طبيعية"
+
+msgid ""
+"In the case of a natural disaster, you may be warned to evacuate your home – "
+"which means to leave it - because of any of the natural hazards: pay "
+"attention and act quickly."
+msgstr ""
+"في حال الكارثة الطبيعية، يمكن أن يتم تحذيرك كي تُخلي بيتك وهذا يعني أن تغادره "
+"- بسبب أي من أخطار الطبيعة: إنتبه وتفاعل بسرعة."
+
+msgid ""
+"Natural disasters are drastic weather phenomena that can potentially cause "
+"lots of damages and hurt or kill lots of people. Examples of natural "
+"disasters are hurricanes, tornadoes, avalanches, earthquakes, volcanoes, and "
+"tsunamis."
+msgstr ""
+"الكوارث الطبيعية هي ظواهر جوية مدمرة يمكن أن تتسبب بالكثير من الأضرار وإيذاء "
+"أو قتل الناس.  أمثلة على الكوارث الطبيعية مثل الزوابع والأعاصير والإنهيارات "
+"الثلجية والهزات الأرضية والبراكين وموجات التسونامي."
+
+msgid "Hurricane"
+msgstr "الإعصار"
+
+msgid ""
+"A hurricane is a very large storm with constant winds of more than 74 miles "
+"per hour. Hurricanes usually also come with heavy rain. A hurricane spins as "
+"it moves. The center of a hurricane is called its eye. Some hurricanes can "
+"easily pull trees out of the ground and tear roofs off houses."
+msgstr ""
+"الإعصار هو عاصفة كبيرة جداً برياح ثابتة تصل لأكثر من 74 ميل بالساعة.  "
+"الأعاصير عادةً ما تترافق مع أمطار غزيرة.  والزوبعة تَلتف وهي تتحرك.  ويسمى "
+"مركز الزوبعة عينه.  بعض الزوابع تستطيع أن تقتلع الأشجار بسهولة من الأرض "
+"وتُمزق سقوف البيوت."
+
+msgid ""
+"A tornado is a very dangerous funnel of air from the ground to the sky. "
+"Tornadoes  are capable of causing much destruction and death."
+msgstr ""
+"الزوبعة هي محقان من الهواء خطير جداً يتشكل من الأرض إلى السماء.  والزوابع "
+"قادرة عل التسبب في الكثير من الدمار والموت."
+
+msgid ""
+"An earthquake is a natural disaster in which a sudden movement within the "
+"Earth’s crust generates seismic waves. The seismic waves of earthquakes are "
+"capable of causing devastation to land and to life."
+msgstr ""
+"الهزة الأرضية هي كارثة طبيعية تحدث فيها حركة مفاجئة في القشرة الأرضية ويتولد "
+"عن ذلك أمواج زلزالية .  هذه الأمواج  الزلزالية  قادرة على إحداث خراب للأرض "
+"وللحياة."
+
+msgid ""
+"A tsunami is a huge wave. When an earthquake occurs or volcano erupts under "
+"water, it can trigger a tsunami. These massive waves travel very fast. When "
+"they hit land, they slow down but increase in height. The waves hit and "
+"flood everything, destroying homes and other buildings."
+msgstr ""
+"تسونامي هو موجة ضخمة.  عندما تحدث هزة أرضية أو ينفجر بركان تحت الماء يمكن أن "
+"ينتج عن ذلك موجة تسونامي.  هذه الأمواج الضخمة تسير بسرعة عالية جداً، وعندما "
+"تصطدم بالأرض، تتباطأ وتزيد في الإرتفاع.  تضرب الأمواج وتُفَيِّض كل شيء مدمرةً "
+"المنازل والبنايات الأخرى."
+
+msgid ""
+"An avalanche is a mass movement of snow, in which it quickly travels down a "
+"hill or mountain. Avalanches can be extremely dangerous, as their force and "
+"sheer size can be capable of burying everything in its path."
+msgstr ""
+"الإنهيار الثلجي هو حركة ثلوج كبيرة جداً يسير فيها الإنهيار بسرعة كبيرة إلى "
+"أسفل التلة أو الجبل.  الإنهيارات الثلجية يمكن أن تكون خطيرة بدرجة كبيرة جداً، "
+"فقوتها وحجمها الضخم قادرٌ على دفن كل شيء في طريقه. "
+
+msgid "Lightning"
+msgstr "البرق"
+
+msgid ""
+"A build up of static electricity in a cloud that is suddenly discharged. "
+"This discharge can be from the cloud to itself, to another cloud, or to the "
+"ground. Lightning is always accompanied by the sound of thunder, always "
+"observed after the flash due to sound traveling more slowly than light."
+msgstr ""
+"هو عبارة عن تجميع من الكهرباء الساكنة الموجودة في الغيوم يتم تفريغها بشكلٍ "
+"مفاجئ.  هذا التفريغ يمكن أن يكون بنفس الغيمة، أو يغيمة أخرى، أو بالأرض.  "
+"ويترافق البرق دائماً مع صوت الرعد والذي يظهر دائماً بعد الضوء لأن الصوت ينتقل "
+"بشكلٍ أبطأ من الضوء."
+
+msgid ""
+"A fire burning vegetation in some sort of wilderness area. It is usually "
+"characterized by the fire being very large and spreading very quickly. "
+"Wildfires are unusual in their ability to jump across barriers such as "
+"roads, rivers, and fire breaks."
+msgstr ""
+"هي نار تحرق النباتات في بعض المناطق البرية.  وهي عادة ما تتميز بأن نارها "
+"كبيرة جداً وتنتشر بسرعة فائقة.  حرائق الغابات غير عادية في قدرتها على القفز "
+"عن الحواجز مثل الطرق، والأنهار، والحواجز المانعة للحريق."
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+# 13
+msgid "Checking what you now know... about natural hazards"
+msgstr "التأكد مما تعرف الآن ... عن الأخطار الطبيعية"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"إجابة الأسئلة القصيرة وعددها 6 سيعطيك فكرة عما تعرف الآن وما تحتاج لأن تدرس."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر لاحق عندما تكون مستعداً."
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+# 14
+msgid "Quiz Question"
+msgstr "سؤال قصير"
+
+msgid ""
+"Look at the map below. Use the key to determine which area in the United "
+"States has the least risk of having a tornado."
+msgstr ""
+"أنظر إلى الخارطة في الأسفل.  مستخدماً المفتاح حدد أي منطقة في الولايات "
+"المتحدة بها الخطر أقل لحدوث زوبعة."
+
+msgid ""
+"Rotate or flip the box on the left either up or down to set your answer."
+msgstr "دَوِر أو إقلب الصندوق الموجود في اليسار للأعلى أو للأسفل لتضع إجابتك."
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "انقر، وثبت الفأرة وحركها للأعلى أو للأسفل."
+
+msgid "A. The Northeast - New England"
+msgstr "أ. الشمال الشرقي - نيوإنقلاند"
+
+msgid "B. The Great Lakes Region"
+msgstr "ب. منطقة البحيرات العظمى"
+
+msgid "C. Florida and Texas"
+msgstr "ج. فلوريدا وتكساس"
+
+msgid "D. California and Western US"
+msgstr "د. كاليفورنيا وغرب الولايات المتحدة"
+
+msgid ""
+"Hover your mouse on each US State abbreviation to highlight their location."
+msgstr "حرك الفأرة على كل رمز لولاية أمريكية لتؤشر على موقعها"
+
+msgid "WIND ZONES"
+msgstr "مناطق رياح"
+
+msgid "ZONE I"
+msgstr "منطقة 1"
+
+msgid "(130mph)"
+msgstr "130 ميل بالساعة"
+
+msgid "ZONE II"
+msgstr "منطقة 2"
+
+msgid "(160mph)"
+msgstr "160 ميل بالساعة"
+
+msgid "ZONE III"
+msgstr "منطقة 3"
+
+msgid "(200mph)"
+msgstr "200 ميل بالساعة"
+
+msgid "ZONE IV"
+msgstr "منطقة 4"
+
+msgid "(250mph)"
+msgstr "250 ميل بالساعة"
+
+msgid "Answer"
+msgstr "الإجابة"
+
+msgid ""
+"Correct, the western states of the US are in Zone I which have the least "
+"tornado risk."
+msgstr ""
+"صحيح، الولايات الغربية من الولايات المتحدة هي المنطقة 1 التي تمثل المنطقة "
+"الأقل حدوثاً للزوابع."
+
+msgid ""
+"No, the Northeastern states are in Zone II which have a higher risk than "
+"Zone I."
+msgstr ""
+"لا، الولايات الشمالية الشرقية هي في المنطقة 2 التي تمثل المنطقة الأكثر خطورة "
+"من المنطقة 1."
+
+msgid "Not quite, that region is mostly orange- in Zone III."
+msgstr "ليس صحيحاً، هذه المنطقة هي غالباً برتقالية -في المنطقة 3."
+
+msgid ""
+"No, Florida and Texas are in zone III, they have a high risk of having a "
+"tornado."
+msgstr "لا، فلوريدا وتكساس هما في المنطقة 3، هما الأكثر عرضه لحدوث عاصفة."
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو ..."
+
+# 15
+msgid ""
+"Most states in the United States are at risk for some kind of natural "
+"hazard. The best strategy to protect your family and property from damages "
+"is to:"
+msgstr ""
+"معظم الولايات في الولايات المتحدة الأمريكية تعاني من خطر حدوث نوع من الأخطار "
+"الطبيعية.  وأفضل استراتيجية لحماية عائلتك وممتلكاتك من الدمار هي: "
+
+msgid "A. Understand the hazard and know what to do to minimize the risk."
+msgstr "أ. فهم الخطر ومعرفة ما العمل لتقليل الخسارة.."
+
+msgid "B. Hope that nothing happens during your lifetime."
+msgstr "ب. إبقاء الأمل بأن لا يحدث أي شيء خلال حياتك."
+
+msgid ""
+"C. Go on the internet and find out any news about upcoming natural hazards."
+msgstr ""
+"ج. البحث في الإنترنت للحصول على أي أخبار حول الأخطار الطبيعية المتوقعة."
+
+msgid "D. Ignore it because whatever will happen will happen."
+msgstr "د. تجاهلها بسبب أن ما سيحدث سيحدث على أية حال."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر، وثبت الفأرة وحركها للأعلى وللأسفل كي تُدَوِّر الصندوق وتختار إجابتك."
+
+msgid ""
+"Correct. Understanding potential dangers and being prepared for them is the "
+"best option."
+msgstr "صحيح.  فهم المخاطر المحتملة والتحضير المسبق هو الخيار الأفضل."
+
+msgid ""
+"No, hoping for the best is not enough; you also need to plan for the worst."
+msgstr ""
+"لا،العيش على الأمل بأن ما سيحدث هو الأفضل ليس كافياً، وإنما هناك حاجة ماسة "
+"لوضغ خطة لإحتمال الأسوأ . "
+
+msgid ""
+"Ignoring the natural hazard is simply being in denial- it is the worst "
+"option of the four."
+msgstr ""
+"تجاهل الخطر الطبيعي هو ببساطة نوع من الإنكار - وهو أسوأ خيار من بين الأربعة "
+"خيارات."
+
+msgid "Flood-proofing the house..."
+msgstr "المنارل المضادة للفيضانات ..."
+
+# 16
+msgid ""
+"Drag the boxes at the left up or down to match its description at the right."
+msgstr "اسحب المربعات الموجودة لليسار أو لليمين لمقارنة وصفها في اليسار."
+
+msgid "A storm that forms at sea and strikes land."
+msgstr "عاصفة تتشكل في البحر وتضرب الأرض."
+
+msgid "Massive harbor waves that cause damage when they crash into land."
+msgstr "أمواج موانئ مدمرة تسبب تدمير الأرض عندما تصطدم فيها."
+
+msgid "A funnel of air from the ground to the sky."
+msgstr "محقان من الهواء يتشكل من الأرض وحتى السماء."
+
+msgid "What happens when there is no rain for a long time."
+msgstr "ماذا يحدث عندما لا يوجد شتاء لفترة طويلة."
+
+msgid ""
+"Great job! A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. "
+"These are all natural hazards that have many effects on the environment and "
+"people."
+msgstr ""
+"عمل رائع! التسونامي هو عندما تتسبب أمواج الموانئ الضخمة بتدمير الأرض عندما "
+"تصطدم بها.  والزوبعة هي محقان من الهواء من الأرض حتى السماء.  وهذه جميعها "
+"أخطار طبيعية لها الكثير من التأثيرات على البيئة وعلى الناس."
+
+msgid ""
+"Not quite. A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. A "
+"hurricane is a storm that forms at sea and strikes land. A drought is a lack "
+"of rainfall that lasts a long time."
+msgstr ""
+"ليس صحيحاً.  التسونامي هو عندما أمواج الموانئ الضخمة تتسبب بأضرار كبيرة عندما "
+"تصطدم في الأرض.  والزوبعة هي محقان من الهواء من الأرض وحتى السماء.  والإعصار "
+"هو عاصفة تتشكل في البحر وتضرب الأرض."
+
+msgid "Evacuating people..."
+msgstr "إخلاء الناس ..."
+
+# 17
+msgid ""
+"The map below shows a possible scenario of an earthquake in a certain area. "
+"Which of the statements below <span class='blink red'>ARE NOT</span> correct?"
+msgstr ""
+"الخارطة الموجودة في الأسفل هي سيناريو لهزة أرضية في منطقة معينة.  أي من "
+"العبارات الموجودة في الأسفل <span class='blink red'>ليست</span> صحيحة؟"
+
+msgid ""
+"A. The map shows us which areas are most likely going to feel the earthquake "
+"the most."
+msgstr "أ. تُظهر الخارطة لنا أي المناطق على الأرجح أن تحدث بها هزة أرضية."
+
+msgid "B. The red area will probably have the most damage from the earthquake."
+msgstr "ب. المنطقة الحمراء يمكن أن تكون هي الأكثر تدميراً من الهزة الأرضية."
+
+msgid "C. The yellow area will probably feel the earthquake the least."
+msgstr ""
+"ج. المنطقة الصفراء من الممكن أن تكون الأقل إحتمالاً لحدوث الهزة الأرضية."
+
+msgid ""
+"D. This information can help people in the area prepare for the earthquake."
+msgstr ""
+"د. هذه المعلومات يمكن أن تساعد الناس الموجودين في المنطقة للتحضير للهزة "
+"الأرضية."
+
+msgid "Image produced by the U.S. Geological Survey"
+msgstr "أنتجت الصورة بواسطة المسح الجغرافي الأمريكي."
+
+msgid ""
+"Correct. This is false because the amount of shaking is \"strong\" for the "
+"yellow region."
+msgstr "صحيح.  هذا خطأ لأن حجم التأرجح هو &#34;قوي &#34; للمنطقة الصفراء."
+
+msgid ""
+"No, this statement is correct. The map shows us which areas are most likely "
+"going to feel the earthquake the most as well as the possible amount of "
+"damage each area will have."
+msgstr ""
+"لا، هذه الجملة صحيحة.  تعرض الخارطة لنا المناطق الأكثر عرضة للتأثر بالهزة "
+"الأرضية وتعطينا أيضاً تقدير لحجم الدمار في كل منطقة."
+
+msgid ""
+"No, this statement is correct. From the chart we see that the potential "
+"damage of the red region is &#34;very heavy&#34; which is the most probable "
+"damage."
+msgstr ""
+"لا،هذه العبارة صحيحة.  من الرسمة يمكن أن نرى أن حجم الدمار المتوقع في "
+"المنطقة الحمراء &#34; شديد جداً&#34;  أي واحد يمثل الدمار المتوقع."
+
+msgid ""
+"No, this statement is correct. People can identify the area they live or "
+"work in and prepare for potential damages."
+msgstr ""
+"لا، هذه الجملة صحيحة.  يمكن للناس أن يحددوا المنطقة التي يعيشون أو يعملون "
+"فيها والتحضير للدمار الذي يمكن أن يحدث."
+
+msgid "Looking for emergency exits..."
+msgstr "البحث عن مخارج طوارئ..."
+
+# 18
+msgid ""
+"Match each picture to its natural disaster by flipping or rotating the box "
+"to show the correct image that matches the label. Then, click on \"weather\" "
+"or \"geology\" under each illustration to show if each natural hazard is "
+"weather related or geology related."
+msgstr ""
+"طابق بين كل صورة مع كارثتها الطبيعية بواسطة قلب أو تدوير الصندوق لإظهار "
+"الصورة الصحيحة التي تتطابق مع الملصق.  انقر على طقس أو جيولوجياتحت كل توضيح "
+"لإظهار فيما إذا كانت خطر طبيعي مرتبط بالطقس أو مرتبط بالجيولوجيا."
+
+msgid "Select"
+msgstr "إختار"
+
+msgid "Geological"
+msgstr "جيولوجي"
+
+msgid ""
+"Correct! A tsunami is when massive harbor waves cause damage when they crash "
+"into land. A tornado is a funnel of air from the ground to the sky. These "
+"are all natural hazards that have many effects on the environment and "
+"people. A hurricane is a storm that forms at sea and strikes land. A drought "
+"is what happens when there is no rain for a long time, you can see the "
+"crackles in the land."
+msgstr ""
+"صحيح! تسونامي هو عندما تتسبب موجات بحرية ضخمة بدمار كبير بالأرض التي تصطدم "
+"بها.  والزوبعة هو محقان من الهواء يتشكل من الأرض إلى السماء.  هذه جميعها "
+"أخطار طبيعية لها العديد من الآثار على البيئة وعلى الناس.  والإعصار هو عاصفة "
+"تتشكل في البحر وتضرب الأرض.  الجفاف هو ما يحدث عندما لا يكون هناك مطر لفترة "
+"طويلة، يمكنك أن ترى التشققات في الأرض. "
+
+msgid ""
+"Not quite. A tsunami is when massive harbor waves cause damage when they "
+"crash into land. A tornado is a funnel of air from the ground to the sky. "
+"These are all natural hazards that have many effects on the environment and "
+"people. A hurricane is a storm that forms at sea and strikes land. A drought "
+"is what happens when there is no rain for a long time, you can see the "
+"crackles in the land."
+msgstr ""
+"ليس تماماً! تسونامي هو عندما تسبب موجات بحرية ضخمة دمار بعد أن تصطدم بالأرض. "
+"الزوبعة هي محقان من الهواء يتشكل من الأرض إلى السماء. هذه هي جميعها أخطار "
+"طبيعية لها العديد من الآثار على البيئة وعلى الناس. والإعصار هو عاصفة تتشكل "
+"في البحر وتضرب الأرض. والجفاف هو ما يحدث عندما لا يكون هناك مطر لفترة طويلة، "
+"يمكنك أن ترى التشققات في الأرض. "
+
+msgid "Weather or geology?"
+msgstr "طقس أم جيولوجيا؟"
+
+# 19
+msgid ""
+"Due to the number of volcanic eruptions and earthquakes, the Pacific &#34;"
+"Ring of Fire&#34; is the most common place for tsunamis to happen. Which "
+"true statement can we infer from this information?"
+msgstr ""
+"كنتيجة لعدد ثورات البركان والهزات الأرضية، &#34; حلقة النار في المحيط "
+"الهادئ&#34;  هي المكان الأكثر عرضه لحدوث التسونامي.  أي عبارة صحيحة يمكن أن "
+"تستنتج منها هذه المعلومات؟"
+
+msgid ""
+"Some natural hazards are more likely to occur than others in a given region."
+msgstr "بعض الأخطار الطبيعية هي الأكثر ملائمةً من غيرها في منطقة معينة."
+
+msgid "Some kinds of natural hazards only happen in a certain region."
+msgstr "بعض أنواع الأخطار الطبيعية يحدث في منطقة معينة فقط."
+
+msgid ""
+"Humans cannot eliminate the hazards but can take steps to reduce their "
+"impacts."
+msgstr ""
+"لا يمكن لبني البشر تجاهل المخاطر ولكن يمكنهم أخذ خطوات لتخفيف تأثيراتها."
+
+msgid ""
+"Humans can eliminate the hazards and take steps to reduce their impacts."
+msgstr "يمكن للبشر تجاهل المخاطر وأخذ خطوات لتخفيف تأثيراتها."
+
+msgid ""
+"Correct. Tsunamis are triggered by underwater volcanoes and earthquakes. The "
+"\"Ring of Fire\" shows the region that this happens often and will most "
+"likely cause a tsunami."
+msgstr ""
+"صحيح. التسونامي يتسبب بشكلٍ مباشر عن البراكين والهزات الأرضية.  حلقة النار "
+"تُظهر المنطقة التي يحدث هذا فيها عادةً وسوف تكون إمكانية حدوث التسونامي فيها "
+"عالية."
+
+msgid ""
+"No, this is not true; underwater volcanoes and earthquakes and therefore "
+"tsunamis could happen anywhere- not just in the Ring of Fire."
+msgstr ""
+"لا، هذا ليس صحيحاً؛ البراكين والهزات الأرضية تحت الماء يمكن أن تحدث في أي "
+"مكان-ليس فقط في حلقة النار."
+
+msgid ""
+"Not quite, it is correct – but we cannot infer this from this information."
+msgstr "ليس تماماً، هذا صحيح ولكن لا نستطيع أن نستخلص من هذه المعلومات."
+
+msgid ""
+"No, this is not true. People cannot eliminate natural hazards, at best we "
+"can predict them."
+msgstr ""
+"لا، هذا ليس صحيحاً.  لا يستطيع تجاهل المخاطر الطبيعية، وفي أفضل الحالات "
+"يستطيع التنبؤ بها."
+
+msgid ""
+"A. Some natural hazards are more likely to occur than others in a given "
+"region."
+msgstr "أ. بعض الأخطار الطبيعية تحدث أكثر في منطقة معينة. "
+
+msgid "B. Some kinds of severe weather only happen in a certain region."
+msgstr "ب. بعض الأحوال الجوية الخطيرة تحدث فقط في منطقة معينة. "
+
+msgid ""
+"C. Humans cannot eliminate the hazards but can take steps to reduce their "
+"impacts."
+msgstr "ج. لا يستطيع الناس تجاهل المخاطر ولكن يستطيعون التقليل من تأثيراتها."
+
+msgid ""
+"D. Humans can eliminate the hazards and take steps to reduce their impacts."
+msgstr "د. بني البشر يستطيعون تجاهل وأخذ الخطوات لتخفيف تأثيراتها."
+
+msgid "The ring of fire"
+msgstr "حلقة النار"
+
+# 20
+msgid "End of Review"
+msgstr "نهاية المراجعة"
+
+msgid "Congratulations"
+msgstr "مبروك"
+
+msgid "You've completed this Natural Hazards review."
+msgstr "لقد أنهيت هذه المراجعة وهي الأخطار الطبيعية."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك التأكد من كيف عملت بالتقويم السريع وفي الأسئلة السريعة لهذه المراجعة "
+"بالنقر على الزر في الأسفل."
+
+msgid "How Did I Do?"
+msgstr "كيف عملت؟"
+
+msgid "You're done!"
+msgstr "لقد أنهيت!"
+
+# quick check, quiz question
+msgid "Quick Check #1 - How did I do?"
+msgstr "التقويم السريع رقم 1 - كيف عملت؟"
+
+msgid "Quick Check #2 - How did I do?"
+msgstr "تقويم سريع رقم2 - كيف عملت؟"
+
+msgid "Quick Check #3 - How did I do?"
+msgstr "تقويم سريع رقم 3 - كيف عملت؟"
+
+msgid "Quick Check #1"
+msgstr "تقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "تقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "تقويم سريع رقم 3"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Quiz Question #1 - How did I do?"
+msgstr "سؤال سريع رقم 1- كيق عملت؟"
+
+msgid "Quiz Question #2 - How did I do?"
+msgstr "سؤال سريع رقم 2- كيف عملت؟"
+
+msgid "Quiz Question #3 - How did I do?"
+msgstr "سؤال سريع رقم 3 - كيف عملت؟"
+
+msgid "Quiz Question #4 - How did I do?"
+msgstr "سؤال سريع رقم 4- كيف عملت؟"
+
+msgid "Quiz Question #5 - How did I do?"
+msgstr "سؤال سريع رقم 5- كيف عملت؟"
+
+msgid "Quiz Question #6 - How did I do?"
+msgstr "سؤال سريع رقم 6- كيف عملت؟"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"

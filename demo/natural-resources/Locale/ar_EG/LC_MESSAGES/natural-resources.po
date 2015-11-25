@@ -1,0 +1,1198 @@
+msgid ""
+msgstr ""
+"aaaaaProject-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"Project-Id-Version: natural resources\n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer here..."
+msgstr "يرجى كتابة إجابتك هنا ..."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "إختبار قصير رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إختبار قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "إختبار قصير رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، "
+"وإمسك، واسحب الفأرة إلى الأعلى أو للإسفل."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر فوق، وعقد وحرك الماوس صعودا وهبوطا لتدوير مربع وحدد إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "في العمل"
+
+msgid "The Problem"
+msgstr "مشكلة"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال سريع رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال سريع رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال سريع رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال سريع رقم 6"
+
+msgid "Congratulations"
+msgstr "مبروك، "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيفية إجابتك للإختبار السريع وبالأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "تحضير اختبارك القصير الأول..."
+
+msgid "Ready for your last quick check?"
+msgstr "استعداد للمشاركة الشيك سريعة؟"
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول الخاص بك هو الاختبار ..."
+
+msgid "Ready for your last quiz question?"
+msgstr "استعداد للمسابقة مشاركة سؤالك؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Welcome to the Natural Resources review"
+msgstr "مرحبا بكم في مراجعة حول مصادر الطبيعية."
+
+msgid "Let's begin"
+msgstr "هيا نبدأ !"
+
+# 2
+msgid "Natural Resources"
+msgstr "مصادر طبيعية"
+
+msgid "Thinking about... natural resources"
+msgstr "التفكير بالمصادر الطبيعية"
+
+msgid ""
+"Have you ever thought about everything that it takes to meet your needs and "
+"make your life comfortable? And where it all comes from? What does it take "
+"to make the heat and air conditioning work? Energy! Where does that energy "
+"come from? How about when you get thirsty or hungry? Water and food - where "
+"do they come from? Nature – that's where. All of the things we take for "
+"granted to help us survive and make our lives enjoyable are either materials "
+"or energy found in nature. We call these materials and energy natural "
+"resources. Just think about what your everyday life would be like if natural "
+"resources didn't exist."
+msgstr ""
+"هل سبق لك أن فكرت في كل شيء لتلبية احتياجاتك الخاصة وجعل حياتك مريحة؟ ومن "
+"اين يأتي كل ذلك؟ ماذا  يتطلب الأمر لجعل الحرارة وتكييف الهواء يعملان؟ "
+"الطاقة! من أين تأتي تلك الطاقة ؟ ماذا يحل عند العطش والجوع؟ الماء والغذاء - "
+"من أين يأتيان؟ الطبيعة -من هنا تأتي.. كل الأشياء التي نتخذها كأمر مفروغ منه "
+"لمساعدتنا على البقاء على قيد الحياة وتجعل حياتنا ممتعة اما المواد أو الطاقة "
+"الموجودة في الطبيعة. ونحن نطلق على هذه المواد والطاقات المصادر الطبيعية.  "
+"فكر في حياتك اليومية  كيف ستكون  إذا لم تكن هذه الموارد الطبيعية موجودة."
+
+# 3
+msgid "Checking what you know... about natural resources"
+msgstr "تأكد مما تعرف... عن الموارد الطبيعية"
+
+msgid ""
+"Which of the following natural resources does it take to make a hamburger? "
+"Click <span class='blink'>all</span> items that represents your answer."
+msgstr ""
+"أي من الموارد الطبيعية التالية نحتاجها لصنع الهمبرغر؟ انقر فوق <span "
+"class='blink'>جميع</span>  العناصر التي تمثل إجابتك."
+
+msgid "Sunlight"
+msgstr "أشعة الشمس"
+
+msgid "Water"
+msgstr "مياه"
+
+msgid "Grass"
+msgstr "عشب"
+
+msgid "Electricity"
+msgstr "كهرباء"
+
+msgid "Soil"
+msgstr "التربة"
+
+msgid "Air"
+msgstr "هواء"
+
+msgid ""
+"Did you select all of them? All of them are true except electricity. We do "
+"use electricity to make our burgers but electricity is not a natural "
+"resource. Electricity is a form of energy that is generated from many kinds "
+"of natural resources such as coal, wind, solar, nuclear fuel, or oil, but "
+"it's not a natural resource by itself."
+msgstr ""
+"هل حددتها جميعا؟ جميعها صحيحة فيما عدا الكهرباء.   نحن لا نستخدم الكهرباء "
+"لصنع البرغر ولكن الكهرباء ليست مورداً طبيعياً.  الكهرباء هي شكل من أشكال "
+"الطاقة التي يتم توليدها من أنواع كثيرة من الموارد الطبيعية مثل الفحم والرياح "
+"والطاقة الشمسية والوقود النووي، أو النفط، ولكنها ليست موردا طبيعيا بحد ذاتها."
+
+msgid ""
+"What does grass have to do with your hamburger? Well the cow had to eat "
+"something to grow and become delicious beef. What about soil, water and air? "
+"Read on to see what natural resources are and what your role is in "
+"conserving them."
+msgstr ""
+"ما هي علاقة  العشب بالهمبرغر الخاصة بك؟ البقرة بحاجة لأن تأكل شيئا لتنمو "
+"وتصبح لحما لذيذا. ماذا عن التربة والماء والهواء؟ اقرأ لمعرفة ما هي الموارد "
+"الطبيعية وما هو دورك في الحفاظ عليها."
+
+msgid "Eating hamburger..."
+msgstr "تناول الهمبرغر"
+
+# 4
+msgid "Reviewing core ideas... about natural resources"
+msgstr "مراجعة الأفكار الأساسية ... حول المصادر الطبيعية"
+
+msgid ""
+"Natural resources are important to the survival of living things. Some are "
+"so important that living things die without them. Living things need air to "
+"breathe, water to drink, food to eat, and shelter for protection. These "
+"natural resources are essential for survival."
+msgstr ""
+"الموارد الطبيعية هامة لبقاء الكائنات الحية. بعضها في غاية الأهمية لأن "
+"الكائنات الحية تموت بدونها. الكائنات الحية تحتاج إلى الهواء للتنفس، والماء "
+"للشرب والمواد الغذائية لتناول الطعام، والمأوى للحماية. هذه الموارد الطبيعية "
+"ضرورية من أجل البقاء."
+
+msgid ""
+"Animals need food for their energy source. They are different based on what "
+"they eat. Herbivores mainly eat plants; carnivores mainly eat other animals, "
+"while omnivores eat both plants and animals."
+msgstr ""
+"الحيوانات بحاجة إلى الطعام للطاقة.  وهي مختلفة استنادا إلى ما تأكل.  تأكل "
+"الحيوانات العاشبة النباتات؛ و آكلة اللحوم أساسا تأكل الحيوانات الأخرى، في "
+"حين تأكل حيوانات آكلة اللحوم على حد سواء النباتات والحيوانات."
+
+msgid ""
+"Most living things directly obtain from nature what they need for survival. "
+"A deer eats grass in a field, drinks water from a stream, and sleeps under a "
+"tree."
+msgstr ""
+"معظم الكائنات الحية تحصل مباشرة على ما تحتاجه من الطبيعة للبقاء. الأيل يأكل "
+"العشب في الحقل، وتشرب الماء من النهر، وتنام تحت شجرة.."
+
+msgid ""
+"But humans go beyond simply taking resources from nature to satisfy their "
+"needs. They use resources to make all kinds of things that they don't need "
+"for survival. Humans also use natural resources to create things that make "
+"life easy, comfortable and happy – like cars, and cell phones, and fancy "
+"clothes, basketballs and all the other stuff for everything they do. And all "
+"of this stuff is made from natural resources provided by the earth."
+msgstr ""
+"ولكن البشر يتجاوزون أخذ الموارد من الطبيعة لتلبية احتياجاتهم. إنهم يستخدمون "
+"الموارد لفعل جميع الأشياء التي لا يحتاجون اليها للبقاء على قيد الحياة. البشر "
+"أيضا يستخدمون الموارد الطبيعية لصنع الأشياء التي تجعل الحياة سهلة ومريحة "
+"وسعيدة - مثل السيارات، والهواتف المحمولة، والملابس الفاخرة، كرات السلة وجميع "
+"الأشياء الأخرى لكل شيء يفعلونه.  وجميع هذه الأشياء مصنوعة من الموارد "
+"الطبيعية التي توفرها الأرض."
+
+msgid ""
+"<span class='key'>Natural resources</span> are anything found in nature that "
+"was not created by man."
+msgstr ""
+"<span class='key'>الموارد الطبيعية</span> هي أي شيء وجد في الطبيعة  ولم يتم "
+"اكتشافه من قبل الانسان."
+
+msgid "Enumerating natural resources..."
+msgstr "تعداد الموارد الطبيعية ..."
+
+# 5
+msgid "Question A. Natural resource is anything that humans..."
+msgstr "السؤال أ.  الموارد الطبيعية هي أي شيء يمكن للبشر أن ..."
+
+msgid "Invent or build"
+msgstr "يخترع أو يبني"
+
+msgid "Design or create"
+msgstr "يصمم أو ينشئ"
+
+msgid "Have not created"
+msgstr "لم يقم بانشائه"
+
+msgid "Use to meet their needs"
+msgstr "يستخدمه ليلبي احتياجاته"
+
+msgid ""
+"Question B. Trees are natural resources. Click on the <span "
+"class='blink'>correct</span> reason for this."
+msgstr ""
+"السؤال ب. الأشجار موارد طبيعية.  انقر على السبب <span class='blink'>الصحيح</"
+"span>  لذلك."
+
+msgid "Trees are a source for firewood."
+msgstr "الأشجار هي مصادر الحطب"
+
+msgid "Trees have the ability to regrow once they are cut down."
+msgstr "الأشجار لها القدرة على النمو مجددا بعد قطعها"
+
+msgid ""
+"Trees grow in nature and provide people with lumber, fuel, and other "
+"products."
+msgstr "الأشجار تنمو في الطبيعة وتوفر للناس الخشب والوقود ومنتجات أخرى"
+
+msgid "Trees provide shade necessary for certain animals."
+msgstr "الأشجار توفر الظل الضروري لأنواع  معينة من الحيوانات."
+
+msgid ""
+"No, a natural resource is anything from nature. These are things in the "
+"environment humans did not invent or build. They have built great things "
+"over time, but these things are not natural resources."
+msgstr ""
+"لا، المورد الطبيعي هو أي شيء من الطبيعة.  هذه هي أشياء في البيئة لم يخترعها "
+"أو يبنيها البشر .  لقد بنوا أشياء عظيمة مع مرور الوقت، ولكن هذه الأشياء ليست "
+"من  الموارد الطبيعية."
+
+msgid ""
+"No, a natural resource is anything found in the environment not designed or "
+"created by humans. They use their creativity to solve problems by making new "
+"things, but these are not natural resources."
+msgstr ""
+"لا، المورد الطبيعي هو أي شيء وجد في البيئة وليس مصمماً أو منشأً من قبل البشر.  "
+"فهم يستخدمون  قدراتهم الإبداعية في حل المشكلات عن طريق صنع الأشياء الجديدة، "
+"ولكن هذه ليست موارد طبيعية."
+
+msgid ""
+"Yes, a natural resource is anything from the environment humans did not "
+"create. Natural resources are simply found in nature."
+msgstr ""
+"نعم،المصدر الطبيعي هو أي شيء في البيئة لم يصنعه الإنسان.  المصادر الطبيعية "
+"هي موجودة ببساطة في الطبيعة."
+
+msgid ""
+"No, a natural resource is anything in the environment humans did not create. "
+"Humans make a lot of things to meet their needs, which are great resources, "
+"but are just not natural resources."
+msgstr ""
+"لا، المورد الطبيعي هو أي شيء في البيئة لم يقم البشر بصنعه.  البشر يصنعون "
+"الكثير من الأشياء لتلبية احتياجاتهم، وهي موارد كبيرة، ولكنها لا تعد موارد "
+"طبيعية."
+
+msgid ""
+"Yes, trees are natural resources because they grow in nature and humans use "
+"many products from trees."
+msgstr ""
+"نعم، الأشجار هي موارد طبيعية لأنها تنمو في الطبيعة والبشر يستخدمون العديد من "
+"المنتجات من الأشجار."
+
+msgid ""
+"No, trees are natural resources because humans use many products from trees."
+msgstr ""
+"لا، الأشجار هي موارد طبيعية لأن البشر يستخدمون العديد من المنتجات من الأشجار."
+
+# 6
+msgid "More core ideas... about natural resources"
+msgstr "المزيد من الافكار... حول المصادر الطبيعية"
+
+msgid ""
+"Animals adapt to their climate and living conditions. When cold, some birds "
+"migrate to warmer areas. Other animals have thick fur to keep them warm. In "
+"warm areas, some animals stay out of the heat by hunting for food at night "
+"and resting during the day. Humans adapt differently however. They simply "
+"turn the air conditioner on when hot and increase the heat when cold. These "
+"make them need <span class='key'>fuel</span> for <span class='key'>energy</"
+"span>, in order for their appliances and machines (e.g. light bulbs, heater, "
+"cars) to work."
+msgstr ""
+"الحيوانات تتكيف مع الظروف المناخية والمعيشية.  عند البرد،  تهاجر بعض الطيور "
+"إلى مناطق أكثر دفئا.  الحيوانات الأخرى لديها فراء كثيف لإبقائها دافئة.  في "
+"المناطق الدافئة، بعض الحيوانات تبقى بعيدة عن الحرارة عن طريق صيد الطعام ليلا "
+"والإستراحة نهارا.  البشر يتكيفون بشكل مختلف ولكن..انهم ببساطة يديرون  مكيف "
+"الهواء عند الحر وزيادة التدفئة عند البرد.  وهذ يجعلها بحاجة إلى الوقود</"
+"span>   للحصول على الطاقة</span>  للأجهزة والآلات (مثل المصابيح الكهربائية، "
+"والسخان، والسيارات) لتعمل ."
+
+msgid ""
+"And where does the energy come from? You're right! Natural resources are "
+"derived from the earth - petroleum from underground to make gasoline, "
+"sunlight as solar energy to produce electricity, wind for turbine, river "
+"water as hydroelectricity for generators, and coal for power plants. These "
+"natural resources provide the energy needed to produce and run everything in "
+"our modern human world."
+msgstr ""
+"من أين تأتي الطاقة ؟ أنت على حق! تستمد الموارد الطبيعية من الأرض - البترول "
+"من باطن الأرض لصنع البنزين، وضوء الشمس كمصدر من مصادر الطاقة الشمسية لإنتاج "
+"الكهرباء، وطاقة الرياح للتوربينات، وكذلك مياه النهر لمولدات الطاقة "
+"الكهرومائية والفحم لمحطات الطاقة.  هذه الموارد الطبيعية توفر الطاقة اللازمة "
+"لإنتاج وتشغيل كل شيء في عالم الإنسان المعاصر."
+
+msgid ""
+"It is important to know that using the earth's natural resources for our "
+"needs has an impact on the environment. This impact is often harmful to both "
+"nature and humans. When coal or gasoline is burned to make electricity or "
+"run our cars, the burning process pollutes the air making climate change "
+"possible. This climate change may cause severe weather conditions such as "
+"droughts, floods, wildfires, hurricanes as well as sea level changes in "
+"different parts of the world. So we need to be careful how we use natural "
+"resources so we don't cause any negative effect on the environment."
+msgstr ""
+"من المهم أن تعرف أن استخدام الموارد الطبيعية للأرض لسد احتياجاتنا لها تأثير "
+"على البيئة. هذا التأثير غالبا ما يكون ضارا على كل من الطبيعة والبشر. عندما "
+"يتم حرق الفحم أو البنزين لتوليد الكهرباء أو تشغيل سياراتنا، تلوث عملية الحرق "
+"وتجعل عملية تغيير المناخ محتملة.  قد يسبب هذا التغير المناخي ظروف مناخية "
+"قاسية مثل الجفاف والفيضانات وحرائق الغابات والأعاصير وكذلك تغييرات مستوى سطح "
+"البحر في أجزاء مختلفة من العالم. لذلك نحن بحاجة إلى أن نكون حذرين كيف نستخدم "
+"الموارد الطبيعية لذلك حتى لا نسبب أي تأثير سلبي على البيئة."
+
+msgid "Burning gasoline..."
+msgstr "حرق البنزين"
+
+# 7
+msgid ""
+"Question A. Which of the following energy resources is <span "
+"class='blink'>not</span> an alternative to fossil fuels?"
+msgstr "السؤال أ.   أي من مصادر الطاقة التالية ليست بديلا للوقود الأحفوري؟"
+
+msgid "Nuclear energy"
+msgstr "الطاقة النووية"
+
+msgid "Energy from natural gas"
+msgstr "الطاقة من الغاز الطبيعي"
+
+msgid "Solar Energy"
+msgstr "الطاقة الشمسية"
+
+msgid "Energy from wind"
+msgstr "طاقة الرياح"
+
+msgid ""
+"Question B. There is a larger demand for energy resources now than in the "
+"past because now the world:"
+msgstr ""
+"السؤال ب. في وقتنا الحالي هناك طلب أكثر على مصادر الطاقة مما كانت عليه في "
+"الماضي لأن العالم الآن:"
+
+msgid "Has a larger resource base."
+msgstr "له قاعدة موارد أكبر"
+
+msgid "Uses fewer industry products now."
+msgstr "يستخدم منتجات الصناعة بشكل أقل الآن"
+
+msgid "Has more people than before."
+msgstr "لديه عدد أكبر من الناس أكثر من ذي قبل."
+
+msgid "Does not need as much energy."
+msgstr "لا يحتاج الكثير من الطاقة"
+
+msgid "Storing energy..."
+msgstr "يخزن الطاقة"
+
+msgid ""
+"No, the resources are decreasing because people are using them up. Also, "
+"human population is larger now."
+msgstr ""
+"لا، الموارد آخذة في التناقص بسبب استخدام الناس لها. بالإضافة إلى أن السكان  "
+"أكثر الآن."
+
+msgid ""
+"No, people use a lot of industry products today, but natural resources are "
+"needed to make these products. There is now a large population with limited "
+"resources."
+msgstr ""
+"لا، يستخدم الناس الكثير من منتجات الصناعة اليوم، ولكن هناك حاجة إلى موارد "
+"طبيعية لصنع هذه المنتجات.  والآن هناك عدد كبير من السكان مع موارد محدودة."
+
+msgid ""
+"Yes, there is a larger population today. With advances in medicine and "
+"technology, people do not die as quickly as they did before. Meanwhile, all "
+"the people use up more and more resources."
+msgstr ""
+"نعم، هناك عدد أكبر من السكان اليوم.  مع التقدم في مجال الطب والتكنولوجيا، "
+"والناس لا يموتون بسرعة كما في السابق.  في هذه الأثناء، كل الناس تستخدم "
+"المزيد والمزيد من الموارد."
+
+msgid ""
+"No, there are more people in the world today and they do use up a lot of "
+"energy. So the population is growing with very limited resources to use."
+msgstr ""
+"لا، هناك المزيد من الناس في العالم اليوم يستخدمون  الكثير من الطاقة.  "
+"وبالتالي فإن عدد السكان ينمو مع موارد محدودة جدا للاستخدام."
+
+msgid ""
+"No. Nuclear energy is a clean, safe alternative that does not burn fuel like "
+"coal. There are no pollutants released into the air."
+msgstr ""
+"لا، الطاقة النووية هي بديل نظيف وآمن ولا تحرق الوقود مثل الفحم.  لا توجد "
+"ملوثات في الهواء."
+
+msgid ""
+"Yes. Coal, natural gas, and petroleum are fossil fuels. Other energy sources "
+"are energy source alternatives."
+msgstr ""
+"نعم. الفحم والغاز الطبيعي، والنفط هي من أنواع الوقود الأحفوري.  مصادر الطاقة "
+"الأخرى هي بدائل لمصادر الطاقة."
+
+msgid ""
+"No. Solar energy is the radiation from the sun that hits the earth and is "
+"converted into heat and electricity. It does not cause pollution when it is "
+"produced or used."
+msgstr ""
+"لا، الطاقة الشمسية هي إشعاعات من الشمس والتي تضرب الأرض وتحولها إلى حرارة "
+"وكهرباء.  لا تسبب التلوث عندما يتم إنتاجها أو استخدامها."
+
+msgid ""
+"No. Converting energy from wind (e.g. heat, electricity) does not burn "
+"fossil fuel. It can be noisy but it is a clean alternative."
+msgstr ""
+"لا، تحويل الطاقة من الرياح (مثل الحرارة والكهرباء) لا يحرق الوقود الأحفوري. "
+"ويمكن أن تكون مزعجة إنما هي بديل نظيف."
+
+# 8
+msgid ""
+"Natural resources can be classified into two groups: renewable and non-"
+"renewable. <span class='key'>Renewable resources</span> are those "
+"automatically replenished by nature. Examples are:"
+msgstr ""
+"ويمكن تصنيف الموارد الطبيعية إلى مجموعتين: المتجددة وغير المتجددة. الموارد "
+"المتجددة  هي تلك التي تتجدد تلقائيا من الطبيعة. الأمثلة على ذلك:"
+
+msgid "It usually rains to add more water back to the environment."
+msgstr "عادة ما تمطر لإعادة إضافة المزيد من الماء مرة أخرى إلى البيئة."
+
+msgid "Trees and other plants"
+msgstr "الأشجار والنباتات الأخرى"
+
+msgid "They grow back and reproduce."
+msgstr "إنها تنمو وتتكاثر مرة أخرى."
+
+msgid "Fish and other animals"
+msgstr "الأسماك والحيوانات الأخرى"
+
+msgid "They also reproduce"
+msgstr "هي أيضا تتكاثر"
+
+msgid ""
+"Humans play a very important role in replenishing (filling up again) "
+"renewable resources. Without humans affecting natural cycles, natural "
+"resources would replenish themselves. But when humans use and deplete these "
+"natural resources, they also need to be responsible in making sure there "
+"will be more of these resources for the future. Humans can take positive "
+"action to preserve renewable natural resources like planting more trees "
+"before cutting old ones down and making sure there are enough animals for "
+"reproduction."
+msgstr ""
+"البشر يلعبون دورا هاما جدا في التجديد (إعادة التعبئة)الموارد المتجددة.  دون "
+"أن يؤثر البشر على الدورات الطبيعية، فإن الموارد الطبيعية تجدد نفسها.  ولكن "
+"عندما يستخدم ويستنزف البشر  هذه الموارد الطبيعية،تحتاج أن تكون مسؤولة في "
+"التأكد من وجود هذه الموارد أكثر من أجل المستقبل. يمكن للانسان اتخاذ إجراءات "
+"إيجابية للحفاظ على الموارد الطبيعية المتجددة مثل زراعة المزيد من الأشجار قبل "
+"قطع القديمة ، والتأكد من وجود ما يكفي الحيوانات للتكاثر."
+
+msgid ""
+"The other classification of resources is <span class='key'>non-renewable "
+"resources</span>. These are resources not automatically replenished by "
+"nature. Examples are coal, minerals, metals, and petroleum. Once humans mine "
+"all of the coal or pump out all the oil from the ground, there will not be "
+"anything left because it takes millions of years for nature to replenish "
+"these types of natural resources."
+msgstr ""
+"التصنيفات الأخرى للموارد هي <span class='key'>الموارد غير المتجددة </span>.  "
+"هذه الموارد لا تتجدد تلقائيا من الطبيعة. ومن الأمثلة عليها الفحم، والعناصر، "
+"والمعادن، والبترول.  وعندما يخرج البشر الفحم  من المناجم أو يضخون النفط من "
+"الأرض، لن يبقى هناك أي شيء  لأن الطبيعة تاخذ ملايين السنين لتجديد هذه "
+"الأنواع من الموارد الطبيعية."
+
+msgid ""
+"One kind of non-renewable resources is called fossil fuels. They are the "
+"result of fossilized plants that grew on earth millions of years ago, and "
+"have turned into coal or petroleum inside the earth over a long period of "
+"time. Humans need to <span class='key'>conserve</span> these resources and "
+"use them wisely so they do not run out. Through research and experiment, "
+"humans need to find alternative energy sources so they do not always have to "
+"rely on non-renewable resources for energy."
+msgstr ""
+"يسمى النوع الواحد من الموارد غير المتجددة الوقود الأحفوري.  فهي ناتجة عن "
+"النباتات المتحجرة التي نمت على الأرض منذ ملايين السنين، وتحولت إلى الفحم أو "
+"البترول داخل الأرض على مدى فترة طويلة من الزمن.  البشر بحاجة ل <span "
+"class='key'>حفظ</span> هذه الموارد واستخدامها بحكمة حتى لا تنفد.  من خلال "
+"البحث والتجربة،  البشر بحاجة للعثور على مصادر بديلة للطاقة لذلك لم  يلجأوا "
+"إلى الاعتماد على الموارد غير المتجددة للطاقة."
+
+msgid "Collecting fossil fuels..."
+msgstr "جمع الوقود الأحفوري ..."
+
+# 9
+msgid "Question A. What does it mean to conserve natural resources?"
+msgstr "السؤال أ.  ماذا يعني حفظ الموارد الطبيعية؟"
+
+msgid "Stop the use of energy resources."
+msgstr "وقف استخدام مصادر الطاقة."
+
+msgid "Use natural resources wisely."
+msgstr "استخدام الموارد الطبيعية بحكمة."
+
+msgid "Stockpile the resources to use them in the future."
+msgstr "تخزين الموارد لاستخدامها في المستقبل."
+
+msgid "Increase deposits of natural resources."
+msgstr "زيادة تراكم الموارد الطبيعية"
+
+msgid ""
+"Question B. What is the main difference between renewable and non-renewable "
+"resources?"
+msgstr "السؤال ب. ما الفرق الأساسي بين الموارد المتجددة وغير المتجددة؟"
+
+msgid ""
+"All non-renewable resources pollute the environment, renewable resources do "
+"not."
+msgstr ""
+"جميع الموارد غير المتجددة تلوث البيئة.  الموارد المتجددة لا تلوث البيئة."
+
+msgid ""
+"All non-renewable resources need to be conserved, renewable resources do not."
+msgstr "تحتاج جميع الموارد غير المتجددة للحفظ،الموارد المتجددة لا تحتاج لذلك."
+
+msgid ""
+"There is a limited amount of renewable resources, and not of non-renewable "
+"resources."
+msgstr "هناك كمية محدودة من الموارد المتجددة، وليس من الموارد غير المتجددة."
+
+msgid ""
+"There is a limited amount of non-renewable resources, but renewable "
+"resources can be replenished."
+msgstr ""
+"هناك كمية محدودة من الموارد غير المتجددة، ولكن يمكن تجديد الموارد المتجددة."
+
+msgid "No, to conserve natural resources means to use them wisely."
+msgstr "لا، الحفاظ على الموارد الطبيعية يعني أن نستخدمها بحكمة."
+
+msgid "Yes, to conserve natural resources means to use them wisely."
+msgstr "نعم، الحفاظ على الموارد الطبيعية يعني أن نستخدمها بحكمة."
+
+msgid ""
+"No, there is a limited amount of non-renewable resources, and an unlimited "
+"amount of renewable resources."
+msgstr ""
+"لا، هناك كمية محدودة من الموارد غير المتجددة، وكمية غير محدودة من الموارد "
+"المتجددة."
+
+msgid ""
+"Yes, there is a limited amount of non-renewable resources, and renewable "
+"resources can be replenished if managed wisely."
+msgstr ""
+"نعم، هناك كمية محدودة من الموارد غير المتجددة، ويمكن تجديد الموارد المتجددة "
+"إذا ما أديرت بحكمة."
+
+# 10
+msgid "Using what you know... about natural resources... to solve a problem"
+msgstr "استخدام ما تعرفه ... عن الموارد الطبيعية... من أجل حل مشكلة"
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid ""
+"Suppose you were given the assignment of building a brand new beautiful city "
+"wherein people could live in harmony with nature and never run out of what "
+"they need to live comfortably."
+msgstr ""
+"لنفترض أنك أعطيت مهمة لبناء مدينة جديدة جميلة حيث يمكن للناس العيش فيها "
+"بوئام مع الطبيعة وعدم نفاذ ما يحتاجونه للعيش بشكل مريح."
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid ""
+"Describe and explain some features you would design into your new city to "
+"use natural resources wisely."
+msgstr ""
+"وصف وشرح بعض الميزات التي قد تصمم في  المدينة الجديدة لاستخدام الموارد "
+"الطبيعية بحكمة."
+
+msgid "Building a new city..."
+msgstr "بناء مدينة جديدة"
+
+# 11
+msgid "Summarizing core ideas... about natural resources"
+msgstr "تلخيص الأفكار الأساسية ... حول الموارد الطبيعية."
+
+msgid ""
+"All living things need the earth's natural resources to survive. Human "
+"beings use more of these resources than most animals not only to survive but "
+"also to be comfortable. People use <span class='key'>natural resources</"
+"span> for almost everything on a daily basis. Some of these resources are "
+"used to produce things - like wood from trees to make houses. Others natural "
+"resources are used for <span class='key'>energy</span> needed to make "
+"appliances and machines work - like oil and coal to power cars and heat our "
+"homes. Some of the natural resources humans need are renewable – which means "
+"they may form naturally again after being used. Examples of <span "
+"class='key'>renewable resources</span> are trees and water. <span "
+"class='key'>Non-renewable resources</span> on the other hand, are those that "
+"are gone forever after they are used up. Examples of these are minerals and "
+"metals, coal, natural gas, and petroleum. People need to <span "
+"class='key'>conserve</span> these resources so they do not run out. "
+"Conservation means using resources wisely and carefully so we don't run out "
+"of them."
+msgstr ""
+"كل الكائنات الحية تحتاج إلى موارد الأرض الطبيعية من أجل البقاء.  يستخدم "
+"البشر هذه الموارد أكثر من الحيوانات ليس فقط للبقاء على قيد الحياة ولكن أيضا "
+"للراحة.  يستخدم الناس <span class='key'>الموارد الطبيعية</span>  في كل شيء "
+"تقريبا وبشكلٍ يومي.  وتستخدم بعض هذه الموارد لإنتاج الأشياء  مثل الخشب من "
+"الأشجار لبناء المنازل.  وتستخدم  الموارد الطبيعية لتوفير <span "
+"class='key'>الطاقة</span>  اللازمة لجعل الأجهزة وآلالات تعمل - مثل النفط "
+"والفحم لتشغيل السيارات وتدفئة منازلنا.  بعض الموارد الطبيعية والتي يحتاجها "
+"البشر قابلة للتجديد - وهذا يعني أنها قد تتشكل طبيعيا مرة أخرى بعد "
+"استخدامها.  أمثلة على <span class='key'>الموارد المتجددة</span> هي الأشجار "
+"والمياه.  <span class='key'>الموارد غير المتجددة</span>  من ناحية أخرى، هي "
+"تلك التي ولت إلى الأبد بعد أن تم استخدامها . بعض الأمثلة على ذلك المعادن "
+"والفحم والغاز الطبيعي، والنفط..  يحتاج الناس إلى <span class='key'> حفظ </"
+"span> هذه الموارد حتى لا تنفذ. الحفظ يعني استخدام الموارد بحكمة وبعناية حتى "
+"لا تنفد منهم."
+
+# 12
+msgid "Reviewing key vocabulary related to... natural resources"
+msgstr "استعراض المفردات الأساسية حول ... الموارد الطبيعية."
+
+msgid ""
+"Natural resources are anything found in nature which are not created by "
+"humans. Trees, coal, and water are examples of natural resources."
+msgstr ""
+"الموارد الطبيعية هي أي شيء وجد في الطبيعة و لا يتم إنشاؤه من قبل البشر.  "
+"الأشجار، والفحم، والمياه هي أمثلة على الموارد الطبيعية."
+
+msgid "Natural resources"
+msgstr "الموارد الطبيعية"
+
+msgid "Renewable resources"
+msgstr "الموارد المتجددة"
+
+msgid ""
+"Renewable resources are plentiful and are quickly replenished in nature, "
+"such that they do not run out when used by humans. Examples of renewable "
+"resources are wind, water, and trees."
+msgstr ""
+"الموارد المتجددة وفيرة وتتجدد بسرعة في الطبيعة، بحيث لا تنفذ عندما يستخدمها "
+"البشر.  أمثلة على الموارد المتجددة هي الرياح، والمياه، والأشجار."
+
+msgid "Non-renewable resources"
+msgstr "موارد غير متجددة"
+
+msgid ""
+"Some natural resources, called fossil fuels, are replenished slowly or not "
+"at all, making them non-renewable. Non-renewable resources cannot be quickly "
+"or easily replaced once they are used up."
+msgstr ""
+"بعض الموارد الطبيعية ، تسمى الوقود الأحفوري،  يتم تجديدها ببطء او حتى لا "
+"تتجدد، مما يجعلها غير قابلة للتجديد.  الموارد غير المتجددة لا يمكنهاأن "
+"تستبدل  بسرعة أو بسهولة عندما يتم استخدامها."
+
+msgid "Energy"
+msgstr "الطاقة"
+
+msgid ""
+"Energy is the ability to do work. All living things require energy to "
+"survive. Energy is obtained by producers, such as plants - through "
+"photosynthesis, by using the sun's light energy. Energy is obtained by "
+"consumers, such as people, through consuming producers or other consumers."
+msgstr ""
+"الطاقة هي القدرة على القيام بالعمل.  كل الكائنات الحية تحتاج إلى الطاقة من "
+"أجل البقاء.  يتم الحصول على الطاقة من قبل المنتجات، مثل النباتات - من خلال "
+"عملية التمثيل الضوئي، وذلك باستخدام طاقة الشمس الخفيفة.  يتم الحصول على "
+"الطاقة من قبل المستهلكات، مثل البشر، من خلال إستهلاك المنتجات أو المستهلكات "
+"الآخرين."
+
+msgid "Fuel"
+msgstr "وقود"
+
+msgid ""
+"Fuel is a material, such as gas, that is used for energy. Fuel is needed for "
+"appliances and machines to work; thus, fuel is very important!"
+msgstr ""
+"الوقود هو مادة، مثل الغاز، الذي يستخدم للحصول على الطاقة. نحتاج للوقود  "
+"للأجهزة والآلات للعمل؛ وبالتالي، الوقود مهم جدا!"
+
+msgid "Conserve"
+msgstr "حفظ"
+
+msgid ""
+"To conserve resources means to use them wisely so they do not run out. An "
+"example of energy conservation is the use of renewable energy, such as wind "
+"energy."
+msgstr ""
+"لحفظ الموارد يعني استخدامها بحكمة حتى لا تنفذ. مثال على حفظ الطاقة هو "
+"استخدام الطاقة المتجددة، مثل طاقة الرياح."
+
+# 13
+msgid "Checking what you now know... about natural resources"
+msgstr "تأكد من مدى معرفتك ... بالموارد الطبيعية"
+
+# 14
+msgid ""
+"In order to conserve oil that is used to make gasoline people could do all "
+"of the following <span class='blink'>except</span>:"
+msgstr ""
+"من أجل حفظ النفط الذي يستخدم لصنع البنزين يمكن للناس أن يفعلوا ما يلي <span "
+"class='blink'>باستثناء</span>"
+
+msgid "Use public transportation like buses more."
+msgstr "زيادة استخدام وسائل النقل العام مثل الحافلات ."
+
+msgid "Ride their bikes instead of driving cars."
+msgstr "ركوب الدراجات بدلا من قيادة السيارات."
+
+msgid "Buy fuel efficient vehicles."
+msgstr "شراء السيارات ذات الكفاءة العالية في استهلاك الوقود."
+
+msgid "Get a motorhome to go on vacation."
+msgstr "الحصول على بيت متنقل للذهاب في عطلة."
+
+msgid ""
+"No. Using public transportation would be a great way to conserve oil because "
+"it would help save gasoline by driving cars less."
+msgstr ""
+"لا. استخدام  وسائل النقل العام يمكن أن يكون وسيلة رائعة للحفاظ على النفط لان "
+"ذلك سيساعد على توفير البنزين  عن طريق قيادة السيارات بشكل أقل."
+
+msgid ""
+"Sorry. This would be a great way to conserve oil since riding a bike uses no "
+"gasoline."
+msgstr ""
+"آسف.  ذلك من  شأنه أن يكون وسيلة رائعة للحفاظ على النفط حيث أن ركوب الدراجة "
+"لا يستخدم فيهاالبنزين."
+
+msgid ""
+"Nope. Buying fuel-efficient vehicles would use less gasoline so it would "
+"help conserve oil."
+msgstr ""
+"كلا.  إن شراء السيارات ذات الكفاءة العالية باستهلاك الوقود تستخدام كميات أقل "
+"من البنزين كي تساعد  في الحفاظ على النفط."
+
+msgid ""
+"Yes! Even though going on vacation is a great experience and lots of fun, "
+"those big motor homes don't get very good gas mileage so they use a lot of "
+"gas and the oil gas is made from petroleum which is a non-renewable natural "
+"resource."
+msgstr ""
+"نعم! على الرغم من أن الذهاب في اجازة هي تجربة رائعة ومرحة، تلك المنازل "
+"المتنقلة الكبيرة لا تحصل على الغاز الجيد لعدد الأميال بل يستخدمون الكثير من "
+"الغاز و من غاز البترول المصنوع من النفط والذي يعد مورداً طبيعياً غير متجدد."
+
+# 15
+msgid ""
+"Choose the correct statement about natural resources. Rotate or flip the 3D "
+"box below either up or down to set your answer."
+msgstr ""
+"اختر العبارة الصحيحة حول الموارد الطبيعية.  أدر أو إقلب  الصندوق الثلاثي "
+"الأبعاد أدناه إما  للأعلى أو للأسفل لتحديد الإجابة."
+
+msgid "Wind and solar energy are the most important energy developed so far."
+msgstr "طاقة الرياح والطاقة الشمسية هي الطاقة الأكثر أهمية وتطورا حتى الآن."
+
+msgid "Everybody should drive electric cars with rechargeable batteries."
+msgstr ""
+"ينبغي على الجميع  أن يقود السيارات الكهربائية مع البطاريات القابلة لإعادة "
+"الشحن."
+
+msgid "In the future we will run out of fossils fuels."
+msgstr "في المستقبل سوف ننفذ من الوقود الأحفوري."
+
+msgid "Fossil fuels are the only natural resource that do not cause pollution."
+msgstr "الوقود الأحفوري هي الموارد الطبيعية الوحيدة التي لا تسبب التلوث."
+
+msgid "Click, hold and drag up or down"
+msgstr "انقر. انقر وامسك ومرر لأعلى أو لأسفل."
+
+msgid "Conserving resources..."
+msgstr "الحفاظ على الموارد ..."
+
+msgid ""
+"Not Quite. While wind and solar energy are important because they are clean "
+"and non-polluting energy sources – petroleum and coal-based energy is more "
+"important because it is so widely used for automobiles, heating and "
+"electricity generation."
+msgstr ""
+"ليس تماماً.  مع أن الرياح والطاقة الشمسية مهمة جداً لأنها نظيفة ومصادر غير "
+"ملوثة، إلا أن البترول والطاقة المعتمدة على الفحم أكثر أهمية لأنها مستخدمة "
+"على نطاق واسع للسيارات، والتدفئة ، وتوليد الكهرباء."
+
+msgid ""
+"Not quite! It would be good if more people would drive electric cars but it "
+"is not currently practical. And electric battery powered cars still use coal "
+"and petroleum to generate the electricity necessary to recharge them."
+msgstr ""
+"ليس تماما! سيكون من الجيد إذا قاد أكثر الناس السيارات الكهربائية ولكنها ليست "
+"عملية في الوقت الراهن.  والبطارية الكهربائية التي تشغل السيارات لا تزال "
+"تستخدم الفحم والنفط لتوليد الكهرباء اللازمة لإعادة شحنها."
+
+msgid ""
+"Yes! Fossil fuels like coal and petroleum are non-renewable natural "
+"resources so they will eventually all get used up and we will run out of our "
+"supply of them."
+msgstr ""
+"نعم! الوقود الأحفوري مثل الفحم والبترول من الموارد الطبيعية غير المتجددة حتى "
+"يتم استخدامها في نهاية المطاف، وبالتالي سوف تنفذ لدينا الإمدادات."
+
+msgid ""
+"No. The use of fossil fuels for gas in automobiles and coal in power plants "
+"cause a great deal of pollution."
+msgstr ""
+"لا. استخدام الوقود الأحفوري للغاز  في السيارات والفحم في محطات توليد الطاقة "
+"تسبب قدرا كبيرا من التلوث."
+
+# 16
+msgid ""
+"Recycling is a way to conserve natural resources. Which is the best example "
+"of how recycling contributes to the wise and effective use of natural "
+"resources?"
+msgstr ""
+"إعادة التدوير هو وسيلة للحفاظ على الموارد الطبيعية.  ما هو أفضل مثال على "
+"كيفية مساهمة إعادة التدوير في الإستخدام الحكيم والفعال للموارد الطبيعية؟"
+
+msgid "Recycling prevents garbage from being burned."
+msgstr "إعادة تدوير تمنع القمامة من التعرض للحرق."
+
+msgid "It saves fuel used for garbage trucks."
+msgstr "إنها تحفظ  الوقود المستخدم لشاحنات القمامة."
+
+msgid ""
+"By reusing natural resource materials instead of using new sources of "
+"natural resources."
+msgstr ""
+"عن طريق إعادة استخدام مواد الموارد الطبيعية بدلا من استخدام مصادر جديدة "
+"للموارد الطبيعية."
+
+msgid "By reducing the amount of money spent on making plastic bags."
+msgstr "عن طريق تقليل كمية  الأموال التي تنفق على صنع أكياس البلاستيك."
+
+msgid "Installing solar panel..."
+msgstr "تثبيت الألواح الشمسية ..."
+
+msgid ""
+"Not quite! Recycling does prevent some garbage from being burned but that "
+"doesn't conserve natural resources."
+msgstr ""
+"ليس تماما! إعادة التدوير لا تمنع بعض القمامة من التعرض للحرق ولكن هذا لا "
+"يحافظ على الموارد الطبيعية."
+
+msgid ""
+"Nope! Recycling does save a little bit of gas used in garbage trucks but "
+"many areas have a separate truck that picks up the recycling or your family "
+"has to drive to the recycling center to drop it off."
+msgstr ""
+"كلا! إعادة التدوير توفر القليل من الغاز المستخدم في شاحنات القمامة ولكن "
+"مناطق عديدة لها شاحنات منفصلة لجمع القمامة أو أن العائلة تحتاج لتقود السيارة "
+"إلى مركز إعادة التدوير للتخلص من القمامة. "
+
+msgid ""
+"Yes! By reusing natural resource materials like glass, or cans, or "
+"newspapers, new sources of natural resources like cutting trees or mining "
+"metals or sand don't have to be done."
+msgstr ""
+"نعم! عن طريق إعادة استخدام مواد الموارد الطبيعية مثل الزجاج، أو العلب، أو "
+"الصحف، مصادر جديدة للموارد الطبيعية مثل قطع الأشجار أو تعدين المعادن أو "
+"الرمال ليس من الضروري القيام بها."
+
+msgid ""
+"Not Really. Saving money on reusing plastic bags doesn't conserve many "
+"natural resources but it's a good thing to do anyway since those bags take "
+"thousands of years to rot away in the garbage dump and often blow all over "
+"the place."
+msgstr ""
+"ليس تماما. توفير المال لإعادة استخدام أكياس البلاستيك لا تحافظ على العديد من "
+"الموارد الطبيعية ولكن هذا شيء جيد للقيام به على أي حال إذ أن الحقائب تستغرق "
+"آلاف السنين لتتعفن في مكب القمامة، وغالبا ما تتطاير في كل مكان."
+
+# 17
+msgid ""
+"Aluminum is a natural resource used for building cars and buildings. Using "
+"natural resources usually produces waste products. How should aluminum be "
+"disposed of in a way that is best for the environment?"
+msgstr ""
+"الألومنيوم هو مورد طبيعي يستخدم لبناء السيارات والمباني. استخدام الموارد "
+"الطبيعية عادة ما تنتج منتجات النفايات.  كيف ينبغي أن يتم التخلص من الألمنيوم "
+"بطريقة أفضل للبيئة؟"
+
+msgid "Bury it in landfills"
+msgstr "دفنه في مكبات النفايات"
+
+msgid "Burn it"
+msgstr "حرقه"
+
+msgid "Recycle it"
+msgstr "إعادة تدويره"
+
+msgid "Crush it, then throw it away"
+msgstr "سحقه، ثم رميه بعيدا"
+
+msgid "Operating gasoline pump..."
+msgstr "تشغيل مضخة البنزين"
+
+msgid ""
+"No, burying it in landfills can lead to disturbing animals' habitat and "
+"needlessly taking up space in the landfill."
+msgstr ""
+"لا، دفنه في مكبات النفايات يمكن أن يؤدي إلى إزعاج مواطن الحيوانات  وأخذ "
+"مساحة في المكب دون داعي."
+
+msgid ""
+"Not really, aluminum is incombustible – it will not burn. However, it can be "
+"melted at a very high temperature to be recycled/reused."
+msgstr ""
+"ليس تماماً، الألمنيوم غير قابل للاحتراق  -لا يمكن حرقه.  ومع ذلك، فإن من "
+"الممكن صهره في درجة حرارة عالية جدا لإعادة تدويره أو إعادة استخدامه."
+
+msgid ""
+"Correct! By recycling, you will have the least impact on the environment."
+msgstr "صحيح! عن طريق إعادة التدوير، ستكون أقل تأثيرا على البيئة."
+
+msgid ""
+"Not quite. Crushing it will help reduce the space it takes up, but throwing "
+"it away means wasting a resource that can be recycled."
+msgstr ""
+"ليس تماما.  سحقه سوف يساعد على التقليل من المساحة التي يمكن أن يستخدمها، "
+"ولكن رميها بعيدا يعني  إضاعة الموارد التي يمكن إعادة تدويرها."
+
+msgid ""
+"What is the best way to describe how humans and animals need and use natural "
+"resources?"
+msgstr ""
+"ما هي أفضل طريقة لوصف كيفية حاجة البشر والحيوانات واستخدامها الموارد "
+"الطبيعية؟"
+
+msgid ""
+"Humans and animals both use natural resources to make themselves comfortable "
+"and happy."
+msgstr ""
+"البشر والحيوانات على حد سواء يستخدمون الموارد الطبيعية لتكون مرتاحة وسعيدة."
+
+msgid ""
+"Humans and animals both take only the natural resources they need to survive."
+msgstr ""
+"البشر والحيوانات على حد سواء يستخدمون الموارد الطبيعية التي يحتاجونها من أجل "
+"البقاء على قيد الحياة."
+
+msgid ""
+"Animals use just the natural resources they need to survive but humans take "
+"more natural resources than are needed just to survive."
+msgstr ""
+"الحيوانات تستخدم الموارد الطبيعية فقط و التي تحتاج إليها للبقاء على قيد "
+"الحياة ولكن البشر يأخذون المزيد من الموارد الطبيعية عن الحاجة للبقاء."
+
+msgid ""
+"Humans and animals both take more natural resources than are needed just for "
+"survival."
+msgstr ""
+"البشر والحيوانات على حد سواء بأخذون المزيد من الموارد الطبيعية اكثر من "
+"حاجتهم لمجرد البقاء على قيد الحياة."
+
+msgid "Gathering coal..."
+msgstr "تجميع الفحم"
+
+msgid ""
+"Not quite. Humans use natural resources to make themselves comfortable and "
+"happy but animals just use what they need to survive."
+msgstr ""
+"ليس تماما.  يستخدم الإنسان الموارد الطبيعية ليجعلوا أنفسهم مرتاحين وسعداء "
+"ولك الحيوانات فقط يستخدمون ما يحتاجونه للبقاء"
+
+msgid ""
+"No. Animals just use what they need to survive but humans use natural "
+"resources to make themselves comfortable and happy."
+msgstr ""
+"لا.  الحيوانات فقط تستخدم ما تحتاجه للبقاء على قيد الحياة ولكن البشر "
+"يستخدمون الموارد الطبيعية ليكونون مرتاحين  وسعداء."
+
+msgid ""
+"Yes - Animals use just the natural resources they need to just survive but "
+"humans take more natural resources than are needed just to survive."
+msgstr ""
+"نعم - الحيوانات تستخدم الموارد الطبيعية التي تحتاجها إلى البقاء على قيد "
+"الحياة فقط  ولكن البشر يستخدمون المزيد من الموارد الطبيعية أكثر من الحاجة "
+"للبقاء على قيد الحياة."
+
+msgid ""
+"Not quite - Animals use just the natural resources they need to just survive "
+"but humans take more natural resources than are needed just to survive."
+msgstr ""
+"ليس تماما -تستخدم  الحيوانات الموارد الطبيعية التي تحتاج إليها للبقاء على "
+"قيد الحياة فقط ولكن البشر يستخدمون الموارد الطبيعية أكثر من حاجتها للبقاء "
+"على قيد الحياة."
+
+msgid ""
+"Use the pie charts about natural resources and how they are divided by "
+"regions to answer the question below. Click on <span class='blink'>all</"
+"span> the correct answers."
+msgstr ""
+"استخدم الرسوم البيانية الدائرية حول الموارد الطبيعية وكيفية تقسيمها الى "
+"أصناف لإجابة الأسئلة أدناه.  انقر على  <span class='blink'>جميع</span>  "
+"الإجابات الصحيحة."
+
+msgid "World Reserves by Region"
+msgstr "احتياطيات العالم حسب المنطقة"
+
+msgid "North America"
+msgstr "امريكا الشمالية"
+
+msgid "South/Central America"
+msgstr "جنوب / أمريكا الوسطى"
+
+msgid "Europe"
+msgstr "أوروبا"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Africa"
+msgstr "أفريقيا"
+
+msgid "Middle East"
+msgstr "الشرق الأوسط"
+
+msgid "Asia Pacific"
+msgstr "آسيا والمحيط الهادئ"
+
+msgid "Coal"
+msgstr "فحم"
+
+msgid "Oil"
+msgstr "نفط"
+
+msgid "North America has more of the earth's coal than oil."
+msgstr "أمريكا الشمالية لديها اكثر الفحم الذي على الأرض من النفط."
+
+msgid "The Middle East has the largest percentage of oil on earth."
+msgstr "الشرق الأوسط لديه أكبر نسبة من النفط على الأرض."
+
+msgid "Russia is the third richest area in coal."
+msgstr "روسيا هي ثالث أكثر منطقة غنية بالفحم"
+
+msgid "The same areas which have a lot of oil also have a lot of coal."
+msgstr "نفس المناطق التي لديها الكثير من النفط لديها أيضا الكثير من الفحم."
+
+msgid ""
+"Great job! Based on these pie charts, it seems that the areas with the most "
+"coal (Asia Pacific and North America) do not have as much oil resources. The "
+"Middle East is rich in oil, but not in coal."
+msgstr ""
+"عملا عظيما! بناء على هذه الرسوم البيانية الدائرية، يبدو أن المناطق الأكثر "
+"إنتاجا للفحم (آسيا والمحيط الهادئ وأمريكا الشمالية) لا تملك موارد قدر "
+"مواردالنفط . الشرق الأوسط غني بالنفط، ولكن ليس الفحم."
+
+msgid ""
+"Not quite. Based on these pie charts, it seems that the areas with the most "
+"coal (Asia Pacific and North America) do not have as much oil resources. The "
+"Middle East is rich in oil, but not in coal."
+msgstr ""
+"ليس تماما. بناء على هذه الرسوم البيانية الدائرية، يبدو أن المناطق التي تنتج "
+"معظم الفحم (آسيا والمحيط الهادئ وأمريكا الشمالية) لا تمتلك موارد النفط بقدر "
+"الفحم. الشرق الأوسط غني بالنفط، و ليس الفحم."
+
+# 20
+msgid "You've completed the Natural Resources review."
+msgstr "لقد اتممت مراجعة الموارد الطبيعية."

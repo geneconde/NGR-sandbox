@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Empezar"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Volver"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, seleccione su respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, seleccione sus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Quick Check #1"
+msgstr "Comprobación rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Comprobación rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Comprobación rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Comprobación rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisar sus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo hice?"
+
+msgid "You answered..."
+msgstr "Ha respondido..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Juego"
+
+msgid "Pause"
+msgstr "Rotura"
+
+msgid "Stop"
+msgstr "Deténgase"
+
+msgid "Mute"
+msgstr "Mudo"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Pantalla Restauración"
+
+msgid "Repeat"
+msgstr "Repetición"
+
+msgid "Repeat off"
+msgstr "Repetición apagado"
+
+msgid "Update Required"
+msgstr "Requiere actualización"
+
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr ""
+"Para jugar los medios de comunicación que tendrá que elegir entre actualizar "
+"su navegador a una versión más reciente o actualizar su"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr ""
+"Navegar a través de las diapositivas a continuación, haga clic en las "
+"flechas izquierda y derecha."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Haga clic, mantenga y deslice el ratón hacia arriba y hacia abajo para girar "
+"la caja y seleccione su respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Su Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérreme!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haga clic aquí para empezar a escribir su respuesta..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Respondiendo a las siguientes seis (6) preguntas le dará una idea de lo que "
+"ya sabe y lo que te queda por estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haga clic en el botón PRÓXIMO cuando esté listo."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta del Cuestionario #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta del Cuestionario #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta del Cuestionario #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta del Cuestionario #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta del Cuestionario #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta del Cuestionario #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puede comprobar cómo lo has hecho en la 'Comprobación rápida' y 'Preguntas "
+"del cuestionario' para este examen haciendo clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Vaya al panel de control"
+
+msgid "Let's begin!"
+msgstr "¡Vamos a empezar!"
+
+msgid "Are you ready"
+msgstr "¿Estás listo?"
+
+msgid "Preparing your first quick check!"
+msgstr "Preparando su primero comprobación rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "Listo para su última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "Listo para su última pregunta de examen?"
+
+msgid "Putting it all together..."
+msgstr "Juntándolo todo"
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Vamos a comprobar lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "La primera pregunta es..."
+
+msgid "You're done!"
+msgstr "¡Se termina!"

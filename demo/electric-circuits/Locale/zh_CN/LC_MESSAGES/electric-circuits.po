@@ -1,0 +1,680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: zh\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Common Translations
+msgid "Start"
+msgstr "開始"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Please check your answers."
+msgstr "請檢查你的答案。"
+
+msgid "How did I do?"
+msgstr "我答得如何?"
+
+msgid "You answered..."
+msgstr "你的答案是..."
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "請旋轉或翻轉下面的方框，以選擇你的答案。點擊、按住並上下移動滑鼠。"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "點擊，按住並上下移動滑鼠旋轉方塊，然後選擇你的答案。"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "The Situation"
+msgstr "狀況"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid "Your Task"
+msgstr "您的任务"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Your Assignment"
+msgstr "你的作業"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "回答以下6小題，可以了解哪些是你已經知道的，而哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "如果你已經準備好了，請點擊右下角的繼續鍵！"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "Congratulations,"
+msgstr "恭喜您！"
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "請點擊下面的按鍵，查看你在「小測驗」和「小練習」中的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了嗎"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉！"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個小練習？"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備你最後一題的小測驗！"
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在所學會的"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一個小測驗的問題是..."
+
+msgid "You're done!"
+msgstr "大功告成! "
+
+msgid "Welcome to the Electric Circuits module"
+msgstr ""
+
+msgid "Electric Circuits"
+msgstr ""
+
+msgid "Thinking about... electric circuits"
+msgstr ""
+
+msgid "In our homes, we perform a variety of tasks each day that are made easier by electric circuits.  From tasks that used to involve a lot of time and physical effort, like washing clothes or dishes, to diversions like television or video games, we are constantly making use of electric circuits.  These electric circuits can easily complete a wide variety of tasks using just a few basic physics principles.  An awareness of these principles can help you live your life more efficiently and safely!"
+msgstr ""
+
+msgid "Checking what you already know about... electric circuits"
+msgstr ""
+
+msgid "Many devices utilize electric circuits to perform their tasks efficiently. Click on <span class='blink'>ALL</span>  of the objects below that contain electric circuits."
+msgstr ""
+
+msgid "Many modern devices use electric circuits to do jobs that used to be performed through other means in years past.  Digital watches are much easier to manufacture than analog watches, cordless drills make construction projects much easier, and tablets can store entire libraries of books inside a device that can easily be carried in a backpack.  Continue with this review to learn more about electric circuits!"
+msgstr ""
+
+msgid "Checking devices..."
+msgstr ""
+
+msgid "Reviewing big ideas about... electric circuits"
+msgstr ""
+
+msgid "You need to first know something about the <span class='key'>atoms</span> that make up matter to understand what <span class='key'>electricity</span> is.  All atoms contain very small negatively charged particles called <span class='key'>electrons</span>. The electrons orbit around a nucleus or large center part of the atom. In most metals, these negatively charged electrons begin to move away from the nucleus if a <span class='key'>magnet</span> moves near the metal or if the metal moves near a magnet. The electrons in the atoms of a wire can be made to move one direction or the other, depending on how the wire and magnet are moved. This movement of electrons in a wire is called an <span class='key'>electric current</span> or <span class='key'>electricity</span>."
+msgstr ""
+
+msgid "The amount of electric current that moves in either direction in a wire is measured in a unit called <span class='key'>Amperes</span> or Amps. One amp is about the amount of electric current needed to light a kitchen ceiling light. Increasing the amount of wire being moved, using a stronger magnet or moving the wire or magnet more quickly near each other all produce larger electric currents. "
+msgstr ""
+
+msgid "Electric power plants use very large turbines that spin loops made up of thousands of meters of wire very, very quickly next to very large magnets to generate electric current. Power plants use the <span class='key'>energy</span> from such things as steam from burning fuels, water from dams, and moving blades of windmills to turn the turbines in generating electric current. They then use wires to move the energy of the electric current to our homes and businesses."
+msgstr ""
+
+msgid "Monitoring electric meter..."
+msgstr ""
+
+msgid "Some bicycles come equipped with a generator attached to one of the wheels. The generator makes electricity to light headlights or tail lights for the bicycle when the bicycle is moving."
+msgstr ""
+
+msgid "Which of the following adjustments could allow the bicycle to generate more electricity to power the lights?"
+msgstr ""
+
+msgid "Pedaling harder"
+msgstr ""
+
+msgid "A stronger magnet in the generator"
+msgstr ""
+
+msgid "Increasing the amount of wire used in the generator"
+msgstr ""
+
+msgid "All of the above"
+msgstr ""
+
+msgid "Not quite. Pedaling harder would move the magnets and coil in the generator faster, but that’s not the only option for producing more electricity."
+msgstr ""
+
+msgid "Not quite. A stronger magnet would generate more electricity, but that’s not the only option."
+msgstr ""
+
+msgid "Not quite. Increasing the wire used in the generator would increase the amount of electricity, but that’s not the only option."
+msgstr ""
+
+msgid "Correct. Pedaling harder, using stronger magnets and increasing the amount of wire would all lead to generating an increased amount of electricity."
+msgstr ""
+
+msgid "More big ideas about... electric circuits"
+msgstr ""
+
+msgid "Electric currents are able to move through metals but not through nonmetals such as glass, plastic, rubber and wood. Metals are considered <span class='key'>conductors</span> while nonmetals are considered <span class='key'>insulators</span>. But not all metals conduct electric currents equally well. Electric currents move more easily through gold, silver and copper, but not as easily through iron or steel.  Iron and steel have a higher <span class='key'>resistance</span> than the gold, silver and copper. It takes more force to push the electric current through iron and steel than it does to push through gold, silver and copper. The force to push an electric current is measured in <span class='key'>Volts</span>.  Resistance is measured in <span class='key'>Ohms</span>."
+msgstr ""
+
+msgid "Insulators (nonmetal)"
+msgstr ""
+
+msgid "Plastic"
+msgstr ""
+
+msgid "Bottle"
+msgstr ""
+
+msgid "Wood"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Silver"
+msgstr ""
+
+msgid "Copper"
+msgstr ""
+
+msgid "Scientists use the symbol I for electric current, V for volts or voltage and R for resistance. The relationship among I, V and R describe how an electric current moves in a wire and is given by the formula:"
+msgstr ""
+
+msgid "I = V/R"
+msgstr ""
+
+msgid "According to this formula, 100 Volts acting across a 20 Ohm resistor would produce a 5 Ampere current."
+msgstr ""
+
+msgid "Conductors or insulators?"
+msgstr ""
+
+msgid "A circuit in a typical home can safely carry 15 Amperes of current.  Using the relationship,"
+msgstr ""
+
+msgid "Current=Voltage/Resistance"
+msgstr ""
+
+msgid "What is the minimum amount of resistance that can safely be attached to a 110 Volt circuit?"
+msgstr ""
+
+msgid "110 Ohms"
+msgstr ""
+
+msgid "55 Ohms"
+msgstr ""
+
+msgid "8 Ohms"
+msgstr ""
+
+msgid "4 Ohms"
+msgstr ""
+
+msgid "Calculating minimum resistance..."
+msgstr ""
+
+msgid "No. 110 Volts and 110 Ohms would produce only 1 Ampere of current."
+msgstr ""
+
+msgid "No. 110 Volts and 55 Ohms would result in 2 Amperes of current."
+msgstr ""
+
+msgid "Yes! 110 Volts and 8 Ohms would result in 14 Amperes of current."
+msgstr ""
+
+msgid "Nope! 110 Volts and 4 Ohms would result in more than 27 Amperes of current."
+msgstr ""
+
+msgid "The electric currents from power plants reach our homes and businesses by wires strung on poles above ground and buried in tubes underground.  Batteries that make our flashlights light and our cars start also generate electric currents.  In both cases, wires are connected to and from either the batteries or the power plant in a loop called a <span class='key'>circuit</span> as shown below."
+msgstr ""
+
+msgid "There are two kinds of electric circuits: a <span class='key'>series circuit</span> and a <span class='key'>parallel circuit</span>.The diagrams below show a series circuit and a parallel circuit that both contain three light bulbs."
+msgstr ""
+
+msgid "Series Circuit"
+msgstr ""
+
+msgid "In a series circuit, the electric current flows in one single loop."
+msgstr ""
+
+msgid "Parallel Circuit"
+msgstr ""
+
+msgid "In a parallel circuit, the electric current can flow in more than one loop."
+msgstr ""
+
+msgid "Electric current will move in a series circuit only if the loop is <span class='key'>closed</span> or not broken.  In the diagram of the series circuit, that means if one of the light bulbs is burned out or removed, the circuit will be broken or <span class='key'>open</span>. The electric current will stop moving and the other light bulb will not light."
+msgstr ""
+
+msgid "Looking at the diagram..."
+msgstr ""
+
+msgid "In the diagram below, what is the reason the bulbs aren’t lighting up?"
+msgstr ""
+
+msgid "It is a series circuit."
+msgstr ""
+
+msgid "It is a parallel circuit."
+msgstr ""
+
+msgid "It is a closed circuit."
+msgstr ""
+
+msgid "It is an open circuit."
+msgstr ""
+
+msgid "Connecting wires..."
+msgstr ""
+
+msgid "Not quite. It does look like it will be a series circuit, but right now the wires and bulbs don’t form a closed path between the terminals on the battery."
+msgstr ""
+
+msgid "Nope. A parallel circuit would have multiple paths between the terminals of the battery."
+msgstr ""
+
+msgid "No. There isn’t a completed path between the terminals of the battery, so this is not a closed circuit."
+msgstr ""
+
+msgid "Yep! Right now, the wire is disconnected from the bulb, so current cannot flow in this circuit."
+msgstr ""
+
+msgid "A large part of the electricity generated in the world goes to providing light in homes, businesses, schools and along city streets. The light given off by cities at night is visible from space.  That makes it easy to identify the parts of the Earth with large populations, but it also points out the importance of producing light energy as efficiently as possible.  Traditional incandescent light bulbs convert electricity into light energy by heating up a thin wire or filament made of Tungsten.  These bulbs were first designed by Thomas Edison in the late 1800’s.  In order to emit light, the filament in an incandescent bulb must reach a temperature over 4000º Fahrenheit.  In fact, these bulbs emit more thermal energy (95%) than light energy (5%)."
+msgstr ""
+
+msgid "<span class='key'>Fluorescent lights</span> are a more efficient option.  That’s why you see them used in many schools and offices.  They still emit more thermal energy (80%) than light energy (20%), but that still makes them four times as efficient as <span class='key'>incandescent bulbs</span>.  Fluorescent lights are more efficient because the light is produced by passing electric current through a gas (mercury vapor) rather than heating a wire."
+msgstr ""
+
+msgid "Hover your mouse over the image to see the details."
+msgstr ""
+
+msgid "In recent years, <span class='key'>Light Emitting Diodes (LEDs)</span> have become an increasingly affordable and efficient option for replacing incandescent bulbs.  LEDs emit light by applying a voltage to a small semi-conducting chip.  Over time, scientists have developed different chemical compounds for LEDs that produce different colors of light. Compared to LEDs, fluorescent lamps require four times as much energy to produce the same amount of light, and incandescent bulbs require more than sixteen times as much energy.  At present, the purchase price for LED bulbs is quite a bit more than traditional bulbs, but this can be balanced out by the longer life span for LED bulbs.  Incandescent bulbs only last around 1,000 hours before they need to be replaced, while some LEDs can last up to 50,000 hours.  That’s why you’re starting to see LEDs everywhere from reading lamps to traffic lights!"
+msgstr ""
+
+msgid "Switching off the light..."
+msgstr ""
+
+msgid "As mentioned in the review, incandescent bulbs require four times as much energy to give off the same amount of light as a fluorescent lamp and fluorescent lamps require four times as much energy to give off the same light as Light Emitting Diodes.  This means that if you spend $160 per month on energy for incandescent lights in your home, you could produce the same light for..."
+msgstr ""
+
+msgid "$40 with fluorescent lighting, or $10 with LEDs."
+msgstr ""
+
+msgid "$120 with fluorescent lighting, or $80 with LEDs."
+msgstr ""
+
+msgid "$80 with fluorescent lighting, or $40 with LEDs."
+msgstr ""
+
+msgid "$16 with fluorescent lighting, or $1 with LEDs."
+msgstr ""
+
+msgid "You’ve got it! The amount of light you get for $10 from LEDs would cost four times as much (around $40) from fluorescent bulbs, and four times greater than that (around $160) from incandescent bulbs."
+msgstr ""
+
+msgid "Nope. Fluorescent lights are four times as efficient as incandescent bulbs.  That means you get the same amount of light for one fourth of the cost."
+msgstr ""
+
+msgid "No. $80 would mean that the fluorescent lights were twice as efficient, but they’re actually four times as efficient!"
+msgstr ""
+
+msgid "Not quite. Unfortunately, you won’t save that much by switching to fluorescent lights or LEDs.  $16 would mean that the fluorescent lights are ten times as efficient as incandescent bulbs."
+msgstr ""
+
+msgid "Using what you know about... electric circuits... to solve a problem"
+msgstr ""
+
+msgid "A local college is trying to determine whether they should install wind turbines or solar panels, or convert all lighting to LEDs in order to help them spend less money each year on electricity for the campus.  You are an engineer for a firm that has been hired to consult on project options."
+msgstr ""
+
+msgid "Please provide a list of considerations to go along with each of those options in order to help the administrators at the college make a good decision about improving energy efficiency. Write your answers in the space below."
+msgstr ""
+
+msgid "Converting LED lights..."
+msgstr ""
+
+msgid "Summarizing big ideas about... electric circuits"
+msgstr ""
+
+msgid "<span class='key'>Electrons</span> are tiny, negatively charged particles that orbit atoms.  In a metal wire, the electrons can be made to move in one direction or the other by moving a loop of wire near a magnet or moving a magnet near the wire.  The moving electrons are called an <span class='key'>electric current</span>.  Electric current is measured in <span class='key'>Amperes</span> or <span class='key'>Amps</span>. Power plants generate electric currents for our homes and businesses from burning fuels, moving water and wind to turn large turbines. The turbines spin loops made up of thousands and thousands of meters of wire near very, very large magnets to make electric currents. Electric currents flow best in metals (<span class='key'>conductors</span>) but not in nonmetals (<span class='key'>insulators</span>) such a glass, wood, plastic and rubber. The more <span class='key'>resistance</span> there is in a wire, the more force it takes to push electric current through the wire. Resistance is measured in <span class='key'>Ohms</span> and the push or force is measured in <span class='key'>volts</span>. Electric current (I), resistance (R) and voltage (V) are related by the formula: I = V/R. Electric currents move in an unbroken or closed loop called a <span class='key'>circuit</span>. Electric currents cannot move in a broken or open circuit. There are two kinds of electric circuits: a series circuit and a parallel circuit. A <span class='key'>series circuit</span> has one continuous loop and a <span class='key'>parallel circuit</span> has more than one loop. A variety of lamps can use electricity to produce visible light. <span class='key'>Incandescent bulbs</span> are relatively inefficient and produce much more thermal energy than light energy. Increasingly, <span class='key'>Light Emitting Diodes (LEDs)</span> are being used to efficiently provide light for a wide variety of applications."
+msgstr ""
+
+msgid "Reviewing key vocabulary related to... electric circuits"
+msgstr ""
+
+msgid "Electricity"
+msgstr ""
+
+msgid "The flow of electrons through a system.  Also known as an electric current."
+msgstr ""
+
+msgid "Electric Current"
+msgstr ""
+
+msgid "The flow of electrons through a system.  Also known as electricity."
+msgstr ""
+
+msgid "A flow of electricity from a place of high energy to a place of low energy."
+msgstr ""
+
+msgid "Energy"
+msgstr ""
+
+msgid "The property of objects that can be transferred or changed in form, but not created nor destroyed. The transfer of energy can cause change to a system."
+msgstr ""
+
+msgid "Circuit"
+msgstr ""
+
+msgid "Atom"
+msgstr ""
+
+msgid "The basic unit of matter.  An atom consists of a central nucleus surrounded by electrons."
+msgstr ""
+
+msgid "Electron"
+msgstr ""
+
+msgid "Tiny, negatively charged particles that orbit the nucleus of atoms."
+msgstr ""
+
+msgid "Resistance"
+msgstr ""
+
+msgid "A measure of how an object or material reduces the flow of electric current through it.  Resistance is measured in Ohms."
+msgstr ""
+
+msgid "Ohm"
+msgstr ""
+
+msgid "The unit that measures how much an object or material reduces the flow of electric current."
+msgstr ""
+
+msgid "Volt"
+msgstr ""
+
+msgid "The unit that measures electric potential. This is the amount of energy that could be transferred by a certain amount of electric charge if electric current was allowed to flow."
+msgstr ""
+
+msgid "Ampere (amps)"
+msgstr ""
+
+msgid "The unit that measures electric current, or how much electric charge flows through a circuit every second."
+msgstr ""
+
+msgid "Series circuit"
+msgstr ""
+
+msgid "When a circuit contains only one path for current to flow.  If that path is broken at any point in the circuit, no current will flow in any part of the circuit."
+msgstr ""
+
+msgid "Parallel circuit"
+msgstr ""
+
+msgid "When a circuit contains more than one path for current to flow. Not every charge passes through each resistor every time it goes through the circuit."
+msgstr ""
+
+msgid "Incandescent Bulb"
+msgstr ""
+
+msgid "A light bulb that works by running current through a thin wire or filament, causing it to heat up and release energy in the form of light and heat. Incandescent bulbs are an inefficient way of lighting up a room."
+msgstr ""
+
+msgid "Fluorescent Light"
+msgstr ""
+
+msgid "A light bulb that works by running a current through a gas.  This gas gives off ultraviolet light, which in turn causes a coating on the inside of the bulb to glow.  Fluorescent bulbs are much more energy efficient than incandescent bulbs."
+msgstr ""
+
+msgid "Light Emitting Diode"
+msgstr ""
+
+msgid "Light Emitting Diodes (LEDs) give off light when electrons jump across a semiconductor.  This process is called electroluminescence."
+msgstr ""
+
+msgid "Checking what you now know about... electric circuits"
+msgstr ""
+
+msgid "Check what you now know"
+msgstr ""
+
+msgid "What is the best way to produce an electric current in a copper wire?"
+msgstr ""
+
+msgid "Stretch the wire tightly between two nails"
+msgstr ""
+
+msgid "Heat the wire at one end with a burning candle"
+msgstr ""
+
+msgid "Move the wire quickly near a magnet"
+msgstr ""
+
+msgid "Shine a very bright light on the wire"
+msgstr ""
+
+msgid "Nope. In order to get an electric current to flow, you’ll need to apply a voltage to the wire, or induce a current with a changing magnetic field."
+msgstr ""
+
+msgid "Nope. Heating the wire will cause it to conduct heat, but that won’t cause the flow of electric current."
+msgstr ""
+
+msgid "Yes. In order to cause a current to flow, you’ll either need to apply a voltage or you can induce a current by placing the wire near a magnet and either rapidly moving the magnet back and forth, or moving the wire back and forth."
+msgstr ""
+
+msgid "Nope. If you want to use light to cause a current to flow in the wire, you’ll need a solar panel to convert the light energy into electric energy."
+msgstr ""
+
+msgid "Using the formula I = V/R, how will the electric current (I) in a wire change if the voltage (V) pushing the electric current is doubled?"
+msgstr ""
+
+msgid "(I) will not change"
+msgstr ""
+
+msgid "(I) will be half as great"
+msgstr ""
+
+msgid "(I) will be twice as great"
+msgstr ""
+
+msgid "(I) will be three times as great"
+msgstr ""
+
+msgid "Flipping the box..."
+msgstr ""
+
+msgid "Nope. Voltage and current are directly related.  Increasing the Voltage will cause an increase in the current."
+msgstr ""
+
+msgid "You’ve got it!  Voltage and current are directly related.  Doubling the Voltage will cause the current to double as well!"
+msgstr ""
+
+msgid "Not quite.  Voltage and current are directly related.  Whatever you do to the Voltage, the same thing will happen to the current.  If you double the Voltage, you’ll get twice as much current.  Three times the Voltage would result in three times as much current."
+msgstr ""
+
+msgid "As mentioned in the review, compared to LEDs it takes four times as much energy to get the same light from fluorescent lights, and four times more than that to get the same light from incandescent bulbs.  Drag the following panels in order from greatest amount of  light on the left, to least amount of light on the right."
+msgstr ""
+
+msgid "$40 of light from incandescent bulbs"
+msgstr ""
+
+msgid "$30 of light from fluorescent bulbs\""
+msgstr ""
+
+msgid "$20 of light from LED bulbs"
+msgstr ""
+
+msgid "$50 of light from fluorescent bulbs"
+msgstr ""
+
+msgid "Replacing a light bulb..."
+msgstr ""
+
+msgid "You’ve got it. To get the same light you get for $20 from an LED bulb, you’d spend $80 on fluorescent bulbs and $320 on incandescent bulbs."
+msgstr ""
+
+msgid "Nope. The light you get is not based on how much money you spend. Incandescent bulbs are the least efficient.  The $40 worth of light from an incandescent would only cost $10 for fluorescent bulbs, and less than $3 for LED bulbs."
+msgstr ""
+
+msgid "Not quite. Compared to LED's, it costs four times as much to get the same light from flourescent bulbs, and you'd have to pay four times that amount to get the same light from incandescent bulbs."
+msgstr ""
+
+msgid "Drag these items into the correct column  to indicate whether they are a good insulator or a good conductor of electricity."
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Insulator"
+msgstr ""
+
+msgid "Conductor"
+msgstr ""
+
+msgid "Drag the images below into the correct column to indicate whether they are experiencing balanced or unbalanced forces. Hover your mouse in the images to see the details."
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Identifying items..."
+msgstr ""
+
+msgid "A Pop Can"
+msgstr ""
+
+msgid "A Wooden Spoon"
+msgstr ""
+
+msgid "A Plastic Bag"
+msgstr ""
+
+msgid "Glass Bottle"
+msgstr ""
+
+msgid "A puck slides at constant speed across a frictionless air hockey table"
+msgstr ""
+
+msgid "You’ve got it! Metals conduct electricity while wood, plastic bags and glass act as insulators."
+msgstr ""
+
+msgid "Not quite. The can is made out of aluminum, which is a good conductor. The spoon, bottle and plastic bags are all made out of materials, which are good insulators."
+msgstr ""
+
+msgid "A circuit inside a computer is designed to run on 1 Ampere of current when connected to 5 Volts. To achieve this, what amount of resistance did the designers plan for?"
+msgstr ""
+
+msgid "Fixing a computer..."
+msgstr ""
+
+msgid "1 Ohm"
+msgstr ""
+
+msgid "5 Ohms"
+msgstr ""
+
+msgid "10 Ohms"
+msgstr ""
+
+msgid "Nope. Current is equal to Voltage divided by Resistance, not Voltage minus Resistance."
+msgstr ""
+
+msgid "Nope. A Resistance of 1 Ohm with 5 Volts would produce a 5 Ampere current."
+msgstr ""
+
+msgid "Yes! 5 Volts divided by 5 Ohms of resistance would give a 1 Ampere current."
+msgstr ""
+
+msgid "No. 5 Volts divided by 10 Ohms would only give half an Ampere of current."
+msgstr ""
+
+msgid "Drag lines between the objects to connect  the modern device powered by electricity to the older versions powered by hand."
+msgstr ""
+
+msgid "You’ve got it!  A washing machine, a clock, a drill and a mixer.  All these items used to be powered by hand, but are now powered by electricity.!"
+msgstr ""
+
+msgid "Not quite!  A modern electric washing machine looks quite different from the hold hand-powered version.  The same goes for the hand drill and mixer.  Although the objects look quite different from their historical counterparts, they allow us to do the same jobs with less effort."
+msgstr ""
+
+msgid "You've completed the Electric Circuits module."
+msgstr ""
+
+msgid "Conductors (metal)"
+msgstr ""

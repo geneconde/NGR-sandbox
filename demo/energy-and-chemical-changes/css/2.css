@@ -1,0 +1,41 @@
+
+		#arm {
+			-webkit-animation: arm 1s infinite alternate;
+			animation: arm 1s infinite alternate;
+			-moz-animation: arm 1s infinite alternate;
+		}	
+		
+		#hand {
+			-webkit-animation: hnd 1s infinite alternate;
+			animation: hnd 1s infinite alternate;
+			-moz-animation: hnd 1s infinite alternate;
+		}	
+		
+		
+		@-webkit-keyframes arm {
+			0% { -webkit-transform: rotate(0deg); }
+			100% { -webkit-transform: rotate(20deg); }
+		}
+		@keyframes arm {
+			0% { -webkit-transform: rotate(0deg); }
+			100% { -webkit-transform: rotate(20deg); }
+		}
+		@-moz-keyframes arm {
+			0% { -moz-transform: rotate(0deg); }
+			100% { -moz-transform: rotate(20deg); }
+		}
+		
+		
+		@-webkit-keyframes hnd {
+			0% { margin-left: 184px; margin-top: -20px; }
+			100% { margin-left: 184px; margin-top: 23px; }
+		}
+		@keyframes hnd {
+			0% { margin-left: 184px; margin-top: -20px; }
+			100% { margin-left: 184px; margin-top: 23px; }
+		}
+		@-moz-keyframes hnd {
+			0% { margin-left: 184px; margin-top: -20px; }
+			100% { margin-left: 184px; margin-top: 23px; }
+		}
+		

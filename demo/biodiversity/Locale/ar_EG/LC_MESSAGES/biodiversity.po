@@ -1,0 +1,1405 @@
+# msgid ""
+msgid ""
+msgstr ""
+"Project-Id-Version: Biodiversity\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+# Global
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار قصير رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختيار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط زر لاحق عندما تكون جاهزا"
+
+msgid "Congratulations, "
+msgstr "مبروك"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيفية إجابتك للإختبار السريع وبالأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل. "
+
+# Preloader
+msgid "Are you ready, "
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check..."
+msgstr "حضر أول تقويم سريع قمت به..."
+
+msgid "Ready for your first quick check?"
+msgstr "استعداد لاول الشيك سريعة؟"
+
+msgid "Ready for your last quick check?"
+msgstr "استعداد للمشاركة الشيك سريعة؟"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو ..."
+
+msgid "Your first quiz question is..."
+msgstr "السؤال الأول الخاص بك هو الاختبار ..."
+
+msgid "Take the last quiz question!"
+msgstr "اتخاذ مسابقة السؤال الأخير!"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Please type your answer here..."
+msgstr "يرجى كتابة إجابتك هنا ..."
+
+msgid "Please type your answer."
+msgstr "يرجى كتابة جوابك."
+
+msgid "Putting it all together..."
+msgstr "وضع كل ذلك معا ..."
+
+msgid "Ready for your last quiz question?"
+msgstr "استعداد للمسابقة مشاركة سؤالك؟"
+
+# 1
+msgid "Biodiversity"
+msgstr "التنوع الحيوي"
+
+msgid "Welcome to the Biodiversity Review"
+msgstr "اهلا بكم في مراجعة التنوع الحيوي"
+
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "Let's begin!"
+msgstr "لنبدأ"
+
+# 2
+msgid "Thinking about... biodiversity"
+msgstr "فكر في... التنوع الحيوي"
+
+msgid ""
+"Biodiversity describes the variety of species found in different places "
+"around the earth. But have you ever thought about why there are so many "
+"kinds of the same plants and animals? Are they all really necessary? Around "
+"170 years ago in Ireland, farmers grew only one kind of potato - the lumper "
+"potato. It was a good source of nutrition and it fed many people at low "
+"cost. Things were great until a fungus came and entire fields of potatoes "
+"were gone within days. Since there was only one kind of potato, and all the "
+"crops were identical, Ireland experienced a horrible famine. One out of "
+"every eight people died in three years. Relying on a single food crop is "
+"very risky.  If many different crops were grown, then it is unlikely that "
+"any single disease or event could cause such a tragedy. Biodiversity is how "
+"the earth is prepared for different changes, and how plants and animals "
+"survive over generations."
+msgstr ""
+"يصف التنوع الحيوي الاختلاف في الأنواع الموجودة في أماكن مختلفة من أرجاء "
+"الأرض.  لكن هل تسائلت يوما لماذا يوجد انواع كثيرة من نفس النباتات أو "
+"الحيوانات؟ هل من الضروري تواجدهم جميعا؟ قبل حوالي 170 سنة في إيرلاندا، زرع "
+"المزارعون نوعاً واحداً فقط من البطاطا-  بطاطا اللمبير.  كانت مصدر غذاء جيد وفي "
+"متناول أيدي الناس الفقراء.   كانت الأمور على ما يرام إلى أن اجتاحت الفطريات "
+"المزارع وقضت على المحصول خلال أيام.  وبما أنه لم يكن هناك إلا نوعاً واحداً من "
+"البطاطا، وكانت جميع المحاصيل متشابهة،تعرضت إيرلاندا إلى مجاعة مرعبة.  كان "
+"يموت واحد من بين ثمانية أشخاص خلال ثلاثة سنين.  ولذا يعد الإعتماد على محصول "
+"واحد فقط أمراً خطيراً جدا.  إذا تمت زراعة انواع مختلفة من المحاصيل، فإنه من "
+"غير المرجح  لأي مرض ممكن أن يسبب مثل هذه المأساة. التنوع الحيوي هو كيف يتم "
+"تهيأة الأرض لحدوث تغيرات مختلفة، وكيف  تبقى الحيوانات والنباتات على قيد "
+"الحياة لأجيال."
+
+msgid ""
+"Different animal and plant species are found in Earth's many ecosystems. You "
+"will learn about Earth's biomes and what we are doing to maintain "
+"biodiversity in this review."
+msgstr ""
+"تم العثور على أنواع من النباتات والحيوانات المختلفة في النظم البيئية "
+"المتعددة.  سوف تتعلم في هذه المراجعة عن المجموعات الحيوية الموجودة على الأرض "
+"وماذا يجب أن نفعل للحفاظ على التنوع الحيوي."
+
+# 3
+msgid "Checking what you know... about biodiversity"
+msgstr "تأكد من معلوماتك... حول التنوع الحيوي"
+
+msgid "Click on <span class=\"blink\">ALL</span> the correct statements below."
+msgstr "أنقر على <span class=\"blink\">جميع</span>  الإجابات الصحيحة."
+
+msgid "Changes in biodiversity can influence humans' resources."
+msgstr "من الممكن أن تؤثر التغيرات  في التنوع الحيوي على موارد الإنسان."
+
+msgid "Plants and animals can only live in certain habitats."
+msgstr "تعيش الحيوانات والنباتات فقط في مساكن معينة."
+
+msgid ""
+"Temperature is the only factor that determines where plants and animals "
+"survive the best."
+msgstr ""
+"درجة الحرارة هي العامل الوحيد الذي يحدد أنسب مكان لعيش النباتات والحيوانات."
+
+msgid ""
+"Different animal and plant species are found in Earth's many ecosystems."
+msgstr ""
+"تم العثور على أنواع من النباتات والحيوانات المختلفة في النظم البيئية "
+"المختلفة على الأرض."
+
+msgid ""
+"Plants and animals survive best in the habitat that suits them. However, "
+"some of them will adapt over generations, and some them will not survive in "
+"a new habitat. Temperature is an important factor, as well as the amount of "
+"rainfall an area gets. The different combinations of the two factors create "
+"unique circumstances for living things. Continue with this review to learn "
+"about biomes and biodiversity."
+msgstr ""
+"تبقى النباتات والحيوانات على قيد الحياة لفترة أطول في الأماكن التي تلائمها.  "
+"على الرغم من ذلك، يمكن لبعض النباتات أن تتكيف على مدى الاجيال، والبعض منها "
+"لن تستيطع العيش اذا تغيرت البيئة.  يعد عامل الحرارة في غاية الأهمية، وكذلك "
+"الحال فالنسبة لمعدل سقوط الأمطار في المنطقة.  فهذين العاملين سويا يؤدي إلى "
+"خلق ظروف فريدة  لعيش الكائنات الحية.  تابع هذه المراجعة لتتعلم أكثر عن "
+"المناطق الحيوية والتنوع الحيوي."
+
+msgid "Conducting ecological sampling..."
+msgstr "القيام بأخذ عينات بيئية..."
+
+# 4
+msgid "Reviewing core ideas... about biodiversity"
+msgstr "مراجعة الإفكار الرئيسية... حول التنوع الحيوي"
+
+msgid ""
+"<span class=\"key\">Biomes</span> are the unique plant/animal communities "
+"determined by local <span class=\"key\">climate</span> conditions. <span "
+"class=\"key\">Rainforests</span>, <span class=\"key\">grasslands</span>, and "
+"<span class=\"key\">deserts</span> are all examples of biomes. Every "
+"location on Earth has a unique pattern of yearly temperature and rainfall. "
+"Some places are warm all year. Some have hot and cold seasons. Some places "
+"are always dry, while others have rainfall nearly every day. The particular "
+"patterns of temperature and rainfall averages over the course of each year "
+"determine which plants and animals can live in a place."
+msgstr ""
+"<span class=\"key\">المناطق الحيوية</span> هي مجتمعات نباتية/ حيوانية فريدة "
+"تحددها ظروف <span class=\"key\">المناخ</span> المحلية. <span class=\"key"
+"\">الغابات المطرية</span>، و<span class=\"key\">المراعي</span> و <span class="
+"\"key\">الصحراء</span> جميعها أمثلة على المناطق الحيوية.  كل مكان موجود على "
+"سطح الأرض لديه نمط فريد من درجات الحرارة وسقوط الأمطار.  بعض الأماكن حارة "
+"طوال العام.  وبعضها يوجد فيها موسم حار وموسم بارد.  بعض المناطق دائما تكون "
+"جافة، وبعضها الأخر تسقط فيها الأمطار تقريبا يوميا.  معدل درجات الحرارة وسقوط "
+"الأمطار خلاال العام يحدد نوع النباتات والحيوانات التي تعيش في تلك المنطقة."
+
+msgid "Rainforest"
+msgstr "الغابات المطيرة"
+
+msgid "Grassland"
+msgstr "أراضي عشبية"
+
+msgid "Desert"
+msgstr "صحراء"
+
+msgid ""
+"A tropical rainforest is a place where it is always warm and rain falls "
+"nearly every day.  A desert may be warm or cold, but has very little "
+"rainfall. Regions that have warm summers and cold winters are said to be "
+"<span class=\"key\">temperate</span>. Grasslands may be tropical or "
+"temperate, but always have less rain than rainforests and more rain than "
+"deserts. For every possible combination of rain and temperature, a plant "
+"community exists. These are biomes."
+msgstr ""
+"الغابات المطرية الإستوائية هي مناطق دائما دافئة وتسقط فيها الأمطار تقريبا كل "
+"يوم.  الصحراء ممكن أن تكون حارة أو باردة، ولكن تسقط فيها الأمطار بشكل خفيف. "
+"ويطلق على المناطق التي يكون فيها الصيف حار والشتاء بارد باسم المناطق "
+"المعتدلة. الأراضي العشبية إما أن تكون استوائية أو معتدلة، ولكن دائما يكون "
+"معدل سقوط الامطار فيها أقل من الغابات المطرية وأكثر من الصحراء.  كل مزيج "
+"محتمل من الأمطار والحراة, يجب أن يتواجد فيه مجتمع نباتي. وهذا ما يعرف "
+"بالمجال الحيوي البيئي. "
+
+msgid ""
+"Every biome has special features and combinations of living things that "
+"occur nowhere else. A single tree in a tropical rainforest may be home to "
+"hundreds of insect <span class=\"key\">species</span>. When biologists "
+"capture and identify all of the insects found on one tree, it's common to "
+"find new species, never before seen."
+msgstr ""
+"كل منطقة حيوية لديها ميزات وتنظيمات خاصة تحدث في أي مكان أخر.  إن شجرة واحدة "
+"في الغابات الإستوائية تعد موطناً للمئات من <span class=\"key\">أنواع</span> "
+"الحشرات.  عندما يقوم علماء الأحياء بالتقاط الحشرات والتعرف علي جميع الحشرات "
+"الموجودة على الشجرة، من الشائع وجود أنواع جديدة لم تكن معروفة من قبل. "
+
+msgid "Tropical rainforest"
+msgstr "غابات استوائية مطرية."
+
+msgid "Tropical rainforest river"
+msgstr "أنهار غابات مطرية استوائية"
+
+msgid "Cactus in cold desert"
+msgstr "صبار في الصحراء الباردة"
+
+msgid "Snow covered desert"
+msgstr "ثلوج تغطي الصحراء"
+
+msgid ""
+"The <span class=\"key\">tundra</span> biome most often occurs in the very "
+"far north, where temperatures are very cold, and most water shows up as "
+"snow. When the snow melts in summer, grasses and many flowers emerge, "
+"followed by a hardy set of animals. Tundra also shows up near the tops of "
+"tall mountains where the living conditions are so harsh large plants can't "
+"survive."
+msgstr ""
+"يتركز مجتمع <span class=\"key\">التندرا</span> الحيوي أو ما يعرف بالصحراء "
+"الباردة في النصف الشمالي من الكرة الأرضية، حيث تكون درجات الحرارة منخفضة "
+"جدا، ومعظم المياه تكون متجمدة.  عندما تذوب المياه في فصل الصيف تظهر العديد "
+"من الأزهار والأعشاب الخضراء  بالإضافة إلى حيوانات ذات بنية جسدية قوية.  "
+"وتوجد التندرا أيضا بالقرب من قمم الجبال حيث تكون الظروف المعيشية صعبة جدا."
+
+msgid ""
+"A biome that features many large needled trees goes by two names: <span "
+"class=\"key\">taiga</span> and <span class=\"key\">boreal forest</span>. It "
+"features many large needled trees. This community also supports very large "
+"mammals like moose, elk, and bears. Some of the oldest, largest trees in the "
+"world are found in this biome."
+msgstr ""
+"يطلق على الأحياء البيئية التي تعيش في الأشجار ذات الإبر الطويلة اسمين هما: "
+"<span class=\"key\">غابات الصنوبر</span> و <span class=\"key\"> الغابات "
+"الشمالية</span> حيث تكون إبر الشجر طويلة.  يدعم هذا المجتمع الثديات الكبيرة "
+"مثل حيوان الموس والظبي والدببة. بعض أنواع الأشجار القديمة والكبيرة تم العثور "
+"عليها في هذه المناطق البيئية. "
+
+msgid "Tundra Biome"
+msgstr "مناطق التندرا الحيوية"
+
+msgid "Tundra on top of mountains"
+msgstr "التندرا في قمم الجبال"
+
+msgid "Taiga / Boreal Forest"
+msgstr "غابات الصنوبر / الغابات الشمالية"
+
+msgid "Taiga / Boreal forest during winter"
+msgstr "غابات الصنوبر / الغابات الشمالية خلال فصل الشتاء"
+
+msgid "Looking for a unique pattern..."
+msgstr "البحث عن النمط الفريد من نوعه..."
+
+# 5
+msgid ""
+"Question A. Which of the following events would be <span class=\"blink"
+"\">least</span> expected in a tropical rainforest?"
+msgstr ""
+"السؤال أ. أي من الأحداث التالية تعد <span class=\"blink\">الأقل</span> "
+"إحتمالية حدوث في الغابات الإستوائية المطرية؟  "
+
+msgid "During the winter, trees lose their leaves and plants stop growing."
+msgstr "خلال فصل الشتاء، تسقط الأوراق من الشجر ويتوقف نمو النباتات."
+
+msgid "Large trees that support complex communities of birds and insects."
+msgstr "الأشجار الضخمة التي تدعم مجتمعات معقدة من الطيور والحشرات."
+
+msgid "Human settlers cut down and burn large areas of trees for farmland."
+msgstr "يقوم المستوطنون بقطع وحرق مساحات كبيرة من الأشجار للأراضي الزراعية."
+
+msgid ""
+"Heavy thunderstorms that occur nearly every day during the rainy season."
+msgstr "العواصف الرعدية الغزيرة التي تحدث تقريبا كل يوم خلال فصل الشتاء. "
+
+msgid ""
+"Question B. Which of the following pairs of names actually refer to the same "
+"plant community? Rotate or flip the 3D box below either up or down to set "
+"your answer."
+msgstr ""
+"السؤال ب. أي من الأزواج التالية من الأسماء تشير في الواقع إلى المجتمع "
+"النباتي نفسه؟ أدر أو اعكس الصندوق الثلاثي الأبعاد إلى الأعلى أو إلى الأسفل "
+"لتحدد إجابتك."
+
+msgid "Desert and grassland"
+msgstr "صحراء وأراضي عشبية"
+
+msgid "Taiga and boreal forest"
+msgstr "تايغا والغابات شمالية"
+
+msgid "Tropical rainforest and temperate desert"
+msgstr "غابات استوائية مطرية وصحراء معتدلة"
+
+msgid "Tundra and taiga"
+msgstr "التندرا والتايغا"
+
+msgid "Click, hold and drag up or down"
+msgstr "انقر, اضعط واسحب إلى الأعلى او الأسفل"
+
+msgid ""
+"Correct! The growing conditions are the same year-round in a rainforest."
+msgstr "صحيح! ظروف النمو هي نفسها على مدار العام في الغابات المطرية."
+
+msgid "Nope. Rainforests are full of large trees with lots of animals."
+msgstr "لا. إن الغابات المطرية مليئة بالأشجار الكبيرة والعديد من الحيوانات."
+
+msgid "Nope. People actually do \"slash and burn\" many rainforest trees."
+msgstr "لا. يقوم بالعادة الناس باحراق العديد من أشجار الغابات المطرية."
+
+msgid ""
+"Nope. Periods of daily rain is a characteristic of all tropical rainforests."
+msgstr ""
+"لا.  تعد فترة هطول الأمطار اليومي سمة من سمات الغابات الإستوائية المطرية.  "
+
+msgid "Sorry, grasslands get way more rain than deserts."
+msgstr "متأسف. تهطل الأمطار في الأراضي العشبيىة أكثر من الصحراء."
+
+msgid "Yes! Taiga and boreal forest are pretty much the same."
+msgstr "نعم!يوجد تشابه كبير بين التايغا والغابات الشمالية "
+
+msgid "No... These two couldn't be much more different."
+msgstr "لا... لا يوجد اختلاف كبير بينهما."
+
+msgid "Not this time. Tundra has no trees. Taiga is full of trees."
+msgstr "ليس هذه المرة. لا يوجد أشجار في التندرا. التايغا مليئة بالأشجار."
+
+# 6
+msgid "More core ideas... about biodiversity"
+msgstr "المزيد من الأفكار الرئيسية... عن التنوع الحيوي"
+
+msgid ""
+"<span class='key'>Biodiversity</span> is the term used to refer to the "
+"collection of different plant and animal communities within their natural "
+"environments. Biodiversity describes the variety of species found in Earth's "
+"<span class='key'>ecosystems</span>. These plant and animal communities are "
+"the result of natural factors such as temperature and precipitation as well "
+"as the actions of people. Some plants and animals only survive well in "
+"certain habitats with the temperature and rainfall conditions that suit "
+"them. Think of a polar bear on the beach, how long do you think it would "
+"survive? Some animals migrate or move to a <span class='key'>habitat</span> "
+"that suits them; sometimes permanently, sometimes temporarily."
+msgstr ""
+"<span class=\"key\">التنوع الحيوي</span> هو مصطلح يطلق على مجموعات من "
+"النباتات والحيوانات المختلفة ضمن بيئاتهم الطبيعية.  يصف التنوع الحيوي "
+"الإختلاف في الأنواع الموجودة على <span class=\"key\">النظم البيئية</span> "
+"الأرضية. تعد المجتمعات النباتية والحيوانية هي نتيجة عوامل طبيعية مثل درجات "
+"الحرارة وهطول الأمطار بالإضافة إلى سلوك الأشخاص . بعض أنواع النباتات "
+"والحيوانات تعيش ضمن ظروف معينة مناسبة لهم. فكر في الدب القطبي على الشاطئ، "
+"باعتقادك إلى متى سوف يبقى على قيد الحياة؟ بعض الحيوانات تهاجر أو تنتقل إلى "
+"<span class=\"key\">مساكن</span> تناسبهم أكثر, بعض الأحيان يكون الأنتقال "
+"دائم أو مؤقت."
+
+msgid "Polar bear in cold climate"
+msgstr "الدب القطبي في بيئة باردة"
+
+msgid "Camel in a desert"
+msgstr "الجمل في الصحراء"
+
+msgid "Penguins in cold climate"
+msgstr "البطريق في بيئة باردة"
+
+msgid "Meerkats in warm climate"
+msgstr "السقراط في بيئة دافئة"
+
+msgid "Sheep migrating to new pasture"
+msgstr "تهاجر الأغنام إلى مراعي جديدة"
+
+msgid "Migrating snow geese"
+msgstr "الإوز يهاجر إلى الثلوج"
+
+msgid ""
+"Other animals are able to create their own habitats. Ants, bees, and "
+"termites are examples of insects that build complex hives and hills. These "
+"insects live in highly ordered societies that include members who specialize "
+"in such tasks as food gathering, defense, and reproduction."
+msgstr ""
+"هنالك حيوانات أخرى تستطيع أن تصنع مأوى لها. تعد الحشرات والنحل والنمل الأبيض "
+"من الأمثله على الحشرات التي تبني خلايا وتلال معقدة. تعيش هذه الحشرات في "
+"مجتمعات في غاية التنظيم حيث لكل شخص وظيفة خاصة مثل جمع الطعام والدفاع "
+"والإنتاجية."
+
+msgid ""
+"Most bees construct hives inside other enclosed structures, such as hollow "
+"trees, old buildings, or even boxes placed by humans for the bees to use. A "
+"single hive may house as many as 1500 bees. Ants and termites burrow into "
+"the ground to construct vast mazes to house and protect their colonies. The "
+"hills consist of a great many rooms and chambers connected by tunnels. Ant "
+"and termite colonies may be home to anywhere from a few hundred to more than "
+"a million insects each."
+msgstr ""
+"يبني معظم النحل خلايا داخل بعضها البعض  داخل هياكل مغلقة، مثل الفتحات "
+"المتواجدة في الأشجار والمباني القديمة وحتى داخل الصناديق التي يقوم الإنسان "
+"بوضعها للنحل.   تأوي الخلية الواحده 1500 نحلة. يقوم النمل والنمل الأبيض بحفر "
+"في الأرض وصنع متاهات لإيواء وحماية مستعمراتهم.  حيث تحتوي على العديد من "
+"الغرف وغرف متصلة مع بعضها من خلال الأنفاق. إن مستوطنات النمل والنمل الأبيض "
+"عبارة عن ملجأ لبضع مئات من النمل لأكثر من مليون حشرة في كل منها. "
+
+msgid "Ant nest on a tree in a tropical rainforest"
+msgstr "عش النمل في شجرة في  الغابات الإستوائية المطرية."
+
+msgid "Bees in honeycomb box placed by a human"
+msgstr "النحل في قرص عسل قام بوضعه الإنسان"
+
+msgid "Termites in an old house"
+msgstr "نمل أبيض في منزل قديم"
+
+msgid "Sand anthill in a desert"
+msgstr "عش نمل في رمال الصحراء"
+
+msgid ""
+"Some animals not only construct homes for themselves, they build homes for "
+"others. <span class=\"key\">Coral</span> are small ocean creatures that make "
+"hard shells for themselves. Unlike many other shellfish, coral attach "
+"themselves to hard surfaces in warm seawater. Over a period of many years, "
+"large colonies of coral grow enough to form <span class=\"key\">reefs</"
+"span>, large underwater structures that are the home to many kinds of sea "
+"life."
+msgstr ""
+"لا تكتفي بعض الحيوانات ببناء منازل لهم، بل يقوموا ببناء منازل للأخرين. فمثلا "
+"<span class=\"key\">المرجان</span> عبارة عن كائن حي صغير يعيش في المحيط يقوم "
+"ببناء صدفة قاسية. على العكس رخويات أخرى، تلتصق المرجان بالأسطح الصلية في "
+"مياه البحر الدافئة. على مدى فترة لسنوات عدة, تقوم مستعمرات المرجان بالنمو "
+"بما فيه الكفاية ليشكلوا <span class=\"key\">الشعاب</span>، إن الهياكل "
+"الكبيرة تحت  الماء هي موطن للعديد من اشكال  الحياة البحرية.  "
+
+msgid "Monarch butterfly migrating..."
+msgstr "هجرة الفراشة الملكية...."
+
+# 7
+msgid ""
+"Question A. Click on <span class=\"blink\">all</span> of the following that "
+"are advantages enjoyed by animals like ants, termites, and bees that build "
+"large structures to house their colonies?"
+msgstr ""
+"السؤال أ. أنقر على <span class=\"key\">جميع</span>  المميزات التي تتمتع بها "
+"الحيوانات مثل النمل والنمل الأبيض والنحل التي تقوم ببناء منازل ضخمة لإيواء "
+"مستعمراتهم؟"
+
+msgid "Protection from possible predators"
+msgstr "الحماية من المفترسين"
+
+msgid "Protection from extreme weather"
+msgstr "الحماية من الظروف الجوية القاسية"
+
+msgid "Protection for developing young"
+msgstr "الحماية من تطور الحيوانات الصغيرة."
+
+msgid "Protection from volcanic eruptions"
+msgstr "الحماية من الإنفجارات البركانية."
+
+msgid "Question B. What is one advantage enjoyed by animals that build hives?"
+msgstr "السؤال ب. ما هي الميزة الوحيدة للحشرات التي تقوم ببناء خلايا؟"
+
+msgid "Protection from predators"
+msgstr "الحماية من المفترسين"
+
+msgid "Easy movement from place to place"
+msgstr "سهولة الحركة من مكان إلى أخر"
+
+msgid "Locations close to food sources"
+msgstr "قرب المكان من الطعام"
+
+msgid "Protection from prey species"
+msgstr "الحماية من الفرائس"
+
+msgid "Investigating the beehive..."
+msgstr "التحقق من خلية النحل..."
+
+msgid ""
+"Correct. Hives and hills do provide protection from predators and extreme "
+"weather. They also provide protection for their young. The extreme heat of "
+"volcanoes will destroy the hive or hill."
+msgstr ""
+"صحيح. إن الخلايا والتلال تحمي من المفترسين والظروف الجوية القاسية. بالإضافة "
+"إلى توفير الحماية لصغارهم.  تدمرالحرارة الشديدة الناتجة من البراكين الخلايا "
+"والتلال"
+
+msgid ""
+"Not quite. Hives and hills provide protection from predators and extreme "
+"weather. They also provide protection for their young. However, the extreme "
+"heat of volcanoes will destroy the hive or hill."
+msgstr ""
+"ليس تماما. إن الخلايا والتلال تحمي من المفترسين و من الظروف الجوية القاسية. "
+"بالإضافة إلى توفير الحماية لصغارها. تدمر الحرارة الشديدة الناتجة من البراكين "
+"الخلايا والتلال"
+
+msgid "Yes! Hives are built in places that are hard for predators to attack."
+msgstr "نعم! يتم بناء الخلايا في مكان بعيد يصعب على المفترسين الوصول إليه."
+
+msgid "No... Hives can't move..."
+msgstr "لا... لا يمكن للخلايا أن تتحرك"
+
+msgid "Probably not. A good place for a hive may or may not be near food."
+msgstr "غالبا لا. أفضل مكان للخلايا قد يكون بالقرب من الطام أو بعيدا عنه."
+
+msgid "Sorry. Prey species are food sources, not threats."
+msgstr "متأسف. تعد أنواع الفرائس مصادر للغذاء، وليس تهديدا."
+
+# 8
+msgid ""
+"When humans interact with nature, we assume the responsibilities for "
+"managing resources, plants, and animals.  Managing nature is a complex task, "
+"especially as we continue to learn more about how natural systems work. "
+"Sometimes our plans work well. Sometimes, they don't work as well. "
+"Hopefully, we learn from mistakes and improve our management techniques."
+msgstr ""
+"عندما يتفاعل الإنسان مع الطبيعة، نفترض القيام بمسؤولية إدارة الموارد،و "
+"النباتات، و الحيوانات.  تعد إدارة الطبيعة مهمة صعبة، خاصة أننا نتعلم "
+"باستمرار عن  كيفية عمل النظم البيئية.  بعض الأحيان تعمل خططنا بشكل صحيح. و "
+"أحياناً لا تعمل خططنا بشكل جيد. نأمل، بأننا نتعلم من أخطائنا ونطور من  أسلوب "
+"الإدارة."
+
+msgid ""
+"An interesting example has been the way forest fires have been managed in "
+"the United States. At one time, all fires were fought immediately. It turns "
+"out that fire is an important part of the life of forests. Fires set by "
+"lightning burn through forests every few years and clear away shrubs and "
+"dry, dead brush. The ash fertilizes the soil. Removal of shrubs allows young "
+"trees to have the sunlight they need for growth. Some types of trees even "
+"need the high temperatures of a fire to open their cones and allow the seeds "
+"to drop. So now, some fires are allowed to burn, and some are even set on "
+"purpose."
+msgstr ""
+" احد الامثلة المثيرة للاهتمام هو الحريق الذي حدث في غابات الولايات المتحده.  "
+"حدثت جميع الحرائق في نفس الوقت. و قد تبين بعد ذلك أن الحريق هو جزء مهم من "
+"حياة الغابات.  كل بضع سنوات يتسبب البرق بحدوث حريق ويؤدي إلى إزالة الشجيرات "
+"الجافة والأشجار.  و يعد الرماد سماد جيد للنباتات.  إزالة الشجيرات يساعد "
+"الأشجار الصغيرة للحصول على ضوء الشمس اللازم لنموها.  هنالك انواع من الأشجار "
+"التي تحتاج إلى حرارة الحريق العالية لفتح مخاريطها لتسمح بتساقط بذورها.  لذلك "
+"يسمح لبعض الحرائق بأن تحرق أشجار معينة الآن، وبعض الحرائق تحدث عن قصد.  "
+
+msgid ""
+"Another way scientists are learning about the earth and all the interactions "
+"that take place in it is by conducting experiments in <span class=\"key"
+"\">Biosphere 2</span>. A large man-made environment called Biosphere 2 is "
+"sealed off from the outside world. It is intended to help us understand the "
+"needs of people if they were to travel to other planets. Biosphere 2 takes "
+"in solar energy and uses it to grow plants and animals; recycle water, "
+"oxygen, and waste; and provide the power needed to operate the facility."
+msgstr ""
+"يوجد طريقة أخرى يتعرف من خلالها العلماء عن الأرض أكثر وعلى جميع التفاعلات "
+"التي تحدث فيها وذلك من خلال التجارب في <span class=\"key\">المحيط الحيوي 2 </"
+"span>.   قام الإنسان بصنع بيئة أطلق عليها اسم المحيط الحيوي 2 وهي معزولة عن "
+"العالم الخارجي. والغرض منها مساعدتنا على فهم احتياجات الإنسان إذا أراد السفر "
+"إلى كوكب أخر.  يأحذ المحيط الحيوي 2 الطاقة الشمسية ويستخدمها في نمو النباتات "
+"والحيوانات؛ إعادة تدوير المياه والأكسجين والفضلات ويوفر الطاقة اللازمة "
+"لتشغيل المرافق."
+
+msgid ""
+"Biosphere 2 supports six different biomes: the desert, marsh, ocean, "
+"rainforest, savannah, and thorn scrub. The desert biome illustrates life in "
+"the world's dry, arid regions. The marsh biome includes both grassy and "
+"forest wetlands. The ocean biome duplicates the environment of a Caribbean "
+"Sea coral reef. The rainforest biome is divided into segments, each "
+"simulating a different kind of plant community commonly found in wet forests "
+"around the world. Scientists study the interactions between people and their "
+"surrounding environments in these biomes."
+msgstr ""
+"يدعم المحيط الحيوي 2 ستة مناطق حيوية مختلفة: الصحراء والمستنقعات والمحيطات "
+"والغابات المطرية والسافانا والأشوال.  إن المناطق الحيوية الصحراوية هي عبارة "
+"عن مناطق جافة وقاحلة. اما المستنقعات فهي عبارة عن مناطق عشبية وغابات رطبة.  "
+"و يكثرفي المحيطات الشعب المرجانية.  و تنقسم  الغابات المطرية إلى أقسام، "
+"تحاكي كل منها أنواع مختلفة من المجتمعات النباتية التي توجد عادة في الغابات "
+"الرطبة.  يدرس العلماء عادة في هذه المجتمعات الحيوية التفاعلات بين الأشخاص "
+"والبيئة المحيطة بهم."
+
+msgid "Removing shrub stumps..."
+msgstr "إزالة جذوع الشجيرات...."
+
+# 9
+msgid ""
+"Question A. Our ideas about forest fires have changed in the United States "
+"over the years. We now know that..."
+msgstr ""
+"السؤال أ. تغيرت أفكارنا حول إحتراق الغابات في الولايات المتحدة مع مرور "
+"السنين. نحن نعرف الآن أن..."
+
+msgid "Fires can be good for the health of a forest."
+msgstr "تعتبر الحرائق جيدة للغابات؟"
+
+msgid "Fires destroy the soil and prevent new trees from growing."
+msgstr "تدمر الحرائق التربة وتمنع الأشجار الجديدة من النمو."
+
+msgid "Fires need to be extinguished as soon as they are spotted."
+msgstr "يجب إطفاء الحرائق بمجرد بدايتها"
+
+msgid "Fires reduce the number of tourists who visit areas that have burned."
+msgstr "تقلل الحرائق نسبة الزوار إلى المناطق المحترقة."
+
+msgid ""
+"Question B. What primary source do Biosphere 2 and Earth use for energy?"
+msgstr ""
+"سؤال ب. ما هو المصدر الرئيسي الذي يستخدمه المحيط الحيوي 2 والأرض لإنتاج "
+"الطاقة؟"
+
+msgid "Batteries"
+msgstr "البطاريات"
+
+msgid "Nuclear Power"
+msgstr "الطاقة النووية "
+
+msgid "The Sun"
+msgstr "الشمس"
+
+msgid "Gasoline"
+msgstr "البنزين"
+
+msgid ""
+"That's right. Small fires rid forests of dead, dry materials that can lead "
+"to bigger fires if allowed to build up."
+msgstr ""
+"هذا صحيح. حرائق الغابات الصغيرة تؤدي إلى موت الغابات، والمواد الجافة تؤدي "
+"أيضا إلى اشتداد الحرائق."
+
+msgid "Not true. A young healthy forest needs a few fires."
+msgstr "ليس صحيحا. الغابات الصغيرة تحتاج إلى حرائق قليلة."
+
+msgid ""
+"Not always. Sometimes forest managers actually start small fires to get rid "
+"of some of the dead, dry debris in a forest."
+msgstr ""
+"ليس دائما. يقوم بعض الأحيان مدراء الغابات بافتعال حرائق صغيرة للتخلص من بعض "
+"الموتى والحطام الجاف في الغابات."
+
+msgid ""
+"Not true. Even areas that have suffered large, destructive fires begin to "
+"grow new trees and plants that attract tourists."
+msgstr ""
+"ليس صحيحا. حتى المناطق التي عانت قليلا، فان الحرائق المدمرة تعمل على نمو "
+"أشجار ونباتات صغيرة  تجذب السياح إليها."
+
+msgid "Not this one. Earth is a bit big for batteries."
+msgstr "ليس هذه المرة.  حجم الأرض أكبر بقليل من البطاريات"
+
+msgid "Sorry. While Earth may generate some nuclear power, Biosphere does not."
+msgstr ""
+"نأسف. بينما قد تكون الأرض تولد طاقة نووية، فان المحيط الحيوي لا يقوم بذلك."
+
+msgid "There you go. Solar power provides energy for both."
+msgstr "أحسنت العمل. توفر الطاقة الشمسية الطاقة لكلاهما."
+
+msgid "No... Neither Earth nor Biosphere uses gasoline."
+msgstr "لا... لا تستخدم الأرض ولا المحيط الحيوي البنزين."
+
+# 10
+msgid "Using what you know... about biodiversity... to solve a problem"
+msgstr "استخدم ما تعرفه .... عن التنوع الحيوي.... لحل مشكلة ما"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"A certain park supports a complex plant and animal community that may be "
+"summarized in the food web at the right."
+msgstr ""
+"تدعم حديقة معينة  مجتمع نباتي وحيواني والتي يمكن تلخيصها في الشبكة الغذائية "
+"على اليمين"
+
+msgid ""
+"Many park users have expressed fear of wolves and want them separated from "
+"children and pets. Park rangers disagree, saying wolves are an essential "
+"part of the park's ecosystem. Park managers are considering whether to "
+"remove all wolves from the park."
+msgstr ""
+"جرب العديد من زوار الحدائق الشعور بالخوف من الذئاب وأرادوا ابعادهم عن "
+"أطفالهم وحيواناتهم الأليفة.  لا يوافق حراس الحدائق على هذا الأمر، حيث "
+"يعتقدون بأن الذئاب هي جزء مهم من النظام البيئي للحديقة.   مدراء الحدائق "
+"يدرسون موضوع إزالة جميع الذئاب من الحديقة."
+
+msgid "Bear"
+msgstr "دب"
+
+msgid "Wolf"
+msgstr "ذئب"
+
+msgid "Deer"
+msgstr "غزال"
+
+msgid "Red Fox"
+msgstr "تعلب أحمر"
+
+msgid "Bee"
+msgstr "نحل"
+
+msgid "Skunk"
+msgstr "ظربا الأمريكي"
+
+msgid "Birds"
+msgstr "عصافير"
+
+msgid "Mice"
+msgstr "فئران"
+
+msgid "Rabbit"
+msgstr "أرنب"
+
+msgid "Toad"
+msgstr "ضفدع"
+
+msgid "Insects"
+msgstr "حشرات"
+
+msgid "Blossoms"
+msgstr "أزهار "
+
+msgid "Nuts"
+msgstr "مكسرات "
+
+msgid "Bark Oak"
+msgstr "لحاء البلوط"
+
+msgid "Leaves"
+msgstr "أوراق"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"You have been asked by the park managers to make a prediction about what "
+"might happen if wolves are removed. Use the space below to list all the "
+"things in the park that will be directly and indirectly affected if all the "
+"wolves are removed. Also write a brief explanation whether you think wolf "
+"removal is a good idea or not."
+msgstr ""
+"قام مسؤولوا الحديقة بطرح السؤال التالي عليك وهو ماذا يمكن أن يحدث إذا تم "
+"إزالة جميع الذئاب من الحديقة.  استخدم المسافة التالية في الأسفل لتسجيل جميع "
+"الأشياء المتواجدة في الحديقة التي قد تتأثر بإزالة الذئاب بشكل مباشر وغير "
+"مباشر.  واكتب أيضا توضيح قصير إذا كنت مع إزالة الذئاب أم لا."
+
+msgid "Understanding the food web..."
+msgstr "فهم شبكة الغذاء..."
+
+# 11
+msgid "Summarizing core ideas... about biodiversity"
+msgstr "تلخيص الأفكار الرئيسية... حول التنوع الحيوي"
+
+msgid ""
+"<span class=\"key\">Biomes</span> are the unique plant/animal communities "
+"determined by local climate conditions.  The patterns of temperature and "
+"rainfall averages over the course of each year determine which plants and "
+"animals can live in a place. The <span class=\"key\">tundra</span> biome "
+"most often occurs in the very far north, where temperatures are very cold, "
+"and most water shows up as snow. A biome that features many large needled "
+"trees goes by two names: <span class=\"key\">taiga</span> and <span class="
+"\"key\">boreal forest</span>. Some animals are able to create their own "
+"habitats. Ants, bees, and termites are examples of insects that build "
+"complex hives and hills. Some animals not only construct homes for "
+"themselves, they build homes for others. <span class=\"key\">Coral</span> "
+"make hard shells for themselves. Over a period of many years, large colonies "
+"of coral grow enough to form <span class=\"key\">reefs</span>. When humans "
+"interact with nature, we assume the responsibilities for managing resources, "
+"plants, and animals. To learn even more about the interactions between "
+"people and their surrounding environments, scientists have built a large man-"
+"made environment called <span class=\"key\">Biosphere 2</span>. Biosphere 2 "
+"supports six different biomes: the desert, marsh, ocean, rainforest, "
+"savannah, and the thorn scrub biome."
+msgstr ""
+"إن <span class=\"key\">المناطق الحيوية</span> هي عبارة عن مجتمعات نباتية "
+"وحيوانية فريدة من نوعها والتي يتم تحديدها من خلال ظروف جوية معينة. إن معدل "
+"تساقط الأمطار ودرجات الحرارة خلال العام يحدد نوع النباتات والحيوانات التي "
+"تعيش في أي مكان.  إن مناطق <span class=\"key\">التندرا</span> الحيوية تقع في "
+"الغالب في أقصى الشمال، حيث تكون درجات الحرارة منخفضة جدا، وتكون أغلب المياه "
+"متجمدة.  إن المناطق الأحيائية التي يظهر فيها أوراق النبات على شكل مدبب تنقسم "
+"إلى قسمين: <span class=\"key\">التايغا</span> و <span class=\"key\">الغابات "
+"الشمالية</span> .  بعض الحيوانات لديها القدرة على أن تستحدث موطن خاص بها. "
+"النمل،و النحل والنمل الأبيض من الأمثلة على الحشرات التي تبني تلالاً وخلايا "
+"لها.  وهناك حيوانات تبني بيوتاً لها ولحيوانات أخرى. يبني <span class=\"key"
+"\">المرجان</span> أصداف قاسية له.  و مع مرور الزمن تنمو مستعمرات المرجان بما "
+"فيه الكفاية وتشكل الشعاب المرجانية</span> . عندما يتفاعل الإنسان مع الطبيعة, "
+"فاننا نفترض تحمل مسؤولية إدارة الموارد، و النباتات والحيوانات. لكي نتعلم "
+"أكثر حول هذه التفاعلات بين الأشخاص والبيئة المحيطة، يقوم العلماء ببناء بيئة "
+"كبيرة يطلق عليها <span class=\"key\">المحيط الحيوي 2</span> . يدعم المحيط "
+"الحيوي 2 ستة مناطق حيوية مختلفة: الصحراء والمستنقعات والمحيطات و الغابات "
+"المطرية وغابات السافانا والأشوال."
+
+# 12
+msgid "Reviewing key vocabulary related to... biodiversity"
+msgstr "مراجعة المفردات الرئيسية التي لها علاقة ب.... التنوع الحيوي"
+
+msgid ""
+"Biodiversity describes the variety of species found in Earth's terrestrial "
+"and oceanic ecosystems."
+msgstr ""
+"يصف التنوع الحيوي الإختلافات في الأنواع الموجودة على سطح الأرض وفي النظم "
+"الإيكولوجية الأرضية والمحيطية."
+
+msgid ""
+"The completeness or integrity of an ecosystem's biodiversity is often used "
+"as a measure of its health."
+msgstr "يستخدم عادة إكتمال أو سلامة التنوع البيولوجي البيئي كمقياس لصحتها."
+
+msgid "Biome"
+msgstr "مجتمع حيوي"
+
+msgid ""
+"A biome is a particular ecosystem that is defined by the climate and "
+"geography of its location and by the plants, animals, and organisms living "
+"there. There are many different types of biomes. Terrestrial biomes are "
+"ecosystems that are on land. The tundra is an example of a terrestrial "
+"biome. In the tundra, you will find very cold temperatures and the plant "
+"life consists of vegetation such as shrubs and grasses that are low to the "
+"ground. There are very few trees, if any at all. An aquatic biome is an "
+"ecosystem that exists under the water. A coral reef is an example of an "
+"aquatic biome that exists in shallow, tropical waters near the equator. "
+"Coral reefs are characterized by a great diversity of marine life. The "
+"picture above shows a desert. A desert is another type of biome."
+msgstr ""
+"المناطق الحيوية هي عبارة عن نظام بيئي يتم تعريفه من خلال ظروف جوية وجغرافية "
+"مححدة بالنباتات والحيوانات والكائنات الحية التي تعيش بها.  هنالك أنواع "
+"مختلفة من المناطق الحيوية.  مناطق حيوية أرضية وهي عبارة عن نظم بيئية على "
+"الأرض. مثال على ذلك التندرا. تكون درجة الحرارة منخفضة في التندرا وتحتوي على "
+"غطاء نباتي مثل الشجيرات والأعشاب  والتي تكون منخفضة على سطح الأرض. أعداد "
+"الأشجار يكون قليل جدا, وإن وجدت.  مناطق حيوية مائية والتي توجد تحت الماء. من "
+"الأمثلة على ذلك الشعاب المرجانية والتي توجد على سطح الماء بالقرب من خط "
+"الإستواء.  تتميز الشعب المرجانية بتنوع كبير في الحياة البحرية. تظهر الصورة "
+"في الأعلى صحراء.  حيث تعد الصحراء نوع أخر من أنواع المناطق الحيوية."
+
+msgid "Climate"
+msgstr "المناخ"
+
+msgid ""
+"Climate refers to the weather in specific places over a long period of time."
+msgstr "المناخ هو حالة الجو في منطقة معينة وفي فترة معينة"
+
+msgid ""
+"When thinking about the climate of a place, scientists look at different "
+"things, such as the amount of rain and snow, temperature, the number of "
+"sunny and cloudy days, and wind activity. The scientists look at weather "
+"information that has been collected over a long period of time to learn "
+"about the climate of an area."
+msgstr ""
+"عندما تفكر في مناخ منطقة معينة، ينظر العلماء إلى أمور مختلفة، مثل كمية هطول "
+"الأمطار والثلوج، درجات الحرارة، عدد الأيام المشمسة والممطرة، وحركة الرياح.  "
+"يجمع العلماء المعلومات حول طقس منطقة ما خلال مدة زمنية معينة لمعرفة معلومات "
+"أكثر حول طقس تلك المنطقة. "
+
+msgid "Ecosystem"
+msgstr "النظام البيئي "
+
+msgid ""
+"An ecosystem is all the living and non-living things in a given place. An "
+"ecosystem can be as large as a forest or as small as a rotting log. There "
+"are both land and water ecosystems."
+msgstr ""
+"النظام البيئي عبارة عن جميع الكائنات الحية وغير الحية في منطقة ما. ممكن أن "
+"يكون النظام البيئي أرضي أو مائي إما بحجم غابة أو بحجم حطبة متعفنة."
+
+msgid ""
+"Ponds, rivers, lakes, and oceans are all examples of water ecosystems. A "
+"pond ecosystem contains not only water, but living organisms such as fish, "
+"plants, insects, frogs, and turtles. Common land ecosystems include forests, "
+"deserts, and grassy meadows."
+msgstr ""
+"البرك والأنهار والبحيرات والمحيطات كلها أمثلة على النظم البيئية المائية.  لا "
+"تحتوي البرك فقط على المياه, بل أيضا كائنات حية مثل الأسماك والنباتات "
+"والحشرات والضفادع والسلاحف. من النظم البيئية المعروفة الغابات والصحراء "
+"والمروج العشبية."
+
+msgid "Habitat"
+msgstr "موطن"
+
+msgid ""
+"A habitat is a place where a plant or animal lives. A forest is one type of "
+"habitat that covers a large part of Earth. A rainforest is a specific type "
+"of habitat that has many trees. It is a good habitat for animals such as "
+"birds, bats, and monkeys."
+msgstr ""
+"الموطن هو المكان الذي يعيش فيه النبات أو الحيوان، الغابات إحدى الأمثلة على "
+"ذلك حيث تغطي مساحة واسعة من سطح الأرض. الغابات المطرية هي إحدى الأمثلة على "
+"الموطن الذي يحتوي على  أشجار كثيرة. وهي عبارة عن موطن جيد للحيوانات مثل "
+"العصافير والخفاش والقردة."
+
+msgid ""
+"Because there is much water in the rainforest, it is a good habitat for many "
+"plants. Plants living in this type of habitat grow to be very large and have "
+"very big leaves."
+msgstr ""
+"لأنه يوجد مياه كثيرة في الغابات المطرية، فهي عبارة عن موطن جيد للعديد من "
+"النباتات. النباتات التي تعيش هناك تتميز بحجمها الكبير وأغصانها الضخمة."
+
+msgid "Species"
+msgstr "النوع"
+
+msgid ""
+"A species is a very specific kind of living thing. Plants and animals of the "
+"same species are able to breed together to produce more plants and animals "
+"of the same species. The species that a living thing belongs to is "
+"identified based on all of its characteristics. The species of a living "
+"thing can tell you what other living things it is related to."
+msgstr ""
+"النوع هو مجموعة محددة جدا من الكائنات الحية. إن الحيوانات والنباتات من نفس "
+"الفصيلة لديها القدرة على التكاثر مع بعضها البعض لإنتاج نباتات وحيوانات أكثر "
+"من نفس الفصيلة. يتم التعرف على الأنواع الحية التي تنتمي إلى نفس الفصيلة من "
+"خلال خصائص معينة ومحددة. \"  نوع الكائن الحي يمكن أن يعطيك ما الكائنات الحية "
+"الأخرى التي ترتبط معه."
+
+msgid "Tundra"
+msgstr "التندرا"
+
+msgid ""
+"The tundra biome most often occurs in the very far north, where temperatures "
+"are very cold, and most water shows up as snow."
+msgstr ""
+"تكون التندرا عادة في أقصى الشمال، حيث تكون الحرارة منخفضة، وتكون المياه "
+"متجمدة."
+
+msgid ""
+"Tundra shows up near the tops of tall mountains where the living conditions "
+"are so harsh large plants can't survive."
+msgstr ""
+"تكون التندرا في القمم العالية للمناطق الجبلية حيث تكون ظروف الحياه صعبة ولا "
+"يمكن للأشجار الكبيرة أن تنمو هناك."
+
+msgid "Taiga"
+msgstr "التايغا"
+
+msgid ""
+"A biome that features many large needled trees goes by two names: taiga and "
+"boreal forest."
+msgstr ""
+"تنقسم المناطق الحيوية التي تتصف بوجود الاشجار ذات الرؤوس المدببة فيها إلى "
+"قسمين هما: التايغا والغابات الشمالية."
+
+msgid ""
+"This community also supports very large mammals like moose, elk, and bears. "
+"Some of the oldest, largest trees in the world are found in the taiga biome."
+msgstr ""
+"يدعم المجتمع أيضا ثديات كبيرة الحجم مثل الموظ  والظبي والدببة. بعض الأشجار "
+"القديمة والكبيرة موجوده في مجتمعات التايغا الحيوية."
+
+msgid "Boreal forest"
+msgstr "الغابات الشمالية"
+
+msgid ""
+"This community also supports very large mammals like moose, elk, and bears.  "
+"Some of the oldest, largest trees in the world are found in the boreal "
+"forest biome."
+msgstr ""
+"يدعم المجتمع أيضا ثديات كبيرة الحجم مثل الموظ  والظبي والدببة. بعض الأشجار "
+"القديمة والكبيرة موجوده في مجتمعات الغابات الشمالية الحيوية."
+
+msgid "Temperate"
+msgstr "معتدل"
+
+msgid ""
+"Regions that have warm summers and cold winters, located between the tropics "
+"and polar regions, are said to be temperate."
+msgstr ""
+"يطلق على المناطق التي يكون طقسها حار في الصيف وبارد في الشتاء المناطق "
+"المعتدلة، حيث تقع بين المناطق المدارية والمناطق القطبية."
+
+msgid ""
+"Grasslands may be tropical or temperate, but always have less rain than "
+"rainforests and more rain than deserts."
+msgstr ""
+"الأراضي العشبية إما أن تكون إستوائية أو معتدلة، لكن دائما تكون نسبة تساقط "
+"الأمطار فيها أقل من الغابات المطرية وأكثر من الصحراء."
+
+msgid ""
+"Grasslands are a biome that may be tropical or temperate, but always have "
+"less rain than rainforests and more rain than deserts."
+msgstr ""
+"الأراضي العشبية إما أن تكون إستوائية أو معتدلة، لكن دائما تكون نسبة تساقط "
+"الأمطار فيها أقل من الغابات المطرية وأكثر من الصحراء."
+
+msgid "Rainforests, deserts, and grasslands are all examples of biomes."
+msgstr ""
+"الغابات المطرية والصحراء والأراضي العشبية كلها أمثلة على مجتمعات حيوية."
+
+msgid ""
+"A tropical rainforest is a place where it is always warm and rain falls "
+"nearly every day."
+msgstr ""
+"الغابات المطرية الإستوائية هي مناطق دائما دافئة ويسقط فيها المطر تقريبا "
+"يوميا."
+
+msgid "Rainforests, grasslands, and deserts are all examples of biomes."
+msgstr ""
+"الغابات المطرية والصحراء والأراضي العشبية كلها أمثلة على مناطق إحيائية."
+
+msgid ""
+"A desert is a place that may be warm or cold, but has very little rainfall."
+msgstr ""
+"الصحراء هي مكان قد يكون بارد أو حار, ولكن نسبة تساقط الأمطار فيها تكون قليلة."
+
+msgid ""
+"Deserts may be tropical or temperate, but they always receive very little "
+"rainfall."
+msgstr "قد تكون الصحراء إما إستوائية أو معتدلة, بنسبة أمطار قليلة."
+
+msgid "Biosphere"
+msgstr "المحيط الحيوي"
+
+msgid "The biosphere is the collection of all of Earth's ecosystems."
+msgstr "المحيط الحيوي عبارة عن مجموعة من النظم البيئية الأرضية"
+
+msgid ""
+"All life on Earth, in all of the unique biomes, is contained within the "
+"biosphere."
+msgstr ""
+"جميع الحياة على سطح الأرض، وجميع النظم الإحيائية الفريدة تكون ضمن المحيط "
+"الحيوي."
+
+msgid "Biosphere 2"
+msgstr "المحيط الحيوي 2 "
+
+msgid ""
+"In an effort to learn even more about the interactions between people and "
+"their surrounding environments, scientists have built a large man-made "
+"environment called Biosphere 2. It is intended to help us understand the "
+"needs of people if they were to travel to other planets."
+msgstr ""
+"لتتعلم أكثر عن تفاعل الأشخاص مع البيئة المحيطة بهم, قام العلماء ببناء بيئة "
+"أطلق عليها محيط حيوي 2. حيث تساعدنا على فهم احتياجات الناس إذا أرادوا السفر "
+"إلى مكان أخر"
+
+msgid ""
+"Sealed off from the outside world, Biosphere 2 takes in solar energy and "
+"uses it to grow plants and animals; recycle water, oxygen, and waste; and "
+"provide the power needed to operate the facility. Biosphere 2 supports six "
+"different biomes."
+msgstr ""
+"معزولا عن العالم الخارجي, يأخذ المحيط الحيوي 2 الطاقة الشمسة ويستخدمها لنمو "
+"النباتات والحيوانات, إعادة تدوير الماء والأكسجين والفضلات, وتوفير الطاقة "
+"اللازمة لتشغيل المنشأت. يدعم المحيط الحيوي 2 ستة أحياء بيئية مختلفة."
+
+# 13
+msgid "Checking what you now know... about biodiversity"
+msgstr "لنتفحص ما تعرفعه عن ... التنوع الحيوي"
+
+# 14
+msgid ""
+"Which of the following is <span class='blink'>least likely</span> to help "
+"determine the type of biome that will define a particular location?"
+msgstr ""
+"أي من التالي تعد <span class=\"blink\">الأقل</span> إحتمالا لمساعدتك في "
+"تحديد نوع المناطق الإحيائية التي تحدد مكان معين؟"
+
+msgid "Distance from the equator"
+msgstr "المسافة عن خط الإستواء "
+
+msgid "Waterfowl migration patterns"
+msgstr "أنماط هجرة الطيور المائية"
+
+msgid "Average annual rainfall"
+msgstr "معدل تساقط الأمطار السنوي "
+
+msgid "Average annual temperature"
+msgstr "معدل درجات الحرارة السنوي"
+
+msgid "No.... Distance from the equator is related to temperature patterns."
+msgstr "لا... المسافة عن خط الإستواء له علاقة بدرجات الحرارة"
+
+msgid ""
+"Correct. Migration patterns don't determine biomes; they are determined by "
+"biomes."
+msgstr ""
+"صحيح. لا تحدد أنماط الهجرة المناطق الحيوية، إنها محددة بالمناطق الحيوية."
+
+msgid "Sorry. Rainfall patterns determine biomes."
+msgstr "نأسف. أنماط هطول المطر محدد بمناطق حيوية."
+
+msgid "Nope. Temperature patterns determine biomes."
+msgstr "لا. درجات الحرارة محددة بمناطق حيوية."
+
+# 15
+msgid ""
+"Click on <span class=\"blink\">all</span> the reasons for doing a lengthy "
+"and expensive project as Biosphere 2?"
+msgstr ""
+"أنقر على <span class=\"blink\">جميع</span> الأسباب لعمل مشروع مطول ومكلف حول "
+"المحيط الحيوي 2؟"
+
+msgid "Biosphere could become an important source of food."
+msgstr "قد يصبح المحيط الحيوي مصدراً مهماً للغذاء"
+
+msgid "Biosphere lets us experiment with climate conditions."
+msgstr "يتيح لنا المحيط الحيوي تجربة الظروف المناخية"
+
+msgid "Biosphere could become an important source of water."
+msgstr "قد يصبح المحيط الحيوي مصدراً مهماً للماء"
+
+msgid "Biosphere lets us study interactions between people and nature."
+msgstr "يتيح لنا المحيط الحيوي دراسة العلاقة بين الأشخاص والطبيعة"
+
+msgid ""
+"Correct. Biosphere 2 does let us see how changing conditions impact biomes "
+"as well as how people and nature interact. The Biosphere isn't nearly large "
+"enough to provide much food and it doesn't actually produce any new water."
+msgstr ""
+"صحيح. يسمح لنا المحيط الحيوي 2 برؤية تأثير التغيرات بالإضافة إلى تفاعل الناس "
+"مع الطبيعة. لا يعد المحيط الحيوي كبير بما فيه الكفاية ليوفر الغذاء ولا لينتج "
+"أي كمية من الماء."
+
+msgid ""
+"Biosphere 2 does allow experimentation with climate conditions, but see if "
+"there are any other correct choices."
+msgstr ""
+"المحيط الحيوي 2 يسمح بتجربة الظروف المناخية، ومعرفة إذا كان هنالك خيارات "
+"أخرى صحيحة."
+
+msgid ""
+"Biosphere 2 does allow us to observe interactions between people and nature, "
+"but see if there are any other correct choices."
+msgstr ""
+"يسمح لنا المحيط الحيوي 2 بملاحظة التفاعلات بين الإنسان والطبيعة، ومعرفة إذا "
+"ما كان هناك أي خيارات أفضل."
+
+msgid ""
+"Not quite, Biosphere 2 does let us see how changing conditions impact biomes "
+"as well as how people and nature interact. The Biosphere isn't nearly large "
+"enough to provide much food and it doesn't actually produce any new water."
+msgstr ""
+"ليس تماما, يسمح لنا المحيط الحيوي 2 بملاحظة كيف تؤثر تغيرات الظروف على "
+"المناطق الحيوية بالإضافة إلى التفاعل بين الإنسان والطبيعة. لا يعد المحيط "
+"الحيوي كبير بما فيه الكفاية لتوفير الغذاء أو لإنتاج الماء."
+
+msgid "Identifying the zone of life on earth..."
+msgstr "تحديد منطقة للحياة على الأرض ..."
+
+# 16
+msgid ""
+"What has been a major change in forest management over the decades? Rotate "
+"or flip the 3D box below either up or down to set your answer."
+msgstr ""
+"ما هي التغيرات الكبيرة التي حدثت في إدارة الغابات على مر العقود؟ ادر أو اقلب "
+"المربع الثلاثي الأبعاد إما للأعلى أو لأسفل لتحدد إجابتك"
+
+msgid "All forest fires are fought immediately."
+msgstr "يتم السيطرة على جميع حرائق الغابات على الفور"
+
+msgid "Forest fires are never fought at all."
+msgstr "لم يتم مكافحة حرائق الغابات على الإطلاق"
+
+msgid "Forest fires caused by lightning are ignored."
+msgstr "يتم تجاهل الحرائق الناتجة بفعل البرق."
+
+msgid "Some fires are allowed to burn to improve the forest."
+msgstr "تترك بعض الحرائق لتطوير الغابات"
+
+msgid "Conducting a sustainable forest management..."
+msgstr "إجراء إدارة مستدمة للغابات"
+
+msgid "No. Fighting all fires is an old policy."
+msgstr "لا. تعد مكافحة جميع الحرائق من السياسات القديمة"
+
+msgid "Not this one. We certainly fight forest fires."
+msgstr "ليس هذه المرة. نحن بالتاكيد نكافح الحرائق"
+
+msgid "No. Lightning is part of nature, but can't be ignored."
+msgstr "لا. يعد البرق جزء من الطبيعة, ولكن لا يمكن اهماله"
+
+msgid "Yes. Some fires are allowed to burn and some are even set."
+msgstr "نعم. تترك بعض الحرائق لتشتعل وبعضها الآخر يكون مفتعلاً"
+
+# 17
+msgid ""
+"Look at the chart at the right side below and click on the statement you "
+"think is correct."
+msgstr "أنظر إلى الجدول في اليمين وأنقر على الإجابة الصحيحة."
+
+msgid "Temperate Deciduous Forest"
+msgstr "تساقط أوراق الغابات معتدل"
+
+msgid ""
+"The amount of annual rainfall is the most important factor in classifying "
+"biomes."
+msgstr " معدل تساقط الأمطار هو أهم عامل لتصنيف المناطق الحيوية."
+
+msgid ""
+"The grassland and taiga biomes have the same amount of annual rainfall, so "
+"they are very similar in plant and animal life."
+msgstr ""
+"الاراضي العشبية والتايغا فيها نفس كمية تساقط الأمطار السنوي, لذلك فانهما "
+"متشابهان جدا في الحياة النباتية والحيوانية."
+
+msgid "Grasslands have less rain than rainforests and more rain than deserts."
+msgstr ""
+"كمية الأمطار في الأراضي العشبية أقل من الغابات المطرية وأكثر من الصحراء."
+
+msgid ""
+"The desert and tundra biomes have the same amount of annual rainfall, so "
+"they are very similar in plant and animal life."
+msgstr ""
+"إن معدل تساقط الأمطار في الصحراء والتندرا هو نفسه, لذلك هما متشابهان جدا في "
+"الحياة النباتية والحيوانية."
+
+msgid "Making a rain gauge..."
+msgstr "صنع مقياس لكميات الأمطار..."
+
+msgid "Centimeters"
+msgstr "سم"
+
+msgid ""
+"Not quite, rainfall is important. But temperature is also a factor, and the "
+"different combinations of both are what provide various biomes."
+msgstr ""
+"ليس تماما، يعد سقوط الأمطار مهم جدا, وتعد درجات الحرارة عامل أخر, والتركيبات "
+"المختلفة بينهما توفر مناطق حيوية مختلفة. "
+
+msgid ""
+"No, the grassland and taiga biomes are only similar in rainfall, not in "
+"temperature. Long, cold winters, and short, mild, wet summers are typical of "
+"the taiga biome. Whereas the grassland has a more temperate climate."
+msgstr ""
+"لا, تتشابه المناطق العشبية ومناطق التايغا الحيوية بسقوط الأمطار فقط، وليس في "
+"درجات الحرارة. تتميز مناطق التايغا بشتاء بارد وطويل,  صيف معتدل رطب وقصير. "
+"في حين تتميز المناطق العشبية بدرجات حرارة معتدلة."
+
+msgid ""
+"Correct, the green bar (60 cm) is between the blue (180 cm) and the yellow "
+"(20 cm) bars."
+msgstr ""
+"صحيح.  يقع الشريط  الأخضر (60 سم) بين الشريط الأزرق (180 سم) والأصفر (20 سم) "
+
+msgid ""
+"No, no, the desert and tundra biomes are only similar in rainfall, not in "
+"temperature. The desert is extremely hot and the tundra is extremely cold."
+msgstr ""
+"لا, لا, تتشابه التندرا والصحراء فقط في تساقط الأمطار وليس درجات الحرارة. "
+"الصحراء حارة جدا والتندرا باردة جدا."
+
+msgid "Centimeters of Rainfall per Year"
+msgstr "سم من الأمطار سنويا"
+
+# 18
+msgid "What is an advantage to controlled burning in forests?"
+msgstr "ما هي الفائدة من السيطرة على الحرائق؟"
+
+msgid "The fires help shrubby trees to compete with bigger tree species."
+msgstr "تسمح الحرائق للشجيرات الصغيرة من التنافس مع الشجيرات الأكبر"
+
+msgid "The fires help shrubby trees fill the space between big trees."
+msgstr "تسمح الحرائق للشجيرات الصغيرة بأن تملا الفراغ بين الأشجار الكبيرة."
+
+msgid "The fires remove shrubby trees that provide fuel for fires."
+msgstr "تزيل الحرائق الشجيرات التي توفر الوقود للحرائق"
+
+msgid "The fires remove shrubby trees that kill bigger tree species."
+msgstr "تزيل الحرائق الشجيرات والتي تقوم بقتل الأشجار الأكبر"
+
+msgid "Protecting the forest from large fire..."
+msgstr "حماية الغابات من حرائق كبيرة..."
+
+msgid "Nope! Buildup of small, shrubby trees is a risk, not an advantage."
+msgstr "لا،  يعد التراكمات الصغيرة، للشجيرات أمر خطير، و ليس ميزة إيجابية."
+
+msgid ""
+"Not this one. Filling up the forest with shrubby trees adds fuel for fires."
+msgstr "ليس هذه. تعبئة الغابات بالشجيرات يساعد على توفير الوقود للحرائق"
+
+msgid "Yes. Removing these removes a lot of the fuel that feeds fires."
+msgstr "نعم, إزالة هذه الأمور يقوم بإزالة الوقود الذي يغذي النار."
+
+msgid "No. Such competition is not a problem for the forest."
+msgstr "لا. لا تعد مثل هذه المنافسات مشكلة بالنسبة للغابات."
+
+# 19
+msgid ""
+"Warming seawater is making coral survival less and less likely. Why is this "
+"a problem for ocean biomes? Rotate or flip the 3D box below either up or "
+"down to set your answer."
+msgstr ""
+"إن ارتفاع درجات حرارة مياه البحر يقلل من نسبة بقاء المرجان على قيد الحياة . "
+"لماذا هذه تعد مشكلة بالنسبة للمناطق الحيوية المحيطية. إقلب أو ادر الصندوق "
+"الثلاثي الأبعاد لتحدد إجابتك."
+
+msgid "Coral is the food supply of many species of fish."
+msgstr "يعد المرجان مصدراً غذائياً للعديد من أنواع الأسماك"
+
+msgid "Many species make coral reefs their homes."
+msgstr "الكثير من الأنواع تجعل من الشعاب المرجانية مئوى لها."
+
+msgid "Coral is used by artists and home decorators."
+msgstr "يقوم الفنانون باستخدلم المرجان للتزين وكذلك يستخدم كزينة في المنازل."
+
+msgid "Coral reefs can sometimes be seen from space."
+msgstr "يمكن رؤية الشعب المرجانية على سطح البحر."
+
+msgid "No. Many species live in the coral reefs but don't eat them."
+msgstr "لا. تعيش العديد من الأنواع داخل الشعب المرجانية ولكن لا تقوم بأكلها."
+
+msgid "Correct. Coral reefs support many ocean animal species."
+msgstr "صحيح. تدعم الشعب المرجانية العديد من أنواع حيوانات المحيطات"
+
+msgid "Nope! It is illegal to collect or even disturb coral reefs."
+msgstr "لا! يعد جمع أو قطع الشعب المرجانية عمل غير قانوني."
+
+msgid ""
+"No. The fact that some coral reefs can be seen from space shows just how "
+"important they are."
+msgstr ""
+"لا. تعود حقيقة رؤية الشعب المرجانية على سطح الأرض إلى مدى أهمية وجودها."
+
+# 20
+msgid "You've completed the Biodiversity review."
+msgstr "قد أتممت مراجعة التنوع الحيوي."

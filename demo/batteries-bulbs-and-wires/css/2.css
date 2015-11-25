@@ -1,0 +1,175 @@
+
+
+#tree1 {
+	position:absolute; 
+	top:25%;
+	left: 0%;
+	height: 76%;
+	animation: tree1 50s linear 0s infinite;
+	-webkit-animation: tree1 50s linear 0s infinite;
+	-moz-animation: tree1 50s linear 0s infinite;
+}
+
+#tree2 {
+	position:absolute; 
+	top:25%;
+	left: 100%;
+	height: 76%;
+	-webkit-animation: tree2 50s linear 0s infinite;
+	-moz-animation: tree2 50s linear 0s infinite;
+	animation: tree2 50s linear 0s infinite;
+}
+
+#animation {
+	width: 100%;
+	overflow: hidden;
+}
+
+#jump {
+	position: absolute;
+	width: 85%;
+	height: 57%;
+	top: 43%;
+	left: 15%;	
+	-webkit-animation: jump 5s linear 0s infinite alternate;
+	-moz-animation: jump 5s linear 0s infinite alternate;
+	animation: jump 5s linear 0s infinite alternate;
+}
+
+#eyeballs {
+	position:absolute;
+	width: 16%;
+	height: 8%;
+	top: 27%;
+	left: 6%;
+	animation: eyeballs 5s ease-in-out infinite alternate ;
+	-webkit-animation: eyeballs 5s ease-in-out infinite alternate ;
+	-moz-animation: eyeballs 5s ease-in-out infinite alternate ;
+}
+
+#kid {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	-webkit-animation: light 1s linear 0s infinite alternate;
+	-moz-animation: light 1s linear 0s infinite alternate;
+	animation: light 1s linear 0s infinite alternate;
+}
+
+
+@-webkit-keyframes eyeballs {
+	from { left: 6%; }
+	to { left: 11%; }
+}
+
+@-moz-keyframes eyeballs {
+	from { left: 6%; }
+	to { left: 11%; }
+}
+
+@keyframes eyeballs {
+	from { left: 6%; }
+	to { left: 11%; }
+}
+
+
+
+@keyframes tree1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+@-webkit-keyframes tree1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+@-moz-keyframes tree1 {
+	from { left: 0%; }
+	to { left: -100%; }
+}
+
+
+
+@-webkit-keyframes tree2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+@-moz-keyframes tree2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+@keyframes tree2 {
+	from { left: 100%; }
+	to { left: 0%; }
+}
+
+
+@-webkit-keyframes jump {
+	0% { top: 43%; }
+	100% { top: 48%; }
+}
+
+@-moz-keyframes jump {
+	0% { top: 43%; }
+	100% { top: 48%; }
+}
+
+@keyframes jump {
+	0% { top: 43%; }
+	100% { top: 48%; }
+}
+
+
+@-webkit-keyframes light {
+	0%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	5%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	10%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	30%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	31%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	33%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	45%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	78%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	80%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	89%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	90%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	99%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	100% { background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+}
+
+@-moz-keyframes light {
+	0%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	5%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	10%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	30%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	31%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	33%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	45%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	78%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	80%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	89%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	90%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	99%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	100% { background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+}
+
+@keyframes light {
+	0%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	5%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	10%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	30%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	31%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	33%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	45%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	78%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	80%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	89%	{ background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+	90%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	99%	{ background: 0px 0px/100% 100% url(../assets/2/kid.png);}
+	100% { background: 0px 0px/100% 100% url(../assets/2/kid2.png);}
+}
+
+
+

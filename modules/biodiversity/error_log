@@ -1,0 +1,35 @@
+[12-Apr-2014 02:34:56 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/biodiversity/20.php on line 44
+[14-Apr-2014 05:25:23 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/biodiversity/20.php on line 44
+[15-Apr-2014 04:01:02 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Apr-2014 01:52:37 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Apr-2014 15:02:28 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[01-May-2014 22:56:52 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[05-May-2014 00:42:21 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[08-May-2014 21:37:38 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/biodiversity/20.php on line 44
+[12-May-2014 00:32:38 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-May-2014 00:32:39 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[12-May-2014 00:32:40 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-May-2014 14:14:02 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[02-Jun-2014 23:43:20 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/biodiversity/2.php on line 95
+[02-Jun-2014 23:43:22 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/biodiversity/2.php on line 95
+[04-Jun-2014 06:06:01 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:07:05 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:09:34 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:10:09 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:10:54 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:11:12 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:12:05 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:12:56 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[04-Jun-2014 06:14:44 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[16-Jun-2014 02:23:50 America/Denver] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/biodiversity/4.php on line 105
+[16-Jun-2014 02:23:51 America/Denver] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/biodiversity/4.php on line 105
+[16-Jun-2014 02:23:52 America/Denver] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home5/jigzenco/public_html/dev/shymansky/sandbox/modules/biodiversity/4.php on line 105
+[02-Jul-2014 06:48:31 America/Denver] PHP Notice:  Undefined offset: 0 in /home5/jigzenco/public_html/dev/shymansky/sandbox/libraries/UserFactory.class.php on line 534
+[05-Dec-2014 04:28:10 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:21 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:32 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:48 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:49 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:53 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:28:54 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17
+[05-Dec-2014 04:29:00 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/session.php on line 17

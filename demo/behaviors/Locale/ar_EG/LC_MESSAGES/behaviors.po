@@ -1,0 +1,1224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: behaviors\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ruba <raboosh_246@hotmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+
+# Global
+msgid "Behaviors"
+msgstr "السلوكيات."
+
+msgid "More core ideas... about behaviors"
+msgstr "المزيد من الافكار الاساسية... حول السلوكيات."
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Check Answer"
+msgstr "تأكد من الاجابة"
+
+msgid "Read More"
+msgstr "اقرا أكثر"
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+msgid "Please select your answer."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Please select your answers."
+msgstr "لو سمحت اختر اجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني !"
+
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "اختبار سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار سريع رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "How did I do?"
+msgstr "كيف أجبت"
+
+msgid "select"
+msgstr "اختر."
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid "Let's begin!"
+msgstr "هيا نبدأ !"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Start"
+msgstr "ابدأ"
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid "Your Task"
+msgstr "مهمتك هي "
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"اجب عن اسئلة الاختبار التالية و عددها ( 6 ) لتعطيك فكرة عما تعرفه و ما تريد "
+"ان تدرسه"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط الزر التالي عندما تكون جاهزا"
+
+msgid "Congratulations, "
+msgstr "مبروك"
+
+# 1
+msgid "Welcome to the Behaviors review,"
+msgstr "مرحبا بكم في مراجعة السلوكيات."
+
+# 2
+msgid "Thinking about... behaviors"
+msgstr "التفكير بالسلوكيات."
+
+msgid ""
+"Have you ever thought about the 'why' behind your behavior? Like, why do you "
+"have to learn some things, while other things seem to come naturally or "
+"without thinking? Have you ever wondered just how much of your behavior is "
+"due to what you have learned and how much of it you did not have to learn "
+"because it was already part of you from birth? What about the behaviors of "
+"other living things? Can animals learn too?"
+msgstr ""
+"هل سبق لك أن فكرت بأسباب سلوكياتك؟ مثال، لماذا عليك أن تتعلم بعض الأشياء، في "
+"حين أن الأمور الأخرى تأتي بشكل طبيعي أو دون تفكير؟ هل تساءلت يوما اذا كان  "
+"سلوكك يرجع إلى ما تعلمته وما لم يكن لديك لتتعلمه لأنه كان جزءا منك منذ "
+"ولادتك ؟ ماذا عن سلوكيات الكائنات الحية الأخرى؟ هل تتعلم الحيوانات ايضا؟"
+
+# 3
+msgid "Checking what you know... about behaviors"
+msgstr "التأكد مما تعرف... حول السلوكيات."
+
+msgid ""
+"Look at the behaviors listed below. Click on the ones you think you were "
+"able to do when you were born."
+msgstr ""
+"إلق نظرة على السلوكيات المذكورة أدناه.  انقر على تلك التي كنت تعتقد أنك كنت "
+"قادرا على القيام بها عندما ولدت."
+
+msgid "Ride a bicycle"
+msgstr "ركوب الدراجة."
+
+msgid "Breathe"
+msgstr "تنفس."
+
+msgid "Read"
+msgstr "قراءة."
+
+msgid "Tie your shoes"
+msgstr "ربط رباط الحذاء."
+
+msgid "Blink your eyes"
+msgstr "رَمْش العيون."
+
+msgid "Remember"
+msgstr "تذكر."
+
+msgid "Throw a ball"
+msgstr "ارم الكرة."
+
+msgid ""
+"You were able to breathe, blink your eyes, and remember when you were born. "
+"No one actually taught you how to do those things. On the other hand, you "
+"had to learn how to tie your shoes, ride a bicycle, and throw a ball. How "
+"are these activities different? Continue with the review to find out."
+msgstr ""
+"لقد كنت قادرا على التنفس والرمش بعينيك وتذكر يوم ولادتك..لم يعلمك أحد كيفية "
+"عمل هذه الأشياء .  من ناحية أخرى، لقد تعلمت كيفية ربط حذاءك والركوب على "
+"الدراجة, ورمي الكرة.  كيف تختلف هذه النشاطات؟ أكمل المراجعة لتعرف ذلك."
+
+msgid "Breathing air..."
+msgstr "تنفس الهواء."
+
+# 4
+msgid "Reviewing core ideas... about behaviors"
+msgstr "مراجعة الافكار الاساسية...حول السلوكيات."
+
+msgid ""
+"<span class='key'>Behavior</span> is the way that a living thing acts and "
+"reacts when exposed to different situations. We call a specific situation a "
+"<span class='key'>stimulus</span> and how a living thing reacts, a <span "
+"class='key'>response</span>. When scientists study behavior, they are "
+"looking at the response of an organism to different stimuli. Here's a simple "
+"illustration. Think about what you would do if you attempted to warm your "
+"hands over a campfire, but got too close to the flames. If the heat of the "
+"flame caused you pain, your immediate response would most likely be to pull "
+"your hand back very quickly. This response is your behavior."
+msgstr ""
+"<span class='key'>السلوك</span> هو الطريقة التي يتصرف بها الكائن الحي "
+"ويتفاعل بها عند التعرض لمواقف مختلفة.  نسمي موقفاً محدداً <span "
+"class='key'>مثير</span> ، ونسمي تفاعل الكائن الحي <span class='key'>استجابة</"
+"span>.  عندما يدرس العلماء السلوكيات فهم  يبحثون عن استجابة الكائن الحي "
+"للمثيرات المختلفة.  وهنا توضيح بسيط، فكر في ما كنت ستفعله لو حاولت تدفئة "
+"يديك على النار المشتعلة ، وكانت يدك قريبة منها. إذا سببتلك حرارة اللهب "
+"الألم، استجابتك الفورية تسحب يدك إلى الخلف بسرعة كبيرة.  هذه الاستجابة هي "
+"سلوكك."
+
+msgid ""
+"Behaviors can be divided into two: <span class='key'>innate</span> - present "
+"from birth; and <span class='key'>learned</span> - developed after birth. "
+"Some behaviors may be a mixture of both."
+msgstr ""
+"تقسم السلوكيات الى قسمين:  <span class='key'>فطرية</span>- تأتي منذ الولادة؛ "
+"وسلوكيات <span class='key'>متعلمة</span> - تتطور بعد الولادة .  بعض "
+"السلوكيات يمكن أن تكون مزيجاً من الاثنين."
+
+msgid ""
+"Innate behaviors include <span class='key'>reflexes</span> and <span "
+"class='key'>instincts</span>. Reflexes are simple and automatic responses to "
+"an external stimulus. For example, when the doctor hits your knee with a "
+"rubber mallet, your leg jerks in response. This movement does not require "
+"any thought on your part."
+msgstr ""
+"وتشمل السلوكيات الفطرية ردود <span class='key'>المنعكسة</span>  و <span "
+"class='key'>الغرائز</span>  . ردود الفعل المنعكسة هي استجابات بسيطة وتلقائية "
+"لمثير خارجي.  على سبيل المثال، عندما يضرب الطبيب ركبتك  بمطرقة مطاطية، تهتز "
+"ساقك ردا على ذلك.  لا تتطلب هذه الحركة أي تفكير من قبلك."
+
+msgid ""
+"Instincts are more complex behavior patterns than reflexes. For example, "
+"once sea turtles hatch from their nests in the sand, they instinctively move "
+"towards the water where they are safer. This instinct is triggered by the "
+"turtles' response to brightness. Because the open ocean is naturally "
+"brighter than the land, the sea turtles head toward the water. Like "
+"reflexes, instincts are present at birth and these abilities are inherited, "
+"or physically passed from parents to offspring through the DNA."
+msgstr ""
+"الغرائز هي أنماط السلوك الأكثر تعقيدا من المنعكسة.  على سبيل المثال، بمجرد "
+"أن تفقس السلاحف البحرية من أعشاشها في الرمال، تتحرك غريزياً  نحو الماء حيث "
+"أنها أكثر أمانا.  تعمل هذه الغريزة عن طريق استجابة السلاحف 'إلى السطوع، لأن "
+"المحيط المفتوح هو أكثر سطوعا من الأرض .  السلاحف البحرية تتوجه نحو الماء.  "
+"فكما هي  ردود الفعل، الغرائز موجودة عند الولادة ويتم توريثها، أو  تمر جسديا "
+"من الآباء إلى الأبناء من خلال الحمض النووي."
+
+msgid "Developing behavior..."
+msgstr "تطور السلوك."
+
+# 5
+msgid ""
+"Question A. Which of the following is <span class='blink'>not</span> an "
+"example of a stimulus-response interaction?"
+msgstr ""
+"السؤال أ. أي من الآتي هو <span class='blink'>ليس</span>   مثالاً على التفاعل "
+"بين المثير والاستجابة؟"
+
+msgid "A dog barking at the mail carrier."
+msgstr "كلب ينبح على ساعي بريد."
+
+msgid "Stubbing your toe and wincing in pain."
+msgstr "ارتطام اصبع قدمك والجفل من الألم."
+
+msgid "A person jogging on a warm evening."
+msgstr "شخص يهرول في مساء دافئ."
+
+msgid "A skunk spraying an approaching coyote."
+msgstr "الظربان يرش ذئب يقترب من بعيد."
+
+msgid ""
+"Question B. Laws in areas near beaches do not allow bright lights when "
+"turtle eggs are hatching on the beaches. What do you think is the reason for "
+"this law?"
+msgstr ""
+"السؤال ب. القوانين في المناطق القريبة من الشواطئ لا تسمح بالأضواء الساطعة "
+"عندما يتم تفريخ بيض السلاحف على الشواطئ. ما هو السبب وراء هذا القانون برأيك؟"
+
+msgid "The lights may cause the eggs not to open."
+msgstr "قد تتسبب الأضواء بعدم فقس البيض."
+
+msgid "The lights may attract the turtles away from the water."
+msgstr "من الممكن أن تجذب الأضواء السلاحف الى الماء."
+
+msgid "The lights may attract turtle predators."
+msgstr "الأضواء قد تجذب الحيوانات المفترسةالى السلاحف."
+
+msgid "The lights may overheat the turtle eggs."
+msgstr "الأضواء قد تسخن بيض السلاحف اكثر مما ينبغي."
+
+msgid "Preparing your first quick check..."
+msgstr "استعد للتحقق من اجابتك بإختبار سريع..."
+
+msgid ""
+"No, the mail carrier approaching the house is the stimulus and the dog "
+"barking is the response."
+msgstr "لا، اقتراب ساعي البريد من البيت هو المثير،  ونباح الكلب هو الاستجابة."
+
+msgid ""
+"No, stubbing your toe and experiencing pain is the stimulus, and wincing is "
+"the response."
+msgstr "لا، ارتطام اصبع قدمك وتجربة الألم هو المثير ، والجفل هو الاستجابة."
+
+msgid ""
+"Correct. This is not a stimulus-response example. A specific situation is a "
+"stimulus and how a living thing reacts a response."
+msgstr ""
+"صحيح.  هذا ليس مثال على المثير والاستجابة.  الحالة المحددة هي المثير وكيفية "
+"رد الكائن  وتفاعله هي استجابة."
+
+msgid ""
+"No, the coyote approaching is the stimulus, and the skunk's response is to "
+"spray the coyote."
+msgstr "لا، اقتراب الذئب هو المثير ، ورش الظربان للذئب هي الاستجابة."
+
+msgid ""
+"No, once they hatch, the sea turtles respond to the brightness of the sea "
+"and move toward the safe water. Bright lights may attract and mislead "
+"turtles away from the water."
+msgstr ""
+"لا، بمجرد أن يفقس البيض، السلاحف البحرية تستجيب لسطوع البحر وتتحرك نحو "
+"المياه الآمنة.  الأضواء الساطعة قد تجذب وتضلل السلاحف بعيدا عن الماء."
+
+msgid ""
+"Correct. Having bright lights on the beach could be dangerous and misleading "
+"for the newly-hatched sea turtles."
+msgstr ""
+"صحيح.  وجود الأضواء الساطعة على الشاطئ قد يكون خطيرا ومضللا للسلاحف البحرية "
+"التي فقست حديثا."
+
+msgid ""
+"No, once they hatch, they respond to brightness of the sea and move toward "
+"the safe water. Bright lights may attract and mislead turtles away from the "
+"water."
+msgstr ""
+"لا، بمجرد أن يفقس البيض، السلاحف تستجيب لسطوع البحر وتتحرك نحو المياه "
+"الآمنة.   الأضواء الساطعة قد تجذب وتضلل السلاحف بعيدا عن الماء."
+
+msgid ""
+"No, once they hatch, the sea turtles respond to brightness of the sea and "
+"move toward the safe water. Bright lights may attract and mislead turtles "
+"away from the water."
+msgstr ""
+"لا، بمجرد أن يفقس البيض، السلاحف البحرية تستجيب لسطوع البحر وتتحرك نحو "
+"المياه الآمنة.  الأضواء الساطعة قد تجذب وتضلل السلاحف بعيدا عن الماء."
+
+msgid "Please check your answers."
+msgstr " لو سمحت ، اختر اجابتك ."
+
+# 6
+msgid ""
+"Unlike innate behavior, <span class='key'>learned behaviors</span> are "
+"behaviors which are developed through experience - by living and interacting "
+"with the environment. For example, when you cross a street, you look in all "
+"directions to make sure that there are no moving vehicles coming. A family "
+"member most likely explained to you how to check for oncoming traffic, or "
+"perhaps you watched and imitated them as they showed you. You were not born "
+"knowing how to cross a street safely, but you learned the behavior. Once you "
+"learned this behavior in crossing streets, you were able to show or teach a "
+"younger sister or brother the behavior as well."
+msgstr ""
+"على عكس السلوك الفطري، السلوكيات <span class='key'>المتعلمة</span> هي "
+"السلوكيات التي يتم تطويرها من خلال التجربة - من خلال العيش والتفاعل مع "
+"البيئة.  على سبيل المثال، عند عبور الشارع، وأنت تنظر في كل الاتجاهات للتأكد "
+"من أنه لا توجد سيارات قادمة.  على الأغلب قد قام أحد أفراد العائلة بشرح كيفية "
+"التحقق من قدوم حركة السير أو من الممكن انك رأيت وقلدتهم كما علموك.  لم تولد "
+"وانت تعرف كيفية قطع الشارع ولكنك تعلمت هذا السلوك.  بمجرد أنك تعلمت سلوك قطع "
+"الشارع فأنت تستطيع أن تُظهر السلوك أو أن تعلم إخوانك الأصغر سناً هذا السلوك."
+
+msgid ""
+"Other examples of learned behaviors in humans include reading, helping "
+"someone, playing music, and riding a bicycle. These are all behaviors which "
+"require you to learn through being taught by others, either directly or "
+"indirectly through observing them, by doing them yourself, or a combination "
+"of these. Once you learn a new behavior, it is not usually forgotten. You "
+"now possess a memory of how to do it."
+msgstr ""
+"أمثلة أخرى على السلوكيات المتعلمة في الانسان تتضمن القراءة ، مساعدة شخص ما ، "
+"و عزف الموسيقى ، و ركوب الدراجة.  هذه السلوكيات التي تتطلب منك أن تتعلمها "
+"كانت قد درست من قبل الآخرين، إما مباشرة أو بشكل غير مباشر من خلال مراقبتهم، "
+"أو عن طريق القيام بها بنفسك، أو مزيج من هذه.  بمجرد ان  تتعلم السلوك الجديد، "
+"فهو عادة لا ينسى.  أنت الآن تمتلك ذاكرة تبين كيفية القيام بذلك."
+
+msgid ""
+"An important feature of learned behaviors is that they are not passed onto "
+"the next generation through physical means. In other words, they are not "
+"<span class='key'>genetically-inherited</span>. This means that although you "
+"have learned to cross a road safely, your children will not be born with "
+"that knowledge or ability. They will have to learn the behavior, just as you "
+"had to learn it. This differs from innate reflexes and instincts, which are "
+"passed on from one generation to the next through the genetic means of "
+"inheritance."
+msgstr ""
+"ميزة هامة للسلوكيات المستفادة  هي أنها لا يتم تمريرها  للجيل القادم من خلال "
+"الوسائل المادية.  وبعبارة أخرى، فهي ليست  <span class='key'>موروثة جينيا</"
+"span> .  وهذا يعني أنه على الرغم من أنك قد تعلمت عبور الطريق بأمان، لن يولد "
+"أطفالك ومعهم تلك المعرفة أو القدرة.  سيكون مجبرين على أن يتعلموا السلوك، "
+"تماما كما تعلمته.  وهذا يختلف عن السلوكات المنعكسة والغرائز الفطرية، التي "
+"تنتقل من جيل إلى جيل من خلال وسائل الوراثية ."
+
+msgid "Interacting with environment..."
+msgstr "التفاعل مع البيئة"
+
+# 7
+msgid ""
+"Question A. From the list provided, mark <span class='blink'>all</span> the "
+"learned behaviors."
+msgstr ""
+"السؤال أ. من القائمة المعطاة، حدد <span class='key'>جميع</span> السلوكيات  "
+"المتعلمة."
+
+msgid "Coughing"
+msgstr "سعال"
+
+msgid "Sneezing"
+msgstr "عطس"
+
+msgid "Crying"
+msgstr "بكاء"
+
+msgid "Skate boarding"
+msgstr "التزلج"
+
+msgid "Question B. Which of the following is an innate behavior in humans?"
+msgstr "السؤال B. أي من التالية هو سلوك فطري في الإنسان؟"
+
+msgid "Talking"
+msgstr "التحدث"
+
+msgid "Walking"
+msgstr "مشي"
+
+msgid "Thinking"
+msgstr "تفكير "
+
+msgid "Sharing"
+msgstr "مشاركة."
+
+msgid "Identifying different behaviors..."
+msgstr "تحديد السلوكيات المختلفة ..."
+
+msgid ""
+"Correct! Coughing, sneezing and crying are all innate behaviors. Newborns "
+"can do all of these without help. Walking, skate boarding, and singing are "
+"learned behaviors. They need to be taught directly or indirectly, and will "
+"not be passed down to the next generation."
+msgstr ""
+"صحيح! السعال والعطس والبكاء كلها سلوكيات فطرية. حديثي الولادة يمكن أن تفعلها "
+"دون مساعدة. المشي، التزلج ، الغناء  هي سلوكيات متعلمة. فإنها تحتاج إلى أن "
+"تعلم  بصورة مباشرة أو غير مباشرة، ولن تنتقل إلى الجيل التالي."
+
+msgid ""
+"Not quite. Coughing, sneezing, and crying are all innate behaviors. Newborns "
+"can do all of these without help. Walking, skate boarding, and singing are "
+"learned behaviors. They need to be taught directly or indirectly, and will "
+"not be passed down to the next generation."
+msgstr ""
+"ليس تماما,السعال والعطس والبكاء كلها سلوكيات فطرية. حديثي الولادة يمكن أن "
+"تفعلها دون مساعدة. المشي، التزلج ، الغناء  هي سلوكيات متعلمة. فإنها تحتاج "
+"إلى أن تعلم  بصورة مباشرة أو غير مباشرة، ولن تنتقل إلى الجيل التالي."
+
+msgid ""
+"No, talking is a learned behavior. People cannot do it when they are born "
+"and they cannot pass on the ability to the next generation."
+msgstr ""
+"لا، الحديث هو سلوك مكتسب.  لا يمكن للبشر  أن يتحدثوا  عند ولادتهم، والتحدث "
+"لا يمكن أن يمرر الى الجيل القادم."
+
+msgid ""
+"No, walking is a learned behavior. Humans have to learn to walk, which "
+"usually happens in stages. This ability is not genetically-inherited."
+msgstr ""
+"لا، المشي هو سلوك مكتسب ، البشر عليهم تعلم كيفية المشي، والذي يحدث على "
+"مراحل.  هذه القدرة غير موروثة جينيا."
+
+msgid ""
+"Correct. Thinking is innate to humans. However, critical and higher level "
+"thinking can be taught and strategies can be learned."
+msgstr ""
+"صحيح.  التفكير هو فطري للبشر.   ولكن، التفكير في المستوى العالي والنقدي يمكن "
+"تدريسه، والاستراتيجيات يمكن تعلمها."
+
+msgid ""
+"No, sharing is an activity that must be taught. Some people not aware of its "
+"social importance and they never learn to share."
+msgstr ""
+"لا، التبادل المعرفي هو نشاط  يجب أن يدرس. بعض الناس لا يدركون الأهمية "
+"الاجتماعية وهم لا يتعلمون أبدا يشاركوا الأخرين."
+
+msgid ""
+"No, sharing is an activity that must be taught. Some people are not aware of "
+"its social importance and they never learn to share."
+msgstr ""
+"لا، التبادل المعرفي هو نشاط  يجب أن يدرس. بعض الناس لا يدركون الأهمية "
+"الاجتماعية وهم لا يتعلمون أبدا يشاركوا الأخرين."
+
+# 8
+msgid ""
+"Learned behavior is often dependent on both inherited traits and the "
+"characteristics of the environment the animal lives in. For example, every "
+"bird has a number of specific songs which characterize the type of bird it "
+"is. A robin's song is different from a catbird's song, which is different "
+"from a cardinal's song. Each bird is born able to sing, but each bird has to "
+"be taught to sing their song. They have to hear it and learn it."
+msgstr ""
+"غالبا ما يعتمد السلوك المتعلم على كل من الصفات الموروثة وخصائص البيئة التي "
+"يعيش الحيوان  فيها.  مثال، كل طائر لديه عدد محدد من الأغاني والتي تصف نوع كل "
+"الطائر.  أغنية روبن تختلف عن  أغنية الكاتبيرد، والذي تختلف عن  أغنية "
+"الكاردينال.  تولد كل الطيور قادرة على الغناء، ولكن لا بد من تدريس  الطيور "
+"الغناء الأغاني الخاصة بهم.  عليهم  الاستماع والتعلم."
+
+msgid "A robin sings while perched on the roof."
+msgstr "روبن يغني بينما  يجثو على السطح."
+
+msgid ""
+"In the wild savanna environment, a lion must learn how to hunt in order to "
+"survive. While a cub is helpless at first, by three months, its mother has "
+"introduced it to eating meat. Over the next seven months, it will watch its "
+"mother hunt and gradually learn hunting small animals itself. These skills "
+"will not be perfected for another one or two years because hunting is a "
+"complex behavior to master."
+msgstr ""
+"في بيئة السافانا البرية، يتوجب على الأسد تعلم كيفية الاصطياد من أجل البقاء "
+"على قيد الحياة.  بينما الشبل عاجز في البداية، بعد مرور ثلاثة أشهر، تقدم الأم "
+"لها اللحوم.  على مدى الأشهر السبعة المقبلة، فإنه سوف يشاهد مطاردة أمه ويتعلم "
+"تدريجيا صيد الحيوانات الصغيرة نفسها.  لن يتم اتقان هذه المهارات لبعد عام أو "
+"عامين آخرين لأن الصيد هو سلوك معقد  ليصبح متقن."
+
+msgid ""
+"Most learned behavior is related to survival needs such as finding food, "
+"avoiding predators or other dangers, reproduction, or social interaction. "
+"But if learned behaviors are not inherited by an animal's offspring, what is "
+"the advantage to learning new behaviors? The answer is that it is likely "
+"that learning new behaviors allows a population of animals to survive in a "
+"wider variety of environments and situations. If an animal survives longer, "
+"it can increase its chances for reproduction."
+msgstr ""
+"يرتبط السلوك المكتسب باحتياجات البقاء على قيد الحياة مثل إيجاد الغذاء، وتجنب "
+"الحيوانات المفترسة أو أخطار أخرى والتكاثر، أو التفاعل الاجتماعي.  ولكن إذا "
+"لم يتم توارث السلوكيات التي تعلمتها نسل الحيوان، ما هي الميزة لتعلم سلوكيات "
+"جديدة؟ الجواب هو أنه من المرجح أن تعلم سلوكيات جديدة تسمح للحيوانات البقاء "
+"على قيد الحياة في مجموعة متنوعة من البيئات والحالات.  إذا بقي حيوان لفترة "
+"أطول على قيد الحياة، يمكن ان تزيد فرصه في التكاثر."
+
+msgid "Bears learning how to catch fish"
+msgstr "الدببة تتعلم كيف تصطاد السمك"
+
+msgid "Cow playing with her child"
+msgstr "بقرة تلعب مع طفلها"
+
+msgid "Cat licking his feet"
+msgstr "القط يلعق قدمه."
+
+msgid "Learning new behavior..."
+msgstr "تعلم سلوك جديد."
+
+# 9
+msgid ""
+"Question A. Mark <span class='blink'>all</span> of the following that "
+"contribute to learned behavior."
+msgstr ""
+"السؤال أ. حدد  <span class='blink'>جميع</span> ما يساهم في السلوك المتعلم "
+"مما يلي."
+
+msgid "Environment"
+msgstr "بيئة"
+
+msgid "Survival Needs"
+msgstr "احتياجات البقاء"
+
+msgid "Reflexes"
+msgstr "سلوكيات إنعكاسية."
+
+msgid "Inherited Traits"
+msgstr "الصفات الموروثة."
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>not</span> a "
+"characteristic behavior of birds that increases their likelihood of "
+"reproduction?"
+msgstr ""
+"السؤال أ. أي مما يلي <span class='blink'>ليس</span>  سلوكاً مميزاً للطيور التي "
+"يزيد امكانيتهافي التكاثر."
+
+msgid "Singing"
+msgstr "غناء"
+
+msgid "Eye color"
+msgstr "لون العين."
+
+msgid "Catching food"
+msgstr "اصطياد الطعام."
+
+msgid "Feather demonstration"
+msgstr "عرض الريش."
+
+msgid "Ready for your last quick check?"
+msgstr "هل انت مستعد للتحقق من اجابتك باختبار سريع وأخير."
+
+msgid ""
+"Great! Learned behavior depends on the environment the animal lives in, "
+"survival needs, and inherited traits. In the case of a bird, learning to "
+"sing is a behavior important for survival. The bird has inherited the "
+"ability to sing. And depending on the kind of bird it is, it will pick up "
+"clues from the environment and learn to sing the song it needs for its "
+"survival."
+msgstr ""
+"عظيم! يعتمد السلوك المكتسب على البيئة التي يعيش فيهاالحيوان، فهو يحتاج "
+"للبقاء على قيد الحياة، ووراثةالصفات.  في حالة وجود الطيور، تعلم الغناء هو "
+"السلوك مهم من أجل البقاء.  وقد ورثت الطيور القدرة على الغناء.  واعتمادا على "
+"نوع الطير الذي هو عليه، فإنه سيتم التقاط أدلة من البيئة وتعلم غناء الأغنية "
+"التي يحتاجها من أجل بقائه حيا."
+
+msgid ""
+"Not quite. Learned behavior depends on the environment the animal lives in, "
+"survival needs, and inherited traits. In the case of a bird, learning to "
+"sing is a behavior important for survival. The bird has inherited the "
+"ability to sing. And depending on the kind of bird it is, it will pick up "
+"clues from the environment and learn to sing the song it needs for its "
+"survival."
+msgstr ""
+"ليس تماما, يعتمد السلوك المكتسب على البيئة التي يعيش فيهاالحيوان، فهو يحتاج "
+"للبقاء على قيد الحياة، ووراثةالصفات.  في حالة وجود الطيور، تعلم الغناء هو "
+"سلوك مهم من أجل البقاء.  وقد ورثت الطيور القدرة على الغناء.  واعتمادا على "
+"نوع الطير الذي هو عليه، فإنه سيتم التقاط أدلة من البيئة وتعلم غناء الأغنية "
+"التي يحتاجها من أجل بقائه حيا."
+
+msgid ""
+"No, being able to sing is an important quality that would increase the "
+"likelihood of reproduction for birds."
+msgstr ""
+"لا، أن تكون قادرا على الغناء بجودة عالية من شأنه أن يزيد من احتمال تكاثر "
+"الطيور."
+
+msgid ""
+"Correct. The color of a bird's eyes is less important compared to its "
+"ability to sing, catch food, and attract mates by feather demonstrations."
+msgstr ""
+"صحيح، لون عين الطائر هو أقل أهمية مقارنة بقدرتها على الغناء، صيد الطعام، "
+"وجذب الزوج عن طريق عرض الريش."
+
+msgid ""
+"No, finding food is a survival skill that would increase mating chances."
+msgstr "لا، العثور على الطعام هو مهارة للبقاء والتي تزيد من تكاثر الأزواج.."
+
+msgid ""
+"No, birds compete for the chance to mate. Feather demonstrations are one way "
+"they do this."
+msgstr ""
+"لا، الطيور تتنافس للحصول على فرصة للتزاوج.  عرض الريش هي طريقة لفعل ذلك."
+
+# 10
+msgid "Using what you know... about behaviors... to solve a problem"
+msgstr "استخدم ما تعرفه ... عن السلوكيات... لحل مشكلة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid ""
+"You have been called in to provide some training to test and sharpen the "
+"reflexes of a team that is going on a special mission to rescue some "
+"hostages. Being able to grab things quickly is one area of reflexes that is "
+"especially important in this mission."
+msgstr ""
+"لقد دعيت لتقديم بعض التدريب لاختبار وصقل ردود فعل المنعكسة للفريق الذي يجري "
+"في مهمة خاصة لإنقاذ بعض الرهائن.  أن تكون قادراً على انتزاع الأشياء بسرعة هو "
+"واحدة من ردود الفعل التي تتسم بأهمية خاصة في هذه المهمة."
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid ""
+"Your assignment is to design or research one or more activities which can be "
+"used first to test the \"grab-reflex\" of team members and then be used by "
+"the team members to help them improve their grab-reflex. In the box provided "
+"explain how each grab-reflex activity works. Feel free to cut and paste "
+"drawings and explanations in the box."
+msgstr ""
+"مهمتك هي التصميم أو البحث عن واحد أو أكثر من النشاطات والتي يمكن أن تستخدم "
+"أولا لاختبار القبضة المنعكسة لأعضاء الفريق ومن ثم استخدامها من قبل أعضاء "
+"المجموعة لمساعدتهم على تحسين قبضتهم المنعكسة.  في المربع المبين اشرح كيفية "
+"عمل كل نشاط للقبضة المنعكسة.  لا تتردد في قص ولصق الرسومات والتفسيرات في "
+"المربع."
+
+msgid ""
+"Your assignment is to design or research one or more activities which can be "
+"used first to test the \"grab-reflex\" of team members and then be used by "
+"the team members to help them improve their grab-reflex. In the box provided "
+"explain how each grab-reflex activity works."
+msgstr ""
+"مهمتك هي التصميم أو البحث عن واحد أو أكثر من النشاطات والتي يمكن أن تستخدم "
+"أولا لاختبار القبضة المنعكسة لأعضاء الفريق ومن ثم استخدامها من قبل أعضاء "
+"المجموعة لمساعدتهم على تحسين قبضتهم المنعكسة.  في المربع المبين اشرح كيفية "
+"عمل كل نشاط للقبضة المنعكسة.  لا تتردد في قص ولصق الرسومات والتفسيرات في "
+"المربع."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Please type your answer here..."
+msgstr "من فضلك, اطبع اجابتك هنا"
+
+msgid "Training for special mission..."
+msgstr "التدرب لمهمة خاصة."
+
+# 11
+msgid "Summarizing core ideas... about behaviors"
+msgstr "تلخيص الأفكار الأساسية ... حول السلوكيات."
+
+msgid ""
+"All living things respond to the <span class='key'>stimuli</span> in their "
+"environment. These responses, called <span class='key'>behaviors</span>, can "
+"be separated into those that are innate (present at birth) and those that "
+"are learned. <span class='key'>Innate behaviors</span> include reflexes and "
+"instincts. <span class='key'>Reflexes</span> are automatic responses to a "
+"stimulus such as immediately pulling your hand back from touching a hot "
+"stove. <span class='key'>Instincts</span> are more complex behavior patterns "
+"than reflexes, but they too are <span class='key'>inherited</span> and not "
+"learned. <span class='key'>Learned behaviors</span> are behaviors which are "
+"developed through the experience of living and interacting with the "
+"environment. These behaviors are difficult to forget once they are learned, "
+"but they are not passed to the next generation by inheritance. They must be "
+"relearned by the next generation."
+msgstr ""
+"كل الكائنات الحية تستجيب إلى <span class='key'>المثيرات</span> في بيئاتها.  "
+"هذه الاستجابات تدعى <span class='key'>سلوكيات</span> ويمكن تقسيها الى "
+"الفطرية (موجودة عند الولادة)، وتلك التي يتم تعلمها.  وتشمل <span "
+"class='key'>السلوكيات الفطرية</span> السلوكيات المنعكسة والغرائز. السلوكيات "
+"<span class='key'>المنعكسة</span> هي ردود فعل تلقائية للمثير مثل سحب  يدك "
+"على الفور عند  لمس موقد ساخن.  <span class='key'>الغرائز </span> هي أنماط "
+"السلوك ألأكثر تعقيدا من ردود الفعل، لكنها <span class='key'>موروثة </span> "
+"وليست مكتسبة.  <span class='key'>السلوكيات المتعلمة</span> هي السلوكيات التي "
+"يتم تطويرها من خلال تجربة العيش والتفاعل مع البيئة.  هذه السلوكيات من الصعب "
+"أن تنسى فور تعلمها، ولكنها لا تورث للجيل القادم .  يجب أن يكتسبها ويتعلمها "
+"مرة أخرى ."
+
+msgid "Putting it all together..."
+msgstr "وضع كل ذلك معا"
+
+# 12
+msgid "Reviewing key vocabulary related to... behaviors"
+msgstr "مراجعة المفردات الأساسية ذات الصلة ... بالسلوكيات."
+
+msgid "Behavior"
+msgstr "سلوك"
+
+msgid "Response"
+msgstr "استجابة."
+
+msgid "Inherited behavior"
+msgstr "سلوك موروث."
+
+msgid "Genetically-inherited"
+msgstr "موروث جينيا."
+
+msgid ""
+"The way that an animal responds to its environment is called behavior. An "
+"animal's behavior or action, often changes in response to changes in its "
+"environment."
+msgstr ""
+"وتسمى الطريقة التي يستجيب بها الحيوان مع بيئته سلوك.  سلوك الحيوان أو فعله، "
+"غالبا ما يتغيران فى استجابته للتغيرات في بيئته."
+
+msgid ""
+"Behavior is not limited to just one individual. Animals can change their "
+"behavior as a group, too. For example, a flock of birds may not fly south "
+"for the winter as early as they normally would if an area is experiencing "
+"unusually warm temperatures. Or, a group of deer that normally travels on "
+"one path to find food may change their behavior and find another route if "
+"the path is flooded or blocked."
+msgstr ""
+"السلوك لا يقتصر على فرد واحد فقط..  ويمكن للحيوانات تغيير سلوكها كمجموعة "
+"واحدة أيضا.  على سبيل المثال، سرب من الطيور قد لا يطيرالى الجنوب لفصل الشتاء "
+"في وقت مبكر كما يفعلون عادة إذا شهدت المنطقة  درجات حرارة دافئة بشكل غير "
+"معتاد.  أو، مجموعة من الغزلان التي تنتقل عادة في مسار واحد للعثور على الغذاء "
+"قد تغير من سلوكها وتجد طريقا آخر إذا أغرقت الطريق أو سدت"
+
+msgid ""
+"A stimulus is something that produces a reaction or a change. Light is a "
+"stimulus that can cause the size of the pupil in your eye to change."
+msgstr ""
+"المثير هو الشيء الذي ينتج رد فعل أو تغيير.  الضوء هو المثير الذي يمكن أن "
+"يتسبب في تغيير  حجم البؤبؤ فى العين "
+
+msgid ""
+"Sometimes a reward is used as a stimulus to cause a desired action or "
+"response. For example, your school may reward students for the number of "
+"books read during the school year. This reward can act as a stimulus to get "
+"the students to read more books."
+msgstr ""
+"أحيانا يتم استخدام المكافأة كحافز لإحداث الإجراء المطلوب أو الاستجابة.  على "
+"سبيل المثال، قد تكافئ مدرستك الطلبة لقراءة عدد من الكتب خلال العام الدراسي.  "
+"هذه المكافأة يمكن أن تكون بمثابة مثير للطلاب لقراءة المزيد من الكتب."
+
+msgid ""
+"A response is generated in the brain after it receives a tiny electrical "
+"signal from the neurons. Response works like stimulus, only in reverse."
+msgstr ""
+"يتم توليد الاستجابة في الدماغ بعد أن يتلقى إشارة كهربائية صغيرة من الخلايا "
+"العصبية.  الاستجابة تعمل كالمثير، لكن في الاتجاه المعاكس."
+
+msgid ""
+"Innate behaviors are behaviors present at birth. Innate behaviors include "
+"reflexes and instincts. An example of an innate behavior is stretching."
+msgstr ""
+"السلوكيات الفطرية هي سلوكيات موجودة عند الولادة.  وتشمل السلوكيات الفطرية "
+"السلوكيات المنعكسة والغريزية. مثال على سلوك الفطري تمديد الجسم."
+
+msgid ""
+"An instinct is a behavior that a creature is born with and is thus "
+"unlearned. It helps the creature to survive. The communication of wolves "
+"through howling is an example of an instinct."
+msgstr ""
+"الغريزة هي السلوك التي يولد معها الكائن الحي وبالتالي لا يتعلمها.  تساعد "
+"الكائن للبقاء.  اتصال الذئاب مع بعضها البعض عن طريق العواء هو مثال على "
+"الغريزة."
+
+msgid ""
+"Inherited behaviors are behaviors which are physically passed on from "
+"generation to generation through the DNA. Not all behavior is inherited "
+"behavior, although some are. An example of inherited behavior is a lion's "
+"behavior of roaring."
+msgstr ""
+"السلوكيات الموروثة هي السلوكيات التي مرت جسديا من جيل إلى جيل من خلال الحمض "
+"النووي.   ليس كل سلوك موروث، على الرغم من أن بعضها يورث . مثال على السلوك "
+"الموروث هو سلوك الأسد بالزئير."
+
+msgid ""
+"Unlike inherited behavior which is passed on through the DNA in "
+"reproduction, learned behaviors are behaviors which are developed through "
+"experience - by living and interacting with other organisms and with the "
+"environment. Examples of learned behaviors in humans include reading, "
+"sharing, helping others, playing music, and riding a bicycle."
+msgstr ""
+"على عكس السلوك الموروثة التي يتم تمريرها عن طريق الحمض النووي في التكاثر، "
+"السلوكيات المتعلمة هي السلوكيات التي يتم تطويرها من خلال التجربة - من خلال "
+"العيش والتفاعل مع الكائنات الحية الأخرى والبيئة. أمثلة على السلوكيات "
+"المتعلمة في البشر تشمل القراءة، والمشاركة، ومساعدة الآخرين، عزف الموسيقى، "
+"وركوب الدراجات الهوائية."
+
+msgid ""
+"A reflex is a genetically-inherited behavior that is involuntarily triggered "
+"by a stimulus. Reflexes are not learned. They are present from birth. For "
+"example, babies possess the grasp reflex, by which they hold onto objects."
+msgstr ""
+"السلوك المنعكس هو السلوك الموروث جينيا، وهو غير طوعي يسببه مثير معين.  نحن "
+"لم نتعلم ردود الفعل.  فهي  موجودة منذ الولادة.  على سبيل المثال، الأطفال "
+"يملكون رد الفعل، التي من خلالها يتمسكون  بالأجسام."
+
+msgid ""
+"Something that is genetically-inherited is passed on through reproduction, "
+"through the DNA. Innate behaviors such as reflexes and instincts are "
+"genetically-inherited by offspring from their parents. Physical "
+"characteristics are also genetically-inherited, such as the horns of the "
+"rhinoceros."
+msgstr ""
+" الشيء  الموروث جينيا ينتقل عن  طريق التكاثر، من خلال الحمض النووي.  "
+"السلوكيات الفطرية مثل ردود الفعل والغرائز موروثة جينيا  في النسل من قبل  "
+"الوالدين.  الخصائص الفيزيائية هي موروثة جينياً، مثل القرن عند  وحيد القرن."
+
+# 13
+msgid "Checking what you now know... about behaviors"
+msgstr "تأكد مما تعرف .... حول السلوكيات."
+
+# 14
+msgid ""
+"Crows are black-colored birds with excellent hearing, and typically live for "
+"six to seven years. Some crows in Japan open hard-shelled nuts by dropping "
+"them in front of moving cars. Which of the following is a learned behavior?"
+msgstr ""
+"الغربان هي طيور سوداء تتميز بسمع ممتاز.  وتعيش عادة لمدة ستة إلى سبع سنوات.  "
+"بعض الغربان في اليابان تفتح الجوز  ذو  القشرة الصلبة عن طريق اسقاطها أمام "
+"السيارات المتحركة. أي من التالية هي سلوكيات مكتسبة؟"
+
+msgid "Living six to seven years"
+msgstr "العيش لمدة ست الى سبع سنوات."
+
+msgid "Having black feathers"
+msgstr "لها/له ريش أسود."
+
+msgid "Dropping nuts in front of cars"
+msgstr "اسقاط الجوز أمام السيارات."
+
+msgid "Having excellent hearing"
+msgstr "تمتلك سمعا ممتازا."
+
+msgid "Your first quiz question is..."
+msgstr "سؤالك القصير الاول هو..."
+
+msgid ""
+"No, living 6 - 7 years is just the average age of that type of crow in that "
+"area."
+msgstr ""
+"لا, العيش لمدة ست الى سبع سنوات هو متوسط العيش لهذا النوع من الغربان في تلك "
+"المنطقة."
+
+msgid ""
+"No, having black feathers is inherited and part of the bird's innate "
+"behavior."
+msgstr "لا، الحصول على ريش أسود يورث وهو جزء من السلوك الفطري لدى الطير."
+
+msgid ""
+"Correct. The crows \"learned\" that dropping nuts in front of cars will open "
+"them. Their offspring will learn this from observing their parents, not from "
+"the DNA."
+msgstr ""
+"صحيح.  تتعلم الغربان بأن إسقاط المكسرات أمام السيارات سيفتحها. أطفالهم "
+"ستتعلم هذا من ملاحظة أبائهم، ليس من الحمض النووي."
+
+msgid ""
+"No, having excellent hearing is inherited and part of the bird's innate "
+"behavior."
+msgstr "لا، الاستماع الممتاز يورث وهو جزءا من السلوك الفطري  لدى الطيور."
+
+# 15
+msgid ""
+"Which of the following statements is <span class='blink'>not</span> true "
+"regarding learned behavior?"
+msgstr ""
+"أي من العبارات التالية <span class='blink'>ليس</span> صحيح حول السلوك "
+"المكتسب؟"
+
+msgid "Learned behaviors are not inherited from parents."
+msgstr "السلوك المكتسب ليس موروثا من الوالدين."
+
+msgid ""
+"Animals learn by observation and through experiences with their environment."
+msgstr "الحيوانات تتعلم من خلال الملاحظة ومن خلال التجارب مع بيئاتها."
+
+msgid "There are survival advantages to learned behavior."
+msgstr "هناك مزايا باقية  للسلوك  المكتسب."
+
+msgid ""
+"Being colorblind (being unable to visually distinguish between green and red "
+"colors from birth) is an example of a learned behavior."
+msgstr ""
+"أن يكون لديك عمى ألوان (عدم القدرة على التمييز بين الألوان بصريا( الأخضر "
+"والأحمر من الولادة) هو مثال على سلوك مكتسب."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer"
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لاستدارة المربع وحدد إجابتك"
+
+msgid "Studying behavior..."
+msgstr "دراسة السلوك...."
+
+msgid ""
+"No, even if your parents learned how to ride a bicycle, the behavior is not "
+"passed onto you. You had to learn how to ride a bicycle yourself."
+msgstr ""
+"لا، حتى لو تعلم والديك كيفية ركوب الدراجة.  السلوك لا يمرر اليك .  يجب أن "
+"تتعلم ركوب الدراجة بنفسك."
+
+msgid ""
+"No, animals do learn by observing their parents and experiencing things "
+"themselves. Different animals stay with their parents for different periods "
+"of time until they are independent."
+msgstr ""
+"لا، تتعلم الحيوانات من خلال مراقبة والديها وتجربة الأشياء ذاتها. الحيوانات "
+"المختلفة تبقى مع والديهم لفترات مختلفة من الزمن حتى تستقل."
+
+msgid ""
+"No, the advantage of learned behavior is that the offspring can learn "
+"different behaviors which might come in handy in situations needed to "
+"survive."
+msgstr ""
+"لا، أن ميزة السلوك المكتسب هو أن الذرية يمكن أن تتعلم السلوكيات المختلفة قد "
+"تكون سهلة  في أوضاع تحتاج اليها للبقاء على قيد الحياة."
+
+msgid ""
+"Correct. This is false because being colorblind is an inherited trait, not "
+"something you can learn."
+msgstr ""
+"صحيح.  هذا خطأ لأن كون لديه عمى ألوان فهو سمة موروثة، وليس شيئا يمكن تعلمه."
+
+# 16
+msgid ""
+"Complete the sentence by selecting the <span class='blink'>correct</span> "
+"terms."
+msgstr "إكمل الجملة باختيار  المصطلحات <span class='blink'>الصحيحة</span>."
+
+msgid "Behaviors can be divided into those which are,"
+msgstr "يمكن تقسيم السلوكيات الى تلك التي هي."
+
+msgid "innate"
+msgstr "فطري"
+
+msgid "learned"
+msgstr "مكتسب أو متعلم"
+
+msgid "reflexes"
+msgstr "سلوكيات منعكسة"
+
+msgid "instincts"
+msgstr "الغرائز."
+
+msgid "meaning they are present from"
+msgstr "معنى أنها موجودة من "
+
+msgid "birth, and those that are,"
+msgstr "الولادة، وتلك التي هي،"
+
+msgid "or must be developed after birth."
+msgstr "أو يجب تطويرها بعد الولادة."
+
+msgid "Innate behaviors are related to survival needs and include"
+msgstr "ترتبط السلوكيات الفطرية باحتياجات البقاء على قيد الحياة، وتشمل"
+
+msgid "and"
+msgstr "و"
+
+msgid "Selecting answers..."
+msgstr "اختيار الأجوبة."
+
+msgid ""
+"Correct. There are innate and learned behaviors. Innate are those behaviors "
+"which are not taught and have to do with survival skills. They include "
+"reflexes (automatic responses to stimulus) and instincts. Other behaviors "
+"are learned from parents or through hands-on experience."
+msgstr ""
+"صحيح.  هناك سلوكيات فطرية ومكتسبة.  الفطرية هي تلك السلوكيات التي لا تدرس "
+"وذات صلة بمهارات البقاء على قيد الحياة.   وهي تشمل سلوكيات منعكسة وغرائزية.  "
+"والسلوكيات الأخرى التي اكتسبت من الوالدين أو من خلال التجربة العملية."
+
+msgid ""
+"Not quite. There are innate and learned behaviors. Innate are those "
+"behaviors which are not taught and have to do with survival skills. They "
+"include reflexes (automatic responses to stimulus) and instincts. Other "
+"behaviors are learned from parents or through hands-on experience."
+msgstr ""
+"ليس تماما، هناك سلوكيات فطرية ومكتسبة.  الفطرية هي تلك السلوكيات التي لا "
+"تدرس وذات صلة بمهارات البقاء على قيد الحياة.  وهي تشمل ردود الفعل "
+"(الاستجابات التلقائية  للمحفزات) والغرائز.   والسلوكيات التي نكتسبها من "
+"الوالدين أو من خلال التجربة العملية."
+
+# 17
+msgid ""
+"Many horses can walk within five minutes of being born. Given this fact, "
+"what is walking considered in horses?"
+msgstr ""
+"العديد من الأحصنة تستطيع المشي خلال خمس دقائق من ولادتها فقط..  نظرا لذلك، "
+"ماذا يعتبر المشي عند الأحصنة؟"
+
+msgid "Stimulus"
+msgstr "المثير"
+
+msgid "Reflex"
+msgstr "سلوك منعكس."
+
+msgid "Innate behavior"
+msgstr "سلوك فطري."
+
+msgid "Learned behavior"
+msgstr "سلوك مكتسب."
+
+msgid "Looking at the behavior pattern..."
+msgstr "انظر الى نمط السلوك."
+
+msgid ""
+"No, walking is not a specific situation that causes a response. It is an "
+"innate behavior in this animal."
+msgstr ""
+"لا، المشي ليس حالة معينة تؤدي إلى الاستجابة.  وهو سلوك فطري فى هذا الحيوان."
+
+msgid ""
+"No, reflexes are simple and automatic responses to an external stimulus. The "
+"ability to walk is innate behavior, just not a reflex."
+msgstr ""
+"لا ، السلوكيات المنعكسة هي استجابات بسيطة وتلقائية لمثير خارجي.  القدرة على "
+"المشي هى سلوك فطري، وليس فقط سلوك انعكاسي."
+
+msgid ""
+"Correct. Walking within five minutes of birth shows this behavior to be "
+"innate and instinctual."
+msgstr ""
+"صحيح.  المشي في غضون خمس دقائق من الولادة يظهر هذا السلوك ليكون فطري وغريزي."
+
+msgid ""
+"No, walking for humans is a learned behavior, but for horses it is an innate "
+"behavior."
+msgstr "لا، والمشي بالنسبة للبشر هو سلوك مكتسب، ولكن للخيول فهو سلوك فطري."
+
+# 18
+msgid ""
+"Are these behaviors instinct, reflex, or learned? Hover your mouse on the "
+"texts to view an image."
+msgstr ""
+"هل هذه السلوكيات غريزية, منعكسة، أم مكتسبة؟ مرر الفأرة على النص لتعرض الصورة."
+
+msgid "Instinct"
+msgstr "غريزة"
+
+msgid "Learned"
+msgstr "متعلم"
+
+msgid "A pet cuddling with its owner."
+msgstr "حيوان أليف يحضن صاحبه."
+
+msgid "A pet going to its mother for milk."
+msgstr "حيوان أليف يذهب لأمه للحليب."
+
+msgid "A child being potty trained."
+msgstr " يتم تدريب الطفل على قضاء الحاجة."
+
+msgid "A woman quickly moves her hand away from heat."
+msgstr "امراة تسحب يدها بسرعة بعيدا عن الحرارة."
+
+msgid "A student looks both ways before crossing the street."
+msgstr "ينظر الطفل الى كلا الجانبين قبل قطع الشارع."
+
+msgid "A child screams when frightened."
+msgstr "يصرخ الطفل عند الخوف."
+
+msgid "A baby cries when it wants its parents' attention."
+msgstr "يبكي الطفل عندما يريد انتباه اهله."
+
+msgid "Recently born birds know when to migrate."
+msgstr "الطيور المولودة حديثا تعرف متى موعد هجرتها."
+
+msgid "Instinct, reflex or learned?"
+msgstr "غريزي, منعكس، أم  متعلم؟"
+
+msgid "ANSWER"
+msgstr "أجب."
+
+msgid ""
+"Correct! An animal will instinctively go to its mother for milk, but it "
+"learned to go to its human owner for cuddling. Other animals might have "
+"\"learned\" not to go near humans based on their experience. Screaming is "
+"another example in which if it is done without thinking, out of fear, it is "
+"a reflex. But if a person learns that screaming will lead to more parental "
+"attention, it is no longer considered a reflex."
+msgstr ""
+"صحيح، الحيوان سوف يذهب لأمه للحصول على الحليب غريزيا ، ولكنه يتعلم الذهاب "
+"لمالكه ليحضنه.  الحيوانات الأخرى تتعلم عدم التوجه  قرب الانسان حسب تجربتها.  "
+"الصراخ هو مثال اخر على القيام بشيء دون التفكير بداعي الخوف وهنا يعد منعكس.  "
+"لكن اذا تعلم الشخص أن البكاء سوف يؤدي الى انتباه والديه اليه فهو لا يعتبر "
+"هنا منعكس."
+
+msgid ""
+"Not quite. An animal will instinctively go to its mother for milk, but it "
+"learned to go to its human owner for cuddling. Other animals might have "
+"\"learned\" not to go near humans based on their experience. Screaming is "
+"another example in which if it is done without thinking, out of fear, it is "
+"a reflex. But if a person learns that screaming will lead to more parental "
+"attention, it is no longer considered a reflex."
+msgstr ""
+"ليس تماما، الحيوان سوف يذهب لأمه للحصول على الحليب غريزيا ، ولكنه يتعلم "
+"الذهاب لمالكه ليحضنه.  الحيوانات الأخرى تتعلم عدم التوجه  قرب الانسان حسب "
+"تجربتها.  الصراخ هو مثال اخر على القيام بشيء دون التفكير بداعي الخوف وهنا "
+"يعد منعكساً.  لكن اذا تعلم الشخص أن البكاء سوف يؤدي الى انتباه والديه اليه "
+"فهو لا يعتبر هنا منعكس."
+
+# 19
+msgid ""
+"On the first attempt, a mouse takes 20 minutes to complete a maze. By the "
+"fourth time, the same mouse takes only 12 minutes to finish the maze. What "
+"does this show?"
+msgstr ""
+"في المحاولة الأولى، الفأر يستغرق 20 دقيقة لإكمال المتاهة.  وفي المرة "
+"الرابعة، نفس الفأر يأخذ 12 دقيقة فقط لإنهاء المتاهة. ماذا يبين ذلك؟"
+
+msgid ""
+"The mouse did not have sharp instincts the first time completing the maze."
+msgstr "لم يكن لدى الفأر غريزة حادة أول مرة أكمل فيها المتاهة."
+
+msgid "The mouse wanted to complete the maze to make the scientist happy."
+msgstr "الفأر أراد أن ينهي المتاهة ليجعل العالم سعيدا."
+
+msgid "The mouse had excellent reflexes the third time the maze was completed."
+msgstr "كان للفأر استجابات منعكسة ممتازة عندما أنهى المتاهة في المرة الثالثة."
+
+msgid ""
+"The mouse experienced the maze and had the ability to learn new behaviors."
+msgstr "اختبر الفأر المتاهة وكان عنده القدرة ليتعلم سلوكيات جديدة."
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لاخر سؤال في الاختبار؟"
+
+msgid ""
+"No, the mouse traveled through the maze based on its instinct, but needed "
+"more experience to learn how to get to the end."
+msgstr ""
+"لا، توجه حركة الفأر في المتاهة كان غريزيا، ولكنه احتاج خبرة لتعلم الوصول "
+"للنهاية."
+
+msgid ""
+"No, the statements show no sign of this behavior. It shows the animal's "
+"ability to learn new behaviors."
+msgstr ""
+"لا، البيانات لا تظهر أي علامة على هذا السلوك، بل أظهرت القدرة على اكتساب "
+"سلوكيات جديدة."
+
+msgid ""
+"No, reflexes are automatic responses to a stimulus. Going from 20 to 12 "
+"minutes in four tries shows the animal's ability to learn new behaviors."
+msgstr ""
+"لا، ردود الفعل هي استجابات اوتوماتيكية للمحفزات.  الانتقال من 20 ال 12 دقيقة "
+"في أربع محاولات تظهر قدرة الحيوان لتعلم سلوكيات جديدة."
+
+msgid ""
+"Correct. Through trial and error the animal learned how to get to the maze "
+"in a faster way, that is why the time reduced from 20 to 12 minutes."
+msgstr ""
+"صحيح، من خلال التجربة والأخطاء، الحيوانات تعلمت كيفية الوصول الى نهاية "
+"المتاهة بأسرع وقت، ولهذا  إنخفض الوقت من 20 ال 12 دقيقة."
+
+# 20
+msgid "You've completed the Behaviors review."
+msgstr "لقد اتممت مراجعة السلوكيات."
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+".يمكنك تفقد اجاباتك في الاختبارات السريعة و في الاسئلة السريعة لهذه المراجعة "
+"بالنقر على الزر المبين في الأسفل."

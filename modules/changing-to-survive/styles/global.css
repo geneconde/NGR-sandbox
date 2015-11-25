@@ -1,0 +1,28 @@
+html { background-color: #fff; font-family: 'PlaytimeRegular';}
+body { display: none; }
+html, body { height:100%; padding:0; margin:0; font-family: 'PlaytimeRegular'; min-height: 450px;  }
+img { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; border: 0; }
+a { text-decoration: none; color: #111; }
+h1 { font-size: 35px; margin: 0; padding: 5px 0 10px; color: #F36D90; }
+h2, p, li {	margin: 0; font-size: 24px; color: #000; }
+h2 { color: #683F1A; font-weight: normal; }
+h3 { font-weight: normal; font-size: 20px; }
+.wrap { margin: 0 auto; max-width:900px; height:100%; border-left: 1px dashed #0F5E4D; border-right: 1px dashed #0F5E4D; padding: 0 2px; }
+.bg > div { width: 95%; margin: 0 auto; }
+.images, .image { width: 100%; text-align: center;}
+.buttons { position: absolute; bottom: 2%; right: 2%; }
+.buttons img, .buttons-back img { border: 0 !important;	background: transparent !important; }
+.buttons-back { position: absolute; bottom: 2%; left: 2%; }
+.check { position: absolute; bottom: 2%; right: 2%; }
+.red { color: red; }
+.green { color: green; }
+.red img, .green img { border: 0 !important; vertical-align: middle;}
+.blue { color: Blue; }
+.center { text-align: center !important; }
+.hidden { display: none; }
+.blink { text-transform: uppercase; color: Red;}
+.bg ul {	margin: 0;	list-style: none; }
+.question { color: lightcoral; }
+.key { color: #782D9B;  }
+.clear { clear: both; }
+.feedback img { vertical-align: middle; padding-right: 10px; }

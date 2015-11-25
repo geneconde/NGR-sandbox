@@ -1,0 +1,41 @@
+[28-Apr-2014 02:00:13 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[28-Apr-2014 02:17:39 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[04-May-2014 20:25:05 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[04-May-2014 21:27:09 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[04-May-2014 21:27:18 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[04-May-2014 21:28:11 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[04-May-2014 21:28:13 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[04-May-2014 21:28:52 America/Denver] PHP Notice:  Undefined index: smid in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/20.php on line 44
+[05-Jun-2014 08:18:15 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Jun-2014 23:58:43 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[20-Jun-2014 05:20:41 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[15-Jul-2014 00:37:45 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[20-Jul-2014 03:11:47 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[21-Jul-2014 23:34:59 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[11-Sep-2014 05:51:54 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:22:48 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:23:48 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:23:57 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:25:17 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:25:36 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:26:07 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:27:25 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:27:35 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:29:17 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:29:38 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:29:55 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:30:43 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:32:12 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:34:51 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:35:11 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:35:36 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:36:14 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 01:36:23 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 149
+[12-Sep-2014 01:36:33 America/Denver] PHP Notice:  Undefined variable: answered in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/healthy-body/18.php on line 143
+[12-Sep-2014 05:24:59 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[16-Sep-2014 22:50:24 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[22-Sep-2014 04:56:44 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[05-Jan-2015 01:39:09 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[05-Jan-2015 01:39:16 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[05-Jan-2015 01:39:17 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17
+[05-Mar-2015 04:51:26 America/Denver] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home5/jigzenco/public_html/dev/shymansky/sandbox/demo/tempsession.php on line 17

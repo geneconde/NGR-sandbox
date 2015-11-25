@@ -1,0 +1,1440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: staying-healthy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check answer"
+msgstr "查看答案"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read more"
+msgstr "繼續"
+
+msgid "Read More"
+msgstr "繼續"
+
+msgid "Staying Healthy"
+msgstr "維護健康"
+
+msgid "You answered..."
+msgstr "您的回答..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習＃1"
+
+msgid "Quick Check #2"
+msgstr "小練習＃2"
+
+msgid "Quick Check #3"
+msgstr "小練習＃3"
+
+msgid "Quick Check #4"
+msgstr "小練習＃4"
+
+msgid "Quick Check #5"
+msgstr "小練習＃5"
+
+msgid "Quiz Question #1"
+msgstr "小測驗＃1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗＃2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗＃3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗＃4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗＃5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗＃6"
+
+msgid "How did I do?"
+msgstr "我答得如何?"
+
+msgid "select"
+msgstr "選擇"
+
+msgid "More core ideas... about staying healthy"
+msgstr "更多核心觀念...關於「健康的身體」"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並上下移動滑鼠旋轉方塊，然後選擇你的答案。"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "讓我們開始吧！"
+
+msgid "Are you ready,"
+msgstr "你準備好，"
+
+msgid "Breathing fresh air..."
+msgstr "呼吸新鮮空氣..."
+
+msgid "Warming up for exercise..."
+msgstr "暖暖身..."
+
+msgid "Ready for your first quick check?"
+msgstr "準備好進行第一個小練習？"
+
+msgid "Organs are working together..."
+msgstr "器官共同運作..."
+
+msgid "Help to fight diseases"
+msgstr "幫助抵抗疾病"
+
+msgid "Vitamins for energy boost"
+msgstr "維生素來提升體能"
+
+msgid "Vaccination on the go"
+msgstr "疫苗接種"
+
+msgid "Preparing a delicious diet..."
+msgstr "準備美味的飲食..."
+
+msgid "Burning calories..."
+msgstr "燃燒卡路里..."
+
+msgid "Blocking harmful substances..."
+msgstr "阻隔有害物質..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好進行最後一個小練習？"
+
+msgid "A healthy nutrition diet"
+msgstr "健康的營養飲食"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+msgid "Words and explanations"
+msgstr "名詞和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你現在知道"
+
+msgid "Your first quiz question is"
+msgstr "你的第一個小測驗的問題是..."
+
+msgid "What are organs made of?"
+msgstr "器官是什麼組成的？"
+
+msgid "Inhale... exhale..."
+msgstr "吸氣... 呼氣..."
+
+msgid "Picture of a healthy heart"
+msgstr "一個健康心臟的圖"
+
+msgid "Go, Grow, Glow"
+msgstr "加油、成長、發亮發光"
+
+msgid "Take the last quiz question!"
+msgstr "回答最後一個小測驗！"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+# 1
+msgid "Welcome to the Staying Healthy review,"
+msgstr "歡迎來到「維護健康」單元，"
+
+msgid "Start"
+msgstr "開始"
+
+# 2
+msgid "Thinking about... staying healthy"
+msgstr "想一想...關於「健康的身體」"
+
+msgid ""
+"People come in all ages, shapes and sizes; but we do have one important "
+"thing in common. We'll feel better and live longer and more comfortably if "
+"we understand and take care of our bodies. The human body is more complex "
+"than any machine ever designed, and yet it is very reliable, lasts a long "
+"time, and can usually fix itself when something goes wrong."
+msgstr ""
+"人有各種不同的年齡、體型、高矮胖瘦；但是我們有一個重要的共同點──就是，如果我"
+"們了解並照顧好我們的身體，我們便能覺得更好、活得更久且更舒適。我們的人體是比"
+"以往人類所有設計的機器都更為複雜，但它卻是非常可靠、耐用，而且在出現問題時自"
+"我修復。"
+
+# 3
+msgid "Checking what you know... about staying healthy"
+msgstr "看看你了解了多少...關於「健康的身體」"
+
+msgid "Click the statements the activities shown are likely to cause."
+msgstr "請問，下列的活動可能會導致：(第一、二題複選，第三題單選)"
+
+msgid "Diet heavy in fats and carbohydrates."
+msgstr "飲食許多的脂肪和碳水化合物。"
+
+msgid "Increase in obesity."
+msgstr "增加肥胖。"
+
+msgid "Increase in heart disease."
+msgstr "增加心臟疾病。"
+
+msgid "Increase in overall fitness."
+msgstr "增進整體健康。"
+
+msgid "Daily exercises at least 30 minutes long."
+msgstr "每天運動至少30分鐘。"
+
+msgid "Decrease in body weight."
+msgstr "降低體重。"
+
+msgid "Increase in energy."
+msgstr "增加體能。"
+
+msgid "Increase in heart disease risk."
+msgstr "增加心臟疾病的風險。"
+
+msgid "Childhood health checkups including vaccinations at appropriate ages."
+msgstr "童年的健康檢查還有在適當的年齡接種疫苗。"
+
+msgid "Increase in childhood diseases."
+msgstr "提高兒童疾病的可能性。"
+
+msgid "Decrease in overall health."
+msgstr "降低整體健康。"
+
+msgid "Fewer childhood diseases."
+msgstr "較少的兒童疾病。"
+
+msgid ""
+"A diet heavy in fats and carbohydrates can lead to obesity and heart "
+"problems. Daily exercise is needed to control body weight and give an energy "
+"boost. Checkups and vaccinations are also necessary to prevent major "
+"diseases."
+msgstr ""
+"攝取過多的脂肪和碳水化合物會導致肥胖和心臟問題。我們也需要每天運動以控制體重"
+"並增進體能。健檢和疫苗接種也是必要的，以防止重大疾病。"
+
+# 4
+msgid "Reviewing core ideas... about staying healthy"
+msgstr "複習核心觀念...「健康的身體」"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit."
+msgstr ""
+"我們的身體是由許多維持身體健康的「系統」組成。一個系統可包括好幾個「器官」，"
+"器官之間可以獨立或共同的運作。"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭，以瀏覽下面的幻燈片"
+
+msgid ""
+"The <span class='key'>circulatory system's</span> primary function is to "
+"move blood through the body, but it doesn't work alone. The <span "
+"class='key'>respiratory system</span> works with it to take in oxygen from "
+"the air to send through the blood to body tissues."
+msgstr ""
+"<span class='key'>循環系統</span>的主要功能是讓血液在身體內流動，但它並不是獨"
+"自工作的。例如，我們人體的呼吸作用，就是將空氣中的氧氣透過血液而輸送到身體各"
+"部份的組織。在這例子中，<span class='key'>呼吸系統</span>就和循環系統一起工"
+"作。[上左圖：循環系統包含心臟和血管等；中圖：消化系統包含胃和腸等；右圖：呼吸"
+"系統包含肺和氣管等]"
+
+msgid ""
+"Blood also brings carbon dioxide from body tissues to the lungs to be "
+"breathed out. In addition, blood carries nutrients from the digestive system "
+"to tissues all over the body. Chemical waste from the entire body is carried "
+"by blood and removed by the kidneys and other parts of the <span "
+"class='key'>excretory system</span>."
+msgstr ""
+"血液也會將身體內的二氧化碳帶到肺部呼出、也可以將營養從消化系統帶到各部分的組"
+"織、它也可以攜帶體內的化學廢物經由腎臟和其他的<span class='key'>排泄系統</"
+"span>的器官排出體外。[左圖，是排泄系統的圖。上方兩個像是蠶豆狀的器官是腎臟，"
+"下方的器官則是膀胱]"
+
+msgid ""
+"The <span class='key'>endocrine system</span> produces chemicals that cause "
+"changes in other parts of the body. The endocrine system controls many of "
+"the functions of the digestive and reproductive systems. It also influences "
+"the nervous system and circulatory system by producing the substances that "
+"cause changes in heart rate, blood pressure, and breathing when we are "
+"excited or afraid."
+msgstr ""
+"<span class='key'>內分泌系統</span>能產生會造成身體各部位變化的化學物質。內分"
+"泌系統調控消化系統和生殖系統的許多功能。內分泌系統也會在我們激動或害怕時，製"
+"造能使我們心跳速率、血壓和呼吸改變的化學物質，來影響神經系統和循環系統。[右圖"
+"中是人體許多內分泌系統的分布圖。例如，在頸部有「甲狀腺(Thyroid gland)」、在腰"
+"部腎臟上面有「腎上腺(Adrenal gland)」等等。你找到了嗎？]"
+
+msgid ""
+"The <span class='key'>nervous system</span> consists of the brain, spinal "
+"cord, and a complex network of nerves that transmit information around the "
+"body. Sensory nerves are the tools that provide information about the world "
+"around us. Sight, sound, taste, touch, and smell are detected and "
+"information is sent to the brain. Motor nerves send messages from the brain "
+"to muscles around the body. When muscles contract, bones move."
+msgstr ""
+"<span class='key'>神經系統</span>由腦、脊椎和傳遞身體周遭訊息的複雜神經網絡，"
+"共同組成。其中，感覺神經細胞是用來獲得我們周圍世界信息的工具，它可以偵測到影"
+"像、聲音、味道、碰觸和氣味並將相關信息傳到到大腦；而，運動神經細胞則可將大腦"
+"發出的信息傳送到遍佈身體的肌肉，當肌肉收縮時，骨骼就會移動。"
+
+msgid ""
+"The <span class='key'>skeletal system</span> is responsible for providing "
+"support for the rest of the body. It also provides attachment points for "
+"muscles, which contract to allow movement. This movement is made possible by "
+"energy delivered by blood, and is controlled by the nervous system. The "
+"skeletal system is also where new blood cells are made."
+msgstr ""
+"<span class='key'>骨骼系統</span>負責對身體的其餘部分提供支撐。因為骨骼具有肌"
+"肉可以附著的地方，所以當肌肉收縮時就會造成骨骼的移動。運動所需要的能量是由血"
+"液輸送提供而來，但運動卻由神經系統所控制。骨骼系統也是製造新血液細胞的地方。"
+
+# 5
+msgid ""
+"Question A. The nervous system does <span class='blink red'>NOT</span> "
+"depend upon which of the following?"
+msgstr "問題A. 神經系統<span class='blink red'>並不需要依賴</span>於？"
+
+msgid "Circulatory System"
+msgstr "循環系統"
+
+msgid "Skeletal System"
+msgstr "骨骼系統"
+
+msgid "Respiratory System"
+msgstr "呼吸系統"
+
+msgid "Circulatory, Skeletal and Respiratory"
+msgstr "神經系統需要依賴這些系統"
+
+msgid ""
+"Question B. What would happen if your respiratory system stopped working?"
+msgstr "問題 B. 如果呼吸系統停止工作會怎麼樣？"
+
+msgid "You would need an organ transplant."
+msgstr "您將需要進行器官移植。"
+
+msgid "Nothing, the body would recover somehow."
+msgstr "沒事，身體會修復。"
+
+msgid "You would not be able to continue living and die."
+msgstr "你將無法繼續生活而且將會死亡。"
+
+msgid "Not quite! The brain needs oxygen from blood."
+msgstr "不對喔！神經系統中的大腦就需要依賴循環系統中的血液來提供氧氣。"
+
+msgid "Nope! The brain is protected by the skull."
+msgstr "不對喔！神經系統中的大腦就需要依賴骨骼系統中的頭骨來提供保護。"
+
+msgid "Think again! The brain needs the oxygen gathered by the lungs."
+msgstr "再想想！神經系統中的大腦就需要依賴呼吸系統中的肺來提供氧氣。。"
+
+msgid "It DOES depend on all of the systems mentioned."
+msgstr "神經系統需要依賴以上所有系 統。"
+
+msgid ""
+"You got it! That was a trick question... The nervous system needs all of "
+"these."
+msgstr ""
+"你答對了！這是一個有趣的問題...神經系統需要所有這些循環、骨骼和呼吸系統。也就"
+"是，系統之間還是需要彼此相互支持的。"
+
+msgid ""
+"Nope! The respiratory system is a whole set of organs working together. "
+"Transplanting one isn't likely to restore function."
+msgstr ""
+"不對喔！呼吸系統是由好幾個器官一起運作的，移植一個器官是不可能恢復功能的。"
+
+msgid ""
+"Not quite! Your body cannot recover; if you stop breathing, you stop living."
+msgstr "不大對喔！你的身體不一定能自己復原；如果你停止呼吸，就無法存活了。"
+
+msgid ""
+"Correct! Respiration is breathing; if you stop breathing, you stop living."
+msgstr "正確！人的呼吸需要呼吸系統的正常運作；如果你停止呼吸，你將無法存活。"
+
+# 6
+msgid ""
+"The human body is made up of trillions of independent cells.  Each <span "
+"class='key'>cell</span> is alive, requires resources, and produces waste. "
+"When many copies of the same cell type are gathered together, they are known "
+"as <span class='key'>tissue</span>. We have hundreds of different types of "
+"tissues, each specialized for its own functions. Some examples of cell and "
+"tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"人體是由數萬億個獨立的細胞組成。每個<span class='key'>細胞</span>都是有生命"
+"的，它們需要資源也會產生廢物。當相同種類的細胞聚集在一起，它們被稱為<span "
+"class='key'>組織</span>。我們有數百種不同的組織，每一種都有獨特的功能。細胞、"
+"組織的例子，包括：肌肉、神經、骨骼和皮膚等等。"
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together. While cells and tissues are difficult to see and "
+"tell apart, organs are mostly quite large and easy to identify.<br/>Some "
+"examples of organs are the heart, lungs, brain, kidneys, and stomach. Some "
+"organs are so small they require magnification to be seen. Others are much "
+"larger. The largest is our skin which covers our entire bodies."
+msgstr ""
+"一群的「組織」一起執行某一項人體的主要功能，我們稱之為<span class='key'>器官"
+"</span>。而，一群「器官」一起執行某一項主要功能時，我們稱之為「系統」，例如："
+"循環系統或消化系統。人體的細胞和組織比較難看到和分辨，但大部分器官都相當的"
+"大，所以易於識別，<br/>例如下圖中的，心、肺、腦、腎和胃。最大的器官是我們的皮"
+"膚，它覆蓋我們整個身體；有些器官卻很小，它們需要放大才能看得到。"
+
+msgid ""
+"Major body systems are groups of organs working as a unit to fulfill major "
+"body functions. The <span class='key'>digestive system</span> has many "
+"parts, each performing a specific task, all aimed towards allowing our body "
+"to absorb the nutrients and water we need to survive.<br/>The other systems "
+"are organized in a similar way, each unique in its own pattern. Because each "
+"organ is made of many different tissues, any organ may be a part of more "
+"than one system at a time. The pancreas, for example, makes chemicals that "
+"help digest food, while, at the same time, making other substances that help "
+"regulate the activities of other organs. It belongs to both the digestive "
+"and endocrine systems."
+msgstr ""
+"上頁提過，一群「器官」一起執行某一項主要功能時，我們稱之為「系統」。例如，"
+"<span class='key'>消化系統</span>就包括很多個「器官」，雖然每一個器官都執行各"
+"自的特定任務，但所有這些器官都是為了讓我們的身體能吸收賴以生存的養分和水分而"
+"工作。<br/>不同的系統雖然功能和運作方式不同，但也都是由數個不同的器官來組成。"
+"值得注意的是，由於一個「器官」是由許多不同的「組織」所組成，所以一個器官可能"
+"屬於不同的「系統」，例如：胰臟會產生化學物質幫助消化食物；同時，也產生其他物"
+"質幫助調節其他器官的活動，所以它同時屬於「消化系統」和「內分泌系統」。"
+
+# 7
+msgid ""
+"Question A. All animals need food to survive. Immediately after an animal "
+"eats food, the food is..."
+msgstr "問題A. 所有的動物需要食物來生存。動物吃東西後，食物是先被..."
+
+msgid "Stored for later use"
+msgstr "儲存起來供未來使用"
+
+msgid "Converted into waste"
+msgstr "轉變成廢物"
+
+msgid "Transported by the bloodstream"
+msgstr "藉由血液輸送"
+
+msgid "Digested into simpler substances"
+msgstr "消化成較小的物質"
+
+msgid ""
+"Question B. The pancreas plays roles in which <span class='blink red'>TWO</"
+"span> systems?"
+msgstr ""
+"問題B. 胰臟是一種器官。請問它同時屬於<span class='blink red'>哪兩種</span>系"
+"統呢？"
+
+msgid "The pancreas plays roles in"
+msgstr "胰臟同時屬於"
+
+msgid "nervous"
+msgstr "神經"
+
+msgid "integumentary"
+msgstr "皮膜"
+
+msgid "digestive"
+msgstr "消化"
+
+msgid "endocrine"
+msgstr "內分泌"
+
+msgid "skeletal"
+msgstr "骨骼"
+
+msgid "and"
+msgstr "和"
+
+msgid "systems."
+msgstr "系統。"
+
+msgid ""
+"Some food is converted into waste, but only after it is broken into simpler "
+"parts."
+msgstr ""
+"食物的一部分會被轉變成廢物；但是只有在先被分解成比較簡單的物質後才能進行。"
+
+msgid ""
+"Food energy is eventually stored for later use, but it must first be broken "
+"into simpler substances."
+msgstr ""
+"食物能量最終都會被儲存起來以備未來使用；但是食物一定要先分解成比較簡單的物質"
+"才可以。"
+
+msgid ""
+"Food molecules must be broken down from more complex substances before they "
+"can be transported in blood."
+msgstr "食物的分子屬於比較複雜的物質，須先進行分解然後才能由血液進行運輸"
+
+msgid ""
+"That's right! Food is made of complex molecules that must be broken into "
+"simpler substances for energy to be released or stored."
+msgstr ""
+"正確！食物是由複雜的分子所構成，它們必須被分解成簡單的物質才能再轉變成能量或"
+"進行儲存"
+
+msgid ""
+"Right on! First the food enters the bloodstream, and then it can be digested "
+"into simpler substances."
+msgstr "正確！食物進入體內，它先被消化成比較簡單的物質。"
+
+msgid "Super!  Both correct!"
+msgstr "超強！兩個都正確！"
+
+msgid "You're halfway there... try again."
+msgstr "你已經對了一半...你可以回上一頁，再試一次。"
+
+msgid "Neither of these."
+msgstr "這些都不是喔！"
+
+# 8
+msgid ""
+"What's going on when you are sick? You have been invaded.  Some tiny disease "
+"agent has found a way into your body, and is reproducing, using your body as "
+"a shelter, food source, and a way of passing its offspring on to others."
+msgstr ""
+"當你生病時，身體到底發生了甚麼事呢？答案是，你被入侵了。也就是有一些微小的病"
+"原體已經找到了方法進入你的身體並進行複製，它們用你的身體當作庇護所、養分來"
+"源、及將它們後代散播給他人的途徑。"
+
+msgid ""
+"Most infections are caused by one of two agents. The first are simple living "
+"cells called <span class='key'>bacteria</span>. Bacteria are among the "
+"simplest of all living things, and are found everywhere on the planet. Most "
+"bacteria are safe and usually beneficial to people. A few types, though, are "
+"dangerous. When they get inside our bodies, they form colonies where they "
+"make many millions of copies of themselves and cause damage to the tissues "
+"around them."
+msgstr ""
+"大多數的感染，是由兩種媒介所引起的。第一種是簡單的活細胞稱為<span "
+"class='key'>細菌</span>所引起的。細菌是生物中最簡單的生物體，在地球上隨處都可"
+"發現。大多數的細菌是安全的，甚至通常對人們有益，不過也有幾種類型的細菌是具有"
+"危險性的。當這一類有害的細菌進入人體，它們會進行數以百萬計的自我複製，形成菌"
+"落，並造成附近組織的損害。"
+
+msgid ""
+"Most of the time, our <span class='key'>immune system</span> is able to "
+"identify and destroy the bacteria infecting us. Sometimes, however, the "
+"bacteria reproduce out of control and we need antibiotic medication. "
+"Antibiotics kill bacteria and are not harmful to people. After two or three "
+"days taking the medication, many people feel much better, but it is very "
+"important to take all of the antibiotic prescribed according to the "
+"directions. This make sure all of the bacteria are killed and a new "
+"infections doesn't occur."
+msgstr ""
+"大多數時候，人體的<span class='key'>免疫系統</span>能幫助我們識別和摧毀感染我"
+"們的細菌。然而，有時當細菌繁殖失控時，我們就需要服用抗生素了。抗生素主要會殺"
+"滅細菌，比較不會傷害人體細胞。很多人，經過兩三天服藥後會覺得好多了，但是，按"
+"照醫囑繼續服用抗生素是非常重要的，這才可以確保所有的細菌被殺死，避免再度感染"
+"的發生。"
+
+msgid ""
+"Other infections are caused by extremely small particles called <span "
+"class='key'>viruses</span>. Viruses aren't completely alive. They are "
+"inactive unless they are inside living cells. Once there, they cause the "
+"cell to make huge numbers of viruses,and then break open, releasing the "
+"viruses to infect other cells."
+msgstr ""
+"第二種造成感染的媒介，稱為<span class='key'>病毒</span>，它是比細菌更小的極小"
+"的粒子。病毒並不具有生命，它們只在進入其它生物的活細胞時才會展現出病毒的活"
+"性。一旦病毒進入活細胞，會使細胞幫助它們複製大量的病毒、然後細胞破裂、釋放出"
+"病毒，進而感染其它的細胞。"
+
+msgid ""
+"Our immune system can nearly always find ways to destroy viruses. Every time "
+"you have had a cold or the flu, you have suffered from a viral infection, "
+"and your immune system has cleared it from your body in one or two weeks. "
+"Once you have survived any virus, your immune system is able to remember it "
+"for a very long time, and is then able to identify and destroy it whenever "
+"you are exposed again."
+msgstr ""
+"我們的免疫系統總是想方設法的去消滅病毒。你曾經罹患感冒或流感吧？那就是已經遭"
+"受了病毒感染，你的免疫系統也許在一兩個星期內就消滅了病毒。當你成功從某一種病"
+"毒感染中存活後，你的免疫系統就能夠長時間記住這個病毒，只要它再次進入人體，免"
+"疫系統就能夠識別並摧毀它。"
+
+msgid ""
+"Some viruses, though, are so dangerous they can cause permanent damage or "
+"death before our immune systems can clear them out. For these diseases we "
+"rely on vaccinations to protect us from danger. <span "
+"class='key'>Vaccinations</span> use very weak varieties of virus or even "
+"broken up viral particles to teach our immune systems to identify and "
+"destroy these dangerous agents. Some vaccines are taken by mouth; others are "
+"given as shots."
+msgstr ""
+"有些病毒很危險，它們可能會在免疫系統消滅病毒前就對人體造成永久性損傷或死亡。"
+"對於這些疾病，我們依靠接種疫苗，來保護並使我們免於危險。 <span class='key'>接"
+"種疫苗</span>是使用病毒極弱的品種，或者是將病毒顆粒打破使其失去毒性但仍保留病"
+"毒的特徵部位，來教我們的免疫系統識別和消滅這些危險的媒介。有些疫苗是口服；有"
+"些則是用注射的。"
+
+# 9
+msgid ""
+"Question A. A person is prescribed an antibiotic for ten days. She begins "
+"taking the pills and feels much better after four days. What should she do "
+"with the remaining pills?"
+msgstr ""
+"問題A. 醫生開給一個病人的處方，指示要服用抗生素十天。她開始服用四天後感覺好多"
+"了，接下來她應要如何處理？"
+
+msgid "She should return them to the pharmacy."
+msgstr "她應該把藥送還藥局。"
+
+msgid "She should take all of the pills, even though she feels better."
+msgstr "即便她感覺好多了，她還是應該繼續服藥。"
+
+msgid "She should save the pills in case she gets sick again."
+msgstr "她應該保存藥物，以備再次生病時使用。"
+
+msgid "She should give the pills to a friend in case they get sick too."
+msgstr "如果朋友生病了，她應該把藥物給朋友。"
+
+msgid ""
+"Question B. Click on <span class='blink red'>ALL</span> the correct "
+"statements below."
+msgstr "問題B. 請點選下面<span class='blink red'>所有正確的</span>敘述。"
+
+msgid "All bacteria cause disease."
+msgstr "所有的細菌都會引起疾病。"
+
+msgid "Usually infections are caused by bacteria or viruses."
+msgstr "通常感染是由細菌或病毒引起的。"
+
+msgid "Bacteria and viruses make copies of themselves in our bodies."
+msgstr "細菌和病毒在我們的身體繁殖。"
+
+msgid ""
+"We rely on our immune system to identify and destroy any disease agent our "
+"body is exposed to."
+msgstr "我們依靠免疫系統來識別和摧毀任何病原體。"
+
+msgid ""
+"Not quite! Most bacteria do not cause disease and are actually helpful to "
+"people."
+msgstr "不大對喔！大多數細菌不引起疾病且對人有益。"
+
+msgid ""
+"You got it! Infections can come from bacteria and viruses. Bacteria and "
+"viruses both reproduce inside our body and make millions of copies of "
+"themselves to attack our body systems. Our bodies will fight off any disease "
+"agent and remember what it was in the future. For very dangerous diseases we "
+"also rely on vaccinations."
+msgstr ""
+"你答對了！感染可以來自細菌和病毒。細菌和病毒，這兩種都會在我們的體內進行數以"
+"百萬計的自我複製，攻擊我們的體內的各種系統。我們的身體可能會擊退病原體並記住"
+"它。對於非常危險的疾病，我們也依靠接種疫苗。"
+
+msgid "Nope! She should take all of the pills."
+msgstr "不對喔！她應該依照醫囑繼續服藥。"
+
+msgid ""
+"Correct! If she takes the entire dose, she will kill all of the bacteria."
+msgstr "正確！如果她依據醫囑繼續服完藥，她才能殺死所有的細菌。"
+
+msgid ""
+"That's dangerous. She should take all of the pills to kill all of the "
+"bacteria."
+msgstr "這是危險的。她應該依據醫囑繼續服完藥。"
+
+msgid "No way! That's very dangerous! Never give medication away."
+msgstr "不行！這是非常危險的！永遠不要把藥給別人。"
+
+# 10
+msgid ""
+"One way to always try to keep your body healthy is make sure you are eating "
+"the right foods. Foods provide us with energy, and the materials needed for "
+"growth and general well-being. The digestive system takes in food and breaks "
+"it down into the simple molecules from which it is made. They fall into "
+"three main groups: carbohydrates, fats, and protein."
+msgstr ""
+"保持身體健康的方法之一是確保你吃的是正確的食物。食物為我們提供能量，並提供成"
+"長和健康需要的物質。消化系統攝取食物，將其分解成簡單分子，它們可分為三大類："
+"碳水化合物、脂肪和蛋白質。"
+
+msgid ""
+"<span class='key'>Carbohydrates</span> provide our bodies with the energy we "
+"need to function. Sugars are simple carbohydrates that provide energy almost "
+"immediately. Complex carbohydrates, also called starches, are long chains of "
+"simple sugar molecules that provide energy over a course of hours. Some "
+"foods rich in carbohydrates include potatoes, bread, rice, and pasta."
+msgstr ""
+"<span class='key'>碳水化合物</span>提供我們的身體作用的能量。「糖」是簡單的碳"
+"水化合物，幾乎立即可提供能量。「澱粉」則是複雜的碳水化合物，它是由簡單的糖分"
+"子結合成長鏈所形成的，澱粉需要上小時的時間，才能把它的能量釋放提供給人體使"
+"用。一些富含碳水化合物的食物包括馬鈴薯、麵包、米飯、和麵食。"
+
+msgid ""
+"<span class='key'>Fats</span> store energy for longer term use. When a "
+"person takes in more carbohydrates than they can use in the short term, some "
+"of the sugar molecules are turned into fat. When energy is needed, fats can "
+"be converted back into sugars for immediate use. Fats in our diets are "
+"stored for later use. Fats, like cooking oils, that are liquid at room "
+"temperature are called lipids. Dietary sources of fats include cooking oils, "
+"butter, cheese, and meat."
+msgstr ""
+"<span class='key'>脂肪</span>能儲存能量以供長期使用。當一個人短期內攝取比所需"
+"要還多的碳水化合物時，這些糖分子會轉化成脂肪。當需要的能量時，脂肪可以轉換回"
+"糖，而立刻使用。我們的飲食中獲得的脂肪也能會被儲存起來，以備後用。烹飪時會用"
+"到的油，在室溫下是液體，和脂肪是同一類物質。脂肪的食物來源包括食用油、奶油、"
+"奶酪和肉類。"
+
+msgid ""
+"<span class='key'>Proteins</span> are long chains of simple amino acid "
+"molecules. Proteins are important for building muscles and organs. The amino "
+"acids in our diets are the same amino acids needed to build our own muscles "
+"and organs. Some important protein sources include meat, poultry, fish, and "
+"beans."
+msgstr ""
+"<span class='key'>蛋白質</span>是由簡單的氨基酸分子組合而成的長鏈。蛋白質對構"
+"建肌肉和器官很重要，人體所需的各種胺基酸就是直接從我們的食物中去攝取那一種胺"
+"基酸而得來。一些重要的蛋白質來源包括獸肉類、禽肉類、魚類和豆類。"
+
+msgid ""
+"<span class='key'>Vitamins</span> are nutrients needed in only very small "
+"amounts. They serve as helpers to make our body chemistry work as it should. "
+"Even though we need only small amounts of each, lacking vitamins in our "
+"diets causes a variety of disorders. Even though a balanced diet supplies "
+"all necessary vitamins, many people choose to take vitamin supplements each "
+"day."
+msgstr ""
+"<span class='key'>維生素</span>，是人體內需要量很少的營養物質，它們主要是用來"
+"協助身體正常地進行化學反應。雖然人體需要量很少，但缺乏維生素會導致各種疾病。"
+"均衡的飲食可以提供了所有必需的維生素，不過很多人還是選擇每天服用維生素作為補"
+"充。"
+
+msgid "Vitamin"
+msgstr "維生素"
+
+msgid "Symptom of Deficiency"
+msgstr "缺乏時的症狀"
+
+msgid "Natural Source of Vitamin"
+msgstr "天然來源"
+
+msgid "DIARRHEA, LACK OF GROWTH"
+msgstr "腹瀉、增長不足"
+
+msgid "CARROTS, DANDELIONS, GREEN VEGETABLES, HAY"
+msgstr "胡蘿蔔、蒲公英、綠色蔬菜、牧草"
+
+msgid "SWOLLEN JOINTS, SCURVY"
+msgstr "關節腫脹、壞血病"
+
+msgid "FRESH FRUITS AND VEGETABLES"
+msgstr "新鮮水果和蔬菜"
+
+msgid "RICKETS"
+msgstr "佝僂(ㄎㄡˋㄌㄡˊ)病"
+
+msgid "FRESH LIVER OILS, WHEAT GERM, GREEN VEGETABLES"
+msgstr "新鮮魚肝油、小麥胚芽、綠色蔬菜"
+
+msgid "CLICK TO VIEW"
+msgstr "點擊查看"
+
+msgid ""
+"Many people are interested in the calorie values of their foods. <span "
+"class='key'>Calories</span> measure the amount of energy a particular food "
+"holds in its molecules. When the molecules are broken down, the energy is "
+"released. We gain weight when we take in more calories than we burn. We lose "
+"weight when we burn more calories than we take in."
+msgstr ""
+"很多人都關心他們的食物中所含的熱量值。 <span class='key'>卡路里</span>(或簡稱"
+"作「卡」)，就是用來測量食物分子中所含有的熱量的單位。當食物分子被分解時，能量"
+"被釋放。我們攝取多於人體能燃燒掉的卡路里時，我們會變胖；反之，燃燒掉比攝取量"
+"多的卡路里時，我們會變輕。"
+
+msgid ""
+"Any healthy diet should include all types of food and enough calories to "
+"make it through each day without getting sick. The food labels on all "
+"packaged foods and available in many restaurants summarize the nutrition "
+"values of the foods we eat. One such label is shown on the right."
+msgstr ""
+"健康的飲食方式，應該要攝食包括所有類型的食物和足夠的熱量，這樣才能天天免於病"
+"痛。在包裝食品和許多餐廳的食品上，都有標籤說明食物的營養成分。右圖就是一個營"
+"養成分標籤的例子。"
+
+msgid "SKIN DISORDERS, POOR REPRODUCTION"
+msgstr "皮膚失調、再生性不良"
+
+msgid "WHEAT GERM, GREEN VEGETABLES"
+msgstr "小麥胚芽、綠色蔬菜"
+
+msgid "WHEAT GERM, YEAST, MEAT, LIVER"
+msgstr "小麦胚芽，酵母，肉类，肝脏"
+
+msgid ""
+"NOTE: VITAMIN B AFFECTS THE NERVOUS SYSTEM AND A REGULAR SMALL AMOUNT IS "
+"EFFECTIVE IN TREATING STRESS, ONE OF THE PRIMARY CONTRIBUTORS IN MANY "
+"DISEASES ESPECIALLY WET TAIL."
+msgstr "註：維生素B會影響神經系統的運作，在治療心理壓力上會被使用。"
+
+# 11
+msgid ""
+"Question A. Bobby's dad has been told by his doctor to lose 10 pounds in the "
+"next year. How should Bobby's dad change his daily routine?"
+msgstr ""
+"問題A. 鮑比爸爸的醫生告訴他明年要減掉10磅(約6公斤)，鮑比的爸爸應該如何改變日"
+"常習慣呢？"
+
+msgid ""
+"Cut calorie intake and increase exercise so that he uses more calories than "
+"he takes in."
+msgstr "減少卡路里的攝入並增加運動，讓他消耗更多的卡路里。"
+
+msgid "Increase calorie intake while cutting out beans and meats."
+msgstr "增加熱量攝入的同時，減少了豆類和肉類。"
+
+msgid "Decrease exercise while increasing the amounts of starches he eats."
+msgstr "減少運動並增加澱粉量。"
+
+msgid ""
+"Cut calorie intake and decrease exercise to increase the amount of energy "
+"stored as fat."
+msgstr "減少熱量的攝入和降低運動，以提高脂肪儲存的能量。"
+
+msgid ""
+"Question B. What might happen if we did not eat enough meat, poultry, fish, "
+"or beans?"
+msgstr "問題B. 如果我們攝取不足的獸肉、禽肉、魚和豆類，請問會如何呢？"
+
+msgid "We would gain weight."
+msgstr "我們會長胖。"
+
+msgid "We would be thirsty."
+msgstr "我們會很渴。"
+
+msgid "We would not be able to build muscles."
+msgstr "我們將無法長好肌肉。"
+
+msgid "We would not have any energy at all."
+msgstr "我們不會有任何能量。"
+
+msgid "That's the one that works!"
+msgstr "這個有用！"
+
+msgid ""
+"Nope! Increasing calorie intake without exercise will actually make him gain "
+"weight."
+msgstr "不對喔！增加熱量攝入而沒有運動，實際上將使他更胖。"
+
+msgid "Decrease exercise and increase starch? His weight is going up!"
+msgstr "減少運動和提高澱粉攝取量？他的體重會增加！"
+
+msgid ""
+"Not quite! Increasing the amount of energy stored increases his weight. That "
+"won't work."
+msgstr "不大對喔！增加儲存的能量的量也將增加了其重量。這行不通的。"
+
+msgid "Nope! You probably would not gain weight by not eating some foods."
+msgstr "不對喔！你不吃食物，是不會變重的。"
+
+msgid "Not quite! Meat, poultry, fish, and beans are all food high in protein."
+msgstr "不大對喔！獸肉、禽肉、魚和豆類都是富含蛋白質的食物。"
+
+msgid ""
+"Correct! meat, poultry, fish, and beans are all food high in protein which "
+"is needed to build muscle mass."
+msgstr "正確！獸肉、禽肉、魚和豆類都是富含蛋白質的食物，這是構建肌肉所需要的。"
+
+msgid ""
+"Think again! You would still have energy from other sources, such as "
+"carbohydrates."
+msgstr "再想想！你仍然會從其他來源獲得能量，例如碳水化合物。"
+
+# 12
+msgid ""
+"Many substances that are common in our society are harmful to the body. "
+"Around the house, products used for cleaning and household chores are often "
+"quite poisonous. Even the medications prescribed for family members can be "
+"very dangerous if not used properly. Using any type of medicine without "
+"supervision by a doctor and pharmacist is a very dangerous situation. The "
+"effects of many of these powerful drugs can lead to illness and even death."
+msgstr ""
+"社會中許多常見物質對身體是有害。房子周遭，用於清潔和家務的物品往往也很毒，甚"
+"至家人使用的藥物，如果不正確的使用，也是非常危險的。使用藥物需要在醫生和藥師"
+"的指導下來使用藥物，因為藥物中有些具有很強的作用，可能導致疾病，甚至死亡。"
+
+msgid ""
+"Another commonly misused substance is alcohol. Alcohol changes our "
+"perceptions of the world around us, and makes us drowsy and less able to "
+"react to stimuli. Like many other drugs, alcohol is addictive,that is to say "
+"it becomes a substance people depend upon to help them make it through each "
+"day. Smoking is still a problem too; not just for those who smoke. Smoking "
+"is related to many health problems including lung cancer,heart disease, and "
+"high blood pressure. Even second-hand, or smoke from someone else who is "
+"smoking near you, can increase the risk of heart disease and cancer."
+msgstr ""
+"另一種常見的誤用物質是酒精。酒精會改變我們對周圍世界的感知能力，也會讓我們昏"
+"昏欲睡，並降低我們對外界刺激進行反應的能力。就如許多其它藥物一樣，酒精也會使"
+"人「成癮」──就是，會造成人們需依賴這些物質來幫助他們度日。吸菸也是一個問題，"
+"吸菸與許多健康問題都有關係，包括肺癌、心臟疾病和高血壓；而且這問題不僅僅是對"
+"那些自己吸煙的人而已，即使是二手菸─也就是，當別人在你附近抽菸時，也會增加你心"
+"臟疾病和癌症的風險。"
+
+msgid ""
+"Having a healthy body means thinking about health. It means being aware of "
+"what's in our diets, and it means making sure that we exercise regularly. "
+"Half of fitness means eating a healthy diet. The other half is engaging in "
+"enough strenuous exercise to attain and maintain a healthy weight. Vigorous "
+"exercise also makes our heart and muscles stronger, and enhances the way we "
+"feel about ourselves.<br/><br/>Exercises that strengthen the heart and "
+"increase endurance are designed with three factors in mind: frequency, "
+"intensity, and duration.  Frequency is just how often exercise is performed. "
+"Intensity is related to how fast or how hard the exercise is performed. The "
+"intensity needs to be enough to put stress on the heart, but not so much "
+"that a person tires before the exercise can do its good. That's duration, or "
+"how long an exercise is performed. Generally, adults should engage in at "
+"least 30 minutes of intense exercise each day. While we often think of "
+"intense exercises being such activities as swimming or running, simply "
+"walking can raise heart rates enough to make big differences in fitness."
+msgstr ""
+"要擁有一個健康的身體要先了解什麼是「健康」。要健康，就是要知道我們吃進去的是"
+"甚麼，還要確定我們有經常的運動；也就是說，健康的「飲食」是健康的一半，而另一"
+"半則是足量強度的「運動」，以達到並維持適當的體重。劇烈運動還可以使我們的心臟"
+"和肌肉更強壯，並增強我們對自己的感覺。<br/><br/>當我們規劃一項能強化心臟、增"
+"加耐力的運動計畫時，我們會考慮三個因素：「頻率」、「強度」和「長度」。一、頻"
+"率指的是，多久運動一次。二、強度，則是運動多快或運動量多重；運動強度最好能達"
+"到提供心臟的適當的壓力，但又不會對人體造成傷害。三、長度，也就是每次運動持續"
+"的時間，一般來說，成年人每天應從事劇烈運動至少30分鐘。雖然我們通常認為的激烈"
+"運動，是如游泳或跑步等，但就算是走路也可提高心跳速率並可對建康有大的幫助。"
+
+# 13
+msgid ""
+"Question A. Connect each of the descriptions on the right to the requirement "
+"for exercise it describes on the left by dragging any of the circles at the "
+"left column to another circle in the right column. Click the \"Start Over\" "
+"button to remove the lines and connect again."
+msgstr ""
+"問題A. 請將右邊對於運動的描述和左邊欄位的內容進行配對。請拖動任何一個圓圈到另"
+"一邊正確的位置。你可點擊\"重新開始\"按鈕，刪除線段並重新連接。"
+
+msgid "Start Over"
+msgstr "重新開始"
+
+msgid "Frequency"
+msgstr "頻率"
+
+msgid "Duration"
+msgstr "長度"
+
+msgid "Intensity"
+msgstr "強度"
+
+msgid "Increase heart rate while exercising."
+msgstr "增加心跳速率"
+
+msgid "Exercise a set number of days per week."
+msgstr "每週運動的固定天數。"
+
+msgid "Try to exercise at least 30 minutes per day."
+msgstr "運動至少30分鐘。"
+
+msgid ""
+"Question B. Which of the following is <span class='blink red'>NOT</span> "
+"usually associated with heavy use of alcohol?"
+msgstr ""
+"問題B.下列哪一項<span class='blink red'>不會受到</span>大量飲酒的影響呢？"
+
+msgid "Extreme coolness"
+msgstr "感覺很「酷」"
+
+msgid "Safe driving"
+msgstr "安全駕駛"
+
+msgid "Low risk of heart disease"
+msgstr "心臟疾病"
+
+msgid "Healthy liver function"
+msgstr "肝的功能"
+
+msgid "That's it! Heavy drinking is decidedly UNcool."
+msgstr "就是這一個選項！大量飲酒並不「酷」！"
+
+msgid "Hardly. Don't get into a car with someone who's been drinking."
+msgstr "答錯囉！不要進入喝酒的人開的車。"
+
+msgid "Think again! Heart disease risk goes up with heavy alcohol use."
+msgstr "再想想喔！心臟疾病的風險隨酗酒上升。"
+
+msgid "Not quite! Heavy drinking is damaging to the liver."
+msgstr "不對喔！酗酒會損害肝臟。"
+
+# 14
+msgid "Using what you know... about staying healthy... to solve a problem"
+msgstr "運用你知道......關於「健康的身體」......解決問題"
+
+msgid "The Scenario"
+msgstr "情況"
+
+msgid ""
+"You are a nutritionist working in a school. After taking some surveys you "
+"have realized that the majority of the fourth and fifth grade students are "
+"eating either a pastry that is put in the toaster, or sugar-coated cereal "
+"for breakfast 90% of the time. By solving this breakfast nutrition problem, "
+"you can help the students learn more in class."
+msgstr ""
+"你是一個在學校工作的營養師。經調查後，你已經知道，大多數人的四、五年級的學"
+"生，90%的時間都以一種烤麵包或糖衣麥片當早餐。為了解決這種早餐的營養問題，你可"
+"以幫助學生在課堂上學習更多。"
+
+msgid "Your Task"
+msgstr "您的任務"
+
+msgid ""
+"Explain to them why this breakfast is incomplete, and offer them healthier "
+"breakfast ideas. (Hint: you can inform them about the food groups their "
+"breakfast is not including, or about the harm in having too much of certain "
+"substances.)"
+msgstr ""
+"請向學生解釋為什麼這種早餐是不完整的，並為他們提供健康早餐的想法。 （提示：你"
+"可以告訴學生，現在的早餐不具有的營養種類或者告訴他們食用過多某些物質時可能造"
+"成的危害。）"
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."
+
+# 15
+msgid "Summarizing core ideas... about staying healthy"
+msgstr "總結核心觀念...關於「健康的身體」"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit.We looked at the <span class='key'>circulatory</"
+"span>, <span class='key'>respiratory</span>, <span class='key'>excretory</"
+"span>, <span class='key'>skeletal</span>, <span class='key'>digestive</"
+"span>, <span class='key'>endocrine</span>, and <span class='key'>nervous "
+"system</span> in this review. Most infections are caused by one of two "
+"agents: <span class='key'>bacteria</span> or <span class='key'>viruses</"
+"span>. Most of the time, our immune system is able to identify and destroy "
+"the bacteria and viruses infecting us. When it can't destroy bacteria, we "
+"need antibiotic medication, and when the virus is too dangerous, we get "
+"vaccinated ahead of time. Another way to stay healthy is to eat the right "
+"foods. The three main food groups are <span class='key'>carbohydrates</"
+"span>, <span class='key'>fats</span>, and <span class='key'>protein</span>. "
+"<span class='key'>Calories</span> are a measurement of the amount of energy "
+"a particular food holds in its molecules. Any healthy diet should include "
+"all types of food and enough calories to make it through each day without "
+"getting sick. The last point of staying healthy is to exercise and avoid "
+"substances that are harmful to the body. Prescribed medication for others, "
+"alcohol, cigarettes, drugs, and other substances that might even be in the "
+"home should be avoided to stay healthy."
+msgstr ""
+"我們的身體是由許多維持身體健康的「系統」組成。一個系統可包括好幾個「器官」，"
+"器官之間可以獨立或共同的運作。在這單元中，我們看過<span class='key'>循環</"
+"span>、 <span class='key'>呼吸</span>、 <span class='key'>排泄</span>、 "
+"<span class='key'>骨骼</span>、 <span class='key'>消化</span>、 <span='key'>"
+"內分泌</span>和<span class='key'>神經系統</span>系統。大多數的感染是 <span "
+"class='key'>細菌</span>或<span class='key'>病毒</span>，這兩種媒介之一所引起"
+"的。大多數時候，人體的<span class='key'>免疫系統</span>能幫助我們識別和摧毀感"
+"染我們的細菌。當它不能消滅細菌時，我們就需要服用抗生素，還有當病毒太危險時，"
+"我們也會進行預防接種。另一種維護健康的方法，就是吃正確的食物。三類主要的食物"
+"是<span class='key'>碳水化合物</span>、 <span class='key'>脂肪</span >和"
+"<span class='key'>蛋白質</span>。 <span class='key'>卡路里</span>是用來測量食"
+"物分子中所含有的熱量。任何健康的飲食應該包括所有類型的食物和足夠的熱量，這將"
+"有助人們能度過每一天而不生病。要維護健康，還需要經常運動並避免有害於人體的物"
+"質，像是避免，別人的藥物、酒精、香煙、毒品和其他家裡的有毒物質等等。"
+
+# 16
+msgid "Reviewing key vocabulary... related to staying healthy"
+msgstr "複習主要詞彙...關於「健康的身體」"
+
+msgid "Calorie"
+msgstr "熱量"
+
+msgid "Carbohydrates"
+msgstr "碳水化合物"
+
+msgid "Cells"
+msgstr "細胞"
+
+msgid "Circulatory system"
+msgstr "循環系統"
+
+msgid "Digestive system"
+msgstr "消化系統"
+
+msgid "Excretory system"
+msgstr "排泄系統"
+
+msgid "Fats"
+msgstr "脂肪"
+
+msgid "Immune system"
+msgstr "免疫系統"
+
+msgid "Nervous system"
+msgstr "神經系統"
+
+msgid "Organs"
+msgstr "器官"
+
+msgid "Proteins"
+msgstr "蛋白質"
+
+msgid "Reproductive system"
+msgstr "生殖系統"
+
+msgid "Respiratory system"
+msgstr "呼吸系統"
+
+msgid "Skeletal system"
+msgstr "骨骼系統"
+
+msgid "Systems"
+msgstr "系統"
+
+msgid "Tissues"
+msgstr "組織"
+
+msgid "Vitamins"
+msgstr "維生素"
+
+msgid "A unit of heat energy used to compare foods."
+msgstr "卡路里，或稱「卡」，它是用來測量食物中所含有的熱量的單位。"
+
+msgid "Quick energy food made of simple and complex sugars and starches."
+msgstr "是食物的一種類別。包括簡單的糖到複雜的澱粉，它們可以快速的產生能量。"
+
+msgid "The smallest units of living things."
+msgstr "細胞，是生物的最小單位。"
+
+msgid ""
+"Heart, blood, and vessels responsible for the movement of nutrients and "
+"gasses throughout the body."
+msgstr ""
+"循環系統包括：心臟、血液。它負責運送，使營養物質和氣體能到達整個身體的各部"
+"分。"
+
+msgid ""
+"Stomach, liver, intestines, and other organs responsible for the breakdown "
+"and processing of food prior to absorption."
+msgstr "消化系統包括：胃、肝、腸。它負責食物在被人體吸收之前的分解和處理。"
+
+msgid "Kidneys and other organs responsible for the removal of chemical waste."
+msgstr "排泄系統包括：腎臟和其他器官。它負責清除人體產生的化學廢物。"
+
+msgid "Energy storage food made of fatty acids and glycerol."
+msgstr "脂肪是由脂肪酸和甘油所構成。體內能量可以用脂肪的形式儲存。"
+
+msgid ""
+"White blood cells, bone marrow, thymus, and spleen responsible for fighting "
+"infection."
+msgstr "免疫系統包括：白血球細胞、骨髓、胸腺、脾臟等。它負責對抗感染。"
+
+msgid ""
+"Nerves, spinal cord, and brain responsible for responses to the environment."
+msgstr "神經系統包括：神經、脊椎和腦。它負責對環境進行反應。"
+
+msgid "Collections of tissues working together to perform functions."
+msgstr "器官，指的是一群的「組織」，它們一起執行著某一項人體的主要功能。"
+
+msgid "Structural substances made from amino acids."
+msgstr "蛋白質，是由許多氨基酸連結所組成的一類物質。"
+
+msgid ""
+"Ovaries, testes, and other organs responsible for the production of "
+"offspring."
+msgstr ""
+"生殖系統包括：女性有卵巢、男性有睾丸，這些器官和其他器官，共同負責生產後代。"
+
+msgid ""
+"Lungs and other structures responsible for taking in oxygen and removing "
+"carbon dioxide."
+msgstr "呼吸系統包括：肺還有負責吸入氧和排出二氧化碳的其他身體的結構。"
+
+msgid ""
+"Rigid framework of bones and connective tissues responsible for supporting "
+"and protecting the body."
+msgstr "骨骼系統包括：骨骼和結締組織。它負責支撐和保護身體。"
+
+msgid "Collections of organs working together to perform related tasks."
+msgstr "系統，指的是好幾個「器官」共同的運作以達到某些功能。"
+
+msgid "Groups of similar cells working together to perform similar functions."
+msgstr "組織，指的是相同種類的「細胞」聚集一起並共同工作，以執行類似的功能。"
+
+msgid ""
+"Nutrients needed in very small amounts to support normal growth and activity."
+msgstr ""
+"維生素，是人體需要的一種極少量營養物質，它用以維持人體的正常生長和活動。"
+
+# 17
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個問題，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Checking what you now know... about staying healthy"
+msgstr "看看你現在了解了多少...關於「健康的身體」"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+# 18
+msgid "The spinal cord is part of which of the following body systems?"
+msgstr "脊椎是以下哪個身體系統的一部分？"
+
+msgid "Digestive System"
+msgstr "消化系統"
+
+msgid "Nervous System"
+msgstr "神經系統"
+
+msgid "Muscular System"
+msgstr "肌肉系統"
+
+msgid "Integumentary System"
+msgstr "皮膜系統"
+
+msgid ""
+"Not quite! The spinal cord is about information; the digestive system is "
+"about food."
+msgstr "不大對喔！脊椎是有關信息傳遞的；消化系統是關於食物的。"
+
+msgid "You got it! The spinal cord carries information to and from the brain."
+msgstr "你答對了！脊椎可以將信息傳達到從大腦或接收大腦的信息。"
+
+msgid ""
+"Try again! The spinal cord is about information; the muscular system is "
+"about movement."
+msgstr "再試一次！脊椎是有關信息傳遞的；肌肉系統是關於運動的。"
+
+msgid ""
+"Nope! The spinal cord is about information; the integumentary system is "
+"about protection."
+msgstr "不對喔！脊椎是有關信息傳遞的；皮膜系統是關於保護的。"
+
+# 19
+msgid "Choose the correct statement:"
+msgstr "請選擇正確的敘述："
+
+msgid "A. Organs may be made of a variety of different tissues."
+msgstr "A. 器官可以由各種不同的組織所構成。"
+
+msgid "B. Each organ is made of a unique tissue type."
+msgstr "B. 器官是由一種獨特的組織所構成。"
+
+msgid "C. Organ systems consist of only a single type of tissue."
+msgstr "C. 器官只包括一種單一類型的組織。"
+
+msgid "D. Cells are made of many different tissue types."
+msgstr "D. 細胞是由許多不同類的組織所構成。"
+
+msgid "Rotate or flip the box below either up or down to set your answer."
+msgstr "旋转或翻转下方向上或向下的对话框来设置你的答案。"
+
+msgid ""
+"Rotate or flip the box on the left either up or down to set your answer."
+msgstr "請上下翻轉方塊來選擇你的答案。"
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "點擊、按住並滑動鼠標，以向上或向下選擇。"
+
+msgid "That's right! Organs may be made of many tissues."
+msgstr "正確！器官可以由許多組織組成。"
+
+msgid "Look again! Organs MAY be made of more than one tissue."
+msgstr "不對喔！器官可以由多於一種的組織來組成。"
+
+msgid "Nope! Systems are made of organs; organs may be made of many tissues."
+msgstr "不對喔！系統是由器官所組成；而，器官可以由許多組織所組成。"
+
+msgid "The exact opposite, tissues are made of cells."
+msgstr "正好相反。組織才是由細胞組成的。"
+
+# 20
+msgid "Which of the following is affected by the respiratory system?"
+msgstr "下列選項中何者會受到呼吸系統的影響，請選擇最恰當的答案？"
+
+msgid "Hiccups"
+msgstr "打嗝"
+
+msgid "Hiccup"
+msgstr "打嗝"
+
+msgid "Sneeze"
+msgstr "打噴嚏"
+
+msgid "Yawn"
+msgstr "打哈欠"
+
+msgid "All of the above"
+msgstr "以上皆是"
+
+msgid "Hiccups, Sneezing, and Yawning"
+msgstr "打嗝，打喷嚏，打呵欠和"
+
+msgid ""
+"Not quite! Hiccups are the sudden movements of the diaphragm, but it's not "
+"the only one affected by the respiratory system."
+msgstr ""
+"打嗝是橫膈膜的突然動作，所以打嗝會受到呼吸系統的影響；不過這不是最恰當的選"
+"項，因為還有其它選項也會受到呼吸系統的影響。"
+
+msgid ""
+"Not quite! Sneezing is like a cough in the upper breathing passages, but "
+"it's not the only one affected by the respiratory system."
+msgstr ""
+"打噴嚏就像是在上呼吸通道咳嗽一般，所以把噴嚏會受到呼吸系統的影響；不過這不是"
+"最恰當的選項，因為還有其它選項也會受到呼吸系統的影響。"
+
+msgid ""
+"Not quite! Yawning happens when your lungs do not take enough oxygen from "
+"the air because we are sleepy or drowsy. But it's not the only one affected "
+"by the respiratory system."
+msgstr ""
+"打哈欠就是在想睡或昏昏欲睡時我們的肺內沒有從空氣中得到足夠的氧，所發生的人體"
+"反應。不過這不是最恰當的選項，因為還有其它選項也會受到呼吸系統的影響。"
+
+msgid ""
+"Correct! Hiccupping, sneezing, and yawning are all affected by the "
+"respiratory system."
+msgstr "正確！打嗝、打噴嚏和打哈欠，都會受到呼吸系統影響。"
+
+# 21
+msgid "What is the main function of the circulatory system?"
+msgstr "請問循環系統的主要功能是什麼？"
+
+msgid "To help us breathe"
+msgstr "幫助呼吸"
+
+msgid "To provide support for the body"
+msgstr "支撐身體"
+
+msgid "To control the digestive and reproductive systems"
+msgstr "控制消化和生殖系統"
+
+msgid "To control the blood flow around the body"
+msgstr "控制體內的血液流動"
+
+msgid ""
+"Nope! The circulatory system circulates blood to all the far out places of "
+"the body."
+msgstr "不對喔！循環系統將血液循環到身體的各部分。"
+
+msgid ""
+"Not quite! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr "不對喔！循環系統將血液循環到身體的各部分。"
+
+msgid ""
+"Try again! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr "再試一次！循環系統將血液循環到身體的各部分。"
+
+msgid ""
+"You got it! The circulatory system circulates blood to all the far out "
+"places of the body."
+msgstr "答對了！循環系統將血液循環到身體的各部分。"
+
+# 22
+msgid "How should a person plan diet and exercise if they want to lose weight?"
+msgstr "如果想減肥，一個人應如何計畫他的飲食和運動呢？"
+
+msgid "Exercise should use fewer calories than diet takes in."
+msgstr "運動所使用的熱量應該比攝取的還要少。"
+
+msgid "Diet and exercise are not related to one another."
+msgstr "飲食和運動沒有關聯。"
+
+msgid "At least one major food group should be eliminated from the diet."
+msgstr "至少應在飲食拿掉一個主要的食物類別。"
+
+msgid "Exercise should use more calories than diet takes in."
+msgstr "運動所使用的熱量應該比攝取的還要多。"
+
+msgid "Nope! This plan will add weight."
+msgstr "不對喔！這樣的計劃反而會增加體重。"
+
+msgid "Try again! Diet and exercise certainly ARE related to one another."
+msgstr "再試一次！飲食和運動之間一定會有關係的。"
+
+msgid ""
+"Not a good idea. Eliminating food groups isn't generally healthy approach."
+msgstr "不對喔！這不是一個好主意。減少食物類別不是一個健康的方法。"
+
+msgid "Super! This plan will lead to weight loss."
+msgstr "很好！這樣的計劃將可能使得體重下降。"
+
+# 23
+msgid "How are exercise and heart rate related?"
+msgstr "運動和心跳速率有什麼關係呢？"
+
+msgid "Heavy exercise increases heart rate"
+msgstr "劇烈運動會提昇心跳速率"
+
+msgid "Heavy exercise decreases heart rate"
+msgstr "劇烈運動會較低心跳速率"
+
+msgid "Sitting still increases heart rate"
+msgstr "靜坐會提昇心跳速率"
+
+msgid "Light exercise decreases heart rate"
+msgstr "輕度運動會降低心跳速率"
+
+msgid "You got it! Heavy exercise does increase heart rate."
+msgstr "你答對了！劇烈運動時會增加心跳速率。"
+
+msgid "The exact opposite! Go over the choices again."
+msgstr "正好相反！你可以回上一頁，再做一次選擇。"
+
+msgid "Nope! Sitting still does little to heart rate."
+msgstr "不對喔！靜坐不太會提升心跳速率。"
+
+msgid ""
+"Tricky... Actually any exercise elevates heart rate, at least a little bit."
+msgstr "答錯囉！有點奇怪嗎...其實任何運動都會提升心跳速率。"
+
+# 24
+msgid "Congratulations, "
+msgstr "恭喜您，"
+
+msgid "You've completed the Staying Healthy review."
+msgstr "你已經完成了「維護健康」的單元。"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊按鈕來檢查你對在此單元中\"小練習\"和\"小測驗\"的表現。"
+
+msgid "Go to dashboard"
+msgstr "回到主控面板"

@@ -1,0 +1,889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "التقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "التقويم السريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "التقويم السريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "التقويم السريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Play"
+msgstr "شَغِل "
+
+msgid "Pause"
+msgstr "توقف قصير"
+
+msgid "Stop"
+msgstr "توقف"
+
+msgid "Mute"
+msgstr "صامت"
+
+msgid "Unmute"
+msgstr "غير صامت"
+
+msgid "Max volume"
+msgstr "أعلى صوت"
+
+msgid "Full screen"
+msgstr "وضع الشاشة بالكامل"
+
+msgid "Restore screen"
+msgstr "استعادة الشاشة"
+
+msgid "Repeat"
+msgstr "كرر"
+
+msgid "Repeat off"
+msgstr "إيقاف التكرار"
+
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+msgid "To play the media you will need to either update your browser to a recent version or update your"
+msgstr "لتشغيل الوسائط ستحتاج إما إلى تحديث المتصفح النسخة الأخيرة أو تحديث "
+
+msgid "Flash plugin"
+msgstr "إدخا الفلاش "
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "من خلال تصفح الشرائح أدناه بالضغط على الأسهم اليسار واليمين."
+
+msgid "The Situation"
+msgstr "الحالة"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "مهمتك"
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Close Me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "سؤال قصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr " سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير  رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير  رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وللأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى اللوحة التوجيهية"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "تحضير اختبارك السريع الاول!"
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد لآخر تقويم سريع؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل أنت مستعد لآخر سؤال سريع؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها ... "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "وأول سؤال قصير هو ... "
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+msgid "Welcome to the Inherited Traits module"
+msgstr "مرحبا بكم في وحدة الصفات الموروثة"
+
+msgid "Thinking about... inherited traits"
+msgstr "التفكير.. توريث الصفات"
+
+msgid "Ever get called by the wrong name?  It's pretty common. Sometimes a teacher will use your older sister's or brother's name to call on you.  Sometimes your grandparent will call you by your uncle, aunt or parent's name. Seems weird, but it happens all the time. Why? Because you're related!"
+msgstr "هل تمت مناداتك يوم ما باسم خاطئ؟ إنه أمر شائع جدا. المعلم أحيانا يستخدم اسم أختك الكبرى أو أخوك ليناديك.  في بعض الأحيان يناديك جدك وجدتك باسم عمك أو عمتك أو والديك.  يبدو ذلك غريبا، لكنه يحدث في كل وقت. لماذا؟ لأنكم أقارب!"
+
+msgid "Have a look at these two pictures:"
+msgstr "اطلع على هاتين الصورتين:"
+
+msgid "These two men aren't the same person - they're father and son. It's true; they do look remarkably similar, and there's a reason for it. They share a great deal: the same chromosomes; the same genes."
+msgstr "هذين الرجلين ليسا نفس الشخص إنهم الأب وابنه.  هذا صحيح؛ هم يبدون متشابهين بشكل ملحوظ، وهناك سبب لذلك. أنهما يشتركان بأشياء كثيرة: الكروموسومات نفسها؛ والجينات نفسها."
+
+msgid "You have similar relationships with your own parents and siblings.  You even share characteristics with your grandparents and cousins. It’s because you have inherited your characteristics from your mother and father."
+msgstr "لديك علاقات مماثلة مع والديك وأشقاءك حتى انك تشترك بالخصائص مع الأجداد وأبناء عمومتك.  وذلك لأنك قد ورثت سماتك من أمك وأبيك."
+
+msgid "For thousands of years, people have understood a few basic rules about inheritance in plants and animals.  In the past hundred years, we have learned how to use this knowledge to make more accurate predictions about all living things."
+msgstr "منذ آلاف السنين، فهم الناس بعض القواعد الأساسية حول التوارث في النباتات والحيوانات. في السنوات المائة الماضية، تعلمنا كيفية استخدام هذه المعرفة لبناء توقعات أكثر دقة حول جميع الكائنات الحية."
+
+msgid "Checking what you now know about... inherited traits"
+msgstr "التحقق مما تعرفه الآن حول ... الصفات الموروثة."
+
+msgid "Select which phrases <span class='blink key1'>BEST</span> describe the observation on the left"
+msgstr "اختر العبارات <span class='blink key1'>الأفضل</span> وصفا للملاحظة على اليسار"
+
+msgid "Dominant genes"
+msgstr "جينات سائدة"
+
+msgid "Recessive genes"
+msgstr "جينات متنحية"
+
+msgid "Chromosomes"
+msgstr "الكروموسومات"
+
+msgid "Some traits are able to skip generations."
+msgstr "بعض الصفات قادرة على تخطي الأجيال."
+
+msgid "This is not a pollutant because humans are part of the environment and their breathing is part of what naturally occurs. But what about if it’s a huge city of humans like New York or Tokyo? See the next item below."
+msgstr "هذا ليس ملوثا لأن البشر هم جزء من البيئة وتنفسهم هو جزء مما يحدث بشكل طبيعي.  ولكن ماذا إذا كانت مدينة فيها عدد هائل من البشر مثل نيويورك أو طوكيو؟ انظر البند التالي أدناه."
+
+msgid "Genetic information is carried on these."
+msgstr "تُحمل المعلومات الوراثية على أساس هذه."
+
+msgid "Yes, because cows on a farm, especially a big farm with thousands of cows, add much more methane to the environment than would be normal in a natural field or woods with just a few animals."
+msgstr "نعم، لأن الأبقار الموجودة في المزرعة، وخاصة مزرعة كبيرة تحتوي آلاف الأبقار، اضف إلى ذلك المزيد من غاز الميثان على البيئة من شأنه أن يكون طبيعيا في حقل طبيعي أو في غابة ذات عدد قليل من الحيوانات."
+
+msgid "Yes. If the water temperature of the river is normally cold and hot or even warm water is added, then that’s a pollutant. It’s called thermal pollution."
+msgstr "نعم. إذا كانت درجة حرارة الماء من النهر عادة باردة أو ساخنة أو حتى يضاف اليها الماء الدافئ ، فهذه تصبح من الملوثات. وتسمى بالتلوث الحراري."
+
+msgid "Some traits never skip generations."
+msgstr "بعض الصفات لا تتخطى الأجيال أبدا."
+
+msgid "The rules of inheritance apply to all types of plants and animals that reproduce sexually. <span class='key'>Traits</span> are the characteristics we see in all living things. <span class = 'key'>Traits</span> that sometimes skip generations are said to be <span class='key'>recessive</span>. Traits that never skip generations are <span class='key'>dominant</span>. The information that causes a trait to appear is known as a <span class='key'>gene</span>. Genes are actually chemical messages carried in structures called <span class='key'>chromosomes</span>, which are found in the nuclei of cells. Every individual carries two sets of chromosomes in every cell, one set inherited from each parent. For this reason, each parent contributes half of the information needed to make an individual."
+msgstr "تنطبق قواعد الوراثة لجميع أنواع النباتات والحيوانات التي تتكاثر جنسيا.  <span class='key'>الصفات</span> هي الخصائص التي نراها في جميع الكائنات الحية.  <span class='key'>الصفات</span> التي يقال إن الأجيال تخطتها بعض الأحيان يمكن أن تكون <span class='key'>متنحية</span>. الصفات التي لا تتخطى الأجيال هي <span class='key'>سائدة</span>.  تعرف المعلومات التي تتسبب بظهور الصفة <span class='key'>الجين</span>.  الجينات هي في الواقع الرسائل الكيميائية التي تُحمل في هياكل تسمى الكروموسومات، والتي توجد في نواة الخلايا.  كل فرد يحمل مجموعتين من <span class='key'>الكروموسومات</span> في كل خلية، مجموعة واحدة موروثة من كل من الوالدين.  لهذا السبب، كل من الوالدين يساهم بنصف المعلومات اللازمة لتكون الفرد."
+
+msgid "Carrying chromosomes...​"
+msgstr "تحمل الكروموسومات ..."
+
+msgid "Reviewing big ideas about... inherited traits"
+msgstr "مراجعة الأفكار الكبيرة حول ... الصفات الموروثة"
+
+msgid "Ever wonder why you have two parents? We all do, you know. It's one of the few things that's true for all people. Even though some families may have only one parent in the home, or other families have two same-sex parents, every living person has both a female biological parent and a male biological parent. Parents of opposite sexes are the reason our form of reproduction is called <span class='key'>sexual reproduction</span>."
+msgstr "نتساءل لماذا لديك والدان؟ حسنا، الكل كذلك، كما تعلم. انها واحدة من الأشياء القليلة الحقيقية بالنسبة لجميع الناس. على الرغم من أن بعض الأسر قد يكون فيها أحد الوالدين فقط في المنزل، أو أسر أخرى بها اثنين من الآباء والأمهات، كل شخص لديه الوالد البيولوجي الذكر  والوالدة البيولوجية الأنثى. الآباء والأمهات من جنسين مختلفين هما السبب بتسمية شكل التكاثر لدينا  <span class='key'>بالتكاثر الجنسي</span>."
+
+msgid "The simplest form of reproduction in nature is called <span class='key'>asexual reproduction</span>. This occurs when new organisms break away in some fashion from a parent organism. Asexual reproduction is common in single-cell organisms, plants and a few animals. It produces clones or exact copies of the parent. While this process is very efficient, the sameness of the individuals it produces is a disadvantage in many types of living things."
+msgstr "ويطلق على أبسط شكل من أشكال التكاثر في الطبيعة <span class='key'>بالتكاثر اللاجنسي</span>.  يحدث هذا عندما تنقطع الكائنات الجديدة بعيدا عن الأم. التكاثر اللاجنسي هو شائع في الكائنات وحيدة الخلية والنباتات وبعض الحيوانات. وتنتج الحيوانات المستنسخة أو نسخ طبق الأصل من الأم. ومع أن هذه العملية فعالة جدا، الا ان التشابه من الأفراد ينتج عيبا في العديد من أنواع الكائنات الحية."
+
+msgid "When the environment changes in some way, it’s important that all members of a living population not be the same. Diversity helps to ensure that new combinations of inherited traits make the survival of at least some members of a population possible when conditions become difficult."
+msgstr "عندما تتغير البيئة في بعض الأحيان، فمن المهم أن لا يكون جميع أفراد المجموعة هم نفسهم. التنوع يساعد على ضمان أن التركيبات الجديدة من الصفات الموروثة تجعل بقاء البعض على الأقل ممكنا عندما تصبح الظروف الصعبة."
+
+msgid "Sexual reproduction works because every individual has two copies of each chromosome, the cell structures that carry information. Each plant or animal receives one copy of each chromosome from each parent. They then are able to pass only one of each chromosome on to their own offspring. Since it is equally likely that either of each chromosome may be passed on to any offspring, all combinations of chromosomes are possible.  This allows for new combinations of chromosomes and the traits they carry every generation."
+msgstr "يعمل التكاثر الجنسي لأن كل فرد لديه نسختين من كل كروموسوم، وهياكل الخلية التي تحمل المعلومات.  كل نبات أو حيوان يتلقى نسخة واحدة من كل كروموسوم من كل من الوالدين.  هم بعد ذلك قادرون على تمرير واحد فقط من كل كروموسوم لأبنائهم . وبما أنه من المرجح كذلك أن أي من كل كروموسوم يمكن تمريره إلى أي نسل، كل المجموعات من الصبغيات ممكنة. وهذا يتيح مجموعات جديدة من الكروموسومات والصفات التي يحملها كل جيل."
+
+msgid "Preparing your first quick check…"
+msgstr "تحضير اختبارك القصير الأول!"
+
+msgid "Question A. Sexual reproduction is most closely associated with..."
+msgstr " السؤال أ. يرتبط التكاثر الجنسي بشكل وثيق مع ..."
+
+msgid "Question B. An advantage of asexual reproduction would be:"
+msgstr "السؤال ب. ميزة  التكاثر اللاجنسي ممكن أن تكون:"
+
+msgid "increased diversity."
+msgstr "زيادة التنوع."
+
+msgid "decreased diversity."
+msgstr "انخفاض التنوع."
+
+msgid "single celled-animals."
+msgstr "الحيوانات وحيدة الخلية"
+
+msgid "bacteria."
+msgstr "البكتريا"
+
+msgid "the production of seedless grapes."
+msgstr "إنتاج العنب الخالي من البذور."
+
+msgid "increased diversity within a species."
+msgstr "زيادة التنوع داخل النوع الواحد."
+
+msgid "improved survival during times of environmental stress."
+msgstr "تحسين البقاء على قيد الحياة اثناء أوقات الإجهاد البيئي."
+
+msgid "short-term extinction of the species."
+msgstr "انقراض الأنواع على المدى القصير."
+
+msgid "That's right! Sexual reproduction promotes diversity."
+msgstr "هذا صحيح! التكاثر الجنسي يعزز التنوع."
+
+msgid "Sorry. It’s the other way around."
+msgstr "آسف. انها عكس ذلك"
+
+msgid "Ummm... No. Single celled organisms reproduce asexually."
+msgstr "مممم..الكائنات الحية وحيدة الخلية تتكاثر لاجنسيا."
+
+msgid "Nope. Bacteria reproduce asexually."
+msgstr "كلا. البكتيريا تتكاثر لاجنسيا."
+
+msgid "Yeah! Seedless fruit is only possible when no seeds are required."
+msgstr "نعم! يتحقق وجود الفواكه الخالية من البذور  في حالة عدم الحاجة للبذور"
+
+msgid "Nope. Diversity would actually decrease."
+msgstr "كلا.​في الواقع  التنوع قد ينخفض ​"
+
+msgid "Sorry. Less diversity means fewer chances of survival."
+msgstr "آسف. انخفاض التنوع  يعني فرص أقل للبقاء على قيد الحياة."
+
+msgid "No. Extinction may happen, but it’s not an advantage."
+msgstr "لا.  الانقراض يمكن أن يحدث، ولكنه ليس ميزة."
+
+msgid "A chart like this is called a <span class='key'>pedigree</span>. Males are shown as squares and females are shown as circles. Family  members with the dominant trait are colored red. Recessives are colored blue. The lines show the relationships within the family. Parents are linked together, and lines extend to their offspring."
+msgstr "يطلق على الرسم البياني مثل هذه <span class='key'>شجرة النسب</span> .  ويظهر الذكور فيها كمربع وتظهر الإناث كدوائر.  يتم تلوين أفراد الأسرة السائدة وهي الأحمر.  يتم تلوين المتنحية بالأزرق .  تُظهر الخطوط العلاقات داخل الأسرة.  ويرتبط الوالدين معا، وتمتد الخطوط  إلى أبنائهم."
+
+msgid "Take a close look. The red trait shows up in every generation. In all cases, at least one parent of a red individual also showed the red trait."
+msgstr "الق نظرة فاحصة.  الصفة الحمراء تظهر في كل جيل.  في جميع الحالات، على الأقل أحد الوالدين يظهر فرد أيضا ذا سمة حمراء."
+
+msgid "This pedigree looks a bit different. Once again, red is dominant. Individuals having both red and blue carry one copy of each gene, but show the red trait.  Even though they appear to be dominant, it’s possible for red parents to have blue offspring.  Blue parents never have red offspring."
+msgstr "شجرة النسب هذه تبدو مختلفة بعض الشيء.  مرة أخرى،الأحمر هو السائد.  كل من الأفراد  من الأحمر والأزرق هم نسخة واحدة تحمل كل الجينات، ولكن تظهر السمة الحمراء.  على الرغم من أنها تبدو سائدة، فمن الممكن للآباء والأمهات في اللون الأحمر أن يحصلوا على نسل أزرق.  الوالدين في اللون الأزرق لن يحصلوا على نسل أحمر."
+
+msgid "More big ideas about... inherited traits"
+msgstr "المزيد من الأفكار الكبيرة حول ... الصفات الموروثة"
+
+msgid "The inheritance of nearly all traits follows only a few simple rules. The first big rule is that everyone has two genes for every characteristic, inheriting one from each parent. Individuals may pass only one gene for each characteristic on to any offspring. The second big rule is that genes don’t usually influence each other, that is to say that the gene inherited for nose shape doesn’t determine the gene inherited for short big toes."
+msgstr "وراثة كل الصفات تقريبا يتبعه عدد قليل من القواعد البسيطة. القاعدة الكبيرة الأولى هي أن كل شخص لديه اثنين من الجينات لكل سمة، يرثها واحد من كل من الوالدين.  قد يمرر الأفراد واحدة فقط من الجينات لكل صفة و إلى أي نسل.  القاعدة الثانية الكبيرة هي أن الجينات في العادة لا تؤثر على بعضها البعض، وهذا يعني بأن الجينات الموروثة  لشكل الأنف لا تحدد الجينات الموروثة لأصابع القدم الكبيرة القصيرة."
+
+msgid "Then, there's something called <span class='key'>dominance</span>. Genes are not all created equal. Some genes cause their traits to be displayed every generation.  They are called dominant genes. Others can seem to skip generations, only to appear again in descendants of later generations. They are called <span class='key'>recessive</span>."
+msgstr "ثم، هناك شيء يسمى <span class='key'>سائد</span> .  لم يتم خلق جميع الجينات بشكل متساوي.  تتسبب بعض الجينات أن يتم عرض سماتها في كل جيل.  فهي تسمى الجينات السائدة.  غيرها من الممكن ان يتخطي الأجيال، فقط ليظهر مرة أخرى في نسل الأجيال اللاحقة. ويسمى <span class='key'>المتنحي</span>."
+
+msgid "Here's an example of a family with a dominant characteristic."
+msgstr "وهذا مثال على عائلة ذات سمة سائدة."
+
+msgid "Click the images to see the details."
+msgstr "انقر على الصور لمعرفة التفاصيل."
+
+msgid "Skipping generations..."
+msgstr "تخطي الأجيال ... "
+
+msgid "Inherited Traits"
+msgstr "الصفات الموروثة"
+
+msgid "Inheriting dominant traits..."
+msgstr "وراثة الصفات السائدة"
+
+msgid "Sorry. Recessive traits do skip generations."
+msgstr "آسف. الصفات المتنحية تتخطى الأجيال."
+
+msgid "Nope. Traits are not referred to as flexible."
+msgstr "كلا.  لا يشار للصفات بأنها مرنة."
+
+msgid "Correct. Dominant traits never skip generations."
+msgstr "صحيح.  الصفات الغالبة لا تتخطى الأجيال أبدا ."
+
+msgid "No. Traits aren’t referred to as denatured."
+msgstr "كلا،لا يشار للصفات بأنها مشوهة"
+
+msgid "Sorry. A parent’s size isn’t related to what traits they can pass on."
+msgstr "آسف.  لا يرتبط حجم الوالدين  بالصفات التي يمكن أن يمرروها."
+
+msgid "Nope. Time spent with children is long after traits are passed."
+msgstr "كلا. الوقت الذي يقضيه مع الأطفال بعد وقت طويل من تمرير الصفات."
+
+msgid "No. Dominant traits are passed along as often as recessive."
+msgstr "لا.  يتم تمرير الصفات السائدة في كثير من الأحيان كما المتنحية."
+
+msgid "That's right! Either parent can pass along either gene for any trait."
+msgstr "هذا صحيح! يمكن لأي من الوالدين أن يورث أي جين لأي صفة"
+
+msgid "Pedigrees are a good way to summarize the complex histories of families. Sometimes, though, we just need to predict the future offspring of a particular set of parents. Have a look at the following problem."
+msgstr "الأنساب هي وسيلة جيدة لتلخيص تاريخ معقد من الأسر. في بعض الأحيان، على الرغم من أننا نحتاج للتنبؤ بمستقبل نسل مجموعة معينة من الآباء والأمهات. إلق نظرة على المشكلة التالية."
+
+msgid "A white male guinea pig had many generations of all-white ancestors. A black female guinea pig also had many generations of all-black ancestors. When the guinea pigs were allowed to mate, all of their offspring were black. When two of the resulting black guinea pigs mated, three-fourths of their offspring were also black, but one-fourth were white."
+msgstr "لدى الخنزير الغيني الأبيض الذكر العديد من الأجداد البيض. أنثى الخنزير الغيني السوداء أيضا لديها العديد من الأجداد السود. عندما سمح للخنازير الغينية بالتزاوج، كل النسل كان أسود.  عندما يتزاوج اثنين من ناتج النسل الأسود،فإن  ثلاثة أرباع نسلها تكون  أيضا سوداء، والربع فقط من البيض."
+
+msgid "Well, the recessive color was white, because white fur was hidden in the first set of offspring. That means black is the dominant color.  We often use letters to represent dominant and recessive genes. Since any individual always has two genes for every characteristic, the original parents in the problem would have these combinations:"
+msgstr "حسنا، كان لون المتنحي أبيض ، لأن  الفراء الأبيض كان مخبأ في المجموعة الأولى من النسل.  وهذا يعني أن الأسود هو اللون السائد.  نحن غالبا ما نستخدم الحروف لتمثيل الجينات السائدة والمتنحية.  لأن أي فرد لديه دائما اثنين من الجينات لكل سمة، إن الآباء الأصليين من هذه المجموعات لديهم بعض هذه التجميعات."
+
+msgid "Original Black parent:"
+msgstr "الوالد الأصلي الأسود:"
+
+msgid "Original White parent:"
+msgstr " الأم الأصلية البيضاء:"
+
+msgid "This genetic shorthand tells us the <span class='key'>genotype</span> of an individual.  Genotype is the actual combination of genes an individual has, even those we can’t easily detect. The appearance the genotype causes is called an individual's <span class='key'>phenotype</span>. Phenotypes are usually described by adjectives like black, white, tall and short. Genotypes are indicated by letters or symbols."
+msgstr "هذا الاختزال الجيني يخبرنا عن <span class='key'>التركيب الوراثي</span> للفرد.  التركيب الوراثي هو مزيج فعلي من الجينات للفرد، حتى تلك التي لا يمكن الكشف عنها بسهولة.  ويطلق على المظهر الذي  يتسبب به التركيب الوراثي ب <span class='key'>النمط الوراثي الظاهري</span> للفرد.  وعادة يتم وصف الأنماط الظاهرية بصفات مثل الأسود والأبيض، طويل القامة وقصير.  يشار إلى التركيب الوراثي بالحروف أو الرموز."
+
+msgid "The first set of offspring in the problem must have a gene from each parent. The white parent has only the f gene. The black parent has only F. The genotype of all of their offspring must be Ff. Their phenotype is black, but they all carry a recessive white gene."
+msgstr "أول مجموعة من النسل في المشكلة يجب أن يكون أحد جيناتها من كلا الوالدين. الوالد الأبيض لديه فقط جين f.  الوالد الأسود ليس لديه سوى F  .  يجب أن يكون التركيب الوراثي لكل نسلهم Ff . النمط الظاهري منها هو الأسود، ولكنها جميعا تحمل الجينات المتنحية البيضاء"
+
+msgid "Browsing slides..."
+msgstr "تصفح الشرائح ..."
+
+msgid "Question A. Genotypes are most often described by which of the following?"
+msgstr "السؤال أ. أي من التالي الأكثر وصفا للتراكيب الوراثية ؟"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents’ genotypes must be:"
+msgstr "السؤال ب . زوج من نباتات البازلاء الطويلة القامة أنتج نسل طويل القامة وقصير. التراكيب الوراثية للوالدين يجب أن تكون :"
+
+msgid "Letters or symbols"
+msgstr "الحروف أو الرموز"
+
+msgid "Descriptive words like quickly or slowly"
+msgstr "كلمات وصفية مثل بسرعة أو ببطء"
+
+msgid "Descriptive words like blue or orange"
+msgstr "كلمات وصفية مثل الأزرق أو البرتقالي"
+
+msgid "Measurements like meters or kilograms"
+msgstr "القياسات مثل متر أو كيلوغرام"
+
+msgid "Correct. Genotypes use letters or other symbols."
+msgstr "صحيح.  تستخدم التراكيب الوراثية حروف أو رموز أخرى."
+
+msgid "No. These words describe how something happens."
+msgstr "كلا. هذه الكلمات تصف كيفية حدوث الشيء."
+
+msgid "No. Words like these may be used as phenotypes."
+msgstr "كلا. كلمات مثل هذه يمكن أن تستخدم كأنماط ظاهرية."
+
+msgid "Sorry. Measurements don’t refer to genotypes."
+msgstr "آسف. القياسات لا تشير إلى التراكيب الوراثية"
+
+msgid "Nope. These parents can only produce tall offspring."
+msgstr "كلا. هؤلاء الوالدين لا ينتجان الا نسل طويل القامة"
+
+msgid "Sorry. These parents can only produce short offspring."
+msgstr "آسف. لا يمكن لهؤلاء الوالدين الا انتاج نسل قصير القامة"
+
+msgid "Yes! Some of these parents offspring will be tall and some short."
+msgstr "نعم! وبعض نسل هؤلاء الوالدين سيكون قصير وطويل القامة."
+
+msgid "No.  These parents can only produce tall offspring."
+msgstr "كلا.  هؤلاء الوالدين لا ينتجان الا نسل طويل القامة"
+
+msgid "It's even possible to make predictions about how likely it is for given sets of parents to produce particular offspring. What’s more, we can even determine the genotypes of parents if we know the phenotypes of their offspring."
+msgstr "حتى انه من الممكن لجعل التكهنات حول حال بعض مجموعات معينة من الآباء والأمهات لإنتاج نسل معين.  و أكثر من ذلك، يمكننا حتى تحديد التراكيب الوراثية من الآباء والأمهات إذا علمنا الأنماط الظاهرية من نسلهم."
+
+msgid "Here’s another problem"
+msgstr "وها هنا مشكلة أخرى"
+
+msgid "A brown mouse mated with a black mouse. Their offspring were all brown. Two of the offspring were then allowed to mate. What colors of offspring could they have? If the litter was eight baby mice, how many would likely be black?"
+msgstr "فأر بني تزاوج مع فأر أسود.  جميع نسلهم كان بني اللون. .سُمح لاثنين من نسلهم التزاوج.  ما هي الألوان التي يمكن أن يحصلوا عليها؟ إذا كانت صغار الفئران ثمانية فئران ، كم من المرجح أن يكون لونه أسود؟"
+
+msgid "This one is tricky. Using the same rules of dominance we saw above, we would predict that the offspring were both Bb.  Two Bb parents should be able to have both brown and black offspring. The problem comes up when we’re asked to predict how many of either color are likely."
+msgstr "هذا سؤال مخادع.  باستخدام نفس القواعد السائدة التي رأيناها أعلاه، فإننا نتوقع أن نسل كلاهما Bb  .  يجب أن يكون الوالدين Bb قادرين على أن يكون لديهم نسل بني وأسود اللون. المشكلة تأتي عندما طلب منا التنبؤ بعدد الألوان المحتملة"
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation. Here's how it works:"
+msgstr "وذلك عندما يكون هنالك أداة مفيدة في متناول اليدين. <span class='key'>الرسم البياني(مربعات بونيت)</span> يسمح لنا بتكوين بعض التنبؤات، عن طريق إظهار التراكيب الوراثية الممكنة في الجيل القادم.  وإليك كيفية طريقة عملها:"
+
+msgid "Original Parents"
+msgstr "الوالدين الأصليبن"
+
+msgid "First set of Parents"
+msgstr "أول مجموعة من الآباء والأمهات"
+
+msgid "The original parents were the brown and black mice. Since all of their offspring mice were brown, brown had to be dominant.  The black parent, then, was bb. The brown parent could have been either genotype, but any brown offspring had to be Bb since they received b from the other parent."
+msgstr " الوالدان الأصليان من الفئران بني واسود اللون.  وبما أن نسل جميع الفئران  هو من اللون البني،كان لا بد أن يكون اللون البني سائد.  الوالد الأسود، إذن، كان Bb .  الوالد البني كان من الممكن أن يكون تركيب وراثي، ولكن  النسل بني اللون كان ليكون Bb لانه أخذ الجين b من الوالد الآخر."
+
+msgid "A Punnet square is a way of organizing which genes may be transmitted into a new generation.  Since each parent passes along only half of its gene combination, the Punnet square is organized like this:"
+msgstr "الرسم البياني (مربعات بونيت) هو وسيلة لتنظيم أي الجينات التي قد تنتقل إلى الجيل الجديد. بما أن كلا الوالدين لا يورث سوى نصف جيناته ، ويتم تنظيم هذا الرسم البياني كالتالي:"
+
+msgid "The single letters in the top row and left column show that each parent passes along half of its genes.  The combinations in the table are the only possible gene combinations possible in the next generation. Three of the genotypes have B, resulting in brown mice. Only one has bb, leading to black mice. So, each individual has a 3/4  chance of being brown, and 1/4 chance of being black. Another way to say this is that in any litter, 3/4 are expected to be brown and 1/4 are expected to be white."
+msgstr "تبين الأحرف المنفردة في الصف العلوي و العمود الأيسر  أن كلا الوالدين يورث نصف جيناته. التركيبات في الجدول هي مزيج من الجينات الممكن أن توجد في الجيل القادم. ثلاثة من التراكيب الوراثية لديهاB، مما أدى إلى وجود الفئران البنية.  واحد فقط لديه bb، مما يؤدي إلى وجود فئران سوداء.  لذلك، كل فرد لديه فرصة 4/3 من أن يكون بني اللون، و1/4 ليكون أسود اللون. وهناك طريقة أخرى لشرح ذلك وهو أنه في أي ولادة من المتوقع ان يكون 3/4  من اللون البني ويتوقع أن تكون ب 1/4بيضاء اللون."
+
+msgid "So... If there are eight baby mice in the litter, we expect 1/4, or 2, to be black."
+msgstr "لذلك وإذا كانت هناك ثمانية فئران في البطن الواحد ، فإننا نتوقع 1/4 أو 2، ليكون لونها أسود."
+
+msgid "Predicting colors..."
+msgstr "توقع الألوان ..."
+
+msgid "Question A. Two brown-eyed parents had one brown-eyed child and one blue-eyed child. Choose the Punnett square that best represents this situation."
+msgstr "السؤال أ.  أبوين ذو عيون بنية أنجبوا طفل واحد بني العينين وواحد أزرق العينين. اختر الرسم البياني الأفضل الذي يمثل  الحالة."
+
+msgid "Question B. House cats born without tails are called manx. The manx characteristic is controlled by a dominant gene. The Punnett square for a mating between two manx cats is shown below. If the litter resulted in eight kittens, which of the choices is most likely to occur?"
+msgstr "السؤال ب. قطط المنازل التي تولد دون ذيل تسمى مانكس،  يتم التحكم بخاصية قط المانكس جين سائد. الرسم البياني لقطين من نوع ماكس يتزاوجون مبين أدناه. إذا نتج  هذا عن ولادة القطط الثمانية، أي الخيارات هو الأكثر احتمالية لأن يحدث. "
+
+msgid "Incorrect. None of the offspring would be blue-eyed (bb)."
+msgstr "غير صحيحة. لن يكون أي من النسل أزرق العينين (bb) ."
+
+msgid "That's right! These parents can produce both brown and blue-eyed offspring."
+msgstr "هذا صحيح! يمكن لهؤلاء الآباء والأمهات انتاج نسل  من كلا اللونين البني والأزرق."
+
+msgid "Nope. Neither parent is brown-eyed."
+msgstr "كلا.  لا الأصل هو بني العينين."
+
+msgid "Sorry. Only one parent has brown eyes."
+msgstr "آسف.  واحد فقط من الوالدين بني العينين."
+
+msgid "Probably not. It’s very unlikely that all offspring would be manx."
+msgstr "على الاغلب لا.  من غير المحتمل أن يكون كل النسل من نوع مانكس."
+
+msgid "Not likely. Kittens with tails should be rare from these parents."
+msgstr "ليس من المرجح. القطط ذات الذيول تكون نادرة من هؤلاء الآباء."
+
+msgid "Possible, but the table predicts about 3/4 of the kittens should be manx."
+msgstr "محتمل، ولكن الجدول يتوقع  4/3 من القطط أن تكون مانكس."
+
+msgid "Correct! The table predicts about 3/4 of the kittens should be manx."
+msgstr "صحيح! ويتوقع الجدول 4/3 من القطط يجب أن تكون من نوع مانكس."
+
+msgid "Using what you know about... inherited traits... to solve a problem"
+msgstr "عن طريق ما تعرفه ... الصفات الموروثة ... لحل مشكلة"
+
+msgid "In dogs, deafness is caused by a recessive gene, “d”. A dog breeder wants to use a particular normal dog for breeding purposes, if he can be sure the dog is DD, or free of the recessive deafness gene."
+msgstr "في الكلاب، الصمم سببه جين متنحي، \"d\"  مربي الكلب يريد استخدام كلب عادي لغرض التكاثر، إذا كان متيقنا من أن الكلب هو DD، أو خالي من جينات الصمم المتنحية "
+
+msgid "Use the space below to explain how he might perform a series of breeding experiments to determine whether this dog would be useful in his breeding plans."
+msgstr "استخدم الفراغ  أدناه لشرح كيف ستجري سلسلة من التجارب التكاثر لتحديد ما إذا كان هذا الكلب سيكون مفيدا في خطط التكاثر "
+
+msgid "Experimenting..."
+msgstr "تجريب ... "
+
+msgid "Summarizing big ideas about... inherited traits"
+msgstr "تلخيص الأفكار الكبيرة حول ... الصفات الموروثة"
+
+msgid "Nearly all plants and animals reproduce sexually, that is, they have female and male parents. Every new individual receives half of its inherited information from its mother, and half from its father. The half from the mother is a random set of the information inherited from her own parents. The same is true for information inherited from the father."
+msgstr "جميع النباتات والحيوانات تتكاثر جنسيا تقريباُ، والذي، لديهم آباء وأمهات ذكر وأنثى.  كل فرد جديد يتلقى نصف المعلومات الموروثة  من أمه، والنصف الآخر من أبيه.  النصف من الأم عبارة عن مجموعة عشوائية من المعلومات ورثت من والديها.  وينطبق الشيء نفسه  على المعلومات الموروثة من الأب."
+
+msgid "Some characteristics are sometimes absent in a generation, only to reappear in later generations. These are said to be <span class = 'key'>recessive traits</span>. These <span class = 'key'>traits</span> only appear when an individual inherits the same gene from each parent. <span class = 'key'>Dominant traits</span> never skip generations. They appear even when their gene is inherited from only one parent."
+msgstr "بعض الخصائص غائبة أحيانا في الجيل ، فقط لتعاود الظهور في أجيال لاحقة.  ويقال إن هذه تسمى <span class = 'key'>صفات متنحية</span>.  تظهر هذه الصفات فقط عندما يرث فرد نفس الجين من كلا الوالدين. <span class = 'key'>الصفات السائدة</span> لا تتخطى أبدا الأجيال.  تظهر حتى عندما يتم توريث الجينات الخاصة بهم من أحد الوالدين فقط."
+
+msgid "The random rearrangement of <span class = 'key'>genes</span> in each generation allows every species to have new combinations of genes all the time. These unique gene combinations are sometimes important to species survival."
+msgstr "إعادة الترتيب العشوائي <span class = 'key'>للجينات</span> في كل جيل يسمح لكل الأنواع أن يكون لديها مجموعات جديدة من الجينات في كل وقت.  هذه التركيبات الجينية الفريدة مهمة في بعض الأحيان لبقاء الأنواع."
+
+msgid "It is possible to use the rules of probability to make predictions about past or future generations if we have information about other members of the same family. These predictions may be made about <span class = 'key'>genotype </span> (the actual genetic information) or <span class = 'key'> phenotype </span> (the visible traits coded for by genes)."
+msgstr "من الممكن استخدام قواعد احتمالية لبناء توقعات حول الأجيال السابقة أو المستقبلية اذا كان لدينا معلومات عن أفراد آخرين من نفس الأسرة.  ويمكن إجراء هذه التنبؤات حول <span class = 'key'>التركيب الوراثي (المعلومات الوراثية الفعلية)</span> أو <span class = 'key'>الأنماط الظاهرية</span> (الصفات المرئيةالمرمزة  بالجينات)."
+
+msgid "Reviewing key vocabulary related to... inherited traits"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ... بالصفات الموروثة"
+
+msgid "Chromosome"
+msgstr "كروموسوم"
+
+msgid "A threadlike structure found in cells that contains their DNA.  Each is made of tightly bound strands of DNA coiled together."
+msgstr "شبيه بالخيط وهو موجود في الخلايا التي تحتوي على الحمض النووي DNA.  ويتكون كل منها من خيوط مرتبطة بشكل وثيق بالحمض النووي ملفوفان معا."
+
+msgid "Dominant"
+msgstr "سائد"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype.  For example, if brown hair is dominant over red hair, a person with the gene for brown hair will have brown hair, even if they also have the gene for red hair."
+msgstr "الصفة، أو سمة، التي عندما تكون موجودة في الحمض النووي للكائن الحي، وسوف تظهر في النمط الظاهري للكائن.  على سبيل المثال، إذا كان الشعر البني هو السائد على الشعر الأحمر، فإن الشخص الذي لديه الجين للشعر البني سيكون له الشعر البني، حتى إذا كان لديهم أيضا الجين للشعر الأحمر."
+
+msgid "A portion of a strand of DNA that codes for a specific protein.  There are often multiple versions of the same gene.  Genes can be dominant or recessive, depending on which variant is present in an organism.  An organism will possess two versions of each gene, which may be the same or different."
+msgstr "جزء من حبل الحمض النووي يحمل رموزا لبروتين معين.  غالبا ما تكون هناك نسخ متعددة من نفس الجين.  يمكن للجينات أن تكون سائدة أو متنحية، اعتمادا على أي متغير موجود في الكائن الحي. سوف يمتلك الكائن الحي نسختين من كل جين، والتي قد تكون هي نفسها أو مختلفة."
+
+msgid "Genotype"
+msgstr "التركيب الوراثي"
+
+msgid "The combination of genes present in an organism.  When both versions of a gene are the same and they are the dominant version, the genotype is said to be “homozygous dominant.”  When both versions of a gene are the same and they are the recessive version, the genotype is said to be “homozygous recessive.”  When an organism possesses one dominant gene and one recessive gene, it is said to be “heterozygous\"."
+msgstr "تركيبة الجينات الموجودة في الكائن الحي.  عندما تكون كلا النسختين للجين هي نفسها وهي النسخة السائدة، ويقال أن التركيب الوراثي سائد متماثل.  عندما تكون كلا النسختين من الجينات متماثلة وتكون نسخة متنحية، يقال إن التركيب الوراثي يكون متنحي متماثل.  عندما يمتلك الكائن الحي جين واحد سائد وجين متنحي واحد ، عندها يقال له مختلف التركيب."
+
+msgid "Pedigree"
+msgstr "شجرة النسب"
+
+msgid "An organism’s parents, grandparents, etc.  A family tree."
+msgstr "والدي الكائن الحي، والأجداد، وما إلى ذلك. شجرة العائلة."
+
+msgid "The trait an organism displays as result of its genotype.  If an organism possesses at least one dominant gene, it will present the dominant trait.  If an organism only possesses recessive genes, it will present the recessive trait."
+msgstr "السمة التي يعرض الكائن الحي نتيجة التركيب الوراثي.  إذا امتلك الكائن الحي جين سائد واحد على الأقل، فإنه سيتم عرض السمة الغالبة.  إذا كان الكائن الحي يمتلك فقط الجينات المتنحية، فإنه سيتم تقديم هذه الصفة المتنحية."
+
+msgid "Punnett square"
+msgstr "الرسم البياني (مربع بونيت("
+
+msgid "Phenotype"
+msgstr "النمط الظاهري"
+
+msgid "A graphical representation of an organism’s parent’s genotypes that shows the potential genotypes the organism itself could possess.  The square also shows the probability of each genotype the organism could possess."
+msgstr "تمثيل رسوم من المورثات لوالد الكائن الحي والذي يبين الأنماط الجينية المحتملة الذي يمكن ان يمتلكها الكائن نفسه .  يظهر المربع أيضا احتماليات التراكيب  الوراثية التي يمكن أن يمتلكها الكائن."
+
+msgid "Recessive"
+msgstr "متنحي"
+
+msgid "An allele, or trait, that when present in an organism’s DNA, it will appear in the organism’s phenotype so long as the organism does not also possess a dominant version of the gene.  For example, if red hair is recessive to brown hair, a person with the gene for red hair will have red hair as long as they do not also have the gene for brown hair."
+msgstr "الصفة، أو سمة، التي عندما تكون موجودة في الحمض النووي للكائن الحي. وسوف تظهر في النمط الظاهري للكائن طالما لا يمتلك نسخة من الجين السائد.  على سبيل المثال، إذا كان الشعر الأحمر متنحيا على الشعر البني، فإن الشخص الذي لديه جين الشعر الأحمر  سيكون له شعر أحمر طالما ليس لديه هذا الجين أيضا للشعر البني."
+
+msgid "A physical characteristic of an organism.  Generally there are different varieties of traits possible for an organism.  Examples would be things like eye and hair color."
+msgstr "خصائص فيزيائية للكائن الحي.  عموما هناك أنواع مختلفة من الصفات المحتملة للكائن الحي.  ومن الأمثلة على ذلك أشياء مثل العين ولون الشعر."
+
+msgid "Trait"
+msgstr "صفة"
+
+msgid "Choose the <span class='blink'>correct</span> statement from the following."
+msgstr "اختر العبارة <span class='blink'>الصحيحة</span> مما يلي."
+
+msgid "Males inherit most of their genes from their fathers."
+msgstr "الذكور يرثون معظم جيناتهم من آبائهم."
+
+msgid "Females inherit most of their genes from their mothers."
+msgstr "الإناث يرثن معظم جيناتهن من أمهاتهن."
+
+msgid "All offspring inherit most of their genes from their fathers."
+msgstr "جميع  النسل يرث معظم جيناته من آبائهم."
+
+msgid "All offspring inherit genes equally from both parents."
+msgstr "جميع النسل يرث الجينات بالتساوي من كلا الوالدين."
+
+msgid "Your first quiz question is…"
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "Sorry. Genes are inherited equally from both sexes."
+msgstr "آسف. تورث الجينات بشكل متساوي من كلا الجنسين."
+
+msgid "No. Genes are inherited equally from both sexes."
+msgstr "كلا. ترث الجينات بشكل متساوي من كلا الجنسين."
+
+msgid "Not this one. Genes are inherited equally from both sexes."
+msgstr "ليست هذه.  ترث الجينات بشكل متساو من كلا الجنسين."
+
+msgid "Yes! Both parents contribute equally."
+msgstr "نعم! يساهم كلا الوالدين على حد سواء."
+
+msgid "The ability to taste a certain substance called PTC is dominant in humans. Is it possible for a pair of PTC-tasting parents to have a child who is unable to taste PTC?"
+msgstr "القدرة على تذوق مادة معينة تسمى( بي تي سي) سائدة في البشر.  هل من الممكن لزوج من الآباء والأمهات المتذوقين لمادة (بي تي سي) على إنجاب طفل لا يتمكن من تذوقها؟"
+
+msgid "It is possible if both parents also carry the recessive gene."
+msgstr "من الممكن إذا كان كلا الوالدين يحمل الجينات المتنحية."
+
+msgid "It is possible if either parent carries the recessive gene."
+msgstr "فمن الممكن إذا كان أحد الوالدين يحمل الجينات المتنحية."
+
+msgid "It is not possible because PTC-tasting is dominant."
+msgstr "ليس من الممكن ذلك لان تذوق مادة البي تس سي هو سائد."
+
+msgid "It is not possible because PTC-tasting is recessive."
+msgstr "ليس من الممكن ذلك لان تذوق ال بي تس سي هو متنحي."
+
+msgid "Passing genes..."
+msgstr "توريث الجينات"
+
+msgid "That’s right! Both parents must carry the recessive gene."
+msgstr "هذا صحيح!يجب أن يحمل كلا الوالدين الجين المتنحي"
+
+msgid "Not quite. Both parents must carry the recessive gene."
+msgstr "ليس تماما!يجب أن يحمل كلا الوالدين الجين المتنحي"
+
+msgid "Sorry. It is possible because PTC is dominant."
+msgstr "آسف. من الممكن ذلك لأن ال بي تي سي سائدة."
+
+msgid "No. PTC-tasting is dominant."
+msgstr "تذوق ال بي تي سي هو سائد"
+
+msgid "A brown mouse mated with a white mouse and produced all brown offspring. Which statement most likely summarizes this mating?"
+msgstr "فأر بني تزاوج مع فأر أبيض كان جميع النسل بني. أي عبارة تلخص هذا التزاوج ؟"
+
+msgid "Flipping the box..."
+msgstr "تقيلب الصندوق"
+
+msgid "Use the Punnett square below to answer the question. This mating is between mice. Brown is dominant. White is recessive."
+msgstr "استخدام الرسم البياني (مربع بونيت)  أدناه للإجابة على هذا السؤال.  هذا التزاوج بين الفئران. البني هو السائد. والأبيض هو المتنحي."
+
+msgid "Which offspring display the brown phenotype?"
+msgstr "أي نسل يعرض النمط الظاهري البني؟"
+
+msgid "Looking at Punnett square..."
+msgstr "النظر الى البياني (مربع بونيت) ... "
+
+msgid "Sorry. bb is white"
+msgstr "عذراً.  bb  أبيض"
+
+msgid "Yes! Both Bb and BB are white."
+msgstr "نعم! bb وBB هم بيض"
+
+msgid "Nope. bb is white."
+msgstr "كلا. bb أبيض."
+
+msgid "No. BB is brown, but so is Bb."
+msgstr "لا BB بني، و كذلك هو Bb."
+
+msgid "Consider the following pedigree of a human family. The color red indicates the dominant gene for curly hair. Blue indicates the recessive straight hair gene."
+msgstr "انظر في شجرة النسب التالية من الأسرة البشرية.  اللون الأحمر يشير إلى الجين السائد للشعر المجعد. الأزرق يدل على الجين المتنحي للشعر المنسدل الجينات الشعر."
+
+msgid "Which of the following statements is true?"
+msgstr "أي من العبارات التالية صحيحة؟"
+
+msgid "The B parents could have a curly-haired child."
+msgstr "يمكن أن يكون للوالدان ب طفل مجعد الشعر."
+
+msgid "The A parents could have a curly-haired child."
+msgstr "يمكن أن يكون للوالدان أ طفل مجعد الشعر."
+
+msgid "The C parents could not have a curly-haired child."
+msgstr "لا يمكن أن يكون للوالدان ج طفل مجعد الشعر."
+
+msgid "The A parents could not have a straight-haired child."
+msgstr "الوالدان أ لا يمكن أن يكون لهما طفل شعر منسدل ."
+
+msgid "No. Curly is dominant. If the gene were present in the parents, they would be curly."
+msgstr "لا الشعر المجعد سائد. إذا كان الجين موجود في الوالدين، سيكون الشعر مجعدا."
+
+msgid "Yes! In fact, the A parents do have a curly-haired child."
+msgstr "نعم! في الواقع، الوالدين أ يكون لهما طفل مجعد الشعر."
+
+msgid "Sorry. The C parents do have curly-haired children."
+msgstr "آسف. الوالدين ج لا يكون لهم أطفال مجعدي الشعر."
+
+msgid "Nope. The A parents do have a straight-haired child."
+msgstr "كلا.  الوالدين أ لديهم طفل منسدل الشعر."
+
+msgid "Congratulations"
+msgstr "مبروك"
+
+msgid "You've completed the Inherited Traits module."
+msgstr "لقد أكملت وحدة الصفات الموروثة."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "بإمكانك التأكد من كيفية إجابتك للإختبار السريع وللأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل. "
+
+msgid "Ensuring new combinations​...​​"
+msgstr "ضمان تركيبات جديدة ... "
+
+msgid "Question A. Genetic traits that never skip generations are said to be:"
+msgstr " السؤال أ. الصفات الوراثية التي لم تتخطى الأجيال يقال عنها: "
+
+msgid "Question B. Dominant traits are more likely to be inherited from..."
+msgstr "السؤال ب من المرجح أن تكون الصفات السائدة موروثة من ..."
+
+msgid "male parents, because males are usually bigger than females."
+msgstr "الآباء الذكور، لأن الذكور عادة أكبر من الإناث."
+
+msgid "female parents, because mothers often spend more time with their children."
+msgstr "الآباء الذكور، لأن الأمهات كثيرا ما تنفق الكثير من الوقت مع أطفالهم."
+
+msgid "either parent, because dominant traits are never inherited."
+msgstr "كل من الوالدين، لأنه لا يتم توريث الصفات السائدة ابدأ."
+
+msgid "either parent, because both are equally likely to pass on traits."
+msgstr "كل من الوالدين لأن كلاهما مساويان لتوريث هذه الصفات."
+
+msgid "Flexible"
+msgstr "مرن"
+
+msgid "Denatured"
+msgstr "مشوه"
+
+msgid "Studying genotype..."
+msgstr "دراسة التركيب الوراثي..."
+
+msgid "TT and tt"
+msgstr "TT و tt"
+
+msgid "tt and tt"
+msgstr "tt و tt"
+
+msgid "Tt and Tt"
+msgstr "Ttو Tt"
+
+msgid "TT and Tt"
+msgstr "TTو Tt"
+
+msgid "Question B. A pair of tall pea plants produced offspring that were both tall and short. The parents' genotypes must be:"
+msgstr "السؤال ب. زوج من نباتات البازلاء الطويلة القامة إنتج نسل طويل القامة وقصير. التراكيب الوراثية للوالدين يجب أن تكون :"
+
+msgid "No. These parents can only produce tall offspring."
+msgstr "كلا. هؤلاء الوالدين لا ينتجان الا نسل طويل القامة."
+
+msgid "BB"
+msgstr "BB"
+
+msgid "or"
+msgstr "او"
+
+msgid "X"
+msgstr "X"
+
+msgid "bb"
+msgstr "bb"
+
+msgid "[10b] diagram details not included in PO file: BB or Bb bb"
+msgstr "تفاصيل الرسم البياني لا تدرج في ملف :PO  bb BB أو Bb"
+
+msgid "A"
+msgstr "أ"
+
+msgid "B"
+msgstr "ب"
+
+msgid "C"
+msgstr "ج"
+
+msgid "D"
+msgstr "د"
+
+msgid "Question A."
+msgstr "السؤال (أ)"
+
+msgid "Question B."
+msgstr "السؤال (ب)"
+
+msgid "Question C."
+msgstr "السؤال (ج)"
+
+msgid "Question D."
+msgstr "السؤال(د)"
+
+msgid "8 manx kittens"
+msgstr "8 من قطط المانكس"
+
+msgid "8 kittens with tails"
+msgstr " 8 قطط مع ذيول"
+
+msgid "6 kittens with tails; 2 manx"
+msgstr "6 قطط مع ذيول؛  2 مانكس"
+
+msgid "6 manx; 2 kittens with tails"
+msgstr "6 مانكس: 2 قطط مع ذيول"
+
+msgid "Gene"
+msgstr "جين"
+
+msgid "bb x bb"
+msgstr "bb x bb"
+
+msgid "BB x bb"
+msgstr "BB x bb"
+
+msgid "Bb x Bb"
+msgstr "Bb x Bb"
+
+msgid "BB x BB"
+msgstr "BB x BB"
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر ،ثبت وحرك الماوس صعودا وهبوطا لتدوير المربع وحدد إجابتك."
+
+msgid "No. This mating produces only white mice."
+msgstr "كلا. هذا التزاوج ينتج الفئران البيضاء فقط."
+
+msgid "Right! This mating produces only brown mice."
+msgstr "صحيح! هذا التزاوج ينتج الفئران البنية فقط."
+
+msgid "Nope. This mating should produce both brown and white offspring."
+msgstr "كلا. هذا التزاوج يجب أن ينتج كل من النسل الأبيض والبني."
+
+msgid "Sorry. Both of these parents are brown. One of the given parents is white."
+msgstr "عذراً. كلا الوالدين لونهم بني.  أحد الوالدين الأبيض."
+
+msgid "What are the genotypes of the parents in this mating?"
+msgstr "ما هي التركيبات الوراثية من الآباء والأمهات في هذا التزاوج؟"
+
+msgid "b"
+msgstr "ب"
+
+msgid "No. These parents can have only brown offspring."
+msgstr "كلا.  هؤلاء الوالدين يمكن أن يكون نسلهم الوحيد بني اللون."
+
+msgid "Sorry. These parents can have only white offspring."
+msgstr "عذرا. ويمكن لهذه الوالدين انجاب نسل أبض اللون فقط ."
+
+msgid "Not likely. These parents should have about equal numbers of brown and white offspring."
+msgstr "ليس مرجحا. ينبغي أن يكون لهؤلاء الآباء والأمهات  أعداد متساوية من النسل الأبيض والبني."
+
+msgid "That's it. These parents expect to have 3/4 brown and 4/4 white offspring."
+msgstr "هذا صحيح. يتوقع لهؤلاء الآباء والأمهات أن يكون4/3 نسلهم من اللون البني و4/1 من اللون الابيض."
+
+msgid "Here's how it works:"
+msgstr "وإليك كيف يعمل:"
+
+msgid "That's when a useful tool comes in handy. <span class='key'>Punnett squares</span> allow us to make such predictions, by showing which genotype combinations are possible in the next generation."
+msgstr "وذلك عندما تكون أداة مفيدة في متناول اليدين. الرسم البياني <span class='key'>(مربع بونيت)</span> يسمح لنا بتكوين هذه التنبؤات،عن طريق عرض أي  مجموعات التركيب الوراثي ممكن أن تحدث في الجيل القادم."
+
+msgid "Bb"
+msgstr "Bb "
+
+msgid "BB and bb"
+msgstr "BB و bb"
+
+msgid "BB and Bb"
+msgstr "BB و Bb"
+
+msgid "Bb and bb"
+msgstr "Bb و bb"
+
+msgid "BB only"
+msgstr "BB فقط"

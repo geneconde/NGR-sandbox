@@ -1,0 +1,1089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: role of water\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Quick Check #1"
+msgstr "快速检查＃1"
+
+msgid "Quick Check #2"
+msgstr "快速检查＃2"
+
+msgid "Quick Check #3"
+msgstr "快速检查＃3"
+
+msgid "Quick Check #4"
+msgstr "快速检查＃4"
+
+msgid "Quiz Question #1"
+msgstr "测验题＃1"
+
+msgid "Quiz Question #2"
+msgstr "测验题＃2"
+
+msgid "Quiz Question #3"
+msgstr "测验题＃3"
+
+msgid "Quiz Question #4"
+msgstr "测验题＃4"
+
+msgid "Quiz Question #5"
+msgstr "测验题＃5"
+
+msgid "Quiz Question #6"
+msgstr "测验题＃6"
+
+msgid "Please select your answers."
+msgstr "请选择你的答案。"
+
+msgid "Please select your answer."
+msgstr "请选择你的答案。"
+
+msgid "How did I do?"
+msgstr "我表現的如何?"
+
+# 1
+msgid "Role of Water"
+msgstr "水的角色"
+
+msgid "Welcome to the Role of Water review"
+msgstr "歡迎您來到......「水的角色」單元"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+# 2
+msgid "Thinking about... the role of water"
+msgstr "想一想...關於「水的角色」"
+
+msgid ""
+"There's a famous old poem called The Rime of the Ancient Mariner, with a "
+"couple of lines that say: \"Water, water, everywhere, But not a drop to drink"
+"\"."
+msgstr ""
+"有一個著名的英國詩篇稱作：「老水手之歌」，裡面幾行寫到：\"水啊！水啊！處處"
+"是；卻無一滴能入喉！\"。"
+
+msgid ""
+"But how can that be? How can you have water everywhere but none to drink? "
+"You're right. The key to the puzzle is in the name of the poem... The Rime "
+"of the Ancient Mariner. A mariner is another name for a sailor on the ocean. "
+"'Mariner' is a word related to the word 'marine' – like if you wanted to be "
+"a marine scientist you'd be studying the ocean. So if you were a sailor on a "
+"ship on the ocean and ran out of water on the ship, you would be surrounded "
+"by water but there would be none to drink!! And that's because the ocean is "
+"composed of <span class='key'>salt water</span> and we only drink <span "
+"class='key'>fresh water</span> – water with no salt in it!! As a matter of "
+"fact, drinking salt water can be harmful if you drink too much and don't "
+"drink any fresh water. If you ever swam in salt water and swallowed a "
+"mouthful, you would know how bad it tastes. But don't worry – a mouthful "
+"won't hurt you. But fresh water is absolutely critical to your survival."
+msgstr ""
+"但這怎麼可能呢？看的到水，卻沒得喝？你說對了，關鍵就在這「古水手之歌」的詩名"
+"中... ，如果你是海上耗盡淡水的水手，所面對的就是被水包圍，卻沒水可喝的困境！"
+"因為，海洋是由<span class='key'>鹽水</span>組成；而人類只能喝<span "
+"class='key'>淡水</span> ──  就是不含任何鹽分的水！！事實上，喝海水而不喝淡"
+"水，會傷害身體。你曾游泳時喝到過海水嗎？那，你就會知道味道怎樣了。但不用擔"
+"心！只喝到一點點，不會有大問題。不過，淡水絕對是人類存活的關鍵。"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+# 3
+msgid "Checking what you know... about the role of water"
+msgstr "看看你了解了多少…關於「水的角色」"
+
+msgid "Most of the fresh water on earth can be found in..."
+msgstr "地球上的淡水大部分在......"
+
+msgid "Lakes"
+msgstr "湖泊"
+
+msgid "Rivers"
+msgstr "河流"
+
+msgid "Glaciers and Ice Caps"
+msgstr "冰川和冰冠(冰帽)"
+
+msgid "Underground rocks"
+msgstr "地下岩石縫中"
+
+msgid ""
+"If you answered glaciers and ice caps, you're correct! Over 68 percent of "
+"the fresh water on Earth is found in icecaps and glaciers, and just over 30 "
+"percent is found in groundwater – that’s the water that people pump up from "
+"underground and is found in rock and sand formations."
+msgstr ""
+"如果你的回答是「冰川」和「冰冠(也稱作冰帽)」，你就答對了！所謂「冰川(也稱作冰"
+"河)」是積雪形成而會慢慢流動的大冰體；「冰冠(也稱作冰帽)」則是指地球表面一些很"
+"寒冷地帶覆蓋終年不化的積雪。地球上超過68％的淡水是在冰冠和冰川中；另外超過"
+"30％的，則是地下水── 這些水儲存在岩石和沙子地層中，也常被我們從地下抽起來使用"
+"的水。此外，非常少量的水存在其它的地方。"
+
+msgid "Swimming in freshwater..."
+msgstr "在淡水中游泳..."
+
+# 4
+msgid "Reviewing core ideas... about the role of water"
+msgstr "複習核心觀念...關於「水的角色」"
+
+msgid ""
+"Did you know that your body is made up of about 70% water? That means you "
+"are almost three quarters water! But nearly all the water on earth – 97.5% – "
+"is salt water in the ocean. Only 2.5% of the water on earth is the fresh "
+"water that we need to survive. That's why protecting our freshwater "
+"resources is so important for human survival, especially because what little "
+"we have is being threatened by pollution and overuse!"
+msgstr ""
+"你知道你的身體是由約70％的水所組成的嗎？這意味著你身體幾乎四分之三都是水；還"
+"有，你知道地球表面上的水，約97.5％是海水，但我們賴以維生的淡水卻只有約2.5％。"
+"這就是為什麼保護淡水資源是如此重要，更尤其目前這些稀有的淡水，還正面臨到被污"
+"染和過度使用等等威脅呢！"
+
+msgid "Salt water"
+msgstr "鹹水"
+
+msgid "Salt Water"
+msgstr "鹹水"
+
+msgid "Fresh water"
+msgstr "淡水"
+
+msgid "Freshwater"
+msgstr "淡水"
+
+msgid "Fresh Water"
+msgstr "淡水"
+
+msgid ""
+"So where is all this fresh water anyway? You probably thought first of lakes "
+"and rivers – that makes sense because that's the fresh water you usually "
+"see. But it turns out that only a tiny part of all the Earth's fresh water "
+"is in lakes and rivers. Most of the earth's fresh water is tied up in the "
+"polar ice caps and the huge glaciers in Greenland. That water isn't easy to "
+"get to for you to drink, is it? And a lot more water is underground where "
+"you can't see it. This underground water is called <span "
+"class='key'>groundwater</span>. It's not in underground rivers or lakes or "
+"pools of water. It's millions and billions, and trillions of little water "
+"droplets in between sand grains in the rocks that are under the earth's "
+"surface. But this turns out to be an important water supply because it is "
+"underneath almost all the land on earth and we can drill down and pump it "
+"out to use it."
+msgstr ""
+"那麼，這些為量很少的淡水是在哪裡呢？你可能會先想到「湖泊」和「河流」── 因為這"
+"是大家常見的淡水。但事實上，地表上的淡水只有一小部分是在「湖泊」和「河流」；"
+"大部分卻是在南、北極的「冰冠」和地球北方一個叫做「格陵蘭島」上的巨大「冰川」"
+"上，這些淡水都因為遙遠而非常不容易取得。地球上，還有一些淡水是在我們看不到的"
+"地表下，這被稱為<span class='key'>地下水</span>。地下水主要並不是指在地下河"
+"流、湖泊或水池中的水；其實，地下水主要是儲存在地下岩石間的沙粒中，它們由百"
+"萬、十億、甚至上兆的小水滴所組成。人類發現，這些地下水是非常重要的水源，因為"
+"它存在於地球絕多數地方的地表下且人類早已在鑽取使用。"
+
+msgid "Blue glacier in Greenland"
+msgstr "格陵蘭島上面的藍色冰川(河)"
+
+msgid "Digging for groundwater..."
+msgstr "挖地下水..."
+
+# 5
+msgid "A little less than the amount of salt water in the ocean."
+msgstr "淡水比海水少一點。"
+
+msgid "About the same as the amount of salt water in the ocean."
+msgstr "淡水和海水的量，差不多相同。"
+
+msgid "Almost all gone."
+msgstr "幾乎全都用光了。"
+
+msgid ""
+"Correct! About 97.5% of the water on earth is salt water and only 2.5% is "
+"fresh water."
+msgstr "正確！地表大約97.5％的水是海水，僅2.5％是淡水。"
+
+msgid ""
+"Correct! The amount of fresh water in rivers and lakes that is easily "
+"available to populated areas on earth is often polluted and not drinkable. "
+"So for much of the earth's population the amount of clean drinkable water is "
+"threatened by pollution and overuse."
+msgstr ""
+"正確！那些提供給地球上人口稠密地區使用的那些河流和湖泊中的淡水，往往都被污染"
+"而不宜飲用。所以，對大部分地球上人口來說，乾淨的淡水正承受到污染和過度使用的"
+"威脅。"
+
+msgid "More than the amount of salt water in the ocean."
+msgstr "淡水比海水要多。"
+
+msgid "Much less than the amount of salt water in the ocean."
+msgstr "淡水比海水少得多。"
+
+msgid ""
+"Nope! About 97.5% of the water on earth is salt water and only 2.5% is fresh "
+"water."
+msgstr "不對喔！地表大約97.5％的水是海水，僅2.5％是淡水。"
+
+msgid ""
+"Nope! There's a lot of water on earth but most of it is salt water, which we "
+"can't drink. Most of the fresh water is tied up in glaciers. The amount of "
+"fresh water left in rivers and lakes that we can easily drink is polluted "
+"and not drinkable. So for most of the earth's population, there isn't enough "
+"clean fresh water to drink."
+msgstr ""
+"不對喔！雖然有著大量的水存在地表上，但大部分是我們不能喝的海水，還有大多數的"
+"淡水存在遙遠的冰川和冰冠中。那些提供給地球上人口稠密地區使用的而來自河流和湖"
+"泊中的淡水，往往是被污染而不能飲用。所以，對大部分地球上人口來說，乾淨的淡水"
+"正承受到污染和過度使用的威脅。"
+
+msgid "Plenty for all of the population on the earth."
+msgstr "它的量要提供給地球全人類使用，綽綽有餘。"
+
+msgid "Preparing your first quick check..."
+msgstr "準備你的第一個小練習！"
+
+msgid "Question A. The amount of fresh water on the earth is..."
+msgstr "問題A. 請問下列有關地表上淡水和海水之間量的比較，何者正確？"
+
+msgid "Question B. The amount of clean fresh water on the earth is..."
+msgstr "問題B. 請問下列有關地表上淡水的敘述，何者正確？"
+
+msgid "Running out quickly."
+msgstr "很快即將耗盡。"
+
+msgid ""
+"Sorry. There is still plenty of fresh water on earth in glaciers and "
+"icecaps. It's just not easily available for people to drink."
+msgstr ""
+"不對喔！地表上還有大量的淡水存在於冰川和冰冠；只不過，它不易取得以作為飲用"
+"水。"
+
+msgid "Threatened by pollution and overuse."
+msgstr "正面臨到受到污染和過度使用的威脅。"
+
+msgid "You answered..."
+msgstr "你的回答是..."
+
+# 6
+msgid "Gas"
+msgstr "氣態"
+
+msgid "Liquid"
+msgstr "液態"
+
+msgid ""
+"Of all the substances that make up the earth, water has properties that make "
+"it very unusual in many ways. One of the most important properties that make "
+"water different than almost any other substance on earth is that water can "
+"be a solid, or a liquid, or a gas at normal temperatures that humans "
+"commonly experience. For instance, when it's really cold outside, below 32 "
+"degrees Fahrenheit (that's the freezing point of water), water can be found "
+"in its solid form as snow or ice. If it stays cold all year long for a very "
+"long time, like at the north or south poles, the frozen water gradually "
+"builds up into huge mounds of snow and ice like <span class='key'>glaciers</"
+"span> in Antarctica at the South Pole or the frozen sea <span "
+"class='key'>ice cap</span> at the North Pole."
+msgstr ""
+"所有組成地表的物質中，水的特性讓它顯得相當獨特。其中一項最重要的性質，就是水"
+"在生活的常見溫度範圍內，就可以有固體、液體或氣體的變化。例如，當非常寒冷，像"
+"低於攝氏0度(華氏32度，這是水的凝固點）時，水以固體的雪或冰呈現；在南北極，終"
+"年嚴寒，水會凝結為冰雪，這些冰雪會逐漸積聚成巨大山堆；這就會形成像是，南極洲"
+"的<span class='key'>冰川</span>或是北極的<span class='key'>冰冠(或稱冰帽)</"
+"span>了。"
+
+msgid "Researching different state of water..."
+msgstr "研究水的不同形態..."
+
+msgid "Solid"
+msgstr "固態"
+
+msgid ""
+"Water can also be a gas at normal temperatures that humans typically "
+"experience. When water is a gas you can't see it because it's mixed in with "
+"the air. You can feel it though – it's called <span class='key'>humidity</"
+"span>! Sometimes on a hot summer day, no matter what you do - you sweat. "
+"That's because the air is <span class='key'>humid</span> – which means "
+"there's a lot of water in the air. And usually, the hotter it is, the more "
+"humid it is - especially if you live in certain parts of the country like "
+"Florida, or Louisiana, or even Chicago. But if you live near a desert, "
+"there's very little humidity because the air is very dry."
+msgstr ""
+"水也可以是「氣態」。當水為氣態時，它是無法被看見的。不過，有時候你能感覺到它"
+"的存在，例如，在炎熱的夏日中，無論你做什麼，都會不停地流汗；這可能是因為有大"
+"量的水蒸氣存在空氣中，造成空氣非常的<span class='key'>\"潮濕\"</span>，也就是"
+"說空氣中的<span class='key'>濕度</span>很大。一般而言，居住的地方越靠近海洋湖"
+"泊，濕度會較高；但如果住在沙漠或內陸，因為空氣非常乾燥，濕度就較低。"
+
+# 7
+msgid "As glaciers on the north pole."
+msgstr "是在北極的冰川中。"
+
+msgid "As snow and ice on both the north and south polar regions."
+msgstr "是在南北極區的雪和冰。"
+
+msgid "As snow in the winter in the northern part of the earth."
+msgstr "是在地球北方冬天的飄雪。"
+
+msgid "As snow on mountaintops."
+msgstr "是在山頂上的積雪中。"
+
+msgid "Can be both ice and snow."
+msgstr "可以是冰，也是雪。"
+
+msgid "Can be solid, liquid, or gas at normal human temperatures."
+msgstr "在生活的常見溫度範圍內，就可以有固體、液體或氣體的變化。"
+
+msgid "Can feel it but you can't see it."
+msgstr "能感覺到它，但看不見它。"
+
+msgid "Can see it."
+msgstr "可以看到它。"
+
+msgid "Can taste it."
+msgstr "可以品嚐到它的味道。"
+
+msgid "Can't see it but you can smell it."
+msgstr "看不見它，但你可以聞到它。"
+
+msgid "Can feel it but you can’t see it."
+msgstr "能感覺到它，但看不見它。"
+
+msgid ""
+"Correct! Gaseous water in the atmosphere (also called the air) is called "
+"humidity. You can \"feel\" water vapor or gas in the air because the "
+"humidity makes your sweat stick to you, making you feel hot."
+msgstr ""
+"正確！在大氣（空氣）中的氣態水的含量被稱為「濕度」。當覺得悶熱潮濕而流汗，這"
+"時你\"感覺到\"可能是空氣含有較多的水蒸汽。"
+
+msgid ""
+"Correct! Most of the frozen (solid) water on earth, also known as ice or "
+"snow is found on the Earth's polar ice caps on both the North Pole and the "
+"South Pole (which is the continent called Antarctica)."
+msgstr ""
+"正確！在終年寒冷地帶，凍結的水會逐漸積聚成巨大山堆般的冰雪；這就形成像是，南"
+"極洲的冰川或是北極的冰冠了。"
+
+msgid "Glaciers melting glaciers..."
+msgstr "冰川融化冰川......"
+
+msgid "Is clear."
+msgstr "是透明的。"
+
+msgid "Is wet."
+msgstr "是濕的。"
+
+msgid "Nope... there are many different clear liquids on earth."
+msgstr "不對喔！...地球上還有許多不同的透明液體。"
+
+msgid ""
+"Nope... there may seem to be a lot of snow in winter in the north but it's "
+"not nearly as much as the ice caps on the north and south poles."
+msgstr ""
+"不對喔！地球北方冬天也許有大雪，但這些雪的量卻遠遠不及在南北兩極的冰川和冰"
+"冠。"
+
+msgid ""
+"Nope... you can't see gaseous water in the atmosphere. But when it just "
+"starts to turn into liquid water - called condensation - even before it "
+"rains you can sometimes see it as a haze."
+msgstr ""
+"不對喔！你看不到在大氣中的氣態水。但是，當它剛開始轉成液態的水── 這就是冷凝"
+"── 下雨前的霧即是為此。"
+
+msgid ""
+"Not quite! There are no glaciers on the North Pole. Just an ice cap of "
+"frozen sea water."
+msgstr "不對喔！北極冰川很少，大部分是結冰海面上的所積累的淡水冰冠。"
+
+msgid ""
+"Not quite... water can be ice and snow but those are both just names for "
+"solid water."
+msgstr "不太對喔...水可以為冰和雪，但這些都只是固態水的不同名稱而已。"
+
+msgid ""
+"Question A. One of the properties that makes water unlike almost all other "
+"substances on earth is that it..."
+msgstr "問題A. 讓水和地球上其它物質的不太一樣的一項重要特質，是因為它..."
+
+msgid "Question B. When water is in its gaseous form in the atmosphere you..."
+msgstr "問題B. 當水是以氣態的形式存在於大氣中，你..."
+
+msgid "Question C. Solid water is found on earth mainly..."
+msgstr "問題C. 地球上的固態水主要是存在於何處？"
+
+msgid ""
+"Sorry... there may seem to be a lot of snow in the mountains of the earth – "
+"like on Mt. Everest - but it's not nearly as much as the ice caps on the "
+"North and South poles."
+msgstr ""
+"不對喔！地表山上有可能有大雪，如聖母峰；但它雪量遠遠不如在南北兩極的冰冠與冰"
+"川。"
+
+msgid ""
+"Sorry... wet just means liquid and there are lots of different liquids on "
+"earth."
+msgstr "不對喔！“濕”只是液體的一種性質；地球上許多不同的液體都有這個性質。"
+
+msgid "Think again! Water gas or vapor in the air is tasteless."
+msgstr "再想一想喔！空氣中的水蒸氣是無味的。"
+
+msgid "Try again! People can't smell water in the atmosphere - it is odorless."
+msgstr "再試一次！人不能聞到空氣中的水分── 它是無味的。"
+
+msgid ""
+"You got it! Water is unique in that it can be found in all three states of "
+"matter - solid, liquid, and gas - at temperatures that humans commonly "
+"experience."
+msgstr ""
+"你答對了！水是相當獨特的；因為在生活的常見溫度範圍內，就可以有固體、液體或氣"
+"體的變化。"
+
+# 8
+msgid ""
+"<span class='key'>Groundwater</span> is the best source for drinking water "
+"in most areas of the earth – even though there's only about half as much "
+"groundwater as there is water in polar ice caps. Groundwater is found "
+"underground when rain seeps into the ground and fills the little spaces "
+"between rock particles and the cracks and fractures in the rock – probably "
+"right under your house! As the rainwater seeps through the ground and into "
+"the rock, it is naturally filtered so in many places groundwater is pretty "
+"clean, although it can be polluted in some places as well. The main way we "
+"get groundwater out of the ground is to drill or dig a hole in the ground – "
+"called <span class='key'>water well</span> - and pump the water up. "
+"Sometimes the water is just a few feet down underground but sometimes the "
+"best clean water is hundreds of feet down and takes a very big drill to "
+"extract it."
+msgstr ""
+"雖然地下水量只有極地冰川冰冠的一半，但在地球大部分地區的飲用水依賴著<span "
+"class='key'>地下水</span>。地下水，是雨水滲入地下後，儲存在岩層間、岩石間、泥"
+"沙間 ── 或許你屋子底下就有呢！由於雨水滲過地面進入岩石，土壤砂石可以進行自然"
+"過濾，所以許多地方的地下水是很乾淨的，不過也有一些地方是受到汙染。我們取得地"
+"下水的主要方法，是鑽或挖一個地洞 ── 也所謂<span class='key'>水井</span> ──，"
+"然後把水抽上來。有時候水只是在地下幾公尺，但有時乾淨的水位在是地下數百公尺"
+"處，要取用這種地下水就需要一個非常大的鑽孔機來鑽掘了。"
+
+msgid "Collecting water samples..."
+msgstr "採集水樣..."
+
+msgid "Modern rotary drill rigs bore water well"
+msgstr "用旋轉打井機來開鑿水井"
+
+msgid "More core ideas... about the role of water"
+msgstr "更多核心觀念...關於「水的角色」"
+
+msgid ""
+"While a lot of fresh water can be found in the frozen sea ice cap of the "
+"North Pole and the glaciers of the South Pole, that water is pretty far away "
+"from most people so it's not a good source for drinking water. Lakes and "
+"rivers are closer to most populated areas, and they are often used to get "
+"water for cities and towns, but they hold a very small amount of fresh water "
+"compared to other sources and they are sometimes pretty <span "
+"class='key'>polluted</span> – which means there's bad stuff in the water "
+"that can harm you. So where is the best source for fresh water for most "
+"populated areas? What is a source that holds a lot of water and isn't very "
+"polluted?"
+msgstr ""
+"雖然還有很多淡水是在北極海上的冰冠和南極的冰川中，但它們距離遙遠，所以它不是"
+"一個很好的飲用水來源。湖泊和河流雖然較接近人口稠密的地區，而常提供城市和城鎮"
+"用水，但他們相對於淡水的其它來源，量極少且有時也受到<span class='key'>污染</"
+"span>。那麼，甚麼是人口大部分地區使用的淡水的其它來源呢？哪裡保存了大量的水，"
+"且沒有受到太多的污染呢？"
+
+# 9
+msgid "Atlantic and Pacific Oceans"
+msgstr "大西洋和太平洋"
+
+msgid ""
+"Correct! Billions and billions and billions of tiny cracks and spaces in "
+"underground rocks and sediments is where most of all the groundwater on "
+"earth is found."
+msgstr ""
+"正確！地下岩石和沉積物中所具有的數十億、數十億、數十億的微小裂縫和空隙，儲存"
+"著地球上大多數的地下水。"
+
+msgid "Cracks and spaces in underground rocks"
+msgstr "地下岩石中的裂縫和空隙"
+
+msgid "Groundwater"
+msgstr "地下水"
+
+msgid "Nope! The Atlantic and Pacific oceans are salt water not fresh water."
+msgstr "不對喔！在大西洋和太平洋裡的，是海水而不是淡水。"
+
+msgid ""
+"Nope! Underground rivers are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr "不對喔！基本上，地下河流極為罕見，且不是地下水的主要供應來源。"
+
+msgid ""
+"Not quite... underground rivers and lakes are extremely rare in nature and "
+"are not a major supplier of groundwater."
+msgstr ""
+"不太對喔...自然界中極為罕見地下河流和湖泊，且它們不是地下水的主要供應來源。"
+
+msgid ""
+"Not quite... the Great Lakes in the United States and ALL of the other lakes "
+"and rivers in the world account for only a very small percentage of the "
+"fresh water on earth."
+msgstr ""
+"不太對喔...美國的五大湖或世界上所有其它湖泊和河流在地球上的淡水中只佔了很小的"
+"百分比。"
+
+msgid "Question A. Groundwater is found in..."
+msgstr "問題A. 地下水蘊藏於.."
+
+msgid "Question B. The largest source of fresh water on earth is..."
+msgstr "問題B. 地表上淡水的最大來源是..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後的一個小練習了嗎？"
+
+msgid ""
+"Sorry. Underground lakes are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr "不對喔！自然界極其罕見地下湖泊，且它們不是地下水的主要供應來源。"
+
+msgid ""
+"Sorry... there is a lot of groundwater on earth but it accounts for only "
+"about 1/3 of all the fresh water on earth."
+msgstr "不對喔！...地表上還有很多地下水，但它還是只佔了地表上淡水的約1/3。"
+
+msgid "The Great Lakes"
+msgstr "各大湖泊(包括五大湖)"
+
+msgid "The Polar ice caps"
+msgstr "極地冰川和冰冠"
+
+msgid "Underground lakes"
+msgstr "地下湖泊"
+
+msgid "Underground rivers"
+msgstr "地下河流"
+
+msgid "Underground rivers and lakes"
+msgstr "地下河流和地下湖泊"
+
+msgid ""
+"You got it! The glaciers and polar ice caps account for about 2/3 of all the "
+"fresh water on earth."
+msgstr "你答對了！冰川和極地冰冠約佔地球上淡水資源的2/3。"
+
+# 10
+msgid "Using what you know... about the role of water... to solve a problem"
+msgstr "運用你所知道......有關「水的角色」......來解決問題"
+
+msgid "The Scenario"
+msgstr "背景..."
+
+msgid ""
+"Saudi Arabia is a big country in the Mideast part of the world that is known "
+"for being very rich because it has lots of oil. Because it's so rich the "
+"government wants to build lots of buildings for lots of people. But it's a "
+"desert country, which means it doesn't have any rivers or lakes to get "
+"drinking water from. The Saudi government has just hired you as a consultant "
+"to help them figure out how to get fresh drinking water for their people."
+msgstr ""
+"沙烏地阿拉伯是中東的一個大國，因產油致富而著名。因為國家富有，政府想要建設大"
+"量的建築物以提供眾多的人口使用。但它是一個沙漠國家，這意味著它沒有任何河流或"
+"湖泊可取得飲用水。沙烏地阿拉伯政府剛剛聘請您作為顧問，幫助他們找出如何為他們"
+"的人民取得純淨的飲用水。"
+
+msgid "The Assignment"
+msgstr "任務"
+
+msgid "Based on what you know about water sources, how would you help them?"
+msgstr "基於你所知道有關水的來源，你會如何幫助他們呢？"
+
+msgid "Please type your answer here..."
+msgstr "請在下方輸入答案"
+
+msgid "Please type your answer."
+msgstr "請輸入你的答案"
+
+msgid "Roaming the dry lands..."
+msgstr "在乾旱土地上漫遊..."
+
+# 11
+msgid "Summarizing core ideas... about the role of water"
+msgstr "總結核心觀念......有關「水的角色」"
+
+msgid ""
+"Nearly all the water on earth - 97.5% - is salt water in the ocean. Only "
+"2.5% of the water on earth is fresh water. And most of that fresh water is "
+"found in <span class='key'>glaciers</span>, <span class='key'>polar ice "
+"caps</span> and <span class='key'>groundwater</span>. Only a tiny percentage "
+"of fresh water can be found in the Earth's lakes and rivers. Water has the "
+"unusual property of being able to be found in all three <span "
+"class='key'>states of matter</span> - solid, liquid, and gas - at normal "
+"temperatures that humans experience. Large amounts of solid water, called "
+"ice (or snow), are found in nature: in glaciers and polar ice caps. Liquid "
+"water is the regular water you drink. And water in the gaseous state is "
+"invisible in the air but you can feel it as humidity when the air has a lot "
+"of water vapor mixed in with it."
+msgstr ""
+"地表上的水絕大部分都在海洋，佔97.5％ ，它們都是鹹水；只有2.5％是淡水。大部分"
+"的淡水存在於<span class='key'>冰川</span>、<span class='key'>冰冠</span>和"
+"<span class='key'>地下水</span>中；存在於地表上的湖泊和河流的淡水只有非常非常"
+"小的比例。水在日常的常見溫度下，具有三種<span class='key'>狀態</span>── 也就"
+"是，固態、液態和氣態，彼此之間可以個別存在並相互轉變。固態的水，在自然界中稱"
+"為冰（或雪），可在極地發現，例如，冰川和冰冠；液態水就如我們飲用水；氣態的"
+"水，是無法被看見的，不過，有時候如果<span class='key'>濕度</span>太高，你還是"
+"能感覺到它的存在的。"
+
+msgid "Putting it all together..."
+msgstr "組織一下..."
+
+# 12
+msgid ""
+"A body of dense snow and ice that does not completely melt all year round. "
+"Glaciers are constantly moving under their own weight. They form when "
+"accumulation of snow exceeds the loss due to melting and sublimation."
+msgstr ""
+"「冰川」又稱作冰河，是終年不化的厚重大冰體，因為自身重量的壓擠使得大冰體緩慢"
+"的順勢不斷移動，當積雪的速度超過了融化和昇華時冰川形成。"
+
+msgid ""
+"An area of ice at the extreme northern and southern parts of the globe which "
+"is present year round.  The amount of ice fluctuates during the year, but "
+"some ice is always present in an ice cap."
+msgstr ""
+"「冰冠」又稱作冰帽，冰冠地球的南北極地區是常年存在，保有地球上大量的淡水量。"
+"冰冠的冰量在全年會隨氣候而有所增減。"
+
+msgid "Glacier"
+msgstr "冰川"
+
+msgid "Close me!"
+msgstr "密我！"
+
+msgid ""
+"Often called saline, it is water with salts dissolved into it (most commonly "
+"NaCl).  This type of water constitutes the various oceans and seas of the "
+"Earth.  Salt water is not drinkable by humans."
+msgstr ""
+"「鹹水」，海水是鹹水，裡面含有大量的鹽巴（氯化鈉，NaCl）。不過在實驗室等，加"
+"了鹽巴的水溶液，通常被稱為「鹽水」。鹹水(鹽水)對人類來說是不能大量飲用的。"
+
+msgid "Polar Ice Cap"
+msgstr "極地冰冠(冰帽)"
+
+msgid "Polluted"
+msgstr "污染"
+
+msgid "Reviewing key vocabulary related to... the role of water"
+msgstr "複習重要名詞......關於「水的角色」"
+
+msgid ""
+"Solid, liquid, and gas states - the common forms of matter on earth.  For "
+"water, the solid state is ice.  The liquid state is liquid water.  And the "
+"gas state is water vapor or steam."
+msgstr ""
+"「物質三態」是地球上物質的三種常見的形式，包括：固態、液態和氣態。以水為例，"
+"固態是冰；液態是水；氣態是蒸氣。"
+
+msgid ""
+"Something is deemed to be polluted when a foreign contaminant (often man "
+"made) has been introduced.  Water is one of the most commonly polluted "
+"substances.  Once an area has been polluted, it may no longer be able to "
+"support life, or if it can, the pollution may have adverse effects on the "
+"things living in or around it."
+msgstr ""
+"所謂「污染」，就是一個物質沾染到一些其它的物質，環境經常會受到人類的污染。環"
+"境如果被污染了，對生活或周圍的事物將產生不利影響，甚至可能無法支持區域內的生"
+"命。水是最常受到污染的物質之一。"
+
+msgid "States of matter"
+msgstr "物質三態"
+
+msgid ""
+"Water located below ground level.  This water is stored in the pore spaces "
+"of soil or in cracks between rocks.  The depth at which the pore spaces are "
+"completely filled with water is called the water table."
+msgstr ""
+"「地下水」位於地底下。儲存在岩層間、岩石間、泥沙間的水 。當這些的孔隙空間完全"
+"被水充滿時，這時候的深度，稱為「地下水位」。"
+
+msgid ""
+"Water not containing significant amounts of salt dissolved into it.  This "
+"type of water constitutes most of the various lakes, rivers, and streams of "
+"the Earth.  Fresh water is drinkable by humans."
+msgstr ""
+"「淡水」，當水中的不溶有能被察覺鹽分時，我們稱之為淡水；淡水於不同於「鹹水」"
+"或「鹽水」。淡水構成了大部分的湖泊、河流和地表上的溪流。淡水是人類可以飲用"
+"的。"
+
+msgid "Words and explanations"
+msgstr "名詞和解釋"
+
+# 13
+msgid "Checking what you now know... about the role of water"
+msgstr "看看你現在了解了多少…關於「水的角色」"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答下列六（6）问答题会给你什么，你现在知道一个想法，你仍然需要学习。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "单击下一步按钮，当您准备好了。"
+
+msgid "Let's check what you now know"
+msgstr "我們來看看，你現在有多了解囉！"
+
+# 14
+msgid "All of the lakes and rivers combined"
+msgstr "湖泊和河流"
+
+msgid "Almost all of the water on the earth is found in..."
+msgstr "幾乎所有地球上的水存在於.."
+
+msgid ""
+"Nope! A lot (1/3) of the fresh water on earth is in rocks underground "
+"(groundwater)  this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"不對喔！雖然，地球上的淡水約有1/3是地下水（在地下岩石中）；不過地球總水量中淡"
+"水只佔約2.5%而已，約97.5％的水是在海洋中，所以地球上的水幾乎都在海中。"
+
+msgid ""
+"Not quite... a lot (2/3) of the fresh water on earth is in polar ice caps "
+"and glaciers but this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"不太對喔！雖然，地球上的淡水約有2/3是在南北極的冰川和冰冠中；不過地球總水量中"
+"淡水只佔約2.5%而已，約97.5％的水是在海洋中，所以地球上的水幾乎都在海中。"
+
+msgid "Polar ice caps"
+msgstr "極地的冰冠"
+
+msgid "Rocks underground"
+msgstr "任何地下的岩石中"
+
+msgid ""
+"Sorry... all the rivers and lakes combined – even the Great Lakes – account "
+"for only a tiny, tiny amount of the total water on earth."
+msgstr ""
+"不對喔！...所有的河流和湖泊的總水量，只佔地球上總水量的一個很小很小的量。"
+
+msgid "The oceans"
+msgstr "海洋"
+
+msgid ""
+"You got it! About 97% of the total amount of water on earth is in the oceans."
+msgstr "你答對了！地球上約97.5％的水是在海洋中。"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+# 15
+msgid "Africa"
+msgstr "非洲"
+
+msgid ""
+"Correct! The north and south poles are made from ice - which is frozen solid "
+"fresh water."
+msgstr "正確！南北兩極是由乾淨的淡水凝結成冰的。"
+
+msgid "Looking for freshwater?"
+msgstr "尋找淡水？"
+
+msgid ""
+"Nope! Africa has some big lakes but they don't compare with the polar ice "
+"caps of the north and south poles."
+msgstr "不對喔！非洲有一些大的湖泊，但它們的水量無法跟南北兩極的極地冰冠比較。"
+
+msgid "Not quite... the Pacific ocean is salt water not fresh water."
+msgstr "不對喔！太平洋中是鹽水不是淡水。"
+
+msgid "Sorry. The Atlantic ocean is salt water not fresh water."
+msgstr "不對喔！大西洋的是鹽水不是淡水。"
+
+msgid "The Atlantic Ocean"
+msgstr "大西洋"
+
+msgid "The North and South Poles"
+msgstr "北極和南極"
+
+msgid "The Pacific Ocean"
+msgstr "太平洋"
+
+msgid ""
+"Where on a world map would you go to find the greatest supply of fresh water?"
+msgstr "在世界地圖上，你會去哪裡尋找具有最大供應量的淡水？"
+
+# 16
+msgid ""
+"Correct! Rocks with lots of tiny spaces and fractures in them are common and "
+"are a good place to find water. The water occupies those tiny spaces and is "
+"a common source of groundwater."
+msgstr ""
+"正確！當岩石有很多或很大的空隙和裂縫，才可能可以找到很多的水。水會佔滿這些空"
+"間，這也是地下水的常見原因。"
+
+msgid "Liquid rock"
+msgstr "岩漿"
+
+msgid "Nope! there is no such thing as liquid rock."
+msgstr "不對喔！水碰到炙熱的岩漿會馬上變成氣體蒸發，這裡無法發現地下水的。"
+
+msgid "Not quite... solid rock has no spaces for water to occupy."
+msgstr "不對喔...密緻的石頭裡面就沒有空間可以儲水。"
+
+msgid "Rock with lots of spaces and fractures in it"
+msgstr "具有大量空隙和裂痕的岩石"
+
+msgid "Solid granite rock"
+msgstr "密緻的花崗岩"
+
+msgid "Switching water filters on..."
+msgstr "交換式濾水器上的..."
+
+msgid ""
+"The <span class='blink'>best</span> kind of rock to find groundwater in "
+"would be..."
+msgstr ""
+"下列哪一種狀態的岩石，<span class='blink'>最有可能找到非常的大量水</span>？"
+
+msgid ""
+"Try again... rocks with giant caves and passageways are very rare in nature "
+"so it would be hard to find a good source of groundwater in them."
+msgstr ""
+"再試一次......雖然地下坑穴或水道中會有水但這是非常罕見的地形，而且這和岩石本"
+"身組成不是直接有關，未必是在地下的岩石，就能發現到地下水。"
+
+# 17
+msgid "Bottled water"
+msgstr "瓶裝水"
+
+msgid ""
+"Correct! Human life - and most other forms of life on planet earth - "
+"requires fresh water to survive."
+msgstr "正確！人和所有生物都需要靠淡水來生存。"
+
+msgid "Different kind of water..."
+msgstr "不同類型的水..."
+
+msgid ""
+"Not quite! Bottled water is a kind of fresh water but it doesn't necessarily "
+"have to be bottled water for humans to survive."
+msgstr "不對喔！瓶裝水是一種淡水，人類生存來說並不一定要瓶裝水。"
+
+msgid ""
+"Not quite! Spring water is a kind of fresh water but it doesn't necessarily "
+"have to be spring water for humans to survive."
+msgstr "不對喔！泉水是一種淡水，不過對人類生存來說並不一定要泉水才能生存。"
+
+msgid "Sorry... people can't drink salt water and survive."
+msgstr "不對喔！......人喝鹽水不能生存。"
+
+msgid "Spring water"
+msgstr "泉水"
+
+msgid "The kind of water that is essential for human life is..."
+msgstr "下列的那一種水，是人類生活中不可缺少的呢？"
+
+# 18
+msgid "Bath"
+msgstr "洗澡"
+
+msgid "Clothes Washer"
+msgstr "洗衣機"
+
+msgid "Dishwasher"
+msgstr "洗碗機"
+
+msgid "Enumerating the uses of water..."
+msgstr "列舉水的用途..."
+
+msgid "Faucet"
+msgstr "水龍頭"
+
+msgid "Leaks"
+msgstr "漏水"
+
+msgid "Oceans"
+msgstr "海洋"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Fresh surface water"
+msgstr "地表淡水"
+
+msgid "Icecaps and glaciers"
+msgstr "冰冠和冰川"
+
+msgid "Earth's water"
+msgstr "地球上的水"
+
+msgid "Leaks, clothes washing, and shower."
+msgstr "漏水、衣物洗滌、淋浴。"
+
+msgid ""
+"Nope! Leaks (13.7%); clothes washing (21.7%); and showers (16.8%) only make "
+"up about 52.2% of typical household water usage."
+msgstr ""
+"不對喔！你找到代表廁所用水的淡藍色，還有它的比率是26.7％嗎？你還可以繼續找到"
+"第二和第三的。這個選項中，漏水（13.7％）；衣物洗滌（21.7％）；和淋浴"
+"（16.8％）只佔約52.2％一般的家庭用水量。"
+
+msgid "Other Domestic"
+msgstr "其它家事"
+
+msgid "Shower"
+msgstr "淋浴"
+
+msgid "Shower, faucet, and clothes washing."
+msgstr "淋浴、梳洗、以及衣物洗滌。"
+
+msgid ""
+"The graph below shows the typical use for water in your house other than for "
+"drinking and cooking. Which are the top three uses?"
+msgstr ""
+"下圖顯示了一般家中，除了飲用和煮飯之外，水使用量的統計圖。請問，圖中顯示，水"
+"的前三種用途是甚麼？"
+
+msgid ""
+"Think again... toilet (26.7); showers (16.8%); and faucet (15.7%); only make "
+"up about 59.2% of typical household water usage."
+msgstr ""
+"再想一想喔...你找到代表廁所用水的淡藍色，還有它的比率是26.7％嗎？你還可以繼續"
+"找到第二和第三的。這個選項中，廁所（26.7％）；淋浴（16.8％）；和梳洗"
+"（15.7％）；只佔約59.2％一般的家庭用水量。"
+
+msgid "Toilet"
+msgstr "廁所"
+
+msgid "Uses"
+msgstr "用途"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Toilet, shower, and clothes washing."
+msgstr "廁所、洗衣服、淋浴。"
+
+msgid "Toilet, shower, and faucet."
+msgstr "廁所、淋浴、梳洗。"
+
+msgid ""
+"Try again! showers (16.8%); faucet (15.7%); and clothes washing (21.7%); "
+"only make up about 54.2% of typical household water usage."
+msgstr ""
+"再試一次！你找到代表廁所用水的淡藍色，還有它的比率是26.7％嗎？你還可以繼續找"
+"到第二和第三的。這個選項中，淋浴（16.8％）；水龍頭（15.7％）；和洗衣服"
+"（21.7％）；只佔約54.2％典型的家庭用水量。"
+
+msgid "Typical Household Water Use"
+msgstr "一般的家庭用水"
+
+msgid ""
+"You got it! Toilet (26.7); showers (16.8%); and clothes washing (21.7%); "
+"make up about 65.2% of typical household water usage."
+msgstr ""
+"你答對了！廁所（26.7％）；洗衣服（21.7％）；和淋浴（16.8％）；佔了大約65.2％"
+"的典型家庭用水量。"
+
+# 19
+msgid "Blood"
+msgstr "血液"
+
+msgid "Body"
+msgstr "身體"
+
+msgid "Brain"
+msgstr "腦"
+
+msgid "Cells"
+msgstr "細胞"
+
+msgid "Swamps"
+msgstr "沼澤"
+
+msgid "Water Distribution"
+msgstr "分配水"
+
+msgid ""
+"Correct! This graph shows that the most important parts of your body are "
+"composed mostly of water so it's important to always drink lots of water so "
+"these body parts keep working properly."
+msgstr ""
+"正確！這一張圖顯示出你身體最重要部分的組成主要是水分，所以喝大量的水使這些身"
+"體部分能正常工作，是非常重要的。"
+
+msgid "Ground water"
+msgstr "地下水"
+
+msgid ""
+"Hover your mouse over each of the graphs to see what each part of the graph "
+"means. Which of the graphs would be <span class='blink'>best</span> to help "
+"you understand why hydration (drinking water) while participating in "
+"athletic events is so important?"
+msgstr ""
+"將滑鼠懸停在每張圖，試著觀察各圖的含義。請問以下四張圖中哪一張圖<span "
+"class='blink'>最能夠表示</span>為什麼喝水，對於運動競賽是非常重要的？"
+
+msgid "Muscles"
+msgstr "肌肉"
+
+msgid ""
+"Not quite! This graph shows how much water (what percentage of water) is "
+"found in different parts of the earth."
+msgstr ""
+"不對喔！該圖顯示的可能是有多少水（有多少比例的水）存在於地球的不同部分。"
+
+msgid ""
+"Not quite! This graph shows how much water is used for different household "
+"activities."
+msgstr "不對喔！此圖顯示了用於家庭活動的各種用水量。"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗嗎？"
+
+msgid "Sorry... this graph shows how much water was used in different years."
+msgstr "不對喔！...這圖顯示的可能是在不同年份使用的水量。"
+
+msgid "Surface water"
+msgstr "地表水"
+
+# 20
+msgid "You've completed the Role of Water review."
+msgstr "你已經完成「水的角色」單元的學習了！"
+
+msgid "Congratulations"
+msgstr "恭喜！"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"請點擊下面的按鈕！你就可以看到，這單元中你在\"小練習\"和\"小測驗\"的表現了！"
+
+msgid "You're done!"
+msgstr "你完成了！"
+
+msgid "Go to dashboard"
+msgstr "进入仪表板"

@@ -1,0 +1,1599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzmán <eguzmanfdez@gmail.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Inicio"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, selecciona tu respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, selecciona tus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escribe tu respuesta."
+
+msgid "Quick Check #1"
+msgstr "Revisión Rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Revisión Rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Revisión Rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Revisión Rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisa tus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo lo hice?"
+
+msgid "You answered..."
+msgstr "Tú respondiste..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr ""
+"Navega entre las diapositivas debajo dando clic en las flechas de izquierda "
+"y derecha."
+
+msgid ""
+"Rotate or flip the box below either up or down to set your answer. Click, "
+"hold and slide mouse up or down."
+msgstr ""
+"Gira o voltea la caja debajo hacia arriba o hacia abajo para ajustar tu "
+"respuesta. Da clic, sostén y desliza tu mouse hacia arriba o hacia abajo."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Da clic, sostén y desliza tu mouse hacia arriba y hacia abajo para girar la "
+"caja y seleccionar tu respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Tu Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérrame!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haz clic aquí para empezar a escribir tu respuesta..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Contestar las siguientes seis (6) preguntas de evaluación te dará una idea "
+"acerca de lo que sabes ahora y lo que aún necesitas estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haz clic en el botón de SIGUIENTE cuando estés listo/a."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta de Evaluación #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta de Evaluación #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta de Evaluación #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta de Evaluación #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta de Evaluación #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta de Evaluación #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de "
+"Evaluación' de esta revisión dando clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Ir al tablero de inicio"
+
+msgid "Let's begin!"
+msgstr "¡Iniciemos!"
+
+msgid "Are you ready,"
+msgstr "Estás listo/a,"
+
+msgid "Preparing your first quick check!"
+msgstr "¡Preparando tu primera revisión rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "¿Listo/a para tu última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "¿Listo/a para tu última pregunta de evaluación?"
+
+msgid "Putting it all together..."
+msgstr "Uniéndolo todo..."
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Revisemos lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "Y la primera pregunta de evaluación es..."
+
+msgid "You're done!"
+msgstr "¡Terminaste!"
+
+# 1
+msgid "Basic Cells"
+msgstr "Células Básicas"
+
+msgid "Welcome to the Basic Cells module"
+msgstr "Bienvenido/a al módulo de Células Básicas"
+
+# 2
+msgid "Thinking about... basic cells"
+msgstr "Pensando acerca de... células básicas"
+
+msgid "Congratulations! You're alive!"
+msgstr "¡Felicitaciones! ¡Estás vivo/a!"
+
+msgid ""
+"No, that's not meant to be funny. Being alive is a great accomplishment. "
+"Think for a moment about what has to happen for you to be able to read and "
+"think about these words."
+msgstr ""
+"No, esa no es una broma. Estar vivo es un gran logro. Piensa por un momento "
+"acerca de lo que tiene que pasar para que tú seas capaz de leer y pensar "
+"acerca de estas palabras."
+
+msgid "Your body must use energy taken in from the foods you eat."
+msgstr "Tu cuerpo debe utilizar energía que toma de los alimentos que comes."
+
+msgid ""
+"Releasing that energy requires oxygen from the air you breathe in and "
+"produces carbon dioxide waste that you must breathe out."
+msgstr ""
+"Liberar esa energía requiere oxígeno del aire que inhalas y produce desechos "
+"de dióxido de carbono que debes exhalar."
+
+msgid ""
+"The chemical contents of your food must be broken down into simpler "
+"substances and rearranged and rebuilt into the structures you depend on for "
+"living."
+msgstr ""
+"Los contenidos químicos de tus alimentos deben descomponerse en sustancias "
+"más simples, y luego reorganizarse y reconstituirse en las estructuras de "
+"las cuales dependes para vivir."
+
+msgid ""
+"The food and oxygen you take in must be circulated around your body, while "
+"the waste your body produces must be transported and removed."
+msgstr ""
+"Los alimentos y oxígeno que ingieres deben circular por tu cuerpo, mientras "
+"que el desecho que tu cuerpo produce debe ser transportado y removido."
+
+msgid ""
+"We're just scratching the surface here, but this is pretty important stuff. "
+"This list could go on and on for a long time - thanks to many very "
+"specialized processes that occur in living things."
+msgstr ""
+"Esto es apenas una muestra, pero son cosas importantes. Esta lista podría "
+"seguir y seguir por un largo rato - gracias a los muchos y muy "
+"especializados procesos que ocurren en los seres vivos."
+
+msgid ""
+"For now, let's stick with the basics. All living processes need a place to "
+"happen, and for all living things humans know about, that place is a cell."
+msgstr ""
+"Por ahora, hablemos de lo básico. Todos los procesos de vida necesitan "
+"suceder en algún lugar, y para todos los seres vivos que los humanos "
+"conocen, ese lugar es una célula."
+
+msgid ""
+"<span class='key'>Cells</span> are the smallest things that can be called "
+"living. Most are so small they can't be seen without microscopes. A few are "
+"so large you can hold them in your hand, and many are so tiny that only "
+"special microscopic methods can make them visible."
+msgstr ""
+"Las células son las cosas más pequeñas que pueden considerarse vivas. La "
+"mayoría son tan pequeñas que no pueden ser vistas sin microscopio. Unas "
+"cuantas son tan grandes que las puedes sostener en tu mano, y muchas son tan "
+"pequeñas que sólo métodos microscópicos especiales pueden hacerlas visibles."
+
+msgid ""
+"All cells must perform all of the functions of living things. That's a lot "
+"happening in a small package. This means that cells must be simple yet "
+"incredibly sophisticated at the same time."
+msgstr ""
+"Todas las células deben desempeñar todas las funciones de los seres vivos. "
+"Eso es mucho para un paquete tan pequeño. Esto significa que las células "
+"deben ser simples pero increíblemente sofisticadas al mismo tiempo."
+
+# 3
+msgid "Checking what you now know about... basic cells"
+msgstr "Revisando lo que sabes ahora acerca de... células básicas"
+
+msgid ""
+"Arrange the items on the right to match up with the results on the left. "
+"Drag the boxes up and down."
+msgstr ""
+"Organiza los elementos de la derecha para que coincidan con los resultados "
+"de la izquierda. Arrastra las cajas hacia arriba y hacia abajo."
+
+msgid "Cells increase in size until they burst"
+msgstr "Las células incrementan su tamaño hasta que estallan."
+
+msgid "Cells shrivel up and die"
+msgstr "Las células se marchitan y mueren"
+
+msgid "Green structures in plant cells move around inside the cells."
+msgstr ""
+"Estructuras verdes en las células vegetales se mueven dentro de las células."
+
+msgid "Placing cells under a strong light source"
+msgstr "Colocar las células bajo una fuerte fuente de luz"
+
+msgid "Placing cells in distilled water"
+msgstr "Colocar las células en agua destilada"
+
+msgid "Placing cells in salt water"
+msgstr "Colocar las células en agua salada"
+
+msgid ""
+"Cells have many structures that help them perform the jobs that keep them "
+"alive. All cells are separated from the nonliving world by membranes. The "
+"membranes allow some substances to cross but serve as a barrier to others. "
+"Water moves back and forth across the membrane to help keep it in balance "
+"with its environment. Plant cells have special structures called <span "
+"class='key1'>chloroplasts</span> which absorb energy from light and use it "
+"to make food."
+msgstr ""
+"Las células tienen muchas estructuras que les ayudan a desempeñar las "
+"labores que las mantienen vivas. Todas las células están separadas del mundo "
+"no viviente por medio de membranas. Las membranas permiten que algunas "
+"sustancias entren pero sirven de barrera a otras. El agua entra y sale por "
+"la membrana para mantenerlas en equilibrio con su ambiente. Las células "
+"vegetales tienen estructuras especiales llamadas cloroplastos que absorben "
+"energía de la luz y la utilizan para crear alimento."
+
+msgid "Observing cells..."
+msgstr "Observando células..."
+
+# 4
+msgid "Reviewing big ideas about... basic cells"
+msgstr "Revisando ideas importantes acerca de... células básicas"
+
+msgid ""
+"Cells come in two major types depending on their complexity. Prokaryotes are "
+"cells that have no major internal structures. These cell types include "
+"bacteria and archaea. Eukaryotes have a variety of internal structures and "
+"include protists, plants, animals, and fungi."
+msgstr ""
+"Las células se dividen en dos tipos principales dependiendo de su "
+"complejidad. Las procariotas son células que no tienen estructuras internas "
+"mayores. Estas células incluyen a las bacterias y a las archaea. Las "
+"eucariotas tienen una variedad de estructuras internas e incluyen a las "
+"protistas, plantas, animales y hongos."
+
+msgid ""
+"The simplest living things are very small single cells called <span "
+"class='hl'>prokaryotes</span>.  The two types, archaea and bacteria, look "
+"much alike, but have very different internal chemistries. Prokaryotes are "
+"usually only 1-2 microns in size.  A micron is .001 millimeter, so that’s "
+"very, very small.  Using special techniques, our most powerful light "
+"microscopes can view bacteria and archaea clearly."
+msgstr ""
+"Los seres vivos más simples son células individuales muy pequeñas llamadas "
+"procariotas. Los dos tipos, archaeas y bacterias, se parecen mucho pero "
+"tienen una química interna muy diferente. Las procariotas usualmente miden "
+"sólo de 1 a 2 micras de tamaño. Una micra equivale a .001 milímetros, así "
+"que son muy, muy pequeñas. Utilizando técnicas especiales, nuestros "
+"microscopios de luz más poderosos pueden ver a las bacterias y archaea "
+"claramente."
+
+msgid ""
+"Archaea are a most diverse set of organisms living in environments as "
+"different as mud, fresh water, oceans, and the digestive systems of animals. "
+"Some archaea are found inside geysers and even near volcanic vents in the "
+"ocean floor."
+msgstr ""
+"Las archaea son el grupo de organismos más diversos que viven en ambientes "
+"tan distintos como el lodo, el agua dulce, los océanos, y los sistemas "
+"digestivos de los animales. Algunas archaea se encuentran dentro de géiseres "
+"e incluso cerca de respiraderos volcánicos en el suelo marino."
+
+msgid ""
+"Bacteria are common everywhere, from the tops of the highest mountains to "
+"the bottoms of the deepest caves. They live on and inside plants and "
+"animals. Some cause illness but many are also important in all types of food "
+"processing. Bacteria turn milk into yogurt and cheese; meat into some types "
+"of sausage; and cabbage into sauerkraut and kimchi."
+msgstr ""
+"Las bacterias son comunes en todas partes, desde las cimas de las montañas "
+"más altas a los fondos de las cuevas más profundas. Viven sobre y dentro de "
+"las plantas y los animales. Algunas provocan enfermedades, pero muchas "
+"también son importantes en toda clase de procesamiento de alimentos. Las "
+"bacterias convierten la leche en yogurt y queso; la carne en algunos tipos "
+"de salchicha; y col en chucrut y kimchi."
+
+msgid ""
+"All other living things are made of cells called <span "
+"class='hl'>eukaryotes</span>.  Eukaryotic cells are much larger than "
+"prokaryotes and may exist as individual cells or as parts of complex "
+"organisms.  All plants, animals, and fungi are made of eukaryotic cells."
+msgstr ""
+"Todos los otros seres vivos están constituidos por células llamadas <span "
+"class='hl'>eucariotas</span>.  Las células eucariotas son mucho más grandes "
+"que las procariotas y pueden existir como células individuales o como parte "
+"de organismos complejos.  Todas las plantas, animales y hongos están "
+"constituidos por células eucariotas."
+
+msgid ""
+"It’s hard to make blanket statements about what all cells have in common, "
+"but one feature all have is a membrane. <span class='hl'>Cell membranes</"
+"span> separate the living interior of cells from the rest of their "
+"environments. Membranes regulate what goes into and out of cells and provide "
+"protection for cells’ interior chemistry."
+msgstr ""
+"Es difícil hacer declaraciones generales acerca de lo que todas las células "
+"tienen en común, pero una característica que todas tienen es una membrana. "
+"Las membranas celulares separan el interior vivo de las células del resto de "
+"su entorno. Las membranas regulan lo que entra y sale de las células y "
+"proveen protección para la química interior de las células."
+
+msgid ""
+"While we often think of cell membranes as simply thin layers covering the "
+"outside of cells, they are actually much more complex and highly specialized "
+"to perform their functions. This layer also includes many different types of "
+"molecules made of proteins and sugars that function to move substances "
+"through the membrane and to help cells respond to changes in their "
+"environments."
+msgstr ""
+"Aunque a menudo pensamos en las membranas celulares como simples capas finas "
+"que cubren el exterior de las células, en realidad son mucho más complejas y "
+"altamente especializadas para desempeñar sus funciones. Esta capa también "
+"incluye muchos tipos diferentes de moléculas hechas de proteínas y azúcares "
+"que funcionan para mover sustancias a través de la membrana y para ayudar a "
+"las células a responder a cambios en sus entornos."
+
+msgid ""
+"Substances made of very small particles are able to flow through cell "
+"membranes without difficulty. They simply pass through the tiny openings "
+"between individual molecules. This process is called <span "
+"class='hl'>diffusion</span>, which occurs any time substances flow from "
+"areas of high concentration to areas of low concentration. A special type of "
+"diffusion is called <span class='hl'>osmosis</span>. Osmosis is the "
+"diffusion of water across a cell membrane."
+msgstr ""
+"Sustancias formadas por partículas muy pequeñas son capaces de fluir a "
+"través de las membranas celulares sin dificultad. Ellas simplemente pasan a "
+"través de las pequeñas aberturas entre las moléculas individuales. Este "
+"proceso se llama difusión, y sucede en cualquier momento en que sustancias "
+"fluyen desde zonas de alta concentración a las zonas de baja concentración. "
+"Un tipo especial de difusión se llama ósmosis. La ósmosis es la difusión de "
+"agua a través de una membrana celular."
+
+msgid "Passing through membrane..."
+msgstr "Pasando a través de la membrana..."
+
+# 5
+msgid "Question A. Cell membranes are made of which of the following?"
+msgstr ""
+"Pregunta A. ¿De cuál de las siguientes se constituyen las membranas "
+"celulares?"
+
+msgid "Solid bits of woody fibers and a few fatty acids"
+msgstr "Pedazos sólidos de fibras leñosas y algunos ácidos grasos"
+
+msgid "Many fatty molecules with a few proteins and sugars"
+msgstr "Muchas moléculas grasosas con algunas proteínas y azúcares"
+
+msgid "Proteins, sugars and woody fibers"
+msgstr "Proteínas, azúcares y fibras leñosas"
+
+msgid "Sugars and woody fibers only"
+msgstr "Azúcares y fibras leñosas únicamente"
+
+msgid ""
+"Question B. Which of the following is <span class='blink'>NOT</span> a "
+"difference between prokaryotes and eukaryotes?"
+msgstr ""
+"Pregunta B. ¿Cuál de las siguientes NO es una diferencia entre procariotas y "
+"eucariotas?"
+
+msgid "Prokaryotes are much smaller than eukaryotes."
+msgstr "Las procariotas son mucho más pequeñas que las eucariotas."
+
+msgid "Eukaryotes do not have nuclei."
+msgstr "Las eucariotas no tienen núcleos."
+
+msgid "Bacteria are all prokaryotes."
+msgstr "Todas las bacterias son procariotas."
+
+msgid "Eukaryotes are generally much simpler cells than prokaryotes."
+msgstr ""
+"Las eucariotas en general son células mucho más simples que las procariotas."
+
+msgid "Preparing your first quick check…"
+msgstr "Preparando tu primera revisión rápida..."
+
+msgid "Sorry. There’s no wood in cell membranes"
+msgstr "Lo siento. No hay madera en las membranas celulares."
+
+msgid "Yes! The fatty molecules form a double layer."
+msgstr "¡Sí! Las moléculas grasosas forman una capa doble."
+
+msgid "Proteins and sugars...Yes. Woody fibers...No."
+msgstr "Proteínas y azúcares... sí. Fibras leñosas... no."
+
+msgid "Nope. Just a few sugars and no woody fibers in the membrane."
+msgstr "Nop. Sólo unas cuantas azúcares y ninguna fibra leñosa en la membrana."
+
+msgid "Nope. Prokaryotes are much smaller than eukaryotes."
+msgstr "Nop. Las procariotas son mucho más pequeñas que las eucariotas."
+
+msgid "Sorry. Nuclei are important parts of eukaryotic cells."
+msgstr ""
+"Lo siento. Los núcleos son partes importantes de las células eucariotas."
+
+msgid "Actually,  bacteria are prokaryotes."
+msgstr "En realidad, las bacterias son procariotas."
+
+msgid ""
+"That’s the one. Eukaryotes are actually much more complex than prokaryotes."
+msgstr ""
+"Eso es. Las eucariotas en realidad son mucho más complejas que las "
+"procariotas."
+
+# 6
+msgid "More big ideas about… basic cells"
+msgstr "Más ideas importantes acerca de... células básicas"
+
+msgid ""
+"Just as our bodies have <span class='hl'>organs</span> and <span "
+"class='hl'>systems</span> to perform the functions that keep us alive, our "
+"cells also have parts that work together to do the work of living. The "
+"structures, present in all eukaryotes, are called organelles. Some show up "
+"in nearly all kinds of cells, while others are present only in some kinds of "
+"special cells."
+msgstr ""
+"Así como nuestro cuerpo tiene órganos y sistemas para desempeñar las "
+"funciones que nos mantienen vivos, nuestras células también tienen partes "
+"que trabajan juntas para hacer el trabajo de vivir. Las estructuras, "
+"presentes en todas las eucariotas, se llaman orgánulos. Algunos aparecen en "
+"casi todos los tipos de células, mientras que otros están presentes sólo en "
+"algunos tipos de células especiales."
+
+msgid "Animal Cell"
+msgstr "Célula Animal"
+
+msgid "Plant Cell"
+msgstr "Célula Vegetal"
+
+msgid ""
+"Nearly all cells have a nucleus. The <span class='key'>nucleus</span> is "
+"home to structures made of DNA called chromosomes. Chromosomes carry the "
+"information needed to make every part of every living thing. This "
+"information is used by organelles, called ribosomes, to build the proteins "
+"that make up all living things."
+msgstr ""
+"Casi todas las células tienen un núcleo. El núcleo es el hogar de "
+"estructuras hechas de ADN llamadas cromosomas. Los cromosomas contienen la "
+"información necesaria para formar cada parte de cada ser viviente. Esta "
+"información es utilizada por orgánulos, llamados ribosomas, para construir "
+"las proteínas que forman a los seres vivos."
+
+msgid ""
+"Some proteins make up structures, and some are enzymes. Enzymes act on other "
+"molecules; some to make them bigger, and others to break them apart. After "
+"we eat, our food is broken down into simple molecules before it is absorbed "
+"into our cells. Energy is released when organelles called <span "
+"class='key'>mitochondria</span> break simple sugars into molecules of carbon "
+"dioxide and water. This energy-releasing process is known as <span "
+"class='key'>cellular respiration</span>."
+msgstr ""
+"Algunas proteínas forman estructuras, y algunas son enzimas. Las enzimas "
+"actúan sobre otras moléculas; algunas para hacerlas más grandes, y otras "
+"para desintegrarlas. Después de comer, nuestro alimento se descompone en "
+"moléculas simples antes de ser absorbido por nuestras células. Se libera "
+"energía cuando orgánulos llamados mitocondrias descomponen azúcares simples "
+"en moléculas de dióxido de carbono y agua. Este proceso de liberación de "
+"energía se conoce como respiración celular."
+
+msgid ""
+"In green plants, organelles called <span class='hl'>chloroplasts</span> "
+"absorb light energy and use it to combine parts of water and carbon dioxide "
+"molecules to make a simple sugar called glucose. This process, called <span "
+"class='hl'>photosynthesis</span>, also produces extra molecules of oxygen, "
+"which are released by the cell."
+msgstr ""
+"En las plantas verdes, orgánulos llamados cloroplastos absorben energía de "
+"la luz y la utilizan para combinar partes de las moléculas de agua y dióxido "
+"de carbono para formar un azúcar simple llamado glucosa. Este proceso, "
+"llamado fotosíntesis, también produce moléculas extra de oxígeno, que son "
+"liberados por la célula."
+
+msgid "Cells working together..."
+msgstr "Células trabajando juntas..."
+
+# 7
+msgid "Question A. The cell nucleus is important because..."
+msgstr "Pregunta A. El núcleo de la célula es importante porque..."
+
+msgid "It absorbs energy from sunlight."
+msgstr "Absorbe energía de la luz del sol."
+
+msgid "It releases energy from food."
+msgstr "Libera energía de los alimentos."
+
+msgid "It carries information to control the cell."
+msgstr "Lleva información para controlar la célula."
+
+msgid "It controls what enters or leaves the cell."
+msgstr "Controla lo que entra o sale de la célula."
+
+msgid "Question B. Both plant and animal cells contain mitochondria because:"
+msgstr ""
+"Pregunta B. Tanto células vegetales como animales contienen mitocondrias "
+"porque:"
+
+msgid "All cells must use energy to stay alive."
+msgstr "Todas las células deben utilizar energía para mantenerse con vida."
+
+msgid "Only animal cells absorb energy from the sun."
+msgstr "Sólo las células animales absorben energía del sol."
+
+msgid "All cells must absorb solar energy."
+msgstr "Todas las células deben absorber energía solar."
+
+msgid "Mitochondria contain chlorophyll."
+msgstr "Las mitocondrias contienen clorofila."
+
+msgid "Studying nucleus..."
+msgstr "Estudiando al núcleo..."
+
+msgid "No. Chloroplasts absorb energy."
+msgstr "No. Los cloroplastos absorben energía."
+
+msgid "Sorry. Mitochondria release energy."
+msgstr "Lo siento. Las mitocondrias liberan energía."
+
+msgid "Yes! The nucleus carries information."
+msgstr "¡Sí! El núcleo lleva información."
+
+msgid "Nope. Membranes control what enters or leaves cells."
+msgstr "Nop. Las membranas controlan lo que entra o sale de la célula."
+
+msgid "A. All cells must use energy to stay alive."
+msgstr "A. Todas las células deben utilizar energía para mantenerse con vida."
+
+msgid "That’s right! All cells must use energy."
+msgstr "¡Así es! Todas las células deben utilizar energía."
+
+msgid "B. Only animal cells absorb energy from the sun."
+msgstr "B. Sólo las células animales absorben energía del sol."
+
+msgid "Sorry. Chloroplasts absorb solar energy."
+msgstr "Lo siento. Los cloroplastos absorben energía solar."
+
+msgid "C. All cells must absorb solar energy."
+msgstr "C. Todas las células deben absorber energía solar."
+
+msgid "No. Only plant cells absorb solar energy."
+msgstr "No. Sólo las células vegetales absorben energía solar."
+
+msgid "D. Mitochondria contain chlorophyll."
+msgstr "D. Las mitocondrias contienen clorofila."
+
+msgid "Nope. Chloroplasts contain chlorophyll."
+msgstr "Nop. Los cloroplastos contienen clorofila."
+
+# 8
+msgid ""
+"As we said before, cell membranes are responsible for keeping a cell in a "
+"sort of balance with its environment. Whatever changes occur outside a cell, "
+"the membrane has the job of controlling what enters and leaves. The membrane "
+"isn’t solid. It’s a constantly changing structure made of millions of fatty "
+"molecules that form two layers, pointing their heads in opposite directions. "
+"A wide variety of different proteins float among the fatty molecules, "
+"allowing the cell to interact with other cells and serving as pathways for "
+"many substances to enter or leave the cell."
+msgstr ""
+"Como dijimos anteriormente, las membranas celulares son responsables de "
+"mantener a la célula en equilibrio con su ambiente. Con cualquier cambio que "
+"ocurra fuera de una célula, las membranas tienen el trabajo de controlar lo "
+"que entra y sale. La membrana no es sólida. Es una estructura que cambia "
+"constantemente formada de millones de moléculas grasosas que forman dos "
+"capas, señalando en direcciones opuestas. Una gran variedad de distintas "
+"proteínas flotan entre las moléculas grasosas, permitiéndole a la célula "
+"interactuar con otras y sirviendo de pasadizos para que muchas sustancias "
+"entren o salgan de la célula."
+
+msgid ""
+"Diffusion and osmosis move small molecules, such as water, across the "
+"membrane, always from areas where they are concentrated to areas of lesser "
+"concentration. Sometimes, though, it’s necessary for larger molecules to "
+"enter or leave the cell, regardless of concentration or whether they are "
+"small enough to move through on their own."
+msgstr ""
+"La difusión y ósmosis llevan moléculas pequeñas, tales como agua, a través "
+"de la membrana, siempre desde las zonas donde hay alta concentración a las "
+"zonas de menor concentración. A veces, sin embargo, es necesario que "
+"moléculas más grandes entren o salgan de la célula, independientemente de la "
+"concentración o de si son lo suficientemente pequeñas para pasar por su "
+"cuenta."
+
+msgid ""
+"Some membrane proteins are able to use energy to change their shapes, "
+"capturing other molecules and pulling them through the membrane. They are "
+"called pump proteins, and this type of movement is called active transport."
+msgstr ""
+"Algunas proteínas de las membranas son capaces de utilizar la energía para "
+"cambiar su forma, capturar otras moléculas y hacerlas pasar a través de la "
+"membrana. Dichas proteínas se denominan proteínas bombas, y este tipo de "
+"movimiento se llama transporte activo."
+
+msgid ""
+"Other proteins, called carrier proteins, fold in the shape of tubes, "
+"allowing some large molecules to diffuse through the membrane. This type of "
+"transport, requiring no energy, is called facilitated diffusion."
+msgstr ""
+"Otras proteínas, denominadas proteínas transportadoras, se pliegan en forma "
+"de tubos, permitiendo que algunas moléculas grandes se difundan a través de "
+"la membrana. Este tipo de transporte, que no requiere de energía, se llama "
+"difusión facilitada."
+
+msgid "Protein channel"
+msgstr "Canal proteico"
+
+msgid "Globular protein"
+msgstr "Proteína globular"
+
+msgid "Glycoprotein"
+msgstr "Glicoproteína"
+
+msgid "Carbohydrate"
+msgstr "Carbohidrato"
+
+msgid "Hydrophilic head"
+msgstr "Cabeza hidrofílica"
+
+msgid "Phospholipid bilayer"
+msgstr "Bicapa fosfolipídica"
+
+msgid "Phospholipid molecule"
+msgstr "Molécula fosfolipídica"
+
+msgid "Cholesterol"
+msgstr "Colesterol"
+
+msgid "Glycolipid"
+msgstr "Glicolípido"
+
+msgid "Peripheral protein"
+msgstr "Proteína periférica"
+
+msgid "Integral protein"
+msgstr "Proteína integral"
+
+msgid "Filaments of cytoskeleton"
+msgstr "Filamentos de citoesqueleto"
+
+msgid "Alpha-helix protein"
+msgstr "Proteína hélice-alfa"
+
+msgid "Hydrophobic tails"
+msgstr "Colas hidrofóbicas"
+
+msgid "Surface protein"
+msgstr "Proteína de superficie"
+
+msgid "balancing the environment..."
+msgstr "equilibrando el medio ambiente..."
+
+# 9
+msgid ""
+"Question A.  Which of the following structures is found in cell membranes?"
+msgstr ""
+"Pregunta A. ¿Cuál de las siguientes estructuras se encuentra en las "
+"membranas celulares?"
+
+msgid "Chlorophyll"
+msgstr "Clorofila"
+
+msgid "Nucleus"
+msgstr "Núcleo"
+
+msgid "Ribosomes"
+msgstr "Ribosomas"
+
+msgid "Carrier Protein"
+msgstr "Proteína Transportadora"
+
+msgid ""
+"Question B. What is the major difference between passive and active "
+"transport?"
+msgstr ""
+"Pregunta B. ¿Cuál es la principal diferencia entre el transporte pasivo y "
+"activo?"
+
+msgid "Passive transport requires energy; active transport does not."
+msgstr "El transporte pasivo requiere energía; el transporte activo no."
+
+msgid "Active transport requires energy, passive transport does not."
+msgstr "El transporte activo requiere energía, el transporte pasivo no."
+
+msgid "Passive transport always moves material out of the cell."
+msgstr "El transporte pasivo siempre mueve material hacia fuera de la célula."
+
+msgid "Active transport always moves material out of the cell."
+msgstr "El transporte activo siempre mueve material hacia fuera de la célula."
+
+msgid "Passive and active transport?"
+msgstr "¿Transporte pasivo y activo?"
+
+msgid "No. Chlorophyll is found in chloroplasts."
+msgstr "No. La clorofila se encuentra en los cloroplastos."
+
+msgid "Not this one. The nucleus is in the center of the cell."
+msgstr "Este no. El núcleo está en el centro de la célula."
+
+msgid "Sorry, ribosomes make proteins but not in the membrane."
+msgstr "Lo siento, los ribosomas producen proteínas pero no en la membrana."
+
+msgid ""
+"That’s right! Carrier proteins help control what enters or leaves the cell."
+msgstr ""
+"¡Así es! Las proteínas transportadoras ayudan a controlar lo que entra o "
+"sale de la célula."
+
+msgid "Nope. Active transport requires energy. Passive transport does not."
+msgstr "Nop. El transporte activo requiere energía. El transporte pasivo no."
+
+msgid "Right! Active transport requires energy. Passive transport does not."
+msgstr ""
+"¡Correcto! El transporte activo requiere energía. El transporte pasivo no."
+
+msgid ""
+"Sorry. Active or passive transport may move materials into or out of the "
+"cell."
+msgstr ""
+"Lo siento. Tanto el transporte activo como el pasivo pueden mover materiales "
+"hacia dentro o fuera de la célula."
+
+msgid ""
+"Not this one. Active or passive transport may move materials into or out of "
+"the cell."
+msgstr ""
+"Este no. Tanto el transporte activo como el pasivo pueden mover materiales "
+"hacia dentro o fuera de la célula."
+
+# 10
+msgid "There are four different types of eukaryotes."
+msgstr "Hay cuatro tipos diferentes de eucariotas."
+
+msgid ""
+"Fungi have cells much like plant cells, except that their <span "
+"class='key'>cell walls</span> are made of molecules called chitins and "
+"glucans. Fungal cells do not have chloroplasts, so they must rely on other "
+"living things for their energy needs. Fungi are considered to be decomposers "
+"because they help to break down dead organisms."
+msgstr ""
+"Los hongos tienen células muy parecidas a las células vegetales, excepto que "
+"sus paredes celulares están hechas de moléculas llamadas quitinas y "
+"glucanos. Las células fúngicas no tienen cloroplastos, por lo que dependen "
+"de otros seres vivos para cubrir sus necesidades energéticas. Los hongos se "
+"consideran descomponedores, ya que ayudan a descomponer los organismos "
+"muertos."
+
+msgid ""
+"<span class='hl'>Animal cells</span> lack rigid cell walls. This gives them "
+"great flexibility and allows them to interact with surrounding cells in a "
+"wide variety of ways. Animal cells also lack chloroplasts, making them "
+"dependent upon plants for energy."
+msgstr ""
+"Las células animales carecen de paredes celulares rígidas. Esto les da una "
+"gran flexibilidad y les permite interactuar con células cercanas de muchas "
+"formas. Las células animales también carecen de cloroplastos, lo que hace "
+"que dependan de las plantas para obtener energía."
+
+msgid ""
+"Plant cells are enclosed by rigid membranes made of cellulose. Most people "
+"know cellulose as wood, paper, or cotton. These and other products are made "
+"from plant material. Plant cells may also have chloroplasts which capture "
+"energy from the sun. Chloroplasts turn this energy into sugars which provide "
+"energy for plants and for all other types of life."
+msgstr ""
+"Las células vegetales están cubiertas por membranas rígidas hechas de "
+"celulosa. La mayoría de las personas conocen a la celulosa como madera, "
+"papel, o algodón. Estos y otros productos están hechos de material vegetal. "
+"Las células vegetales también pueden tener cloroplastos que captan la "
+"energía del sol. Los cloroplastos convierten esta energía en azúcares que "
+"proporcionan energía a las plantas y a todos los otros tipos de vida."
+
+msgid ""
+"Protists exist as single cells or as groups of identical cells. Protists are "
+"extremely diverse. Some are very similar to plants, while others resemble "
+"animals. Some float in water, while others move under their own power. Some "
+"capture energy from the sun using photosynthesis, while others capture and "
+"digest other cells. Some can even seem to grow to resemble more complex "
+"organisms at various times in their lives."
+msgstr ""
+"Los protistas existen como células individuales o como grupos de células "
+"idénticas. Los protistas son extremadamente diversos. Algunos son muy "
+"similares a las plantas, mientras que otros se asemejan a los animales. "
+"Algunos flotan en el agua, mientras que otros se mueven por sus propios "
+"medios. Algunos captan la energía del sol mediante la fotosíntesis, mientras "
+"que otros capturan y digieren a otras células. Algunos incluso pueden "
+"parecer crecer para parecerse a organismos más complejos en distintos "
+"momentos de su vida."
+
+msgid "Identifying eukaryote..."
+msgstr "Identificando eucariotas..."
+
+# 11
+msgid ""
+"Question A. Chloroplasts are <span class='blink'>most often</span> found in "
+"what types of cells?"
+msgstr ""
+"Pregunta A. ¿Los cloroplastos se encuentran más frecuentemente en qué tipos "
+"de células?"
+
+msgid "Animal Cells"
+msgstr "Células Animales"
+
+msgid "Prokaryotes"
+msgstr "Procariotas"
+
+msgid "Fungi"
+msgstr "Hongos"
+
+msgid "Plant Cells"
+msgstr "Células Vegetales"
+
+msgid ""
+"Question B. Which structures are found in plant cells but <span "
+"class='blink'>not</span> in animal cells?"
+msgstr ""
+"Pregunta B. ¿Cuáles estructuras se encuentran en células vegetales, pero no "
+"en células animales?"
+
+msgid "Cell walls and cell membranes"
+msgstr "Paredes celulares y membranas celulares"
+
+msgid "Chloroplasts and cell walls"
+msgstr "Cloroplastos y paredes celulares"
+
+msgid "Mitochondria and cell membranes"
+msgstr "Mitocondrias y membranas celulares"
+
+msgid "Mitochondria and chloroplasts"
+msgstr "Mitocondrias y cloroplastos"
+
+msgid "Looking at different cells..."
+msgstr "Observando diferentes células..."
+
+msgid "Sorry, animal cells can’t make their own food."
+msgstr "Lo siento, las células animales no pueden producir su propio alimento."
+
+msgid "No. Prokaryotes have no organelles."
+msgstr "No. Las procariotas no tienen orgánulos."
+
+msgid "Not these. Fungi depend on other organisms for food."
+msgstr ""
+"Estos no. Los hongos dependen de otros organismos para su alimentación."
+
+msgid "That’s right! Chloroplasts are found in green plant cells."
+msgstr ""
+"¡Así es! Los cloroplastos se encuentran en las células vegetales verdes."
+
+msgid "Sorry. All cells have membranes."
+msgstr "Lo siento. Todas las células tienen membranas."
+
+msgid "Yes! Chloroplasts and cell walls are found only in plants."
+msgstr ""
+"¡Sí! Los cloroplastos y las paredes celulares se encuentran sólo en las "
+"plantas."
+
+msgid "No. Most eukaryotes have mitochondria and cell membranes."
+msgstr ""
+"No. La mayoría de las eucariotas tienen mitocondrias y membranas celulares."
+
+msgid ""
+"All complex cells have mitochondria, but only plant cells have chloroplasts."
+msgstr ""
+"Todas las células complejas tienen mitocondrias, pero sólo las células "
+"vegetales tienen cloroplastos."
+
+# 12
+msgid "Close!"
+msgstr "¡Cerrar!"
+
+msgid ""
+"Many plants and animals are large and complex enough to need special groups "
+"of cells that can perform important functions. These groups of specialized "
+"cells, called <span class='hl'>tissues</span>, work together on such tasks "
+"as digestion, reproduction, protection, and even responding to environmental "
+"changes."
+msgstr ""
+"Muchas plantas y animales son lo suficientemente grandes y complejos como "
+"para necesitar grupos especiales de células que puedan realizar funciones "
+"importantes. Estos grupos de células especializadas, llamadas tejidos, "
+"trabajan juntos en tareas tales como la digestión, la reproducción, la "
+"protección, e incluso para responder a los cambios ambientales."
+
+msgid ""
+"These specialized tissues are often grouped together into structures called "
+"<span class='key'>organs</span>. A common example is the leaf of a green "
+"plant. A leaf is  made up of many tissues, all important to helping it "
+"complete its job: gathering solar energy and storing it in a form nearly all "
+"living things can use. Some leaf tissues protect it. Others allow air to "
+"flow into and out of the leaf. Some transport water and food, while another "
+"provides storage space. A very important set of cells actually carries on "
+"photosynthesis, making sugar from carbon dioxide and water."
+msgstr ""
+"Estos tejidos especializados con frecuencia se agrupan en estructuras "
+"llamadas órganos. Un ejemplo común es la hoja de una planta verde. Una hoja "
+"está formada por muchos tejidos, todos ellos importantes para completar su "
+"trabajo: obtener energía solar y almacenarla en una forma que casi todos los "
+"seres vivos pueden utilizar. Algunos tejidos de la hoja la protegen. Otras "
+"permiten que aire fluya dentro y fuera de la hoja. Algunos transportan agua "
+"y alimento, mientras que otro proporciona espacio para almacenamiento. Un "
+"grupo muy importante de células realiza la fotosíntesis, creando azúcares a "
+"partir de dióxido de carbono y agua."
+
+msgid "Click to enlarge"
+msgstr "Da clic para ampliar"
+
+msgid ""
+"In many cases, organs are even grouped together into systems.  The human "
+"digestive system includes many different types of tissues. Some make "
+"digestive enzymes, some move food through the system, while others absorb "
+"and store food. These tissues make up such organs as the stomach, liver, "
+"pancreas, and intestines. Animal food processing requires that all of these "
+"tissues, in all of these organs, work smoothly as a unit."
+msgstr ""
+"En muchos casos, los órganos incluso se agrupan en sistemas. El sistema "
+"digestivo humano incluye muchos tipos diferentes de tejidos. Algunos "
+"fabrican las enzimas digestivas, algunos mueven los alimentos a través del "
+"sistema, mientras que otros absorben y almacenan alimento. Estos tejidos "
+"forman órganos como el estómago, el hígado, el páncreas y los intestinos. El "
+"procesamiento de alimentos en los animales requiere que todos estos tejidos, "
+"en todos estos órganos, trabajen sin problemas como una unidad."
+
+msgid ""
+"This complex system breaks down complicated fat, carbohydrate, and protein "
+"molecules into their smallest parts, which can then be reassembled in cells "
+"to build the fats, carbohydrates, and proteins required by humans. Other "
+"human systems also involve many organs made up of many tissues to do their "
+"jobs. These systems of tissues organized into organs, organized further into "
+"systems, work in all types of plants and animals."
+msgstr ""
+"Este complejo sistema descompone las grasas, carbohidratos y moléculas de "
+"proteína complejas en sus partes más pequeñas, que luego se pueden volver a "
+"ensamblar en las células para construir las grasas, carbohidratos y "
+"proteínas requeridas por los seres humanos. Otros sistemas humanos también "
+"involucran muchos órganos constituidos por muchos tejidos para realizar su "
+"trabajo. Estos sistemas de tejidos organizados en órganos, organizan en "
+"sistemas, funcionan en toda clase de plantas y animales."
+
+msgid "Tissues grouped together..."
+msgstr "Tejidos agrupados..."
+
+# 13
+msgid "Quick Check #5"
+msgstr "Revisión Rápida #5"
+
+msgid "Question A. Similar cells, performing the same function, are called:"
+msgstr ""
+"Pregunta A. Células similares, que realizan la misma función, se denominan:"
+
+msgid "Systems"
+msgstr "Sistemas"
+
+msgid "Tissues"
+msgstr "Tejidos"
+
+msgid "Organs"
+msgstr "Órganos"
+
+msgid "Gametes"
+msgstr "Gametos"
+
+msgid ""
+"Question B. Which of the following structures specializes in building more "
+"complex molecules from simpler building blocks?"
+msgstr ""
+"Pregunta B. ¿Cuál de las siguientes estructuras se especializa en la "
+"construcción de moléculas más complejas a partir de bloques de construcción "
+"más simples?"
+
+msgid "Chloroplasts"
+msgstr "Cloroplasto"
+
+msgid "Mitochondra"
+msgstr "Mitocondria"
+
+msgid "Golgi body"
+msgstr "Aparato de Golgi"
+
+msgid "Cell wall"
+msgstr "Pared celular"
+
+msgid "Nope. Systems are collections of organs."
+msgstr "Nop. Los sistemas son colecciones de órganos."
+
+msgid "That’s it! Specialized cells are grouped into tissues."
+msgstr "¡Eso es! Las células especializadas se agrupan en tejidos."
+
+msgid "No. Organs are collections of tissues."
+msgstr "No. Los órganos son colecciones de tejidos."
+
+msgid "Sorry, gametes are one type of specialized cell."
+msgstr "Lo siento, los gametos son un tipo de célula especializada."
+
+msgid "Winner! Chloroplasts use carbon dioxide and water to make sugar."
+msgstr ""
+"¡Acertaste! Los cloroplastos utilizan dióxido de carbono y agua para "
+"producir azúcar."
+
+msgid "No. Mitochondria actually break more complex molecules down."
+msgstr "No. Las mitocondrias en realidad descomponen moléculas más complejas."
+
+msgid "Sorry. The Golgi is involved in protein processing."
+msgstr ""
+"Lo siento. El aparato de Golgi está involucrado en el procesamiento de "
+"proteínas."
+
+msgid "Not this one. Cell walls specialize in protection."
+msgstr "Estas no. Las paredes celulares se especializan en la protección."
+
+# 14
+msgid "Using what you know about... basic cells... to solve a problem"
+msgstr ""
+"Utilizando lo que sabes acerca de... células básicas... para resolver un "
+"problema"
+
+msgid ""
+"Bacteria cause illness because they produce chemicals called toxins that "
+"cause body tissue to break down, much like digestive enzymes. As the number "
+"of bacteria infecting a person grows, so does the amount of toxin produced. "
+"As a consequence, the infected person gets sicker and sicker."
+msgstr ""
+"Las bacterias causan enfermedades porque producen sustancias químicas "
+"llamadas toxinas que hacen que los tejidos del cuerpo se descompongan, de "
+"forma similar a las enzimas digestivas. Conforme el número de bacterias que "
+"infectan a una persona crece, también lo hace la cantidad de toxinas "
+"producidas. Como consecuencia, la persona infectada enferma cada vez más."
+
+msgid ""
+"Imagine yourself as a medical researcher.  You have a number of drugs that "
+"may help to cure people of bacterial infections.  The following shows how "
+"each drug works."
+msgstr ""
+"Imagina que eres un investigador médico. Tienes una serie de medicamentos "
+"que pueden ayudar a curar a la gente de infecciones bacterianas.  A "
+"continuación se muestra cómo funciona cada medicamento."
+
+msgid "Drug A. Stimulates the production of chlorophyll in plant cells."
+msgstr ""
+"Medicamento A. Estimula la producción de clorofila en las células vegetales."
+
+msgid "Drug B. Interferes with cell wall production in prokaryotes."
+msgstr ""
+"Medicamento B. Interfiere con la producción de la pared celular en las "
+"procariotas."
+
+msgid "Drug C. Interferes with cell reproduction in eukaryotes."
+msgstr ""
+"Medicamento C. Interfiere con la reproducción celular en las eucariotas."
+
+msgid "Drug D. Interferes with protein production in eukaryotes."
+msgstr ""
+"Medicamento D. Interfiere con la producción de proteínas en las eucariotas."
+
+msgid ""
+"You may choose one of the drugs to investigate further. Which will you begin "
+"with and why?"
+msgstr ""
+"Puedes elegir uno de los medicamentos para investigarlo más. ¿Con cuál "
+"comenzarías y por qué?"
+
+msgid "Conducting research..."
+msgstr "Conduciendo investigaciones..."
+
+# 15
+msgid "Summarizing big ideas... about basic cells"
+msgstr "Resumiendo ideas importantes... sobre células básicas"
+
+msgid ""
+"<span class='key'>Prokaryotes</span>, like bacteria, are very small <span "
+"class='key'>cells</span> with little in the way of complex inner structures. "
+"<span class='key'>Eukaryotes</span> are usually larger and contain "
+"structures called organelles which perform specific functions. Plants, "
+"animals, protists and fungi are all made from eukaryotic cells."
+msgstr ""
+"Las procariotas, como las bacterias, son células muy pequeñas con poca "
+"complejidad en sus estructuras internas. Las eucariotas son generalmente más "
+"grandes y contienen estructuras llamadas orgánulos que realizan funciones "
+"específicas. Las plantas, animales, protistas y hongos están formados de "
+"células eucariotas."
+
+msgid ""
+"All cells have a layered membrane which regulates what can enter or leave "
+"the cell. Some molecules are small enough to pass through membranes by <span "
+"class='key'>diffusion</span>. The diffusion of water through a membrane is "
+"called <span class='key'>osmosis</span>. Other larger molecules must be "
+"moved through membranes using proteins embedded in the fatty layers. This "
+"process requires energy and is called active transport. Plant cells' "
+"membranes are surrounded by a rigid <span class='key'>cell wall</span> which "
+"also provides protection and support."
+msgstr ""
+"Todas las células tienen una membrana en capas que regula lo que puede "
+"entrar o salir de la célula. Algunas moléculas son lo suficientemente "
+"pequeñas para pasar a través de las membranas por difusión. La difusión de "
+"agua a través de una membrana se llama ósmosis. Otras moléculas más grandes "
+"deben ser movidas a través de las membranas utilizando proteínas incrustadas "
+"en las capas de grasa. Este proceso requiere energía y se llama transporte "
+"activo. Las membranas de las células vegetales están rodeadas por una pared "
+"celular rígida que también ofrece protección y apoyo."
+
+msgid ""
+"The <span class='key'>nucleus</span> is an organelle which protects a cell's "
+"DNA information. That information is used by ribosomes to make protein. "
+"<span class='key'>Chloroplasts</span> absorb solar energy and use it to make "
+"simple sugars. <span class='key'>Mitochondria</span> release energy from "
+"sugar and convert it into forms cells can use in their life processes."
+msgstr ""
+"El núcleo es un orgánulo que protege la información del ADN de una célula. "
+"Esa información es utilizada por los ribosomas para formar proteínas. Los "
+"cloroplastos absorben energía solar y la utilizan para producir azúcares "
+"simples. Las mitocondrias liberan energía a partir del azúcar y la "
+"convierten en formas que las células pueden utilizar en sus procesos vitales."
+
+msgid ""
+"In complex organisms, cells joined together to perform a single task are "
+"called <span class='key'>tissues</span>. Tissues working together are called "
+"<span class='key'>organs</span>, and groups of organs cooperating on the "
+"same job are called <span class='key'>systems</span>."
+msgstr ""
+"En organismos complejos, las células que se unen para realizar una única "
+"tarea se denominan tejidos. Los tejidos que trabajan juntos son llamados "
+"órganos y grupos de órganos que cooperan en la mismo función se denominan "
+"sistemas."
+
+# 16
+msgid "Reviewing key vocabulary related to... basic cells"
+msgstr "Revisando vocabulario clave relacionado con... células básicas"
+
+msgid "Cell"
+msgstr "Célula"
+
+msgid "Basic unit of life enclosed by a membrane."
+msgstr "Unidad básica de vida cubierta por una membrana."
+
+msgid "Cell Membrane"
+msgstr "Membrana Celular"
+
+msgid "Double layer of fats and proteins enclosing a cell."
+msgstr "Doble capa de grasas y proteínas que cubren una célula."
+
+msgid "Diffusion"
+msgstr "Difusión"
+
+msgid ""
+"Movement of any material from areas of high concentration to areas of low "
+"concentration."
+msgstr ""
+"Movimiento de cualquier material de las zonas de alta concentración a áreas "
+"de baja concentración."
+
+msgid "Cell Wall"
+msgstr "Pared Celular"
+
+msgid "Rigid cellulose structure located outside plant cell membranes."
+msgstr ""
+"Estructura rígida de celulosa ubicada fuera de las membranas de las células "
+"vegetales."
+
+msgid "Chloroplast"
+msgstr "Cloroplasto"
+
+msgid "Organelle containing chlorophyll; site of photosynthesis."
+msgstr "Orgánulo que contiene clorofila; donde ocurre la fotosíntesis."
+
+msgid "Eukaryote"
+msgstr "Eucariota"
+
+msgid "Complex cell with a nucleus."
+msgstr "Célula compleja con un núcleo."
+
+msgid "Organelle containing chromosomes."
+msgstr "Orgánulo que contiene cromosomas."
+
+msgid "Organ"
+msgstr "Órgano"
+
+msgid "Collection of tissues performing a specialized function."
+msgstr "Colección de tejidos que realizan una función especializada."
+
+msgid "Mitochondrion"
+msgstr "Mitocondria"
+
+msgid "Organelle in which cellular respiration occurs."
+msgstr "Orgánulo en el que se produce la respiración celular."
+
+msgid "Osmosis"
+msgstr "Ósmosis"
+
+msgid "Diffusion of water across a selectively permeable membrane."
+msgstr "La difusión de agua a través de una membrana selectivamente permeable."
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Collection of organs performing similar functions."
+msgstr "Colección de órganos que realizan funciones similares."
+
+msgid "Prokaryote"
+msgstr "Procariota"
+
+msgid "Smallest type of living cell."
+msgstr "Tipo más pequeño de célula viva."
+
+msgid "Tissue"
+msgstr "Tejido"
+
+msgid "Collection of cells performing similar functions."
+msgstr "Colección de células que realizan funciones similares."
+
+# 18
+msgid "What feature most distinguishes prokaryotes from eukaryotes?"
+msgstr ""
+"¿Qué característica es la que más distingue a las procariotas de las "
+"eucariotas?"
+
+msgid "Prokaryotes have nuclei, while eukaryotes do not."
+msgstr "Las procariotas tienen núcleos, mientras que las eucariotas no."
+
+msgid "Prokaryotes have cell membranes, while eukaryotes do not."
+msgstr ""
+"Las procariotas tienen membranas celulares, mientras que las eucariotas no."
+
+msgid "Eukaryotes have nuclei, while prokaryotes do not."
+msgstr "Las eucariotas tienen núcleos, mientras que las procariotas no."
+
+msgid "Eukaryotes have cell walls, while prokaryotes do not."
+msgstr ""
+"Las eucariotas tienen paredes celulares, mientras que las procariotas no."
+
+msgid "Your first quiz question is…"
+msgstr "Tu primera pregunta de evaluación es..."
+
+msgid "Sorry. Eukaryotes have nuclei."
+msgstr "Lo siento. Las eucariotas tienen núcleos."
+
+msgid "No. All cells have membranes."
+msgstr "No. Todas las células tienen membranas."
+
+msgid "Yes! Eukaryotes have nuclei."
+msgstr "¡Sí! Las eucariotas tienen núcleos."
+
+msgid "Not this one. Prokaryotes do have cell walls."
+msgstr "Esta no. Las procariotas no tienen paredes celulares."
+
+# 19
+msgid ""
+"Large molecules are sometimes passed across membranes through the use of:"
+msgstr ""
+"Moléculas grandes a veces se transmiten a través de las membranas mediante "
+"el uso de:"
+
+msgid "Carrier Proteins"
+msgstr "Proteínas Transportadoras"
+
+msgid "Mitochondria"
+msgstr "Mitocondrias"
+
+msgid "Lysosomes"
+msgstr "Lisosomas"
+
+msgid "Enumerating substances..."
+msgstr "Enumerando las sustancias..."
+
+msgid "No. Chloroplasts are organelles."
+msgstr "No. Los cloroplastos son orgánulos."
+
+msgid ""
+"That's it... Carrier proteins help move large molecules into and out of "
+"cells."
+msgstr ""
+"Así es... Las proteínas transportadoras ayudan a mover moléculas grandes "
+"hacia dentro y fuera de las células."
+
+msgid "Sorry. Mitochondria are organelles inside cells."
+msgstr "Lo siento. Las mitocondrias son orgánulos dentro de las células."
+
+msgid "Not this one. Lysosomes are organelles."
+msgstr "Esta no. Los lisosomas son orgánulos."
+
+# 20
+msgid "Cell membranes are composed of which of the following substances?"
+msgstr ""
+"¿De cuáles de las siguientes sustancias están compuestas las membranas "
+"celulares?"
+
+msgid "Fats and proteins"
+msgstr "Grasas y proteínas"
+
+msgid "Proteins and carbohydrates"
+msgstr "Proteínas y carbohidratos"
+
+msgid "Carbohydrates and simple sugars"
+msgstr "Carbohidratos y azúcares simples"
+
+msgid "Simple sugars and proteins"
+msgstr "Azúcares simples y proteínas"
+
+msgid "Passing across membranes..."
+msgstr "Pasando a través de membranas..."
+
+msgid "Correct! Cell membranes are made from fats and proteins."
+msgstr ""
+"¡Correcto! Las membranas celulares están formadas de grasas y proteínas."
+
+msgid "Sorry. Fats are the most common type of molecule in membranes."
+msgstr ""
+"Lo siento. Las grasas son el tipo más común de molécula en las membranas."
+
+msgid "No. Fats and proteins make up membranes."
+msgstr "No. Grasas y proteínas forman a las membranas."
+
+msgid "Not these. Fats and proteins make up membranes."
+msgstr "Estas no. Las grasas y proteínas forman a las membranas."
+
+# 21
+msgid "Which of the following statements is true about osmosis?"
+msgstr "¿Cuál de las siguientes declaraciones es cierta acerca de la ósmosis?"
+
+msgid "Water flows from low concentration to high concentration."
+msgstr "El agua fluye de baja concentración a alta concentración."
+
+msgid "Sugars flow across a membrane."
+msgstr "El azúcar fluye a través de una membrana."
+
+msgid "Water diffuses across a membrane."
+msgstr "El agua se difunde a través de una membrana."
+
+msgid "Proteins use energy to move water."
+msgstr "Proteínas utilizan energía para mover agua."
+
+msgid "Knowing about osmosis..."
+msgstr "Aprendiendo acerca de la ósmosis..."
+
+msgid "No. Osmosis involves membranes."
+msgstr "No. La ósmosis involucra membranas."
+
+msgid "Sorry. Osmosis is water only."
+msgstr "Lo siento. La ósmosis es sólo agua"
+
+msgid "Thats it! Osmosis involves water and membranes."
+msgstr "¡Eso es! La ósmosis involucra al agua y las membranas."
+
+msgid "Nope. No energy is used."
+msgstr "Nop. No se utiliza energía."
+
+# 22
+msgid "How is active transport different from diffusion?"
+msgstr "¿En qué se diferencia el transporte activo de la difusión?"
+
+msgid "Active transport uses energy. Diffusion does not."
+msgstr "El transporte activo utiliza energía. La difusión no."
+
+msgid "Active transport moves water from high to low concentration."
+msgstr "El transporte activo mueve agua de concentración alta a baja."
+
+msgid "Diffusion uses carrier proteins to move sugar."
+msgstr "La difusión utiliza proteínas transportadoras para mover azúcar."
+
+msgid "Active transport does not involve cell membranes."
+msgstr "El transporte activo no involucra a las membranas celulares."
+
+msgid "Selecting correct answer..."
+msgstr "Seleccionando la respuesta correcta..."
+
+msgid "Correct. Active transport uses energy."
+msgstr "Correcto. El transporte activo utiliza energía."
+
+msgid "No. Diffusion moves water from high to low concentration."
+msgstr "No. La difusión mueve agua de concentración alta a baja."
+
+msgid "Sorry. Diffusion does not use carrier proteins."
+msgstr "Lo siento. La difusión no utiliza proteínas transportadoras."
+
+msgid "Incorrect. Active transport involves membranes."
+msgstr "Incorrecto. El transporte activo involucra a las membranas."
+
+# 23
+msgid "What is the major function of ribosomes?"
+msgstr "¿Cuál es la principal función de los ribosomas?"
+
+msgid "Store information."
+msgstr "Almacenar información."
+
+msgid "Release energy."
+msgstr "Liberar energía."
+
+msgid "Capture energy from the sun."
+msgstr "Capturar energía del sol."
+
+msgid "Make proteins."
+msgstr "Crear proteínas."
+
+msgid "No. Information is stored in the nucleus."
+msgstr "No. La información se almacena en el núcleo."
+
+msgid "Nope. Chloroplasts capture solar energy."
+msgstr "Nop. Los cloroplastos capturan energía solar."
+
+msgid "Yes! Ribosomes are responsible for making protein."
+msgstr "¡Sí! Los ribosomas son responsables de crear proteínas."
+
+# 24
+msgid "You've completed the Basic Cells module."
+msgstr "Has completado el módulo de Células Básicas."
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for "
+"this module by clicking the button below."
+msgstr ""
+"Puedes revisar cómo lo hiciste en la 'Revisión Rápida' y 'Preguntas de "
+"Evaluación' de este módulo dando clic en el botón de abajo."
+
+msgid "Sunlight"
+msgstr "Luz del sol"
+
+msgid "Cuticle"
+msgstr "Cutícula"
+
+msgid "Xylem"
+msgstr "Xilema"
+
+msgid "Phloem"
+msgstr "Líber"
+
+msgid "Stoma"
+msgstr "Estoma"
+
+msgid "Veins"
+msgstr "Venas"
+
+msgid "Carbon Dioxide"
+msgstr "Dióxido de carbono"
+
+msgid "Oxygen"
+msgstr "Oxígeno"
+
+msgid "Spongy mesophyll"
+msgstr "Mesófilo Esponjoso"
+
+msgid "Palisade mesophyll"
+msgstr "Palisade mesófilo"
+
+msgid "Epidermis"
+msgstr "Epidermis"
+
+msgid "Oral Cavity"
+msgstr "Cavidad Oral"
+
+msgid "Mouth"
+msgstr "Boca"
+
+msgid "Submaxillary and"
+msgstr "Submaxilar y"
+
+msgid "Sublingual Glands"
+msgstr "Las glándulas sublinguales"
+
+msgid "Liver"
+msgstr "Hígado"
+
+msgid "Gall Bladder"
+msgstr "Vesícula Biliar"
+
+msgid "Duodenum"
+msgstr "Duodeno"
+
+msgid "Transverse Colon"
+msgstr "Colon Transverso"
+
+msgid "Ascending Colon"
+msgstr "Colon Ascendente"
+
+msgid "Lleum(Small Intestine)"
+msgstr "Lleum(Intestino Delgado)"
+
+msgid "Caecum"
+msgstr "Ciego"
+
+msgid "Vermiform Appendix"
+msgstr "Apéndice vermiforme"
+
+msgid "Parotid Gland"
+msgstr "La Glándula Parótida"
+
+msgid "Pharnyx"
+msgstr "Faringe"
+
+msgid "Oesophagus"
+msgstr "Esófago"
+
+msgid "Stomach"
+msgstr "Estómago"
+
+msgid "Pancreas"
+msgstr "Páncreas"
+
+msgid "Jejunum"
+msgstr "Yeyuno"
+
+msgid "Descending Colon"
+msgstr "Colon Descendente"
+
+msgid "Rectum"
+msgstr "Recto"
+
+msgid "Anus"
+msgstr "Ano"

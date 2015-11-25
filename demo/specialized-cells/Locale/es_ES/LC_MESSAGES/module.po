@@ -1,0 +1,437 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: es\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Common Translations
+msgid "Start"
+msgstr "Empezar"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Back"
+msgstr "Volver"
+
+msgid "Read More"
+msgstr "Leer Más"
+
+msgid "Check Answer"
+msgstr "Verificar Respuesta"
+
+msgid "Please select your answer."
+msgstr "Por favor, seleccione su respuesta."
+
+msgid "Please select your answers."
+msgstr "Por favor, seleccione sus respuestas."
+
+msgid "Please type your answer."
+msgstr "Por favor escriba a máquina su respuesta."
+
+msgid "Quick Check #1"
+msgstr "Comprobación rápida #1"
+
+msgid "Quick Check #2"
+msgstr "Comprobación rápida #2"
+
+msgid "Quick Check #3"
+msgstr "Comprobación rápida #3"
+
+msgid "Quick Check #4"
+msgstr "Comprobación rápida #4"
+
+msgid "Please check your answers."
+msgstr "Por favor revisar sus respuestas."
+
+msgid "How did I do?"
+msgstr "¿Cómo hice?"
+
+msgid "You answered..."
+msgstr "Ha respondido..."
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "Play"
+msgstr "Juego"
+
+msgid "Pause"
+msgstr "Rotura"
+
+msgid "Stop"
+msgstr "Deténgase"
+
+msgid "Mute"
+msgstr "Mudo"
+
+msgid "Unmute"
+msgstr "Activar sonido"
+
+msgid "Max volume"
+msgstr "Volumen máximo"
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Restore screen"
+msgstr "Pantalla Restauración"
+
+msgid "Repeat"
+msgstr "Repetición"
+
+msgid "Repeat off"
+msgstr "Repetición apagado"
+
+msgid "Update Required"
+msgstr "Requiere actualización"
+
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr ""
+"Para jugar los medios de comunicación que tendrá que elegir entre actualizar "
+"su navegador a una versión más reciente o actualizar su"
+
+msgid "Flash plugin"
+msgstr "Lector Flash"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr ""
+"Navegar a través de las diapositivas a continuación, haga clic en las "
+"flechas izquierda y derecha."
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr ""
+"Haga clic, mantenga y deslice el ratón hacia arriba y hacia abajo para girar "
+"la caja y seleccione su respuesta."
+
+msgid "The Situation"
+msgstr "La Situación"
+
+msgid "The Scenario"
+msgstr "El Escenario"
+
+msgid "Your Task"
+msgstr "Su Tarea"
+
+msgid "The Task"
+msgstr "La Tarea"
+
+msgid "The Problem"
+msgstr "El Problema"
+
+msgid "Your Assignment"
+msgstr "Tu Tarea"
+
+msgid "Close me!"
+msgstr "¡Ciérreme!"
+
+msgid "Click here to start typing your answer..."
+msgstr "Haga clic aquí para empezar a escribir su respuesta..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"Respondiendo a las siguientes seis (6) preguntas le dará una idea de lo que "
+"ya sabe y lo que te queda por estudiar."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "Haga clic en el botón PRÓXIMO cuando esté listo."
+
+msgid "Quiz Question #1"
+msgstr "Pregunta del Cuestionario #1"
+
+msgid "Quiz Question #2"
+msgstr "Pregunta del Cuestionario #2"
+
+msgid "Quiz Question #3"
+msgstr "Pregunta del Cuestionario #3"
+
+msgid "Quiz Question #4"
+msgstr "Pregunta del Cuestionario #4"
+
+msgid "Quiz Question #5"
+msgstr "Pregunta del Cuestionario #5"
+
+msgid "Quiz Question #6"
+msgstr "Pregunta del Cuestionario #6"
+
+msgid "Congratulations, "
+msgstr "Felicitaciones,"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"Puede comprobar cómo lo has hecho en la 'Comprobación rápida' y 'Preguntas "
+"del cuestionario' para este examen haciendo clic en el botón de abajo."
+
+msgid "Go to dashboard"
+msgstr "Vaya al panel de control"
+
+msgid "Let's begin!"
+msgstr "¡Vamos a empezar!"
+
+msgid "Are you ready,"
+msgstr "¿Estás listo?"
+
+msgid "Preparing your first quick check!"
+msgstr "Preparando su primero comprobación rápida!"
+
+msgid "Ready for your last quick check?"
+msgstr "Listo para su última revisión rápida?"
+
+msgid "Ready for your last quiz question?"
+msgstr "Listo para su última pregunta de examen?"
+
+msgid "Putting it all together..."
+msgstr "Juntándolo todo"
+
+msgid "Words and explanations"
+msgstr "Palabras y explicaciones"
+
+msgid "Let's check what you now know"
+msgstr "Vamos a comprobar lo que sabes ahora"
+
+msgid "And the first quiz question is..."
+msgstr "La primera pregunta es..."
+
+msgid "You're done!"
+msgstr "¡Se termina!"
+
+# 1
+msgid "Welcome to the Newton's Third Law module,"
+msgstr ""
+
+msgid "Newton's Third Law"
+msgstr ""
+
+# 2
+msgid "Thinking about...Newton's Third Law"
+msgstr ""
+
+msgid "Objects all around you are interacting with one another. These interactions can cause objects to stay still, or they can affect the object in ways that can be identified by looking for patterns in the object's motion. Often, objects are experiencing interactions with several other things at the same time. These interactions can be described based on different types of forces. Forces can be really small, like the weight of a butterfly resting on your shoulder, or they can be huge like the thrust from a rocket carrying astronauts into space."
+msgstr ""
+
+# 3
+msgid "Checking what you already know about... Newton's Third Law"
+msgstr ""
+
+msgid "Which of these forces are occurring in the photo of the child on the swing?"
+msgstr ""
+
+msgid "The woman pulling back on the swing"
+msgstr ""
+
+msgid "The swing pulling forward on the woman."
+msgstr ""
+
+msgid "The child pulling down on the swing."
+msgstr ""
+
+msgid "The swing pulling up on the child."
+msgstr ""
+
+msgid "Playing at the park..."
+msgstr ""
+
+msgid "If you checked all the boxes, you're heading in the right direction. If objects are interacting, they are exerting forces on each other."
+msgstr ""
+
+# 4
+msgid "Reviewing big ideas about... Newton's Third Law"
+msgstr ""
+
+msgid "Forces are most easily thought of as a push or a pull, but objects don’t need to be in motion in order to be experiencing forces. Even when objects are sitting perfectly still, they are likely to be experiencing forces from any other objects that they are in contact with. Contact between objects is one of the clearest indicators that forces are present. Look at the interaction between the boys and the trampoline in the image below. Not only are the boys experiencing a force from the trampoline, keeping them from falling to the ground, but the trampoline is experiencing a force from the boys, causing it to stretch underneath them."
+msgstr ""
+
+msgid "Although we don't notice it quite so easily, a similar interaction is occurring between this flower pot and table. The table is preventing the flower pot from crashing into the ground below, and the flower pot is causing the boards in the table to bend ever so slightly underneath it."
+msgstr ""
+
+msgid "This idea that any time objects are interacting with each other, they exert paired forces on one another is known as Newton's Third Law of motion. The discovery of this law is credited to Sir Isaac Newton, a well-known physicist from 17th century England."
+msgstr ""
+
+msgid "Jumping on trampoline..."
+msgstr ""
+
+# 5
+msgid "Identify ALL of the interactions occurring in this photo of a rock climber."
+msgstr ""
+
+msgid "I. The woman and the cable"
+msgstr ""
+
+msgid "II. The woman and the rocks"
+msgstr ""
+
+msgid "III. The woman and the metal stake"
+msgstr ""
+
+msgid "I only"
+msgstr ""
+
+msgid "II only"
+msgstr ""
+
+msgid "III only"
+msgstr ""
+
+msgid "I, II and III"
+msgstr ""
+
+msgid "Close. The woman is grasping the cable with her hand, so there's definitely an interaction occurring there, but she’s also in contact with a few other objects in the photo."
+msgstr ""
+
+msgid "Not quite. She's in contact with several other objects in addition to the rocks."
+msgstr ""
+
+msgid "Nope. She's definitely pulling on the stake, but there are a few other objects that she’s interacting with in the photo."
+msgstr ""
+
+msgid "You've got it! She's grasping the cable in one hand, pulling on the metal stake with another, and using her feet to push off the rock surface."
+msgstr ""
+
+msgid "Preparing your first quick check..."
+msgstr ""
+
+# 6
+msgid "More big ideas about... Newton's Third Law"
+msgstr ""
+
+msgid "Striking a ball..."
+msgstr ""
+
+# 7
+msgid "If the skater in the red jacket pushes on the skater in the blue jacket, which of the following will happen?"
+msgstr ""
+
+msgid "The skater in the blue jacket will go backwards."
+msgstr ""
+
+msgid "The skater in the red jacket will go backwards."
+msgstr ""
+
+msgid "Nothing, the skaters won't move."
+msgstr ""
+
+msgid "Both skaters will move away from each other."
+msgstr ""
+
+msgid "Not quite. The skater in the blue jacket will go backwards due to the force from the skater in the red jacket. However, due to paired forces, the skater in the red jacket will also end up going backwards."
+msgstr ""
+
+msgid "Not quite. The skater in the red jacket will go backwards, but the force pair will also result in the skater in the blue jacket going backwards."
+msgstr ""
+
+msgid "No. The slippery ice will make it very easy for forces to change the motion of the two skaters."
+msgstr ""
+
+msgid "You've got it! Both skaters will experience forces due to this interaction, and the result will be that they both move backwards."
+msgstr ""
+
+# 8
+msgid "Pushing slowly..."
+msgstr ""
+
+msgid "Not only do forces always come in pairs, but the sizes of the two forces will always be equal. This can be tough to see because force is not the only thing that affects how much an object’s motion will change. The mass of the object determines how much the motion will change for a particular amount of force. Mass is measured in kilograms (kg) and is simply a measure of how much matter makes up an object. It’s easy to push the empty shopping cart when you first get to the grocery store, but as the cart fills up with groceries, it becomes more massive. When the cart is full, it becomes harder to change the cart’s motion. It’s harder to get the cart to start moving, harder to stop it once it's in motion, and harder to get it to go around corners. Acceleration is a term used to describe how quickly an object’s motion changes. For a certain amount of force, an object with more mass will have less acceleration, and an object with less mass will have a greater acceleration."
+msgstr ""
+
+msgid "When two objects interact, they put equal forces on each other, but their accelerations will also depend upon their masses. If one of the objects is two times more massive than the other, the more massive object will experience half as much acceleration as the lighter object. This can make it difficult to understand that the forces they put on each other are always equal in size. Did you know that when you jump off the ground, you push down on the earth with the same amount of force that it pushes up on you? This might be hard to believe because we don’t see the earth move. The reason for that is not a difference in forces but a huge difference between your mass and the mass of the earth. If the two objects involved in an interaction have the same amount of mass, it’s easy to see that the forces they exert on each other are equal size because the accelerations will be the same size, too!"
+msgstr ""
+
+msgid "Calculating mass..."
+msgstr ""
+
+# 9
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it. Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience. Arrange the images left to right from the greatest to the least movement."
+msgstr ""
+
+msgid "A) One boater jumps off the front, while the other boater remains seated."
+msgstr ""
+
+msgid "B) Both boaters jump off the front of the boat."
+msgstr ""
+
+msgid "C) One boater jumps off of an empty boat."
+msgstr ""
+
+msgid "D) One boater jumps off the front, while the other boater jumps off the back at the same time."
+msgstr ""
+
+msgid "A person jumping into the water from a boat notices that the boat moves in the opposite direction when she jumps from the front of it.  Rank the following situations based on the size of the acceleration, or change in motion, that the boat would experience.  Arrange the images left to right from the greatest to the least movement."
+msgstr ""
+
+msgid "You’ve got it!  With both boaters jumping in the same direction, the greatest amount of force will be combining to act on the boat.  When the boaters jump in opposite directions, their forces cancel, resulting in no change in motion for the boat."
+msgstr ""
+
+msgid "Not quite.  When the two boaters jump in the same direction, their forces will combine to result in a large change in motion for the empty boat.  With only one person jumping off the boat, the change in motion would be less, and in the situation where the boaters jump in opposite directions, their forces would cancel and the boat wouldn’t move."
+msgstr ""
+
+msgid "Looking at the water..."
+msgstr ""
+
+# 10
+msgid "Forces are paired for moving objects, too! In order for you to be able to walk down the hallway at school, your feet push backwards on the floor while the floor pushes forward on you. When a bicyclist skids to a stop, the road puts a force on the bike, but the bike also puts a force on the road. In an elevator, the floor pushes upwards on you while you push downwards on it."
+msgstr ""
+
+msgid "It can be difficult to get a car moving on a snowy road. The slippery snow can make it difficult for the car to push against the road with enough force to start moving without spinning the tires. It's also difficult to get a moving car to stop suddenly in those conditions!"
+msgstr ""
+
+msgid "For a helicopter to move, the blades on the helicopter push down on the air, and the air pushes up on the helicopter. By changing the amount of force, the helicopter can move up, down, or just hover in place. In this picture, you can see how the air pushed down by the blades on the helicopter ends up making waves in the water."
+msgstr ""
+
+msgid "Did you know that people used to be skeptical about the ability to launch rockets into space beyond the earth's atmosphere? They were concerned that the lack of air would make it impossible for the rockets to exert forces in order to control their orbital paths. It turns out that rockets take advantage of Newton's Third Law force pairs by pushing the burning rocket fuel backwards. The other part of that force pair is the force of the burning rocket fuel pushing forward on the rocket, allowing the rocket to change its motion."
+msgstr ""
+
+msgid "Pushing Forward..."
+msgstr ""
+
+# 11
+msgid "Sailboats depend on wind to push against the sails and move the boat forward. On a day without any wind, a sailor decides to try to get the boat moving by attaching a large fan to the boat in order to push air into the sails. Considering the force pairs involved in this situation, what is the most likely outcome for the boat?"
+msgstr ""
+
+msgid "The air will push against the sails, moving the boat forward."
+msgstr ""
+
+msgid "The air will push back against the fan, moving the boat backwards."
+msgstr ""
+
+msgid "The boat won’t move due to the forward force on the sails and the backwards force against the fan."
+msgstr ""
+
+msgid "The force against the sails will be greater than the force on the fan, so the boat will still move forward."
+msgstr ""
+
+msgid "Not quite. The air will push forward against the sails, but it will also push backwards against the fan. Those interactions will cancel out and the boat won't move."
+msgstr ""
+
+msgid "Almost. The air will push the fan backwards, but it will also push forward against the sails. Those interactions will cancel each other out, and the boat won't move."
+msgstr ""
+
+msgid "You've got it. In any interaction, forces are paired. So when the fan pushes the air forward, the air pushes the fan backwards. That backwards push against the fan cancels out the forward push against the sails."
+msgstr ""
+
+msgid "Nope. If anything, the force pushing back against the fan will be slightly greater. Most likely, the forward force of the air against the sails cancels out the backwards force of the air against the fan, and the boat won't move."
+msgstr ""
+
+# 12
+msgid "Using what you now know about... Newton's Third Law... to solve a problem"
+msgstr ""
+
+msgid "Your neighbor needs some help setting up a clothesline for drying clothes. Use your understanding of paired forces to help plan and design a system for setting up the clothesline for your neighbor."
+msgstr ""
+
+msgid "What are some of the important considerations that must go into the design? How will you make certain that the clothesline will be able to support the clothes? Please answer in the space provided."
+msgstr ""

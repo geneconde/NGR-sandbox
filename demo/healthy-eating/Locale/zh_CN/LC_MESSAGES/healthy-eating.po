@@ -1,0 +1,1195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: healthy eating\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 1
+msgid "Healthy Eating"
+msgstr "健康飲食"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Welcome to the Healthy Eating module"
+msgstr "歡迎來到健康飲食檢核"
+
+# 2
+msgid "Thinking about... healthy eating"
+msgstr "想想有關…健康飲食"
+
+msgid ""
+"What is food to you? Something you eat during a movie or something to keep "
+"you busy when you hang out with friends? Or is food like fuel to give you "
+"energy and keep you going? How you think about food will affect what and how "
+"much you eat. Think about healthy eating and the decisions you make every "
+"day that change your body and your health."
+msgstr ""
+"食物對你來說是什麼呢？看電影時吃的零食或是與朋友聚會打發時間的點心？或是讓你"
+"維持身體運作的能量來源？你怎麼衡量你所需要食物的多寡以及他是怎麼影響你的身"
+"體？"
+
+msgid ""
+"You are what you eat. Why not eat the best? Is the best food the same for "
+"everyone? Is food that is cheap or ready to eat always the best food for our "
+"bodies?"
+msgstr ""
+"＂吃什麼，像什麼＂所以為何不吃最好呢？但所謂最好的食物是適合所有人嗎？而那些"
+"便宜或即時食品對我們的身體是最好的嗎？"
+
+# 3
+msgid "Checking what you already know about... healthy eating"
+msgstr "確認你已經知道健康飲食是什麼"
+
+msgid ""
+"Drag the food you see on the left into the correct food group on the right "
+"it belongs in."
+msgstr "將左側你看到的食物用滑鼠拖曳至右側正確的食物類別內。"
+
+msgid "Items"
+msgstr "品項"
+
+msgid "Grain"
+msgstr "穀類"
+
+msgid "Vegetable"
+msgstr "蔬菜"
+
+msgid "Fruit"
+msgstr "水果"
+
+msgid "Milk"
+msgstr "牛奶"
+
+msgid "Meat"
+msgstr "肉"
+
+msgid "select"
+msgstr "选择"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Back"
+msgstr "回復"
+
+msgid "Check Answer"
+msgstr "檢查答案"
+
+msgid "Read More"
+msgstr "繼續閱讀"
+
+msgid ""
+"You dragged food into each of the five food groups. Continue to read on "
+"about each of these food groups and other elements of a healthy lifestyle "
+"such as getting enough vitamins and exercise."
+msgstr ""
+"你已將食物拖曳至五個食物類別。接著繼續閱讀有關這些食物類別的資訊和健康生活方"
+"式的要素，例如攝取足夠的維生素及運動。"
+
+msgid "Sorting foods..."
+msgstr "食品分類…"
+
+# 4
+msgid "Five Food Group"
+msgstr "五大類食物"
+
+msgid "Grain Group"
+msgstr "五穀類"
+
+msgid "Vegetables Group"
+msgstr "蔬菜類"
+
+msgid "Fruit Group"
+msgstr "水果類"
+
+msgid "Oil Group"
+msgstr "油脂類"
+
+msgid "Milk Group"
+msgstr "奶類"
+
+msgid "Meat and Beans"
+msgstr "蛋豆魚肉類"
+
+msgid "More core ideas about... healthy eating"
+msgstr "更多有關健康飲食的核心概念"
+
+msgid ""
+"The things you eat every day make up your <span class='key'>diet</span>. A "
+"healthy diet contains different kinds of foods. Scientists who study <span "
+"class='key'>healthy eating</span> habits came up with the <span "
+"class='key'>Food Guidance System</span> that tells you what food and how "
+"much of it you should eat to stay healthy. You can see this in MyPyramid, a "
+"<span class='key'>food pyramid</span> of the five food groups. This diagram "
+"shows you how to find a balance between your food intake and physical "
+"activity."
+msgstr ""
+"你每天所吃的食物養成你的飲食習慣。健康的飲食中含有不同種類的食物。科學家研究"
+"有關健康飲食習慣而提出了「食品指導系統」，告訴你應該選擇的食物與攝取量的多寡"
+"來保持身體健康。你可以參閱「我的金字塔」，是有關五大類食物的食物金字塔。圖中"
+"顯示了你如何在食物攝取與身體活動兩者間取得平衡。"
+
+msgid "Click to enlarge"
+msgstr "點選放大圖示"
+
+msgid ""
+"Let's take a closer look at the pyramid. Each of the five food groups "
+"(Grain, Vegetable, Fruit, Milk, and Meat & Beans) is identified by a unique "
+"color. The person running up the stairs reminds you to be physically active "
+"every day. All the colors show you to eat foods from every food group every "
+"day. Some of the stripes are larger because you should eat more foods from "
+"the food groups with the wider stripes. The colored stripes are wider at the "
+"bottom of the pyramid, showing you that every food group has foods we should "
+"eat more than others. You should also choose healthier foods from each food "
+"group."
+msgstr ""
+"讓我們仔細看看這個食物金字塔。每一個顏色都代表著不同種類的食物(五穀類、蔬菜"
+"類、水果類、奶類以及蛋豆魚肉類)。當人跑上階梯提醒著你每天都必須按照自然規律活"
+"動。這些顏色告訴你每天應攝取多少不同類別的食物。有些＂柱狀圖＂會比較大因為你"
+"必須攝取更多這種類別的食物。金字塔底端的色塊較寬，代表著你每天必須從這種食物"
+"種類攝取更多的量。你也必須從各個食物群組中選擇較健康的食物。"
+
+msgid ""
+"Grains are divided into 2 subgroups: <span class='key'>whole grains</span> "
+"and refined grains. Whole grains contain the entire grain kernel - the bran, "
+"germ, and endosperm. Examples include whole-wheat flour, oatmeal, whole "
+"cornmeal, and brown rice. <span class='key'>Refined grains</span> have been "
+"milled, a process that removes the bran and germ. This is done to give "
+"grains a finer texture and improve their shelf life, but it also removes "
+"dietary fiber, iron, and many B vitamins. Some examples of refined grain "
+"products are white flour, white bread, and white rice."
+msgstr ""
+"五穀類分為兩類：全穀類與精製穀類。「全榖」是指含有糠層、胚芽、胚乳的完整榖"
+"粒，例如：全麥麵粉、麥片、玉米粉與糙米。精製穀類是指已經被磨碎去除糠麩與胚"
+"芽，而這麼做是為了使穀物質地更細緻以及延長他們的保存期限，但也因此去除了膳食"
+"纖維、鐵與維生素B群。屬於精緻穀物的有白麵粉、白麵包與白米飯。"
+
+msgid ""
+"Food in the meat and bean group offers the body protein. All foods made from "
+"meat, poultry, fish, dry beans or peas, eggs, nuts, and seeds are considered "
+"part of this group. Dry beans and peas are part of this group as well as the "
+"vegetable group. Most meat and poultry choices should be lean or low fat. "
+"Fish, nuts, and seeds contain healthy oils, so choose these foods frequently "
+"instead of meat or poultry."
+msgstr ""
+"蛋豆魚肉類的食物主要提供人體蛋白質，所有由肉、家禽、魚、豆干、碗豆、雞蛋、堅"
+"果與乾豆類所製成的食物皆屬此類。豆干與碗豆屬於蛋豆魚肉類也屬於蔬菜類。最好選"
+"擇精瘦且低脂的肉類或是家禽，魚、堅果與乾豆類含有較健康的油脂，所以應經常選擇"
+"這些食物取代肉類或是家禽。"
+
+msgid "Grain Group: Make half your grains whole"
+msgstr "五穀類：五穀類的攝取量減半"
+
+msgid ""
+"Eat at least 3 oz. of whole-grain cereals, bread, crackers, rice, or pasta "
+"every day."
+msgstr "每天至少攝取3盎司的全麥穀物、麵包、餅乾、飯或麵食。"
+
+msgid "Vegetable Group: Vary your veggies"
+msgstr "蔬菜類：變換你的蔬菜選擇"
+
+msgid ""
+"Eat more dark green veggies like broccoli, spinach and other dark leafy "
+"greens."
+msgstr "多攝取深綠色蔬菜，如花椰菜、菠菜等深色綠葉菜。"
+
+msgid "Eat more orange vegetables like carrots and sweet potatoes."
+msgstr "多攝取深黃色蔬菜，如胡蘿蔔與地瓜。"
+
+msgid "Eat more dry beans and peas like pinto beans, kidney beans and lentils."
+msgstr "多攝取豆干及乾豆類，像是斑豆、芸豆及扁豆"
+
+msgid "Fruit Group: Focus on fruits"
+msgstr "水果類：注重水果攝取"
+
+msgid "Eat a variety of fruits."
+msgstr "攝取不同種類的水果。"
+
+msgid "Choose fresh, frozen, canned or dried fruit."
+msgstr "選擇新鮮、冷凍、罐裝或是乾果。"
+
+msgid "Go easy on fruit juices."
+msgstr "果汁攝取要適度。"
+
+msgid "Milk Group: Get your calcium-rich food"
+msgstr "奶類：豐富你的鈣質"
+
+msgid ""
+"Go low fat or fat-free when you choose milk, yogurt, and other milk products."
+msgstr "選擇低脂或無脂牛奶、乳酸飲料與其他乳製品。"
+
+msgid ""
+"If you don't or can't consume milk, choose lactose-free products or other "
+"calcium sources such as fortified foods and beverages."
+msgstr ""
+"如果你沒有或是不能食用牛奶，選擇無乳糖製品或是其他鈣的來源，像是營養強化食品"
+"和飲料。"
+
+msgid "Meat & Beans Group: Go lean with protein"
+msgstr "蛋豆魚肉類：選擇瘦肉型的蛋白質來源"
+
+msgid "Choose low fat or lean meat and poultry."
+msgstr "選擇低脂或選擇瘦肉和家禽。"
+
+msgid "Bake it, broil it or grill it."
+msgstr "可用烘烤、火烤或文火的方法烹飪肉類。"
+
+msgid ""
+"Vary your protein routine - choose more fish, beans, peas, nuts and seeds."
+msgstr "改變日常的蛋白質攝取-選擇較多的魚豆類堅果和乾豆類。"
+
+msgid ""
+"Oils come from many different plants and from fish. Some common oils are "
+"canola oil, corn oil, cottonseed oil, olive oil, and sunflower oil. A number "
+"of foods are naturally high in oils, like nuts, olives, some fish, and "
+"avocados."
+msgstr ""
+"油脂類來自於許多不同植物和魚。一些常見的油為菜籽油、玉米油、棉籽油、橄欖油與"
+"葵花籽油。許多食物本身油脂含量高，例如堅果、橄欖、某些魚和酪梨。"
+
+msgid "Looking at the Pyramid..."
+msgstr "看著食物金字塔"
+
+# 5a
+msgid "Question A. Which food is a whole grain product?"
+msgstr "問題A：哪些食物屬於全榖類製品？"
+
+msgid "Mushroom"
+msgstr "香菇"
+
+msgid "Oatmeal"
+msgstr "麥片"
+
+msgid "White Bread"
+msgstr "白麵包"
+
+msgid "White Rice"
+msgstr "白米飯"
+
+msgid "Question B. Which food group is our body's best source of energy?"
+msgstr "問題B.哪一類的食物是我們身體最好的能量來源？"
+
+msgid "Meat and Beans group"
+msgstr "蛋豆魚肉類"
+
+msgid "Milk group"
+msgstr "奶類"
+
+msgid "Grain group"
+msgstr "五穀類"
+
+msgid "Vegetable group"
+msgstr "蔬菜類"
+
+# 5b
+msgid ""
+"No, mushrooms are not part of the grain food group. Oatmeal is a whole grain "
+"product."
+msgstr "不，香菇不屬於五穀類。麥片是一種全榖類製品。"
+
+msgid "Correct, oatmeal is a whole grain product."
+msgstr "正確，麥片是一種全穀類製品。"
+
+msgid ""
+"Not quite, white bread is part of the grain food group, but it is not whole "
+"grain."
+msgstr "不盡然，白麵包一部分是屬於五穀類，但不是全穀類食物。"
+
+msgid ""
+"Not quite, white rice is part of the grain food group, but it is not whole "
+"grain."
+msgstr "不盡然，白米飯一部分是屬於五穀類，但不是全穀類食物。"
+
+msgid ""
+"No, meat and beans are an important source for your body to build protein."
+msgstr "不，蛋豆魚肉類是身體製造蛋白質的重要來源。"
+
+msgid ""
+"Milk is a good source of vitamins and minerals, and helps the body build "
+"protein."
+msgstr "牛奶是維生素和礦物質的良好來源，並有助於身體生成蛋白質。"
+
+msgid "Correct. We get the most energy from grains."
+msgstr "正確，我們從穀物中獲得大部分的能量。"
+
+msgid ""
+"Vegetables offer the body different kinds of vitamins and minerals, but we "
+"get the most energy from grains."
+msgstr ""
+"蔬菜提供我們身體不同種類的維生素與礦物質，但我們從穀物中獲得大部分的能量。"
+
+# 6a
+msgid ""
+"MyPyramid suggests that we make half our grains whole, vary our veggies, "
+"focus on fruits, get our calcium-rich foods, and go lean with protein.  This "
+"is easy to follow, but every person needs their own plan (or diet) for what "
+"to eat every day."
+msgstr ""
+"「我的金字塔」建議我們應減半五穀根莖類的攝取量、變換蔬菜的選擇、注重水果、攝"
+"取富含鈣的食物和選擇瘦肉型的蛋白質。 這是容易做到的，但每個人需有自己的飲食計"
+"畫，來決定每天吃甚麼。"
+
+msgid ""
+"One way to analyze your diet is in terms of the <span class='key'>calories</"
+"span> or energy contained in each food. Different foods contain different "
+"amounts of calories, or potential energy. Each of the items to the right "
+"contains about 100 calories. Cheese has a lot of fat compared to cherry "
+"tomatoes; a small piece of cheese has the same amount of calories as a bowl "
+"of tomatoes. The type of food (fat, protein, or carbohydrate) is what "
+"determines the number of calories, and the amount we eat determines how "
+"fattening it can be."
+msgstr ""
+"一種分析你的飲食的方式是在食物中所含的卡路里或能量。不同的食物有不同含量的卡"
+"路里或可能的能量。在右邊的每個項目含有大約100卡路里，乳酪比櫻桃番茄有較多的脂"
+"肪；一小片乳酪和一碗番茄的熱量是一樣的。食物的種類（脂肪、蛋白質、或醣類）決"
+"定了熱量的多少，以及我們吃進多少決定了會變得多胖。"
+
+msgid "50 Cherry tomatoes"
+msgstr "50顆櫻桃番茄"
+
+msgid "1 Chocolate shortbread cookie"
+msgstr "一片巧克力脆片餅乾"
+
+msgid "1 Glass of juice orange"
+msgstr "一杯柳橙汁"
+
+msgid "About 4 squares of chocolate"
+msgstr "約四塊巧克力"
+
+msgid "1 Cube of cheese, 3/4 inch across"
+msgstr "1塊乳酪的3/4英吋"
+
+msgid "1 Large chicken egg"
+msgstr "一大顆雞蛋"
+
+# 6b
+msgid ""
+"Exactly how many calories every person needs a day depends on the height, "
+"weight, age, gender, and activity level of that person. Usually, children "
+"need less than 2000 calories a day and should be physically active for an "
+"hour a day."
+msgstr ""
+"一個人每天究竟需要多少卡路里取決於那個人的身高、體重、年齡、性別和活動量。通"
+"常兒童一天所需熱量低於2000卡路里且一天應運動一個小時。"
+
+msgid ""
+"Being physically active is a key element in living a longer, healthier, "
+"happier life and goes hand in hand with healthy eating. It can help relieve "
+"stress and can provide an overall feeling of well-being. Physical activity "
+"can also help you achieve and maintain a healthy weight. The body maintains "
+"a balance between the food you eat (calories in) and the exercise you do "
+"(calories out). The calories you do not burn are stored in the body in the "
+"form of fat."
+msgstr ""
+"運動和健康飲食一樣重要，是讓我們延長壽命、活得更健康與更幸福的重要關鍵。運動"
+"可以幫忙紓解壓力和提供整體幸福的感覺。運動也可以幫助你達到且維持健康的體重。"
+"你的身體會在進食(獲得熱量)與運動(消耗熱量)之間保持平衡。體內沒有被消耗的熱量"
+"會以脂肪的形式儲存起來。"
+
+msgid "Reading nutrition facts..."
+msgstr "閱讀營養標示…"
+
+# 7a
+msgid ""
+"Question A. Choose the <span class='blink'>best</span> answer to the "
+"following question. How do we stay healthy?"
+msgstr "問題A. 依照題意由四個選項中選出最佳的答案。我們該如何保持身體健康？"
+
+msgid "Exercising every day for half an hour is being healthy."
+msgstr "每天鍛鍊身體30分鐘以保持身體健康。"
+
+msgid "Eating food from all the food groups is all you need to be healthy."
+msgstr "你需要吃所有類別的食物以保持身體健康。"
+
+msgid "Not eating a lot of sugar or salt is healthy eating."
+msgstr "不攝取大量的糖或鹽就是健康的飲食。"
+
+msgid "Eating from all food groups and exercising is healthy living."
+msgstr "攝取所有的食物類別和運動是健康的生活方式。"
+
+msgid ""
+"Question B. It's an hour before your big game and you're feeling hungry. "
+"What's the <span class='blink'>best</span> thing to eat?"
+msgstr "問題B. 在大型比賽前一個小時，你感覺到餓了，吃什麼樣的東西是最好的呢？"
+
+msgid "An ice cream float"
+msgstr "漂浮冰淇淋"
+
+msgid "An apple and a muffin"
+msgstr "一顆蘋果和一份鬆餅"
+
+msgid "Spaghetti and Meatballs"
+msgstr "意大利麵和肉丸"
+
+msgid "A cheeseburger and fries"
+msgstr "一份漢堡和薯條"
+
+# 7b
+msgid ""
+"Not quite, while exercising is necessary, eating a variety of foods is also "
+"needed to stay healthy."
+msgstr "不盡然，運動是必要的，但是也需要攝取各式各樣的食物以保持身體健康。"
+
+msgid ""
+"Not quite, while eating a variety of foods is necessary, exercising is also "
+"needed to stay healthy."
+msgstr "不盡然，攝取各式各樣的食物是必要的，但是也需要運動以保持身體健康。"
+
+msgid ""
+"Not quite, not having a lot of sugar or salt is a good eating habit, but "
+"regular exercise and eating a variety of foods is also needed for a healthy "
+"lifestyle."
+msgstr ""
+"不盡然，不攝取大量的糖或鹽是良好的飲食習慣，但也需要規律的運動與攝取各式各樣"
+"的食物以保持身體健康。"
+
+msgid ""
+"Correct, daily exercise and healthy food choices will lead to healthy living."
+msgstr "正確，每天運動和選擇健康的食品帶來健康的生活。"
+
+msgid ""
+"No, processed sugars will release energy very quickly and will not give you "
+"energy throughout the game."
+msgstr "不，加工糖會快速地釋放能量且在整場比賽中不會給予你足夠的能量。"
+
+msgid ""
+"Correct. An apple and muffin will give you the energy that you need over "
+"time."
+msgstr "正確，蘋果和鬆餅會提供你在一段時間內所需的能量。"
+
+msgid ""
+"No, spaghetti and meatballs is a good combination of grains and protein, but "
+"a snack would be better before a game - such as an apple and a muffin."
+msgstr ""
+"不，意大利麵和肉丸是五穀類和蛋白質的最佳組合，但是在比賽前食用小小的點心是比"
+"較好的選擇-像是蘋果和鬆餅。"
+
+msgid ""
+"No, cheeseburger and fries has a lot of oil and is not nearly as healthy as "
+"an apple and muffin."
+msgstr "不，漢堡和薯條含有大量的油脂，不像蘋果和鬆餅那樣健康。"
+
+msgid "Eating healthy foods..."
+msgstr "吃健康的食物…"
+
+# 8a
+msgid ""
+"The food we eat has changed in the past century. We are eating more "
+"processed foods instead of meals made from fresh ingredients. Factories use "
+"farm-grown foods to make processed foods. For example, tomatoes are used to "
+"make spaghetti sauce, and potatoes are used to make french fries. When foods "
+"are processed, certain ingredients are added to them for taste and to make "
+"them last longer. Not all of these ingredients are healthy. Also, processed "
+"foods don't have as many vitamins and minerals as fresh foods do."
+msgstr ""
+"在前一個世紀，我們所吃的食物已經有所改變。我們選擇更多的加工食品取代了新鮮食"
+"材烹製的美食。工廠使用農場種植的食物來製造加工食品。例如，番茄被用來製作義大"
+"利醬，以及馬鈴薯被用來製作薯條。食物被加工的過程中，為了增加口感和延長保存期"
+"限而添加了某些成分。但不是所有添加的成分都是健康的，而且加工食品不像新鮮食物"
+"那樣含有多種維生素和礦物質。"
+
+msgid ""
+"Vitamins are important to stay healthy. We need vitamins A, C, D, E, K, and "
+"eight types of vitamin B. Each vitamin has a special job to do in our body. "
+"For the most part, we get vitamins from our food, but taking multivitamins "
+"is good for people who might not be eating a variety of food."
+msgstr ""
+"維生素是维持身體健康所必需的重要元素。我們人體需要維生素A、C、D、E、K以及八種"
+"維生素B。每一個維生素在我們體內都扮演著特殊的角色。維他命從我們食物當中攝取，"
+"但在大多數情況下，人們可能不會攝取到各式各樣的食物，可以食用綜合維他命來補"
+"充。"
+
+# 8b
+msgid ""
+"Vitamin A helps with our vision. It is found in salmon and egg yolks. Our "
+"body can also make this vitamin when we eat orange and green vegetables like "
+"carrots and kale. Vitamin B helps make energy and set it free when your body "
+"needs it. The body also needs them to make red blood cells to carry oxygen "
+"throughout our body. Whole grain breads and fish and meat are full of "
+"vitamin B."
+msgstr ""
+"維生素A能有助於維持在暗處的視覺。維生素A存在於鮭魚和蛋黃中。我們人體的維生素A"
+"也來自橙色與綠色蔬菜，如胡蘿蔔和甘藍菜。當人體需要能量時，維生素B能協助將攝取"
+"的營養素，轉化為身體所需的能量。維生素B是製造紅血球必需的物質，使有足夠的紅血"
+"球來攜帶氧氣送到我們整個身體。全穀麵包、魚和肉皆含有豐富的維生素B。"
+
+msgid ""
+"Vitamin C helps heal wounds and burns. It also helps keep gums and muscles "
+"in good shape. This vitamin that is found in citrus fruit also helps your "
+"body resist infection so you can put off getting sick a little longer. "
+"Vitamin D is needed for your bones and teeth. There are two kinds of this "
+"vitamin: one that the body makes when we are in the sun, and one that we can "
+"get from fortified milk and cereal, and oily fish. We can get vitamin E from "
+"vegetable oil and nuts, and vitamin K from vegetables like spinach and "
+"broccoli."
+msgstr ""
+"維生素C有助於促進傷口的癒合，也有益於牙齦與肌肉的健康。柑橘類水果中含有維生素"
+"C，可以增強身體抵抗力及預防感冒。維生素D對骨骼及牙齒健康來說是不可欠缺的維生"
+"素。人體獲得維生素D有兩種不同的方式：一種是藉由曬太陽幫助人體獲得維生素D，另"
+"一種則是從強化牛奶、麥片與富含脂肪的魚類中獲得。我們可以從植物油和堅果類獲取"
+"維生素E，而維生素K可以來自菠菜與花椰菜中。"
+
+msgid "Taking vitamins..."
+msgstr "攝取維生素..."
+
+# 9a
+msgid ""
+"Question A. Which vitamin might be hard to get if you are on a vegetarian or "
+"vegan diet?"
+msgstr "問題A. 如果你是位素食主義者，你可能較難獲得哪一種維生素？"
+
+msgid "Vitamin C"
+msgstr "維生素C"
+
+msgid "Vitamin B"
+msgstr "維生素B"
+
+msgid "Vitamin E"
+msgstr "維生素E"
+
+msgid "Vitamin A"
+msgstr "維生素A"
+
+msgid "Question B. Common food sources of Vitamin A are:"
+msgstr "問題B. 維生素A的來源之常見食物為："
+
+msgid "Milk, eggs, butter, cheese, cream, and liver"
+msgstr "牛奶、雞蛋、牛油、乳酪、鮮奶油和肝臟"
+
+msgid "White sugar, honey, and sugar cane"
+msgstr "白砂糖、蜂蜜和蔗糖"
+
+msgid "Broccoli, apricots, cantaloupes, carrots, and spinach"
+msgstr "花椰菜、杏仁、哈密瓜、紅蘿蔔和菠菜"
+
+msgid "Both A and C"
+msgstr "A和C"
+
+# 9b
+msgid ""
+"No, vitamin C is in many fruits and vegetables that vegetarians can eat."
+msgstr "不，許多水果和蔬菜中含有維生素C，素食者可以攝取。"
+
+msgid ""
+"Correct. Vitamin B12 is not available from plant products and it is "
+"necessary for blood cell production and cellular metabolism."
+msgstr ""
+"正確，維生素B12是製造紅血球和細胞代謝所需的物質，但卻無法從植物中獲得。"
+
+msgid ""
+"No, vitamin E is found in vegetable oil and nuts as well as other vegetables "
+"such as avocados and asparagus."
+msgstr "不，植物油、堅果和其他蔬菜中含有維生素E，如酪梨和蘆筍。"
+
+msgid ""
+"No, vegetarians can get vitamin A from vegetables; they do not need to eat "
+"meat to get this vitamin."
+msgstr "不，素食者可以從蔬菜中獲得衛生素A；他們並不需要吃肉獲得此種維生素。"
+
+msgid ""
+"Not quite, other sources are broccoli, apricots, cantaloupes, carrots, and "
+"spinach."
+msgstr "不盡然，其他來源為花椰菜、杏仁、哈密瓜、胡蘿蔔與菠菜。"
+
+msgid ""
+"No, sugar is not a source of vitamin A. Broccoli, carrots, milk, cheese, and "
+"liver are good sources for this vitamin."
+msgstr ""
+"不，糖不是維生素A的來源。花椰菜、胡蘿蔔、牛奶、乳酪和肝臟為維生素A的良好來"
+"源。"
+
+msgid ""
+"Not quite, other sources are milk, eggs, butter, cheese, cream, and liver."
+msgstr "不盡然，其他來源為牛奶、雞蛋、牛油、乳酪、鮮奶油和肝臟。"
+
+msgid "Correct. There is a wide variety of sources for vitamin A."
+msgstr "正確，維生素A有各式各樣的來源。"
+
+# 10a
+msgid "Pretzels"
+msgstr "椒鹽脆餅"
+
+msgid "Potato Chips"
+msgstr "薯片"
+
+msgid "Nutrition Facts"
+msgstr "營養標示"
+
+msgid "Serving Size: 60g"
+msgstr "60g每份重量：60公克"
+
+msgid "Amount per serving"
+msgstr "每份營養值"
+
+msgid "Calories"
+msgstr "卡路里 (熱量)"
+
+msgid "Calories from Fat 18"
+msgstr "來自脂肪的卡路里(熱量)：18大卡"
+
+msgid "% Daily Values"
+msgstr " (%每日值*)"
+
+msgid "Total Fat"
+msgstr "總脂肪"
+
+msgid "Saturated Fat"
+msgstr "飽和脂肪"
+
+msgid "Trans Fat"
+msgstr "反式脂肪"
+
+msgid "Cholesterol"
+msgstr "膽固醇"
+
+msgid "Sodium"
+msgstr "鈉"
+
+msgid "Total Carbohydrate"
+msgstr "總碳水化合物"
+
+msgid "Dietary Fiber"
+msgstr "膳食纖維"
+
+msgid "Sugars"
+msgstr "糖"
+
+msgid ""
+"*Percent Daily Values are based on a 2,000 calorie diet. Your daily Values "
+"may be higher or lower depending on your calories needs."
+msgstr ""
+"*每日值的百分比是以熱量2000大卡的飲食為基準。您的每日需求量可依您的卡路里需要"
+"而增減。"
+
+msgid "Serving Size: 227g"
+msgstr "每份重量：227公克"
+
+msgid "Calories from Fat 691"
+msgstr "來自脂肪的卡路里(熱量)：691大卡"
+
+msgid "Using what you know about... healthy eating... to solve a problem"
+msgstr "利用你知道的健康飲食來解決問題"
+
+msgid ""
+"You are a <span class='key'>nutritionist</span> (a person who advises people "
+"on matters of healthy eating). You have a client who does not want to lose "
+"weight. He simply wants to learn to eat healthy foods that fit his "
+"lifestyle. So you go over calories and a basic meal plan with him on the "
+"first session."
+msgstr ""
+"你是一位營養師(給予人們有關健康飲食問題方面的建議)。你有一位客戶，他並不想要"
+"減重，他只是想了解如何吃得健康且適合他的生活。所以，你在第一次會議討論中審視"
+"了他的熱量和基礎膳食規劃。"
+
+msgid ""
+"Using what your client now knows about healthy eating, which snack would you "
+"suggest he has: pretzels or potato chips? Below are the nutrition labels, "
+"discuss the nutritional values of both snacks and compare them. Which snack "
+"would you advise he should eat based on calories? Remember to take the fat, "
+"salt, and sugar content of each food into consideration. You can also add in "
+"any suggestions you have for a healthier snack."
+msgstr ""
+"藉由你的客戶現在對健康飲食的了解，你會建議他哪種零食：椒鹽捲餅或馬鈴薯片？以"
+"下是營養標示，討論這零食的營養價值，並加以比較。基於熱量而言，你會建議他吃哪"
+"一種零食？記得考慮每種食品中脂肪、鹽和糖的含量。你也可以添加一些你建議且較健"
+"康的零食。"
+
+msgid "Planning for diet..."
+msgstr "規劃膳食..."
+
+# 11
+msgid "Summarizing what you now know about... healthy eating"
+msgstr "總結你現在應該知道的健康飲食"
+
+msgid ""
+"A healthy <span class='key'>diet</span> contains different kinds of foods. "
+"<span class='key'>MyPyramid</span>, a <span class='key'>food pyramid</span> "
+"of the five food groups, shows the need to find a balance between our food "
+"intake and physical activity.  There are five food groups: Grains, "
+"Vegetables, Fruits, Milk, and Meat & Beans. Grains are divided into two "
+"subgroups: whole grains and refined grains. Food in the meat and beans group "
+"offers the body protein. While following the basic guidelines of MyPyramid, "
+"every person needs their own plan for what to eat every day. We can look at "
+"the energy in food using its unit (<span class='key'>calorie</span>) to see "
+"how much of which foods we should eat. We also need vitamins, minerals, and "
+"oils as part of our balanced diet. Being physically active is a key element "
+"in living a longer, healthier, happier life and goes hand in hand with <span "
+"class='key'>healthy eating</span>."
+msgstr ""
+"一份健康的膳食中含有不同種類的食物。五大類食物的「我的金字塔」顯示，我們需要"
+"在食物攝取與身體運動之間找到平衡。共有五類食物：五穀類、蔬菜類，水果類、奶類"
+"與蛋豆魚肉類。五穀類分為兩類：全穀類與精製穀類。蛋豆魚肉類的食物提供人體所需"
+"的蛋白質。遵照我的金字塔的基本方針，對於一天當中吃了些什麼，每個人都要有自己"
+"的規劃。我們可以看看食物中能量使用的單位(卡路里)，了解我們應該攝取多少食物。"
+"除此之外，我們還需要維生素、礦物質和油脂作為均衡飲食的一部分。運動和健康飲食"
+"一樣的重要，是讓我們活得更長、更健康與活得更幸福的重要關鍵。"
+
+# 12
+msgid "Reviewing key vocabulary related to... healthy eating"
+msgstr "回顧有關健康飲食的重點"
+
+msgid ""
+"The food one eats. Some people try to restrict their diet in order to be "
+"healthier."
+msgstr "一個人所吃的食物。有些人為了變得更健康，試圖限制他們自己的飲食。"
+
+msgid "Diet"
+msgstr "膳食"
+
+msgid "Food Guidance System"
+msgstr "食品指導系統"
+
+msgid ""
+"The Food Guidance System (MyPyramid) is an educational tool to help "
+"individuals implement the Dietary Guidelines for Americans published jointly "
+"by the Department of Health and Human Services and the U.S. Department of "
+"Agriculture."
+msgstr ""
+"由美國衛生及公共服務部與美國農業部聯合出版的食品指導系統（我的金字塔）是一種"
+"教育工具，以幫助美國人落實飲食準則。"
+
+msgid "Food Pyramid (MyPyramid)"
+msgstr "食物金字塔(我的金字塔)"
+
+msgid ""
+"The recommended servings of various food groups one should eat daily "
+"according to the Department of Health and Human Services and the USDA."
+msgstr ""
+"根據美國衛生及公共服務部及美國農業部的建議，人們每天應攝取一份不同種類的食"
+"物。"
+
+msgid "Whole grains"
+msgstr "全穀類"
+
+msgid ""
+"A cereal grain that has not been processed or refined.  That is, it contains "
+"the germ, endosperm, and bran.  An example would be whole wheat bread."
+msgstr ""
+"尚未經過加工或精緻化處裡的穀物，也就是說，他仍含有糠層、胚芽、胚乳的完整榖"
+"粒，全麥麵包就是一個很好的例子。"
+
+msgid "Refined grains"
+msgstr "精製穀物"
+
+msgid ""
+"A cereal grain that has been processed so that it only contains the "
+"endosperm.  An example would be white bread."
+msgstr "經過加工過後，僅剩下胚乳的穀物，白麵包就是一個很好的例子。"
+
+msgid "Calorie"
+msgstr "卡路里"
+
+msgid ""
+"A unit of measurement for energy.  Food calories, also called kilocalories, "
+"are expressed as kcal or with a capital letter C."
+msgstr "測量能量的單位。卡路里也稱千卡，以大卡(Kcal)或是大寫字母C表示。"
+
+msgid "Nutritionist"
+msgstr "營養師"
+
+msgid ""
+"Someone who is an expert in human nutrition and studies the effects of food "
+"on the body."
+msgstr "營養師是人類營養專家和研究食物對人體的影響。"
+
+msgid "Healthy eating"
+msgstr "健康飲食"
+
+msgid ""
+"Consuming a balance of different types of food so that one gets the various "
+"vitamins, nutrients, and calorie sources needed. There is some dispute as to "
+"what diet is healthiest."
+msgstr ""
+"均衡攝取不同種類的食物，以幫助獲得所需不同種維生素、營養與熱量。關於什麼樣的"
+"飲食是比較健康的還仍有爭議。"
+
+# 13
+msgid "Checking what you now know about... healthy eating"
+msgstr "檢視你現在應該知道的健康飲食"
+
+# 14
+msgid "Which word completes this basic rule of healthy eating?"
+msgstr "哪一個字完整的表達健康飲食的基本原則？"
+
+msgid "Eat a"
+msgstr "吃"
+
+msgid "of Food!"
+msgstr "的食物！"
+
+msgid "lot"
+msgstr "許多"
+
+msgid "variety"
+msgstr "多種"
+
+msgid "calorie"
+msgstr "卡路里"
+
+msgid "mouthful"
+msgstr "滿口"
+
+msgid ""
+"No, the amount of food you eat should be based on how much your body needs."
+msgstr "不，你應根據自己身體所需決定攝取食物的量。"
+
+msgid "Correct. Your body needs a variety of food to stay healthy."
+msgstr "正確，身體需要攝取不同種類食物以保持健康。"
+
+msgid ""
+"No, calories are just a way of measuring the energy each food gives off. "
+"There should be a balance between the amount of calories you take in and the "
+"amount of exercise you do each day."
+msgstr ""
+"不，卡路里是只是一種測量食物釋放出能量的方法。應該在吃進卡路里和運動量之間取"
+"到平衡。"
+
+msgid "No, your body needs a variety of food to stay healthy."
+msgstr "不，身體需要攝取不同種類食物以保持健康。"
+
+# 15
+msgid ""
+"Why should we try to make half of the grains we eat daily whole grain food?"
+msgstr "為何我們一天應該至少要有1/2的主食為全穀類？"
+
+msgid "Because whole grain food has fiber, iron, and B vitamins."
+msgstr "因為全穀食物具有纖維，鐵和維生素B。"
+
+msgid "Because white bread and white rice have more calories."
+msgstr "因為白麵包和白米飯具有很多的熱量。"
+
+msgid "Because whole grain food has health benefits for our teeth."
+msgstr "因為全麥食物有益牙齒健康。"
+
+msgid "Because white bread and white rice are too expensive."
+msgstr "因為白麵包和白米飯太貴。"
+
+msgid "Looking for whole grains..."
+msgstr "尋找全穀類..."
+
+msgid ""
+"Correct. Whole grain food has fiber, iron, and B vitamins in it. Whereas "
+"white bread and white rice have those taken out when processed."
+msgstr ""
+"正確，全穀食物具有纖維、鐵和維生素B，而這些卻在白麵包與白米飯的加工過程中被破"
+"壞掉了。"
+
+msgid ""
+"No, whole grains are more nutritious, they have fiber, iron, and B vitamins."
+msgstr "不，全穀食物很有營養，含有纖維、鐵和維生素B。"
+
+msgid ""
+"Not quite, whole grain food has benefits, but not necessarily for our teeth. "
+"It has fiber, iron, and B vitamins."
+msgstr ""
+"不盡然，全穀食物是有益的，但不一定有益於我們的牙齒，內含有纖維、鐵和維生素B。"
+
+msgid ""
+"No, the cost of whole grain food is not considered, its benefits are. It has "
+"fiber, iron, and B vitamins."
+msgstr "不，全穀食物的好處是不用考慮成本。它具有纖維、鐵和維生素B。"
+
+# 16
+msgid "The word calorie is best related to which word?"
+msgstr "「卡路里」這個字和哪個字最有關係？"
+
+msgid "Fat"
+msgstr "脂肪"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "Protein"
+msgstr "蛋白質"
+
+msgid "Serving"
+msgstr "份量"
+
+msgid "No, fat is high in calories, but calorie is a unit of energy."
+msgstr "不，脂肪有很高的卡路里，但卡路里是能量的單位。"
+
+msgid ""
+"Correct. Energy is related to calories because calorie is a unit of energy."
+msgstr "正確，因為卡路里是能量的單位。"
+
+msgid "No. Energy is related to calories because calorie is a unit of energy."
+msgstr "不，卡路里是能量的單位。"
+
+msgid ""
+"Not quite. Serving is related to calorie because the nutritional information "
+"given on products are usually based on one serving size. But it is related "
+"even more to energy because calorie is a unit of energy."
+msgstr ""
+"不盡然，雖然在產品上提供的營養資訊通常是一個「份量」表示，與卡路里有關沒錯，"
+"但因為卡路里是能量的單位，所以和「能量」更有關係。"
+
+msgid "Checking daily calories..."
+msgstr "檢視每天的卡路里…"
+
+# 17
+msgid "What does your body do with calories you eat but do not use?"
+msgstr "當你吃下的熱量沒有被身體利用掉時，你的身體接下來會怎麽做？"
+
+msgid "Your body gets rid of them."
+msgstr "你的身體去除了他們。"
+
+msgid "Your body always uses all the calories you eat."
+msgstr "你的身體總是運用了所有你吃進身體的熱量。"
+
+msgid "Your body stores unused calories as fat."
+msgstr "你的身體將沒使用的熱量以脂肪儲存。"
+
+msgid "All of the above"
+msgstr "以上皆是。"
+
+msgid "Flipping the box..."
+msgstr "翻頁…"
+
+msgid ""
+"No, your body will get rid of calories if they are used up, for instance "
+"when you exercise. Unused calories are stored as fat."
+msgstr ""
+"不，一旦被用光了，你的身體就自然的擺脫這些熱量，例如：運動。沒被使用的熱量以"
+"脂肪儲存。"
+
+msgid ""
+"No, your body uses the calories that you need and stores the rest as fat."
+msgstr "不，你的身體運用了所需的熱量，而多餘的熱量以脂肪儲存。"
+
+msgid ""
+"Correct. Unused calories are stored as fat, you can burn unused calories by "
+"exercising."
+msgstr "正確，沒被使用的熱量以脂肪儲存，可以藉由運動燃燒未使用的熱量。"
+
+msgid ""
+"No. Your body stores unused calories as fat. Your body does not always use "
+"all the calories you eat. It does not automatically get rid of the unused "
+"calories."
+msgstr ""
+"不，沒被使用的熱量會以脂肪儲存。身體並不會完全使用攝取進來的熱量，身體也不會"
+"自動去除多餘未使用的熱量。"
+
+# 18
+msgid "Sorting ingredients..."
+msgstr "分揀出成分…"
+
+msgid "Match the foods on the top with what they contain on the bottom."
+msgstr "將頂部的食物與底部的內含物做配對"
+
+msgid "Whole Cornmeal"
+msgstr "玉米粉"
+
+msgid "Avocados"
+msgstr "酪梨"
+
+msgid "Chicken"
+msgstr "雞"
+
+msgid "Grape Fruit"
+msgstr "葡萄柚"
+
+msgid "Iron"
+msgstr "鐵"
+
+msgid "Natural Oils"
+msgstr "天然油脂"
+
+msgid "Calcium"
+msgstr "鈣"
+
+msgid "Reset"
+msgstr "重設"
+
+msgid ""
+"Correct! Milk has calcium, whole cornmeal has iron, avocados have natural "
+"oils, chicken has protein, and grapefruit has vitamin C. All these foods "
+"have even more in them than what is listed."
+msgstr ""
+"正確！牛奶含鈣、玉米粉含鐵、酪梨含有天然油脂、雞含有蛋白質與葡萄柚含有維生素"
+"C。這些食物含有更多的成分，不只上述所列。"
+
+msgid ""
+"Not quite. Milk has calcium, whole cornmeal has iron, avocados have natural "
+"oils, chicken has protein, and grapefruit has vitamin C. All these foods "
+"have even more in them than what is listed."
+msgstr ""
+"不盡然，牛奶含鈣、玉米粉含鐵、酪梨含有天然油脂、雞含有蛋白質與葡萄柚含有維生"
+"素C。這些食物含有更多的成分，不只上述所列。"
+
+# 19
+msgid ""
+"The nutritional label and ingredients of a food are shown below. Based on "
+"this information, how many calories does 1.5 cups of this cereal have?"
+msgstr "食物的營養標示與成分如下。根據這些訊息，1.5杯的麥片含有多少卡路里？"
+
+msgid "Serving Size 0.75 cup (28g)"
+msgstr "每份含量 0.75杯 (28公克)"
+
+msgid "Serving Per Container 12"
+msgstr "每份12裝"
+
+msgid "Calories from Fat 15"
+msgstr "來自脂肪的卡路里(熱量)：15大卡"
+
+msgid "None of the above"
+msgstr "以上皆非"
+
+msgid "Potassium"
+msgstr "鉀"
+
+msgid ""
+"No, one serving size has 110 calories. The question asks for 1 and a half "
+"cups (two servings), so you should double the amount of calories, 220."
+msgstr ""
+"不，每份含量為110卡路里。問題是問1.5杯(有就是兩份)，應該乘以2，為220卡路里。"
+
+msgid ""
+"Correct. Two serving sizes has double the amount of calories in the table: 2 "
+"X 110 = 220 calories for one and a half cups."
+msgstr "正確，1.5杯是指兩份的量，為兩倍的卡路里量：2 X 110=220。"
+
+msgid ""
+"No, two serving sizes has double the amount of calories in the table: 2 X "
+"110 = 220 calories for one and a half cups."
+msgstr "不，1.5杯是指兩份的量，為兩倍的卡路里量：2 X 110=220。"
+
+msgid ""
+"No, the correct answer is 220. Two serving sizes has double the amount of "
+"calories listed in the table."
+msgstr "不，正確答案是220，兩份的量，為表中卡路里量的兩倍。"
+
+# 20
+msgid "You've completed the Healthy Eating review."
+msgstr "你已經完成健康飲食評量"
+
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready"
+msgstr "你準備好了"
+
+msgid "Please select your answers."
+msgstr "請選擇您的答案。"
+
+msgid "Reviewing big ideas about... healthy eating"
+msgstr "回顧有關... 健康飲食"
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入你第一個檢查囉..."
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "You answered..."
+msgstr "您的回答..."
+
+msgid "More big ideas about... healthy eating"
+msgstr "更多有關... 健康飲食"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後一個快速檢查了嗎？"
+
+msgid "The Scenario"
+msgstr "場景"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "Click here to start typing your answer..."
+msgstr "請點選一下並在此輸入你的答案..."
+
+msgid "Close me!"
+msgstr "關閉我！"
+
+msgid "Please select your answer."
+msgstr "請選擇您的答案。"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案"
+
+msgid "Putting it all together..."
+msgstr "把他們綜合起來..."
+
+msgid "Words and explanations"
+msgstr "詞彙和解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們來看看你知道了些什麼"
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下六個問答題以了解您現在已經知道什麼和哪些是您還需要學習。"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "準備好了就點選＂下一步＂。"
+
+msgid "Summarizing big ideas about... healthy eating"
+msgstr "總結相關的核心概念…… 健康飲食"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次測驗的問題是..."
+
+msgid "Quiz Question #1"
+msgstr "測驗題#1"
+
+msgid "Quiz Question #2"
+msgstr "測驗題#2"
+
+msgid "Quiz Question #3"
+msgstr "測驗題#3"
+
+msgid "Quiz Question #4"
+msgstr "測驗題#4"
+
+msgid "Quiz Question #5"
+msgstr "測驗題#5"
+
+msgid "Quiz Question #6"
+msgstr "測驗題#6"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "擊點、按住或是上下移動您的游標以旋轉方框與選擇您的答案。"
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Congratulations, "
+msgstr "恭喜您！"
+
+msgid "You've completed the Healthy Eating module."
+msgstr "你已經完成健康飲食評量"
+
+msgid ""
+"You can check how you did on the 'Quick Checks' and 'Quiz Questions' for "
+"this module by clicking the button below."
+msgstr "擊點下面的按鈕，可以檢查您在“快速檢測”與“測驗題”中的答案。"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好回答最後一個測驗題了嗎？"
+
+msgid "Go to dashboard"
+msgstr "進入儀錶板"

@@ -1,0 +1,1483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: staying-healthy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Khlood <khlood-alshaikh@uiowa.edu>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Global
+msgid "Back"
+msgstr "الخلف"
+
+msgid "Next"
+msgstr "الأمام"
+
+msgid "Check Answer"
+msgstr "تحقق من الإجابة "
+
+msgid "Read More"
+msgstr "إقرأ المزيد "
+
+msgid "Staying Healthy"
+msgstr "الاعتناء بالصحة"
+
+msgid "You answered..."
+msgstr "لقد أجبت "
+
+msgid "Please select your answer."
+msgstr "اختر الإجابة من فضلك "
+
+msgid "Please select your answers."
+msgstr "من فضلك اختر إجابتك "
+
+msgid "Close me!"
+msgstr "قم بإغلاقي"
+
+msgid "Quick Check #1"
+msgstr "مراجعة سريعة #1"
+
+msgid "Quick Check #2"
+msgstr "مراجعة سريعة #2"
+
+msgid "Quick Check #3"
+msgstr "مراجعة سريعة #3"
+
+msgid "Quick Check #4"
+msgstr "مراجعة سريعة #4"
+
+msgid "Quick Check #5"
+msgstr "مراجعة سريعة #5"
+
+msgid "Quiz Question #1"
+msgstr "السؤال #1"
+
+msgid "Quiz Question #2"
+msgstr "السؤال #2"
+
+msgid "Quiz Question #3"
+msgstr "السؤال #3"
+
+msgid "Quiz Question #4"
+msgstr "السؤال #4"
+
+msgid "Quiz Question #5"
+msgstr "السؤال #5"
+
+msgid "Quiz Question #6"
+msgstr "السؤال #6"
+
+msgid "How did I do?"
+msgstr "ماهو أدائك "
+
+msgid "select"
+msgstr "اختار"
+
+msgid "More core ideas... about staying healthy"
+msgstr "أفكار إضافية أساسية ... حول البقاء بصحة جيدة "
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "انقر،  وحرك الفأرة أعلى وأسفل لتدير الصندوق وحدد إجابتك"
+
+# Preloader
+msgid "Let's begin!"
+msgstr "لنبدأ"
+
+msgid "Are you ready,"
+msgstr "هل أنت جاهز "
+
+msgid "Breathing fresh air..."
+msgstr "تنفس الهواء النقي "
+
+msgid "Warming up for exercise..."
+msgstr "الإحماء لممارسة الرياضة "
+
+msgid "Ready for your first quick check?"
+msgstr "الإستعداد للفحص الأولي المبدئي"
+
+msgid "Organs are working together..."
+msgstr "الأعضاء تعمل مع بعضها "
+
+msgid "Help to fight diseases"
+msgstr "المساعدة في مكافحة الأمراض"
+
+msgid "Vitamins for energy boost"
+msgstr "الفيتامينات لزيادة الطاقة"
+
+msgid "Vaccination on the go"
+msgstr "التطعيم "
+
+msgid "Preparing a delicious diet..."
+msgstr "إعداد نظام غذائي لذيذ "
+
+msgid "Burning calories..."
+msgstr "حرق السعرات الحرارية"
+
+msgid "Blocking harmful substances..."
+msgstr "منع المواد الضارة "
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت مستعد للفحص السريع الأخير؟ "
+
+msgid "A healthy nutrition diet"
+msgstr "حمية غذائية صحية"
+
+msgid "Putting it all together..."
+msgstr "ضع الجميع معا، زاوج "
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات "
+
+msgid "Let's check what you now know"
+msgstr "اختبر معلوماتك "
+
+msgid "Your first quiz question is"
+msgstr "السؤال الأول "
+
+msgid "What are organs made of?"
+msgstr "مما تتكون الأعضاء؟"
+
+msgid "Inhale... exhale..."
+msgstr "الشهيق .... الزفير "
+
+msgid "Picture of a healthy heart"
+msgstr "صورة لقلب صحي"
+
+msgid "Go, Grow, Glow"
+msgstr "انطلق، انمو، توهج "
+
+msgid "Take the last quiz question!"
+msgstr "السؤال الأخير "
+
+msgid "You're done!"
+msgstr "هل انتهيت"
+
+# 1
+msgid "Welcome to the Staying Healthy review,"
+msgstr "أهلا بك في مراجعة العناية بالصحة "
+
+msgid "Start"
+msgstr "ابدأ "
+
+# 2
+msgid "Thinking about... staying healthy"
+msgstr "فكر ب ... البقاء بصحة جيدة."
+
+msgid ""
+"People come in all ages, shapes and sizes; but we do have one important "
+"thing in common. We'll feel better and live longer and more comfortably if "
+"we understand and take care of our bodies. The human body is more complex "
+"than any machine ever designed, and yet it is very reliable, lasts a long "
+"time, and can usually fix itself when something goes wrong."
+msgstr ""
+"الأشخاص يختلفون بحسب الأعمار والأشكال والأحجام ولكن يوجد قاسم مشترك مهم وهو "
+"أنه سوف نشعر على نحو أفضل ونعيش حياة أطول إذا فهمنا أجسامنا ورعايناها. حيث "
+"يعتبر جسم الإنسان أكثر تعقيداً من أية ألة تم تصميمها بسبب فعاليتها "
+"ولإستطاعتها أن تدوم طويلا. وعادة يمكن إصلاح نفسها في حدوث خلل ما "
+
+# 3
+msgid "Checking what you know... about staying healthy"
+msgstr "تأكد مما تعرف ... حول البقاء بصحة جيدة."
+
+msgid "Click the statements the activities shown are likely to cause."
+msgstr "انقر على على العبارات التي توضح الأنشطة التي تسببها"
+
+msgid "Diet heavy in fats and carbohydrates."
+msgstr "نظام غذائي غني بالدهون والكربوهيدرات"
+
+msgid "Increase in obesity."
+msgstr "زيادة السمنة المفرطة "
+
+msgid "Increase in heart disease."
+msgstr "زيادة أمراض القلب "
+
+msgid "Increase in overall fitness."
+msgstr "زيادة اللياقة البدنية "
+
+msgid "Daily exercises at least 30 minutes long."
+msgstr "مزاولة التمرينات الرياضية اليومية لمدة لا تقل عن 30 دقيقة "
+
+msgid "Decrease in body weight."
+msgstr "نقص في وزن الجسم "
+
+msgid "Increase in energy."
+msgstr "زيادة الطاقة"
+
+msgid "Increase in heart disease risk."
+msgstr "زيادة في خطر الإصابة بأمراض القلب "
+
+msgid "Childhood health checkups including vaccinations at appropriate ages."
+msgstr "الفحص الطبي للأطفال متضمنا اللقاحات في أعمار مناسبة "
+
+msgid "Increase in childhood diseases."
+msgstr "زيادة أمراض الطفولة "
+
+msgid "Decrease in overall health."
+msgstr "نقص الصحة بشكل عام "
+
+msgid "Fewer childhood diseases."
+msgstr "أمراض طفولة قليلة "
+
+msgid ""
+"A diet heavy in fats and carbohydrates can lead to obesity and heart "
+"problems. Daily exercise is needed to control body weight and give an energy "
+"boost. Checkups and vaccinations are also necessary to prevent major "
+"diseases."
+msgstr ""
+"إتباع نظام غذائي غني بالدهون والكربوهيدرات يمكن أن يسبب السمنة المفرطة "
+"ومشاكل في القلب. أداء التمرينات الرياضية اليومية لازمة للسيطرة على وزن الجسم "
+"وإمداد الجسم جرعة من الطاقة. كما أن الفحوصات الدورية واللقاحات ضرورية "
+"للوقاية من الأمراض "
+
+# 4
+msgid "Reviewing core ideas... about staying healthy"
+msgstr "مراجعة الأفكار الأساسية ... حول البقاء بصحة جيدة"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit."
+msgstr ""
+"تتكون أجسامنا من العديد من الأجهزة التي تعمل معا لإبقائنا صحية. وكل جهاز "
+"يتكون من مجموعة من الأعضاء التي تعمل بشكل مستقل وكوحدة واحدة."
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr " تصفح الشرائح أدناه من خلال الضغط على الأسهم لليمين واليسار"
+
+msgid ""
+"The <span class='key'>circulatory system's</span> primary function is to "
+"move blood through the body, but it doesn't work alone. The <span "
+"class='key'>respiratory system</span> works with it to take in oxygen from "
+"the air to send through the blood to body tissues."
+msgstr ""
+"إن وظيفة الجهاز الدوري الأساسية هي نقل الدم إلى جميع أجزاء الجسم، إلا أن "
+"الجهاز لا يعمل بمفرده وبالتازم يقوم الجهاز التنفسي بالحصول على الأكسجين من "
+"الهواء وإرساله من خلال الدم إلى أنسجة الجسم"
+
+msgid ""
+"Blood also brings carbon dioxide from body tissues to the lungs to be "
+"breathed out. In addition, blood carries nutrients from the digestive system "
+"to tissues all over the body. Chemical waste from the entire body is carried "
+"by blood and removed by the kidneys and other parts of the <span "
+"class='key'>excretory system</span>."
+msgstr ""
+"يحمل الدم أيضا غاز ثاني أكسيد الكربون من أنسجة الجسم إلى الرئتين ليتم التخلص "
+"منه. بالإضافة إلى ذلك، ينقل الدم المواد الغذائية من الجهاز الهضمي إلى جميع "
+"أنحاء أنسجة الجسمكما يتم التخلص من الفضلات الكيميائية التي في الجسم من خلال "
+"نقل الدم وطردها عن طريق الكلى وأجزاء أخرى من جهاز الإخراج "
+
+msgid ""
+"The <span class='key'>endocrine system</span> produces chemicals that cause "
+"changes in other parts of the body. The endocrine system controls many of "
+"the functions of the digestive and reproductive systems. It also influences "
+"the nervous system and circulatory system by producing the substances that "
+"cause changes in heart rate, blood pressure, and breathing when we are "
+"excited or afraid."
+msgstr ""
+"ينتج نظام الغدد الصماء المواد الكيميائية التي تسبب تغيرات في أجزاء أخرى من "
+"الجسم. يتحكم  نظام الغدد الصماء في العديد من وظائف الجهاز الهضمي والجهاز "
+"التناسلي. كما يؤثر أيضا على الجهاز العصبي والدورة الدموية من خلال إنتاج "
+"المواد التي تسبب تغيرات في معدل ضربات القلب وضغط الدم، والتنفس في حالة الفرح "
+"أو الخوف."
+
+msgid ""
+"The <span class='key'>nervous system</span> consists of the brain, spinal "
+"cord, and a complex network of nerves that transmit information around the "
+"body. Sensory nerves are the tools that provide information about the world "
+"around us. Sight, sound, taste, touch, and smell are detected and "
+"information is sent to the brain. Motor nerves send messages from the brain "
+"to muscles around the body. When muscles contract, bones move."
+msgstr ""
+"يتكون الجهاز العصبي من الدماغ والحبل الشوكي، وشبكة معقدة من الأعصاب التي "
+"تنقل المعلومات إلى جميع أجزاؤ الجسم. الأعصاب الحسية هي الأدوات التي توفر "
+"المعلومات عن العالم من حولنا.إن من خلال البصر، والصوت، والذوق، اللمس، والشم، "
+"يتم إرسال المعلومات إلى الدماغ. كما ترسل الأعصاب الحركية الرسائل من المخ إلى "
+"العضلات في جميع أنحاء الجسم. وذلك عندما تنقبض العضلات وتتحرك العظام ."
+
+msgid ""
+"The <span class='key'>skeletal system</span> is responsible for providing "
+"support for the rest of the body. It also provides attachment points for "
+"muscles, which contract to allow movement. This movement is made possible by "
+"energy delivered by blood, and is controlled by the nervous system. The "
+"skeletal system is also where new blood cells are made."
+msgstr ""
+"يعتبر الجهاز العصبي هو المسؤول عن توفير الدعم لبقية الجسم. كما يربط المفاصل "
+"بالعضلات التي تنقبض من أجل الحركة، وهذه الحركة تتم بفضل الطاقة المنقولة من "
+"خلال الدم، والتي يتم التحكم بها من قبل الجهاز العصبي.كما أن  الهيكل العظمي "
+"هو عبارة عن خلايا دم جديدة"
+
+# 5
+msgid ""
+"Question A. The nervous system does <span class='blink red'>NOT</span> "
+"depend upon which of the following?"
+msgstr "السؤال الأول: لا يعتمد الجهاز العصبي على الآتي: "
+
+msgid "It DOES depend on all of the systems mentioned."
+msgstr "يعتمد على جميع النظم المبينة."
+
+msgid "Circulatory System"
+msgstr "الجهاز الدوري "
+
+msgid "Skeletal System"
+msgstr "الجهاز العظمي"
+
+msgid "Respiratory System"
+msgstr "الجهاز التنفسي "
+
+msgid "Circulatory, Skeletal and Respiratory"
+msgstr "دوري، عظمي، تنفسي"
+
+msgid ""
+"Question B. What would happen if your respiratory system stopped working?"
+msgstr ""
+"السؤال الثاني: ما الذي يمكن أن يحدث عندما يتوقف الجهاز التنفسي عن العمل؟ "
+
+msgid "You would need an organ transplant."
+msgstr "سوف نحتاج إلى زرع أعضاء "
+
+msgid "Nothing, the body would recover somehow."
+msgstr "لا شيئ! الجسم سوف يتعافى بطريقة أو بأخرى"
+
+msgid "You would not be able to continue living and die."
+msgstr "عدم القدرة على البقاء على قيد الحياة والموت"
+
+msgid "Not quite! The brain needs oxygen from blood."
+msgstr "ليس تماما! الدماغ يحتاج الأكسجين من الدم "
+
+msgid "Nope! The brain is protected by the skull."
+msgstr "كلا! الدماغ محمي من الجمجمة"
+
+msgid "Think again! The brain needs the oxygen gathered by the lungs."
+msgstr "فكر مرة أخرى!الدماغ يحتاج الأكسجين الذي تم جمعه في الرئتين "
+
+msgid ""
+"You got it! That was a trick question... The nervous system needs all of "
+"these."
+msgstr "لقد وجدتها! إنه سؤال محير.... الجهاز العصبي يحتاج كل ذلك "
+
+msgid ""
+"Nope! The respiratory system is a whole set of organs working together. "
+"Transplanting one isn't likely to restore function."
+msgstr ""
+"كلا! الجهاز التنفسي هو مجموعة متكاملة من الأعضاء التي تعمل معا. زرع عضو واحد "
+"ليس من المرجح أن يمكنه استعادة وظيفة"
+
+msgid ""
+"Not quite! Your body cannot recover; if you stop breathing, you stop living."
+msgstr ""
+"ليس دقيقا! جسمك لا يستطيع أن يتعافى؛ إذا توقفت على التنفس فسوف تتوقف عن "
+"الحياة "
+
+msgid ""
+"Correct! Respiration is breathing; if you stop breathing, you stop living."
+msgstr "صحيح! إذا توقفت عن التنفس توقفت عن الحياة "
+
+# 6
+msgid ""
+"The human body is made up of trillions of independent cells.  Each <span "
+"class='key'>cell</span> is alive, requires resources, and produces waste. "
+"When many copies of the same cell type are gathered together, they are known "
+"as <span class='key'>tissue</span>. We have hundreds of different types of "
+"tissues, each specialized for its own functions. Some examples of cell and "
+"tissue types include muscle, nervous, bone, and skin."
+msgstr ""
+"يتكون جسم الإنسان من تريليونات من الخلايا المستقلة. وكل خلية على قيد الحياة "
+"تتطلب مصادر وسوف تنتج فضلات. وعندما تجتمع خلايا من نفس النوع مع بعضها البعض "
+"فإنها تعرف بالنسيج. ولدينا مئات الأنواع المختلفة من الأنسجة، متخصصة لوظائف "
+"معينة. ومثال على ذلك الأنسجة العضلية والعصبية والعظام والجلد"
+
+msgid ""
+"<span class='key'>Organs</span> are groups of tissues combined together to "
+"perform the body's major functions. When we talk about such systems as the "
+"circulatory or digestive system, we are actually talking about groups of "
+"organs working together. While cells and tissues are difficult to see and "
+"tell apart, organs are mostly quite large and easy to identify.<br/>Some "
+"examples of organs are the heart, lungs, brain, kidneys, and stomach. Some "
+"organs are so small they require magnification to be seen. Others are much "
+"larger. The largest is our skin which covers our entire bodies."
+msgstr ""
+"الأعضاء: هي مجموعات من الأنسجة مجتمعة معا لأداء وظائف الجسم الرئيسية. عندما "
+"نتحدث عن جهاز مثل الدورة الدموية أو الجهاز الهضمي، نحن نتحدث في الواقع عن "
+"مجموعات من الأعضاء التي تعمل معا. في حين أن الخلايا والأنسجة من الصعب أن نرى "
+"ونقول بصرف النظر، والأعضاء هي في معظمها كبيرة جدا وسهل التعرف عليه بعض "
+"الأمثلة على الأعضاء هي القلب والرئتين والدماغ والكلى والمعدة. بعض الأعضاء "
+"صغيرة جدا لدرجة أنها تتطلب التكبير أن ينظر إليها. والبعض الآخر أكبر من ذلك "
+"بكثير. ولعل أكبرها هو جلدنا التي تغطي أجسامنا بأكملها"
+
+msgid ""
+"Major body systems are groups of organs working as a unit to fulfill major "
+"body functions. The <span class='key'>digestive system</span> has many "
+"parts, each performing a specific task, all aimed towards allowing our body "
+"to absorb the nutrients and water we need to survive.<br/>The other systems "
+"are organized in a similar way, each unique in its own pattern. Because each "
+"organ is made of many different tissues, any organ may be a part of more "
+"than one system at a time. The pancreas, for example, makes chemicals that "
+"help digest food, while, at the same time, making other substances that help "
+"regulate the activities of other organs. It belongs to both the digestive "
+"and endocrine systems."
+msgstr ""
+"أجهزة الجسم الرئيسية هي مجموعات من الأعضاء التي تعمل كوحدة واحدة لتحقيق "
+"وظائف الجسم الرئيسية.  الجهاز الهضمي: لديه العديد من أجزاء، كل جزء يؤدي مهمة "
+"محددة، وكلها تهدف إلى مساعدة الجسم على امتصاص العناصر الغذائية والماء ونحن "
+"بحاجة إلى البقاء على قيد الحياة. بينما الأجهزة الأخرى منظمة بنفس الطريقة حيث "
+"كل جسم له طريقته الفريدة الخاص بنمط معين، بسبب أن كل عضو يتكون من عدد من "
+"الأنسجة المختلفة، وقد يكون أي عضو جزء من أكثر من نظام في وقت واحد. إن "
+"البنكرياس، على سبيل المثال، هو المسؤول عن تصنيع المواد الكيميائية التي تساعد "
+"على هضم الطعام، بينما في نفس الوقت، يصنع مواد أخرى تساعد على تنظيم أنشطة "
+"الأعضاء الأخرى. أنه ينتمي إلى كل من الجهاز الهضمي والغدد الصماء."
+
+# 7
+msgid ""
+"Question A. All animals need food to survive. Immediately after an animal "
+"eats food, the food is..."
+msgstr ""
+"السؤال الأول: جميع الحيوانات تحتاج إلى الطعام للبقاء على قيد الحياة. ومباشرة "
+"بعد تناول الحيوانات الطعام فإن الطعام هو"
+
+msgid "Stored for later use"
+msgstr "تخزينها لاستخدامها في وقت لاحق"
+
+msgid "Converted into waste"
+msgstr "تحويلها إلى فضلات"
+
+msgid "Transported by the bloodstream"
+msgstr "نقلها عن طريق مجرى الدم"
+
+msgid "Digested into simpler substances"
+msgstr "هضمها إلى مواد أبسط"
+
+msgid ""
+"Question B. The pancreas plays roles in which <span class='blink red'>TWO</"
+"span> systems?"
+msgstr "السؤال الثاني: يلعب البنكرياس دوراً في"
+
+msgid "The pancreas plays roles in"
+msgstr "يلعب البنكرياس دورا في "
+
+msgid "nervous"
+msgstr "القلق"
+
+msgid "integumentary"
+msgstr "الأغلفة "
+
+msgid "digestive"
+msgstr "يساعد على الهضم "
+
+msgid "endocrine"
+msgstr "الغدد الصماء "
+
+msgid "skeletal"
+msgstr "الهيكل العظمي"
+
+msgid "and"
+msgstr "و "
+
+msgid "systems."
+msgstr "الأجهزة "
+
+msgid "Super!  Both correct!"
+msgstr "عظيم! كلاهما صحيح"
+
+msgid "You're halfway there... try again."
+msgstr "أنت في منتصف الطريق ... حاول مرة أخرى"
+
+msgid "Neither of these."
+msgstr "لا ينطبق على أي منهما "
+
+msgid ""
+"Food energy is eventually stored for later use, but it must first be broken "
+"into simpler substances."
+msgstr ""
+" طاقة الغذاء مخزنة آخيراً للاستخدام اللاحق، لكن يجب أن تكون متكسرة أولاً لمواد "
+"أبسط منها."
+
+msgid ""
+"Some food is converted into waste, but only after it is broken into simpler "
+"parts."
+msgstr "بعض الغذاء تحول إلى نفايات، لكن بعد أن يكون مكسراً إلى أجزاء أبسط."
+
+msgid ""
+"Food molecules must be broken down from more complex substances before they "
+"can be transported in blood."
+msgstr ""
+"جزيئات الطعام يجب أن تكون مكسرة من مواد أكثر تعقيداً قبل أن تستطيع أن تنتقل "
+"في الدم."
+
+msgid ""
+"That's right! Food is made of complex molecules that must be broken into "
+"simpler substances for energy to be released or stored."
+msgstr ""
+"هذا صحيح! الطعام مصنوع من جزيئات معقدة يجب أن تكون مكسرة إلى مواد أبسط لكي "
+"تنطلق الطاقة أو تتخزن."
+
+# 8
+msgid ""
+"What's going on when you are sick? You have been invaded.  Some tiny disease "
+"agent has found a way into your body, and is reproducing, using your body as "
+"a shelter, food source, and a way of passing its offspring on to others."
+msgstr ""
+"ما الذي يحدث لم عندما تمرض؟ لقد تم غزوك من قبل مسببات المرض التي وجدت طريقها "
+"لجسمك وتكاثرت فيه مستخدمة جسمك كملجأ ومصدر للغذاء ووسيلة لتمرر نسلها للآخرين"
+
+msgid ""
+"Most infections are caused by one of two agents. The first are simple living "
+"cells called <span class='key'>bacteria</span>. Bacteria are among the "
+"simplest of all living things, and are found everywhere on the planet. Most "
+"bacteria are safe and usually beneficial to people. A few types, though, are "
+"dangerous. When they get inside our bodies, they form colonies where they "
+"make many millions of copies of themselves and cause damage to the tissues "
+"around them."
+msgstr ""
+"إن معظم حالات العدوى تكون بسبب ناقل أو ناقلين للمرض. وتتكون البكتريا من "
+"خلايا حية بسيطة. تعتبر البكتيريا من أبسط الكائنات الحية، وتوجد في كل مكان "
+"على هذا الكوكب. معظم البكتيريا هي آمنة ومفيدة عادة إلى الناس. بينما هناك "
+"أنواع قليلة من البكتريا تعتبر خطرة. عندماتدخل البكتريا داخل أجسامنا، فإنها "
+"تشكل مستعمرات من خلال استنساخ نفسها ملايين المرات وبالتالي تسبب ضررا على "
+"الأنسجة المحيطة بها "
+
+msgid ""
+"Most of the time, our <span class='key'>immune system</span> is able to "
+"identify and destroy the bacteria infecting us. Sometimes, however, the "
+"bacteria reproduce out of control and we need antibiotic medication. "
+"Antibiotics kill bacteria and are not harmful to people. After two or three "
+"days taking the medication, many people feel much better, but it is very "
+"important to take all of the antibiotic prescribed according to the "
+"directions. This make sure all of the bacteria are killed and a new "
+"infections doesn't occur."
+msgstr ""
+"يقوم جهازنا المناعي في غالب الأحيان بتحديد وتدمير البكتريا التي تصيبنا. في "
+"بعض الأحيان، يكون تكاثر البكتيريا خارج عن نطاق السيطرة، ولذا نحتاج إلى مضاد "
+"حيوي. وتقضي المضادات الحيوية على البكتيريا، إلا أنها لا تعتبر ضارة على "
+"الإنسان. عادة يشعر الناس بالتحسن بعد يومين أو ثلاثة أيام من تناول المضادات، "
+"ولكن من المهم جدا أن تأخذ كل من المضادات الحيوية المقررة وفقا لتعليمات. وذلك "
+"للتأكد من القضاء على جميع البكتيريا وعدم الإصابة بعدوى جديدة."
+
+msgid ""
+"Other infections are caused by extremely small particles called <span "
+"class='key'>viruses</span>. Viruses aren't completely alive. They are "
+"inactive unless they are inside living cells. Once there, they cause the "
+"cell to make huge numbers of viruses,and then break open, releasing the "
+"viruses to infect other cells."
+msgstr ""
+"هناك إلتهابات جديدة تحدث بسبب جزئيات صغيرة تعرف بالفيروسات. وتكون في حالة "
+"غير نشطة إلا إذا كانت داخل خلايا حية. وعندما توجد داخلها فإنها تبدأ بالتكاثر "
+"لإنتاج أعداد كبيرة من الفيروسات وعندها تنطلق لإصابة خلايا أخرى"
+
+msgid ""
+"Our immune system can nearly always find ways to destroy viruses. Every time "
+"you have had a cold or the flu, you have suffered from a viral infection, "
+"and your immune system has cleared it from your body in one or two weeks. "
+"Once you have survived any virus, your immune system is able to remember it "
+"for a very long time, and is then able to identify and destroy it whenever "
+"you are exposed again."
+msgstr ""
+"إن جهازنا المناعي غالبا ما يجد طريقة لمكافحة الفيروسات. وفي كل مرة تصاب "
+"بالزكام أو الإنفلونزا فإنك تعاني من إلتهاب فيروسي، الذي يقوم جهازك المناعي "
+"بتطهير جسمك في مدة تتراوح ما بين أسبوع إلى أسبوعين. وعندما تشفى من أي فيروس "
+"يقوم جهازك المناعي بتذكر الفيروس لمدة طويلة، وبالتالي يمكن الجهاز من تحديد "
+"ومكافحة الفيروس في حال تعرض له الجسم مرة أخرى. "
+
+msgid ""
+"Some viruses, though, are so dangerous they can cause permanent damage or "
+"death before our immune systems can clear them out. For these diseases we "
+"rely on vaccinations to protect us from danger. <span "
+"class='key'>Vaccinations</span> use very weak varieties of virus or even "
+"broken up viral particles to teach our immune systems to identify and "
+"destroy these dangerous agents. Some vaccines are taken by mouth; others are "
+"given as shots."
+msgstr ""
+"هناك بعض الفيروسات تكون خطرة على صحة الإنسان من خلال أنها تسبب ضرراً دائما أو "
+"وفاة قبل أن يتمكن الجهاز المناعي من مكافحتها. وفي مثل هذه الحالات نلجأ إلى "
+"اللقاحات لحمايتنا اللقاحات: هي استخدام أصناف ضعيفة جدا من الفيروسات أو "
+"جزيئات فيروسية مفككة لتعليم نظام المناعة في الجسم لدينا لتحديد ومكافحة هذه "
+"المسببات الخطرة. بعض اللقاحات يتم تناولها  عن طريق الفم "
+
+# 9
+msgid ""
+"Question A. A person is prescribed an antibiotic for ten days. She begins "
+"taking the pills and feels much better after four days. What should she do "
+"with the remaining pills?"
+msgstr ""
+"السؤال الأول: لقد تم وصف مضاد حيوي لشخص لمدة عشرة أيام، وقد شعرت بالتحسن بعد "
+"أربعة أيام من تناول المضاد، فما الواجب عليها فعله مع حبوب المضاد المتبقية؟"
+
+msgid "She should return them to the pharmacy."
+msgstr "ينبغي عليها إعادتها للصيدلية"
+
+msgid "She should take all of the pills, even though she feels better."
+msgstr "ينبغي عليها أن تتناول جميع حبوب المضاد، حتى لو شعرت بالتحسن"
+
+msgid "She should save the pills in case she gets sick again."
+msgstr "ينبغي عليها أن تحتفظ بالحبوب المتبقية في حال مرضت مرة أخرى"
+
+msgid "She should give the pills to a friend in case they get sick too."
+msgstr "يجب أن تعطي الحبوب لصديقة في حال مرضت مرة أخرى"
+
+msgid ""
+"Question B. Click on <span class='blink red'>ALL</span> the correct "
+"statements below."
+msgstr "السؤال الثاني: انقر على الزر أدناه للعبارة الصحيحة "
+
+msgid "All bacteria cause disease."
+msgstr "جميع أنواع البكتريا تسبب الأمراض "
+
+msgid "Usually infections are caused by bacteria or viruses."
+msgstr "تتسبب العدوى عادة من خلال البكتريا أو الفيروسات"
+
+msgid "Bacteria and viruses make copies of themselves in our bodies."
+msgstr "تنتسخ البكرتيا والفيروسات نفسها في أجسامنا "
+
+msgid ""
+"We rely on our immune system to identify and destroy any disease agent our "
+"body is exposed to."
+msgstr "نعتمد على جهازنا المناعي لمكافحة الأمراض التي تصيب أجسامنا "
+
+msgid ""
+"Not quite! Most bacteria do not cause disease and are actually helpful to "
+"people."
+msgstr "ليس تماما! معظم البكتريا لا تسبب أمراض وهي في الواقع مفيدة للناس"
+
+msgid ""
+"You got it! Infections can come from bacteria and viruses. Bacteria and "
+"viruses both reproduce inside our body and make millions of copies of "
+"themselves to attack our body systems. Our bodies will fight off any disease "
+"agent and remember what it was in the future. For very dangerous diseases we "
+"also rely on vaccinations."
+msgstr ""
+"لقد وجدتها! العدوى قد تحدث بسبب البكتريا والفيروسات. كلا البكتريا والفيروسات "
+"تتكون داخل أجسامنا وتنتسخ نفسها ملايين المرات لمحاربة أجهزة الجسم. وسوف "
+"تكافح أجسامنا مسببات المرض وتتذكر المسبب في المستقبل. وفي حالة الأمراض "
+"الخطيرة المعدية نعتمد على التطعيمات"
+
+msgid "Nope! She should take all of the pills."
+msgstr "لا! ينبغي عليها تناول جميع حبوب المضاد الحيوي"
+
+msgid ""
+"Correct! If she takes the entire dose, she will kill all of the bacteria."
+msgstr "صحيح! إذا تناولت كامل الجرعة فإنها سوف تقضي على جميع البكتريا"
+
+msgid ""
+"That's dangerous. She should take all of the pills to kill all of the "
+"bacteria."
+msgstr "هذا خطير! ينبغي عليها أن تتناول جميع الحبوب لتقضي على جميع البكتريا"
+
+msgid "No way! That's very dangerous! Never give medication away."
+msgstr "مستحيل! هذا خطر! يجب عدم إعطاء الأدوية لآخرين "
+
+# 10
+msgid ""
+"One way to always try to keep your body healthy is make sure you are eating "
+"the right foods. Foods provide us with energy, and the materials needed for "
+"growth and general well-being. The digestive system takes in food and breaks "
+"it down into the simple molecules from which it is made. They fall into "
+"three main groups: carbohydrates, fats, and protein."
+msgstr ""
+"هناك طريقة للحفاظ على الجسم الصحي؛ من خلال التأكد من تناول الطعام الصحي. "
+"يزودنا الطعام بالطاقة والمواد اللازمة للعيش بطريقة صحية. يقوم  الجهاز الهضمي "
+"بتفتيت الغذاء إلى جزيئات بسيطة التي تكون منها، والتي تقع في ثلاث مجموعات "
+"رئيسية هي: الكربوهيدرات، والدهون، والبروتين"
+
+msgid ""
+"<span class='key'>Carbohydrates</span> provide our bodies with the energy we "
+"need to function. Sugars are simple carbohydrates that provide energy almost "
+"immediately. Complex carbohydrates, also called starches, are long chains of "
+"simple sugar molecules that provide energy over a course of hours. Some "
+"foods rich in carbohydrates include potatoes, bread, rice, and pasta."
+msgstr ""
+"<span class='key'>الكربوهيدرات:</span> تزود أجسادنا بالطاقة التي نحتاجها "
+"للعمل. السكريات هي كربوهيدرات بسيطة  توفر الطاقة بصورة فورية سريعة. "
+"الكربوهيدرات المعقدة، وتسمى أيضا النشويات، هي سلاسل طويلة من جزيئات السكر "
+"البسيطة التي توفر الطاقة خلال دورة من ساعة. بعض الأطعمة الغنية بالكربوهيدرات "
+"مثل البطاطا، والخبز، والأرز، والمعكرونة."
+
+msgid ""
+"<span class='key'>Fats</span> store energy for longer term use. When a "
+"person takes in more carbohydrates than they can use in the short term, some "
+"of the sugar molecules are turned into fat. When energy is needed, fats can "
+"be converted back into sugars for immediate use. Fats in our diets are "
+"stored for later use. Fats, like cooking oils, that are liquid at room "
+"temperature are called lipids. Dietary sources of fats include cooking oils, "
+"butter, cheese, and meat."
+msgstr ""
+"<span class='key'>الدهون:</span> تخزن الطاقة لاستخدامها على المدى الطويل. "
+"عندما يأخذ شخص أكثر من حاجته من الكربوهيدرات فإن جزء منها يستخدمها على الأجل "
+"القصير، بينما تتحول بعض جزيئات السكر الى دهون. عندما تكون هناك حاجة للطاقة "
+"فإن الدهون يمكن تحويلها مرة أخرى إلى سكريات للاستخدام الفوري. يتم تخزين "
+"الدهون في وجباتنا الغذائية لاستخدامها لاحقا. وتسمى الدهون، مثل زيوت الطبخ، "
+"والتي تكون سائلة في درجة حرارة الغرفة الدهون. وتشمل المصادر الغذائية للدهون "
+"والزيوت والطبخ، والزبدة، والجبن، واللحوم."
+
+msgid ""
+"<span class='key'>Proteins</span> are long chains of simple amino acid "
+"molecules. Proteins are important for building muscles and organs. The amino "
+"acids in our diets are the same amino acids needed to build our own muscles "
+"and organs. Some important protein sources include meat, poultry, fish, and "
+"beans."
+msgstr ""
+"<span class='key'>البروتينات:</span> هي سلاسل طويلة من جزيئات بسيطة من "
+"الأحماض الأمينية. البروتينات مهمة لبناء العضلات والأعضاء. الأحماض الأمينية "
+"في وجباتنا الغذائية هي نفسها الأحماض الأمينية اللازمة لبناء العضلات والأجهزة "
+"الخاصة بنا. وتشمل بعض مصادر البروتين الهامة اللحوم والدواجن والأسماك "
+"والبقوليات."
+
+msgid ""
+"<span class='key'>Vitamins</span> are nutrients needed in only very small "
+"amounts. They serve as helpers to make our body chemistry work as it should. "
+"Even though we need only small amounts of each, lacking vitamins in our "
+"diets causes a variety of disorders. Even though a balanced diet supplies "
+"all necessary vitamins, many people choose to take vitamin supplements each "
+"day."
+msgstr ""
+"الفيتامينات: هي عناصر غذائية الازمة فقط بكميات صغيرة جدا. أنها بمثابة مساعد "
+"لجعل كيمياء الجسم لدينا تعمل كما يجب. على الرغم من أننا نحتاج فقط إلى كميات "
+"صغيرة من كل، ونقص  الفيتامينات في وجباتنا الغذائية يسبب مجموعة متنوعة من "
+"الاضطرابات. على الرغم من لوازم اتباع نظام غذائي متوازن فإن جميع الفيتامينات "
+"الضرورية، كما أن العديد من الأشخاص يتناولون مكملات الفيتامينات يومياً."
+
+msgid "Vitamin"
+msgstr "فيتامين"
+
+msgid "Symptom of Deficiency"
+msgstr "أعراض نقص"
+
+msgid "Natural Source of Vitamin"
+msgstr "مصدر طبيعي للفيتامين"
+
+msgid "DIARRHEA, LACK OF GROWTH"
+msgstr "الإسهال ونقص النمو "
+
+msgid "CARROTS, DANDELIONS, GREEN VEGETABLES, HAY"
+msgstr "والجزر، الهندباء، الخضروات الخضراء"
+
+msgid "WHEAT GERM, YEAST, MEAT, LIVER"
+msgstr " جنين القمح ،خميرة، اللحوم كبد"
+
+msgid "SWOLLEN JOINTS, SCURVY"
+msgstr "تورم المفاصل، داء الاسقربوط"
+
+msgid "FRESH FRUITS AND VEGETABLES"
+msgstr "الخضروات والفواكة الطازجة"
+
+msgid "RICKETS"
+msgstr "كساح الأطفال"
+
+msgid "FRESH LIVER OILS, WHEAT GERM, GREEN VEGETABLES"
+msgstr "زيت كبد الطازج، جنين القمح، الخضروات الخضراء"
+
+msgid "CLICK TO VIEW"
+msgstr "انقر للمشاهدة "
+
+msgid ""
+"Many people are interested in the calorie values of their foods. <span "
+"class='key'>Calories</span> measure the amount of energy a particular food "
+"holds in its molecules. When the molecules are broken down, the energy is "
+"released. We gain weight when we take in more calories than we burn. We lose "
+"weight when we burn more calories than we take in."
+msgstr ""
+"معظم الناس يهتمون بتقييم السعرات الحرارية للأطعمة الخاصة بهم. والسعرات "
+"الحرارية هي قياس كمية الطاقة لجزيئات طعام معين.   ويتم إطلاق الطاقة عندما "
+"يتم تفتيت الطعام إلى جزيئات. ويزيد وزننا عندما نتناول سعرات الحرارية أكثر "
+"مما نحرق. بينما نفقد الوزن عندما نحرق سعرات حرارية أكثر مما نستهلك منهاا "
+
+msgid ""
+"Any healthy diet should include all types of food and enough calories to "
+"make it through each day without getting sick. The food labels on all "
+"packaged foods and available in many restaurants summarize the nutrition "
+"values of the foods we eat. One such label is shown on the right."
+msgstr ""
+"يجب أن يحتوي أي نظام غذائي صحي على جميع أنواع المجموعات الغذائية والسعرات "
+"الحرارية التي تساعد على مزاولة أي نشاط من دون الإصابة بأي مرض.وتلخص الملصقات "
+"التي على الأطعمة الغذائية القيم الغذائية للأطعمة التي نتناولهاويظهر على "
+"الجانب الأيمن مثال على الملصق الغذائي "
+
+msgid "SKIN DISORDERS, POOR REPRODUCTION"
+msgstr "أمراض الجلد، "
+
+msgid "WHEAT GERM, GREEN VEGETABLES"
+msgstr "جرثومة القمح، الخضروات الخضراء"
+
+msgid ""
+"NOTE: VITAMIN B AFFECTS THE NERVOUS SYSTEM AND A REGULAR SMALL AMOUNT IS "
+"EFFECTIVE IN TREATING STRESS, ONE OF THE PRIMARY CONTRIBUTORS IN MANY "
+"DISEASES ESPECIALLY WET TAIL."
+msgstr ""
+"ملاحظة، يؤثر فيتامين ب على الجهاز العصبي، بينما يمنك من خلال كميات صغيرة منه "
+"من معالجة الإجهاد. كما يساههم في مكافحة العديد من الأمراض"
+
+# 11
+msgid ""
+"Question A. Bobby's dad has been told by his doctor to lose 10 pounds in the "
+"next year. How should Bobby's dad change his daily routine?"
+msgstr ""
+"السؤال الأول: طلب الطبيب من أبي أن ينقص وزنه 10 كيلو خلال سنة، كما يجب عليه "
+"أن يغير من روتين حياته اليومي؟ "
+
+msgid ""
+"Cut calorie intake and increase exercise so that he uses more calories than "
+"he takes in."
+msgstr ""
+"خفض السعرات الحرارية وزيادة ممارسة الرياضة حتى انه يستهلك سعرات حرارية أكثر "
+"مما يكتسبها"
+
+msgid "Increase calorie intake while cutting out beans and meats."
+msgstr "زيادة السعرات الحرارية مع الاستغناء عن الفول واللحوم."
+
+msgid "Decrease exercise while increasing the amounts of starches he eats."
+msgstr "تقليل ممارسة الرياضة مع زيادة استهلاك كميات من النشويات"
+
+msgid ""
+"Cut calorie intake and decrease exercise to increase the amount of energy "
+"stored as fat."
+msgstr ""
+"خفض السعرات الحرارية وتقليل ممارسة الرياضة لزيادة كمية الطاقة المخزنة على "
+"شكل دهون"
+
+msgid ""
+"Question B. What might happen if we did not eat enough meat, poultry, fish, "
+"or beans?"
+msgstr ""
+"السؤال الثاني: ما الذي يمكن أن يحدث إذا لم يتم تناول اللحوم والدواجن "
+"والأسماك والفول بكميات كافية؟ "
+
+msgid "We would gain weight."
+msgstr "يزيد وزننا "
+
+msgid "We would be thirsty."
+msgstr "نشعر بالعطش"
+
+msgid "We would not be able to build muscles."
+msgstr "لن نكون قادرين على بناء العضلات"
+
+msgid "We would not have any energy at all."
+msgstr "لن يكون لدينا أي طاقة على الإطلاق "
+
+msgid "That's the one that works!"
+msgstr "هذا الذي له فائدة "
+
+msgid ""
+"Nope! Increasing calorie intake without exercise will actually make him gain "
+"weight."
+msgstr ""
+"كلا! زيادة السعرات الحرارية من دون ممارسة الرياضة تجعله في الواقع يزيد وزنه"
+
+msgid "Decrease exercise and increase starch? His weight is going up!"
+msgstr "تقليل ممارسة الرياضة مع زيادة تناول النشا؟ سوف يزيد وزنه "
+
+msgid ""
+"Not quite! Increasing the amount of energy stored increases his weight. That "
+"won't work."
+msgstr "ليس تماما! زيادة كمية الطاقة المخزونة سوف يزيد وزنه. هذا لن ينجح"
+
+msgid "Nope! You probably would not gain weight by not eating some foods."
+msgstr "كلا! ربما لن يزيد وزنك من خلال عدم تناول بعض الأطعمة"
+
+msgid "Not quite! Meat, poultry, fish, and beans are all food high in protein."
+msgstr ""
+"ليس تماما! إن اللحوم والدواجن والأسماك والفول جميعها أطعمة غنية بالبروتين"
+
+msgid ""
+"Correct! meat, poultry, fish, and beans are all food high in protein which "
+"is needed to build muscle mass."
+msgstr ""
+"صحيح! اللحوم والدواجن والأسماك والفول جميعها أطعمة غنية بالبروتين الازم "
+"لبناء الكتلة العضلية "
+
+msgid ""
+"Think again! You would still have energy from other sources, such as "
+"carbohydrates."
+msgstr "فكر مرة أخرى! مازال لديك طاقة من مصادر أخرى مثل الكربوهيدرات "
+
+# 12
+msgid ""
+"Many substances that are common in our society are harmful to the body. "
+"Around the house, products used for cleaning and household chores are often "
+"quite poisonous. Even the medications prescribed for family members can be "
+"very dangerous if not used properly. Using any type of medicine without "
+"supervision by a doctor and pharmacist is a very dangerous situation. The "
+"effects of many of these powerful drugs can lead to illness and even death."
+msgstr ""
+"العديد من المواد المعروفة في مجتمعنا تعتبر ضارة لأجسامناحيث أنه غالبا ما "
+"تكون الأشياء في جميع أنحاء المنزل، والمنتجات المستخدمة لتنظيف والأعمال "
+"المنزلية سامة للغاية.كما أن الأدوية الموصوفة لأفراد الأسرة يمكن أن تكون "
+"خطيرة جدا إذا لم تستخدم بشكل صحيح؛ حيث أن استخدام أي نوع من الأدوية دون "
+"إشراف الطبيب والصيدلي هو وضع خطير جدا نظراً  لأن العديد من هذه الأدوية القوية "
+"لها أثر يمكن أن يؤدي إلى المرض وحتى الموت."
+
+msgid ""
+"Another commonly misused substance is alcohol. Alcohol changes our "
+"perceptions of the world around us, and makes us drowsy and less able to "
+"react to stimuli. Like many other drugs, alcohol is addictive,that is to say "
+"it becomes a substance people depend upon to help them make it through each "
+"day. Smoking is still a problem too; not just for those who smoke. Smoking "
+"is related to many health problems including lung cancer,heart disease, and "
+"high blood pressure. Even second-hand, or smoke from someone else who is "
+"smoking near you, can increase the risk of heart disease and cancer."
+msgstr ""
+"مادة أخرى يتم إساءة استخدامها بطريقة شائعة هي الكحول. الكحول يغير تصوراتنا "
+"للعالم من حولنا، ويجعلنا نشعر بالنعاس وأن نكون أقل قدرة على الاستجابة "
+"للمحفزات. والكحول مثل كثير من الأدوية يسبب الادمان، من خلال أن يعتمد على "
+"الناس على هذه المادة يوميا. ومازال التدخين يمثل مشكلة أيضا؛ ليس فقط بالنسبة "
+"لأولئك الذين يدخنون. يسبب التدخين الكثير من المشاكل الصحية بما في ذلك سرطان "
+"الرئة وأمراض القلب، وارتفاع ضغط الدم. كما أن التدخين السلبي من خلال وجود شخص "
+"آخر بالقرب منك يدخن يمكن أن تزيد من خطر الإصابة بأمراض القلب والسرطان."
+
+msgid ""
+"Having a healthy body means thinking about health. It means being aware of "
+"what's in our diets, and it means making sure that we exercise regularly. "
+"Half of fitness means eating a healthy diet. The other half is engaging in "
+"enough strenuous exercise to attain and maintain a healthy weight. Vigorous "
+"exercise also makes our heart and muscles stronger, and enhances the way we "
+"feel about ourselves.<br/><br/>Exercises that strengthen the heart and "
+"increase endurance are designed with three factors in mind: frequency, "
+"intensity, and duration.  Frequency is just how often exercise is performed. "
+"Intensity is related to how fast or how hard the exercise is performed. The "
+"intensity needs to be enough to put stress on the heart, but not so much "
+"that a person tires before the exercise can do its good. That's duration, or "
+"how long an exercise is performed. Generally, adults should engage in at "
+"least 30 minutes of intense exercise each day. While we often think of "
+"intense exercises being such activities as swimming or running, simply "
+"walking can raise heart rates enough to make big differences in fitness."
+msgstr ""
+"إن الجسم الصحي يعني التفكير بالصحة. ويعني أيضاً الوعي النظام الغذائي، وعلى "
+"ممارسة الرياضة بانتظام. نصف اللياقة البدنية تعني تناول نظام غذائي صحي، بينما "
+"النصف الآخر يعني مزاولة الرياضة بصورة كافية للحصول على وزن صحي والمحافظة "
+"عليه. كما تقوي الأنشطة الرياضية القلب والعضلات، كما تعزز من الشعور بذاتنا. "
+"التمرينات الرياضية التي تعزز من قوة القلب وقدرته تعتمد على ثلاث عوامل هي "
+"التكرار والقوة والمدة. التكرار هو عدد مرات تنفيذ التمرين، بينما ترتبط القوة "
+"بحث القلب على القيام بجهد وهذا الجهد لا يجب أن يجبر الشخص على التوقف قبل "
+"إكمال التمرين. كما تتعلق المدة بزمن مزاولة التمرين، وللبالغين عموما يجب أن "
+"لا يقل زمن مزاولتهم للتمارين المكثفة عن ثلاثين دقيقة يومياًوهناك اعتقاد أن "
+"السباحة والجري هي تمرينات رياضية مكثفة، بينما يمكن لرياضة المشي أن تزيد من "
+"معدل ضربات القلب بطريقة يمكن أن تحدث أثر في اللياقة "
+
+# 13
+msgid ""
+"Question A. Connect each of the descriptions on the right to the requirement "
+"for exercise it describes on the left by dragging any of the circles at the "
+"left column to another circle in the right column. Click the \"Start Over\" "
+"button to remove the lines and connect again."
+msgstr ""
+"السؤال أ. صل كل من التوصيفات التي على اليمين مع شروط التمرينات الرياضية "
+"المكتوبة على اليسار من خلال سحب أي من الدوائر التي في العمود الأيسر إلى "
+"الدائرة الأخرى في العمود الأيمن إنقر على زر \"البدء من جديد\" لإزالة الوصلات "
+"بين الأعمدة والبدء من جديد"
+
+msgid "Start Over"
+msgstr "البدء من جديد"
+
+msgid "Frequency"
+msgstr "التكرار"
+
+msgid "Duration"
+msgstr "المدة"
+
+msgid "Intensity"
+msgstr "القوة "
+
+msgid "Increase heart rate while exercising."
+msgstr "زيادة معدل ضربات القلب أثناء التمرينات الرياضية "
+
+msgid "Exercise a set number of days per week."
+msgstr "ممارسة الرياضة بعدد محدد من أيام في الأسبوع"
+
+msgid "Try to exercise at least 30 minutes per day."
+msgstr "مزاولة الرياضة لمدة ثلاثين 30 دقيقة على الأقل يوميا"
+
+msgid ""
+"Question B. Which of the following is <span class='blink red'>NOT</span> "
+"usually associated with heavy use of alcohol?"
+msgstr "السؤال ب. أي مما يلي يعتبر عادة مرتبطة بتناول الكحول بكميات كبيرة؟ "
+
+msgid "Extreme coolness"
+msgstr "البرودة الشديدة "
+
+msgid "Safe driving"
+msgstr "القيادة الآمنة "
+
+msgid "Low risk of heart disease"
+msgstr "انخفاض مخاطر الإصابة بأمراض القلب"
+
+msgid "Healthy liver function"
+msgstr "عمل الكبد بطريقة صحية"
+
+msgid "That's it! Heavy drinking is decidedly UNcool."
+msgstr "هذا كل شيء! الافراط في شرب الخمر هو بالتأكيد عادة غير جذابة"
+
+msgid "Hardly. Don't get into a car with someone who's been drinking."
+msgstr "لا تركب مع أحد يقود سيارته وهو تحت تأثير الحكول "
+
+msgid "Think again! Heart disease risk goes up with heavy alcohol use."
+msgstr ""
+"فكر مرة أخرى، ترتفع خطر الإصابة بأمراض القلب عند تناول الكحول بصورة مفرطة "
+
+msgid "Not quite! Heavy drinking is damaging to the liver."
+msgstr "ليس تماما! التناول المفرط للكحول يدمر الكبد"
+
+# 14
+msgid "Using what you know... about staying healthy... to solve a problem"
+msgstr "استخدام ما تعرف ... حول البقاء بصحة جيدة ... لحل مشكلة"
+
+msgid "The Scenario"
+msgstr "السيناريو "
+
+msgid ""
+"You are a nutritionist working in a school. After taking some surveys you "
+"have realized that the majority of the fourth and fifth grade students are "
+"eating either a pastry that is put in the toaster, or sugar-coated cereal "
+"for breakfast 90% of the time. By solving this breakfast nutrition problem, "
+"you can help the students learn more in class."
+msgstr ""
+"أنت مسؤول تغذية تعمل في مدرسة، وقد اكتشفت بعد الإطلاع على الإحصاءات أن 90% "
+"من تلاميذ الصف الرابع والخامس الابتدائي يتناولون المعجنات المحمصة أو الحبوب "
+"المغلفة بالسكر في الإفطار في معظم الوقت. ولحل مشكلة الإفطار والتغذية تستطيع "
+"مساعدة التلاميذ لتعلم المزيد من المعلومات في الفصل"
+
+msgid "Your Task"
+msgstr "مهمتك"
+
+msgid ""
+"Explain to them why this breakfast is incomplete, and offer them healthier "
+"breakfast ideas. (Hint: you can inform them about the food groups their "
+"breakfast is not including, or about the harm in having too much of certain "
+"substances.)"
+msgstr ""
+"وضح لهم لماّذا هذا الفطور يعتبر ناقص وزودهم بأفكار عن الفطور الصحي تلميح: "
+"يمكنك إطلاعهم على المجموعات الغذائية الناقصة في فطورهم، أو سلبيات تناول نوع "
+"واحد من المواد بكميات كبيرة "
+
+msgid "Click here to start typing your answer..."
+msgstr "اضغط هنا لكتابة إجابتك"
+
+# 15
+msgid "Summarizing core ideas... about staying healthy"
+msgstr "تلخيص الأفكار الأساسية ... حول البقاء بصحة جيدة"
+
+msgid ""
+"Our bodies are composed of many systems that work together to keep us "
+"healthy. Each system is made up of a set of organs that function both "
+"independently and as a unit.We looked at the <span class='key'>circulatory</"
+"span>, <span class='key'>respiratory</span>, <span class='key'>excretory</"
+"span>, <span class='key'>skeletal</span>, <span class='key'>digestive</"
+"span>, <span class='key'>endocrine</span>, and <span class='key'>nervous "
+"system</span> in this review. Most infections are caused by one of two "
+"agents: <span class='key'>bacteria</span> or <span class='key'>viruses</"
+"span>. Most of the time, our immune system is able to identify and destroy "
+"the bacteria and viruses infecting us. When it can't destroy bacteria, we "
+"need antibiotic medication, and when the virus is too dangerous, we get "
+"vaccinated ahead of time. Another way to stay healthy is to eat the right "
+"foods. The three main food groups are <span class='key'>carbohydrates</"
+"span>, <span class='key'>fats</span>, and <span class='key'>protein</span>. "
+"<span class='key'>Calories</span> are a measurement of the amount of energy "
+"a particular food holds in its molecules. Any healthy diet should include "
+"all types of food and enough calories to make it through each day without "
+"getting sick. The last point of staying healthy is to exercise and avoid "
+"substances that are harmful to the body. Prescribed medication for others, "
+"alcohol, cigarettes, drugs, and other substances that might even be in the "
+"home should be avoided to stay healthy."
+msgstr ""
+"تتكون أجسامنا من العديد من الأجهزة التي تعمل معاً لإبقائنا بحالة صحية. وكل "
+"جهاز يتكون من مجموعة من الأعضاء تعمل بشكل مستقل وكوحدة واحدة بنفس الوقت. "
+"معظم حالات العدوى تعمل من خلال وسيطين هما البكتريا أو الفيروسات وفي معظم "
+"الأحيان يقوم نظام المناعة في الجسم على تحديد ومقاومة البكتريا والفيروسات "
+"المسببة للعدوى. أما في حالة عدم استطاعة الجسم مكافحة البكتريا فتكون هناك "
+"حاجة لتناول المضادات الحيوية. أما في حالة الفيروسات الخطرة فيتم التطعيم في "
+"وقت مبكر. المجموعات الغذائية الرئيسية الثلاث هي: الكربوهيدرات، والدهون "
+"والبروتيناتالسعرات الحرارية: هي قياس كمية الطاقة طعام معين يحمل في جزيئاته. "
+"وينبغي أن يتضمن أي نظام غذائي صحي جميع أنواع المواد الغذائية والسعرات "
+"الحرارية بما يكفي لمزاولة النشاط اليومي من دون الإصابة بالمرضنقطة الأخيرة من "
+"البقاء في صحة جيدة هو ممارسة الرياضة وتجنب المواد التي تضر الجسم. وينبغي "
+"تجنب الدواء الموصوف للآخرين، والكحول، والسجائر، والمخدرات، وغيرها من المواد "
+"التي قد تكون حتى في المنزل البقاء في صحة جيدة."
+
+# 16
+msgid "Reviewing key vocabulary... related to staying healthy"
+msgstr "مراجعة المصطلحات الأساسية ... المرتبطة بالبقاء بصحة جيدة"
+
+msgid "Calorie"
+msgstr "السعرات الحرارية "
+
+msgid "Carbohydrates"
+msgstr "الكربوهيدرات "
+
+msgid "Cells"
+msgstr "الخلايا "
+
+msgid "Circulatory system"
+msgstr "الجهاز الدوري "
+
+msgid "Digestive system"
+msgstr "الجهاز الهضمي "
+
+msgid "Excretory system"
+msgstr "جهاز الإخراج "
+
+msgid "Fats"
+msgstr "الدهون "
+
+msgid "Immune system"
+msgstr "جهاز المناعة "
+
+msgid "Nervous system"
+msgstr "الجهاز العصبي "
+
+msgid "Organs"
+msgstr "الأعضاء "
+
+msgid "Proteins"
+msgstr "البروتينات "
+
+msgid "Reproductive system"
+msgstr "الجهاز التناسلي "
+
+msgid "Respiratory system"
+msgstr "الجهاز التنفسي "
+
+msgid "Skeletal system"
+msgstr "الهيكل العظمي "
+
+msgid "Systems"
+msgstr "الأجهزة "
+
+msgid "Tissues"
+msgstr "الأنسجة "
+
+msgid "Vitamins"
+msgstr "الفيتامينات "
+
+msgid "A unit of heat energy used to compare foods."
+msgstr "وحدة من الطاقة الحرارية تستخدم للمقارنة بين الأطعمة"
+
+msgid "Quick energy food made of simple and complex sugars and starches."
+msgstr "طاقة غذائية سريعة مكونة من السكريات البسيطة والمعقدة والنشويات "
+
+msgid "The smallest units of living things."
+msgstr "أصغر وحدة من الكائنات الحية "
+
+msgid ""
+"Heart, blood, and vessels responsible for the movement of nutrients and "
+"gasses throughout the body."
+msgstr ""
+"القلب، الدم والأوعية هي المسؤولة عن حركة المواد الغذائية والغازات في جميع "
+"أنحاء الجسم "
+
+msgid ""
+"Stomach, liver, intestines, and other organs responsible for the breakdown "
+"and processing of food prior to absorption."
+msgstr ""
+"المعدة والكبد والأمعاء وغيرها من الأعضاء هي المسؤولة عن هضم الطعام قبل "
+"الامتصاص "
+
+msgid "Kidneys and other organs responsible for the removal of chemical waste."
+msgstr "الكلية وغيرها من الأعضاء هي المسؤولة عن التخلص من الفضلات الكيميائية "
+
+msgid "Energy storage food made of fatty acids and glycerol."
+msgstr "تخزين الطاقة الغذائية المصنوعة من الأحماض الدهنية والجليسرول"
+
+msgid ""
+"White blood cells, bone marrow, thymus, and spleen responsible for fighting "
+"infection."
+msgstr ""
+"خلايا الدم البيضاء، ونخاع العظام، والغدة الصعترية، والطحال هي المسؤولة عن "
+"مكافحة العدوى"
+
+msgid ""
+"Nerves, spinal cord, and brain responsible for responses to the environment."
+msgstr "الأعصاب والنخاع الشوكي، والدماغ هي المسؤولة عن الاستجابات للبيئة"
+
+msgid "Collections of tissues working together to perform functions."
+msgstr "مجموعة من الأنسجة تعمل معا لأداء وظائف"
+
+msgid "Structural substances made from amino acids."
+msgstr "المواد الهيكلية مكونة من الأحماض الأمينية"
+
+msgid ""
+"Ovaries, testes, and other organs responsible for the production of "
+"offspring."
+msgstr "المبيضين، الخصيتين، وغيرها من الأعضاء المسؤولة عن إنتاج ذرية"
+
+msgid ""
+"Lungs and other structures responsible for taking in oxygen and removing "
+"carbon dioxide."
+msgstr ""
+"الرئتين وغيرها من الهياكل تعتبر المسؤولة عن أخذ في الأوكسجين وطرد ثاني أكسيد "
+"الكربون"
+
+msgid ""
+"Rigid framework of bones and connective tissues responsible for supporting "
+"and protecting the body."
+msgstr "هيكل صلب من العظام والأنسجة الضامة المسؤولة عن دعم وحماية الجسم "
+
+msgid "Collections of organs working together to perform related tasks."
+msgstr "مجموعة من الأعضاء التي تعمل معا لأداء المهام ذات الصلة ببعضها البعض"
+
+msgid "Groups of similar cells working together to perform similar functions."
+msgstr "مجموعة من الخلايا مماثلة تعمل معا لأداء وظائف مماثلة"
+
+msgid ""
+"Nutrients needed in very small amounts to support normal growth and activity."
+msgstr "عناصر غذائية لازمة بكميات صغيرة جدا لدعم النمو الطبيعي والنشاط"
+
+# 17
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"الإجابة على الأسئلة الست (6) التالية سوف تعطيك فكرة عن ما تعرفه الآن وما "
+"الذي مازلت بحاجة إلى دراسته "
+
+msgid "Click the NEXT button when you are ready."
+msgstr "اضغط على زر التالي إذا كنت مستعداً "
+
+msgid "Checking what you now know... about staying healthy"
+msgstr "تأكد مما تعرف ...حول البقاء بصحة جيدة"
+
+# 18
+msgid "The spinal cord is part of which of the following body systems?"
+msgstr "في أي جزء من أجزاء الجسم التالية يعتبر جزء من الحبل الشوكي؟ "
+
+msgid "Digestive System"
+msgstr "الجهاز الهضمي "
+
+msgid "Nervous System"
+msgstr "الجهاز العصبي "
+
+msgid "Muscular System"
+msgstr "الجهاز العضلي "
+
+msgid "Integumentary System"
+msgstr "الجهاز الغلافي "
+
+msgid ""
+"Not quite! The spinal cord is about information; the digestive system is "
+"about food."
+msgstr ""
+"لا ليس دقيقاً! الحبل الشوكي متعلق بالمعلومات، بينما الجهاز الهضمي متعلق "
+"بالطعام "
+
+msgid "You got it! The spinal cord carries information to and from the brain."
+msgstr "ممتاز! الحبل الشوكي ينقل المعلومات من وإلى الدماغ "
+
+msgid ""
+"Try again! The spinal cord is about information; the muscular system is "
+"about movement."
+msgstr ""
+"حاول مرة أخرى، الحبل الشوكي خاص بالمعلومات، بينما الجهاز العضلي خاص بالحركة. "
+
+msgid ""
+"Nope! The spinal cord is about information; the integumentary system is "
+"about protection."
+msgstr ""
+"لا! الحبل الشوكي متعلق بالمعلومات، بينما الجهاز الغلافي متعلق بالحماية "
+
+# 19
+msgid "Choose the correct statement:"
+msgstr "اختر العبارة الصحيحة: "
+
+msgid "A. Organs may be made of a variety of different tissues."
+msgstr "أ- تتكون الأعضاء من أنواع مختلفة من الأنسجة  "
+
+msgid "B. Each organ is made of a unique tissue type."
+msgstr "ب. كل عضو يتكون من نوع أنسجة فريدة من نوعها "
+
+msgid "C. Organ systems consist of only a single type of tissue."
+msgstr "ج. تتألف الأعضاء من نوع واحد فقط من الأنسجة "
+
+msgid "D. Cells are made of many different tissue types."
+msgstr "د. تتكون الخلايا من عدة أنواع من الأنسجة المختلفة"
+
+msgid ""
+"Rotate or flip the box on the left either up or down to set your answer."
+msgstr "أدر المربع للأعلى أو الأسفل لتحديد إجابتك "
+
+msgid "Click, hold and slide mouse up or down."
+msgstr "انقر، ومرر الفارة للأعلى أو الأسفل "
+
+msgid "That's right! Organs may be made of many tissues."
+msgstr "هذا صحيح، تتكون الأعضاء من عدة أنسجة "
+
+msgid "Look again! Organs MAY be made of more than one tissue."
+msgstr "انظر مرة أخرى! تتكون الأعضاء من أكثر من نسيج "
+
+msgid "Nope! Systems are made of organs; organs may be made of many tissues."
+msgstr "لا! تتكون الأجهزة من أعضاء، وتتكون الأعضاء من أنسجة "
+
+msgid "The exact opposite, tissues are made of cells."
+msgstr "العكس هو الصحيح، تتكون الأنسجة من خلايا "
+
+# 20
+msgid "Which of the following is affected by the respiratory system?"
+msgstr "أي من التالي يتأثر بالجهاز التنفسي؟ "
+
+msgid "Hiccup"
+msgstr "الحازوقة "
+
+msgid "Sneeze"
+msgstr "العطس "
+
+msgid "Yawn"
+msgstr "تثاءب"
+
+msgid "All of the above"
+msgstr "جميع ما سبق"
+
+msgid ""
+"Not quite! Hiccups are the sudden movements of the diaphragm, but it's not "
+"the only one affected by the respiratory system."
+msgstr ""
+"ليس تماما! الحازوقة هي حركة مفاجئة للحجاب الحاجز، ولكنها ليست الوحيدة "
+"المتأثرة بالجهاز التنفسي "
+
+msgid ""
+"Not quite! Sneezing is like a cough in the upper breathing passages, but "
+"it's not the only one affected by the respiratory system."
+msgstr ""
+"ليس تماما! العطس مثل السعال في ممرات التنفس العلوية، ولكنها ليست الوحيدة "
+"المتأثرة بالجهاز التنفسي "
+
+msgid ""
+"Not quite! Yawning happens when your lungs do not take enough oxygen from "
+"the air because we are sleepy or drowsy. But it's not the only one affected "
+"by the respiratory system."
+msgstr ""
+"ليس تماما! التثاؤب يحدث عندما لا تحصل رئتيك على أكسجين كاف من الهواء بسبب "
+"النعاس، ولكنها ليست الوحيدة المتأثرة بالجهاز التنفسي "
+
+msgid ""
+"Correct! Hiccupping, sneezing, and yawning are all affected by the "
+"respiratory system."
+msgstr "صحيح! تتأثر الحازوقة والعطاس والتثاؤب بالجهاز التنفسي "
+
+# 21
+msgid "What is the main function of the circulatory system?"
+msgstr "ماهي الوظيفة الرئيسية للجهاز الدوري؟ "
+
+msgid "To help us breathe"
+msgstr "لمساعدتنا على التنفس "
+
+msgid "To provide support for the body"
+msgstr "لتقديم الدعم للجسم "
+
+msgid "To control the digestive and reproductive systems"
+msgstr "التحكم بالجهاز الهضمي والجهاز التناسلي "
+
+msgid "To control the blood flow around the body"
+msgstr "للسيطرة على تدفق الدم في جميع أنحاء الجسم "
+
+msgid ""
+"Nope! The circulatory system circulates blood to all the far out places of "
+"the body."
+msgstr "لا! الجهاز الدوري يقوم بتدوير الدم إلى جميع المناطق البعيدة في الجسم "
+
+msgid ""
+"Not quite! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr ""
+"ليس بالدقة! الجهاز الدوري يقوم بتدوير الدم إلى جميع المناطق البعيدة في الجسم "
+
+msgid ""
+"Try again! The circulatory system circulates blood to all the far out places "
+"of the body."
+msgstr ""
+"حاول مرة أخرى! الجهاز الدوري يقوم بتدوير الدم إلى جميع المناطق البعيدة في "
+"الجسم "
+
+msgid ""
+"You got it! The circulatory system circulates blood to all the far out "
+"places of the body."
+msgstr ""
+"ممتاز! الجهاز الدوري يقوم بتدوير الدم إلى جميع المناطق البعيدة في الجسم "
+
+# 22
+msgid "How should a person plan diet and exercise if they want to lose weight?"
+msgstr ""
+"ماهو النظام الغذائية والتمرينات الرياضية الواجب على الشخص اتباعها إذا كان "
+"يريد إنقاص وزنه؟ "
+
+msgid "Exercise should use fewer calories than diet takes in."
+msgstr ""
+"يجب أن تستهلك التمرينات الرياضية سعرات حرارية أقل من سعرات النظام الغذائي "
+
+msgid "Diet and exercise are not related to one another."
+msgstr "النظام الغذائي والتمرينات الرياضية كلاهما لا يرتبطان ببعضهما البعض "
+
+msgid "At least one major food group should be eliminated from the diet."
+msgstr "ينبغي استبعاد مجموعة غذائية رئيسية واحدة على الأقل من النظام الغذائي"
+
+msgid "Exercise should use more calories than diet takes in."
+msgstr ""
+"يجب أن تستهلك التمرينات الرياضية سعرات حرارية أكثر من سعرات النظام الغذائي "
+
+msgid "Nope! This plan will add weight."
+msgstr "لا، هذه الحمية تزيد الوزن "
+
+msgid "Try again! Diet and exercise certainly ARE related to one another."
+msgstr ""
+"حاول مرة أخرى! الحمية الغذائية والتمرينات الرياضية مرتبطان ببعضهما البعض"
+
+msgid ""
+"Not a good idea. Eliminating food groups isn't generally healthy approach."
+msgstr ""
+"لا تعتبر فكرة صائبة! لأن استبعاد المجموعات الغذائية لا يعتبر عادة صحية "
+
+msgid "Super! This plan will lead to weight loss."
+msgstr "عظيم، هذا النظام يساعد على إنقاص الوزن"
+
+# 23
+msgid "How are exercise and heart rate related?"
+msgstr "العلاقة بين مزاولة الرياضة ومعدل ضربات القلب "
+
+msgid "Heavy exercise increases heart rate"
+msgstr "تزيد الرياضة العنيفة من معدل ضربات القلب"
+
+msgid "Heavy exercise decreases heart rate"
+msgstr "تقلل الرياضة العنيفة من معدل ضربات القلب"
+
+msgid "Sitting still increases heart rate"
+msgstr "مازال الجلوس يزيد من معدل ضربات القلب "
+
+msgid "Light exercise decreases heart rate"
+msgstr "تقلل الرياضة الخفيفة من معدل ضربات القلب "
+
+msgid "You got it! Heavy exercise does increase heart rate."
+msgstr "لقد وجدتها، التمرينات الرياضية العنيفة تزيد من معدل ضرابات القلب"
+
+msgid "The exact opposite! Go over the choices again."
+msgstr "العكس هو الصحيح، ارجع للخيارات مرة أخرى "
+
+msgid "Nope! Sitting still does little to heart rate."
+msgstr "لا! تأثير الجلوس لا يكاد يذكر على معدل ضربات القلب "
+
+msgid ""
+"Tricky... Actually any exercise elevates heart rate, at least a little bit."
+msgstr ""
+" في الواقع أي ممارسة للتمرينات الرياضة يرفع معدل ضربات القلب، حتى لو كانت "
+"بسيطة. إنها معقدة...."
+
+# 24
+msgid "Congratulations, "
+msgstr "تهانينا"
+
+msgid "You've completed the Staying Healthy review."
+msgstr "لقد أكملت مراجعة العناية بالصحة "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"يمكنك التأكد من إجاباتك من خلال \"التحقق السريع\" وأسئلة الاختبار لهذه "
+"المراجعة من خلال النقر على الزر أدناه"
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى شاشة العرض"
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك"

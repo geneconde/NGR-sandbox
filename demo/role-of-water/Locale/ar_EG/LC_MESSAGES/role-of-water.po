@@ -1,0 +1,1161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: role of water\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Guzman <eguzmanfdez@gmail.com>\n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 1
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Role of Water"
+msgstr "دور المياه"
+
+msgid "Welcome to the Role of Water review"
+msgstr "أهلا بكم في مراجعة دور المياه"
+
+# 2
+msgid "Thinking about... the role of water"
+msgstr "التفكير ب ...دور المياه"
+
+msgid ""
+"There's a famous old poem called The Rime of the Ancient Mariner, with a "
+"couple of lines that say: \"Water, water, everywhere, But not a drop to drink"
+"\"."
+msgstr ""
+"هناك قصيدة قديمة مشهورة تسمى صقيع الملاح القديم، مع زوجين من الأسطر يقولان: "
+"ماء،ماء في كل مكان، ولكن لا يوجد نقطة ماء للشرب.  "
+
+msgid ""
+"But how can that be? How can you have water everywhere but none to drink? "
+"You're right. The key to the puzzle is in the name of the poem... The Rime "
+"of the Ancient Mariner. A mariner is another name for a sailor on the ocean. "
+"'Mariner' is a word related to the word 'marine' – like if you wanted to be "
+"a marine scientist you'd be studying the ocean. So if you were a sailor on a "
+"ship on the ocean and ran out of water on the ship, you would be surrounded "
+"by water but there would be none to drink!! And that's because the ocean is "
+"composed of <span class='key'>salt water</span> and we only drink <span "
+"class='key'>fresh water</span> – water with no salt in it!! As a matter of "
+"fact, drinking salt water can be harmful if you drink too much and don't "
+"drink any fresh water. If you ever swam in salt water and swallowed a "
+"mouthful, you would know how bad it tastes. But don't worry – a mouthful "
+"won't hurt you. But fresh water is absolutely critical to your survival."
+msgstr ""
+"ولكن كيف يمكن ذلك؟ كيف يمكن أن يكون لديك ماء في كل مكان ومع ذلك ليس لديك ماء "
+"للشرب؟ أنت محق.  مفتاح اللغز يكمن في عنوان القصيدة ....صقيع الملاح القديم.  "
+"الملاح هو مسمى آخر للبحار في المحيط.\"الملاح \" كلمة مرتبطة بكلمة \" البحر\" "
+"اذا أردت أن تصبح عالماً بحرياً فسوف تقوم بدراسة المحيط.  لذلك اذا كنت بحار على "
+"متن سفينة في المحيط ونفذت مياه الشرب لديك ، سوف تكون محاط بالماء ولكن ليس "
+"لديك ماء صالح للشرب! وهذا لأن المحيط مكون من  <span class='key'>مياه مالحة</"
+"span> ونحن نشرب فقط  <span class='key'>المياه العذبة</span>- ماء بدون ملح! "
+"كحقيقة، شرب المياه المالحة يمكن أن يكون مؤذيا اذا شربت الكثير منه و لم تشرب "
+"ماء عذب أبدا. اذا سبق و سبحت في المياه المالحة و ابتلعت رشفة، فسوف تعرف كم "
+"أن طعمه سيء. ولكن لاتقلق- رشفة لن تؤذيك. ولكن بكل تأكيد الماء العذب أساسي "
+"لبقائك حي "
+
+msgid "Are you ready"
+msgstr "هل أنت مستعد"
+
+# 3
+msgid "Checking what you know... about the role of water"
+msgstr "تفحص ما تعرفه عن ... دور المياه"
+
+msgid "Most of the fresh water on earth can be found in..."
+msgstr "معظم المياه العذبة تكون موجودة في .."
+
+msgid "Lakes"
+msgstr "البحيرات"
+
+msgid "Rivers"
+msgstr "الأنهار"
+
+msgid "Glaciers and Ice Caps"
+msgstr "الأنهار والقمم الجليدية. "
+
+msgid "Underground rocks"
+msgstr "الصخور في باطن الأرض"
+
+msgid ""
+"If you answered glaciers and ice caps, you're correct! Over 68 percent of "
+"the fresh water on Earth is found in icecaps and glaciers, and just over 30 "
+"percent is found in groundwater – that’s the water that people pump up from "
+"underground and is found in rock and sand formations."
+msgstr ""
+"وإذا كانت الإجابة الأنهار الجليدية والقمم الجليدية، فإجابتك صحيحة! أكثر من "
+"68 في المئة من المياه العذبة على الأرض موجودة في القمم الجليدية والأنهار "
+"الجليدية، وما يزيد قليلا عن 30 في المئة موجودة في المياه الجوفية - هذا الماء "
+"الذي يضخه الناس من تحت الأرض و هو موجود في ما بين الصخور والرمال \"."
+
+msgid "Swimming in freshwater..."
+msgstr "السباحة في المياه العذبة"
+
+# 4
+msgid "Reviewing core ideas... about the role of water"
+msgstr "مراجعة الأفكار الرئيسية ....حول دور المياء"
+
+msgid ""
+"Did you know that your body is made up of about 70% water? That means you "
+"are almost three quarters water! But nearly all the water on earth – 97.5% – "
+"is salt water in the ocean. Only 2.5% of the water on earth is the fresh "
+"water that we need to survive. That's why protecting our freshwater "
+"resources is so important for human survival, especially because what little "
+"we have is being threatened by pollution and overuse!"
+msgstr ""
+"هل تعلم أن جسمك يتكون من حوالي 70٪ من الماء؟ هذا يعني أنك تقريبا ثلاثة أرباع "
+"ماء! ولكن ما يقرب من معظم المياه على الأرض - 97.5٪ - هي مياه مالحة في "
+"المحيط.  وفقط 2.5٪ من الماء على الأرض هي مياه عذبة نحتاجها من أجل البقاء.  "
+"هذا هو السبب في أن حماية موارد المياه العذبة لدينا مهم جدا لبقاء الإنسان، "
+"وخاصة لأن ما لدينا هو قليل جداً ومهدد بسبب التلوث والإفراط في الاستخدام!"
+
+msgid "Salt water"
+msgstr "الماء المالح"
+
+msgid "Salt Water"
+msgstr "ماء مالح"
+
+msgid "Fresh water"
+msgstr "ماء عذب"
+
+msgid "Freshwater"
+msgstr "ماء عذب"
+
+msgid "Fresh Water"
+msgstr "ماء عذب"
+
+msgid ""
+"So where is all this fresh water anyway? You probably thought first of lakes "
+"and rivers – that makes sense because that's the fresh water you usually "
+"see. But it turns out that only a tiny part of all the Earth's fresh water "
+"is in lakes and rivers. Most of the earth's fresh water is tied up in the "
+"polar ice caps and the huge glaciers in Greenland. That water isn't easy to "
+"get to for you to drink, is it? And a lot more water is underground where "
+"you can't see it. This underground water is called <span "
+"class='key'>groundwater</span>. It's not in underground rivers or lakes or "
+"pools of water. It's millions and billions, and trillions of little water "
+"droplets in between sand grains in the rocks that are under the earth's "
+"surface. But this turns out to be an important water supply because it is "
+"underneath almost all the land on earth and we can drill down and pump it "
+"out to use it."
+msgstr ""
+"لذلك أين هو كل هذا الماء العذب على أي حال؟ ربما تكون في البداية فكرت "
+"بالبحيرات و الأنهار- هذا منطقي لأنه هذا هو الماء العذب الذي تراه عادة.  ولكن "
+"يتضح أن هناك جزء بسيط من المياه العذبة على سطح الأرض موجودة في البحيرات و "
+"الأنهار.  معظم المياه العذبة في الأرض تجمعت في القمم القطبية و الأنهار "
+"الجليدية الضخمة في غرينلاند.  تلك المياه الموجودة في داخل الأرض تسمى <span "
+"class='key'>مياه جوفية</span>.  إنها ليست أنهار أو بحيرات أو برك تحت الأرض.  "
+"إنها ملايين، وبلايين، وتريليونات القطرات في ما بين الصخور التي هي تحت سطح "
+"الأرض.  ولكنها كانت مصادر مياه مهمة لأنها موجودة تحت معظم اليايسة على الأرض "
+"ويمكننا أن نحفر ونضخ هذه المياه ونستخدمها."
+
+msgid "Blue glacier in Greenland"
+msgstr "النهر الجليدي الأزرق  في غرينلاند"
+
+msgid "Digging for groundwater..."
+msgstr "الحفر بحثا عن المياه الجوفية"
+
+# 5
+msgid "A little less than the amount of salt water in the ocean."
+msgstr "أقل بقليل من كمية المياه المالحة في المحيط"
+
+msgid "About the same as the amount of salt water in the ocean."
+msgstr "تقريبا نفس كمية المياه المالحة في المحيط"
+
+msgid "Almost all gone."
+msgstr "على الأغلب كلها"
+
+msgid ""
+"Correct! About 97.5% of the water on earth is salt water and only 2.5% is "
+"fresh water."
+msgstr ""
+"صحيح! حوالي 97,5%من الماء على سطح الأرض مياه مالحة وفقط 2,5% هي مياه عذبة"
+
+msgid ""
+"Correct! The amount of fresh water in rivers and lakes that is easily "
+"available to populated areas on earth is often polluted and not drinkable. "
+"So for much of the earth's population the amount of clean drinkable water is "
+"threatened by pollution and overuse."
+msgstr ""
+"صحيح! كمية الماء العذب في الأنهار و البحيرات متوفرة بسهولة للأماكن المأهولة "
+"على الأرض هي في الغالب ملوثة وغير صالحة للشرب.  لذلك بالنسبة لأكثرية سكان "
+"العالم كمية المياه النظيفة الصالحة للشرب مهددة بالتلوث و الاستخدام الجائر."
+
+msgid "More than the amount of salt water in the ocean."
+msgstr "أكثر من كمية المياه المالحة في المحيط."
+
+msgid "Much less than the amount of salt water in the ocean."
+msgstr "أقل بكثير من كمية المياه المالحة في المحيط."
+
+msgid ""
+"Nope! About 97.5% of the water on earth is salt water and only 2.5% is fresh "
+"water."
+msgstr ""
+"كلا! حوالي (97.5%) من مياء الكرة الأرضية هي مياه مالحة و فقط (2.5%) هو ماء "
+"عذب."
+
+msgid ""
+"Nope! There's a lot of water on earth but most of it is salt water, which we "
+"can't drink. Most of the fresh water is tied up in glaciers. The amount of "
+"fresh water left in rivers and lakes that we can easily drink is polluted "
+"and not drinkable. So for most of the earth's population, there isn't enough "
+"clean fresh water to drink."
+msgstr ""
+"كلا! هناك الكثير من الماء على الأرض لكن معظمه مالح، وهو ما لا نستطيع شربه.  "
+"معظم الماء العذب موجود في الأنهر المتجمدة.  كمية الماء العذب المتبقية في "
+"الأنهار و البحيرات و التي نستطيع شربها بسهولة ملوثة و غير صالحة للشرب .  "
+"لذلك بالنسبة لمعظم سكان العالم، لا يوجد ماء عذب نظيف كاف للشرب."
+
+msgid "Plenty for all of the population on the earth."
+msgstr "الكثير لجميع سكان الأرض."
+
+msgid "Preparing your first quick check..."
+msgstr "التحضير لإختبارك السريع الأول..."
+
+msgid "Question A. The amount of fresh water on the earth is..."
+msgstr "السؤال أ. كمية الماء العذب على سطح الأرض هي ...."
+
+msgid "Question B. The amount of clean fresh water on the earth is..."
+msgstr "السؤال ب . كمية الماء العذب النظيف على سطح الأرض هي ..."
+
+msgid "Running out quickly."
+msgstr "تنفذ بسرعة"
+
+msgid ""
+"Sorry. There is still plenty of fresh water on earth in glaciers and "
+"icecaps. It's just not easily available for people to drink."
+msgstr ""
+"آسف. لا زال هناك الكثير من الماء العذب على الأرض في الأنهار الجليدية و القمم "
+"الجليدية.  ولكنها ليست متوفرة بسهولة للناس لشربها."
+
+msgid "Threatened by pollution and overuse."
+msgstr "مهددة بالتلوث و الاستخدام الجائر."
+
+msgid "You answered..."
+msgstr "أنت أجبت ..."
+
+# 6
+msgid "Gas"
+msgstr "غاز"
+
+msgid "Liquid"
+msgstr "سائل"
+
+msgid ""
+"Of all the substances that make up the earth, water has properties that make "
+"it very unusual in many ways. One of the most important properties that make "
+"water different than almost any other substance on earth is that water can "
+"be a solid, or a liquid, or a gas at normal temperatures that humans "
+"commonly experience. For instance, when it's really cold outside, below 32 "
+"degrees Fahrenheit (that's the freezing point of water), water can be found "
+"in its solid form as snow or ice. If it stays cold all year long for a very "
+"long time, like at the north or south poles, the frozen water gradually "
+"builds up into huge mounds of snow and ice like <span class='key'>glaciers</"
+"span> in Antarctica at the South Pole or the frozen sea <span "
+"class='key'>ice cap</span> at the North Pole."
+msgstr ""
+"من كل المواد التي تشكل الكرة الأرضية، الماء له خصائص تجعله مختلفاً في عدة "
+"طرق.  واحدة من أهم الخصائص التي تجعل الماء مختلفا عن معظم المواد الأخرى هو "
+"أن الماء يمكن أن يكون صلبا، أو سائلاً، أو غازياً في درجات الحرارة العاديةالتي "
+"يختبرها الإنسان غالبا.  مثلا، عندما يكون الجو بارداً في الخارج، تحت 32 درجة "
+"فهرنهايتية ( وهي نقطة تجمد الماء )، يتواجد الماء بحالته الصلبة على شكل جليد "
+"أو ثلج.  اذا استمر الجو بالبرودة على مدار العام لفترة طويلة، كما هو الحال في "
+"الأقطاب الشمالي و الجنوبي، ستبنى المياه المتجمدة بالتدريج على شكل تلال من "
+"الثلج و الجليد مثل  <span class='key'>الأنهار المتجمدة</span>  في القارة "
+"المتجمدة في القطب الجنوبي أو مثل  <span class='key'>قمة متجمدة</span>  في "
+"البحر المتجمد في القطب الشمالي. "
+
+msgid "Researching different state of water..."
+msgstr "البحث في الحالات المختلفة للماء ..."
+
+msgid "Solid"
+msgstr "صلب"
+
+msgid ""
+"Water can also be a gas at normal temperatures that humans typically "
+"experience. When water is a gas you can't see it because it's mixed in with "
+"the air. You can feel it though – it's called <span class='key'>humidity</"
+"span>! Sometimes on a hot summer day, no matter what you do - you sweat. "
+"That's because the air is <span class='key'>humid</span> – which means "
+"there's a lot of water in the air. And usually, the hotter it is, the more "
+"humid it is - especially if you live in certain parts of the country like "
+"Florida, or Louisiana, or even Chicago. But if you live near a desert, "
+"there's very little humidity because the air is very dry."
+msgstr ""
+"يمكن للماء أن يكون غاز عند درجات الحرارة العادية التي يختبرها الانسان بشكل "
+"نموذجي.  عندما يكون الماء غازا لا يمكنك رؤيته لانه مختلط مع الهواء.  يمكنك "
+"الشعور به مع أنه يسمى - <span class='key'>الرطوبة</span> !  احيانا في يوم "
+"صيفي حار، لا يهم ماذا تفعل - تتعرق.  هذا لأن الهواء <span class='key'>رطب</"
+"span> - وهذا يعني هناك الكثير من الماء في الهواء.  و في العادة ، كلما كان "
+"أسخن ، كان أكثر رطوبة- وخاصة اذا كنت تعيش في أجزاء معينة في البلاد مثل "
+"فلوريدا، أو لويزيانا، أو حتى شيكاغو .  ولكن اذا كنت تعيش بالقرب من صحراء، "
+"هناك القليل من الرطوبة لأن الهواء جاف جداً\"."
+
+# 7
+msgid "As glaciers on the north pole."
+msgstr "كالأنهار المتجمدة في القطب الشمالي"
+
+msgid "As snow and ice on both the north and south polar regions."
+msgstr "كالثلج و الجليد في المناطق القطبية الشمالية و الجنوبية."
+
+msgid "As snow in the winter in the northern part of the earth."
+msgstr "كالثلج في الشتاء في الجزء الشمالي للأرض."
+
+msgid "As snow on mountaintops."
+msgstr "كثلج على قمم جبلية."
+
+msgid "Can be both ice and snow."
+msgstr "يمكن أن يكون الاثنين جليد و ثلج."
+
+msgid "Can be solid, liquid, or gas at normal human temperatures."
+msgstr "يمكن أن يكون صلب،أو سائل ، او غاز عند درجات حرارة انسانية طبيعية."
+
+msgid "Can feel it but you can't see it."
+msgstr "يمكن الشعور بها و لكن لا يمكن رؤيتها."
+
+msgid "Can see it."
+msgstr "يمكن رؤيتها."
+
+msgid "Can taste it."
+msgstr "يمكن تذوقها."
+
+msgid "Can't see it but you can smell it."
+msgstr "لا يمكن رؤيتها ولكن يمكن شمها."
+
+msgid "Can feel it but you can’t see it."
+msgstr "يمكن الشعور بها ولكن لا يمكن رؤيتها."
+
+msgid ""
+"Correct! Gaseous water in the atmosphere (also called the air) is called "
+"humidity. You can \"feel\" water vapor or gas in the air because the "
+"humidity makes your sweat stick to you, making you feel hot."
+msgstr ""
+"صحيح! الماء الغازي في الغلاف الجوي ( أيضا يسمى الهواء ) يسمى الرطوبة.  يمكنك "
+"الشعور ببخار الماء أو الغاز في الهواء لأن الرطوبة تجعل تعرقك يلتصق بك، مما "
+"يشعرك بالحر."
+
+msgid ""
+"Correct! Most of the frozen (solid) water on earth, also known as ice or "
+"snow is found on the Earth's polar ice caps on both the North Pole and the "
+"South Pole (which is the continent called Antarctica)."
+msgstr ""
+"صحيح! معظم الماء المتجمد ( الصلب) على الأرض، يعرف أيضا بالجليد أو الثلج "
+"موجود على الأرض في القمم الجليدية القطبية على القطبين الشمالي و الجنوبي "
+"( وهي القارة المسماة أنتراكتكا)."
+
+msgid "Glaciers melting glaciers..."
+msgstr "أنهار جليدية تذيب أنهار جليدية ..."
+
+msgid "Is clear."
+msgstr "صافية"
+
+msgid "Is wet."
+msgstr "رطبة"
+
+msgid "Nope... there are many different clear liquids on earth."
+msgstr "كلا... هناك العديد من السوائل النقية المختلفة على الأرض."
+
+msgid ""
+"Nope... there may seem to be a lot of snow in winter in the north but it's "
+"not nearly as much as the ice caps on the north and south poles."
+msgstr ""
+"كلا ... قد يبدو أن هناك الكثير من الثلج في الشتاء في الشمال لكنه تقريبا ليس "
+"بنفس كمية القمم الجليدية في القطبين الشمالي و الجنوبي."
+
+msgid ""
+"Nope... you can't see gaseous water in the atmosphere. But when it just "
+"starts to turn into liquid water - called condensation - even before it "
+"rains you can sometimes see it as a haze."
+msgstr ""
+"كلا... لا يمكنك رؤية الماء الغازي في الغلاف الجوي.  لكن عندما يبدأ بالتحول "
+"إلى الماء سائل-يسمى بالتكاثف-حتى قبل أن تمطر أحيانا يمكنك رؤية على شكل ضباب"
+
+msgid ""
+"Not quite! There are no glaciers on the North Pole. Just an ice cap of "
+"frozen sea water."
+msgstr ""
+"ليس تماما! ليس هناك أنهار متجمدة في القطب الشمالي. فقط أغطية جليدية لمياه "
+"البحر المتجمدة"
+
+msgid ""
+"Not quite... water can be ice and snow but those are both just names for "
+"solid water."
+msgstr ""
+"ليس تماما... الماء يمكن أن يكون ثلج أو جليد ولكنهما فقط أسماء للماء الصلب"
+
+msgid ""
+"Question A. One of the properties that makes water unlike almost all other "
+"substances on earth is that it..."
+msgstr ""
+"السؤال أ . أحد الخصائص التي تجعل الماء مختلفاً عن غيره من معظم المواد "
+"الموجودة على الأرض هي ..."
+
+msgid "Question B. When water is in its gaseous form in the atmosphere you..."
+msgstr "السؤال ب . عندما يكون الماء في حالته الغازية في الغلاف الجوي فأنت ..."
+
+msgid "Question C. Solid water is found on earth mainly..."
+msgstr "السؤال ج . يوجد الماء الصلب بشكل أساسي على الأرض ..."
+
+msgid ""
+"Sorry... there may seem to be a lot of snow in the mountains of the earth – "
+"like on Mt. Everest - but it's not nearly as much as the ice caps on the "
+"North and South poles."
+msgstr ""
+"آسف ...  قد يبدو أن هناك الكثير من الثلوج في جبال الأرض - مثل على جبل ايفرست "
+"- ولكنها ليست بقدر  القمم الجليدية في القطبين الشمالي والجنوبي."
+
+msgid ""
+"Sorry... wet just means liquid and there are lots of different liquids on "
+"earth."
+msgstr ""
+"آسف ...نحن فقط نعني السائل و هناك الكثير من السوائل المختلفة على الأرض."
+
+msgid "Think again! Water gas or vapor in the air is tasteless."
+msgstr "فكر مجددا! الماء الغازي أو البخار في الهواء ليس له طعم."
+
+msgid "Try again! People can't smell water in the atmosphere - it is odorless."
+msgstr ""
+"حاول مجدداً! لا يمكن للناس شم الماء في الغلاف الجوي - انه عديم الرائحة. "
+
+msgid ""
+"You got it! Water is unique in that it can be found in all three states of "
+"matter - solid, liquid, and gas - at temperatures that humans commonly "
+"experience."
+msgstr ""
+"لقد أصبت! المياه فريده من نوعها من حيث أنه يمكن العثور عليها في جميع حالات "
+"المادة الثلاث - الصلبة والسائلة، والغازية - في درجات الحرارة التي اعتاد "
+"عليها البشر ."
+
+# 8
+msgid ""
+"<span class='key'>Groundwater</span> is the best source for drinking water "
+"in most areas of the earth – even though there's only about half as much "
+"groundwater as there is water in polar ice caps. Groundwater is found "
+"underground when rain seeps into the ground and fills the little spaces "
+"between rock particles and the cracks and fractures in the rock – probably "
+"right under your house! As the rainwater seeps through the ground and into "
+"the rock, it is naturally filtered so in many places groundwater is pretty "
+"clean, although it can be polluted in some places as well. The main way we "
+"get groundwater out of the ground is to drill or dig a hole in the ground – "
+"called <span class='key'>water well</span> - and pump the water up. "
+"Sometimes the water is just a few feet down underground but sometimes the "
+"best clean water is hundreds of feet down and takes a very big drill to "
+"extract it."
+msgstr ""
+"<span class='key'>المياه الجوفية</span> هي أفضل مصدر لمياه الشرب في معظم "
+"مناطق الأرض - على الرغم من أن هناك فقط حوالي نصف كمية الماء في المياه "
+"الجوفية عنها في القمم الجليدية القطبية.   توجد المياه الجوفية تحت الارض "
+"عندما يتسرب المطر في الأرض ويملأ الفراغات الصغيرة بين جزيئات الصخور والشقوق "
+"والكسور في الصخور - ربما مباشرة تحت منزلك!حالما تتسرب مياه الأمطار من خلال "
+"الأرض وداخل الصخرة، يتم تصفيتها بشكل طبيعي لذلك في العديد من الأماكن المياه "
+"الجوفية نظيفة، على الرغم من أنها يمكن أن تكون ملوثة في بعض الأماكن أيضا.  "
+"الطريقة الرئيسية لنحصل على المياه الجوفية من باطن الأرض هي حفر حفرة في الأرض "
+"-تسمى <span class='key'>بئر ماء</span> - وضخ المياه. أحيانا يكون الماء مجرد "
+"بضعة أقدام تحت الأرض  ولكن في بعض الأحيان أفضل المياه النظيفة  تكون على بعد "
+"مئات الأقدام إلى أسفل ويلزم للحفر حفارة كبيرة جدا لاستخراجه ."
+
+msgid "Collecting water samples..."
+msgstr "جمع عينات الماء"
+
+msgid "Modern rotary drill rigs bore water well"
+msgstr "منصات الحفر الدوارة الحديثة تنقب عن الماء جيدا"
+
+msgid "More core ideas... about the role of water"
+msgstr "أفكار رئيسية أكثر حول ... دور الماء"
+
+msgid ""
+"While a lot of fresh water can be found in the frozen sea ice cap of the "
+"North Pole and the glaciers of the South Pole, that water is pretty far away "
+"from most people so it's not a good source for drinking water. Lakes and "
+"rivers are closer to most populated areas, and they are often used to get "
+"water for cities and towns, but they hold a very small amount of fresh water "
+"compared to other sources and they are sometimes pretty <span "
+"class='key'>polluted</span> – which means there's bad stuff in the water "
+"that can harm you. So where is the best source for fresh water for most "
+"populated areas? What is a source that holds a lot of water and isn't very "
+"polluted?"
+msgstr ""
+" في حين أن الكثير من المياه العذبة ويمكن العثور عليها في القمم المتجمدة في "
+"البحر المتجمد في القطب الشمالي والأنهار الجليدية من القطب الجنوبي،الا أن "
+"الماء لا يزال بعيدا جدا عن معظم الناس لذلك هي ليست مصدراً جيداً لمياه الشرب.  "
+"البحيرات والأنهار هي أقرب إلى المناطق الأكثر اكتظاظا بالسكان، وغالبا ما يتم "
+"استخدامها للحصول على المياه للمدن والبلدات، ولكنها تحمل كمية صغيرة جدا من "
+"المياه العذبة مقارنة بالمصادر الأخرى، وأنها في بعض الأحيان <span "
+"class='key'>ملوثة</span> - مما يعني أن هناك أشياء سيئة في المياه  يمكن أن "
+"تضر بك.  فأين هو أفضل مصدر للمياه العذبة في المناطق الأكثر اكتظاظا بالسكان؟ "
+"ما هو المصدر الذي يحمل الكثير من الماء وليس ملوثا للغاية؟ "
+
+# 9
+msgid "Atlantic and Pacific Oceans"
+msgstr "المحيط الأطلسي والمحيط الهادىء"
+
+msgid ""
+"Correct! Billions and billions and billions of tiny cracks and spaces in "
+"underground rocks and sediments is where most of all the groundwater on "
+"earth is found."
+msgstr ""
+"صحيح! المليارات والمليارات والمليارات من الشقوق والفراغات الصغيرة  في الصخور "
+"تحت الأرض والرواسب حيث تم العثور على معظم المياه الجوفية على وجه الأرض."
+
+msgid "Cracks and spaces in underground rocks"
+msgstr "الشقوق و الفراغات في الضخور الأرضية"
+
+msgid "Groundwater"
+msgstr "المياه الأرضية"
+
+msgid "Nope! The Atlantic and Pacific oceans are salt water not fresh water."
+msgstr "كلا! المحيطين الأطلسي و الهادىء هما مالحين و ليسا عذبين."
+
+msgid ""
+"Nope! Underground rivers are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr ""
+"كلا! الأنهار تحت الأرض نادرة للغاية في طبيعتها وليست موردا رئيسيا للمياه "
+"الجوفية."
+
+msgid ""
+"Not quite... underground rivers and lakes are extremely rare in nature and "
+"are not a major supplier of groundwater."
+msgstr ""
+"ليس تماما ... الأنهار الجوفية والبحيرات نادرة للغاية في طبيعتها وليست موردا "
+"رئيسيا للمياه الجوفية."
+
+msgid ""
+"Not quite... the Great Lakes in the United States and ALL of the other lakes "
+"and rivers in the world account for only a very small percentage of the "
+"fresh water on earth."
+msgstr ""
+"ليس تماما ... البحيرات الكبرى في الولايات المتحدة و <span class='key'>جميع</"
+"span>  البحيرات والأنهار الأخرى في العالم تشكل فقط نسبة صغيرة جدا من المياه "
+"العذبة على وجه الأرض."
+
+msgid "Question A. Groundwater is found in..."
+msgstr "السؤال أ . توجد المياه الجوفية في ..."
+
+msgid "Question B. The largest source of fresh water on earth is..."
+msgstr "السؤال ب. أكبر مصدر للمياه العذبة على الأرض هو ..."
+
+msgid "Ready for your last quick check?"
+msgstr "هل أنت جاهز لاختبارك السريع الأخير؟"
+
+msgid ""
+"Sorry. Underground lakes are extremely rare in nature and are not a major "
+"supplier of groundwater."
+msgstr ""
+"آسف ... البحيرات الجوفية نادرة جدا في الطبيعة و ليست مصدراً أساسياً للمياه "
+"الجوفية."
+
+msgid ""
+"Sorry... there is a lot of groundwater on earth but it accounts for only "
+"about 1/3 of all the fresh water on earth."
+msgstr ""
+"آسف ... هناك الكثير من المياه الجوفية و لكنها تشكل حوالي ثلث اجمالي المياه "
+"العذبة على الأرض فقط. "
+
+msgid "The Great Lakes"
+msgstr "البحيرات الكبرى."
+
+msgid "The Polar ice caps"
+msgstr "القمم الجليدية القطبية."
+
+msgid "Underground lakes"
+msgstr "البحيرات الجوفية."
+
+msgid "Underground rivers"
+msgstr "الأنهار الجوفية."
+
+msgid "Underground rivers and lakes"
+msgstr "الأنهار و البحيرات الجوفية"
+
+msgid ""
+"You got it! The glaciers and polar ice caps account for about 2/3 of all the "
+"fresh water on earth."
+msgstr ""
+"لقد أصبت ! الأنهار الجليدية و القمم الجليدية تشكل حوالي ثلثي اجمالي الماء "
+"العذب على سطح الأرض."
+
+# 10
+msgid "Using what you know... about the role of water... to solve a problem"
+msgstr "استخدم ما تعرفه ... عن دور الماء ... لحل المشكلة التالية."
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid ""
+"Saudi Arabia is a big country in the Mideast part of the world that is known "
+"for being very rich because it has lots of oil. Because it's so rich the "
+"government wants to build lots of buildings for lots of people. But it's a "
+"desert country, which means it doesn't have any rivers or lakes to get "
+"drinking water from. The Saudi government has just hired you as a consultant "
+"to help them figure out how to get fresh drinking water for their people."
+msgstr ""
+"المملكة العربية السعودية هي بلد كبير في الشرق الأوسط من العالم وهي معروفة "
+"لكونها غنية جدا لأن فيها الكثير من النفط. و لأنها غنية جدا تريد  الحكومة "
+"بناء الكثير من المباني لكثير من الناس، ولكنها بلد صحراوي ، مما يعني أنه ليس "
+"لديها أية أنهار أو بحيرات للحصول على مياه الشرب . الحكومة السعودية وظفتك  "
+"كمستشار لمساعدتهم على معرفة كيفية الحصول على مياه الشرب العذبة لشعبها ."
+
+msgid "The Assignment"
+msgstr "المهمة"
+
+msgid "Based on what you know about water sources, how would you help them?"
+msgstr "اعتمادا على ما تعرفه عن مصادر الماء ، كيف يمكنك مساعدتها؟"
+
+msgid "Please type your answer here..."
+msgstr "الرجاء طباعة اجابتك هنا.."
+
+msgid "Please type your answer."
+msgstr "يرجى طباعة إجابتك"
+
+msgid "Close me!"
+msgstr "أغلقني"
+
+msgid "Roaming the dry lands..."
+msgstr "التجول في الأراضي الجافة"
+
+# 11
+msgid "Putting it all together..."
+msgstr "جمعها مع بعضها..."
+
+msgid "Summarizing core ideas... about the role of water"
+msgstr "تلخيص الأفكار الرئيسية ...عن دور الماء"
+
+msgid ""
+"Nearly all the water on earth - 97.5% - is salt water in the ocean. Only "
+"2.5% of the water on earth is fresh water. And most of that fresh water is "
+"found in <span class='key'>glaciers</span>, <span class='key'>polar ice "
+"caps</span> and <span class='key'>groundwater</span>. Only a tiny percentage "
+"of fresh water can be found in the Earth's lakes and rivers. Water has the "
+"unusual property of being able to be found in all three <span "
+"class='key'>states of matter</span> - solid, liquid, and gas - at normal "
+"temperatures that humans experience. Large amounts of solid water, called "
+"ice (or snow), are found in nature: in glaciers and polar ice caps. Liquid "
+"water is the regular water you drink. And water in the gaseous state is "
+"invisible in the air but you can feel it as humidity when the air has a lot "
+"of water vapor mixed in with it."
+msgstr ""
+"تقريبا كل المياه على الأرض - 97.5٪ - هي المياه المالحة في المحيط .  وفقط "
+"2.5٪ من الماء على الأرض هي مياه عذبة وتم العثور على معظم هذه المياه العذبة "
+"في <span class='key'>الأنهار الجليدية</span> ،و <span class='key'>القمم "
+"الجليدية القطبية</span>  و <span class='key'>المياه الأرضية</span> .  فقط "
+"نسبة ضئيلة من المياه العذبة يمكن العثور عليها في البحيرات والأنهار على "
+"الأرض. الماء له خاصية مختلفة حيث أنه يمكن أن يكون موجوداً في جميع <span "
+"class='key'>حالات الثلاث للمادة</span> - الصلبة والسائلة، والغازية - في "
+"درجات الحرارة التي اعتاد عليها البشر.  كميات كبيرة من المياه الصلبة،تسمى "
+"الجليد (أو الثلج)، توجد في الطبيعة: في الأنهار الجليدية والقمم الجليدية "
+"القطبية الماء السائل هو الماء العادي الذي تشربه .  الماء في الحالة الغازية "
+"غير مرئي في الهواء ولكن يمكنك أن تشعر به على شكل الرطوبة عندما يكون الهواء "
+"مليء ببخار الماء المختلط به ."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr ""
+"الإجابة على 6 أسئلة قصيرة سيعطيك فكرة عن ما تعرف حالياً وما عليك أن تدرس."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر زر لاحق عندما تكون مستعداً"
+
+# 12
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف حالياً"
+
+msgid ""
+"A body of dense snow and ice that does not completely melt all year round. "
+"Glaciers are constantly moving under their own weight. They form when "
+"accumulation of snow exceeds the loss due to melting and sublimation."
+msgstr ""
+"كمية الثلوج الكثيفة والجليد التي لا تذوب تماما على مدار السنة. الأنهار "
+"الجليدية تتحرك باستمرار تحت وطأة وزنها.  وهي تتشكل عندما يتجاوز تراكم "
+"الثلوج  الخسارة الناجمة عن الذوبان والتسامي."
+
+msgid ""
+"An area of ice at the extreme northern and southern parts of the globe which "
+"is present year round.  The amount of ice fluctuates during the year, but "
+"some ice is always present in an ice cap."
+msgstr ""
+"مساحة الجليد في الأجزاء الشمالية والجنوبية المتطرفة من العالم التي تتواجد "
+"مدار السنة .  كمية الجليد تتقلب خلال العام، ولكن بعض الجليد حاضر دائما في "
+"الغطاء الجليدي."
+
+msgid "Glacier"
+msgstr "الأنهار الجليدية"
+
+msgid ""
+"Often called saline, it is water with salts dissolved into it (most commonly "
+"NaCl).  This type of water constitutes the various oceans and seas of the "
+"Earth.  Salt water is not drinkable by humans."
+msgstr ""
+"غالبا ما تسمى المحلول الملحي، هو الماء مع الأملاح الذائبة فيه (الأكثر شيوعا "
+"كلوريد الصوديوم).  وهذا النوع من المياه يشكل مختلف المحيطات والبحار من "
+"الأرض.  المياه المالحة غير صالحة للشرب من قبل البشر."
+
+msgid "Polar Ice Cap"
+msgstr "قمة جليدية قطبية"
+
+msgid "Polluted"
+msgstr "ملوث"
+
+msgid "Reviewing key vocabulary related to... the role of water"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ...بدور الماء"
+
+msgid ""
+"Solid, liquid, and gas states - the common forms of matter on earth.  For "
+"water, the solid state is ice.  The liquid state is liquid water.  And the "
+"gas state is water vapor or steam."
+msgstr ""
+"الحالات الصلبة والسائلة، والغازية - الأشكال الشائعة للمادة على الأرض .  "
+"بالنسبة للماء، الحالة الصلبة هو الجليد .  الحالة السائلة هو الماء السائل.   "
+"والحالة الغازية هو بخار الماء أو البخار."
+
+msgid ""
+"Something is deemed to be polluted when a foreign contaminant (often man "
+"made) has been introduced.  Water is one of the most commonly polluted "
+"substances.  Once an area has been polluted, it may no longer be able to "
+"support life, or if it can, the pollution may have adverse effects on the "
+"things living in or around it."
+msgstr ""
+"يعتبر الشيء ملوثا عندما يتم تعرضه لملوثات خارجية (غالبا من صنع الإنسان).  "
+"المياه هي واحدة من المواد الملوثة الأكثر شيوعا. بمجرد تلوث منطقة، فإنها قد "
+"لا تكون قادرة على دعم الحياة، أو إذا كان يمكن، قد يكون للتلوث آثاراً ضارة على "
+"الكائنات الحية في أو حول تلك المنطقة."
+
+msgid "States of matter"
+msgstr "حالات المادة"
+
+msgid ""
+"Water located below ground level.  This water is stored in the pore spaces "
+"of soil or in cracks between rocks.  The depth at which the pore spaces are "
+"completely filled with water is called the water table."
+msgstr ""
+"المياه تقع تحت مستوى سطح الأرض.  يتم تخزين هذه المياه في مسام التربة أو في "
+"الشقوق بين الصخور، ويسمى العمق الذي يتم تعبئة الفراغات المسامية تماما بالماء "
+"جدول المياه ."
+
+msgid ""
+"Water not containing significant amounts of salt dissolved into it.  This "
+"type of water constitutes most of the various lakes, rivers, and streams of "
+"the Earth.  Fresh water is drinkable by humans."
+msgstr ""
+"المياه لا تحتوي على كميات كبيرة من الأملاح الذائبة فيها.  هذا النوع من "
+"المياه يشكل معظم مختلف البحيرات والأنهار، والجداول على الأرض. المياه العذبة "
+"هي الصالحة للشرب من قبل البشر ."
+
+msgid "Words and explanations"
+msgstr "كلمات و تفسيرات"
+
+# 13
+msgid "Checking what you now know... about the role of water"
+msgstr "تفحص ما تعرفه ... عن دور الماء"
+
+# 14
+msgid "All of the lakes and rivers combined"
+msgstr "كل البحيرات و الأنهار مجتمعة"
+
+msgid "Almost all of the water on the earth is found in..."
+msgstr "معظم الماء على الأرض موجود في ..."
+
+msgid ""
+"Nope! A lot (1/3) of the fresh water on earth is in rocks underground "
+"(groundwater)  this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"كلا! هناك الكثير (1/3) من المياه العذبة على الأرض  في الصخور تحت الأرض "
+"(المياه الجوفية) وهذا لا يشكل سوى كمية صغيرة من مجموع المياه على الأرض."
+
+msgid ""
+"Not quite... a lot (2/3) of the fresh water on earth is in polar ice caps "
+"and glaciers but this accounts for only a small amount of the total water on "
+"earth."
+msgstr ""
+"ليس تماما ... الكثير (2/3) من المياه العذبة على الأرض هي في القمم الجليدية "
+"القطبية والأنهار الجليدية ولكن هذا لا يشكل سوى كمية صغيرة من مجموع المياه "
+"على الأرض."
+
+msgid "Polar ice caps"
+msgstr "القمم الجليدية القطبية."
+
+msgid "Rocks underground"
+msgstr "الصخور تحت الأرض"
+
+msgid ""
+"Sorry... all the rivers and lakes combined – even the Great Lakes – account "
+"for only a tiny, tiny amount of the total water on earth."
+msgstr ""
+"آسف ... كل الأنهار والبحيرات مجتمعة - حتى منطقة البحيرات الكبرى -تشكل فقط، "
+"كمية ضئيلة ، ضئيلة من مجموع المياه على الأرض."
+
+msgid "The oceans"
+msgstr "المحيطات"
+
+msgid ""
+"You got it! About 97% of the total amount of water on earth is in the oceans."
+msgstr ""
+"لقد أصبت ! حوالي (97%) من اجمالي كمية الماء على الأرض موجودة في المحيطات."
+
+msgid "Your first quiz question is..."
+msgstr "أول سؤال قصير هو ..."
+
+# 15
+msgid "Africa"
+msgstr "أفريقيا"
+
+msgid ""
+"Correct! The north and south poles are made from ice - which is frozen solid "
+"fresh water."
+msgstr ""
+"صحيح! الأقطاب الشمالية و الجنوبية مكونة من الجليد- أي منها ماء عذب صلب متجمد"
+
+msgid "Looking for freshwater?"
+msgstr "البحث عن المياه العذبة؟"
+
+msgid ""
+"Nope! Africa has some big lakes but they don't compare with the polar ice "
+"caps of the north and south poles."
+msgstr ""
+"كلا! افريقيا لديها بعض البحيرات الكبيرة لكنها لا تقارن مع القمم الجليدية "
+"القطبية في القطبين الشمالي والجنوبي."
+
+msgid "Not quite... the Pacific ocean is salt water not fresh water."
+msgstr "ليس تماما ... المحيط الهادىء هو ماء مالح و ليس عذب  "
+
+msgid "Sorry. The Atlantic ocean is salt water not fresh water."
+msgstr "آسف . المحيط الأطلسي هو ماء مالح وليس عذب"
+
+msgid "The Atlantic Ocean"
+msgstr "المحيط الأطلسي"
+
+msgid "The North and South Poles"
+msgstr "الأقطاب الشمالية و الجنوبية"
+
+msgid "The Pacific Ocean"
+msgstr "المحيط الهادىء"
+
+msgid ""
+"Where on a world map would you go to find the greatest supply of fresh water?"
+msgstr "أين يمكنك الذهاب على خريطة العالم لتجد أفضل امدادات للماء العذب؟"
+
+# 16
+msgid ""
+"Correct! Rocks with lots of tiny spaces and fractures in them are common and "
+"are a good place to find water. The water occupies those tiny spaces and is "
+"a common source of groundwater."
+msgstr ""
+"صحيح! الصخور ذات الفراغات الضيقة شائعة و جيدة لوجود ماء فيها.  الماء يحتل "
+"تلك المساحات الصغيرة و هي مصدر شائع للمياه الجوفية"
+
+msgid "Liquid rock"
+msgstr "الصخور السائلة"
+
+msgid "Nope! there is no such thing as liquid rock."
+msgstr "كلا! لا يوجد شيء باسم الصخور السائلة."
+
+msgid "Not quite... solid rock has no spaces for water to occupy."
+msgstr "ليس تماما... الصخور الصلبة ليس فيها فراغات لكي يحتلها الماء."
+
+msgid "Rock with lots of spaces and fractures in it"
+msgstr "الصخور ذات الفراغات الكثيرة والتصدعات الموجودة فيها. "
+
+msgid "Solid granite rock"
+msgstr "صخور الغرانيت الصلبة"
+
+msgid "Switching water filters on..."
+msgstr "تشغيل منقيات الماء..."
+
+msgid ""
+"The <span class='blink'>best</span> kind of rock to find groundwater in "
+"would be..."
+msgstr ""
+"<span class='key'>أفضل</span> أنواع الصخور لايجاد مياه جوفية فيها هي .."
+
+msgid ""
+"Try again... rocks with giant caves and passageways are very rare in nature "
+"so it would be hard to find a good source of groundwater in them."
+msgstr ""
+"حاول مجددا ... الصخور ذات الكهوف و الممرات العملاقة نادرة جدا في الطبيعة "
+"لذلك قد يكون من الصعب ايجاد مصدر جيد للمياه الجوفية فيها"
+
+# 17
+msgid "Bottled water"
+msgstr "المياه المعبأة"
+
+msgid ""
+"Correct! Human life - and most other forms of life on planet earth - "
+"requires fresh water to survive."
+msgstr ""
+"صحيح! حياة الإنسان- و معظم أشكال الحياة الأخرى على الكوكب-تتطلب الماء العذب "
+"للبقاء على قيد الحياة."
+
+msgid "Different kind of water..."
+msgstr "الأنواع المختلفة للماء..."
+
+msgid ""
+"Not quite! Bottled water is a kind of fresh water but it doesn't necessarily "
+"have to be bottled water for humans to survive."
+msgstr ""
+"ليس تماما! المياه المعبأة هي نوع من المياه العذبة ولكن ليس بالضرورة أن تكون "
+"المياة المعبأة أساسية لحياة الإنسان "
+
+msgid ""
+"Not quite! Spring water is a kind of fresh water but it doesn't necessarily "
+"have to be spring water for humans to survive."
+msgstr ""
+"ليس تماما! مياه الينابيع هي نوع من المياه العذبة ولكن ليس بالضرورة أن تكون "
+"لوحدها ضرورية لحياة الإنسان."
+
+msgid "Sorry... people can't drink salt water and survive."
+msgstr "آسف...لا يمكن للناس شرب الماء المالح و يبقون على قيد الحياة."
+
+msgid "Spring water"
+msgstr "مياه الينبوع"
+
+msgid "The kind of water that is essential for human life is..."
+msgstr "نوع الماء الأساسي لحياة الإنسان هو..."
+
+# 18
+msgid "Bath"
+msgstr "حمام"
+
+msgid "Clothes Washer"
+msgstr "غسالة الملابس"
+
+msgid "Dishwasher"
+msgstr "غسالة الأطباق"
+
+msgid "Enumerating the uses of water..."
+msgstr "سرد استخدامات الماء..."
+
+msgid "Faucet"
+msgstr "صنبور"
+
+msgid "Leaks"
+msgstr "تسربات"
+
+msgid "Oceans"
+msgstr "محيطات"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "Fresh surface water"
+msgstr "المياه السطحية العذبة"
+
+msgid "Icecaps and glaciers"
+msgstr "القمم و الأنهار الجليدية"
+
+msgid "Earth's water"
+msgstr "مياه الأرض"
+
+msgid "Leaks, clothes washing, and shower."
+msgstr "تسربات ، و غسيل الملابس ، و الاستحمام"
+
+msgid ""
+"Nope! Leaks (13.7%); clothes washing (21.7%); and showers (16.8%) only make "
+"up about 52.2% of typical household water usage."
+msgstr ""
+"لا! التسربات (13,7%) ؛ غسيل الملابس (21.7%)؛ و الاستحمام (16.8%) فقط يساوي "
+"حوالي (52.2%) من الاسخدام المنزلي المثالي للماء."
+
+msgid "Other Domestic"
+msgstr "استخدامات منزلية اخرى"
+
+msgid "Shower"
+msgstr "استحمام"
+
+msgid "Shower, faucet, and clothes washing."
+msgstr "استحمام ،و صنبور ، و غسيل الملابس"
+
+msgid ""
+"The graph below shows the typical use for water in your house other than for "
+"drinking and cooking. Which are the top three uses?"
+msgstr ""
+"الرسم في الأسفل يظهر الاستخدام الأمثل للماء في منزلك لما هو غير الشرب و "
+"الطبخ.  أيها أكثر ثلاث استخدامات؟"
+
+msgid ""
+"Think again... toilet (26.7); showers (16.8%); and faucet (15.7%); only make "
+"up about 59.2% of typical household water usage."
+msgstr ""
+"فكر مجددا.... المرحاض (26.7%) ؛ الاستحمام(16.8%) ؛ الصنبور(15.7%) ؛ فقط تشكل "
+"حوالي 59.2%) من الاستخدام المنزلي الأمثل للماء."
+
+msgid "Toilet"
+msgstr "مرحاض"
+
+msgid "Uses"
+msgstr "استخدامات"
+
+msgid "Percentage"
+msgstr "نسبة"
+
+msgid "Toilet, shower, and clothes washing."
+msgstr "مرحاض،و استحمام ، و غسيل الملابس."
+
+msgid "Toilet, shower, and faucet."
+msgstr "مرحاض ، استحمام، صنبور."
+
+msgid ""
+"Try again! showers (16.8%); faucet (15.7%); and clothes washing (21.7%); "
+"only make up about 54.2% of typical household water usage."
+msgstr ""
+"حاول مجددا! الاستحمام (16.8%) ؛ و الصنبور (15.7 %) ؛ و غسيل الملابس (21.7%)؛ "
+"فقط تشكل حوالي (54.2%) من الاستخدام المنزلي الأمثل لللماء."
+
+msgid "Typical Household Water Use"
+msgstr "الاستخدام المنزلي الأمثل للماء"
+
+msgid ""
+"You got it! Toilet (26.7); showers (16.8%); and clothes washing (21.7%); "
+"make up about 65.2% of typical household water usage."
+msgstr ""
+"لقد أصبت! المرحاض (26.7%)؛ الاستحمام (16.8 %)؛ و غسيل الملابس (21.7 %) ؛ "
+"تشكل حوالي (65.2%) من الاستخدام المنزلي الأمثل للماء.  "
+
+# 19
+msgid "Blood"
+msgstr "دماء"
+
+msgid "Body"
+msgstr "جسم"
+
+msgid "Brain"
+msgstr "دماغ"
+
+msgid "Cells"
+msgstr "خلايا"
+
+msgid "Swamps"
+msgstr "مستنقعات"
+
+msgid "Water Distribution"
+msgstr "توزيع المياه"
+
+msgid ""
+"Correct! This graph shows that the most important parts of your body are "
+"composed mostly of water so it's important to always drink lots of water so "
+"these body parts keep working properly."
+msgstr ""
+"صحيح! هذا الرسم يظهر أن أهم أجزاء جسمك مكونة معظمها من الماء لذلك من المهم "
+"شرب الكثير من الماء لضمان أن تعمل هذه الأجزاء بشكل مناسب"
+
+msgid "Ground water"
+msgstr "مياه أرضية"
+
+msgid ""
+"Hover your mouse over each of the graphs to see what each part of the graph "
+"means. Which of the graphs would be <span class='blink'>best</span> to help "
+"you understand why hydration (drinking water) while participating in "
+"athletic events is so important?"
+msgstr ""
+"حرك فأرتك فوق كل رسم بياني لترى ما يعنيه كل رسم بياني .  أي الرسومات هي "
+"<span class='blink'>الأفضل</span> في مساعدتك أكثر من غيرها لماذا الأرتواء "
+"(شرب الماء) مهم جدا خلال المشاركة في الألعاب الرياضية؟"
+
+msgid "Muscles"
+msgstr "عضلات"
+
+msgid ""
+"Not quite! This graph shows how much water (what percentage of water) is "
+"found in different parts of the earth."
+msgstr ""
+"ليس تماما! يظهر الرسم البياني كمية الماء ( نسبة الماء) التي وجدت في الأجزاء "
+"المختلفة من الأرض."
+
+msgid ""
+"Not quite! This graph shows how much water is used for different household "
+"activities."
+msgstr ""
+"ليس تماما! الرسم يظهر كمية الماء المستخدم في النشاطات المنزلية المختلفة."
+
+msgid "Ready for your last quiz question?"
+msgstr "جاهز للسؤال الأخير في اختبارك السريع"
+
+msgid "Sorry... this graph shows how much water was used in different years."
+msgstr "آسف... هذا الرسم البياني يظهر كم كمية الماء المستخدم في سنوات مختلفة."
+
+msgid "Surface water"
+msgstr "مياه سطحية"
+
+# 20
+msgid "You've completed the Role of Water review."
+msgstr "لقد أكملت دراسة مراجعة دور الماء."
+
+msgid "Back"
+msgstr "سابق"
+
+msgid "Next"
+msgstr "لاحق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Go Back to Dashboard"
+msgstr "إرجع إلى اللوحة المخططة"
+
+# Global
+msgid "Quick Check #1"
+msgstr "إختبار سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "إختبار قصير رقم 2"
+
+msgid "Quick Check #3"
+msgstr "إمتحان قصير رقم 3"
+
+msgid "Quick Check #4"
+msgstr "اختبار قصير رقم 4"
+
+msgid "Quiz Question #1"
+msgstr "سؤال سريع رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "إمتحان قصير رقم2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال سريع رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ"
+
+msgid "You're done!"
+msgstr "لقد أنهيت!"
+
+msgid "Go to dashboard"
+msgstr "انتقل إلى لوحة القيادة"
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr ""
+"بإمكانك التأكد من كيف عملت في التقويم السريع وفي الأسئلة القصيرة لهذه "
+"المراجعة بالنقر على الزر في الأسفل."
+
+msgid "How did I do?"
+msgstr "كيف عملت؟"
+
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "Please select your answers."
+msgstr "يرجى إختيار الإجابات"
+
+msgid "Please select your answer."
+msgstr "يرجى إختيار الإجابات"

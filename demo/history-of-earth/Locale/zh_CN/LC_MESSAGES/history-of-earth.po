@@ -1,0 +1,1148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: History of Earth\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  <ask@jigzen.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Global
+msgid "Start"
+msgstr "開始"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Next"
+msgstr "繼續"
+
+msgid "Check Answer"
+msgstr "查看答案"
+
+msgid "Read More"
+msgstr "ا繼續閱讀"
+
+msgid "You answered..."
+msgstr "您的回答是..."
+
+msgid "Please select your answer."
+msgstr "請選擇你的答案。"
+
+msgid "Please select your answers."
+msgstr "請選擇你的答案。"
+
+msgid "Close me!"
+msgstr "關閉！"
+
+msgid "Close!"
+msgstr "關閉！"
+
+msgid "Quick Check #1"
+msgstr "小練習 #1"
+
+msgid "Quick Check #2"
+msgstr "小練習 #2"
+
+msgid "Quick Check #3"
+msgstr "小練習 #3"
+
+msgid "Quick Check #4"
+msgstr "小練習 #4"
+
+msgid "Quiz Question #1"
+msgstr "小測驗 #1"
+
+msgid "Quiz Question #2"
+msgstr "小測驗 #2"
+
+msgid "Quiz Question #3"
+msgstr "小測驗 #3"
+
+msgid "Quiz Question #4"
+msgstr "小測驗 #4"
+
+msgid "Quiz Question #5"
+msgstr "小測驗 #5"
+
+msgid "Quiz Question #6"
+msgstr "小測驗 #6"
+
+msgid "How did I do?"
+msgstr "我做得如何呢？"
+
+msgid "select"
+msgstr "請選擇"
+
+msgid "Go to dashboard"
+msgstr "回到主選單"
+
+msgid "Browse through the slides below by clicking the left and right arrows"
+msgstr "請點擊左右箭頭瀏覽投影片"
+
+msgid "The Problem"
+msgstr "問題"
+
+msgid "The Situation"
+msgstr "任務…"
+
+msgid "The Scenario"
+msgstr "假想..."
+
+msgid "Your Task"
+msgstr "你的任務"
+
+msgid "The Task"
+msgstr "任務"
+
+msgid "Your Assignment"
+msgstr "你的任務"
+
+msgid "Please type your answer."
+msgstr "請輸入您的答案。"
+
+msgid "Please type your answer here..."
+msgstr "請在此輸入你的答案..."
+
+msgid "Click here to start typing your answer..."
+msgstr "點擊這裡開始輸入你的答案..."
+
+msgid ""
+"Answering the following six (6) quiz questions will give you an idea of what "
+"you now know and what you still need to study."
+msgstr "回答以下6個小測驗，可以了解哪些是你已經知道的...哪些是還要再學習的？"
+
+msgid "Click the NEXT button when you are ready."
+msgstr "當您準備好了時，就請按下一步..."
+
+msgid "Congratulations, "
+msgstr "恭喜您囉, "
+
+msgid ""
+"You can check how you did on the 'Quick Check' and 'Quiz Questions' for this "
+"review by clicking the button below."
+msgstr "你可以點擊下面的按鈕，查看到你在“小練習”和“小測驗”的表現..."
+
+# Preloader
+msgid "Let's begin!"
+msgstr "準備開始囉！"
+
+msgid "Are you ready,"
+msgstr "你準備好了,"
+
+msgid "Preparing your first quick check!"
+msgstr "準備你的第一個小練習囉！"
+
+msgid "Words and explanations"
+msgstr "名詞與解釋"
+
+msgid "Let's check what you now know"
+msgstr "讓我們看看你現在知道"
+
+msgid "And the first quiz question is..."
+msgstr "第一個小測驗的題目是..."
+
+msgid "You're done!"
+msgstr "大功告成！"
+
+msgid "Preparing your first quick check..."
+msgstr "準備進入小練習囉 ..."
+
+msgid "Ready for your last quick check?"
+msgstr "準備好你的最後的小練習了嗎？"
+
+msgid "Your first quiz question is..."
+msgstr "你的第一次小測驗的問題是..."
+
+msgid "Take the last quiz question!"
+msgstr "來！最後一個小測驗！"
+
+msgid "Ready for your last quiz question?"
+msgstr "準備好你的最後一個小測驗嗎？"
+
+# 1
+msgid "History of Earth"
+msgstr "地球的歷史"
+
+msgid "Welcome to the History of Earth review,"
+msgstr "歡迎來到「地球的歷史」單元"
+
+# 2
+msgid "Thinking about... history of the earth"
+msgstr "想一想...關於「地球的歷史」"
+
+msgid ""
+"Everybody likes dinosaurs. They're very interesting and sometimes scary. If "
+"you've ever seen the movie Jurassic Park you know what I mean. Geologists "
+"are scientists that study the earth. Paleontologists are a kind of "
+"geologists that study fossils - like dinosaurs. Geologists and "
+"paleontologists love to go on great outdoor adventures to study the earth "
+"and its rocks and fossils. Kids and geologists go to the Dinosaur National "
+"Monument in Colorado to have fun and learn about dinosaurs too. Don't worry, "
+"dinosaurs aren't alive anymore - they're all fossils. That means, all that's "
+"left of them are their preserved \"fossilized\" bones and tracks."
+msgstr ""
+"每個人都喜歡恐龍，它們非常有趣但也有點嚇人。如果你曾經看過那部叫做「侏羅紀公"
+"園」的那部描寫恐龍的電影，你就知道我的意思了！有一種專門研究地球的科學家，稱"
+"作「地質學家」；而地質學家中有是一種是專門研究「化石」(例如：恐龍)，就稱為"
+"「古生物學家」。地質學家和古生物學家都熱愛野外探險，以研究地球和它的岩石與化"
+"石。一些孩子和科學家們會去位於美國科羅拉多州的恐龍國家紀念碑去玩並學習關於恐"
+"龍的事物。你不要擔心，世界上已經沒有活的恐龍了── 它們都是化石。這也就是說，所"
+"有留存下來的都是“化石”的骨骼或者是它們過往的痕跡。"
+
+# 3
+msgid "Checking what you know... about the history of earth"
+msgstr "看看你了解了多少…關於「地球的歷史」"
+
+msgid ""
+"In the picture below you can see the fossil dinosaur bones. Which of these "
+"statements <span class='blink'>best</span> describe it?"
+msgstr ""
+"在下面的圖片中可以看到恐龍骨骼化石的形狀。下列哪一項是與這有關<span "
+"class='blink'>較好敘述</span>呢？"
+
+msgid ""
+"The actual original bones of the dinosaur that got buried in sediments that "
+"became rocks."
+msgstr "恐龍化石是實際恐龍原來的骨骼，是埋藏在沉積物中變成為岩石的。"
+
+msgid ""
+"The imprints of dinosaur bones in the rocks like a handprint you might make "
+"in wet sand or mud."
+msgstr "它們是恐龍骨骼留在岩石的痕跡，就像你在潮濕的沙子或泥土留下一個手印般。"
+
+msgid "The remains of the bones after they've been changed into rock."
+msgstr "它們是恐龍骨骼經過一些作用轉變成岩石後，留下的遺跡。"
+
+msgid ""
+"These bones and teeth are the remains of the original dinosaur bones after "
+"they've been replaced by rock material. They are not the original bones and "
+"teeth themselves. And, they are not an imprint of the original bones and "
+"teeth."
+msgstr ""
+"這些恐龍化石是原始恐龍骨骼埋藏在沉積物中後，原骨骼的空隙被岩石成分填入並取代"
+"後，留下骨骼或牙齒的遺跡。它們不能再算是原來的骨骼和牙齒；它們也不是原來骨骼"
+"和牙齒的印記。"
+
+msgid "Excavating dinosaur bones..."
+msgstr "挖掘恐龍骨骼..."
+
+# 4
+msgid "Reviewing core ideas... about the history of earth"
+msgstr "回顧核心觀念...關於「科學的歷史」"
+
+msgid ""
+"The earth is very old and it is always changing. Lots of changes have "
+"happened to the <span class='key'>environment</span> – everything "
+"surrounding living organisms – over time: oceans have formed, continents "
+"have moved, mountains have risen, animals have changed and even gone "
+"extinct. Some of these changes happen quickly, and other changes – like the "
+"changes in sea level that affect the whole country – happen so slowly that "
+"we humans hardly notice the changes in our lifetimes. Many forces, such as "
+"earthquakes and volcanoes, change the earth's shape and its features. Over "
+"millions and millions of years of geological time, events and forces have "
+"changed the kind of environments and the kind of life forms that exist in "
+"those environments as well as the earth itself."
+msgstr ""
+"地球非常古老並不斷變化。經過地球誕生以來46億年這段「地質年代」的洗禮，孕育所"
+"有生物體的<span class='key'>環境</span>也有了很大的改變── 例如，海洋形成、陸"
+"地飄移、山脈聳升、動物出現改變甚至滅絕。這些變化有的快速，有的極為緩慢，像是"
+"會影響到整個世界的海平面變化，它們是以我們畢生都難以察覺的變化緩慢的在進行。"
+"地球的許多力量，如地震和火山爆發，改變了地球的形狀和外貌，各種事件和力量也已"
+"經改變環境、環境中的各種生命形式，以及地球本身。"
+
+msgid "Drying of Lake Urmia, Iran (1984-2012)"
+msgstr "時間造成湖泊的乾涸(1984年至2012年，伊朗烏爾米耶湖)"
+
+msgid ""
+"There are no eye-witnesses to what went on 65 million years ago, so how do "
+"scientists know about the earth and its creatures in the past? Rocks and "
+"fossils and the patterns they form give scientists clues about the "
+"conditions of the earth millions of years ago."
+msgstr ""
+"在6500萬年前，當時是沒有任何人類的，所以也沒有目擊者看過到底曾發生哪些事情！"
+"那麼科學家是如何了解過去的地球及其生物呢？答案是，岩石、化石和它們形成的樣"
+"態。這些便是科學家用來窺探地球歷史的線索。"
+
+msgid "Western Interior Seaway"
+msgstr "西部內陸海道"
+
+msgid ""
+"If you look at the map above, where the blue color is water and the green "
+"color is land, you can see that the United States looked much different in "
+"the age of the dinosaurs – about 100 million years ago - than it does now. A "
+"lot of what is now land was once covered with water. The top black dot on "
+"the map is approximately the location of Dinosaur National Monument, right "
+"on the border of Utah and Colorado. What do you think the environment looked "
+"like at this location back when the dinosaurs were roaming around? Can you "
+"find approximately where you live on the map? Was your state on land or "
+"under the water?"
+msgstr ""
+"我們看看上面，這是美國地區在恐龍時代(約100萬年前)的輪廓圖；那時候，藍色的地方"
+"是海洋、綠色的地方是陸地。你應該知道，現在的美國地區已經是一塊完整的大陸塊"
+"了，這不就是「滄海」變成「桑田」嗎？圖上面有幾個黑點，這裡發現過恐龍，你可以"
+"想像一下，當時，恐龍在這裡漫步時，景色會是如何嗎？如果你、朋友曾在哪裡或你知"
+"道哪一個地方，你可以指的出來嗎？那個地方在恐龍時代是在陸地上或水底下呢？"
+
+msgid "Changing environment..."
+msgstr "變化的環境..."
+
+# 5
+msgid ""
+"Question A. Look at the map of what the United States looked like a long "
+"time ago (in the Cretaceous geological period as shown on the map below). "
+"How is it different from what it is today?"
+msgstr ""
+"問題A. 現在的美國地區是一片大陸地。下圖是美國在百萬年前的地形輪廓圖，請問，以"
+"前和現在有甚麼不同呢？"
+
+msgid "Florida was a mountain range."
+msgstr "以前的美國地區，東南方(佛羅里達州)是高大的山脈。"
+
+msgid "Most of the middle part of the country was underwater."
+msgstr "美國以前，中部地區大部分是在水下。"
+
+msgid "The northeast US (New England) was underwater."
+msgstr "美國以前，東北部（新英格蘭）大部分是在水下。"
+
+msgid "It was pretty much the same as it is now."
+msgstr "兩者沒有甚麼不同的。"
+
+msgid "Western"
+msgstr "美洲西部"
+
+msgid "Interior"
+msgstr "內陸"
+
+msgid "Seaway"
+msgstr "海道"
+
+msgid "Click the image to enlarge."
+msgstr "點擊圖片放大。"
+
+msgid ""
+"Question B. There are differences between the geography of the US during the "
+"Cretaceous period as shown on the map above and the current geography of the "
+"United States. How fast do you think the changes from land to sea have "
+"occurred?"
+msgstr ""
+"問題B. 上圖所示是美國地區在白堊紀(6500萬年以前)時候的地形輪廓圖。有關從海洋和"
+"陸地轉變快慢的敘述，下列何者正確？"
+
+msgid ""
+"Question B. There are differences between the geography of the US during the "
+"Cretaceous period as shown on the map above and the current geography of the "
+"United States. How fast do you think the changes from sea to land have "
+"occurred?"
+msgstr ""
+"問題B. 上圖所示是美國地區在白堊紀(6500萬年以前)時候的地形輪廓圖。有關從海洋和"
+"陸地轉變快慢的敘述，下列何者正確？"
+
+msgid "Very quickly like from a flood."
+msgstr "很快，就像是洪水的來去一般。"
+
+msgid "Very slowly from changes in sea level."
+msgstr "很慢，因為這牽涉到海平面的變化。"
+
+msgid "Very slowly from lots of rain every day."
+msgstr "很慢，因為這麼有這麼多水要蒸發。"
+
+msgid "Very quickly from big rain storms."
+msgstr "很快，只要有大暴雨就行。"
+
+msgid ""
+"No, Florida was not a mountain range. Most of the middle part of the country "
+"was underwater."
+msgstr ""
+"不，東南方(佛羅里達州)應該不是一個山脈。美國以前中部地區大部分是在水下。"
+
+msgid "Correct, Most of the middle part of the country was underwater."
+msgstr "正確的，美國以前中部地區大部分是在水下。"
+
+msgid ""
+"No, the northeast was a mountain range. Most of the middle part of the "
+"country was underwater."
+msgstr "不，美國以前東北部應該是一個山脈。中部地區則大部分是在水下。"
+
+msgid ""
+"No, there are many differences. For instance, most of the middle part of the "
+"country was underwater."
+msgstr ""
+"不，現在和以前有許多不同之處。例如，美國以前中部地區大部分是在水下；現在則都"
+"是陸地了。"
+
+msgid ""
+"No, these changes took place slowly over a very long time, from changes in "
+"sea level."
+msgstr ""
+"不，這些變化非常緩慢且經過很長一段時間才能完成；這變化是因為海平面下降所造成"
+"的。"
+
+msgid "Correct, these changes occurred slowly from changes in sea level."
+msgstr ""
+"正確的，這些變化非常緩慢且經過很長一段時間才能完成；這變化是因為海平面下降所"
+"造成的。"
+
+msgid ""
+"No, rain every day wouldn't be enough water to cover the entire central US "
+"with a sea – even if it rained every day for a year. Also, the sea covering "
+"the Midwest was salt water, so it came from rising sea levels, not rain or "
+"flooding."
+msgstr ""
+"不對喔！這些變化非常緩慢沒錯；但是這變化是因為海平面下降所造成的，而不是由蒸"
+"發所造成的。"
+
+msgid ""
+"No, these changes took place slowly over time, from changes in sea level."
+msgstr ""
+"不對喔！這些變化非常緩慢且經過很長一段時間才能完成；這變化是因為海平面下降所"
+"造成的。"
+
+# 6
+msgid "More core ideas... about history of earth"
+msgstr "更多核心觀念...有關「科學的歷史」"
+
+msgid ""
+"Have you ever seen a rock or fossil collection? Some people collect them as "
+"a hobby, and others study them to learn about the past. Scientists that "
+"study rocks and what they mean are called <span class='key'>geologists</"
+"span>. Certain geologists that mostly just study fossils are called <span "
+"class='key'>paleontologists</span>."
+msgstr ""
+"你有參觀過岩石或化石展覽嗎？有些人把收集當成是愛好，但有些人卻是研究它們以學"
+"習地球的歷史。有一種專門研究地球岩石的科學家，稱作「地質學家」；而地質學家中"
+"有些專門研究「化石」(例如：恐龍或其他動物、植物的化石的)，稱為「古生物學"
+"家」。"
+
+msgid ""
+"Have you ever seen a rock or fossil collection? Some people collect them as "
+"a hobby, and others study them to learn about the earth's geological past. "
+"Scientists who study rocks and what they mean are called <span "
+"class='key'>geologists</span>. Certain geologists who mostly just study "
+"fossils are called <span class='key'>paleontologists</span>."
+msgstr ""
+"你有參觀過岩石或化石展覽嗎？有些人把收集當成是愛好，但有些人卻是研究它們以了"
+"解地球地 質改變的歷史。有一種專門研究地球岩石的科學家，就稱作「地質學家」；而"
+"地質學家中有些專門研究「化石」(例如：恐龍或其他動物、植 物的化石的)，稱為「古"
+"生物學家」。"
+
+msgid ""
+"So what is a fossil anyway? <span class='key'>Fossils</span> are the remains "
+"of living organisms – either animals or plants - that have been preserved in "
+"rock. Animal's soft parts, like the skin or eyeballs for instance, usually "
+"get eaten or rot away over time so they don't get preserved. Most animal "
+"fossils are copies of just the hard parts – like the shells of clams or "
+"bones of dinosaurs. But even the hard parts of animals that become "
+"fossilized are usually not the original bones or shells. The fossils we find "
+"in rock are actually replacement copies. The original hard parts were "
+"replaced very slowly over a long period of time. The original shell or bone "
+"material is changed to rock. This process amazingly produces almost an exact "
+"replica or copy of the original animal's hard parts. And for plants, "
+"sometimes the leaves and stems leave an imprint in the rock or the tree "
+"trunks are replaced by minerals to leave a \"petrified\" fossil forest."
+msgstr ""
+"那麼，什麼是化石呢？ <span class='key'>化石</span>是被保存在岩石中的動植物遺"
+"骸。化石形成的過程中，原來動物較柔軟的部位，如皮膚、眼球 等，通常被吃掉或隨著"
+"時間而腐爛，無法保留；留下的動物的堅硬部分── 像恐龍骨骼、貝類的外殼等等的複製"
+"品。不過，值得特別留意的是，縱使大自然留下的這些恐龍骨骼化石，但那也早已不是"
+"原本恐龍的骨骼了。這些恐龍化石是原始 恐龍骨骼被沉積物掩埋後，原骨骼的空隙被岩"
+"石成分填入並慢慢取代後，留下骨骼或牙齒的岩石複製品。它們是「化石」，但已經不"
+"是原來的 骨骼和牙齒，不過，這個化石形成過程終究還是神奇地重製了原本生物堅硬部"
+"分的完美複製品。至於植物，有時候岩石中生成的過程會留下植 物的樹葉或枝幹在岩石"
+"上的「印痕」，有時候一群樹幹也會在沉積物中慢慢被礦物質取代產生「石化森林」，"
+"這些也都屬於「化石」。"
+
+msgid ""
+"So what is a fossil anyway? <span class='key'>Fossils</span> are the remains "
+"of living organisms that have been preserved in rock. The soft parts like "
+"the skin or eyeballs usually rot away over time so they don't get preserved. "
+"Most fossils are copies of the hard parts of animals – like the shells of "
+"clams or bones of dinosaurs. But even the hard parts of animals that become "
+"fossilized are not really the original bones or shells. The fossils we find "
+"in rock are actually replacement copies. The original hard parts were "
+"replaced very slowly over a long period of time. The original shell or bone "
+"material are changed to rock. This process amazingly produces almost an "
+"exact replica or copy of the original animal's hard parts."
+msgstr ""
+"那麼，什麼是化石呢？ <span class='key'>化石</span>是被保存在岩石中的生物遺"
+"骸。化石形成的過程中，原來動植物較柔軟的部位，如皮膚、眼球、嫩葉等，通常都隨"
+"著時間而腐爛，無法保留；留下的是動植物的堅硬部分── 像恐龍骨骼、貝類的外殼、植"
+"物的莖幹等等的複製品。不過，值得特別留意的是，縱使大自然留下的這些恐龍骨骼化"
+"石，但那也早已不是原本恐龍的骨骼了。這些恐龍化石是原始恐龍骨骼埋藏在沉積物忠"
+"後，原骨骼的空隙被岩石成分填入並慢慢取代後，留下骨骼或牙齒岩石複製品的遺跡。"
+"它們不能再算是原來的骨骼和牙齒；它們也不是原來骨骼和牙齒的印記。但是，這個過"
+"程終究還是神奇地重製了原本生物堅硬部分的完美複製品。"
+
+msgid ""
+"Geologists study rock layers in addition to the fossils contained inside "
+"them. A very important principle of geology is that a sedimentary rock layer "
+"is probably older than the layers above, and younger than the layers below "
+"it. So by studying the different layers, scientists can get a good idea "
+"about how animals evolved and how the rock structure of an area has changed "
+"over time. In this way, the rocks help determine how old the fossils are."
+msgstr ""
+"地質學家研究岩層中的化石外，也研究岩層本身。地質學上有一個非常重要的原則那就"
+"是，沉積岩層中越古老的岩層一般會離地表越遠；越年輕的岩層會越接近地表層；這可"
+"以想成是「新淺舊深」。因此，藉由研究不同的岩層的可能年代，可以幫助科學家了解"
+"動物如何進化和這地區的岩石結構如何隨時間而變化。因此，岩石能有助判定化石的年"
+"代。"
+
+msgid ""
+"Rocks and fossils are evidence that help geologists figure out how old one "
+"layer of rock was compared to another, and how the environment where the "
+"rock was found changed over time. Not all the rocks and fossils scientists "
+"find are in perfect shape, so they compare rock layers from different areas "
+"of the earth to get a more complete picture of the conditions on our planet."
+msgstr ""
+"岩石和化石的證據資料，可以幫助地質學家理出某一岩層和其餘的岩層之間的年代關"
+"係，還能進一步理解這一個環境如何改變的情形。此外，科學家們也會將一個地區找到"
+"的岩層和化石和其它地區的比較，以使得原本一些不夠完整的岩石或化石或它們的資訊"
+"變得比較完整，者才使得我們得以看到地球歷史比較完整的一面。"
+
+msgid "Collecting different rocks..."
+msgstr "採集不同的岩石..."
+
+# 7
+msgid "Question A. Which of the following is an example of a fossil?"
+msgstr "問題 A. 請問下列何者較可能是化石？"
+
+msgid "A seashell found on the beach"
+msgstr "在海灘上發現的一個貝殼"
+
+msgid "An old shoe found in the county landfill"
+msgstr "在縣垃圾場看到的一個舊鞋子"
+
+msgid "A dead tree stuck in the dirt in your neighborhood"
+msgstr "家旁邊汙泥中的一塊枯木"
+
+msgid "A seashell found inside a piece of rock"
+msgstr "一個石頭中包覆的一個貝殼"
+
+msgid ""
+"Question B. Based on what you learned about sedimentary rock layers, if you "
+"were to drill down from the surface of the earth, which rock layers would be "
+"<span class='blink'>most likely</span> the oldest?"
+msgstr ""
+"問題B. 根據你所學關於「沉積岩層」的知識。如果你向地下鑽掘，請問下列有關各岩層"
+"的敘述，何者<span class='blink'>較為正確</span>？"
+
+msgid "The rock layers farthest from the surface are usually the oldest."
+msgstr "離表面岩層最遠，通常是最古老的。"
+
+msgid "The ones closest to the surface"
+msgstr "最接近表面的最古老"
+
+msgid "The thickest ones"
+msgstr "最厚的就是最古老的"
+
+msgid "The thinnest rock layer"
+msgstr "最薄的岩石层"
+
+msgid "The ones deepest from the surface"
+msgstr "地表下最深的最古老"
+
+msgid "Drilling down earth's surface..."
+msgstr "向地表下鑽探..."
+
+msgid "No, but a seashell from long ago inside a rock would be a fossil."
+msgstr "不對喔！但是一顆石頭中包覆著有一個貝殼，那就較可能是化石。"
+
+msgid ""
+"No, not everything that is old is a fossil. Fossils are the remains of "
+"living organisms that have been preserved in rock."
+msgstr ""
+"不，並不是所有舊的東西就是化石。化石是生物體被岩石保存，然後形成的遺跡。一顆"
+"石頭中包覆著一個貝殼，那有可能是化石。"
+
+msgid ""
+"No, but a dead tree from millions of years ago might have left an impression "
+"on a rock and be deep underground in your yard."
+msgstr ""
+"不對喔！那並不是。但是如果是數百萬年前的死樹，深埋在院子底下並被岩石包覆或留"
+"下印記，那就可能是化石了。"
+
+msgid ""
+"Correct! Fossils are the remains of living organisms that have been "
+"preserved in rock."
+msgstr "正確！化石是生物體被岩石保存，形成的遺跡。"
+
+msgid ""
+"No, what is important in rock layers is which one is on top of the other, "
+"not their thickness. The rock layers farthest from the surface are usually "
+"the oldest."
+msgstr ""
+"不對喔！岩層近代或古老的判斷，主要是跟它位置的上、下層有關，它們原則上是「上"
+"新下舊」，和厚度沒有甚麼關係。"
+
+msgid ""
+"No, a rock layer is probably older than the layers above, and younger than "
+"the layers below."
+msgstr ""
+"不，岩層近代或古老的判斷，主要是跟它位置的上、下層有關，它們原則上是「上新下"
+"舊」，"
+
+msgid ""
+"Correct, the rock layers deepest from the surface would most  likely be the "
+"oldest."
+msgstr ""
+"正確的，岩層到底是近代或古老的判斷，主要是跟它位置的上、下層有關；它們原則上"
+"是「上新下舊」。岩層中離地表最深的，很可能就是最古老的。"
+
+# 8
+msgid ""
+"The life forms that fossils represent changed over geological time. So "
+"different kinds of fossils found in rocks can help geologists tell about how "
+"old the rock might be. That's right! It works both ways. Scientists get "
+"clues from rock layers to figure out how old fossils are, and they get clues "
+"from how evolved the plant or animal is in the fossil to figure out how old "
+"the rock might be."
+msgstr ""
+"不同生物的化石代表著可能就是不同的地質年代。因此，岩石中發現的不同種類化石可"
+"以幫助地質學家判斷這岩石的可能年代。其實，這是雙向輔助的：一方面科學家可以從"
+"岩層提供的線索幫助判斷化學的歷史；另一方面，他們也可以從所發現動植物化石有關"
+"的年代知識，幫助判斷岩石可能的年代。"
+
+msgid ""
+"Fossils of simple life forms, like brachiopods and trilobites, are usually "
+"found early in the history of life on earth - like in the Cambrian "
+"geological time period around 500 million years ago. Fish are mostly found "
+"starting in the Devonian geological time period about 400 million years ago. "
+"Dinosaurs came later, starting at around 230 million years ago, then "
+"mammals, then humans and all the other animals in between."
+msgstr ""
+"大約5億年前，也就是「寒武紀」的年代，在這個地球生命歷史的早期，出現了一些簡單"
+"的生命形式，如「腕足類」和「三葉蟲」，這些化石也代表著這個年代。魚類則在約4億"
+"年前開始在「泥盆紀」地質年代出現。隨後則是恐龍約在2.3億年前，然後才是哺乳動物"
+"約2億年前、人類則約在200萬年前才出現。其它動物則在不同的地質年代之間分別出"
+"現，而出現的順序，一般是，構造越複雜的生物越後面出現。"
+
+msgid ""
+"So if a geologist finds a rock with a dinosaur fossil in it, she knows that "
+"it can't be 400 or 500 million years old because dinosaurs didn't exist back "
+"then. Other clues like which specific dinosaur fossil they find – is it a T."
+"Rex? or is it a triceratops? – help geologists be sure about a specific time "
+"range for the rock. If a rock has a dinosaur fossil bone in it, that tells "
+"geologists the rock can't be older than 230 million years old or younger "
+"than 65 million years old."
+msgstr ""
+"因此，如果一個地質學家發現一塊岩石其中有著恐龍化石，那就能知道，這個岩石不可"
+"能會有4或5億年的歷史，因為恐龍在2.3億年前才出現而在6500萬年前滅絕；所以這恐龍"
+"骨化石告訴地質學家就是，這岩石一定是介於2.3億年和6500萬年之間的。如果還能有其"
+"它線索，例如，哪一種特定的恐龍化石，是暴龍？抑或是三角恐龍？這些訊息還更可以"
+"幫助地質學家進一步縮小時間範圍來預測岩石的年代。"
+
+msgid "Tyrannosaurus Rex fossil"
+msgstr "暴龍化石"
+
+msgid "Triceratops fossil"
+msgstr "三角龍化石"
+
+msgid "Geologist working on research..."
+msgstr "進行研究中的地質學家..."
+
+# 9
+msgid ""
+"Question A. Fossils can help geologists tell about how old a rock is "
+"because..."
+msgstr "問題A. 化石可以幫助地質學家來決定岩石的年代，這是因為..."
+
+msgid ""
+"Certain fossils are related to certain time periods in the geological "
+"history of earth."
+msgstr "岩石中的化石種類有時候就代表它在地球的地質歷史的年代。"
+
+msgid "Life on earth has always been the same throughout geological time."
+msgstr "地球地質歷史開始以來，所有的生物物種都維持一樣。"
+
+msgid "Fossils are radioactive so they can be dated by radioactivity."
+msgstr "化石具有放射性，所以可以利用它的放射性來推估它的年代。"
+
+msgid "Paleontologists just know when each fossil was formed."
+msgstr "古生物學家完全知道每個化石的年代。"
+
+msgid ""
+"Question B. If a geologist finds a rock with a Tyrannosaurus Rex bone in it, "
+"a good estimate of when the rock was formed would be..."
+msgstr ""
+"問題B. 如果一個地質學家發現了岩石中有暴龍骨骼在裡面，那這塊岩石形成的年代比較"
+"可能是在..."
+
+msgid "Within the last 10 thousand years"
+msgstr "在過去1萬年內"
+
+msgid "Within the last 10 million years"
+msgstr "在過去1000萬年內"
+
+msgid "Within the last 50 million years"
+msgstr "在過去的5000萬年內"
+
+msgid "Older than 65 million years"
+msgstr "早於6500萬年"
+
+msgid ""
+"Correct. Because the earth and all that's in it changes, fossils can be "
+"identified with a specific time period to figure out how old it is."
+msgstr ""
+"正確。因為地球和其中所有的一切都同樣經歷著時間的變化，所以判斷化石種類可能的"
+"年代也可以推測包覆這塊化石的岩石年代。"
+
+msgid ""
+"Quite the opposite, life on earth has always been changing throughout "
+"geological time."
+msgstr ""
+"不對喔，恰恰相反的是。地球上的生物種類隨著時間的改變，也不斷改變。我們可以利"
+"用化石判斷年代是因為，地球和其中所有的一切都同樣經歷著時間的變化，所以判斷化"
+"石種類可能的年代也可以推測包覆這塊化石的岩石代。"
+
+msgid ""
+"No, fossils are not radioactive but they are usually collected along with "
+"rock from the same layer and sometimes, the rock can be dated based on "
+"radioactivity."
+msgstr ""
+"不，化石是沒有放射性。但採集化石時，通常伴隨著岩石一起收集；有時，可以藉由岩"
+"石的放射性來估計化石的年代。"
+
+msgid ""
+"No, In Science, everything is proven even if paleontologists have a "
+"hypothesis. Certain fossils are indicative of certain time periods in the "
+"geological history of the earth."
+msgstr ""
+"不，在科學上，一切假說都需要資料證據來證明，即便古生物學家也是一樣；任何古生"
+"物學家也都無法知道所有化石的年代。我們可以利用化石判斷年代是因為，地球和其中"
+"所有的一切都同樣經歷著時間的變化，所以判斷化石種類可能的年代也可以推測包覆這"
+"塊化石的岩石代。"
+
+msgid ""
+"No, because no dinosaurs lived on earth within the last 10 thousand years. "
+"Dinosaurs lived between 65 and 230 million years ago."
+msgstr ""
+"不對喔！因為沒有恐龍生活在地球上的最後一個萬年之內。恐龍之間的65和230萬年前居"
+"住的地方。"
+
+msgid ""
+"No, because no dinosaurs lived on earth within the last 10 million years. "
+"Dinosaurs lived between 65 and 230 million years ago."
+msgstr ""
+"不對喔！在過去10萬年前並沒有恐龍生活在地球上。恐龍約生存在65百萬年到230百萬年"
+"前。"
+
+msgid ""
+"No, dinosaurs are a little bit older than that. Dinosaur fossils are dated "
+"to be between 65 and 230 million years old."
+msgstr ""
+"不，恐龍化石存在的時間要比這個答案久的多。恐龍化石介於距今6500萬和23000萬年之"
+"間。"
+
+msgid ""
+"Correct, dinosaur fossils are dated to be between 65 and 230 million years "
+"old. Dinosaurs became extinct 65 million years ago so there are no dinosaur "
+"fossils younger than 65 million years."
+msgstr ""
+"正確，恐龍化石介於距今6500萬和2.3億年之間。恐龍6500萬年前就滅絕了，所以恐龍化"
+"石沒有短於6500萬年前的。"
+
+# 10
+msgid "Using what you know... about the history of earth... to solve a problem"
+msgstr "運用你所知道的......關於「地球的歷史」......來解決問題"
+
+msgid ""
+"You are a geologist searching for a big oil deposit. You are in charge of "
+"drilling a hole down into the earth to find the oil. Other geologists in the "
+"area have found that oil is found in a certain layer of rocks that is about "
+"400 million years old."
+msgstr ""
+"您是個地質學家正和一個團隊尋找一個大的油田。你負責的工作是指揮鑽孔到地下並找"
+"到油源。你團隊中有其他的地質學家們已經有證據指出：這一區域中，油源是位在約4億"
+"年的岩層中。"
+
+msgid ""
+"Using what you now know of fossils and the history of the earth, how would "
+"you figure out which layer is about 400 million years old? Provided you "
+"could dig three times before you had to tell your team how deep to drill the "
+"hole, what would you do to determine which layer is the layer with oil?"
+msgstr ""
+"以你所知道有關「化石」和「地球的歷史」，你會怎麼找出哪一個岩層是大約4億年的"
+"呢？注意：你只能有三次鑽探的機會，之後，你就需向你的團隊說明你認為應該要鑽探"
+"多深了。請問，你會怎麼進行你的鑽探，才能比較有效而且正確的推測，油源在哪裡"
+"呢？"
+
+msgid "Preparing drilling rig..."
+msgstr "準備鑽探機具..."
+
+# 11
+msgid "Summarizing core ideas... about history of earth"
+msgstr "總結核心觀念......有關「地球的歷史」"
+
+msgid ""
+"The earth has a very, very – almost unimaginably – long history that "
+"stretches back 4.5 billion years. During that time, the <span "
+"class='key'>environments</span> of the earth have continually changed and "
+"left a record of that change in the rocks. Life forms also changed "
+"dramatically over geological time - from very simple life forms early in the "
+"earth's history to more complex life forms today. <span "
+"class='key'>Geologists</span> and <span class='key'>paleontologists</span> "
+"study the earth's rocks, and the <span class='key'>fossils</span> in those "
+"rocks, to tell how old the rocks are and in what environments each rock was "
+"formed. By doing this, earth scientists can figure out the story of the "
+"history of the earth."
+msgstr ""
+"地球有一個非常非常 ── 幾乎難以想像的，悠久的歷史，這可以追溯到45億年前。在這"
+"段期間，地球<span class='key'>環境</span>不斷改變，這些改變的紀錄就留在岩石上"
+"面。生命形式也在這歷程發生了巨大變化 ── 從地球早期非常簡單的生命形式發展到今"
+"天的複雜生命形式。 <span class='key'>地質學家</span>和<span class='key'>古生"
+"物學家</span>研究地球岩石和這些岩石中的<span class='key'>化石</span>，以了解"
+"岩石的年代和在什麼環境下能生成這些岩石。藉由這些，地球科學家可以探知地球歷史"
+"的故事。"
+
+msgid "Putting it all together..."
+msgstr "組織一下......"
+
+# 12
+msgid "Geologist"
+msgstr "地質學家"
+
+msgid ""
+"A scientist who studies rocks and minerals. Geologists study the change of "
+"environments on the Earth over large time scales."
+msgstr ""
+"「地質學家」是一種研究岩石和礦物的科學家。地質學家研究大時間尺度的地球環境變"
+"化。"
+
+msgid "Fossil"
+msgstr "化石"
+
+msgid ""
+"The preserved remains or traces of organisms that lived in the past. "
+"Fossilized remains were covered and preserved in sediment. Fossilized "
+"material has had its original materials replaced with minerals gradually "
+"over time."
+msgstr ""
+"「化石」是過去生物的生物體的遺留或遺跡；它是原始生物骨骼、枝幹等埋藏在沉積物"
+"中後，原本骨骼或枝幹的空隙被岩石成分填入並取代後，留下骨骼、牙齒或植物枝幹的"
+"岩石化後的遺跡。它們不能再算是原來的骨骼、牙齒或枝幹。"
+
+msgid "Paleontologist"
+msgstr "古生物學家"
+
+msgid ""
+"A scientist who studies ancient organisms. Paleontologists use aspects of "
+"biology and geology to investigate long extinct plants and animals. They use "
+"fossils to help construct their hypothesis about how life existed in the "
+"distant past."
+msgstr ""
+"「古生物學」是一種專門研究遠古生物的科學家。古生物學家利用生物學和地質學的科"
+"學去研究早已滅絕的植物和動物。他們利用化石來幫助建立有關在遠古時代生命存在情"
+"形的各種假說。"
+
+msgid "Environment"
+msgstr "環境"
+
+msgid ""
+"The immediate area in which an organism or group of organisms live. All of "
+"the physical, chemical, and biological materials surrounding an organism "
+"make up its environment."
+msgstr ""
+"「環境」指的是一個生物體或一群生物體生存的一個鄰近區域。在這區域內，環繞這些"
+"生物體的所有物理、化學和生物物質構成的生物的「環境」。"
+
+# 13
+msgid "Checking what you now know... about history of earth"
+msgstr "看看你現在了解了多少…關於「地球的歷史」"
+
+# 14
+msgid "Reviewing key vocabulary related to... history of earth"
+msgstr "關鍵名詞複習…關於「地球的歷史」"
+
+msgid "What is a fossil?"
+msgstr "化石是什麼？"
+
+msgid "The original bones and shells from the animal."
+msgstr "動物原本的骨骼和外殼。"
+
+msgid "Copies of the original animal that paleontologists make from plastic."
+msgstr "古生物學家使用塑膠製作，原本動物的複製品。"
+
+msgid "Copies of the original animal that paleontologists make from cement."
+msgstr "古生物學家使用水泥製作，原本動物的複製品。"
+
+msgid ""
+"Copies of the original animal that geologic processes formed by replacing "
+"bone or shell with rock."
+msgstr ""
+"就是原本動物骨骼或外殼，經歷很長的大自然的地質過程，而被岩石所取代形成原來動"
+"物的的複製品。"
+
+msgid ""
+"Click, hold and slide your mouse up and down to rotate the box and select "
+"your answer."
+msgstr "點擊，按住並滑動鼠標上下旋轉的框中，然後選擇你的答案。"
+
+msgid ""
+"Correct, fossils are copies of the original organism in rock. They are not "
+"made by paleontologists."
+msgstr ""
+"正確的，它們不是由古生物學家進行，化石是原本動物骨骼、外殼或枝幹，經歷很長的"
+"大自然的地質過程，而被岩石所取代形成原來動物、植物的複製品。"
+
+msgid ""
+"No, the original bones and shells rot away and are replaced by rock over "
+"time."
+msgstr "不，原來的骨骼或外殼會隨著時間的推移會爛掉而被岩石被替換。"
+
+msgid ""
+"No, fossils are not made by paleontologists. They are copies of the original "
+"organism in rock made by nature. The bone or shell is replaced with rock."
+msgstr ""
+"不，化石不是由古生物學家做的。它們在岩石自然形成的原生物的副本。骨骼外殼或枝"
+"幹被替換沉積物中的岩石成分所滲入並取代，最後形成的複製品。"
+
+# 15
+msgid ""
+"Earth scientists believe that, thousands or millions of years ago, the "
+"environments in some places on the earth were very different from today "
+"because..."
+msgstr ""
+"地球科學家提出：幾千年、幾百萬年前，地球上某些地方的環境和今天比較，是非常不"
+"同的。請問，他們的根據主要是..."
+
+msgid "They use fossils to provide evidence to support this claim."
+msgstr "他們用化石來當成證據，以支持這種說法。"
+
+msgid "They use rock layers to provide evidence to support this claim."
+msgstr "他們以岩層當成證據，以支持這種說法。"
+
+msgid "They use rock radioactivity to provide evidence to support this claim."
+msgstr "他們以岩層的放射線當成證據，以支持這種說法。"
+
+msgid "All of the above"
+msgstr "以上皆是。"
+
+msgid "Counting years of changes..."
+msgstr "計數滄桑......"
+
+msgid ""
+"Not quite. Information from rock layers and fossils help scientists prove "
+"the earth has changed a lot over millions of years."
+msgstr ""
+"不完全對喔！科學家從化石、岩層和岩層的放射線等等資料當成證據，幫助他們證明在"
+"過去一段時間，有了很大的改變。"
+
+msgid ""
+"Not quite. Information from fossils and rock layers help scientists prove "
+"the earth has changed a lot over millions of years."
+msgstr ""
+"不完全對喔！科學家從化石、岩層和岩層的放射線等等資料當成證據，幫助他們證明在"
+"過去一段時間，有了很大的改變。"
+
+msgid ""
+"Not quite. Scientists use information from fossils and rock layers to prove "
+"this. Scientists also use radioactivity dating to collect more information "
+"from rock layers."
+msgstr ""
+"不完全對喔！科學家從化石、岩層和岩層的放射線等等資料當成證據，幫助他們證明在"
+"過去一段時間，有了很大的改變。"
+
+msgid ""
+"Correct. The earth has changed over time and still is changing. Scientists "
+"use evidence from rocks and fossils to support this claim. Radioactive "
+"dating of rocks also provides evidence for how old the rocks and fossils are."
+msgstr ""
+"正確。地球已經改變了一段時間，變化仍然繼續發生。科學家們使用的證據來自岩石和"
+"化石，岩石的放射性年代測定也可幫助證明岩石和化石的年代。"
+
+# 16
+msgid ""
+"Geologists studying the history of the earth believe that the environments "
+"on the earth's surface have..."
+msgstr "研究地球歷史的地質學家相信，地球表面環境..."
+
+msgid "Remained the same over geological time."
+msgstr "在經歷這麼長地質時間後，依然一樣。"
+
+msgid "Changed in the distant past but are not changing now."
+msgstr "在遙遠的過去有了相當的改變，但最近就沒有改變了。"
+
+msgid "Not changed in the past but are changing now."
+msgstr "在遙遠的過去沒有什麼改變，但最近就有了相當大的改變。"
+
+msgid "Have changed in the past and are still changing today."
+msgstr "在過去有了相當改變，現在，依然在繼續改變中。"
+
+msgid "Reading history of earth..."
+msgstr "閱讀大地的歷史..."
+
+msgid ""
+"No, environments on the earth's surface have changed in the past and are "
+"still changing today."
+msgstr "不，在地球表面的環境，在過去有了相當改變，現在，依然在繼續改變中。"
+
+msgid ""
+"Not quite, environments on the earth's surface are changing now as well."
+msgstr "不對喔！在過去有了相當改變，現在，依然在繼續改變中。"
+
+msgid ""
+"Not quite, the environments on the earth's surface have changed in the past "
+"as well."
+msgstr "不對喔！對地球表面的環境，在過去有了相當改變，現在，依然在繼續改變中。"
+
+msgid ""
+"Correct, environments on the earth's surface have been continuously changing "
+"over geological time and are still changing."
+msgstr "正確的，對地球表面的環境，在過去有了相當改變，現在，依然在繼續改變中。"
+
+# 17
+msgid ""
+"Geologists can use fossils to get a good idea of about how old rocks are "
+"because..."
+msgstr "地質學家可以用化石來獲知古老的岩石的年代，因為..."
+
+msgid "The kinds of fossils contained in rocks change over time."
+msgstr "隨時間不同，岩石中化石的種類也應該不同。"
+
+msgid "Fossils can be dated by radioactivity."
+msgstr "化石可以直接用放射線來測量年代。"
+
+msgid ""
+"The same kinds of fossils in rocks occur throughout all of geologic time."
+msgstr "在岩石中的各種化石都可以出現在所有的地質年代。"
+
+msgid "Fossil soft parts are preserved in rock."
+msgstr "化石柔軟的部分會被保存在岩石上。"
+
+msgid "Using fossils as reference..."
+msgstr "使用化石來作為參照..."
+
+msgid ""
+"Correct! The kind of plants and animals and the fossils that form from them "
+"change over time. This helps paleontologists identify the fossils, and the "
+"rocks they are found in, with a specific geological time periods."
+msgstr ""
+"正確！不同動植物的化石形成的時間可能不同。這有助於古生物學家鑑定化石、岩石的"
+"特定地質年代。"
+
+msgid ""
+"No. Fossil soft parts rot away and get destroyed. Organisms (and fossils) "
+"change and this helps paleontologists identify the fossil (then rock) with a "
+"specific geological time period."
+msgstr ""
+"不對喔！化石中柔軟的部分會腐爛並被破壞掉。不同動植物的化石形成的時間可能不"
+"同。這有助於古生物學家鑑定化石、岩石的特定地質年代。"
+
+msgid ""
+"No. The kind of fossils (the organisms which make them) changes over time. "
+"This helps paleontologists identify the fossil (then rock) with a specific "
+"geological time period."
+msgstr ""
+"不對喔！不同動植物的化石形成的時間可能不同。這有助於古生物學家鑑定化石、岩石"
+"的特定地質年代。"
+
+msgid ""
+"Not quite. Rocks can be dated using radioactivity. This is done without the "
+"help of fossils."
+msgstr ""
+"不完全對喔！科學家可以用放射性來推測岩石的年代；但，科學家並不是用放射性的方"
+"法來測量化石年代，再去推知岩石年代的。"
+
+# 18
+msgid ""
+"Drag each of the fossils to where it would most likely be found in the rock "
+"layer diagram."
+msgstr "請將上面三種化石的圖，分別拖動到下方，到它最有可能被找到的相對位置。"
+
+msgid "200 million years"
+msgstr "2.0億年"
+
+msgid "270 million years"
+msgstr "2.7億年"
+
+msgid "110 million years"
+msgstr "1.1億年"
+
+msgid "Reset"
+msgstr "清除重來"
+
+msgid "Different layers of rocks"
+msgstr "岩石的不同層"
+
+msgid ""
+"Great job! You used an important geologic principle about rock layers to "
+"show where these fossils might be found underground. The oldest fossil will "
+"probably be found in the rock layer farthest from the surface. The youngest "
+"fossil will probably be found in the layer closest to the surface."
+msgstr ""
+"答得好！是的，岩層中越古老的化石一般會離地表越遠；最年輕的化石很可能會在最接"
+"近地表層被發現，這也就是「新淺舊深」。"
+
+msgid ""
+"Not quite. The oldest fossil will probably be found in the rock layer "
+"farthest from the surface. The youngest fossil will probably be found in the "
+"layer closest to the surface."
+msgstr ""
+"不完全對喔！岩層中越古老的化石一般會離地表越遠；最年輕的化石很可能會在最接近"
+"地表層被發現，這也就是「新淺舊深」。"
+
+# 19
+msgid ""
+"Read the statements below and click on the one that is <span "
+"class='blink'>not</span> correct."
+msgstr "請問下列哪一個敘述<span class='blink'>不正確</span>。"
+
+msgid ""
+"Certain geologists that mostly just study fossils are called paleontologists."
+msgstr "地質學家中主要研究化石者，稱為古生物學家。"
+
+msgid ""
+"Fossils are the remains of living organisms that have been preserved in rock."
+msgstr "化石是被保存在岩石內的生物遺跡。"
+
+msgid ""
+"Most fossils found in rock are the original bones and shells of animals long "
+"ago."
+msgstr ""
+"在岩石中發現的大多數化石，是很久以前原來生物的骨骼、外殼或枝幹，被岩石成分取"
+"代後仍保留原來形狀的古生物遺跡。"
+
+msgid ""
+"Geologists study rock layers in addition to the fossils contained inside "
+"them."
+msgstr "地質學家除了研究岩層外，還研究裡面的化石。"
+
+msgid ""
+"No, this statement is correct. Scientists that study rocks and what they "
+"mean are called geologists. Certain geologists that mostly just study "
+"fossils are called paleontologists."
+msgstr ""
+"不是這個選項，這個敘述是正確的！地質學家主要研究岩石；其中，地質學家主要研究"
+"化石者，稱為古生物學家。"
+
+msgid ""
+"No, this statement is correct. Fossils are the remains of living organisms "
+"that have been preserved in rock. This process produces almost an exact copy "
+"of the animal's hard parts."
+msgstr "不是這個選項，這個敘述是正確的！化石是被保存在岩石內的生物遺跡。"
+
+msgid ""
+"Correct! This statement is false.  The fossils we find in rock are actually "
+"replacement copies. Most fossils are copies of the hard parts of animals, "
+"they are not really the original bones or shells."
+msgstr ""
+"你選對了，這個敘述是錯誤的！我們所發現在岩石中的化石實際上是原來生物體的骨"
+"骼、外殼或枝幹，經過由大自然地質作用，而被岩石成分所取代的複製品。大多數化石"
+"是動物或植物的堅硬部分的複製品，它們並不是真正的原骨骼、外殼或枝幹。"
+
+msgid ""
+"No, this statement is correct. By studying different layers, scientists can "
+"get a good idea about how animals evolved and determine how old the fossils "
+"are."
+msgstr ""
+"不是這個選項，這個敘述是正確的！科學家研究不同的岩層，可以了解動物如何進化，"
+"並確定這些化石的年代。"
+
+# 20
+msgid "You've completed the History of Earth review."
+msgstr "您已經完成了「地球的歷史」的單元。"

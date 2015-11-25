@@ -1,0 +1,1024 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: module\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# Common Translations
+msgid "Start"
+msgstr "إبدأ"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Read More"
+msgstr "إقرأ المزيد"
+
+msgid "Check Answer"
+msgstr "تأكد من الإجابة"
+
+msgid "Please select your answer."
+msgstr "من فضلك إختر إجابتك."
+
+msgid "Please select your answers."
+msgstr "من فضلك إختر إجاباتك."
+
+msgid "Please type your answer."
+msgstr "من فضلك إطبع إجابتك"
+
+msgid "Quick Check #1"
+msgstr "تقويم سريع رقم 1"
+
+msgid "Quick Check #2"
+msgstr "تقويم سريع رقم 2"
+
+msgid "Quick Check #3"
+msgstr "تقويم سريع رقم 3"
+
+msgid "Quick Check #4"
+msgstr "تقويم سريع رقم 4"
+
+msgid "Please check your answers."
+msgstr "من فضلك تأكد من إجاباتك."
+
+msgid "How did I do?"
+msgstr "كيف أجبت؟"
+
+msgid "You answered..."
+msgstr "إجابتك كانت..."
+
+msgid "select"
+msgstr "اختر"
+
+msgid "Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."
+msgstr "دَوِّر أو إقلب الصندوق في الأسفل إما للأعلى أو  للأسفل لتضع إجابتك، انقر، وإمسك الفأرة ، واسحبها إلى الأعلى أو للإسفل."
+
+msgid "Click, hold and slide your mouse up and down to rotate the box and select your answer."
+msgstr "انقر، وثبت الفأرة وحركها للأعلى وللأسفل كي تُدَوِّر الصندوق وتختار إجابتك."
+
+msgid "Browse through the slides below by clicking the left and right arrows."
+msgstr "تصفح الشرائح المختلفة بالنقر على الأسهم اليسار واليمين"
+
+msgid "The Situation"
+msgstr "الوضع"
+
+msgid "The Scenario"
+msgstr "السيناريو"
+
+msgid "Your Task"
+msgstr "مهمتك هي"
+
+msgid "The Task"
+msgstr "المهمة"
+
+msgid "The Problem"
+msgstr "المشكلة"
+
+msgid "Your Assignment"
+msgstr "واجبك هو "
+
+msgid "Close me!"
+msgstr "أغلق الشاشة!"
+
+msgid "Click here to start typing your answer..."
+msgstr "انقر هنا لتبدأ بطباعة إجابتك..."
+
+msgid "Click the NEXT button when you are ready."
+msgstr "انقر على زر التالي عندما تكون مستعدا."
+
+msgid "Quiz Question #1"
+msgstr "السؤال القصير رقم 1"
+
+msgid "Quiz Question #2"
+msgstr "سؤال قصير رقم 2"
+
+msgid "Quiz Question #3"
+msgstr "سؤال قصير رقم 3"
+
+msgid "Quiz Question #4"
+msgstr "سؤال قصير رقم 4"
+
+msgid "Quiz Question #5"
+msgstr "سؤال قصير رقم 5"
+
+msgid "Quiz Question #6"
+msgstr "سؤال قصير رقم 6"
+
+msgid "Congratulations, "
+msgstr "مبروك، "
+
+msgid "You can check how you did on the 'Quick Check' and 'Quiz Questions' for this review by clicking the button below."
+msgstr "بإمكانك التحقق من كيف عملت في التقويم السريع وفي الأسئلة القصيرة لهذه المراجعة بالنقر على الزر في الأسفل."
+
+msgid "Go to dashboard"
+msgstr "اذهب إلى لوحة التحكم"
+
+msgid "Let's begin!"
+msgstr "دعنا نبدأ!"
+
+msgid "Are you ready,"
+msgstr "هل أنت مستعد،"
+
+msgid "Preparing your first quick check!"
+msgstr "حضر أول تقويم سريع قمت به!"
+
+msgid "Ready for your last quick check?"
+msgstr "أمستعد لتقويمك السريع الأخير؟"
+
+msgid "Ready for your last quiz question?"
+msgstr "هل انت مستعد لآخر سؤال في الامتحان؟"
+
+msgid "Putting it all together..."
+msgstr "إجمعها مع بعضها"
+
+msgid "Words and explanations"
+msgstr "كلمات وتفسيرات"
+
+msgid "Let's check what you now know"
+msgstr "دعنا نتأكد مما تعرف الآن"
+
+msgid "And the first quiz question is..."
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "You're done!"
+msgstr "أنهيت!"
+
+# 1
+msgid "Basic Cells"
+msgstr "الخلايا الأساسية"
+
+msgid "Welcome to the Basic Cells module"
+msgstr "مرحبا بكم في وحدة الخلايا الأساسية"
+
+# 2
+msgid "Thinking about... basic cells"
+msgstr "التفكير.. بالخلايا الأساسية"
+
+msgid "Congratulations! You're alive!"
+msgstr "تهانينا! انت على قيد الحياة!"
+
+msgid "No, that's not meant to be funny. Being alive is a great accomplishment. Think for a moment about what has to happen for you to be able to read and think about these words."
+msgstr "لا، هذا ليس من المفترض أن يكون مضحكا. البقاء على قيد الحياة إنجاز كبير.  فكر للحظة واحدة حول ما يجب أن يحدث لك لتكون قادراً على القراءة والتفكير بهذه الكلمات."
+
+msgid "Your body must use energy taken in from the foods you eat."
+msgstr "يجب أن يستهلك جسمك الطاقة المأخوذة من الطعام الذي تأكله.."
+
+msgid "Releasing that energy requires oxygen from the air you breathe in and produces carbon dioxide waste that you must breathe out."
+msgstr "إطلاق الطاقة التي تتطلب الأوكسجين من الهواء في التنفس، وتنتج نفايات ثاني أكسيد الكربون التي يجب أن تتنفسها خارجا."
+
+msgid "The chemical contents of your food must be broken down into simpler substances and rearranged and rebuilt into the structures you depend on for living."
+msgstr "ولا بد من كسر المحتويات الكيميائية للغذاء  إلى مواد أبسط وإعادة ترتيبها و بنائها إلى هياكل تعتمد عليها للعيش."
+
+msgid "The food and oxygen you take in must be circulated around your body, while the waste your body produces must be transported and removed."
+msgstr "يجب توزيع الطعام والأكسجين التي تأخذها في جميع أنحاء الجسم، في حين أن النفايات التي تنتج يجب تحويلها وإزالتها."
+
+msgid "We're just scratching the surface here, but this is pretty important stuff. This list could go on and on for a long time - thanks to many very specialized processes that occur in living things."
+msgstr "نحن فقط نخدش السطح هنا، ولكن هذه أمور هامة جدا.  هذه القائمة يمكن أن تستمر قدما و لفترة طويلة - وذلك بفضل العديد من العمليات المتخصصة والتي تحدث في الكائنات الحية."
+
+msgid "For now, let's stick with the basics. All living processes need a place to happen, and for all living things humans know about, that place is a cell."
+msgstr "الآن، دعونا نتمسك بالأساسيات.  جميع العمليات الحية تحتاج إلى مكان لتتكون، وبالنسبة لجميع الكائنات الحية  التي يعرفها البشر ، هذا المكان هو الخلية."
+
+msgid "Cells are the smallest things that can be called living. Most are so small they can't be seen without microscopes. A few are so large you can hold them in your hand, and many are so tiny that only special microscopic methods can make them visible."
+msgstr "الخلايا هي أصغر الأشياء التي يمكن أن تسمى كائنات حية.  معظمها صغيرة بحيث لا يمكن رؤيتها بدون المجاهر. القليل منها كبير جدا بحيث يمكن أن تمسكها في يدك، والكثير منها صغير بحيث يمكن أن  تكون مرئية فقط  باستخدام المجاهر الخاصة."
+
+msgid "All cells must perform all of the functions of living things. That's a lot happening in a small package. This means that cells must be simple yet incredibly sophisticated at the same time."
+msgstr " يجب ان تنفذ جميع الخلايا جميع وظائف الكائنات الحية.  وهذا كثير بالنسبة لمجموعة صغيرة.  وهذا يعني أن الخلايا يجب أن تكون بسيطة ولكن متطورة في الوقت نفسه."
+
+# 3
+msgid "Checking what you now know about... basic cells"
+msgstr "تأكد مما تعرف الآن ... عن الخلايا الأساسية"
+
+msgid "Arrange the items on the right to match up with the results on the left. Drag the boxes up and down."
+msgstr "رتب العناصر على اليمين وطابقها مع النتائج على اليسار.  اسحب المربعات إلى الأعلى وإلى الأسفل."
+
+msgid "Cells increase in size until they burst"
+msgstr "تزداد الخلايا في الحجم حتى تنفجر"
+
+msgid "Cells shrivel up and die"
+msgstr " تذبل الخلايا وتموت"
+
+msgid "Green structures in plant cells move around inside the cells."
+msgstr "الهياكل خضراء في الخلايا النباتية تتحرك داخل الخلايا."
+
+msgid "Placing cells under a strong light source"
+msgstr "وضع الخلايا تحت مصدر ضوء قوي"
+
+msgid "Placing cells in distilled water"
+msgstr "وضع الخلايا في الماء المقطر"
+
+msgid "Placing cells in salt water"
+msgstr "وضع الخلايا في المياه المالحة"
+
+msgid "Cells have many structures that help them perform the jobs that keep them alive. All cells are separated from the nonliving world by membranes. The membranes allow some substances to cross but serve as a barrier to others. Water moves back and forth across the membrane to help keep it in balance with its environment. Plant cells have special structures called chloroplasts which absorb energy from light and use it to make food."
+msgstr "لدى الخلايا العديد من الهياكل التي تساعدها على أداء الوظائف التي تبقيها على قيد الحياة. يتم فصل كل الخلايا من العالم غير الحي بوساطة الأغشية. الأغشية تسمح لبعض المواد بالمرور  ولكن تكون بمثابة حاجز لمواد أخرى. الماء يتحرك ذهابا وإيابا عبر الغشاء لإبقائه في حالة توازن مع بيئته. الخلايا النباتية لديها هياكل خاصة تسمى البلاستيدات الخضراء التي تمتص الطاقة من الضوء وتستخدمها لصنع المواد الغذائية."
+
+msgid "Observing cells..."
+msgstr "مراقبة الخلايا ..."
+
+# 4
+msgid "Reviewing big ideas about... basic cells"
+msgstr "مراجعة الأفكار الكبيرة حول ... الخلايا الأساسية"
+
+msgid "Cells come in two major types depending on their complexity. Prokaryotes are cells that have no major internal structures. These cell types include bacteria and archaea. Eukaryotes have a variety of internal structures and include protists, plants, animals, and fungi."
+msgstr "تأتي الخلايا  في نوعين رئيسيين حسب مستوى تعقيدها.  فالبدائيات هي خلايا التي ليس لها هياكل داخلية رئيسية.  وتشمل هذه الأنواع خلية البكتيريا والعتيقة. والحقيقيات هي مجموعة متنوعة من الهياكل الداخلية وتشمل الأوليات، والنباتات، والحيوانات، والفطريات."
+
+msgid "The simplest living things are very small single cells called prokaryotes.  The two types, archaea and bacteria, look much alike, but have very different internal chemistries. Prokaryotes are usually only 1-2 microns in size.  A micron is .001 millimeter, so that’s very, very small.  Using special techniques, our most powerful light microscopes can view bacteria and archaea clearly."
+msgstr "أبسط الكائنات الحية هي خلايا أحادية صغيرة جدا تسمى بدائيات النواة. النوعين، العتائق والبكتيريا، تبدو متشابهة جداء، ولكن لديها كيمياء داخلية مختلفة للغاية. بدائيات النواة عادة ما تكون 1-2 ميكرون في الحجم فقط. الميكرون هو 0.001 ملم، لذلك هي صغيرة للغاية. تُرى البكتيريا والعتائق بشكل واضح باستخدام تقنيات خاصة كالمجاهر الالكترونية  ."
+
+msgid "Archaea are a most diverse set of organisms living in environments as different as mud, fresh water, oceans, and the digestive systems of animals. Some archaea are found inside geysers and even near volcanic vents in the ocean floor."
+msgstr "العتائق هي مجموعة أكثر تنوعا من الكائنات الحية التي تعيش في بيئات مختلفة مثل الطين والمياه العذبة، والمحيطات، والأجهزة الهضمية للحيوانات.  توجد بعض العتائق داخل السخانات وحتى قرب فوهات البراكين في قاع المحيط."
+
+msgid "Bacteria are common everywhere, from the tops of the highest mountains to the bottoms of the deepest caves. They live on and inside plants and animals. Some cause illness but many are also important in all types of food processing. Bacteria turn milk into yogurt and cheese; meat into some types of sausage; and cabbage into sauerkraut and kimchi."
+msgstr "البكتيريا شائعة في كل مكان، من أعلى قمم الجبال  إلى أعمق قيعان  الكهوف.  وهي تعيش في داخل النباتات والحيوانات. بعضها يسبب المرض لكن الكثير منها ذات أهمية في كافة أنواع الصناعات الغذائية.  تحول البكتيريا الحليب إلى اللبن والجبن . وتحول اللحوم إلىبعض أنواع السجق. وتحول الملفوف إلى مخلل الملفوف والكيمتشي."
+
+msgid "All other living things are made of cells called <span class='hl'>eukaryotes</span>.  Eukaryotic cells are much larger than prokaryotes and may exist as individual cells or as parts of complex organisms.  All plants, animals, and fungi are made of eukaryotic cells."
+msgstr "جميع الكائنات الحية الأخرى مكونة من الخلايا تسمى <span class='hl'>حقيقيات</span> النواة.  خلايا حقيقية النواة هي أكبر بكثير من بدائيات النواة وربما هي موجودة مثل الخلايا الفردية أو أجزاء من الكائنات الحية المعقدة. تتكون جميع النباتات، والحيوانات، والفطريات خلايا حقيقية النواة."
+
+msgid "It’s hard to make blanket statements about what all cells have in common, but one feature all have is a membrane. Cell membranes separate the living interior of cells from the rest of their environments. Membranes regulate what goes into and out of cells and provide protection for cells’ interior chemistry."
+msgstr "من الصعب قول عبارات شاملة حول الخلايا ذات القواسم المشتركة، الا ميزة واحدة وهي الغشاء. أغشية الخلايا تفصل الخلايا داخل الكائنات الحية  من بقية بيئاتها.  الأغشية تنظم ما يدور داخل وخارج الخلايا وتوفر الحماية للكيمياء الداخلية للخلايا."
+
+msgid "While we often think of cell membranes as simply thin layers covering the outside of cells, they are actually much more complex and highly specialized to perform their functions. This layer also includes many different types of molecules made of proteins and sugars that function to move substances through the membrane and to help cells respond to changes in their environments."
+msgstr "نحن نعتقد بأن أغشية الخلايا مجرد طبقات رقيقة تغطي السطح الخارجي للخلايا، ولكن في الواقع  هي أكثر تعقيدا ومتخصصة بدرجة عالية لأداء وظائفها.  وتشمل هذه الطبقة كذلك العديد من أنواع مختلفة من الجزيئات مصنوعة من البروتينات والسكريات التي تعمل لنقل المواد عبر الغشاء ومساعدة الخلايا في الاستجابة للتغيرات في بيئاتها."
+
+msgid "Substances made of very small particles are able to flow through cell membranes without difficulty. They simply pass through the tiny openings between individual molecules. This process is called diffusion, which occurs any time substances flow from areas of high concentration to areas of low concentration. A special type of diffusion is called osmosis. Osmosis is the diffusion of water across a cell membrane."
+msgstr "المواد المصنوعة من جزيئات صغيرة للغاية قادرة على التدفق من خلال أغشية الخلايا دون صعوبة.  إنها ببساطة تمر من خلال فتحات صغيرة بين الجزيئات الفردية.  وتسمى هذه العملية الانتشار، والذي يحدث في أي وقت تتدفق فيه المواد من مناطق تركيز عال إلى مناطق تركيز منخفض. يطلق على هذا النوع خاص من الانتشار التناضح (الاسموزي).  التناضح هوانتشار المياه عبر غشاء الخلية."
+
+msgid "Passing through membrane..."
+msgstr "المرور عبر الغشاء ..."
+
+# 5
+msgid "Question A. Cell membranes are made of which of the following?"
+msgstr "السؤال أ.  أي من المواد التالية تكون أغشية الخلايا؟ "
+
+msgid "Solid bits of woody fibers and a few fatty acids"
+msgstr "قطع صلبة من ألياف الخشب وبعض الأحماض الدهنية"
+
+msgid "Many fatty molecules with a few proteins and sugars"
+msgstr "العديد من الجزيئات الدهنية مع عدد قليل من البروتينات والسكريات"
+
+msgid "Proteins, sugars and woody fibers"
+msgstr "البروتينات والسكريات والألياف الخشبية"
+
+msgid "Sugars and woody fibers only"
+msgstr "السكريات والألياف الخشبية فقط"
+
+msgid "Question B. Which of the following is NOT a difference between prokaryotes and eukaryotes?"
+msgstr "السؤال ب. أي مما يلي لا يشكل فرقا بين بدائيات النواة وحقيقيات النواة؟"
+
+msgid "Prokaryotes are much smaller than eukaryotes."
+msgstr "بدائيات النواة هي أصغر بكثير من حقيقيات النواة."
+
+msgid "Eukaryotes do not have nuclei."
+msgstr "حقيقيات النواة لا تملك نواة."
+
+msgid "Bacteria are all prokaryotes."
+msgstr "جميع البكتيريا من بدائيات النواة"
+
+msgid "Eukaryotes are generally much simpler cells than prokaryotes."
+msgstr " عادة ما تكون خلايا حقيقيات النواة أبسط بكثير من بدائيات النواة."
+
+msgid "Preparing your first quick check…"
+msgstr "تحضير أول تقويم سريع ...."
+
+msgid "Sorry. There’s no wood in cell membranes"
+msgstr "آسف. ليس هناك خشب في أغشية الخلايا"
+
+msgid "Yes! The fatty molecules form a double layer."
+msgstr "نعم! الجزيئات الدهنية تشكل طبقة مزدوجة."
+
+msgid "Proteins and sugars...Yes. Woody fibers...No."
+msgstr "بروتينات وسكريات نعم  ... أما ألياف خشبية  فلا."
+
+msgid "Nope. Just a few sugars and no woody fibers in the membrane."
+msgstr "كلا. فقط عدد قليل من السكريات ولا توجد ألياف خشبية في الغشاء."
+
+msgid "Nope. Prokaryotes are much smaller than eukaryotes."
+msgstr "كلا. بدائيات النواة هي أصغر بكثير من حقيقيات النواة."
+
+msgid "Sorry. Nuclei are important parts of eukaryotic cells."
+msgstr "آسف. الأنوية هي أجزاء مهمة من الخلايا حقيقية النواة."
+
+msgid "Actually,  bacteria are prokaryotes."
+msgstr "في الحقيقة، البكتيريا من بدائيات النواة"
+
+msgid "That’s the one. Eukaryotes are actually much more complex than prokaryotes."
+msgstr "هذه هي. حقيقيات النواة هي في الواقع أكثر تعقيدا من بدائيات النواة."
+
+# 6
+msgid "More big ideas about… basic cells"
+msgstr "المزيد من الأفكار الكبيرة حول ... الخلايا الأساسية"
+
+msgid "Just as our bodies have organs and systems to perform the functions that keep us alive, our cells also have parts that work together to do the work of living. The structures, present in all eukaryotes, are called organelles. Some show up in nearly all kinds of cells, while others are present only in some kinds of special cells."
+msgstr " لدى أجسامنا أجهزة وأنظمة لأداء المهام التي تبقينا على قيد الحياة،  لدى الخلايا  أيضا أجزاء تعمل معا للقيام بأعمالنا. الهياكل، موجودة في جميع الخلايا حقيقية النواة، تسمى العضيات. تظهر بعضها  في ما يقارب جميع أنواع الخلايا، بينما توجدأخرى فقط في بعض أنواع الخلايا الخاصة."
+
+msgid "Animal Cell"
+msgstr "خلية حيوانية"
+
+msgid "Plant Cell"
+msgstr "خلية نباتية"
+
+msgid "Nearly all cells have a nucleus. The nucleus is home to structures made of DNA called chromosomes. Chromosomes carry the information needed to make every part of every living thing. This information is used by organelles, called ribosomes, to build the proteins that make up all living things."
+msgstr "جميع الخلايا تقريبا  لديها نواة. النواة هي موطن لهياكل مصنوعة من الحمض النووي تسمى الكروموسومات. الكروموسومات تحمل المعلومات اللازمة لجعل كل جزء من كل شيء حي. يتم استخدام هذه المعلومات من قبل العضيات، تدعى ريبوسوم، لبناء البروتينات التي تكون جميع الكائنات الحية."
+
+msgid "Some proteins make up structures, and some are enzymes. Enzymes act on other molecules; some to make them bigger, and others to break them apart. After we eat, our food is broken down into simple molecules before it is absorbed into our cells. Energy is released when organelles called mitochondria break simple sugars into molecules of carbon dioxide and water. This energy-releasing process is known as cellular respiration."
+msgstr "بعض البروتينات تشكل الهياكل، وبعضها الانزيمات. الانزيمات تعمل على الجزيئات الأخرى؛ البعض لجعلها أكبر، والبعض الآخر لكسرها . بعد أن نأكل، يتكسر طعامنا إلى جزيئات بسيطة قبل أن يتم امتصاصه في خلايانا.  يتم تحرير الطاقة حين تكسر ما تُسمى عضيات الميتوكوندريا التي تكسر السكريات البسيطة إلى جزيئات من ثاني أكسيد الكربون والماء.    وتعرف عملية الافراج عن الطاقة هذه بالتنفس الخلوي."
+
+msgid "In green plants, organelles called chloroplasts absorb light energy and use it to combine parts of water and carbon dioxide molecules to make a simple sugar called glucose. This process, called photosynthesis, also produces extra molecules of oxygen, which are released by the cell."
+msgstr "في النباتات الخضراء، عضيات تسمى البلاستيدات الخضراء تمتص الطاقة الضوئية وتستخدمها لدمج أجزاء من الجزيئات الماء وثاني أكسيد الكربون لتكوين سكر بسيط يسمى الجلوكوز.  هذه العملية تسمى التركيب الضوئي، كما تنتج جزيئات إضافية من الأكسجين، والتي تم إطلاقها من قبل الخلية."
+
+msgid "Cells working together..."
+msgstr "خلايا تعمل بعضها  ..."
+
+# 7
+msgid "Question A. The cell nucleus is important because..."
+msgstr "السؤال أ. نواة الخلية هي مهمة لأنها ..."
+
+msgid "It absorbs energy from sunlight."
+msgstr "أنها تمتص الطاقة من أشعة الشمس."
+
+msgid "It releases energy from food."
+msgstr " تطلق الطاقة من الغذاء."
+
+msgid "It carries information to control the cell."
+msgstr "تحمل المعلومات للسيطرة على الخلية."
+
+msgid "It controls what enters or leaves the cell."
+msgstr " تسيطر على ما يدخل أو يغادر الخلية."
+
+msgid "Question B. Both plant and animal cells contain mitochondria because:"
+msgstr "  السؤال ب: الخلايا النباتية والحيوانية تحتوي على الحبيبات الخيطية (الميتوكوندريا) للأسباب التالية:"
+
+msgid "All cells must use energy to stay alive."
+msgstr "جميع الخلايا يجب أن تستخدم الطاقة للبقاء على قيد الحياة."
+
+msgid "Only animal cells absorb energy from the sun."
+msgstr "الخلايا الحيوانية فقط تمتص الطاقة من الشمس."
+
+msgid "All cells must absorb solar energy."
+msgstr " يجب أن تمتص جميع الخلايا الطاقة الشمسية."
+
+msgid "Mitochondria contain chlorophyll."
+msgstr "الحبيبات الخيطية تحتوي على الكلوروفيل."
+
+msgid "Studying nucleus..."
+msgstr "دراسة النواة ..."
+
+msgid "No. Chloroplasts absorb energy."
+msgstr "لا، البلاستيدات الخضراء تمتص الطاقة."
+
+msgid "Sorry. Mitochondria release energy."
+msgstr "آسف. الحبيبات الخيطية تطلق الطاقة."
+
+msgid "Yes! The nucleus carries information."
+msgstr "نعم! النواة تحمل المعلومات."
+
+msgid "Nope. Membranes control what enters or leaves cells."
+msgstr "كلا. الأغشية تسيطر على ما يدخل أو يترك الخلايا."
+
+msgid "A. All cells must use energy to stay alive."
+msgstr "أ. جميع الخلايا يجب أن تستخدم الطاقة للبقاء على قيد الحياة."
+
+msgid "That’s right! All cells must use energy."
+msgstr "هذا صحيح! جميع الخلايا يجب أن تستخدم الطاقة."
+
+msgid "B. Only animal cells absorb energy from the sun."
+msgstr "ب.الخلايا الحيوانية فقط تمتص الطاقة من الشمس."
+
+msgid "Sorry. Chloroplasts absorb solar energy."
+msgstr "آسف. البلاستيدات الخضراء تمتص الطاقة الشمسية."
+
+msgid "C. All cells must absorb solar energy."
+msgstr "ج. جميع الخلايا يجب أن تمتص الطاقة الشمسية."
+
+msgid "No. Only plant cells absorb solar energy."
+msgstr "لا،الخلايا النباتية فقط تمتص الطاقة من الشمس."
+
+msgid "D. Mitochondria contain chlorophyll."
+msgstr "د. الحبيبات الخيطية تحتوي على الكلوروفيل."
+
+msgid "Nope. Chloroplasts contain chlorophyll."
+msgstr "كلا. البلاستيدات الخضراء تحتوي على الكلوروفيل."
+
+# 8
+msgid "As we said before, cell membranes are responsible for keeping a cell in a sort of balance with its environment. Whatever changes occur outside a cell, the membrane has the job of controlling what enters and leaves. The membrane isn’t solid. It’s a constantly changing structure made of millions of fatty molecules that form two layers, pointing their heads in opposite directions. A wide variety of different proteins float among the fatty molecules, allowing the cell to interact with other cells and serving as pathways for many substances to enter or leave the cell."
+msgstr "كما قلنا من قبل، أغشية الخلايا هي المسؤولة عن حفظ الخلية في نوع من التوازن مع بيئتها كل ما تحدث تغيرات خارج الخلية، الغشاء لديه وظيفة في السيطرة على ما يدخل ويخرج. الغشاء ليس صلبا. انه هيكل يتغير باستمرار مصنوع من الملايين من الجزيئات الدهنية التي تشكل طبقتين، رؤوسهما باتجاهين متعاكسين.  مجموعة واسعة من البروتينات المختلفة تطفو بين الجزيئات الدهنية، مما يسمح للخلية بالتفاعل مع الخلايا الأخرى والقيام بدور ممرات للعديد من المواد الداخلة أو الخارجة من الخلية."
+
+msgid "Diffusion and osmosis move small molecules, such as water, across the membrane, always from areas where they are concentrated to areas of lesser concentration. Sometimes, though, it’s necessary for larger molecules to enter or leave the cell, regardless of concentration or whether they are small enough to move through on their own."
+msgstr "الانتشار والتناضح تحركان الجزيئات الصغيرة، مثل الماء  دائما عبر الغشاء من المناطق الأكثر تركيزاً إلى المناطق الأقل تركيزاً.  وفي بعض الأحيان، من الضروري للجزيئات الكبيرة الدخول إلى أو الخروج من الخلية، بغض النظر عن التركيز أو ما إذا كانت صغيرة بما يكفي للتحرك بمفردها."
+
+msgid "Some membrane proteins are able to use energy to change their shapes, capturing other molecules and pulling them through the membrane. They are called pump proteins, and this type of movement is called active transport."
+msgstr "بعض بروتينات الأغشية تكون قادرة على استخدام الطاقة لتغيير شكلها، مستولية على الجزيئات الأخرى وتسحبها من خلال الغشاء.  يطلق عليها بروتينات المضخة، ويسمى هذا النوع من الحركة النقل النشط."
+
+msgid "Other proteins, called carrier proteins, fold in the shape of tubes, allowing some large molecules to diffuse through the membrane. This type of transport, requiring no energy, is called facilitated diffusion."
+msgstr "البروتينات الأخرى وتسمى البروتينات الحاملة، تُطوى على هيئة أنابيب، تسمح لبعض الجزيئات الكبيرة بالانتشار عبر الأغشية.  هذا النوع من النقل لا يحتاج إلى طاقة، ويسمى الانتشار المُيَسَر."
+
+msgid "Protein channel"
+msgstr "قناة البروتين"
+
+msgid "Globular protein"
+msgstr "بروتين كروي"
+
+msgid "Glycoprotein"
+msgstr "بروتين سُكري"
+
+msgid "Carbohydrate"
+msgstr "نشويات"
+
+msgid "Hydrophilic head"
+msgstr "قابل للاتحاد مع الماء"
+
+msgid "Phospolipid bilayer"
+msgstr "دهن ثنائي الطبقة"
+
+msgid "Phospolipid molecule"
+msgstr "جزيء دهني"
+
+msgid "Cholesterol"
+msgstr "الكولسترول"
+
+msgid "Glycolipid"
+msgstr "دهني سُكري"
+
+msgid "Peripheral protein"
+msgstr "البروتين المحيطي"
+
+msgid "Integral protein"
+msgstr "بروتين غشائي مدمج"
+
+msgid "Filaments of cytoskeleton"
+msgstr "خيوط من الهيكل الخلوي"
+
+msgid "Alpha-helix protein"
+msgstr "بروتين ألفا-الحلزوني"
+
+msgid "Hydrophobic tails"
+msgstr "المخلفات الكارهة للماء"
+
+msgid "Surface protein"
+msgstr "بروتين السطح"
+
+msgid "balancing the environment..."
+msgstr "تحقيق التوازن في البيئة ..."
+
+# 9
+msgid "Question A.  Which of the following structures is found in cell membranes?"
+msgstr " سؤال أ. أي من الهياكل التالية توجد في أغشية الخلايا؟"
+
+msgid "Chlorophyll"
+msgstr "الكلوروفيل"
+
+msgid "Nucleus"
+msgstr "النواة"
+
+msgid "Ribosomes"
+msgstr "الريبوسومات"
+
+msgid "Carrier Protein"
+msgstr "بروتين ناقل"
+
+msgid "Question B. What is the major difference between passive and active transport?"
+msgstr "السؤال ب. ما هو الفرق الرئيسي بين النقل السلبي والنشط؟"
+
+msgid "Passive transport requires energy; active transport does not."
+msgstr "يتطلب النقل السلبي الطاقة؛ أما النقل النشط فلا يتطلب."
+
+msgid "Active transport requires energy, passive transport does not."
+msgstr "يتطلب النقل النشط الطاقة أما النقل السلبي فلا يتطلب."
+
+msgid "Passive transport always moves material out of the cell."
+msgstr "النقل السلبي دائما يحرك المواد من الخلية."
+
+msgid "Active transport always moves material out of the cell."
+msgstr "النقل النشط دائما يحرك المواد من الخلية."
+
+msgid "Question A. The European languages are members of the same family."
+msgstr "السؤال أ . اللغات الأوروبية هي أفراد من نفس العائلة."
+
+msgid "Passive and active transport?"
+msgstr "النقل السلبي والنشط؟"
+
+msgid "No. Chlorophyll is found in chloroplasts."
+msgstr "لا، الكلوروفيل يوجد في البلاستيدات الخضراء."
+
+msgid "Not this one. The nucleus is in the center of the cell."
+msgstr "ليست هذه.  توجد النواة في وسط الخلية."
+
+msgid "Sorry, ribosomes make proteins but not in the membrane."
+msgstr "عذرا، الريبوسومات تصنع البروتينات ولكن ليس في الغشاء."
+
+msgid "That’s right! Carrier proteins help control what enters or leaves the cell."
+msgstr "هذا صحيح! البروتينات الحاملة تساعد في السيطرة على ما يدخل أو يغادر الخلية."
+
+msgid "Nope. Active transport requires energy. Passive transport does not."
+msgstr "كلا. يتطلب النقل النشط الطاقة. أماالنقل السلبي فلا يتطلب."
+
+msgid "Right! Active transport requires energy. Passive transport does not."
+msgstr "صحيح! يتطلب النقل النشط الطاقة. أماالنقل السلبي فلا يتطلب."
+
+msgid "Sorry. Active or passive transport may move materials into or out of the cell."
+msgstr "عذرا. النقل النشط وغير النشط قد يحركان المواد داخل أو خارج الخلية."
+
+msgid "Not this one. Active or passive transport may move materials into or out of the cell."
+msgstr "ليس هذا. النقل النشط وغير النشط قد يحركان المواد داخل أو خارج الخلية."
+
+# 10
+msgid "There are four different types of eukaryotes."
+msgstr "هناك أربعة أنواع مختلفة من حقيقيات النواة."
+
+msgid "Fungi have cells much like plant cells, except that their cell walls are made of molecules called chitins and glucans. Fungal cells do not have chloroplasts, so they must rely on other living things for their energy needs. Fungi are considered to be decomposers because they help to break down dead organisms."
+msgstr "لدى الفطريات خلايا كبيرة مثل خلايا النبات، إلا أن جدران الخلايا المصنوعة من الجزيئات تسمى الكيتين والجلوكان. الخلايا الفطرية لا تحتوي البلاستيدات الخضراء، ولذلك يجب أن تعتمد على الأمور الحية الأخرى لاحتياجاتها من الطاقة. تعد الفطريات أن تكون محللات لأنها تساعد على تحطيم الكائنات الميتة."
+
+msgid "Animal cells lack rigid cell walls. This gives them great flexibility and allows them to interact with surrounding cells in a wide variety of ways. Animal cells also lack chloroplasts, making them dependent upon plants for energy."
+msgstr "تفتقرالخلايا الحيوانية إلى جدران الخلايا الصلبة.  هذا يعطيها قدرا كبيرا من المرونة ويسمح لها بالتفاعل مع الخلايا المحيطة بطرق متنوعة. تفتقر الخلايا الحيوانية كذلك البلاستيدات الخضراء، مما يجعلها تعتمد على النباتات للحصول على الطاقة."
+
+msgid "Plant cells are enclosed by rigid membranes made of cellulose. Most people know cellulose as wood, paper, or cotton. These and other products are made from plant material. Plant cells may also have chloroplasts which capture energy from the sun. Chloroplasts turn this energy into sugars which provide energy for plants and for all other types of life."
+msgstr "يتم إحاطة الخلايا النباتية عن طريق الأغشية الصلبة المصنوعة من السليلوز.  معظم الناس يعرفون السليلوز كما الخشب والورق، أو القطن.  وتتكون هذه وغيرها من المنتجات من مواد نباتية.  قد يكون للخلايا النباتية  بلاستيدات خضراء والتي تلتقط الطاقة من الشمس. البلاستيدات الخضراء تحول هذه الطاقة إلى سكريات و توفر الطاقة للمصانع وجميع أنواع الحياة الأخرى "
+
+msgid "Protists exist as single cells or as groups of identical cells. Protists are extremely diverse. Some are very similar to plants, while others resemble animals. Some float in water, while others move under their own power. Some capture energy from the sun using photosynthesis, while others capture and digest other cells. Some can even seem to grow to resemble more complex organisms at various times in their lives."
+msgstr "توجد الطلائعيات كخلايا مفردة أو في مجموعات من الخلايا المتطابقة. الطلائعيات متنوعة للغاية. بعضها مشابهة جدا للنباتات، والبعض الآخر يشابه الحيوانات. بعضها تطفو في المياه، بينما يتحرك البعض الآخر تحت سلطتها. بعض الطاقة تلتقط أشعة الشمس باستخدام التمثيل الضوئي، في حين يلتقط البعض الآخر ويهضم الخلايا الأخرى. بعضها قد ينمو ليشبه الكائنات الحية المعقدة  أكثر في أوقات مختلفة من حياتها."
+
+msgid "Identifying eukaryote..."
+msgstr "تحديد حقيقي النواة ..."
+
+# 11
+msgid "Question A. Chloroplasts are most often found in what types of cells?"
+msgstr " السؤال أ. في أي نوع من أنواع الخلايا توجد البلاستيدات الخضراء غالبا؟"
+
+msgid "Animal Cells"
+msgstr "الخلايا الحيوانية "
+
+msgid "Prokaryotes"
+msgstr "بدائيات النواة"
+
+msgid "Fungi"
+msgstr "الفطريات"
+
+msgid "Plant Cells"
+msgstr "الخلايا النباتية"
+
+msgid "Question B. Which structures are found in plant cells but not in animal cells?"
+msgstr "السؤال ب. أي من الهياكل توجد في الخلايا النباتية وغير موجودة في الخلايا الحيوانية؟"
+
+msgid "Cell walls and cell membranes"
+msgstr "جدران الخلايا والأغشية الخلوية"
+
+msgid "Chloroplasts and cell walls"
+msgstr "البلاستيدات الخضراء وجدران الخلايا"
+
+msgid "Mitochondria and cell membranes"
+msgstr " الحبيبات الخيطية وأغشية الخلية"
+
+msgid "Mitochondria and chloroplasts"
+msgstr "الحبيبات الخيطية والبلاستيدات الخضراء"
+
+msgid "Looking at different cells..."
+msgstr "عند النظر إلى خلايا مختلفة ..."
+
+msgid "Sorry, animal cells can’t make their own food."
+msgstr "عذرا، الخلايا الحيوانية لا تصنع طعامها."
+
+msgid "No. Prokaryotes have no organelles."
+msgstr "لا بدائيات النواة ليس لها عضيات."
+
+msgid "Not these. Fungi depend on other organisms for food."
+msgstr "لا ، تعتمد الفطريات على الكائنات الحية الأخرى للغذاء."
+
+msgid "That’s right! Chloroplasts are found in green plant cells."
+msgstr "هذا صحيح! توجد البلاستيدات الخضراء في الخلايا النباتية الخضراء."
+
+msgid "Sorry. All cells have membranes."
+msgstr "عذرا. جميع الخلايا لديها أغشية."
+
+msgid "Yes! Chloroplasts and cell walls are found only in plants."
+msgstr "نعم! توجد البلاستيدات الخضراء وجدران الخلايا  في النباتات فقط."
+
+msgid "No. Most eukaryotes have mitochondria and cell membranes."
+msgstr "لا،معظم حقيقيات النوى لديها حبيبات خيطية وأغشية خلايا."
+
+msgid "All complex cells have mitochondria, but only plant cells have chloroplasts."
+msgstr "جميع الخلايا المعقدة لديها حبيبات خيطية، ولكن الخلايا النباتية الوحيدة لديها البلاستيدات الخضراء."
+
+# 12
+msgid "Close!"
+msgstr "أغلق الشاشة!"
+
+msgid "Many plants and animals are large and complex enough to need special groups of cells that can perform important functions. These groups of specialized cells, called <span class='hl'>tissues</span>, work together on such tasks as digestion, reproduction, protection, and even responding to environmental changes."
+msgstr "العديد من النباتات والحيوانات كبيرة ومعقدة بما يكفي لتحتاج مجموعات خاصة من الخلايا التي يمكن أن تؤدي وظائف مهمة.  هذه المجموعات من الخلايا المتخصصة تسمى الأنسجة، وتعمل معا على مهام مثل الهضم والتكاثر، والحماية، وحتى الاستجابة للتغيرات البيئية."
+
+msgid "These specialized tissues are often grouped together into structures called <span class='key'>organs</span>. A common example is the leaf of a green plant. A leaf is  made up of many tissues, all important to helping it complete its job: gathering solar energy and storing it in a form nearly all living things can use. Some leaf tissues protect it. Others allow air to flow into and out of the leaf. Some transport water and food, while another provides storage space. A very important set of cells actually carries on photosynthesis, making sugar from carbon dioxide and water."
+msgstr "غالبا ما تجمع هذه الأنسجة المتخصصة معا في هياكل تسمى الأعضاء.  ومن أكثر الأمثلة شيوعا هي ورقة من نبات أخضر.  تتكون الورقة من العديد من الأنسجة، وكلها مهمة لمساعدتها على استكمال وظيفتها: جمع الطاقة الشمسية وتخزينها بشكل تستطيع جميع الكائنات الحية تقريبا استخدامها. بعض أنسجة الورقة تحميها.  بعضها الآخر يسمح للهواء بالتدفق إلى داخل وخارج الورقة. بعضها ينقل الماء والمواد الغذائية، في حين يوفر غيرها مساحة تخزين أخرى. وهناك مجموعة مهمة جدا من الخلايا تستمر بعملية التمثيل الضوئي، مما يُكَوِّن السكر من ثاني أكسيد الكربون والماء."
+
+msgid "Click to enlarge"
+msgstr "أنقر للتكبير "
+
+msgid "In many cases, organs are even grouped together into systems.  The human digestive system includes many different types of tissues. Some make digestive enzymes, some move food through the system, while others absorb and store food. These tissues make up such organs as the stomach, liver, pancreas, and intestines. Animal food processing requires that all of these tissues, in all of these organs, work smoothly as a unit."
+msgstr "في كثير من الحالات، يتم جمع الأعضاء مع بعضها في أجهزة.  يتضمن الجهاز الهضمي البشري أنواع عديدة مختلفة من الأنسجة. بعضها يصنع الإنزيمات الهضمية، وبعضها ينقل الأغذية من خلال الجهاز، في حين يمتص بعضها الأغذية ويخزنها.  هذه الأنسجة تشكل أعضاء مثل المعدة والكبد والبنكرياس والأمعاء.  ويتطلب تجهيز الأغذية الحيوانية أن تعمل كل هذه الأنسجة مع بعضها بشكل سلس كوحدة واحدة، في كل من هذه الأعضاء."
+
+msgid "This complex system breaks down complicated fat, carbohydrate, and protein molecules into their smallest parts, which can then be reassembled in cells to build the fats, carbohydrates, and proteins required by humans. Other human systems also involve many organs made up of many tissues to do their jobs. These systems of tissues organized into organs, organized further into systems, work in all types of plants and animals."
+msgstr "يكسر هذا النظام المعقد الدهون المعقدة، والكربوهيدرات، وجزيئات البروتين إلى أصغر الأجزاء ومن ثم يمكن إعادة تجميعها في الخلايا لبناء الدهون، والكربوهيدرات، والبروتينات المطلوبة من قبل البشر.  كما تتضمن الأجهزة البشرية الأخرى العديد من الأعضاء المؤلفة من العديد من الأنسجة للقيام بعملها.  هذه النظم من الأنسجة تنظم داخل الأعضاء، تنظم إلى مزيد من الأنظمة، والعمل في جميع أنواع النباتات والحيوانات."
+
+msgid "Tissues grouped together..."
+msgstr "الأنسجة مجموعة مع بعضها البعض   ..."
+
+# 13
+msgid "Quick Check #5"
+msgstr "التقويم السريع  رقم 5"
+
+msgid "Question A. Similar cells, performing the same function, are called:"
+msgstr "السؤال أ.  تسمى الخلايا المتماثلة،  والتي تؤدي نفس الوظيفة:"
+
+msgid "Systems"
+msgstr "أنظمة"
+
+msgid "Tissues"
+msgstr "أنسجة"
+
+msgid "Organs"
+msgstr "اعضاء"
+
+msgid "Gametes"
+msgstr "أمشاج"
+
+msgid "Question B. Which of the following structures specializes in building more complex molecules from simpler building blocks?"
+msgstr "السؤال ب. أي من الهياكل التالية متخصصة في بناء جزيئات أكثر تعقيدا من اللبنات البسيطة؟"
+
+msgid "Chloroplasts"
+msgstr "البلاستيدات الخضراء"
+
+msgid "Mitochondra"
+msgstr "الحبيبات الخيطية"
+
+msgid "Golgi body"
+msgstr "جهاز جولجي"
+
+msgid "Cell wall"
+msgstr "جدار خلوي"
+
+msgid "Nope. Systems are collections of organs."
+msgstr "كلا. الأنظمة هي مجموعات من الأجهزة."
+
+msgid "That’s it! Specialized cells are grouped into tissues."
+msgstr "هذا صحيح! يتم تجميع الخلايا المتخصصة على شكل أنسجة."
+
+msgid "No. Organs are collections of tissues."
+msgstr "لا، الأعضاء هي مجموعة من الأنسجة."
+
+msgid "Sorry, gametes are one type of specialized cell."
+msgstr "عذرا، الأمشاج هي نوع واحد من الخلايا المتخصصة."
+
+msgid "Winner! Chloroplasts use carbon dioxide and water to make sugar."
+msgstr "انت فائز! البلاستيدات الخضراء تستخدم ثاني أكسيد الكربون والماء لصنع السكر."
+
+msgid "No. Mitochondria actually break more complex molecules down."
+msgstr "لا،الحبيبات الخيطية تكسر الجزيئات الأكثر تعقيدا."
+
+msgid "Sorry. The Golgi is involved in protein processing."
+msgstr "آسف.  يرتبط جهاز جولجي بمعالجة البروتين."
+
+msgid "Not this one. Cell walls specialize in protection."
+msgstr "ليس هذا . جدران الخلايا متخصصة في الحماية."
+
+# 14
+msgid "Using what you know about... basic cells... to solve a problem"
+msgstr "استخدام ما تعرفه الآن حول ...الخلايا الأساسية ... من أجل حل مشكلة"
+
+msgid "Bacteria cause illness because they produce chemicals called toxins that cause body tissue to break down, much like digestive enzymes. As the number of bacteria infecting a person grows, so does the amount of toxin produced. As a consequence, the infected person gets sicker and sicker."
+msgstr "البكتيريا تسبب الأمراض لأنها تنتج مواد كيميائية تسمى السموم التي تتسبب في تكسر أنسجة الجسم، مثل الكثير من الإنزيمات الهضمية.  حيث أن عدد البكتيريا التي تصيب الشخص تنمو  وكذلك كمية السم المنتجة.  ونتيجة لذلك، فإن الشخص المصاب يصبح مريضا أكثر وأكثر."
+
+msgid "Imagine yourself as a medical researcher.  You have a number of drugs that may help to cure people of bacterial infections.  The following shows how each drug works."
+msgstr "تخيل نفسك باحث طبي.  لديك عدد من الأدوية التي قد تساعد في علاج الناس من الالتهابات البكتيرية. مما يلي يتبين كيفية عمل كل دواء."
+
+msgid "Drug A. Stimulates the production of chlorophyll in plant cells."
+msgstr "الدواء أ. يحفز إنتاج الكلوروفيل في الخلايا النباتية."
+
+msgid "Drug B. Interferes with cell wall production in prokaryotes."
+msgstr "الدواء ب. يدخل في نتاج جدار الخلية في بدائيات النواة."
+
+msgid "Drug C. Interferes with cell reproduction in eukaryotes."
+msgstr "الدواء ج. يتداخل مع تكاثر الخلايا في حقيقيات النواة."
+
+msgid "Drug D. Interferes with protein production in eukaryotes."
+msgstr "الدواء د. يتداخل مع إنتاج البروتين في حقيقيات النواة."
+
+msgid "You may choose one of the drugs to investigate further. Which will you begin with and why?"
+msgstr "يمكنك اختيار واحد من الأدوية لمواصلة الاستكشاف. بماذا ستبدأ ولماذا؟"
+
+msgid "Conducting research..."
+msgstr "إجراء البحوث ..."
+
+# 15
+msgid "Summarizing big ideas... about basic cells"
+msgstr "تلخيص الأفكار الكبيرة ... حول الخلايا الأساسية"
+
+msgid "<span class='key'>Prokaryotes</span>, like bacteria, are very small <span class='key'>cells</span> with little in the way of complex inner structures. <span class='key'>Eukaryotes</span> are usually larger and contain structures called organelles which perform specific functions. Plants, animals, protists and fungi are all made from eukaryotic cells."
+msgstr "بدائيات النواة، كالبكتيريا هي خلايا صغيرة جدا مع قليل من التعقيد في هياكل الخلايا الداخلية. الخلايا حقيقية النواة عادة ما تكون أكبر حجما وتحتوي على هياكل تسمى العضيات التي تؤدي وظائف محددة.  كل النباتات، والحيوانات، والطلائعيات والفطريات مصنوعة من خلايا حقيقية النواة."
+
+msgid "All cells have a layered membrane which regulates what can enter or leave the cell. Some molecules are small enough to pass through membranes by <span class='key'>diffusion</span>. The diffusion of water through a membrane is called <span class='key'>osmosis</span>. Other larger molecules must be moved through membranes using proteins embedded in the fatty layers. This process requires energy and is called active transport. Plant cells' membranes are surrounded by a rigid <span class='key'>cell wall</span> which also provides protection and support."
+msgstr "لدى جميع الخلايا غشاء ذو طبقات ينظم ما يمكن الدخول أو الخروج من الخلية.  بعض الجزيئات صغيرة بما يكفي للمرور من خلال الأغشية عن طريق الانتشار.  ويطلق على انتشار الماء عبر الغشاء التناضح.  يجب نقل الجزيئات الكبيرة الأخرى من خلال الأغشية باستخدام البروتينات المضمنة في الطبقات الدهنية.  وهذه العملية تتطلب طاقة وتسمى النقل النشط. وتحاط أغشية الخلايا النباتية بجدار الخلية الصلب الذي يوفر أيضا الحماية والدعم."
+
+msgid "The <span class='key'>nucleus</span> is an organelle which protects a cell's DNA information. That information is used by ribosomes to make protein. <span class='key'>Chloroplasts</span> absorb solar energy and use it to make simple sugars. <span class='key'>Mitochondria</span> release energy from sugar and convert it into forms cells can use in their life processes."
+msgstr "النواة هي عضية تحمي معلومات الحمض النووي للخلية.  وتستخدم هذه المعلومات من قبل الريبوزومات لصنع البروتين.  البلاستيدات الخضراء تمتص الطاقة الشمسية وتستخدمها لصنع السكريات البسيطة. الحبيبات الخيطية تطلق الطاقة من السكر وتحوله إلى أشكال يمكن للخلايا استخدامها في العمليات الحيوية ."
+
+msgid "In complex organisms, cells joined together to perform a single task are called <span class='key'>tissues</span>. Tissues working together are called <span class='key'>organs</span>, and groups of organs cooperating on the same job are called <span class='key'>systems</span>."
+msgstr "في الكائنات الحية المعقدة، تسمى الخلايا المجتمعة مع بعضها لتؤدي مهمة واحدة الأنسجة، والانسجة التي تعمل مع بعضها تسمى الأعضاء ،ومجموعة الأعضاء المتعاونة مع بعضها في نفس الوظيفة تسمى الأجهزة."
+
+# 16
+msgid "Reviewing key vocabulary related to... basic cells"
+msgstr "مراجعة المفردات الرئيسية المتعلقة ... بالخلايا الأساسية"
+
+msgid "Cell"
+msgstr "خلية"
+
+msgid "Basic unit of life enclosed by a membrane."
+msgstr "الوحدة الأساسية للحياة محاطة بغشاء."
+
+msgid "Cell Membrane"
+msgstr "غشاء خلوي"
+
+msgid "Double layer of fats and proteins enclosing a cell."
+msgstr "طبقة مزدوجة من الدهون والبروتينات تحيط بالخلية."
+
+msgid "Diffusion"
+msgstr "إنتشار"
+
+msgid "Movement of any material from areas of high concentration to areas of low concentration."
+msgstr "تحرك أي مادة من مناطق ذات تركيز عالية إلى مناطق منخفضة التركيز ."
+
+msgid "Cell Wall"
+msgstr "جدار الخلية"
+
+msgid "Rigid cellulose structure located outside plant cell membranes."
+msgstr "هيكل السليلوز الصلب يقع خارج أغشية الخلايا النباتية."
+
+msgid "Chloroplast"
+msgstr "بلاستيدات الخضراء"
+
+msgid "Organelle containing chlorophyll; site of photosynthesis."
+msgstr "العضية التي تحتوي على الكلوروفيل؛ موقع التمثيل الضوئي."
+
+msgid "Eukaryote"
+msgstr "حقيقيُ النواة"
+
+msgid "Complex cell with a nucleus."
+msgstr "خلية معقدة مع نواة."
+
+msgid "Organelle containing chromosomes."
+msgstr "عضية تحتوي على الكروموسومات."
+
+msgid "Organ"
+msgstr "عضو"
+
+msgid "Collection of tissues performing a specialized function."
+msgstr "مجموعة من الأنسجة التي تؤدي وظيفة متخصصة."
+
+msgid "Mitochondrion"
+msgstr "حبيبات خيطية"
+
+msgid "Organelle in which cellular respiration occurs."
+msgstr "العضية التي يحدث فيها التنفس الخلوي."
+
+msgid "Osmosis"
+msgstr "تناضح"
+
+msgid "Diffusion of water across a selectively permeable membrane."
+msgstr "انتشار المياه عبر غشاء منفذ بشكل انتقائي."
+
+msgid "System"
+msgstr "جهاز"
+
+msgid "Collection of organs performing similar functions."
+msgstr "مجموعة من الأجهزة التي تقوم بوظائف مماثلة."
+
+msgid "Prokaryote"
+msgstr "بدائيات النواة"
+
+msgid "Smallest type of living cell."
+msgstr "أصغر أنواع الخلايا الحية."
+
+msgid "Tissue"
+msgstr "نسيج"
+
+msgid "Collection of cells performing similar functions."
+msgstr "مجموعة من الخلايا تؤدي وظائف مماثلة."
+
+# 17
+msgid "Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."
+msgstr "إجابة الأسئلة القصيرة الستة سيعطيك فكرة عما تعرف الآن وماذا تحتاج لأن تعرف."
+
+# 18
+msgid "What feature most distinguishes prokaryotes from eukaryotes?"
+msgstr "ما هي السمات التي تميز  الخلايا بدائية النواة عن الخلايا حقيقية النواة أكثر؟"
+
+msgid "Prokaryotes have nuclei, while eukaryotes do not."
+msgstr "بدائيات النوى لها نواة، بينما حقيقيات النواة لا تحتوي على نواة."
+
+msgid "Prokaryotes have cell membranes, while eukaryotes do not."
+msgstr "بدائيات النوى لها أغشية خلايا، بينما لا توجد في حقيقيات النواة."
+
+msgid "Eukaryotes have nuclei, while prokaryotes do not."
+msgstr "حقيقيات النوى لها نوى، في حين تفعل بدائيات النوى لا."
+
+msgid "Eukaryotes have cell walls, while prokaryotes do not."
+msgstr "حقيقيات النواة لها جدران خلايا،بينما بدائيات النواة ليس لها."
+
+msgid "Your first quiz question is…"
+msgstr "السؤال الأول في الإختبار هو:"
+
+msgid "Sorry. Eukaryotes have nuclei."
+msgstr "عذرا. حقيقيات النواة لا تحتوي على نوى."
+
+msgid "No. All cells have membranes."
+msgstr "لا. جميع الخلايا لديها أغشية."
+
+msgid "Yes! Eukaryotes have nuclei."
+msgstr "نعم! حقيقيات النواة تحتوي على نواة."
+
+msgid "Not this one. Prokaryotes do have cell walls."
+msgstr "ليست هذه. بدائيات النواة جدران الخلايا."
+
+# 19
+msgid "Large molecules are sometimes passed across membranes through the use of:"
+msgstr "يتم تمرير جزيئات كبيرة في بعض الأحيان عبر الأغشية من خلال استخدام:"
+
+msgid "Carrier Proteins"
+msgstr "بروتينات ناقلة"
+
+msgid "Mitochondria"
+msgstr "حبيبات خيطية"
+
+msgid "Lysosomes"
+msgstr "جسيمات محللة"
+
+msgid "Enumerating substances..."
+msgstr "تعداد المواد ... "
+
+msgid "No. Chloroplasts are organelles."
+msgstr "لا، البلاستيدات الخضراء هي عضيات."
+
+msgid "That's it... Carrier proteins help move large molecules into and out of cells."
+msgstr "هذا كل شيء...تساعد البروتينات الناقلة  على تحريك الجزيئات الكبيرة داخل وخارج الخلايا."
+
+msgid "Sorry. Mitochondria are organelles inside cells."
+msgstr "عذراً. الحبيبات الخيطية هي عضيات داخل الخلايا."
+
+msgid "Not this one. Lysosomes are organelles."
+msgstr "ليست هذه الأجسام المحللة هي العضيات."
+
+# 20
+msgid "Cell membranes are composed of which of the following substances?"
+msgstr " من أي من المواد التالية تتكون أغشية الخلية؟"
+
+msgid "Fats and proteins"
+msgstr "الدهون والبروتينات"
+
+msgid "Proteins and carbohydrates"
+msgstr "البروتينات والنشويات"
+
+msgid "Carbohydrates and simple sugars"
+msgstr "النشويات والسكريات البسيطة"
+
+msgid "Simple sugars and proteins"
+msgstr "السكريات البسيطة والبروتينات"
+
+msgid "Passing across membranes..."
+msgstr "يمر عبر الأغشية..."
+
+msgid "Correct! Cell membranes are made from fats and proteins."
+msgstr "صحيح! أغشية الخلايا مصنوعة من الدهون والبروتينات."
+
+msgid "Sorry. Fats are the most common type of molecule in membranes."
+msgstr "عذراً. الدهون هي النوع الأكثر شيوعاً من الجزيئات في الأغشية."
+
+msgid "No. Fats and proteins make up membranes."
+msgstr "لا، الدهون والبروتينات تشكل الأغشية."
+
+msgid "Not these. Fats and proteins make up membranes."
+msgstr "ليست هذه. الدهون والبروتينات تشكل الأغشية."
+
+# 21
+msgid "Which of the following statements is true about osmosis?"
+msgstr "أي من العبارات التالية صحيحاً عن التناضح؟"
+
+msgid "Water flows from low concentration to high concentration."
+msgstr "يتدفق الماء من تركيز منخفض إلى تركيز عالي."
+
+msgid "Sugars flow across a membrane."
+msgstr "تتدفق السكريات عبر غشاء."
+
+msgid "Water diffuses across a membrane."
+msgstr "تنتشر المياه عبر غشاء."
+
+msgid "Proteins use energy to move water."
+msgstr " تستخدم البروتينات الطاقة لنقل المياه."
+
+msgid "Knowing about osmosis..."
+msgstr "معرفة معنى ... التناضح"
+
+msgid "No. Osmosis involves membranes."
+msgstr "لا، يتضمن التناضح الأغشية."
+
+msgid "Sorry. Osmosis is water only."
+msgstr "عذراً. التناضح هو الماء فقط."
+
+msgid "Thats it! Osmosis involves water and membranes."
+msgstr "هذه هي! يتضمن التناضح المياه والأغشية."
+
+msgid "Nope. No energy is used."
+msgstr "كلا. لا يتم استخدام  الطاقة."
+
+# 22
+msgid "How is active transport different from diffusion?"
+msgstr "كيف يختلف النقل النشط عن الانتشار؟"
+
+msgid "Active transport uses energy. Diffusion does not."
+msgstr "النقل النشط يستخدم الطاقة. أما الانتشار فلا."
+
+msgid "Active transport moves water from high to low concentration."
+msgstr "النقل النشط ينقل المياه من تركيز عال إلى تركيز منخفض."
+
+msgid "Diffusion uses carrier proteins to move sugar."
+msgstr "الانتشار يستخدم البروتين الناقل لنقل السكر."
+
+msgid "Active transport does not involve cell membranes."
+msgstr "النقل النشط لا يتضمن  أغشية الخلايا."
+
+msgid "Selecting correct answer..."
+msgstr "اختيار الإجابة الصحيحة..."
+
+msgid "Correct. Active transport uses energy."
+msgstr "صحيح. النقل النشط يستخدم الطاقة."
+
+msgid "No. Diffusion moves water from high to low concentration."
+msgstr "لا، الإنتشار ينقل الماء من  تركيز عال إلى تركيز منخفض."
+
+msgid "Sorry. Diffusion does not use carrier proteins."
+msgstr "عذراً. الانتشار لا يستخدم البروتين الناقل."
+
+msgid "Incorrect. Active transport involves membranes."
+msgstr "غير صحيح. يتضمن النقل النشط الأغشية."
+
+# 23
+msgid "What is the major function of ribosomes?"
+msgstr "ما هي وظيفة الريبوسومات الرئيسية؟"
+
+msgid "Store information."
+msgstr "تخزين المعلومات."
+
+msgid "Release energy."
+msgstr "اطلاق الطاقة."
+
+msgid "Capture energy from the sun."
+msgstr "التقاط الطاقة من الشمس."
+
+msgid "Make proteins."
+msgstr "صنع البروتينات."
+
+msgid "No. Information is stored in the nucleus."
+msgstr "لا، يتم تخزين المعلومات في النواة."
+
+msgid "Nope. Chloroplasts capture solar energy."
+msgstr "لا. البلاستيدات الخضراء تلتقط الطاقة الشمسية."
+
+msgid "Yes! Ribosomes are responsible for making protein."
+msgstr "نعم! الريبوسومات مسؤولة عن صنع البروتين."
+
+# 24
+msgid "You've completed the Basic Cells module."
+msgstr "لقد قمت بإكمال وحدة الخلايا الأساسية."
+
+msgid "You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below."
+msgstr "يمكنك التحقق من كيف فعلت في التقويمات السريعة والأسئلة القصيرة لهذه الوحدة بالنقر فوق الزر أدناه."
+
+msgid "Sunlight"
+msgstr "ضوء الشمس"
+
+msgid "Cuticle"
+msgstr "بشرة"
+
+msgid "Xylem"
+msgstr "الخشب"
+
+msgid "Phloem"
+msgstr "لحاء"
+
+msgid "Veins"
+msgstr "الأوردة"
+
+msgid "Carbon Dioxide"
+msgstr "ثاني أكسيد الكربون"
+
+msgid "Oxygen"
+msgstr "أكسجين"
+
+msgid "Epidermis"
+msgstr "بشرة"
