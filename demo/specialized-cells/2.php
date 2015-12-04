@@ -35,12 +35,9 @@
 
 	<style>
 		h1 { z-index: 10; color: #660066;}
-
-		
 		.wrap { border-color: #807A6A; }
-		.bg { background-color: #fff;  background-image:  url(assets/2/bg.jpg); background-size: 100% 100% !important; }
-
-		.content { text-align: left; margin-top: 375px; }
+		.bg { background-color: #fff; background-image:  url(assets/2/bg.jpg); background-size: 100% 100% !important; overflow: hidden; }
+		.content { text-align: left; margin-top: 360px; }
 		h1, h2, p { margin-left: 1%; }
 		.video { margin-left: 10px; border-radius: 5px; }
 
@@ -57,7 +54,6 @@
 		    width: 100% !important;
 		    margin: auto !important;
 		}
-
 		.video {
 		    margin-left: auto !important;
 		    margin-right: auto !important;
@@ -65,20 +61,8 @@
 		div.jp-video-270p {
 		    width: 100% !important;
 		}
-
-		
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; }
 		}
 	</style>
 </head>

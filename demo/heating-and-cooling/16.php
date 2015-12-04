@@ -46,13 +46,25 @@
 			#box .info {  width: 78%;}
 		}
 		#dp_swf_engine { display: none; }
+
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="question">
-				<h1><?php echo _("Quiz Question #1"); ?></h1>
+				<h1><button id="qq" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #1"); ?></h1>
 				<p><?php echo _("Two students make hot chocolate. One student pours the hot chocolate into a foam cup. The other student pours the hot chocolate into a metal cup. The metal cup becomes too hot to touch, but the foam cup can be held comfortably."); ?></p>
 				<?php if($language == "ar_EG") { ?> <br> <?php } ?>
 				<div class="image">
@@ -77,10 +89,13 @@
 			</div>
 
 			<div id="answer">
-				<h1><?php echo _("Quiz Question #1"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #1"); ?> - <?php echo _("How did I do?"); ?></h1>
 				<p class="center"><?php echo _("You answered..."); ?></p>
 				<div id="feedback"></div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -95,7 +110,6 @@
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
 	<script src="scripts/saveanswer.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<script src="scripts/hexaflip2.js"></script>
 	<?php } else { ?>
@@ -103,6 +117,8 @@
 	<?php } ?>
 	
 	<script>
+		var fb = "";
+		var audio = document.getElementById("player");
 		var answered = <?php echo $answered; ?>,
 		question = $('#question'),
 		answer = $('#answer'),
@@ -116,6 +132,9 @@
 			question.fadeOut(function() {
 				answer.fadeIn();
 				window.location.hash = "#answer";
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			});
 			check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
 			save();
@@ -126,6 +145,9 @@
 			else {
 				answer.fadeOut(function() { question.fadeIn(); });
 				next.fadeOut(function() { check.fadeIn(); });
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -166,9 +188,57 @@
 				saveAnswer('heating-and-cooling-qq1-a', ans);
 				answered = 1;
 			}
+			fb = ans;
 		}
 
 		$(window).resize(function() { makeHexa(); });
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='qq'){
+			    	if($("#player").attr('src') != "media/16QQ1.mp3")
+				    	$('#player').attr('src', "media/16QQ1.mp3");
+			    } else if (id=='fb') {
+			    	if(fb=='A') {
+			    		if($("#player").attr('src') != "media/16FQQA.mp3")
+				    		$('#player').attr('src', "media/16FQQA.mp3");
+			    	}
+			    	if(fb=='B') {
+			    		if($("#player").attr('src') != "media/16FQQB.mp3")
+				    		$('#player').attr('src', "media/16FQQB.mp3");
+			    	}
+			    	if(fb=='C') {
+			    		if($("#player").attr('src') != "media/16FQQC.mp3")
+				    		$('#player').attr('src', "media/16FQQC.mp3");
+			    	}
+			    	if(fb=='D') {
+			    		if($("#player").attr('src') != "media/16FQQD.mp3")
+				    		$('#player').attr('src', "media/16FQQD.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 
 	<script>

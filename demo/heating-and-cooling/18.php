@@ -80,13 +80,25 @@
 			.bg p {font-size: 24px !important;}
 			h2, p, li {font-size:20px !important;}
 		}
+
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="question">
-				<h1><?php echo _("Quiz Question #3"); ?></h1>
+				<h1><button id="qq" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #3"); ?></h1>
 				<h2><?php echo _("Choose from the items to select your answer."); ?></h2>
 
 				<form id="nl-form" class="nl-form">
@@ -115,7 +127,7 @@
 			</div>
 
 			<div id="answer">
-				<h1><?php echo _("Quiz Question #3"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #3"); ?> - <?php echo _("How did I do?"); ?></h1>
 				<p class="small"><?php echo _("You answered..."); ?></p>
 				<p><?php echo _("Heat always moves from objects at"); ?></p>
 				<p class="a"></p>
@@ -123,6 +135,9 @@
 				<p class="b"></p>
 				<div class="feedback"></div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -140,8 +155,9 @@
 	<script src="scripts/hexaflip.js"></script>
 	<script src="scripts/saveanswer.js"></script>
 	<script src="scripts/nlform.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
+		var fb = "";
+		var audio = document.getElementById("player");
 		var nlform = new NLForm(document.getElementById('nl-form'));
 
 		var answered = <?php echo $answered; ?>,
@@ -165,6 +181,9 @@
 				question.fadeOut(function() {
 					answer.fadeIn();
 					window.location.hash = "#answer";
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
 				save();
@@ -176,6 +195,9 @@
 			else {
 				answer.fadeOut(function() { question.fadeIn(); });
 				next.fadeOut(function() { check.fadeIn(); });
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -189,23 +211,92 @@
 			if (qb.val()=='lower'){ $('.b').html('<?php echo _("lower temperature"); ?>'); }
 			else if (qb.val()=='higher'){ $('.b').html('<?php echo _("higher temperature"); ?>'); }
 			else { $('.b').html('<?php echo _("same temperature"); ?>'); }
-				
-				
+
 			if (qa.val() == 'lower' && qb.val() == 'higher') {
-				answer.find('.feedback').html('<p class="red center small"><img src="images/misc/wrong.png" alt="Wrong" /> <?php echo _("No. Heat always moves from object at higher temperature to objects at lower temperature."); ?></p>');
+				answer.find('.feedback').html('<p class="red center small"><img src="images/misc/wrong.png" alt="Wrong" /> <?php echo _("No. Heat always moves from objects at higher temperature to objects at lower temperature."); ?></p>');
 			} else if (qa.val() == 'higher' && qb.val() == 'lower') {
-				answer.find('.feedback').html('<p class="green center small"><img src="images/misc/correct.png" alt="Correct" /> <?php echo _("Correct. Heat always moves from object at higher temperature to objects at lower temperature."); ?></p>');
+				answer.find('.feedback').html('<p class="green center small"><img src="images/misc/correct.png" alt="Correct" /> <?php echo _("Correct. Heat always moves from objects at higher temperature to objects at lower temperature."); ?></p>');
 			} else {
-				answer.find('.feedback').html('<p class="red center small"><img src="images/misc/wrong.png" alt="Wrong" /> <?php echo _("No. Heat always moves from object at higher temperature to objects at lower temperature."); ?></p>');	
+				answer.find('.feedback').html('<p class="red center small"><img src="images/misc/wrong.png" alt="Wrong" /> <?php echo _("No. Heat always moves from objects at higher temperature to objects at lower temperature."); ?></p>');	
 			}
 
 			ans = qa.val() + '-' + qb.val();
+			fb = ans;
 
 			if (answered == 0) {
 				saveAnswer('heating-and-cooling-qq3-a', ans);
 				answered = 1;
 			}
 		}
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='qq'){
+			    	if($("#player").attr('src') != "media/18QQ3.mp3")
+				    	$('#player').attr('src', "media/18QQ3.mp3");
+			    } else if (id=='fb') {
+			    	if(fb=='lower-lower'){
+			    		if($("#player").attr('src') != "media/18Flower-lower.mp3")
+				    		$('#player').attr('src', "media/18Flower-lower.mp3");
+			    	}
+			    	if(fb=='lower-same'){
+			    		if($("#player").attr('src') != "media/18Flower-same.mp3")
+				    		$('#player').attr('src', "media/18Flower-same.mp3");
+			    	}
+			    	if(fb=='lower-higher'){
+			    		if($("#player").attr('src') != "media/18Flower-higher.mp3")
+				    		$('#player').attr('src', "media/18Flower-higher.mp3");
+			    	}
+
+			    	if(fb=='same-lower'){
+			    		if($("#player").attr('src') != "media/18Fsame-lower.mp3")
+				    		$('#player').attr('src', "media/18Fsame-lower.mp3");
+			    	}
+			    	if(fb=='same-same'){
+			    		if($("#player").attr('src') != "media/18Fsame-same.mp3")
+				    		$('#player').attr('src', "media/18Fsame-same.mp3");
+			    	}
+			    	if(fb=='same-higher'){
+			    		if($("#player").attr('src') != "media/18Fsame-higher.mp3")
+				    		$('#player').attr('src', "media/18Fsame-higher.mp3");
+			    	}
+
+			    	if(fb=='higher-lower'){
+			    		if($("#player").attr('src') != "media/18Fhigher-lower.mp3")
+				    		$('#player').attr('src', "media/18Fhigher-lower.mp3");
+			    	}
+			    	if(fb=='higher-same'){
+			    		if($("#player").attr('src') != "media/18Fhigher-same.mp3")
+				    		$('#player').attr('src', "media/18Fhigher-same.mp3");
+			    	}
+			    	if(fb=='higher-higher'){
+			    		if($("#player").attr('src') != "media/18Fhigher-higher.mp3")
+				    		$('#player').attr('src', "media/18Fhigher-higher.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

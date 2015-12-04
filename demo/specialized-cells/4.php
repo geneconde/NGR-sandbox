@@ -43,14 +43,14 @@
 		.imager { height: 275px; width: 420px; float: right; margin: 10px; }}
 		.center { margin: auto 0 auto 0; }
 		.image {
-			    background: url('assets/4/2.jpg');
-			    background-repeat: no-repeat;
-			    background-size: 100% 100%;
-			    height: 360px !important;
-			    width: 500px !important;
-			    margin: 0 auto;
-			    float: none;
-			    display: table;
+		    background: url('assets/4/2.jpg');
+		    background-repeat: no-repeat;
+		    background-size: 100% 100%;
+			height: 325px !important;
+			width: 480px !important;
+		    margin: 0 auto;
+		    float: none;
+		    display: table;
 		}
 		img { border: 2px solid #000; }
 		#screen1 img { margin-top: 16px; }
@@ -59,14 +59,15 @@
 		#neuron, #columnar, #white, #red, #smooth { position: absolute; line-height: 95%; font-size: 20px; }
 
 		#human { font-weight: bold; right: 170px; top: 0; }
-		#columnar { width: 100px; right: 145px; top: 70px; text-align: center !important; }
-		#white { width: 100px; top: 80px; right: 10px; }
-		#red { width: 90px; top: 175px; right: 400px; }
-		#smooth { top: 330px; right: 220px; }
+		#columnar { width: 100px; right: 137px; top: 70px; text-align: center !important; }
+		#white { width: 100px; top: 69px; right: 10px; }
+		#red { width: 90px; top: 156px; right: 385px; }
+		#smooth { top: 297px; right: 220px; }
 		#neuron { top: 30px; right: 405px; }
 		
 		.center label { position: absolute; }
 		.key { color: #ff005a; }
+		p { text-align: justify !important; margin: 0; }
 
 		@media screen and (max-width: 1250px ){
 			.bg{ 
@@ -75,10 +76,8 @@
 				overflow: hidden;
 			}
 			#buttons { background-color: #468853 !important; z-index: 10; }
+			p { line-height: 30px; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		p { text-align: justify !important; }
-
 	</style>
 </head>
 

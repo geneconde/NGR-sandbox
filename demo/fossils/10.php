@@ -23,21 +23,29 @@
 <script src="scripts/responsiveslides.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #918557; font-size: 31px; }
-h2 { text-align: center; color: #B45B66; }
-.wrap { border-color: #e3dfaf; }
-.bg { background-image: url(images/10/bg.jpg); }
+	h1 { color: #918557; font-size: 31px; }
+	h2 { text-align: center; color: #B45B66; }
+	.wrap { border-color: #e3dfaf; }
+	.bg { background-image: url(images/10/bg.jpg); }
 
-.slider { width: 450px; margin: 20px auto; }
+	.slider { width: 450px; margin: 20px auto; }
 
-#assignment { display: none; text-align: center; }
-#assignment h2 { margin-top: 0; padding-top: 20px; }
-textarea { width: 60%; margin-top: 20px; display: inline-block; border-radius: 5px; border: 1px solid #B45B66; outline: 0; padding: 10px; font-size: 24px; font-family: PlaytimeRegular; }
-#buttons .next { display: none; }
-#problem img { margin:0 auto; display: block; }
+	#assignment { display: none; text-align: center; }
+	#assignment h2 { margin-top: 0; padding-top: 20px; }
+	textarea { width: 60%; margin-top: 20px; display: inline-block; border-radius: 5px; border: 1px solid #B45B66; outline: 0; padding: 10px; font-size: 24px; font-family: PlaytimeRegular; }
+	#buttons .next { display: none; }
+	#problem img { margin:0 auto; display: block; }
 
-html[dir="rtl"] h2 { text-align: center; }
+	html[dir="rtl"] h2 { text-align: center; }
 
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1, #assignment h2 { padding-top: 40px; }
+		#problem img { width: 42%; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+		#assignment h2 { padding-top: 20px; }
+	}
 </style>
 </head>
 <body>

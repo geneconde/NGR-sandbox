@@ -37,8 +37,6 @@
 		<link rel="stylesheet" href="css/grid.css">
 	<?php endif; ?>
 
-
-
 	<style>
 		.container_12 .prefix_4 {
 		    padding-left: 23.333% !important;
@@ -78,9 +76,22 @@
 		}
 		/*To solve overlap bug at the edges during magnification*/
 		.small { display: block; }
-
 		.rslides { width: 450px; height: 400px; }
-		@media screen and (max-width: 1250px) { #screen2 p {padding-top: 30px; }#screen3 .pic { margin-top: 3%; } #screen3 p { font-size: 18px; } #screen2 .rslides img{ margin: 0px 0; } img{padding-top: 30px; } .bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; } }
+		#screen3 .note {
+		    width: 100%;
+		    text-align: center;
+		    padding-top: 60px;
+		}
+		@media screen and (max-width: 1250px) {
+			#screen2 p { padding-top: 30px; }
+			#screen3 .pic { margin-top: 3%; }
+			#screen3 p { font-size: 18px; }
+			#screen2 .rslides img{ margin: 0px 0; }
+			img{ padding-top: 20px; }
+			.bg{ background-size: 100% calc(100% - 65px)!important;
+				background-position: 0 34px; }
+			}
+			#screen3 .note { padding-top: 70px; }
 		@media screen and (max-width: 780px) {
 			#screen3 .pic { height: 215px;}
 		}
@@ -116,7 +127,7 @@
 					</div>
 
 					<div id="screen3" class="screen">
-							<p class="prefix_4"><?php echo _("Hover your mouse over the image to see the details.")?></p>
+							<p class="note"><?php echo _("Hover your mouse over the image to see the details.")?></p>
 						<div class="pic magnify">
 							<div class="large"></div>
 							<img class="small" src="assets/10/screenshot-www.nobelprize.org 2015-04-11 11-24-10.png">

@@ -64,22 +64,39 @@
 		}
 		#results:hover { background: #e7875f !important; }
 		#dp_swf_engine { display: none; }
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 9px;
+		    padding: 0px;
+		    font-size: 14px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style> 
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
-			<h1><span class="blink"><?php echo _("Congratulations, ") ?> <?php echo $user->getFirstName() . "!"; ?></span></h1>
+			<h1><button id="qq" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><span class="blink"><?php echo _("Congratulations, ") ?> <?php echo $user->getFirstName() . "!"; ?></span></h1>
 			<h2 class="center"><?php echo _("You've completed the Heating and Cooling module."); ?></h2>
 			<h2 class="center"><?php echo _("You can check how you did on the 'Quick Checks' and 'Quiz Questions' for this module by clicking the button below.") ?></h2>
 			<a id="results"
-				<?php if ($user->getType() == 0): ?>
+				<?php if ($user->getType() == 0){ ?>
 					href="../../teacher.php"><span id="link"><?php echo _("Go to dashboard"); ?></span>
-				<?php else: ?>
+				<?php } else if($user->getType() >= 3){ ?>
+					href="../../subscriber/view-modules.php"><span id="link"><?php echo _("Go to dashboard"); ?></span>
+				<?php } else{ ?>
 					href="../../results.php?smid=<?php echo $_SESSION['smid']; ?>"><span id="link"><?php echo _("How did I do?"); ?></span>
-				<?php endif; ?>
-				
+				<?php } ?>
 			</a>
+			<audio id="player" controls style="display: none">
+				<source src="media/22.mp3" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -92,7 +109,32 @@
 	<script src="scripts/jquery.js"></script>
 
 	<script src="scripts/jpreloader.js"></script>
-	<script src="scripts/rightclick.js"></script>
+	<script>
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
+	</script>
 	
 	<?php include("setlocale.php"); ?>
 </body>

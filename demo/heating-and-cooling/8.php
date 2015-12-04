@@ -56,13 +56,26 @@
 			h2, p, li {font-size:16px !important;}
 			.images {width:90%;}
 		}
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
+		    padding: 0px;
+		    font-size: 14px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div>
-				<h1><?php echo _("More big ideas... about heating and cooling"); ?></h1>
+				<h1><button id="audio" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("More big ideas... about heating and cooling"); ?></h1>
 				
 				<p><?php echo _("Heat energy can move from place to place in different ways. When two objects or substances at different temperatures touch each other, heat energy flows from the one at the higher temperature to the one at the lower temperature by <span class='key'>conduction</span>. If you have ever picked up a spoon from a hot cup of chocolate, the spoon became hotter by conduction."); ?></p>
 				
@@ -75,6 +88,9 @@
 					<div><img src="images/8/convection.jpg" alt="Convection"><p><?php echo _("Convection"); ?></p></div>
 					<div><img src="images/8/radiation.jpg" alt="Radiation"><p><?php echo _("Radiation"); ?></p></div>
 				</div>
+				<audio id="player" controls style="display: none">
+					<source src="media/8MBI.mp3" type="audio/mpeg">
+				</audio>
 			</div>
 		</div>
 	</div>
@@ -88,7 +104,29 @@
 
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<?php include("setlocale.php"); ?>
+	<script>
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+			    var txt = $('#audio').val();
+			    var audio = document.getElementById("player");
+				if(txt == 'Play') {
+					audio.play();
+					$('#audio').html('<i class="fa fa-pause"></i>');
+					$('#audio').val("Pause");
+				}
+				else {
+					audio.pause();
+					$('#audio').html('<i class="fa fa-play"></i>');
+					$('#audio').val("Play");
+				}
+				audio.addEventListener("ended", function() {
+			        audio.currentTime = 0;
+					$('#audio').html('<i class="fa fa-play"></i>');
+			        $('#audio').val("Play");
+			    });
+			});
+		});
+	</script>
 </body>
 </html>

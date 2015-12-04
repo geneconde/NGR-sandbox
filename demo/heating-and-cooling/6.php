@@ -57,13 +57,25 @@
 
 		#buttons .next { display: none; }
 
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    margin-right: 5px;
+		    position: relative;
+		}
+		.audio-btn:focus { outline: 0; }
+		#mbi { top: -6px; }
+		#mbisp1, #mbisp2 { top: -3px; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="screen1">
-				<h1><?php echo _("More big ideas... about heating and cooling"); ?></h1>
+				<h1><button id="mbi" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("More big ideas... about heating and cooling"); ?></h1>
 				
 				<p><?php echo _("Other forms of energy can be changed into heat energy.  Wood and natural gas can be burned to produce heat for your home. Electricity can be used to create heat in your toaster, oven or microwave to cook your food. Pressing your hands together and rubbing back and forth quickly produces heat energy. This heat is produced by <span class='key'>friction</span>, the force between two things or surfaces that rub together. Since there is always friction when two things rub together, there is always heat energy generated."); ?></p>
 				
@@ -74,14 +86,17 @@
 			</div>
 
 			<div id="screen2">
-				<p><?php echo _("When we add heat to a substance, the substance changes in some way. For example,  by adding heat to an ice cube it causes it to change from a solid to a liquid. In this case only the form has changed. This is called a <span class='key'>physical change</span>. But sometimes heat can change a substance into a new substance. This is called a <span class='key'>chemical change</span>. The new substance  has a different chemical composition with different properties. When we turn batter into a pancake, we are using  heat to cook and chemically change the batter ingredients into something different -- a pancake."); ?></p>
+				<p><button id="mbisp1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("When we add heat to a substance, it can sometimes cause either a physical or chemical change to the substance. For example,  by adding heat to an ice cube it causes it to change from a solid to a liquid. In this case only the form has changed. This is called a <span class='key'>physical change</span>. But sometimes heat can change a substance into a new substance. This is called a <span class='key'>chemical change</span>. The new substance  has a different chemical composition with different properties. When we turn batter into a pancake, we are using  heat to cook and chemically change the batter ingredients into something different -- a pancake."); ?></p>
 
 				<img id = "pic_top" src="images/6/physical.gif" alt="Physical change">
 				<div class="clear"></div>
 				<img id = "pic_bot" src="images/6/chemical.gif" alt="Chemical change">
 				
-				<p><br/><?php echo _("In a physical change, we can often reverse the change. In the example of heating an ice cube, we can reverse it and freeze the water again. But in a chemical change, we often cannot reverse the change. In the example of making pancakes, we can't change the pancakes back into batter again."); ?></p>
+				<p><br/><button id="mbisp2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("In a physical change, we can often reverse the change. In the example of heating an ice cube, we can reverse it and freeze the water again. But in a chemical change, we often cannot reverse the change. In the example of making pancakes, we can't change the pancakes back into batter again."); ?></p>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>	
 	</div>
 
@@ -97,7 +112,6 @@
 	<script src="scripts/jpreloader.js"></script>
 	<script src="scripts/saveanswer.js"></script>
 	<script src="scripts/jquery.jplayer.min.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
 		$("#jquery_jplayer_1").jPlayer({
 	   ready: function () {
@@ -124,6 +138,7 @@
         }
 	  });
 	
+		var audio = document.getElementById("player");
 		var check = $('img.check'),
 			back = $('a.back'),
 			next = $('a.next'),
@@ -136,6 +151,9 @@
 			screen1.fadeOut(function() {
 				screen2.fadeIn();
 				window.location.hash = "#screen2";
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			});
 			more.fadeOut(function() { next.fadeIn(); });
 		});
@@ -152,6 +170,9 @@
 				});
 
 				removeHash();
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -171,6 +192,42 @@
 
 			window.location.hash = "#screen2";
 		}
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='mbi'){
+			    	if($("#player").attr('src') != "media/6MBI.mp3")
+				    	$('#player').attr('src', "media/6MBI.mp3");
+			    } else if (id=='mbisp1') {
+			    	if($("#player").attr('src') != "media/6MBIsp1.mp3")
+				    	$('#player').attr('src', "media/6MBIsp1.mp3");
+			    } else if (id=='mbisp2') {
+			    	if($("#player").attr('src') != "media/6MBIsp2.mp3")
+				    	$('#player').attr('src', "media/6MBIsp2.mp3");
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

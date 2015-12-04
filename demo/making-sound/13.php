@@ -23,6 +23,7 @@
 	<link rel="stylesheet" href="css/locale.css">
 	<link rel="stylesheet" href="css/jpreloader.css">
 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
@@ -36,6 +37,9 @@
 		#question { height: 320px; width: 60%; position: relative; margin: 10px auto 0; display: block; }
 		#question img { display: none; width: 100%; position: absolute; }
 		#question img.active { display: block; margin: 0 auto; }
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 
@@ -54,8 +58,8 @@
 	</div>
 
 	<div id="buttons">
-		<a href="12.php" class="back" title="<?php echo _("Back"); ?>"><?php echo _("Back"); ?></a>
-		<a href="14.php" class="next" title="<?php echo _("Next"); ?>"><?php echo _("Next"); ?></a>
+		<a href="12.php" class="back" title="<?php echo _("Back"); ?>"><i class="fa fa-arrow-left"></i></a>
+		<a href="14.php" class="next" title="<?php echo _("Next"); ?>"><i class="fa fa-arrow-right"></i></a>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Putting it all together..."); ?></strong></section></section>

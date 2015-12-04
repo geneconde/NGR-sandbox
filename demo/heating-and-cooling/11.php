@@ -21,7 +21,6 @@
 	<link rel="stylesheet" href="css/locale.css" />
 	<link rel="stylesheet" href="css/fonts.css" />
 	<link rel="stylesheet" href="css/jpreloader.css" />
-	<link rel="stylesheet" href="css/video.css" />
 	<link rel="stylesheet" href="css/global.css" />
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 
@@ -43,7 +42,7 @@
 
 		#question1, #question2, #answer1, #answer2 { background-color: rgba(135, 206, 250, .3); margin: 0 auto; -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;	margin-bottom: 10px; padding: 0 10px; width: 100%; }
 	
-		#question1, #question2, #answer1, #answer2 { width:48%; float: left; margin-right: 2%; padding-bottom: 7px; }
+		#question1, #question2, #answer1, #answer2 { width:46%; float: left; margin-right: 1%; padding-bottom: 7px; }
 
   	#question1 ul { 
 			margin: auto;
@@ -141,8 +140,6 @@
 			}
 		}
 
-
-
 /*		@media only screen and (max-width: 960px){
 			td.q1f img {
 			    width: 58px !important;
@@ -176,6 +173,18 @@
 			#answer1 td#a1f1 img { height: 50px !important; width: 60px !important; }
 			#answer1 td#a1f2 img { height: 50px !important; width: 60px !important; }
 		}
+
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 
 </head>
@@ -184,7 +193,7 @@
 	<div class="wrap">
 		<div class="bg">
 			<div id="questions">
-				<h1><?php echo _("Quick Check #4"); ?></h1>
+				<h1><button id="btn-qa" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #4"); ?></h1>
 
 				<div id="question1">
 					<h2><?php echo _("Question A. Drag each item into the column that best describes how it acts—as a conductor of heat or as an insulator."); ?></h2>
@@ -235,7 +244,7 @@
 				</div>
 
 				<div id="question2">
-					<h2><?php echo _("Question B. Choose the answer that correctly names 1 and 2."); ?></h2>
+					<h2><button id="btn-qb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. Choose the answer that correctly names 1 and 2."); ?></h2>
 
 					<div class="images">
 						<img src="images/11/pan.jpg" alt="<?php echo _("Frying pan with wooden handle"); ?>">
@@ -262,7 +271,7 @@
 				</div>
 			</div>
 			<div id="answers">
-				<h1><?php echo _("Quick Check #4"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fbtn-q1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #4"); ?> - <?php echo _("How did I do?"); ?></h1>
 
 				<div id="answer1">
 					<h2><?php echo _("Question A. Drag each item into the column that best describes how it acts—as a conductor of heat or as an insulator."); ?></h2>
@@ -274,7 +283,7 @@
 						</tr>
 					
 						<tr class="q1a">
-							<td class="feedback"></td>			
+							<td class="feedback"></td>
 							<td id="a1a1"></td>
 							<td id="a1a2"></td>				
 						</tr>
@@ -306,20 +315,23 @@
 						<tr class="q1f">
 							<td class="feedback"></td>			
 							<td id="a1f1"></td>
-							<td id="a1f2"></td>				
+							<td id="a1f2"></td>
 						</tr>
 					</table>
 
 				</div>
 
 				<div id="answer2">
-					<h2><?php echo _("Question B. Choose the answer that correctly names 1 and 2."); ?></h2>
+					<h2><button id="fbtn-q2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. Choose the answer that correctly names 1 and 2."); ?></h2>
 					<p class="center"><?php echo _("You answered..."); ?></p>
 					<div class="images"><img height="80px" src="images/11/pan.jpg" alt="Frying pan with wooden handle"></div>
 					<div class="image answer"></div>
 					<p class="feedback"></p>
 				</div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -343,6 +355,8 @@
 	<script src="scripts/saveanswer.js"></script>
 	
 	<script>
+	var fq1 = "", fq2 = "";
+	var audio = document.getElementById("player");
 	var answered = <?php echo $answered; ?>,
 		
 	aa1 = '', 
@@ -372,9 +386,6 @@
 	
     q1.on('click', function() {
     });
-    	
-
-
 							
 	if ($('td.q1a').find('div').html() == '' && $('td.q1b').find('div').html() == '' && $('td.q1c').find('div').html() == '' && $('td.q1d').find('div').html() == '' && $('td.q1e').find('div').html() == '' && $('td.q1f').find('div').html() == ''){
 		
@@ -382,6 +393,7 @@
 
 	q2.on('click', function() {
 			var radio = $(this).val();
+			fq2 = radio;
       
       if (radio == 'A') {
 				answer2.find('.answer').html('<p><?php echo _("A. 1 - Conductor, 2 - Insulator"); ?></p>');
@@ -417,6 +429,9 @@
 				questions.fadeOut(function() {
 					answers.fadeIn();
 					window.location.hash = '#answers';
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 
 				check.fadeOut(function() {
@@ -440,6 +455,9 @@
 				next.fadeOut(function() {
 					check.fadeIn();
 				});
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -538,6 +556,9 @@
 			}
 			
 			ans1 = aa1 + ',' + aa2 + ',' + aa3 + ',' + aa4 + ',' + aa5 + ',' + aa6;
+			if(ans1=='insulator,conductor,conductor,insulator,insulator,conductor') fq1 = "correct";
+			else fq1 = "incorrect";
+			
 			if (answered == 0) {
 				console.log(ans1);
 				saveAnswer('heating-and-cooling-qc4-a', aa1);
@@ -610,6 +631,64 @@
 				tip: true,
 				name: 'cream'
 			}
+		});
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='btn-qa') {
+			    	if($("#player").attr('src') != "media/11QCA.mp3")
+				    	$('#player').attr('src', "media/11QCA.mp3");
+				} else if(id=='btn-qb') {
+			    	if($("#player").attr('src') != "media/11QCB.mp3")
+				    	$('#player').attr('src', "media/11QCB.mp3");
+				} else if(id=='fbtn-q1'){
+			    	if(fq1 == "correct"){
+			    		if($("#player").attr('src') != "media/11FQA-correct.mp3")
+				    		$('#player').attr('src', "media/11FQA-correct.mp3");
+			    	} else {
+			    		if($("#player").attr('src') != "media/11FQA-Incorrect.mp3")
+				    		$('#player').attr('src', "media/11FQA-Incorrect.mp3");
+			    	}
+			    } else if (id=='fbtn-q2') {
+			    	if(fq2 == 'A'){
+			    		if($("#player").attr('src') != "media/11FQB-A.mp3")
+				    		$('#player').attr('src', "media/11FQB-A.mp3");
+			    	}
+			    	else if(fq2 == 'B'){
+			    		if($("#player").attr('src') != "media/11FQB-B.mp3")
+				    		$('#player').attr('src', "media/11FQB-B.mp3");
+			    	}
+			    	else if(fq2 == 'C'){
+			    		if($("#player").attr('src') != "media/11FQB-C.mp3")
+				    		$('#player').attr('src', "media/11FQB-C.mp3");
+			    	}
+			    	else if(fq2 == 'D'){
+			    		if($("#player").attr('src') != "media/11FQB-D.mp3")
+				    		$('#player').attr('src', "media/11FQB-D.mp3");
+			    	}
+			    }
+			    
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
 		});
 	</script>
 	<?php include("setlocale.php"); ?>

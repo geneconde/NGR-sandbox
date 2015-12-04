@@ -60,11 +60,11 @@
 		}
 
 		#buttons .next { display: none; }
-		
+
 		.rslides { margin-top: 50px; }
 
-
-		#s2a { position: relative; }
+		.grid_6.prefix_3 { width: 100%; padding-left: 0; }
+		#s2a { position: relative; width: 50%; margin: 0 auto; }
 		#s2a h4 { position: absolute; font-size: 18px; z-index: 2; text-align: center; line-height: 0.5; color: #000; }
 		#s2a h4:first-child { left: 10%; top: 50px; }
 		#s2a h4:nth-child(2) { left: 46%; top: 45px; }
@@ -73,24 +73,18 @@
 		#s2a h4:nth-child(5) { left: 65%; top: 170px; }
 		#s2a h4:nth-child(6) { left: 25%; top: -10px; font-size: 24px;}
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-
 		@media (max-width: 1250px ){
-			img, video {
-			    width: 430px !important;
-			    height: 300px !important;
-			}
-		}
+			#s2a { width: 40%; }
+			#s2a img { height: 260px; }
+			p { line-height: 30px; }
+			#s2a h4:nth-child(6) { left: 20%; }
+			#s2a h4:first-child { top: 106px; }
+			#s2a h4:nth-child(2) { left: 44%; top: 108px; }
+			#s2a h4:nth-child(3) { top: 108px; }
+			#s2a h4:nth-child(4) { left: 21%; top: 218px; }
+			#s2a h4:nth-child(5) { top: 220px; }
 
 		<?php if($language == "zh_CN"){ ?>
 			#s2a h4:nth-child(2) { left: 39%; }

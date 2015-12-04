@@ -31,14 +31,12 @@
 	<?php endif; ?>
 
 	<style>
-		h1 { 
-			text-align: center;
-			margin-top: 4%; }
+		h1 { text-align: center; margin-top: 4%; }
 		.bg { background-image: url(assets/1/bg.jpg); }
 		#buttons .next { display: none; }		
 		#start { 
 			position: absolute;
-			top: 373px;
+			bottom: 17%;
 			left: 39%;
 			width: 104px;
 			height: 129px;
@@ -54,7 +52,9 @@
 
 		.pulse { display: inline-block; -webkit-transform: translateZ(0); transform: translateZ(0); box-shadow: 0 0 1px rgba(0, 0, 0, 0); }
 		.pulse:hover, .pulse:focus, .pulse:active { -webkit-animation-name: pulse; animation-name: pulse; -webkit-animation-duration: 1s; animation-duration: 1s; -webkit-animation-timing-function: linear; animation-timing-function: linear; -webkit-animation-iteration-count: infinite; animation-iteration-count: infinite; }
-
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 32px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

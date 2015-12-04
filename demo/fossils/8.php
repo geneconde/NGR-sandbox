@@ -26,39 +26,39 @@
 <script src="scripts/responsiveslides.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #706f73; }
-p { font-size: 22px; }
-.wrap { border-color: #d5ccb8; }
-.bg { background-image: url(images/8/bg.jpg); }
+	h1 { color: #706f73; }
+	p { font-size: 22px; }
+	.wrap { border-color: #d5ccb8; }
+	.bg { background-image: url(images/8/bg.jpg); }
 
-#screen1 .slider { width: 410px; margin: 20px auto; }
-#screen1 .slider img { margin-bottom: 10px; }
-#screen1 .slider .caption { color: #000; text-align: center; }
+	#screen1 .slider { width: 50%; margin: 20px auto; }
+	#screen1 .slider img { margin-bottom: 10px; }
+	#screen1 .slider .caption { color: #000; text-align: center; }
 
-#screen2 .clear { width: 860px; padding: 0; margin: 20px auto; }
-#screen2 .clear li { width: 268px; margin-right: 28px; float: left; }
-#screen2 .clear li:last-child { margin-right: 0; }
-#screen2 .clear li span { text-align: center; font-size: 20px; color: #347963; display: block; padding-top: 10px; }
-#screen2 .clear li img { display: block; }
+	#screen2 .clear { width: 98%; padding: 0; margin: 1% auto; }
+	#screen2 .clear li { width: 31%; margin-right: 2%; float: left; }
+	#screen2 .clear li:last-child { margin-right: 0; }
+	#screen2 .clear li span { text-align: center; font-size: 20px; color: #347963; display: block; padding-top: 10px; }
+	#screen2 .clear li img { display: block; width: 100%; }
 
-#screen2 p:first-child { padding-top: 15px; }
+	#screen2 p:first-child { padding-top: 15px; }
 
-#screen2 { display: none; }
-#buttons .next { display: none; }
-<?php if($language == "es_ES") { ?>
-	#screen2 p { font-size: 21px; }
-<?php } ?>
+	#screen2 { display: none; }
+	#buttons .next { display: none; }
+	<?php if($language == "es_ES") { ?>
+		#screen2 p { font-size: 21px; }
+	<?php } ?>
 
-	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
-	#screen2 .clear { margin: 0px auto; }
-	#screen2 .clear li { width: 26%;  }
-	#screen2 .clear li img {width: 100%;}
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1, #screen2 p:first-of-type { padding-top: 40px; }
+		#screen1 .slider { width: 37%; }
+		#screen2 .clear li span { padding-top: 5px; }
+		p { line-height: 25px; }
 	}
-
-	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
-	#screen2 .clear { margin: 0px auto; }
-	}	
-	
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+		#screen2 p:first-of-type { padding-top: 20px; }
+	}
 </style>
 </head>
 <body>

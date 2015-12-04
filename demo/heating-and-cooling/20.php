@@ -79,13 +79,24 @@
 		@media only screen and (min-width: 600px) and (max-width: 1250px)  and (orientation : landscape)  and (-webkit-min-device-pixel-ratio: 1){
 			#question img {width:60px;}
 		}
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="question">
-				<h1><?php echo _("Quiz Question #5"); ?></h1>
+				<h1><button id="qq" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #5"); ?></h1>
 				<h2><?php echo _("In each example, how does heat energy transfer? Drag the methods either on conduction, convection, or radiation for each question."); ?></h2>
 
 				<table>
@@ -141,7 +152,7 @@
 			</div>
 
 			<div id="answer">
-				<h1><?php echo _("Quiz Question #5"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #5"); ?> - <?php echo _("How did I do?"); ?></h1>
 				<p><?php echo _("Please check your answers."); ?></p>
 
 				<table>
@@ -195,6 +206,9 @@
 					</tr>
 				</table>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -212,8 +226,16 @@
 	<script src="scripts/jquery.ui.touch-punch.min.js"></script>
 	<script src="scripts/saveanswer.js"></script>
 	<script src="scripts/qtip.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
+		var fq = "";
+		var ans_temp = "";
+		var ans1 = null,
+		ans2 = null,
+		ans3 = null,
+		// ans4 = null,
+		ans5 = null,
+		ans6 = null;
+		var audio = document.getElementById("player");
 		var answered = <?php echo $answered; ?>,
 		question = $('#question'),
 		answer = $('#answer'),
@@ -226,9 +248,170 @@
 				question.fadeOut(function() {
 					answer.fadeIn();
 					window.location.hash = "#answer";
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
-				check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
+				check.fadeOut(function() {
+					next.fadeIn();
+					back.fadeIn();
+				});
+
 				save();
+				ans_temp = "";
+				var y = '<img class="mark" src="images/misc/correct.png">';
+				var n = '<img class="mark" src="images/misc/wrong.png">';
+
+				if ($('#10').html() != '') {
+					ans1 = 'conduction';
+					$('#answer1').html(y);
+
+					answer.find('#10').html(question.find('#10').html());
+					answer.find('#11').html('');
+					answer.find('#12').html('');
+				} else if ($('#11').html() != '') {
+					ans1 = 'convection';
+					$('#answer1').html(n);
+
+					answer.find('#10').html('');
+					answer.find('#11').html(question.find('#11').html());
+					answer.find('#12').html('');
+				} else if ($('#12').html() != '') {
+					ans1 = 'radiation';
+					$('#answer1').html(n);
+
+					answer.find('#10').html('');
+					answer.find('#11').html('');
+					answer.find('#12').html(question.find('#12').html());
+				}
+				
+				if ($('#20').html() != '') {
+					ans2 = 'conduction';
+					$('#answer2').html(n);
+
+					answer.find('#20').html(question.find('#20').html());
+					answer.find('#21').html('');
+					answer.find('#22').html('');		
+				} else if ( $('#21').html() != '' ) {
+					ans2 = 'convection';
+					$('#answer2').html(n);
+
+					answer.find('#20').html('');
+					answer.find('#21').html(question.find('#21').html());
+					answer.find('#22').html('');
+				} else if ( $('#22').html() != '' ) {
+					ans2 = 'radiation';
+					$('#answer2').html(y);
+
+					answer.find('#20').html('');
+					answer.find('#21').html('');
+					answer.find('#22').html(question.find('#22').html());
+				}
+
+				if ( $('#30').html() != '' ) {
+					ans3 = 'conduction';				
+					$('#answer3').html(n);
+
+					answer.find('#30').html(question.find('#30').html());
+					answer.find('#31').html('');
+					answer.find('#32').html('');
+				} else if ( $('#31').html() != '' ) {
+					ans3 = 'convection';
+					$('#answer3').html(n);
+
+					answer.find('#30').html('');
+					answer.find('#31').html(question.find('#31').html());
+					answer.find('#32').html('');
+				} else if ( $('#32').html() != '' ) {
+					ans3 = 'radiation';
+					$('#answer3').html(y);
+
+					answer.find('#30').html('');
+					answer.find('#31').html('');
+					answer.find('#32').html(question.find('#32').html());
+				}
+
+				// if ( $('#40').html() != '' ) {
+				// 	ans4 = 'conduction';
+				// 	$('#answer4').html(n);
+
+				// 	answer.find('#40').html(question.find('#40').html());
+				// 	answer.find('#41').html('');
+				// 	answer.find('#42').html('');
+				// } else if ( $('#41').html() != '' ) {
+				// 	ans4 = 'convection';
+				// 	$('#answer4').html(y);
+
+				// 	answer.find('#40').html('');
+				// 	answer.find('#41').html(question.find('#41').html());
+				// 	answer.find('#42').html('');
+				// } else if ( $('#42').html() != '' ) {
+				// 	ans4 = 'radiation';
+				// 	$('#answer4').html(n);
+
+				// 	answer.find('#40').html('');
+				// 	answer.find('#41').html('');
+				// 	answer.find('#42').html(question.find('#42').html());
+				// }
+
+				if ( $('#50').html() != '' ) {
+					ans5 = 'conduction';
+					$('#answer5').html(n);
+
+					answer.find('#50').html(question.find('#50').html());
+					answer.find('#51').html('');
+					answer.find('#52').html('');	
+				} else if ( $('#51').html() != '' ) {
+					ans5 = 'convection';
+					$('#answer5').html(y);
+
+					answer.find('#50').html('');
+					answer.find('#51').html(question.find('#51').html());
+					answer.find('#52').html('');
+				} else if ( $('#52').html() != '' ) {
+					ans5 = 'radiation';
+					$('#answer5').html(n);
+
+					answer.find('#50').html('');
+					answer.find('#51').html('');
+					answer.find('#52').html(question.find('#52').html());
+				}
+
+				if ( $('#60').html() != '' ) {
+					ans6 = 'conduction';
+					$('#answer6').html(y);
+
+					answer.find('#60').html(question.find('#60').html());
+					answer.find('#61').html('');
+					answer.find('#62').html('');		
+				} else if ( $('#61').html() != '' ) {
+					ans6 = 'convection';
+					$('#answer6').html(n);
+
+					answer.find('#60').html('');
+					answer.find('#61').html(question.find('#61').html());
+					answer.find('#62').html('');
+				} else if ( $('#62').html() != '' ) {
+					ans6 = 'radiation';
+					$('#answer6').html(n);
+
+					answer.find('#60').html('');
+					answer.find('#61').html('');
+					answer.find('#60').html('');
+					answer.find('#61').html('');
+					answer.find('#60').html('');
+					answer.find('#61').html('');
+					answer.find('#62').html(question.find('#62').html());
+				}
+
+				ans_temp += ans1+",";
+				ans_temp += ans2+",";
+				ans_temp += ans3+",";
+				ans_temp += ans5+",";
+				ans_temp += ans6;
+				if(ans_temp=="conduction,radiation,radiation,convection,conduction"){
+					fq = "correct";
+				} else { fq = "incorrect"; }
 			} else {
 				alert('<?php echo _("Please select your answers."); ?>');
 			}
@@ -237,7 +420,12 @@
 		back.on('click', function() {
 			if (question.is(':visible')) { document.location.href = "19.php"; }
 			else {
-				answer.fadeOut(function() { question.fadeIn(); });
+				answer.fadeOut(function() {
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
+					question.fadeIn();
+				});
 				next.fadeOut(function() { check.fadeIn(); });
 			}
 		});
@@ -263,164 +451,12 @@
 
 
 		function save() {
-			var ans1 = null,
-			ans2 = null,
-			ans3 = null,
-			// ans4 = null,
-			ans5 = null,
-			ans6 = null,
-
-			fb1 = $('#fb1'),
-			fb2 = $('#fb2'),
-			fb3 = $('#fb3'),
-			// fb4 = $('#fb4'),
-			fb5 = $('#fb5'),
-			fb6 = $('#fb6');
-
-			var y = '<img class="mark" src="images/misc/correct.png">';
-			var n = '<img class="mark" src="images/misc/wrong.png">';
-
-			if ($('#10').html() != '') {
-				ans1 = 'conduction';
-				$('#answer1').html(y);
-
-				answer.find('#10').html(question.find('#10').html());
-				answer.find('#11').html('');
-				answer.find('#12').html('');
-			} else if ($('#11').html() != '') {
-				ans1 = 'convection';
-				$('#answer1').html(n);
-
-				answer.find('#10').html('');
-				answer.find('#11').html(question.find('#11').html());
-				answer.find('#12').html('');
-			} else if ($('#12').html() != '') {
-				ans1 = 'radiation';
-				$('#answer1').html(n);
-
-				answer.find('#10').html('');
-				answer.find('#11').html('');
-				answer.find('#12').html(question.find('#12').html());
-			}
-			
-			if ($('#20').html() != '') {
-				ans2 = 'conduction';
-				$('#answer2').html(n);
-
-				answer.find('#20').html(question.find('#20').html());
-				answer.find('#21').html('');
-				answer.find('#22').html('');		
-			} else if ( $('#21').html() != '' ) {
-				ans2 = 'convection';
-				$('#answer2').html(n);
-
-				answer.find('#20').html('');
-				answer.find('#21').html(question.find('#21').html());
-				answer.find('#22').html('');
-			} else if ( $('#22').html() != '' ) {
-				ans2 = 'radiation';
-				$('#answer2').html(y);
-
-				answer.find('#20').html('');
-				answer.find('#21').html('');
-				answer.find('#22').html(question.find('#22').html());
-			}
-
-			if ( $('#30').html() != '' ) {
-				ans3 = 'conduction';				
-				$('#answer3').html(n);
-
-				answer.find('#30').html(question.find('#30').html());
-				answer.find('#31').html('');
-				answer.find('#32').html('');
-			} else if ( $('#31').html() != '' ) {
-				ans3 = 'convection';
-				$('#answer3').html(n);
-
-				answer.find('#30').html('');
-				answer.find('#31').html(question.find('#31').html());
-				answer.find('#32').html('');
-			} else if ( $('#32').html() != '' ) {
-				ans3 = 'radiation';
-				$('#answer3').html(y);
-
-				answer.find('#30').html('');
-				answer.find('#31').html('');
-				answer.find('#32').html(question.find('#32').html());
-			}
-
-			// if ( $('#40').html() != '' ) {
-			// 	ans4 = 'conduction';
-			// 	$('#answer4').html(n);
-
-			// 	answer.find('#40').html(question.find('#40').html());
-			// 	answer.find('#41').html('');
-			// 	answer.find('#42').html('');
-			// } else if ( $('#41').html() != '' ) {
-			// 	ans4 = 'convection';
-			// 	$('#answer4').html(y);
-
-			// 	answer.find('#40').html('');
-			// 	answer.find('#41').html(question.find('#41').html());
-			// 	answer.find('#42').html('');
-			// } else if ( $('#42').html() != '' ) {
-			// 	ans4 = 'radiation';
-			// 	$('#answer4').html(n);
-
-			// 	answer.find('#40').html('');
-			// 	answer.find('#41').html('');
-			// 	answer.find('#42').html(question.find('#42').html());
-			// }
-
-			if ( $('#50').html() != '' ) {
-				ans5 = 'conduction';
-				$('#answer5').html(n);
-
-				answer.find('#50').html(question.find('#50').html());
-				answer.find('#51').html('');
-				answer.find('#52').html('');	
-			} else if ( $('#51').html() != '' ) {
-				ans5 = 'convection';
-				$('#answer5').html(y);
-
-				answer.find('#50').html('');
-				answer.find('#51').html(question.find('#51').html());
-				answer.find('#52').html('');
-			} else if ( $('#52').html() != '' ) {
-				ans5 = 'radiation';
-				$('#answer5').html(n);
-
-				answer.find('#50').html('');
-				answer.find('#51').html('');
-				answer.find('#52').html(question.find('#52').html());
-			}
-
-			if ( $('#60').html() != '' ) {
-				ans6 = 'conduction';
-				$('#answer6').html(y);
-
-				answer.find('#60').html(question.find('#60').html());
-				answer.find('#61').html('');
-				answer.find('#62').html('');		
-			} else if ( $('#61').html() != '' ) {
-				ans6 = 'convection';
-				$('#answer6').html(n);
-
-				answer.find('#60').html('');
-				answer.find('#61').html(question.find('#61').html());
-				answer.find('#62').html('');
-			} else if ( $('#62').html() != '' ) {
-				ans6 = 'radiation';
-				$('#answer6').html(n);
-
-				answer.find('#60').html('');
-				answer.find('#61').html('');
-				answer.find('#60').html('');
-				answer.find('#61').html('');
-				answer.find('#60').html('');
-				answer.find('#61').html('');
-				answer.find('#62').html(question.find('#62').html());
-			}
+			// fb1 = $('#fb1'),
+			// fb2 = $('#fb2'),
+			// fb3 = $('#fb3'),
+			// // fb4 = $('#fb4'),
+			// fb5 = $('#fb5'),
+			// fb6 = $('#fb6');
 
 			if (answered == 0) {
 				saveAnswer('heating-and-cooling-qq5-a', ans1);
@@ -448,6 +484,44 @@
 				tip: true,
 				name: 'cream'
 			}
+		});
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='qq'){
+			    	if($("#player").attr('src') != "media/20QQ5.mp3")
+				    	$('#player').attr('src', "media/20QQ5.mp3");
+			    } else if (id=='fb') {
+					if(fq == "correct"){
+			    		if($("#player").attr('src') != "media/20F-Correct.mp3")
+				    		$('#player').attr('src', "media/20F-Correct.mp3");
+			    	} else if(fq == "incorrect"){
+			    		if($("#player").attr('src') != "media/20F-InCorrect.mp3")
+				    		$('#player').attr('src', "media/20F-InCorrect.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
 		});
 	</script>
 	<?php include("setlocale.php"); ?>

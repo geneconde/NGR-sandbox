@@ -34,14 +34,8 @@
 	<?php endif; ?>
 
 	<style>
-		#screen3 #md_p1 {
-		    font-size: 21px !important;
-		}
-
-		.container_12 {
-		    padding-top: 3% !important;
-		}
-
+		.bg { overflow: hidden; }
+		#screen3 #md_p1 { font-size: 21px !important; }
 		#screen3 > p {
 		    margin-top: 24px !important;
 		    margin-bottom: -5px !important;
@@ -49,8 +43,6 @@
 		    font-size: 21px !important;
 		    text-align: justify !important;
 		}
-
-
 		h1 { color: #234d87; font-size: 33px; }
 		p{margin: 0px;}
 		.key {color: #ff005a;}
@@ -63,11 +55,10 @@
 		#md_pBot {margin-top: 10px;  margin-left: 1%; margin-right: 1%;}
 		#md_h1 {margin: 0px; margin-top: ;  margin-left: 1%; margin-right: 1%;}
 		#screen2 {padding-top: 10px;}
-		#screen2 #md_p1 {padding-top: ;}
+		#screen2 #md_p1 {padding-top: 10px;}
 		#screen3 > p { margin-top: 10px; margin-bottom: -5px; margin-left: 0px}
 		#screen3 > div { margin-top: 29px;   margin-left: 1%; margin-right: 1%;}
 		#screen3 #md_p1 {padding-top: ;  margin-left: 1%; margin-right: 1%;}
-		/*#screen2 div span, #screen2 img { width: 80%; margin: auto 10%; display: block; }*/
 		.video_right { float: right; border-radius: 5px; }
 		.image_left { float: left; border-radius: 5px; margin-right: 10px; margin-top: 8px; }
 		.image_size { height: 260px; width: 400px ;margin-top:20px;   margin-left: 1%; margin-right: 1%;}
@@ -83,58 +74,32 @@
 		#Smooth { padding-top: 75px; margin-left: 171px; }
 		#Cardiac { padding-top: 35px; margin-left: 2%; }
 		.space { padding-top: 10px;  margin-left: 1%; margin-right: 1%; }
-		div#jplayer0 {
-		    margin-left: 25px !important;
-		}
-		.space {
-		    text-align: justify !important;
-		}
-		#md_pBot {
-		    text-align: justify !important;
-		}
+		div#jplayer0 { margin-left: 25px !important; }
+		.space { text-align: justify !important; }
+		#md_pBot { text-align: justify !important; }
 		img#imahe1 {
 		    width: 400px !important;
 		    height: 260px !important;
 		}
-		p#md_p1 {
-		    text-align: justify;
-		}
-
-
-		@media screen (min-width: 641px) and (max-width: 800px){
-			#screen3 #md_p1 {
-			    font-size: 20px !important;
-			}
-			.container_12 .grid_7 {
-			    width: 58.333%;
-			}
-			#screen3 > p {
-			    font-size: 20px !important;
-			}
-		}
-
-		@media only screen and (max-width: 960px){
-			#screen3 #md_p1 {
-			    font-size: 18px !important;
-			}
-			.container_12 .grid_7 {
-			    width: 50% !important;
-			}
-			#screen3 > p {
-			    font-size: 18px !important;
-			}
-		}
+		p#md_p1 { text-align: justify; }
 
 		@media (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-			#buttons {
-				background-color: #468853 !important;
-			}
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; }
+			#buttons { background-color: #468853 !important; }
+			#md_h1 { padding-top: 20px; }
+			.screen { padding-top: 20px !important; }
+			#screen2 { padding-top: 30px !important; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-
+		@media screen (min-width: 641px) and (max-width: 800px){
+			#screen3 #md_p1 { font-size: 20px !important; }
+			.container_12 .grid_7 { width: 58.333%; }
+			#screen3 > p { font-size: 20px !important; }
+		}
+		@media only screen and (max-width: 960px){
+			#screen3 #md_p1 { font-size: 18px !important; }
+			.container_12 .grid_7 { width: 50% !important; }
+			#screen3 > p { font-size: 18px !important; }
+		}
 	</style>
 </head>
 

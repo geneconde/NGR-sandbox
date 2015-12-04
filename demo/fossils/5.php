@@ -23,64 +23,71 @@
 <script src="scripts/global.js"></script>
 <script src="scripts/save-answer.js"></script>
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/5/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/5/bg.jpg); }
 
-#question1 ol { list-style: none; padding: 0; margin: 15px 0 0 20px; }
-#question1 li { padding: 6px 0; }
+	#question1 ol { list-style: none; padding: 0; margin: 15px 0 0 20px; }
+	#question1 li { padding: 6px 0; }
 
-.ac-custom { width: 100%; padding: 0 !important; }
-.ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
-.ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
-.ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
-.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
-.ac-custom label::before { border: 2px solid #c45a63; }
-.ac-custom svg path { stroke: #c45a63; }
-.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
+	.ac-custom { width: 100%; padding: 0 !important; }
+	.ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
+	.ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
+	.ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
+	.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
+	.ac-custom label::before { border: 2px solid #c45a63; }
+	.ac-custom svg path { stroke: #c45a63; }
+	.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
 
-#question2 ul { margin: 20px auto 0; width: 800px; list-style: none; padding: 0; }
-#question2 li { float: left; width: 180px; margin-right: 26px; }
-#question2 li:last-child { margin-right: 0; }
-#question2 input[type=radio] { display: none; }
-#question2 label { font-size: 24px; display: block; text-align: center; cursor: pointer; width: 180px; }
-#question2 input[type="radio"] + label img { border: 4px solid #dbd2aa; -webkit-transition: all .3s ease; border-radius: 5px !important; width: 180px; }
-#question2 input[type="radio"]:checked + label img {-webkit-transition: all .3s ease; border: 4px solid #c45a63; -webkit-backface-visibility: hidden; }
-#question2 input[type="radio"] + label span { color: #000; -webkit-transition: all .3s ease; }
-#question2 input[type="radio"]:checked + label span { color: #000; -webkit-transition: all .3s ease; color: #c45a63; -webkit-backface-visibility: hidden;  ;}
-#question2 input[type="radio"] + label { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
-#question2 input[type="radio"]:checked + label {}
+	#question2 ul { margin: 20px auto 0; width: 100%; list-style: none; padding: 0; text-align: center; }
+	#question2 li { display: inline-block; width: 20%; margin-right: 26px; }
+	#question2 li:last-child { margin-right: 0; }
+	#question2 input[type=radio] { display: none; }
+	#question2 label { font-size: 24px; display: block; text-align: center; cursor: pointer; width: 100%; }
+	#question2 input[type="radio"] + label img { border: 4px solid #dbd2aa; -webkit-transition: all .3s ease; border-radius: 5px !important; width: 100%; }
+	#question2 input[type="radio"]:checked + label img {-webkit-transition: all .3s ease; border: 4px solid #c45a63; -webkit-backface-visibility: hidden; }
+	#question2 input[type="radio"] + label span { color: #000; -webkit-transition: all .3s ease; }
+	#question2 input[type="radio"]:checked + label span { color: #000; -webkit-transition: all .3s ease; color: #c45a63; -webkit-backface-visibility: hidden;  ;}
+	#question2 input[type="radio"] + label { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+	#question2 input[type="radio"]:checked + label {}
 
-#answers { display: none; }
-#answers p { text-align: center; font-size: 20px; }
-#answers h2 { margin-bottom: 0; }
+	#answers { display: none; }
+	#answers p { text-align: center; font-size: 20px; }
+	#answers h2 { margin-bottom: 0; }
 
-#answer1 .feedback { margin-left: -25px; padding: 0 20px; }
+	#answer1 .feedback { margin-left: -25px; padding: 0 20px; }
 
-#answer2 .image { float: left; margin: 0 20px 0 0; }
-#answer2 .image img { width: 160px; height: 140px; }
-#answer2 .placeholder { float: left; width: 500px; }
-#answer2 p { text-align: left; }
-#answer2 .clear { width: 700px; margin: 0 auto; }
-#answer2 .feedback { margin: 0; }
+	#answer2 .image { float: left; margin: 0 20px 0 0; }
+	#answer2 .image img { width: 160px; height: 140px; }
+	#answer2 .placeholder { float: left; width: 500px; }
+	#answer2 p { text-align: left; }
+	#answer2 .clear { width: 700px; margin: 0 auto; }
+	#answer2 .feedback { margin: 0; }
 
-#question2, #answer2 { margin-top: 25px; }
-#buttons .next { display: none; }
+	#question2, #answer2 { margin-top: 25px; }
+	#buttons .next { display: none; }
 
-html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
-html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
-html[dir="rtl"] li label { text-align: right; }
-html[dir="rtl"] #answer2 .image {float: right;margin: 0 0 0 20px;}
-html[dir="rtl"] #answer2 p {text-align: right;}
+	html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
+	html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
+	html[dir="rtl"] li label { text-align: right; }
+	html[dir="rtl"] #answer2 .image { float: right;margin: 0 0 0 20px; }
+	html[dir="rtl"] #answer2 p { text-align: right; }
 
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
-#question2 li {margin-right: 5px;}
-#question2 input[type="radio"] + label img {width: 175px;}
-html[dir="rtl"] #question2 li {float: right;}
-}
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		h2 { margin-top: 5px; margin-bottom: 5px; }
+		#question1 li { padding: 4px 0; }
+		#question2 li { width: 16%; }
+		.feedback p { line-height: 20px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+		#question2 li { width: 19%; float: left; }
+		#question2 ul { margin-left: 6%; }
+		html[dir="rtl"] #question2 ul { margin-right: -10%; }
+	}
 </style>
 </head>
 <body>

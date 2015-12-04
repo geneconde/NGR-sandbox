@@ -37,13 +37,25 @@
 			h2, p, li {font-size:20px !important;}
 			.image {margin-top:0px;}
 		}
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div>
-				<h1><?php echo _("More big ideas... about heating and cooling"); ?></h1>
+				
+				<h1><button id="audio" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("More big ideas... about heating and cooling"); ?></h1>
 				
 				<p><?php echo _("Heat flows differently through different materials. A metal spoon transmits heat easily. A wooden spoon does not transfer heat easily. The metal is a <span class='key'>conductor</span> and the wood is an <span class='key'>insulator</span>. A conductor is something that lets heat go through it and an insulator is something that does not let heat go through it easily."); ?></p>
 				
@@ -62,6 +74,9 @@
 						<img src="images/10/insulator3.jpg" width="300" height="230" alt="Insulator 3">
 					</div>
 				</div>
+				<audio id="player" controls style="display: none">
+					<source src="media/10MBI.mp3" type="audio/mpeg">
+				</audio>
 			</div>
 		</div>	
 	</div>
@@ -76,7 +91,6 @@
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
 	<script src="scripts/cycle.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
 		$('#conductor').cycle({
 			fx: 'curtainX', 
@@ -90,6 +104,27 @@
 			delay: -2000
 		});
 
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+			    var txt = $('#audio').val();
+			    var audio = document.getElementById("player");
+				if(txt == 'Play') {
+					audio.play();
+					$('#audio').html('<i class="fa fa-pause"></i>');
+					$('#audio').val("Pause");
+				}
+				else {
+					audio.pause();
+					$('#audio').html('<i class="fa fa-play"></i>');
+					$('#audio').val("Play");
+				}
+				audio.addEventListener("ended", function() {
+			        audio.currentTime = 0;
+					$('#audio').html('<i class="fa fa-play"></i>');
+			        $('#audio').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

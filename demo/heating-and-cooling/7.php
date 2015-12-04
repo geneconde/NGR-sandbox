@@ -95,13 +95,25 @@
 			#box .info {padding: 35px 0; width: 400px;}
 		}
 		#buttons .next { display: none; }
+
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="questions">
-				<h1><?php echo _("Quick Check #2"); ?></h1>
+				<h1><button id="btn-q1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #2"); ?></h1>
 				
 				<div id="question1">
 					<h2><?php echo _("Question A. Click on <span class='blink'>all</span> the statements that are correct."); ?></h2>
@@ -134,7 +146,7 @@
 					</ul>
 				</div>
 				<div id="question2">
-					<h2><?php echo _("Question B. What does <span class='blink'>not</span> happen when you burn a piece of wood in a campfire?"); ?></h2>
+					<h2><button id="btn-q2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. What does <span class='blink'>not</span> happen when you burn a piece of wood in a campfire?"); ?></h2>
 					<ul>
 						<li>A. <?php echo _("Chemical energy in the molecules of wood is released."); ?></li>
 						<li>B. <?php echo _("The air around the burning wood increases in temperature."); ?></li>
@@ -142,7 +154,7 @@
 						<li>D. <?php echo _("Energy is released due to friction."); ?></li>
 					</ul>
 					<div id="box">
-						<p class="info"><?php echo _("Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."); ?></p>
+						<p class="info"><button id="rotate" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Rotate or flip the box below either up or down to set your answer. Click, hold and slide mouse up or down."); ?></p>
 						<div id="hexaflip"></div>
 					</div>
 				</div>
@@ -150,7 +162,7 @@
 				<p id="temp" class="hidden"></p>
 			</div>
 			<div id="answers">
-				<h1><?php echo _("Quick Check #2"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fbtn-q1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #2"); ?> - <?php echo _("How did I do?"); ?></h1>
 				
 				<div id="answer1">
 					<h2><?php echo _("Question A. Click on <span class='blink'>all</span> the statements that are correct."); ?>
@@ -158,11 +170,14 @@
 					<div id="ans1"></div>
 				</div>
 				<div id="answer2">
-					<h2><?php echo _("Question B. What does <span class='blink'>not</span> happen when you burn a piece of wood in a campfire?"); ?></h2>
+					<h2><button id="fbtn-q2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. What does <span class='blink'>not</span> happen when you burn a piece of wood in a campfire?"); ?></h2>
 					<p class="center"><?php echo _("You answered..."); ?></p>
 					<div id="ans2"></div>
 				</div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 	<div id="buttons">
@@ -175,7 +190,6 @@
 	<script src="scripts/jpreloader.js"></script>
 	<script src="scripts/blink.js"></script>
 	<script src="scripts/saveanswer.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
 	<script src="scripts/hexaflip2.js"></script>
 	<?php } else { ?>
@@ -183,7 +197,8 @@
 	<?php } ?>
 	
 	<script>
-
+		var fq1 = "", fq2 = "";
+		var audio = document.getElementById("player");
 		var answered = <?php echo $answered; ?>,
 			temp = $('#temp'),
 			questions = $('#questions'),
@@ -213,6 +228,9 @@
 				questions.fadeOut(function() {
 					answers.fadeIn();
 					window.location.hash = "#answers";
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				check.fadeOut(function() {
 					next.fadeIn();
@@ -225,11 +243,13 @@
 					answer1.html('<p class="center"><?php echo _("' + temp.html() + '"); ?></p>' +
 						'<p class="green center"><img src="images/misc/correct.png" alt="Correct" /> <?php echo _("Great job! We can get heat from friction, electricity, and natural gas. We can transform different types of energy into heat. Some of the effects of heat are reversible, some are not."); ?></p>'
 					);
+					fq1 = "correct";
 				}
 				else {
 					answer1.html('<p class="center"><?php echo _("' + temp.html() + '"); ?></p>' +
 						'<p class="red center"><img src="images/misc/wrong.png" alt="Wrong" /> <?php echo _("Not quite. We can get heat from friction, electricity, and natural gas. We can transform different types of energy into heat. Some of the effects of heat are reversible, some are not."); ?></p>'
 					);
+					fq1 = "incorrect";
 				}
 				save();
 			} else {
@@ -241,6 +261,9 @@
 			else {
 				answers.fadeOut(function() {
 					questions.fadeIn();
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				next.fadeOut(function() {
 					check.fadeIn();
@@ -313,9 +336,96 @@
 
 				answered = 1;
 			}
+			fq2 = a2;
 		}
 
 		$(window).resize(function() { makeHexa(); });
+
+		$(document).ready(function() {
+			$("#questions .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='btn-q1'){
+			    	if($("#player").attr('src') != "media/7QCA.mp3")
+				    	$('#player').attr('src', "media/7QCA.mp3");
+			    } else if (id=='btn-q2') {
+			    	if($("#player").attr('src') != "media/7QCB.mp3")
+				    	$('#player').attr('src', "media/7QCB.mp3");
+			    } else if (id=='rotate') {
+			    	if($("#player").attr('src') != "media/7rotate.mp3")
+				    	$('#player').attr('src', "media/7rotate.mp3");
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+
+			$("#answers .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='fbtn-q1'){
+			    	if(fq1 == "correct"){
+			    		if($("#player").attr('src') != "media/7FQA-correct.mp3")
+				    		$('#player').attr('src', "media/7FQA-correct.mp3");
+			    	} else {
+			    		if($("#player").attr('src') != "media/7FQA-incorrect.mp3")
+				    		$('#player').attr('src', "media/7FQA-incorrect.mp3");
+			    	}
+			    } else if (id=='fbtn-q2') {
+			    	if(fq2 == 'A'){
+			    		if($("#player").attr('src') != "media/7FQB-A.mp3")
+				    		$('#player').attr('src', "media/7FQB-A.mp3");
+			    	}
+			    	else if(fq2 == 'B'){
+			    		if($("#player").attr('src') != "media/7FQB-B.mp3")
+				    		$('#player').attr('src', "media/7FQB-B.mp3");
+			    	}
+			    	else if(fq2 == 'C'){
+			    		if($("#player").attr('src') != "media/7FQB-C.mp3")
+				    		$('#player').attr('src', "media/7FQB-C.mp3");
+			    	}
+			    	else if(fq2 == 'D'){
+			    		if($("#player").attr('src') != "media/7FQB-D.mp3")
+				    		$('#player').attr('src', "media/7FQB-D.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 
 	<script>

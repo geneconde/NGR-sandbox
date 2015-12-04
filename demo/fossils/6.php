@@ -26,32 +26,37 @@
 <script src="scripts/responsiveslides.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #a49749; }
-.wrap { border-color: #b9ab64; }
-.bg { background-image: url(images/6/bg.jpg); }
+	h1 { color: #a49749; }
+	.wrap { border-color: #b9ab64; }
+	.bg { background-image: url(images/6/bg.jpg); }
 
-#screen1 .slider, #screen1 .slider2 { float: right; width: 340px; height: 245px; border-radius: 5px; margin-top: 10px; }
-#screen1 .slider img, #screen1 .slider2 img { width: 360px; height: 265px; -moz-border-radius: 0; }
+	#screen1 .slider, #screen1 .slider2 { float: right; width: 37%; border-radius: 5px; margin-top: 10px; margin-left: 10px; }
+	#screen1 .slider img, #screen1 .slider2 img { width: 100%; -moz-border-radius: 0; }
+	#screen1 .slider img { width: 100%; }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) { #screen1 .slider img { width: 340px; height: 245px; } }
+	#screen1 .rslides_nav { display: none !important; }
 
-#screen1 .rslides_nav { display: none !important; }
-#screen1 .clear p { float: left; width: 490px; }
+	#screen2 .placeholder { width: 50%; border-radius: 5px; position: relative; margin: 20px auto 0; }
+	#screen2 .placeholder img { width: 100%; margin-bottom: 10px; }
+	#screen2 .placeholder .caption { text-align: center; font-size: 20px !important; color: #86383B; }
+	#screen2 .placeholder .next { transition: .2s ease-in all; position: absolute; right: -65px; width: 51px; height: 77px; display: block; text-indent: -9999px; background: url(images/6/arrows.png) no-repeat right top; top: 32%; }
+	#screen2 .placeholder .prev { transition: .2s ease-in all; position: absolute; left: -65px; width: 51px; height: 77px; display: block; text-indent: -9999px; background: url(images/6/arrows.png) no-repeat left top; top: 32%; }
 
-#screen2 .placeholder { width: 464px; border-radius: 5px; position: relative; margin: 20px auto 0; }
-#screen2 .placeholder img { width: 100%; margin-bottom: 10px; }
-#screen2 .placeholder .caption { text-align: center; font-size: 20px !important; color: #86383B; }
-#screen2 .placeholder .next { transition: .2s ease-in all; position: absolute; right: -65px; width: 51px; height: 77px; display: block; text-indent: -9999px; background: url(images/6/arrows.png) no-repeat right top; top: 132px; }
-#screen2 .placeholder .prev { transition: .2s ease-in all; position: absolute; left: -65px; width: 51px; height: 77px; display: block; text-indent: -9999px; background: url(images/6/arrows.png) no-repeat left top; top: 132px; }
+	#screen2 p:first-child { padding-top: 15px; }
 
-#screen2 p:first-child { padding-top: 15px; }
-
-#screen2 { display: none; }
-#buttons .next { display: none; }
-
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
-	#screen1 .clear p {width: 380px;}
-}
+	#screen2 { display: none; }
+	#buttons .next { display: none; }
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		#screen2 p:first-of-type { padding-top: 40px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+		#screen2 p:first-of-type { padding-top: 20px; }
+	}
+	@media only screen and (max-width: 900px) {
+		p { font-size: 22px; }
+	}
 </style>
 </head>
 <body>
@@ -62,12 +67,12 @@ h1 { color: #a49749; }
 				<p><?php echo _("<span class='key'>Paleontologists</span> study fossils because they can learn lots of useful things about the Earth and how it has changed. They also can learn many useful things about the living organisms that inhabited the Earth many years ago. These scientists study the collection of all the fossils that have ever been found. The collection is called the <span class='key'>fossil record</span>."); ?></p>
 
 				<div class="clear">
-					<p><?php echo _("The fossil record is the collective set of the remains of organisms that are at least 10,000 years old. When the record of all fossils from around the world is viewed as a whole, it can provide interesting information about how life on Earth has changed over time – like when the dinosaurs became extinct. Scientists consider the fossil evidence they have found to be extremely valuable and they keep looking for more new fossil discoveries to try to fill in gaps in the fossil record to have a better understanding of the history of the earth."); ?></p>
 					<ul class="rslides slider">
 						<li><img src="images/6/s1a.jpg"></li>
 						<li><img src="images/6/s1b.jpg"></li>
 						<li><img src="images/6/s1c.jpg"></li>
 					</ul>
+					<p><?php echo _("The fossil record is the collective set of the remains of organisms that are at least 10,000 years old. When the record of all fossils from around the world is viewed as a whole, it can provide interesting information about how life on Earth has changed over time – like when the dinosaurs became extinct. Scientists consider the fossil evidence they have found to be extremely valuable and they keep looking for more new fossil discoveries to try to fill in gaps in the fossil record to have a better understanding of the history of the earth."); ?></p>
 				</div>
 			</div>
 

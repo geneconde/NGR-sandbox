@@ -23,37 +23,41 @@
 <script src="scripts/global.js"></script>
 <script src="scripts/save-answer.js"></script>
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/17/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/17/bg.jpg); }
 
-#question li { padding: 10px 0; }
+	#question li { padding: 10px 0; }
 
-.ac-custom { width: 100%; padding: 0 !important; }
-.ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
-.ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
-.ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
-.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
-.ac-custom label::before { border: 2px solid #c45a63; }
-.ac-custom svg path { stroke: #c45a63; }
-.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
+	.ac-custom { width: 100%; padding: 0 !important; }
+	.ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
+	.ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
+	.ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
+	.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
+	.ac-custom label::before { border: 2px solid #c45a63; }
+	.ac-custom svg path { stroke: #c45a63; }
+	.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
 
-#answer { display: none; text-align: center; }
-#answer p { text-align: center; }
-#answer .answer img { margin-top: 10px; border: 2px solid #fff; }
+	#answer { display: none; text-align: center; }
+	#answer p { text-align: center; }
+	#answer .answer img { margin-top: 10px; border: 2px solid #fff; }
 
-.answer span { display: block; }
-.feedback { font-size: 24px; text-align: center; }
-.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
+	.answer span { display: block; }
+	.feedback { font-size: 24px; text-align: center; }
+	.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
 
-#buttons .next { display: none; }
+	#buttons .next { display: none; }
 
-html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
-html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
-html[dir="rtl"] li label { text-align: right; }
+	html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
+	html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
+	html[dir="rtl"] li label { text-align: right; }
 
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+	}
 </style>
 </head>
 <body>

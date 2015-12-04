@@ -4,7 +4,7 @@
 	require_once '../../verify.php';
 	require_once "locale.php";
 	
-	if($user->getType() == 2) $uf->updateStudentLastscreen(4, $_SESSION['smid']);
+	if($user->getType() == 2) $smc->updateStudentLastscreen(4, $_SESSION['smid']);
 ?>
 <!DOCTYPE html>
 <html lang="en" <?php if($language == "ar_EG") { ?> dir="rtl" <?php } ?>>
@@ -22,7 +22,7 @@
 
 	<style>
 		html, body {overflow: hidden;}
-		.h1 { color: #28CDFC; font-size: 35px; margin-left: 50px; }
+		h1 { color: #28CDFC; font-size: 35px; }
 		p { text-align: left; }
 
 		.bg { background-image: url('images/4/bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width:100%; height:100%; position: relative; }
@@ -46,26 +46,21 @@
 		    border-radius: 5px;
 		    border: 1px;
 		    cursor: pointer;
-		    position: absolute;
-		    top: 12px;
-		    left: 21px;
-		    min-width: 49px;
+		    min-width: 30px;
+		    margin-right: 5px;
+		    position: relative;
+		    top: -6px;
 		}
-		.word-data { -x-background: #ffffee; }
-		.current-word { color: orange; }
-		.aligned-word:hover {
-			cursor: pointer;
-			color: orange;
-		}
+		#audio:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
-			<div id="target">
-				<button onclick="audio()" id="audio">Play</button><p class="h1"><?php echo _("Reviewing big ideas... about heating and cooling"); ?></p>
+			<div>
+				<h1><button onclick="audio()" id="audio" value="Play"><i class="fa fa-play"></i></button><?php echo _("Reviewing big ideas... about heating and cooling"); ?></h1>
 
-				<p><?php echo _("<span class='key'>Heat</span> is a form of energy that causes atoms and molecules, the particles of matter, to <span class='key'>vibrate</span> or move around faster. When heat energy is taken away from matter the particles vibrate less and move around more slowly."); ?></p>
+				<p><?php echo _("<span class='key'>Heat</span> is a form of energy that causes atoms and molecules, the particles of matter, to <span class='key'>vibrate</span> or move around faster. When heat energy is added to matter, the particles vibrate or move faster. When heat energy is taken away from matter, the particles vibrate less and move around more slowly."); ?></p>
 				
 				<p><?php echo _("How fast or slowly the tiny particles of matter vibrate or move around is called <span class='key'>temperature</span>. The faster the particles move, the higher the temperature is. The more slowly the particles move, the lower the temperature is. How much heat energy is needed to raise or lower the temperature of matter depends on the amount of matter involved. The more matter there is, the more heat energy has to be exchanged to raise or lower the temperature. The heat energy of something is the total amount of energy."); ?></p>
 				
@@ -74,7 +69,9 @@
 					<img src="images/4/hot.jpg" alt="Cold">
 				</div>
 			</div>
-			<audio id="player" controls style="display: none"></audio>
+			<audio id="4RBI" controls style="display: none">
+					<source src="media/4RBI.mp3" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -91,32 +88,25 @@
 	<?php include("setlocale.php"); ?>
 
 	<script>
-		function audio() { 
-		    var txt = $('#audio').html();
-		    var audio = document.getElementById("player"); 
+		function audio() {
+		    var txt = $('#audio').val();
+		    var audio = document.getElementById("4RBI");
 			if(txt == 'Play') {
 				audio.play();
-				$('#audio').html("Stop");
+				$('#audio').html('<i class="fa fa-pause"></i>');
+				$('#audio').val("Pause");
 			}
 			else {
 				audio.pause();
-				audio.currentTime = 0;
-				$('#audio').html("Play");
+				$('#audio').html('<i class="fa fa-play"></i>');
+				$('#audio').val("Play");
 			}
 			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#audio').html("Play");
+		        audio.currentTime = 0;
+				$('#audio').html('<i class="fa fa-play"></i>');
+		        $('#audio').val("Play");
 		    });
 		}
-
-		$(document).ready(function() {
-		    var audio = document.getElementById('player');
-			if (!(audio.canPlayType && (audio.canPlayType('audio/mp3') || audio.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var aligner = new AudioAligner(document.getElementById('target'), audio);
-			aligner.align('media/4RBI.mp3', 'media/4RBI.json');
-		});
 	</script>
 
 </body>

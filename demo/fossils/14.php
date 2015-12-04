@@ -13,40 +13,46 @@
 <link rel="stylesheet" type="text/css" href="styles/locale.css" />
 <link rel="stylesheet" type="text/css" href="styles/fonts.css" />
 <link rel="stylesheet" type="text/css" href="styles/jpreloader.css" />
-<link rel="stylesheet" type="text/css" href="styles/hexaflip.css" />
 <link rel="stylesheet" type="text/css" href="styles/global.css" />
 <link rel="stylesheet" href="styles/font-awesome.min.css">
-<script src="scripts/jquery.min.js"></script>
-<script src="scripts/modernizr.min.js"></script>
-<script src="scripts/jquery.wiggle.min.js"></script>
-<script src="scripts/jquery.blink.min.js"></script>
-<script src="scripts/global.js"></script>
-<script src="scripts/save-answer.js"></script>
+<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
+	<link rel="stylesheet" href="styles/hexaflip2.css" />
+<?php } else { ?>
+	<link rel="stylesheet" href="styles/hexaflip.css" />
+<?php } ?>
+
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/19/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/19/bg.jpg); }
 
-#question ul { list-style: none; padding: 0; width: 800px; margin: 0 auto; }
-#question li { font-size: 24px; }
+	#question ul { list-style: none; padding: 0; width: 800px; margin: 0 auto; }
+	#question li { font-size: 24px; }
 
-#box { text-align: center; margin-top: 0; }
-#box .info { padding: 20px 0; color: #92578B; width: 600px; text-align: center; margin: 0 auto; }
-#hexaflip { margin: 0 0 15px 330px; }
-.hexaflip-cube .hexaflip-side { width: 101%; }
+	#box { text-align: center; margin-top: 0; }
+	#box .info { padding: 20px 0; color: #92578B; width: 600px; text-align: center; margin: 0 auto; }
+	#hexaflip { margin: 0 auto; }
+	.hexaflip-cube .hexaflip-side { width: 101%; }
 
-#answer { display: none; text-align: center; }
-#answer p { text-align: center; }
-#answer .answer img { margin-top: 10px; border-radius: 0 !important; }
+	#answer { display: none; text-align: center; }
+	#answer p { text-align: center; }
+	#answer .answer img { margin-top: 10px; border-radius: 0 !important; }
 
-.answer span { display: block; }
-.feedback { font-size: 24px; text-align: center; }
-.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
+	.answer span { display: block; }
+	.feedback { font-size: 24px; text-align: center; }
+	.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
 
-#buttons .next { display: none; }
+	#buttons .next { display: none; }
 
-html[dir="rtl"] #hexaflip {margin: 0 auto;}
+	html[dir="rtl"] #hexaflip {margin: 0 auto;}
 
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+		#question ul { margin: 0; }
+	}
 </style>
 </head>
 <body>
@@ -86,7 +92,18 @@ html[dir="rtl"] #hexaflip {margin: 0 auto;}
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Your first quiz question is..."); ?></strong></section></section>
 
+	<script src="scripts/jquery.min.js"></script>
+	<script src="scripts/modernizr.min.js"></script>
+	<script src="scripts/jquery.wiggle.min.js"></script>
+	<script src="scripts/jquery.blink.min.js"></script>
+	<script src="scripts/global.js"></script>
+	<script src="scripts/save-answer.js"></script>
+
+	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
+	<script src="scripts/hexaflip2.js"></script>
+	<?php } else { ?>
 	<script src="scripts/hexaflip.js"></script>
+	<?php } ?>
 
 	<script>
 	var hexa,

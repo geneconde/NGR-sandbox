@@ -23,34 +23,38 @@
 <script src="scripts/jquery.blink.min.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #766427; }
-.wrap { border-color: #e0ce8e; }
-.bg { background-image: url(images/12/bg.jpg); }
-.column { width: 95%; text-align: center; margin: 10% auto; }
-.md-content { background: #fffced; }
-.md-content p { font-size: 16px; }
-.md-content img { height: 200px; }
-.md-content h3 { background: #c8b35a; color: #fff; }
-button:hover { background: #e0ce8e; }
-button {
-	font-family: 'PlaytimeRegular';
-	border: none;
-	border-image-source: initial;
-	border-image-slice: initial;
-	border-image-width: initial;
-	border-image-outset: initial;
-	border-image-repeat: initial;
-	padding: 1em 2em;
-	background: #c8b35a;
-	color: #fff;
-	font-size: 16px;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-	cursor: pointer;
-	display: inline-block;
-	margin: 1% 0;
-	border-radius: 10px;
-}
+	h1 { color: #766427; }
+	.wrap { border-color: #e0ce8e; }
+	.bg { background-image: url(images/12/bg.jpg); }
+	.column { width: 95%; text-align: center; margin: 10% auto; }
+	.md-content { background: #fffced; }
+	.md-content p { font-size: 16px; }
+	.md-content img { height: 200px; }
+	.md-content h3 { background: #c8b35a; color: #fff; }
+	button:hover { background: #e0ce8e; }
+	button {
+		font-family: 'PlaytimeRegular';
+		border: none;
+		border-image-source: initial;
+		border-image-slice: initial;
+		border-image-width: initial;
+		border-image-outset: initial;
+		border-image-repeat: initial;
+		padding: 1em 2em;
+		background: #c8b35a;
+		color: #fff;
+		font-size: 16px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+		cursor: pointer;
+		display: inline-block;
+		margin: 1% 0;
+		border-radius: 10px;
+	}
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+	}
 </style>
 </head>
 <body>

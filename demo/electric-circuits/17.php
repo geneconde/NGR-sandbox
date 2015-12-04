@@ -26,9 +26,13 @@
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/locale.css">
 	<link rel="stylesheet" href="css/jpreloader.css">
-	<link rel="stylesheet" href="css/hexaflip.css">
 	<link rel="stylesheet" href="css/base.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
+		<link rel="stylesheet" href="css/hexaflip2.css" />
+	<?php } else { ?>
+		<link rel="stylesheet" href="css/hexaflip.css" />
+	<?php } ?>
 	
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
@@ -104,7 +108,11 @@
 	<section id="preloader"><section class="selected"><strong><?php echo _("Flipping the box..."); ?></strong></section></section>
 
 	<script src="js/jquery.min.js"></script>
+	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) { ?>
+	<script src="js/hexaflip2.js"></script>
+	<?php } else { ?>
 	<script src="js/hexaflip.js"></script>
+	<?php } ?>
 
 	<script>
 		var answered = 1, /* Change 1 to <?php echo $answered; ?> when ported in the modules folder */

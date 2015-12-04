@@ -42,12 +42,10 @@
 		.bg { background-image: url(assets/12/bg.jpg); }
 		.key {color:#ff005a;}
 
-		#md_p {padding-right:370px;}
 		#screen1 #md_p1 {margin-top: 10px}
-		#screen1 img { margin-top: 16px; float:right; height: 260px; width: 350px; border: 0px solid #000;}
+		#screen1 img { margin-left: 10px; margin-top: 16px; float:right; height: 260px; width: 350px; border: 0px solid #000; }
 
 		#screen2 { display: none; }
-		#screen2 #md_scrnTop {padding-top:10px ;}
 		#md_scrn2p {margin-right:470px; margin-top:10px;} 
 
 		#s2a { position: relative; }
@@ -105,16 +103,16 @@
 		#buttons .next { display: none; }
 
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-			#buttons { background-color: #468853 !important; }
-			#screen2 #md_scrnTop, #screen2 #md_scrn2p {
-			    line-height: 28px;
-			}
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			#screen2 #md_scrnTop, #screen2 #md_scrn2p { line-height: 25px; }
+			#screen1 img { width: 35%; height: auto; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-
+		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+			#screen2 #md_scrnTop, #screen2 #md_scrn2p { line-height: 30px !important; }
+		}
+		@media screen and (max-width: 900px ){
+			#screen1 p { line-height: 25px; }
+		}
 	</style>
 </head>
 

@@ -23,45 +23,56 @@
 <script src="scripts/global.js"></script>
 <script src="scripts/save-answer.js"></script>
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/7/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/7/bg.jpg); }
 
-#questions li { padding: 6px 0; }
+	#questions li { padding: 6px 0; }
 
-#question1 .ac-custom { width: 100%; padding: 0 !important; }
-#question1 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
-#question1 .ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
-#question1 .ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
-#question1 .ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
-#question1 .ac-custom label::before { border: 2px solid #c45a63; }
-#question1 .ac-custom svg path { stroke: #c45a63; }
-#question1 .ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
+	#question1 .ac-custom { width: 100%; padding: 0 !important; }
+	#question1 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
+	#question1 .ac-custom input[type="checkbox"] { vertical-align: top; margin-top: -10px; }
+	#question1 .ac-custom input[type="checkbox"]:checked + label { color: #c45a63; }
+	#question1 .ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
+	#question1 .ac-custom label::before { border: 2px solid #c45a63; }
+	#question1 .ac-custom svg path { stroke: #c45a63; }
+	#question1 .ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
 
-#question2 .ac-custom { width: 100%; }
-#question2 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
-#question2 .ac-custom input[type="radio"] { vertical-align: top; margin-top: -10px; }
-#question2 .ac-custom input[type="radio"]:checked + label { color: #c45a63; }
-#question2 .ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
-#question2 .ac-custom label::before { border: 2px solid #c45a63; }
-#question2 .ac-custom svg path { stroke: #c45a63; }
-#question2 .ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
+	#question2 .ac-custom { width: 100%; }
+	#question2 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
+	#question2 .ac-custom input[type="radio"] { vertical-align: top; margin-top: -10px; }
+	#question2 .ac-custom input[type="radio"]:checked + label { color: #c45a63; }
+	#question2 .ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
+	#question2 .ac-custom label::before { border: 2px solid #c45a63; }
+	#question2 .ac-custom svg path { stroke: #c45a63; }
+	#question2 .ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
 
-#answers { display: none; }
-#answers p { text-align: center; font-size: 22px; }
+	#answers { display: none; }
+	#answers p { text-align: center; font-size: 22px; }
 
-#question2, #answer2 { margin-top: 25px; }
-#buttons .next { display: none; }
-<?php if($language == "es_ES") { ?>
-	#answers p { font-size: 20px; }
-<?php } ?>
+	#question2, #answer2 { margin-top: 25px; }
+	#buttons .next { display: none; }
+	<?php if($language == "es_ES") { ?>
+		#answers p { font-size: 20px; }
+	<?php } ?>
 
-html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
-html[dir="rtl"] .ac-custom input[type="radio"] { right: 35px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -30px; }
-html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -23px; }
-html[dir="rtl"] li label { text-align: right; }
+	html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
+	html[dir="rtl"] .ac-custom input[type="radio"] { right: 35px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -30px; }
+	html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -23px; }
+	html[dir="rtl"] li label { text-align: right; }
 
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		#questions li { padding: 4px 0; }
+		.feedback p { line-height: 25px; }
+		.answer p { padding: 0; }
+		h2 { margin: 0px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+		.ac-custom ul, .ac-custom ol { margin: 0; }
+	}
 </style>
 </head>
 <body>

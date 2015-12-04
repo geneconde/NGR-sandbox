@@ -6,8 +6,7 @@
 	//$_SESSION['cmodule'] = how-light-behaves';
 	//require_once '../../verify.php';
 	require_once "locale.php";
-	
-	
+
 ?>
 
 <!DOCTYPE html>
@@ -35,18 +34,23 @@
 
 	<style>
 		h1 { font-size: 35px; margin-left: 0; color: #660066;}
-		h2 {}
 		.wrap { border-color: #9EF5FF; }
-		.bg { background-color: #fff; background-image:  url(assets/3/bg.jpg);}
+		.bg { background-color: #fff; background-image:  url(assets/3/bg.jpg); overflow: hidden; }
 		.question { font-size: 24px; color: #000; }
-		
-		.grid_4 { margin-top: 10px; }
-		#not-sortable li, #sortable li { height: 65px; width: 380px; }
 
-		#sortable li { text-align: left; cursor: move;border:3px solid #ec6666; border-style: dashed; color:#eacaca ; border-color: #ec6666; }
-
-		#not-sortable li { text-align: left; margin-left: 10px; border-style: dashed; border-color: #eacaca }
-		/*#not-sortable-container { }*/
+		#sortable li {
+			text-align: left;
+			cursor: move;border:3px solid #ec6666;
+			border-style: dashed;
+			color:#eacaca ;
+			border-color: #ec6666;
+		}
+		#not-sortable li {
+			text-align: left;
+			margin-left: 10px;
+			border-style: dashed;
+			border-color: #eacaca;
+		}
 
 		#sortable li, #not-sortable li {
 			background-color: #eacaca;
@@ -56,83 +60,21 @@
 			margin-bottom: 4px;
 			border-radius: 10px;
 			padding-left: 15px;
-
+			height: 60px;
+			line-height: 28px;
+		}
+		#not-sortable-container, #sortable-container { width: 45%; float: left; }
+		#not-sortable-container { margin-left: 2%; margin-right: 2%; }
+		#answer img {
+		    width: 45%;
+		    height: 250px;
+		    text-align: center;
+		    display: block;
 		}
 
-
-		#sortable li:last-child { margin-bottom: 0;}
-
-		#answer .answer { text-align: left; }
-		#answer .answer li { background-color: #ec6666;
-			list-style: none;
-			text-align: left;
-			color: #000;
-			margin-bottom: 4px;
-			border-radius: 5px;
-		}
-		.space { padding-top: 17px; margin-top: 0;}
-		.tleft { text-align: left; }
-		.question, h1, h2 { margin-left: 1%; }
-		.question, h2 {color:#469c96;}
-		img, video {
-		    width: 40% !important;
-			margin-top: 20px !important;
-		    margin-left: 29% !important;
-		    margin-right: 15% !important;
-		}
-
-		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
 		@media (max-width: 1250px){
-			#buttons {
-				background-color: #468853 !important;
-			}
-			.space {
-			    padding-top: 10px !important; 
-			    margin-top: 0 !important;
-			}
-			#not-sortable li, #sortable li {
-			    height: 45px !important; 	
-			}
-			.container_12 .prefix_2 {
-			    padding-left: 12.667% !important;
-			}	
-
-			#not-sortable li, #sortable li {
-			    height: 54px !important; 
-			    width: 352px !important; 
-			}
-			img, video {
-			    width: 33% !important;
-			    margin-top: 20px !important;
-			    margin-left: 30% !important;
-			    margin-right: 15% !important;
-			}
-			#sortable li, #not-sortable li {
-			    padding-left: 53px !important;
-			}
-			body, h2 {
-			    font-size: 20px !important;
-			}
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; }
 		}
-		@media (max-width: 1250px ){
-			#sortable li, #not-sortable li {
-			    padding-left: 14px !important;
-			}
-		}
-
-
-
 	</style>
 </head>
 
@@ -145,30 +87,29 @@
 						<div>
 							<h1 class="grid_12 text-black"><?php echo _("Checking what you already know about... specialized cells"); ?></h1>
 							<h2 class="grid_12 question"><?php echo _("Arrange the responses in the right column to match the things happening in the left column."); ?></h2>
-							
 						</div>
-						<div class="grid_4">
-								<ul id="not-sortable">
-									<li><p class= 'space'><?php echo _("A new embryo begins to form."); ?></p></li>
-									<li><p class= 'space'><?php echo _("Bacteria begin to reproduce in a wound."); ?></p></li>
-									<li><p class= 'space'><?php echo _("A person touches a hot pan."); ?></p></li>
-								</ul>
+						<div id="not-sortable-container">
+							<ul id="not-sortable">
+								<li><?php echo _("A new embryo begins to form."); ?></li>
+								<li><?php echo _("Bacteria begin to reproduce in a wound."); ?></li>
+								<li><?php echo _("A person touches a hot pan."); ?></li>
+							</ul>
 						</div>
 
-						<div class="grid_4 prefix_2" id="sortable-container">
-								<ul id="sortable">
-									<li id="1"><?php echo _("Sensory neurons send an electrical message to the brain."); ?></li>
-									<li id="2"><p class= 'space'><?php echo _("Sperm fertilizes an egg cell."); ?></p></li>
-									<li id="3"><?php echo _("White blood cells begin to divide and reproduce."); ?></li>
-								</ul>
+						<div id="sortable-container">
+							<ul id="sortable">
+								<li id="1"><?php echo _("Sensory neurons send an electrical message to the brain."); ?></li>
+								<li id="2"><?php echo _("Sperm fertilizes an egg cell."); ?></li>
+								<li id="3"><?php echo _("White blood cells begin to divide and reproduce."); ?></li>
+							</ul>
 						</div>
 					</div>
 
 					<div id="answer">
 						<p class="grid_12 answer"><?php echo _("All living things are made up of cells that have special structures and functions. The human body is made of many different types of cells and combinations of cells, each with its own specialized function. Special human cells are involved in everything from reproduction to fighting infections to feeling pain. Knowing about cell structure and function will help you better understand how your body works."); ?>
 						</p>
+						<img src="assets/2/bbox.jpg">
 					</div>
-					<img src="assets/2/bbox.jpg">
 				</div>
 			</div>
 		</div>

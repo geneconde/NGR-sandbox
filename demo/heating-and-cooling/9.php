@@ -234,13 +234,24 @@
 
 		#buttons .next { display: none; }
 
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div id="questions">
-				<h1><?php echo _("Quick Check #3"); ?></h1>
+				<h1><button id="btn-q1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #3"); ?></h1>
 
 				<div id="question1">
 					<h2><?php echo _("Question A. Drag the heat transfer method onto the example it matches."); ?></h2>
@@ -305,7 +316,7 @@
 				</div>
 
 				<div id="question2">
-					<h2><?php echo _("Question B. Sunlight is a form of energy that travels through space without the aid of fluids or solids. Which method of heat transfer is sunlight?"); ?></h2>
+					<h2><button id="btn-q2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. Sunlight is a form of energy that travels through space without the aid of fluids or solids. Which method of heat transfer is sunlight?"); ?></h2>
 
 					<ul>
 						<li>
@@ -331,7 +342,7 @@
 				</div>
 
 				<div id="question3">
-					<h2><?php echo _("Question C. What happens when you make toast over a campfire?"); ?></h2>
+					<h2><button id="btn-q3" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question C. What happens when you make toast over a campfire?"); ?></h2>
 
 					<ul>
 						<li>
@@ -353,7 +364,7 @@
 			</div>
 
 			<div id="answers">
-				<h1><?php echo _("Quick Check #3"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fbtn-q1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #3"); ?> - <?php echo _("How did I do?"); ?></h1>
 				
 				<div id="answer1">
 					<h2><?php echo _("Question A. Drag the heat transfer method onto the example it matches."); ?></h2>
@@ -390,7 +401,7 @@
 				</div>
 
 				<div id="answer2">
-					<h2><?php echo _("Question B. Sunlight is a form of energy that travels through space without the aid of fluids or solids. Which method of heat transfer is sunlight?"); ?></h2>
+					<h2><button id="fbtn-q2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. Sunlight is a form of energy that travels through space without the aid of fluids or solids. Which method of heat transfer is sunlight?"); ?></h2>
 						
 					<p class="center"><?php echo _("You answered..."); ?></p>
 					<p class="center answer"></p>
@@ -399,13 +410,16 @@
 				</div>
 
 				<div id="answer3">
-					<h2><?php echo _("Question C. What happens when you make toast over a campfire?"); ?></h2>
+					<h2><button id="fbtn-q3" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question C. What happens when you make toast over a campfire?"); ?></h2>
 						
 					<p class="center"><?php echo _("You answered..."); ?></p>
 					<p class="center answer"></p>
 					<p class="feedback"></p>
 				</div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -427,8 +441,9 @@
 	<script src="scripts/jquery-ui.js"></script>
 	<script src="scripts/jquery.ui.touch-punch.min.js"></script>
 	<script src="scripts/saveanswer.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
+		var fq1 = "", fq2 = "", fq3 = "";
+		var audio = document.getElementById("player");
 		var answered = <?php echo $answered; ?>,
 
 			questions = $('#questions'),
@@ -574,6 +589,9 @@
 				questions.fadeOut(function() {
 					answers.fadeIn();
 					window.location.hash = "#answers";
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
 				save();
@@ -589,6 +607,9 @@
 			else {
 				answers.fadeOut(function() { questions.fadeIn(); });
 				next.fadeOut(function() { check.fadeIn(); });
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -710,6 +731,11 @@
 			}
 
 			ans1 = aa1 + ',' + aa2 + ',' + aa3;
+			if(ans1=="conduction,convection,radiation"){
+				fq1 = "correct";
+			} else {
+				fq1 = "incorrect";
+			}
 
 			// Question 2
 
@@ -721,6 +747,7 @@
 
 			else if ( d2.is(':checked') ) ans2 = d2.val();
 
+			fq2 = ans2;
 			// Question 3
 
 			if ( a3.is(':checked') ) ans3 = a3.val();
@@ -728,6 +755,8 @@
 			else if ( b3.is(':checked') ) ans3 = b3.val();
 
 			else if ( c3.is(':checked') ) ans3 = c3.val();
+
+			fq3 = ans3;
 
 			if (answered == 0) {
 
@@ -756,6 +785,105 @@
 				tip: true,
 				name: 'cream'
 			}
+		});
+
+		$(document).ready(function() {
+			$("#questions .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='btn-q1'){
+			    	if($("#player").attr('src') != "media/9QCA.mp3")
+				    	$('#player').attr('src', "media/9QCA.mp3");
+			    } else if (id=='btn-q2') {
+			    	if($("#player").attr('src') != "media/9QCB.mp3")
+				    	$('#player').attr('src', "media/9QCB.mp3");
+			    } else if (id=='btn-q3') {
+			    	if($("#player").attr('src') != "media/9QCC.mp3")
+				    	$('#player').attr('src', "media/9QCC.mp3");
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+
+			$("#answers .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='fbtn-q1'){
+			    	if(fq1 == "correct"){
+			    		if($("#player").attr('src') != "media/9FA-Correct.mp3")
+				    		$('#player').attr('src', "media/9FA-Correct.mp3");
+			    	} else {
+			    		if($("#player").attr('src') != "media/9FA-InCorrect.mp3")
+				    		$('#player').attr('src', "media/9FA-InCorrect.mp3");
+			    	}
+			    } else if (id=='fbtn-q2') {
+			    	if(fq2 == 'A'){
+			    		if($("#player").attr('src') != "media/9FQCB-A.mp3")
+				    		$('#player').attr('src', "media/9FQCB-A.mp3");
+			    	}
+			    	else if(fq2 == 'B'){
+			    		if($("#player").attr('src') != "media/9FQCB-B.mp3")
+				    		$('#player').attr('src', "media/9FQCB-B.mp3");
+			    	}
+			    	else if(fq2 == 'C'){
+			    		if($("#player").attr('src') != "media/9FQCB-C.mp3")
+				    		$('#player').attr('src', "media/9FQCB-C.mp3");
+			    	}
+			    	else if(fq2 == 'D'){
+			    		if($("#player").attr('src') != "media/9FQCB-D.mp3")
+				    		$('#player').attr('src', "media/9FQCB-D.mp3");
+			    	}
+			    } else if (id=='fbtn-q3') {
+			    	if(fq3 == 'A'){
+			    		if($("#player").attr('src') != "media/9FQCC-A.mp3")
+				    		$('#player').attr('src', "media/9FQCC-A.mp3");
+			    	}
+			    	else if(fq3 == 'B'){
+			    		if($("#player").attr('src') != "media/9FQCC-B.mp3")
+				    		$('#player').attr('src', "media/9FQCC-B.mp3");
+			    	}
+			    	else if(fq3 == 'C'){
+			    		if($("#player").attr('src') != "media/9FQCC-C.mp3")
+				    		$('#player').attr('src', "media/9FQCC-C.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
 		});
 	</script>
 	<?php include("setlocale.php"); ?>

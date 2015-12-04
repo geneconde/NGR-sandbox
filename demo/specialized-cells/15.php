@@ -42,18 +42,9 @@
 
 		#screen2 { display: none; }
 		p { margin-top: 0px; }
-		.top { margin-top: 10px; }
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			.grid_Disp { margin-bottom: 0; line-height: 28px; }
 		}
 	</style>
 </head>
@@ -82,7 +73,7 @@
 					</div>
 
 					<div id="screen2" class="screen">
-						<p class="grid_12 top grid_Disp"><?php echo _("Sensory nerve cells detect such environmental information as touch, temperature, pain, heat, taste, smell, sound and light. They transmit this information to the brain where interneurons interpret them based on the way they relate to patterns already formed by experiences. Motor <span class='key'>neurons</span> then send messages to muscles causing movement."); ?>
+						<p class="grid_12 grid_Disp"><?php echo _("Sensory nerve cells detect such environmental information as touch, temperature, pain, heat, taste, smell, sound and light. They transmit this information to the brain where interneurons interpret them based on the way they relate to patterns already formed by experiences. Motor <span class='key'>neurons</span> then send messages to muscles causing movement."); ?>
 						</p>
 						<p class="grid_12 grid_Disp"><?php echo _("Cells of the circulatory systems are either red or white. Red blood cells carry oxygen from the lungs to body tissues, and carbon dioxide from body tissues to the lungs. White blood cells are much larger than red cells and make up the body's immune system. <span class='key'>Lymphocytes</span> protect against specific types of bacteria and viruses. Other white cells respond to many other types of threats, but not to specific disease agents."); ?>
 						</p>

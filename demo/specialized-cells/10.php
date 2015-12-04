@@ -43,19 +43,19 @@
 		.text-justify { text-align: justify; }
 		.key {color:#ff005a;}
 
-		#screen1 h1 {margin-left:0px;margin-left: 1%; margin-right: 1%;}
-		.grid_Disp {margin-left: 1%; margin-right: 1%;}
-		#md_scrn1P {width: 450px;margin-top: 30px;}
-		#md_imgl {float: right;}
+		#screen1 h1 { margin-left:0px;margin-left: 1%; margin-right: 1%; }
+		.grid_Disp { margin-left: 1%; margin-right: 1%; }
+		#md_scrn1P { width: 450px;margin-top: 30px; }
+		#md_imgl { float: right; }
 		#md_img2s { height: 290px; margin-top: 40px;}
 		.video { border-radius: 5px; }
-		.vbg { background-color: #000; margin-top: 25px; margin-left: 250px;}		
+		.vbg { background-color: #000; margin-top: 25px; margin-left: auto; margin-right: auto; }
 		 video { margin-top: 0px; }
-		 img {height: 270px;}
+		 img { height: 270px; }
 
 		#screen2 { display: none; }
-		#screen2 p{width:850px; margin-top: 10px;}
-		.caption {font-size: 22px;}
+		#screen2 p{ width:850px; margin-top: 10px; }
+		.caption { font-size: 22px; }
 
 		button {
 			border: none;
@@ -77,7 +77,6 @@
 		table { background-color:; margin-left: 10px; border-collapse: separate; border-spacing: 5px 3px; width: 650px; }
 		th, td { background-color: #fa86c1; font-size: 16px; border-radius: 5px; border-top: 10px; padding-left: 5px; padding-right: 5px; width: 39%; }
 
-
 		#md_tablePopUp table {  text-align: left; width: ; margin: auto; background-color: #fff; font-size: 15px; margin-top:50px; border-radius: 5px;}
 		#md_tablePopUp  div:first-child { width: 350px; margin: 10px auto; margin-top:10%; background-color: #fff; padding: 30px; }
 		#md_tablePopUp table th:first-child { width: 20%; }
@@ -88,11 +87,10 @@
 
 		.button { background-color: #e0e67c; border-radius: 5px; padding: 5px; margin: 10px auto; text-align: center; }
 		.button:hover { cursor: pointer; }
-		#md_close {width: 150px;margin-left:400px; margin-top:10px;border: 1px solid black;}
-		#md_tablePopUp {  position: absolute; background: rgba(45, 45, 45, .9); z-index: 1000;  width: 100%; height:100%;margin-left:-9px;}
+		#md_close {width: 150px; margin-top:10px;border: 1px solid black;}
+		#md_tablePopUp { text-align: center; position: absolute; background: rgba(45, 45, 45, .9); z-index: 1000;  width: 100%; height:100%;margin-left:-9px;}
 		#md_btnView { width: 300px;	background-color: #f98bb7; margin-left:50px;border: 1px solid black;}
-		#md_tablePopUp p {font-size: 19px;padding:1px;}
-
+		#md_tablePopUp p { font-size: 19px; padding-left: 5px; }
 
 		#s2a { position: relative; }
 		#s2a h4 { position: absolute; font-size: 18px; z-index: 2; text-align: center; line-height: 0.5; color: #000; }
@@ -105,37 +103,18 @@
 		#s2a h4:nth-child(7) { left: 90%; top: 278px; }
 		#s2a h4:nth-child(8) { left: 70%; top: 22px; font-size: 24px; }
 		#buttons .next { display: none; }
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
 
 		@media (max-width: 1250px ){
-			.bg { 
-				background-size:  100% calc(100% - 68px)!important;
-				background-position: 0 34px; 
-				overflow: hidden;
-			}
-			p {
-			    font-size: 21px !important;
-			}
-			img {
-			    height: 214px !important;
-			}
+			.bg { background-size:  100% calc(100% - 68px)!important; background-position: 0 34px;  overflow: hidden; }
+			p { font-size: 21px !important; }
+			img { height: 214px !important; }
+			#md_tablePopUp p { line-height: 23px; }
 			#screen2 p {
 			    width: 850px !important;
 			    margin-top: -37px !important;
 			}
-			#screen2 {
-			    padding-top: 88px !important;
-			}
-			#md_img2s {
-			    margin-top: 5px !important;
-			}
+			#screen2 { padding-top: 88px !important; }
+			#md_img2s { margin-top: 5px !important; }
 			#s2a h4:nth-child(8) {
 			    top: -14px !important;
 				left: 70%;

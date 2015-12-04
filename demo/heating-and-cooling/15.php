@@ -24,23 +24,18 @@
 		html, body {overflow: hidden;}
 		p { text-align: center; }
 		h1 { color: #28CDFC; }
-		
 		.bg { background-image: url('images/15/bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width:100%; height:100%; position: relative; }
-		
-		#question { height: 320px; width: 470px; margin:0 auto; display: block; }
-
+		#question { width: 55%; margin:0 auto; position: relative; }
 		#question img{
 		  display:none;
 		  position:absolute;
+		  width: 100%;
 		}
 		#question img.active{
 		  display:block;
 		  margin:0 auto;
 		}
-		
-		.bg img {
-			border: 0 !important;
-		}
+		.bg img { border: 0 !important; }
 		#dp_swf_engine { display: none; }
 
 		@media only screen and (max-width: 1250px) {
@@ -50,13 +45,25 @@
 		<?php if($language == "es_ES") { ?>
 			h1 { font-size: 29px; }
 		<?php } ?>
+
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -6px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div>
-				<h1><?php echo _("Checking what you now know... about heating and cooling"); ?></h1><br/><br/>
+				<h1><button id="audio" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Checking what you now know... about heating and cooling"); ?></h1><br/><br/>
 				<p><?php echo _("Answering the following six (6) quiz questions will give you an idea of what you now know and what you still need to study."); ?></p>
 				<br>
 				<p><?php echo _("Click the NEXT button when you are ready."); ?></p><br>
@@ -65,8 +72,11 @@
 					<img src="images/15/1.png"/>
 					<img src="images/15/2.png" />
 					<img src="images/15/3.png" />
-				</div>	
+				</div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="media/15.mp3" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 	
@@ -79,7 +89,6 @@
 
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<script>
 		$(document).ready(function() {
 			setInterval('swapImages()', 1000);
@@ -91,6 +100,28 @@
 			active.removeClass('active');
 			next.addClass('active');
 		}
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+			    var txt = $('#audio').val();
+			    var audio = document.getElementById("player");
+				if(txt == 'Play') {
+					audio.play();
+					$('#audio').html('<i class="fa fa-pause"></i>');
+					$('#audio').val("Pause");
+				}
+				else {
+					audio.pause();
+					$('#audio').html('<i class="fa fa-play"></i>');
+					$('#audio').val("Play");
+				}
+				audio.addEventListener("ended", function() {
+			        audio.currentTime = 0;
+					$('#audio').html('<i class="fa fa-play"></i>');
+			        $('#audio').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

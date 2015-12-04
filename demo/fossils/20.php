@@ -46,6 +46,9 @@ html[dir="rtl"] h1, html[dir="rtl"] p { text-align: center; }
 							<?php if ($user->getType() == 0): ?>
 								href="../../teacher.php">
 								<span id="link"><?php echo _("Go to dashboard"); ?></span>
+							<?php elseif ($user->getType() >= 3): ?>
+								href="../../subscriber/index.php">
+								<span id="link"><?php echo _("Go to dashboard"); ?></span>
 							<?php else: ?>
 								href="../../results.php?smid=<?php echo $_SESSION['smid']; ?>">
 								<?php echo _("How did I do?"); ?>

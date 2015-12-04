@@ -77,15 +77,16 @@
 		#btn_view { width: 180px;}
 
 		.a{ font-size: 130%; 	position: absolute; top: 7%; 	left: 40%;   color: #A964B2 !important; }
-		.b{ font-size: 76%; 	position: absolute; top: 32%; 	left: 40%; }
-		.c{ font-size: 76%; 	position: absolute; top: 23%; 	left: 46%; }
+		.b{ font-size: 76%; 	position: absolute; top: 34%; 	left: 40%; }
+		.c{ font-size: 76%; 	position: absolute; top: 23%; 	left: 47%; }
 		.d{ font-size: 76%; 	position: absolute; top: 23%; 	left: 54%; }
 		.e{ font-size: 76%; 	position: absolute; top: 23%; 	left: 60%; }
-		.f{ font-size: 76%; 	position: absolute; top: 71%; 	left: 35%; }
+		.f{ font-size: 76%; 	position: absolute; top: 73%; 	left: 35%; }
 		.g{ font-size: 76%; 	position: absolute; top: 54%; 	left: 47%; }
-		.h{ font-size: 76%; 	position: absolute; top: 66%; 	left: 56%; }
-
-
+		.h{ font-size: 76%; 	position: absolute; top: 67%; 	left: 56%; }
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

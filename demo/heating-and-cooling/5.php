@@ -29,7 +29,7 @@
 		.canvas { border: 1px solid #fff; background: black; width: 300px; margin: 10px 30px 0 0; height: 160px; float: right; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius:10px; }
 
 		.bg { background-image: url('images/5/bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width:100%; height:100%; position: relative; z-index: 10; }
-		.bg ul { padding-left: 20px; }
+		.bg ul { padding-left: 10px; }
 		.bg li { font-size: 22px; line-height: 23px; }
 
 		#question1, #question2, #answer1, #answer2 {
@@ -49,7 +49,7 @@
 		#canvasA, #canvasB, #canvasC, #canvasD { display: none; }
 
 		#question1 p { clear: both; }
-		#question1 ul { width: 450px; float: left; }
+		#question1 ul { width: 50%; float: left; }
 		/*#question2 ul li input[type="radio"] {  z-index: 99; }*/
 
 		#answers { display: none;  }
@@ -128,30 +128,17 @@
 		html[dir="rtl"]  label {font-size: 16px !important;}
 	}
 <?php } ?>
-		.word-data { -x-background: #ffffee; }
-		.current-word { color: orange; }
-		.aligned-word:hover {
-			cursor: pointer;
-			color: orange;
-		}
-		#btn_q1 {
+		.audio-btn {
 		    background: orange;
 		    border-radius: 5px;
 		    border: 1px;
 		    cursor: pointer;
-		    position: absolute;
-		    top: 16px;
-	    	left: 1%;
-		    min-width: 49px;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
 		}
-		.h1 {
-		    font-size: 35px;
-		    margin: 0;
-		    padding: 5px 0 !important;
-		    color: #236994;
-		    margin-left: 40px;
-		    font-weight: 600;
-		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 
@@ -159,13 +146,15 @@
 	<div class="wrap">
 		<div class="bg">
 			<div id="questions">
-				<audio id="playerq1" controls style="display: none"></audio>
-				
+				<audio id="player" controls style="display: none">
+					<source src="" type="audio/mpeg">
+				</audio>
+
+				<h1><button id="btn-qa" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #1"); ?></h1>
+				<h2><?php echo _("Question A. How do molecules at warm temperatures differ from molecules at cool temperatures?"); ?></h2>
+
 				<div id="question1">
-					<div id="q1"><button onclick="btn_q1()" id="btn_q1">Play</button><p class="h1"><?php echo _("Quick Check #1"); ?></p>
-					<h2><?php echo _("Question A. How do molecules at warm temperatures differ from molecules at cool temperatures?"); ?></h2></div>
-					
-					<ul>			
+					<ul>
 						<li><input type="radio" name="q1" id="a1" value="A"><label for="a1"><span></span><?php echo _("A. At warm temperatures, molecules exchange electrons more."); ?></label> </li>
 					
 						<li><input type="radio" name="q1" id="b1" value="B"><label for="b1"><span></span><?php echo _("B. At warm temperatures, molecules become larger."); ?></label></li>
@@ -184,9 +173,8 @@
 					</div>
 				</div>
 
+				<h2><button id="btn-qb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. What is the difference between heat and temperature?"); ?></h2>
 				<div id="question2">
-					<h2><?php echo _("Question B. What is the difference between heat and temperature?"); ?></h2>
-
 					<ul>
 						<li><input type="radio" name="q2" id="a2" value="A"><label for="a2"><span></span><?php echo _("A. Temperature is related to the motion of the particles in a substance and heat is related to how much energy moves between substances at different temperatures."); ?></label></li>
 
@@ -200,7 +188,7 @@
 			</div>
 
 			<div id="answers">
-				<p class="h1"><?php echo _("Quick Check #1"); ?> - <?php echo _("How did I do?"); ?></p>
+				<h1><button id="btn-fa" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quick Check #1"); ?> - <?php echo _("How did I do?"); ?></h1>
 				
 				<div id="answer1">
 					<h2><?php echo _("Question A. How do molecules at warm temperatures differ from molecules at cool temperatures?"); ?></h2>
@@ -213,7 +201,7 @@
 				</div>
 
 				<div id="answer2">
-					<h2><?php echo _("Question B. What is the difference between heat and temperature?"); ?></h2>
+					<h2><button id="btn-fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Question B. What is the difference between heat and temperature?"); ?></h2>
 					<p class="center"><?php echo _("You answered..."); ?></p>
 
 					<div id="ans2"></div>
@@ -239,9 +227,11 @@
 	<script src="scripts/tweenjs/Ease.js"></script>
 	<script src="scripts/tweenjs/MotionGuidePlugin.js"></script>
 	<script src="scripts/saveanswer.js"></script>
-	<script src="scripts/AudioAligner.js"></script>
+
 	<script>
+		var fb1 = "", fb2 = "", fb = false;;
 		var answered = <?php echo $answered; ?>;
+		var audio = document.getElementById("player");
 
 		var questions = $('#questions'),
 			answers = $('#answers'),
@@ -276,6 +266,9 @@
 				questions.fadeOut(function() {
 					answers.fadeIn();
 					window.location.hash = "#answers";
+				    audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
 				save();
@@ -295,6 +288,9 @@
 					$('#question1').find('.canvas').prepend($('#canvasD'));
 
 					questions.fadeIn();
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 
 				next.fadeOut(function() { check.fadeIn(); });
@@ -303,6 +299,7 @@
 
 		q1.on('click', function() {
 			var radio = $(this).val();
+			fb1 = radio;
 
 			if (radio == 'A') {
 				answer1.find('.answer').html(
@@ -321,6 +318,7 @@
 
 		q2.on('click', function() {
 			var radio = $(this).val();
+			fb2 = radio;
 
 			if (radio == 'A') {
 				answer2.html(
@@ -564,30 +562,90 @@
 		function ry(sp) { return Math.random() * 380 + sp; }
 		function rc() { return Math.round(Math.random() * 0xED + 0x12).toString(16); }
 
-
-		function btn_q1() { 
-		    var txt = $('#btn_q1').html();
-		    var audio = document.getElementById("playerq1"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#btn_q1').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#btn_q1').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#btn_q1').html("Play");
-		    });
-		}
-
 		$(document).ready(function() {
-		    var audio = document.getElementById('playerq1');
-			if (!(audio.canPlayType && (audio.canPlayType('audio/mp3') || audio.canPlayType('audio/mpeg')) )) { alert('Please use a browser that can play MP3s like Chrome, Safari, IE9'); }
-			var aligner = new AudioAligner(document.getElementById('q1'), audio);
-			aligner.align('media/5QC1Qa.mp3', 'media/5QC1Qa.json');
+			$("#questions .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='btn-qa'){
+			    	if($("#player").attr('src') != "media/5QCA.mp3")
+				    	$('#player').attr('src', "media/5QCA.mp3");
+			    } else if (id=='btn-qb') {
+			    	if($("#player").attr('src') != "media/5QCB.mp3")
+				    	$('#player').attr('src', "media/5QCB.mp3");
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+
+			$("#answers .audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='btn-fa') {
+				    if(fb1=="A"){
+						if($("#player").attr('src') != "media/5FA-A.mp3")
+				    		$('#player').attr('src', "media/5FA-A.mp3");
+					} else if(fb1=="B"){
+						if($("#player").attr('src') != "media/5FA-B.mp3")
+				    		$('#player').attr('src', "media/5FA-B.mp3");
+					} else if(fb1=="C"){
+						if($("#player").attr('src') != "media/5FA-C.mp3")
+				    		$('#player').attr('src', "media/5FA-C.mp3");
+					} else if(fb1=="D"){
+						if($("#player").attr('src') != "media/5FA-D.mp3")
+				    		$('#player').attr('src', "media/5FA-D.mp3");
+					}
+				} else {
+					if(fb2=="A"){
+						if($("#player").attr('src') != "media/5FB-A.mp3")
+				    		$('#player').attr('src', "media/5FB-A.mp3");
+					} else if(fb2=="B"){
+						if($("#player").attr('src') != "media/5FB-B.mp3")
+				    		$('#player').attr('src', "media/5FB-B.mp3");
+					} else if(fb2=="C"){
+						if($("#player").attr('src') != "media/5FB-C.mp3")
+				    		$('#player').attr('src', "media/5FB-C.mp3");
+					} else if(fb2=="D"){
+						if($("#player").attr('src') != "media/5FB-D.mp3")
+				    		$('#player').attr('src', "media/5FB-D.mp3");
+					}
+				}
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
 		});
 	</script>
 	<?php include("setlocale.php"); ?>

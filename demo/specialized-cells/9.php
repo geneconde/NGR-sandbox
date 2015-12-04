@@ -43,6 +43,7 @@
 		
 		.wrap { border-color: #000; }
 		.bg { background-image: url(assets/9/bg.jpg); }
+		.ac-custom li { padding: 5px 0; }
 
 		.ac-custom input[type="radio"]:checked + label { color: #ec6666; }
 		.ac-custom label { color: #000; padding-left: 49px; }

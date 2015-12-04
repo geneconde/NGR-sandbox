@@ -65,16 +65,11 @@
 		#buttons .next { display: none; }
 		.ac-custom li { padding: 8px 0; }
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			.ac-custom li { padding: 2px 0; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
+		@media (max-width: 960px) {
+			.ac-custom li { padding: 5px 0; }
 		}
 	</style>
 </head>

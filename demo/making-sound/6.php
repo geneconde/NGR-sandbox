@@ -60,6 +60,9 @@
 		#screen2 div.grid_12 img {
 		    border: 2px solid black;
 		}
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

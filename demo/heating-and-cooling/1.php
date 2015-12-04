@@ -21,8 +21,8 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 
 	<style>
-			html, body {overflow: hidden;}
-		.h1 { color: #37a1de; text-align: center; font-size: 35px; }
+		html, body {overflow: hidden;}
+		h1 { color: #37a1de; text-align: center; font-size: 35px; }
 
 		.bg { background-image: url('images/1/bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width:100%; height:100%; position: relative; }
 		.bg img { margin: 0 auto; }
@@ -75,73 +75,60 @@
 		}
 	}
 	#audio {
-	    background: orange;
+		background: orange;
 	    border-radius: 5px;
 	    border: 1px;
 	    cursor: pointer;
-	    position: absolute;
-	    top: 33px;
-	    left: 52px;
-	    min-width: 49px;
+	    min-width: 30px;
+	    position: relative;
+	    top: -5px;
+	    margin-right: 5px;
 	}
-	.word-data { -x-background: #ffffee; }
-	.current-word { color: orange; }
-	.aligned-word:hover {
-		cursor: pointer;
-		color: orange;
-	}
+	#audio:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<br>
-			<div id="target">
-				<button onclick="audio()" id="audio">Play</button><p class='h1'><?php echo _("Welcome to the Heating and Cooling module"); ?>, <?php echo $user->getFirstName() . "!" ?> </p>
-				<div id="hc" >
-					<img src="images/1/hc.png" id="banner"> 
-					<!-- <a href="2.php" id="start"><img id="startimg" class="wiggle-me" src="images/1/start.png" alt="<?php echo _('Start'); ?>"><?php echo _("Start"); ?></a> -->
-					<a href="2.php" id="start" class="wiggle-me"><?php echo _("Start"); ?></a>
-				</div>
+			<h1><button onclick="audio()" id="audio" value="Play"><i class="fa fa-play"></i></button><?php echo _("Welcome to the Heating and Cooling module"); ?>, <?php echo $user->getFirstName() . "!" ?> </h1>
+			<div id="hc" >
+				<img src="images/1/hc.png" id="banner"> 
+				<!-- <a href="2.php" id="start"><img id="startimg" class="wiggle-me" src="images/1/start.png" alt="<?php echo _('Start'); ?>"><?php echo _("Start"); ?></a> -->
+				<a href="2.php" id="start" class="wiggle-me"><?php echo _("Start"); ?></a>
 			</div>
-			<audio id="player" controls style="display: none"></audio>
+			<audio id="welcome" controls style="display: none" >
+				<source src="media/H&C Welcome.mp3" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Let's begin!") ?></strong></section></section>
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
-	<script src="scripts/AudioAligner.js"></script>
 
 	<?php include("setlocale.php"); ?>
 
 	<script type="text/javascript">
-		function audio() { 
-		    var txt = $('#audio').html();
-		    var audio = document.getElementById("player"); 
+		function audio() {
+		    var txt = $('#audio').val();
+		    var audio = document.getElementById("welcome");
 			if(txt == 'Play') {
 				audio.play();
-				$('#audio').html("Stop");
+				$('#audio').html('<i class="fa fa-pause"></i>');
+				$('#audio').val("Pause");
 			}
 			else {
 				audio.pause();
-				audio.currentTime = 0;
-				$('#audio').html("Play");
+				$('#audio').html('<i class="fa fa-play"></i>');
+				$('#audio').val("Play");
 			}
 			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#audio').html("Play");
+		        audio.currentTime = 0;
+				$('#audio').html('<i class="fa fa-play"></i>');
+		        $('#audio').val("Play");
 		    });
 		}
-
-		$(document).ready(function() {
-		    var audio = document.getElementById('player');
-			if (!(audio.canPlayType && (audio.canPlayType('audio/mp3') || audio.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var aligner = new AudioAligner(document.getElementById('target'), audio);
-			aligner.align('media/H&C Welcome.mp3', 'media/H&C Welcome.json');
-		});
 	</script>
 </body>
 </html>

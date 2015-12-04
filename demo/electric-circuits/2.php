@@ -41,7 +41,10 @@
 		#animation { width: 380px; height: 260px; position: absolute; bottom: -400px; left: -10px; }
 		#animation p { position: absolute; }
 		#rotate { background: url(assets/2/rotate.png) no-repeat; bottom: 120px; left: 255px; width: 95px; height: 105px; z-index: 2; }
-		@media screen and (max-width: 1250px) { #animation { bottom: -165%; left: -2%; } }
+		@media screen and (max-width: 1250px) {
+			#animation { bottom: -165%; left: -2%; }
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

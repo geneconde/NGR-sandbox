@@ -22,7 +22,7 @@
 
 	<style>
 		html, body {overflow: hidden;}
-    	.h1 { font-size:34px; margin: 0; padding: 5px 0 !important; color: #236994; font-weight: 600; margin-left: 40px; }
+    	h1 { font-size:34px; margin: 0; padding: 5px 0; color: #236994; font-weight: 600; }
 		.off { background-position: 0 0; }
 		.on { background-position: 0 -31px; }
 
@@ -49,6 +49,34 @@
 		#answer p { color: #fff; padding-top: 10px !important; }
 		#dp_swf_engine { display: none; }
 
+		#buttons .next { display: none; }
+
+		#qa {
+		    position: relative;
+		    top: -4px;
+		}
+		#fb {
+			margin-right: 5px;
+		    position: relative;
+		    top: -3px;
+		}
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
+		.choices-btn {
+			width: 35px;
+			float: left;
+			line-height: 30px;
+			margin-left: 13px;
+		}
+
 		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
 			.images { width: 615px; }
 			#answer { padding-top: 35px; }
@@ -60,48 +88,11 @@
 			div#answer {
 			    padding-top: 45px;
 			}
-		}	
-		#buttons .next { display: none; }
-
-		#choice1, #choice2, #choice3, #choice4 {
-		    background: orange;
-		    border-radius: 5px;
-		    border: 1px;
-		    cursor: pointer;
-		    min-width: 49px;
-		    margin-top: 10px;
-		}
-		#audio {
-		    background: orange;
-		    border-radius: 5px;
-		    border: 1px;
-		    cursor: pointer;
-		    position: absolute;
-		    top: 16px;
-	    	left: 1%;
-		    min-width: 49px;
-		}
-		#fb {
-		    background: orange;
-		    border-radius: 5px;
-		    border: 1px;
-		    cursor: pointer;
-		    min-width: 49px;
-		    margin-right: 5px;
-		    float: left;
-		    position: relative;
-		    top: 16px;
-		    left: 35px;
-		}
-		.word-data { -x-background: #ffffee; }
-		.current-word { color: orange; }
-		.aligned-word:hover {
-			cursor: pointer;
-			color: orange;
-		}
-		.btn-container {
-			position: absolute;
-    		left: 16px;
+			h1 { padding-top: 40px; }
+			.choices-btn {
+			    line-height: 23px;
+			    margin-left: 24px;
+			}
 		}
 	</style>
 </head>
@@ -109,18 +100,13 @@
 	<div class="wrap">
 		<div class="bg">
 			<div id="question">
-				<div id="target" class="grid_12">
-					<button onclick="audio()" id="audio">Play</button>
-					<p class="h1"><?php echo _("Checking what you already know... about heating and cooling"); ?></p>
-					<p><?php echo _("When you sit at the dinner table, you probably wait until your food gets cool enough to eat, but you drink your water while it is still cold."); ?></p>
-					<p><?php echo _("Click on <span class='blink'>ALL</span> the correct statements you think are related to why our food get cooler, but our drinks get warmer at the dinner table."); ?></p>
-				</div>
-				<audio id="player" controls style="display: none"></audio>
-				<audio id="playera" controls style="display: none"></audio>
-				<audio id="playerb" controls style="display: none"></audio>
-				<audio id="playerc" controls style="display: none"></audio>
-				<audio id="playerd" controls style="display: none"></audio>
-				<audio id="playerfb" controls style="display: none"></audio>
+				<h1><button id="qa" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Checking what you already know... about heating and cooling"); ?></h1>
+				<p><?php echo _("When you sit at the dinner table, you probably wait until your food gets cool enough to eat, but you drink your water while it is still cold."); ?></p>
+				<p><?php echo _("Click on <span class='blink'>ALL</span> the correct statements you think are related to why our food get cooler, but our drinks get warmer at the dinner table."); ?></p>
+
+				<audio id="3CWYK" controls style="display: none">
+					<source src="" type="audio/mpeg">
+				</audio>
 				
 				<div class="images">
 					<div><img src="images/3/a.jpg" alt="A"><p>A</p></div>
@@ -128,26 +114,26 @@
 					<div><img src="images/3/c.jpg" alt="C"><p>C</p></div>
 					<div><img src="images/3/d.jpg" alt="D"><p>D</p></div>
 				</div>
-				<div class="btn-container">
-					<button onclick="choice1()" id="choice1">Play</button><br>
-					<button onclick="choice2()" id="choice2">Play</button><br>
-					<button onclick="choice3()" id="choice3">Play</button><br>
-					<button onclick="choice4()" id="choice4">Play</button>
+				<div class='choices-btn'>
+					<button id="choice1" value="Play" class="audio-btn"><i class="fa fa-play"></i></button>
+					<button id="choice2" value="Play" class="audio-btn"><i class="fa fa-play"></i></button>
+					<button id="choice3" value="Play" class="audio-btn"><i class="fa fa-play"></i></button>
+					<button id="choice4" value="Play" class="audio-btn"><i class="fa fa-play"></i></button>
 				</div>
 				<section>
 					<form class="ac-custom ac-checkbox" autocomplete="off">
 						<ul>
-							<li><div id="targeta"><input id="cb1" name="cb1" type="checkbox"><label for="cb1">A. <?php echo _("Heat energy from the food flows into the cooler air around it."); ?></label></div>
-							<li><div id="targetb"><input id="cb2" name="cb2" type="checkbox"><label for="cb2">B. <?php echo _("Heat energy from the air flows into the cooler drink."); ?></label></div></li>
-							<li><div id="targetc"><input id="cb3" name="cb3" type="checkbox"><label for="cb3">C. <?php echo _("Cold energy from the drink flows into to the surrounding air."); ?></label></div></li>
-							<li><div id="targetd"><input id="cb4" name="cb4" type="checkbox"><label for="cb4">D. <?php echo _("Cold energy from the surrounding air flows into the food."); ?></label></div></li>
+							<li><input id="cb1" name="cb1" type="checkbox"><label for="cb1">A. <?php echo _("Heat energy from the food flows into the cooler air around it."); ?></label></li>
+							<li><input id="cb2" name="cb2" type="checkbox"><label for="cb2">B. <?php echo _("Heat energy from the air flows into the cooler drink."); ?></label></li>
+							<li><input id="cb3" name="cb3" type="checkbox"><label for="cb3">C. <?php echo _("Cold energy from the drink flows into the surrounding air."); ?></label></li>
+							<li><input id="cb4" name="cb4" type="checkbox"><label for="cb4">D. <?php echo _("Cold energy from the surrounding air flows into the food."); ?></label></li>
 						</ul>
 					</form>
 				</section>
 			</div>
 
 			<div id="answer">
-				<button onclick="fb()" id="fb">Play</button><p><?php echo _("If you marked A and B, you are on the right track. Heat energy only goes from something hot to something cold. As you go through this module, you may be surprised to find out that there really isn’t any such thing as <span class='key'>cold energy</span>."); ?></p>
+				<p><button id="fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("If you marked A and B, you are on the right track. Heat energy only goes from something hot to something cold. As you go through this module, you may be surprised to find out that there really isn’t any such thing as <span class='key'>cold energy</span>."); ?></p>
 			</div>
 		</div>
 	</div>
@@ -170,12 +156,12 @@
 		check = $('a.checkanswer'),
 		back = $('a.back'),
 		next = $('a.next');
+		var audio = document.getElementById("3CWYK");
 
 		$('.blink').blink({ speed: 500, blinks: 1000 });
 
 		check.on('click', function() {
 			var checkAnswer = $('input:checkbox:checked').length;
-			var audio = document.getElementById("player"); 
 			if(checkAnswer == '')
 			{
 				alert('<?php echo _("Please select your answers."); ?>');
@@ -188,11 +174,12 @@
 				back.fadeIn();
 
 				question.fadeOut(function() {
-					audio.pause();
-					audio.currentTime = 0;
 					$('.bg').css('background-image','url(images/3/bg2.jpg)');
 					answer.fadeIn();
 					window.location.hash = "#answer";
+				    audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 			}
 		});
@@ -208,6 +195,9 @@
 					check.fadeIn();
 				});
 				removeHash();
+			    audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -228,161 +218,48 @@
 			window.location.hash = "#answer";
 		}
 
-		function audio() { 
-		    var txt = $('#audio').html();
-		    var audio = document.getElementById("player"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#audio').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#audio').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#audio').html("Play");
-		    });
-		}
-
-		function choice1() { 
-		    var txt = $('#choice1').html();
-		    var audio = document.getElementById("playera"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#choice1').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#choice1').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#choice1').html("Play");
-		    });
-		}
-
-		function choice2() { 
-		    var txt = $('#choice2').html();
-		    var audio = document.getElementById("playerb"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#choice2').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#choice2').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#choice2').html("Play");
-		    });
-		}
-
-		function choice3() { 
-		    var txt = $('#choice3').html();
-		    var audio = document.getElementById("playerc"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#choice3').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#choice3').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#choice3').html("Play");
-		    });
-		}
-
-		function choice4() { 
-		    var txt = $('#choice4').html();
-		    var audio = document.getElementById("playerd"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#choice4').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#choice4').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#choice4').html("Play");
-		    });
-		}
-
-		function fb() { 
-		    var txt = $('#fb').html();
-		    var audio = document.getElementById("playerfb"); 
-			if(txt == 'Play') {
-				audio.play();
-				$('#fb').html("Stop");
-			}
-			else {
-				audio.pause();
-				audio.currentTime = 0;
-				$('#fb').html("Play");
-			}
-			audio.addEventListener("ended", function() {
-		          audio.currentTime = 0;
-		          $('#fb').html("Play");
-		    });
-		}
-
 		$(document).ready(function() {
-		    var audio = document.getElementById('player');
-			if (!(audio.canPlayType && (audio.canPlayType('audio/mp3') || audio.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var aligner = new AudioAligner(document.getElementById('target'), audio);
-			aligner.align('media/3CWYK.mp3', 'media/3CWYK.json');
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("3CWYK");
+		    	if(id=='qa'){
+		    		if($("#3CWYK").attr('src') != "media/3CWYK.mp3")
+			    		$('#3CWYK').attr('src', "media/3CWYK.mp3");
+			    } else if (id=='choice1') {
+		    		if($("#3CWYK").attr('src') != "media/3aCWYK.mp3")
+			    		$('#3CWYK').attr('src', "media/3aCWYK.mp3");
+			    } else if (id=='choice2') {
+		    		if($("#3CWYK").attr('src') != "media/3bCWYK.mp3")
+			    		$('#3CWYK').attr('src', "media/3bCWYK.mp3");
+			    } else if (id=='choice3') {
+		    		if($("#3CWYK").attr('src') != "media/3cCWYK.mp3")
+			    		$('#3CWYK').attr('src', "media/3cCWYK.mp3");
+			    } else if (id=='choice4') {
+		    		if($("#3CWYK").attr('src') != "media/3dCWYK.mp3")
+			    		$('#3CWYK').attr('src', "media/3dCWYK.mp3");
+			    } else if (id=='fb') {
+		    		if($("#3CWYK").attr('src') != "media/3FB.mp3")
+			    		$('#3CWYK').attr('src', "media/3FB.mp3");
+			    }
 
-
-		    var choice1 = document.getElementById('playera');
-			if (!(choice1.canPlayType && (choice1.canPlayType('audio/mp3') || choice1.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var alignera = new AudioAligner(document.getElementById('targeta'), choice1);
-			alignera.align('media/3aCWYK.mp3', 'media/3aCWYK.json');
-
-
-		    var choice2 = document.getElementById('playerb');
-			if (!(choice2.canPlayType && (choice2.canPlayType('audio/mp3') || choice2.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var alignerb = new AudioAligner(document.getElementById('targetb'), choice2);
-			alignerb.align('media/3bCWYK.mp3', 'media/3bCWYK.json');
-
-
-		    var choice3 = document.getElementById('playerc');
-			if (!(choice3.canPlayType && (choice3.canPlayType('audio/mp3') || choice3.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var alignerc = new AudioAligner(document.getElementById('targetc'), choice3);
-			alignerc.align('media/3cCWYK.mp3', 'media/3cCWYK.json');
-
-
-		    var choice4 = document.getElementById('playerd');
-			if (!(choice4.canPlayType && (choice4.canPlayType('audio/mp3') || choice4.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var alignerd = new AudioAligner(document.getElementById('targetd'), choice4);
-			alignerd.align('media/3dCWYK.mp3', 'media/3dCWYK.json');
-
-
-		    var fb = document.getElementById('playerfb');
-			if (!(fb.canPlayType && (fb.canPlayType('audio/mp3') || fb.canPlayType('audio/mpeg')) )) {
-				alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-			}
-			var alignerfb = new AudioAligner(document.getElementById('answer'), fb);
-			alignerfb.align('media/3FB.mp3', 'media/3FB.json');
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else if (txt == 'Pause') {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#3CWYK').bind("ended", function() {
+			        $('#3CWYK').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
 		});
 	</script>
 	

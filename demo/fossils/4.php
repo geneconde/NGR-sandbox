@@ -26,28 +26,36 @@
 <script src="scripts/responsiveslides.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #A89071; }
-.wrap { border-color: #c2a482; }
-.bg { background-image: url(images/4/bg.jpg); }
+	h1 { color: #A89071; }
+	.wrap { border-color: #c2a482; }
+	.bg { background-image: url(images/4/bg.jpg); }
 
-#screen1 .slider { width: 330px; margin: 20px auto; }
-#screen1 .slider img { margin-bottom: 10px; }
-#screen1 .slider .caption { color: #000; text-align: center; }
+	#screen1 .slider { width: 330px; margin: 20px auto; }
+	#screen1 .slider img { margin-bottom: 10px; }
+	#screen1 .slider .caption { color: #000; text-align: center; }
 
-#screen2 .grid { width: 760px; padding: 0; }
-#screen2 .grid li { float: left; width: 340px; }
-#screen2 .grid figcaption { background: #c5e0c4; color: #000; width: 290px; height: auto; padding: 10px; z-index: 10; }
-#screen2 .grid figcaption p { padding: 0; margin: 0; font-size: 22px; }
-#screen2 .grid figcaption span { display: inline; }
-#screen2 .grid figcaption span:before { content: ''; }
+	#screen2 .grid { width: 100%; padding: 0; }
+	#screen2 .grid li { width: 40%; }
+	#screen2 .grid figcaption { background: #c5e0c4; color: #000; width: 290px; height: auto; padding: 10px; z-index: 10; }
+	#screen2 .grid figcaption p { padding: 0; margin: 0; font-size: 22px; }
+	#screen2 .grid figcaption span { display: inline; }
+	#screen2 .grid figcaption span:before { content: ''; }
+	figcaption a { display: none !important; }
 
-#screen2 p:first-child { padding-top: 15px; }
-
-#screen2 { display: none; }
-#buttons .next { display: none; }
-<?php if($language == "es_ES") { ?>
-	#screen2 .grid figcaption p { font-size: 20px; }
-<?php } ?>
+	#screen2 { display: none; }
+	#buttons .next { display: none; }
+	<?php if($language == "es_ES") { ?>
+		#screen2 .grid figcaption p { font-size: 20px; }
+	<?php } ?>
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		#screen2 p:first-child { padding-top: 40px; }
+		#screen2 .grid li { width: 30%; }
+	}
+	@media only screen and (max-width: 1250px) {
+		#screen1 p { font-size: 22px; }
+	}
 </style>
 </head>
 <body>
@@ -71,6 +79,7 @@ h1 { color: #A89071; }
 							<img src="images/4/s2a.jpg">
 							<figcaption>
 							<p><?php echo _("Sometimes the actual organism or parts of the organism are preserved. This kind of fossil is called a <span class='key'>true form fossil</span>. Insects preserved in tree sap are true form fossils. So are woolly mammoths found trapped and frozen in glacial ice. These true form fossils are very rare."); ?></p>
+							<a href=""></a>
 							</figcaption>
 						</figure>
 					</li>
@@ -79,6 +88,7 @@ h1 { color: #A89071; }
 							<img src="images/4/s2b.jpg">
 							<figcaption>
 							<p><?php echo _("A fossil can also consist of some mark or evidence of an organism such as a footprint, a nest or even its waste (poop). This type of fossil is called a <span class='key'>trace fossil</span>."); ?></p>
+							<a href=""></a>
 							</figcaption>
 						</figure>
 					</li>
@@ -87,6 +97,7 @@ h1 { color: #A89071; }
 							<img src="images/4/s2c.jpg">
 							<figcaption>
 							<p><?php echo _("In some cases the remains of an organism trapped in the rock formation just leave an impression of the organism. This type of fossil is called a <span class='key'>mold</span>."); ?></p>
+							<a href=""></a>
 							</figcaption>
 						</figure>
 					</li>
@@ -95,6 +106,7 @@ h1 { color: #A89071; }
 							<img src="images/4/s2d.jpg">
 							<figcaption>
 							<p><?php echo _("If the mold then later fills with other materials, the fossil formed is called a <span class='key'>cast</span>."); ?></p>
+							<a href=""></a>
 							</figcaption>
 						</figure>
 					</li>
@@ -149,7 +161,6 @@ h1 { color: #A89071; }
 		}
 	});
 	</script>
-
 	<script src="scripts/toucheffects.js"></script>
 	<script src="scripts/jpreloader.js"></script>
 	<?php require("setlocale.php"); ?>

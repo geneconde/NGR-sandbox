@@ -172,4 +172,5 @@ html[dir="rtl"] h1, html[dir="rtl"] p, html[dir="rtl"] h2 { text-align: right; }
 }
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
 	h1, #screen2, #screen3, #screen4, #assignment { padding-top: 35px; }
+	.wrap { max-width: 100%; }
 }

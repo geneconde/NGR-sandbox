@@ -32,33 +32,46 @@
 
 	<style>
 		h1 { text-align: center; color: #F90074; margin-top: 3%; font-size: 1.4em;}
-		
 		.wrap { border-color: #F34345; }
 		.bg { background-image: url(assets/1/1.jpg); overflow: hidden;}
-
 		#buttons .next { display: none; }
-		
-		#start { 
-			position: absolute;
-			top: 450px;
-			left: 41%;
-			width: 105px;
-			height: 95px;
-			display: block;
-			padding: 5px 0px 10px 40px;
-			font-size: 28px;
-			color: #F90074;
-			background: url('assets/1/Start.png') top left no-repeat;
-			background-size: 100%;
+
+		#start {
+		    position: fixed;
+		    bottom: 16%;
+		    left: 44.5%;
+		    width: 105px;
+		    height: 95px;
+		    display: block;
+		    padding: 5px 0px 10px 40px;
+		    font-size: 28px;
+		    color: #F90074;
+		    background: url('assets/1/Start.png') top left no-repeat;
+		    background-size: 100%;
 		}
-		@media only screen and (min-width: 768px) and (max-width: 1250px) { .bg{ background-size: 100% calc(100% - 35px)!important; background-position: 0 35px; } #start { top: 415px; }  }
 		
 		@-webkit-keyframes pulse { 25% { -webkit-transform: scale(1.1); transform: scale(1.1); } 75% { -webkit-transform: scale(0.9); transform: scale(0.9); } }
 		@keyframes pulse { 25% { -webkit-transform: scale(1.1); transform: scale(1.1); } 75% { -webkit-transform: scale(0.9); transform: scale(0.9); } }
 
 		.pulse { display: inline-block; -webkit-transform: translateZ(0); transform: translateZ(0); box-shadow: 0 0 1px rgba(0, 0, 0, 0); }
 		.pulse:hover, .pulse:focus, .pulse:active { -webkit-animation-name: pulse; animation-name: pulse; -webkit-animation-duration: 1s; animation-duration: 1s; -webkit-animation-timing-function: linear; animation-timing-function: linear; -webkit-animation-iteration-count: infinite; animation-iteration-count: infinite; }
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 32px)!important; background-position: 0 34px; }
+			#start { bottom: 14%; left: 41%; }
+		}
+		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+			#start { bottom: 19%; }
+		}
 
+		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+			#start {
+				left: 42%;
+			    width: 127px;
+			    text-align: center;
+			    padding: 20px;
+			    line-height: 20px;
+			}
+		}
 	</style>
 </head>
 

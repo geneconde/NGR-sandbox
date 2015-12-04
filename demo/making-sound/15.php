@@ -46,7 +46,7 @@
 			.lang-menu{background-color: #A23763; }
 			.lang-menu a{background-color: #A23763; }
 			#buttons{ background-color: #A23763; }
-			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; }
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
 		}
 	</style>
 </head>

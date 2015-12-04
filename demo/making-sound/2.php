@@ -26,13 +26,14 @@
 	<?php endif; ?>
 
 	<style>
-
 		<?php if ($language == 'ar_EG') : ?>
 			h1, p { text-align: right; }
 		<?php endif; ?>
 		.container_12 { height: 100%; }
 		.bg { background-image: url(assets/2/bg.jpg); overflow: hidden; }
-
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

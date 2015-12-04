@@ -72,7 +72,10 @@
 
 		#buttons .next { display: none; }
 		
-		@media only screen and (min-device-width: 768px) and (max-width: 1250px) { h1 { font-size: 27px; } #answer { bottom: -360px; } .bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; } }
+		@media only screen and (min-device-width: 768px) and (max-width: 1250px) {
+			h1 { font-size: 27px; } #answer { bottom: -360px; }
+			.bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

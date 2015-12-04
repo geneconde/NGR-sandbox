@@ -87,6 +87,17 @@
 			}
 		}
 
+		.audio-btn {
+		    background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    vertical-align: middle;
+		    margin-right: 5px;
+		    margin-bottom: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
@@ -94,7 +105,7 @@
 		<div class="bg">
 			<div>
 				<div id="screen1">
-					<h1><?php echo _("Using what you know... about heating and cooling... to solve a problem"); ?></h1>
+					<h1><button id="problem" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Using what you know... about heating and cooling... to solve a problem"); ?></h1>
 
 					<h2 class="center"><?php echo _("The Situation"); ?></h2>
 					
@@ -107,11 +118,14 @@
 				</div>
 				
 				<div id="screen2">
-					<h2 class="center"><?php echo _("Your Task"); ?></h2>			
+					<h2 class="center"><button id="task" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Your Task"); ?></h2>			
 					<p class="instruction"><?php echo _("How would you go about installing the panels to keep the company building cool in the hot summer days? Explain why your installation plan will keep the building cool."); ?></p>
 					
 					<textarea id="answer" cols="60" rows="11" placeholder="<?php echo _("Click here to start typing your answer..."); ?>"></textarea>
 				</div>
+				<audio id="player" controls style="display: none">
+					<source src="" type="audio/mpeg">
+				</audio>
 			</div>
 		</div>
 	</div>
@@ -129,7 +143,7 @@
 	<script src="scripts/saveanswer.js"></script>
 	<script src="scripts/rightclick.js"></script>
 	<script>
-
+		var audio = document.getElementById("player");
 		var answered = <?php echo $answered; ?>;
 		
 		var check = $('a.checkanswer'),
@@ -144,6 +158,9 @@
 			screen1.fadeOut(function() { 
 				screen2.fadeIn(); 
 				window.location.hash = "#task";
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			});
 			more.fadeOut(function() { next.fadeIn(); });
 		});
@@ -155,6 +172,9 @@
 					screen1.fadeIn();
 					more.fadeIn(function() { next.fadeOut(); });
 					removeHash();
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				
 			}
@@ -187,6 +207,39 @@
 				answered = 1;
 			}
 		}
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+				if(id=='problem'){
+			    	if($("#player").attr('src') != "media/12problem.mp3")
+				    	$('#player').attr('src', "media/12problem.mp3");
+			    } else if (id=='task') {
+			    	if($("#player").attr('src') != "media/12task.mp3")
+				    	$('#player').attr('src', "media/12task.mp3");
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

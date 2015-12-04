@@ -38,11 +38,8 @@
 	<?php endif; ?>
 
 	<style>
-
 		h1 { color: #005a8f; }
-
 		h2 { color: #128575;}
-		
 		.bg { background-image: url(assets/qq-and-qc-bg.jpg); }
 		#question img {}
 
@@ -57,6 +54,9 @@
 		html[dir=rtl] .ac-custom svg { right: 9px; left: 98%; }
 
 		#buttons .next { display: none; }
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

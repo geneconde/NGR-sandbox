@@ -36,13 +36,9 @@
 	<?php endif; ?>
 
 	<style>
-
 		h1 { color: #005a8f; }
-
 		h2 { color: #128575;}
-		
 		.bg { background-image: url(assets/qq-and-qc-bg.jpg); }
-
 		#container { position: relative; z-index: 99; margin-top: -40px; left: 5%; }
 
 		#col1 { position: absolute; top: 80px; left: 40px; width: 280px !important; }
@@ -127,7 +123,9 @@
 		    border: 1px solid black;
 		    margin-left: -25px;
 		}
-
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 

@@ -29,16 +29,31 @@
 		#dp_swf_engine { display: none; }
 		@media only screen and (max-width: 1250px) {
 			h2, p, li {font-size:20px !important;}
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
 		}
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 <body>
 	<div class="wrap">
 		<div class="bg">
 			<div>
-				<h1><?php echo _("Summarizing big ideas... about heating and cooling"); ?></h1>
-				<p><?php echo _("<span class='key'>Heat</span> is a form of energy. Heat can be produced from other forms of energy when wood or gas burns. Heat is also produced by <span class='key'>friction</span> when two objects or materials rub together. Heat energy causes the tiny particles of matter to vibrate or move about.  The more heat that is added to the particles, the faster the particles will vibrate or move. <span class='key'>Temperature</span> is a measure of how fast or slowly the particles are moving. Heat is the measure of the total energy of the particles in a system. Heat energy always moves from something at a high temperature to something at a lower temperature. Heat energy can move from one place to another by means of <span class='key'>conduction</span>, <span class='key'>convection</span> or <span class='key'>radiation</span>. Heating and cooling both involve the movement of heat energy.  Things get hotter when heat energy is added and things get colder when heat energy is taken away. Heat energy can be prevented from moving from place to place with <span class='key'>insulation</span>."); ?></p>
+				<h1><button id="audio" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Summarizing big ideas... about heating and cooling"); ?></h1>
+				<p><?php echo _("<span class='key'>Heat</span> is a form of energy. Heat can be produced from other forms of energy such when wood or gas burns. Heat is also produced by <span class='key'>friction</span> when two objects or materials rub together. Heat energy causes the tiny particles of matter to vibrate or move about.  The more heat that is added to the particles, the faster the particles will vibrate or move. <span class='key'>Temperature</span> is a measure of how fast or slowly the particles are moving. Heat is the measure of the total energy of the particles in a system. Heat energy always moves from something at a high temperature to something at a lower temperature. Heat energy can move from one place to another by means of <span class='key'>conduction</span>, <span class='key'>convection</span> or <span class='key'>radiation</span>. Heating and cooling both involve the movement of heat energy. Things get hotter when heat energy is added and things get colder when heat energy is taken away. Heat energy can be prevented from moving from place to place with <span class='key'>insulation</span>."); ?></p>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="media/13sum.mp3" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 	
@@ -51,7 +66,29 @@
 
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
-	<script src="scripts/rightclick.js"></script>
 	<?php include("setlocale.php"); ?>
+	<script>
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+			    var txt = $('#audio').val();
+			    var audio = document.getElementById("player");
+				if(txt == 'Play') {
+					audio.play();
+					$('#audio').html('<i class="fa fa-pause"></i>');
+					$('#audio').val("Pause");
+				}
+				else {
+					audio.pause();
+					$('#audio').html('<i class="fa fa-play"></i>');
+					$('#audio').val("Play");
+				}
+				audio.addEventListener("ended", function() {
+			        audio.currentTime = 0;
+					$('#audio').html('<i class="fa fa-play"></i>');
+			        $('#audio').val("Play");
+			    });
+			});
+		});
+	</script>
 </body>
 </html>

@@ -99,44 +99,19 @@
 		.grid_12 { margin-left: 1.5%; }
 
 		@media only screen and (orientation:landscape) and (max-width: 768px){
-			table {
-			    width: 728px !important;
-			}
-			#question2 {
-			    margin-top: 0px !important;
-			}
+			table { width: 728px !important; }
+			#question2 { margin-top: 0px !important; }
 		}
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
+			.bg { background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			td .grab, .grabbing { padding-bottom: 13px; }
+			.ac-custom li { padding: 6px !important; }
+			body, h2 { font-size: 18px !important; }
 		}
 
 		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
-			table {
-			    width: 722px !important;
-			}
+			table { width: 722px !important; }
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853 !important; } }
-
-		@media (max-device-width: 1024px) and (min-device-width: 768px){
-			#buttons {
-				background-color: #468853 !important;
-			}
-		}
-		@media (max-width: 1250px ){
-			.ac-custom li {
-			    padding: 6px !important;
-			}
-			body, h2 {
-			    font-size: 18px !important;
-			}
-			#buttons {
-			    background-color: #468853 !important;
-			}
-		}
-
-
 	</style>
 </head>
 

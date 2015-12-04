@@ -25,6 +25,7 @@
 	<link rel="stylesheet" href="css/locale.css">
 	<link rel="stylesheet" href="css/jpreloader.css">
 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
@@ -73,6 +74,10 @@
 			from { color: transparent; }
 			to { color: #f06a45; }
 		}
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+			h1 { padding-top: 50px; }
+		}
 	</style>
 </head>
 
@@ -101,7 +106,7 @@
 		</div>
 	</div>
 	<div id="buttons">
-		<a href="21.php" class="back" title="<?php echo _("Back"); ?>"><?php echo _("Back"); ?></a>
+		<a href="21.php" class="back" title="<?php echo _("Back"); ?>"><i class="fa fa-arrow-left"></i></a>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("You're done!"); ?></strong></section></section>

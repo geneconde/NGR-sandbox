@@ -56,7 +56,7 @@
 
 		#buttons .next { display: none; }
 
-		table { border: 0; margin: 0 auto; padding: 0; font-weight: normal; border-collapse: separate; border-spacing: 10px 5px; width: 780px; border-color: #ec6666;}
+		table { border: 0; margin: 0 auto; padding: 0; font-weight: normal; border-collapse: separate; border-spacing: 10px 5px; width: 80%; border-color: #ec6666;}
 		th { text-align: left; font-weight: normal; width: 33%;  border-color: #ec6666;}
 		td { text-align: center; }
 		.margin { text-align: center; }
@@ -81,21 +81,15 @@
 		td p { font-size: 16px; }
 		#answer td p:last-child { display: none; }
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
 		}
 		<?php if($language=='zh_CN') { ?>
 			.td_drag p, .drop p { padding-top: 16px !important; padding-bottom: 16px !important; }
 			.grab { padding-bottom: 16px !important; padding-top: 16px !important; }
 		<?php } ?>
+		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+			table tr:nth-child(2) .drop, table tr:nth-child(3) .drop { min-height: 72px; }
+		}
 	</style>
 </head>
 

@@ -23,60 +23,60 @@
 <script src="scripts/global.js"></script>
 <script src="scripts/save-answer.js"></script>
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/9/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/9/bg.jpg); }
 
-#question1 ul { margin: 20px auto 0; width: 800px; list-style: none; padding: 0; }
-#question1 li { float: left; width: 180px; margin-right: 26px; }
-#question1 li:last-child { margin-right: 0; }
-#question1 input[type=checkbox] { display: none; }
-#question1 label { font-size: 24px; display: block; text-align: center; cursor: pointer; width: 180px; }
-#question1 input[type=checkbox] + label img { border: 4px solid #dbd2aa; -webkit-transition: all .3s ease; border-radius: 5px !important; width: 180px; }
-#question1 input[type=checkbox]:checked + label img {-webkit-transition: all .3s ease; border: 4px solid #c45a63; -webkit-backface-visibility: hidden; }
-#question1 input[type=checkbox] + label span { color: #000; -webkit-transition: all .3s ease; }
-#question1 input[type=checkbox]:checked + label span { color: #000; -webkit-transition: all .3s ease; color: #c45a63; -webkit-backface-visibility: hidden;  ;}
-#question1 input[type=checkbox] + label { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
-#question1 input[type=checkbox]:checked + label {}
+	#question1 ul { margin: 20px auto 0; width: 100%; list-style: none; padding: 0; text-align: center; }
+	#question1 li { display: inline-block; width: 20%; margin-right: 26px; }
+	#question1 li:last-child { margin-right: 0; }
+	#question1 input[type=checkbox] { display: none; }
+	#question1 label { font-size: 24px; display: block; text-align: center; cursor: pointer; width: 100%; }
+	#question1 input[type=checkbox] + label img { border: 4px solid #dbd2aa; -webkit-transition: all .3s ease; border-radius: 5px !important; width: 100%; }
+	#question1 input[type=checkbox]:checked + label img {-webkit-transition: all .3s ease; border: 4px solid #c45a63; -webkit-backface-visibility: hidden; }
+	#question1 input[type=checkbox] + label span { color: #000; -webkit-transition: all .3s ease; }
+	#question1 input[type=checkbox]:checked + label span { color: #000; -webkit-transition: all .3s ease; color: #c45a63; -webkit-backface-visibility: hidden;  ;}
+	#question1 input[type=checkbox] + label { -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+	#question1 input[type=checkbox]:checked + label {}
 
-#question2 ol { list-style: none; padding: 0; margin: 15px 0 0 20px; }
-#question2 li { padding: 6px 0; }
-#question2 .ac-custom { width: 100%; }
-#question2 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
-#question2 .ac-custom input[type="radio"] {}
-#question2 .ac-custom input[type="radio"]:checked + label { color: #c45a63; }
-#question2 .ac-custom svg { height: 42px; width: 38px; left: 1px; margin-top: -23px; }
-#question2 .ac-custom svg path { stroke: #c45a63; }
-#question2 .ac-custom label::before { background: #c45a63; height: 20px; width: 20px; margin-top: -12px;}
+	#question2 ol { list-style: none; padding: 0; margin: 15px 0 0 20px; }
+	#question2 li { padding: 6px 0; }
+	#question2 .ac-custom { width: 100%; }
+	#question2 .ac-custom label { color: #000; padding-left: 45px; font-size: 24px; }
+	#question2 .ac-custom input[type="radio"] {}
+	#question2 .ac-custom input[type="radio"]:checked + label { color: #c45a63; }
+	#question2 .ac-custom svg { height: 42px; width: 38px; left: 1px; margin-top: -23px; }
+	#question2 .ac-custom svg path { stroke: #c45a63; }
+	#question2 .ac-custom label::before { background: #c45a63; height: 20px; width: 20px; margin-top: -12px;}
 
-#answers { display: none; }
-#answers p { text-align: center; }
+	#answers { display: none; }
+	#answers p { text-align: center; }
 
-#answer1 .answer { text-align: center; margin: 10px 0; }
-#answer1 .answer img { display: inline-block; margin-right: 20px; width: 100px !important; }
-#answer1 .answer img:last-child { margin-right: 0; }
+	#answer1 .answer { text-align: center; margin: 10px 0; }
+	#answer1 .answer img { display: inline-block; margin-right: 20px; width: 100px !important; }
+	#answer1 .answer img:last-child { margin-right: 0; }
 
-#question2, #answer2 { margin-top: 25px; }
-#buttons .next { display: none; }
-<?php if($language == "es_ES") { ?>
-	#answers p { font-size: 21px; }
-<?php } ?>
+	#question2, #answer2 { margin-top: 25px; }
+	#buttons .next { display: none; }
+	<?php if($language == "es_ES") { ?>
+		#answers p { font-size: 21px; }
+	<?php } ?>
 
-html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
-html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom label::before { right: 36px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
-html[dir="rtl"] li label { text-align: right; }
+	html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
+	html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom label::before { right: 36px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
+	html[dir="rtl"] li label { text-align: right; }
 
-	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
-	#question1 li { margin-right: 5px; }
-	#question1 input[type=checkbox] + label img {width: 175px;}
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		h2 { margin: 0px; }
+		#questions li { padding: 4px 0; }
+		#question1 li { width: 16%; }
+		.feedback p { line-height: 20px; }
+		#answers p { font-size: 22px; }
 	}
-
-	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1) {
-	#answers p { margin-top:-7px; }
-	}	
-
 </style>
 </head>
 <body>

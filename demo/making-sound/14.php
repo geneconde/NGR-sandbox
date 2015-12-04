@@ -24,6 +24,7 @@
 	<link rel="stylesheet" href="css/jpreloader.css">
 	<link rel="stylesheet" href="css/modalcomponent.css">
 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
 	<style>
 		h1 { margin-left: 3%; margin-right: 3%; }
@@ -61,6 +62,9 @@
 		}
 
 		button:hover { background-color: #E495A9; }
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 
@@ -223,8 +227,8 @@
 	</div>
 
 	<div id="buttons">
-		<a href="13.php" class="back" title="<?php echo _("Back"); ?>"><?php echo _("Back"); ?></a>
-		<a href="15.php" class="next" title="<?php echo _("Next"); ?>"><?php echo _("Next"); ?></a>
+		<a href="13.php" class="back" title="<?php echo _("Back"); ?>"><i class="fa fa-arrow-left"></i></a>
+		<a href="15.php" class="next" title="<?php echo _("Next"); ?>"><i class="fa fa-arrow-right"></i></a>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Words and explanations"); ?></strong></section></section>

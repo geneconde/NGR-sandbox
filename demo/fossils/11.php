@@ -22,10 +22,15 @@
 <script src="scripts/jquery.blink.min.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #766427; }
-.wrap { border-color: #e0ce8e; }
-.bg { background-image: url(images/11/bg.jpg); }
-p { font-size: 20px; }
+	h1 { color: #766427; }
+	.wrap { border-color: #e0ce8e; }
+	.bg { background-image: url(images/11/bg.jpg); }
+	p { font-size: 22px; }
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+		p { font-size: 20px; }
+	}
 </style>
 </head>
 <body>

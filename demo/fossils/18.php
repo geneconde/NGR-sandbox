@@ -23,45 +23,45 @@
 <script src="scripts/global.js"></script>
 <script src="scripts/save-answer.js"></script>
 <style>
-h1 { color: #96927c; }
-.wrap { border-color: #96927c; }
-.bg { background-image: url(images/18/bg.jpg); }
+	h1 { color: #96927c; }
+	.wrap { border-color: #96927c; }
+	.bg { background-image: url(images/18/bg.jpg); }
 
-#question li { padding: 8px 0; }
-#question .clear form { width: 300px; float: left; margin-left: 60px; }
-#question .clear img { float: right; margin-right: 100px; }
+	#question li { padding: 8px 0; }
+	#question .clear form { width: 40%; float: left; }
+	#question .clear img { float: right; margin-right: 5px; width: 45%; }
 
-.ac-custom { width: 100%; padding: 0 !important; }
-.ac-custom label { color: #000; padding-left: 50px; font-size: 24px; }
-.ac-custom input[type="radio"] { vertical-align: top; margin-top: -10px; }
-.ac-custom input[type="radio"]:checked + label { color: #c45a63; }
-.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
-.ac-custom label::before { border: 2px solid #c45a63; }
-.ac-custom svg path { stroke: #c45a63; }
-.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
+	.ac-custom { width: 100%; padding: 0 !important; }
+	.ac-custom label { color: #000; padding-left: 50px; font-size: 24px; }
+	.ac-custom input[type="radio"] { vertical-align: top; margin-top: -10px; }
+	.ac-custom input[type="radio"]:checked + label { color: #c45a63; }
+	.ac-custom svg { height: 20px; width: 30px; left: 3px; margin-top: -10px; }
+	.ac-custom label::before { border: 2px solid #c45a63; }
+	.ac-custom svg path { stroke: #c45a63; }
+	.ac-custom label::before { height: 35px; width: 35px; margin-top: -18px;}
 
-#answer { display: none; text-align: center; }
-#answer p { text-align: center; }
-#answer > img { margin: 20px 0 0; }
+	#answer { display: none; text-align: center; }
+	#answer p { text-align: center; }
+	#answer > img { margin: 20px 0 0; width: 40% }
 
-.answer span { display: block; }
-.feedback { font-size: 24px; text-align: center; }
-.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
+	.answer span { display: block; }
+	.feedback { font-size: 24px; text-align: center; }
+	.feedback img { vertical-align: middle; background: 0 !important; padding: 0 !important; margin-top: 0 !important; }
 
-#buttons .next { display: none; }
+	#buttons .next { display: none; }
 
-html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
-html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
-html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
-html[dir="rtl"] li label { text-align: right; width:500px;}
-html[dir="rtl"] #question .clear img {float: left;margin-left: 100px;margin-right: 0;}
-html[dir="rtl"] #question .clear form{float: right;margin-right: 20px;margin-left: 0;}
+	html[dir="rtl"] .ac-custom label { padding: 0 80px 0 0; }
+	html[dir="rtl"] .ac-custom input[type="checkbox"] { right: 35px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom label::before { right: 26px; margin-top: -20px; }
+	html[dir="rtl"] .ac-custom svg { right: 27px; margin-top: -13px; }
+	html[dir="rtl"] li label { text-align: right; width:500px;}
+	html[dir="rtl"] #question .clear img {float: left;margin-left: 100px;margin-right: 0;}
+	html[dir="rtl"] #question .clear form{float: right;margin-right: 20px;margin-left: 0;}
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
-	#question .clear form {margin-left: 0;}
-	#question .clear img { margin-right: 0;}
-}
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+	}
 </style>
 </head>
 <body>

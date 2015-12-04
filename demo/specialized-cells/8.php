@@ -33,10 +33,6 @@
 	<?php endif; ?>
 
 	<style>
-		.container_12 .grid_12 {
-		    padding-top: 5% !important;
-		}
-
 		h1 { color: #008ae3; }
 		p {margin: 0px;}
 		
@@ -51,7 +47,7 @@
 		#screen3 #md_p2t {margin: 10px 0}
 		.video_right { float: right; border-radius: 5px; }
 		.image_right { float: right; border-radius: 5px; }
-		.vbg { background-color: #000; padding: 0px 0px 0px 0px; margin-top: 20px; margin-right: 10px; }		
+		.vbg { background-color: #000; padding: 0px 0px 0px 0px; margin-top: 5px; margin-right: 10px; }		
 		img, video { margin: 0; margin-top: ; }
 		.img { border: 2px solid #000; margin-right: 16px; }
 		.img2 { border: 2px solid #056EE6; margin-right: 20px; margin-top: 8px; }
@@ -61,45 +57,44 @@
 		.space { padding-top: 5px; }
 		.grid_12 { margin-left: 1.5% }
 
-
 		#s2a { position: relative; }
 		#s2a h4 { position: absolute; font-size: 18px; z-index: 2; text-align: center; line-height: 0.5; color: #000; }
 
 		#s2a h4:first-child {
-		    right: 344px;
-		    top: 89px;
-		}
-		#s2a h4:nth-child(4) {
-		    right: 213px;
-		    top: 30px;
-		}
-		#s2a h4:nth-child(5) {
-		    right: 221px;
-		    top: 59px;
+			right: 368px;
+			top: 106px;
 		}
 		#s2a h4:nth-child(2) {
 		    right: 342px;
-		    top: 133px;
+    		top: 150px;
+		}
+		#s2a h4:nth-child(3) {
+			right: 215px;
+			top: 195px;
+		}
+		#s2a h4:nth-child(4) {
+		    right: 260px;
+		    top: 14px;
+		}
+		#s2a h4:nth-child(5) {
+		    right: 210px;
+		    top: 75px;
 		}
 		#s2a h4:nth-child(6) {
 		    right: 158px;
 		    top: 110px;
 		}
 		#s2a h4:nth-child(7) {
-		    right: 131px;
-		    top: 130px;
-		}
-		#s2a h4:nth-child(3) {
-		    right: 215px;
-		    top: 188px;
+		    right: 108px;
+		    top: 140px;
 		}
 		#s2a h4:nth-child(8) {
-		    right: 98px;
-		    top: 160px;
+		    right: 110px;
+		    top: 169px;
 		}
 		#s2a h4:nth-child(9) {
-		    right: 89px;
-		    top: 224px;
+		    right: 65px;
+		    top: 126px;
 		}
 		#s2a h4:nth-child(10) {
 		    right: 42px;
@@ -113,29 +108,10 @@
 
 		#buttons .next { display: none; }
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#s2a h4:nth-child(4) { left: 58% !important; }
-			#s2a h4:nth-child(5) { left: 63% !important; }
-			#s2a h4:first-child {  left: 44% !important; }
-			#s2a h4:nth-child(2) { left: 46% !important; }
-			#s2a h4:nth-child(6) { left: 67% !important; }
-			#s2a h4:nth-child(7) { left: 68% !important; }
-			#s2a h4:nth-child(10) { left: 83% !important; }
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#s2a h4:nth-child(4) { left: 69% !important; }
-			#s2a h4:nth-child(5) { left: 72% !important; }
-			#s2a h4:first-child {  left: 58% !important; }
-			#s2a h4:nth-child(2) { left: 60% !important; }
-			#s2a h4:nth-child(6) { left: 74% !important; }
-			#s2a h4:nth-child(7) { left: 77% !important; }
-			#buttons { background-color: #468853 !important; }
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			#s2a, #screen3 { margin-top: 40px; }
+			div#screen2 p { line-height: 30px; }
+			.image_left { height: 520px; }
 		}
 		<?php if($language == "zh_CN") { ?>
 			#s2a h4:first-child { right: 345px; top: 95px; }
@@ -159,12 +135,9 @@
 							<?php echo _("To play the media you will need to either update your browser to a recent version or update your"); ?> <a href="http://get.adobe.com/flashplayer/" target="_blank"><?php echo _("Flash plugin"); ?></a>.
 						</div>
 
-					<p><?php echo _("Right now, you're using some sort of electrical device. Maybe it's a computer, maybe a tablet, or even a phone. But you are seeing this image, thinking about what is written, and then responding by touching a screen or moving a mouse."); ?></p>
-					<p  id = "md_p2o"><?php echo _("The device you are using is an electrical system. It takes your mouse or keyboard direction, transmits it across the Internet, and then displays the response on a screen. This takes electricity, a way of sending a signal long distances at the speed of light."); ?></p>
-					<p  id = "md_p2o"><?php echo _("The very same thing is happening in your body as you read this. Information is taken in by your eyes and transmitted to your brain. The brain processes the information, and then sends a response to your fingers. This all happens so quickly because your nervous system is an electrical system as well."); ?></p>
-	
-
-
+						<p><?php echo _("Right now, you're using some sort of electrical device. Maybe it's a computer, maybe a tablet, or even a phone. But you are seeing this image, thinking about what is written, and then responding by touching a screen or moving a mouse."); ?></p>
+						<p  id = "md_p2o"><?php echo _("The device you are using is an electrical system. It takes your mouse or keyboard direction, transmits it across the Internet, and then displays the response on a screen. This takes electricity, a way of sending a signal long distances at the speed of light."); ?></p>
+						<p  id = "md_p2o"><?php echo _("The very same thing is happening in your body as you read this. Information is taken in by your eyes and transmitted to your brain. The brain processes the information, and then sends a response to your fingers. This all happens so quickly because your nervous system is an electrical system as well."); ?></p>
 					</div>
 
 					<div id="screen2" class="screen">

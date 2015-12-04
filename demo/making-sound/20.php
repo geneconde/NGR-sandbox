@@ -27,6 +27,7 @@
 	<link rel="stylesheet" href="css/locale.css">
 	<link rel="stylesheet" href="css/jpreloader.css">
 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
@@ -37,16 +38,11 @@
 	<?php endif; ?>
 
 	<style>
-
 		h1 { color: #005a8f; }
-
 		h2 { color: #128575;}
-		
 		.bg { background-image: url(assets/qq-and-qc-bg.jpg); }
 
-
 		#question input[type="checkbox"] { display: none; }
-
 		#question input[type="checkbox"] + label img {
 			border: 4px solid transparent;
 			border-radius: 10px;
@@ -59,10 +55,8 @@
 		#question input[type="checkbox"]:checked + label img {
 			border: 4px solid #ff9931;
 			border-radius: 10px;
-
 			-webkit-transition: all .3s ease;
 			transition: all .3s ease;
-
 			backface-visibility: hidden;
 		}
 
@@ -83,7 +77,9 @@
 		#question input[type="checkbox"]:checked + label span { color: #ff9931; }
 
 		#buttons .next { display: none; }
-		
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 
@@ -138,9 +134,9 @@
 	</div>
 
 	<div id="buttons">
-		<a href="#" class="back" title="<?php echo _("Back"); ?>"><?php echo _("Back"); ?></a>
-		<a href="21.php" class="next" title="<?php echo _("Next"); ?>"><?php echo _("Next"); ?></a>
-		<a href="#" class="checkanswer" title="<?php echo _("Check Answer"); ?>"><?php echo _("Check Answer"); ?></a>
+		<a href="#" class="back" title="<?php echo _("Back"); ?>"><i class="fa fa-arrow-left"></i></a>
+		<a href="21.php" class="next" title="<?php echo _("Next"); ?>"><i class="fa fa-arrow-right"></i></a>
+		<a href="#" class="checkanswer" title="<?php echo _("Check Answer"); ?>"><i class="fa fa-question"></i></a>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Cleaning instruments..."); ?></strong></section></section>

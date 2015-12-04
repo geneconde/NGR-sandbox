@@ -60,7 +60,6 @@
 		.wrap { border-color: #8b4414; }
 		.bg { background-image: url(assets/8/8.jpg); overflow: hidden;}
 
-
 		#screen2 { display: none; }
 		#screen2 .grid_7 p, .grid_4 img{ margin-top: -5px;}
 		#screen2 .img { margin-top: 10px; }
@@ -127,6 +126,7 @@
 			.grid figure img { max-width: 80%; } 
 			#screen2 .grid_8 { margin-top: -20px; } 
 			.bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+			div#screen2 .grid_12:first-child { margin-top: 37px; }
 		}
 		figure p { text-align: center; }
 		.grid { padding-bottom: 10px; }
@@ -150,6 +150,7 @@
 		.container_12 .grid_12 {
 		    width: 96% !important;
 		}
+		#img1 { width: 100% !important; }
 		.cycle-slideshow {
 		    width: 81%;
 		    margin: -5px auto 0;
@@ -167,10 +168,10 @@
 		p.cType {
 		    margin-top: 30px;
 		}
-		@media only screen and (max-width: 1250px){
-			div#screen2 .grid_12:first-child {
-			    margin-top: 37px;
-			}
+		.img1-cont {
+			width: 40%;
+		    text-align: center;
+		    margin: 0 auto;
 		}
 	</style>
 
@@ -188,7 +189,7 @@
 
 							<p class="grid_12"><?php echo _("The electric currents from power plants reach our homes and businesses by wires strung on poles above ground and buried in tubes underground.  Batteries that make our flashlights light and our cars start also generate electric currents.  In both cases, wires are connected to and from either the batteries or the power plant in a loop called a <span class='key'>circuit</span> as shown below.");?></p>
 							
-							<div class="grid_6 prefix_3">
+							<div class="img1-cont">
 								<div class="grid_12" id="img1"></div>
 							</div>
 						</div>

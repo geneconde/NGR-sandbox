@@ -60,6 +60,18 @@
 		    font-size: 24px;
 		    line-height: 25px;
 		}
+
+		.audio-btn {
+			background: orange;
+		    border-radius: 5px;
+		    border: 1px;
+		    cursor: pointer;
+		    min-width: 30px;
+		    position: relative;
+		    top: -5px;
+		    margin-right: 5px;
+		}
+		.audio-btn:focus { outline: 0; }
 	</style>
 </head>
 
@@ -67,7 +79,7 @@
 	<div class="wrap">
 		<div class="bg">
 			<div id="question">
-				<h1><?php echo _("Quiz Question #2"); ?></h1>
+				<h1><button id="qq" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #2"); ?></h1>
 
 				<div class="images">
 					<img src="images/17/hot-soup.jpg" alt="Hot Soup">
@@ -80,7 +92,6 @@
 				<!-- <p><?php echo _("The numbered arrows show the transfer of heat from the pot of soup to the surrounding environment."); ?></p> -->
 				<br>
 				<h2><?php echo _("Which list correctly identiﬁes each method of heat transfer? Click the row to select an answer."); ?></h2>
-
 
 				<table cellpadding="5px">
 					<tr>
@@ -121,11 +132,14 @@
 			</div>
 
 			<div id="answer">
-				<h1><?php echo _("Quiz Question #2"); ?> - <?php echo _("How did I do?"); ?></h1>
+				<h1><button id="fb" value="Play" class="audio-btn"><i class="fa fa-play"></i></button><?php echo _("Quiz Question #2"); ?> - <?php echo _("How did I do?"); ?></h1>
 				<p class="center"><?php echo _("You answered..."); ?></p>
 				<p class="center"><img src="images/17/hot-soup.jpg" alt="Hot Soup"></p>
 				<div class="feedback"></div>
 			</div>
+			<audio id="player" controls style="display: none">
+				<source src="" type="audio/mpeg">
+			</audio>
 		</div>
 	</div>
 
@@ -142,6 +156,8 @@
 	<script src="scripts/saveanswer.js"></script>
 	<script src="scripts/rightclick.js"></script>
 	<script>
+		var fb = "";
+		var audio = document.getElementById("player");
 		var myanswer = '', 
 		answered = <?php echo $answered; ?>,
 		question = $('#question'),
@@ -196,9 +212,13 @@
 
 		check.on('click', function() {
 			if (myanswer != '') {
+				fb = myanswer;
 				question.fadeOut(function() {
 					answer.fadeIn();
 					window.location.hash = "#answer";
+					audio.pause();
+				    $(".audio-btn").html('<i class="fa fa-play"></i>');
+					$(".audio-btn").val("Play");
 				});
 				check.fadeOut(function() { next.fadeIn(); back.fadeIn(); });
 				save();
@@ -212,6 +232,9 @@
 			else {
 				answer.fadeOut(function() { question.fadeIn(); });
 				next.fadeOut(function() { check.fadeIn(); });
+				audio.pause();
+			    $(".audio-btn").html('<i class="fa fa-play"></i>');
+				$(".audio-btn").val("Play");
 			}
 		});
 
@@ -221,6 +244,53 @@
 				answered = 1;
 			}	
 		}
+
+		$(document).ready(function() {
+			$(".audio-btn").click(function (){
+				$('.audio-btn').html('<i class="fa fa-play"></i>');
+			    var txt = $(this).val();
+			    var id = $(this).attr('id');
+			    var audio = document.getElementById("player");
+
+			    if(id=='qq'){
+			    	if($("#player").attr('src') != "media/17QQ2.mp3")
+				    	$('#player').attr('src', "media/17QQ2.mp3");
+			    } else if (id=='fb') {
+			    	if(fb=='A') {
+			    		if($("#player").attr('src') != "media/17FQQA.mp3")
+				    		$('#player').attr('src', "media/17FQQA.mp3");
+			    	}
+			    	if(fb=='B') {
+			    		if($("#player").attr('src') != "media/17FQQB.mp3")
+				    		$('#player').attr('src', "media/17FQQB.mp3");
+			    	}
+			    	if(fb=='C') {
+			    		if($("#player").attr('src') != "media/17FQQC.mp3")
+				    		$('#player').attr('src', "media/17FQQC.mp3");
+			    	}
+			    	if(fb=='D') {
+			    		if($("#player").attr('src') != "media/17FQQD.mp3")
+				    		$('#player').attr('src', "media/17FQQD.mp3");
+			    	}
+			    }
+
+				if(txt == 'Play') {
+					audio.play();
+					$(this).html('<i class="fa fa-pause"></i>');
+					$(this).val("Pause");
+				}
+				else {
+					audio.pause();
+					$(this).html('<i class="fa fa-play"></i>');
+					$(this).val("Play");
+				}
+				$('#player').bind("ended", function() {
+			        $('#player').currentTime = 0;
+					$('.audio-btn').html('<i class="fa fa-play"></i>');
+			        $('.audio-btn').val("Play");
+			    });
+			});
+		});
 	</script>
 	<?php include("setlocale.php"); ?>
 </body>

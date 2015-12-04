@@ -47,6 +47,7 @@
 		.ac-custom input[type="radio"]:checked + label { color: #ec6666; }
 		.ac-custom label { color: #000; padding-left: 49px; }
 		.ac-custom svg path { stroke: #ec6666; }
+		.ac-custom li { padding: 7px 0; }
 
 		#question1 .ac-custom label::before { background-color: #ec6666; height: 20px; width: 20px; margin-top: -11px; }
 		#question1 .ac-custom svg { height: 42px; width: 37px; left: 1px; margin-top: -22px; }
@@ -64,16 +65,8 @@
 
 		#buttons .next { display: none; }
 		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
-		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-		@media only screen and (orientation: landscape) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
-		}
-		@media only screen and (orientation: portrait) and (min-device-width : 768px) and (max-device-width : 1024px){
-			#buttons { background-color: #468853 !important; }
+			.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; overflow: hidden; }
+			.ac-custom li { padding: 4px 0; }
 		}
 	</style>
 </head>

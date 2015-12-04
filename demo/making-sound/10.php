@@ -24,6 +24,7 @@
 	<link rel="stylesheet" href="css/jpreloader.css">
 	<link rel="stylesheet" href="css/responsiveslides.css">
 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
 
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
@@ -36,7 +37,7 @@
 		#screen2, #screen3 { display: none; }
 		#buttons .next { display: none; }
 
-		#screen1 img, #screen2 img { float: right; width: 50%;}
+		#screen1 img, #screen2 img { float: right; width: 50%; }
 
 		/*To solve overlap bug at the edges during magnification*/
 		.container_12 .grid_5 {
@@ -46,6 +47,9 @@
 		#screen1 img, #screen2 img {
 		  float: right;
 		  width: 100% !important;
+		}
+		@media only screen and (max-width: 1250px) {
+			.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
 		}
 	</style>
 </head>
@@ -83,9 +87,9 @@
 	</div>
 
 	<div id="buttons">
-		<a href="#" class="back" title="<?php echo _("Back"); ?>"><?php echo _("Back"); ?></a>
-		<a href="#" class="readmore" title="<?php echo _("Read More"); ?>"><?php echo _("Read More"); ?></a>
-		<a href="11.php" class="next" title="<?php echo _("Next"); ?>"><?php echo _("Next"); ?></a>
+		<a href="#" class="back" title="<?php echo _("Back"); ?>"><i class="fa fa-arrow-left"></i></a>
+		<a href="#" class="readmore" title="<?php echo _("Read More"); ?>"><i class="fa fa-comment"></i></a>
+		<a href="11.php" class="next" title="<?php echo _("Next"); ?>"><i class="fa fa-arrow-right"></i></a>
 	</div>
 
 	<section id="preloader"><section class="selected"><strong><?php echo _("Watching an orchestra..."); ?></strong></section></section>

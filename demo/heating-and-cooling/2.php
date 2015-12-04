@@ -22,7 +22,7 @@
 
 	<style>
 		html, body {overflow: hidden;}
-		.h1 { color: #f4d9b7; font-size: 35px; margin-left: 50px; }
+		h1 { color: #f4d9b7; font-size: 35px; }
 		.wrap { border-left: 1px dashed #6f4b33; border-right: 1px dashed #6f4b33; }
 		.bg { background-image: url('images/2/bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width:100%; height:100%; position: relative; }
 		.bg section { background-color: rgba(143, 106, 80, .8); width: 92.5%; padding: 10px; position: absolute; bottom: 20px; left: 2.5%; border-radius: 14px; }
@@ -38,17 +38,12 @@
 	    border-radius: 5px;
 	    border: 1px;
 	    cursor: pointer;
-	    position: absolute;
-	    top: 23px;
-    	left: 1%;
-	    min-width: 49px;
+	    min-width: 30px;
+	    margin-right: 5px;
+	    position: relative;
+	    top: -6px;
 	}
-	.word-data { -x-background: #ffffee; }
-	.current-word { color: orange; }
-	.aligned-word:hover {
-		cursor: pointer;
-		color: orange;
-	}
+	#audio:focus { outline: 0; }
 	</style>
 </head>
 
@@ -56,12 +51,11 @@
 	<div class="wrap">
 		<div class="bg">
 			<section>
-			<div id="target" class="grid_12">
-				<button onclick="audio()" id="audio">Play</button>
-				<p class="h1"><?php echo _("Thinking about... heating and cooling"); ?></p>
+				<h1><button onclick="audio()" id="audio" value="Play"><i class="fa fa-play"></i></button><?php echo _("Thinking about... heating and cooling"); ?></h1>
 				<p id = "p_adjust"><?php echo _("What if someone told you that heating something like a pizza or cup of soup and cooling something like a soft drink or a dessert are sort of the same thing? You would probably say that sounds crazy!  But after you complete this review you will see that this is not such a crazy idea after all."); ?></p>
-			</div>
-			<audio id="player" controls style="display: none"></audio>
+				<audio id="thinking" controls style="display: none">
+					<source src="media/Thinking about.mp3" type="audio/mpeg">
+				</audio>
 			</section>
 		</div>
 	</div>
@@ -74,40 +68,32 @@
 	<script src="scripts/jquery.js"></script>
 	<script src="scripts/jpreloader.js"></script>
 	<script src="scripts/easing.js"></script>
-	<script src="scripts/AudioAligner.js"></script>
 	<script>
-	function audio() { 
-	    var txt = $('#audio').html();
-	    var audio = document.getElementById("player"); 
-		if(txt == 'Play') {
-			audio.play();
-			$('#audio').html("Stop");
+		function audio() {
+		    var txt = $('#audio').val();
+		    var audio = document.getElementById("thinking");
+			if(txt == 'Play') {
+				audio.play();
+				$('#audio').html('<i class="fa fa-pause"></i>');
+				$('#audio').val("Pause");
+			}
+			else {
+				audio.pause();
+				$('#audio').html('<i class="fa fa-play"></i>');
+				$('#audio').val("Play");
+			}
+			audio.addEventListener("ended", function() {
+		        audio.currentTime = 0;
+				$('#audio').html('<i class="fa fa-play"></i>');
+		        $('#audio').val("Play");
+		    });
 		}
-		else {
-			audio.pause();
-			audio.currentTime = 0;
-			$('#audio').html("Play");
-		}
-		audio.addEventListener("ended", function() {
-	          audio.currentTime = 0;
-	          $('#audio').html("Play");
-	    });
-	}
 
-	$(document).ready(function() {
-	    var audio = document.getElementById('player');
-		if (!(audio.canPlayType && (audio.canPlayType('audio/mp3') || audio.canPlayType('audio/mpeg')) )) {
-			alert('Please use a browser that can play MP3s like Chrome, Safari, IE9');
-		}
-		var aligner = new AudioAligner(document.getElementById('target'), audio);
-		aligner.align('media/Thinking about.mp3', 'media/Thinking about.json');
-	});
-
-	$(function(){
-	if(!$.browser.msie){
-		var a=0;for(;a<15;a+=1){setTimeout(function b(){var a=Math.random()*1e3+5e3,c=$("<div />",{"class":"smoke",css:{opacity:0,left:Math.random()*200+80}});$(c).appendTo(".bg");$.when($(c).animate({opacity:1},{duration:a/4,easing:"linear",queue:false,complete:function(){$(c).animate({opacity:0},{duration:a/3,easing:"linear",queue:false})}}),$(c).animate({bottom:$(".bg").height()},{duration:a,easing:"linear",queue:false})).then(function(){$(c).remove();b()})},Math.random()*3e3)}
-	}else{		
-	"use strict";var a=0;for(;a<15;a+=1){setTimeout(function b(){var a=Math.random()*1e3+5e3,c=$("<div />",{"class":"smoke",css:{left:Math.random()*200+80}});$(c).appendTo(".bg");$.when($(c).animate({},{duration:a/4,easing:"linear",queue:false,complete:function(){$(c).animate({},{duration:a/3,easing:"linear",queue:false})}}),$(c).animate({bottom:$(".bg").height()},{duration:a,easing:"linear",queue:false})).then(function(){$(c).remove();b()})},Math.random()*3e3)}}}())
+		$(function(){
+		if(!$.browser.msie){
+			var a=0;for(;a<15;a+=1){setTimeout(function b(){var a=Math.random()*1e3+5e3,c=$("<div />",{"class":"smoke",css:{opacity:0,left:Math.random()*200+80}});$(c).appendTo(".bg");$.when($(c).animate({opacity:1},{duration:a/4,easing:"linear",queue:false,complete:function(){$(c).animate({opacity:0},{duration:a/3,easing:"linear",queue:false})}}),$(c).animate({bottom:$(".bg").height()},{duration:a,easing:"linear",queue:false})).then(function(){$(c).remove();b()})},Math.random()*3e3)}
+		}else{		
+		"use strict";var a=0;for(;a<15;a+=1){setTimeout(function b(){var a=Math.random()*1e3+5e3,c=$("<div />",{"class":"smoke",css:{left:Math.random()*200+80}});$(c).appendTo(".bg");$.when($(c).animate({},{duration:a/4,easing:"linear",queue:false,complete:function(){$(c).animate({},{duration:a/3,easing:"linear",queue:false})}}),$(c).animate({bottom:$(".bg").height()},{duration:a,easing:"linear",queue:false})).then(function(){$(c).remove();b()})},Math.random()*3e3)}}}())
 	</script>
 
 	<?php include("setlocale.php"); ?>

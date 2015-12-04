@@ -22,17 +22,20 @@
 <script src="scripts/jquery.blink.min.js"></script>
 <script src="scripts/global.js"></script>
 <style>
-h1 { color: #766427; }
-p { text-align: center; }
-.wrap { border-color: #e0ce8e; }
-.bg { background-image: url(images/13/bg.jpg); }
+	h1 { color: #766427; }
+	p { text-align: center; }
+	.wrap { border-color: #e0ce8e; }
+	.bg { background-image: url(images/13/bg.jpg); }
 
-#question { height: 320px; width: 470px; margin:0 auto; display: block; }
-#question img { display: none; position: absolute; }
-#question img.active { display: block; margin: 0 auto; }
+	#question { height: 320px; width: 470px; margin:0 auto; display: block; }
+	#question img { display: none; position: absolute; }
+	#question img.active { display: block; margin: 0 auto; }
 
-html[dir="rtl"] p { text-align: center; }
-
+	html[dir="rtl"] p { text-align: center; }
+	@media only screen and (max-width: 1250px) {
+		.bg { background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		h1 { padding-top: 40px; }
+	}
 </style>
 </head>
 <body>

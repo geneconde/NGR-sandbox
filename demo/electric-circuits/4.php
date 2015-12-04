@@ -31,7 +31,6 @@
 	<link href="css/jplayer.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 
-	
 	<?php if ($language == 'ar_EG') : ?>
 		<link rel="stylesheet" href="css/grid_rtl.css">
 	<?php else : ?>
@@ -44,22 +43,23 @@
 		    width: 100% !important;
 		    height: 100% !important;
 		}
+		.rslides { float: right; width: 365px; height: 280px; }
 		h1 { color: #9c41a3; }
-		
-		 
 
-		#screen1 p {line-height: 30px;}
+		#screen1 p { line-height: 30px; }
 
 		.wrap { border-color: #FF00FF; }
 		.bg { background-image: url(assets/4/4.jpg); overflow: hidden;}
 
-		#screen2 { display: none; padding-top: 20px;} 
-
-
-		.rslides { float: right; width: 365px; height: 280px; }
+		#screen2 { display: none; padding-top: 20px; }
+		#screen2 div.grid_12 { padding-left: 0; padding-right: 0; }
 
 		#buttons .next { display: none; }
-		@media only screen and (min-device-width: 768px) and (max-width: 1250px) { #screen2 { padding-top: 55px; } .bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; } }
+		#jp_container_1 { margin: 0 auto; }
+		@media only screen and (min-device-width: 768px) and (max-width: 1250px) {
+			#screen2 { padding-top: 55px; }
+			.bg{ background-size: 100% calc(100% - 65px)!important; background-position: 0 34px; }
+		}
 	</style>
 </head>
 
@@ -87,7 +87,7 @@
 					</div>
 
 					<div id="screen2" class="screen">
-						<div class="prefix_2 grid_8 suffix_2">
+						<div class="grid_12">
 							<div id="jp_container_1" class="jp-video jp-video-270p">
 								<div id="jplayer" class="jp-jplayer" style="width: 100%; height: auto;">
 									<img id="jp_poster_0" style="width: 100%; height: auto; display: none;">

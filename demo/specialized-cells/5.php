@@ -36,39 +36,33 @@
 	<script src="js/global.js"></script>
 	<script src="js/save-answer.js"></script>
 	<style>
-	.choices {
-    	margin: 0 auto !important;
-    	width: 600px !important;
-	}
-
-	h2 { width: 740px; }
 	.wrap { border-left: 1px dashed #ffdf70; border-right: 1px dashed #ffdf70; }
 	.bg { background: url('assets/5/bg.jpg') no-repeat; background-size: 100% 100%; width: 100%; height: 100%; position: relative; }
 
+	.ac-custom input[type="radio"]:checked + label { color: #ec6666; }
+	.ac-custom label { color: #000; padding-left: 49px; }
+	.ac-custom label::before { background-color: #ec6666; height: 20px; width: 20px; margin-top: -11px; }
+	.ac-custom svg path { stroke: #ec6666; }
+	.ac-custom svg { height: 42px; width: 37px; left: 1px; margin-top: -22px; }
+	.ac-custom li { padding: 5px 0; }
 
-		.ac-custom input[type="radio"]:checked + label { color: #ec6666; }
-		.ac-custom label { color: #000; padding-left: 49px; }
-		.ac-custom label::before { background-color: #ec6666; height: 20px; width: 20px; margin-top: -11px; }
-		.ac-custom svg path { stroke: #ec6666; }
-		.ac-custom svg { height: 42px; width: 37px; left: 1px; margin-top: -22px; }
-
-		html[dir=rtl] .ac-custom label { padding-right: 49px; }
-		html[dir=rtl] .ac-custom label::after { background-color: #ec6666; height: 20px; width: 20px; margin-top: -11px; }
-		html[dir=rtl] .ac-custom svg { right: 3px; left: 98% /* for Safari */ }
+	html[dir=rtl] .ac-custom label { padding-right: 49px; }
+	html[dir=rtl] .ac-custom label::after { background-color: #ec6666; height: 20px; width: 20px; margin-top: -11px; }
+	html[dir=rtl] .ac-custom svg { right: 3px; left: 98% /* for Safari */ }
 
 	#question { text-align: center; overflow: hidden; }
-	.choices { margin: 0 auto; width: 790px; }
-	.choices div { float: left; margin-right: 20px; }
+	.choices { margin-left: 20.5%; }
+	.choices div { float: left; margin-right: 10px; }
 	.choices div:last-child { margin-right: 0; }
 	.choices div div { margin-top: 20px; height: 40px; border-radius: 5px; width: 164px; float: none; border: 1px solid #ec6666; background-color: #eacaca;}
 
-	#terms { margin: 50px auto 0; width: 790px; }
+	#terms { margin: 10px auto 0; width: 750px; }
 	#terms p { float: left; background:  #eacaca; border-radius: 5px; margin-right: 20px; text-align: center; padding: 5px 15px; width: 130px;  border-style: dashed; border-color: #ec6666; margin-top:10px;}
-	#terms p:last-child { margin-right: 20px; }
-	#reset { text-align: center; margin-top: 30px; background: rgb(200, 225, 157); padding: 5px 10px;
-	 color: #000; display: inline-block; border-radius: 5px; 
-	 margin-top:90px;
-	 margin-left:-750px;
+	#terms p:last-child { margin-right: 10px; }
+	.reset { width: 100%; }
+	#reset {
+		text-align: center; margin-top: 10px; background: rgb(200, 225, 157); padding: 5px 10px;
+		color: #000; display: inline-block; border-radius: 5px;
 	}
 	#reset:hover { background: #d3616b; cursor: pointer; }
 
@@ -76,7 +70,6 @@
 	.grabbing { cursor: move; cursor: -moz-grabbing; cursor: -webkit-grabbing; }
 
 	#answer { display: none; }
-	#answer .choices { margin: 20px auto; }
 	#answer p { text-align: center; cursor: default !important;clear:both; }
 	#answer .answer img { border: 4px solid #e6def3; margin-top: 10px; }
 
@@ -87,45 +80,25 @@
 
 	.red img {width: 2%;}
 	.green img {width: 2%;}
-		<?php if($language == "es_ES") { ?>
-			#terms { width: 550px; }
-			p#body-system { font-size: 20px; height: 30px; }
-		<?php } ?>
-		@media screen and (max-width: 1250px ){
-			.bg{ 	background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; 
-					overflow: hidden;
-			}
+	<?php if($language == "es_ES") { ?>
+		#terms { width: 550px; }
+		p#body-system { font-size: 20px; height: 30px; }
+	<?php } ?>
+	@media (max-width: 1250px){
+		.bg{ background-size:  100% calc(100% - 68px)!important; background-position: 0 34px; }
+		h2 {
+		    font-size: 21px !important;
+		    margin-top: -3px !important;
 		}
-		@media (max-width: 960px){ #buttons { background-color: #468853; } }
-
-
-		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
-			.choices div {
-			        margin-right: 17px !important;
-			}
-			#terms p:last-child {
-			    margin-right: 11px !important;
-			}
-		}
-		@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
-			.bg > div {
-			    margin-top: 42px !important;
-			}
-		}
-
-		@media (max-width: 1250px){
-			.bg > div {
-			    padding-top: 33px !important;
-			}
-			h2 {
-			    font-size: 21px !important;
-			    margin-top: -3px !important;
-			}
-			#reset {
-			    margin-top: 52px !important;
-			}
-		}
-
+		#question { padding-top: 40px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation: portrait) {
+		.wrap { max-width: 100%; }
+		.choices { margin-left: 14.5%; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation: landscape) {
+		.wrap { max-width: 100%; }
+	}
 	</style>
 </head>
 <body>
@@ -151,6 +124,7 @@
 				<h2 class="grid_12"><?php echo _("Choose the structures listed below that are common to most cells. Drag them into the empty boxes."); ?></h2>
 
 				<div class="grid_12 reset"><a id="reset" href="#"><?php echo _("Reset"); ?></a></div>
+				<div class="clear"></div>
 				<div id="reload grid_12">
 					<div class="choices">
 						<div>
@@ -163,7 +137,7 @@
 							<div class="c"></div>
 						</div>
 					</div>
-					<br>
+					<div class="clear"></div>
 					<div class="align">
 						<div id="terms" class="items">
 							<div><p id="membrane" class="grab term" data-value="Membrane"><?php echo _("Membrane"); ?></p></div>
